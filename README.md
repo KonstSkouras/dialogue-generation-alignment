@@ -24,7 +24,7 @@ Results already in `results/Switchboard-Corpus/expreriments/base_DialoGPT`.
   - `Switchboatd-Corpus`: It contains the Switchboard Data and utilities to process them and has been added as a git submodule. It is tracking the `develop` branch of [KonstSkouras/Switchboard-Corpus](https://github.com/KonstSkouras/Switchboard-Corpus/tree/develop). Forked repo with changes from [NathanDuran/Switchboard-Corpus](https://github.com/NathanDuran/Switchboard-Corpus).
   - `Maptak-Corpus` (coming).
 - `results`: Results of running the experiments scripts, the dialign software etc.
-  - `Switchboard-Corpus`: Results of the above scripts and dialign for Switchboard.
+  - `Switchboard-Corpus`
     - `data_modified`: Modified data from external directory. ie train/val data in contexed format.
     - `dialign_output`: Output of running dialign from the .tsv produced in the results. 
     - `experiments`: Results of running the experiments scripts.
