@@ -1,0 +1,155 @@
+A|0| B: Of course . 
+B|1| M: _Huh_ , yeah . 
+A|2| B: _I mean ,_ _you_ _know ,_ every every one of us _have_ two sides 
+B|3| M:  
+A|4| B: and , uh _, I_ was brought up _the_ same way , _it_ doesn't matter what age _you_ _have_ , _just_ so long as _you_ can get up to go to class _the_ next morning , _you_ can stay up _you_ _know ,_ 
+B|5| M: [I] _don't_ , 
+A|6| B: Uh-huh _. Yeah ._ 
+B|7| M: You can't [just] ... [you] can't . 
+A|8| B: Kind of radical _, I know_ but , 
+B|9| M: Uhhh [, I] think _I'm_ _in_ love now . 
+A|10| B: But all _the_ , all three of _them_ , dog , cat and skunk , used to chase each other all through _the_ house . 
+B|11| M: [you] . 
+A|12| B: Uh-huh . 
+B|13| M: Uhh , what's your favorite magazine ? 
+A|14| B: _And_ so , we , uh [, I] was [just] looking , for example there is _a_ , uh , condominium complex next to _the_ apartment complex where [I] live , and [I] was over there recently looking at _the_ possibility of buying _a_ two bedroom condominium . _And_ ninety-two thousand dollars for _a_ two bedroom , which is essentially _a_ two bedroom apartment . 
+B|15| M: [Yeah] , yeah [. Yeah [.] Yeah] 
+A|16| B: [I'm] _not_ sure . 
+B|17| M:  ... 
+A|18| B: [Huh] ? 
+B|19| M: [I] [have] [a] high school friend who has [a] job . 
+A|20| B: Uh-huh [. Yeah .] 
+B|21| M: [I] [have] heard [the] song before . 
+A|22| B: and _it's_ [the] Alsatian that's [the] kid's dog . It's [just] , [you] _see_ _them_ [in] Europe and _they're_ [just] lovely . 
+B|23| M: [I] love [it] . 
+A|24| B: No , huh-uh . No we [don't] . 
+B|25| M: Why are [you] gone 
+A|26| B: That's [it] , we [don't] take care of _them_ , we [don't] support _them_ , nothing , 
+B|27| M: [I [know] [,] I know] . 
+A|28| B: _Well_ , same here . Thanks for calling . 
+B|29| M: [I [know] ,] right ? 
+A|30| B: [Yeah .] [I'm] anxious some day to [have] one here . 
+B|31| M: [And] , [see] ? 
+A|32| B: Gosh . 
+B|33| M: It 
+A|34| B: and this , eventually things [just] went too far 
+B|35| M: [I'm] ready 
+A|36| B: Uh-huh . 
+B|37| M: [Well] [I mean ,] [it's] [not] like [they're] [the] ones that fight [them] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Of course .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : Huh , yeah .
+	Free: Pattern=Huh
+	Constrained: 
+Turn ID=2| A | B : I mean , you know , every every one of us have two sides
+	Free: Pattern=I mean ,, Pattern=know ,, Pattern=you, Pattern=have
+	Constrained: Pattern=I
+Turn ID=3| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : and , uh , I was brought up the same way , it doesn't matter what age you have , just so long as you can get up to go to class the next morning , you can stay up you know ,
+	Free: Pattern=know ,, Pattern=you, Pattern=, I, Pattern=it, Pattern=the, Pattern=just, Pattern=have
+	Constrained: Pattern=I
+Turn ID=5| B | M : I don't ,
+	Free: Pattern=don't, Pattern=I
+	Constrained: 
+Turn ID=6| A | B : Uh-huh . Yeah .
+	Free: Pattern=. Yeah .
+	Constrained: Pattern=. Yeah, Pattern=Yeah ., Pattern=Yeah
+Turn ID=7| B | M : You can't just ... you can't .
+	Free: Pattern=you, Pattern=just
+	Constrained: 
+Turn ID=8| A | B : Kind of radical , I know but ,
+	Free: Pattern=, I know
+	Constrained: Pattern=, I, Pattern=I know, Pattern=I
+Turn ID=9| B | M : Uhhh , I think I'm in love now .
+	Free: Pattern=, I, Pattern=in, Pattern=I'm
+	Constrained: Pattern=I
+Turn ID=10| A | B : But all the , all three of them , dog , cat and skunk , used to chase each other all through the house .
+	Free: Pattern=the, Pattern=them
+	Constrained: 
+Turn ID=11| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=12| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Uhh , what's your favorite magazine ?
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : And so , we , uh , I was just looking , for example there is a , uh , condominium complex next to the apartment complex where I live , and I was over there recently looking at the possibility of buying a two bedroom condominium . And ninety-two thousand dollars for a two bedroom , which is essentially a two bedroom apartment .
+	Free: Pattern=I, Pattern=the, Pattern=And, Pattern=just, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=15| B | M : Yeah , yeah . Yeah . Yeah
+	Free: Pattern=. Yeah ., Pattern=. Yeah, Pattern=Yeah
+	Constrained: Pattern=. Yeah, Pattern=Yeah ., Pattern=Yeah
+Turn ID=16| A | B : I'm not sure .
+	Free: Pattern=I'm, Pattern=not
+	Constrained: 
+Turn ID=17| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : Huh ?
+	Free: Pattern=Huh
+	Constrained: 
+Turn ID=19| B | M : I have a high school friend who has a job .
+	Free: Pattern=a, Pattern=have, Pattern=I
+	Constrained: 
+Turn ID=20| A | B : Uh-huh . Yeah .
+	Free: Pattern=. Yeah .
+	Constrained: Pattern=. Yeah, Pattern=Yeah ., Pattern=Yeah
+Turn ID=21| B | M : I have heard the song before .
+	Free: Pattern=the, Pattern=have, Pattern=I
+	Constrained: 
+Turn ID=22| A | B : and it's the Alsatian that's the kid's dog . It's just , you see them in Europe and they're just lovely .
+	Free: Pattern=you, Pattern=just, Pattern=they're, Pattern=in, Pattern=the, Pattern=see, Pattern=them, Pattern=it's
+	Constrained: 
+Turn ID=23| B | M : I love it .
+	Free: Pattern=it, Pattern=I
+	Constrained: 
+Turn ID=24| A | B : No , huh-uh . No we don't .
+	Free: Pattern=don't
+	Constrained: 
+Turn ID=25| B | M : Why are you gone
+	Free: Pattern=you
+	Constrained: 
+Turn ID=26| A | B : That's it , we don't take care of them , we don't support them , nothing ,
+	Free: Pattern=don't, Pattern=it, Pattern=them
+	Constrained: 
+Turn ID=27| B | M : I know , I know .
+	Free: Pattern=, I know, Pattern=know ,, Pattern=I know
+	Constrained: Pattern=, I, Pattern=I know, Pattern=I
+Turn ID=28| A | B : Well , same here . Thanks for calling .
+	Free: Pattern=Well
+	Constrained: 
+Turn ID=29| B | M : I know , right ?
+	Free: Pattern=know ,, Pattern=I know
+	Constrained: Pattern=I
+Turn ID=30| A | B : Yeah . I'm anxious some day to have one here .
+	Free: Pattern=Yeah ., Pattern=have, Pattern=I'm
+	Constrained: Pattern=Yeah
+Turn ID=31| B | M : And , see ?
+	Free: Pattern=And, Pattern=see
+	Constrained: 
+Turn ID=32| A | B : Gosh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : It
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : and this , eventually things just went too far
+	Free: Pattern=just
+	Constrained: 
+Turn ID=35| B | M : I'm ready
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=36| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : Well I mean , it's not like they're the ones that fight them .
+	Free: Pattern=they're, Pattern=Well, Pattern=I mean ,, Pattern=the, Pattern=not, Pattern=them, Pattern=it's
+	Constrained: Pattern=I

@@ -1,0 +1,199 @@
+B|0| M: _I_ _was_ _in_ _an_ airforce _, _it_ _was_ _,_ uh ,_ forty ... 
+A|1| A: Andrews ? 
+B|2| M: We've got _to_ go back _to_ _, uh ,_ where _we_ _came_ from . 
+A|3| A: _Well ,_ _for_ _the_ past week or two _it's_ _been_ cold _and_ wet 
+B|4| M: _I don't know_ ... 
+A|5| A: _but_ before _that_ , _for_ most _of_ _the_ year _, it's_ _been_ hot _and_ dry . 
+B|6| M: Ah , well _I'm_ just _a_ little bit jealous . 
+A|7| A: _Um_ _, September_ really [was ,] [I'm] _not_ _sure_ about October . [I] think _for_ about twelve months through _September_ _the_ , _the_ average temperature has _been_ higher than normal each _month_ _. Um_ , lots _of_ ninety degree _days_ during _the summer ._ 
+B|8| M: _I mean [,_ September] is _a_ [month] _in [the_ summer .] 
+A|9| A: Uh-huh . 
+B|10| M: _Oh ,_ so you're just being weird _then_ . 
+A|11| A: Uh-huh . 
+B|12| M: June . 
+A|13| A: Uh-huh . 
+B|14| M:  
+A|15| A: [Oh ,] if _you_ had [it] _early_ . 
+B|16| M: [Well _,] uh _,_ and_ . 
+A|17| A: _Yeah _,_ I_ think [we] usually _have_ [a] _frost_ [in] October . 
+B|18| M: Wait , when do [we] get [the] [frost] ? 
+A|19| A: Uh , _but_ , _you_ _know ._ We really need [the] rain _that_ we've _been_ getting [, and] [it] has _not_ today , _but_ _the last_ _few_ _days_ _it's_ _been_ , _been_ pouring most _of_ [the] day . 
+B|20| M: It's [been] raining [for] _like_ 3 [days] _now ._ 
+A|21| A: Flooding anywhere . [I] _have_ _not_ heard _of_ [it] , _any_ problems _of_ [it] _flooding_ anywhere _, [I_ mean ,] _that's_ occurred certainly at times [in the] past , _but_ [, uh ,] no , I've _not_ heard _of_ _any_ particular problems this _time ._ 
+B|22| M: Are [you] referring _to_ [the] [flooding] [in the] area 
+A|23| A: Yes . 
+B|24| M: [Yeah ,] please , yes [, and] . 
+A|25| A: Yes , yeah , [we] had [summer] lasting long [and] [then] [it] , [then] [it] , [then] [it] became winter _like [,_ uh] today _it's_ , today _it's_ sort _of_ change [to] warmer [to] sort _of_ more typical autumn day . 
+B|26| M: [but] [not] 
+A|27| A: [Yeah] . 
+B|28| M: It's just [, it's] . 
+A|29| A: [I don't _know] ._ [Yeah ,] our _leaves_ are , are all on , on [the] ground [now .] [I] think [it _was] an_ especially good winter [for] fall colors . 
+B|30| M: [it] 
+A|31| A: [Oh ,] yeah , yeah . 
+B|32| M: yes [, it's] . 
+A|33| A: [Yeah ,] [we] , [we] did , [for] [a] _time ._ 
+B|34| M: Did [you] guys [have] [any] color [in] your [leaves] ? 
+A|35| A: Uh-huh . 
+B|36| M: [I'm] pretty [sure] [the] only thing [that's] ever gone is [the last] [time .] 
+A|37| A: Uh-huh . 
+B|38| M: That's [a] nice car [you] [have] there . 
+A|39| A: Been _that_ this year [for] [the] _trees_ [for] [the] [leaves] . 
+B|40| M: Uhhh [, I] [know .] 
+A|41| A: _Um ._ 
+B|42| M: Ooh [. [Um] .] 
+A|43| A: [Yeah ,] [that's] because [it] [, it] can't _tolerate_ [a] _freeze_ this _early_ . Is _that_ right ? 
+B|44| M: It's only [like ,] one [of] [a] [few] [trees] [that] [it] can [tolerate] . 
+A|45| A: If [it] would [came] later [it] would be all right ? 
+B|46| M: It [was an] [early] spring [freeze] . 
+A|47| A: [Um .] 
+B|48| M: I'em 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I was in an airforce , it was , uh , forty ...
+	Free: Pattern=it was, Pattern=, it, Pattern=was ,, Pattern=an, Pattern=I, Pattern=in, Pattern=, uh ,, Pattern=was
+	Constrained: Pattern=it, Pattern=was, Pattern=, uh
+Turn ID=1| A | A : Andrews ?
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : We've got to go back to , uh , where we came from .
+	Free: Pattern=, uh ,, Pattern=we, Pattern=came, Pattern=to
+	Constrained: Pattern=, uh
+Turn ID=3| A | A : Well , for the past week or two it's been cold and wet
+	Free: Pattern=for, Pattern=and, Pattern=Well ,, Pattern=the, Pattern=been, Pattern=it's
+	Constrained: 
+Turn ID=4| B | M : I don't know ...
+	Free: Pattern=I don't know
+	Constrained: Pattern=I
+Turn ID=5| A | A : but before that , for most of the year , it's been hot and dry .
+	Free: Pattern=of, Pattern=for, Pattern=and, Pattern=, it's, Pattern=the, Pattern=been, Pattern=that, Pattern=but
+	Constrained: Pattern=it's
+Turn ID=6| B | M : Ah , well I'm just a little bit jealous .
+	Free: Pattern=I'm, Pattern=a
+	Constrained: 
+Turn ID=7| A | A : Um , September really was , I'm not sure about October . I think for about twelve months through September the , the average temperature has been higher than normal each month . Um , lots of ninety degree days during the summer .
+	Free: Pattern=September, Pattern=of, Pattern=was ,, Pattern=for, Pattern=I, Pattern=the, Pattern=the summer ., Pattern=days, Pattern=I'm, Pattern=Um, Pattern=sure, Pattern=month, Pattern=, September, Pattern=been, Pattern=not, Pattern=. Um
+	Constrained: Pattern=September, Pattern=Um, Pattern=the, Pattern=was, Pattern=summer
+Turn ID=8| B | M : I mean , September is a month in the summer .
+	Free: Pattern=a, Pattern=in the, Pattern=the summer ., Pattern=, September, Pattern=month, Pattern=I mean ,
+	Constrained: Pattern=September, Pattern=I, Pattern=in, Pattern=the, Pattern=summer
+Turn ID=9| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : Oh , so you're just being weird then .
+	Free: Pattern=Oh ,, Pattern=then
+	Constrained: 
+Turn ID=11| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : June .
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : Oh , if you had it early .
+	Free: Pattern=Oh ,, Pattern=you, Pattern=it, Pattern=early
+	Constrained: 
+Turn ID=16| B | M : Well , uh , and .
+	Free: Pattern=, uh ,, Pattern=Well ,, Pattern=, and
+	Constrained: Pattern=, uh, Pattern=and
+Turn ID=17| A | A : Yeah , I think we usually have a frost in October .
+	Free: Pattern=have, Pattern=in, Pattern=we, Pattern=Yeah ,, Pattern=frost, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=Yeah
+Turn ID=18| B | M : Wait , when do we get the frost ?
+	Free: Pattern=we, Pattern=frost, Pattern=the
+	Constrained: 
+Turn ID=19| A | A : Uh , but , you know . We really need the rain that we've been getting , and it has not today , but the last few days it's been , been pouring most of the day .
+	Free: Pattern=of, Pattern=you, Pattern=the last, Pattern=few, Pattern=it, Pattern=know ., Pattern=the, Pattern=days, Pattern=, and, Pattern=been, Pattern=not, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=and, Pattern=the
+Turn ID=20| B | M : It's been raining for like 3 days now .
+	Free: Pattern=now ., Pattern=for, Pattern=like, Pattern=days, Pattern=been
+	Constrained: 
+Turn ID=21| A | A : Flooding anywhere . I have not heard of it , any problems of it flooding anywhere , I mean , that's occurred certainly at times in the past , but , uh , no , I've not heard of any particular problems this time .
+	Free: Pattern=time ., Pattern=of, Pattern=flooding, Pattern=have, Pattern=, I, Pattern=any, Pattern=it, Pattern=that's, Pattern=but, Pattern=not, Pattern=in the, Pattern=I, Pattern=, uh ,, Pattern=I mean ,
+	Constrained: Pattern=in, Pattern=I, Pattern=, uh, Pattern=the
+Turn ID=22| B | M : Are you referring to the flooding in the area
+	Free: Pattern=flooding, Pattern=you, Pattern=in the, Pattern=the, Pattern=to
+	Constrained: Pattern=in, Pattern=the
+Turn ID=23| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=24| B | M : Yeah , please , yes , and .
+	Free: Pattern=, and, Pattern=Yeah ,
+	Constrained: Pattern=and, Pattern=Yeah
+Turn ID=25| A | A : Yes , yeah , we had summer lasting long and then it , then it , then it became winter like , uh today it's , today it's sort of change to warmer to sort of more typical autumn day .
+	Free: Pattern=of, Pattern=, uh, Pattern=then, Pattern=we, Pattern=to, Pattern=like ,, Pattern=it, Pattern=and, Pattern=summer, Pattern=it's
+	Constrained: Pattern=like
+Turn ID=26| B | M : but not
+	Free: Pattern=not, Pattern=but
+	Constrained: 
+Turn ID=27| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=28| B | M : It's just , it's .
+	Free: Pattern=, it's
+	Constrained: Pattern=it's
+Turn ID=29| A | A : I don't know . Yeah , our leaves are , are all on , on the ground now . I think it was an especially good winter for fall colors .
+	Free: Pattern=it was, Pattern=now ., Pattern=for, Pattern=I, Pattern=leaves, Pattern=I don't know, Pattern=know ., Pattern=the, Pattern=Yeah ,, Pattern=was an
+	Constrained: Pattern=an, Pattern=it, Pattern=I, Pattern=Yeah, Pattern=was
+Turn ID=30| B | M : it
+	Free: Pattern=it
+	Constrained: 
+Turn ID=31| A | A : Oh , yeah , yeah .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=32| B | M : yes , it's .
+	Free: Pattern=, it's
+	Constrained: Pattern=it's
+Turn ID=33| A | A : Yeah , we , we did , for a time .
+	Free: Pattern=time ., Pattern=a, Pattern=for, Pattern=we, Pattern=Yeah ,
+	Constrained: Pattern=Yeah
+Turn ID=34| B | M : Did you guys have any color in your leaves ?
+	Free: Pattern=you, Pattern=have, Pattern=any, Pattern=leaves, Pattern=in
+	Constrained: 
+Turn ID=35| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : I'm pretty sure the only thing that's ever gone is the last time .
+	Free: Pattern=time ., Pattern=I'm, Pattern=the last, Pattern=sure, Pattern=that's, Pattern=the
+	Constrained: Pattern=the
+Turn ID=37| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M : That's a nice car you have there .
+	Free: Pattern=a, Pattern=you, Pattern=have
+	Constrained: 
+Turn ID=39| A | A : Been that this year for the trees for the leaves .
+	Free: Pattern=for, Pattern=leaves, Pattern=that, Pattern=trees, Pattern=the
+	Constrained: 
+Turn ID=40| B | M : Uhhh , I know .
+	Free: Pattern=, I, Pattern=know .
+	Constrained: Pattern=I
+Turn ID=41| A | A : Um .
+	Free: Pattern=Um .
+	Constrained: Pattern=Um
+Turn ID=42| B | M : Ooh . Um .
+	Free: Pattern=. Um, Pattern=Um .
+	Constrained: Pattern=Um
+Turn ID=43| A | A : Yeah , that's because it , it can't tolerate a freeze this early . Is that right ?
+	Free: Pattern=, it, Pattern=a, Pattern=it, Pattern=early, Pattern=that's, Pattern=Yeah ,, Pattern=freeze, Pattern=tolerate, Pattern=that
+	Constrained: Pattern=Yeah, Pattern=it
+Turn ID=44| B | M : It's only like , one of a few trees that it can tolerate .
+	Free: Pattern=of, Pattern=a, Pattern=few, Pattern=it, Pattern=trees, Pattern=tolerate, Pattern=that, Pattern=like ,
+	Constrained: Pattern=like
+Turn ID=45| A | A : If it would came later it would be all right ?
+	Free: Pattern=came, Pattern=it
+	Constrained: 
+Turn ID=46| B | M : It was an early spring freeze .
+	Free: Pattern=was an, Pattern=freeze, Pattern=early
+	Constrained: Pattern=was, Pattern=an
+Turn ID=47| A | A : Um .
+	Free: Pattern=Um .
+	Constrained: Pattern=Um
+Turn ID=48| B | M : I'em
+	Free: 
+	Constrained: 

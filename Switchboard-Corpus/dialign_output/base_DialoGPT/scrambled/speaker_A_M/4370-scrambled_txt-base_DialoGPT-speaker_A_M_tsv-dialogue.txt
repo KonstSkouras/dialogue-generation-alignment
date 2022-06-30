@@ -1,0 +1,175 @@
+A|0| A: Yeah _, _but_ I_ mean , _in_ , here it's , uh , to _the_ point where _they_ were letting prisoners go . _Uh ,_ commuting _the_ sentences _of_ those _that_ were _in_ , _in_ jail for lesser crimes , _in_ order to put _more_ people _in_ , into _the_ jails . 
+B|1| M: Oh _, I_ _see_ _. I guess_ [I] _was_ thinking [of] [the] U . S . 
+A|2| A: [I] really _think_ [, I] _think_ , um , people , _you_ should [, I] , _you know_ _, the_ kids today [I] teach [, I] spend _a_ lot [of] my _time_ teaching college students 
+B|3| M: Oh _. I_ thought _it_ _was a_ new thing . 
+A|4| A: Yeah . 
+B|5| M: _You_ could _have_ done [the] same . 
+A|6| A: Uh-huh . 
+B|7| M: [I] work at [a] grocery store . 
+A|8| A: [You] _know_ , _you can_ bury [a] piece [of] yellow paper , [it] will still be there _in a_ couple [of] weeks . 
+B|9| M: _I'm_ talking _about_ [the] American Kennels . 
+A|10| A: _Uh ,_ [a] lot [of] people really doesn't _think_ _that_ _much_ [about] [it] , because [it] hasn't happened to them , which [it] hasn't to me either , _you know_ ? 
+B|11| M: I'ed [you] 
+A|12| A: _Uh ,_ got , _you know_ tomatoes _that_ _are_ starting to bloom 
+B|13| M: _Well [,_ the] [more] [you know] . 
+A|14| A: [Well ,] yeah . It's really nice too because [I] can't [see] my nearest neighbor . He's on _the other_ side [of] [a] hill . 
+B|15| M: [I] 
+A|16| A: yeah . 
+B|17| M: _I don't_ [think] _I've_ ever had [a] cup [of] water [in a] bath . 
+A|18| A: Yeah . [Well [,] I] _I know_ _that_ , for instance , [in] [the] N C double A , _they_ drug test and it's _not_ random . 
+B|19| M: [You] _have_ _you ,_ 
+A|20| A: _do that_ , that's true . 
+B|21| M: _That's_ [the] job . 
+A|22| A: Uh-huh . Uh-huh . 
+B|23| M: They [are] ... [but] [are] [they] ? 
+A|24| A: Uh-huh , uh-huh . Uh-huh , uh-huh . 
+B|25| M: Why ? 
+A|26| A: Okay . 
+B|27| M: There's [not] [much] [time] left . 
+A|28| A: Huh . 
+B|29| M: h 
+A|30| A: Uh-huh . 
+B|31| M: _I don't_ 
+A|32| A: And [I] haven't gotten over _that_ from [the] north . 
+B|33| M: [it] is . 
+A|34| A: [That's] right . Uh-huh , yeah [. I] [have] some friends _that_ live [in] Westport and it's really , really bad [. I] mean [you ,] 
+B|35| M: _I don't know_ if you've heard [of] _this_ [but I] don'think [you can] [do that] . 
+A|36| A: That , um [, I] wonder sometimes 
+B|37| M: [That's] [the] joke . 
+A|38| A: so [I've] been librarian all [this] week , which has been real interesting , and [I'm] enjoying [it] . [I'm] around my kids 
+B|39| M: [I know] what you're talking [about] [, but] what [about] [the other] thing ? 
+A|40| A: Definitely . [Well ,] he [was a] good player [. I guess] , well [I don't know] , he just never [, [I] don't know] , for [a] while there , 
+B|41| M: [Uh ,] yea . 
+B|42| M: she ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah , but I mean , in , here it's , uh , to the point where they were letting prisoners go . Uh , commuting the sentences of those that were in , in jail for lesser crimes , in order to put more people in , into the jails .
+	Free: Pattern=, but, Pattern=they, Pattern=Uh ,, Pattern=but I, Pattern=in, Pattern=the, Pattern=that, Pattern=of, Pattern=more
+	Constrained: Pattern=but, Pattern=I
+Turn ID=1| B | M : Oh , I see . I guess I was thinking of the U . S .
+	Free: Pattern=of, Pattern=, I, Pattern=I, Pattern=see, Pattern=was, Pattern=. I guess, Pattern=the
+	Constrained: Pattern=. I, Pattern=I
+Turn ID=2| A | A : I really think , I think , um , people , you should , I , you know , the kids today I teach , I spend a lot of my time teaching college students
+	Free: Pattern=time, Pattern=of, Pattern=I, Pattern=think, Pattern=, the, Pattern=you, Pattern=you know, Pattern=, I, Pattern=a
+	Constrained: Pattern=the, Pattern=I, Pattern=know, Pattern=you
+Turn ID=3| B | M : Oh . I thought it was a new thing .
+	Free: Pattern=was a, Pattern=. I, Pattern=it
+	Constrained: Pattern=a, Pattern=I, Pattern=was
+Turn ID=4| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : You could have done the same .
+	Free: Pattern=the, Pattern=have, Pattern=You
+	Constrained: 
+Turn ID=6| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : I work at a grocery store .
+	Free: Pattern=a, Pattern=I
+	Constrained: 
+Turn ID=8| A | A : You know , you can bury a piece of yellow paper , it will still be there in a couple of weeks .
+	Free: Pattern=of, Pattern=a, Pattern=in a, Pattern=it, Pattern=you can, Pattern=know, Pattern=You
+	Constrained: Pattern=a, Pattern=you, Pattern=in
+Turn ID=9| B | M : I'm talking about the American Kennels .
+	Free: Pattern=about, Pattern=the, Pattern=I'm
+	Constrained: 
+Turn ID=10| A | A : Uh , a lot of people really doesn't think that much about it , because it hasn't happened to them , which it hasn't to me either , you know ?
+	Free: Pattern=of, Pattern=you know, Pattern=a, Pattern=it, Pattern=think, Pattern=much, Pattern=that, Pattern=about, Pattern=Uh ,
+	Constrained: Pattern=know, Pattern=you
+Turn ID=11| B | M : I'ed you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=12| A | A : Uh , got , you know tomatoes that are starting to bloom
+	Free: Pattern=Uh ,, Pattern=you know, Pattern=are, Pattern=that
+	Constrained: Pattern=know, Pattern=you
+Turn ID=13| B | M : Well , the more you know .
+	Free: Pattern=Well ,, Pattern=you know, Pattern=, the, Pattern=more
+	Constrained: Pattern=the, Pattern=know, Pattern=you
+Turn ID=14| A | A : Well , yeah . It's really nice too because I can't see my nearest neighbor . He's on the other side of a hill .
+	Free: Pattern=of, Pattern=a, Pattern=I, Pattern=see, Pattern=the other, Pattern=Well ,
+	Constrained: Pattern=the
+Turn ID=15| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=16| A | A : yeah .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : I don't think I've ever had a cup of water in a bath .
+	Free: Pattern=of, Pattern=I've, Pattern=a, Pattern=in a, Pattern=I don't, Pattern=think
+	Constrained: Pattern=a, Pattern=I, Pattern=in
+Turn ID=18| A | A : Yeah . Well , I I know that , for instance , in the N C double A , they drug test and it's not random .
+	Free: Pattern=they, Pattern=, I, Pattern=the, Pattern=that, Pattern=Well ,, Pattern=in, Pattern=I know, Pattern=not
+	Constrained: Pattern=I, Pattern=know
+Turn ID=19| B | M : You have you ,
+	Free: Pattern=you ,, Pattern=have, Pattern=You
+	Constrained: Pattern=you
+Turn ID=20| A | A : do that , that's true .
+	Free: Pattern=do that
+	Constrained: Pattern=that
+Turn ID=21| B | M : That's the job .
+	Free: Pattern=the, Pattern=That's
+	Constrained: 
+Turn ID=22| A | A : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : They are ... but are they ?
+	Free: Pattern=but, Pattern=are, Pattern=they
+	Constrained: 
+Turn ID=24| A | A : Uh-huh , uh-huh . Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : Why ?
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : Okay .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : There's not much time left .
+	Free: Pattern=much, Pattern=not, Pattern=time
+	Constrained: 
+Turn ID=28| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : h
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : I don't
+	Free: Pattern=I don't
+	Constrained: Pattern=I
+Turn ID=32| A | A : And I haven't gotten over that from the north .
+	Free: Pattern=the, Pattern=I, Pattern=that
+	Constrained: 
+Turn ID=33| B | M : it is .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=34| A | A : That's right . Uh-huh , yeah . I have some friends that live in Westport and it's really , really bad . I mean you ,
+	Free: Pattern=have, Pattern=That's, Pattern=. I, Pattern=in, Pattern=you ,, Pattern=that
+	Constrained: Pattern=I, Pattern=you
+Turn ID=35| B | M : I don't know if you've heard of this but I don'think you can do that .
+	Free: Pattern=of, Pattern=you can, Pattern=but I, Pattern=I don't know, Pattern=do that, Pattern=this
+	Constrained: Pattern=you, Pattern=I, Pattern=I don't, Pattern=know, Pattern=that, Pattern=but
+Turn ID=36| A | A : That , um , I wonder sometimes
+	Free: Pattern=, I
+	Constrained: Pattern=I
+Turn ID=37| B | M : That's the joke .
+	Free: Pattern=the, Pattern=That's
+	Constrained: 
+Turn ID=38| A | A : so I've been librarian all this week , which has been real interesting , and I'm enjoying it . I'm around my kids
+	Free: Pattern=I've, Pattern=it, Pattern=I'm, Pattern=this
+	Constrained: 
+Turn ID=39| B | M : I know what you're talking about , but what about the other thing ?
+	Free: Pattern=, but, Pattern=I know, Pattern=the other, Pattern=about
+	Constrained: Pattern=but, Pattern=I, Pattern=know, Pattern=the
+Turn ID=40| A | A : Definitely . Well , he was a good player . I guess , well I don't know , he just never , I don't know , for a while there ,
+	Free: Pattern=was a, Pattern=. I guess, Pattern=, I, Pattern=a, Pattern=Well ,, Pattern=I don't know
+	Constrained: Pattern=a, Pattern=I, Pattern=. I, Pattern=I don't, Pattern=know, Pattern=was
+Turn ID=41| B | M : Uh , yea .
+	Free: Pattern=Uh ,
+	Constrained: 
+Turn ID=42| B | M : she ?
+	Free: 
+	Constrained: 

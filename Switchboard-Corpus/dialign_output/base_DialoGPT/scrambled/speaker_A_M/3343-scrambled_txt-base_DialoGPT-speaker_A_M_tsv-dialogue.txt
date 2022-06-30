@@ -1,0 +1,199 @@
+A|0| A: _Yeah_ . 
+B|1| M: _I guess_ _it's_ _not_ _too_ bad _if_ _you know_ how _to_ use _it_ 
+A|2| A: Right . 
+B|3| M: This _, uh ,_ doesn't _, uh_ . Nothin ' _, uh_ ... 
+A|4| A: How about _the_ health food [, uh ,] restaurants ? _Well _,_ like_ this one but [it's] probably [not] advertised as such , _is it ?_ Or , 
+B|5| M: i _have_ no idea _what_ i'm talking 
+A|6| A: Exactly . 
+B|7| M: _Oh ._ my . gosh . 
+A|8| A: [I] [, uh ,] _a_ friend _of_ mine _is_ _a_ psychologist _and_ he always refers [to] [it] as short-term pleasure oriented . [I guess] he's _a_ technical aspect he likes [to] apply [to] [it] _, _you_ know ,_ 
+B|9| M: What do [you] _mean_ ? 
+A|10| A: _Yeah_ . 
+B|11| M: _Yeah ,_ [to] , 
+A|12| A: [Oh] _, I_ never heard _of_ _that_ . 
+B|13| M: You [know] . 
+A|14| A: We planted some yellow peppers this year . We've tried [it] , before 
+B|15| M: [I] don't [know ,] how do [you know] ? 
+A|16| A: Uh-huh . 
+B|17| M:  , work . 
+A|18| A: [Yeah _,] I_ [mean] _, and_ that's just maybe because _of the_ little more , they _said_ celebrated _that_ [, uh ,] he's [not] _the_ only one _, _you_ know ,_ 
+B|19| M: I'm [not] gonna lie [, I] cried . 
+A|20| A: But [you] [have] [to] put _the_ water _in_ proportionally . [I] _can't_ remember . [I] think [it] _was_ three quarters cup rice [to] two cups water , two cups _, um_ , broth . 
+B|21| M: Ohhuh . 
+A|22| A: Don't get enough sleep as [it] _is_ , right 
+B|23| M: The government won't give [it] away . 
+A|24| A: My grandmother lived with us _, um_ , until August _, um_ _, and_ we made _the_ decision [to] put her _in a_ nursing home . She has leukemia 
+B|25| M: A _lot of_ women [in] [the] UK . 
+A|26| A: Uh-huh , uh-huh . 
+B|27| M: [Well [,] I] am _going to be_ out [of] town _for_ [a] few days . 
+A|28| A: Products . Yes . 
+B|29| M: You're [a] kid ? 
+A|30| A: Uh-huh . 
+B|31| M: Do [you] [mean] carpool ? 
+A|32| A: So [it] _is_ , yeah _, and_ [it] must [be] rough [for] [you] [too] [to] see _your_ grandmother . 
+B|33| M:  ... [um] ... [um] ... [you know [,] um] ... 
+A|34| A: Plus [, [I] guess] _, if_ they _are_ [in] problem enough [to be] jailed or something [of] _that_ nature [for] any length [of] time , then [the] company has lost [what] they've put into _that_ employee _, and_ their expertise or whatever . 
+B|35| M: [I] live [in] Planos 
+A|36| A: [I] [mean] they're nomadic farmers _, [you_ know ,] they're people who farm on [the] hillside _and_ then leave [the] hillside [to] another hillside _and_ farm on _that_ hillside . 
+B|37| M: You [mean] [that] [was] real ? 
+A|38| A: There's [a] [lot of] folks , probably , [that] _are_ [in] prison [that] [, uh ,] [that] aren't really [a] danger [to] society , huh _, and_ [, uh ,] 
+B|39| M: What [is it ?] 
+A|40| A: _and_ then mom gets [to] take care [of] [it] , or something . So [, I] 
+B|41| M:  ... 
+A|42| A: [Yeah] . 
+B|43| M: It's [, like] , beautiful . 
+A|44| A: [Oh .] 
+B|45| M: Today's youth [are] [the] future [of the] world . 
+A|46| A: he _said_ [that] [, uh ,] Aikman [was] hitting him right on [the] numbers every time . So , sounds [like] he's [going to be] all right [for] next season . They're just trying [not] [to] overwork him right now , until he gets his shoulder [, uh ,] back [in] [it] [was] his shoulder , wasn't [it] , [that] he had [the] problems with ? 
+B|47| M: You [said] [, uh ,] retirement [, and] [I] [said] , uhh [, you] [said] ... 
+B|48| M: [you] [can't] [be] [the] most powerful man [in] [the] world [, if] [you] [are] [the] most dangerous man [in a] parking [lot] , you're [not] doing [your] job 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=1| B | M : I guess it's not too bad if you know how to use it
+	Free: Pattern=you know, Pattern=if, Pattern=I guess, Pattern=to, Pattern=it's, Pattern=not, Pattern=it, Pattern=too
+	Constrained: Pattern=know, Pattern=you, Pattern=I
+Turn ID=2| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : This , uh , doesn't , uh . Nothin ' , uh ...
+	Free: Pattern=, uh ,, Pattern=, uh
+	Constrained: Pattern=, uh
+Turn ID=4| A | A : How about the health food , uh , restaurants ? Well , like this one but it's probably not advertised as such , is it ? Or ,
+	Free: Pattern=, like, Pattern=is it ?, Pattern=Well ,, Pattern=, uh ,, Pattern=the, Pattern=it's, Pattern=not
+	Constrained: Pattern=is, Pattern=it, Pattern=, uh, Pattern=like
+Turn ID=5| B | M : i have no idea what i'm talking
+	Free: Pattern=what, Pattern=have
+	Constrained: 
+Turn ID=6| A | A : Exactly .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : Oh . my . gosh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=8| A | A : I , uh , a friend of mine is a psychologist and he always refers to it as short-term pleasure oriented . I guess he's a technical aspect he likes to apply to it , you know ,
+	Free: Pattern=a, Pattern=I, Pattern=I guess, Pattern=, you, Pattern=is, Pattern=, uh ,, Pattern=to, Pattern=of, Pattern=you know ,, Pattern=it, Pattern=and
+	Constrained: Pattern=know ,, Pattern=I, Pattern=know, Pattern=you, Pattern=you know, Pattern=, uh
+Turn ID=9| B | M : What do you mean ?
+	Free: Pattern=mean, Pattern=you
+	Constrained: 
+Turn ID=10| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=11| B | M : Yeah , to ,
+	Free: Pattern=Yeah ,, Pattern=to
+	Constrained: Pattern=Yeah
+Turn ID=12| A | A : Oh , I never heard of that .
+	Free: Pattern=, I, Pattern=that, Pattern=Oh, Pattern=of
+	Constrained: Pattern=I
+Turn ID=13| B | M : You know .
+	Free: Pattern=know
+	Constrained: 
+Turn ID=14| A | A : We planted some yellow peppers this year . We've tried it , before
+	Free: Pattern=it
+	Constrained: 
+Turn ID=15| B | M : I don't know , how do you know ?
+	Free: Pattern=you know, Pattern=know ,, Pattern=I
+	Constrained: Pattern=know, Pattern=you
+Turn ID=16| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M :  , work .
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : Yeah , I mean , and that's just maybe because of the little more , they said celebrated that , uh , he's not the only one , you know ,
+	Free: Pattern=you know ,, Pattern=mean, Pattern=said, Pattern=, I, Pattern=, you, Pattern=, uh ,, Pattern=the, Pattern=Yeah ,, Pattern=, and, Pattern=not, Pattern=of the, Pattern=that
+	Constrained: Pattern=and, Pattern=I, Pattern=know, Pattern=the, Pattern=Yeah, Pattern=of, Pattern=know ,, Pattern=you, Pattern=you know, Pattern=, uh
+Turn ID=19| B | M : I'm not gonna lie , I cried .
+	Free: Pattern=, I, Pattern=not
+	Constrained: Pattern=I
+Turn ID=20| A | A : But you have to put the water in proportionally . I can't remember . I think it was three quarters cup rice to two cups water , two cups , um , broth .
+	Free: Pattern=, um, Pattern=you, Pattern=have, Pattern=it, Pattern=I, Pattern=in, Pattern=can't, Pattern=the, Pattern=to, Pattern=was
+	Constrained: Pattern=um
+Turn ID=21| B | M : Ohhuh .
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : Don't get enough sleep as it is , right
+	Free: Pattern=is, Pattern=it
+	Constrained: 
+Turn ID=23| B | M : The government won't give it away .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=24| A | A : My grandmother lived with us , um , until August , um , and we made the decision to put her in a nursing home . She has leukemia
+	Free: Pattern=, um, Pattern=in a, Pattern=the, Pattern=, and, Pattern=to
+	Constrained: Pattern=a, Pattern=um, Pattern=and, Pattern=in
+Turn ID=25| B | M : A lot of women in the UK .
+	Free: Pattern=lot of, Pattern=the, Pattern=in
+	Constrained: Pattern=lot, Pattern=of
+Turn ID=26| A | A : Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : Well , I am going to be out of town for a few days .
+	Free: Pattern=of, Pattern=for, Pattern=Well ,, Pattern=going to be, Pattern=, I, Pattern=a
+	Constrained: Pattern=to be, Pattern=be, Pattern=to, Pattern=I
+Turn ID=28| A | A : Products . Yes .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : You're a kid ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=30| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : Do you mean carpool ?
+	Free: Pattern=mean, Pattern=you
+	Constrained: 
+Turn ID=32| A | A : So it is , yeah , and it must be rough for you too to see your grandmother .
+	Free: Pattern=you, Pattern=for, Pattern=be, Pattern=it, Pattern=too, Pattern=is, Pattern=your, Pattern=, and, Pattern=to
+	Constrained: Pattern=and
+Turn ID=33| B | M :  ... um ... um ... you know , um ...
+	Free: Pattern=you know ,, Pattern=, um, Pattern=um
+	Constrained: Pattern=know ,, Pattern=um, Pattern=know, Pattern=you, Pattern=you know
+Turn ID=34| A | A : Plus , I guess , if they are in problem enough to be jailed or something of that nature for any length of time , then the company has lost what they've put into that employee , and their expertise or whatever .
+	Free: Pattern=of, Pattern=what, Pattern=, I, Pattern=for, Pattern=are, Pattern=, if, Pattern=the, Pattern=, and, Pattern=to be, Pattern=that, Pattern=I guess, Pattern=in
+	Constrained: Pattern=and, Pattern=be, Pattern=to, Pattern=I, Pattern=if
+Turn ID=35| B | M : I live in Planos
+	Free: Pattern=I, Pattern=in
+	Constrained: 
+Turn ID=36| A | A : I mean they're nomadic farmers , you know , they're people who farm on the hillside and then leave the hillside to another hillside and farm on that hillside .
+	Free: Pattern=you know ,, Pattern=mean, Pattern=and, Pattern=I, Pattern=, you, Pattern=the, Pattern=to, Pattern=that
+	Constrained: Pattern=you know, Pattern=know ,, Pattern=know, Pattern=you
+Turn ID=37| B | M : You mean that was real ?
+	Free: Pattern=was, Pattern=that, Pattern=mean
+	Constrained: 
+Turn ID=38| A | A : There's a lot of folks , probably , that are in prison that , uh , that aren't really a danger to society , huh , and , uh ,
+	Free: Pattern=a, Pattern=lot of, Pattern=are, Pattern=in, Pattern=, uh ,, Pattern=that, Pattern=, and, Pattern=to
+	Constrained: Pattern=, uh, Pattern=lot, Pattern=of, Pattern=and
+Turn ID=39| B | M : What is it ?
+	Free: Pattern=is it ?
+	Constrained: Pattern=is, Pattern=it
+Turn ID=40| A | A : and then mom gets to take care of it , or something . So , I
+	Free: Pattern=of, Pattern=, I, Pattern=to, Pattern=it, Pattern=and
+	Constrained: Pattern=I
+Turn ID=41| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=43| B | M : It's , like , beautiful .
+	Free: Pattern=, like
+	Constrained: Pattern=like
+Turn ID=44| A | A : Oh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=45| B | M : Today's youth are the future of the world .
+	Free: Pattern=of the, Pattern=are, Pattern=the
+	Constrained: Pattern=the, Pattern=of
+Turn ID=46| A | A : he said that , uh , Aikman was hitting him right on the numbers every time . So , sounds like he's going to be all right for next season . They're just trying not to overwork him right now , until he gets his shoulder , uh , back in it was his shoulder , wasn't it , that he had the problems with ?
+	Free: Pattern=said, Pattern=for, Pattern=it, Pattern=in, Pattern=like, Pattern=, uh ,, Pattern=to, Pattern=was, Pattern=that, Pattern=not, Pattern=going to be, Pattern=the
+	Constrained: Pattern=to, Pattern=, uh, Pattern=to be, Pattern=be
+Turn ID=47| B | M : You said , uh , retirement , and I said , uhh , you said ...
+	Free: Pattern=said, Pattern=I, Pattern=, you, Pattern=, uh ,, Pattern=, and
+	Constrained: Pattern=you, Pattern=, uh, Pattern=and
+Turn ID=48| B | M : you can't be the most powerful man in the world , if you are the most dangerous man in a parking lot , you're not doing your job
+	Free: Pattern=you, Pattern=in a, Pattern=are, Pattern=, if, Pattern=in, Pattern=your, Pattern=not, Pattern=can't, Pattern=be, Pattern=lot, Pattern=the
+	Constrained: Pattern=a, Pattern=in, Pattern=if

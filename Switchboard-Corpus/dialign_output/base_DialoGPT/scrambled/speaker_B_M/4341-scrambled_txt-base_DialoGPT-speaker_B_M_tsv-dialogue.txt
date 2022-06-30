@@ -1,0 +1,151 @@
+A|0| B: And so , 
+B|1| M: No . They're _not_ . 
+A|2| B: But _it_ , it's interesting , listening _to_ them . _I_ think , _I_ think _the_ social changes _in_ them , _I_ think _I_ see _it_ more with _that_ generation than _I do_ with like our generation . 
+B|3| M: _uh _,_ but_ _they_ _have a_ receipt 
+A|4| B: _I_ mean , these guys _are_ certainly [not] going _to_ , [uh ,] _be_ _, they_ _can't_ , _I_ mean they're getting into drugs _and_ fights _and_ all _that_ stuff _in_ prison . _I_ don't think _the_ parole system _is_ _really_ helping _that_ much 
+B|5| M: You _know ,_ two counts , _one of_ each . 
+A|6| B: Oh , _I_ think _it_ would , _it_ would _be_ [a] _lot_ [of] work [but] , um , _you_ [know ,] because it's , _you_ [know ,] 
+B|7| M: There [is] no rule [that] states [that] judges _have_ _to be_ judges . 
+A|8| B: _So_ , we will play either out there or at Firewheel . That [is] usually where we play [, _but] I_ [have] played _you_ [know] different courses _in_ _in the_ Dallas area . 
+B|9| M: [I do] . [but I] don'' [know] _what_ [they] [are] . 
+A|10| B: _and_ [one _of] the_ employees actually [is] driving by with [a] forklift _and_ he pushes _the_ wrong button _and_ he drops [a] load [of] lumber _on_ somebody _and_ _it_ injures , them . 
+B|11| M: _I've_ been [to] [the] very top [of the] world [and] I'm [in the] very bottom [of the] earth . 
+A|12| B: Oh , gosh , [I do] [not] , [I do] [not] _really_ [have a] list , cause [I] just kind [of] , [uh ,] [I] just [have] all [the] books out , _you_ [know ,] [I] [have] book shelves [and] [I] [have] them all out [and] usually when [I] am through with [one] , [I] will go [in] [and] , [uh ,] [uh ,] [uh ,] look , look through , [uh ,] [I] [have] [one] now [and] [I] , _I can_ [not] remember [the] name [of] _it_ [that] [I] , [that] [I] got _is the_ sister-in-law [in] Chicago usually sends me for my birthday or , or Christmas or _something_ will send me another , another _good_ book [and] , [uh ,] [uh ,] 
+B|13| M: [I] [can't] . I'm [a] Democrat . 
+A|14| B: Yeah , [I] like Moody Blues . [I] , [I] like mostly [the] older groups [I] think . Oh [, but] we [do] [have] , [I] like Simply Red , we got Simply Red . [I] figure all our C Ds [that] we [have] [what] [I] _really_ like And , [uh ,] [I] like Breeze , [I] like [the] group . [I] think just because [they] all sort [of] sound _, they_ sound [a] _lot_ like [uh ,] Simply Red . Uh . 
+B|15| M: _yeah_ [, they] [are] [in] jail . 
+A|16| B: It seems like [they] would [be] able [to] . 
+B|17| M: [I] love [it] . 
+A|18| B: And , [uh ,] [and] her nose [is] [that] pink , _you_ [know ,] 
+B|19| M: [I can] start working [on] [it] [in] an hour . 
+A|20| B: And [I] think [that] people [know] [that] they're going [to] _get a_ slap [on] [the] wrist [, they] might serve [a] little bit [of] time [and] [that] they'll [be] out [on] [the] street again . 
+B|21| M: I'm sure [I] could find [something] _else_ [to] say about [it] 
+A|22| B: Oh , _really_ . 
+B|23| M: Uhhhhhhhhhh . 
+A|24| B: Yeah , [I] don't understand [that] [, they] [, they] don't want [to be] with anybody [else] . 
+B|25| M: I'm sure [you] could [get a] [good] deal [on] [it] if [you] [really] wanted [it] . 
+A|26| B: Uh-huh . Yeah . 
+B|27| M: Wait , who [is the] winner [of the] lottery ? 
+A|28| B: Yeah . Yeah . 
+B|29| M: It's been great . 
+A|30| B: Oh , [yeah] . 
+B|31| M: A [lot] . 
+A|32| B: Yeah , it's , it's [really] , it's , [and] [I've] seen [in] more [in] Durham than [I] [have] [in] Raleigh or , or or Chapel Hill . 
+B|33| M: It's fine . 
+A|34| B: [I] think so , [and] [a] [lot] , [I] think people [are] , [are] used [to] now saying what's , what's [on] their minds more more up front than [they] used [to be] . 
+B|35| M: [So] . h 
+A|36| B: Well , [it] [is] [to] me . Most people prefer [the] security [of] nine [to] five , [and] weekends off [and] knowing [that] their insurance [is] paid [and] their retirement , 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : And so ,
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : No . They're not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=2| A | B : But it , it's interesting , listening to them . I think , I think the social changes in them , I think I see it more with that generation than I do with like our generation .
+	Free: Pattern=it, Pattern=I, Pattern=I do, Pattern=in, Pattern=the, Pattern=to, Pattern=that
+	Constrained: Pattern=I, Pattern=do
+Turn ID=3| B | M : uh , but they have a receipt
+	Free: Pattern=, but, Pattern=have a, Pattern=uh ,, Pattern=they
+	Constrained: Pattern=a, Pattern=but, Pattern=have
+Turn ID=4| A | B : I mean , these guys are certainly not going to , uh , be , they can't , I mean they're getting into drugs and fights and all that stuff in prison . I don't think the parole system is really helping that much
+	Free: Pattern=, they, Pattern=and, Pattern=in, Pattern=is, Pattern=really, Pattern=to, Pattern=that, Pattern=not, Pattern=are, Pattern=I, Pattern=can't, Pattern=be, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=they
+Turn ID=5| B | M : You know , two counts , one of each .
+	Free: Pattern=know ,, Pattern=one of
+	Constrained: Pattern=know, Pattern=one, Pattern=of
+Turn ID=6| A | B : Oh , I think it would , it would be a lot of work but , um , you know , because it's , you know ,
+	Free: Pattern=you, Pattern=a, Pattern=it, Pattern=I, Pattern=be, Pattern=lot, Pattern=but, Pattern=of, Pattern=know ,
+	Constrained: Pattern=know
+Turn ID=7| B | M : There is no rule that states that judges have to be judges .
+	Free: Pattern=to be, Pattern=is, Pattern=have, Pattern=that
+	Constrained: Pattern=to, Pattern=be
+Turn ID=8| A | B : So , we will play either out there or at Firewheel . That is usually where we play , but I have played you know different courses in in the Dallas area .
+	Free: Pattern=have, Pattern=So, Pattern=in the, Pattern=but I, Pattern=in, Pattern=know, Pattern=is, Pattern=you, Pattern=, but
+	Constrained: Pattern=the, Pattern=in, Pattern=but, Pattern=I
+Turn ID=9| B | M : I do . but I don'' know what they are .
+	Free: Pattern=are, Pattern=I do, Pattern=but I, Pattern=know, Pattern=what, Pattern=they
+	Constrained: Pattern=but, Pattern=I, Pattern=do
+Turn ID=10| A | B : and one of the employees actually is driving by with a forklift and he pushes the wrong button and he drops a load of lumber on somebody and it injures , them .
+	Free: Pattern=of, Pattern=a, Pattern=is, Pattern=one of, Pattern=of the, Pattern=it, Pattern=and, Pattern=on, Pattern=the
+	Constrained: Pattern=the, Pattern=one, Pattern=of
+Turn ID=11| B | M : I've been to the very top of the world and I'm in the very bottom of the earth .
+	Free: Pattern=I've, Pattern=and, Pattern=in the, Pattern=the, Pattern=to, Pattern=of the
+	Constrained: Pattern=the, Pattern=in, Pattern=of
+Turn ID=12| A | B : Oh , gosh , I do not , I do not really have a list , cause I just kind of , uh , I just have all the books out , you know , I have book shelves and I have them all out and usually when I am through with one , I will go in and , uh , uh , uh , look , look through , uh , I have one now and I , I can not remember the name of it that I , that I got is the sister-in-law in Chicago usually sends me for my birthday or , or Christmas or something will send me another , another good book and , uh , uh ,
+	Free: Pattern=good, Pattern=you, Pattern=have, Pattern=I can, Pattern=have a, Pattern=I do, Pattern=in, Pattern=that, Pattern=of, Pattern=know ,, Pattern=it, Pattern=and, Pattern=one, Pattern=I, Pattern=really, Pattern=is the, Pattern=uh ,, Pattern=the, Pattern=not, Pattern=something
+	Constrained: Pattern=have, Pattern=I, Pattern=know, Pattern=is, Pattern=the, Pattern=do, Pattern=a
+Turn ID=13| B | M : I can't . I'm a Democrat .
+	Free: Pattern=a, Pattern=I, Pattern=can't
+	Constrained: 
+Turn ID=14| A | B : Yeah , I like Moody Blues . I , I like mostly the older groups I think . Oh , but we do have , I like Simply Red , we got Simply Red . I figure all our C Ds that we have what I really like And , uh , I like Breeze , I like the group . I think just because they all sort of sound , they sound a lot like uh , Simply Red . Uh .
+	Free: Pattern=, they, Pattern=of, Pattern=, but, Pattern=have, Pattern=I, Pattern=really, Pattern=that, Pattern=what, Pattern=they, Pattern=do, Pattern=a, Pattern=uh ,, Pattern=lot, Pattern=the
+	Constrained: Pattern=but, Pattern=they
+Turn ID=15| B | M : yeah , they are in jail .
+	Free: Pattern=, they, Pattern=in, Pattern=are, Pattern=yeah
+	Constrained: Pattern=they
+Turn ID=16| A | B : It seems like they would be able to .
+	Free: Pattern=they, Pattern=to, Pattern=be
+	Constrained: 
+Turn ID=17| B | M : I love it .
+	Free: Pattern=I, Pattern=it
+	Constrained: 
+Turn ID=18| A | B : And , uh , and her nose is that pink , you know ,
+	Free: Pattern=know ,, Pattern=you, Pattern=and, Pattern=is, Pattern=uh ,, Pattern=that
+	Constrained: Pattern=know
+Turn ID=19| B | M : I can start working on it in an hour .
+	Free: Pattern=I can, Pattern=in, Pattern=on, Pattern=it
+	Constrained: Pattern=I
+Turn ID=20| A | B : And I think that people know that they're going to get a slap on the wrist , they might serve a little bit of time and that they'll be out on the street again .
+	Free: Pattern=, they, Pattern=of, Pattern=get a, Pattern=a, Pattern=and, Pattern=I, Pattern=know, Pattern=be, Pattern=to, Pattern=that, Pattern=on, Pattern=the
+	Constrained: Pattern=a, Pattern=they
+Turn ID=21| B | M : I'm sure I could find something else to say about it
+	Free: Pattern=it, Pattern=I, Pattern=else, Pattern=to, Pattern=something
+	Constrained: 
+Turn ID=22| A | B : Oh , really .
+	Free: Pattern=really
+	Constrained: 
+Turn ID=23| B | M : Uhhhhhhhhhh .
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : Yeah , I don't understand that , they , they don't want to be with anybody else .
+	Free: Pattern=, they, Pattern=I, Pattern=else, Pattern=to be, Pattern=that
+	Constrained: Pattern=they, Pattern=to, Pattern=be
+Turn ID=25| B | M : I'm sure you could get a good deal on it if you really wanted it .
+	Free: Pattern=good, Pattern=you, Pattern=get a, Pattern=it, Pattern=really, Pattern=on
+	Constrained: Pattern=a
+Turn ID=26| A | B : Uh-huh . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : Wait , who is the winner of the lottery ?
+	Free: Pattern=is the, Pattern=of the
+	Constrained: Pattern=the, Pattern=is, Pattern=of
+Turn ID=28| A | B : Yeah . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : It's been great .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Oh , yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=31| B | M : A lot .
+	Free: Pattern=lot
+	Constrained: 
+Turn ID=32| A | B : Yeah , it's , it's really , it's , and I've seen in more in Durham than I have in Raleigh or , or or Chapel Hill .
+	Free: Pattern=I've, Pattern=have, Pattern=and, Pattern=I, Pattern=in, Pattern=really
+	Constrained: 
+Turn ID=33| B | M : It's fine .
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : I think so , and a lot , I think people are , are used to now saying what's , what's on their minds more more up front than they used to be .
+	Free: Pattern=they, Pattern=a, Pattern=and, Pattern=to, Pattern=to be, Pattern=are, Pattern=I, Pattern=on, Pattern=lot
+	Constrained: Pattern=to, Pattern=be
+Turn ID=35| B | M : So . h
+	Free: Pattern=So
+	Constrained: 
+Turn ID=36| A | B : Well , it is to me . Most people prefer the security of nine to five , and weekends off and knowing that their insurance is paid and their retirement ,
+	Free: Pattern=of, Pattern=is, Pattern=the, Pattern=to, Pattern=that, Pattern=it, Pattern=and
+	Constrained: 

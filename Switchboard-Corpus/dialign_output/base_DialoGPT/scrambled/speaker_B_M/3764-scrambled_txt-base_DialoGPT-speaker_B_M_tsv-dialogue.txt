@@ -1,0 +1,247 @@
+A|0| B: But _, uh ,_ 
+B|1| M: I've been _a_ Vikings fan since _the_ Vikings _were_ founded _, I'm_ _a_ Packers fan _, and_ _I'm_ _not_ even _a_ Vikings fans . 
+A|2| B: _And_ _, uh ,_ or _they_ fool [the] , [the] defense _in_ thinking that they're _, you know ,_ because _when_ _they_ go through those processes _they_ kind _of_ pick out who _they_ _want_ . 
+B|3| M: _I think_ _it's_ fine . 
+A|4| B: _Yeah_ _, [I_ think] _so_ _. [I_ think] women _have_ come out more too , on , on like child abuse [and] [, and] [the] wife beatings , 
+B|5| M: Your words 
+A|6| B: It's _, I_ [, I'm] [, I'm] probably [the] , one _of_ [the] youngest _people_ that live over here . 
+B|7| M: _Uh [,_ uh] . 
+A|8| B: [and] they're both boys _so_ _they_ _just_ one _year_ after [the] other _in_ each other's clothes _, so_ . But , um , that's [the] hardest part _for_ us is that [it's] _really_ , um _, you know ,_ budgeting [and] some extra things _, you know ,_ that _are_ more _, you know ,_ nonessential items . 
+B|9| M: [I] _don't_ [know] _what_ _to_ say . [it's] [just] _something_ I've noticed . 
+A|10| B: _Yeah_ _, I_ _, I_ , yeah _, I_ _, I_ _, I_ truly believe that , that before that , that _we have_ [to] address [the] racial , racial issues _in the_ United States , before _we_ can go anywhere . 
+B|11| M: [I] _don't_ . 
+A|12| B: [and] _they_ _have_ [to] pay [a] penalty _for_ every ounce or pound _of_ _this_ certain type _of_ freon that _they_ use _in the_ air conditioning systems 
+B|13| M: [I] guess . 
+A|14| B: _Well ,_ it takes [a] little brainwashing first . 
+B|15| M: What _do_ [you] _mean_ ? 
+A|16| B: [Uh ,] yeah , we're tired _of_ doing it though . We _, we_ [don't] _want_ _to do_ too much more 
+B|17| M: _Right_ [, so] _, it's_ important [to] _me_ . 
+A|18| B: _Yeah ._ 
+B|19| M: Umm ... [and] [I] always [think] [it's] funny [when] [people] say [they] disagree with _me_ . 
+A|20| B: _Yeah_ , East Texas is recruiting _for_ _, you know ,_ their fall semester 
+B|21| M: [Yeah _.] [Yeah_ .] Like _. You_ . Know . The . Fun _. You_ . 
+A|22| B: [Yeah] [I] [mean] _, _I_ know_ that's [what] _my_ father-in-law was talking _about_ _, you know ,_ [when] [you] give these [people] money or , [what] was it _they were_ bringing up points asking as far as whether [they] need [to] give , um , more money [to] these [people] _, I_ [mean] [, and] that's [not] _really_ [the] answer _, I_ [mean] , because if they're alcoholics they'll [just] go out [and] spend , it on _, you know ,_ booze or [something] like that , 
+B|23| M: That 
+A|24| B: I'll be right back . Excuse [me] , [just] [a] moment . They're going [to] get mad 
+B|25| M: What [about] [a] book ? 
+A|26| B: [I] [mean] [, it's] like , if [you] plan [a] _year_ ahead _, you_ can probably save up seven hundred dollars _you know ,_ one thousand four hundred dollars [to] send your child [to] college _, you know_ . 
+B|27| M: The story [of] [my] life 
+A|28| B: [You] can see that horrible , horrible brown haze . 
+B|29| M: [Well _,] they_ [are] . 
+A|30| B: Uh-huh . 
+B|31| M: [Well [,] [we] have] [a] lot [to do] . 
+A|32| B: [Yeah .] [Right] . 
+B|33| M: [I] [don't] [know ,] but [, you know [,] it's] [in the] title . 
+A|34| B: Gives [you] sympathy _for_ [the] vigilantes . 
+B|35| M: [And] dogs 
+A|36| B: [Right] . 
+B|37| M: This [, uh ,] reminds 
+A|38| B: [Right] . [Right] [. Yeah] [, it's] nice [to] get out [in the] open air . 
+B|39| M: [I know] [I'm] [a] minority , but [I] love [this] show . 
+A|40| B: [Yeah .] 
+B|41| M: How , [are] . 
+A|42| B: [And] [I think] one [of] [the] big things that [you] can [do] is , [to] increase deterrence is [, uh ,] if someone is found guilty [of] [a] [, uh ,] felony level offense [, they] lose their citizenship . [And] [they] lose their constitutional rights [. You] [know ,] 
+B|43| M: [I] [don't] [, I] [just] [want] an Airbag 
+A|44| B: Uh-huh . 
+B|45| M:  . 
+A|46| B: [Yeah] , see , that's _the same thing_ here . 
+B|47| M: [I'm] [a] 13 [year] old girl [. I] [do] [the same thing] . 
+A|48| B: [I think] _for_ serial murder it is warranted because if [a] person who would [do] [something] like that [in] cold blood , 
+B|49| M: _Oh ,_ [really] ? 
+A|50| B: [Right] . 
+B|51| M: What [do] [you] [do] [for] [a] living ? 
+A|52| B: Uh-huh , yeah . 
+B|53| M: Uhuh . Uhuh . 
+A|54| B: [Yeah] [, I] [have] , too [. I] was real skinny till [I] was ten . 
+B|55| M:  
+A|56| B: [Oh ,] absolutely . 
+B|57| M: Maybe [, I] could 
+A|58| B: [Oh ,] boy , that's frustrating . 
+B|59| M: [I think] [they were] [just] feeling bad . 
+A|60| B: It is [, and] that's why [we] decided [to] build . We looked at things that [were] already [, uh ,] built 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : But , uh ,
+	Free: Pattern=, uh ,
+	Constrained: Pattern=, uh
+Turn ID=1| B | M : I've been a Vikings fan since the Vikings were founded , I'm a Packers fan , and I'm not even a Vikings fans .
+	Free: Pattern=I'm, Pattern=a, Pattern=the, Pattern=, and, Pattern=, I'm, Pattern=were, Pattern=not
+	Constrained: Pattern=and, Pattern=I'm
+Turn ID=2| A | B : And , uh , or they fool the , the defense in thinking that they're , you know , because when they go through those processes they kind of pick out who they want .
+	Free: Pattern=of, Pattern=want, Pattern=And, Pattern=they, Pattern=, you know ,, Pattern=in, Pattern=, uh ,, Pattern=the, Pattern=when
+	Constrained: Pattern=, you know, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=, uh, Pattern=know, Pattern=, you
+Turn ID=3| B | M : I think it's fine .
+	Free: Pattern=I think, Pattern=it's
+	Constrained: Pattern=think, Pattern=I
+Turn ID=4| A | B : Yeah , I think so . I think women have come out more too , on , on like child abuse and , and the wife beatings ,
+	Free: Pattern=have, Pattern=, I, Pattern=and, Pattern=. I, Pattern=I think, Pattern=the, Pattern=, and, Pattern=Yeah, Pattern=so
+	Constrained: Pattern=and, Pattern=think, Pattern=I
+Turn ID=5| B | M : Your words
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : It's , I , I'm , I'm probably the , one of the youngest people that live over here .
+	Free: Pattern=of, Pattern=people, Pattern=, I, Pattern=the, Pattern=, I'm
+	Constrained: Pattern=I'm, Pattern=I
+Turn ID=7| B | M : Uh , uh .
+	Free: Pattern=, uh, Pattern=Uh ,
+	Constrained: 
+Turn ID=8| A | B : and they're both boys so they just one year after the other in each other's clothes , so . But , um , that's the hardest part for us is that it's really , um , you know , budgeting and some extra things , you know , that are more , you know , nonessential items .
+	Free: Pattern=just, Pattern=they, Pattern=, you know ,, Pattern=for, Pattern=and, Pattern=are, Pattern=in, Pattern=really, Pattern=year, Pattern=the, Pattern=, so, Pattern=it's, Pattern=so
+	Constrained: Pattern=you, Pattern=, you know, Pattern=so, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=9| B | M : I don't know what to say . it's just something I've noticed .
+	Free: Pattern=just, Pattern=what, Pattern=I, Pattern=know, Pattern=don't, Pattern=to, Pattern=it's, Pattern=something
+	Constrained: 
+Turn ID=10| A | B : Yeah , I , I , yeah , I , I , I truly believe that , that before that , that we have to address the racial , racial issues in the United States , before we can go anywhere .
+	Free: Pattern=, I, Pattern=in the, Pattern=we have, Pattern=we, Pattern=the, Pattern=to, Pattern=Yeah
+	Constrained: Pattern=have, Pattern=I, Pattern=in, Pattern=we, Pattern=the
+Turn ID=11| B | M : I don't .
+	Free: Pattern=don't, Pattern=I
+	Constrained: 
+Turn ID=12| A | B : and they have to pay a penalty for every ounce or pound of this certain type of freon that they use in the air conditioning systems
+	Free: Pattern=of, Pattern=have, Pattern=they, Pattern=a, Pattern=for, Pattern=and, Pattern=in the, Pattern=to, Pattern=this
+	Constrained: Pattern=in, Pattern=the
+Turn ID=13| B | M : I guess .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=14| A | B : Well , it takes a little brainwashing first .
+	Free: Pattern=Well ,, Pattern=a
+	Constrained: 
+Turn ID=15| B | M : What do you mean ?
+	Free: Pattern=do, Pattern=mean, Pattern=you
+	Constrained: 
+Turn ID=16| A | B : Uh , yeah , we're tired of doing it though . We , we don't want to do too much more
+	Free: Pattern=of, Pattern=want, Pattern=to do, Pattern=, we, Pattern=Uh ,, Pattern=don't
+	Constrained: Pattern=do, Pattern=to, Pattern=we
+Turn ID=17| B | M : Right , so , it's important to me .
+	Free: Pattern=me, Pattern=, it's, Pattern=Right, Pattern=to, Pattern=, so
+	Constrained: Pattern=so, Pattern=it's
+Turn ID=18| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=19| B | M : Umm ... and I always think it's funny when people say they disagree with me .
+	Free: Pattern=people, Pattern=me, Pattern=they, Pattern=and, Pattern=I, Pattern=think, Pattern=when, Pattern=it's
+	Constrained: 
+Turn ID=20| A | B : Yeah , East Texas is recruiting for , you know , their fall semester
+	Free: Pattern=, you know ,, Pattern=Yeah, Pattern=for
+	Constrained: Pattern=you, Pattern=, you know, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=21| B | M : Yeah . Yeah . Like . You . Know . The . Fun . You .
+	Free: Pattern=Yeah ., Pattern=. Yeah, Pattern=. You
+	Constrained: Pattern=Yeah, Pattern=You
+Turn ID=22| A | B : Yeah I mean , I know that's what my father-in-law was talking about , you know , when you give these people money or , what was it they were bringing up points asking as far as whether they need to give , um , more money to these people , I mean , and that's not really the answer , I mean , because if they're alcoholics they'll just go out and spend , it on , you know , booze or something like that ,
+	Free: Pattern=you, Pattern=they were, Pattern=and, Pattern=I, Pattern=about, Pattern=really, Pattern=the, Pattern=when, Pattern=Yeah, Pattern=my, Pattern=people, Pattern=just, Pattern=mean, Pattern=what, Pattern=they, Pattern=, you know ,, Pattern=, I, Pattern=, and, Pattern=to, Pattern=I know, Pattern=not, Pattern=something
+	Constrained: Pattern=you, Pattern=they, Pattern=and, Pattern=I, Pattern=, you know, Pattern=were, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=23| B | M : That
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : I'll be right back . Excuse me , just a moment . They're going to get mad
+	Free: Pattern=to, Pattern=a, Pattern=just, Pattern=me
+	Constrained: 
+Turn ID=25| B | M : What about a book ?
+	Free: Pattern=a, Pattern=about
+	Constrained: 
+Turn ID=26| A | B : I mean , it's like , if you plan a year ahead , you can probably save up seven hundred dollars you know , one thousand four hundred dollars to send your child to college , you know .
+	Free: Pattern=you know ,, Pattern=you, Pattern=mean, Pattern=a, Pattern=I, Pattern=, you know, Pattern=, it's, Pattern=, you, Pattern=year, Pattern=to
+	Constrained: Pattern=know ,, Pattern=you, Pattern=it's, Pattern=know, Pattern=, you
+Turn ID=27| B | M : The story of my life
+	Free: Pattern=of, Pattern=my
+	Constrained: 
+Turn ID=28| A | B : You can see that horrible , horrible brown haze .
+	Free: Pattern=You
+	Constrained: 
+Turn ID=29| B | M : Well , they are .
+	Free: Pattern=Well ,, Pattern=, they, Pattern=are
+	Constrained: Pattern=they
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : Well , we have a lot to do .
+	Free: Pattern=to do, Pattern=a, Pattern=, we, Pattern=we have, Pattern=Well ,
+	Constrained: Pattern=do, Pattern=to, Pattern=we, Pattern=have
+Turn ID=32| A | B : Yeah . Right .
+	Free: Pattern=Yeah ., Pattern=Right
+	Constrained: Pattern=Yeah
+Turn ID=33| B | M : I don't know , but , you know , it's in the title .
+	Free: Pattern=know ,, Pattern=, you know ,, Pattern=, it's, Pattern=don't, Pattern=in the, Pattern=I
+	Constrained: Pattern=you, Pattern=, you know, Pattern=in, Pattern=the, Pattern=it's, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=34| A | B : Gives you sympathy for the vigilantes .
+	Free: Pattern=for, Pattern=you, Pattern=the
+	Constrained: 
+Turn ID=35| B | M : And dogs
+	Free: Pattern=And
+	Constrained: 
+Turn ID=36| A | B : Right .
+	Free: Pattern=Right
+	Constrained: 
+Turn ID=37| B | M : This , uh , reminds
+	Free: Pattern=, uh ,
+	Constrained: Pattern=, uh
+Turn ID=38| A | B : Right . Right . Yeah , it's nice to get out in the open air .
+	Free: Pattern=. Yeah, Pattern=in the, Pattern=, it's, Pattern=Right, Pattern=to
+	Constrained: Pattern=Yeah, Pattern=it's, Pattern=in, Pattern=the
+Turn ID=39| B | M : I know I'm a minority , but I love this show .
+	Free: Pattern=I'm, Pattern=a, Pattern=I, Pattern=this, Pattern=I know
+	Constrained: Pattern=know, Pattern=I
+Turn ID=40| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=41| B | M : How , are .
+	Free: Pattern=are
+	Constrained: 
+Turn ID=42| A | B : And I think one of the big things that you can do is , to increase deterrence is , uh , if someone is found guilty of a , uh , felony level offense , they lose their citizenship . And they lose their constitutional rights . You know ,
+	Free: Pattern=, they, Pattern=you, Pattern=And, Pattern=they, Pattern=the, Pattern=to, Pattern=. You, Pattern=of, Pattern=know ,, Pattern=do, Pattern=a, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=, uh, Pattern=they, Pattern=I, Pattern=think, Pattern=know, Pattern=You
+Turn ID=43| B | M : I don't , I just want an Airbag
+	Free: Pattern=want, Pattern=just, Pattern=, I, Pattern=I, Pattern=don't
+	Constrained: Pattern=I
+Turn ID=44| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : Yeah , see , that's the same thing here .
+	Free: Pattern=the same thing, Pattern=Yeah
+	Constrained: Pattern=the
+Turn ID=47| B | M : I'm a 13 year old girl . I do the same thing .
+	Free: Pattern=I'm, Pattern=. I, Pattern=year, Pattern=do, Pattern=the same thing, Pattern=a
+	Constrained: Pattern=I, Pattern=the
+Turn ID=48| A | B : I think for serial murder it is warranted because if a person who would do something like that in cold blood ,
+	Free: Pattern=for, Pattern=in, Pattern=I think, Pattern=something, Pattern=do, Pattern=a
+	Constrained: Pattern=think, Pattern=I
+Turn ID=49| B | M : Oh , really ?
+	Free: Pattern=Oh ,, Pattern=really
+	Constrained: 
+Turn ID=50| A | B : Right .
+	Free: Pattern=Right
+	Constrained: 
+Turn ID=51| B | M : What do you do for a living ?
+	Free: Pattern=do, Pattern=a, Pattern=for, Pattern=you
+	Constrained: 
+Turn ID=52| A | B : Uh-huh , yeah .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : Uhuh . Uhuh .
+	Free: 
+	Constrained: 
+Turn ID=54| A | B : Yeah , I have , too . I was real skinny till I was ten .
+	Free: Pattern=have, Pattern=, I, Pattern=I, Pattern=. I, Pattern=Yeah
+	Constrained: Pattern=I
+Turn ID=55| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=56| A | B : Oh , absolutely .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=57| B | M : Maybe , I could
+	Free: Pattern=, I
+	Constrained: Pattern=I
+Turn ID=58| A | B : Oh , boy , that's frustrating .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=59| B | M : I think they were just feeling bad .
+	Free: Pattern=they were, Pattern=I think, Pattern=just
+	Constrained: Pattern=think, Pattern=they, Pattern=were, Pattern=I
+Turn ID=60| A | B : It is , and that's why we decided to build . We looked at things that were already , uh , built
+	Free: Pattern=we, Pattern=, uh ,, Pattern=were, Pattern=, and, Pattern=to
+	Constrained: Pattern=, uh, Pattern=and

@@ -1,0 +1,183 @@
+A|0| A: and , and _I_ just _have_ no tolerance for _that ._ 
+B|1| M: [I] dunno _, I_ guess I'll [have] _to_ see . 
+A|2| A: _Yes_ 
+B|3| M: When did he die ? 
+A|4| A: _so_ . 
+B|5| M: _Yeah ,_ I'm gonna [have] _to_ do [that .] 
+A|6| A: [I] enjoy , Excuse me , go ahead . Uh-huh . 
+B|7| M: _I don't_ , but I'm _right_ . 
+A|8| A: Uh-huh . 
+B|9| M: You _don't_ [have] _to _be_ a_ criminal _to be_ _in_ jail . 
+A|10| A: _Oh _,_ yeah ._ [I] [, I] [, [I] don't] agree with [that] at _all_ . 
+B|11| M: [I don't] _know_ _if_ _you know_ this but _the_ last time [I] lived _in_ Paris _was_ in'96 . 
+A|12| A: Uh-huh . 
+B|13| M: She nods . 
+A|14| A: [I] [know] where [you] mean . There is [a] Mobil and _all_ [that] kind of uh , on [that] one corner , that's about Lookout there [, _I] think_ , isn't it . 
+B|15| M: _And_ _we_ [have] [a] daughter 
+A|16| A: [Yeah ,] probably [, I] [was] allergic [to] dogs when [I] _was a_ kid , [in] fact , 
+B|17| M: We . 
+A|18| A: [Yeah ,] and _he's_ got , [you know] , seven brothers and sisters and , and , uh , _he's_ [the] one because _he's_ [the] one [that] isn't going [to] work every day and [that] she moved [in] with when she needed [to] move [in] with someone . [And] , 
+B|19| M: [Yes] , I'm [a] student . 
+A|20| A: Wonderful . [Yes] . 
+B|21| M: Uhhh [, yeah .] 
+A|22| A: _so_ we're considering Pennsylvania , and we're just kind of , [you know] , toying with what exactly , where [we] want [to be] , [you _know] ._ 
+B|23| M: [I think] [the] first car [was a] Toyota Camry . 
+A|24| A: That's [right] , [you] sure [don't] . At times [I] keep thinking , though , [that] might [be] kind of nice . 
+B|25| M: We're [all] [in] [a] bath . 
+A|26| A: [Yeah] . 
+B|27| M: [I] wonder how _much_ money _they_ pay [to] [the] judge . 
+A|28| A: Sure . [Yeah] . 
+B|29| M: You _too_ . 
+A|30| A: Um . 
+B|31| M: He's gone . 
+A|32| A: oh , gosh and _it's_ _so_ hard because , [you know] , everybody is wanting [to] go on and get [the] sentence done , and [if] you're trying [to] hold out , [you know] , there's _so_ [much] pressure on [you] and you've got [to] come up with [a] decision . 
+B|33| M: I'm [a] pitcher , [so] ... 
+A|34| A: Kind of scary when [you] [think] about [that .] 
+B|35| M: [I think] [he's] _saying_ [it's] [a] good thing he _didn't_ [have] [to] do [that .] 
+A|36| A: Uh-huh . 
+B|37| M: You [know .] their . their . 
+A|38| A: Great . [Yeah] . 
+B|39| M: _Well_ 
+A|40| A: [Yeah] . [Yeah ,] you're probably [right] , two years might [be a] little [too] long . 
+B|41| M: So . Where do [you] live ? 
+A|42| A: Uh-huh . 
+B|43| M: [Oh ,] I'm _not_ [that] crazy . 
+A|44| A: [Well] , no [, [I] don't] [think] [they] can , [they] can force another company [to] [not] drug test me just by [saying] [that] [I] [, I] [didn't] [, I] mean , 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : and , and I just have no tolerance for that .
+	Free: Pattern=that ., Pattern=I, Pattern=have
+	Constrained: Pattern=that
+Turn ID=1| B | M : I dunno , I guess I'll have to see .
+	Free: Pattern=, I, Pattern=I, Pattern=have, Pattern=to
+	Constrained: Pattern=I
+Turn ID=2| A | A : Yes
+	Free: Pattern=Yes
+	Constrained: 
+Turn ID=3| B | M : When did he die ?
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : so .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=5| B | M : Yeah , I'm gonna have to do that .
+	Free: Pattern=that ., Pattern=Yeah ,, Pattern=have, Pattern=to
+	Constrained: Pattern=Yeah, Pattern=that
+Turn ID=6| A | A : I enjoy , Excuse me , go ahead . Uh-huh .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=7| B | M : I don't , but I'm right .
+	Free: Pattern=I don't, Pattern=right
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=8| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : You don't have to be a criminal to be in jail .
+	Free: Pattern=have, Pattern=in, Pattern=be a, Pattern=don't, Pattern=to be
+	Constrained: Pattern=a, Pattern=be, Pattern=to
+Turn ID=10| A | A : Oh , yeah . I , I , I don't agree with that at all .
+	Free: Pattern=, I, Pattern=I, Pattern=I don't, Pattern=, yeah ., Pattern=Oh ,, Pattern=all, Pattern=that
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=11| B | M : I don't know if you know this but the last time I lived in Paris was in'96 .
+	Free: Pattern=you know, Pattern=I don't, Pattern=in, Pattern=know, Pattern=the, Pattern=was, Pattern=I, Pattern=if
+	Constrained: Pattern=you, Pattern=know, Pattern=I, Pattern=don't
+Turn ID=12| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : She nods .
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : I know where you mean . There is a Mobil and all that kind of uh , on that one corner , that's about Lookout there , I think , isn't it .
+	Free: Pattern=you, Pattern=I, Pattern=know, Pattern=I think, Pattern=all, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=think
+Turn ID=15| B | M : And we have a daughter
+	Free: Pattern=a, Pattern=we, Pattern=And, Pattern=have
+	Constrained: 
+Turn ID=16| A | A : Yeah , probably , I was allergic to dogs when I was a kid , in fact ,
+	Free: Pattern=, I, Pattern=I, Pattern=was a, Pattern=in, Pattern=Yeah ,, Pattern=to, Pattern=was
+	Constrained: Pattern=a, Pattern=was, Pattern=I, Pattern=Yeah
+Turn ID=17| B | M : We .
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : Yeah , and he's got , you know , seven brothers and sisters and , and , uh , he's the one because he's the one that isn't going to work every day and that she moved in with when she needed to move in with someone . And ,
+	Free: Pattern=you know, Pattern=And, Pattern=he's, Pattern=in, Pattern=the, Pattern=Yeah ,, Pattern=to, Pattern=that
+	Constrained: Pattern=you, Pattern=know, Pattern=Yeah
+Turn ID=19| B | M : Yes , I'm a student .
+	Free: Pattern=a, Pattern=Yes
+	Constrained: 
+Turn ID=20| A | A : Wonderful . Yes .
+	Free: Pattern=Yes
+	Constrained: 
+Turn ID=21| B | M : Uhhh , yeah .
+	Free: Pattern=, yeah .
+	Constrained: 
+Turn ID=22| A | A : so we're considering Pennsylvania , and we're just kind of , you know , toying with what exactly , where we want to be , you know .
+	Free: Pattern=you know, Pattern=we, Pattern=know ., Pattern=to be, Pattern=so
+	Constrained: Pattern=you, Pattern=know, Pattern=be, Pattern=to
+Turn ID=23| B | M : I think the first car was a Toyota Camry .
+	Free: Pattern=I think, Pattern=was a, Pattern=the
+	Constrained: Pattern=a, Pattern=was, Pattern=I, Pattern=think
+Turn ID=24| A | A : That's right , you sure don't . At times I keep thinking , though , that might be kind of nice .
+	Free: Pattern=right, Pattern=you, Pattern=I, Pattern=be, Pattern=don't, Pattern=that
+	Constrained: 
+Turn ID=25| B | M : We're all in a bath .
+	Free: Pattern=a, Pattern=in, Pattern=all
+	Constrained: 
+Turn ID=26| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=27| B | M : I wonder how much money they pay to the judge .
+	Free: Pattern=they, Pattern=I, Pattern=much, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=28| A | A : Sure . Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=29| B | M : You too .
+	Free: Pattern=too
+	Constrained: 
+Turn ID=30| A | A : Um .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : He's gone .
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : oh , gosh and it's so hard because , you know , everybody is wanting to go on and get the sentence done , and if you're trying to hold out , you know , there's so much pressure on you and you've got to come up with a decision .
+	Free: Pattern=a, Pattern=if, Pattern=much, Pattern=the, Pattern=to, Pattern=it's, Pattern=so, Pattern=you, Pattern=you know
+	Constrained: Pattern=you, Pattern=know
+Turn ID=33| B | M : I'm a pitcher , so ...
+	Free: Pattern=a, Pattern=so
+	Constrained: 
+Turn ID=34| A | A : Kind of scary when you think about that .
+	Free: Pattern=that ., Pattern=you, Pattern=think
+	Constrained: Pattern=that
+Turn ID=35| B | M : I think he's saying it's a good thing he didn't have to do that .
+	Free: Pattern=that ., Pattern=have, Pattern=a, Pattern=to, Pattern=it's, Pattern=didn't, Pattern=he's, Pattern=I think, Pattern=saying
+	Constrained: Pattern=I, Pattern=think, Pattern=that
+Turn ID=36| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : You know . their . their .
+	Free: Pattern=know .
+	Constrained: Pattern=know
+Turn ID=38| A | A : Great . Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=39| B | M : Well
+	Free: Pattern=Well
+	Constrained: 
+Turn ID=40| A | A : Yeah . Yeah , you're probably right , two years might be a little too long .
+	Free: Pattern=right, Pattern=too, Pattern=be a, Pattern=Yeah ,, Pattern=Yeah
+	Constrained: Pattern=a, Pattern=Yeah, Pattern=be
+Turn ID=41| B | M : So . Where do you live ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=42| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : Oh , I'm not that crazy .
+	Free: Pattern=Oh ,, Pattern=not, Pattern=that
+	Constrained: 
+Turn ID=44| A | A : Well , no , I don't think they can , they can force another company to not drug test me just by saying that I , I didn't , I mean ,
+	Free: Pattern=they, Pattern=, I, Pattern=I, Pattern=didn't, Pattern=I don't, Pattern=think, Pattern=Well, Pattern=saying, Pattern=to, Pattern=that, Pattern=not
+	Constrained: Pattern=I, Pattern=don't

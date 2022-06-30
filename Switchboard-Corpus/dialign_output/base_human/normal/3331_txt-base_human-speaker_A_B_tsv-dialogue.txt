@@ -1,0 +1,207 @@
+A|0| A: _Well _,_ _what_ I_ believe _is_ one _of the_ major _uh ,_ things _that_ _is_ wrong _with_ _our_ public _school_ system _is_ _that_ , um , _we_ _do_ not _have_ enough discipline 
+B|1| B: _Uh-huh ._ 
+A|2| A: and _the_ parents _do_ not let _the_ teachers discipline _the_ children _the_ way _that_ _they_ need _to_ be disciplined right now . 
+B|3| B: _Uh-huh ._ _Uh-huh _._ I_ agree [with] _that ._ 
+A|4| A: Uh , when [I] went _to_ _school_ _, _I_ know_ [I] _was_ scared _to_ death about being disciplined , 
+B|5| B: _You_ were ? 
+A|6| A: and _the_ discipline [that] my _daughter_ receives now _in_ _going to_ _school_ _is_ just totally different . 
+B|7| B: _Uh-huh ._ _Uh-huh ._ 
+A|8| A: [You] _know ,_ _you_ just , _you_ did not _see_ _, I_ did not _see_ anybody _in_ my classrooms , when [I] _was_ _going to_ _school_ , _act up_ _the_ way [that] _kids_ _do_ these days _in_ _the_ classroom . 
+B|9| B: _Yeah ._ _Yeah _,_ yeah_ . From [what I] understand _, they_ [act up] _pretty_ bad 
+A|10| A: [Yeah ,] that's right , that's right . 
+B|11| B: What _, uh ,_ _grade_ [is] _your_ [daughter] [in] ? 
+A|12| A: My , my daughter's [in] _the_ , um , fourth [grade] 
+B|13| B: _Uh-huh ,_ uh-huh . 
+A|14| A: and , um , there's children [in] her classroom [that] just totally disrupt _the_ classroom , where _the_ teacher cannot teach 
+B|15| B: _Uh-huh ,_ uh-huh . _Yeah ._ 
+A|16| A: and when [I] went _to_ _school_ [that] just wasn't put [up] [with] . 
+B|17| B: _Oh ,_ no , uh-huh . They always _had_ _a_ paddle _in our school ._ 
+A|18| A: [Uh-huh .] _Well [,_ they] [, they] just _don't_ _do_ [that] _any_ more . 
+B|19| B: [I know] . 
+A|20| A: _But_ _the_ [school] system's afraid _of_ getting sued and , um , _all_ sorts _of_ lawsuits I'm sure because _of_ things like [that .] 
+B|21| B: [Uh-huh .] [Yeah _,] yeah_ . 
+A|22| A: And _, I_ also believe _we_ _don't_ , even though [I] feel like [I] pay [a] _good_ share towards _the_ [school] system , [that] _the_ teachers are still underpaid and _we_ still _don't have_ enough money towards put [in] toward public [school .] 
+B|23| B: _Uh-huh ,_ uh-huh . [Uh-huh .] 
+A|24| A: And , um _, I think_ [that] _if we_ [had] enough money and paid _the_ teachers [a] little bit more , [that] maybe [that] could solve some _of_ [our] problems . 
+B|25| B: _Yeah ._ Wasn't [that] [what] part [of the] lottery [is] [going _to] go for ,_ [if we] approve it ? 
+A|26| A: Yes supposedly that's [what] it's suppose [to go for ,] and _you_ _know ,_ we'll just _have_ [to] wait and _see_ whether that's approved or not . 
+B|27| B: [Uh-huh .] 
+A|28| A: [You] _know , I don't_ [know] [your] feelings toward [that [.] I] guess [we] shouldn't get into [that] but , um , and [what] else , um _, I think_ [in] some ways [that] [they] need [to] be more careful [of the] teachers [that] [they] hire . 
+B|29| B: [Uh-huh .] 
+A|30| A: [I] _have_ heard stories [, uh ,] from other parents [that] [I know] [of] , their children are [in] high [school] [that] teachers are out there giving drugs and selling drugs , 
+B|31| B: [Uh-huh .] No . Really ? 
+A|32| A: _Oh , yeah_ , 
+B|33| B: Ooh . 
+A|34| A: I've , I've heard some horrible , horrible stories about high , high [school] teachers 
+B|35| B: [Uh-huh .] 
+A|36| A: and , _you_ _know ,_ [to] be , be more careful [of the] teachers [that] [we] place [in our school .] 
+B|37| B: [Uh-huh .] _Um_ . 
+A|38| A: [Um] , that's basically about _all_ [that] [I know] [that] may be wrong [with] [the] [school] system [. _I] think_ , [with] [what] [they] _have_ [to] work [with] _, I think they're doing_ [a] [pretty] _good job_ right now . 
+B|39| B: [Oh [,] I] [do] too [, I think they're doing] _real_ [good job] . 
+A|40| A: [Uh-huh ,] so . 
+B|41| B: [But] , then [, what] [do] [I [know] , I [don't] have] [any] [kids] . No , none at [all] 
+A|42| A: [Yeah ,] okay , so this [is] probably [a] [real] hard subject [for] _you_ . 
+B|43| B: [Oh , yeah] 
+A|44| A: [Yeah .] _Okay_ , well [, I] guess , um , [we] can discontinue [our] call now . 
+B|45| B: [Okay] . 
+A|46| A: It _was_ [a] joy [in] _talking_ [with] _you_ . 
+B|47| B: [Well ,] it [was] [good] [talking] [to] [you] too . 
+A|48| A: [Okay] , thanks . 
+B|49| B: We'll [see] [you] , bye-bye . 
+A|50| A: Bye . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Well , what I believe is one of the major uh , things that is wrong with our public school system is that , um , we do not have enough discipline
+	Free: Pattern=have, Pattern=do, Pattern=, what, Pattern=Well ,, Pattern=is, Pattern=we, Pattern=uh ,, Pattern=what I, Pattern=our, Pattern=with, Pattern=of the, Pattern=that, Pattern=school
+	Constrained: Pattern=of, Pattern=I, Pattern=the, Pattern=what
+Turn ID=1| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=2| A | A : and the parents do not let the teachers discipline the children the way that they need to be disciplined right now .
+	Free: Pattern=they, Pattern=do, Pattern=the, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=3| B | B : Uh-huh . Uh-huh . I agree with that .
+	Free: Pattern=. I, Pattern=that ., Pattern=Uh-huh ., Pattern=with
+	Constrained: Pattern=I, Pattern=that
+Turn ID=4| A | A : Uh , when I went to school , I know I was scared to death about being disciplined ,
+	Free: Pattern=, I, Pattern=I, Pattern=to, Pattern=was, Pattern=school, Pattern=I know
+	Constrained: Pattern=I, Pattern=know
+Turn ID=5| B | B : You were ?
+	Free: Pattern=You
+	Constrained: 
+Turn ID=6| A | A : and the discipline that my daughter receives now in going to school is just totally different .
+	Free: Pattern=going to, Pattern=in, Pattern=daughter, Pattern=is, Pattern=the, Pattern=that, Pattern=school
+	Constrained: Pattern=to
+Turn ID=7| B | B : Uh-huh . Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=8| A | A : You know , you just , you did not see , I did not see anybody in my classrooms , when I was going to school , act up the way that kids do these days in the classroom .
+	Free: Pattern=going to, Pattern=know ,, Pattern=you, Pattern=act up, Pattern=in, Pattern=You, Pattern=the, Pattern=see, Pattern=was, Pattern=do, Pattern=, I, Pattern=kids, Pattern=I, Pattern=that, Pattern=school
+	Constrained: Pattern=I, Pattern=to, Pattern=know, Pattern=up
+Turn ID=9| B | B : Yeah . Yeah , yeah . From what I understand , they act up pretty bad
+	Free: Pattern=act up, Pattern=what I, Pattern=, yeah, Pattern=pretty, Pattern=Yeah ,, Pattern=, they, Pattern=Yeah .
+	Constrained: Pattern=what, Pattern=up, Pattern=they, Pattern=I
+Turn ID=10| A | A : Yeah , that's right , that's right .
+	Free: Pattern=Yeah ,
+	Constrained: 
+Turn ID=11| B | B : What , uh , grade is your daughter in ?
+	Free: Pattern=in, Pattern=daughter, Pattern=, uh ,, Pattern=grade, Pattern=is, Pattern=your
+	Constrained: Pattern=uh ,
+Turn ID=12| A | A : My , my daughter's in the , um , fourth grade
+	Free: Pattern=in, Pattern=grade, Pattern=the
+	Constrained: 
+Turn ID=13| B | B : Uh-huh , uh-huh .
+	Free: Pattern=Uh-huh ,
+	Constrained: 
+Turn ID=14| A | A : and , um , there's children in her classroom that just totally disrupt the classroom , where the teacher cannot teach
+	Free: Pattern=in, Pattern=that, Pattern=the
+	Constrained: 
+Turn ID=15| B | B : Uh-huh , uh-huh . Yeah .
+	Free: Pattern=Yeah ., Pattern=Uh-huh ,
+	Constrained: 
+Turn ID=16| A | A : and when I went to school that just wasn't put up with .
+	Free: Pattern=I, Pattern=up, Pattern=to, Pattern=with, Pattern=that, Pattern=school
+	Constrained: 
+Turn ID=17| B | B : Oh , no , uh-huh . They always had a paddle in our school .
+	Free: Pattern=in our school ., Pattern=Oh ,, Pattern=had, Pattern=a
+	Constrained: Pattern=school, Pattern=in, Pattern=our, Pattern=school .
+Turn ID=18| A | A : Uh-huh . Well , they , they just don't do that any more .
+	Free: Pattern=, they, Pattern=any, Pattern=Well ,, Pattern=don't, Pattern=that, Pattern=do, Pattern=Uh-huh .
+	Constrained: Pattern=they
+Turn ID=19| B | B : I know .
+	Free: Pattern=I know
+	Constrained: Pattern=I, Pattern=know
+Turn ID=20| A | A : But the school system's afraid of getting sued and , um , all sorts of lawsuits I'm sure because of things like that .
+	Free: Pattern=But, Pattern=school, Pattern=of, Pattern=that ., Pattern=the, Pattern=all
+	Constrained: Pattern=that
+Turn ID=21| B | B : Uh-huh . Yeah , yeah .
+	Free: Pattern=Yeah ,, Pattern=Uh-huh ., Pattern=, yeah
+	Constrained: 
+Turn ID=22| A | A : And , I also believe we don't , even though I feel like I pay a good share towards the school system , that the teachers are still underpaid and we still don't have enough money towards put in toward public school .
+	Free: Pattern=good, Pattern=I, Pattern=in, Pattern=the, Pattern=don't, Pattern=school ., Pattern=, I, Pattern=a, Pattern=we, Pattern=don't have, Pattern=that, Pattern=school
+	Constrained: Pattern=school, Pattern=I, Pattern=don't, Pattern=have
+Turn ID=23| B | B : Uh-huh , uh-huh . Uh-huh .
+	Free: Pattern=Uh-huh ,, Pattern=Uh-huh .
+	Constrained: 
+Turn ID=24| A | A : And , um , I think that if we had enough money and paid the teachers a little bit more , that maybe that could solve some of our problems .
+	Free: Pattern=of, Pattern=a, Pattern=our, Pattern=had, Pattern=, I think, Pattern=the, Pattern=that, Pattern=if we
+	Constrained: Pattern=, I, Pattern=I, Pattern=I think, Pattern=we
+Turn ID=25| B | B : Yeah . Wasn't that what part of the lottery is going to go for , if we approve it ?
+	Free: Pattern=to go for ,, Pattern=what, Pattern=is, Pattern=if we, Pattern=going to, Pattern=Yeah ., Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=for, Pattern=we, Pattern=the, Pattern=to
+Turn ID=26| A | A : Yes supposedly that's what it's suppose to go for , and you know , we'll just have to wait and see whether that's approved or not .
+	Free: Pattern=know ,, Pattern=have, Pattern=what, Pattern=see, Pattern=to, Pattern=you, Pattern=to go for ,
+	Constrained: Pattern=for, Pattern=to, Pattern=know
+Turn ID=27| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=28| A | A : You know , I don't know your feelings toward that . I guess we shouldn't get into that but , um , and what else , um , I think in some ways that they need to be more careful of the teachers that they hire .
+	Free: Pattern=that ., Pattern=. I, Pattern=in, Pattern=know, Pattern=we, Pattern=to, Pattern=what, Pattern=they, Pattern=know , I don't, Pattern=your, Pattern=You, Pattern=, I think, Pattern=of the, Pattern=that
+	Constrained: Pattern=, I, Pattern=I, Pattern=know, Pattern=I think, Pattern=the, Pattern=don't, Pattern=that, Pattern=of, Pattern=know ,
+Turn ID=29| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=30| A | A : I have heard stories , uh , from other parents that I know of , their children are in high school that teachers are out there giving drugs and selling drugs ,
+	Free: Pattern=of, Pattern=have, Pattern=I, Pattern=in, Pattern=, uh ,, Pattern=I know, Pattern=that, Pattern=school
+	Constrained: Pattern=uh ,, Pattern=I, Pattern=know
+Turn ID=31| B | B : Uh-huh . No . Really ?
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=32| A | A : Oh , yeah ,
+	Free: Pattern=Oh , yeah
+	Constrained: Pattern=Oh ,, Pattern=, yeah
+Turn ID=33| B | B : Ooh .
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : I've , I've heard some horrible , horrible stories about high , high school teachers
+	Free: Pattern=school
+	Constrained: 
+Turn ID=35| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=36| A | A : and , you know , to be , be more careful of the teachers that we place in our school .
+	Free: Pattern=know ,, Pattern=you, Pattern=we, Pattern=in our school ., Pattern=to, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=our, Pattern=in, Pattern=know, Pattern=the, Pattern=school ., Pattern=school
+Turn ID=37| B | B : Uh-huh . Um .
+	Free: Pattern=Uh-huh ., Pattern=Um
+	Constrained: 
+Turn ID=38| A | A : Um , that's basically about all that I know that may be wrong with the school system . I think , with what they have to work with , I think they're doing a pretty good job right now .
+	Free: Pattern=Um, Pattern=have, Pattern=a, Pattern=. I, Pattern=pretty, Pattern=I think, Pattern=to, Pattern=I know, Pattern=what, Pattern=they, Pattern=the, Pattern=all, Pattern=good job, Pattern=, I think they're doing, Pattern=with, Pattern=that, Pattern=school
+	Constrained: Pattern=good, Pattern=, I, Pattern=I, Pattern=know, Pattern=I think, Pattern=, I think
+Turn ID=39| B | B : Oh , I do too , I think they're doing real good job .
+	Free: Pattern=Oh ,, Pattern=real, Pattern=do, Pattern=, I, Pattern=good job, Pattern=, I think they're doing
+	Constrained: Pattern=good, Pattern=, I, Pattern=I, Pattern=I think, Pattern=, I think
+Turn ID=40| A | A : Uh-huh , so .
+	Free: Pattern=Uh-huh ,
+	Constrained: 
+Turn ID=41| B | B : But , then , what do I know , I don't have any kids . No , none at all
+	Free: Pattern=do, Pattern=, what, Pattern=any, Pattern=kids, Pattern=But, Pattern=know , I don't, Pattern=don't have, Pattern=all, Pattern=I know
+	Constrained: Pattern=know ,, Pattern=have, Pattern=what, Pattern=, I, Pattern=I, Pattern=know, Pattern=don't
+Turn ID=42| A | A : Yeah , okay , so this is probably a real hard subject for you .
+	Free: Pattern=you, Pattern=a, Pattern=for, Pattern=is, Pattern=Yeah ,, Pattern=real
+	Constrained: 
+Turn ID=43| B | B : Oh , yeah
+	Free: Pattern=Oh , yeah
+	Constrained: Pattern=Oh ,, Pattern=, yeah
+Turn ID=44| A | A : Yeah . Okay , well , I guess , um , we can discontinue our call now .
+	Free: Pattern=Yeah ., Pattern=, I, Pattern=our, Pattern=Okay, Pattern=we
+	Constrained: Pattern=I
+Turn ID=45| B | B : Okay .
+	Free: Pattern=Okay
+	Constrained: 
+Turn ID=46| A | A : It was a joy in talking with you .
+	Free: Pattern=you, Pattern=a, Pattern=talking, Pattern=in, Pattern=was, Pattern=with
+	Constrained: 
+Turn ID=47| B | B : Well , it was good talking to you too .
+	Free: Pattern=good, Pattern=you, Pattern=talking, Pattern=Well ,, Pattern=to, Pattern=was
+	Constrained: 
+Turn ID=48| A | A : Okay , thanks .
+	Free: Pattern=Okay
+	Constrained: 
+Turn ID=49| B | B : We'll see you , bye-bye .
+	Free: Pattern=you, Pattern=see
+	Constrained: 
+Turn ID=50| A | A : Bye .
+	Free: 
+	Constrained: 

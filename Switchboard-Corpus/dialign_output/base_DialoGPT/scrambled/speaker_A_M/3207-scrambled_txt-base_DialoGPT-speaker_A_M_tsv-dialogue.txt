@@ -1,0 +1,191 @@
+A|0| A: Right . _yeah_ . 
+B|1| M: Parking _is_ free on campus . 
+A|2| A: So that gives us special time together too . 
+B|3| M:  
+A|4| A: _I_ _mean_ , as _a_ matter _of_ fact , that's what we're doing tonight 
+B|5| M: _I know_ 
+A|6| A: Uh-huh . 
+B|7| M: You're welcome . 
+A|8| A: Saint Claude [is] that sound familiar ? 
+B|9| M: [I] 
+A|10| A: Uh-huh . Right . 
+B|11| M: He nods . 
+A|12| A: [I] think _it's_ from the time he jumped off the balcony 
+B|13| M: No _, it's_ _not_ . 
+A|14| A: Bye . 
+B|15| M:  
+A|16| A: Of _course_ , the chemicals themselves when _you_ buy them , they're expensive too . 
+B|17| M:  ... 
+A|18| A: Not this past fall _but I_ _mean_ fall , _a_ few years , [I] _mean_ , _it_ _it_ was in the , _yeah ,_ _it_ was almost like October _of_ eighty-five , 
+B|19| M: [I] want _a lot of_ [course] . 
+A|20| A: Yeah 
+B|21| M: _I love_ dogs _, [but_ I] hate dogs . 
+A|22| A: _uh_ , [I know] in my case , [I] , my wife and daughter were kidnapped , during [a] house robbery back in eighty-five 
+B|23| M: You . 
+A|24| A: and the discipline that my daughter receives now in _going_ _to_ school [is] _just_ totally different . 
+B|25| M:  . 
+A|26| A: So , 
+B|27| M:  
+A|28| A: Uh-huh . 
+B|29| M:  
+A|30| A: and now , they can't find them and they're finding bodies in _you know ,_ [I] _mean_ _, you_ think why they say [it's] because you're over crowd [, it's] over crowded , and _you_ think how [is] , [is] everybody that stupid or [is] the world _really_ that rotten 
+B|31| M: You're _right_ . 
+A|32| A: They became [a] very successful immigrant group . But , and [, but] [a lot of] people coming over from Vietnam , [right] now , coming from worn torn countries , _are_ , _are_ [not] having the same success . [I] think some people have _just_ assumed _, well_ , why , why can't _you_ be successful ? The Japanese were , or the Chinese were , or something . And [it's] _really_ much more complicated . 
+B|33| M: Oh [yeah _,] uh_ 
+A|34| A: or _, you know_ semi . 
+B|35| M: Ah [, well] _I'm just_ [a] little bit jealous . 
+A|36| A: Um , the area itself [, uh] , the Fort Worth Dallas area , um , has become kind [of] depressed because there's been so many layoffs with big companies , including Texas Instruments 
+B|37| M: What's [going] on ? 
+A|38| A: That's even harder . But , 
+B|39| M: Have [you] ever tried [to] use [it] ? 
+A|40| A: Yeah 
+B|41| M:  
+A|42| A: And so [I] [just] recently discovered jazzercise , about two months ago . And [I'm] getting [to] be [a] good dancer from [it] and [I'm just] feeling _really_ good . [I love] the class [, it's] real challenging , so [I'm] _really_ into that , [I] _really_ like that [a lot] . 
+B|43| M: Wait . You don't need insurance for [a] month ? 
+A|44| A: And [is] that supported by all donations [to] the church and so forth or , 
+B|45| M: It's [not] [really] [, [you know] ,] fun 
+B|46| M: You [mean] [you] [are] ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Right . yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=1| B | M : Parking is free on campus .
+	Free: Pattern=is
+	Constrained: 
+Turn ID=2| A | A : So that gives us special time together too .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : I mean , as a matter of fact , that's what we're doing tonight
+	Free: Pattern=of, Pattern=a, Pattern=mean, Pattern=I
+	Constrained: 
+Turn ID=5| B | M : I know
+	Free: Pattern=I know
+	Constrained: Pattern=I
+Turn ID=6| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : You're welcome .
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Saint Claude is that sound familiar ?
+	Free: Pattern=is
+	Constrained: 
+Turn ID=9| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=10| A | A : Uh-huh . Right .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : He nods .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : I think it's from the time he jumped off the balcony
+	Free: Pattern=it's, Pattern=I
+	Constrained: 
+Turn ID=13| B | M : No , it's not .
+	Free: Pattern=, it's, Pattern=not
+	Constrained: Pattern=it's
+Turn ID=14| A | A : Bye .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : Of course , the chemicals themselves when you buy them , they're expensive too .
+	Free: Pattern=you, Pattern=course
+	Constrained: 
+Turn ID=17| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : Not this past fall but I mean fall , a few years , I mean , it it was in the , yeah , it was almost like October of eighty-five ,
+	Free: Pattern=of, Pattern=mean, Pattern=yeah ,, Pattern=a, Pattern=it, Pattern=I, Pattern=but I
+	Constrained: Pattern=yeah, Pattern=I
+Turn ID=19| B | M : I want a lot of course .
+	Free: Pattern=a lot of, Pattern=course, Pattern=I
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=20| A | A : Yeah
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : I love dogs , but I hate dogs .
+	Free: Pattern=but I, Pattern=, but, Pattern=I love
+	Constrained: Pattern=I
+Turn ID=22| A | A : uh , I know in my case , I , my wife and daughter were kidnapped , during a house robbery back in eighty-five
+	Free: Pattern=I know, Pattern=uh, Pattern=a, Pattern=I
+	Constrained: Pattern=I
+Turn ID=23| B | M : You .
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : and the discipline that my daughter receives now in going to school is just totally different .
+	Free: Pattern=to, Pattern=just, Pattern=is, Pattern=going
+	Constrained: 
+Turn ID=25| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : So ,
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : and now , they can't find them and they're finding bodies in you know , I mean , you think why they say it's because you're over crowd , it's over crowded , and you think how is , is everybody that stupid or is the world really that rotten
+	Free: Pattern=you know ,, Pattern=you, Pattern=mean, Pattern=I, Pattern=, it's, Pattern=, you, Pattern=is, Pattern=really, Pattern=it's
+	Constrained: Pattern=it's, Pattern=you
+Turn ID=31| B | M : You're right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=32| A | A : They became a very successful immigrant group . But , and , but a lot of people coming over from Vietnam , right now , coming from worn torn countries , are , are not having the same success . I think some people have just assumed , well , why , why can't you be successful ? The Japanese were , or the Chinese were , or something . And it's really much more complicated .
+	Free: Pattern=, well, Pattern=just, Pattern=a, Pattern=really, Pattern=it's, Pattern=not, Pattern=right, Pattern=a lot of, Pattern=you, Pattern=, but, Pattern=are, Pattern=I
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=33| B | M : Oh yeah , uh
+	Free: Pattern=, uh, Pattern=yeah ,
+	Constrained: Pattern=uh, Pattern=yeah
+Turn ID=34| A | A : or , you know semi .
+	Free: Pattern=, you know
+	Constrained: Pattern=, you, Pattern=you
+Turn ID=35| B | M : Ah , well I'm just a little bit jealous .
+	Free: Pattern=I'm just, Pattern=, well, Pattern=a
+	Constrained: Pattern=just, Pattern=I'm
+Turn ID=36| A | A : Um , the area itself , uh , the Fort Worth Dallas area , um , has become kind of depressed because there's been so many layoffs with big companies , including Texas Instruments
+	Free: Pattern=, uh, Pattern=of
+	Constrained: Pattern=uh
+Turn ID=37| B | M : What's going on ?
+	Free: Pattern=going
+	Constrained: 
+Turn ID=38| A | A : That's even harder . But ,
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : Have you ever tried to use it ?
+	Free: Pattern=to, Pattern=you, Pattern=it
+	Constrained: 
+Turn ID=40| A | A : Yeah
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : And so I just recently discovered jazzercise , about two months ago . And I'm getting to be a good dancer from it and I'm just feeling really good . I love the class , it's real challenging , so I'm really into that , I really like that a lot .
+	Free: Pattern=I'm just, Pattern=just, Pattern=a, Pattern=it, Pattern=I, Pattern=, it's, Pattern=really, Pattern=I love, Pattern=I'm, Pattern=a lot, Pattern=to
+	Constrained: Pattern=I'm, Pattern=just, Pattern=a, Pattern=I, Pattern=it's
+Turn ID=43| B | M : Wait . You don't need insurance for a month ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=44| A | A : And is that supported by all donations to the church and so forth or ,
+	Free: Pattern=to, Pattern=is
+	Constrained: 
+Turn ID=45| B | M : It's not really , you know , fun
+	Free: Pattern=you know ,, Pattern=, you know, Pattern=not, Pattern=really
+	Constrained: Pattern=, you, Pattern=you
+Turn ID=46| B | M : You mean you are ?
+	Free: Pattern=you, Pattern=are, Pattern=mean
+	Constrained: 

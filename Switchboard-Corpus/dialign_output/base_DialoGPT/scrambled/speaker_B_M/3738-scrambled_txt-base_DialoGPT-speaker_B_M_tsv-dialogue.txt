@@ -1,0 +1,131 @@
+A|0| B: Uh-huh _. Yeah_ , it _is_ . 
+B|1| M: _I_ . 
+A|2| B: Bye . 
+B|3| M: you 
+A|4| B: That's right . And _people_ _don't_ want to give it up but now _I think_ we've made great strides in changing _a lot of_ that by going to _the_ unleaded gasoline and and to change _the_ car itself 
+B|5| M: How does one use [a] computer ? 
+A|6| B: Oh , wow . 
+B|7| M: A good chunk [of] _my_ school participated . 
+A|8| B: _It's a_ two story colonial , which [my] wife and [I] designed . 
+B|9| M: There , 
+A|10| B: _Well_ _the_ German Shepherd that [I] had before , we , we had [a] little pool , 
+B|11| M: A [lot of] [people] _do_ . 
+A|12| B: Oh yeah , that's great , too . Uh-huh _. Yeah_ , we did some remodeling when we bought [a] house , we built , put [a] kitchen in and , um , that kind [of] stuff , and painting and some wallpapering , that's fun . 
+B|13| M: [I] 
+A|14| B: _Yeah ._ 
+B|15| M: I'm not . 
+A|16| B: _Well_ , [do] we ? 
+B|17| M: [I] 
+A|18| B: Uh-huh . 
+B|19| M: [Well] [I] hate Dallas 
+A|20| B: and did it again and _, uh ,_ 
+B|21| M: Because [the] justice system [is] flawed . 
+A|22| B: [Well] plea plea bargaining [is] [a] different story . 
+B|23| M: Uhhh [, uh [,] uh] ... I'm [a lot of] things ... 
+A|24| B: _Yeah_ 
+B|25| M: [I think] everyone agrees . 
+A|26| B: [I] tape it . But [I] understand [, uh ,] that in England , they play it at normal times because they _don't_ consider that violent , and [the] reason they have it on here so late [is] because they consider it [a] violent program . 
+B|27| M: Hmmm [. [Yeah] .] You're . [I] [don't] [, uh] . 
+A|28| B: Oh . 
+B|29| M: The Cowboys are gonna win [the] Super Bowl this year . 
+A|30| B: Oh . 
+B|31| M: [It's a] . me ' 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh-huh . Yeah , it is .
+	Free: Pattern=. Yeah, Pattern=is
+	Constrained: Pattern=Yeah
+Turn ID=1| B | M : I .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=2| A | B : Bye .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : you
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : That's right . And people don't want to give it up but now I think we've made great strides in changing a lot of that by going to the unleaded gasoline and and to change the car itself
+	Free: Pattern=a lot of, Pattern=people, Pattern=I think, Pattern=the, Pattern=don't
+	Constrained: Pattern=a, Pattern=I, Pattern=lot of, Pattern=of
+Turn ID=5| B | M : How does one use a computer ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=6| A | B : Oh , wow .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : A good chunk of my school participated .
+	Free: Pattern=of, Pattern=my
+	Constrained: 
+Turn ID=8| A | B : It's a two story colonial , which my wife and I designed .
+	Free: Pattern=It's a, Pattern=I, Pattern=my
+	Constrained: Pattern=a
+Turn ID=9| B | M : There ,
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : Well the German Shepherd that I had before , we , we had a little pool ,
+	Free: Pattern=the, Pattern=Well, Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=11| B | M : A lot of people do .
+	Free: Pattern=lot of, Pattern=people, Pattern=do
+	Constrained: Pattern=of
+Turn ID=12| A | B : Oh yeah , that's great , too . Uh-huh . Yeah , we did some remodeling when we bought a house , we built , put a kitchen in and , um , that kind of stuff , and painting and some wallpapering , that's fun .
+	Free: Pattern=. Yeah, Pattern=of, Pattern=a
+	Constrained: Pattern=Yeah
+Turn ID=13| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=14| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=15| B | M : I'm not .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : Well , do we ?
+	Free: Pattern=Well, Pattern=do
+	Constrained: 
+Turn ID=17| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=18| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : Well I hate Dallas
+	Free: Pattern=Well, Pattern=I
+	Constrained: 
+Turn ID=20| A | B : and did it again and , uh ,
+	Free: Pattern=, uh ,
+	Constrained: Pattern=, uh
+Turn ID=21| B | M : Because the justice system is flawed .
+	Free: Pattern=the, Pattern=is
+	Constrained: 
+Turn ID=22| A | B : Well plea plea bargaining is a different story .
+	Free: Pattern=Well, Pattern=is, Pattern=a
+	Constrained: 
+Turn ID=23| B | M : Uhhh , uh , uh ... I'm a lot of things ...
+	Free: Pattern=, uh ,, Pattern=a lot of, Pattern=, uh
+	Constrained: Pattern=lot of, Pattern=, uh, Pattern=of, Pattern=a
+Turn ID=24| A | B : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=25| B | M : I think everyone agrees .
+	Free: Pattern=I think
+	Constrained: Pattern=I
+Turn ID=26| A | B : I tape it . But I understand , uh , that in England , they play it at normal times because they don't consider that violent , and the reason they have it on here so late is because they consider it a violent program .
+	Free: Pattern=a, Pattern=I, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=don't
+	Constrained: Pattern=, uh
+Turn ID=27| B | M : Hmmm . Yeah . You're . I don't , uh .
+	Free: Pattern=, uh, Pattern=I, Pattern=don't, Pattern=. Yeah, Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=28| A | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : The Cowboys are gonna win the Super Bowl this year .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=30| A | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : It's a . me '
+	Free: Pattern=It's a
+	Constrained: Pattern=a

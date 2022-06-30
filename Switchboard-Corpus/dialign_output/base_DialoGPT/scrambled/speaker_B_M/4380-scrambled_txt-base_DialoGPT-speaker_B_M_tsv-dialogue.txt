@@ -1,0 +1,171 @@
+A|0| B: _and_ , _and_ that way , handling _it_ that way they could probably get some results _out_ _of_ _it_ . 
+B|1| M: _I_ read _a_ lot [of] newspapers , but I'm not _one_ [of] them . 
+A|2| B: Not [a] thing , goodness gracious . 
+B|3| M: _Yeah _,_ we_ don ' , we're not [a] lot [of] people , but we're _the_ people _we_ are 
+A|4| B: _You_ _know [,_ we] get this lackadaisical attitude , _and_ say , huh _, you _know_ ,_ why should [we] vote , _then_ _, you _know_ ,_ _it_ could _, uh ,_ _it_ could lead to some serious things . 
+B|5| M: It , _it's_ , i [know [,] you] [, you] are [, _you] ._ 
+A|6| B: _so ._ 
+B|7| M: What do [you] mean [, you know] ? 
+A|8| B: Wild flowers . 
+B|9| M: _I_ think [so .] 
+A|10| B: People aren't tuned _in_ to like saving for _it_ _and_ _then_ buying _it_ , they _just_ put _it_ on [a] charge card , put _it_ on account , _and_ _then_ pay off [the] bill because they want _it_ now . 
+B|11| M:  
+A|12| B: _Um_ . 
+B|13| M: She says , but she says no . 
+A|14| B: Uh-huh . 
+B|15| M: Uhh [, we] don't have [a] tree ... 
+A|16| B: And is _it_ , um , [a] natural gas _and_ , 
+B|17| M: It's okay . 
+A|18| B: [I] thought that would _be_ _good_ experience for _me_ . 
+B|19| M: It's [a] window . 
+A|20| B: And [we] _had_ some wonderful , wonderful years there under Roger Staubach . And [we] kind [of] _got_ spoiled . 
+B|21| M: We've [got] them all over [the] place . 
+A|22| B: That's what , Oh , _my_ goodness . 
+B|23| M: _I'll_ [be] [in] [my] bunk 
+A|24| B: [I] , [I] _just_ [know] that too many horror stories _about_ nursing homes _and_ [so] , 
+B|25| M: We [had] [a] second reunion 
+A|26| B: [Yeah ,] yeah , [I] , [I] use that for for rice _and_ for when [I] cook pasta or something , [I'll] put [a] little bit [of] bouillon [in] there _just_ to give _it_ [a] little extra flavor . 
+B|27| M: You're fading [me] [out] . 
+A|28| B: [we] invariably end up at [my] house since I've [got] _two_ kids . 
+B|29| M: But [then] [it] won't , it'll [just] [, uh ,] [just] drop 
+A|30| B: And [we] like movies , that yeah . 
+B|31| M: [You] ? [Um] , I'm not sure . 
+A|32| B: That's right 
+B|33| M: _Well_ [I] have [two] dogs [and] [a] cat . 
+A|34| B: [Well] , thank [you .] 
+B|35| M: What [about] [it] ? 
+A|36| B: And [it's] like [I] said at our expense . 
+B|37| M: It's [in] [the] garage . 
+A|38| B: Uh-huh . So [you] like [a] , [a] variety . 
+B|39| M: Ohhh , _that's_ awesome . 
+A|40| B: That said anything that is [a] Skutzhund , [a] , [a] Tervurien [and] [, uh ,] Alsatian [that's] [the] other [one] . Alsatian , any inner breeding [of] that can [be] called [a] German shepherd here . 
+B|41| M: It's [a] pretty [good] city 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and , and that way , handling it that way they could probably get some results out of it .
+	Free: Pattern=out, Pattern=of, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=1| B | M : I read a lot of newspapers , but I'm not one of them .
+	Free: Pattern=I, Pattern=one, Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=2| A | B : Not a thing , goodness gracious .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=3| B | M : Yeah , we don ' , we're not a lot of people , but we're the people we are
+	Free: Pattern=of, Pattern=a, Pattern=, we, Pattern=we, Pattern=the, Pattern=Yeah ,
+	Constrained: Pattern=we
+Turn ID=4| A | B : You know , we get this lackadaisical attitude , and say , huh , you know , why should we vote , then , you know , it could , uh , it could lead to some serious things .
+	Free: Pattern=know ,, Pattern=then, Pattern=, you know, Pattern=we, Pattern=it, Pattern=and, Pattern=, we, Pattern=You, Pattern=, uh ,
+	Constrained: Pattern=you, Pattern=know, Pattern=, you, Pattern=we
+Turn ID=5| B | M : It , it's , i know , you , you are , you .
+	Free: Pattern=you ., Pattern=, you, Pattern=know ,, Pattern=it's
+	Constrained: Pattern=know, Pattern=you
+Turn ID=6| A | B : so .
+	Free: Pattern=so .
+	Constrained: Pattern=so
+Turn ID=7| B | M : What do you mean , you know ?
+	Free: Pattern=, you know, Pattern=you
+	Constrained: Pattern=, you, Pattern=know, Pattern=you
+Turn ID=8| A | B : Wild flowers .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : I think so .
+	Free: Pattern=so ., Pattern=I
+	Constrained: Pattern=so
+Turn ID=10| A | B : People aren't tuned in to like saving for it and then buying it , they just put it on a charge card , put it on account , and then pay off the bill because they want it now .
+	Free: Pattern=just, Pattern=in, Pattern=the, Pattern=then, Pattern=a, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=11| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Um .
+	Free: Pattern=Um
+	Constrained: 
+Turn ID=13| B | M : She says , but she says no .
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : Uhh , we don't have a tree ...
+	Free: Pattern=, we, Pattern=a
+	Constrained: Pattern=we
+Turn ID=16| A | B : And is it , um , a natural gas and ,
+	Free: Pattern=a, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=17| B | M : It's okay .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : I thought that would be good experience for me .
+	Free: Pattern=I, Pattern=good, Pattern=be, Pattern=me
+	Constrained: 
+Turn ID=19| B | M : It's a window .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=20| A | B : And we had some wonderful , wonderful years there under Roger Staubach . And we kind of got spoiled .
+	Free: Pattern=we, Pattern=got, Pattern=had, Pattern=of
+	Constrained: 
+Turn ID=21| B | M : We've got them all over the place .
+	Free: Pattern=got, Pattern=the
+	Constrained: 
+Turn ID=22| A | B : That's what , Oh , my goodness .
+	Free: Pattern=my
+	Constrained: 
+Turn ID=23| B | M : I'll be in my bunk
+	Free: Pattern=I'll, Pattern=be, Pattern=my, Pattern=in
+	Constrained: 
+Turn ID=24| A | B : I , I just know that too many horror stories about nursing homes and so ,
+	Free: Pattern=just, Pattern=and, Pattern=I, Pattern=about, Pattern=know, Pattern=so
+	Constrained: 
+Turn ID=25| B | M : We had a second reunion
+	Free: Pattern=had, Pattern=a
+	Constrained: 
+Turn ID=26| A | B : Yeah , yeah , I , I use that for for rice and for when I cook pasta or something , I'll put a little bit of bouillon in there just to give it a little extra flavor .
+	Free: Pattern=of, Pattern=just, Pattern=I'll, Pattern=a, Pattern=I, Pattern=in, Pattern=Yeah ,, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=27| B | M : You're fading me out .
+	Free: Pattern=out, Pattern=me
+	Constrained: 
+Turn ID=28| A | B : we invariably end up at my house since I've got two kids .
+	Free: Pattern=we, Pattern=two, Pattern=got, Pattern=my
+	Constrained: 
+Turn ID=29| B | M : But then it won't , it'll just , uh , just drop
+	Free: Pattern=, uh ,, Pattern=just, Pattern=then, Pattern=it
+	Constrained: 
+Turn ID=30| A | B : And we like movies , that yeah .
+	Free: Pattern=we
+	Constrained: 
+Turn ID=31| B | M : You ? Um , I'm not sure .
+	Free: Pattern=Um, Pattern=You
+	Constrained: 
+Turn ID=32| A | B : That's right
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : Well I have two dogs and a cat .
+	Free: Pattern=a, Pattern=and, Pattern=I, Pattern=Well, Pattern=two
+	Constrained: 
+Turn ID=34| A | B : Well , thank you .
+	Free: Pattern=you ., Pattern=Well
+	Constrained: Pattern=you
+Turn ID=35| B | M : What about it ?
+	Free: Pattern=about, Pattern=it
+	Constrained: 
+Turn ID=36| A | B : And it's like I said at our expense .
+	Free: Pattern=I, Pattern=it's
+	Constrained: 
+Turn ID=37| B | M : It's in the garage .
+	Free: Pattern=the, Pattern=in
+	Constrained: 
+Turn ID=38| A | B : Uh-huh . So you like a , a variety .
+	Free: Pattern=a, Pattern=you
+	Constrained: 
+Turn ID=39| B | M : Ohhh , that's awesome .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=40| A | B : That said anything that is a Skutzhund , a , a Tervurien and , uh , Alsatian that's the other one . Alsatian , any inner breeding of that can be called a German shepherd here .
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=one, Pattern=, uh ,, Pattern=be, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=41| B | M : It's a pretty good city
+	Free: Pattern=good, Pattern=a
+	Constrained: 

@@ -1,0 +1,235 @@
+A|0| B: _And_ _we_ had some wonderful , wonderful years there under Roger Staubach . _And_ _we_ kind _of_ got spoiled . 
+B|1| M: We're _from_ Ohio . 
+A|2| B: _We_ expected _it_ _to_ continue forever . _I think they're doing_ _pretty_ well this year though . 
+B|3| M: The Bears _have a_ really good offense . 
+A|4| B: _I think_ two . 
+B|5| M: I'm confused . How many playoff _games_ _have_ _they_ _won_ ? 
+A|6| B: _I know_ [they] lost , yeah , _to_ Washington _and_ Philadelphia . 
+B|7| M: [And] [they're] 2 0 _against_ _the_ NFC West . 
+A|8| B: Yeah , _and_ wasn't _that_ fun . _I_ went _to_ [the] balloon festival in Plano _and_ carried my _little_ portable radio with me , _and_ _I_ must say _I_ attracted _a lot of_ attention . 
+B|9| M: It's _been_ [a] _while_ since I've seen [the] Giants _, but [I_ think they're doing] alright . 
+A|10| B: People running up saying , oh , what's [the] _score_ , what's [the] _score_ ? 
+B|11| M: The [score] _is so_ depressing _, I_ can't even watch 
+A|12| B: _That's_ _right_ _and_ that's exactly what [they] _said_ , _to_ sound _like_ [a] my wife dragged me away [from] [the] television . 
+B|13| M: They [said] [it] _was_ _a little_ cold , _so_ I'm _not_ sure _if they_ were [right] . 
+A|14| B: You _know [,_ but I] wasn't [, I] had forgotten or [I] probably wouldn't [have] [been] there . 
+B|15| M: [I] _was_ at [the] game [and] [it] _was_ [pretty] loud 
+A|16| B: Yeah . 
+B|17| M: He _was_ [a] fan [of] _football_ , [right] ? 
+A|18| B: _That's_ exactly where both [of] [the] wives came [from] [I think] . 
+B|19| M: What ? 
+A|20| B: It [was] , uh _, you_ _know _,_ it's_ easier _to_ join _them_ than _fight them ._ 
+B|21| M: _Well_ _I mean_ [, it's] _not_ _like they're_ [the] ones [that] [fight them .] 
+A|22| B: [And] [if] _you want_ _to_ see [them] _, _you_ might_ just as well enjoy [football] . 
+B|23| M: If [you want] [a] [fight] [, you] should go watch [the] Texans . 
+A|24| B: [And] [I] used _to_ tease my husband sometimes [and] say , my gosh did [you] bet [the] house or something this week _to_ get [so] excited _about_ , these [games] . 
+B|25| M: _I know ._ 
+A|26| B: [Well] , [it] takes [a little] brainwashing first . 
+B|27| M: Why ? 
+A|28| B: Yeah . 
+B|29| M: We'll be back 
+A|30| B: Are [you] , uh , transit usually ? [I mean] do [you] stay [not] in one _place_ too long ? 
+B|31| M: [I] don't _know ._ 
+A|32| B: [Well] , [it] will take [you] [a little] [while] [but] you'll probably always [have a] soft spot in your heart though _for_ _for_ Denver . 
+B|33| M: I'm [so] sorry 
+A|34| B: Oh [, [I] know .] 
+B|35| M: No . 
+A|36| B: [Well] , [if they] close [it] in , see , we'll [have] [the] best [of] both worlds then as [they're] talking _about_ [doing] . 
+B|37| M: [I [know] [,] I] [have] no idea 
+A|38| B: But , uh , Dan Reeves _is _a_ pretty_ neat guy anyway . 
+B|39| M: The world [is a] weird [place] . 
+A|40| B: Yeah , that's [right] [, you] [know] he [was] one [of] ours , one [of] our boys . 
+B|41| M: We're still [a pretty] cool [place] 
+A|42| B: So _we_ _are never_ _, we never_ _cheer against_ Denver unless [they're] playing [the] Cowboys . 
+B|43| M: [We] [are never] cheering [for] [the] Broncos . 
+A|44| B: Yeah . 
+B|45| M: Do [they] ever [cheer] [for] [the] Broncos ? 
+A|46| B: Uh-huh . 
+B|47| M: [That's] funny [, we never] ever [cheer against] [the] Broncos . 
+A|48| B: Johnny _Elway ._ 
+B|49| M: [Elway .] 
+A|50| B: [Well] , there [is so] much _about_ [it] _to_ [like] . 
+B|51| M: That . 
+A|52| B: You [know] [it's] [so] exciting . 
+B|53| M: [I] love [the] fact [that] he's wearing [a] hat . 
+A|54| B: [And] when [the] Cowboys [won] [the] Superbowl _here ,_ [of] course , [they] put together some real cute songs , [and] [we] all ran out [and] bought [the] records , [and] now [we] feel [like they're] kind [of] [a] collector's item . 
+B|55| M: There's [a lot of] stuff [about] [the] game [here ,] [so] [you might] [have] [to] wait [a] bit . 
+A|56| B: Uh-huh . 
+B|57| M: [I] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : And we had some wonderful , wonderful years there under Roger Staubach . And we kind of got spoiled .
+	Free: Pattern=we, Pattern=of, Pattern=And
+	Constrained: 
+Turn ID=1| B | M : We're from Ohio .
+	Free: Pattern=from
+	Constrained: 
+Turn ID=2| A | B : We expected it to continue forever . I think they're doing pretty well this year though .
+	Free: Pattern=We, Pattern=it, Pattern=pretty, Pattern=to, Pattern=I think they're doing
+	Constrained: Pattern=I, Pattern=doing, Pattern=they're, Pattern=I think
+Turn ID=3| B | M : The Bears have a really good offense .
+	Free: Pattern=have a
+	Constrained: Pattern=a, Pattern=have
+Turn ID=4| A | B : I think two .
+	Free: Pattern=I think
+	Constrained: Pattern=I
+Turn ID=5| B | M : I'm confused . How many playoff games have they won ?
+	Free: Pattern=they, Pattern=games, Pattern=won, Pattern=have
+	Constrained: 
+Turn ID=6| A | B : I know they lost , yeah , to Washington and Philadelphia .
+	Free: Pattern=I know, Pattern=they, Pattern=to, Pattern=and
+	Constrained: Pattern=know, Pattern=I
+Turn ID=7| B | M : And they're 2 0 against the NFC West .
+	Free: Pattern=they're, Pattern=And, Pattern=the, Pattern=against
+	Constrained: 
+Turn ID=8| A | B : Yeah , and wasn't that fun . I went to the balloon festival in Plano and carried my little portable radio with me , and I must say I attracted a lot of attention .
+	Free: Pattern=a lot of, Pattern=little, Pattern=and, Pattern=I, Pattern=the, Pattern=to, Pattern=that
+	Constrained: Pattern=a, Pattern=of
+Turn ID=9| B | M : It's been a while since I've seen the Giants , but I think they're doing alright .
+	Free: Pattern=, but I, Pattern=a, Pattern=the, Pattern=been, Pattern=while, Pattern=I think they're doing
+	Constrained: Pattern=doing, Pattern=I, Pattern=they're, Pattern=I think, Pattern=but
+Turn ID=10| A | B : People running up saying , oh , what's the score , what's the score ?
+	Free: Pattern=score, Pattern=the
+	Constrained: 
+Turn ID=11| B | M : The score is so depressing , I can't even watch
+	Free: Pattern=is so, Pattern=, I, Pattern=score
+	Constrained: Pattern=I, Pattern=so
+Turn ID=12| A | B : That's right and that's exactly what they said , to sound like a my wife dragged me away from the television .
+	Free: Pattern=right, Pattern=a, Pattern=and, Pattern=from, Pattern=like, Pattern=the, Pattern=to, Pattern=said, Pattern=they, Pattern=That's
+	Constrained: 
+Turn ID=13| B | M : They said it was a little cold , so I'm not sure if they were right .
+	Free: Pattern=right, Pattern=said, Pattern=it, Pattern=a little, Pattern=if they, Pattern=was, Pattern=so, Pattern=not
+	Constrained: Pattern=a, Pattern=little, Pattern=they, Pattern=if
+Turn ID=14| A | B : You know , but I wasn't , I had forgotten or I probably wouldn't have been there .
+	Free: Pattern=know ,, Pattern=, but I, Pattern=have, Pattern=, I, Pattern=I, Pattern=been
+	Constrained: Pattern=know, Pattern=I, Pattern=but
+Turn ID=15| B | M : I was at the game and it was pretty loud
+	Free: Pattern=I, Pattern=pretty, Pattern=the, Pattern=was, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=16| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : He was a fan of football , right ?
+	Free: Pattern=a, Pattern=football, Pattern=was, Pattern=right, Pattern=of
+	Constrained: 
+Turn ID=18| A | B : That's exactly where both of the wives came from I think .
+	Free: Pattern=of, Pattern=That's, Pattern=from, Pattern=I think, Pattern=the
+	Constrained: Pattern=I
+Turn ID=19| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : It was , uh , you know , it's easier to join them than fight them .
+	Free: Pattern=know ,, Pattern=fight them ., Pattern=, it's, Pattern=, you, Pattern=to, Pattern=was, Pattern=them
+	Constrained: Pattern=you, Pattern=know, Pattern=fight, Pattern=them, Pattern=it's
+Turn ID=21| B | M : Well I mean , it's not like they're the ones that fight them .
+	Free: Pattern=fight them ., Pattern=, it's, Pattern=Well, Pattern=the, Pattern=that, Pattern=not, Pattern=like they're, Pattern=I mean
+	Constrained: Pattern=I, Pattern=they're, Pattern=like, Pattern=fight, Pattern=them, Pattern=it's
+Turn ID=22| A | B : And if you want to see them , you might just as well enjoy football .
+	Free: Pattern=And, Pattern=if, Pattern=you might, Pattern=, you, Pattern=football, Pattern=you want, Pattern=to, Pattern=them
+	Constrained: Pattern=you
+Turn ID=23| B | M : If you want a fight , you should go watch the Texans .
+	Free: Pattern=a, Pattern=, you, Pattern=the, Pattern=you want, Pattern=fight
+	Constrained: Pattern=you
+Turn ID=24| A | B : And I used to tease my husband sometimes and say , my gosh did you bet the house or something this week to get so excited about , these games .
+	Free: Pattern=And, Pattern=and, Pattern=I, Pattern=about, Pattern=the, Pattern=to, Pattern=so, Pattern=you, Pattern=games
+	Constrained: 
+Turn ID=25| B | M : I know .
+	Free: Pattern=I know .
+	Constrained: Pattern=I know, Pattern=know ., Pattern=know, Pattern=I
+Turn ID=26| A | B : Well , it takes a little brainwashing first .
+	Free: Pattern=a little, Pattern=Well, Pattern=it
+	Constrained: Pattern=a, Pattern=little
+Turn ID=27| B | M : Why ?
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : We'll be back
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Are you , uh , transit usually ? I mean do you stay not in one place too long ?
+	Free: Pattern=I mean, Pattern=not, Pattern=place, Pattern=you
+	Constrained: Pattern=I
+Turn ID=31| B | M : I don't know .
+	Free: Pattern=know ., Pattern=I
+	Constrained: Pattern=know
+Turn ID=32| A | B : Well , it will take you a little while but you'll probably always have a soft spot in your heart though for for Denver .
+	Free: Pattern=you, Pattern=have a, Pattern=for, Pattern=it, Pattern=a little, Pattern=Well, Pattern=while, Pattern=but
+	Constrained: Pattern=a, Pattern=little, Pattern=have
+Turn ID=33| B | M : I'm so sorry
+	Free: Pattern=so
+	Constrained: 
+Turn ID=34| A | B : Oh , I know .
+	Free: Pattern=I know ., Pattern=, I
+	Constrained: Pattern=I know, Pattern=know ., Pattern=know, Pattern=I
+Turn ID=35| B | M : No .
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : Well , if they close it in , see , we'll have the best of both worlds then as they're talking about doing .
+	Free: Pattern=of, Pattern=have, Pattern=doing, Pattern=it, Pattern=Well, Pattern=if they, Pattern=the, Pattern=about, Pattern=they're
+	Constrained: Pattern=they, Pattern=if
+Turn ID=37| B | M : I know , I have no idea
+	Free: Pattern=I know, Pattern=know ,, Pattern=, I, Pattern=have
+	Constrained: Pattern=know, Pattern=I
+Turn ID=38| A | B : But , uh , Dan Reeves is a pretty neat guy anyway .
+	Free: Pattern=is a, Pattern=a pretty
+	Constrained: Pattern=a, Pattern=pretty
+Turn ID=39| B | M : The world is a weird place .
+	Free: Pattern=is a, Pattern=place
+	Constrained: Pattern=a
+Turn ID=40| A | B : Yeah , that's right , you know he was one of ours , one of our boys .
+	Free: Pattern=was, Pattern=right, Pattern=of, Pattern=know, Pattern=, you
+	Constrained: Pattern=you
+Turn ID=41| B | M : We're still a pretty cool place
+	Free: Pattern=a pretty, Pattern=place
+	Constrained: Pattern=a, Pattern=pretty
+Turn ID=42| A | B : So we are never , we never cheer against Denver unless they're playing the Cowboys .
+	Free: Pattern=, we never, Pattern=they're, Pattern=we, Pattern=the, Pattern=cheer against, Pattern=are never
+	Constrained: Pattern=cheer, Pattern=against, Pattern=we
+Turn ID=43| B | M : We are never cheering for the Broncos .
+	Free: Pattern=are never, Pattern=for, Pattern=We, Pattern=the
+	Constrained: 
+Turn ID=44| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : Do they ever cheer for the Broncos ?
+	Free: Pattern=for, Pattern=they, Pattern=cheer, Pattern=the
+	Constrained: 
+Turn ID=46| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : That's funny , we never ever cheer against the Broncos .
+	Free: Pattern=, we never, Pattern=cheer against, Pattern=That's, Pattern=the
+	Constrained: Pattern=cheer, Pattern=against, Pattern=we
+Turn ID=48| A | B : Johnny Elway .
+	Free: Pattern=Elway .
+	Constrained: 
+Turn ID=49| B | M : Elway .
+	Free: Pattern=Elway .
+	Constrained: 
+Turn ID=50| A | B : Well , there is so much about it to like .
+	Free: Pattern=is so, Pattern=it, Pattern=about, Pattern=Well, Pattern=like, Pattern=to
+	Constrained: Pattern=so
+Turn ID=51| B | M : That .
+	Free: 
+	Constrained: 
+Turn ID=52| A | B : You know it's so exciting .
+	Free: Pattern=know, Pattern=it's, Pattern=so
+	Constrained: 
+Turn ID=53| B | M : I love the fact that he's wearing a hat .
+	Free: Pattern=a, Pattern=I, Pattern=that, Pattern=the
+	Constrained: 
+Turn ID=54| A | B : And when the Cowboys won the Superbowl here , of course , they put together some real cute songs , and we all ran out and bought the records , and now we feel like they're kind of a collector's item .
+	Free: Pattern=of, Pattern=And, Pattern=they, Pattern=a, Pattern=and, Pattern=we, Pattern=like they're, Pattern=the, Pattern=won, Pattern=here ,
+	Constrained: Pattern=they're, Pattern=like
+Turn ID=55| B | M : There's a lot of stuff about the game here , so you might have to wait a bit .
+	Free: Pattern=a lot of, Pattern=here ,, Pattern=have, Pattern=a, Pattern=you might, Pattern=about, Pattern=the, Pattern=to, Pattern=so
+	Constrained: Pattern=a, Pattern=you, Pattern=of
+Turn ID=56| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : I
+	Free: Pattern=I
+	Constrained: 

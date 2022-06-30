@@ -1,0 +1,115 @@
+A|0| B: Were _you_ up in , in Wisconsin or would _you_ go into _where_ would _you_ camp ? 
+B|1| M: What about _camping_ ? 
+A|2| B: Uh-huh . 
+B|3| M: It's okay , [you] know [where] Bayfield is . 
+A|4| B: Oh _, yeah ._ That's beautiful . 
+B|5| M: _I_ know . 
+A|6| B: Right 
+B|7| M: No 
+A|8| B: Oh _, yeah ._ Well , most of my [camping] , [I] haven't done much since [I] was _a_ kid but _, uh ,_ we'd , basically , take the tent up in the Sierras and _, uh ,_ usually just camp near some stream or some lake . 
+B|9| M:  ... 
+A|10| B: And _, uh ,_ just , it wasn't even _a_ , _a_ full tent . It would be more _a_ tarp _, uh_ strung up between trees 
+B|11| M:  
+A|12| B: and _, uh ,_ we just thought it was absolute heaven . 
+B|13| M: Uhh [, yeah .] 
+A|14| B: Uh , there was certainly nothing _like_ _a_ , _a_ bathroom , _a_ shower or anything , near by It was dig your own hole and _, uh_ and [I] I'm not sure I'd do that that anymore , 
+B|15| M: Uhhhh [, uh] 
+A|16| B: but it's , it _, uh _,_ uh ,_ actually some friends of mine and [I] are planning to camp this summer _, uh ,_ for four days . Also going fishing [, uh] 
+B|17| M: [I] [, uh [,] yeah] [, yeah] 
+A|18| B: and [I] have _a_ idea it's going to be _a_ , _a lot_ more equipment and _a lot_ more stuff than before . 
+B|19| M:  ... 
+A|20| B: Yeah . But , 
+B|21| M: [I] know , uhh 
+A|22| B: Yeah . 
+B|23| M: It's [a lot] [like] [you] 
+A|24| B: Oh , my . 
+B|25| M:  
+A|26| B: Uh-huh . 
+B|27| M: adays 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Were you up in , in Wisconsin or would you go into where would you camp ?
+	Free: Pattern=you, Pattern=where
+	Constrained: 
+Turn ID=1| B | M : What about camping ?
+	Free: Pattern=camping
+	Constrained: 
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : It's okay , you know where Bayfield is .
+	Free: Pattern=you, Pattern=where
+	Constrained: 
+Turn ID=4| A | B : Oh , yeah . That's beautiful .
+	Free: Pattern=, yeah .
+	Constrained: Pattern=, yeah
+Turn ID=5| B | M : I know .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=6| A | B : Right
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : No
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : Oh , yeah . Well , most of my camping , I haven't done much since I was a kid but , uh , we'd , basically , take the tent up in the Sierras and , uh , usually just camp near some stream or some lake .
+	Free: Pattern=a, Pattern=I, Pattern=camping, Pattern=, yeah ., Pattern=, uh ,
+	Constrained: Pattern=, yeah, Pattern=, uh
+Turn ID=9| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : And , uh , just , it wasn't even a , a full tent . It would be more a tarp , uh strung up between trees
+	Free: Pattern=, uh ,, Pattern=, uh, Pattern=a
+	Constrained: Pattern=, uh
+Turn ID=11| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : and , uh , we just thought it was absolute heaven .
+	Free: Pattern=, uh ,
+	Constrained: Pattern=, uh
+Turn ID=13| B | M : Uhh , yeah .
+	Free: Pattern=, yeah .
+	Constrained: Pattern=, yeah
+Turn ID=14| A | B : Uh , there was certainly nothing like a , a bathroom , a shower or anything , near by It was dig your own hole and , uh and I I'm not sure I'd do that that anymore ,
+	Free: Pattern=, uh, Pattern=I, Pattern=a, Pattern=like
+	Constrained: 
+Turn ID=15| B | M : Uhhhh , uh
+	Free: Pattern=, uh
+	Constrained: 
+Turn ID=16| A | B : but it's , it , uh , uh , actually some friends of mine and I are planning to camp this summer , uh , for four days . Also going fishing , uh
+	Free: Pattern=, uh ,, Pattern=, uh, Pattern=I
+	Constrained: Pattern=, uh
+Turn ID=17| B | M : I , uh , yeah , yeah
+	Free: Pattern=, uh ,, Pattern=, yeah, Pattern=I
+	Constrained: Pattern=, uh
+Turn ID=18| A | B : and I have a idea it's going to be a , a lot more equipment and a lot more stuff than before .
+	Free: Pattern=a lot, Pattern=I, Pattern=a
+	Constrained: Pattern=a
+Turn ID=19| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : Yeah . But ,
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : I know , uhh
+	Free: Pattern=I
+	Constrained: 
+Turn ID=22| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : It's a lot like you
+	Free: Pattern=a lot, Pattern=you, Pattern=like
+	Constrained: Pattern=a
+Turn ID=24| A | B : Oh , my .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : adays
+	Free: 
+	Constrained: 

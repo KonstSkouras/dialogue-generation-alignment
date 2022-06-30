@@ -1,0 +1,283 @@
+A|0| B: _I_ _if it's_ good _, _I_ think_ _it's_ very good _for_ _the_ child . 
+B|1| M: _Yeah _._ Yeah ._ 
+A|2| B: _You know , I_ like _what_ _he_ says , _and_ he'll _be_ so far off _the_ wall _that_ they'll elect _him ._ 
+B|3| M: He's _a_ little short [for] _me_ , but _I'm_ not _a_ big fan _of_ [him .] 
+A|4| B: [Yeah .] Uh-huh . 
+B|5| M: What's [that] ? 
+A|6| B: _Yeah ,_ well that's _how_ Cleo , _you_ _know ,_ she'd lay _on_ her step , 
+B|7| M: Who said _he was_ ? 
+A|8| B: And , 
+B|9| M:  
+A|10| B: Right , uh-huh . 
+B|11| M: I've never seen shrimp . 
+A|12| B: Get [that] unemployment way up so then people , _you_ _know_ tend towards crime , _and_ then they they start stiffening _the_ penalties . 
+B|13| M: _I'm_ _a_ physicist [and] [I] can tell [you] [that] 
+A|14| B: _Uh ,_ they're , yeah _, I_ suppose they _are_ now . We , both [of] our children who live _there_ _have_ _just_ bought [a] home . _Uh ,_ _in the_ Mount Lebanon area . 
+B|15| M: [I think] [he] should [be] evaluated . 
+A|16| B: _to_ Okay . And _I don't_ _know_ _what_ _the_ solution _is_ . 
+B|17| M: It's , [it's] . 
+A|18| B: Right . Uh-huh . 
+B|19| M: You're . 
+A|20| B: [Yeah .] 
+B|21| M: Not [in the] sense [that] you're gonna [have] _to get_ [a] whole bunch [of] stuff . 
+A|22| B: Sure . Uh-huh . 
+B|23| M: [Yeah ,] we _have a_ card . 
+A|24| B: [Yeah .] Definitely [I think] [that] there's probably [a] lot [of] waste [in] defense [and] [in] government funded research [in the] first place . 
+B|25| M: Uhh , she works [in] [a] restaurant , part _time_ , part [of] [a] family . 
+A|26| B: Um , actually _one of_ my favorite instruments _is a_ harpsichord . 
+B|27| M: This [is] [one of] [the] ugliest , most bizarre , most confusing , most nonsensical , most ridiculous , most annoying , most disturbing , most incomprehensible , most hilarious , most 
+A|28| B: Uh-huh . 
+B|29| M: [I] would never , uhhh . 
+A|30| B: Uh-huh . 
+B|31| M: _But_ [there] [is a] _reason_ why [he] isnt [in the] video 
+A|32| B: Yes . Absolutely . 
+B|33| M: _I'm_ sorry , _I'm_ 
+A|34| B: Uh-huh . 
+B|35| M: It's [the] best . 
+A|36| B: _That's_ , [a] lot [of] money [that] [you] went [to] buy this item . 
+B|37| M: _The_ trees [are] [the] same . 
+A|38| B: [Yeah .] 
+B|39| M: They've been , been . 
+A|40| B: [But] , 
+B|41| M:  
+A|42| B: Do [you] ? 
+B|43| M: [That's] [what] [I] said . 
+A|44| B: [Yeah .] [I] guess that's [what] retirement [is] all about . 
+B|45| M: [I think] [you] can _get_ [the] cash from [the] bank . 
+A|46| B: That _, I_ _had_ heard [that] [that] [was] better . That [was] [a] better [one] . 
+B|47| M: [You know , I] never really understood why she would do [that] . She [just] [had] [a] _bit_ [of] [a] bad luck thing going [on] . 
+A|48| B: No [, I] [, I] can't say [that] [I] [have] either . [But] , uh , 
+B|49| M: [I] 
+A|50| B: Uh-huh . 
+B|51| M:  ... 
+A|52| B: Yes . 
+B|53| M: [That's] [how] [you] _get_ . 
+A|54| B: And everybody wanted Rin Tin Tin . And it [was] known as [a] German shepherd here . So they created [a] breed standard . [The] American Kennel Club did . 
+B|55| M: [Uh ,] [what] ? 
+A|56| B: And then [I] [have] , uh , [a] three eighty-six F X [a] sixteen [bit] machine , at home . 
+B|57| M: It's [a] song _, I don't_ care [if it's] not [the] typical Country song . 
+A|58| B: Uh-huh . 
+B|59| M: Oh [, I] see . 
+A|60| B: Uh-huh , uh-huh [. Yeah .] 
+B|61| M: Why would [you] do [that] ? 
+A|62| B: No [, I don't] . [I] [have a] friend , [of] mine told [me] about this program , [is] [the] [reason] [that] [I'm] , 
+B|63| M: [I'm] 
+A|64| B: Nobody came near it when [he was] [there] . 
+B|65| M: [You] mean [you] [don't] [have] [to] pay taxes ? 
+A|66| B: Really ? 
+B|67| M: What do [you] do [for] [a] living ? 
+A|68| B: therefore , [the] individual , every [time] they [have a] service call , [if] they [have] an old unit that's still using this twenty-two freon or whatever it [is] , it costs them three times as much [to get] it fixed 
+B|69| M:  ... 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : I if it's good , I think it's very good for the child .
+	Free: Pattern=if it's, Pattern=, I, Pattern=for, Pattern=I, Pattern=I think, Pattern=the, Pattern=it's
+	Constrained: Pattern=if, Pattern=I, Pattern=it's
+Turn ID=1| B | M : Yeah . Yeah .
+	Free: Pattern=. Yeah ., Pattern=Yeah .
+	Constrained: Pattern=Yeah .
+Turn ID=2| A | B : You know , I like what he says , and he'll be so far off the wall that they'll elect him .
+	Free: Pattern=what, Pattern=You know , I, Pattern=and, Pattern=he, Pattern=him ., Pattern=be, Pattern=the, Pattern=that
+	Constrained: Pattern=know ,, Pattern=, I, Pattern=I, Pattern=know, Pattern=You
+Turn ID=3| B | M : He's a little short for me , but I'm not a big fan of him .
+	Free: Pattern=of, Pattern=I'm, Pattern=me, Pattern=a, Pattern=for, Pattern=him .
+	Constrained: 
+Turn ID=4| A | B : Yeah . Uh-huh .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=5| B | M : What's that ?
+	Free: Pattern=that
+	Constrained: 
+Turn ID=6| A | B : Yeah , well that's how Cleo , you know , she'd lay on her step ,
+	Free: Pattern=know ,, Pattern=you, Pattern=how, Pattern=on, Pattern=Yeah ,
+	Constrained: Pattern=know
+Turn ID=7| B | M : Who said he was ?
+	Free: Pattern=he was
+	Constrained: Pattern=he, Pattern=was
+Turn ID=8| A | B : And ,
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : Right , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : I've never seen shrimp .
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Get that unemployment way up so then people , you know tend towards crime , and then they they start stiffening the penalties .
+	Free: Pattern=you, Pattern=and, Pattern=know, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=13| B | M : I'm a physicist and I can tell you that
+	Free: Pattern=a, Pattern=and, Pattern=I, Pattern=that, Pattern=you, Pattern=I'm
+	Constrained: 
+Turn ID=14| A | B : Uh , they're , yeah , I suppose they are now . We , both of our children who live there have just bought a home . Uh , in the Mount Lebanon area .
+	Free: Pattern=of, Pattern=there, Pattern=Uh ,, Pattern=just, Pattern=have, Pattern=, I, Pattern=a, Pattern=are, Pattern=in the
+	Constrained: Pattern=I, Pattern=in, Pattern=the
+Turn ID=15| B | M : I think he should be evaluated .
+	Free: Pattern=I think, Pattern=he, Pattern=be
+	Constrained: Pattern=I
+Turn ID=16| A | B : to Okay . And I don't know what the solution is .
+	Free: Pattern=what, Pattern=I don't, Pattern=know, Pattern=is, Pattern=the, Pattern=to
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=17| B | M : It's , it's .
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=18| A | B : Right . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : You're .
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=21| B | M : Not in the sense that you're gonna have to get a whole bunch of stuff .
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=to get, Pattern=in the, Pattern=that
+	Constrained: Pattern=to, Pattern=in, Pattern=the, Pattern=get
+Turn ID=22| A | B : Sure . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : Yeah , we have a card .
+	Free: Pattern=Yeah ,, Pattern=have a
+	Constrained: Pattern=a, Pattern=have
+Turn ID=24| A | B : Yeah . Definitely I think that there's probably a lot of waste in defense and in government funded research in the first place .
+	Free: Pattern=Yeah ., Pattern=of, Pattern=a, Pattern=and, Pattern=in the, Pattern=in, Pattern=I think, Pattern=that
+	Constrained: Pattern=in, Pattern=I, Pattern=the
+Turn ID=25| B | M : Uhh , she works in a restaurant , part time , part of a family .
+	Free: Pattern=time, Pattern=a, Pattern=of, Pattern=in
+	Constrained: 
+Turn ID=26| A | B : Um , actually one of my favorite instruments is a harpsichord .
+	Free: Pattern=one of, Pattern=is a
+	Constrained: Pattern=one, Pattern=a, Pattern=of, Pattern=is
+Turn ID=27| B | M : This is one of the ugliest , most bizarre , most confusing , most nonsensical , most ridiculous , most annoying , most disturbing , most incomprehensible , most hilarious , most
+	Free: Pattern=one of, Pattern=is, Pattern=the
+	Constrained: Pattern=one, Pattern=of
+Turn ID=28| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : I would never , uhhh .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : But there is a reason why he isnt in the video
+	Free: Pattern=is a, Pattern=there, Pattern=in the, Pattern=reason, Pattern=But, Pattern=he
+	Constrained: Pattern=a, Pattern=in, Pattern=is, Pattern=the
+Turn ID=32| A | B : Yes . Absolutely .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : I'm sorry , I'm
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=34| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : It's the best .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=36| A | B : That's , a lot of money that you went to buy this item .
+	Free: Pattern=of, Pattern=you, Pattern=That's, Pattern=a, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=37| B | M : The trees are the same .
+	Free: Pattern=are, Pattern=The, Pattern=the
+	Constrained: 
+Turn ID=38| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=39| B | M : They've been , been .
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : But ,
+	Free: Pattern=But
+	Constrained: 
+Turn ID=41| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : Do you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=43| B | M : That's what I said .
+	Free: Pattern=I, Pattern=what, Pattern=That's
+	Constrained: 
+Turn ID=44| A | B : Yeah . I guess that's what retirement is all about .
+	Free: Pattern=Yeah ., Pattern=I, Pattern=what, Pattern=is
+	Constrained: 
+Turn ID=45| B | M : I think you can get the cash from the bank .
+	Free: Pattern=I think, Pattern=you, Pattern=the, Pattern=get
+	Constrained: Pattern=I
+Turn ID=46| A | B : That , I had heard that that was better . That was a better one .
+	Free: Pattern=one, Pattern=had, Pattern=was, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=47| B | M : You know , I never really understood why she would do that . She just had a bit of a bad luck thing going on .
+	Free: Pattern=of, Pattern=just, Pattern=You know , I, Pattern=had, Pattern=on, Pattern=that, Pattern=bit, Pattern=a
+	Constrained: Pattern=know ,, Pattern=, I, Pattern=I, Pattern=know, Pattern=You
+Turn ID=48| A | B : No , I , I can't say that I have either . But , uh ,
+	Free: Pattern=have, Pattern=, I, Pattern=I, Pattern=But, Pattern=that
+	Constrained: Pattern=I
+Turn ID=49| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=50| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=51| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=52| A | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : That's how you get .
+	Free: Pattern=how, Pattern=That's, Pattern=you, Pattern=get
+	Constrained: 
+Turn ID=54| A | B : And everybody wanted Rin Tin Tin . And it was known as a German shepherd here . So they created a breed standard . The American Kennel Club did .
+	Free: Pattern=was, Pattern=The, Pattern=a
+	Constrained: 
+Turn ID=55| B | M : Uh , what ?
+	Free: Pattern=Uh ,, Pattern=what
+	Constrained: 
+Turn ID=56| A | B : And then I have , uh , a three eighty-six F X a sixteen bit machine , at home .
+	Free: Pattern=bit, Pattern=I, Pattern=a, Pattern=have
+	Constrained: 
+Turn ID=57| B | M : It's a song , I don't care if it's not the typical Country song .
+	Free: Pattern=, I don't, Pattern=if it's, Pattern=a, Pattern=the
+	Constrained: Pattern=, I, Pattern=I don't, Pattern=don't, Pattern=it's, Pattern=I, Pattern=if
+Turn ID=58| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=59| B | M : Oh , I see .
+	Free: Pattern=, I
+	Constrained: Pattern=I
+Turn ID=60| A | B : Uh-huh , uh-huh . Yeah .
+	Free: Pattern=. Yeah .
+	Constrained: Pattern=Yeah .
+Turn ID=61| B | M : Why would you do that ?
+	Free: Pattern=that, Pattern=you
+	Constrained: 
+Turn ID=62| A | B : No , I don't . I have a friend , of mine told me about this program , is the reason that I'm ,
+	Free: Pattern=of, Pattern=I'm, Pattern=me, Pattern=have a, Pattern=I, Pattern=reason, Pattern=, I don't, Pattern=is, Pattern=the, Pattern=that
+	Constrained: Pattern=have, Pattern=I, Pattern=I don't, Pattern=don't, Pattern=, I, Pattern=a
+Turn ID=63| B | M : I'm
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=64| A | B : Nobody came near it when he was there .
+	Free: Pattern=he was, Pattern=there
+	Constrained: Pattern=he, Pattern=was
+Turn ID=65| B | M : You mean you don't have to pay taxes ?
+	Free: Pattern=you, Pattern=have, Pattern=You, Pattern=don't, Pattern=to
+	Constrained: 
+Turn ID=66| A | B : Really ?
+	Free: 
+	Constrained: 
+Turn ID=67| B | M : What do you do for a living ?
+	Free: Pattern=for, Pattern=you, Pattern=a
+	Constrained: 
+Turn ID=68| A | B : therefore , the individual , every time they have a service call , if they have an old unit that's still using this twenty-two freon or whatever it is , it costs them three times as much to get it fixed
+	Free: Pattern=time, Pattern=have, Pattern=have a, Pattern=to get, Pattern=if, Pattern=is, Pattern=the
+	Constrained: Pattern=a, Pattern=to, Pattern=have, Pattern=get
+Turn ID=69| B | M :  ...
+	Free: 
+	Constrained: 

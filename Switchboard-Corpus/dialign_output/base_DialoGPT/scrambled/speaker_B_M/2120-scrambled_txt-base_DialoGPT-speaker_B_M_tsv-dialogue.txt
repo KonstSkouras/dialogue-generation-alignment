@@ -1,0 +1,59 @@
+A|0| B: Yeah . Yeah . 
+B|1| M: Ku . 
+A|2| B: Yeah , uh , that makes _a_ difference doesn't it ? 
+B|3| M: There _is_ [a] sequel to this called Mah'Mah'Mah . 
+A|4| B: Uh-huh . 
+B|5| M: _Well ,_ that's not true . 
+A|6| B: You _know ,_ it's kind of [a] give and take kind of thing , _I_ think . 
+B|7| M: [I] don't [know] . 
+A|8| B: [I] thought that was on the upswing again now . 
+B|9| M: No . 
+A|10| B: [Well ,] _my_ other line [is] ringing 
+B|11| M: This [is] [my] 
+A|12| B: Uh-huh . 
+B|13| M: [I] [know ,] right ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Yeah . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : Ku .
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : Yeah , uh , that makes a difference doesn't it ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=3| B | M : There is a sequel to this called Mah'Mah'Mah .
+	Free: Pattern=is, Pattern=a
+	Constrained: 
+Turn ID=4| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : Well , that's not true .
+	Free: Pattern=Well ,
+	Constrained: 
+Turn ID=6| A | B : You know , it's kind of a give and take kind of thing , I think .
+	Free: Pattern=know ,, Pattern=I, Pattern=a
+	Constrained: Pattern=know
+Turn ID=7| B | M : I don't know .
+	Free: Pattern=I, Pattern=know
+	Constrained: 
+Turn ID=8| A | B : I thought that was on the upswing again now .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=9| B | M : No .
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : Well , my other line is ringing
+	Free: Pattern=Well ,, Pattern=is, Pattern=my
+	Constrained: 
+Turn ID=11| B | M : This is my
+	Free: Pattern=is, Pattern=my
+	Constrained: 
+Turn ID=12| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : I know , right ?
+	Free: Pattern=know ,, Pattern=I
+	Constrained: Pattern=know

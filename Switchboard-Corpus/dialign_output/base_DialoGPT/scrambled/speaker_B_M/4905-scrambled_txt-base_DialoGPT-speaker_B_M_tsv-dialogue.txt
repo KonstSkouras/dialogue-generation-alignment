@@ -1,0 +1,203 @@
+A|0| B: Uh-huh 
+B|1| M: _Why ?_ It's _not_ _like_ _the_ _car_ _is_ _the_ only _thing_ _that's_ _not_ being built . 
+A|2| B: Yeah . 
+B|3| M: Have _a_ good night 
+A|4| B: _and_ it brought it to its knees . Just in [the] ability to handle . 
+B|5| M: Um , um _, uh _,_ uh_ . 
+A|6| B: _What about_ Mustang G T 
+B|7| M: Well _, it's_ [the] only way . 
+A|8| B: Uh , Jazz . 
+B|9| M: Well , _that's_ _a bit_ _of_ _a_ different story . 
+A|10| B: _I_ _think_ so too . _I'm_ in Texas 
+B|11| M: It's _because_ they're afraid _of_ your gun 
+A|12| B: Uh , actually one [thing] we have done quite [a bit] through [the] holidays , just [because] [it's] [a] , real easy , [is] just baked potato dinners . 
+B|13| M: That _, that_ _, that_ . 
+A|14| B: Uh-huh . Right . 
+B|15| M: Not . 
+A|16| B: _and_ at least _I_ had some interest in , [a] lot [of] [the] youth [that] _I_ come in contact with _are_ _, they_ say oh _, I_ want to be [a] doctor _, I_ want to be [a] lawyer . [Why ?] Because _they_ make [a] lot [of] money . 
+B|17| M: [I'm] _not_ sure _what_ _you_ mean 
+A|18| B: My husband got his big garage . He we have [a] three [car] garage [, that] he has [a] big work area in 
+B|19| M:  ... 
+A|20| B: Oh [that's] one [of] [the] requirements _I_ asked him . _I_ said , now [you] do [like] cats , right . _We_ _don't_ 
+B|21| M: The military _, uh ,_ finds 
+A|22| B: I've talked to many [, uh ,] owners [of] places _and_ say [that] nobody even , maybe , maybe Christmas . 
+B|23| M: Nomroads . 
+A|24| B: Right . Right . Right . 
+B|25| M: They [, they] [, they] ... 
+A|26| B: Yeah . Right , _and_ especially if [you] have _a family ._ 
+B|27| M:  
+A|28| B: Yeah 
+B|29| M: [We] should _probably_ abandon [the] idea [of] being [a family .] 
+A|30| B: Yeah , escape . But [it's] beautiful [, it's] _, you_ _know [,_ it's] Eastern Hardwood [, uh ,] forest , there _are a_ lot [of] pine trees , but [it's] mostly oaks _and_ . 
+B|31| M: You [are a] terrible person . 
+A|32| B: Yeah . 
+B|33| M: He's [a bit] [of] [a] ... cuddlebug . 
+A|34| B: but [the] state legislatures [are] more _and_ more coming to supporting it . 
+B|35| M: [I] , _think [,_ you] , [know [,] I] , [don't] . 
+A|36| B: But whether or [not] it would be [, uh ,] our money would be better spent [, uh ,] teaching [, you] [know ,] working on [the] drug problems _and_ [the] , _and_ [the] sex problems [, uh ,] rather than trying to cure [the] people [that] already have it . 
+B|37| M: [I] ' 
+A|38| B: Yeah , it [is] [a] tough question . 
+B|39| M:  
+A|40| B: Uh-huh . 
+B|41| M: People [are] still extinct point [and] figure 
+A|42| B: And [, uh ,] but based [, you] [know ,] in terms [of] [, you] [know ,] in , in Pensacola , in [that] area [of] Florida it [, uh [,] it's] [what] now , it [is] [, uh ,] [probably] ten years old . 
+B|43| M: [What about] [the] tomatoes ? 
+A|44| B: No , we [are] west . 
+B|45| M: Yes . 
+A|46| B: Yeah , yeah . 
+B|47| M: If [they] [are] [not] convicted , then [they] [are] considered guilty . 
+A|48| B: [I] [think ,] 
+B|49| M: [I'm] [a] student 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh-huh
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : Why ? It's not like the car is the only thing that's not being built .
+	Free: Pattern=is, Pattern=like, Pattern=car, Pattern=Why ?, Pattern=not, Pattern=thing, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=2| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : Have a good night
+	Free: Pattern=a
+	Constrained: 
+Turn ID=4| A | B : and it brought it to its knees . Just in the ability to handle .
+	Free: Pattern=the, Pattern=and
+	Constrained: 
+Turn ID=5| B | M : Um , um , uh , uh .
+	Free: Pattern=, uh ,, Pattern=, uh
+	Constrained: Pattern=, uh
+Turn ID=6| A | B : What about Mustang G T
+	Free: Pattern=What about
+	Constrained: 
+Turn ID=7| B | M : Well , it's the only way .
+	Free: Pattern=, it's, Pattern=the
+	Constrained: Pattern=it's
+Turn ID=8| A | B : Uh , Jazz .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : Well , that's a bit of a different story .
+	Free: Pattern=a bit, Pattern=that's, Pattern=a, Pattern=of
+	Constrained: Pattern=a
+Turn ID=10| A | B : I think so too . I'm in Texas
+	Free: Pattern=think, Pattern=I'm, Pattern=I
+	Constrained: 
+Turn ID=11| B | M : It's because they're afraid of your gun
+	Free: Pattern=because, Pattern=of
+	Constrained: 
+Turn ID=12| A | B : Uh , actually one thing we have done quite a bit through the holidays , just because it's a , real easy , is just baked potato dinners .
+	Free: Pattern=a bit, Pattern=is, Pattern=it's, Pattern=a, Pattern=because, Pattern=thing, Pattern=the
+	Constrained: Pattern=a
+Turn ID=13| B | M : That , that , that .
+	Free: Pattern=, that
+	Constrained: Pattern=that
+Turn ID=14| A | B : Uh-huh . Right .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : Not .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : and at least I had some interest in , a lot of the youth that I come in contact with are , they say oh , I want to be a doctor , I want to be a lawyer . Why ? Because they make a lot of money .
+	Free: Pattern=, they, Pattern=of, Pattern=they, Pattern=and, Pattern=the, Pattern=Why ?, Pattern=that, Pattern=, I, Pattern=a, Pattern=are, Pattern=I
+	Constrained: Pattern=they, Pattern=I
+Turn ID=17| B | M : I'm not sure what you mean
+	Free: Pattern=what, Pattern=you, Pattern=I'm, Pattern=not
+	Constrained: 
+Turn ID=18| A | B : My husband got his big garage . He we have a three car garage , that he has a big work area in
+	Free: Pattern=, that, Pattern=car, Pattern=a
+	Constrained: Pattern=that
+Turn ID=19| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : Oh that's one of the requirements I asked him . I said , now you do like cats , right . We don't
+	Free: Pattern=of, Pattern=you, Pattern=We, Pattern=I, Pattern=like, Pattern=don't, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=21| B | M : The military , uh , finds
+	Free: Pattern=, uh ,
+	Constrained: Pattern=, uh
+Turn ID=22| A | B : I've talked to many , uh , owners of places and say that nobody even , maybe , maybe Christmas .
+	Free: Pattern=, uh ,, Pattern=of, Pattern=that, Pattern=and
+	Constrained: Pattern=, uh
+Turn ID=23| B | M : Nomroads .
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : Right . Right . Right .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : They , they , they ...
+	Free: Pattern=, they
+	Constrained: Pattern=they
+Turn ID=26| A | B : Yeah . Right , and especially if you have a family .
+	Free: Pattern=a family ., Pattern=you, Pattern=and
+	Constrained: Pattern=a
+Turn ID=27| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : Yeah
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : We should probably abandon the idea of being a family .
+	Free: Pattern=of, Pattern=We, Pattern=probably, Pattern=a family ., Pattern=the
+	Constrained: Pattern=a
+Turn ID=30| A | B : Yeah , escape . But it's beautiful , it's , you know , it's Eastern Hardwood , uh , forest , there are a lot of pine trees , but it's mostly oaks and .
+	Free: Pattern=are a, Pattern=and, Pattern=, it's, Pattern=, you, Pattern=, uh ,, Pattern=it's, Pattern=of, Pattern=know ,
+	Constrained: Pattern=a, Pattern=are, Pattern=it's, Pattern=you, Pattern=, uh
+Turn ID=31| B | M : You are a terrible person .
+	Free: Pattern=are a
+	Constrained: Pattern=a, Pattern=are
+Turn ID=32| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : He's a bit of a ... cuddlebug .
+	Free: Pattern=a bit, Pattern=a, Pattern=of
+	Constrained: Pattern=a
+Turn ID=34| A | B : but the state legislatures are more and more coming to supporting it .
+	Free: Pattern=the, Pattern=are, Pattern=and
+	Constrained: 
+Turn ID=35| B | M : I , think , you , know , I , don't .
+	Free: Pattern=know ,, Pattern=, I, Pattern=, you, Pattern=don't, Pattern=think ,, Pattern=I
+	Constrained: Pattern=think, Pattern=you, Pattern=I
+Turn ID=36| A | B : But whether or not it would be , uh , our money would be better spent , uh , teaching , you know , working on the drug problems and the , and the sex problems , uh , rather than trying to cure the people that already have it .
+	Free: Pattern=know ,, Pattern=and, Pattern=, you, Pattern=, uh ,, Pattern=the, Pattern=that, Pattern=not
+	Constrained: Pattern=, uh, Pattern=you
+Turn ID=37| B | M : I '
+	Free: Pattern=I
+	Constrained: 
+Turn ID=38| A | B : Yeah , it is a tough question .
+	Free: Pattern=a, Pattern=is
+	Constrained: 
+Turn ID=39| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : People are still extinct point and figure
+	Free: Pattern=are, Pattern=and
+	Constrained: 
+Turn ID=42| A | B : And , uh , but based , you know , in terms of , you know , in , in Pensacola , in that area of Florida it , uh , it's what now , it is , uh , probably ten years old .
+	Free: Pattern=what, Pattern=probably, Pattern=, it's, Pattern=, you, Pattern=is, Pattern=, uh ,, Pattern=that, Pattern=of, Pattern=know ,
+	Constrained: Pattern=it's, Pattern=you, Pattern=, uh
+Turn ID=43| B | M : What about the tomatoes ?
+	Free: Pattern=What about, Pattern=the
+	Constrained: 
+Turn ID=44| A | B : No , we are west .
+	Free: Pattern=are
+	Constrained: 
+Turn ID=45| B | M : Yes .
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : Yeah , yeah .
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : If they are not convicted , then they are considered guilty .
+	Free: Pattern=they, Pattern=are, Pattern=not
+	Constrained: 
+Turn ID=48| A | B : I think ,
+	Free: Pattern=think ,, Pattern=I
+	Constrained: Pattern=think
+Turn ID=49| B | M : I'm a student
+	Free: Pattern=a, Pattern=I'm
+	Constrained: 

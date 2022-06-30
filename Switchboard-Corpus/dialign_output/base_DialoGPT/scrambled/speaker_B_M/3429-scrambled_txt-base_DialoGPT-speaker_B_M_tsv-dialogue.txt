@@ -1,0 +1,239 @@
+A|0| B: Uh-huh _, _I_ know_ _a lot of_ 
+B|1| M: This _is_ awesome . 
+A|2| B: Uh-huh . 
+B|3| M: _I was_ _there_ _, _and_ you_ _were_ _not_ _there_ . 
+A|4| B: Right . 
+B|5| M: _the_ 
+A|6| B: But , but then _it's_ something that's hard to enforce too _I'm_ sure . 
+B|7| M:  . 
+A|8| B: _What_ about your home ? 
+B|9| M: [I'm] _not_ _saying_ _there's_ _not_ _, uh _,_ there's_ [a lot of] _people_ 
+A|10| B: [and you] , you'd still [, there's] still mitigating circumstances 
+B|11| M: You'll _be_ fine . 
+A|12| B: Yeah . 
+B|13| M: You can't _really_ cut back _on_ _the_ use [of] _the_ market . 
+A|14| B: Now when [was] _that_ , when [were] [you] [there] ? 
+B|15| M: uhh _, uh ,_ _um ,_ they're 
+A|16| B: Ooh _, I_ love tennis too 
+B|17| M: _I have_ been 
+A|18| B: Uh-huh . 
+B|19| M: [I'm] 
+A|20| B: Uh-huh . 
+B|21| M: This _is_ _it_ 
+A|22| B: _What_ [I] [really] hate in [the] mail [is] _like_ _for_ [the] credit cards _that_ [I] _do_ [have] still , _that_ they send [you] these things _that_ look _like_ checks , 
+B|23| M:  
+A|24| B: And _he_ describes [it] as , [you] sit [there] in [a] crowd , [it] [was] nice weather [and] stuff , [it] wasn't [a] real problem , but [you] sit [there] in [a] crowd [, and] you're waiting [and] waiting [and] waiting [and you] eat these lousy [the] hot dogs [um ,] because we made him try [a] hot dog , [you] _know ,_ 
+B|25| M:  
+A|26| B: Yeah . It would [be] great _, I_ mean [, uh ,] [the] glasses _that_ , [the] exams themselves are [not] expensive _, it's_ [the] glasses . 
+B|27| M: [I] _think_ [that] [is] [the] night . 
+A|28| B: [I] _, I_ couldn't handle [that] 
+B|29| M: [I [know] ,] 
+A|30| B: Uh-huh . 
+B|31| M: [What] ? 
+A|32| B: [I] , _I've_ , _one_ thing , when , when [I have] run [and] jogged [, uh ,] _I've_ always enjoyed doing [it] by myself [and] [, and] , [not] with [the] sense [that] [it] [was] [, uh [,] uh ,] chore or something [that] [I was] having to _do_ _, I_ , _I've_ [really] enjoyed just [the] activity [and] [, uh _,] I_ write software [, uh ,] as far as [the] job [and] _so_ getting out [and] _being_ active [, uh ,] [is] [, uh [,] uh ,] helps out . The _, it's_ 
+B|33| M: No , 
+A|34| B: _Oh_ . 
+B|35| M: That's , [so] . 
+A|36| B: Yeah . 
+B|37| M: [What] ? 
+A|38| B: but they talk about things [that] [I] , my brother didn't talk about until _he_ [was] in college [you] [know ,] 
+B|39| M: They [do] [it] 
+A|40| B: [I] don't [know] how much [, and] [I] had her _for_ over two years [and] she [was] very affectionate . She would , [you] [know ,] crawl [on] me [and] she would sit _like_ [on] my neck or my shoulder while [I was] working [, and] things _like_ [that] . Yeah , much more than [you] would [think] . 
+B|41| M: [I [know] ,] right ? 
+A|42| B: _Oh_ , no . 
+B|43| M: [he] nods You [do] . [it] . again . maby . [you] . did . _get_ . [one] . done . [for] . i . [and] . [the] . same . again 
+A|44| B: Uh-huh . 
+B|45| M:  
+A|46| B: when , when we added four hundred square feet to our house 
+B|47| M: Last year ? 
+A|48| B: Uh-huh . 
+B|49| M: [I] [like] ketchup . 
+A|50| B: You're supposed to what . 
+B|51| M:  ... [What] ? 
+A|52| B: Uh-huh . 
+B|53| M: [Oh] yeah , [I'm] sorry [, I] thought [you] [were] [being] sarcastic 
+A|54| B: When [you] [get] [one] way out [like] [that] but then [really] doesn't wind up penalizing [the] person [that] they went after . Who [it] [really] penalizes [is] their insurance company which then translates into higher rates [for] all [of] us . If they [get] some [of] those mega awards against them . 
+B|55| M:  
+A|56| B: Not with me personally . It [is] with [a lot of] other [people] . 
+B|57| M: [I'm] [not] gonna lie [, it's] been [a] long time since [I've] done [it] . 
+A|58| B: Right . When you're [saying] as far as [the] appeal [, uh ,] procedure [was] concerned . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh-huh , I know a lot of
+	Free: Pattern=a lot of, Pattern=, I, Pattern=I know
+	Constrained: Pattern=a, Pattern=I, Pattern=of, Pattern=know
+Turn ID=1| B | M : This is awesome .
+	Free: Pattern=is
+	Constrained: 
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : I was there , and you were not there .
+	Free: Pattern=I was, Pattern=there, Pattern=, and, Pattern=were, Pattern=and you, Pattern=not
+	Constrained: Pattern=was, Pattern=I, Pattern=and, Pattern=you
+Turn ID=4| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : the
+	Free: Pattern=the
+	Constrained: 
+Turn ID=6| A | B : But , but then it's something that's hard to enforce too I'm sure .
+	Free: Pattern=I'm, Pattern=it's
+	Constrained: 
+Turn ID=7| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : What about your home ?
+	Free: Pattern=What
+	Constrained: 
+Turn ID=9| B | M : I'm not saying there's not , uh , there's a lot of people
+	Free: Pattern=a lot of, Pattern=I'm, Pattern=people, Pattern=, there's, Pattern=there's, Pattern=not, Pattern=, uh ,, Pattern=saying
+	Constrained: Pattern=there's, Pattern=of, Pattern=a
+Turn ID=10| A | B : and you , you'd still , there's still mitigating circumstances
+	Free: Pattern=and you, Pattern=, there's
+	Constrained: Pattern=there's, Pattern=and, Pattern=you
+Turn ID=11| B | M : You'll be fine .
+	Free: Pattern=be
+	Constrained: 
+Turn ID=12| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : You can't really cut back on the use of the market .
+	Free: Pattern=of, Pattern=on, Pattern=the, Pattern=really
+	Constrained: 
+Turn ID=14| A | B : Now when was that , when were you there ?
+	Free: Pattern=you, Pattern=there, Pattern=was, Pattern=were, Pattern=that
+	Constrained: 
+Turn ID=15| B | M : uhh , uh , um , they're
+	Free: Pattern=, uh ,, Pattern=um ,
+	Constrained: 
+Turn ID=16| A | B : Ooh , I love tennis too
+	Free: Pattern=, I
+	Constrained: Pattern=I
+Turn ID=17| B | M : I have been
+	Free: Pattern=I have
+	Constrained: Pattern=I, Pattern=have
+Turn ID=18| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : I'm
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=20| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : This is it
+	Free: Pattern=it, Pattern=is
+	Constrained: 
+Turn ID=22| A | B : What I really hate in the mail is like for the credit cards that I do have still , that they send you these things that look like checks ,
+	Free: Pattern=you, Pattern=have, Pattern=do, Pattern=for, Pattern=I, Pattern=What, Pattern=is, Pattern=the, Pattern=that, Pattern=really, Pattern=like
+	Constrained: 
+Turn ID=23| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : And he describes it as , you sit there in a crowd , it was nice weather and stuff , it wasn't a real problem , but you sit there in a crowd , and you're waiting and waiting and waiting and you eat these lousy the hot dogs um , because we made him try a hot dog , you know ,
+	Free: Pattern=you, Pattern=there, Pattern=a, Pattern=he, Pattern=the, Pattern=, and, Pattern=was, Pattern=and you, Pattern=know ,, Pattern=um ,, Pattern=it, Pattern=and
+	Constrained: Pattern=know, Pattern=and, Pattern=you
+Turn ID=25| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : Yeah . It would be great , I mean , uh , the glasses that , the exams themselves are not expensive , it's the glasses .
+	Free: Pattern=, I, Pattern=, it's, Pattern=the, Pattern=that, Pattern=not, Pattern=, uh ,, Pattern=be
+	Constrained: Pattern=I, Pattern=it's
+Turn ID=27| B | M : I think that is the night .
+	Free: Pattern=I, Pattern=think, Pattern=is, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=28| A | B : I , I couldn't handle that
+	Free: Pattern=, I, Pattern=I, Pattern=that
+	Constrained: Pattern=I
+Turn ID=29| B | M : I know ,
+	Free: Pattern=I know, Pattern=know ,
+	Constrained: Pattern=know, Pattern=I
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : What ?
+	Free: Pattern=What
+	Constrained: 
+Turn ID=32| A | B : I , I've , one thing , when , when I have run and jogged , uh , I've always enjoyed doing it by myself and , and , not with the sense that it was , uh , uh , chore or something that I was having to do , I , I've really enjoyed just the activity and , uh , I write software , uh , as far as the job and so getting out and being active , uh , is , uh , uh , helps out . The , it's
+	Free: Pattern=I was, Pattern=I've, Pattern=being, Pattern=, it's, Pattern=is, Pattern=really, Pattern=I have, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=was, Pattern=that, Pattern=so, Pattern=not, Pattern=do, Pattern=, I, Pattern=it, Pattern=and, Pattern=one, Pattern=I
+	Constrained: Pattern=have, Pattern=and, Pattern=I, Pattern=was, Pattern=it's
+Turn ID=33| B | M : No ,
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=35| B | M : That's , so .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=36| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : What ?
+	Free: Pattern=What
+	Constrained: 
+Turn ID=38| A | B : but they talk about things that I , my brother didn't talk about until he was in college you know ,
+	Free: Pattern=know ,, Pattern=you, Pattern=I, Pattern=he, Pattern=was, Pattern=that
+	Constrained: Pattern=know
+Turn ID=39| B | M : They do it
+	Free: Pattern=it, Pattern=do
+	Constrained: 
+Turn ID=40| A | B : I don't know how much , and I had her for over two years and she was very affectionate . She would , you know , crawl on me and she would sit like on my neck or my shoulder while I was working , and things like that . Yeah , much more than you would think .
+	Free: Pattern=I was, Pattern=know ,, Pattern=you, Pattern=for, Pattern=and, Pattern=I, Pattern=think, Pattern=know, Pattern=like, Pattern=on, Pattern=, and, Pattern=was, Pattern=that
+	Constrained: Pattern=was, Pattern=know, Pattern=I, Pattern=and
+Turn ID=41| B | M : I know , right ?
+	Free: Pattern=I know, Pattern=know ,
+	Constrained: Pattern=know, Pattern=I
+Turn ID=42| A | B : Oh , no .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=43| B | M : he nods You do . it . again . maby . you . did . get . one . done . for . i . and . the . same . again
+	Free: Pattern=you, Pattern=do, Pattern=for, Pattern=one, Pattern=he, Pattern=the, Pattern=get, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=44| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : when , when we added four hundred square feet to our house
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : Last year ?
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : I like ketchup .
+	Free: Pattern=I, Pattern=like
+	Constrained: 
+Turn ID=50| A | B : You're supposed to what .
+	Free: 
+	Constrained: 
+Turn ID=51| B | M :  ... What ?
+	Free: Pattern=What
+	Constrained: 
+Turn ID=52| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : Oh yeah , I'm sorry , I thought you were being sarcastic
+	Free: Pattern=, I, Pattern=being, Pattern=Oh, Pattern=were, Pattern=you, Pattern=I'm
+	Constrained: Pattern=I
+Turn ID=54| A | B : When you get one way out like that but then really doesn't wind up penalizing the person that they went after . Who it really penalizes is their insurance company which then translates into higher rates for all of us . If they get some of those mega awards against them .
+	Free: Pattern=of, Pattern=you, Pattern=for, Pattern=it, Pattern=one, Pattern=is, Pattern=the, Pattern=get, Pattern=that, Pattern=really, Pattern=like
+	Constrained: 
+Turn ID=55| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=56| A | B : Not with me personally . It is with a lot of other people .
+	Free: Pattern=a lot of, Pattern=people, Pattern=is
+	Constrained: Pattern=of, Pattern=a
+Turn ID=57| B | M : I'm not gonna lie , it's been a long time since I've done it .
+	Free: Pattern=I've, Pattern=I'm, Pattern=a, Pattern=it, Pattern=, it's, Pattern=not
+	Constrained: Pattern=it's
+Turn ID=58| A | B : Right . When you're saying as far as the appeal , uh , procedure was concerned .
+	Free: Pattern=, uh ,, Pattern=was, Pattern=the, Pattern=saying
+	Constrained: 

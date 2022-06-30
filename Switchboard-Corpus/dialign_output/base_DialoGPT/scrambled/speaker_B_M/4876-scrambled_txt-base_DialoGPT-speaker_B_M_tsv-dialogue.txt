@@ -1,0 +1,195 @@
+A|0| B: Uh _, _I_ think_ , well , _something_ on _the_ order of _a_ three series , it's probably different . Once _you_ get up in _the_ five series and higher , _then_ , all your repair costs _go_ up significantly 
+B|1| M:  
+A|2| B: Well _I'm_ _not_ talking _about_ _just_ in _the_ school system . 
+B|3| M: _I was_ gonna say _it ,_ _but_ [then] [I] saw [the] name . 
+A|4| B: [I] _, _I_ think it_ has _to_ _be_ some kind of common sense applied there . And there may _be_ where [the] judiciary _is_ _a little_ more learned _about_ _that_ type of thing because they can _be_ schooled in _that_ kind of thing , 
+B|5| M: u bealphem _, the_ girl plays [the] piano . 
+A|6| B: Yeah . 
+B|7| M: It _was_ [just] [a] theory , _but_ [I think it] might [be] [something] like [that] . 
+A|8| B: Yeah , we've _heard_ them and , liked , liked [it] real well , of course 
+B|9| M: She _wasn't_ ? 
+A|10| B: We've covered _a little_ bit and _, uh ,_ it's good _to_ hear from _you_ and , 
+B|11| M: You _know [,_ I] [just] [, I] don'know . 
+A|12| B: and they final get up _to_ where they kill somebody else , and they _go_ through fourteen appeals , and _how_ many hundreds of thousands of taxpayer dollars . 
+B|13| M: This [is] _it ._ 
+A|14| B: What do _you_ [think] ? 
+B|15| M: No 
+A|16| B: Uh-huh . 
+B|17| M: we're , they're'a . 
+A|18| B: [but] she seems _to_ . 
+B|19| M: See [you] . Later . 
+A|20| B: And [I] have [a] sister-in-law who [is] , who works in [the] Fort Worth school district . 
+B|21| M: i'm 
+A|22| B: Uh-huh . 
+B|23| M: They're plant matter . 
+A|24| B: and [I] [, I] certainly [, I] [, I] grew up in [a] smaller town in Texas , and [it] [wasn't] [that] way when [I was] younger . 
+B|25| M: _I don't_ _know ._ 
+A|26| B: Uh-huh . 
+B|27| M: Ayehuh ? 
+A|28| B: Yeah . Yeah . 
+B|29| M: It's [not] [a] bad _place ,_ [just] [a little] busy 
+A|30| B: So [I] guess it's supposed _to_ [be] dinner party , [is] [that] what they said ? 
+B|31| M: [I] 
+A|32| B: Yeah , mine had been [a] , [a] , [a] _how_ did this work , [a] mill rat had been bought and [the] people in [the] lab one day called in my friend and said , [you] [know ,] this rat [is] acting really strange [I think] he's sick , and she said [, [I] don't] [think] he's sick [, [I] think] she's pregnant , 
+B|33| M: [I'm] sure she'll [be] fine 
+A|34| B: Yeah [, I] [, I] [know] of some people who did _, uh ,_ [it] [was] , [it] [was] indirectly related , [you] [know ,] they could always come up with other reasons [but] [it ,] [it] had [a] lot _to_ do with [it .] Just _the [,_ the] whole attitude , because it's really _, uh ,_ it's [just] really , [it ,] [it] seems so T [I] , [you] [know ,] with _the [,_ the] whole relaxed atmosphere [that] we have , um , _to_ all of [a] sudden _, uh ,_ search for attitudes and whatnot . 
+B|35| M: I've [heard] [about] [the] Mah'jian tile game , too . 
+A|36| B: Uh-huh . 
+B|37| M: [I] 
+A|38| B: And 
+B|39| M:  
+A|40| B: [but] _, uh ,_ sometimes [I] [, I] said [, I] sometimes [I] wish [I] had more space [you] [know .] 
+B|41| M: [you] 
+A|42| B: Yeah , and there will [be] [a] lot of rebellion in [that] and when [you] get people who have no desire _to_ [be] there in [the] first [place [,] [I] don't] [think] [that] they're going _to_ [be] serving anybody . 
+B|43| M: That's [not] [how] [you] spell'paper ' . 
+A|44| B: Uh-huh . 
+B|45| M: [I'm] gonna [go] [to] [the [,] uh ,] library . 
+A|46| B: Yeah . 
+B|47| M: [I] don 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh , I think , well , something on the order of a three series , it's probably different . Once you get up in the five series and higher , then , all your repair costs go up significantly
+	Free: Pattern=you, Pattern=go, Pattern=I think, Pattern=the, Pattern=something, Pattern=then, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=think
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : Well I'm not talking about just in the school system .
+	Free: Pattern=I'm, Pattern=just, Pattern=about, Pattern=the, Pattern=not
+	Constrained: 
+Turn ID=3| B | M : I was gonna say it , but then I saw the name .
+	Free: Pattern=I was, Pattern=then, Pattern=I, Pattern=it ,, Pattern=the, Pattern=but
+	Constrained: Pattern=I, Pattern=it, Pattern=was
+Turn ID=4| A | B : I , I think it has to be some kind of common sense applied there . And there may be where the judiciary is a little more learned about that type of thing because they can be schooled in that kind of thing ,
+	Free: Pattern=, I, Pattern=I, Pattern=a little, Pattern=about, Pattern=is, Pattern=be, Pattern=the, Pattern=to, Pattern=I think it, Pattern=that
+	Constrained: Pattern=a, Pattern=it, Pattern=I, Pattern=think, Pattern=I think
+Turn ID=5| B | M : u bealphem , the girl plays the piano .
+	Free: Pattern=, the, Pattern=the
+	Constrained: Pattern=the
+Turn ID=6| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : It was just a theory , but I think it might be something like that .
+	Free: Pattern=just, Pattern=a, Pattern=be, Pattern=was, Pattern=I think it, Pattern=something, Pattern=that, Pattern=but
+	Constrained: Pattern=it, Pattern=I, Pattern=think, Pattern=I think
+Turn ID=8| A | B : Yeah , we've heard them and , liked , liked it real well , of course
+	Free: Pattern=heard, Pattern=it
+	Constrained: 
+Turn ID=9| B | M : She wasn't ?
+	Free: Pattern=wasn't
+	Constrained: 
+Turn ID=10| A | B : We've covered a little bit and , uh , it's good to hear from you and ,
+	Free: Pattern=, uh ,, Pattern=a little, Pattern=to, Pattern=you
+	Constrained: Pattern=a
+Turn ID=11| B | M : You know , I just , I don'know .
+	Free: Pattern=, I, Pattern=know ,, Pattern=just
+	Constrained: Pattern=know, Pattern=I
+Turn ID=12| A | B : and they final get up to where they kill somebody else , and they go through fourteen appeals , and how many hundreds of thousands of taxpayer dollars .
+	Free: Pattern=to, Pattern=how, Pattern=go
+	Constrained: 
+Turn ID=13| B | M : This is it .
+	Free: Pattern=it ., Pattern=is
+	Constrained: Pattern=it
+Turn ID=14| A | B : What do you think ?
+	Free: Pattern=think, Pattern=you
+	Constrained: 
+Turn ID=15| B | M : No
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : we're , they're'a .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : but she seems to .
+	Free: Pattern=but, Pattern=to
+	Constrained: 
+Turn ID=19| B | M : See you . Later .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=20| A | B : And I have a sister-in-law who is , who works in the Fort Worth school district .
+	Free: Pattern=I, Pattern=the, Pattern=a, Pattern=is
+	Constrained: 
+Turn ID=21| B | M : i'm
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : They're plant matter .
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : and I , I certainly , I , I grew up in a smaller town in Texas , and it wasn't that way when I was younger .
+	Free: Pattern=I was, Pattern=wasn't, Pattern=it, Pattern=I, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=was
+Turn ID=25| B | M : I don't know .
+	Free: Pattern=I don't, Pattern=know .
+	Constrained: Pattern=know, Pattern=I
+Turn ID=26| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : Ayehuh ?
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : Yeah . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : It's not a bad place , just a little busy
+	Free: Pattern=just, Pattern=a, Pattern=a little, Pattern=place ,, Pattern=not
+	Constrained: Pattern=a
+Turn ID=30| A | B : So I guess it's supposed to be dinner party , is that what they said ?
+	Free: Pattern=I, Pattern=is, Pattern=be, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=31| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=32| A | B : Yeah , mine had been a , a , a how did this work , a mill rat had been bought and the people in the lab one day called in my friend and said , you know , this rat is acting really strange I think he's sick , and she said , I don't think he's sick , I think she's pregnant ,
+	Free: Pattern=know ,, Pattern=you, Pattern=how, Pattern=I don't, Pattern=think, Pattern=is, Pattern=I think, Pattern=the, Pattern=, I, Pattern=a
+	Constrained: Pattern=know, Pattern=I, Pattern=think
+Turn ID=33| B | M : I'm sure she'll be fine
+	Free: Pattern=be, Pattern=I'm
+	Constrained: 
+Turn ID=34| A | B : Yeah , I , I know of some people who did , uh , it was , it was indirectly related , you know , they could always come up with other reasons but it , it had a lot to do with it . Just the , the whole attitude , because it's really , uh , it's just really , it , it seems so T I , you know , with the , the whole relaxed atmosphere that we have , um , to all of a sudden , uh , search for attitudes and whatnot .
+	Free: Pattern=know ,, Pattern=just, Pattern=I, Pattern=know, Pattern=it ,, Pattern=, uh ,, Pattern=to, Pattern=was, Pattern=, the, Pattern=you, Pattern=it ., Pattern=, I, Pattern=a, Pattern=it, Pattern=the ,, Pattern=that, Pattern=but
+	Constrained: Pattern=it, Pattern=I, Pattern=know, Pattern=the
+Turn ID=35| B | M : I've heard about the Mah'jian tile game , too .
+	Free: Pattern=the, Pattern=heard, Pattern=about
+	Constrained: 
+Turn ID=36| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=38| A | B : And
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : but , uh , sometimes I , I said , I sometimes I wish I had more space you know .
+	Free: Pattern=you, Pattern=, I, Pattern=I, Pattern=but, Pattern=, uh ,, Pattern=know .
+	Constrained: Pattern=know, Pattern=I
+Turn ID=41| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=42| A | B : Yeah , and there will be a lot of rebellion in that and when you get people who have no desire to be there in the first place , I don't think that they're going to be serving anybody .
+	Free: Pattern=you, Pattern=I don't, Pattern=place ,, Pattern=think, Pattern=be, Pattern=the, Pattern=to, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=43| B | M : That's not how you spell'paper ' .
+	Free: Pattern=how, Pattern=not, Pattern=you
+	Constrained: 
+Turn ID=44| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : I'm gonna go to the , uh , library .
+	Free: Pattern=I'm, Pattern=go, Pattern=the ,, Pattern=, uh ,, Pattern=to
+	Constrained: Pattern=the
+Turn ID=46| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : I don
+	Free: Pattern=I
+	Constrained: 

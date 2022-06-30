@@ -1,0 +1,135 @@
+A|0| A: His grandmother _too_ _and_ _they're_ , _that_ her son , his uncle , whatever _, you know ,_ anyway . He , _he_ _has_ , he's recently retired _and_ _so_ he's _the_ _one_ who she moved _in_ _with_ _when_ she had _a_ stroke _and _,_ and_ all _the_ other children are working _or_ whatever . 
+B|1| B: Uh-huh . 
+A|2| A: Yes , yes . 
+B|3| B: _I_ mean _, I_ guess that's fine _if _you_ have_ [a] mouse problem _at_ your frat house [, and] your _things_ destroyed [the] mice . 
+A|4| A: [and] then _, you know ,_ everything _just_ _got_ hit hard 
+B|5| B: but _I don't_ [know] [that] there's [a] real _, uh ,_ 
+A|6| A: _you know ,_ [that] _just_ _really_ rubbed me [the] wrong way . 
+B|7| B: _So ,_ [when] [he] died , _we_ [got] _a little_ [one] . 
+A|8| A: _it ,_ _with_ kids _they_ [don't] care [if] _they_ take [a] shower everyday . With kids _they_ [don't] care _, you know [,_ uh ,] [a] _about_ _a lot of_ [things] _. But_ _as_ adults [, uh ,] _it's_ _like_ [if] [I don't] take [a] shower every day [, I] feel _like_ _, you know ,_ ooh . 
+B|9| B: Well [, _I] think_ [that] should be likewise decided by [the] jury [, you know ,] _because_ [, [I] don't] [know [,] _I] think_ [a] jury _would_ be less likely _to_ [just] send [a] man _to_ death [just] _for_ , any reason , 
+A|10| A: [So _,] um ,_ well _, I have_ _not really_ paid much attention [because] [I] clock , although [I think] we've probably _been_ _talking_ [at] least ten minutes _so_ _, um ,_ [if you] _, um ,_ unless [you have] some other [things] [you] want [to] _talk_ _about_ _as_ having [to] _do_ _with_ P C 
+B|11| B: [and] this , eventually [things] [just] went [too] far 
+A|12| A: _Yeah ._ 
+B|13| B: Um , actually [I have] [, um _,] _I've_ , I've_ [been] [in] them but [, um _,] just_ visiting [and [,] uh ,] _we_ used [to] [when] _we_ were [like] [in] , [in] _our_ teen ages we'd go on Sundays [and] visit [, you know ,] [the] older people [. But] [, um [,] I have] _an elderly_ grandma [that] lives [with] us . 
+A|14| A: [So ,] _it's_ its' [just] different . 
+B|15| B: [Yeah] [I] mean [, I] [know] that's what my father-in-law was [talking] [about] [, you know ,] [when] [you] give these people money [or] , what was [it] [they] were bringing up points asking [as] far [as] whether [they] need [to] give [, um ,] _more_ money [to] these people [, I] mean [, and] that's [not really] [the] answer [, I] mean , [because] [if] [they're] alcoholics they'll [just] go out [and] spend , [it] on [, you know ,] booze _or something like that_ , 
+A|16| A: Did [they] ? 
+B|17| B: [and [,] uh ,] now [the] Air Force is [the] largest employer _in the_ [, uh ,] area [and [,] uh [,] uh ,] [so] [it's] , Not [too] bad , 
+A|18| A: [and] course [in the] spring [we] get [the] bluebonnets [and] Indian paintbrush . 
+B|19| B: Well , [they] [it ,] [the] , _their_ , [they] [do] [have] _an_ extremely good , such [things] [as] extremely good _school_ systems , _for_ example . It [has] [one] [of] [the] best _school_ systems [in the] country . 
+A|20| A: [I think] [I think] years past maybe [our] criminals had [a little] [more] morals [, you know] wouldn't kill somebody [in] cold blood . 
+B|21| B: There's , there's [a lot of] [, you know ,] last minute [, uh ,] [things] [that] happen cause [a] person [not] [to] , [have] [to] go through [the] _whole_ thing . 
+A|22| A: [they] [just] [don't] [have] [that] information . 
+B|23| B: Uh-huh . [Yeah .] Uh-huh . 
+A|24| A: Yep . 
+B|25| B: [I] admire someone [that] can [do] [that] [, you know [,] I] [really] can . 
+A|26| A: And [the] Moody Blues [, and] [I] [like] [to] listen [to] piano music [a] [whole] [lot] [, and] Willie Nelson . 
+B|27| B: [that] sounds wonderful . 
+A|28| A: [I've , I've] heard some horrible , horrible stories [about] high , high [school] teachers 
+B|29| B: [I've ,] 
+A|30| A: How [would] [you] feel [about] sending [an elderly] family member [to] [a] nursing home ? 
+B|31| B: Well , I'll [talk] [to] [you] later , 
+A|32| A: And [I've] thought [for] years [it] [would] make [a lot of] sense [to] create [an] eight hundred number [for] voters [to] call [and [,] and] vent [their] frustration [with] government . Like [one] , eight hundred capitol [or something like that] . You [know [,] just] [a] number [you] could call from anywhere , anytime . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : His grandmother too and they're , that her son , his uncle , whatever , you know , anyway . He , he has , he's recently retired and so he's the one who she moved in with when she had a stroke and , and all the other children are working or whatever .
+	Free: Pattern=and ,, Pattern=one, Pattern=he, Pattern=they're, Pattern=in, Pattern=or, Pattern=the, Pattern=when, Pattern=, and, Pattern=so, Pattern=, you know ,, Pattern=a, Pattern=and, Pattern=has, Pattern=too, Pattern=with, Pattern=that
+	Constrained: Pattern=you, Pattern=and, Pattern=, you know, Pattern=know, Pattern=know ,, Pattern=you know ,
+Turn ID=1| B | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : Yes , yes .
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : I mean , I guess that's fine if you have a mouse problem at your frat house , and your things destroyed the mice .
+	Free: Pattern=I, Pattern=at, Pattern=things, Pattern=the, Pattern=, and, Pattern=, I, Pattern=a, Pattern=if you, Pattern=you have
+	Constrained: Pattern=you, Pattern=have, Pattern=and, Pattern=I, Pattern=if
+Turn ID=4| A | A : and then , you know , everything just got hit hard
+	Free: Pattern=, you know ,, Pattern=got, Pattern=and, Pattern=just
+	Constrained: Pattern=you, Pattern=, you know, Pattern=know, Pattern=know ,, Pattern=you know ,
+Turn ID=5| B | B : but I don't know that there's a real , uh ,
+	Free: Pattern=a, Pattern=I don't, Pattern=know, Pattern=, uh ,, Pattern=that
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=6| A | A : you know , that just really rubbed me the wrong way .
+	Free: Pattern=you know ,, Pattern=just, Pattern=really, Pattern=the, Pattern=that
+	Constrained: Pattern=know ,, Pattern=know, Pattern=you
+Turn ID=7| B | B : So , when he died , we got a little one .
+	Free: Pattern=one, Pattern=we, Pattern=So ,, Pattern=he, Pattern=a little, Pattern=when, Pattern=got
+	Constrained: Pattern=a
+Turn ID=8| A | A : it , with kids they don't care if they take a shower everyday . With kids they don't care , you know , uh , a about a lot of things . But as adults , uh , it's like if I don't take a shower every day , I feel like , you know , ooh .
+	Free: Pattern=a lot of, Pattern=as, Pattern=. But, Pattern=they, Pattern=if, Pattern=, uh ,, Pattern=don't, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=things, Pattern=I don't, Pattern=about, Pattern=it ,, Pattern=like, Pattern=with, Pattern=it's
+	Constrained: Pattern=you, Pattern=a, Pattern=it, Pattern=I, Pattern=, you know, Pattern=know, Pattern=lot, Pattern=don't, Pattern=of, Pattern=know ,, Pattern=you know ,
+Turn ID=9| B | B : Well , I think that should be likewise decided by the jury , you know , because , I don't know , I think a jury would be less likely to just send a man to death just for , any reason ,
+	Free: Pattern=know ,, Pattern=just, Pattern=for, Pattern=I don't, Pattern=I think, Pattern=the, Pattern=would, Pattern=to, Pattern=that, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=because
+	Constrained: Pattern=you, Pattern=I, Pattern=, you know, Pattern=know, Pattern=don't, Pattern=know ,, Pattern=you know ,
+Turn ID=10| A | A : So , um , well , I have not really paid much attention because I clock , although I think we've probably been talking at least ten minutes so , um , if you , um , unless you have some other things you want to talk about as having to do with P C
+	Free: Pattern=you, Pattern=as, Pattern=, um ,, Pattern=not really, Pattern=I, Pattern=I think, Pattern=to, Pattern=been, Pattern=So ,, Pattern=so, Pattern=do, Pattern=because, Pattern=, I have, Pattern=at, Pattern=talking, Pattern=about, Pattern=things, Pattern=if you, Pattern=you have, Pattern=talk, Pattern=with
+	Constrained: Pattern=you, Pattern=have, Pattern=, I, Pattern=really, Pattern=I have, Pattern=not, Pattern=I, Pattern=if
+Turn ID=11| B | B : and this , eventually things just went too far
+	Free: Pattern=things, Pattern=and, Pattern=just, Pattern=too
+	Constrained: 
+Turn ID=12| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=13| B | B : Um , actually I have , um , I've , I've been in them but , um , just visiting and , uh , we used to when we were like in , in our teen ages we'd go on Sundays and visit , you know , the older people . But , um , I have an elderly grandma that lives with us .
+	Free: Pattern=an elderly, Pattern=, um ,, Pattern=our, Pattern=and, Pattern=I have, Pattern=, uh ,, Pattern=the, Pattern=when, Pattern=to, Pattern=been, Pattern=, I've, Pattern=and ,, Pattern=. But, Pattern=, you know ,, Pattern=, I have, Pattern=, just, Pattern=I've , I've, Pattern=in, Pattern=we, Pattern=like, Pattern=with, Pattern=that
+	Constrained: Pattern=I've, Pattern=you, Pattern=, I, Pattern=an, Pattern=I, Pattern=, you know, Pattern=know, Pattern=I have, Pattern=, I've, Pattern=know ,, Pattern=you know ,, Pattern=just, Pattern=have, Pattern=and, Pattern=I've ,
+Turn ID=14| A | A : So , it's its' just different .
+	Free: Pattern=So ,, Pattern=it's, Pattern=just
+	Constrained: 
+Turn ID=15| B | B : Yeah I mean , I know that's what my father-in-law was talking about , you know , when you give these people money or , what was it they were bringing up points asking as far as whether they need to give , um , more money to these people , I mean , and that's not really the answer , I mean , because if they're alcoholics they'll just go out and spend , it on , you know , booze or something like that ,
+	Free: Pattern=more, Pattern=you, Pattern=not really, Pattern=talking, Pattern=know, Pattern=or, Pattern=the, Pattern=when, Pattern=Yeah, Pattern=as, Pattern=just, Pattern=, um ,, Pattern=they, Pattern=, you know ,, Pattern=, I, Pattern=because, Pattern=it, Pattern=and, Pattern=or something like that, Pattern=I, Pattern=if, Pattern=about, Pattern=they're, Pattern=, and, Pattern=to
+	Constrained: Pattern=you, Pattern=and, Pattern=I, Pattern=, you know, Pattern=know, Pattern=or, Pattern=that, Pattern=not, Pattern=know ,, Pattern=you know ,, Pattern=really, Pattern=like
+Turn ID=16| A | A : Did they ?
+	Free: Pattern=they
+	Constrained: 
+Turn ID=17| B | B : and , uh , now the Air Force is the largest employer in the , uh , area and , uh , uh , so it's , Not too bad ,
+	Free: Pattern=and ,, Pattern=too, Pattern=in the, Pattern=, uh ,, Pattern=the, Pattern=it's, Pattern=so
+	Constrained: Pattern=the, Pattern=and, Pattern=in
+Turn ID=18| A | A : and course in the spring we get the bluebonnets and Indian paintbrush .
+	Free: Pattern=in the, Pattern=the, Pattern=and, Pattern=we
+	Constrained: Pattern=the, Pattern=in
+Turn ID=19| B | B : Well , they it , the , their , they do have an extremely good , such things as extremely good school systems , for example . It has one of the best school systems in the country .
+	Free: Pattern=their, Pattern=of, Pattern=they, Pattern=do, Pattern=an, Pattern=for, Pattern=has, Pattern=things, Pattern=it ,, Pattern=the, Pattern=school, Pattern=as, Pattern=have, Pattern=one, Pattern=in the
+	Constrained: Pattern=the, Pattern=in, Pattern=it
+Turn ID=20| A | A : I think I think years past maybe our criminals had a little more morals , you know wouldn't kill somebody in cold blood .
+	Free: Pattern=more, Pattern=our, Pattern=in, Pattern=I think, Pattern=a little, Pattern=, you know
+	Constrained: Pattern=a, Pattern=I, Pattern=you, Pattern=know
+Turn ID=21| B | B : There's , there's a lot of , you know , last minute , uh , things that happen cause a person not to , have to go through the whole thing .
+	Free: Pattern=a lot of, Pattern=have, Pattern=things, Pattern=whole, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=that, Pattern=not, Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=you, Pattern=a, Pattern=, you know, Pattern=know, Pattern=lot, Pattern=of, Pattern=know ,, Pattern=you know ,
+Turn ID=22| A | A : they just don't have that information .
+	Free: Pattern=they, Pattern=don't, Pattern=that, Pattern=just, Pattern=have
+	Constrained: 
+Turn ID=23| B | B : Uh-huh . Yeah . Uh-huh .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=24| A | A : Yep .
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : I admire someone that can do that , you know , I really can .
+	Free: Pattern=I, Pattern=really, Pattern=that, Pattern=do, Pattern=, you know ,, Pattern=, I
+	Constrained: Pattern=you, Pattern=I, Pattern=, you know, Pattern=know, Pattern=know ,, Pattern=you know ,
+Turn ID=26| A | A : And the Moody Blues , and I like to listen to piano music a whole lot , and Willie Nelson .
+	Free: Pattern=a, Pattern=I, Pattern=like, Pattern=whole, Pattern=lot, Pattern=the, Pattern=, and, Pattern=to
+	Constrained: Pattern=and
+Turn ID=27| B | B : that sounds wonderful .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=28| A | A : I've , I've heard some horrible , horrible stories about high , high school teachers
+	Free: Pattern=I've , I've, Pattern=school, Pattern=about
+	Constrained: Pattern=I've ,, Pattern=, I've, Pattern=I've
+Turn ID=29| B | B : I've ,
+	Free: Pattern=I've ,
+	Constrained: Pattern=I've
+Turn ID=30| A | A : How would you feel about sending an elderly family member to a nursing home ?
+	Free: Pattern=an elderly, Pattern=you, Pattern=a, Pattern=about, Pattern=would, Pattern=to
+	Constrained: Pattern=an
+Turn ID=31| B | B : Well , I'll talk to you later ,
+	Free: Pattern=talk, Pattern=to, Pattern=you
+	Constrained: 
+Turn ID=32| A | A : And I've thought for years it would make a lot of sense to create an eight hundred number for voters to call and , and vent their frustration with government . Like one , eight hundred capitol or something like that . You know , just a number you could call from anywhere , anytime .
+	Free: Pattern=their, Pattern=I've, Pattern=you, Pattern=and ,, Pattern=an, Pattern=for, Pattern=it, Pattern=would, Pattern=with, Pattern=a lot of, Pattern=know ,, Pattern=a, Pattern=, just, Pattern=or something like that, Pattern=one, Pattern=, and, Pattern=to
+	Constrained: Pattern=of, Pattern=just, Pattern=a, Pattern=and, Pattern=know, Pattern=like, Pattern=or, Pattern=lot, Pattern=that

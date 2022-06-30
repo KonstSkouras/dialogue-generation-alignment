@@ -1,0 +1,247 @@
+A|0| B: It's real hard _to_ rate something _like_ _that ._ 
+B|1| M: _Well _,_ you know _,_ that's_ _not_ how _the_ world works . 
+A|2| B: Uh-huh . 
+B|3| M: _I know_ [that .] 
+A|4| B: That's pretty easy substituting isn't _it_ ? 
+B|5| M: Ah _, the ,_ _of_ . 
+A|6| B: Uh-huh . Uh-huh . 
+B|7| M: _You_ . 
+A|8| B: [Well [,] that's] _, uh _,_ [I_ know] it's , it's _a_ real hard thing _to_ _do_ , even for people _in_ , _in_ _, uh ,_ university communities . 
+B|9| M: i . 
+A|10| B: Huh . 
+B|11| M: _I think_ _you_ 
+A|12| B: [I] _do_ . 
+B|13| M: _Uh [,_ uh _,] yeah_ . 
+A|14| B: Oh , they _do_ great . [I] put mine _in_ probably _in_ November . 
+B|15| M: [I] don't _know ._ 
+A|16| B: [I] get tired [, uh ,] sometimes , mowing , because we mow [, you know ,] _a_ good bit [of] ground around [the] house area . 
+B|17| M: [I] can't tell _if you're_ talking _about_ _me_ _or_ _the guy_ . 
+A|18| B: Yeah . Like _in_ may case _, I have_ three children *spelling: 'may' should _be_ 'my' from ages nine _to_ two . _And ,_ it's _just_ unfeasible for [me] _to_ try _to_ get _a_ job because all [the] money [that] [I] would , _be_ making would _be_ going _to_ day care . 
+B|19| M: Hmmmm 
+A|20| B: Yeah [, the] only consolation is so many [of] [the] murders are [, you know [,] the [,] the] violent people going against each other and so they [, you know ,] society's [not] going _to_ put them _to_ death , well at least maybe [the guy] they cross next _time_ is going _to_ . [Uh _,] [I_ think] _, [I_ think] capital punishment is an appropriate punishment for [the] kind [of] people where we _say_ [, you know ,] this sort [of] person is _just_ [not] acceptable _to_ our society and we are there by going _to_ remove them from society , [not] temporarily _, but_ permanently . 
+B|21| M: Is [the] GX clone [a] clone ? 
+A|22| B: sometimes they _do_ put them _in_ [, uh ,] fairly low paying situations . 
+B|23| M: [I] agree . She _can_ still learn [to] _type_ . 
+A|24| B: and they _have_ one at ten . 
+B|25| M: You've gone . 
+A|26| B: [You] _just_ get _used to_ _it_ . 
+B|27| M: [I] don't [have] [the] right [to] [say] [that .] 
+A|28| B: But we _, but_ we live [about] ten miles from probably three [or] four , [not] large towns _but_ [, you know ,] reasonable . 
+B|29| M: [I think] . 
+A|30| B: Oh , well [, that's] nice . 
+B|31| M:  ... 
+A|32| B: Cause I've been [, uh ,] especially _in_ large corporations . [You] [can] really [, you know ,] wind up getting , having [, you know ,] real problems I've found out . I've worked for [a] few [, you know ,] several thousand plus [, you know ,] [type] companies . _And_ _it ,_ and especially [if you're] doing _like_ professional work . Where [you know ,] it's kind [of] ethereal _as_ [to] what [you're] doing [you [know] .] 
+B|33| M: Didn't [it] [used to] [be] [the] same [time] [as] [the] second episode [of] season 2 ? 
+A|34| B: Huh . 
+B|35| M: You're right [, I] was [just] thinking [of] [it] [in] [a] different way . 
+A|36| B: and I've been drug tested three times and [I know] many people [that] [have] never been tested [in] their lifetime and [the] company [I] work for is sixty thousand people , plus . So see _I ,_ for some reason , I've come up three times . That's pretty high statistics . 
+B|37| M: [I [,] [I] [,] I] [like] plants . 
+A|38| B: But [you] probably pay more percentage wise [in] other taxes . 
+B|39| M:  ... he's Jewish . 
+A|40| B: It's [a] legal job [, you know] 
+B|41| M: No . 
+A|42| B: Yeah . I'll bet they're involved . Yeah . 
+B|43| M: I'd throw [it [,] but] [I] don't [think] [you] [can] throw [a] . 
+A|44| B: [yeah] , [that] would [be] even [, yeah] [, I] didn't even , [think] [about] [that .] 
+B|45| M:  
+A|46| B: I've , I've never I've never even been called [to] jury duty . 
+B|47| M: [I [know] [,] I have] no idea 
+A|48| B: Yeah . 
+B|49| M: [And ,] 
+A|50| B: Yeah [, I] _do_ too . 
+B|51| M: Uuh , why ? 
+A|52| B: [Uh [,] yeah] , 
+B|53| M: [you] 
+A|54| B: [Well ,] we're [about] [a] hundred miles from Pittsburgh north . 
+B|55| M: [I] don't [know .] 
+A|56| B: We [have] [, uh [,] uh ,] four rooms downstairs , and [a] pantry 
+B|57| M: [I think] [of] course 
+A|58| B: Yeah . 
+B|59| M: What [do] [you] mean ? 
+A|60| B: [but] beyond [that] [, uh ,] lately I've been reading , I've always liked [the] NEW YORKER . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : It's real hard to rate something like that .
+	Free: Pattern=that ., Pattern=to, Pattern=like
+	Constrained: Pattern=that
+Turn ID=1| B | M : Well , you know , that's not how the world works .
+	Free: Pattern=, you know ,, Pattern=Well ,, Pattern=the, Pattern=, that's, Pattern=not
+	Constrained: Pattern=, you know, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : I know that .
+	Free: Pattern=I know, Pattern=that .
+	Constrained: Pattern=I, Pattern=that
+Turn ID=4| A | B : That's pretty easy substituting isn't it ?
+	Free: Pattern=it
+	Constrained: 
+Turn ID=5| B | M : Ah , the , of .
+	Free: Pattern=, the ,, Pattern=of
+	Constrained: Pattern=, the, Pattern=the
+Turn ID=6| A | B : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : You .
+	Free: Pattern=You
+	Constrained: 
+Turn ID=8| A | B : Well , that's , uh , I know it's , it's a real hard thing to do , even for people in , in , uh , university communities .
+	Free: Pattern=, uh ,, Pattern=, that's, Pattern=to, Pattern=I know, Pattern=do, Pattern=, I, Pattern=a, Pattern=Well ,, Pattern=in
+	Constrained: Pattern=I
+Turn ID=9| B | M : i .
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : Huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : I think you
+	Free: Pattern=I think, Pattern=you
+	Constrained: Pattern=I, Pattern=think
+Turn ID=12| A | B : I do .
+	Free: Pattern=do, Pattern=I
+	Constrained: 
+Turn ID=13| B | M : Uh , uh , yeah .
+	Free: Pattern=, uh ,, Pattern=Uh ,, Pattern=, yeah
+	Constrained: Pattern=yeah
+Turn ID=14| A | B : Oh , they do great . I put mine in probably in November .
+	Free: Pattern=do, Pattern=I, Pattern=in
+	Constrained: 
+Turn ID=15| B | M : I don't know .
+	Free: Pattern=know ., Pattern=I
+	Constrained: 
+Turn ID=16| A | B : I get tired , uh , sometimes , mowing , because we mow , you know , a good bit of ground around the house area .
+	Free: Pattern=of, Pattern=I, Pattern=, uh ,, Pattern=the, Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=, you know, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know
+Turn ID=17| B | M : I can't tell if you're talking about me or the guy .
+	Free: Pattern=I, Pattern=about, Pattern=or, Pattern=if you're, Pattern=the guy, Pattern=me
+	Constrained: Pattern=the, Pattern=you're
+Turn ID=18| A | B : Yeah . Like in may case , I have three children *spelling: 'may' should be 'my' from ages nine to two . And , it's just unfeasible for me to try to get a job because all the money that I would , be making would be going to day care .
+	Free: Pattern=just, Pattern=me, Pattern=I, Pattern=in, Pattern=be, Pattern=the, Pattern=to, Pattern=that, Pattern=And ,, Pattern=a, Pattern=, I have
+	Constrained: Pattern=have, Pattern=I, Pattern=And, Pattern=, I
+Turn ID=19| B | M : Hmmmm
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : Yeah , the only consolation is so many of the murders are , you know , the , the violent people going against each other and so they , you know , society's not going to put them to death , well at least maybe the guy they cross next time is going to . Uh , I think , I think capital punishment is an appropriate punishment for the kind of people where we say , you know , this sort of person is just not acceptable to our society and we are there by going to remove them from society , not temporarily , but permanently .
+	Free: Pattern=time, Pattern=of, Pattern=, but, Pattern=just, Pattern=the guy, Pattern=, the ,, Pattern=Uh ,, Pattern=say, Pattern=I think, Pattern=the, Pattern=to, Pattern=, the, Pattern=not, Pattern=, you know ,, Pattern=, I
+	Constrained: Pattern=I, Pattern=, you know, Pattern=think, Pattern=the, Pattern=, the, Pattern=but, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know
+Turn ID=21| B | M : Is the GX clone a clone ?
+	Free: Pattern=a, Pattern=the
+	Constrained: 
+Turn ID=22| A | B : sometimes they do put them in , uh , fairly low paying situations .
+	Free: Pattern=, uh ,, Pattern=do, Pattern=in
+	Constrained: 
+Turn ID=23| B | M : I agree . She can still learn to type .
+	Free: Pattern=to, Pattern=I, Pattern=can, Pattern=type
+	Constrained: 
+Turn ID=24| A | B : and they have one at ten .
+	Free: Pattern=have
+	Constrained: 
+Turn ID=25| B | M : You've gone .
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : You just get used to it .
+	Free: Pattern=used to, Pattern=just, Pattern=it, Pattern=You
+	Constrained: Pattern=to
+Turn ID=27| B | M : I don't have the right to say that .
+	Free: Pattern=that ., Pattern=have, Pattern=I, Pattern=say, Pattern=the, Pattern=to
+	Constrained: Pattern=that
+Turn ID=28| A | B : But we , but we live about ten miles from probably three or four , not large towns but , you know , reasonable .
+	Free: Pattern=, but, Pattern=, you know ,, Pattern=about, Pattern=or, Pattern=but, Pattern=not
+	Constrained: Pattern=, you know, Pattern=but, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know
+Turn ID=29| B | M : I think .
+	Free: Pattern=I think
+	Constrained: Pattern=I, Pattern=think
+Turn ID=30| A | B : Oh , well , that's nice .
+	Free: Pattern=, that's
+	Constrained: 
+Turn ID=31| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : Cause I've been , uh , especially in large corporations . You can really , you know , wind up getting , having , you know , real problems I've found out . I've worked for a few , you know , several thousand plus , you know , type companies . And it , and especially if you're doing like professional work . Where you know , it's kind of ethereal as to what you're doing you know .
+	Free: Pattern=you know, Pattern=can, Pattern=in, Pattern=if you're, Pattern=to, Pattern=type, Pattern=you're, Pattern=of, Pattern=you know ,, Pattern=as, Pattern=And, Pattern=, you know ,, Pattern=a, Pattern=it ,, Pattern=like, Pattern=You, Pattern=, uh ,, Pattern=know .
+	Constrained: Pattern=it, Pattern=, you know, Pattern=you're, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know
+Turn ID=33| B | M : Didn't it used to be the same time as the second episode of season 2 ?
+	Free: Pattern=of, Pattern=as, Pattern=it, Pattern=be, Pattern=the, Pattern=time, Pattern=used to
+	Constrained: Pattern=to
+Turn ID=34| A | B : Huh .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : You're right , I was just thinking of it in a different way .
+	Free: Pattern=of, Pattern=just, Pattern=it, Pattern=in, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=36| A | B : and I've been drug tested three times and I know many people that have never been tested in their lifetime and the company I work for is sixty thousand people , plus . So see I , for some reason , I've come up three times . That's pretty high statistics .
+	Free: Pattern=I ,, Pattern=have, Pattern=I, Pattern=in, Pattern=the, Pattern=that, Pattern=I know
+	Constrained: Pattern=I
+Turn ID=37| B | M : I , I , I like plants .
+	Free: Pattern=I ,, Pattern=, I, Pattern=like
+	Constrained: Pattern=I
+Turn ID=38| A | B : But you probably pay more percentage wise in other taxes .
+	Free: Pattern=you, Pattern=in
+	Constrained: 
+Turn ID=39| B | M :  ... he's Jewish .
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : It's a legal job , you know
+	Free: Pattern=, you know, Pattern=a
+	Constrained: Pattern=you know, Pattern=you
+Turn ID=41| B | M : No .
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : Yeah . I'll bet they're involved . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : I'd throw it , but I don't think you can throw a .
+	Free: Pattern=a, Pattern=I, Pattern=can, Pattern=think, Pattern=it ,, Pattern=you, Pattern=, but
+	Constrained: Pattern=but, Pattern=it
+Turn ID=44| A | B : yeah , that would be even , yeah , I didn't even , think about that .
+	Free: Pattern=that ., Pattern=, I, Pattern=yeah, Pattern=think, Pattern=be, Pattern=that, Pattern=about, Pattern=, yeah
+	Constrained: Pattern=yeah, Pattern=I, Pattern=that
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : I've , I've never I've never even been called to jury duty .
+	Free: Pattern=to
+	Constrained: 
+Turn ID=47| B | M : I know , I have no idea
+	Free: Pattern=, I have, Pattern=know ,, Pattern=I know
+	Constrained: Pattern=have, Pattern=, I, Pattern=I
+Turn ID=48| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : And ,
+	Free: Pattern=And ,
+	Constrained: Pattern=And
+Turn ID=50| A | B : Yeah , I do too .
+	Free: Pattern=, I, Pattern=do
+	Constrained: Pattern=I
+Turn ID=51| B | M : Uuh , why ?
+	Free: 
+	Constrained: 
+Turn ID=52| A | B : Uh , yeah ,
+	Free: Pattern=Uh ,, Pattern=, yeah
+	Constrained: Pattern=yeah
+Turn ID=53| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=54| A | B : Well , we're about a hundred miles from Pittsburgh north .
+	Free: Pattern=Well ,, Pattern=a, Pattern=about
+	Constrained: 
+Turn ID=55| B | M : I don't know .
+	Free: Pattern=know ., Pattern=I
+	Constrained: 
+Turn ID=56| A | B : We have , uh , uh , four rooms downstairs , and a pantry
+	Free: Pattern=, uh ,, Pattern=a, Pattern=have
+	Constrained: 
+Turn ID=57| B | M : I think of course
+	Free: Pattern=I think, Pattern=of
+	Constrained: Pattern=I, Pattern=think
+Turn ID=58| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=59| B | M : What do you mean ?
+	Free: Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=60| A | B : but beyond that , uh , lately I've been reading , I've always liked the NEW YORKER .
+	Free: Pattern=, uh ,, Pattern=but, Pattern=the, Pattern=that
+	Constrained: 

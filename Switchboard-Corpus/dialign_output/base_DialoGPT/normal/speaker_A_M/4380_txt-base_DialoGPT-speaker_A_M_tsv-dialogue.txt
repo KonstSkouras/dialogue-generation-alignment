@@ -1,0 +1,171 @@
+B|0| M: _I_ go 
+A|1| A: [I] got _a_ friend who goes there , by _the_ way [I] want _to_ talk _to_ _you_ about _that_ afterward , okay . 
+B|2| M: [I] am ... 
+A|3| A: _Yeah_ . _Yeah_ . was _a_ , _a_ _, it's_ more or less _a_ suburban _school_ system ? 
+B|4| M: _Yeah [,_ it's] _the _school_ ,_ not _so_ , _school ._ 
+A|5| A: Yes . That , _that_ was true for mine too . Uh , although [I] _I'm_ sure _to_ some extent , _that_ money is part _of the_ problem _in_ [the] disparity , but [I] don't think _, I_ honestly don't think _that's the_ biggest part _of_ it . _You _know_ _,_ I_ think _that _,_ uh _,_ I_ _mean_ [I] _know_ _that_ _in_ my town _, you know ,_ most _of the_ , most _of the_ parents , they're valued education . 
+B|6| M: [You] are , [in] , [in] ? 
+A|7| A: _And_ _, uh_ _you know ,_ and [so] [the] students were _, you know _,_ to_ some extent , motivated _to_ learn . 
+B|8| M: _Yeah [,_ _to] ,_ 
+A|9| A: [I] _mean_ _know_ 
+B|10| M: _Well [,_ you know] 
+A|11| A: [Yeah _,] that's_ true . _But_ but _, uh _,_ I_ think _, I_ _mean_ even more than _that ,_ even _, I_ _mean_ if [you] drop out [in] high [school] [you] should still _be_ able [to] _read_ [you know] ? Which it [I] _mean_ it sounds _like _,_ uh ,_ 
+B|12| M: [You know] . 
+A|13| A: now [I] think maybe [it's] started changing [in] [the] past few years because _, uh ,_ they have _of_ these _, uh ,_ sort _of_ mandatory tests if [you] have [to] take before [you] get _a_ diploma . 
+B|14| M: [you] , 
+A|15| A: _But_ _, uh ,_ but _, uh ,_ certainly before _that ,_ there were people _that , you know ,_ would graduate from high [school] and _could_ barely _read ._ Uh , and _that's_ _just_ sort _of_ inexcusable and [you] can't really _, I_ _, I_ _, I_ _mean_ [I] _just_ can't even picture how _that_ _could_ happen . [You _know] ,_ except maybe [to] someone whose _, you know ,_ really badly learning _, uh ,_ disabled or something . 
+B|16| M:  
+A|17| A: _But_ these people obviously weren't . 
+B|18| M: [You] [could] [be] . not . not . 
+A|19| A: [Yeah] . 
+B|20| M: _Well [,_ that's] , [read .] 
+A|21| A: [Yeah] . [Yeah] . 
+B|22| M: [I'm] [a] girl . 
+A|23| A: [Yeah] . _And_ [I] think [that's] almost [a] bigger factor , than anything else probably . [I] _mean _,_ I_ don't _, I_ think _you know ,_ people _just_ , 
+B|24| M: It's [the] whole point [of the] article . 
+A|25| A: [Yeah] . _And_ , again _, I_ don't _, I_ _mean_ got [know] [the] _, you know ,_ how qualified _, I_ _mean _,_ I_ think it'd [be] interesting [to _,] you know [,_ to] spend [a] couple [of] days _just_ looking around an inner city [school .] Uh _, you know ,_ sort , sort [of] maybe from elementary through _, uh ,_ high [school .] [You _know] ,_ _just_ sort [of] [to] get [a] feel for what [it's] _like_ . 
+B|26| M:  
+A|27| A: [I] think that'd [be] an interesting experience . _But_ _, uh _,_ I_ haven't _done_ _that_ 
+B|28| M: [I] . 
+A|29| A: _But_ [I] do _, I_ do think _that _,_ uh _,_ I_ _mean ,_ public education [in] general [I] think _can_ work . _And_ [I] think [it's] [a] good _thing_ . 
+B|30| M: No [, I] [can] . 
+A|31| A: [Yeah] . 
+B|32| M: Because [, uh [,] [that's] the] only [thing] [that] 
+A|33| A: Yes . 
+B|34| M: [And] [you] [mean ,] [like ,] [in] this subreddit ? 
+A|35| A: [Yeah] . [Yeah] . [I] [mean [,] I] don't [, I] honestly don't really think [I] [could] have _, you know ,_ _done _much_ better_ than [I] did [in] [the school] system [I] was [in] . [mean] 
+B|36| M: It's not [that] bad . It's [just] [that , you know ,] you're not [the] best at this . 
+A|37| A: [Yeah] . 
+B|38| M: [But] [you] could've [done much] , [much better] . 
+A|39| A: [Yeah] . [I] [mean ,] and and [in] [the] , once [you] junior high [, uh ,] start junior high , starting [in] eighth grade all [the] way through high [school ,] there were four levels . [Well ,] no [, I] guess it [in] junior high , it was still three . Then [in] high [school] it changed into four levels [of] [, uh ,] [of] instruction [in] [the] major subjects . Uh , which , 
+B|40| M: [that] . 
+A|41| A: [I] [mean ,] actually [I] think [that] works pretty well . and [that ,] [that] makes , 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I go
+	Free: Pattern=I
+	Constrained: 
+Turn ID=1| A | A : I got a friend who goes there , by the way I want to talk to you about that afterward , okay .
+	Free: Pattern=you, Pattern=a, Pattern=I, Pattern=the, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=2| B | M : I am ...
+	Free: Pattern=I
+	Constrained: 
+Turn ID=3| A | A : Yeah . Yeah . was a , a , it's more or less a suburban school system ?
+	Free: Pattern=, it's, Pattern=school, Pattern=a, Pattern=Yeah
+	Constrained: Pattern=it's
+Turn ID=4| B | M : Yeah , it's the school , not so , school .
+	Free: Pattern=school ,, Pattern=, it's, Pattern=Yeah ,, Pattern=school ., Pattern=so, Pattern=the school
+	Constrained: Pattern=school, Pattern=it's, Pattern=the, Pattern=Yeah
+Turn ID=5| A | A : Yes . That , that was true for mine too . Uh , although I I'm sure to some extent , that money is part of the problem in the disparity , but I don't think , I honestly don't think that's the biggest part of it . You know , I think that , uh , I mean I know that in my town , you know , most of the , most of the parents , they're valued education .
+	Free: Pattern=I'm, Pattern=mean, Pattern=that's the, Pattern=I, Pattern=in, Pattern=know, Pattern=, uh ,, Pattern=to, Pattern=that ,, Pattern=of, Pattern=know ,, Pattern=, you know ,, Pattern=, I, Pattern=You know, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=I, Pattern=, you know, Pattern=know, Pattern=You, Pattern=that, Pattern=of, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=, uh, Pattern=that's, Pattern=the
+Turn ID=6| B | M : You are , in , in ?
+	Free: Pattern=You, Pattern=in
+	Constrained: 
+Turn ID=7| A | A : And , uh you know , and so the students were , you know , to some extent , motivated to learn .
+	Free: Pattern=you know ,, Pattern=, to, Pattern=, uh, Pattern=And, Pattern=, you know ,, Pattern=the, Pattern=to, Pattern=so
+	Constrained: Pattern=, you know, Pattern=know, Pattern=to, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know
+Turn ID=8| B | M : Yeah , to ,
+	Free: Pattern=, to, Pattern=Yeah ,, Pattern=to ,
+	Constrained: Pattern=to, Pattern=Yeah
+Turn ID=9| A | A : I mean know
+	Free: Pattern=know, Pattern=I, Pattern=mean
+	Constrained: 
+Turn ID=10| B | M : Well , you know
+	Free: Pattern=, you know, Pattern=Well ,
+	Constrained: Pattern=you know, Pattern=know, Pattern=you
+Turn ID=11| A | A : Yeah , that's true . But but , uh , I think , I mean even more than that , even , I mean if you drop out in high school you should still be able to read you know ? Which it I mean it sounds like , uh ,
+	Free: Pattern=mean, Pattern=, I, Pattern=I, Pattern=But, Pattern=in, Pattern=Yeah ,, Pattern=, that's, Pattern=to, Pattern=read, Pattern=that ,, Pattern=school, Pattern=like ,, Pattern=you, Pattern=you know, Pattern=, uh ,, Pattern=be
+	Constrained: Pattern=I, Pattern=know, Pattern=like, Pattern=that's, Pattern=Yeah, Pattern=that, Pattern=you, Pattern=, uh
+Turn ID=12| B | M : You know .
+	Free: Pattern=You know
+	Constrained: Pattern=know, Pattern=You
+Turn ID=13| A | A : now I think maybe it's started changing in the past few years because , uh , they have of these , uh , sort of mandatory tests if you have to take before you get a diploma .
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=I, Pattern=in, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=it's
+	Constrained: Pattern=, uh
+Turn ID=14| B | M : you ,
+	Free: Pattern=you
+	Constrained: 
+Turn ID=15| A | A : But , uh , but , uh , certainly before that , there were people that , you know , would graduate from high school and could barely read . Uh , and that's just sort of inexcusable and you can't really , I , I , I mean I just can't even picture how that could happen . You know , except maybe to someone whose , you know , really badly learning , uh , disabled or something .
+	Free: Pattern=read ., Pattern=you, Pattern=I, Pattern=But, Pattern=, uh ,, Pattern=that , you know ,, Pattern=to, Pattern=could, Pattern=that ,, Pattern=of, Pattern=know ,, Pattern=just, Pattern=mean, Pattern=, you know ,, Pattern=, I, Pattern=You know, Pattern=that's, Pattern=that, Pattern=school
+	Constrained: Pattern=, you know ,, Pattern=I, Pattern=, you know, Pattern=know, Pattern=You, Pattern=read, Pattern=that ,, Pattern=that, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=, uh
+Turn ID=16| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : But these people obviously weren't .
+	Free: Pattern=But
+	Constrained: 
+Turn ID=18| B | M : You could be . not . not .
+	Free: Pattern=be, Pattern=You, Pattern=could
+	Constrained: 
+Turn ID=19| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=20| B | M : Well , that's , read .
+	Free: Pattern=Well ,, Pattern=, that's, Pattern=read .
+	Constrained: Pattern=read, Pattern=that's
+Turn ID=21| A | A : Yeah . Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=22| B | M : I'm a girl .
+	Free: Pattern=I'm, Pattern=a
+	Constrained: 
+Turn ID=23| A | A : Yeah . And I think that's almost a bigger factor , than anything else probably . I mean , I don't , I think you know , people just ,
+	Free: Pattern=I, Pattern=that's, Pattern=Yeah, Pattern=mean ,, Pattern=you know ,, Pattern=And, Pattern=just, Pattern=, I, Pattern=a
+	Constrained: Pattern=know ,, Pattern=mean, Pattern=I, Pattern=know, Pattern=you, Pattern=you know
+Turn ID=24| B | M : It's the whole point of the article .
+	Free: Pattern=of the, Pattern=the
+	Constrained: Pattern=the, Pattern=of
+Turn ID=25| A | A : Yeah . And , again , I don't , I mean got know the , you know , how qualified , I mean , I think it'd be interesting to , you know , to spend a couple of days just looking around an inner city school . Uh , you know , sort , sort of maybe from elementary through , uh , high school . You know , just sort of to get a feel for what it's like .
+	Free: Pattern=, to, Pattern=know, Pattern=to, Pattern=Yeah, Pattern=school ., Pattern=it's, Pattern=of, Pattern=know ,, Pattern=mean ,, Pattern=And, Pattern=just, Pattern=mean, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=to ,, Pattern=like, Pattern=, uh ,, Pattern=be, Pattern=You know, Pattern=the
+	Constrained: Pattern=mean, Pattern=I, Pattern=, you know, Pattern=know, Pattern=You, Pattern=to, Pattern=school, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=, uh
+Turn ID=26| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : I think that'd be an interesting experience . But , uh , I haven't done that
+	Free: Pattern=, I, Pattern=I, Pattern=But, Pattern=, uh ,, Pattern=be, Pattern=done, Pattern=that
+	Constrained: Pattern=, uh, Pattern=I
+Turn ID=28| B | M : I .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=29| A | A : But I do , I do think that , uh , I mean , public education in general I think can work . And I think it's a good thing .
+	Free: Pattern=mean ,, Pattern=And, Pattern=I, Pattern=in, Pattern=, uh ,, Pattern=thing, Pattern=that ,, Pattern=it's, Pattern=, I, Pattern=a, Pattern=But, Pattern=can
+	Constrained: Pattern=, uh, Pattern=mean, Pattern=I, Pattern=that
+Turn ID=30| B | M : No , I can .
+	Free: Pattern=, I, Pattern=can
+	Constrained: Pattern=I
+Turn ID=31| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=32| B | M : Because , uh , that's the only thing that
+	Free: Pattern=that's the, Pattern=, uh ,, Pattern=thing, Pattern=, that's, Pattern=that
+	Constrained: Pattern=that's, Pattern=, uh, Pattern=the
+Turn ID=33| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : And you mean , like , in this subreddit ?
+	Free: Pattern=mean ,, Pattern=you, Pattern=And, Pattern=in, Pattern=like ,
+	Constrained: Pattern=mean, Pattern=like
+Turn ID=35| A | A : Yeah . Yeah . I mean , I don't , I honestly don't really think I could have , you know , done much better than I did in the school system I was in . mean
+	Free: Pattern=mean ,, Pattern=mean, Pattern=I, Pattern=in, Pattern=done much, Pattern=, you know ,, Pattern=, I, Pattern=Yeah, Pattern=could, Pattern=the school, Pattern=much better
+	Constrained: Pattern=mean, Pattern=I, Pattern=, you know, Pattern=know, Pattern=the, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=done, Pattern=school
+Turn ID=36| B | M : It's not that bad . It's just that , you know , you're not the best at this .
+	Free: Pattern=that , you know ,, Pattern=just, Pattern=the, Pattern=that
+	Constrained: Pattern=, you know ,, Pattern=, you know, Pattern=know, Pattern=that ,, Pattern=that, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know
+Turn ID=37| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=38| B | M : But you could've done much , much better .
+	Free: Pattern=done much, Pattern=much better, Pattern=But, Pattern=you
+	Constrained: Pattern=done
+Turn ID=39| A | A : Yeah . I mean , and and in the , once you junior high , uh , start junior high , starting in eighth grade all the way through high school , there were four levels . Well , no , I guess it in junior high , it was still three . Then in high school it changed into four levels of , uh , of instruction in the major subjects . Uh , which ,
+	Free: Pattern=you, Pattern=, I, Pattern=school ,, Pattern=I, Pattern=, uh ,, Pattern=the, Pattern=Yeah, Pattern=school, Pattern=of, Pattern=mean ,, Pattern=Well ,, Pattern=in
+	Constrained: Pattern=school, Pattern=I, Pattern=, uh, Pattern=mean
+Turn ID=40| B | M : that .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=41| A | A : I mean , actually I think that works pretty well . and that , that makes ,
+	Free: Pattern=that ,, Pattern=mean ,, Pattern=I, Pattern=that
+	Constrained: Pattern=mean, Pattern=that

@@ -1,0 +1,115 @@
+A|0| B: _And_ _I'm_ amazed sometimes what _I_ see on there . But _I'm_ very intrigued . _I_ , one time _I_ was watching an operation , and _I_ thought , Gee , _I_ don't believe _I'm_ watching . 
+B|1| M: [I'm] _not_ _really_ _a_ guy . 
+A|2| B: They , they , _that_ just does [not] go . 
+B|3| M: You . 
+A|4| B: So he hasn't [really] gotten into , um , _that_ yet . They _have_ choir _that_ they go to , _you_ know , music class _that_ they go to 
+B|5| M:  ... 
+A|6| B: he said his . 
+B|7| M: [I] 
+A|8| B: Well , _as a_ piano teacher , do _you have_ any feelings for kids who come from [a] Suzuki method , _have_ _you_ had any former Suzuki students ? 
+B|9| M: [And] then [you have] _the_ stigma of prochoice 
+A|10| B: What [have] [you] got growing right now ? 
+B|11| M: There's no such thing [as a] waste of money . 
+A|12| B: they always do . 
+B|13| M: N 
+A|14| B: Where are [you] ? See , Well , we've got [a] lot too . [I'm] _in_ Texas . 
+B|15| M:  
+A|16| B: That's what _I've_ heard . 
+B|17| M: [I'm] at 
+A|18| B: _but_ _that_ same house here , you'd pay almost six thousand dollars [a] year , taxes on it . 
+B|19| M: How long [have] we been [in] _this_ area ? 
+A|20| B: [I] know , and [I] think , [I] think that's ridiculous . 
+B|21| M: [I'm] [not] sure if [I] should say yes , [but] _yeah_ 
+A|22| B: Yeah , [yeah] 
+B|23| M: [I] dunno . 
+A|24| B: Well that's [the] way it has gotten here . 
+B|25| M: Are [you] interested [in] [the] car ? 
+A|26| B: An , it , an [I] feel bad for [the] policeman , because he's out there every day facing these _people_ . This , [this] craziness , [you] know , _people_ with , uh , automatic weapons and , uh , all [this] other stuff and trying to do [a] job 
+B|27| M: [I] mean , [I've] seen [people] say [that] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : And I'm amazed sometimes what I see on there . But I'm very intrigued . I , one time I was watching an operation , and I thought , Gee , I don't believe I'm watching .
+	Free: Pattern=And, Pattern=I, Pattern=I'm
+	Constrained: 
+Turn ID=1| B | M : I'm not really a guy .
+	Free: Pattern=not, Pattern=a, Pattern=I'm, Pattern=really
+	Constrained: 
+Turn ID=2| A | B : They , they , that just does not go .
+	Free: Pattern=not, Pattern=that
+	Constrained: 
+Turn ID=3| B | M : You .
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : So he hasn't really gotten into , um , that yet . They have choir that they go to , you know , music class that they go to
+	Free: Pattern=that, Pattern=have, Pattern=you, Pattern=really
+	Constrained: 
+Turn ID=5| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : he said his .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=8| A | B : Well , as a piano teacher , do you have any feelings for kids who come from a Suzuki method , have you had any former Suzuki students ?
+	Free: Pattern=you, Pattern=a, Pattern=you have, Pattern=as a, Pattern=have
+	Constrained: Pattern=a, Pattern=have, Pattern=you
+Turn ID=9| B | M : And then you have the stigma of prochoice
+	Free: Pattern=you have, Pattern=And, Pattern=the
+	Constrained: Pattern=have, Pattern=you
+Turn ID=10| A | B : What have you got growing right now ?
+	Free: Pattern=have, Pattern=you
+	Constrained: 
+Turn ID=11| B | M : There's no such thing as a waste of money .
+	Free: Pattern=as a
+	Constrained: Pattern=a
+Turn ID=12| A | B : they always do .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : N
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Where are you ? See , Well , we've got a lot too . I'm in Texas .
+	Free: Pattern=a, Pattern=you, Pattern=I'm, Pattern=in
+	Constrained: 
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : That's what I've heard .
+	Free: Pattern=I've
+	Constrained: 
+Turn ID=17| B | M : I'm at
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=18| A | B : but that same house here , you'd pay almost six thousand dollars a year , taxes on it .
+	Free: Pattern=that, Pattern=but, Pattern=a
+	Constrained: 
+Turn ID=19| B | M : How long have we been in this area ?
+	Free: Pattern=this, Pattern=have, Pattern=in
+	Constrained: 
+Turn ID=20| A | B : I know , and I think , I think that's ridiculous .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=21| B | M : I'm not sure if I should say yes , but yeah
+	Free: Pattern=I'm, Pattern=yeah, Pattern=I, Pattern=but, Pattern=not
+	Constrained: 
+Turn ID=22| A | B : Yeah , yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=23| B | M : I dunno .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=24| A | B : Well that's the way it has gotten here .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=25| B | M : Are you interested in the car ?
+	Free: Pattern=the, Pattern=you, Pattern=in
+	Constrained: 
+Turn ID=26| A | B : An , it , an I feel bad for the policeman , because he's out there every day facing these people . This , this craziness , you know , people with , uh , automatic weapons and , uh , all this other stuff and trying to do a job
+	Free: Pattern=you, Pattern=people, Pattern=a, Pattern=I, Pattern=the, Pattern=this
+	Constrained: 
+Turn ID=27| B | M : I mean , I've seen people say that .
+	Free: Pattern=that, Pattern=people, Pattern=I, Pattern=I've
+	Constrained: 

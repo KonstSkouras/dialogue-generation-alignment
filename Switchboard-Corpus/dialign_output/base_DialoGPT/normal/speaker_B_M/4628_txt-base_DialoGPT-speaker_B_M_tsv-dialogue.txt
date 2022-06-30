@@ -1,0 +1,187 @@
+A|0| B: The area _I work_ in , _it_ , _it_ primarily have maybe _a_ hundred _people_ or so . 
+B|1| M: _I don't_ _think_ _that's_ [a] _small_ city . 
+A|2| B: So [that's] make up most _of the_ laboratory so from , from _that_ standpoint , it's pretty [small] it's pretty [small] . 
+B|3| M: It's mostly [the] size [of the] lab . 
+A|4| B: _What_ about yourself ? 
+B|5| M: _That's_ _true_ . 
+A|6| B: Oh , okay . 
+B|7| M: She's [a] scientist , she _can_ _do_ anything . 
+A|8| B: Oh , okay . [I] see . 
+B|9| M: I'm [a] student _, and_ [I work] with [the] [people] _down_ _there_ . 
+A|10| B: Oh , okay . Right . _Uh ,_ 
+B|11| M: _I mean_ _, you_ _can_ _just_ _say_ _that ._ 
+A|12| B: Uh-huh . Right . 
+B|13| M: _You're_ 
+A|14| B: Well those [and] probably [the] security aspect [of] _it_ . 
+B|15| M: [What] _is_ important ? 
+A|16| B: Because [a] lot [of] time nowadays , _even_ though you're working , uh , you're treated [, and] _it_ may _not_ _be_ [true] in every _place_ . In [a] lot [of] cases _I think_ you're treated more like [a] number instead [of] [a] , [a] person . 
+B|17| M: Why _would_ [I] want _to_ go _to_ [a] [place] where [I] _can_ _do_ [it] ? 
+A|18| B: Because when [it] come [down] [to] layoff , they [don't] really consider [people] [and] [, and] [, _you] know ,_ their well being as far as [, _you] know ,_ how they going , their next dollar going [to] come in . How they going [to] pay their bills . They [just] lay them off . 
+B|19| M: Lol ' 
+A|20| B: And [I] was reading _this_ book one time about _this_ guy [that] had , uh _, I think_ [the] _company_ still exists . [What] they use [to] [do] [is] , they used [to] cut [the] number [of] hours _for_ everybody as opposed [to] [just] laying [people] off _you know_ . 
+B|21| M: [I think] 
+A|22| B: That way [that] [, _you] know ,_ one person wouldn't get one big blunt blow at one time . 
+B|23| M: I'm [not] [even] 
+A|24| B: And , uh [, _you] know , I think_ if they had programs [that] set up [to] subsidize [people] [that] [do] get laid off [a] little bit better [, _you] know ,_ other than _you know ,_ something like , unemployment [is] good but [I mean] [the] _company_ as [a] whole because [you] as an employee , [even] [the] _company_ [is] making money , they paying [you] [a] salary but [you] are responsible _for_ [that] _company_ growth . [You're] responsible also _for_ helping [that] _company_ get [to] _the point_ [that] it's at at making profits . So [there] should _be_ something in [there] or some kind [of] clause [that] will subsidize [people] if they did lose their job other than [, _you] know ,_ uh , neglect or something like [that .] 
+B|25| M:  
+A|26| B: _You know_ . Because it's [not] [a] person's fault [that] [, _you] know ,_ [people] [not] buying or businesses are , are [not] on [the] up [and] up all [the] time [, _you] know_ . [I don't] see how one or two [people] , maybe more one or two , but [, _you] know ,_ [a] number [of] [people] [can] , _can be_ [the] downfall [of] _a company_ situation . 
+B|27| M:  
+A|28| B: Well in [a] sense [that] [say] , how [do] [you] make [a] , [a] conclusion [that] you're going [to] lay off these ten [people] . _Uh ,_ _for_ [the] bad times [of the] _company_ . 
+B|29| M: [you] . 
+A|30| B: [What] about [the] , [the] [work] effort those ten [people] did when [the] _company_ was doing well . 
+B|31| M: [I don't] ? 
+A|32| B: _You know_ . In [that] standpoint . 
+B|33| M:  ... [Uh ,] what ? 
+A|34| B: yes _, I_ _do ._ 
+B|35| M: Do [you] [work] [for] [a company] ? 
+A|36| B: [I] really _do ._ [I think] it'd _be_ better [that] way [and] [even] at [that] , [it] [would] at least give [the] person time [to] look [for] another job because they _know_ [that] [that] [there] are problems 
+B|37| M: [You [know] [,] you] [do .] 
+A|38| B: [and] [, _you] know ,_ [there] are reason [to] look [for] another job instead [of] [just] dumping [it] on them all at one time . 
+B|39| M: [you know , I think] _that would_ [be] [a] great idea . 
+A|40| B: [You know] . [That's] [just] , [that's] my views [, [you] know] . 
+B|41| M: [I don't] [think] [you] understand [the point] [of] [this] post 
+A|42| B: Right . Right . Right . 
+B|43| M:  ... 
+A|44| B: Well at least [that would] give [a] person [a] chance [to] look [you know] . Because [the] way [it] [is] , [a] person really [don't] have [a] chance 
+B|45| M: [You] [can be] ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : The area I work in , it , it primarily have maybe a hundred people or so .
+	Free: Pattern=I work, Pattern=it, Pattern=people, Pattern=a
+	Constrained: Pattern=I, Pattern=work
+Turn ID=1| B | M : I don't think that's a small city .
+	Free: Pattern=I don't, Pattern=think, Pattern=that's, Pattern=small, Pattern=a
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=2| A | B : So that's make up most of the laboratory so from , from that standpoint , it's pretty small it's pretty small .
+	Free: Pattern=of the, Pattern=that's, Pattern=that, Pattern=small
+	Constrained: Pattern=the, Pattern=of
+Turn ID=3| B | M : It's mostly the size of the lab .
+	Free: Pattern=of the, Pattern=the
+	Constrained: Pattern=the, Pattern=of
+Turn ID=4| A | B : What about yourself ?
+	Free: Pattern=What
+	Constrained: 
+Turn ID=5| B | M : That's true .
+	Free: Pattern=true, Pattern=That's
+	Constrained: 
+Turn ID=6| A | B : Oh , okay .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : She's a scientist , she can do anything .
+	Free: Pattern=a, Pattern=do, Pattern=can
+	Constrained: 
+Turn ID=8| A | B : Oh , okay . I see .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=9| B | M : I'm a student , and I work with the people down there .
+	Free: Pattern=people, Pattern=there, Pattern=a, Pattern=down, Pattern=I work, Pattern=the, Pattern=, and
+	Constrained: Pattern=I, Pattern=work, Pattern=and
+Turn ID=10| A | B : Oh , okay . Right . Uh ,
+	Free: Pattern=Uh ,
+	Constrained: 
+Turn ID=11| B | M : I mean , you can just say that .
+	Free: Pattern=that ., Pattern=just, Pattern=can, Pattern=I mean, Pattern=say, Pattern=, you
+	Constrained: Pattern=I, Pattern=that, Pattern=you
+Turn ID=12| A | B : Uh-huh . Right .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : You're
+	Free: Pattern=You're
+	Constrained: 
+Turn ID=14| A | B : Well those and probably the security aspect of it .
+	Free: Pattern=it, Pattern=the, Pattern=of, Pattern=and
+	Constrained: 
+Turn ID=15| B | M : What is important ?
+	Free: Pattern=What, Pattern=is
+	Constrained: 
+Turn ID=16| A | B : Because a lot of time nowadays , even though you're working , uh , you're treated , and it may not be true in every place . In a lot of cases I think you're treated more like a number instead of a , a person .
+	Free: Pattern=of, Pattern=even, Pattern=a, Pattern=it, Pattern=true, Pattern=, and, Pattern=place, Pattern=not, Pattern=I think, Pattern=be
+	Constrained: Pattern=I, Pattern=think, Pattern=and
+Turn ID=17| B | M : Why would I want to go to a place where I can do it ?
+	Free: Pattern=it, Pattern=I, Pattern=can, Pattern=would, Pattern=to, Pattern=place, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=18| A | B : Because when it come down to layoff , they don't really consider people and , and , you know , their well being as far as , you know , how they going , their next dollar going to come in . How they going to pay their bills . They just lay them off .
+	Free: Pattern=you know ,, Pattern=down, Pattern=, you, Pattern=don't, Pattern=people, Pattern=just, Pattern=it, Pattern=and, Pattern=, and, Pattern=to
+	Constrained: Pattern=know ,, Pattern=and, Pattern=know, Pattern=you, Pattern=you know
+Turn ID=19| B | M : Lol '
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : And I was reading this book one time about this guy that had , uh , I think the company still exists . What they use to do is , they used to cut the number of hours for everybody as opposed to just laying people off you know .
+	Free: Pattern=company, Pattern=of, Pattern=you know, Pattern=do, Pattern=for, Pattern=I, Pattern=What, Pattern=is, Pattern=, I think, Pattern=the, Pattern=to, Pattern=this, Pattern=that, Pattern=people, Pattern=just
+	Constrained: Pattern=you, Pattern=, I, Pattern=I, Pattern=think, Pattern=know, Pattern=I think
+Turn ID=21| B | M : I think
+	Free: Pattern=I think
+	Constrained: Pattern=I, Pattern=think
+Turn ID=22| A | B : That way that , you know , one person wouldn't get one big blunt blow at one time .
+	Free: Pattern=you know ,, Pattern=, you, Pattern=that
+	Constrained: Pattern=know ,, Pattern=you know, Pattern=know, Pattern=you
+Turn ID=23| B | M : I'm not even
+	Free: Pattern=not, Pattern=even
+	Constrained: 
+Turn ID=24| A | B : And , uh , you know , I think if they had programs that set up to subsidize people that do get laid off a little bit better , you know , other than you know , something like , unemployment is good but I mean the company as a whole because you as an employee , even the company is making money , they paying you a salary but you are responsible for that company growth . You're responsible also for helping that company get to the point that it's at at making profits . So there should be something in there or some kind of clause that will subsidize people if they did lose their job other than , you know , uh , neglect or something like that .
+	Free: Pattern=company, Pattern=you, Pattern=people, Pattern=for, Pattern=is, Pattern=the, Pattern=you know , I think, Pattern=to, Pattern=You're, Pattern=that, Pattern=of, Pattern=that ., Pattern=you know ,, Pattern=even, Pattern=there, Pattern=do, Pattern=a, Pattern=the point, Pattern=, you, Pattern=I mean, Pattern=be
+	Constrained: Pattern=, I, Pattern=I, Pattern=think, Pattern=know, Pattern=the, Pattern=that, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=I think, Pattern=, I think
+Turn ID=25| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : You know . Because it's not a person's fault that , you know , people not buying or businesses are , are not on the up and up all the time , you know . I don't see how one or two people , maybe more one or two , but , you know , a number of people can , can be the downfall of a company situation .
+	Free: Pattern=you know, Pattern=people, Pattern=a, Pattern=can be, Pattern=and, Pattern=can, Pattern=I don't, Pattern=, you, Pattern=a company, Pattern=that, Pattern=not, Pattern=of, Pattern=you know ,, Pattern=You know, Pattern=the
+	Constrained: Pattern=company, Pattern=know ,, Pattern=a, Pattern=I, Pattern=can, Pattern=know, Pattern=don't, Pattern=you, Pattern=you know, Pattern=You, Pattern=be
+Turn ID=27| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : Well in a sense that say , how do you make a , a conclusion that you're going to lay off these ten people . Uh , for the bad times of the company .
+	Free: Pattern=company, Pattern=you, Pattern=people, Pattern=for, Pattern=Uh ,, Pattern=say, Pattern=the, Pattern=to, Pattern=do, Pattern=a, Pattern=of the, Pattern=that
+	Constrained: Pattern=the, Pattern=of
+Turn ID=29| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=30| A | B : What about the , the work effort those ten people did when the company was doing well .
+	Free: Pattern=company, Pattern=people, Pattern=What, Pattern=work, Pattern=the
+	Constrained: 
+Turn ID=31| B | M : I don't ?
+	Free: Pattern=I don't
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=32| A | B : You know . In that standpoint .
+	Free: Pattern=You know, Pattern=that
+	Constrained: Pattern=know, Pattern=You
+Turn ID=33| B | M :  ... Uh , what ?
+	Free: Pattern=Uh ,
+	Constrained: 
+Turn ID=34| A | B : yes , I do .
+	Free: Pattern=, I, Pattern=do .
+	Constrained: Pattern=I, Pattern=do
+Turn ID=35| B | M : Do you work for a company ?
+	Free: Pattern=a company, Pattern=for, Pattern=you, Pattern=work
+	Constrained: Pattern=company, Pattern=a
+Turn ID=36| A | B : I really do . I think it'd be better that way and even at that , it would at least give the person time to look for another job because they know that that there are problems
+	Free: Pattern=I, Pattern=know, Pattern=the, Pattern=would, Pattern=to, Pattern=that, Pattern=even, Pattern=there, Pattern=for, Pattern=do ., Pattern=it, Pattern=and, Pattern=I think, Pattern=be
+	Constrained: Pattern=I, Pattern=think, Pattern=do
+Turn ID=37| B | M : You know , you do .
+	Free: Pattern=know ,, Pattern=, you, Pattern=do ., Pattern=You know
+	Constrained: Pattern=know, Pattern=you, Pattern=do, Pattern=You
+Turn ID=38| A | B : and , you know , there are reason to look for another job instead of just dumping it on them all at one time .
+	Free: Pattern=just, Pattern=there, Pattern=for, Pattern=, you, Pattern=to, Pattern=of, Pattern=you know ,, Pattern=it, Pattern=and
+	Constrained: Pattern=know ,, Pattern=you know, Pattern=know, Pattern=you
+Turn ID=39| B | M : you know , I think that would be a great idea .
+	Free: Pattern=you know , I think, Pattern=that would, Pattern=be, Pattern=a
+	Constrained: Pattern=, I, Pattern=I, Pattern=think, Pattern=know, Pattern=would, Pattern=that, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=I think, Pattern=, I think
+Turn ID=40| A | B : You know . That's just , that's my views , you know .
+	Free: Pattern=you know, Pattern=just, Pattern=That's, Pattern=, you, Pattern=You know, Pattern=that's
+	Constrained: Pattern=know, Pattern=you, Pattern=You
+Turn ID=41| B | M : I don't think you understand the point of this post
+	Free: Pattern=of, Pattern=you, Pattern=I don't, Pattern=think, Pattern=the point, Pattern=this
+	Constrained: Pattern=don't, Pattern=I, Pattern=the
+Turn ID=42| A | B : Right . Right . Right .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : Well at least that would give a person a chance to look you know . Because the way it is , a person really don't have a chance
+	Free: Pattern=you know, Pattern=a, Pattern=it, Pattern=is, Pattern=the, Pattern=don't, Pattern=to, Pattern=that would
+	Constrained: Pattern=would, Pattern=know, Pattern=that, Pattern=you
+Turn ID=45| B | M : You can be ?
+	Free: Pattern=can be, Pattern=You
+	Constrained: Pattern=be, Pattern=can

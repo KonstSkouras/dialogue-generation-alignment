@@ -1,0 +1,191 @@
+B|0| M:  ... 
+A|1| A: Right . 
+B|2| M: Yes . _uh_ 
+A|3| A: Right . _they_ 
+B|4| M: They won't . 
+A|5| A: Right . 
+B|6| M: I _have a_ lot _of_ money 
+A|7| A: Well , how do _you_ feel about setting , like , well , _for_ example , [a] _car_ type accident where , [uh] , or some incident where someone loses [a] limb . Do _you_ _think_ _the jury_ should [have a] dollar figure _for_ losing an arm , [a] dollar figure _for_ losing different body parts ? 
+B|8| M: I agree , but I'm not sure I want _to_ set [a] record _of_ [the jury] . 
+A|9| A: Uh-huh . 
+B|10| M: I 
+A|11| A: Huh . 
+B|12| M:  . 
+A|13| A: Uh-huh . 
+B|14| M: You're 
+A|15| A: _Yeah ._ 
+B|16| M: It's called being [a] judge . 
+A|17| A: Right . 
+B|18| M: Not sure 
+A|19| A: _Yeah ._ That's true . 
+B|20| M: There is [a] difference between being penalized and being punished . 
+A|21| A: Huh . 
+B|22| M: The award is [the] amount _of_ money 
+A|23| A: Oh , out [of] As opposed [to] _the insurance_ _paying_ [the] bills , 
+B|24| M: I mean [the insurance] company can't refuse [to] pay [the] money . 
+A|25| A: Uh-huh . Well , we're , Who , _who_ 
+B|26| M: [Yeah .] We're . 
+A|27| A: do _they_ get , _they_ get insured , _they_ get insured from other [insurance] companies or how does _that_ work ? 
+B|28| M: Yes , but I'm not [the] one [who] is getting [insurance] . 
+A|29| A: Oh , okay , your _talking_ about 
+B|30| M: I'm , um , just [talking] _in_ general . 
+A|31| A: Sure . 
+B|32| M: So , [you] want me [to] give [you] [a] clue ? 
+A|33| A: Okay . Well , 
+B|34| M: I dont [have a] link , but i [have a] feeling [that] [the] owner [of] [the] [car] is driving [the] wrong way . 
+A|35| A: But [in] some instances you're going [to] put companies out [of] business by taking [that] stance , _if they_ [have] [to] take _it_ out [of] their own retained earnings . 
+B|36| M: I would be shocked [if they] did . They could easily make [it] [a] policy . 
+A|37| A: That , For , oh , Uh-huh . 
+B|38| M:  
+A|39| A: Uh-huh . 
+B|40| M: [for] . 
+A|41| A: Right . That _will_ , 
+B|42| M: I believe [the] punishment is not [that] [they] are [paying] [for] [the] wrong , but [that] [they] [will] pay [for] [the] right [to] be wrong . 
+A|43| A: Huh . 
+B|44| M: It's [a] lot better now . 
+A|45| A: Sure . Okay . 
+B|46| M: I [think] it's [a] great idea . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : Yes . uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=3| A | A : Right . they
+	Free: Pattern=they
+	Constrained: 
+Turn ID=4| B | M : They won't .
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : I have a lot of money
+	Free: Pattern=have a, Pattern=of
+	Constrained: Pattern=have, Pattern=a
+Turn ID=7| A | A : Well , how do you feel about setting , like , well , for example , a car type accident where , uh , or some incident where someone loses a limb . Do you think the jury should have a dollar figure for losing an arm , a dollar figure for losing different body parts ?
+	Free: Pattern=have a, Pattern=a, Pattern=for, Pattern=think, Pattern=car, Pattern=the jury, Pattern=you, Pattern=uh
+	Constrained: Pattern=have, Pattern=a, Pattern=the
+Turn ID=8| B | M : I agree , but I'm not sure I want to set a record of the jury .
+	Free: Pattern=the jury, Pattern=to, Pattern=a, Pattern=of
+	Constrained: Pattern=the
+Turn ID=9| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : I
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : You're
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=16| B | M : It's called being a judge .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=17| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : Not sure
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : Yeah . That's true .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=20| B | M : There is a difference between being penalized and being punished .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=21| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=22| B | M : The award is the amount of money
+	Free: Pattern=the, Pattern=of
+	Constrained: 
+Turn ID=23| A | A : Oh , out of As opposed to the insurance paying the bills ,
+	Free: Pattern=of, Pattern=paying, Pattern=the, Pattern=to, Pattern=the insurance
+	Constrained: Pattern=insurance, Pattern=the
+Turn ID=24| B | M : I mean the insurance company can't refuse to pay the money .
+	Free: Pattern=the insurance, Pattern=to, Pattern=the
+	Constrained: Pattern=insurance, Pattern=the
+Turn ID=25| A | A : Uh-huh . Well , we're , Who , who
+	Free: Pattern=who
+	Constrained: 
+Turn ID=26| B | M : Yeah . We're .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=27| A | A : do they get , they get insured , they get insured from other insurance companies or how does that work ?
+	Free: Pattern=that, Pattern=insurance, Pattern=they
+	Constrained: 
+Turn ID=28| B | M : Yes , but I'm not the one who is getting insurance .
+	Free: Pattern=insurance, Pattern=the, Pattern=who
+	Constrained: 
+Turn ID=29| A | A : Oh , okay , your talking about
+	Free: Pattern=talking
+	Constrained: 
+Turn ID=30| B | M : I'm , um , just talking in general .
+	Free: Pattern=in, Pattern=talking
+	Constrained: 
+Turn ID=31| A | A : Sure .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : So , you want me to give you a clue ?
+	Free: Pattern=to, Pattern=a, Pattern=you
+	Constrained: 
+Turn ID=33| A | A : Okay . Well ,
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : I dont have a link , but i have a feeling that the owner of the car is driving the wrong way .
+	Free: Pattern=of, Pattern=have a, Pattern=the, Pattern=car, Pattern=that
+	Constrained: Pattern=have, Pattern=a
+Turn ID=35| A | A : But in some instances you're going to put companies out of business by taking that stance , if they have to take it out of their own retained earnings .
+	Free: Pattern=of, Pattern=have, Pattern=it, Pattern=in, Pattern=if they, Pattern=to, Pattern=that
+	Constrained: Pattern=they
+Turn ID=36| B | M : I would be shocked if they did . They could easily make it a policy .
+	Free: Pattern=if they, Pattern=it, Pattern=a
+	Constrained: Pattern=they
+Turn ID=37| A | A : That , For , oh , Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : for .
+	Free: Pattern=for
+	Constrained: 
+Turn ID=41| A | A : Right . That will ,
+	Free: Pattern=will
+	Constrained: 
+Turn ID=42| B | M : I believe the punishment is not that they are paying for the wrong , but that they will pay for the right to be wrong .
+	Free: Pattern=they, Pattern=for, Pattern=will, Pattern=paying, Pattern=the, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=43| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : It's a lot better now .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=45| A | A : Sure . Okay .
+	Free: 
+	Constrained: 
+Turn ID=46| B | M : I think it's a great idea .
+	Free: Pattern=a, Pattern=think
+	Constrained: 

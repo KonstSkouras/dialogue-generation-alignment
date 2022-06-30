@@ -1,0 +1,235 @@
+A|0| B: Huh-uh . 
+B|1| M: Yup . uuh 
+A|2| B: they'll help _you_ , recycle , because _we_ , there _is_ some _bins_ _, like_ behind Wal-Mart , _that_ take some things . 
+B|3| M: _I'm [,_ like] ... _a_ _dump_ _, like ,_ _dump_ , _dump_ . 
+A|4| B: _Yeah ._ 
+B|5| M: Are _they_ still _in_ _the_ [bins] ? 
+A|6| B: Because _I_ finally asked because _, _you_ know_ , _we_ had all _of_ those milk cartons and there _was_ nowhere else _to_ take them and [they] had _it_ [in] front _of_ Wal-Mart and _I_ _ask_ [in] Wal-Mart and [they] said [they] moved _it_ just behind . 
+B|7| M: Why _do_ [you] [ask] ? 
+A|8| B: Huh-uh . 
+B|9| M: Hehe _, I_ [like] _it ._ 
+A|10| B: _Yeah ._ 
+B|11| M: _I don't ,_ 
+A|12| B: _Yeah ._ 
+B|13| M: _I guess_ [you] could say [it] 
+A|14| B: Like aluminum cans ? 
+B|15| M: [I] can't _think_ [of] _a_ single _thing_ _we do_ . 
+A|16| B: _That's_ about _what_ [we do] too . 
+B|17| M: [Yeah .] It's pretty common . 
+A|18| B: _Well [,_ [I] guess] , um , down [in] , kind [of] [in] North Dallas , there _is_ [a] place _that_ will take almost anything . 
+B|19| M: _I'm_ [in] Houston , _so_ [I] can't even _get the_ car . 
+A|20| B: Uh [, [I] don't ,] [we] just [don't] _have_ [the] _room_ _to_ store all _that_ much _, _you_ know_ , 
+B|21| M: [I don't] _think_ [you know] [what] [I] mean . 
+A|22| B: [I don't] want _to_ _be_ running down there every week , or whatever . 
+B|23| M: [That's] _not_ [the] point . 
+A|24| B: [Yeah .] 
+B|25| M: LOLF , why ? 
+A|26| B: [Yeah .] 
+B|27| M: [Yeah] _, like [,_ you] ? 
+A|28| B: Those milk cartons take up [so] much _room ._ 
+B|29| M: _I think_ [the] only _thing_ [I] can say [is] _that I'm_ really looking forward [to] _this_ 
+A|30| B: [I guess] [we] kind [of] started _recycling_ after [I] moved here about [a] year and [a] half ago . 
+B|31| M: Why _would_ [they] ? 
+A|32| B: We were using baby food and there _was_ [so] many baby food jars , kind [of] [what] started [it .] 
+B|33| M: How [was] [the] [recycling] process ? 
+A|34| B: Some [of] our neighbors were doing [it] and [so] [, [you] know] , when [I] found out some places [to] take _it ,_ and , um [, like ,] um , [they] also take some things at [the] Flower Mound [dump] behind [the] fire station there , and [I] [know] [that] they're going [to] use [, [you] know] , [the] money for [that] [to] _build_ some kind [of] multipurpose field and [that] type [of] [thing] . Put lights and stuff 
+B|35| M: nots 
+A|36| B: [so] [, [you] know] _, if_ _I'm not_ going [to] [get the] money for aluminum [, I] [would] just assume give [it] [to] [the] city [of] Flower Mound . [to] [do] something with [, [you] know] . 
+B|37| M: [I'm] gonna [build] aint , 
+A|38| B: [Yeah .] [That's] true . And [they] won't raise our taxes . 
+B|39| M: It's [a] ' 
+A|40| B: [Yeah .] 
+B|41| M: _Oh_ [, I] see . [Well [,] if] [you] [get] [it ,] then [you] [get the] job . 
+A|42| B: _No_ [, [I] don't] . [I] _have a_ friend , [of] mine told me about [this] program , [is] [the] reason [that [I'm] ,] 
+B|43| M: Do [you] [have a] job ? 
+A|44| B: [Yeah .] 
+B|45| M:  
+A|46| B: [is] talking [to] someone [in] Sorry . 
+B|47| M:  
+A|48| B: She'll _be_ two [in] July . 
+B|49| M: [I] am sorry . 
+A|50| B: _Oh ._ 
+B|51| M: [No] . She's [not] [in] _my_ [room .] 
+A|52| B: [Well ,] [it] [was] nice [to] talk [to] [you] . [I] [know] they've started over _in Richardson_ where [my] dad lives . They pick up newspapers [, [I] think] . 
+B|53| M: [Oh .] [Well] [I'm not] [in Richardson] . 
+A|54| B: [Yeah .] 
+B|55| M: Do [they] [have] streets ? 
+A|56| B: Okay . 
+B|57| M: We'll [be] on [the] other side [of] [the] river . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Huh-uh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : Yup . uuh
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : they'll help you , recycle , because we , there is some bins , like behind Wal-Mart , that take some things .
+	Free: Pattern=you, Pattern=, like, Pattern=is, Pattern=we, Pattern=bins, Pattern=that
+	Constrained: Pattern=like
+Turn ID=3| B | M : I'm , like ... a dump , like , dump , dump .
+	Free: Pattern=a, Pattern=, like, Pattern=I'm ,, Pattern=, like ,, Pattern=dump
+	Constrained: Pattern=, like, Pattern=like, Pattern=I'm
+Turn ID=4| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=5| B | M : Are they still in the bins ?
+	Free: Pattern=in, Pattern=bins, Pattern=they, Pattern=the
+	Constrained: 
+Turn ID=6| A | B : Because I finally asked because , you know , we had all of those milk cartons and there was nowhere else to take them and they had it in front of Wal-Mart and I ask in Wal-Mart and they said they moved it just behind .
+	Free: Pattern=of, Pattern=you know, Pattern=they, Pattern=it, Pattern=I, Pattern=in, Pattern=, you, Pattern=we, Pattern=ask, Pattern=to, Pattern=was
+	Constrained: Pattern=know, Pattern=you
+Turn ID=7| B | M : Why do you ask ?
+	Free: Pattern=ask, Pattern=you, Pattern=do
+	Constrained: 
+Turn ID=8| A | B : Huh-uh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : Hehe , I like it .
+	Free: Pattern=, I, Pattern=it ., Pattern=like
+	Constrained: Pattern=I, Pattern=it
+Turn ID=10| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=11| B | M : I don't ,
+	Free: Pattern=I don't ,
+	Constrained: Pattern=I don't, Pattern=don't, Pattern=I
+Turn ID=12| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=13| B | M : I guess you could say it
+	Free: Pattern=I guess, Pattern=you, Pattern=it
+	Constrained: Pattern=I
+Turn ID=14| A | B : Like aluminum cans ?
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : I can't think of a single thing we do .
+	Free: Pattern=of, Pattern=a, Pattern=I, Pattern=think, Pattern=we do, Pattern=thing
+	Constrained: Pattern=we, Pattern=do
+Turn ID=16| A | B : That's about what we do too .
+	Free: Pattern=we do, Pattern=what, Pattern=That's
+	Constrained: Pattern=we, Pattern=do
+Turn ID=17| B | M : Yeah . It's pretty common .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=18| A | B : Well , I guess , um , down in , kind of in North Dallas , there is a place that will take almost anything .
+	Free: Pattern=of, Pattern=is, Pattern=that, Pattern=, I, Pattern=a, Pattern=I guess, Pattern=Well ,, Pattern=in
+	Constrained: Pattern=Well, Pattern=I
+Turn ID=19| B | M : I'm in Houston , so I can't even get the car .
+	Free: Pattern=I'm, Pattern=I, Pattern=in, Pattern=so, Pattern=get the
+	Constrained: Pattern=get, Pattern=the
+Turn ID=20| A | B : Uh , I don't , we just don't have the room to store all that much , you know ,
+	Free: Pattern=I don't ,, Pattern=you know, Pattern=have, Pattern=, I, Pattern=room, Pattern=, you, Pattern=we, Pattern=the, Pattern=don't, Pattern=to, Pattern=that
+	Constrained: Pattern=you, Pattern=I, Pattern=I don't, Pattern=know, Pattern=don't
+Turn ID=21| B | M : I don't think you know what I mean .
+	Free: Pattern=you know, Pattern=what, Pattern=I, Pattern=I don't, Pattern=think
+	Constrained: Pattern=don't, Pattern=know, Pattern=I, Pattern=you
+Turn ID=22| A | B : I don't want to be running down there every week , or whatever .
+	Free: Pattern=I don't, Pattern=be, Pattern=to
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=23| B | M : That's not the point .
+	Free: Pattern=not, Pattern=That's, Pattern=the
+	Constrained: 
+Turn ID=24| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=25| B | M : LOLF , why ?
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=27| B | M : Yeah , like , you ?
+	Free: Pattern=, like ,, Pattern=, you, Pattern=Yeah
+	Constrained: Pattern=, like, Pattern=like, Pattern=you
+Turn ID=28| A | B : Those milk cartons take up so much room .
+	Free: Pattern=room ., Pattern=so
+	Constrained: Pattern=room
+Turn ID=29| B | M : I think the only thing I can say is that I'm really looking forward to this
+	Free: Pattern=that I'm, Pattern=I, Pattern=is, Pattern=I think, Pattern=to, Pattern=this, Pattern=thing, Pattern=the
+	Constrained: Pattern=think, Pattern=I, Pattern=I'm, Pattern=that
+Turn ID=30| A | B : I guess we kind of started recycling after I moved here about a year and a half ago .
+	Free: Pattern=of, Pattern=I, Pattern=I guess, Pattern=we, Pattern=recycling, Pattern=a
+	Constrained: Pattern=I
+Turn ID=31| B | M : Why would they ?
+	Free: Pattern=would, Pattern=they
+	Constrained: 
+Turn ID=32| A | B : We were using baby food and there was so many baby food jars , kind of what started it .
+	Free: Pattern=of, Pattern=it ., Pattern=what, Pattern=was, Pattern=so
+	Constrained: Pattern=it
+Turn ID=33| B | M : How was the recycling process ?
+	Free: Pattern=was, Pattern=recycling, Pattern=the
+	Constrained: 
+Turn ID=34| A | B : Some of our neighbors were doing it and so , you know , when I found out some places to take it , and , um , like , um , they also take some things at the Flower Mound dump behind the fire station there , and I know that they're going to use , you know , the money for that to build some kind of multipurpose field and that type of thing . Put lights and stuff
+	Free: Pattern=of, Pattern=you know, Pattern=they, Pattern=it, Pattern=I, Pattern=build, Pattern=it ,, Pattern=to, Pattern=so, Pattern=know, Pattern=, you, Pattern=, like ,, Pattern=thing, Pattern=the, Pattern=that, Pattern=dump
+	Constrained: Pattern=you, Pattern=it, Pattern=, like, Pattern=know, Pattern=like
+Turn ID=35| B | M : nots
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : so , you know , if I'm not going to get the money for aluminum , I would just assume give it to the city of Flower Mound . to do something with , you know .
+	Free: Pattern=of, Pattern=you know, Pattern=it, Pattern=, if, Pattern=, you, Pattern=the, Pattern=would, Pattern=to, Pattern=I'm not, Pattern=so, Pattern=get the, Pattern=do, Pattern=, I
+	Constrained: Pattern=I, Pattern=know, Pattern=the, Pattern=get, Pattern=not, Pattern=you, Pattern=I'm
+Turn ID=37| B | M : I'm gonna build aint ,
+	Free: Pattern=build, Pattern=I'm
+	Constrained: 
+Turn ID=38| A | B : Yeah . That's true . And they won't raise our taxes .
+	Free: Pattern=Yeah ., Pattern=That's, Pattern=they
+	Constrained: Pattern=Yeah
+Turn ID=39| B | M : It's a '
+	Free: Pattern=a
+	Constrained: 
+Turn ID=40| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=41| B | M : Oh , I see . Well , if you get it , then you get the job .
+	Free: Pattern=you, Pattern=, I, Pattern=, if, Pattern=Well ,, Pattern=it ,, Pattern=Oh, Pattern=get, Pattern=get the
+	Constrained: Pattern=it, Pattern=I, Pattern=Well, Pattern=the, Pattern=get
+Turn ID=42| A | B : No , I don't . I have a friend , of mine told me about this program , is the reason that I'm ,
+	Free: Pattern=of, Pattern=that I'm, Pattern=have a, Pattern=, I, Pattern=I, Pattern=I don't, Pattern=I'm ,, Pattern=the, Pattern=this, Pattern=No, Pattern=is
+	Constrained: Pattern=I'm, Pattern=have, Pattern=a, Pattern=I, Pattern=don't, Pattern=that
+Turn ID=43| B | M : Do you have a job ?
+	Free: Pattern=have a, Pattern=you
+	Constrained: Pattern=have, Pattern=a
+Turn ID=44| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : is talking to someone in Sorry .
+	Free: Pattern=in, Pattern=to, Pattern=is
+	Constrained: 
+Turn ID=47| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : She'll be two in July .
+	Free: Pattern=in, Pattern=be
+	Constrained: 
+Turn ID=49| B | M : I am sorry .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=50| A | B : Oh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=51| B | M : No . She's not in my room .
+	Free: Pattern=in, Pattern=No, Pattern=room ., Pattern=my, Pattern=not
+	Constrained: Pattern=room
+Turn ID=52| A | B : Well , it was nice to talk to you . I know they've started over in Richardson where my dad lives . They pick up newspapers , I think .
+	Free: Pattern=, I, Pattern=it, Pattern=I, Pattern=Well ,, Pattern=know, Pattern=I think, Pattern=to, Pattern=was, Pattern=my, Pattern=you, Pattern=in Richardson
+	Constrained: Pattern=Well, Pattern=in, Pattern=I, Pattern=think
+Turn ID=53| B | M : Oh . Well I'm not in Richardson .
+	Free: Pattern=Oh ., Pattern=in Richardson, Pattern=I'm not, Pattern=Well
+	Constrained: Pattern=in, Pattern=Oh, Pattern=not, Pattern=I'm
+Turn ID=54| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=55| B | M : Do they have streets ?
+	Free: Pattern=have, Pattern=they
+	Constrained: 
+Turn ID=56| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : We'll be on the other side of the river .
+	Free: Pattern=be, Pattern=of, Pattern=the
+	Constrained: 

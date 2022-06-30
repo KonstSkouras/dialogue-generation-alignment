@@ -1,0 +1,199 @@
+A|0| B: _I_ really _do ._ _I think_ it'd _be_ better _that_ way _and_ even at _that ,_ _it_ would at least give _the_ person _time_ _to_ look _for_ another job because they _know_ _that_ _that_ there _are_ problems 
+B|1| M:  
+A|2| B: _Well_ , _it_ _was_ nice _to_ talk _to_ _you_ . _I know_ they've started over _in_ Richardson where my dad lives . They pick up newspapers , _I think_ . 
+B|3| M: _I ._ 
+A|4| B: Uh-huh . 
+B|5| M: _I'm_ _back_ . 
+A|6| B: or _do_ _you_ go ahead _and_ let _it_ cook through ? 
+B|7| M: That's not how [that] works 
+A|8| B: Right , right . 
+B|9| M: The only [time] I've ever _been_ [to] [the] _place_ [was] _when_ [I] [was] [in] high school 
+A|10| B: Is [that] right ? 
+B|11| M: _I have_ [it] _on_ _a_ computer _, _and_ it's_ pretty great . 
+A|12| B: Yeah . [I'm] down here at T [I .] 
+B|13| M: No _, you_ _should be_ 
+A|14| B: Make [it] financially , uh , attractive [to] recycle 
+B|15| M: [I _know] ,_ but [you] can _have a_ junk [and] _a_ bath _together_ 
+A|16| B: _I'm so sorry_ . 
+B|17| M:  
+A|18| B: [I] mean , [the] boys _are_ very open because that's , that's all [I have] _is_ boys , _so_ that's all [I'm] around basically , _is_ boys , 
+B|19| M: _You_ , New New York ? 
+A|20| B: Yeah [, and] , uh [, and] _, you [know_ ,] uh , [I] suppose , uh , years ago , way [back] [when] , uh , [when] , uh , they had [the] revolutionary war [and] people decided [that] they , uh , were fed up _with_ [the] government , uh [, and] if they didn't [have a] way [to] , uh , [to] fight [back] they would [have] [been] [in] big trouble . 
+B|21| M: _It's_ not [that] hard [to] [do .] 
+A|22| B: Right _. Well_ , [do] [you] _think_ [that] [should be] implemented [in] [the] work [place] . [You] [know ,] as like [a] manager or supervisor thinks or has suspicion [that] someone _is_ using drugs , [do] [you] _think_ they [should] [have] [the] right [to] send them [to] [be] tested . 
+B|23| M: Where [are] [you] _from_ ? 
+A|24| B: _Well_ , [when] she got home , who took care of her ? 
+B|25| M: [I'm] 
+A|26| B: Yeah , that's , [I] [I] agree , _I think_ that's where [it] stems [from] , _is_ [that] [and] , um _, you [know_ ,] you've got [a] lot of , [a] lot more women [that] [are] working nowadays [that] aren't home _with_ [the] children 
+B|27| M: Oh [. Well] [I think] [I] heard something about [it] being _on_ [the] website . 
+A|28| B: And [the] , uh , unfortunately , [it] still contributes [to] global warming cause [, you] [have] [to] _, you [know_ ,] wipe out forests [to] grow corn [and] things like [that] . 
+B|29| M: This [is] [the] best timeline . 
+A|30| B: Uh , those , 
+B|31| M: [I'm so sorry] 
+A|32| B: Um . Paper _just_ seems [so] innocuous . 
+B|33| M: [You] can't say [that [,] you know] . 
+A|34| B: And [that] [was] real nice . Uh , 
+B|35| M: i'm [just] kidding 
+A|36| B: And all of [the] descendants of [the] Civil War , [I] mean , yeah , [the] Civil War veterans come [together] [, and] they come as far away [from] California [, and] there's usually oh , between [a] hundred [and] fifty [and] two hundred [and] fifty people . 
+B|37| M:  
+A|38| B: [Well] , [I] , [I] really choose restaurants more _for_ [the] quality of food than anything else . 
+B|39| M: [I] don't 
+A|40| B: Uh-huh . 
+B|41| M: That's what [I'm] thinking . Uhh , what about [the] tools [for] word processing ? 
+A|42| B: Uh , [I] guess [I] , [I] grew up [on] [it] [and it's] fun . [It's] , [it's] an enjoyable part of driving . [I] [do] feel like [I have] , uh , more control over [the] car 
+B|43| M:  . u' 
+A|44| B: Think [you] , 
+B|45| M: He [was] born [with] [a] mouth [, and] therefore , he can't speak . 
+A|46| B: And they had [a] blast running around [the] Farmers Market looking at all [the] [, you [know] ,] [the] food [and] tasting all [the] free samples they were giving out . And they had [a] little pen there [with] animals [in] they could pet [, you [know] ,] 
+B|47| M: She . 
+A|48| B: Right . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : I really do . I think it'd be better that way and even at that , it would at least give the person time to look for another job because they know that that there are problems
+	Free: Pattern=time, Pattern=know, Pattern=the, Pattern=to, Pattern=that ,, Pattern=that, Pattern=for, Pattern=do ., Pattern=it, Pattern=and, Pattern=are, Pattern=I, Pattern=I think, Pattern=be
+	Constrained: Pattern=that, Pattern=do, Pattern=I, Pattern=think
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : Well , it was nice to talk to you . I know they've started over in Richardson where my dad lives . They pick up newspapers , I think .
+	Free: Pattern=you, Pattern=it, Pattern=in, Pattern=Well, Pattern=I think, Pattern=to, Pattern=was, Pattern=I know
+	Constrained: Pattern=know, Pattern=I, Pattern=think
+Turn ID=3| B | M : I .
+	Free: Pattern=I .
+	Constrained: Pattern=I
+Turn ID=4| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : I'm back .
+	Free: Pattern=I'm, Pattern=back
+	Constrained: 
+Turn ID=6| A | B : or do you go ahead and let it cook through ?
+	Free: Pattern=it, Pattern=do, Pattern=and, Pattern=you
+	Constrained: 
+Turn ID=7| B | M : That's not how that works
+	Free: Pattern=that
+	Constrained: 
+Turn ID=8| A | B : Right , right .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : The only time I've ever been to the place was when I was in high school
+	Free: Pattern=time, Pattern=I, Pattern=in, Pattern=the, Pattern=when, Pattern=to, Pattern=been, Pattern=was, Pattern=place
+	Constrained: 
+Turn ID=10| A | B : Is that right ?
+	Free: Pattern=that
+	Constrained: 
+Turn ID=11| B | M : I have it on a computer , and it's pretty great .
+	Free: Pattern=and it's, Pattern=a, Pattern=it, Pattern=I have, Pattern=on, Pattern=, and
+	Constrained: Pattern=I, Pattern=and, Pattern=have, Pattern=it's
+Turn ID=12| A | B : Yeah . I'm down here at T I .
+	Free: Pattern=I ., Pattern=I'm
+	Constrained: Pattern=I
+Turn ID=13| B | M : No , you should be
+	Free: Pattern=, you, Pattern=should be
+	Constrained: Pattern=be, Pattern=should, Pattern=you
+Turn ID=14| A | B : Make it financially , uh , attractive to recycle
+	Free: Pattern=it, Pattern=to
+	Constrained: 
+Turn ID=15| B | M : I know , but you can have a junk and a bath together
+	Free: Pattern=know ,, Pattern=you, Pattern=have a, Pattern=a, Pattern=and, Pattern=together, Pattern=I know
+	Constrained: Pattern=know, Pattern=I, Pattern=a, Pattern=have
+Turn ID=16| A | B : I'm so sorry .
+	Free: Pattern=I'm so sorry
+	Constrained: Pattern=I'm, Pattern=so
+Turn ID=17| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : I mean , the boys are very open because that's , that's all I have is boys , so that's all I'm around basically , is boys ,
+	Free: Pattern=I'm, Pattern=is, Pattern=I have, Pattern=the, Pattern=so, Pattern=are, Pattern=I
+	Constrained: Pattern=I, Pattern=have
+Turn ID=19| B | M : You , New New York ?
+	Free: Pattern=You
+	Constrained: 
+Turn ID=20| A | B : Yeah , and , uh , and , you know , uh , I suppose , uh , years ago , way back when , uh , when , uh , they had the revolutionary war and people decided that they , uh , were fed up with the government , uh , and if they didn't have a way to , uh , to fight back they would have been in big trouble .
+	Free: Pattern=know ,, Pattern=have, Pattern=have a, Pattern=and, Pattern=I, Pattern=, you know, Pattern=in, Pattern=back, Pattern=the, Pattern=when, Pattern=been, Pattern=, and, Pattern=to, Pattern=with, Pattern=that
+	Constrained: Pattern=you, Pattern=have, Pattern=a, Pattern=and, Pattern=know, Pattern=, you
+Turn ID=21| B | M : It's not that hard to do .
+	Free: Pattern=do ., Pattern=that, Pattern=to, Pattern=It's
+	Constrained: Pattern=do
+Turn ID=22| A | B : Right . Well , do you think that should be implemented in the work place . You know , as like a manager or supervisor thinks or has suspicion that someone is using drugs , do you think they should have the right to send them to be tested .
+	Free: Pattern=know ,, Pattern=you, Pattern=have, Pattern=is, Pattern=. Well, Pattern=the, Pattern=to, Pattern=place, Pattern=that, Pattern=should, Pattern=should be, Pattern=do, Pattern=a, Pattern=think, Pattern=in, Pattern=You, Pattern=be
+	Constrained: Pattern=know, Pattern=Well, Pattern=be, Pattern=should
+Turn ID=23| B | M : Where are you from ?
+	Free: Pattern=from, Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=24| A | B : Well , when she got home , who took care of her ?
+	Free: Pattern=when, Pattern=Well
+	Constrained: 
+Turn ID=25| B | M : I'm
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=26| A | B : Yeah , that's , I I agree , I think that's where it stems from , is that and , um , you know , you've got a lot of , a lot more women that are working nowadays that aren't home with the children
+	Free: Pattern=know ,, Pattern=a, Pattern=is, Pattern=I think, Pattern=the, Pattern=it, Pattern=and, Pattern=are, Pattern=I, Pattern=from, Pattern=, you know, Pattern=with, Pattern=that
+	Constrained: Pattern=you, Pattern=I, Pattern=think, Pattern=know, Pattern=, you
+Turn ID=27| B | M : Oh . Well I think I heard something about it being on the website .
+	Free: Pattern=it, Pattern=I, Pattern=. Well, Pattern=I think, Pattern=on, Pattern=the
+	Constrained: Pattern=Well, Pattern=I, Pattern=think
+Turn ID=28| A | B : And the , uh , unfortunately , it still contributes to global warming cause , you have to , you know , wipe out forests to grow corn and things like that .
+	Free: Pattern=know ,, Pattern=have, Pattern=, you know, Pattern=, you, Pattern=the, Pattern=to, Pattern=that, Pattern=it, Pattern=and
+	Constrained: Pattern=, you, Pattern=know, Pattern=you
+Turn ID=29| B | M : This is the best timeline .
+	Free: Pattern=is, Pattern=the
+	Constrained: 
+Turn ID=30| A | B : Uh , those ,
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : I'm so sorry
+	Free: Pattern=I'm so sorry
+	Constrained: Pattern=I'm, Pattern=so
+Turn ID=32| A | B : Um . Paper just seems so innocuous .
+	Free: Pattern=just, Pattern=so
+	Constrained: 
+Turn ID=33| B | M : You can't say that , you know .
+	Free: Pattern=, you know, Pattern=that ,, Pattern=You
+	Constrained: Pattern=that, Pattern=, you, Pattern=you, Pattern=know
+Turn ID=34| A | B : And that was real nice . Uh ,
+	Free: Pattern=was, Pattern=that
+	Constrained: 
+Turn ID=35| B | M : i'm just kidding
+	Free: Pattern=just
+	Constrained: 
+Turn ID=36| A | B : And all of the descendants of the Civil War , I mean , yeah , the Civil War veterans come together , and they come as far away from California , and there's usually oh , between a hundred and fifty and two hundred and fifty people .
+	Free: Pattern=a, Pattern=and, Pattern=I, Pattern=from, Pattern=the, Pattern=together, Pattern=, and
+	Constrained: Pattern=and
+Turn ID=37| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : Well , I , I really choose restaurants more for the quality of food than anything else .
+	Free: Pattern=for, Pattern=Well, Pattern=I, Pattern=the
+	Constrained: 
+Turn ID=39| B | M : I don't
+	Free: Pattern=I
+	Constrained: 
+Turn ID=40| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : That's what I'm thinking . Uhh , what about the tools for word processing ?
+	Free: Pattern=I'm, Pattern=for, Pattern=the
+	Constrained: 
+Turn ID=42| A | B : Uh , I guess I , I grew up on it and it's fun . It's , it's an enjoyable part of driving . I do feel like I have , uh , more control over the car
+	Free: Pattern=and it's, Pattern=do, Pattern=it, Pattern=I, Pattern=I have, Pattern=it's, Pattern=on, Pattern=It's, Pattern=the
+	Constrained: Pattern=I, Pattern=and, Pattern=have, Pattern=it's
+Turn ID=43| B | M :  . u'
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : Think you ,
+	Free: Pattern=you
+	Constrained: 
+Turn ID=45| B | M : He was born with a mouth , and therefore , he can't speak .
+	Free: Pattern=, and, Pattern=with, Pattern=was, Pattern=a
+	Constrained: Pattern=and
+Turn ID=46| A | B : And they had a blast running around the Farmers Market looking at all the , you know , the food and tasting all the free samples they were giving out . And they had a little pen there with animals in they could pet , you know ,
+	Free: Pattern=know ,, Pattern=a, Pattern=and, Pattern=, you know, Pattern=in, Pattern=the, Pattern=with
+	Constrained: Pattern=, you, Pattern=know, Pattern=you
+Turn ID=47| B | M : She .
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : Right .
+	Free: 
+	Constrained: 

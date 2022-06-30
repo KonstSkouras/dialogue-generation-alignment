@@ -1,0 +1,315 @@
+B|0| M: I'm from _Texas_ . 
+A|1| A: And , _of_ course , _they_ _don't_ have _that_ here _in Texas_ so , there's ... 
+B|2| M: They're 
+A|3| A: No , _not_ _in_ , _not_ _in_ well _not_ _in Dallas_ , _that_ _is_ . 
+B|4| M: Are [they] [in Texas] ? 
+A|5| A: _Yeah ._ We're _going_ _there_ tomorrow . 
+B|6| M: _Well ,_ I'm [in Dallas] . 
+A|7| A: Uh-huh We're packing _and_ getting ready _to_ _go_ _to_ . 
+B|8| M: _Oh , okay ._ I'm gonna [go] [and] _do_ [that] _then ._ 
+A|9| A: Uh-huh . 
+B|10| M: It's alright . 
+A|11| A: _Yeah ._ [Oh , okay .] _Yeah _,_ you_ [do] [then .] 
+B|12| M: [Oh ,] I'm [not] talking about _the_ city [of] _L A_ . 
+A|13| A: Is _it_ really ? 
+B|14| M: It's actually _the_ worst , [in] _the_ , world . 
+A|15| A: _I_ would [not] imagine [that] . 
+B|16| M: _A_ city _that's_ _been_ [in] _the_ middle [of] _a_ civil war ? 
+A|17| A: Huh . 
+B|18| M: Smog [is] [in] LA . 
+A|19| A: Huh _. You_ learn something every day . 
+B|20| M: TIL [that] [there] [is] _a_ city [in] China called Beijing . 
+A|21| A: Uh-huh . _Yeah _,_ I've_ _seen_ [that] . 
+B|22| M: Haha [. You] _know _,_ you _know_ ,_ better running cars . 
+A|23| A: Huh . 
+B|24| M: _They_ use _the_ corn [to] fuel _the_ vehicles . 
+A|25| A: Huh-uh . 
+B|26| M: Uhh [, I've] heard [of] those . 
+A|27| A: Huh . No 
+B|28| M: He nods . 
+A|29| A: _Oh , yeah_ _Yeah ._ 
+B|30| M: [Oh _, yeah] ._ 
+A|31| A: Uh-huh . 
+B|32| M: [Yeah _.] I_ guess ? 
+A|33| A: _Yeah ,_ [that's] true . 
+B|34| M: It's _a_ lot easier [to] say _the_ world [is] flat _when_ you're [not] even half way [there] . 
+A|35| A: Right . Huh . And , [of] course , [I] doubt if there's any _, you can_ buy regular anymore [. You] buy unleaded . Right ? 
+B|36| M: [Yeah ,] uhuh . 
+A|37| A: [Yeah .] Huh . 
+B|38| M: Yes [, you can] 
+A|39| A: Uh-huh . 
+B|40| M: Uh huh 
+A|41| A: Uh-huh . 
+B|42| M: _Oh _._ I_ thought _they were_ looking _at a_ battery powered car . 
+A|43| A: Uh-huh . 
+B|44| M: Uuhhh ... what's [that] ? 
+A|45| A: Huh _That is_ good . 
+B|46| M: [That is] _the_ best thing about _the_ car . When you're driving , you're always _at a_ full stop . 
+A|47| A: [Yeah .] 
+B|48| M: [I] see . 
+A|49| A: [Yeah .] 
+B|50| M: Are [you] sure ? 
+A|51| A: Huh . 
+B|52| M: Electric cars . 
+A|53| A: [Oh .] 
+B|54| M: _Well _,_ it's_ _a_ little easier [to] find _the_ car [then] [it] [is] [to] find _a_ place . 
+A|55| A: [That] would be nice [. _I] think_ [I] saw [that] on T V one time . [They] , maybe [it] was C N N where [they were] demonstrating [that] . Or something similar [to] [that] . 
+B|56| M: _I don't_ [think] [I've] ever [seen] _a_ car [in] _a_ non black car . 
+A|57| A: Huh . 
+B|58| M: There are also solar powered vehicles . 
+A|59| A: _But_ _what_ , _I think_ [that] was [a] , [a] , [a] setback . [That] [they] , [I don't] [know ,] [they] went , [I don't] [know ,] how many miles an hour [. _I] think_ like 
+B|60| M: [I think] [they] _did_ . 
+A|61| A: [I don't] [know] . Huh . * See note above 
+B|62| M: _A_ . Yes . 
+A|63| A: [Yeah ,] [and] they're , they're very expensive too . . 
+B|64| M: [You] [know] [what] ? I'm [going] [to] ... I'm 
+A|65| A: [Well [,] yeah .] [Yeah .] 
+B|66| M: [But] ... [I] 
+A|67| A: [Well ,] [it] doesn't make sense . Because if _they want_ people _to convert_ [, you know] . [They] should make [it] worthwhile . 
+B|68| M: [I don't] understand , why [do] [they want] [to convert] ? 
+A|69| A: [Yeah .] [Yeah .] Um . [Well] I'll tell [you] . Sometimes [it's] [, it's] pretty bad here . Like today [I think] [it] was pretty bad [. [I] don't] [know] if [it] was , if [it's] just , uh , [the] allergies or [what] but some days [it's] very nice here downtown 
+B|70| M: [I] 
+A|71| A: [and] other days [it's] just really bad , so , [I don't] [know] . So [what] , [what] kinds [of] things [did] [you] experience _in [L_ A] [when] [you] [were] _there ?_ Or [can] [you] remember ? Were [you] [there] [at a] ? 
+B|72| M: I'y 
+A|73| A: Cause [I] haven't [been] [there] probably ... 
+B|74| M: I'm still [in L] [a] lot 
+A|75| A: [Yeah .] 
+B|76| M: Are [you] from [there ?] 
+A|77| A: [Well ,] we [were] [there] [when] [they] had [a] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I'm from Texas .
+	Free: Pattern=Texas
+	Constrained: 
+Turn ID=1| A | A : And , of course , they don't have that here in Texas so , there's ...
+	Free: Pattern=of, Pattern=they, Pattern=don't, Pattern=in Texas, Pattern=that
+	Constrained: Pattern=in, Pattern=Texas
+Turn ID=2| B | M : They're
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : No , not in , not in well not in Dallas , that is .
+	Free: Pattern=in Dallas, Pattern=in, Pattern=is, Pattern=that, Pattern=not
+	Constrained: Pattern=in
+Turn ID=4| B | M : Are they in Texas ?
+	Free: Pattern=in Texas, Pattern=they
+	Constrained: Pattern=in, Pattern=Texas
+Turn ID=5| A | A : Yeah . We're going there tomorrow .
+	Free: Pattern=Yeah ., Pattern=going, Pattern=there
+	Constrained: 
+Turn ID=6| B | M : Well , I'm in Dallas .
+	Free: Pattern=in Dallas, Pattern=Well ,
+	Constrained: Pattern=Well, Pattern=in
+Turn ID=7| A | A : Uh-huh We're packing and getting ready to go to .
+	Free: Pattern=to, Pattern=and, Pattern=go
+	Constrained: 
+Turn ID=8| B | M : Oh , okay . I'm gonna go and do that then .
+	Free: Pattern=then ., Pattern=Oh , okay ., Pattern=go, Pattern=do, Pattern=and, Pattern=that
+	Constrained: Pattern=Oh ,, Pattern=then
+Turn ID=9| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : It's alright .
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : Yeah . Oh , okay . Yeah , you do then .
+	Free: Pattern=Yeah ., Pattern=then ., Pattern=Oh , okay ., Pattern=do, Pattern=, you, Pattern=Yeah ,
+	Constrained: Pattern=Oh ,, Pattern=you, Pattern=then
+Turn ID=12| B | M : Oh , I'm not talking about the city of L A .
+	Free: Pattern=Oh ,, Pattern=the, Pattern=not, Pattern=L A, Pattern=of
+	Constrained: Pattern=A
+Turn ID=13| A | A : Is it really ?
+	Free: Pattern=it
+	Constrained: 
+Turn ID=14| B | M : It's actually the worst , in the , world .
+	Free: Pattern=the, Pattern=in
+	Constrained: 
+Turn ID=15| A | A : I would not imagine that .
+	Free: Pattern=that, Pattern=not, Pattern=I
+	Constrained: 
+Turn ID=16| B | M : A city that's been in the middle of a civil war ?
+	Free: Pattern=of, Pattern=a, Pattern=A, Pattern=in, Pattern=been, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=17| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : Smog is in LA .
+	Free: Pattern=in, Pattern=is
+	Constrained: 
+Turn ID=19| A | A : Huh . You learn something every day .
+	Free: Pattern=. You
+	Constrained: Pattern=You
+Turn ID=20| B | M : TIL that there is a city in China called Beijing .
+	Free: Pattern=there, Pattern=a, Pattern=in, Pattern=is, Pattern=that
+	Constrained: 
+Turn ID=21| A | A : Uh-huh . Yeah , I've seen that .
+	Free: Pattern=, I've, Pattern=Yeah ,, Pattern=that, Pattern=seen
+	Constrained: Pattern=I've
+Turn ID=22| B | M : Haha . You know , you know , better running cars .
+	Free: Pattern=, you know, Pattern=. You, Pattern=know ,
+	Constrained: Pattern=, you, Pattern=You, Pattern=you, Pattern=know
+Turn ID=23| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=24| B | M : They use the corn to fuel the vehicles .
+	Free: Pattern=the, Pattern=to, Pattern=They
+	Constrained: 
+Turn ID=25| A | A : Huh-uh .
+	Free: 
+	Constrained: 
+Turn ID=26| B | M : Uhh , I've heard of those .
+	Free: Pattern=, I've, Pattern=of
+	Constrained: Pattern=I've
+Turn ID=27| A | A : Huh . No
+	Free: 
+	Constrained: 
+Turn ID=28| B | M : He nods .
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : Oh , yeah Yeah .
+	Free: Pattern=Oh , yeah, Pattern=Yeah .
+	Constrained: Pattern=Oh ,
+Turn ID=30| B | M : Oh , yeah .
+	Free: Pattern=, yeah ., Pattern=Oh , yeah
+	Constrained: Pattern=Oh ,
+Turn ID=31| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : Yeah . I guess ?
+	Free: Pattern=Yeah ., Pattern=. I
+	Constrained: Pattern=I
+Turn ID=33| A | A : Yeah , that's true .
+	Free: Pattern=Yeah ,, Pattern=that's
+	Constrained: 
+Turn ID=34| B | M : It's a lot easier to say the world is flat when you're not even half way there .
+	Free: Pattern=there, Pattern=a, Pattern=is, Pattern=the, Pattern=when, Pattern=to, Pattern=not
+	Constrained: 
+Turn ID=35| A | A : Right . Huh . And , of course , I doubt if there's any , you can buy regular anymore . You buy unleaded . Right ?
+	Free: Pattern=, you can, Pattern=. You, Pattern=of, Pattern=I
+	Constrained: Pattern=You, Pattern=you, Pattern=can, Pattern=, you
+Turn ID=36| B | M : Yeah , uhuh .
+	Free: Pattern=Yeah ,
+	Constrained: 
+Turn ID=37| A | A : Yeah . Huh .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=38| B | M : Yes , you can
+	Free: Pattern=, you can
+	Constrained: Pattern=, you, Pattern=you, Pattern=can
+Turn ID=39| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : Uh huh
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : Oh . I thought they were looking at a battery powered car .
+	Free: Pattern=Oh ., Pattern=they were, Pattern=. I, Pattern=at a
+	Constrained: Pattern=a, Pattern=they, Pattern=I, Pattern=were
+Turn ID=43| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : Uuhhh ... what's that ?
+	Free: Pattern=that
+	Constrained: 
+Turn ID=45| A | A : Huh That is good .
+	Free: Pattern=That is
+	Constrained: Pattern=That, Pattern=is
+Turn ID=46| B | M : That is the best thing about the car . When you're driving , you're always at a full stop .
+	Free: Pattern=That is, Pattern=at a, Pattern=the
+	Constrained: Pattern=That, Pattern=a, Pattern=is
+Turn ID=47| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=48| B | M : I see .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=49| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=50| B | M : Are you sure ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=51| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=52| B | M : Electric cars .
+	Free: 
+	Constrained: 
+Turn ID=53| A | A : Oh .
+	Free: Pattern=Oh .
+	Constrained: 
+Turn ID=54| B | M : Well , it's a little easier to find the car then it is to find a place .
+	Free: Pattern=it, Pattern=, it's, Pattern=Well ,, Pattern=is, Pattern=the, Pattern=to, Pattern=then, Pattern=a
+	Constrained: Pattern=Well, Pattern=it's
+Turn ID=55| A | A : That would be nice . I think I saw that on T V one time . They , maybe it was C N N where they were demonstrating that . Or something similar to that .
+	Free: Pattern=They, Pattern=they were, Pattern=it, Pattern=I, Pattern=. I, Pattern=That, Pattern=I think, Pattern=to, Pattern=that
+	Constrained: Pattern=they, Pattern=I, Pattern=think, Pattern=were
+Turn ID=56| B | M : I don't think I've ever seen a car in a non black car .
+	Free: Pattern=I've, Pattern=a, Pattern=I don't, Pattern=seen, Pattern=think, Pattern=in
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=57| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=58| B | M : There are also solar powered vehicles .
+	Free: 
+	Constrained: 
+Turn ID=59| A | A : But what , I think that was a , a , a setback . That they , I don't know , they went , I don't know , how many miles an hour . I think like
+	Free: Pattern=know ,, Pattern=a, Pattern=I don't, Pattern=That, Pattern=I think, Pattern=that, Pattern=what, Pattern=they, Pattern=But, Pattern=. I
+	Constrained: Pattern=I, Pattern=don't, Pattern=think, Pattern=know
+Turn ID=60| B | M : I think they did .
+	Free: Pattern=I think, Pattern=did, Pattern=they
+	Constrained: Pattern=I, Pattern=think
+Turn ID=61| A | A : I don't know . Huh . * See note above
+	Free: Pattern=I don't, Pattern=know
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=62| B | M : A . Yes .
+	Free: Pattern=A
+	Constrained: 
+Turn ID=63| A | A : Yeah , and they're , they're very expensive too . .
+	Free: Pattern=Yeah ,, Pattern=and
+	Constrained: 
+Turn ID=64| B | M : You know what ? I'm going to ... I'm
+	Free: Pattern=going, Pattern=what, Pattern=know, Pattern=You, Pattern=to
+	Constrained: 
+Turn ID=65| A | A : Well , yeah . Yeah .
+	Free: Pattern=, yeah ., Pattern=Yeah ., Pattern=Well ,
+	Constrained: Pattern=Well
+Turn ID=66| B | M : But ... I
+	Free: Pattern=But, Pattern=I
+	Constrained: 
+Turn ID=67| A | A : Well , it doesn't make sense . Because if they want people to convert , you know . They should make it worthwhile .
+	Free: Pattern=They, Pattern=it, Pattern=, you know, Pattern=Well ,, Pattern=to convert, Pattern=they want
+	Constrained: Pattern=you, Pattern=they, Pattern=Well, Pattern=to, Pattern=know, Pattern=, you
+Turn ID=68| B | M : I don't understand , why do they want to convert ?
+	Free: Pattern=they want, Pattern=to convert, Pattern=I don't, Pattern=do
+	Constrained: Pattern=they, Pattern=to, Pattern=I, Pattern=don't
+Turn ID=69| A | A : Yeah . Yeah . Um . Well I'll tell you . Sometimes it's , it's pretty bad here . Like today I think it was pretty bad . I don't know if it was , if it's just , uh , the allergies or what but some days it's very nice here downtown
+	Free: Pattern=Yeah ., Pattern=you, Pattern=what, Pattern=it, Pattern=. I, Pattern=know, Pattern=Well, Pattern=I think, Pattern=the, Pattern=it's, Pattern=I don't, Pattern=, it's
+	Constrained: Pattern=it's, Pattern=think, Pattern=I, Pattern=don't
+Turn ID=70| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=71| A | A : and other days it's just really bad , so , I don't know . So what , what kinds of things did you experience in L A when you were there ? Or can you remember ? Were you there at a ?
+	Free: Pattern=there ?, Pattern=did, Pattern=and, Pattern=can, Pattern=I don't, Pattern=know, Pattern=when, Pattern=were, Pattern=it's, Pattern=L A, Pattern=of, Pattern=at a, Pattern=you, Pattern=in L, Pattern=what, Pattern=there
+	Constrained: Pattern=there, Pattern=a, Pattern=A, Pattern=I, Pattern=in, Pattern=don't
+Turn ID=72| B | M : I'y
+	Free: 
+	Constrained: 
+Turn ID=73| A | A : Cause I haven't been there probably ...
+	Free: Pattern=I, Pattern=been, Pattern=there
+	Constrained: 
+Turn ID=74| B | M : I'm still in L a lot
+	Free: Pattern=in L, Pattern=a
+	Constrained: Pattern=in
+Turn ID=75| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=76| B | M : Are you from there ?
+	Free: Pattern=there ?, Pattern=you
+	Constrained: Pattern=there
+Turn ID=77| A | A : Well , we were there when they had a
+	Free: Pattern=a, Pattern=Well ,, Pattern=when, Pattern=were, Pattern=they, Pattern=there
+	Constrained: Pattern=Well

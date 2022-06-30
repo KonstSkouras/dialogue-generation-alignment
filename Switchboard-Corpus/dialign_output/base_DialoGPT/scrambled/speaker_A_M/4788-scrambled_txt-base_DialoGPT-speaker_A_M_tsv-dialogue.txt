@@ -1,0 +1,115 @@
+A|0| A: Uh-huh , and _it_ _just_ pertained to _that_ 
+B|1| M: It's _uh ,_ [that] 
+A|2| A: But what , _I think_ [that] was _a_ , _a_ , _a_ setback . _That_ they , _I_ don't _know ,_ they went , _I_ don't _know ,_ how many miles an hour . _I think_ like 
+B|3| M: [I] hope so _too ._ 
+A|4| A: they've been released _, you know ,_ several times , which _is_ another _, [uh_ ,] deal [I] hate to see . 
+B|5| M:  ... 
+A|6| A: Yeah , it's _not_ _a_ bad idea . Uh-huh . Sure , sure , 
+B|7| M: This [is] _the_ only time in history [that] _we_ _have_ had news [that] happened . 
+A|8| A: Yes , uh-huh . 
+B|9| M:  
+A|10| A: Maybe _a_ people are _a_ little more open-minded than maybe they used to _be_ . 
+B|11| M: What happened ? 
+A|12| A: Yeah , yeah , and _it_ gives _you_ _a_ , um , _a_ false sense _of_ security or something _it_ seems like because _you_ say , oh , well , [I] don't [have] to pay for _it_ now but _you're_ going to [have] to pay for _it_ , and _it_ seems like ... 
+B|13| M: _They_ could [just] [be] paid [a] minimum wage [of] 250 , 000 [a] year . 
+A|14| A: Wow , yeah . 
+B|15| M: _They_ can't , they're [, you know ,] _the_ only , other , other ... 
+A|16| A: You [know ,] _it_ was , and [, you know ,] and , and they , and [we] didn't [have] power for [a] week and there are still people who don't [have] power . 
+B|17| M: [I think] 
+A|18| A: Uh-huh . 
+B|19| M: Oh [, uh] . 
+A|20| A: Uh-huh . 
+B|21| M:  
+A|22| A: _Well ,_ [we] enjoyed having her here , 
+B|23| M: Yay [it] . 
+A|24| A: No , because they use everything they can and make this into pressed whatever . [They] use [the] , they use [the] insides [of] [the] animals , heart and liver and they , they form [it] , and they make [it] look like roast beef , and [I] said , no , thank [you] . 
+B|25| M: [That] sounds good . 
+A|26| A: Yeah . We do [too .] [I think] [a] lot [of] people agree [the] same . 
+B|27| M: [Well ,] [you're] [not] wrong . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Uh-huh , and it just pertained to that
+	Free: Pattern=just, Pattern=it, Pattern=that
+	Constrained: 
+Turn ID=1| B | M : It's uh , that
+	Free: Pattern=uh ,, Pattern=that
+	Constrained: 
+Turn ID=2| A | A : But what , I think that was a , a , a setback . That they , I don't know , they went , I don't know , how many miles an hour . I think like
+	Free: Pattern=know ,, Pattern=a, Pattern=I, Pattern=That, Pattern=I think, Pattern=that
+	Constrained: Pattern=I
+Turn ID=3| B | M : I hope so too .
+	Free: Pattern=too ., Pattern=I
+	Constrained: 
+Turn ID=4| A | A : they've been released , you know , several times , which is another , uh , deal I hate to see .
+	Free: Pattern=, uh, Pattern=, you know ,, Pattern=I, Pattern=is, Pattern=uh ,
+	Constrained: Pattern=know ,, Pattern=you
+Turn ID=5| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : Yeah , it's not a bad idea . Uh-huh . Sure , sure ,
+	Free: Pattern=a, Pattern=not
+	Constrained: 
+Turn ID=7| B | M : This is the only time in history that we have had news that happened .
+	Free: Pattern=have, Pattern=is, Pattern=we, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=8| A | A : Yes , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : Maybe a people are a little more open-minded than maybe they used to be .
+	Free: Pattern=a, Pattern=be
+	Constrained: 
+Turn ID=11| B | M : What happened ?
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : Yeah , yeah , and it gives you a , um , a false sense of security or something it seems like because you say , oh , well , I don't have to pay for it now but you're going to have to pay for it , and it seems like ...
+	Free: Pattern=you, Pattern=have, Pattern=a, Pattern=it, Pattern=I, Pattern=you're, Pattern=of
+	Constrained: 
+Turn ID=13| B | M : They could just be paid a minimum wage of 250 , 000 a year .
+	Free: Pattern=of, Pattern=a, Pattern=be, Pattern=They, Pattern=just
+	Constrained: 
+Turn ID=14| A | A : Wow , yeah .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : They can't , they're , you know , the only , other , other ...
+	Free: Pattern=, you know ,, Pattern=the, Pattern=They
+	Constrained: Pattern=know ,, Pattern=you
+Turn ID=16| A | A : You know , it was , and , you know , and , and they , and we didn't have power for a week and there are still people who don't have power .
+	Free: Pattern=know ,, Pattern=have, Pattern=it, Pattern=we, Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=know ,, Pattern=you
+Turn ID=17| B | M : I think
+	Free: Pattern=I think
+	Constrained: Pattern=I
+Turn ID=18| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : Oh , uh .
+	Free: Pattern=, uh
+	Constrained: 
+Turn ID=20| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : Well , we enjoyed having her here ,
+	Free: Pattern=Well ,, Pattern=we
+	Constrained: 
+Turn ID=23| B | M : Yay it .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=24| A | A : No , because they use everything they can and make this into pressed whatever . They use the , they use the insides of the animals , heart and liver and they , they form it , and they make it look like roast beef , and I said , no , thank you .
+	Free: Pattern=of, Pattern=you, Pattern=They, Pattern=it, Pattern=I, Pattern=the
+	Constrained: 
+Turn ID=25| B | M : That sounds good .
+	Free: Pattern=That
+	Constrained: 
+Turn ID=26| A | A : Yeah . We do too . I think a lot of people agree the same .
+	Free: Pattern=of, Pattern=a, Pattern=too ., Pattern=I think, Pattern=the
+	Constrained: Pattern=I
+Turn ID=27| B | M : Well , you're not wrong .
+	Free: Pattern=Well ,, Pattern=not, Pattern=you're
+	Constrained: 

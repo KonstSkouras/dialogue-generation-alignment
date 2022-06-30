@@ -1,0 +1,143 @@
+A|0| A: _And_ _then_ where _do_ _you_ meet ? 
+B|1| M: _I_ _, uh _,_ I_ think I'll [do] _it ._ 
+A|2| A: That's _so_ stupid _that_ _you_ all _have_ two teams . 
+B|3| M: I'm _a_ college student _, so_ _I_ [have] no money . 
+A|4| A: yeah Sure 
+B|5| M: Hmmm . _I_ don't _know_ . 
+A|6| A: Right , _right_ . 
+B|7| M: Summer . 
+A|8| A: Isn't _that_ _a shame_ . 
+B|9| M: Polk , PA . 
+A|10| A: Huh-uh . 
+B|11| M: What ? 
+A|12| A: _So_ you're , you're _not_ _that_ far north _then_ , _okay_ . 
+B|13| M: [So] ... 
+A|14| A: Is [it] , that's good . 
+B|15| M: Hey _, you know _,_ you_ can look _at_ _the_ other side _of the_ wall _, and_ it'll look [right] back _at_ [you] 
+A|16| A: my mother got [a] piano [and] [, uh ,] vowed _that_ someone in [the] family was going to learn [, so] we all had to take lessons [, and] [I] was [the] one _that_ did [the] least poorly [, so] she gave [it] to me . _And_ it's sitting here mostly taking up space , but sometimes [it] _makes_ [you] feel good to sit down [and] play [it .] It is real relaxing . 
+B|17| M: What . 
+A|18| A: Really ? 
+B|19| M: He's probably dead 
+A|20| A: _It's not_ [the] law abiding citizen _that_ [, you know ,] is , is dangerous with [the] gun _It's_ [the] ones _that_ are going out [and] stealing [it .] 
+B|21| M: _Well _,_ I guess_ [that] [makes] [it] [okay] [then] . 
+A|22| A: _And_ they had us fill out [a] long questionnaire . We stayed till about one thirty [and] they're going to call [the] ones [that] they're interested in from [the] questionnaire two to three [at] [a] time [and] [the] trial won't take place until June . 
+B|23| M: He's [a] weird guy . 
+A|24| A: Or [, you know ,] plead insanity . 
+B|25| M: [It's not] . 
+A|26| A: Are [you] in Texas , now ? 
+B|27| M: [It's] [a] bit _of_ [a shame] _, I_ think she's still alive . 
+A|28| A: Yeah . 
+B|29| M: [I] 
+A|30| A: [Well ,] that's kind [of the] way our living room [and] dining room is , 
+B|31| M: [I] . 
+A|32| A: Uh-huh . Because [I guess] because [of the] changes in Eastern Europe [, uh ,] they've increased funding for [the] Peace Corps . Some [of the] [, I guess] it's some [of the] peace dividend in [the] sense [, you] known , 
+B|33| M: [I] 
+B|34| M: [And] [, uh ,] we're planting 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : And then where do you meet ?
+	Free: Pattern=do, Pattern=And, Pattern=then, Pattern=you
+	Constrained: 
+Turn ID=1| B | M : I , uh , I think I'll do it .
+	Free: Pattern=it ., Pattern=I, Pattern=, uh ,, Pattern=do, Pattern=, I
+	Constrained: Pattern=I, Pattern=it
+Turn ID=2| A | A : That's so stupid that you all have two teams .
+	Free: Pattern=that, Pattern=you, Pattern=have, Pattern=so
+	Constrained: 
+Turn ID=3| B | M : I'm a college student , so I have no money .
+	Free: Pattern=, so, Pattern=a, Pattern=I, Pattern=have
+	Constrained: Pattern=so
+Turn ID=4| A | A : yeah Sure
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : Hmmm . I don't know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=6| A | A : Right , right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=7| B | M : Summer .
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Isn't that a shame .
+	Free: Pattern=a shame, Pattern=that
+	Constrained: Pattern=a
+Turn ID=9| B | M : Polk , PA .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : Huh-uh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : So you're , you're not that far north then , okay .
+	Free: Pattern=then, Pattern=So, Pattern=that, Pattern=not, Pattern=okay
+	Constrained: 
+Turn ID=13| B | M : So ...
+	Free: Pattern=So
+	Constrained: 
+Turn ID=14| A | A : Is it , that's good .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=15| B | M : Hey , you know , you can look at the other side of the wall , and it'll look right back at you
+	Free: Pattern=right, Pattern=you, Pattern=, you know ,, Pattern=at, Pattern=, you, Pattern=the, Pattern=, and, Pattern=of the
+	Constrained: Pattern=of, Pattern=you, Pattern=and, Pattern=the, Pattern=know, Pattern=, you
+Turn ID=16| A | A : my mother got a piano and , uh , vowed that someone in the family was going to learn , so we all had to take lessons , and I was the one that did the least poorly , so she gave it to me . And it's sitting here mostly taking up space , but sometimes it makes you feel good to sit down and play it . It is real relaxing .
+	Free: Pattern=And, Pattern=a, Pattern=I, Pattern=makes, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=, so, Pattern=that, Pattern=you, Pattern=it ., Pattern=it, Pattern=and
+	Constrained: Pattern=and, Pattern=it, Pattern=so
+Turn ID=17| B | M : What .
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : Really ?
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : He's probably dead
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : It's not the law abiding citizen that , you know , is , is dangerous with the gun It's the ones that are going out and stealing it .
+	Free: Pattern=it ., Pattern=, you know ,, Pattern=and, Pattern=It's not, Pattern=that, Pattern=It's, Pattern=the
+	Constrained: Pattern=you, Pattern=it, Pattern=It's, Pattern=not, Pattern=know, Pattern=, you
+Turn ID=21| B | M : Well , I guess that makes it okay then .
+	Free: Pattern=, I guess, Pattern=then, Pattern=it, Pattern=makes, Pattern=Well ,, Pattern=that, Pattern=okay
+	Constrained: Pattern=, I, Pattern=I guess, Pattern=I
+Turn ID=22| A | A : And they had us fill out a long questionnaire . We stayed till about one thirty and they're going to call the ones that they're interested in from the questionnaire two to three at a time and the trial won't take place until June .
+	Free: Pattern=And, Pattern=a, Pattern=and, Pattern=at, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=23| B | M : He's a weird guy .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=24| A | A : Or , you know , plead insanity .
+	Free: Pattern=, you know ,
+	Constrained: Pattern=, you, Pattern=you, Pattern=know
+Turn ID=25| B | M : It's not .
+	Free: Pattern=It's not
+	Constrained: Pattern=not, Pattern=It's
+Turn ID=26| A | A : Are you in Texas , now ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=27| B | M : It's a bit of a shame , I think she's still alive .
+	Free: Pattern=of, Pattern=a shame, Pattern=It's, Pattern=, I, Pattern=a
+	Constrained: Pattern=a, Pattern=I
+Turn ID=28| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=30| A | A : Well , that's kind of the way our living room and dining room is ,
+	Free: Pattern=of the, Pattern=Well ,, Pattern=and
+	Constrained: Pattern=the, Pattern=of
+Turn ID=31| B | M : I .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=32| A | A : Uh-huh . Because I guess because of the changes in Eastern Europe , uh , they've increased funding for the Peace Corps . Some of the , I guess it's some of the peace dividend in the sense , you known ,
+	Free: Pattern=, I guess, Pattern=I guess, Pattern=, you, Pattern=, uh ,, Pattern=the, Pattern=of the
+	Constrained: Pattern=of, Pattern=you, Pattern=, I, Pattern=I, Pattern=I guess, Pattern=the
+Turn ID=33| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=34| B | M : And , uh , we're planting
+	Free: Pattern=, uh ,, Pattern=And
+	Constrained: 

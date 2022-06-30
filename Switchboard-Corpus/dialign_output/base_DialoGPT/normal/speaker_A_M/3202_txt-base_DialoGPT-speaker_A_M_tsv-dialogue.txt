@@ -1,0 +1,59 @@
+B|0| M: That's why there _are_ _so_ many people . 
+A|1| A: Uh-huh . 
+B|2| M: _I_ think I'm gonna go _to_ _the_ top _of_ _the_ mountain _and_ go for _a_ walk . 
+A|3| A: Yes . 
+B|4| M:  
+A|5| A: With all [of] you living [so] close together . 
+B|6| M: How does it 
+A|7| A: Oh . 
+B|8| M: I'm just _a_ regular person . 
+A|9| A: Well _, I_ come from [a] very small family . And we planned [a] family reunion this spring . Uh , where we [are] from Texas [and] my family is from Ohio [and] we met in Florida . 
+B|10| M: What ? 
+A|11| A: So [the] seven [of] us went on [a] cruise [and] then went [to] Disney together . So that's all [the] family , [so] planning our family reunion was very easy you know . 
+B|12| M: Yea [, I] am , [and] I'm just here for [the] fun . 
+A|13| A: Yeah , well , we had [a] wonderful 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : That's why there are so many people .
+	Free: Pattern=so, Pattern=are
+	Constrained: 
+Turn ID=1| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : I think I'm gonna go to the top of the mountain and go for a walk .
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=I, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=3| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=4| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : With all of you living so close together .
+	Free: Pattern=of, Pattern=so
+	Constrained: 
+Turn ID=6| B | M : How does it
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : I'm just a regular person .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=9| A | A : Well , I come from a very small family . And we planned a family reunion this spring . Uh , where we are from Texas and my family is from Ohio and we met in Florida .
+	Free: Pattern=, I, Pattern=and, Pattern=a, Pattern=are
+	Constrained: Pattern=I
+Turn ID=10| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : So the seven of us went on a cruise and then went to Disney together . So that's all the family , so planning our family reunion was very easy you know .
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=the, Pattern=to, Pattern=so
+	Constrained: 
+Turn ID=12| B | M : Yea , I am , and I'm just here for the fun .
+	Free: Pattern=, I, Pattern=and, Pattern=the
+	Constrained: Pattern=I
+Turn ID=13| A | A : Yeah , well , we had a wonderful
+	Free: Pattern=a
+	Constrained: 

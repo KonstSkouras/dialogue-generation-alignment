@@ -1,0 +1,183 @@
+A|0| A: _Uh-huh ._ That's _right ._ 
+B|1| B: _Did _you_ get_ _to_ vote _at the_ last one ? 
+A|2| A: _And_ where _are_ _they_ [at] ? 
+B|3| B: _uh_ . 
+A|4| A: _Uh-huh ._ Sure _. Uh-huh ._ 
+B|5| B: [Uh-huh .] 
+A|6| A: _Yeah ._ 
+B|7| B: _Uh ,_ oh , golly _, I_ _really_ . 
+A|8| A: Okay ? 
+B|9| B: _Yeah ,_ _in_ _their_ own community , [right .] _Yeah ,_ that's true Most _of them_ probably wouldn't _do_ something _like_ _that_ . Although there [are] _a_ lot _of_ kids who would _do_ _it_ _just to_ _get_ away _from_ _their_ parents 
+A|10| A: The economy _is_ lousy 
+B|11| B: Right . 
+A|12| A: [Yeah [,] I] _know ,_ 
+B|13| B: We did [, I] did horseback riding , too , _in_ fact , _when_ my children were growing up , _we_ always _had_ horses _and , uh _,_ that_ _was_ kind _of_ for _them_ , but [they] weren't as interested _in_ _it_ as _we_ were _, you know _,_ so _,_ uh _,_ that_ _was_ _a_ _real_ , I'd say probably for maybe fifteen years , _we_ dabbled _in_ _that , you know ,_ _we_ always _had_ horses around _, and_ [I] _really_ enjoyed _that ,_ 
+A|14| A: _Yeah ._ 
+B|15| B: [Uh-huh .] 
+A|16| A: _And_ myself [, I] guess . 
+B|17| B: _it's_ _not_ step for step . 
+A|18| A: [Uh-huh .] That's [right .] Absolutely _. They_ need , young families , whatever , 
+B|19| B: Right . 
+A|20| A: Okay . Um , well [, I] [like] [to] cook _, um_ 
+B|21| B: [Yeah .] 
+A|22| A: [and , uh ,] [really] need [a] faster system . [Uh _,] I got a_ new line [that] _I [,_ I] sell metal fabricating equipment [, and] cat cam systems [, and] tooling , et cetera . 
+B|23| B: [I] _just_ prefer [to] worry _about_ today , probably _not_ [a] practical attitude but that's who [I] am _so ,_ 
+A|24| A: [Yeah .] 
+B|25| B: [Uh ,] some things [they] _do_ , one _of them_ [is] _they're_ using corn _in_ fuel . 
+A|26| A: There [you] go . [Did you] _have a_ hard time getting used _to ,_ [do] [you] _feel_ [like] [you] live [in] an isolated area or , 
+B|27| B: [And] [, uh ,] yeah . 
+A|28| A: [Yeah ,] well , [real] interesting . 
+B|29| B: [and] [you] [got] [to] try _to be_ _with_ _them_ as much as [you] can [and] [to _,] you know ,_ [like] , thing [is] , [is] _, _that_ , you know ,_ [like] _if_ , _if_ [they] would ever happen [to] [have a] drug problem , suppose _, that_ [they] could [feel] comfortable _coming_ [to] me [and] saying [, I got a] problem _you know ,_ 
+A|30| A: [so] there's , everybody [had] deer [coming] _out_ [their] ears . So , 
+B|31| B: [Yeah [.] Uh-huh .] 
+A|32| A: [Yeah ,] I've done [that] once or twice . [I] didn't look [at the] clock _when we_ started talking [, so] [I] guess [we] should talk [about] football [a] little bit longer [just [to] be] sure [we] [got] five minutes [in] . 
+B|33| B: _Oh_ yeah , that's great , too [. Uh-huh .] [Yeah ,] [we] did some remodeling [when we] bought [a] house , [we] built , put [a] kitchen [in] [and [,] um] _, that_ kind _of_ stuff [, and] painting [and] some wallpapering , that's fun . 
+A|34| A: [Yeah [,] I] think [it's] [really] important [to] [that [,] that] [if] [you _get] a_ pet [that] [they're] either spayed or neutered [so] [that , you know ,] we're [not] [just] going on [with] _this_ pet population [and] having [to ,] [just] [get] rid [of them] . 
+B|35| B: _Oh ,_ no , uh-huh [. They] always [had] [a] paddle [in] our school . 
+A|36| A: My husband has taken _us_ [to] work [with] him [, and] [we] still don't [know] what _he_ does . 
+B|37| B: _Well [,_ I] mean , were there witnesses ? 
+A|38| A: Yes [. Uh-huh .] 
+B|39| B: [I [,] you know ,] I'm tired [of] hearing [about] [the] polls [, you know [,] you know ,] [this] [is] how [he] stands such [and] such [a] day [the] way [they] break _it_ [out] , 
+A|40| A: [Well ,] [it] [was] good [to] talk [to] [you] . 
+B|41| B: [I] mean [, you know ,] every every one [of] [us] [have] two sides 
+A|42| A: [Oh [,] so [,] so] [you] go back [and] visit [with] her anyway . Would [you] [not] ? 
+B|43| B: [Well [,] uh ,] say , embezzlement , [right .] You [get a] guy down [the] street who comes up [, uh ,] carrying [a] 
+A|44| A: So [they're] happening during [the] hours [they're] gone [from] work . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Uh-huh . That's right .
+	Free: Pattern=Uh-huh ., Pattern=right .
+	Constrained: 
+Turn ID=1| B | B : Did you get to vote at the last one ?
+	Free: Pattern=you get, Pattern=at the, Pattern=Did you, Pattern=to
+	Constrained: Pattern=the, Pattern=get, Pattern=at, Pattern=you
+Turn ID=2| A | A : And where are they at ?
+	Free: Pattern=are, Pattern=at, Pattern=And, Pattern=they
+	Constrained: 
+Turn ID=3| B | B : uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=4| A | A : Uh-huh . Sure . Uh-huh .
+	Free: Pattern=. Uh-huh ., Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh .
+Turn ID=5| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=6| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=7| B | B : Uh , oh , golly , I really .
+	Free: Pattern=, I, Pattern=Uh ,, Pattern=really
+	Constrained: Pattern=I
+Turn ID=8| A | A : Okay ?
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : Yeah , in their own community , right . Yeah , that's true Most of them probably wouldn't do something like that . Although there are a lot of kids who would do it just to get away from their parents
+	Free: Pattern=their, Pattern=of, Pattern=of them, Pattern=it, Pattern=are, Pattern=from, Pattern=just to, Pattern=in, Pattern=right ., Pattern=like, Pattern=Yeah ,, Pattern=get, Pattern=that, Pattern=do, Pattern=a
+	Constrained: Pattern=just, Pattern=to, Pattern=them, Pattern=of
+Turn ID=10| A | A : The economy is lousy
+	Free: Pattern=is
+	Constrained: 
+Turn ID=11| B | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : Yeah , I know ,
+	Free: Pattern=Yeah ,, Pattern=, I, Pattern=know ,
+	Constrained: Pattern=know, Pattern=I
+Turn ID=13| B | B : We did , I did horseback riding , too , in fact , when my children were growing up , we always had horses and , uh , that was kind of for them , but they weren't as interested in it as we were , you know , so , uh , that was a real , I'd say probably for maybe fifteen years , we dabbled in that , you know , we always had horses around , and I really enjoyed that ,
+	Free: Pattern=of, Pattern=they, Pattern=it, Pattern=I, Pattern=, that, Pattern=in, Pattern=, uh ,, Pattern=, and, Pattern=was, Pattern=that ,, Pattern=them, Pattern=real, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=we, Pattern=really, Pattern=had, Pattern=and , uh ,, Pattern=, so ,, Pattern=when, Pattern=that , you know ,
+	Constrained: Pattern=and ,, Pattern=, you know ,, Pattern=and, Pattern=I, Pattern=so ,, Pattern=know, Pattern=, uh ,, Pattern=, so, Pattern=that ,, Pattern=that, Pattern=so, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=uh
+Turn ID=14| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=15| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=16| A | A : And myself , I guess .
+	Free: Pattern=, I, Pattern=And
+	Constrained: Pattern=I
+Turn ID=17| B | B : it's not step for step .
+	Free: Pattern=it's, Pattern=not
+	Constrained: 
+Turn ID=18| A | A : Uh-huh . That's right . Absolutely . They need , young families , whatever ,
+	Free: Pattern=. They, Pattern=Uh-huh ., Pattern=right .
+	Constrained: 
+Turn ID=19| B | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : Okay . Um , well , I like to cook , um
+	Free: Pattern=, um, Pattern=, I, Pattern=like, Pattern=to
+	Constrained: Pattern=I
+Turn ID=21| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=22| A | A : and , uh , really need a faster system . Uh , I got a new line that I , I sell metal fabricating equipment , and cat cam systems , and tooling , et cetera .
+	Free: Pattern=I ,, Pattern=Uh ,, Pattern=really, Pattern=and , uh ,, Pattern=that, Pattern=, I, Pattern=a, Pattern=, I got a, Pattern=, and
+	Constrained: Pattern=uh, Pattern=and ,, Pattern=and, Pattern=I, Pattern=, uh ,, Pattern=got, Pattern=, I, Pattern=a
+Turn ID=23| B | B : I just prefer to worry about today , probably not a practical attitude but that's who I am so ,
+	Free: Pattern=just, Pattern=a, Pattern=I, Pattern=about, Pattern=so ,, Pattern=to, Pattern=not
+	Constrained: Pattern=so
+Turn ID=24| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=25| B | B : Uh , some things they do , one of them is they're using corn in fuel .
+	Free: Pattern=they, Pattern=do, Pattern=of them, Pattern=in, Pattern=is, Pattern=Uh ,, Pattern=they're
+	Constrained: Pattern=them, Pattern=of
+Turn ID=26| A | A : There you go . Did you have a hard time getting used to , do you feel like you live in an isolated area or ,
+	Free: Pattern=Did you, Pattern=you, Pattern=have a, Pattern=do, Pattern=in, Pattern=to ,, Pattern=like, Pattern=feel
+	Constrained: Pattern=a, Pattern=you, Pattern=have, Pattern=to
+Turn ID=27| B | B : And , uh , yeah .
+	Free: Pattern=, uh ,, Pattern=And
+	Constrained: Pattern=uh
+Turn ID=28| A | A : Yeah , well , real interesting .
+	Free: Pattern=Yeah ,, Pattern=real
+	Constrained: 
+Turn ID=29| B | B : and you got to try to be with them as much as you can and to , you know , like , thing is , is , that , you know , like if , if they would ever happen to have a drug problem , suppose , that they could feel comfortable coming to me and saying , I got a problem you know ,
+	Free: Pattern=you know ,, Pattern=you, Pattern=, you know ,, Pattern=and, Pattern=if, Pattern=, that, Pattern=is, Pattern=to be, Pattern=coming, Pattern=they, Pattern=have a, Pattern=to ,, Pattern=like, Pattern=feel, Pattern=that , you know ,, Pattern=got, Pattern=, I got a, Pattern=to, Pattern=with, Pattern=them
+	Constrained: Pattern=you, Pattern=have, Pattern=I, Pattern=know, Pattern=got, Pattern=to, Pattern=that ,, Pattern=that, Pattern=know ,, Pattern=you know ,, Pattern=, you know ,, Pattern=, I, Pattern=a
+Turn ID=30| A | A : so there's , everybody had deer coming out their ears . So ,
+	Free: Pattern=their, Pattern=out, Pattern=coming, Pattern=had, Pattern=so
+	Constrained: 
+Turn ID=31| B | B : Yeah . Uh-huh .
+	Free: Pattern=. Uh-huh ., Pattern=Yeah .
+	Constrained: Pattern=Uh-huh .
+Turn ID=32| A | A : Yeah , I've done that once or twice . I didn't look at the clock when we started talking , so I guess we should talk about football a little bit longer just to be sure we got five minutes in .
+	Free: Pattern=a, Pattern=when we, Pattern=in, Pattern=we, Pattern=Yeah ,, Pattern=got, Pattern=, so, Pattern=to be, Pattern=that, Pattern=at the, Pattern=I, Pattern=about, Pattern=just to
+	Constrained: Pattern=just, Pattern=at, Pattern=we, Pattern=the, Pattern=when, Pattern=to, Pattern=so
+Turn ID=33| B | B : Oh yeah , that's great , too . Uh-huh . Yeah , we did some remodeling when we bought a house , we built , put a kitchen in and , um , that kind of stuff , and painting and some wallpapering , that's fun .
+	Free: Pattern=of, Pattern=and ,, Pattern=a, Pattern=when we, Pattern=and, Pattern=, that, Pattern=in, Pattern=we, Pattern=Yeah ,, Pattern=. Uh-huh ., Pattern=, um, Pattern=, and, Pattern=Oh
+	Constrained: Pattern=Uh-huh ., Pattern=and, Pattern=we, Pattern=when, Pattern=that
+Turn ID=34| A | A : Yeah , I think it's really important to that , that if you get a pet that they're either spayed or neutered so that , you know , we're not just going on with this pet population and having to , just get rid of them .
+	Free: Pattern=just, Pattern=get a, Pattern=, I, Pattern=of them, Pattern=and, Pattern=if, Pattern=you get, Pattern=Yeah ,, Pattern=that , you know ,, Pattern=to, Pattern=that ,, Pattern=so, Pattern=not, Pattern=, that, Pattern=they're, Pattern=to ,, Pattern=really, Pattern=get, Pattern=this, Pattern=with, Pattern=that, Pattern=it's
+	Constrained: Pattern=you, Pattern=I, Pattern=know, Pattern=to, Pattern=that ,, Pattern=get, Pattern=of, Pattern=know ,, Pattern=you know ,, Pattern=, you know ,, Pattern=a, Pattern=them, Pattern=that
+Turn ID=35| B | B : Oh , no , uh-huh . They always had a paddle in our school .
+	Free: Pattern=a, Pattern=in, Pattern=Oh ,, Pattern=. They, Pattern=had
+	Constrained: Pattern=Oh
+Turn ID=36| A | A : My husband has taken us to work with him , and we still don't know what he does .
+	Free: Pattern=know, Pattern=we, Pattern=with, Pattern=he, Pattern=us, Pattern=, and, Pattern=to
+	Constrained: Pattern=and
+Turn ID=37| B | B : Well , I mean , were there witnesses ?
+	Free: Pattern=, I, Pattern=Well ,
+	Constrained: Pattern=I
+Turn ID=38| A | A : Yes . Uh-huh .
+	Free: Pattern=. Uh-huh .
+	Constrained: Pattern=Uh-huh .
+Turn ID=39| B | B : I , you know , I'm tired of hearing about the polls , you know , you know , this is how he stands such and such a day the way they break it out ,
+	Free: Pattern=I ,, Pattern=of, Pattern=out, Pattern=they, Pattern=he, Pattern=about, Pattern=is, Pattern=the, Pattern=this, Pattern=, you know ,, Pattern=a, Pattern=it, Pattern=and
+	Constrained: Pattern=you, Pattern=I, Pattern=know, Pattern=know ,, Pattern=you know ,
+Turn ID=40| A | A : Well , it was good to talk to you .
+	Free: Pattern=you, Pattern=it, Pattern=Well ,, Pattern=to, Pattern=was
+	Constrained: 
+Turn ID=41| B | B : I mean , you know , every every one of us have two sides
+	Free: Pattern=of, Pattern=have, Pattern=, you know ,, Pattern=I, Pattern=us
+	Constrained: Pattern=you know ,, Pattern=know ,, Pattern=know, Pattern=you
+Turn ID=42| A | A : Oh , so , so you go back and visit with her anyway . Would you not ?
+	Free: Pattern=you, Pattern=and, Pattern=Oh ,, Pattern=, so ,, Pattern=, so, Pattern=with, Pattern=not
+	Constrained: Pattern=so ,, Pattern=, so, Pattern=so, Pattern=Oh
+Turn ID=43| B | B : Well , uh , say , embezzlement , right . You get a guy down the street who comes up , uh , carrying a
+	Free: Pattern=get a, Pattern=a, Pattern=Well ,, Pattern=right ., Pattern=, uh ,, Pattern=the
+	Constrained: Pattern=uh, Pattern=a, Pattern=get
+Turn ID=44| A | A : So they're happening during the hours they're gone from work .
+	Free: Pattern=from, Pattern=the, Pattern=they're
+	Constrained: 

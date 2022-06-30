@@ -1,0 +1,183 @@
+A|0| A: _Well , I_ _just_ , 
+B|1| M: It's _because_ _you_ _don't have a_ cart . 
+A|2| A: _Well ,_ then , most of them [don't have a] three car garage . 
+B|3| M: They're [just] _making_ [a] joke . 
+A|4| A: _so_ _I think_ , [you] _know_ , and , and , and _the_ kid's certainly _not_ [making] much money . 
+B|5| M: _Oh_ _yeah_ _. I_ [don't] [know] anything _about_ _that ._ 
+A|6| A: Yes . The victim is really , seems _like_ left out in _the_ cold , more or less , doesn't _it_ , 
+B|7| M: No . It's [a] pill . 
+A|8| A: _You_ [know] , it's across _the_ way , and it's landscaped and all [that] with azaleas , 
+B|9| M: [Well , I] hope [you] _get_ _to_ serve _on the_ jury . 
+A|10| A: Substitute . My , my _, yeah ,_ 
+B|11| M: He nods . 
+A|12| A: Uh-huh , uh-huh . 
+B|13| M: They're [not] . 
+A|14| A: _Oh ._ [Oh] , okay , _so ,_ 
+B|15| M: [I] [don't] [think] [so] . 
+A|16| A: but it's uncomfortable 
+B|17| M: hmm [, yeah ,] well _, uh ,_ you're [just] [not] [a] _good_ _, uh_ ... 
+A|18| A: Uh-huh . 
+B|19| M:  
+A|20| A: Yeah . 
+B|21| M: Not yet . 
+A|22| A: [I] _do_ belong [to] [a] , [a] large corporation or my , [that] where _I'm_ currently employed and there's [, uh ,] there's some different things [, uh ,] one [that] you've already mentioned is , is health insurance [. _I] think_ through our health insurance [that] _I can_ [get] better rates as [a] , through [a] group plan as opposed [to] _going_ out and getting health insurance [on] an individual basis [because] [I] had _to do_ [that] at one time when [I] wasn't employed with [a] large corporation 
+B|23| M: Do [you] [have a] problem ? 
+A|24| A: Yeah . 
+B|25| M: [I] [, I] don'know . 
+A|26| A: Adapt . 
+B|27| M: [I] [like] camping [. I] [don't] go [to] [the] campsite . 
+A|28| A: They _are_ [a] handful . 
+B|29| M: [Oh .] [Well] [I think] [I'm] [going] [to do] [it] anyway . 
+A|30| A: I've , I've heard some horrible , horrible stories [about] high , high school teachers 
+B|31| M: _I guess_ you're right . 
+A|32| A: Uh-huh . 
+B|33| M:  
+A|34| A: [I] teach [, uh ,] [like] _what_ is traditionally taught , [you] [know] , [you] look at [the] note [on the] page and [you] play what's [on the] piano , but _he_ can't learn [like] [that .] He's [a] delayed child . He's only [about] [, [I] guess] he's [about] two and [a] half in his real understanding of things . 
+B|35| M: It's [a] _good_ disc . 
+A|36| A: but at [the] same time [I think] [it] would [do] them [a] world of [good] . 
+B|37| M: Umm . That's [what] [I'm] trying [to] say . 
+A|38| A: [I] mean [, I] couldn't believe [that] she couldn't [think] of any place . They said , [the] , apparently [the] crime , is , [just] [, uh ,] 
+B|39| M: What did [he] [do] ? 
+A|40| A: The black bear . 
+B|41| M: [You] [are] . 
+A|42| A: and we've , we [have] been [to] Whistler in Canada , which is [just] [a] marvelous place , Whistler and Black Home is in Canada , and then we've gone [to] Sun Valley several times , that's [a] , [just] [a] great place . But no [not] in Colorado since [I] was in college , since [I] went [to] school , 
+B|43| M: [I'm] [so ,] you're , [I'm] [you] 
+B|44| M: [I] feel [like] [I can] go back [to] sleep . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Well , I just ,
+	Free: Pattern=Well , I, Pattern=just
+	Constrained: Pattern=, I, Pattern=Well ,, Pattern=Well, Pattern=I
+Turn ID=1| B | M : It's because you don't have a cart .
+	Free: Pattern=don't have a, Pattern=because, Pattern=you
+	Constrained: Pattern=have a, Pattern=a, Pattern=don't, Pattern=have
+Turn ID=2| A | A : Well , then , most of them don't have a three car garage .
+	Free: Pattern=don't have a, Pattern=Well ,
+	Constrained: Pattern=have, Pattern=have a, Pattern=a, Pattern=Well, Pattern=don't
+Turn ID=3| B | M : They're just making a joke .
+	Free: Pattern=making, Pattern=a, Pattern=just
+	Constrained: 
+Turn ID=4| A | A : so I think , you know , and , and , and the kid's certainly not making much money .
+	Free: Pattern=you, Pattern=making, Pattern=know, Pattern=I think, Pattern=the, Pattern=so, Pattern=not
+	Constrained: Pattern=I, Pattern=think
+Turn ID=5| B | M : Oh yeah . I don't know anything about that .
+	Free: Pattern=that ., Pattern=yeah, Pattern=. I, Pattern=about, Pattern=know, Pattern=don't, Pattern=Oh
+	Constrained: Pattern=I, Pattern=that
+Turn ID=6| A | A : Yes . The victim is really , seems like left out in the cold , more or less , doesn't it ,
+	Free: Pattern=it, Pattern=the, Pattern=like
+	Constrained: 
+Turn ID=7| B | M : No . It's a pill .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=8| A | A : You know , it's across the way , and it's landscaped and all that with azaleas ,
+	Free: Pattern=You, Pattern=know, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=9| B | M : Well , I hope you get to serve on the jury .
+	Free: Pattern=Well , I, Pattern=you, Pattern=on the, Pattern=to, Pattern=get
+	Constrained: Pattern=, I, Pattern=I, Pattern=Well ,, Pattern=Well, Pattern=on, Pattern=the
+Turn ID=10| A | A : Substitute . My , my , yeah ,
+	Free: Pattern=, yeah ,
+	Constrained: Pattern=yeah
+Turn ID=11| B | M : He nods .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : They're not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=14| A | A : Oh . Oh , okay , so ,
+	Free: Pattern=so ,, Pattern=Oh ., Pattern=Oh
+	Constrained: Pattern=so, Pattern=Oh
+Turn ID=15| B | M : I don't think so .
+	Free: Pattern=I, Pattern=don't, Pattern=so, Pattern=think
+	Constrained: 
+Turn ID=16| A | A : but it's uncomfortable
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : hmm , yeah , well , uh , you're just not a good , uh ...
+	Free: Pattern=good, Pattern=, uh, Pattern=just, Pattern=, yeah ,, Pattern=a, Pattern=, uh ,, Pattern=not
+	Constrained: Pattern=, uh, Pattern=yeah
+Turn ID=18| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : Not yet .
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : I do belong to a , a large corporation or my , that where I'm currently employed and there's , uh , there's some different things , uh , one that you've already mentioned is , is health insurance . I think through our health insurance that I can get better rates as a , through a group plan as opposed to going out and getting health insurance on an individual basis because I had to do that at one time when I wasn't employed with a large corporation
+	Free: Pattern=I'm, Pattern=going, Pattern=I, Pattern=. I, Pattern=on, Pattern=to, Pattern=get, Pattern=that, Pattern=I can, Pattern=to do, Pattern=do, Pattern=a, Pattern=because, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=, uh, Pattern=do, Pattern=I, Pattern=think, Pattern=to
+Turn ID=23| B | M : Do you have a problem ?
+	Free: Pattern=have a, Pattern=you
+	Constrained: Pattern=a, Pattern=have
+Turn ID=24| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I , I don'know .
+	Free: Pattern=, I, Pattern=I
+	Constrained: Pattern=I
+Turn ID=26| A | A : Adapt .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : I like camping . I don't go to the campsite .
+	Free: Pattern=I, Pattern=. I, Pattern=like, Pattern=the, Pattern=don't, Pattern=to
+	Constrained: Pattern=I
+Turn ID=28| A | A : They are a handful .
+	Free: Pattern=a, Pattern=are
+	Constrained: 
+Turn ID=29| B | M : Oh . Well I think I'm going to do it anyway .
+	Free: Pattern=I'm, Pattern=going, Pattern=to do, Pattern=Oh ., Pattern=it, Pattern=Well, Pattern=I think
+	Constrained: Pattern=do, Pattern=I, Pattern=think, Pattern=Oh, Pattern=to
+Turn ID=30| A | A : I've , I've heard some horrible , horrible stories about high , high school teachers
+	Free: Pattern=about
+	Constrained: 
+Turn ID=31| B | M : I guess you're right .
+	Free: Pattern=I guess
+	Constrained: Pattern=I
+Turn ID=32| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : I teach , uh , like what is traditionally taught , you know , you look at the note on the page and you play what's on the piano , but he can't learn like that . He's a delayed child . He's only about , I guess he's about two and a half in his real understanding of things .
+	Free: Pattern=that ., Pattern=you, Pattern=what, Pattern=I, Pattern=he, Pattern=about, Pattern=I guess, Pattern=know, Pattern=like, Pattern=, uh ,, Pattern=, I, Pattern=a, Pattern=on the, Pattern=the
+	Constrained: Pattern=, uh, Pattern=I, Pattern=that, Pattern=on, Pattern=the
+Turn ID=35| B | M : It's a good disc .
+	Free: Pattern=good, Pattern=a
+	Constrained: 
+Turn ID=36| A | A : but at the same time I think it would do them a world of good .
+	Free: Pattern=good, Pattern=it, Pattern=I think, Pattern=the, Pattern=do, Pattern=a
+	Constrained: Pattern=I, Pattern=think
+Turn ID=37| B | M : Umm . That's what I'm trying to say .
+	Free: Pattern=to, Pattern=what, Pattern=I'm
+	Constrained: 
+Turn ID=38| A | A : I mean , I couldn't believe that she couldn't think of any place . They said , the , apparently the crime , is , just , uh ,
+	Free: Pattern=just, Pattern=, I, Pattern=I, Pattern=think, Pattern=, uh ,, Pattern=the, Pattern=that
+	Constrained: Pattern=, uh, Pattern=I
+Turn ID=39| B | M : What did he do ?
+	Free: Pattern=do, Pattern=he
+	Constrained: 
+Turn ID=40| A | A : The black bear .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : You are .
+	Free: Pattern=You, Pattern=are
+	Constrained: 
+Turn ID=42| A | A : and we've , we have been to Whistler in Canada , which is just a marvelous place , Whistler and Black Home is in Canada , and then we've gone to Sun Valley several times , that's a , just a great place . But no not in Colorado since I was in college , since I went to school ,
+	Free: Pattern=a, Pattern=I, Pattern=to, Pattern=not, Pattern=just, Pattern=have
+	Constrained: 
+Turn ID=43| B | M : I'm so , you're , I'm you
+	Free: Pattern=so ,, Pattern=you, Pattern=I'm
+	Constrained: Pattern=so
+Turn ID=44| B | M : I feel like I can go back to sleep .
+	Free: Pattern=I can, Pattern=I, Pattern=to, Pattern=like
+	Constrained: Pattern=I

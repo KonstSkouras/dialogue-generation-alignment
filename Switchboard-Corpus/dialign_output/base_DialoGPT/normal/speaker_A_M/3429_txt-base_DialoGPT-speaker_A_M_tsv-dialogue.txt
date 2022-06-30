@@ -1,0 +1,239 @@
+B|0| M: _That's_ because I'm old 
+A|1| A: Yeah , _right ._ _Well_ , _I_ can remember _are_ from , from my childhood were _the_ disco days and maybe that's changed _a_ lot _. Uh_ _the_ way , _the_ way people dress 
+B|2| M: Ah , I'm sure _you're right ._ 
+A|3| A: and _, uh_ . 
+B|4| M: _It's_ not [a] bad thing . Because _, uh ,_ because _of_ [, uh] ... 
+A|5| A: _More_ lax ? 
+B|6| M: [More] relaxed . 
+A|7| A: Uh-huh . 
+B|8| M: What do _you_ _think_ _of the_ new policy ? 
+A|9| A: Maybe [a] people _are_ [a] little _more_ open-minded _than_ maybe they used to be . 
+B|10| M: Hm ? [I] don't understand . 
+A|11| A: Uh-huh . 
+B|12| M: Because _they're_ still alive . 
+A|13| A: _Right _._ Right ._ Uh-huh . Especially with like [a] lot [of the] _different_ organizations now like _, you know ,_ Pro-Life and , and [uh ,] Choice in , in [the] special interest groups maybe um , like amnesty . 
+B|14| M: People [are] [more] _open_ minded [than] ever [. Right [.] Uh] [. Right .] 
+A|15| A: [Uh] , yeah , maybe people [are] [a] little , [a] little [more] [, uh ,] free to express their opinions , socially free . 
+B|16| M: What _is_ _it_ ? 
+A|17| A: Oh , yeah [. Right .] 
+B|18| M: You're [right .] 
+A|19| A: Uh-huh . Uh-huh . Uh-huh [. Right .] 
+B|20| M: Are [you] serious ? 
+A|21| A: [Right .] Just wasn't socially acceptable . 
+B|22| M: What ? [I] don't understand [the] point [of] your comment . 
+A|23| A: Yeah [. Uh] , maybe , maybe too [a] big social change that's , that's maybe for [the] worst [is] [, uh ,] [is] , [is] how , um , [the] people's [, uh ,] views on , on relationships has changed _, you know ,_ and now we have , now we have several _, you know ,_ we have to worry _about_ AIDS and we have to worry _about_ [, uh ,] maybe people [are] becoming [more] aware , [more] , [more] afraid [of] relationships . 
+B|24| M:  ... 
+A|25| A: Uh-huh . 
+B|26| M: Nope , why nothink 
+A|27| A: [right .] Yeah . 
+B|28| M: [I] was never _, you know , you_ do , she was allright ? 
+A|29| A: Yeah . 
+B|30| M: yes . yes . no . no 
+A|31| A: Yeah . 
+B|32| M: No . No . Yes . No . 
+A|33| A: Uh-huh . 
+B|34| M: [Well] [you] [are] ... 
+A|35| A: Uh-huh . Yeah [. Right .] It used to be that we were , that we were trying to protect morality . Now _it's_ we're protecting our lives . [It's] [a] _it's a_ much _different_ , 
+B|36| M: [It's] [the] same as [the] rest [of the] world . 
+A|37| A: we have [, you know , you] can't just , just hope for abstinence . 
+B|38| M: Uuhuhuh . _That's_ [a] bit [different] . 
+A|39| A: Yeah . 
+B|40| M: _You_ don't _think_ ? 
+A|41| A: Yeah . Uh-huh . Uh-huh . 
+B|42| M: _I think_ [it's a] bit late , but _what_ [about] [you] ? 
+A|43| A: Uh-huh . Uh-huh . 
+B|44| M: [Uh] [uh] 
+A|45| A: Uh-huh . 
+B|46| M: What [about] [the] boys ? 
+A|47| A: [That's] [right .] 
+B|48| M: They stare _at_ [you] 
+A|49| A: Yeah . 
+B|50| M: They're all [the] same . 
+A|51| A: [Right .] 
+B|52| M: [I] [know] . 
+A|53| A: Uh-huh . 
+B|54| M: She nods 
+A|55| A: Uh-huh [. Right] , [right .] Yeah , [I] , [I] , [I] imagine [you're right .] [I] , [I] teach swim lessons [a] lot , and , and to see [what] , see [what] kids talk [about] when [, uh [,] you know ,] [they're] , [they're] [open] [about] , well [, you know ,] kids [are] [a] lot [more] educated now [than] [I think] that , that , like we were [, uh ,] [at] that age um , [about] [a] lot [of] things . 
+B|56| M: [I] 
+A|57| A: [You] [know ,] besides [what] , besides [what] they learn [, uh ,] from , from our social environment [is] [, uh ,] their education [is] just amazing . Kids [are] , kids [are] learning [, uh [,] you know ,] their math [is] just , every year [, uh ,] algebra goes down [a] grade [, you know ,] and , and [, uh ,] students learn [it] earlier . 
+B|58| M: N ? 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : That's because I'm old
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=1| A | A : Yeah , right . Well , I can remember are from , from my childhood were the disco days and maybe that's changed a lot . Uh the way , the way people dress
+	Free: Pattern=a, Pattern=. Uh, Pattern=right ., Pattern=Well, Pattern=the, Pattern=are, Pattern=I
+	Constrained: Pattern=Uh
+Turn ID=2| B | M : Ah , I'm sure you're right .
+	Free: Pattern=you're right .
+	Constrained: Pattern=right .
+Turn ID=3| A | A : and , uh .
+	Free: Pattern=, uh
+	Constrained: Pattern=uh
+Turn ID=4| B | M : It's not a bad thing . Because , uh , because of , uh ...
+	Free: Pattern=of, Pattern=, uh, Pattern=a, Pattern=, uh ,, Pattern=It's
+	Constrained: Pattern=uh ,, Pattern=, uh, Pattern=uh
+Turn ID=5| A | A : More lax ?
+	Free: Pattern=More
+	Constrained: 
+Turn ID=6| B | M : More relaxed .
+	Free: Pattern=More
+	Constrained: 
+Turn ID=7| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : What do you think of the new policy ?
+	Free: Pattern=of the, Pattern=you, Pattern=think
+	Constrained: Pattern=of, Pattern=the
+Turn ID=9| A | A : Maybe a people are a little more open-minded than maybe they used to be .
+	Free: Pattern=than, Pattern=a, Pattern=are, Pattern=more
+	Constrained: 
+Turn ID=10| B | M : Hm ? I don't understand .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=11| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : Because they're still alive .
+	Free: Pattern=they're
+	Constrained: 
+Turn ID=13| A | A : Right . Right . Uh-huh . Especially with like a lot of the different organizations now like , you know , Pro-Life and , and uh , Choice in , in the special interest groups maybe um , like amnesty .
+	Free: Pattern=different, Pattern=. Right ., Pattern=Right ., Pattern=of the, Pattern=, you know ,, Pattern=a, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=know, Pattern=. Right, Pattern=the, Pattern=Right ., Pattern=of, Pattern=know ,, Pattern=you, Pattern=uh
+Turn ID=14| B | M : People are more open minded than ever . Right . Uh . Right .
+	Free: Pattern=more, Pattern=open, Pattern=. Uh, Pattern=are, Pattern=than, Pattern=. Right .
+	Constrained: Pattern=Right ., Pattern=. Right, Pattern=Uh
+Turn ID=15| A | A : Uh , yeah , maybe people are a little , a little more , uh , free to express their opinions , socially free .
+	Free: Pattern=more, Pattern=a, Pattern=are, Pattern=, uh ,, Pattern=Uh
+	Constrained: Pattern=uh ,, Pattern=, uh, Pattern=uh
+Turn ID=16| B | M : What is it ?
+	Free: Pattern=it, Pattern=is
+	Constrained: 
+Turn ID=17| A | A : Oh , yeah . Right .
+	Free: Pattern=. Right .
+	Constrained: Pattern=Right ., Pattern=. Right
+Turn ID=18| B | M : You're right .
+	Free: Pattern=right .
+	Constrained: 
+Turn ID=19| A | A : Uh-huh . Uh-huh . Uh-huh . Right .
+	Free: Pattern=. Right .
+	Constrained: Pattern=Right ., Pattern=. Right
+Turn ID=20| B | M : Are you serious ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=21| A | A : Right . Just wasn't socially acceptable .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=22| B | M : What ? I don't understand the point of your comment .
+	Free: Pattern=of, Pattern=the, Pattern=I
+	Constrained: 
+Turn ID=23| A | A : Yeah . Uh , maybe , maybe too a big social change that's , that's maybe for the worst is , uh , is , is how , um , the people's , uh , views on , on relationships has changed , you know , and now we have , now we have several , you know , we have to worry about AIDS and we have to worry about , uh , maybe people are becoming more aware , more , more afraid of relationships .
+	Free: Pattern=. Uh, Pattern=are, Pattern=about, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=of, Pattern=more, Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=know ,, Pattern=know, Pattern=uh ,, Pattern=Uh, Pattern=you, Pattern=uh, Pattern=, uh
+Turn ID=24| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=26| B | M : Nope , why nothink
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : right . Yeah .
+	Free: Pattern=right .
+	Constrained: 
+Turn ID=28| B | M : I was never , you know , you do , she was allright ?
+	Free: Pattern=, you know , you, Pattern=I
+	Constrained: Pattern=know ,, Pattern=, you know ,, Pattern=you, Pattern=know
+Turn ID=29| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : yes . yes . no . no
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : No . No . Yes . No .
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : Well you are ...
+	Free: Pattern=you, Pattern=are, Pattern=Well
+	Constrained: 
+Turn ID=35| A | A : Uh-huh . Yeah . Right . It used to be that we were , that we were trying to protect morality . Now it's we're protecting our lives . It's a it's a much different ,
+	Free: Pattern=different, Pattern=it's a, Pattern=a, Pattern=. Right ., Pattern=It's, Pattern=it's
+	Constrained: Pattern=it's, Pattern=a, Pattern=Right ., Pattern=. Right
+Turn ID=36| B | M : It's the same as the rest of the world .
+	Free: Pattern=of the, Pattern=the, Pattern=It's
+	Constrained: Pattern=of, Pattern=the
+Turn ID=37| A | A : we have , you know , you can't just , just hope for abstinence .
+	Free: Pattern=, you know , you
+	Constrained: Pattern=know ,, Pattern=, you know ,, Pattern=you, Pattern=know
+Turn ID=38| B | M : Uuhuhuh . That's a bit different .
+	Free: Pattern=a, Pattern=That's, Pattern=different
+	Constrained: 
+Turn ID=39| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : You don't think ?
+	Free: Pattern=You, Pattern=think
+	Constrained: 
+Turn ID=41| A | A : Yeah . Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : I think it's a bit late , but what about you ?
+	Free: Pattern=it's a, Pattern=you, Pattern=what, Pattern=about, Pattern=I think
+	Constrained: Pattern=a, Pattern=think, Pattern=it's, Pattern=I
+Turn ID=43| A | A : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : Uh uh
+	Free: Pattern=Uh, Pattern=uh
+	Constrained: 
+Turn ID=45| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=46| B | M : What about the boys ?
+	Free: Pattern=about, Pattern=the
+	Constrained: 
+Turn ID=47| A | A : That's right .
+	Free: Pattern=right ., Pattern=That's
+	Constrained: 
+Turn ID=48| B | M : They stare at you
+	Free: Pattern=at, Pattern=you
+	Constrained: 
+Turn ID=49| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=50| B | M : They're all the same .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=51| A | A : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=52| B | M : I know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=53| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=54| B | M : She nods
+	Free: 
+	Constrained: 
+Turn ID=55| A | A : Uh-huh . Right , right . Yeah , I , I , I imagine you're right . I , I teach swim lessons a lot , and , and to see what , see what kids talk about when , uh , you know , they're , they're open about , well , you know , kids are a lot more educated now than I think that , that , like we were , uh , at that age um , about a lot of things .
+	Free: Pattern=what, Pattern=open, Pattern=at, Pattern=than, Pattern=right ., Pattern=you're right ., Pattern=of, Pattern=more, Pattern=, you know ,, Pattern=a, Pattern=are, Pattern=I, Pattern=about, Pattern=they're, Pattern=. Right, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=know ,, Pattern=I, Pattern=think, Pattern=uh ,, Pattern=you, Pattern=uh, Pattern=, uh, Pattern=know, Pattern=right .
+Turn ID=56| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=57| A | A : You know , besides what , besides what they learn , uh , from , from our social environment is , uh , their education is just amazing . Kids are , kids are learning , uh , you know , their math is just , every year , uh , algebra goes down a grade , you know , and , and , uh , students learn it earlier .
+	Free: Pattern=know ,, Pattern=what, Pattern=it, Pattern=are, Pattern=is, Pattern=, you know ,, Pattern=a, Pattern=You, Pattern=, uh ,
+	Constrained: Pattern=know ,, Pattern=know, Pattern=uh ,, Pattern=you, Pattern=uh, Pattern=, uh
+Turn ID=58| B | M : N ?
+	Free: 
+	Constrained: 

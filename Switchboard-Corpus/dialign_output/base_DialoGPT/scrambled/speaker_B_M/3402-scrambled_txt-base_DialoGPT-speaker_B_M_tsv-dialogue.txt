@@ -1,0 +1,143 @@
+A|0| B: _have_ _you_ noticed _that_ on _the_ bottom _of_ plastic goods , they _have_ this little number now _that_ tells what _kind of_ plastic _it_ is ? 
+B|1| M: _I don't_ _know ,_ _we_ _don't have_ _to_ worry _about_ _them_ 
+A|2| B: _Well ,_ _you_ [know ,] but _you_ made _the_ comment earlier , why would someone be interested _in_ children . [I] _mean_ _it_ has been _a_ real , uh , there [have] been some good entrepreneurial type experiences . And [I] think _, I_ think they [have] captured _a_ certain market . Again _the_ , but then there _are_ baby-sitting groups . As _a_ pediatrician , one _of_ _the_ things we've been real concerned [about] is _the_ infections . 
+B|3| M: _You_ [mean] _to_ tell me [that] [you] [have] ? 
+A|4| B: Really . 
+B|5| M: [I] [know] . She works _for_ [a] company [that] makes clothing . 
+A|6| B: And , uh _, I_ _, I_ think _it's_ coming up here soon . 
+B|7| M: I'll keep an eye out _for_ _them_ . 
+A|8| B: That's true . 
+B|9| M: You're just asking _for_ [it] . 
+A|10| B: _yeah_ . So what do [you] do up there ? 
+B|11| M: I've never heard [of] [that] . 
+A|12| B: Huh . 
+B|13| M: [you] can use any [kind of] tea 
+A|14| B: It would be good [I] think , 
+B|15| M: _I don't_ [know ,] [are] [you] ? 
+A|16| B: Chapel Hill is [kind of] [a] , [a] ritzy city _or_ whatever . [I] [mean] _, it's_ [kind of] _, I'm_ _, I'm_ sure there is problems with [it] , but [it] has [a] pretty low crime rate . Compare , compared [to] , [to] , Durham has probably got _the_ worst . They've had like forty-eight murders since _the_ beginning [of] _the_ year . 
+B|17| M: _You could_ use [a] yard sale [or] something . 
+A|18| B: Uh-huh , oh , _yeah _,_ I_ _was_ amazed [I] _was_ able [to] get this four eighty-six [for] six hundred even with [a] trade _in_ , [you] [know _,] it's_ like , wow 
+B|19| M: _Well , I'm_ [in] Galvesto . 
+A|20| B: _Yeah ._ Wasn't [that] what part [of] _the_ lottery is _going_ [to] go [for] , if [we] approve [it] ? 
+B|21| M: Oh [yeah [,] it's] cold out [, I'm] trying [to] build [a] snowman 
+A|22| B: And [it's] , [Well ,] they certainly [are] living off our at our expense . 
+B|23| M: [I'm] not [going] . 
+A|24| B: But , uh , let's see , [that] would make [them] , grandfather , great grandfather , great great grandfather , okay , _so_ [it] would be _the_ second great grandchild . And _so_ they , 
+B|25| M: _I don't have_ anything [to] lead [you] . 
+A|26| B: Yellow peppers , huh . 
+B|27| M: [I'm] [so] tired . 
+A|28| B: So you've been there longer . We built this one [about] , uh [, it's] been let's see [it's] been six years six and [a] half years ago , 
+B|29| M: [Yeah .] They [have] [a] nice house . 
+A|30| B: Uh-huh . [Well , I'm] [a] little different than other people because [I don't have] benefits with my job . 
+B|31| M: 100 . 
+A|32| B: [You could] be responsible [for] [that] yourself . 
+B|33| M: [Well [,] I] guess [it] [was] [the] first time [in] [the] world . 
+A|34| B: [Yeah .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : have you noticed that on the bottom of plastic goods , they have this little number now that tells what kind of plastic it is ?
+	Free: Pattern=of, Pattern=kind of, Pattern=you, Pattern=have, Pattern=it, Pattern=the, Pattern=that
+	Constrained: Pattern=of
+Turn ID=1| B | M : I don't know , we don't have to worry about them
+	Free: Pattern=know ,, Pattern=to, Pattern=them, Pattern=I don't, Pattern=about, Pattern=we, Pattern=don't have
+	Constrained: Pattern=I, Pattern=know, Pattern=have
+Turn ID=2| A | B : Well , you know , but you made the comment earlier , why would someone be interested in children . I mean it has been a real , uh , there have been some good entrepreneurial type experiences . And I think , I think they have captured a certain market . Again the , but then there are baby-sitting groups . As a pediatrician , one of the things we've been real concerned about is the infections .
+	Free: Pattern=you, Pattern=it, Pattern=about, Pattern=the, Pattern=of, Pattern=know ,, Pattern=have, Pattern=mean, Pattern=, I, Pattern=a, Pattern=are, Pattern=I, Pattern=Well ,, Pattern=in
+	Constrained: Pattern=I, Pattern=know
+Turn ID=3| B | M : You mean to tell me that you have ?
+	Free: Pattern=you, Pattern=You, Pattern=to, Pattern=that, Pattern=have, Pattern=mean
+	Constrained: 
+Turn ID=4| A | B : Really .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : I know . She works for a company that makes clothing .
+	Free: Pattern=a, Pattern=for, Pattern=I, Pattern=know, Pattern=that
+	Constrained: 
+Turn ID=6| A | B : And , uh , I , I think it's coming up here soon .
+	Free: Pattern=, I, Pattern=it's
+	Constrained: Pattern=I
+Turn ID=7| B | M : I'll keep an eye out for them .
+	Free: Pattern=for, Pattern=them
+	Constrained: 
+Turn ID=8| A | B : That's true .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : You're just asking for it .
+	Free: Pattern=for, Pattern=it
+	Constrained: 
+Turn ID=10| A | B : yeah . So what do you do up there ?
+	Free: Pattern=yeah, Pattern=you
+	Constrained: 
+Turn ID=11| B | M : I've never heard of that .
+	Free: Pattern=that, Pattern=of
+	Constrained: 
+Turn ID=12| A | B : Huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : you can use any kind of tea
+	Free: Pattern=kind of, Pattern=you
+	Constrained: Pattern=of
+Turn ID=14| A | B : It would be good I think ,
+	Free: Pattern=I
+	Constrained: 
+Turn ID=15| B | M : I don't know , are you ?
+	Free: Pattern=know ,, Pattern=I don't, Pattern=are, Pattern=you
+	Constrained: Pattern=I, Pattern=know
+Turn ID=16| A | B : Chapel Hill is kind of a , a ritzy city or whatever . I mean , it's kind of , I'm , I'm sure there is problems with it , but it has a pretty low crime rate . Compare , compared to , to , Durham has probably got the worst . They've had like forty-eight murders since the beginning of the year .
+	Free: Pattern=of, Pattern=kind of, Pattern=mean, Pattern=a, Pattern=it, Pattern=I, Pattern=, it's, Pattern=or, Pattern=the, Pattern=to, Pattern=, I'm
+	Constrained: Pattern=it's, Pattern=of, Pattern=I'm
+Turn ID=17| B | M : You could use a yard sale or something .
+	Free: Pattern=You could, Pattern=a, Pattern=or
+	Constrained: Pattern=You
+Turn ID=18| A | B : Uh-huh , oh , yeah , I was amazed I was able to get this four eighty-six for six hundred even with a trade in , you know , it's like , wow
+	Free: Pattern=know ,, Pattern=you, Pattern=yeah ,, Pattern=for, Pattern=I, Pattern=, it's, Pattern=in, Pattern=to, Pattern=was, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=it's, Pattern=know, Pattern=yeah
+Turn ID=19| B | M : Well , I'm in Galvesto .
+	Free: Pattern=Well , I'm, Pattern=in
+	Constrained: Pattern=, I'm, Pattern=Well ,, Pattern=I'm
+Turn ID=20| A | B : Yeah . Wasn't that what part of the lottery is going to go for , if we approve it ?
+	Free: Pattern=Yeah ., Pattern=of, Pattern=going, Pattern=for, Pattern=it, Pattern=we, Pattern=the, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=21| B | M : Oh yeah , it's cold out , I'm trying to build a snowman
+	Free: Pattern=yeah ,, Pattern=a, Pattern=, it's, Pattern=to, Pattern=, I'm
+	Constrained: Pattern=it's, Pattern=yeah, Pattern=I'm
+Turn ID=22| A | B : And it's , Well , they certainly are living off our at our expense .
+	Free: Pattern=Well ,, Pattern=it's, Pattern=are
+	Constrained: 
+Turn ID=23| B | M : I'm not going .
+	Free: Pattern=going, Pattern=I'm
+	Constrained: 
+Turn ID=24| A | B : But , uh , let's see , that would make them , grandfather , great grandfather , great great grandfather , okay , so it would be the second great grandchild . And so they ,
+	Free: Pattern=it, Pattern=the, Pattern=so, Pattern=them, Pattern=that
+	Constrained: 
+Turn ID=25| B | M : I don't have anything to lead you .
+	Free: Pattern=I don't have, Pattern=you, Pattern=to
+	Constrained: Pattern=have, Pattern=I don't, Pattern=don't have, Pattern=I
+Turn ID=26| A | B : Yellow peppers , huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : I'm so tired .
+	Free: Pattern=so, Pattern=I'm
+	Constrained: 
+Turn ID=28| A | B : So you've been there longer . We built this one about , uh , it's been let's see it's been six years six and a half years ago ,
+	Free: Pattern=, it's, Pattern=it's, Pattern=a, Pattern=about
+	Constrained: Pattern=it's
+Turn ID=29| B | M : Yeah . They have a nice house .
+	Free: Pattern=Yeah ., Pattern=a, Pattern=have
+	Constrained: 
+Turn ID=30| A | B : Uh-huh . Well , I'm a little different than other people because I don't have benefits with my job .
+	Free: Pattern=I don't have, Pattern=Well , I'm, Pattern=a
+	Constrained: Pattern=I'm, Pattern=have, Pattern=I, Pattern=I don't, Pattern=Well ,, Pattern=don't have, Pattern=, I'm
+Turn ID=31| B | M : 100 .
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : You could be responsible for that yourself .
+	Free: Pattern=You could, Pattern=for, Pattern=that
+	Constrained: Pattern=You
+Turn ID=33| B | M : Well , I guess it was the first time in the world .
+	Free: Pattern=, I, Pattern=it, Pattern=the, Pattern=was, Pattern=Well ,, Pattern=in
+	Constrained: Pattern=I
+Turn ID=34| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 

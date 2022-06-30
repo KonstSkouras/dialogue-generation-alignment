@@ -1,0 +1,183 @@
+A|0| B: And _one_ _of_ _the_ men got _, uh _,_ I think_ _it_ _was_ seventeen years and _the_ other _one_ _was_ _in_ for _, uh ,_ life imprisonment . 
+B|1| M: Ohh . Uh . 
+A|2| B: And , and then when _we_ _go_ _to_ sleep at night , _you know ,_ it's _like_ my husband and _I_ _have to_ try _to_ get any space _on the_ bed _because_ _we_ _have all_ four _of_ them up there _with_ us . 
+B|3| M: _They_ _don't [have_ _to] be_ . 
+A|4| B: At least they're coming around . 
+B|5| M: I'm still waiting [on the] benefits package . 
+A|6| B: Uh-huh . Uh-huh . Uh-huh . 
+B|7| M: _We_ [like] , eat [, uh ,] food . 
+A|8| B: _Yeah ._ 
+B|9| M: You [know ,] _if I_ _had_ [to] choose between [the] two , I'd [go] [with] [the] latter . 
+A|10| B: OF THE VANITY , 
+B|11| M: Or dye tribe . 
+A|12| B: And yeah , and it's , it's really _not ,_ _you know ,_ _not_ that far . 
+B|13| M: Right . 
+A|14| B: Never . 
+B|15| M: _Well _,_ we_ _are_ [not] [in] Pennsylvania . 
+A|16| B: Good . There's nothing wrong [with] that . Actually _I think_ probably [if I] were going [to] get [if I] were going [to be] practical , which doesn't _mean_ [I] would [be] _, I_ would prefer white . Because , simply _because_ it's more visible at night . 
+B|17| M: I'd . The US _is_ _a_ _country ._ 
+A|18| B: And , [to] me _that's_ [uh] [uh] black eye [to] every man that ever [uh] carried [a] weapon or killed for his [country .] 
+B|19| M: _I don't_ [think] _so ._ 
+A|20| B: but it's _not ,_ 
+B|21| M: I'm [not ,] I'm [a] private school teacher . 
+A|22| B: Oh , boy 
+B|23| M: [I think] [of] course . 
+A|24| B: Oh , absolutely . _Yeah ,_ 
+B|25| M: Why , [because] [you know ,] _they_ [have all] [of] their stuff [of] their selves . 
+A|26| B: [We] always [had] gardens when [I] _was_ [, uh ,] living [in] Chicago . In fact , my mother once tore up our entire _back_ yard and redid _it ._ I'll never forget . Got my stepfather [to] put [in] [, uh ,] [a] waterfall and [a] little pond [in] _one_ corner . [I] _mean ,_ that _was_ [like] [the] most energy invested [in] anything _in the_ whole time [I] ever knew him [They] remodeled [the] entire _back_ yard . Then [they] sold _the house_ and got divorced , [so] [I don't] [know] what that says about _it_ [all] 
+B|27| M: What do [you] [mean] ? 
+A|28| B: [uh ,] _it_ use [to be] use [to be] [a] _, uh [, uh_ ,] [have] [a] lot [of] heavy industry , 
+B|29| M: [Yeah .] It's [like] he's gonna [be] [back] . 
+A|30| B: [Well _,] I_ lived across [the] street almost from Canada 
+B|31| M: [Yeah ,] [that's] how [I] read [it .] 
+A|32| B: That's _, I_ agree [with] that completely . [I] [know] [we] [don't have] enough prisons , but there has got [to be] some kind [of] punishment , For these _people_ . 
+B|33| M: No [, I think] you're [the] only [one] . 
+A|34| B: And [they] haven't been doing too hot , [so .] 
+B|35| M: Yea , I'm [a] nurse . 
+A|36| B: and [, uh] and that would make any parent feel good and bad at [the] same time , [you know ,] 
+B|37| M: The young [people] _are_ robbing 
+A|38| B: But , 
+B|39| M: I'm pretty sure [the house] [was] _made_ [in the] 70's . 
+A|40| B: And [so] [I] [go] , these [are] [the] kind [of] [people] [I] would [like] [to] get out [of] here and get out [of] circulation and say [I don't] [, we] [don't] accept your kind [in] our society . 
+B|41| M: _I [,_ uh , uh] . now [, uh ,] uuuuuuuuugghhhhhh 
+A|42| B: [I [,] [I] ,] everything [is] [so] automated [, uh ,] and things can [be] [made] without [, I think] [a] human hand ever touching [it] , [you know] an awful lot [of] things , 
+B|43| M:  
+B|44| M: You [mean ,] [like] , [the] children ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : And one of the men got , uh , I think it was seventeen years and the other one was in for , uh , life imprisonment .
+	Free: Pattern=of, Pattern=it, Pattern=one, Pattern=in, Pattern=the, Pattern=was, Pattern=, uh ,, Pattern=, I think
+	Constrained: Pattern=, I, Pattern=I, Pattern=think, Pattern=I think, Pattern=uh ,, Pattern=uh, Pattern=, uh
+Turn ID=1| B | M : Ohh . Uh .
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : And , and then when we go to sleep at night , you know , it's like my husband and I have to try to get any space on the bed because we have all four of them up there with us .
+	Free: Pattern=go, Pattern=because, Pattern=I, Pattern=on the, Pattern=have to, Pattern=to, Pattern=with, Pattern=have all, Pattern=of, Pattern=you know ,, Pattern=we, Pattern=like
+	Constrained: Pattern=know ,, Pattern=have, Pattern=know, Pattern=to, Pattern=you, Pattern=you know, Pattern=the, Pattern=all
+Turn ID=3| B | M : They don't have to be .
+	Free: Pattern=to be, Pattern=have to, Pattern=don't have, Pattern=They
+	Constrained: Pattern=be, Pattern=to, Pattern=don't, Pattern=have
+Turn ID=4| A | B : At least they're coming around .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : I'm still waiting on the benefits package .
+	Free: Pattern=on the
+	Constrained: Pattern=the
+Turn ID=6| A | B : Uh-huh . Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : We like , eat , uh , food .
+	Free: Pattern=, uh ,, Pattern=We, Pattern=like
+	Constrained: Pattern=uh ,, Pattern=, uh, Pattern=uh
+Turn ID=8| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=9| B | M : You know , if I had to choose between the two , I'd go with the latter .
+	Free: Pattern=know ,, Pattern=go, Pattern=if I, Pattern=had, Pattern=the, Pattern=to, Pattern=with
+	Constrained: Pattern=I, Pattern=know
+Turn ID=10| A | B : OF THE VANITY ,
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : Or dye tribe .
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : And yeah , and it's , it's really not , you know , not that far .
+	Free: Pattern=you know ,, Pattern=not ,, Pattern=not
+	Constrained: Pattern=know ,, Pattern=know, Pattern=not, Pattern=you, Pattern=you know
+Turn ID=13| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Never .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : Well , we are not in Pennsylvania .
+	Free: Pattern=, we, Pattern=are, Pattern=not, Pattern=Well ,, Pattern=in
+	Constrained: Pattern=we
+Turn ID=16| A | B : Good . There's nothing wrong with that . Actually I think probably if I were going to get if I were going to be practical , which doesn't mean I would be , I would prefer white . Because , simply because it's more visible at night .
+	Free: Pattern=mean, Pattern=I, Pattern=if I, Pattern=to, Pattern=to be, Pattern=with, Pattern=, I, Pattern=because, Pattern=I think, Pattern=be
+	Constrained: Pattern=be, Pattern=to, Pattern=I, Pattern=think
+Turn ID=17| B | M : I'd . The US is a country .
+	Free: Pattern=country ., Pattern=a, Pattern=is
+	Constrained: 
+Turn ID=18| A | B : And , to me that's uh uh black eye to every man that ever uh carried a weapon or killed for his country .
+	Free: Pattern=uh, Pattern=a, Pattern=country ., Pattern=that's, Pattern=to
+	Constrained: 
+Turn ID=19| B | M : I don't think so .
+	Free: Pattern=I don't, Pattern=so ., Pattern=think
+	Constrained: Pattern=don't, Pattern=I, Pattern=so
+Turn ID=20| A | B : but it's not ,
+	Free: Pattern=not ,
+	Constrained: Pattern=not
+Turn ID=21| B | M : I'm not , I'm a private school teacher .
+	Free: Pattern=not ,, Pattern=a
+	Constrained: Pattern=not
+Turn ID=22| A | B : Oh , boy
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : I think of course .
+	Free: Pattern=I think, Pattern=of
+	Constrained: Pattern=I, Pattern=think
+Turn ID=24| A | B : Oh , absolutely . Yeah ,
+	Free: Pattern=Yeah ,
+	Constrained: 
+Turn ID=25| B | M : Why , because you know , they have all of their stuff of their selves .
+	Free: Pattern=they, Pattern=because, Pattern=have all, Pattern=of, Pattern=you know ,
+	Constrained: Pattern=know ,, Pattern=have, Pattern=know, Pattern=all, Pattern=you, Pattern=you know
+Turn ID=26| A | B : We always had gardens when I was , uh , living in Chicago . In fact , my mother once tore up our entire back yard and redid it . I'll never forget . Got my stepfather to put in , uh , a waterfall and a little pond in one corner . I mean , that was like the most energy invested in anything in the whole time I ever knew him They remodeled the entire back yard . Then they sold the house and got divorced , so I don't know what that says about it all
+	Free: Pattern=the house, Pattern=mean ,, Pattern=it ., Pattern=They, Pattern=We, Pattern=they, Pattern=a, Pattern=it, Pattern=I don't, Pattern=in, Pattern=know, Pattern=back, Pattern=like, Pattern=had, Pattern=, uh ,, Pattern=to, Pattern=was, Pattern=so, Pattern=one, Pattern=in the, Pattern=I, Pattern=the, Pattern=all
+	Constrained: Pattern=mean, Pattern=it, Pattern=I, Pattern=in, Pattern=don't, Pattern=uh, Pattern=, uh, Pattern=uh ,, Pattern=the
+Turn ID=27| B | M : What do you mean ?
+	Free: Pattern=mean, Pattern=you
+	Constrained: 
+Turn ID=28| A | B : uh , it use to be use to be a , uh , uh , have a lot of heavy industry ,
+	Free: Pattern=, uh , uh, Pattern=of, Pattern=have, Pattern=a, Pattern=it, Pattern=, uh ,, Pattern=uh ,, Pattern=to be
+	Constrained: Pattern=uh ,, Pattern=to, Pattern=uh, Pattern=, uh, Pattern=, uh ,, Pattern=be
+Turn ID=29| B | M : Yeah . It's like he's gonna be back .
+	Free: Pattern=Yeah ., Pattern=back, Pattern=be, Pattern=like
+	Constrained: 
+Turn ID=30| A | B : Well , I lived across the street almost from Canada
+	Free: Pattern=, I, Pattern=Well ,, Pattern=the
+	Constrained: Pattern=I
+Turn ID=31| B | M : Yeah , that's how I read it .
+	Free: Pattern=it ., Pattern=Yeah ,, Pattern=that's, Pattern=I
+	Constrained: Pattern=it
+Turn ID=32| A | B : That's , I agree with that completely . I know we don't have enough prisons , but there has got to be some kind of punishment , For these people .
+	Free: Pattern=of, Pattern=people, Pattern=, I, Pattern=I, Pattern=know, Pattern=to be, Pattern=with, Pattern=we, Pattern=don't have
+	Constrained: Pattern=have, Pattern=I, Pattern=be, Pattern=don't, Pattern=to
+Turn ID=33| B | M : No , I think you're the only one .
+	Free: Pattern=, I think, Pattern=one, Pattern=the
+	Constrained: Pattern=I think, Pattern=, I, Pattern=I, Pattern=think
+Turn ID=34| A | B : And they haven't been doing too hot , so .
+	Free: Pattern=so ., Pattern=they
+	Constrained: Pattern=so
+Turn ID=35| B | M : Yea , I'm a nurse .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=36| A | B : and , uh and that would make any parent feel good and bad at the same time , you know ,
+	Free: Pattern=you know ,, Pattern=, uh, Pattern=the
+	Constrained: Pattern=know ,, Pattern=know, Pattern=you, Pattern=uh, Pattern=you know
+Turn ID=37| B | M : The young people are robbing
+	Free: Pattern=are, Pattern=people
+	Constrained: 
+Turn ID=38| A | B : But ,
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : I'm pretty sure the house was made in the 70's .
+	Free: Pattern=in the, Pattern=the house, Pattern=was, Pattern=made
+	Constrained: Pattern=in, Pattern=the
+Turn ID=40| A | B : And so I go , these are the kind of people I would like to get out of here and get out of circulation and say I don't , we don't accept your kind in our society .
+	Free: Pattern=of, Pattern=people, Pattern=go, Pattern=, we, Pattern=I don't, Pattern=in, Pattern=like, Pattern=the, Pattern=don't, Pattern=to, Pattern=so, Pattern=are, Pattern=I
+	Constrained: Pattern=don't, Pattern=I, Pattern=we
+Turn ID=41| B | M : I , uh , uh . now , uh , uuuuuuuuugghhhhhh
+	Free: Pattern=, uh , uh, Pattern=, uh ,, Pattern=I ,
+	Constrained: Pattern=I, Pattern=, uh ,, Pattern=uh ,, Pattern=uh, Pattern=, uh
+Turn ID=42| A | B : I , I , everything is so automated , uh , and things can be made without , I think a human hand ever touching it , you know an awful lot of things ,
+	Free: Pattern=I ,, Pattern=of, Pattern=you know, Pattern=made, Pattern=it, Pattern=is, Pattern=so, Pattern=, I, Pattern=a, Pattern=, uh ,, Pattern=, I think, Pattern=be
+	Constrained: Pattern=, I, Pattern=I, Pattern=think, Pattern=know, Pattern=I think, Pattern=uh ,, Pattern=you, Pattern=uh, Pattern=, uh
+Turn ID=43| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : You mean , like , the children ?
+	Free: Pattern=mean ,, Pattern=like, Pattern=the
+	Constrained: Pattern=mean

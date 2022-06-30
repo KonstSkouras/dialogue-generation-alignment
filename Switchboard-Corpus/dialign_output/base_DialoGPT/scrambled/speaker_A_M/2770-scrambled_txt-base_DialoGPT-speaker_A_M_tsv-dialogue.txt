@@ -1,0 +1,195 @@
+A|0| A: but _so_ , _I'm_ _not_ quite getting _the_ level _that I_ need _to_ . 
+B|1| M: Yea . _Yeah ._ 
+A|2| A: _I_ _mean_ if you murder _a_ guy because he murdered your partner or something _like_ _that_ _, I_ _mean_ pretty soon you run _out_ _of_ people _to_ murder . 
+B|3| M: _I don't_ understand , why _do _they_ want_ [to] convert ? 
+A|4| A: And _, uh ,_ _what_ other benefits [do] you think _are_ important ? 
+B|5| M: You [mean] rice ? 
+A|6| A: Especially if your spouse will _get_ _in_ _there_ _with_ you _and_ _get_ dirty , _yeah_ . 
+B|7| M: So [I] can't be fired _for_ [not] being able [to] [do] _my_ job . 
+A|8| A: Uh-huh . 
+B|9| M: It's [a] long story . 
+A|10| A: Uh-huh . 
+B|11| M: We've _got_ [to] go _back_ [to] [, uh ,] where _we_ came _from_ . 
+A|12| A: [I] [mean] , _I'm_ [not] kidding you . 
+B|13| M: [I] _was_ [in] [the] middle [of] [the] bus _at_ [the] end _of my_ shift , [there] _was_ [a] problem [with] German 
+A|14| A: _Yeah [,_ uh [,] uh ,] isn't _that_ weird ? 
+B|15| M: It's [not] [that _I] don't_ _have_ any pride [in] _my_ country _, I just_ _don't know_ _how_ [to] feel about _it_ . 
+A|16| A: [Yeah .] Okay , well [, I] guess , um _, we_ can discontinue our call now . 
+B|17| M: _it_ 
+A|18| A: _Oh_ , _is_ [it] ? _Oh_ [, I] didn't realize [that] . Okay . 
+B|19| M: [I] _know ._ 
+A|20| A: [I _don't] like_ pulling [a] cart on Firewell golf course because [they want] you [to] pull [the] cart on [the] path . 
+B|21| M: [I'm] [so] sorry 
+A|22| A: More taxes you pay . 
+B|23| M: They [get] [out] 
+A|24| A: What [was] your name again ? 
+B|25| M: Smog [is] [in] LA . 
+A|26| A: _and_ , _and_ , [in] spite [of] , 
+B|27| M: [what] 
+A|28| A: _and_ then , you [know] , everything [just] [got] hit hard 
+B|29| M: California has death penalty . 
+A|30| A: _yeah ,_ [my] wife [got] them [from] [, uh ,] um , friend [of] hers [at] work _and_ everything , you [know] , you [know] , as kittens , 
+B|31| M:  ,, [and] . 
+A|32| A: Uh-huh . 
+B|33| M: [uh ,] she works [in] [the] bathroom . 
+A|34| A: Uh-huh . _Well [,_ I] still , all three [of my] daughters _are_ married , but [, [I] [don't] know] [, I just] still [have] need [for] [the] four bedrooms [just] having company [from] time [to] time . And some [of] them coming [back] home [and] things , you [know .] 
+B|35| M:  ... 
+A|36| A: Exactly , 
+B|37| M: They [are] 
+A|38| A: [Yeah .] 
+B|39| M: So . 
+A|40| A: [do they] [get] , [they] [get] insured , [they] [get] insured [from] other insurance companies or [how] does [that] work ? 
+B|41| M: i [, uh ,] i [, uh] . 
+A|42| A: Okay , well thanks [for] your time _. I_ enjoyed talking [to] you . 
+B|43| M: [Yeah ,] [it] [was] . 
+A|44| A: That's life , that's [how] life goes . 
+B|45| M: [Well [,] we] [don't] [have] any courses [there] 
+A|46| A: Uh-huh . 
+B|47| M: [Oh] [yeah [,] I] [know [.] [I] just] [don't like] [the] weather . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : but so , I'm not quite getting the level that I need to .
+	Free: Pattern=I'm, Pattern=that I, Pattern=the, Pattern=to, Pattern=so, Pattern=not
+	Constrained: Pattern=I, Pattern=that
+Turn ID=1| B | M : Yea . Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=2| A | A : I mean if you murder a guy because he murdered your partner or something like that , I mean pretty soon you run out of people to murder .
+	Free: Pattern=of, Pattern=out, Pattern=mean, Pattern=I, Pattern=like, Pattern=to, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=3| B | M : I don't understand , why do they want to convert ?
+	Free: Pattern=I don't, Pattern=they want, Pattern=do they, Pattern=to
+	Constrained: Pattern=do, Pattern=they, Pattern=I, Pattern=don't
+Turn ID=4| A | A : And , uh , what other benefits do you think are important ?
+	Free: Pattern=, uh ,, Pattern=do, Pattern=are, Pattern=what
+	Constrained: Pattern=uh ,, Pattern=, uh
+Turn ID=5| B | M : You mean rice ?
+	Free: Pattern=mean
+	Constrained: 
+Turn ID=6| A | A : Especially if your spouse will get in there with you and get dirty , yeah .
+	Free: Pattern=there, Pattern=in, Pattern=get, Pattern=with, Pattern=yeah, Pattern=and
+	Constrained: 
+Turn ID=7| B | M : So I can't be fired for not being able to do my job .
+	Free: Pattern=do, Pattern=for, Pattern=I, Pattern=to, Pattern=my, Pattern=not
+	Constrained: 
+Turn ID=8| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : It's a long story .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=10| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : We've got to go back to , uh , where we came from .
+	Free: Pattern=from, Pattern=back, Pattern=we, Pattern=, uh ,, Pattern=got, Pattern=to
+	Constrained: Pattern=uh ,, Pattern=, uh
+Turn ID=12| A | A : I mean , I'm not kidding you .
+	Free: Pattern=not, Pattern=I, Pattern=mean, Pattern=I'm
+	Constrained: 
+Turn ID=13| B | M : I was in the middle of the bus at the end of my shift , there was a problem with German
+	Free: Pattern=of, Pattern=there, Pattern=a, Pattern=I, Pattern=in, Pattern=the, Pattern=was, Pattern=with, Pattern=of my, Pattern=at
+	Constrained: Pattern=of, Pattern=my
+Turn ID=14| A | A : Yeah , uh , uh , isn't that weird ?
+	Free: Pattern=, uh ,, Pattern=Yeah ,, Pattern=that
+	Constrained: Pattern=uh ,, Pattern=, uh
+Turn ID=15| B | M : It's not that I don't have any pride in my country , I just don't know how to feel about it .
+	Free: Pattern=, I just, Pattern=have, Pattern=that I, Pattern=it, Pattern=I don't, Pattern=in, Pattern=to, Pattern=my, Pattern=not, Pattern=how, Pattern=don't know
+	Constrained: Pattern=just, Pattern=, I, Pattern=I, Pattern=I just, Pattern=know, Pattern=don't, Pattern=that
+Turn ID=16| A | A : Yeah . Okay , well , I guess , um , we can discontinue our call now .
+	Free: Pattern=, I, Pattern=, we, Pattern=Yeah .
+	Constrained: Pattern=we, Pattern=I
+Turn ID=17| B | M : it
+	Free: Pattern=it
+	Constrained: 
+Turn ID=18| A | A : Oh , is it ? Oh , I didn't realize that . Okay .
+	Free: Pattern=, I, Pattern=it, Pattern=is, Pattern=Oh, Pattern=that
+	Constrained: Pattern=I
+Turn ID=19| B | M : I know .
+	Free: Pattern=know ., Pattern=I
+	Constrained: Pattern=know
+Turn ID=20| A | A : I don't like pulling a cart on Firewell golf course because they want you to pull the cart on the path .
+	Free: Pattern=I don't, Pattern=the, Pattern=to, Pattern=they want, Pattern=don't like, Pattern=a
+	Constrained: Pattern=they, Pattern=like, Pattern=I, Pattern=don't
+Turn ID=21| B | M : I'm so sorry
+	Free: Pattern=so, Pattern=I'm
+	Constrained: 
+Turn ID=22| A | A : More taxes you pay .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : They get out
+	Free: Pattern=out, Pattern=get
+	Constrained: 
+Turn ID=24| A | A : What was your name again ?
+	Free: Pattern=was
+	Constrained: 
+Turn ID=25| B | M : Smog is in LA .
+	Free: Pattern=is, Pattern=in
+	Constrained: 
+Turn ID=26| A | A : and , and , in spite of ,
+	Free: Pattern=of, Pattern=and, Pattern=in
+	Constrained: 
+Turn ID=27| B | M : what
+	Free: Pattern=what
+	Constrained: 
+Turn ID=28| A | A : and then , you know , everything just got hit hard
+	Free: Pattern=just, Pattern=know, Pattern=got, Pattern=and
+	Constrained: 
+Turn ID=29| B | M : California has death penalty .
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : yeah , my wife got them from , uh , um , friend of hers at work and everything , you know , you know , as kittens ,
+	Free: Pattern=of, Pattern=yeah ,, Pattern=and, Pattern=know, Pattern=, uh ,, Pattern=got, Pattern=my, Pattern=at, Pattern=from
+	Constrained: Pattern=uh ,, Pattern=, uh, Pattern=yeah
+Turn ID=31| B | M :  ,, and .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=32| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : uh , she works in the bathroom .
+	Free: Pattern=uh ,, Pattern=the, Pattern=in
+	Constrained: 
+Turn ID=34| A | A : Uh-huh . Well , I still , all three of my daughters are married , but , I don't know , I just still have need for the four bedrooms just having company from time to time . And some of them coming back home and things , you know .
+	Free: Pattern=of, Pattern=, I just, Pattern=, I, Pattern=don't know, Pattern=for, Pattern=and, Pattern=are, Pattern=I don't, Pattern=Well ,, Pattern=back, Pattern=know ., Pattern=the, Pattern=to, Pattern=just, Pattern=have, Pattern=of my, Pattern=from
+	Constrained: Pattern=of, Pattern=just, Pattern=, I, Pattern=I, Pattern=I just, Pattern=know, Pattern=don't, Pattern=my
+Turn ID=35| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : Exactly ,
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : They are
+	Free: Pattern=are
+	Constrained: 
+Turn ID=38| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=39| B | M : So .
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : do they get , they get insured , they get insured from other insurance companies or how does that work ?
+	Free: Pattern=they, Pattern=how, Pattern=do they, Pattern=from, Pattern=get, Pattern=that
+	Constrained: Pattern=do, Pattern=they
+Turn ID=41| B | M : i , uh , i , uh .
+	Free: Pattern=, uh ,, Pattern=, uh
+	Constrained: Pattern=uh ,, Pattern=, uh
+Turn ID=42| A | A : Okay , well thanks for your time . I enjoyed talking to you .
+	Free: Pattern=. I, Pattern=for, Pattern=to
+	Constrained: Pattern=I
+Turn ID=43| B | M : Yeah , it was .
+	Free: Pattern=Yeah ,, Pattern=was, Pattern=it
+	Constrained: 
+Turn ID=44| A | A : That's life , that's how life goes .
+	Free: Pattern=how
+	Constrained: 
+Turn ID=45| B | M : Well , we don't have any courses there
+	Free: Pattern=have, Pattern=there, Pattern=, we, Pattern=Well ,, Pattern=don't
+	Constrained: Pattern=we
+Turn ID=46| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : Oh yeah , I know . I just don't like the weather .
+	Free: Pattern=yeah ,, Pattern=know ., Pattern=the, Pattern=Oh, Pattern=don't like, Pattern=, I, Pattern=. I, Pattern=I just
+	Constrained: Pattern=just, Pattern=yeah, Pattern=I, Pattern=know, Pattern=like, Pattern=don't

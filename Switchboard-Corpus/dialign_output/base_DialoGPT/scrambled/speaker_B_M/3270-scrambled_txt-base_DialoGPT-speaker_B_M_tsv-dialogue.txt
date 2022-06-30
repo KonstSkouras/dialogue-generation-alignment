@@ -1,0 +1,187 @@
+A|0| B: _and_ she has _to_ be tested periodically . And _, and_ those are expensive tests . 
+B|1| M: _I_ _like_ 
+A|2| B: so [I] _really_ don't worry about anything . 
+B|3| M: [I] _love_ them 
+A|4| B: [I] _really_ don't _know_ _that_ much about _it_ _, _you_ know ,_ [I] , [I] , [I] think _of_ the Peace Corps _, _you_ know ,_ more [like] the sixties _and_ _that_ kind _of_ _stuff_ when , 
+B|5| M: That's true . That's what [I] meant . 
+A|6| B: Oh , but she used _to_ [love] _to_ _do_ _stuff_ [like] _that_ . 
+B|7| M: North America 
+A|8| B: They hold competitions _in_ Los Angeles _in_ , um , Florida _and_ Minneapolis , um , trying _to_ think _of_ , [I] think _it's_ _in_ four places around the United States . They hold competition _and_ the only requirement is , _of_ course , _your_ skill _of_ passing these tests , 
+B|9| M: _What_ _do [you_ know ,] huh ? 
+A|10| B: Right , exactly . _Yeah_ . 
+B|11| M:  
+A|12| B: Right . 
+B|13| M: Yes , uhhhhh 
+A|14| B: Right . Some people , [I] mean , families seem _to_ migrate towards one , one room _and_ carry on most _of_ their activities there _, and_ , uh , uh , some rooms , we have one room _that_ we never _use_ . 
+B|15| M: We [do] . 
+A|16| B: Right , right , right . And [you] _really_ have _to_ make , uh , quite _a_ bit _of_ money . The wife doesn't make _it_ worth _it_ , with the cost _of_ day-care . 
+B|17| M: It's an old car . 
+A|18| B: The worst one for smog is Mexico City . 
+B|19| M: _Yeah ,_ that's why [I] said [it] . 
+A|20| B: You [know] all _that_ junk mail [you] _get_ ? 
+B|21| M: I'm going [to] say yes , yes [I] am . 
+A|22| B: [Yeah ,] yeah , _it's_ _not_ _good_ 
+B|23| M: It's [a] fish , _not a_ 
+A|24| B: Take [a] twenty-two _and_ go out . 
+B|25| M: It's [a] stick shift car . 
+A|26| B: Um , uh-huh 
+B|27| M: I'm [not] [really] sure . [I] eat fish . I'm [not] sure _if_ [I] eat [a] ton [of] fish . 
+A|28| B: Jerry Burns . 
+B|29| M: That's what _I was_ saying . 
+A|30| B: Oh . 
+B|31| M: Good morning 
+A|32| B: [What] kind [of] crimes would [you] _use it_ for ? 
+B|33| M: I'm gonna [get] my [stuff] [, and] you're gonna [get] [your] [stuff] . 
+A|34| B: _Well_ , [I] , _I just_ think _that_ , uh _, [you_ know ,] at _that_ when , when they were [you know ,] the , those were all brothers [and] sisters [a] lot [and] or they were all _in_ the same geographical location . 
+B|35| M: [Well] ? 
+A|36| B: Really [was] . 
+B|37| M: u ronan I've got [a] feeling [that] [it's] gonna increase [in] value . 
+A|38| B: Anyway , well the question is _, [you_ know ,] [do you] think , [it] does make [a] difference [in] whether or [not a] criminal commits [a] crime or [do you] think [it] can [if] [it's] done right ? 
+B|39| M: That's [not] . 
+A|40| B: Uh-huh . 
+B|41| M: It's been pretty [good] . 
+A|42| B: No , no . And this woman [was] , uh , stocking the shelves [in] [a] drugstore . 
+B|43| M: Not [really] . [I just] [use it] as [a] temporary storage . 
+A|44| B: [I was] [a] social worker at the time [, and] found [it] , 
+B|45| M: Huh [, you] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and she has to be tested periodically . And , and those are expensive tests .
+	Free: Pattern=, and, Pattern=to, Pattern=and
+	Constrained: Pattern=and
+Turn ID=1| B | M : I like
+	Free: Pattern=I, Pattern=like
+	Constrained: 
+Turn ID=2| A | B : so I really don't worry about anything .
+	Free: Pattern=really, Pattern=I
+	Constrained: 
+Turn ID=3| B | M : I love them
+	Free: Pattern=love, Pattern=I
+	Constrained: 
+Turn ID=4| A | B : I really don't know that much about it , you know , I , I , I think of the Peace Corps , you know , more like the sixties and that kind of stuff when ,
+	Free: Pattern=stuff, Pattern=I, Pattern=that, Pattern=of, Pattern=you know ,, Pattern=it, Pattern=and, Pattern=know, Pattern=, you, Pattern=really, Pattern=like
+	Constrained: Pattern=you, Pattern=know
+Turn ID=5| B | M : That's true . That's what I meant .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=6| A | B : Oh , but she used to love to do stuff like that .
+	Free: Pattern=stuff, Pattern=do, Pattern=love, Pattern=like, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=7| B | M : North America
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : They hold competitions in Los Angeles in , um , Florida and Minneapolis , um , trying to think of , I think it's in four places around the United States . They hold competition and the only requirement is , of course , your skill of passing these tests ,
+	Free: Pattern=of, Pattern=and, Pattern=I, Pattern=in, Pattern=your, Pattern=to, Pattern=it's
+	Constrained: 
+Turn ID=9| B | M : What do you know , huh ?
+	Free: Pattern=you know ,, Pattern=do you, Pattern=What
+	Constrained: Pattern=you, Pattern=know, Pattern=do
+Turn ID=10| A | B : Right , exactly . Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=11| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Yes , uhhhhh
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Right . Some people , I mean , families seem to migrate towards one , one room and carry on most of their activities there , and , uh , uh , some rooms , we have one room that we never use .
+	Free: Pattern=of, Pattern=I, Pattern=that, Pattern=and, Pattern=use, Pattern=, and, Pattern=to
+	Constrained: Pattern=and
+Turn ID=15| B | M : We do .
+	Free: Pattern=do
+	Constrained: 
+Turn ID=16| A | B : Right , right , right . And you really have to make , uh , quite a bit of money . The wife doesn't make it worth it , with the cost of day-care .
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=it, Pattern=really, Pattern=to
+	Constrained: 
+Turn ID=17| B | M : It's an old car .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : The worst one for smog is Mexico City .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : Yeah , that's why I said it .
+	Free: Pattern=Yeah ,, Pattern=it, Pattern=I
+	Constrained: Pattern=Yeah
+Turn ID=20| A | B : You know all that junk mail you get ?
+	Free: Pattern=get, Pattern=you, Pattern=know, Pattern=that
+	Constrained: 
+Turn ID=21| B | M : I'm going to say yes , yes I am .
+	Free: Pattern=to, Pattern=I
+	Constrained: 
+Turn ID=22| A | B : Yeah , yeah , it's not good
+	Free: Pattern=Yeah ,, Pattern=not, Pattern=good, Pattern=it's
+	Constrained: Pattern=Yeah
+Turn ID=23| B | M : It's a fish , not a
+	Free: Pattern=not a, Pattern=a
+	Constrained: Pattern=not, Pattern=a
+Turn ID=24| A | B : Take a twenty-two and go out .
+	Free: Pattern=and, Pattern=a
+	Constrained: 
+Turn ID=25| B | M : It's a stick shift car .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=26| A | B : Um , uh-huh
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : I'm not really sure . I eat fish . I'm not sure if I eat a ton of fish .
+	Free: Pattern=of, Pattern=a, Pattern=really, Pattern=not, Pattern=I, Pattern=if
+	Constrained: 
+Turn ID=28| A | B : Jerry Burns .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : That's what I was saying .
+	Free: Pattern=I was
+	Constrained: Pattern=was, Pattern=I
+Turn ID=30| A | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : Good morning
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : What kind of crimes would you use it for ?
+	Free: Pattern=use it, Pattern=What, Pattern=you, Pattern=of
+	Constrained: Pattern=it, Pattern=use
+Turn ID=33| B | M : I'm gonna get my stuff , and you're gonna get your stuff .
+	Free: Pattern=, and, Pattern=get, Pattern=your, Pattern=stuff
+	Constrained: Pattern=and
+Turn ID=34| A | B : Well , I , I just think that , uh , you know , at that when , when they were you know , the , those were all brothers and sisters a lot and or they were all in the same geographical location .
+	Free: Pattern=you know ,, Pattern=a, Pattern=and, Pattern=I, Pattern=I just, Pattern=in, Pattern=, you, Pattern=Well, Pattern=that
+	Constrained: Pattern=I, Pattern=you, Pattern=know
+Turn ID=35| B | M : Well ?
+	Free: Pattern=Well
+	Constrained: 
+Turn ID=36| A | B : Really was .
+	Free: Pattern=was
+	Constrained: 
+Turn ID=37| B | M : u ronan I've got a feeling that it's gonna increase in value .
+	Free: Pattern=in, Pattern=it's, Pattern=a, Pattern=that
+	Constrained: 
+Turn ID=38| A | B : Anyway , well the question is , you know , do you think , it does make a difference in whether or not a criminal commits a crime or do you think it can if it's done right ?
+	Free: Pattern=not a, Pattern=you know ,, Pattern=a, Pattern=if, Pattern=in, Pattern=, you, Pattern=it's, Pattern=it, Pattern=do you
+	Constrained: Pattern=you, Pattern=know, Pattern=not, Pattern=do, Pattern=a
+Turn ID=39| B | M : That's not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=40| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : It's been pretty good .
+	Free: Pattern=good
+	Constrained: 
+Turn ID=42| A | B : No , no . And this woman was , uh , stocking the shelves in a drugstore .
+	Free: Pattern=in, Pattern=was, Pattern=a
+	Constrained: 
+Turn ID=43| B | M : Not really . I just use it as a temporary storage .
+	Free: Pattern=I just, Pattern=use it, Pattern=a, Pattern=really
+	Constrained: Pattern=it, Pattern=use, Pattern=I
+Turn ID=44| A | B : I was a social worker at the time , and found it ,
+	Free: Pattern=, and, Pattern=I was, Pattern=it, Pattern=a
+	Constrained: Pattern=was, Pattern=and, Pattern=I
+Turn ID=45| B | M : Huh , you
+	Free: Pattern=, you
+	Constrained: Pattern=you

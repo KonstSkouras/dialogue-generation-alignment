@@ -1,0 +1,255 @@
+A|0| B: _I_ like mysteries _. I_ tape , um , FATHER DOWLING , because that's another mystery , 
+B|1| M: _Yes _,_ but_ _it_ _was_ _in the_ attic . 
+A|2| B: _Oh_ yeah . It , [it] is _just_ nice _to_ _get_ outdoors _and_ _do_ something . 
+B|3| M: I'm 
+A|4| B: That's _about_ what we _do_ too . 
+B|5| M: _Oh ,_ well , I'm [just] _a_ school teacher . 
+A|6| B: Sure _do_ . 
+B|7| M: _I don't _know_ _,_ but_ I'm _pretty_ _sure_ _they were_ . 
+A|8| B: _And_ [it] helps _you_ feel [a] strong sense _of_ belonging . My husband , on [the] other hand , [was] _not_ very close _to_ his family . His family [was] very scattered _and_ very diverse . 
+B|9| M: I'm _in_ Texas . 
+A|10| B: _and_ , _and_ [they] sit down _and_ [they] look at _you_ _right_ [in the] face _and_ [they] expect [a] truthful answer . 
+B|11| M: Do [they] ever cheer _for_ [the] Broncos ? 
+A|12| B: _I _,_ _I_ think_ _so_ , _and_ , _and_ there's always [the] _, uh ,_ [the] _, uh ,_ [the] old _, uh ,_ saying _that_ keeps coming up _that_ if [a] _person_ wants [a] gun _bad_ enough they'll , they'll _get_ one , _and_ _, uh ,_ _and_ then _, uh_ . 
+B|13| M: [I] see [. I] see . 
+A|14| B: It is [a] small world isn't [it] ? 
+B|15| M: [I ,] 
+A|16| B: _I've_ , 
+B|17| M: Good . I'm glad _you're_ okay . 
+A|18| B: Yeah . Yeah . 
+B|19| M: The Bears _have a_ _really_ good offense . 
+A|20| B: Yeah . 
+B|21| M: [I think] [you] _mean_ [the] group [of] peers . 
+A|22| B: Scientific . 
+B|23| M: [And] they're [the] sentence _for_ [the] inmates 
+A|24| B: [Oh ,] uh-huh . Yeah . 
+B|25| M: He smiles [and] nods . 
+A|26| B: Uh-huh . 
+B|27| M: I'm [a] student _, so_ [uh ,] how ? 
+A|28| B: [and] [I] also , [you] [know ,] usually [have] , [have] checked over things , [you] [know ,] if _it's_ like an appliance or something _to make_ [sure] _, uh ,_ [it] has [the] features [in] [it] _that I_ want . 
+B|29| M: I'm . 
+A|30| B: Yeah , yep , 
+B|31| M:  
+A|32| B: It [was] something easily forgotten . So _, uh _,_ [I_ don't know] if she's any farther ahead than those kids who started when [they were] eight or , or should [I] _say_ seven [. I] [mean] , she's _not_ [a] gifted pianist [in the] sense _that_ she's going _to_ excel [just] naturally . She does _have to_ [really] work at [it] [, but] _, uh [,_ so] , 
+B|33| M: I'm [just] trying [to make] [the] house fit [in] . 
+A|34| B: Have [you] been _, uh ,_ struggling along those lines ? 
+B|35| M: [Oh ,] [right] . 
+A|36| B: Rome , New York , _it's_ up state [it] _it's_ _, uh ,_ near Syracuse 
+B|37| M: Hahaha [, _I] [have_ to] [say] [that] I'm impressed . 
+A|38| B: [and] _, uh ,_ now [the] Air Force is [the] largest employer [in the] _, uh ,_ area [and] _, uh _,_ uh [,_ so] _it's_ , Not too _bad_ , 
+B|39| M: I'm [really] [, uh ,] impressed with [it] . 
+A|40| B: Right . Okay . 
+B|41| M: [I've] never tried them . [I've] only eaten them once . I'll try [it] next time . 
+A|42| B: Yeah . 
+B|43| M: s 
+A|44| B: Yeah . So , [that] is [pretty] much [for] [right] now , [that] is , what [I have] been reading . 
+B|45| M: They're [not] [that] [bad] . 
+A|46| B: [Yes ,] what [a] coincidence . 
+B|47| M: What [do] [you] [mean] ? 
+A|48| B: Uh-huh . Uh-huh . 
+B|49| M: _You're_ done ? 
+A|50| B: Wow . 
+B|51| M: ' [about] . 
+A|52| B: _You_ [know] what [I] miss though ? Basements . 
+B|53| M: [I think] [it's] [a] sign [of] [the] times [that I] am [a] normal [person] . 
+A|54| B: A health food ? 
+B|55| M: [Oh ,] okay . 
+A|56| B: [so] [I] called four or five dog trainers because [I don't] like [the] little dogs . 
+B|57| M: [I] can't [say] , I'm [not] [sure] . 
+A|58| B: Well , we still [have a] , [a] son [and] daughter [in] college [that] come home . 
+B|59| M: [You] can [get] out [of] jury 
+A|60| B: [You're] , [you're] making me hungry here . 
+B|61| M: [I] 
+A|62| B: Yeah , my husband calls her street dog [, but] we've had her now [for] [about] three years , 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : I like mysteries . I tape , um , FATHER DOWLING , because that's another mystery ,
+	Free: Pattern=. I, Pattern=I
+	Constrained: Pattern=I
+Turn ID=1| B | M : Yes , but it was in the attic .
+	Free: Pattern=, but, Pattern=it, Pattern=in the, Pattern=was, Pattern=Yes ,
+	Constrained: Pattern=in, Pattern=the
+Turn ID=2| A | B : Oh yeah . It , it is just nice to get outdoors and do something .
+	Free: Pattern=just, Pattern=do, Pattern=get, Pattern=it, Pattern=and, Pattern=Oh, Pattern=to
+	Constrained: 
+Turn ID=3| B | M : I'm
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : That's about what we do too .
+	Free: Pattern=about, Pattern=do
+	Constrained: 
+Turn ID=5| B | M : Oh , well , I'm just a school teacher .
+	Free: Pattern=Oh ,, Pattern=just, Pattern=a
+	Constrained: Pattern=Oh
+Turn ID=6| A | B : Sure do .
+	Free: Pattern=do
+	Constrained: 
+Turn ID=7| B | M : I don't know , but I'm pretty sure they were .
+	Free: Pattern=know ,, Pattern=, but, Pattern=they were, Pattern=I don't know, Pattern=pretty, Pattern=sure
+	Constrained: Pattern=they, Pattern=know, Pattern=I don't, Pattern=I
+Turn ID=8| A | B : And it helps you feel a strong sense of belonging . My husband , on the other hand , was not very close to his family . His family was very scattered and very diverse .
+	Free: Pattern=of, Pattern=you, Pattern=And, Pattern=a, Pattern=the, Pattern=to, Pattern=was, Pattern=not, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=9| B | M : I'm in Texas .
+	Free: Pattern=in
+	Constrained: 
+Turn ID=10| A | B : and , and they sit down and they look at you right in the face and they expect a truthful answer .
+	Free: Pattern=right, Pattern=you, Pattern=they, Pattern=a, Pattern=and, Pattern=in the
+	Constrained: Pattern=in, Pattern=the
+Turn ID=11| B | M : Do they ever cheer for the Broncos ?
+	Free: Pattern=for, Pattern=they, Pattern=the
+	Constrained: 
+Turn ID=12| A | B : I , I think so , and , and there's always the , uh , the , uh , the old , uh , saying that keeps coming up that if a person wants a gun bad enough they'll , they'll get one , and , uh , and then , uh .
+	Free: Pattern=bad, Pattern=I ,, Pattern=, uh, Pattern=and, Pattern=person, Pattern=the, Pattern=get, Pattern=that, Pattern=so, Pattern=, I, Pattern=a, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=uh ,, Pattern=I, Pattern=, uh
+Turn ID=13| B | M : I see . I see .
+	Free: Pattern=. I, Pattern=I
+	Constrained: Pattern=I
+Turn ID=14| A | B : It is a small world isn't it ?
+	Free: Pattern=a, Pattern=it
+	Constrained: 
+Turn ID=15| B | M : I ,
+	Free: Pattern=I ,
+	Constrained: Pattern=I
+Turn ID=16| A | B : I've ,
+	Free: Pattern=I've
+	Constrained: 
+Turn ID=17| B | M : Good . I'm glad you're okay .
+	Free: Pattern=you're
+	Constrained: 
+Turn ID=18| A | B : Yeah . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : The Bears have a really good offense .
+	Free: Pattern=have a, Pattern=really
+	Constrained: Pattern=have, Pattern=a
+Turn ID=20| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : I think you mean the group of peers .
+	Free: Pattern=of, Pattern=you, Pattern=mean, Pattern=I think, Pattern=the
+	Constrained: Pattern=I
+Turn ID=22| A | B : Scientific .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : And they're the sentence for the inmates
+	Free: Pattern=for, Pattern=the, Pattern=And
+	Constrained: 
+Turn ID=24| A | B : Oh , uh-huh . Yeah .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=25| B | M : He smiles and nods .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=26| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : I'm a student , so uh , how ?
+	Free: Pattern=uh ,, Pattern=, so, Pattern=a
+	Constrained: Pattern=so
+Turn ID=28| A | B : and I also , you know , usually have , have checked over things , you know , if it's like an appliance or something to make sure , uh , it has the features in it that I want .
+	Free: Pattern=know ,, Pattern=you, Pattern=have, Pattern=that I, Pattern=I, Pattern=in, Pattern=to make, Pattern=the, Pattern=it's, Pattern=it, Pattern=and, Pattern=sure, Pattern=, uh ,
+	Constrained: Pattern=, uh, Pattern=I, Pattern=know, Pattern=uh ,, Pattern=to, Pattern=that
+Turn ID=29| B | M : I'm .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Yeah , yep ,
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : It was something easily forgotten . So , uh , I don't know if she's any farther ahead than those kids who started when they were eight or , or should I say seven . I mean , she's not a gifted pianist in the sense that she's going to excel just naturally . She does have to really work at it , but , uh , so ,
+	Free: Pattern=, but, Pattern=they were, Pattern=it, Pattern=. I, Pattern=I don't know, Pattern=say, Pattern=really, Pattern=, uh ,, Pattern=have to, Pattern=to, Pattern=that, Pattern=not, Pattern=just, Pattern=mean, Pattern=, I, Pattern=a, Pattern=in the, Pattern=I, Pattern=was, Pattern=, so
+	Constrained: Pattern=, uh, Pattern=have, Pattern=they, Pattern=I, Pattern=I don't, Pattern=in, Pattern=know, Pattern=to, Pattern=so, Pattern=uh ,, Pattern=the
+Turn ID=33| B | M : I'm just trying to make the house fit in .
+	Free: Pattern=to make, Pattern=in, Pattern=just, Pattern=the
+	Constrained: Pattern=to
+Turn ID=34| A | B : Have you been , uh , struggling along those lines ?
+	Free: Pattern=, uh ,, Pattern=you
+	Constrained: Pattern=uh ,, Pattern=, uh
+Turn ID=35| B | M : Oh , right .
+	Free: Pattern=Oh ,, Pattern=right
+	Constrained: Pattern=Oh
+Turn ID=36| A | B : Rome , New York , it's up state it it's , uh , near Syracuse
+	Free: Pattern=, uh ,, Pattern=it's, Pattern=it
+	Constrained: Pattern=uh ,, Pattern=, uh
+Turn ID=37| B | M : Hahaha , I have to say that I'm impressed .
+	Free: Pattern=, I, Pattern=say, Pattern=I have, Pattern=have to, Pattern=that
+	Constrained: Pattern=I, Pattern=to, Pattern=have
+Turn ID=38| A | B : and , uh , now the Air Force is the largest employer in the , uh , area and , uh , uh , so it's , Not too bad ,
+	Free: Pattern=bad, Pattern=and, Pattern=in the, Pattern=, uh ,, Pattern=the, Pattern=, so, Pattern=it's
+	Constrained: Pattern=, uh, Pattern=in, Pattern=so, Pattern=uh ,, Pattern=the
+Turn ID=39| B | M : I'm really , uh , impressed with it .
+	Free: Pattern=, uh ,, Pattern=really, Pattern=it
+	Constrained: Pattern=uh ,, Pattern=, uh
+Turn ID=40| A | B : Right . Okay .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : I've never tried them . I've only eaten them once . I'll try it next time .
+	Free: Pattern=I've, Pattern=it
+	Constrained: 
+Turn ID=42| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : s
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : Yeah . So , that is pretty much for right now , that is , what I have been reading .
+	Free: Pattern=right, Pattern=for, Pattern=that, Pattern=I have, Pattern=pretty
+	Constrained: Pattern=I, Pattern=have
+Turn ID=45| B | M : They're not that bad .
+	Free: Pattern=not, Pattern=bad, Pattern=that
+	Constrained: 
+Turn ID=46| A | B : Yes , what a coincidence .
+	Free: Pattern=Yes ,, Pattern=a
+	Constrained: 
+Turn ID=47| B | M : What do you mean ?
+	Free: Pattern=you, Pattern=mean, Pattern=do
+	Constrained: 
+Turn ID=48| A | B : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : You're done ?
+	Free: Pattern=You're
+	Constrained: 
+Turn ID=50| A | B : Wow .
+	Free: 
+	Constrained: 
+Turn ID=51| B | M : ' about .
+	Free: Pattern=about
+	Constrained: 
+Turn ID=52| A | B : You know what I miss though ? Basements .
+	Free: Pattern=I, Pattern=know, Pattern=You
+	Constrained: 
+Turn ID=53| B | M : I think it's a sign of the times that I am a normal person .
+	Free: Pattern=of, Pattern=person, Pattern=I think, Pattern=the, Pattern=it's, Pattern=that I, Pattern=a
+	Constrained: Pattern=I, Pattern=that
+Turn ID=54| A | B : A health food ?
+	Free: 
+	Constrained: 
+Turn ID=55| B | M : Oh , okay .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=56| A | B : so I called four or five dog trainers because I don't like the little dogs .
+	Free: Pattern=I don't, Pattern=I, Pattern=so, Pattern=the
+	Constrained: Pattern=I
+Turn ID=57| B | M : I can't say , I'm not sure .
+	Free: Pattern=not, Pattern=I, Pattern=sure, Pattern=say
+	Constrained: 
+Turn ID=58| A | B : Well , we still have a , a son and daughter in college that come home .
+	Free: Pattern=have a, Pattern=a, Pattern=and, Pattern=in, Pattern=that
+	Constrained: Pattern=have, Pattern=a
+Turn ID=59| B | M : You can get out of jury
+	Free: Pattern=You, Pattern=of, Pattern=get
+	Constrained: 
+Turn ID=60| A | B : You're , you're making me hungry here .
+	Free: Pattern=you're, Pattern=You're
+	Constrained: 
+Turn ID=61| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=62| A | B : Yeah , my husband calls her street dog , but we've had her now for about three years ,
+	Free: Pattern=, but, Pattern=for, Pattern=about
+	Constrained: 

@@ -1,0 +1,191 @@
+A|0| B: _Yeah_ . Maybe , maybe _that_ . _Yeah_ . 
+B|1| M: _Well ,_ we've been considering Pennsylvania , _and_ _we_ _think_ _we're_ going _to_ _be_ okay . 
+A|2| B: _but _I_ think_ _, _I_ don't_ _know_ because , 
+B|3| M: You're _not , I am_ . 
+A|4| B: Eye care _is_ good . [I] _do_ [not , I am] [not] [I] _do_ [not] [think] [we] have _that_ on our policy . 
+B|5| M: _Right ._ 
+A|6| B: _Yeah_ . 
+B|7| M: I've seen _people_ _do it_ , [but [I] don't] [think] it's _the same_ . 
+A|8| B: Uh-huh . 
+B|9| M: [I] [know] _it_ [is] . 
+A|10| B: _Yeah_ . So _I think_ [it] would [be] _a_ good thing though , [to] encourage other [people] who aren't even aware _that_ _they_ _can_ [do] such _a_ thing . [to] get out there [and] [do] so . 
+B|11| M: Heh . I'm gonna go ... 
+A|12| B: There's nothing like them . _They_ just [don't] have [the same] ones _in_ [the] supermarket 
+B|13| M: What ? 
+A|14| B: Anyway . _You_ [don't] have children ? 
+B|15| M: [They] should [be] . 
+A|16| B: Okay Uh , at any rate [do] _you_ have color preferences or _what_ would [be] [the] features _that_ _you_ would [be] looking for ? 
+B|17| M: [I] 
+A|18| B: Oh . 
+B|19| M: [that] 
+A|20| B: _Yeah_ . 
+B|21| M:  ... 
+A|22| B: Do , [do] _you_ like [to] [do it] with other [people] . [I] _mean_ like [the] , [the] jazzercise would [be] ? 
+B|23| M: Is [it] legal [to] own [a] 
+A|24| B: [and] , _you_ [know] , there are reason [to] look for another job instead of just dumping [it] on them all at _one_ time . 
+B|25| M: [You] [do] realize that's [not] [what] [they] [mean] , right ? 
+A|26| B: [Right .] 
+B|27| M: What ? 
+A|28| B: Uh-huh . 
+B|29| M: She's [a] dog , [not] [a] retriever . 
+A|30| B: [Well] [we] had [a] German Shepherd [and] he had dysplasia 
+B|31| M: The castle ? 
+A|32| B: But , uh , [they] want too much _money_ . 
+B|33| M: I've voted [in] [a] few election days , [but] I'm still [not] going [to] vote . 
+A|34| B: And as long as [we're] [the] largest , uh , consumer , then , uh , this [is] [the] market . 
+B|35| M: every week 
+A|36| B: Lord . 
+B|37| M: It's been [a] week 
+A|38| B: [the] only girl . 
+B|39| M: [I think] it's [the] [one] where she teaches 
+A|40| B: [Right .] [Well [,] I] put , 
+B|41| M: [Yeah] , [it] was . 
+A|42| B: Oh , yeah , oh , yeah . 
+B|43| M: [you] [can] use [the] [money] [you] save 
+A|44| B: My husband [is] [a] physician , so , uh [, I] [, I] [I] talk [to] parents about this [a] lot . But children [, I] [, [I] think] working mothers or mothers who choose [to] work outside [the] home , um , need very early [to] come [to] grips with any guilt , [that] [they] feel [and] decide what's best for them [and] their family . 
+B|45| M: Umm ... [what] ? 
+A|46| B: [Right .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Yeah . Maybe , maybe that . Yeah .
+	Free: Pattern=Yeah, Pattern=that
+	Constrained: 
+Turn ID=1| B | M : Well , we've been considering Pennsylvania , and we think we're going to be okay .
+	Free: Pattern=and, Pattern=we, Pattern=be, Pattern=to, Pattern=we're, Pattern=Well ,, Pattern=think
+	Constrained: Pattern=Well
+Turn ID=2| A | B : but I think , I don't know because ,
+	Free: Pattern=, I, Pattern=I don't, Pattern=but I, Pattern=know, Pattern=I think
+	Constrained: Pattern=think, Pattern=but, Pattern=don't, Pattern=I
+Turn ID=3| B | M : You're not , I am .
+	Free: Pattern=not , I am
+	Constrained: Pattern=, I, Pattern=I, Pattern=not
+Turn ID=4| A | B : Eye care is good . I do not , I am not I do not think we have that on our policy .
+	Free: Pattern=do, Pattern=I, Pattern=think, Pattern=is, Pattern=we, Pattern=that, Pattern=not , I am, Pattern=not
+	Constrained: Pattern=, I, Pattern=I, Pattern=not
+Turn ID=5| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=6| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=7| B | M : I've seen people do it , but I don't think it's the same .
+	Free: Pattern=people, Pattern=I don't, Pattern=but I, Pattern=think, Pattern=do it, Pattern=the same
+	Constrained: Pattern=do, Pattern=it, Pattern=I, Pattern=the, Pattern=don't, Pattern=but
+Turn ID=8| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : I know it is .
+	Free: Pattern=know, Pattern=I, Pattern=is, Pattern=it
+	Constrained: 
+Turn ID=10| A | B : Yeah . So I think it would be a good thing though , to encourage other people who aren't even aware that they can do such a thing . to get out there and do so .
+	Free: Pattern=people, Pattern=they, Pattern=can, Pattern=to, Pattern=Yeah, Pattern=that, Pattern=do, Pattern=a, Pattern=it, Pattern=and, Pattern=I think, Pattern=be
+	Constrained: Pattern=think, Pattern=I
+Turn ID=11| B | M : Heh . I'm gonna go ...
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : There's nothing like them . They just don't have the same ones in the supermarket
+	Free: Pattern=They, Pattern=in, Pattern=the, Pattern=don't, Pattern=the same
+	Constrained: Pattern=the
+Turn ID=13| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Anyway . You don't have children ?
+	Free: Pattern=You, Pattern=don't
+	Constrained: 
+Turn ID=15| B | M : They should be .
+	Free: Pattern=They, Pattern=be
+	Constrained: 
+Turn ID=16| A | B : Okay Uh , at any rate do you have color preferences or what would be the features that you would be looking for ?
+	Free: Pattern=you, Pattern=what, Pattern=do, Pattern=be, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=17| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=18| A | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : that
+	Free: Pattern=that
+	Constrained: 
+Turn ID=20| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=21| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : Do , do you like to do it with other people . I mean like the , the jazzercise would be ?
+	Free: Pattern=you, Pattern=do, Pattern=I, Pattern=do it, Pattern=be, Pattern=the, Pattern=to, Pattern=people, Pattern=mean
+	Constrained: Pattern=do, Pattern=it
+Turn ID=23| B | M : Is it legal to own a
+	Free: Pattern=to, Pattern=a, Pattern=it
+	Constrained: 
+Turn ID=24| A | B : and , you know , there are reason to look for another job instead of just dumping it on them all at one time .
+	Free: Pattern=you, Pattern=one, Pattern=know, Pattern=to, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=25| B | M : You do realize that's not what they mean , right ?
+	Free: Pattern=mean, Pattern=do, Pattern=You, Pattern=not, Pattern=what, Pattern=they
+	Constrained: 
+Turn ID=26| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=27| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : She's a dog , not a retriever .
+	Free: Pattern=not, Pattern=a
+	Constrained: 
+Turn ID=30| A | B : Well we had a German Shepherd and he had dysplasia
+	Free: Pattern=we, Pattern=Well, Pattern=a, Pattern=and
+	Constrained: 
+Turn ID=31| B | M : The castle ?
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : But , uh , they want too much money .
+	Free: Pattern=money, Pattern=they
+	Constrained: 
+Turn ID=33| B | M : I've voted in a few election days , but I'm still not going to vote .
+	Free: Pattern=a, Pattern=in, Pattern=to, Pattern=but, Pattern=not
+	Constrained: 
+Turn ID=34| A | B : And as long as we're the largest , uh , consumer , then , uh , this is the market .
+	Free: Pattern=we're, Pattern=is, Pattern=the
+	Constrained: 
+Turn ID=35| B | M : every week
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : Lord .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : It's been a week
+	Free: Pattern=a
+	Constrained: 
+Turn ID=38| A | B : the only girl .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=39| B | M : I think it's the one where she teaches
+	Free: Pattern=I think, Pattern=one, Pattern=the
+	Constrained: Pattern=think, Pattern=I
+Turn ID=40| A | B : Right . Well , I put ,
+	Free: Pattern=, I, Pattern=Right ., Pattern=Well ,
+	Constrained: Pattern=Well, Pattern=I
+Turn ID=41| B | M : Yeah , it was .
+	Free: Pattern=Yeah, Pattern=it
+	Constrained: 
+Turn ID=42| A | B : Oh , yeah , oh , yeah .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : you can use the money you save
+	Free: Pattern=money, Pattern=you, Pattern=the, Pattern=can
+	Constrained: 
+Turn ID=44| A | B : My husband is a physician , so , uh , I , I I talk to parents about this a lot . But children , I , I think working mothers or mothers who choose to work outside the home , um , need very early to come to grips with any guilt , that they feel and decide what's best for them and their family .
+	Free: Pattern=they, Pattern=and, Pattern=I, Pattern=is, Pattern=I think, Pattern=the, Pattern=to, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=think, Pattern=I
+Turn ID=45| B | M : Umm ... what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=46| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 

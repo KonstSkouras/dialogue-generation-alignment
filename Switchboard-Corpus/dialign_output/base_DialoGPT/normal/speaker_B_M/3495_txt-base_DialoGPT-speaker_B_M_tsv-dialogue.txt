@@ -1,0 +1,183 @@
+B|0| M: There _is_ no problem . 
+A|1| B: It , _it_ _, it's_ _pretty_ _bad_ here , too . 
+B|2| M: _I'm_ _not_ _sure_ if _you_ can call [it] _a_ problem 
+A|3| B: We've had _a lot_ _of_ murders drug related and stuff . In _Durham_ , which [is] right next _to_ Raleigh . 
+B|4| M: _I_ think _that_ [it's] _not_ _that_ uncommon [to] _have_ [a] murder _in a_ bar _in Durham_ . 
+A|5| B: Yeah , [that] , [that] [Durham] , Raleigh , and Chapel Hill _is the_ triangle . 
+B|6| M: _So_ , [the] Triangle [is the] North Carolina _of the_ South ? 
+A|7| B: Right . 
+B|8| M: _Well ,_ _we_ _have_ [a lot] [to] do . 
+A|9| B: Yeah _, it's_ _, it's_ really _, it's_ , and I've seen [in] more [in Durham] than [I] [have] [in] Raleigh or , or or Chapel Hill . 
+B|10| M: _It's [,_ it's] . 
+A|11| B: Chapel Hill [is] kind [of] [a] , [a] ritzy city or whatever . [I] mean [, it's] kind [of] _, I'm_ _, I'm_ [sure] there [is] problems with [it] , but [it] has [a] _pretty_ low crime rate . Compare , compared [to] , [to] , [Durham] has probably got [the] worst . They've had _like_ forty-eight murders since [the] beginning [of the] _year ._ 
+B|12| M: [I] 
+A|13| B: And over half [of] [it] has been drug related . 
+B|14| M: [I'm] 
+A|15| B: Yeah . 
+B|16| M: _It's_ . [like] . [the] . every . [year .] [year .] 
+A|17| B: Yeah . 
+B|18| M:  
+A|19| B: [Well ,] [that] , and [the] , and [the] economy [is] _so bad_ and , And _so_ many _people_ [have] been laid off and stuff . 
+B|20| M: Umm _, yeah_ . 
+A|21| B: They've done special stories on _the news_ , local _news_ here . 
+B|22| M: Why [is [the] news] [so bad] ? 
+A|23| B: We had [a lot] [of] bank robberies and different , [lot] [of] break ins and stuff . [I] know , [like] [a] week or [so] ago , [I] live [in a] , [in a] town house , which [is] , [you] know [, it's] [a] _pretty_ nice neighborhood and this lady was going [to] work , she came home and everything [in] her house was total gone , light fixtures , everything . And nobody thought any different , they just thought she was moving . It was [a] moving man pulled right up [to] her house , broke [in] and stole everything she owned 
+B|24| M: yes . 
+A|25| B: [Well [,] yeah] [, it's] [, it's] [, it's] _pretty_ [bad] 
+B|26| M: _It's_ 
+A|27| B: Uh , [I] would say [so] for [the] majority [in] , [in] our , [in] my little section [of the] neighborhood because there [is] always somebody at home 
+B|28| M: [I] 
+A|29| B: and [we] all know one another and , and , on our one little section [of the] street [we] all know one another and know [that] we're [not] moving and different things [like] [that] . 
+B|30| M: [I] think [I'm] gonna be fine 
+A|31| B: [It's ,] _I , I'm_ _, I'm_ probably [the] , one [of the] youngest _people_ [that] live over here . 
+B|32| M: [I , I'm] [so] sorry . 
+A|33| B: Most _people_ are , are , retired or , or , or , [you] know , they're , they're _in their_ forties or , or whatever . [So] and [I'm] [in] my twenties _, so_ [I , I'm] [, I'm] out more than they are , but they're at home at night , 
+B|34| M:  ... 
+A|35| B: [so] [I] really don't worry about anything . 
+B|36| M: [Well [,] I'm] [not] [a] huge fan [of] [people] [in their] late 20's [, so] [I'm] still [pretty] cool . 
+A|37| B: Yeah . 
+B|38| M: Are [you] guys ever [in] trouble ? 
+A|39| B: Yeah , see , that's [the] same thing here . 
+B|40| M: 100 . 
+A|41| B: Yeah . 
+B|42| M: [So] 
+A|43| B: Yeah . 
+B|44| M: No . That's [the] problem . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : There is no problem .
+	Free: Pattern=is
+	Constrained: 
+Turn ID=1| A | B : It , it , it's pretty bad here , too .
+	Free: Pattern=, it's, Pattern=bad, Pattern=pretty, Pattern=it
+	Constrained: Pattern=it's
+Turn ID=2| B | M : I'm not sure if you can call it a problem
+	Free: Pattern=a, Pattern=it, Pattern=sure, Pattern=not, Pattern=you, Pattern=I'm
+	Constrained: 
+Turn ID=3| A | B : We've had a lot of murders drug related and stuff . In Durham , which is right next to Raleigh .
+	Free: Pattern=of, Pattern=is, Pattern=Durham, Pattern=a lot, Pattern=to
+	Constrained: Pattern=a, Pattern=lot
+Turn ID=4| B | M : I think that it's not that uncommon to have a murder in a bar in Durham .
+	Free: Pattern=have, Pattern=a, Pattern=in a, Pattern=I, Pattern=in Durham, Pattern=to, Pattern=not, Pattern=that, Pattern=it's
+	Constrained: Pattern=a, Pattern=in, Pattern=Durham
+Turn ID=5| A | B : Yeah , that , that Durham , Raleigh , and Chapel Hill is the triangle .
+	Free: Pattern=is the, Pattern=Durham, Pattern=that
+	Constrained: Pattern=is, Pattern=the
+Turn ID=6| B | M : So , the Triangle is the North Carolina of the South ?
+	Free: Pattern=of the, Pattern=is the, Pattern=So, Pattern=the
+	Constrained: Pattern=is, Pattern=the, Pattern=of
+Turn ID=7| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : Well , we have a lot to do .
+	Free: Pattern=have, Pattern=Well ,, Pattern=we, Pattern=a lot, Pattern=to
+	Constrained: Pattern=a, Pattern=lot
+Turn ID=9| A | B : Yeah , it's , it's really , it's , and I've seen in more in Durham than I have in Raleigh or , or or Chapel Hill .
+	Free: Pattern=have, Pattern=I, Pattern=, it's, Pattern=in Durham, Pattern=in
+	Constrained: Pattern=in, Pattern=Durham, Pattern=it's
+Turn ID=10| B | M : It's , it's .
+	Free: Pattern=It's ,, Pattern=, it's
+	Constrained: Pattern=It's, Pattern=it's
+Turn ID=11| A | B : Chapel Hill is kind of a , a ritzy city or whatever . I mean , it's kind of , I'm , I'm sure there is problems with it , but it has a pretty low crime rate . Compare , compared to , to , Durham has probably got the worst . They've had like forty-eight murders since the beginning of the year .
+	Free: Pattern=of, Pattern=a, Pattern=it, Pattern=I, Pattern=, it's, Pattern=is, Pattern=like, Pattern=pretty, Pattern=the, Pattern=to, Pattern=, I'm, Pattern=of the, Pattern=Durham, Pattern=year ., Pattern=sure
+	Constrained: Pattern=the, Pattern=I'm, Pattern=it's, Pattern=of
+Turn ID=12| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=13| A | B : And over half of it has been drug related .
+	Free: Pattern=it, Pattern=of
+	Constrained: 
+Turn ID=14| B | M : I'm
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=15| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : It's . like . the . every . year . year .
+	Free: Pattern=year ., Pattern=the, Pattern=It's, Pattern=like
+	Constrained: 
+Turn ID=17| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=19| A | B : Well , that , and the , and the economy is so bad and , And so many people have been laid off and stuff .
+	Free: Pattern=so bad, Pattern=Well ,, Pattern=is, Pattern=the, Pattern=that, Pattern=so, Pattern=people, Pattern=have
+	Constrained: Pattern=bad, Pattern=so
+Turn ID=20| B | M : Umm , yeah .
+	Free: Pattern=, yeah
+	Constrained: 
+Turn ID=21| A | B : They've done special stories on the news , local news here .
+	Free: Pattern=the news, Pattern=news
+	Constrained: Pattern=news, Pattern=the
+Turn ID=22| B | M : Why is the news so bad ?
+	Free: Pattern=the news, Pattern=so bad, Pattern=is the
+	Constrained: Pattern=bad, Pattern=is, Pattern=the, Pattern=news, Pattern=so
+Turn ID=23| A | B : We had a lot of bank robberies and different , lot of break ins and stuff . I know , like a week or so ago , I live in a , in a town house , which is , you know , it's a pretty nice neighborhood and this lady was going to work , she came home and everything in her house was total gone , light fixtures , everything . And nobody thought any different , they just thought she was moving . It was a moving man pulled right up to her house , broke in and stole everything she owned
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=in a, Pattern=I, Pattern=, it's, Pattern=in, Pattern=is, Pattern=like, Pattern=pretty, Pattern=lot, Pattern=so, Pattern=a lot, Pattern=to
+	Constrained: Pattern=a, Pattern=in, Pattern=it's, Pattern=lot
+Turn ID=24| B | M : yes .
+	Free: 
+	Constrained: 
+Turn ID=25| A | B : Well , yeah , it's , it's , it's pretty bad
+	Free: Pattern=bad, Pattern=Well ,, Pattern=pretty, Pattern=, it's, Pattern=, yeah
+	Constrained: Pattern=it's
+Turn ID=26| B | M : It's
+	Free: Pattern=It's
+	Constrained: 
+Turn ID=27| A | B : Uh , I would say so for the majority in , in our , in my little section of the neighborhood because there is always somebody at home
+	Free: Pattern=I, Pattern=in, Pattern=is, Pattern=the, Pattern=of the, Pattern=so
+	Constrained: Pattern=the, Pattern=of
+Turn ID=28| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=29| A | B : and we all know one another and , and , on our one little section of the street we all know one another and know that we're not moving and different things like that .
+	Free: Pattern=not, Pattern=we, Pattern=like, Pattern=of the, Pattern=that
+	Constrained: Pattern=the, Pattern=of
+Turn ID=30| B | M : I think I'm gonna be fine
+	Free: Pattern=I'm, Pattern=I
+	Constrained: 
+Turn ID=31| A | B : It's , I , I'm , I'm probably the , one of the youngest people that live over here .
+	Free: Pattern=the, Pattern=, I'm, Pattern=It's ,, Pattern=people, Pattern=I , I'm, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=I'm, Pattern=I, Pattern=, I'm, Pattern=It's, Pattern=the
+Turn ID=32| B | M : I , I'm so sorry .
+	Free: Pattern=I , I'm, Pattern=so
+	Constrained: Pattern=, I'm, Pattern=I'm, Pattern=I
+Turn ID=33| A | B : Most people are , are , retired or , or , or , you know , they're , they're in their forties or , or whatever . So and I'm in my twenties , so I , I'm , I'm out more than they are , but they're at home at night ,
+	Free: Pattern=So, Pattern=in, Pattern=, so, Pattern=, I'm, Pattern=in their, Pattern=you, Pattern=I'm, Pattern=people, Pattern=I , I'm
+	Constrained: Pattern=I'm, Pattern=I, Pattern=in, Pattern=, I'm, Pattern=so
+Turn ID=34| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=35| A | B : so I really don't worry about anything .
+	Free: Pattern=so, Pattern=I
+	Constrained: 
+Turn ID=36| B | M : Well , I'm not a huge fan of people in their late 20's , so I'm still pretty cool .
+	Free: Pattern=of, Pattern=I'm, Pattern=people, Pattern=a, Pattern=Well ,, Pattern=pretty, Pattern=, so, Pattern=, I'm, Pattern=not, Pattern=in their
+	Constrained: Pattern=in, Pattern=I'm, Pattern=so
+Turn ID=37| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M : Are you guys ever in trouble ?
+	Free: Pattern=in, Pattern=you
+	Constrained: 
+Turn ID=39| A | B : Yeah , see , that's the same thing here .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=40| B | M : 100 .
+	Free: 
+	Constrained: 
+Turn ID=41| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : So
+	Free: Pattern=So
+	Constrained: 
+Turn ID=43| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : No . That's the problem .
+	Free: Pattern=the
+	Constrained: 

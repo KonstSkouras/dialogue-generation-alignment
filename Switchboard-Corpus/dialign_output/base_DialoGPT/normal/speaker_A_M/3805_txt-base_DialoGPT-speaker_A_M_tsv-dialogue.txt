@@ -1,0 +1,163 @@
+B|0| M: _I_ _do_ believe . 
+A|1| A: Well , there _are_ _a_ lot _of_ things _that_ _people_ , [I] think general , 
+B|2| M:  ... 
+A|3| A: Well , [I] think it's _interesting_ _to_ look at , uh , where _the_ money goes , and it goes _a_ lot _of_ places where it probably ought _not_ go and and [I] don't think generally , [I] think what's _interesting_ _is that_ we probably represent _the_ majority _of_ _people_ in this country in terms _of_ their feelings _about _the_ government_ 
+B|4| M:  ... 
+A|5| A: and _how_ it serves us given _the_ extraordinarily large sum _of_ money _the government_ has _to_ operate with . 
+B|6| M: The [people] _have_ [a] _right_ _to be_ _free_ _from_ oppression . 
+A|7| A: And _that_ , what [I] think _is_ going [to be] really _interesting_ _is_ what we [do] _about_ it . [I] mean , we _are_ going [to] [have] [to] change _the_ [people] who represent us . 
+B|8| M: We . 
+A|9| A: [I] mean , and [I] think it's going [to be] real _interesting_ [to] see and , and then force upon them , uh , 
+B|10| M: I'm _just_ saying _, that's_ [not] [how] [the] system works . 
+A|11| A: _Yeah ,_ [right] [that's] [I] think [that's] [the] only _thing_ [that's] going [to] change it . 
+B|12| M: It's _a _very_ interesting_ [thing] . 
+A|13| A: Our anger _is_ going [to] [have] [to] , [to] give rise [to] , [to] more activity on our part . 
+B|14| M: This _is a_ shame . 
+A|15| A: Uh , I've , I've said for years _that_ there's full employment for [the] politically active and in our society , uh , there's [very] little full employment . Most [people] in this country _are_ getting worse off , [not] better off . 
+B|16| M: It's [not] [about the] economy . It's [about the] economic situation . 
+A|17| A: Eighty percent _of the_ public , according [to] Bill Moyers' , uh , recent , uh , piece for , uh , Public Broadcasting , which , by [the] way [is [a] very] good use _of_ _government_ money . [I] think P B S [is] wonderful . But this special focused on [the] fact _that_ eighty percent _of the_ [people] in this country _are_ , _are_ seeing their real incomes , and thus , standards _of_ living , decline . And twenty percent _are_ seeing theirs improve . That's [not] [a] formula for [a] better society . 
+B|18| M: [I] 
+A|19| A: And _the government_ really plays [a] role in this . 
+B|20| M: _You_ . 
+A|21| A: [I] mean , well , _they are_ [the] [people] whose strings _are_ pulled and by [I] guess powerful 
+B|22| M: _What_ [are] [they are] ... 
+A|23| A: [You] know , and it's really [interesting] [to] see [how] _that_ affects [people] because essentially more and more [people] in this country [are] [not] likely [to] revolt in [the] way _that_ [people] used [to] think _of_ , _of the_ voter revolting . But [people] [are] pretty much getting [the] picture _that_ some [people] get taken care _of_ and others don't and [they] think it's unfair , and when [they] recognize _that_ it's their tax money , they're going [to] [do] more [about] it . [I] I'll tell you one quick , uh , one [thing] [very interesting] . C B S , after [the] State _of the_ Union address [is] going [to] open up [a] telephone line , an eight hundred number and [people] _can_ call in and say what [they] think [about] what's going on in this country . 
+B|24| M:  
+A|25| A: They expect , opening it for one hour , _that_ they'll get three , hundred thousand telephone calls . 
+B|26| M:  ... 
+A|27| A: And I've thought for years it would make [a] lot _of_ sense [to] create an eight hundred number for voters [to] call and , and vent their frustration with _government_ . _Like_ one , eight hundred capitol or something like _that ._ [You] know , [just] [a] number you could call [from] anywhere , anytime . 
+B|28| M: yes . 
+A|29| A: [I] think [that's] coming and [I] think once , once [people] really start [to] communicate [how] [they] feel , things [are] going [to] change . Until then , [I] think , you know , it's going [to be] really painful . So [the] question [is] , [how] soon [are] we going [to] start [to] get our money's worth and , as you said , it's [how] soon we get involved , and [I] think we need [to] create mechanisms [to] allow us [to] get involved , like allowing us [to] call [a] toll [free] number and say , hey , look , [do] it this way , [not] _that_ way , or [I] like this , or [I] don't like _that_ , or this [is] [how] [I] feel [about] your spending my money on art _that_ [I] don't think [is] art . 
+B|30| M:  
+A|31| A: Well [, that's] [the] good [thing] [about] what [is] happening because [I] think more and more [the] news media , which takes [a] heck _of a_ beating and , and deserves some _of_ it , [is] telling us , you know , [about the] problems . So [the] more we communicate , hey , look , we want [a] change here , because , you know , as it turns out , we've wasted [a] tremendous amount _of_ money on our defense spending in this country . 
+B|32| M: [Like] . lol 
+A|33| A: Over [a very] long period _of_ time . 
+B|34| M:  
+A|35| A: Uh , and , uh , 
+B|36| M: [Yeah ,] but [the government] [can] [do] [that .] 
+A|37| A: Right . 
+B|38| M: [Yeah ,] [the] whole point [of the] movie [is that] [the] entire [thing] [is a] bit [of a] mess . 
+A|39| A: [Yeah] . Well , you may [be] [right] . [What] [I] think [is] really going [to be] [interesting] [is] [to] see [how] , uh , we as [a] society deal with it and [I] , and [I] think it [is] , what you say , it's , it's [a] , 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I do believe .
+	Free: Pattern=do, Pattern=I
+	Constrained: 
+Turn ID=1| A | A : Well , there are a lot of things that people , I think general ,
+	Free: Pattern=of, Pattern=people, Pattern=a, Pattern=that, Pattern=are, Pattern=I
+	Constrained: 
+Turn ID=2| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : Well , I think it's interesting to look at , uh , where the money goes , and it goes a lot of places where it probably ought not go and and I don't think generally , I think what's interesting is that we probably represent the majority of people in this country in terms of their feelings about the government
+	Free: Pattern=of, Pattern=the government, Pattern=a, Pattern=I, Pattern=is that, Pattern=the, Pattern=interesting, Pattern=to, Pattern=not, Pattern=people, Pattern=about the
+	Constrained: Pattern=about, Pattern=government, Pattern=is, Pattern=the, Pattern=that
+Turn ID=4| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : and how it serves us given the extraordinarily large sum of money the government has to operate with .
+	Free: Pattern=of, Pattern=the government, Pattern=how, Pattern=the, Pattern=to
+	Constrained: Pattern=the, Pattern=government
+Turn ID=6| B | M : The people have a right to be free from oppression .
+	Free: Pattern=right, Pattern=a, Pattern=from, Pattern=free, Pattern=to be, Pattern=people, Pattern=have
+	Constrained: Pattern=to, Pattern=be
+Turn ID=7| A | A : And that , what I think is going to be really interesting is what we do about it . I mean , we are going to have to change the people who represent us .
+	Free: Pattern=do, Pattern=about, Pattern=is, Pattern=the, Pattern=interesting, Pattern=to, Pattern=to be, Pattern=that, Pattern=people, Pattern=have, Pattern=are, Pattern=I
+	Constrained: Pattern=to, Pattern=be
+Turn ID=8| B | M : We .
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : I mean , and I think it's going to be real interesting to see and , and then force upon them , uh ,
+	Free: Pattern=to be, Pattern=to, Pattern=I, Pattern=interesting
+	Constrained: Pattern=to, Pattern=be
+Turn ID=10| B | M : I'm just saying , that's not how the system works .
+	Free: Pattern=just, Pattern=how, Pattern=the, Pattern=, that's, Pattern=not
+	Constrained: Pattern=that's
+Turn ID=11| A | A : Yeah , right that's I think that's the only thing that's going to change it .
+	Free: Pattern=right, Pattern=I, Pattern=Yeah ,, Pattern=to, Pattern=thing, Pattern=that's, Pattern=the
+	Constrained: Pattern=Yeah
+Turn ID=12| B | M : It's a very interesting thing .
+	Free: Pattern=a very, Pattern=very interesting, Pattern=thing
+	Constrained: Pattern=very, Pattern=a, Pattern=interesting
+Turn ID=13| A | A : Our anger is going to have to , to give rise to , to more activity on our part .
+	Free: Pattern=is, Pattern=to, Pattern=have
+	Constrained: 
+Turn ID=14| B | M : This is a shame .
+	Free: Pattern=is a
+	Constrained: Pattern=is, Pattern=a
+Turn ID=15| A | A : Uh , I've , I've said for years that there's full employment for the politically active and in our society , uh , there's very little full employment . Most people in this country are getting worse off , not better off .
+	Free: Pattern=people, Pattern=are, Pattern=very, Pattern=the, Pattern=that, Pattern=not
+	Constrained: 
+Turn ID=16| B | M : It's not about the economy . It's about the economic situation .
+	Free: Pattern=about the, Pattern=not
+	Constrained: Pattern=the, Pattern=about
+Turn ID=17| A | A : Eighty percent of the public , according to Bill Moyers' , uh , recent , uh , piece for , uh , Public Broadcasting , which , by the way is a very good use of government money . I think P B S is wonderful . But this special focused on the fact that eighty percent of the people in this country are , are seeing their real incomes , and thus , standards of living , decline . And twenty percent are seeing theirs improve . That's not a formula for a better society .
+	Free: Pattern=of, Pattern=a, Pattern=government, Pattern=the, Pattern=to, Pattern=not, Pattern=people, Pattern=is a, Pattern=are, Pattern=I, Pattern=is, Pattern=a very, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=a, Pattern=the, Pattern=very, Pattern=is
+Turn ID=18| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=19| A | A : And the government really plays a role in this .
+	Free: Pattern=the government, Pattern=a
+	Constrained: Pattern=the, Pattern=government
+Turn ID=20| B | M : You .
+	Free: Pattern=You
+	Constrained: 
+Turn ID=21| A | A : I mean , well , they are the people whose strings are pulled and by I guess powerful
+	Free: Pattern=people, Pattern=they are, Pattern=the, Pattern=are, Pattern=I
+	Constrained: Pattern=are, Pattern=they
+Turn ID=22| B | M : What are they are ...
+	Free: Pattern=they are, Pattern=What, Pattern=are
+	Constrained: Pattern=are, Pattern=they
+Turn ID=23| A | A : You know , and it's really interesting to see how that affects people because essentially more and more people in this country are not likely to revolt in the way that people used to think of , of the voter revolting . But people are pretty much getting the picture that some people get taken care of and others don't and they think it's unfair , and when they recognize that it's their tax money , they're going to do more about it . I I'll tell you one quick , uh , one thing very interesting . C B S , after the State of the Union address is going to open up a telephone line , an eight hundred number and people can call in and say what they think about what's going on in this country .
+	Free: Pattern=people, Pattern=they, Pattern=how, Pattern=can, Pattern=about, Pattern=is, Pattern=You, Pattern=interesting, Pattern=to, Pattern=not, Pattern=very interesting, Pattern=of, Pattern=do, Pattern=a, Pattern=are, Pattern=I, Pattern=thing, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=the, Pattern=very, Pattern=of, Pattern=interesting
+Turn ID=24| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : They expect , opening it for one hour , that they'll get three , hundred thousand telephone calls .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=26| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : And I've thought for years it would make a lot of sense to create an eight hundred number for voters to call and , and vent their frustration with government . Like one , eight hundred capitol or something like that . You know , just a number you could call from anywhere , anytime .
+	Free: Pattern=Like, Pattern=just, Pattern=a, Pattern=from, Pattern=government, Pattern=You, Pattern=to, Pattern=of, Pattern=that .
+	Constrained: Pattern=that
+Turn ID=28| B | M : yes .
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : I think that's coming and I think once , once people really start to communicate how they feel , things are going to change . Until then , I think , you know , it's going to be really painful . So the question is , how soon are we going to start to get our money's worth and , as you said , it's how soon we get involved , and I think we need to create mechanisms to allow us to get involved , like allowing us to call a toll free number and say , hey , look , do it this way , not that way , or I like this , or I don't like that , or this is how I feel about your spending my money on art that I don't think is art .
+	Free: Pattern=people, Pattern=they, Pattern=how, Pattern=about, Pattern=free, Pattern=is, Pattern=to, Pattern=to be, Pattern=that, Pattern=not, Pattern=do, Pattern=a, Pattern=are, Pattern=I, Pattern=that's, Pattern=the
+	Constrained: Pattern=to, Pattern=be
+Turn ID=30| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : Well , that's the good thing about what is happening because I think more and more the news media , which takes a heck of a beating and , and deserves some of it , is telling us , you know , about the problems . So the more we communicate , hey , look , we want a change here , because , you know , as it turns out , we've wasted a tremendous amount of money on our defense spending in this country .
+	Free: Pattern=of, Pattern=about the, Pattern=a, Pattern=I, Pattern=about, Pattern=is, Pattern=of a, Pattern=, that's, Pattern=thing, Pattern=the
+	Constrained: Pattern=of, Pattern=a, Pattern=about, Pattern=that's, Pattern=the
+Turn ID=32| B | M : Like . lol
+	Free: Pattern=Like
+	Constrained: 
+Turn ID=33| A | A : Over a very long period of time .
+	Free: Pattern=a very, Pattern=of
+	Constrained: Pattern=very, Pattern=a
+Turn ID=34| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : Uh , and , uh ,
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : Yeah , but the government can do that .
+	Free: Pattern=that ., Pattern=the government, Pattern=do, Pattern=can, Pattern=Yeah ,
+	Constrained: Pattern=Yeah, Pattern=the, Pattern=that, Pattern=government
+Turn ID=37| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M : Yeah , the whole point of the movie is that the entire thing is a bit of a mess .
+	Free: Pattern=is a, Pattern=Yeah ,, Pattern=of the, Pattern=is that, Pattern=of a, Pattern=thing, Pattern=the
+	Constrained: Pattern=of, Pattern=a, Pattern=is, Pattern=the, Pattern=Yeah, Pattern=that
+Turn ID=39| A | A : Yeah . Well , you may be right . What I think is really going to be interesting is to see how , uh , we as a society deal with it and I , and I think it is , what you say , it's , it's a ,
+	Free: Pattern=right, Pattern=a, Pattern=how, Pattern=I, Pattern=What, Pattern=is, Pattern=be, Pattern=interesting, Pattern=to, Pattern=Yeah, Pattern=to be
+	Constrained: Pattern=to, Pattern=be

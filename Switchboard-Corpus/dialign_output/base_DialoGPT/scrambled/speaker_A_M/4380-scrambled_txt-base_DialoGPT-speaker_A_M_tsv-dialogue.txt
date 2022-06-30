@@ -1,0 +1,171 @@
+A|0| A: Yeah . 
+B|1| M: I'm pretty sure that's why _he_ left _, he_ didn't want _to be_ _the_ _only_ _one_ . 
+A|2| A: because _I_ was already _in_ Hong Kong _and_ , um _, but_ _it_ [only] cost _you_ _about_ _a_ thousand dollars [to] _go_ _there_ _and_ _I_ went [to] Beijing , Shanghai , Chengdu _and_ actually then _I_ took _a_ train up from Shanghai [to] _a little_ , Quingdao _I_ _think_ _is the_ name _of_ _it_ . _It's_ _a little_ , uh , sort _of_ getaway retreat village not far from Shanghai . _It's_ just _a_ train ride . 
+B|3| M: pull [it] , _it's_ _, it_ , 
+A|4| A: Really . _I_ usually _have_ , too . 
+B|5| M: The family , family , families . 
+A|6| A: Uh-huh . 
+B|7| M: [I] remember when _they_ won [the] Super Bowl . 
+A|8| A: Huh . 
+B|9| M: We [have] [a] few [of] those 
+A|10| A: Definitely seen [it] on , on , during [the] day down _there_ _, and_ _I don't think_ [it's] [a] very violent show _, I_ _think_ [it's] funny . [I] _think_ [it's] [a] real _good_ concept _, I_ _think_ [it's] something completely new . 
+B|11| M: _They_ [have] [a] history [of] _letting_ [the] best players [go] . 
+A|12| A: [I] _can_ hear [the] accent now [I] hear [the] [I] hear [the] Western Pennsylvania , um . 
+B|13| M: I'm back . 
+A|14| A: [I] call on Oshman's sporting goods , again [, it] may [be] casual _or_ [it] may [be] coat _and_ tie . So [it] depends . 
+B|15| M: Uhh [, [I] don't think] [you] understand . 
+A|16| A: _and the_ other cities [it] wasn't nearly as bad _and_ [a] couple [of] them [it] was , what _we_ did _in_ some [of] [the] other cities _and_ [they] tell [you] [to] do _that_ _is_ [to] hire [a] local guide 
+B|17| M:  
+A|18| A: Ooh , _that_ would [be] nice . 
+B|19| M: Sorry . 
+A|20| A: Yeah . 
+B|21| M:  ... 
+A|22| A: What , what do [you] do ? 
+B|23| M: Is [it] cold ? 
+A|24| A: Oh , oh yeah _, and_ every _time_ [you] see [one] hit on [the] side [of] [the] road [you] _say_ _is_ _that_ my _cat_ . 
+B|25| M: Uuhhh ... what's [that] ? 
+A|26| A: And _in_ talking [to] [the] people from France [he] said , [you] know [, he] says , [one] [of] [the] things [that] _really_ concerns me _is_ your government _is_ not telling [you] enough _about_ how [it] _and_ frightening this epidemic _is_ . And they're [letting] , [the] information _out_ slowly _about_ how , [you] know , how big [it] _is_ . 
+B|27| M: _They_ had [a] fun [time] running around [and] playing . 
+A|28| A: And [I] like [that] _idea_ if [they] _can_ handle [it] themselves . Um , 
+B|29| M: [It's] ... [a] bit small . 
+A|30| A: Huh . 
+B|31| M: I've _got_ [to] [say] , that's [a] [really] [good] [idea] . I've been thinking [about] [it] [, but] [I don't think] it'll work _out ._ 
+A|32| A: Yeah , we've [got] [a] calico _cat_ too . 
+B|33| M: How [is the] [cat] getting so much food ? 
+A|34| A: No , my husband does . 
+B|35| M: N . 
+A|36| A: Every [time] [you] , [They] could buy their way [out .] 
+B|37| M: That [, [and] the] whole , '' 
+A|38| A: Oh , okay , we'll try [to be] real quick here . 
+B|39| M: I'm [a little] confused , are [you] saying [that] there's [a] lake , [or] [that] [there] are no lakes [in] [the] south ? 
+A|40| A: And , 
+B|41| M: [I don't think] [we] [can] [be] sure . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I'm pretty sure that's why he left , he didn't want to be the only one .
+	Free: Pattern=only, Pattern=one, Pattern=he, Pattern=, he, Pattern=the, Pattern=to be
+	Constrained: Pattern=he, Pattern=be, Pattern=to
+Turn ID=2| A | A : because I was already in Hong Kong and , um , but it only cost you about a thousand dollars to go there and I went to Beijing , Shanghai , Chengdu and actually then I took a train up from Shanghai to a little , Quingdao I think is the name of it . It's a little , uh , sort of getaway retreat village not far from Shanghai . It's just a train ride .
+	Free: Pattern=of, Pattern=only, Pattern=go, Pattern=there, Pattern=a, Pattern=I, Pattern=a little, Pattern=about, Pattern=is the, Pattern=It's, Pattern=to, Pattern=you, Pattern=, but, Pattern=it, Pattern=and, Pattern=think, Pattern=in
+	Constrained: Pattern=is, Pattern=a, Pattern=the
+Turn ID=3| B | M : pull it , it's , it ,
+	Free: Pattern=, it, Pattern=it, Pattern=it's
+	Constrained: Pattern=it
+Turn ID=4| A | A : Really . I usually have , too .
+	Free: Pattern=have, Pattern=I
+	Constrained: 
+Turn ID=5| B | M : The family , family , families .
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : I remember when they won the Super Bowl .
+	Free: Pattern=the, Pattern=I, Pattern=they
+	Constrained: 
+Turn ID=8| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : We have a few of those
+	Free: Pattern=have, Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=10| A | A : Definitely seen it on , on , during the day down there , and I don't think it's a very violent show , I think it's funny . I think it's a real good concept , I think it's something completely new .
+	Free: Pattern=good, Pattern=I don't think, Pattern=there, Pattern=it, Pattern=I, Pattern=think, Pattern=the, Pattern=, and, Pattern=it's, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=think, Pattern=and
+Turn ID=11| B | M : They have a history of letting the best players go .
+	Free: Pattern=of, Pattern=go, Pattern=a, Pattern=the, Pattern=letting, Pattern=They, Pattern=have
+	Constrained: 
+Turn ID=12| A | A : I can hear the accent now I hear the I hear the Western Pennsylvania , um .
+	Free: Pattern=the, Pattern=I, Pattern=can
+	Constrained: 
+Turn ID=13| B | M : I'm back .
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : I call on Oshman's sporting goods , again , it may be casual or it may be coat and tie . So it depends .
+	Free: Pattern=, it, Pattern=I, Pattern=or, Pattern=be, Pattern=it, Pattern=and
+	Constrained: Pattern=it
+Turn ID=15| B | M : Uhh , I don't think you understand .
+	Free: Pattern=I don't think, Pattern=, I, Pattern=you
+	Constrained: Pattern=I, Pattern=think
+Turn ID=16| A | A : and the other cities it wasn't nearly as bad and a couple of them it was , what we did in some of the other cities and they tell you to do that is to hire a local guide
+	Free: Pattern=of, Pattern=you, Pattern=they, Pattern=a, Pattern=and the, Pattern=in, Pattern=is, Pattern=we, Pattern=the, Pattern=to, Pattern=that, Pattern=it, Pattern=and
+	Constrained: Pattern=the, Pattern=and
+Turn ID=17| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : Ooh , that would be nice .
+	Free: Pattern=that, Pattern=be
+	Constrained: 
+Turn ID=19| B | M : Sorry .
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : What , what do you do ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=23| B | M : Is it cold ?
+	Free: Pattern=it
+	Constrained: 
+Turn ID=24| A | A : Oh , oh yeah , and every time you see one hit on the side of the road you say is that my cat .
+	Free: Pattern=time, Pattern=of, Pattern=you, Pattern=cat, Pattern=one, Pattern=say, Pattern=is, Pattern=the, Pattern=, and, Pattern=that
+	Constrained: Pattern=and
+Turn ID=25| B | M : Uuhhh ... what's that ?
+	Free: Pattern=that
+	Constrained: 
+Turn ID=26| A | A : And in talking to the people from France he said , you know , he says , one of the things that really concerns me is your government is not telling you enough about how it and frightening this epidemic is . And they're letting , the information out slowly about how , you know , how big it is .
+	Free: Pattern=of, Pattern=one, Pattern=he, Pattern=about, Pattern=, he, Pattern=in, Pattern=is, Pattern=really, Pattern=the, Pattern=letting, Pattern=to, Pattern=that, Pattern=you, Pattern=out, Pattern=it, Pattern=and
+	Constrained: Pattern=he
+Turn ID=27| B | M : They had a fun time running around and playing .
+	Free: Pattern=time, Pattern=They, Pattern=a, Pattern=and
+	Constrained: 
+Turn ID=28| A | A : And I like that idea if they can handle it themselves . Um ,
+	Free: Pattern=idea, Pattern=they, Pattern=it, Pattern=I, Pattern=can, Pattern=that
+	Constrained: 
+Turn ID=29| B | M : It's ... a bit small .
+	Free: Pattern=It's, Pattern=a
+	Constrained: 
+Turn ID=30| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : I've got to say , that's a really good idea . I've been thinking about it , but I don't think it'll work out .
+	Free: Pattern=good, Pattern=idea, Pattern=, but, Pattern=I don't think, Pattern=a, Pattern=it, Pattern=about, Pattern=say, Pattern=out ., Pattern=really, Pattern=got, Pattern=to
+	Constrained: Pattern=think, Pattern=I, Pattern=out
+Turn ID=32| A | A : Yeah , we've got a calico cat too .
+	Free: Pattern=a, Pattern=got, Pattern=cat
+	Constrained: 
+Turn ID=33| B | M : How is the cat getting so much food ?
+	Free: Pattern=is the, Pattern=cat
+	Constrained: Pattern=the, Pattern=is
+Turn ID=34| A | A : No , my husband does .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : N .
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : Every time you , They could buy their way out .
+	Free: Pattern=out ., Pattern=time, Pattern=They, Pattern=you
+	Constrained: Pattern=out
+Turn ID=37| B | M : That , and the whole , ''
+	Free: Pattern=and the, Pattern=, and
+	Constrained: Pattern=the, Pattern=and
+Turn ID=38| A | A : Oh , okay , we'll try to be real quick here .
+	Free: Pattern=to be
+	Constrained: Pattern=be, Pattern=to
+Turn ID=39| B | M : I'm a little confused , are you saying that there's a lake , or that there are no lakes in the south ?
+	Free: Pattern=you, Pattern=there, Pattern=a, Pattern=a little, Pattern=in, Pattern=or, Pattern=the, Pattern=that
+	Constrained: Pattern=a
+Turn ID=40| A | A : And ,
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : I don't think we can be sure .
+	Free: Pattern=I don't think, Pattern=we, Pattern=be, Pattern=can
+	Constrained: Pattern=I, Pattern=think

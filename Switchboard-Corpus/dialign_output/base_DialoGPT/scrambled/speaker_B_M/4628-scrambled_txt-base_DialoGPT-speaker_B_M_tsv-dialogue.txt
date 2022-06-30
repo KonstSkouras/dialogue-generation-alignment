@@ -1,0 +1,187 @@
+A|0| B: because since I'm _an_ international student , _they_ want _to_ send me back _to_ Argentina . 
+B|1| M: _I_ _have_ _a_ lot _of_ stuff _you can_ use . 
+A|2| B: And _I think_ _it's_ kind [of] neat _to_ _be_ able _to_ spend the afternoons _with_ the kids occasionally too . 
+B|3| M: You're everywhere . 
+A|4| B: _and_ fortunately _it_ was _just_ _like a_ _retriever_ _and_ then _I've_ had [a] _retriever ._ 
+B|5| M: Is _that_ [an] old model ? 
+A|6| B: _No ,_ because _if_ [you] go back there , then [you can] never get out . 
+B|7| M: It's [like a] million dollars or something . 
+A|8| B: Oh , yeah . _Well ,_ 
+B|9| M: [I] am _not_ _even_ sure [if] _he_ has _any_ idea _what_ [I] am doing . 
+A|10| B: Yeah . 
+B|11| M: [I think] [it] does . 
+A|12| B: Oh , yeah . 
+B|13| M: What does [a] college 
+A|14| B: [I] [can] understand . 
+B|15| M: [No ,] 
+A|16| B: _Well ,_ [I] guess , um , down in , kind [of] in North Dallas , there _is_ [a] place [that] will take almost anything . 
+B|17| M: 'cant [be] sharp ? 
+A|18| B: Uh-huh . 
+B|19| M: [I've] seen _them_ breed _with a_ golden [retriever .] 
+A|20| B: so _it's_ [a] good experience . 
+B|21| M: i'm 
+A|22| B: Right . 
+B|23| M: [I] dunno . 
+A|24| B: [I think] [that] _they_ should [be] put away . 
+B|25| M: You [and] [they] _all_ [of] us 
+A|26| B: And , um , [it] scares me _a little_ _bit_ _to_ [think] [that] [they] would begin restricting gun control _to_ the point where , um , eventually we may [not] [be] able _to_ [have] [that] right [any] more . 
+B|27| M: The only thing that's different [is] [that] [it's] [an] English based site . 
+A|28| B: That'd [be] the best way _to_ [be] . 
+B|29| M: But [I] [have] [a] Mercedes . 
+A|30| B: So [any] , [any] , anybody [that] says life in prison [with] no chance [of] parole , I'd say , _uh_ , give [them] the death penalty So , 
+B|31| M: uuhuhh . You [uh] ... uhh _, you know_ . 
+A|32| B: Yeah , my , my father was raising four oh well , three kids before [he] had me , so [it] was , [uh] [, you know] , you're trying , _to_ support , [uh] , four kids , [and] [it's] pretty hard [you know] , 
+B|33| M: [Well ,] that's [a little] odd . 
+A|34| B: Because they'll arrest someone [and] [, you know] , go through [all] [that] paperwork [and] writing [a] report [and] [all] this , [and] having [all] kinds [of] evidence [and] [you] _have to_ [even] [be] careful how [you] arrest [them] , how [you] _talk_ _to_ [them] , [uh] [, you know] , [what] [they] say , 
+B|35| M: [I] [know] ... 
+A|36| B: [Well ,] because my , 
+B|37| M: It's [a] [bit] [of] [a] dilemma . 
+A|38| B: Uh , well , [uh] , from [what] we [can] tell [it] was [a] pellet gun [and] then [he] started chasing him [with a] bull whip . 
+B|39| M: We [have] [a] program for [that] , we'll [just] [have to] see [what] [it] [is] . 
+A|40| B: Okay . 
+B|41| M: Heh 
+A|42| B: Uh-huh . 
+B|43| M: [I] don't wanna [talk] about [it] . 
+A|44| B: [it's] [just] , [it's] [just] ridiculous . 
+B|45| M:  
+
+
+TURN DETAILS:
+Turn ID=0| A | B : because since I'm an international student , they want to send me back to Argentina .
+	Free: Pattern=they, Pattern=an, Pattern=to
+	Constrained: 
+Turn ID=1| B | M : I have a lot of stuff you can use .
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=I, Pattern=you can
+	Constrained: Pattern=you, Pattern=can
+Turn ID=2| A | B : And I think it's kind of neat to be able to spend the afternoons with the kids occasionally too .
+	Free: Pattern=of, Pattern=to, Pattern=I think, Pattern=be, Pattern=with, Pattern=it's
+	Constrained: Pattern=I, Pattern=think
+Turn ID=3| B | M : You're everywhere .
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : and fortunately it was just like a retriever and then I've had a retriever .
+	Free: Pattern=like a, Pattern=I've, Pattern=just, Pattern=a, Pattern=retriever, Pattern=retriever ., Pattern=it, Pattern=and
+	Constrained: Pattern=a, Pattern=retriever
+Turn ID=5| B | M : Is that an old model ?
+	Free: Pattern=an, Pattern=that
+	Constrained: 
+Turn ID=6| A | B : No , because if you go back there , then you can never get out .
+	Free: Pattern=No ,, Pattern=you can, Pattern=if, Pattern=you
+	Constrained: Pattern=you, Pattern=can
+Turn ID=7| B | M : It's like a million dollars or something .
+	Free: Pattern=like a
+	Constrained: Pattern=a
+Turn ID=8| A | B : Oh , yeah . Well ,
+	Free: Pattern=Well ,
+	Constrained: 
+Turn ID=9| B | M : I am not even sure if he has any idea what I am doing .
+	Free: Pattern=any, Pattern=he, Pattern=not, Pattern=what, Pattern=even, Pattern=I, Pattern=if
+	Constrained: 
+Turn ID=10| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : I think it does .
+	Free: Pattern=I think, Pattern=it
+	Constrained: Pattern=I, Pattern=think
+Turn ID=12| A | B : Oh , yeah .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : What does a college
+	Free: Pattern=a
+	Constrained: 
+Turn ID=14| A | B : I can understand .
+	Free: Pattern=I, Pattern=can
+	Constrained: 
+Turn ID=15| B | M : No ,
+	Free: Pattern=No ,
+	Constrained: 
+Turn ID=16| A | B : Well , I guess , um , down in , kind of in North Dallas , there is a place that will take almost anything .
+	Free: Pattern=of, Pattern=a, Pattern=I, Pattern=Well ,, Pattern=is, Pattern=that
+	Constrained: 
+Turn ID=17| B | M : 'cant be sharp ?
+	Free: Pattern=be
+	Constrained: 
+Turn ID=18| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : I've seen them breed with a golden retriever .
+	Free: Pattern=retriever ., Pattern=with a, Pattern=them, Pattern=I've
+	Constrained: Pattern=with, Pattern=a, Pattern=retriever
+Turn ID=20| A | B : so it's a good experience .
+	Free: Pattern=a, Pattern=it's
+	Constrained: 
+Turn ID=21| B | M : i'm
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : I dunno .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=24| A | B : I think that they should be put away .
+	Free: Pattern=I think, Pattern=they, Pattern=be, Pattern=that
+	Constrained: Pattern=I, Pattern=think
+Turn ID=25| B | M : You and they all of us
+	Free: Pattern=they, Pattern=all, Pattern=and, Pattern=of
+	Constrained: 
+Turn ID=26| A | B : And , um , it scares me a little bit to think that they would begin restricting gun control to the point where , um , eventually we may not be able to have that right any more .
+	Free: Pattern=have, Pattern=they, Pattern=bit, Pattern=any, Pattern=it, Pattern=a little, Pattern=think, Pattern=be, Pattern=to, Pattern=that, Pattern=not
+	Constrained: Pattern=a
+Turn ID=27| B | M : The only thing that's different is that it's an English based site .
+	Free: Pattern=is, Pattern=an, Pattern=that, Pattern=it's
+	Constrained: 
+Turn ID=28| A | B : That'd be the best way to be .
+	Free: Pattern=be, Pattern=to
+	Constrained: 
+Turn ID=29| B | M : But I have a Mercedes .
+	Free: Pattern=have, Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=30| A | B : So any , any , anybody that says life in prison with no chance of parole , I'd say , uh , give them the death penalty So ,
+	Free: Pattern=of, Pattern=uh, Pattern=any, Pattern=with, Pattern=them, Pattern=that
+	Constrained: 
+Turn ID=31| B | M : uuhuhh . You uh ... uhh , you know .
+	Free: Pattern=, you know, Pattern=uh
+	Constrained: Pattern=you know, Pattern=know, Pattern=you
+Turn ID=32| A | B : Yeah , my , my father was raising four oh well , three kids before he had me , so it was , uh , you know , you're trying , to support , uh , four kids , and it's pretty hard you know ,
+	Free: Pattern=to, Pattern=it's, Pattern=uh, Pattern=you know, Pattern=it, Pattern=and, Pattern=he, Pattern=, you know
+	Constrained: Pattern=you know, Pattern=know, Pattern=you
+Turn ID=33| B | M : Well , that's a little odd .
+	Free: Pattern=Well ,, Pattern=a little
+	Constrained: Pattern=a
+Turn ID=34| A | B : Because they'll arrest someone and , you know , go through all that paperwork and writing a report and all this , and having all kinds of evidence and you have to even be careful how you arrest them , how you talk to them , uh , you know , what they say ,
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=, you know, Pattern=be, Pattern=all, Pattern=have to, Pattern=to, Pattern=you, Pattern=uh, Pattern=they, Pattern=what, Pattern=even, Pattern=talk, Pattern=them, Pattern=that
+	Constrained: Pattern=have, Pattern=know, Pattern=to, Pattern=you, Pattern=you know
+Turn ID=35| B | M : I know ...
+	Free: Pattern=I, Pattern=know
+	Constrained: 
+Turn ID=36| A | B : Well , because my ,
+	Free: Pattern=Well ,
+	Constrained: 
+Turn ID=37| B | M : It's a bit of a dilemma .
+	Free: Pattern=bit, Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=38| A | B : Uh , well , uh , from what we can tell it was a pellet gun and then he started chasing him with a bull whip .
+	Free: Pattern=uh, Pattern=what, Pattern=with a, Pattern=a, Pattern=it, Pattern=and, Pattern=he, Pattern=can
+	Constrained: Pattern=with, Pattern=a
+Turn ID=39| B | M : We have a program for that , we'll just have to see what it is .
+	Free: Pattern=what, Pattern=a, Pattern=it, Pattern=is, Pattern=have to, Pattern=that, Pattern=just, Pattern=have
+	Constrained: Pattern=have, Pattern=to
+Turn ID=40| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : Heh
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : I don't wanna talk about it .
+	Free: Pattern=it, Pattern=I, Pattern=talk
+	Constrained: 
+Turn ID=44| A | B : it's just , it's just ridiculous .
+	Free: Pattern=just, Pattern=it's
+	Constrained: 
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 

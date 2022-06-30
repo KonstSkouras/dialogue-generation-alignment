@@ -1,0 +1,203 @@
+A|0| A: Well _, I_ had _the_ _, I_ had _a_ broiled chicken breast _and_ _it_ was excellent . _It_ was _a_ marinated , broiled chicken breast _and_ _it_ was 
+B|1| M: _There_ _are_ _a lot_ women _out_ _there_ . 
+A|2| A: Oh , _and_ you've always , lived _in_ Texas , _have_ _you ?_ 
+B|3| M: Why ? 
+A|4| A: _you_ _know_ _what_ _I_ _mean ?_ 
+B|5| M: _You _know_ _,_ uh _,_ uh_ [you] did _, uh_ _uh_ 
+A|6| A: Oh , really ? 
+B|7| M: The _people_ [have] [a] _right_ _to be_ free _from_ oppression . 
+A|8| A: _Yeah_ 
+B|9| M: [It] 
+A|10| A: _That's_ large _if_ your kids aren't at home any more . 
+B|11| M: [That's] ... 
+A|12| A: Uh-huh . 
+B|13| M: Are [you] _going to_ make [the] joke _about_ _me_ ? 
+A|14| A: Uh , _just_ _like_ [a] [, uh ,] set up [a lot] _of_ times _and_ it's _like_ really large [, uh ,] parking lots . And pylons _and_ things . 
+B|15| M: c' ? 
+A|16| A: Right , _and_ then _, you_ [know ,] sometimes we try [to] _do_ our lesson on Sunday night _and_ then our activity or something on Monday _but_ , We're , it's real important [to] us [to] spend time together . 
+B|17| M: _You [know_ [,] I] think _, that's_ how _they_ [do] [it] . 
+A|18| A: _It's_ [that's] no problem _here_ . _Yeah ,_ we really liked [it] up [there] _but_ then 
+B|19| M: _that_ ,. 
+A|20| A: _Yeah_ . Sure , well , Texas , used [to be] part _of_ Mexico , or most _of_ [it] 
+B|21| M: How _are_ [you] liking [the] 
+A|22| A: No . _Yeah_ . [There] was [a] , T [I] has _got_ this organization called T A D which is T I'ers Against Drugs . And _, you_ [know ,] we're recycling aluminum cans up _here_ _and_ [, uh ,] _just_ _what_ [you] would buy [out] _of the_ machines _and_ drink _here_ _and_ [there] was crushers [out] _in_ all _of the_ hallways [you] [know ,] _and_ [that's] , [they] use [the] money [from] [that] [to] fund this T I'ers Against Drugs Program . _It's_ _, you_ [know ,] T [I] doesn't give them any money , all , everything is made [from] [that] . And [they] had talked [about] having [a] thing _like ,_ one Saturday [a] month _, you_ could come _and_ drop your aluminum cans off [from] home _, you_ [know ,] 
+B|23| M: She nods . 
+A|24| A: _and_ [that's] not really beneficial , so [, uh] [I] don't [have] time _like_ [that] 
+B|25| M: [I] think [it] should [be] [a] crime . 
+A|26| A: Uh [, I] play [the] piano 
+B|27| M: [It's] [a] _very_ big city [in] [the] US . 
+A|28| A: _Yeah ,_ [right] . Well [, I] _can_ remember [are] [from] , [from] my childhood were [the] disco days _and_ maybe [that's] changed _a lot ._ Uh [the] way , [the] way [people] dress 
+B|29| M: Ahem ... Richardson . 
+A|30| A: _and_ _I'm_ [, I] [, that's] fine with [me] . my fiancee _and_ [I] both figure [that's] what's , we're [going to] end up with both _of the_ parents or whoever . If [You know] _what_ [I] _mean ?_ We feel _like ,_ it's our responsibility , 
+B|31| M: [I] am [a] big fan [of the] Mercedes _, but_ [I] think _they're_ _a little_ _too_ . 
+A|32| A: And _, you_ [know ,] gardening isn't , isn't high on [the] list [, but] it's not off [the] list . 
+B|33| M:  ... [and] she's [like [,] I] [know] . 
+A|34| A: [and] so [I] never _, you_ [know ,] _got_ [out] by myself , or not much , 
+B|35| M: Uuhh , [I'm] . 
+A|36| A: Uh-huh . 
+B|37| M:  ... 
+A|38| A: [That's] _what_ [I] hear . 
+B|39| M: Do [you ?] 
+A|40| A: [I] [, I] , actually [I] didn't go diving . 
+B|41| M: What [do] [you] [mean ?] 
+A|42| A: [It] would seem [to] spread [it] [out] [a little] better _if_ [the] employers who [, uh ,] employ these [people] , [and] pay them [, uh _,] you_ [know ,] subminimum wages or whatever , were asked [to] share their fair burden [of] this [too] , _just_ as my employer is . 
+B|43| M:  ... [what] ? 
+A|44| A: [and] , um , it's , it's _, you_ [know ,] [they're] [going to] start [to] see their return on their investment [very] soon . 
+B|45| M: [I'm] [just] [here] for [the] weather . 
+A|46| A: And also [the] evenings [are] [going [to] be] getting [, uh ,] darker sooner as [it] gets cooler . 
+B|47| M: I've [got] [a lot .] 
+A|48| A: [I'm] not sure [what] [but] , 
+B|49| M: [Yeah [,] you] [can] get [a] degree [in] [a] few months [if] [you] [just] plan [a] semester ahead . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Well , I had the , I had a broiled chicken breast and it was excellent . It was a marinated , broiled chicken breast and it was
+	Free: Pattern=It, Pattern=the, Pattern=, I, Pattern=a, Pattern=it, Pattern=and
+	Constrained: Pattern=I
+Turn ID=1| B | M : There are a lot women out there .
+	Free: Pattern=out, Pattern=there, Pattern=are, Pattern=a lot, Pattern=There
+	Constrained: Pattern=a
+Turn ID=2| A | A : Oh , and you've always , lived in Texas , have you ?
+	Free: Pattern=you ?, Pattern=in, Pattern=and, Pattern=have
+	Constrained: Pattern=you
+Turn ID=3| B | M : Why ?
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : you know what I mean ?
+	Free: Pattern=you, Pattern=what, Pattern=mean ?, Pattern=I, Pattern=know
+	Constrained: 
+Turn ID=5| B | M : You know , uh , uh you did , uh uh
+	Free: Pattern=know ,, Pattern=, uh ,, Pattern=You know, Pattern=you, Pattern=uh, Pattern=, uh
+	Constrained: Pattern=, uh, Pattern=know, Pattern=uh
+Turn ID=6| A | A : Oh , really ?
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : The people have a right to be free from oppression .
+	Free: Pattern=right, Pattern=a, Pattern=from, Pattern=to be, Pattern=people, Pattern=have
+	Constrained: Pattern=be, Pattern=to
+Turn ID=8| A | A : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=9| B | M : It
+	Free: Pattern=It
+	Constrained: 
+Turn ID=10| A | A : That's large if your kids aren't at home any more .
+	Free: Pattern=if, Pattern=That's
+	Constrained: 
+Turn ID=11| B | M : That's ...
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=12| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Are you going to make the joke about me ?
+	Free: Pattern=going to, Pattern=you, Pattern=me, Pattern=about, Pattern=the
+	Constrained: Pattern=to
+Turn ID=14| A | A : Uh , just like a , uh , set up a lot of times and it's like really large , uh , parking lots . And pylons and things .
+	Free: Pattern=of, Pattern=just, Pattern=a, Pattern=and, Pattern=like, Pattern=, uh ,, Pattern=a lot
+	Constrained: Pattern=uh, Pattern=, uh, Pattern=a
+Turn ID=15| B | M : c' ?
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : Right , and then , you know , sometimes we try to do our lesson on Sunday night and then our activity or something on Monday but , We're , it's real important to us to spend time together .
+	Free: Pattern=know ,, Pattern=do, Pattern=and, Pattern=, you, Pattern=to, Pattern=but
+	Constrained: Pattern=know, Pattern=you
+Turn ID=17| B | M : You know , I think , that's how they do it .
+	Free: Pattern=know ,, Pattern=they, Pattern=it, Pattern=You know, Pattern=, that's, Pattern=do, Pattern=, I
+	Constrained: Pattern=that's, Pattern=know, Pattern=I
+Turn ID=18| A | A : It's that's no problem here . Yeah , we really liked it up there but then
+	Free: Pattern=it, Pattern=Yeah ,, Pattern=but, Pattern=here, Pattern=there, Pattern=that's, Pattern=It's
+	Constrained: Pattern=Yeah
+Turn ID=19| B | M : that ,.
+	Free: Pattern=that
+	Constrained: 
+Turn ID=20| A | A : Yeah . Sure , well , Texas , used to be part of Mexico , or most of it
+	Free: Pattern=to be, Pattern=it, Pattern=Yeah, Pattern=of
+	Constrained: Pattern=be, Pattern=to
+Turn ID=21| B | M : How are you liking the
+	Free: Pattern=you, Pattern=the, Pattern=are
+	Constrained: 
+Turn ID=22| A | A : No . Yeah . There was a , T I has got this organization called T A D which is T I'ers Against Drugs . And , you know , we're recycling aluminum cans up here and , uh , just what you would buy out of the machines and drink here and there was crushers out in all of the hallways you know , and that's , they use the money from that to fund this T I'ers Against Drugs Program . It's , you know , T I doesn't give them any money , all , everything is made from that . And they had talked about having a thing like , one Saturday a month , you could come and drop your aluminum cans off from home , you know ,
+	Free: Pattern=know ,, Pattern=just, Pattern=a, Pattern=and, Pattern=I, Pattern=from, Pattern=about, Pattern=in, Pattern=, you, Pattern=, uh ,, Pattern=got, Pattern=to, Pattern=Yeah, Pattern=like ,, Pattern=you, Pattern=out, Pattern=here, Pattern=what, Pattern=they, Pattern=there, Pattern=that's, Pattern=It's, Pattern=the, Pattern=There, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=know, Pattern=like, Pattern=the, Pattern=you, Pattern=uh, Pattern=, uh
+Turn ID=23| B | M : She nods .
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : and that's not really beneficial , so , uh I don't have time like that
+	Free: Pattern=, uh, Pattern=have, Pattern=and, Pattern=I, Pattern=like, Pattern=that's, Pattern=that
+	Constrained: Pattern=uh
+Turn ID=25| B | M : I think it should be a crime .
+	Free: Pattern=it, Pattern=a, Pattern=I, Pattern=be
+	Constrained: 
+Turn ID=26| A | A : Uh , I play the piano
+	Free: Pattern=, I, Pattern=the
+	Constrained: Pattern=I
+Turn ID=27| B | M : It's a very big city in the US .
+	Free: Pattern=a, Pattern=in, Pattern=very, Pattern=It's, Pattern=the
+	Constrained: 
+Turn ID=28| A | A : Yeah , right . Well , I can remember are from , from my childhood were the disco days and maybe that's changed a lot . Uh the way , the way people dress
+	Free: Pattern=right, Pattern=people, Pattern=, I, Pattern=and, Pattern=are, Pattern=Yeah ,, Pattern=can, Pattern=a lot ., Pattern=from, Pattern=that's, Pattern=the
+	Constrained: Pattern=a, Pattern=I, Pattern=Yeah, Pattern=a lot
+Turn ID=29| B | M : Ahem ... Richardson .
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : and I'm , I , that's fine with me . my fiancee and I both figure that's what's , we're going to end up with both of the parents or whoever . If You know what I mean ? We feel like , it's our responsibility ,
+	Free: Pattern=going to, Pattern=I'm, Pattern=me, Pattern=what, Pattern=and, Pattern=I, Pattern=, that's, Pattern=of the, Pattern=like ,, Pattern=mean ?, Pattern=, I, Pattern=You know, Pattern=that's
+	Constrained: Pattern=of, Pattern=I, Pattern=know, Pattern=like, Pattern=to, Pattern=that's, Pattern=the
+Turn ID=31| B | M : I am a big fan of the Mercedes , but I think they're a little too .
+	Free: Pattern=, but, Pattern=a, Pattern=too, Pattern=I, Pattern=a little, Pattern=they're, Pattern=of the
+	Constrained: Pattern=but, Pattern=a, Pattern=of, Pattern=the
+Turn ID=32| A | A : And , you know , gardening isn't , isn't high on the list , but it's not off the list .
+	Free: Pattern=know ,, Pattern=, you, Pattern=, but, Pattern=the
+	Constrained: Pattern=know, Pattern=you, Pattern=but
+Turn ID=33| B | M :  ... and she's like , I know .
+	Free: Pattern=, I, Pattern=like ,, Pattern=know, Pattern=and
+	Constrained: Pattern=I, Pattern=like
+Turn ID=34| A | A : and so I never , you know , got out by myself , or not much ,
+	Free: Pattern=know ,, Pattern=out, Pattern=and, Pattern=I, Pattern=, you, Pattern=got
+	Constrained: Pattern=know, Pattern=you
+Turn ID=35| B | M : Uuhh , I'm .
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=36| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : That's what I hear .
+	Free: Pattern=what, Pattern=That's, Pattern=I
+	Constrained: 
+Turn ID=39| B | M : Do you ?
+	Free: Pattern=you ?
+	Constrained: Pattern=you
+Turn ID=40| A | A : I , I , actually I didn't go diving .
+	Free: Pattern=, I, Pattern=I
+	Constrained: Pattern=I
+Turn ID=41| B | M : What do you mean ?
+	Free: Pattern=mean ?, Pattern=you, Pattern=do
+	Constrained: 
+Turn ID=42| A | A : It would seem to spread it out a little better if the employers who , uh , employ these people , and pay them , uh , you know , subminimum wages or whatever , were asked to share their fair burden of this too , just as my employer is .
+	Free: Pattern=out, Pattern=if, Pattern=a little, Pattern=, you, Pattern=It, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=of, Pattern=know ,, Pattern=people, Pattern=just, Pattern=it, Pattern=and, Pattern=too
+	Constrained: Pattern=a, Pattern=know, Pattern=you, Pattern=uh, Pattern=, uh
+Turn ID=43| B | M :  ... what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=44| A | A : and , um , it's , it's , you know , they're going to start to see their return on their investment very soon .
+	Free: Pattern=going to, Pattern=know ,, Pattern=and, Pattern=they're, Pattern=, you, Pattern=very, Pattern=to
+	Constrained: Pattern=know, Pattern=you, Pattern=to
+Turn ID=45| B | M : I'm just here for the weather .
+	Free: Pattern=I'm, Pattern=just, Pattern=the, Pattern=here
+	Constrained: 
+Turn ID=46| A | A : And also the evenings are going to be getting , uh , darker sooner as it gets cooler .
+	Free: Pattern=going to, Pattern=it, Pattern=are, Pattern=, uh ,, Pattern=the, Pattern=to be
+	Constrained: Pattern=uh, Pattern=to, Pattern=, uh, Pattern=be
+Turn ID=47| B | M : I've got a lot .
+	Free: Pattern=a lot ., Pattern=got
+	Constrained: Pattern=a lot, Pattern=a
+Turn ID=48| A | A : I'm not sure what but ,
+	Free: Pattern=I'm, Pattern=what, Pattern=but
+	Constrained: 
+Turn ID=49| B | M : Yeah , you can get a degree in a few months if you just plan a semester ahead .
+	Free: Pattern=you, Pattern=just, Pattern=a, Pattern=if, Pattern=can, Pattern=in, Pattern=, you, Pattern=Yeah ,
+	Constrained: Pattern=you, Pattern=Yeah

@@ -1,0 +1,171 @@
+A|0| A: _Yeah _,_ yeah_ . Um _, I_ _I'm_ a , a writer _by_ profession and _, uh ,_ when , when _I_ was first here _in_ , _in_ Dallas or _in_ Plano , um , and was finally able _to_ , this _is_ , oh , _been_ like fourteen years ago we moved here . _And_ _I_ was finally able _to_ afford a new typewriter , and _I_ got an _I_ B M Selectric . _I_ thought _I_ had died and gone _to_ heaven because _I_ thought , oh , they're _so_ wonderful . 
+B|1| M: _I think_ [so] . _Well _,_ the_ cars _are_ my main car . To _me _,_ the_ best car [is] _the_ mustang . 
+A|2| A: Uh-huh . 
+B|3| M: Uhh [, I] _do_ 
+A|4| A: [Well _,] I guess_ then [, I] will _go_ _, but I_ , 
+B|5| M: [Yeah [,] uh [,] yeah] [, yeah] 
+A|6| A: It's an accusation , and , and _it's_ and _it's_ based _on_ , _on_ a perception that someone has as how a drug user _would_ behave when some drug users behave [, uh ,] normal [, uh ,] _you_ know . 
+B|7| M:  ... 
+A|8| A: [I] mean , actually [I think] that works pretty well . and that , that makes , 
+B|9| M: _That's_ [uh ,] that's _the_ _thing_ , isn't _it_ ? 
+A|10| A: [Yeah] . _What do you_ use [it] _for_ ? 
+B|11| M: [I'm] sure it'll _be_ cold [by] _the_ time [I'm] ready [for] [it] . 
+A|12| A: [Yeah] . On that same topic , _have_ _you_ ever read anything about , _you_ know [, the] Amelia Earhart story , whatever happened with _her_ ? 
+B|13| M: [Yeah [,] but [I] think] [it's] _just_ [the] most likely scenario . 
+A|14| A: [Well [,] [I] think] [it] _would_ [be] more successful _if_ [it] was applied _in_ a more expedient manner _, if_ there weren't [so] many appeals . 
+B|15| M: _Yes_ [I] [do] . 
+A|16| A: right , near Dayton , Ohio , and he said , _you_ know , he's , he's slowly getting [me] _to_ , um , not feel isolated _if_ we move _to_ where there's more land . 
+B|17| M: [And] [the] insurance [is] [on] [her] . 
+A|18| A: [That's] [the] part that scares [me ,] _you_ know . [I] mean beginning with this [is] , this [is] [just] [for] homosexuals , well _no_ _, it's_ [for] homosexuals and gays , well _no_ , actually _, it's [,_ I] mean , _you_ know . Did _they_ know that all along ? 
+B|19| M: _So ,_ what's your home address ? 
+A|20| A: But we _have_ [, uh ,] one , one [thing] that effects us [is] we _have_ apartments that [are] probably about a half mile away and now [the] economy [is] bad , _they_ _have_ trouble keeping those full [so] they've dropped [the] [, uh ,] they're not nearly as selective as _they_ used _to be_ . 
+B|21| M: [uh ,] huh . 
+A|22| A: _Oh_ , [do] _they_ really . Curbside pick up ? 
+B|23| M: [What] ? _I don't_ understand [the] point of your comment . 
+A|24| A: [Yes] . 
+B|25| M: _I don't_ understand why [you] didn't [go] [to] [the] jury [, if] [you] did [you] [would] [have] [been] [in] charge . 
+A|26| A: Uh-huh . [Yeah ,] [you] can _get_ away with [it] even having a semi nice dinner , 
+B|27| M: _So [,_ uh ,] what [are] [they] doing ? 
+A|28| A: Hit [the] bags . 
+B|29| M: Work , [I'm] [, uh [,] yeah] [, yeah] 
+A|30| A: [And] [I] , um [, I] [just] refuse [to] buy [it] , um [, if] [I] know [I'm] not _going to be_ there [for] at least five years [, uh ,] _you ,_ [you] know . 
+B|31| M: H [, uh [,] I guess] . 
+A|32| A: [So ,] we're [just] starting into hunting [for] child care . 
+B|33| M: [Oh] . [Well [,] it's ,] [it] . 
+A|34| A: and [it] , because [, uh ,] we [have] [it] here at work as a matter [if] fact , at T [I] . 
+B|35| M: [I think] [it's] [going to be] [on] [in] [the] middle of [the] night . 
+A|36| A: [Yeah] . 
+B|37| M:  
+A|38| A: [Yeah] . 
+B|39| M: Uhh , [no] . 
+A|40| A: But he refuses [to] consider any other [, [I] don't] , 
+B|41| M: [What do [you] [,] uh ,] [get] ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah , yeah . Um , I I'm a , a writer by profession and , uh , when , when I was first here in , in Dallas or in Plano , um , and was finally able to , this is , oh , been like fourteen years ago we moved here . And I was finally able to afford a new typewriter , and I got an I B M Selectric . I thought I had died and gone to heaven because I thought , oh , they're so wonderful .
+	Free: Pattern=I'm, Pattern=And, Pattern=, I, Pattern=I, Pattern=, yeah, Pattern=in, Pattern=is, Pattern=, uh ,, Pattern=Yeah ,, Pattern=to, Pattern=so, Pattern=by, Pattern=been
+	Constrained: Pattern=uh ,, Pattern=Yeah, Pattern=I
+Turn ID=1| B | M : I think so . Well , the cars are my main car . To me , the best car is the mustang .
+	Free: Pattern=are, Pattern=Well ,, Pattern=is, Pattern=I think, Pattern=the, Pattern=, the, Pattern=so, Pattern=me ,
+	Constrained: Pattern=me, Pattern=I, Pattern=the
+Turn ID=2| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : Uhh , I do
+	Free: Pattern=, I, Pattern=do
+	Constrained: Pattern=I
+Turn ID=4| A | A : Well , I guess then , I will go , but I ,
+	Free: Pattern=, I guess, Pattern=, but I, Pattern=go, Pattern=, I, Pattern=Well ,
+	Constrained: Pattern=, I, Pattern=I
+Turn ID=5| B | M : Yeah , uh , yeah , yeah
+	Free: Pattern=, uh ,, Pattern=, yeah, Pattern=Yeah ,
+	Constrained: Pattern=uh ,, Pattern=Yeah
+Turn ID=6| A | A : It's an accusation , and , and it's and it's based on , on a perception that someone has as how a drug user would behave when some drug users behave , uh , normal , uh , you know .
+	Free: Pattern=you, Pattern=, uh ,, Pattern=on, Pattern=would, Pattern=it's
+	Constrained: Pattern=uh ,
+Turn ID=7| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : I mean , actually I think that works pretty well . and that , that makes ,
+	Free: Pattern=I think, Pattern=I
+	Constrained: Pattern=I
+Turn ID=9| B | M : That's uh , that's the thing , isn't it ?
+	Free: Pattern=That's, Pattern=it, Pattern=uh ,, Pattern=thing, Pattern=the
+	Constrained: 
+Turn ID=10| A | A : Yeah . What do you use it for ?
+	Free: Pattern=What do you, Pattern=Yeah, Pattern=for, Pattern=it
+	Constrained: Pattern=do, Pattern=What, Pattern=you
+Turn ID=11| B | M : I'm sure it'll be cold by the time I'm ready for it .
+	Free: Pattern=I'm, Pattern=for, Pattern=it, Pattern=be, Pattern=the, Pattern=by
+	Constrained: 
+Turn ID=12| A | A : Yeah . On that same topic , have you ever read anything about , you know , the Amelia Earhart story , whatever happened with her ?
+	Free: Pattern=you, Pattern=have, Pattern=her, Pattern=Yeah, Pattern=, the
+	Constrained: Pattern=the
+Turn ID=13| B | M : Yeah , but I think it's just the most likely scenario .
+	Free: Pattern=, but I, Pattern=just, Pattern=I think, Pattern=the, Pattern=Yeah ,, Pattern=it's
+	Constrained: Pattern=Yeah, Pattern=I
+Turn ID=14| A | A : Well , I think it would be more successful if it was applied in a more expedient manner , if there weren't so many appeals .
+	Free: Pattern=, I, Pattern=it, Pattern=if, Pattern=, if, Pattern=would, Pattern=so, Pattern=Well ,, Pattern=in, Pattern=I think, Pattern=be
+	Constrained: Pattern=I, Pattern=if
+Turn ID=15| B | M : Yes I do .
+	Free: Pattern=do, Pattern=I, Pattern=Yes
+	Constrained: 
+Turn ID=16| A | A : right , near Dayton , Ohio , and he said , you know , he's , he's slowly getting me to , um , not feel isolated if we move to where there's more land .
+	Free: Pattern=me, Pattern=to, Pattern=you, Pattern=if
+	Constrained: 
+Turn ID=17| B | M : And the insurance is on her .
+	Free: Pattern=And, Pattern=is, Pattern=her, Pattern=on, Pattern=the
+	Constrained: 
+Turn ID=18| A | A : That's the part that scares me , you know . I mean beginning with this is , this is just for homosexuals , well no , it's for homosexuals and gays , well no , actually , it's , I mean , you know . Did they know that all along ?
+	Free: Pattern=you, Pattern=just, Pattern=, I, Pattern=for, Pattern=I, Pattern=, it's, Pattern=is, Pattern=the, Pattern=, it's ,, Pattern=me ,, Pattern=no, Pattern=they, Pattern=That's
+	Constrained: Pattern=I, Pattern=, it's, Pattern=me, Pattern=it's
+Turn ID=19| B | M : So , what's your home address ?
+	Free: Pattern=So ,
+	Constrained: 
+Turn ID=20| A | A : But we have , uh , one , one thing that effects us is we have apartments that are probably about a half mile away and now the economy is bad , they have trouble keeping those full so they've dropped the , uh , they're not nearly as selective as they used to be .
+	Free: Pattern=have, Pattern=they, Pattern=are, Pattern=is, Pattern=, uh ,, Pattern=to be, Pattern=so, Pattern=thing, Pattern=the
+	Constrained: Pattern=uh ,, Pattern=to, Pattern=be
+Turn ID=21| B | M : uh , huh .
+	Free: Pattern=uh ,
+	Constrained: 
+Turn ID=22| A | A : Oh , do they really . Curbside pick up ?
+	Free: Pattern=do, Pattern=they, Pattern=Oh
+	Constrained: 
+Turn ID=23| B | M : What ? I don't understand the point of your comment .
+	Free: Pattern=I don't, Pattern=What, Pattern=the
+	Constrained: Pattern=I
+Turn ID=24| A | A : Yes .
+	Free: Pattern=Yes
+	Constrained: 
+Turn ID=25| B | M : I don't understand why you didn't go to the jury , if you did you would have been in charge .
+	Free: Pattern=you, Pattern=have, Pattern=go, Pattern=I don't, Pattern=, if, Pattern=in, Pattern=the, Pattern=would, Pattern=to, Pattern=been
+	Constrained: Pattern=I, Pattern=if
+Turn ID=26| A | A : Uh-huh . Yeah , you can get away with it even having a semi nice dinner ,
+	Free: Pattern=Yeah ,, Pattern=you, Pattern=it, Pattern=get
+	Constrained: Pattern=Yeah
+Turn ID=27| B | M : So , uh , what are they doing ?
+	Free: Pattern=, uh ,, Pattern=So ,, Pattern=they, Pattern=are
+	Constrained: Pattern=uh ,
+Turn ID=28| A | A : Hit the bags .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=29| B | M : Work , I'm , uh , yeah , yeah
+	Free: Pattern=, uh ,, Pattern=, yeah, Pattern=I'm
+	Constrained: Pattern=uh ,
+Turn ID=30| A | A : And I , um , I just refuse to buy it , um , if I know I'm not going to be there for at least five years , uh , you , you know .
+	Free: Pattern=, I, Pattern=for, Pattern=it, Pattern=I, Pattern=, if, Pattern=, uh ,, Pattern=going to be, Pattern=to, Pattern=you ,, Pattern=you, Pattern=I'm, Pattern=And, Pattern=just
+	Constrained: Pattern=you, Pattern=be, Pattern=uh ,, Pattern=to, Pattern=to be, Pattern=I, Pattern=if
+Turn ID=31| B | M : H , uh , I guess .
+	Free: Pattern=, I guess, Pattern=, uh ,
+	Constrained: Pattern=I, Pattern=uh ,, Pattern=, I
+Turn ID=32| A | A : So , we're just starting into hunting for child care .
+	Free: Pattern=So ,, Pattern=for, Pattern=just
+	Constrained: 
+Turn ID=33| B | M : Oh . Well , it's , it .
+	Free: Pattern=, it's ,, Pattern=Well ,, Pattern=Oh, Pattern=it
+	Constrained: Pattern=, it's, Pattern=it's
+Turn ID=34| A | A : and it , because , uh , we have it here at work as a matter if fact , at T I .
+	Free: Pattern=have, Pattern=it, Pattern=, uh ,, Pattern=I, Pattern=if
+	Constrained: Pattern=uh ,
+Turn ID=35| B | M : I think it's going to be on in the middle of the night .
+	Free: Pattern=in, Pattern=I think, Pattern=it's, Pattern=on, Pattern=going to be, Pattern=the
+	Constrained: Pattern=I, Pattern=to, Pattern=to be, Pattern=be
+Turn ID=36| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=37| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=39| B | M : Uhh , no .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=40| A | A : But he refuses to consider any other , I don't ,
+	Free: Pattern=, I, Pattern=I don't, Pattern=to
+	Constrained: Pattern=I
+Turn ID=41| B | M : What do you , uh , get ?
+	Free: Pattern=What do you, Pattern=, uh ,, Pattern=you ,, Pattern=get
+	Constrained: Pattern=do, Pattern=uh ,, Pattern=you, Pattern=What

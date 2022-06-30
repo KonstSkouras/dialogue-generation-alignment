@@ -1,0 +1,163 @@
+A|0| B: Well , yeah , _it's_ , _it's_ , _it's_ _pretty_ bad 
+B|1| M: _Yes ._ That's 
+A|2| B: _I've been_ _to_ Telluride which is on _the_ west side and _, uh ,_ Copper , 
+B|3| M: You _have_ [to] _make_ your own food . 
+A|4| B: And that , _I_ _know_ that _, uh ,_ brings an eighty eighty-eight machine [to] its knees _because_ _I_ _had_ taken _it_ over _from_ _a_ friend who was working on _it_ and he _had a_ two eighty-six machine , 
+B|5| M: The _people_ _will_ find another way . 
+A|6| B: they're encouraged [to] do that , missionary work , and _I_ _I_ really believe that _the_ [people] that do that are better [people] that [make] our , society better . 
+B|7| M: [I've been] told _by_ others [to] [make] _a story_ . 
+A|8| B: _I_ [have] two daughters . 
+B|9| M: you [know] 
+A|10| B: It is , _it_ really is . And _I_ _mean_ , they're _the_ first ones that take _the_ brunt of everything . 
+B|11| M: [I] _like_ country . 
+A|12| B: We've [been] , we've [been] _, uh ,_ writing [a story] together . 
+B|13| M: What ??!? 
+A|14| B: Oh , [I] do _not_ remember _the_ man's name , he was , used [to] be [a] reporter for _, uh ,_ _I think_ , _the_ NEW YORK TIMES , or _the_ WASHINGTON POST , one of _the_ two , and he supposedly got this , this , [story] _, uh ,_ [I] _mean_ this _, uh ,_ was contacted [by] this guy who _had_ these , these memos he wanted [to] sell , and _they_ were _, they_ were ones that _had_ supposedly [been] stolen _from_ _the_ _, uh ,_ corporate headquarters _in_ _, uh ,_ _in_ Los Angeles . 
+B|15| M: Why , [because] _it's a_ dentist ? 
+A|16| B: So , we're getting [a] large oh , gosh , [I] _don't_ [know] , _I think_ there's [like] twenty-six different languages now , that are spoken _in_ [I] , _the_ [I] S D . Dallas Innercity School District . 
+B|17| M: You [mean] [like] , demanding [the] right time ? 
+A|18| B: Well _, they_ did [have] [a] fairly decent year finally this year . 
+B|19| M:  
+A|20| B: And _, uh _,_ they_ _, uh ,_ [will] get [to] playing chase through [the] _house ,_ 
+B|21| M: i . way . way . 
+A|22| B: And [I] [have] [I] B M clones _in_ both cases . 
+B|23| M: That's , very , very true 
+A|24| B: Oh . 
+B|25| M: I'm [from] Memphis . [I] love _it ._ 
+A|26| B: _Right_ , that's [it .] 
+B|27| M: [I think] you're confused . 
+A|28| B: Uh-huh . _Right ._ 
+B|29| M: [Right .] 
+A|30| B: Yeah . 
+B|31| M: I'm [not] going [to] tell you how [to] feel . 
+A|32| B: Uh-huh . 
+B|33| M: But [, uh [,] uh] ... 
+A|34| B: and , 
+B|35| M: They've [been] living [in] Penn Hill , they've [had a] [house [,] they] can live [in] their own [house] . 
+A|36| B: [Yes .] So would [I] . 
+B|37| M: [I think] you [have] [it] backwards . 
+A|38| B: and my mom has [to] take care of her _pretty_ much so [it] gets , [I] _don't_ [know] . It's , [it's a] hard decision , but [I] _don't_ [think] [I] would do [it] [to] my parents personally 
+B|39| M: I'm [pretty] sure we [don't] regressive taxes . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Well , yeah , it's , it's , it's pretty bad
+	Free: Pattern=pretty, Pattern=it's
+	Constrained: 
+Turn ID=1| B | M : Yes . That's
+	Free: Pattern=Yes .
+	Constrained: 
+Turn ID=2| A | B : I've been to Telluride which is on the west side and , uh , Copper ,
+	Free: Pattern=, uh ,, Pattern=I've been, Pattern=to, Pattern=the
+	Constrained: Pattern=, uh, Pattern=been
+Turn ID=3| B | M : You have to make your own food .
+	Free: Pattern=to, Pattern=make, Pattern=have
+	Constrained: 
+Turn ID=4| A | B : And that , I know that , uh , brings an eighty eighty-eight machine to its knees because I had taken it over from a friend who was working on it and he had a two eighty-six machine ,
+	Free: Pattern=had a, Pattern=it, Pattern=I, Pattern=from, Pattern=know, Pattern=had, Pattern=, uh ,, Pattern=to, Pattern=a, Pattern=because
+	Constrained: Pattern=had, Pattern=, uh, Pattern=a
+Turn ID=5| B | M : The people will find another way .
+	Free: Pattern=will, Pattern=people
+	Constrained: 
+Turn ID=6| A | B : they're encouraged to do that , missionary work , and I I really believe that the people that do that are better people that make our , society better .
+	Free: Pattern=people, Pattern=I, Pattern=make, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=7| B | M : I've been told by others to make a story .
+	Free: Pattern=I've been, Pattern=make, Pattern=to, Pattern=by, Pattern=a story
+	Constrained: Pattern=been, Pattern=a, Pattern=story
+Turn ID=8| A | B : I have two daughters .
+	Free: Pattern=I, Pattern=have
+	Constrained: 
+Turn ID=9| B | M : you know
+	Free: Pattern=know
+	Constrained: 
+Turn ID=10| A | B : It is , it really is . And I mean , they're the first ones that take the brunt of everything .
+	Free: Pattern=it, Pattern=I, Pattern=the, Pattern=mean
+	Constrained: 
+Turn ID=11| B | M : I like country .
+	Free: Pattern=I, Pattern=like
+	Constrained: 
+Turn ID=12| A | B : We've been , we've been , uh , writing a story together .
+	Free: Pattern=, uh ,, Pattern=a story, Pattern=been
+	Constrained: Pattern=, uh, Pattern=story, Pattern=a
+Turn ID=13| B | M : What ??!?
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Oh , I do not remember the man's name , he was , used to be a reporter for , uh , I think , the NEW YORK TIMES , or the WASHINGTON POST , one of the two , and he supposedly got this , this , story , uh , I mean this , uh , was contacted by this guy who had these , these memos he wanted to sell , and they were , they were ones that had supposedly been stolen from the , uh , corporate headquarters in , uh , in Los Angeles .
+	Free: Pattern=, they, Pattern=story, Pattern=mean, Pattern=they, Pattern=a, Pattern=I, Pattern=from, Pattern=in, Pattern=had, Pattern=the, Pattern=to, Pattern=not, Pattern=I think, Pattern=, uh ,, Pattern=by, Pattern=been
+	Constrained: Pattern=they, Pattern=I, Pattern=, uh, Pattern=think
+Turn ID=15| B | M : Why , because it's a dentist ?
+	Free: Pattern=it's a, Pattern=because
+	Constrained: Pattern=a, Pattern=it's
+Turn ID=16| A | B : So , we're getting a large oh , gosh , I don't know , I think there's like twenty-six different languages now , that are spoken in I , the I S D . Dallas Innercity School District .
+	Free: Pattern=a, Pattern=I, Pattern=in, Pattern=know, Pattern=like, Pattern=I think, Pattern=the, Pattern=don't
+	Constrained: Pattern=I, Pattern=think
+Turn ID=17| B | M : You mean like , demanding the right time ?
+	Free: Pattern=the, Pattern=like, Pattern=mean
+	Constrained: 
+Turn ID=18| A | B : Well , they did have a fairly decent year finally this year .
+	Free: Pattern=, they, Pattern=a, Pattern=have
+	Constrained: Pattern=they
+Turn ID=19| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : And , uh , they , uh , will get to playing chase through the house ,
+	Free: Pattern=, they, Pattern=house ,, Pattern=will, Pattern=, uh ,, Pattern=the, Pattern=to
+	Constrained: Pattern=they, Pattern=, uh, Pattern=house
+Turn ID=21| B | M : i . way . way .
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : And I have I B M clones in both cases .
+	Free: Pattern=in, Pattern=I, Pattern=have
+	Constrained: 
+Turn ID=23| B | M : That's , very , very true
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I'm from Memphis . I love it .
+	Free: Pattern=it ., Pattern=I, Pattern=from
+	Constrained: Pattern=it
+Turn ID=26| A | B : Right , that's it .
+	Free: Pattern=it ., Pattern=Right
+	Constrained: Pattern=it
+Turn ID=27| B | M : I think you're confused .
+	Free: Pattern=I think
+	Constrained: Pattern=I, Pattern=think
+Turn ID=28| A | B : Uh-huh . Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=29| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=30| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : I'm not going to tell you how to feel .
+	Free: Pattern=not, Pattern=to
+	Constrained: 
+Turn ID=32| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : But , uh , uh ...
+	Free: Pattern=, uh ,, Pattern=, uh
+	Constrained: Pattern=, uh
+Turn ID=34| A | B : and ,
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : They've been living in Penn Hill , they've had a house , they can live in their own house .
+	Free: Pattern=house ,, Pattern=in, Pattern=been, Pattern=, they, Pattern=had a, Pattern=house
+	Constrained: Pattern=house, Pattern=a, Pattern=they, Pattern=had
+Turn ID=36| A | B : Yes . So would I .
+	Free: Pattern=Yes ., Pattern=I
+	Constrained: 
+Turn ID=37| B | M : I think you have it backwards .
+	Free: Pattern=I think, Pattern=it, Pattern=have
+	Constrained: Pattern=I, Pattern=think
+Turn ID=38| A | B : and my mom has to take care of her pretty much so it gets , I don't know . It's , it's a hard decision , but I don't think I would do it to my parents personally
+	Free: Pattern=it's a, Pattern=it, Pattern=I, Pattern=think, Pattern=know, Pattern=pretty, Pattern=don't, Pattern=to
+	Constrained: Pattern=a, Pattern=it's
+Turn ID=39| B | M : I'm pretty sure we don't regressive taxes .
+	Free: Pattern=pretty, Pattern=don't
+	Constrained: 

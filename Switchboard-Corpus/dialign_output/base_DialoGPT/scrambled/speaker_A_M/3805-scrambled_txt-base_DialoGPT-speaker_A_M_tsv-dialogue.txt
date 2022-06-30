@@ -1,0 +1,163 @@
+A|0| A: Say , _that_ good , _I_ _think_ that's , _like_ _the_ state _of_ Virginia , yeah , that's _great_ . 
+B|1| M: [I] am confused . 
+A|2| A: Uh-huh _. _That's_ what_ it is here , yeah , that's why we're at _a_ point now we've _, uh ,_ we're adopting _and_ we _have been_ married ten plus years _and_ _what_ happens is _, uh ,_ _you_ just realize _that_ once _you_ get to _a_ certain age _the_ next house _that_ _you_ get we'll _be_ staying _in_ Yeah , 
+B|3| M: [That's what] [I] was thinking . 
+A|4| A: So , [I] guess _in_ this area , at least , _you_ _know ,_ _if_ _it's_ _not_ automatic , it doesn't move . 
+B|5| M: It's [not] [like] there's anything else [that] could [be] done . 
+A|6| A: Yeah , that's . But , 
+B|7| M: _They_ _are_ happening 
+A|8| A: [I] bet it had _a_ pretty coat too . 
+B|9| M: [That's] [a] nice car [you] [have] there . 
+A|10| A: _Well_ no , actually he had no trouble at all . He first jumped _in_ _and_ [I] , he's , he's just about [a] year old himself _and_ never had really , _I don't think_ he'd swum before . 
+B|11| M: Mormons . Not [a] lot _of them_ . 
+A|12| A: Um , [I] [have] no idea . 
+B|13| M: _Well [,_ uh ,] you're [a] bunch [of] [uh [,] uh] ... 
+A|14| A: _I know ,_ [I] do too , [I] , most [of] my friends [have] three or four kids _and_ _they_ feel [like] , [you] _know ,_ that's really why God _and_ some [of] _the_ people _in_ our church use birth control _and_ some [of them] _don't_ , [I] had my tubes tied so [you] , 
+B|15| M: Oh [. That's] weird . 
+A|16| A: _it's_ [not] many from _the_ local communities . 
+B|17| M: [I know _,] right_ ? 
+A|18| A: [Well ,] good luck to [you] , too . 
+B|19| M: You _are_ _right_ , but [they] [have been] _in the_ past . 
+A|20| A: [I] _think_ that's coming _and_ [I] _think_ once , once people really start to communicate how [they] feel , things [are] going to change . Until then , [I] _think_ , [you] [know _,] it's_ going to [be] really painful . So [the] question is , how soon [are] we going to start to get our money's worth _and_ , as [you] said _, it's_ how soon we get involved , _and_ [I] _think_ we need to create mechanisms to allow us to get involved , [like] allowing us to call [a] toll free number _and_ say , hey , look , do it this way , [not] [that] way , or [I] [like] this , or _I don't_ [like] [that] , or this is how [I] feel about your spending my _money_ on art [that] _I don't think_ is art . 
+B|21| M: [I don't think] 
+A|22| A: Then you'll never leave . 
+B|23| M: You're [a] [great] , [great] , wonderful person . 
+A|24| A: Uh-huh . 
+B|25| M: I'll take [the] car [if] [you] [have] [the] [money] 
+A|26| A: So [what] type , Simply Red , I've never heard [of] [that] . Is it just instrumental ? 
+B|27| M:  ... [and] ... 
+A|28| A: Really . 
+B|29| M: You 
+A|30| A: Yeah , so _it's_ [been] good _for_ our family . 
+B|31| M: It's 
+A|32| A: Yeah . [They] probably [have] it better [in] jail than [what] [they] would out [in the] streets . 
+B|33| M: It 
+A|34| A: [That's] , that's [been] my impression . 
+B|35| M: What [are] [you] doing [for] [a] week ? 
+A|36| A: Right [, right] . 
+B|37| M: Oh , okay . 
+A|38| A: Uh-huh . 
+B|39| M: [I] am [, it's] fine . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Say , that good , I think that's , like the state of Virginia , yeah , that's great .
+	Free: Pattern=of, Pattern=great, Pattern=I, Pattern=think, Pattern=like, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=1| B | M : I am confused .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=2| A | A : Uh-huh . That's what it is here , yeah , that's why we're at a point now we've , uh , we're adopting and we have been married ten plus years and what happens is , uh , you just realize that once you get to a certain age the next house that you get we'll be staying in Yeah ,
+	Free: Pattern=you, Pattern=what, Pattern=a, Pattern=have been, Pattern=in, Pattern=the, Pattern=that, Pattern=and, Pattern=. That's, Pattern=That's what, Pattern=, uh ,, Pattern=be
+	Constrained: Pattern=, uh, Pattern=have, Pattern=uh ,, Pattern=been, Pattern=what, Pattern=That's
+Turn ID=3| B | M : That's what I was thinking .
+	Free: Pattern=That's what, Pattern=I
+	Constrained: Pattern=what, Pattern=That's
+Turn ID=4| A | A : So , I guess in this area , at least , you know , if it's not automatic , it doesn't move .
+	Free: Pattern=know ,, Pattern=you, Pattern=in, Pattern=it's, Pattern=not, Pattern=I, Pattern=if
+	Constrained: 
+Turn ID=5| B | M : It's not like there's anything else that could be done .
+	Free: Pattern=be, Pattern=like, Pattern=that, Pattern=not
+	Constrained: 
+Turn ID=6| A | A : Yeah , that's . But ,
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : They are happening
+	Free: Pattern=They, Pattern=are
+	Constrained: 
+Turn ID=8| A | A : I bet it had a pretty coat too .
+	Free: Pattern=a, Pattern=I
+	Constrained: 
+Turn ID=9| B | M : That's a nice car you have there .
+	Free: Pattern=a, Pattern=you, Pattern=have, Pattern=That's
+	Constrained: 
+Turn ID=10| A | A : Well no , actually he had no trouble at all . He first jumped in and I , he's , he's just about a year old himself and never had really , I don't think he'd swum before .
+	Free: Pattern=I don't think, Pattern=a, Pattern=and, Pattern=I, Pattern=in, Pattern=Well
+	Constrained: Pattern=think, Pattern=I don't, Pattern=I, Pattern=don't
+Turn ID=11| B | M : Mormons . Not a lot of them .
+	Free: Pattern=of them, Pattern=a
+	Constrained: Pattern=of
+Turn ID=12| A | A : Um , I have no idea .
+	Free: Pattern=I, Pattern=have
+	Constrained: 
+Turn ID=13| B | M : Well , uh , you're a bunch of uh , uh ...
+	Free: Pattern=of, Pattern=, uh, Pattern=a, Pattern=Well ,, Pattern=, uh ,, Pattern=uh ,
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=Well
+Turn ID=14| A | A : I know , I do too , I , most of my friends have three or four kids and they feel like , you know , that's really why God and some of the people in our church use birth control and some of them don't , I had my tubes tied so you ,
+	Free: Pattern=you, Pattern=have, Pattern=they, Pattern=of them, Pattern=and, Pattern=I, Pattern=in, Pattern=like, Pattern=the, Pattern=don't, Pattern=I know ,, Pattern=of, Pattern=know ,
+	Constrained: Pattern=know ,, Pattern=I, Pattern=of
+Turn ID=15| B | M : Oh . That's weird .
+	Free: Pattern=. That's
+	Constrained: Pattern=That's
+Turn ID=16| A | A : it's not many from the local communities .
+	Free: Pattern=the, Pattern=it's, Pattern=not
+	Constrained: 
+Turn ID=17| B | M : I know , right ?
+	Free: Pattern=I know ,, Pattern=, right
+	Constrained: Pattern=know ,, Pattern=right, Pattern=I
+Turn ID=18| A | A : Well , good luck to you , too .
+	Free: Pattern=Well ,, Pattern=you
+	Constrained: Pattern=Well
+Turn ID=19| B | M : You are right , but they have been in the past .
+	Free: Pattern=right, Pattern=they, Pattern=have been, Pattern=are, Pattern=in the
+	Constrained: Pattern=in, Pattern=been, Pattern=the, Pattern=have
+Turn ID=20| A | A : I think that's coming and I think once , once people really start to communicate how they feel , things are going to change . Until then , I think , you know , it's going to be really painful . So the question is , how soon are we going to start to get our money's worth and , as you said , it's how soon we get involved , and I think we need to create mechanisms to allow us to get involved , like allowing us to call a toll free number and say , hey , look , do it this way , not that way , or I like this , or I don't like that , or this is how I feel about your spending my money on art that I don't think is art .
+	Free: Pattern=you, Pattern=I don't think, Pattern=they, Pattern=a, Pattern=and, Pattern=think, Pattern=like, Pattern=be, Pattern=the, Pattern=that, Pattern=not, Pattern=money, Pattern=know ,, Pattern=are, Pattern=I, Pattern=I don't, Pattern=, it's
+	Constrained: Pattern=I, Pattern=I don't, Pattern=think, Pattern=don't, Pattern=it's
+Turn ID=21| B | M : I don't think
+	Free: Pattern=I don't think
+	Constrained: Pattern=think, Pattern=I don't, Pattern=I, Pattern=don't
+Turn ID=22| A | A : Then you'll never leave .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : You're a great , great , wonderful person .
+	Free: Pattern=great, Pattern=a
+	Constrained: 
+Turn ID=24| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I'll take the car if you have the money
+	Free: Pattern=money, Pattern=you, Pattern=have, Pattern=if, Pattern=the
+	Constrained: 
+Turn ID=26| A | A : So what type , Simply Red , I've never heard of that . Is it just instrumental ?
+	Free: Pattern=of, Pattern=what, Pattern=that
+	Constrained: 
+Turn ID=27| B | M :  ... and ...
+	Free: Pattern=and
+	Constrained: 
+Turn ID=28| A | A : Really .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : You
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : Yeah , so it's been good for our family .
+	Free: Pattern=for, Pattern=been, Pattern=it's
+	Constrained: 
+Turn ID=31| B | M : It's
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : Yeah . They probably have it better in jail than what they would out in the streets .
+	Free: Pattern=in the, Pattern=in, Pattern=They, Pattern=have, Pattern=what, Pattern=they
+	Constrained: Pattern=in, Pattern=the
+Turn ID=33| B | M : It
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : That's , that's been my impression .
+	Free: Pattern=been, Pattern=That's
+	Constrained: 
+Turn ID=35| B | M : What are you doing for a week ?
+	Free: Pattern=for, Pattern=a, Pattern=you, Pattern=are
+	Constrained: 
+Turn ID=36| A | A : Right , right .
+	Free: Pattern=, right
+	Constrained: Pattern=right
+Turn ID=37| B | M : Oh , okay .
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : I am , it's fine .
+	Free: Pattern=, it's, Pattern=I
+	Constrained: Pattern=it's

@@ -1,0 +1,187 @@
+A|0| A: Except _I think_ _the_ Cowboys _are_ on _the_ upswing _I_ _don't_ know _about_ _the_ Vikings 
+B|1| M: _No ,_ _it's_ _a_ food . 
+A|2| A: Right . 
+B|3| M: I'em 
+A|4| A: _Yeah_ . 
+B|5| M: [Yeah] _, you_ . 
+A|6| A: It really _is _a_ small_ , hostile planet 
+B|7| M: Uuh _, uh ,_ _she_ ? 
+A|8| A: Uh-huh . [Yeah] . And _I think_ [, you] know , _we_ _have_ such [a] need now [, you] know , _I_ taught [, you] know , _I_ , _I think_ _I_ was paid [, uh ,] _about_ nine thousand dollars _to_ teach for _the_ year 
+B|9| M: [I] 
+A|10| A: _Oh_ _my_ gosh . 
+B|11| M: _I'm_ Chris xeros . nuff _said_ . 
+A|12| A: [Yeah] 
+B|13| M: Well , [the] owner [is a] lawyer . 
+A|14| A: and one _of_ [the] ones _that_ he's worked with was professionals who came _in_ for an AIDS [, uh ,] conference _in_ [, uh ,] California . 
+B|15| M: [I] _live in [a_ _small] town_ [in] Ohio . 
+A|16| A: Uh _I think_ that's what's made democracy 
+B|17| M: _That's_ true . 
+A|18| A: _So_ sometimes [it's] hard _to_ _, to_ know exactly when _, but_ , [I] _don't_ know , if [she] acts like [she] wants _to_ or says [she] wants _to_ maybe [you] could _have_ her take some for [a] while and see how [she] likes _it_ . 
+B|19| M: Where [are] [you] from ? 
+A|20| A: [you] can [, you] know [, you] can get some _of_ us , 
+B|21| M: _I mean _,_ I'm_ sure _it would_ _, but [I_ think] 
+A|22| A: Uh-huh . 
+B|23| M: Wait , what ? 
+A|24| A: Just because there's [a] friend up there , _not_ because there's much else 
+B|25| M:  
+A|26| A: [No] . 
+B|27| M: They _have a lot of_ things [that] [we] [don't] . 
+A|28| A: [I mean ,] _not ,_ _not_ _to_ this large scale as Iraq [, but] _that ,_ 
+B|29| M: Yes . 
+A|30| A: [I] know at this , [I] know [I] feel like [I] [would] never do [that] with _my_ parents either [, you] know . But [I] , [I] really feel bad for [the] people [I] see _not_ very [, I'm] _not_ really , really experienced [but] like [I] [said] [I] just [have] [that] one family , and [I] just really feel bad for [the] guy who his whole life [is] different now and , than he thought [it would] _be_ . But , 
+B|31| M:  
+A|32| A: Okay . That keeps [you] do [you] [have a lot of] activities with your kids ? 
+B|33| M: Um . 
+A|34| A: Uh-huh . Do [you] [live in a] real [small town] or , or out [in] [the] country ? 
+B|35| M: [Oh] . _That's_ unfortunate . 
+A|36| A: And they're just kind [of] more like [a] side show than anything else and that's sad . 
+B|37| M: _yeah_ , say , [that ,] you're [, _to] be_ [a] problem , 
+A|38| A: and , and [, you] know , obviously they're probably _not_ going [to be] doing _a good_ job and _so_ forth [, but I] [don't] really like having [to] do [it] . It , 
+B|39| M: It's [a good] . [it's] [a good] thing . 
+A|40| A: [yeah] . 
+B|41| M: [I] am [I'm] [so] we're [not ,] building prisons . 
+A|42| A: [No ,] huh-uh . Uh , [I think] they're interesting . 
+B|43| M: [Oh] , okay . 
+A|44| A: [That's] [, uh ,] only way [to] do [it] . 
+B|45| M: [So] [you] want me [to] tell [you] [about] [my] dog ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Except I think the Cowboys are on the upswing I don't know about the Vikings
+	Free: Pattern=about, Pattern=I think, Pattern=the, Pattern=don't, Pattern=are, Pattern=I
+	Constrained: Pattern=I
+Turn ID=1| B | M : No , it's a food .
+	Free: Pattern=No ,, Pattern=a, Pattern=it's
+	Constrained: Pattern=No
+Turn ID=2| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : I'em
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=5| B | M : Yeah , you .
+	Free: Pattern=, you, Pattern=Yeah
+	Constrained: Pattern=you
+Turn ID=6| A | A : It really is a small , hostile planet
+	Free: Pattern=a small, Pattern=is a
+	Constrained: Pattern=is, Pattern=a
+Turn ID=7| B | M : Uuh , uh , she ?
+	Free: Pattern=, uh ,, Pattern=she
+	Constrained: 
+Turn ID=8| A | A : Uh-huh . Yeah . And I think , you know , we have such a need now , you know , I taught , you know , I , I think I was paid , uh , about nine thousand dollars to teach for the year
+	Free: Pattern=have, Pattern=a, Pattern=I, Pattern=about, Pattern=, you, Pattern=we, Pattern=the, Pattern=to, Pattern=Yeah, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=you, Pattern=I
+Turn ID=9| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=10| A | A : Oh my gosh .
+	Free: Pattern=Oh, Pattern=my
+	Constrained: 
+Turn ID=11| B | M : I'm Chris xeros . nuff said .
+	Free: Pattern=said, Pattern=I'm
+	Constrained: 
+Turn ID=12| A | A : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=13| B | M : Well , the owner is a lawyer .
+	Free: Pattern=is a, Pattern=the
+	Constrained: Pattern=is, Pattern=a
+Turn ID=14| A | A : and one of the ones that he's worked with was professionals who came in for an AIDS , uh , conference in , uh , California .
+	Free: Pattern=of, Pattern=in, Pattern=, uh ,, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=15| B | M : I live in a small town in Ohio .
+	Free: Pattern=I, Pattern=small town, Pattern=in, Pattern=live in a, Pattern=a small
+	Constrained: Pattern=in, Pattern=a
+Turn ID=16| A | A : Uh I think that's what's made democracy
+	Free: Pattern=I think
+	Constrained: Pattern=I
+Turn ID=17| B | M : That's true .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=18| A | A : So sometimes it's hard to , to know exactly when , but , I don't know , if she acts like she wants to or says she wants to maybe you could have her take some for a while and see how she likes it .
+	Free: Pattern=, to, Pattern=have, Pattern=a, Pattern=So, Pattern=it, Pattern=don't, Pattern=to, Pattern=it's, Pattern=you, Pattern=, but, Pattern=I, Pattern=she
+	Constrained: Pattern=to, Pattern=but
+Turn ID=19| B | M : Where are you from ?
+	Free: Pattern=you, Pattern=are
+	Constrained: 
+Turn ID=20| A | A : you can , you know , you can get some of us ,
+	Free: Pattern=, you, Pattern=you, Pattern=of
+	Constrained: Pattern=you
+Turn ID=21| B | M : I mean , I'm sure it would , but I think
+	Free: Pattern=it would, Pattern=, but I, Pattern=, I'm, Pattern=I think, Pattern=I mean ,
+	Constrained: Pattern=it, Pattern=I, Pattern=would, Pattern=but, Pattern=, but, Pattern=I'm
+Turn ID=22| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : Wait , what ?
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : Just because there's a friend up there , not because there's much else
+	Free: Pattern=not, Pattern=a
+	Constrained: 
+Turn ID=25| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : No .
+	Free: Pattern=No
+	Constrained: 
+Turn ID=27| B | M : They have a lot of things that we don't .
+	Free: Pattern=have a lot of, Pattern=we, Pattern=don't, Pattern=that
+	Constrained: Pattern=have, Pattern=of, Pattern=a
+Turn ID=28| A | A : I mean , not , not to this large scale as Iraq , but that ,
+	Free: Pattern=, but, Pattern=not ,, Pattern=I mean ,, Pattern=to, Pattern=that ,, Pattern=not
+	Constrained: Pattern=but, Pattern=not, Pattern=I, Pattern=that
+Turn ID=29| B | M : Yes .
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : I know at this , I know I feel like I would never do that with my parents either , you know . But I , I really feel bad for the people I see not very , I'm not really , really experienced but like I said I just have that one family , and I just really feel bad for the guy who his whole life is different now and , than he thought it would be . But ,
+	Free: Pattern=it would, Pattern=have, Pattern=said, Pattern=I, Pattern=, you, Pattern=is, Pattern=be, Pattern=the, Pattern=would, Pattern=, I'm, Pattern=my, Pattern=not, Pattern=that, Pattern=but
+	Constrained: Pattern=you, Pattern=would, Pattern=it, Pattern=I'm
+Turn ID=31| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : Okay . That keeps you do you have a lot of activities with your kids ?
+	Free: Pattern=have a lot of, Pattern=you
+	Constrained: Pattern=have, Pattern=of, Pattern=a
+Turn ID=33| B | M : Um .
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : Uh-huh . Do you live in a real small town or , or out in the country ?
+	Free: Pattern=live in a, Pattern=you, Pattern=small town, Pattern=in, Pattern=the
+	Constrained: Pattern=in, Pattern=a
+Turn ID=35| B | M : Oh . That's unfortunate .
+	Free: Pattern=That's, Pattern=Oh
+	Constrained: 
+Turn ID=36| A | A : And they're just kind of more like a side show than anything else and that's sad .
+	Free: Pattern=of, Pattern=a
+	Constrained: 
+Turn ID=37| B | M : yeah , say , that , you're , to be a problem ,
+	Free: Pattern=, to, Pattern=a, Pattern=yeah, Pattern=that ,, Pattern=to be
+	Constrained: Pattern=be, Pattern=to, Pattern=that
+Turn ID=38| A | A : and , and , you know , obviously they're probably not going to be doing a good job and so forth , but I don't really like having to do it . It ,
+	Free: Pattern=, but I, Pattern=a good, Pattern=it, Pattern=, you, Pattern=don't, Pattern=to, Pattern=to be, Pattern=so, Pattern=not
+	Constrained: Pattern=a, Pattern=I, Pattern=be, Pattern=to, Pattern=but, Pattern=you, Pattern=, but
+Turn ID=39| B | M : It's a good . it's a good thing .
+	Free: Pattern=a good, Pattern=it's
+	Constrained: Pattern=a
+Turn ID=40| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=41| B | M : I am I'm so we're not , building prisons .
+	Free: Pattern=not ,, Pattern=I, Pattern=so, Pattern=I'm
+	Constrained: Pattern=not
+Turn ID=42| A | A : No , huh-uh . Uh , I think they're interesting .
+	Free: Pattern=I think, Pattern=No ,
+	Constrained: Pattern=I, Pattern=No
+Turn ID=43| B | M : Oh , okay .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=44| A | A : That's , uh , only way to do it .
+	Free: Pattern=, uh ,, Pattern=That's, Pattern=to, Pattern=it
+	Constrained: 
+Turn ID=45| B | M : So you want me to tell you about my dog ?
+	Free: Pattern=you, Pattern=So, Pattern=about, Pattern=to, Pattern=my
+	Constrained: 

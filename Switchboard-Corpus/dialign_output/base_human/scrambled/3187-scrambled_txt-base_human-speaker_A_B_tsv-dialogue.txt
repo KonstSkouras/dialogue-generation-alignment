@@ -1,0 +1,175 @@
+A|0| A: _Uh ,_ I'm _a_ research engineer _, I_ work _, uh ,_ _with_ Georgia Tech . 
+B|1| B: Okay . 
+A|2| A: Is _it ,_ _Yeah_ _, I_ used _to take_ _that ._ _Right ._ 
+B|3| B: It manages [to take] care _of_ _all_ my home needs in terms _of_ word processing _and_ spreadsheets _and_ [, uh ,] databases , database searches . 
+A|4| A: _Uh-huh ._ _Yeah ._ 
+B|5| B: [Uh ,] _that's_ one _thing_ [that] _they_ _do_ . At _that _,_ it's_ pretty easy _to do_ . 
+A|6| A: [and] _from_ [that] point on [, uh _,] at_ _, the_ N C double A _does_ _have_ something _to do _with_ _it_ _,_ but_ [it's] almost discretionary on _the_ coach's _part_ [of] each individual institution [to] identify _the_ ones [that] _have_ _the_ problem . 
+B|7| B: [Right .] 
+A|8| A: Bye 
+B|9| B: [Right .] 
+A|10| A: _Uh-huh ._ 
+B|11| B: You _know _,_ _if_ you_ want [to] _be a_ lawyer _because_ _you know_ [that] _you_ _can_ provide [a] service [that] people need _because_ _you_ _have to_ [have] lawyers in _this_ country , um [, but] _if_ you're _just_ _doing it_ _because_ _you _think_ that's the_ best way [to] , _be_ rich . 
+A|12| A: _I_ mean [, if] _your_ _going to_ sentence somebody , let's say twenty _years ,_ let _them_ stay twenty _years_ . 
+B|13| B: [Yeah .] No , _that's_ true . Course _they_ [have] [a] requirement _that , uh ,_ [that] _every_ single appeal must _be_ permitted . 
+A|14| A: _Uh-huh ._ 
+B|15| B: Really ? Huh , oh , yeah , _that's_ true , hadn't thought _about_ [that .] That _is_ _very_ inconvenient . 
+A|16| A: _Uh-huh ._ 
+B|17| B: _you_ _just_ said [it] . It's _their_ _right_ by freedom [of] speech ? What [does] speech _have [to_ do with] burning [a] flag ? 
+A|18| A: Yes . Yes _, and_ sometimes _now_ we're getting [that , uh _,] the_ other football where [they] play [it] inside _, and_ _you know ,_ [this] [is] [a] _, you know ,_ [this] [is] too much Saturdays [and] Sunday , [this] [is] fine [, but] [do] _we_ [have to] carry [this] on into [the] summer [and] [the] spring _you know ,_ [all] [of] [that ,] 
+B|19| B: The _thing_ _about_ _when_ [it] gets hot _here_ [is] _, I don't_ _like_ [the] humidity , [that] [part] _I don't_ care _about_ . 
+A|20| A: Yes . 
+B|21| B: _Well [,_ _I] think that's_ true [, and] _I [,_ uh ,] [now] [we] generally _don't_ buy [a] warranty _, because_ _you think_ [, you know [,] at] least _for the_ first couple [of] [years ,] nothing should go wrong [with it] . 
+A|22| A: But [they] seem _to like_ [it] okay . [I think] they're too far away _from_ me [, but] maybe some _day_ [they] [can] get closer , 
+B|23| B: [Yeah .] 
+A|24| A: [but] [Yeah .] [but] [it] [that's] [uh] [that's] _what_ [I] mean , see [, but] [but] realistically [when] [you think] [of] [it] [it] [just] sounds [like] such an awful [thing] [, and] [it] evokes an emotional response . [I [think that's] the] hardest [thing] [, I don't] [know] [if] [I] could ever [be a] judge [, because] some things emotionally [just] aren't [you know] 
+B|25| B: [Yeah .] Our cat [we] _got_ [from] [the] pound [the] [day] [the] night _she_ was [going to] [be] put [to] sleep . So [that's] why [we] call _her_ Liberty . 
+A|26| A: _Uh-huh ._ 
+B|27| B: _And_ then people would , would [know] [that] [it] was [going to] cost [them] money [to] _not_ sort _their_ trash . 
+A|28| A: [and] so [, but] [, uh ,] [she] [got] over _it ,_ so . 
+B|29| B: So [I] guess [it's] supposed [to] [be] dinner party , [is] [that] [what] [they] said ? 
+A|30| A: [Yeah .] [Yeah .] That's kind [of] [a] , let down . 
+B|31| B: If [it ,] 
+A|32| A: [and] [they] buried [her] alive 
+B|33| B: [Uh-huh .] 
+A|34| A: Um . [Well ,] [here] [, uh ,] I'm [not] sure how many Dallas has had . I've [, uh ,] Houston [is] averaging [about] two [a] week or three or four [, [I] [,] I don't] [know] . A , [a] number [every] week . 
+B|35| B: [Right] [, the] child will learn [to like] cats . [and] deal [with] [them] , 
+A|36| A: [And] [, uh [,] and] yet [if you] didn't feel [like] [you] could [be a] good caretaker [I don't] [, uh [,] it's] [a] [very] , [very] hard decision [I think] . 
+B|37| B: They [got] [that , uh ,] [what] [is] [that] safer soap [, uh ,] B T spray [this] , year . 
+A|38| A: But there's , there's some where [, uh [,] uh ,] student employees working [for the] government [don't] [have to] pay Social Security tax . [that's] [about] , five percent [right] there 
+B|39| B: [Yeah .] 
+A|40| A: Of course , [their] seasons are switched . 
+B|41| B: Does [your] family normally [have] [a] reunion ? Do [you] [have] one , 
+A|42| A: But [I] [have] fun [doing [it] ,] some [, uh [,] you know [,] I] [have] some good shots [and] some bad shots . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Uh , I'm a research engineer , I work , uh , with Georgia Tech .
+	Free: Pattern=Uh ,, Pattern=, uh ,, Pattern=with, Pattern=, I, Pattern=a
+	Constrained: Pattern=uh, Pattern=I
+Turn ID=1| B | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : Is it , Yeah , I used to take that . Right .
+	Free: Pattern=that ., Pattern=it ,, Pattern=Right ., Pattern=Yeah, Pattern=to take, Pattern=, I
+	Constrained: Pattern=it, Pattern=I, Pattern=Right, Pattern=to, Pattern=that
+Turn ID=3| B | B : It manages to take care of all my home needs in terms of word processing and spreadsheets and , uh , databases , database searches .
+	Free: Pattern=of, Pattern=to take, Pattern=and, Pattern=, uh ,, Pattern=all
+	Constrained: Pattern=uh, Pattern=to
+Turn ID=4| A | A : Uh-huh . Yeah .
+	Free: Pattern=Yeah ., Pattern=Uh-huh .
+	Constrained: Pattern=Yeah
+Turn ID=5| B | B : Uh , that's one thing that they do . At that , it's pretty easy to do .
+	Free: Pattern=to do, Pattern=they, Pattern=do, Pattern=that ,, Pattern=that, Pattern=, it's, Pattern=Uh ,, Pattern=thing, Pattern=that's
+	Constrained: Pattern=do, Pattern=to, Pattern=that, Pattern=it's
+Turn ID=6| A | A : and from that point on , uh , at , the N C double A does have something to do with it , but it's almost discretionary on the coach's part of each individual institution to identify the ones that have the problem .
+	Free: Pattern=of, Pattern=, but, Pattern=have, Pattern=, at, Pattern=and, Pattern=from, Pattern=does, Pattern=, uh ,, Pattern=to do with, Pattern=to, Pattern=, the, Pattern=with it, Pattern=it ,, Pattern=part, Pattern=the, Pattern=that, Pattern=it's
+	Constrained: Pattern=uh, Pattern=to do, Pattern=do, Pattern=it, Pattern=the, Pattern=to, Pattern=with, Pattern=but
+Turn ID=7| B | B : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=8| A | A : Bye
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=10| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=11| B | B : You know , if you want to be a lawyer because you know that you can provide a service that people need because you have to have lawyers in this country , um , but if you're just doing it because you think that's the best way to , be rich .
+	Free: Pattern=know ,, Pattern=can, Pattern=be a, Pattern=you think, Pattern=have to, Pattern=to, Pattern=this, Pattern=that, Pattern=you, Pattern=you know, Pattern=, but, Pattern=just, Pattern=have, Pattern=a, Pattern=because, Pattern=doing it, Pattern=if, Pattern=if you, Pattern=, if, Pattern=think that's the, Pattern=be
+	Constrained: Pattern=you, Pattern=have, Pattern=a, Pattern=it, Pattern=if, Pattern=know, Pattern=be, Pattern=to, Pattern=but, Pattern=that's, Pattern=the
+Turn ID=12| A | A : I mean , if your going to sentence somebody , let's say twenty years , let them stay twenty years .
+	Free: Pattern=going to, Pattern=years, Pattern=I, Pattern=, if, Pattern=your, Pattern=them, Pattern=years ,
+	Constrained: Pattern=to, Pattern=years, Pattern=if
+Turn ID=13| B | B : Yeah . No , that's true . Course they have a requirement that , uh , that every single appeal must be permitted .
+	Free: Pattern=Yeah ., Pattern=every, Pattern=have, Pattern=they, Pattern=a, Pattern=that , uh ,, Pattern=be, Pattern=that's, Pattern=that
+	Constrained: Pattern=uh, Pattern=, uh ,, Pattern=Yeah, Pattern=that ,, Pattern=that
+Turn ID=14| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=15| B | B : Really ? Huh , oh , yeah , that's true , hadn't thought about that . That is very inconvenient .
+	Free: Pattern=that ., Pattern=about, Pattern=that's, Pattern=very, Pattern=is
+	Constrained: Pattern=that
+Turn ID=16| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=17| B | B : you just said it . It's their right by freedom of speech ? What does speech have to do with burning a flag ?
+	Free: Pattern=their, Pattern=you, Pattern=just, Pattern=a, Pattern=it, Pattern=does, Pattern=right, Pattern=of, Pattern=have to, Pattern=to do with
+	Constrained: Pattern=have, Pattern=to do, Pattern=do, Pattern=to, Pattern=with
+Turn ID=18| A | A : Yes . Yes , and sometimes now we're getting that , uh , the other football where they play it inside , and you know , this is a , you know , this is too much Saturdays and Sunday , this is fine , but do we have to carry this on into the summer and the spring you know , all of that ,
+	Free: Pattern=, but, Pattern=they, Pattern=is, Pattern=have to, Pattern=, and, Pattern=of, Pattern=you know ,, Pattern=do, Pattern=, you know ,, Pattern=a, Pattern=it, Pattern=and, Pattern=that , uh ,, Pattern=we, Pattern=the, Pattern=all, Pattern=that ,, Pattern=now, Pattern=, the, Pattern=this
+	Constrained: Pattern=have, Pattern=and, Pattern=know, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=that ,, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=uh, Pattern=you know, Pattern=that, Pattern=but
+Turn ID=19| B | B : The thing about when it gets hot here is , I don't like the humidity , that part I don't care about .
+	Free: Pattern=here, Pattern=it, Pattern=, I don't, Pattern=is, Pattern=like, Pattern=when, Pattern=that, Pattern=I don't, Pattern=about, Pattern=thing, Pattern=part, Pattern=the
+	Constrained: Pattern=, I, Pattern=I don't, Pattern=don't, Pattern=I
+Turn ID=20| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : Well , I think that's true , and I , uh , now we generally don't buy a warranty , because you think , you know , at least for the first couple of years , nothing should go wrong with it .
+	Free: Pattern=I ,, Pattern=of, Pattern=for the, Pattern=, at, Pattern=Well ,, Pattern=don't, Pattern=, and, Pattern=now, Pattern=years ,, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=, because, Pattern=you think, Pattern=with it, Pattern=we, Pattern=, uh ,, Pattern=I think that's
+	Constrained: Pattern=because, Pattern=years, Pattern=I, Pattern=know, Pattern=I think, Pattern=with, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=uh, Pattern=you know, Pattern=it, Pattern=and, Pattern=that's, Pattern=the
+Turn ID=22| A | A : But they seem to like it okay . I think they're too far away from me , but maybe some day they can get closer ,
+	Free: Pattern=, but, Pattern=they, Pattern=to like, Pattern=it, Pattern=day, Pattern=I think, Pattern=can, Pattern=from
+	Constrained: Pattern=but, Pattern=I, Pattern=to, Pattern=like
+Turn ID=23| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=24| A | A : but Yeah . but it that's uh that's what I mean , see , but but realistically when you think of it it just sounds like such an awful thing , and it evokes an emotional response . I think that's the hardest thing , I don't know if I could ever be a judge , because some things emotionally just aren't you know
+	Free: Pattern=Yeah ., Pattern=of, Pattern=just, Pattern=what, Pattern=it, Pattern=, I don't, Pattern=like, Pattern=when, Pattern=, and, Pattern=but, Pattern=uh, Pattern=you know, Pattern=, but, Pattern=I, Pattern=if, Pattern=know, Pattern=be a, Pattern=, because, Pattern=you think, Pattern=think that's the, Pattern=I think that's, Pattern=thing, Pattern=that's
+	Constrained: Pattern=you, Pattern=and, Pattern=I, Pattern=I don't, Pattern=know, Pattern=don't, Pattern=Yeah, Pattern=but, Pattern=, I, Pattern=a, Pattern=because, Pattern=I think, Pattern=be, Pattern=that's, Pattern=the
+Turn ID=25| B | B : Yeah . Our cat we got from the pound the day the night she was going to be put to sleep . So that's why we call her Liberty .
+	Free: Pattern=she, Pattern=from, Pattern=day, Pattern=be, Pattern=got, Pattern=to, Pattern=going to, Pattern=Yeah ., Pattern=her, Pattern=we, Pattern=that's, Pattern=the
+	Constrained: Pattern=to, Pattern=Yeah
+Turn ID=26| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=27| B | B : And then people would , would know that it was going to cost them money to not sort their trash .
+	Free: Pattern=And, Pattern=it, Pattern=know, Pattern=to, Pattern=not, Pattern=going to, Pattern=their, Pattern=them, Pattern=that
+	Constrained: Pattern=to
+Turn ID=28| A | A : and so , but , uh , she got over it , so .
+	Free: Pattern=, but, Pattern=and, Pattern=she, Pattern=it ,, Pattern=, uh ,, Pattern=got
+	Constrained: Pattern=uh, Pattern=but, Pattern=it
+Turn ID=29| B | B : So I guess it's supposed to be dinner party , is that what they said ?
+	Free: Pattern=I, Pattern=is, Pattern=be, Pattern=to, Pattern=what, Pattern=they, Pattern=that, Pattern=it's
+	Constrained: 
+Turn ID=30| A | A : Yeah . Yeah . That's kind of a , let down .
+	Free: Pattern=Yeah ., Pattern=of, Pattern=a
+	Constrained: Pattern=Yeah
+Turn ID=31| B | B : If it ,
+	Free: Pattern=it ,
+	Constrained: Pattern=it
+Turn ID=32| A | A : and they buried her alive
+	Free: Pattern=they, Pattern=and, Pattern=her
+	Constrained: 
+Turn ID=33| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=34| A | A : Um . Well , here , uh , I'm not sure how many Dallas has had . I've , uh , Houston is averaging about two a week or three or four , I , I don't know . A , a number every week .
+	Free: Pattern=I ,, Pattern=every, Pattern=here, Pattern=about, Pattern=know, Pattern=is, Pattern=, uh ,, Pattern=not, Pattern=, I, Pattern=a, Pattern=, I don't, Pattern=Well ,
+	Constrained: Pattern=uh, Pattern=, I, Pattern=I, Pattern=I don't, Pattern=don't
+Turn ID=35| B | B : Right , the child will learn to like cats . and deal with them ,
+	Free: Pattern=to like, Pattern=and, Pattern=Right, Pattern=, the, Pattern=with, Pattern=them
+	Constrained: Pattern=to, Pattern=the, Pattern=like
+Turn ID=36| A | A : And , uh , and yet if you didn't feel like you could be a good caretaker I don't , uh , it's a very , very hard decision I think .
+	Free: Pattern=you, Pattern=And, Pattern=a, Pattern=if you, Pattern=be a, Pattern=very, Pattern=like, Pattern=, and, Pattern=I don't, Pattern=, it's, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=a, Pattern=and, Pattern=be, Pattern=don't, Pattern=it's, Pattern=you, Pattern=uh, Pattern=I, Pattern=if
+Turn ID=37| B | B : They got that , uh , what is that safer soap , uh , B T spray this , year .
+	Free: Pattern=what, Pattern=is, Pattern=that , uh ,, Pattern=, uh ,, Pattern=got, Pattern=this, Pattern=that
+	Constrained: Pattern=uh, Pattern=, uh ,, Pattern=that ,, Pattern=that
+Turn ID=38| A | A : But there's , there's some where , uh , uh , student employees working for the government don't have to pay Social Security tax . that's about , five percent right there
+	Free: Pattern=right, Pattern=for the, Pattern=about, Pattern=, uh ,, Pattern=that's, Pattern=have to, Pattern=don't
+	Constrained: Pattern=have, Pattern=uh, Pattern=to, Pattern=the
+Turn ID=39| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=40| A | A : Of course , their seasons are switched .
+	Free: Pattern=their
+	Constrained: 
+Turn ID=41| B | B : Does your family normally have a reunion ? Do you have one ,
+	Free: Pattern=your, Pattern=a, Pattern=you, Pattern=have
+	Constrained: 
+Turn ID=42| A | A : But I have fun doing it , some , uh , you know , I have some good shots and some bad shots .
+	Free: Pattern=have, Pattern=and, Pattern=it ,, Pattern=, uh ,, Pattern=, you know ,, Pattern=, I, Pattern=doing it, Pattern=I
+	Constrained: Pattern=it, Pattern=I, Pattern=know, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=uh, Pattern=you know

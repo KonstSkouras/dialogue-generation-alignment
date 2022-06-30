@@ -1,0 +1,251 @@
+A|0| B: _So ,_ 
+B|1| M: [So ,] how's _it_ 
+A|2| B: _Um_ . 
+B|3| M: _You_ _don't_ . 
+A|4| B: _Oh_ _, yeah_ . 
+B|5| M: u bealphem , _the_ girl plays _the_ _piano_ . 
+A|6| B: Uh-huh . 
+B|7| M: _Well ,_ _it's_ always been _the_ song _that_ he listens _to_ . 
+A|8| B: _Oh_ , _they_ _did_ ? 
+B|9| M: _I_ am _the_ one _who_ sings _, my_ son . 
+A|10| B: How _did_ , How _did_ _they_ get _involved in_ [that] ? 
+B|11| M: _Well ,_ we've _got_ _a lot_ _of_ people who've been [involved _in] the_ production _of_ _this_ song . 
+A|12| B: Uh-huh . 
+B|13| M: Did [they] read _it_ _in the_ newspapers ? 
+A|14| B: _Oh_ , how fun . 
+B|15| M: No , _I'm_ married _and_ _my_ wife _is_ _a_ _teacher_ . 
+A|16| B: Uh-huh . 
+B|17| M: Huh _. I_ [did] _not_ _know_ [that] . 
+A|18| B: _Um ,_ uh-huh _, um ._ Yeah _, yeah ,_ that's nice . [You] _say_ _have_ _your_ four year old taking lessons already ? 
+B|19| M: It's _a_ _good_ time . 
+A|20| B: And _, uh ,_ [who] _do_ _you_ _have_ her , or him , take [it] from ? 
+B|21| M: Uuhuh [, um .] 
+A|22| B: Uh-huh . 
+B|23| M: [You] _know [,_ uh _,] have you_ seen _my_ handwriting ? 
+A|24| B: Uh-huh . 
+B|25| M: [Oh] [yeah] ? Uh huh ? 
+A|26| B: [Oh] . 
+B|27| M: [Um [,] uh [,] yeah ,] _I'm_ pretty _good_ _with_ _piano_ . 
+A|28| B: Uh-huh . 
+B|29| M: [You] can't [say] [that] _, you know_ . 
+A|30| B: Yeah . Yeah . 
+B|31| M: _I_ can [do] [that] 
+A|32| B: [Well ,] because [my] , 
+B|33| M: _I'm_ _a_ bot , you're _a_ bot . 
+A|34| B: Pardon me ? 
+B|35| M: It's been _a_ while since I've seen _a_ musical . 
+A|36| B: Uh-huh . Uh-huh . [Well _,] I have_ an eight [and] [a] half year old daughter who's taking [piano] lessons [and] started out at [the] age [of] just turning five 
+B|37| M: [So] what's [your] opinion on musicals ? 
+A|38| B: because _she_ wanted [, you [know] ,] _she_ just seemed [to] enjoy [it] so much [and] now [my] [, my] four year old , four [and] [a] half year old daughter [is] , [is] trying [to] imitate her older sister [and] wanting [to] play [and] _she_ actually does some very nice chording just naturally . _She_ just , 
+B|39| M:  
+A|40| B: [So] [I] wasn't sure when [to] start her [. I] didn't want [to] push her too early , either _, but_ [, uh ,] kind [of] had [a] mixed feelings _about_ [that] scene . 
+B|41| M: _I don't_ . 
+A|42| B: Uh-huh Yeah . 
+B|43| M:  
+A|44| B: Yeah . 
+B|45| M: [She] says [, but] [she] says no . 
+A|46| B: Uh-huh , uh-huh . Yeah _, I_ think she'd like [to] _, I_ just [don't] [know] if [it's] _really ,_ knowing from _what_ [my] daughter has gone through , she's , [she] learned [a lot] [and] , [of] course , [it] was something [she] had [to] keep relearning if [she] ever [got] away from [it] . 
+B|47| M: Yes . 
+A|48| B: It was something easily forgotten . [So [,] uh _,] [I_ don't] [know] if she's any farther ahead than those kids [who] started when [they] were eight or , or should [I] [say] seven [. I] mean , she's [not] [a] gifted pianist [in the] sense [that] she's going [to] excel just naturally . [She] does [have] [to] _really_ work at [it] [, but] [, uh ,] so , 
+B|49| M:  
+A|50| B: Yeah [, but] , so [I'm] kind [of] [, you [know] ,] just playing [with] [it] [, but] at [this] point we're going [to] kind [of] wait _, I_ think just more for [the] financial reasons [of] [it] anyway [but] , 
+B|51| M:  
+A|52| B: Yeah . 
+B|53| M: [I'm] [not] [really ,] [it's] expensive 
+A|54| B: Yeah . 
+B|55| M: But [you] ? 
+A|56| B: Uh-huh . [Oh] , that's [good] . 
+B|57| M: [She] smiles back . 
+A|58| B: [Well ,] as _a piano_ [teacher] , [do] [you] [have] any feelings for kids [who] come from [a] Suzuki method [, have you] had any former Suzuki students ? 
+B|59| M: [Well ,] [I'm] [a piano] student . 
+A|60| B: [I] was wondering how , 
+B|61| M: Because [, I have] no idea [what] you're talking [about] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : So ,
+	Free: Pattern=So ,
+	Constrained: Pattern=So
+Turn ID=1| B | M : So , how's it
+	Free: Pattern=So ,, Pattern=it
+	Constrained: Pattern=So
+Turn ID=2| A | B : Um .
+	Free: Pattern=Um
+	Constrained: 
+Turn ID=3| B | M : You don't .
+	Free: Pattern=don't, Pattern=You
+	Constrained: 
+Turn ID=4| A | B : Oh , yeah .
+	Free: Pattern=, yeah, Pattern=Oh
+	Constrained: Pattern=yeah
+Turn ID=5| B | M : u bealphem , the girl plays the piano .
+	Free: Pattern=the, Pattern=piano
+	Constrained: 
+Turn ID=6| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : Well , it's always been the song that he listens to .
+	Free: Pattern=Well ,, Pattern=the, Pattern=to, Pattern=that, Pattern=it's
+	Constrained: 
+Turn ID=8| A | B : Oh , they did ?
+	Free: Pattern=they, Pattern=did, Pattern=Oh
+	Constrained: 
+Turn ID=9| B | M : I am the one who sings , my son .
+	Free: Pattern=, my, Pattern=I, Pattern=the, Pattern=who
+	Constrained: Pattern=my
+Turn ID=10| A | B : How did , How did they get involved in that ?
+	Free: Pattern=involved in, Pattern=they, Pattern=did, Pattern=that
+	Constrained: 
+Turn ID=11| B | M : Well , we've got a lot of people who've been involved in the production of this song .
+	Free: Pattern=of, Pattern=involved in, Pattern=in the, Pattern=Well ,, Pattern=got, Pattern=a lot, Pattern=this
+	Constrained: Pattern=the, Pattern=a
+Turn ID=12| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Did they read it in the newspapers ?
+	Free: Pattern=in the, Pattern=they, Pattern=it
+	Constrained: Pattern=the
+Turn ID=14| A | B : Oh , how fun .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=15| B | M : No , I'm married and my wife is a teacher .
+	Free: Pattern=I'm, Pattern=a, Pattern=and, Pattern=teacher, Pattern=is, Pattern=my
+	Constrained: 
+Turn ID=16| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : Huh . I did not know that .
+	Free: Pattern=did, Pattern=. I, Pattern=know, Pattern=that, Pattern=not
+	Constrained: Pattern=I
+Turn ID=18| A | B : Um , uh-huh , um . Yeah , yeah , that's nice . You say have your four year old taking lessons already ?
+	Free: Pattern=have, Pattern=, yeah ,, Pattern=say, Pattern=your, Pattern=You, Pattern=, um ., Pattern=Um ,
+	Constrained: Pattern=Um, Pattern=, yeah, Pattern=yeah
+Turn ID=19| B | M : It's a good time .
+	Free: Pattern=good, Pattern=a
+	Constrained: 
+Turn ID=20| A | B : And , uh , who do you have her , or him , take it from ?
+	Free: Pattern=you, Pattern=have, Pattern=it, Pattern=, uh ,, Pattern=do, Pattern=who
+	Constrained: 
+Turn ID=21| B | M : Uuhuh , um .
+	Free: Pattern=, um .
+	Constrained: 
+Turn ID=22| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : You know , uh , have you seen my handwriting ?
+	Free: Pattern=know ,, Pattern=, have you, Pattern=my, Pattern=You, Pattern=, uh ,
+	Constrained: Pattern=have, Pattern=you, Pattern=know
+Turn ID=24| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : Oh yeah ? Uh huh ?
+	Free: Pattern=yeah, Pattern=Oh
+	Constrained: 
+Turn ID=26| A | B : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=27| B | M : Um , uh , yeah , I'm pretty good with piano .
+	Free: Pattern=good, Pattern=I'm, Pattern=, yeah ,, Pattern=piano, Pattern=, uh ,, Pattern=Um ,, Pattern=with
+	Constrained: Pattern=Um, Pattern=, yeah, Pattern=yeah
+Turn ID=28| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : You can't say that , you know .
+	Free: Pattern=, you know, Pattern=that, Pattern=You, Pattern=say
+	Constrained: Pattern=know, Pattern=you
+Turn ID=30| A | B : Yeah . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : I can do that
+	Free: Pattern=I, Pattern=do, Pattern=that
+	Constrained: 
+Turn ID=32| A | B : Well , because my ,
+	Free: Pattern=Well ,, Pattern=my
+	Constrained: 
+Turn ID=33| B | M : I'm a bot , you're a bot .
+	Free: Pattern=a, Pattern=I'm
+	Constrained: 
+Turn ID=34| A | B : Pardon me ?
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : It's been a while since I've seen a musical .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=36| A | B : Uh-huh . Uh-huh . Well , I have an eight and a half year old daughter who's taking piano lessons and started out at the age of just turning five
+	Free: Pattern=of, Pattern=Well ,, Pattern=the, Pattern=a, Pattern=, I have, Pattern=and, Pattern=piano
+	Constrained: Pattern=, I, Pattern=I, Pattern=have
+Turn ID=37| B | M : So what's your opinion on musicals ?
+	Free: Pattern=your, Pattern=So
+	Constrained: 
+Turn ID=38| A | B : because she wanted , you know , she just seemed to enjoy it so much and now my , my four year old , four and a half year old daughter is , is trying to imitate her older sister and wanting to play and she actually does some very nice chording just naturally . She just ,
+	Free: Pattern=know ,, Pattern=a, Pattern=, you know, Pattern=is, Pattern=, my, Pattern=to, Pattern=my, Pattern=it, Pattern=and, Pattern=She, Pattern=she
+	Constrained: Pattern=know, Pattern=you, Pattern=my
+Turn ID=39| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : So I wasn't sure when to start her . I didn't want to push her too early , either , but , uh , kind of had a mixed feelings about that scene .
+	Free: Pattern=of, Pattern=, but, Pattern=a, Pattern=So, Pattern=I, Pattern=. I, Pattern=about, Pattern=, uh ,, Pattern=to, Pattern=that
+	Constrained: Pattern=I, Pattern=but
+Turn ID=41| B | M : I don't .
+	Free: Pattern=I don't
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=42| A | B : Uh-huh Yeah .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : She says , but she says no .
+	Free: Pattern=, but, Pattern=she, Pattern=She
+	Constrained: Pattern=but
+Turn ID=46| A | B : Uh-huh , uh-huh . Yeah , I think she'd like to , I just don't know if it's really , knowing from what my daughter has gone through , she's , she learned a lot and , of course , it was something she had to keep relearning if she ever got away from it .
+	Free: Pattern=of, Pattern=what, Pattern=, I, Pattern=she, Pattern=know, Pattern=really ,, Pattern=don't, Pattern=got, Pattern=my, Pattern=it's, Pattern=it, Pattern=and, Pattern=a lot, Pattern=to
+	Constrained: Pattern=I, Pattern=really, Pattern=a
+Turn ID=47| B | M : Yes .
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : It was something easily forgotten . So , uh , I don't know if she's any farther ahead than those kids who started when they were eight or , or should I say seven . I mean , she's not a gifted pianist in the sense that she's going to excel just naturally . She does have to really work at it , but , uh , so ,
+	Free: Pattern=, but, Pattern=have, Pattern=they, Pattern=it, Pattern=. I, Pattern=I don't, Pattern=really, Pattern=, uh ,, Pattern=to, Pattern=So ,, Pattern=that, Pattern=not, Pattern=who, Pattern=, I, Pattern=a, Pattern=She, Pattern=in the, Pattern=I, Pattern=say, Pattern=know
+	Constrained: Pattern=So, Pattern=I, Pattern=the, Pattern=don't, Pattern=but
+Turn ID=49| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=50| A | B : Yeah , but , so I'm kind of , you know , just playing with it , but at this point we're going to kind of wait , I think just more for the financial reasons of it anyway but ,
+	Free: Pattern=, I, Pattern=it, Pattern=, you know, Pattern=the, Pattern=to, Pattern=this, Pattern=of, Pattern=know ,, Pattern=, but, Pattern=I'm, Pattern=with, Pattern=but
+	Constrained: Pattern=but, Pattern=I, Pattern=you, Pattern=know
+Turn ID=51| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=52| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : I'm not really , it's expensive
+	Free: Pattern=really ,, Pattern=I'm, Pattern=it's, Pattern=not
+	Constrained: Pattern=really
+Turn ID=54| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=55| B | M : But you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=56| A | B : Uh-huh . Oh , that's good .
+	Free: Pattern=good, Pattern=Oh
+	Constrained: 
+Turn ID=57| B | M : She smiles back .
+	Free: Pattern=She
+	Constrained: 
+Turn ID=58| A | B : Well , as a piano teacher , do you have any feelings for kids who come from a Suzuki method , have you had any former Suzuki students ?
+	Free: Pattern=you, Pattern=have, Pattern=teacher, Pattern=Well ,, Pattern=do, Pattern=who, Pattern=a, Pattern=, have you, Pattern=a piano
+	Constrained: Pattern=have, Pattern=a, Pattern=piano, Pattern=you
+Turn ID=59| B | M : Well , I'm a piano student .
+	Free: Pattern=Well ,, Pattern=a piano, Pattern=I'm
+	Constrained: Pattern=a, Pattern=piano
+Turn ID=60| A | B : I was wondering how ,
+	Free: Pattern=I
+	Constrained: 
+Turn ID=61| B | M : Because , I have no idea what you're talking about .
+	Free: Pattern=, I have, Pattern=about, Pattern=what
+	Constrained: Pattern=, I, Pattern=I, Pattern=have

@@ -1,0 +1,191 @@
+A|0| B: When _you_ get one way out like _that_ _but_ then really doesn't wind up penalizing _the_ person _that_ _they_ went after . Who _it_ really penalizes _is_ their insurance company which then translates into higher rates for all of us . If _they_ get some of those mega awards against them . 
+B|1| M: _I_ 
+A|2| B: _You_ _know ,_ they're _not_ going _to_ sit _there_ _and_ lose money . If _they_ _are_ losing money , then they're going _to_ raise rates . 
+B|3| M: _I don't_ _have to be_ 
+A|4| B: So _it_ all comes filtering down [to] us all individually . 
+B|5| M: _They_ _don't_ _have to be_ . 
+A|6| B: And , uh , granted some _people_ need [to be] compensated _if they_ [have] really been _wronged_ _, you know_ . 
+B|7| M: [You] _mean_ [people] who [are] [wronged] . 
+A|8| B: [I don't] _know_ . [You] _know_ some of _the_ health insurance _is_ written _that_ way . [You] _know ,_ _that_ , uh , _if_ _you_ buy an accident _and_ death or dismemberment policy _, you know ,_ _it_ pre specified in _the_ policy so much _but_ [I don't] _know_ _that_ _you_ can necessarily put _a_ , _a_ value on somebody's limb , uh , arbitrarily _that_ _is_ always going [to] fit in all cases . 
+B|9| M: i 
+A|10| B: _I think_ maybe _you_ look at , uh , _the_ age of _the_ person _and_ their station in life _and , and ,_ uh , how much longer _they_ [have] of work years _that_ _they_ would [have to] put up _, you know ,_ _with_ , _with that _._ I_ [mean] maybe _you_ [don't] award an eighty-five year old guy _the_ same thing _that_ _you_ would award _a_ twenty-one year old . 
+B|11| M:  
+A|12| B: [I] , _I think_ _it_ has [to be] some kind of common sense applied _there ._ And _there_ may [be] where _the_ judiciary _is_ _a_ little more learned about _that_ type of thing because _they_ can [be] schooled in _that_ kind of thing , 
+B|13| M: [you] . 
+A|14| B: _and_ _that_ can [be] part of continuing education , maybe for _judges_ 
+B|15| M:  ... 
+A|16| B: [I don't] _know_ . 
+B|17| M: There [is] no rule [that] states [that] [judges] _have to be_ [judges] . 
+A|18| B: [You] _know ,_ [to] get into _the_ economics of things , uh , because _if they_ wheel somebody into _a_ courtroom _and_ _the_ jury's heart goes out [to] [that] person _and_ _they_ do one of these mega awards , _it_ really _, you know ,_ ultimately [is] _not_ penalizing _the_ person [that] they're trying for get away . 
+B|19| M: Why ? 
+A|20| B: If _it's_ _a_ company _, you know_ [that] they're insured . Unless _the_ award [is] so staggering [that] _it_ goes all beyond their layers of insurance which [is] another pet peeve of mine when _they_ do award punitive damages , 
+B|21| M: [I think] [it's] 
+A|22| B: [I think] those should [be] uninsurable _. I think_ those should [have to _be] paid_ by _the_ corporation itself [that] , [that] did _the damage_ . 
+B|23| M: Should [be paid] ? 
+A|24| B: Yeah . Yeah . 
+B|25| M: Are [you] referring _to [the_ damage] ? 
+A|26| B: For , for honest mistakes where they've done something _and , and_ something happens . One of their employees causes [damage] or something . Sure . That's _what_ _they_ buy insurance for . 
+B|27| M:  ... [what] ? 
+A|28| B: Well , [I] was just talking about any company . Uh , let's just say _a_ lumber manufacturing company 
+B|29| M: Umm [. I think] I'd [be] okay [with that .] 
+A|30| B: _and ,_ uh , somebody [is] on [the] premises 
+B|31| M:  ... [and , and [,] you know ,] 
+A|32| B: [and] one of [the] employees actually [is] driving by [with] _a_ forklift [and] he pushes [the] wrong button [and] he drops _a_ load of lumber on somebody [and] _it_ injures , them . 
+B|33| M: It's [not] [a] coincidence . 
+A|34| B: Sure . Insurance should pay for [that .] 
+B|35| M: Not sure [if] you're serious . 
+A|36| B: Well I'm [not] talking about any loss [. I] was talking about only losses [that] [are] judged for [a] punitive [damage] which [is] another category of , [the] juries [are] awarding damages these days based on [the] person's actual injuries [and] [what] _they_ [are] due . And then _they_ [are] awarding [a] second amount as punishment [to the] company which [is] [a] usually [a] lot less . But [it's] an , an amount they're , designed [to] sting them [a] little for their , negligence . For gross wanton negligence in [a] claim . 
+B|37| M:  
+A|38| B: And unfortunately [the] [the] , lately [the] courts [have] been deciding [that] those could [be paid] for by insurance too . 
+B|39| M: self . 
+A|40| B: So again , _it_ never really penalizes , [the] company doing [the] wrong . 
+B|41| M: It's [a] . 
+A|42| B: [They] can go right on doing [the] same old thing _they_ always used [to] . 
+B|43| M: What [if they] can't afford [it] ? 
+A|44| B: And [if] , [if they] [know] some practice [is] wrong [, you know ,] I'm [not] talking about your isolated occurrences , I'm talking more about [the] [, you know ,] [the] thing [that] [they] [know ,] maybe they're willfully manufacturing something [that] [they] [know] [is] hurting [people] out _there_ [and] [they] continue [to] do [it] even after [they] become aware of [that .] 
+B|45| M: Yes , [but] [the] risk [is] still [there .] 
+A|46| B: Then [I think] [they] ought [to] [have to] pay something out of their own pocket . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : When you get one way out like that but then really doesn't wind up penalizing the person that they went after . Who it really penalizes is their insurance company which then translates into higher rates for all of us . If they get some of those mega awards against them .
+	Free: Pattern=you, Pattern=they, Pattern=it, Pattern=is, Pattern=the, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=1| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=2| A | B : You know , they're not going to sit there and lose money . If they are losing money , then they're going to raise rates .
+	Free: Pattern=know ,, Pattern=and, Pattern=are, Pattern=You, Pattern=to, Pattern=not, Pattern=they, Pattern=there
+	Constrained: Pattern=know
+Turn ID=3| B | M : I don't have to be
+	Free: Pattern=have to be, Pattern=I don't
+	Constrained: Pattern=have, Pattern=I, Pattern=be, Pattern=to, Pattern=to be, Pattern=have to, Pattern=don't
+Turn ID=4| A | B : So it all comes filtering down to us all individually .
+	Free: Pattern=to, Pattern=it
+	Constrained: 
+Turn ID=5| B | M : They don't have to be .
+	Free: Pattern=have to be, Pattern=They, Pattern=don't
+	Constrained: Pattern=have, Pattern=be, Pattern=have to, Pattern=to, Pattern=to be
+Turn ID=6| A | B : And , uh , granted some people need to be compensated if they have really been wronged , you know .
+	Free: Pattern=wronged, Pattern=, you know, Pattern=if they, Pattern=to be, Pattern=people, Pattern=have
+	Constrained: Pattern=you, Pattern=they, Pattern=if, Pattern=know, Pattern=be, Pattern=to
+Turn ID=7| B | M : You mean people who are wronged .
+	Free: Pattern=wronged, Pattern=are, Pattern=You, Pattern=people, Pattern=mean
+	Constrained: 
+Turn ID=8| A | B : I don't know . You know some of the health insurance is written that way . You know , that , uh , if you buy an accident and death or dismemberment policy , you know , it pre specified in the policy so much but I don't know that you can necessarily put a , a value on somebody's limb , uh , arbitrarily that is always going to fit in all cases .
+	Free: Pattern=know ,, Pattern=you, Pattern=if, Pattern=I don't, Pattern=know, Pattern=is, Pattern=You, Pattern=the, Pattern=to, Pattern=, you know ,, Pattern=a, Pattern=it, Pattern=and, Pattern=that, Pattern=but
+	Constrained: Pattern=know ,, Pattern=you, Pattern=I, Pattern=, you know, Pattern=know, Pattern=don't
+Turn ID=9| B | M : i
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : I think maybe you look at , uh , the age of the person and their station in life and , and , uh , how much longer they have of work years that they would have to put up , you know , with , with that . I mean maybe you don't award an eighty-five year old guy the same thing that you would award a twenty-one year old .
+	Free: Pattern=you, Pattern=they, Pattern=and, Pattern=. I, Pattern=with that ., Pattern=I think, Pattern=the, Pattern=and , and ,, Pattern=have, Pattern=mean, Pattern=, you know ,, Pattern=a, Pattern=have to, Pattern=don't, Pattern=with, Pattern=that
+	Constrained: Pattern=you, Pattern=have, Pattern=and ,, Pattern=and , and, Pattern=and, Pattern=I, Pattern=, you know, Pattern=know, Pattern=to, Pattern=know ,, Pattern=that ., Pattern=with, Pattern=that
+Turn ID=11| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : I , I think it has to be some kind of common sense applied there . And there may be where the judiciary is a little more learned about that type of thing because they can be schooled in that kind of thing ,
+	Free: Pattern=a, Pattern=it, Pattern=I, Pattern=there ., Pattern=is, Pattern=the, Pattern=to be, Pattern=that, Pattern=they, Pattern=there, Pattern=I think, Pattern=be
+	Constrained: Pattern=I, Pattern=to, Pattern=there, Pattern=be
+Turn ID=13| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=14| A | B : and that can be part of continuing education , maybe for judges
+	Free: Pattern=judges, Pattern=be, Pattern=that, Pattern=and
+	Constrained: 
+Turn ID=15| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : I don't know .
+	Free: Pattern=I don't, Pattern=know
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=17| B | M : There is no rule that states that judges have to be judges .
+	Free: Pattern=have to be, Pattern=judges, Pattern=that, Pattern=is
+	Constrained: Pattern=have, Pattern=be, Pattern=have to, Pattern=to, Pattern=to be
+Turn ID=18| A | B : You know , to get into the economics of things , uh , because if they wheel somebody into a courtroom and the jury's heart goes out to that person and they do one of these mega awards , it really , you know , ultimately is not penalizing the person that they're trying for get away .
+	Free: Pattern=know ,, Pattern=they, Pattern=is, Pattern=if they, Pattern=You, Pattern=the, Pattern=to, Pattern=that, Pattern=not, Pattern=, you know ,, Pattern=a, Pattern=it, Pattern=and
+	Constrained: Pattern=know ,, Pattern=you, Pattern=they, Pattern=if, Pattern=, you know, Pattern=know
+Turn ID=19| B | M : Why ?
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : If it's a company , you know that they're insured . Unless the award is so staggering that it goes all beyond their layers of insurance which is another pet peeve of mine when they do award punitive damages ,
+	Free: Pattern=they, Pattern=a, Pattern=it, Pattern=, you know, Pattern=is, Pattern=the, Pattern=that, Pattern=it's
+	Constrained: Pattern=know, Pattern=you
+Turn ID=21| B | M : I think it's
+	Free: Pattern=I think, Pattern=it's
+	Constrained: Pattern=I
+Turn ID=22| A | B : I think those should be uninsurable . I think those should have to be paid by the corporation itself that , that did the damage .
+	Free: Pattern=have to be, Pattern=be paid, Pattern=the, Pattern=that, Pattern=. I think, Pattern=the damage, Pattern=I think, Pattern=be
+	Constrained: Pattern=have, Pattern=I, Pattern=. I, Pattern=the, Pattern=to, Pattern=to be, Pattern=I think, Pattern=be, Pattern=damage, Pattern=have to
+Turn ID=23| B | M : Should be paid ?
+	Free: Pattern=be paid
+	Constrained: Pattern=be
+Turn ID=24| A | B : Yeah . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : Are you referring to the damage ?
+	Free: Pattern=the damage, Pattern=to the, Pattern=you
+	Constrained: Pattern=to, Pattern=damage, Pattern=the
+Turn ID=26| A | B : For , for honest mistakes where they've done something and , and something happens . One of their employees causes damage or something . Sure . That's what they buy insurance for .
+	Free: Pattern=and , and, Pattern=damage, Pattern=they, Pattern=what
+	Constrained: Pattern=and ,, Pattern=and
+Turn ID=27| B | M :  ... what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=28| A | B : Well , I was just talking about any company . Uh , let's just say a lumber manufacturing company
+	Free: Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=29| B | M : Umm . I think I'd be okay with that .
+	Free: Pattern=with that ., Pattern=. I think, Pattern=be
+	Constrained: Pattern=that ., Pattern=I, Pattern=. I, Pattern=I think, Pattern=with, Pattern=that
+Turn ID=30| A | B : and , uh , somebody is on the premises
+	Free: Pattern=and ,, Pattern=the, Pattern=is
+	Constrained: Pattern=and
+Turn ID=31| B | M :  ... and , and , you know ,
+	Free: Pattern=, you know ,, Pattern=and , and ,
+	Constrained: Pattern=know ,, Pattern=you, Pattern=and ,, Pattern=and , and, Pattern=and, Pattern=, you know, Pattern=know
+Turn ID=32| A | B : and one of the employees actually is driving by with a forklift and he pushes the wrong button and he drops a load of lumber on somebody and it injures , them .
+	Free: Pattern=a, Pattern=is, Pattern=the, Pattern=with, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=33| B | M : It's not a coincidence .
+	Free: Pattern=not, Pattern=a
+	Constrained: 
+Turn ID=34| A | B : Sure . Insurance should pay for that .
+	Free: Pattern=that .
+	Constrained: Pattern=that
+Turn ID=35| B | M : Not sure if you're serious .
+	Free: Pattern=if
+	Constrained: 
+Turn ID=36| A | B : Well I'm not talking about any loss . I was talking about only losses that are judged for a punitive damage which is another category of , the juries are awarding damages these days based on the person's actual injuries and what they are due . And then they are awarding a second amount as punishment to the company which is a usually a lot less . But it's an , an amount they're , designed to sting them a little for their , negligence . For gross wanton negligence in a claim .
+	Free: Pattern=a, Pattern=to the, Pattern=and, Pattern=are, Pattern=. I, Pattern=is, Pattern=the, Pattern=damage, Pattern=to, Pattern=not, Pattern=what, Pattern=they, Pattern=that, Pattern=it's
+	Constrained: Pattern=I, Pattern=to, Pattern=the
+Turn ID=37| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : And unfortunately the the , lately the courts have been deciding that those could be paid for by insurance too .
+	Free: Pattern=be paid, Pattern=have, Pattern=that, Pattern=the
+	Constrained: Pattern=be
+Turn ID=39| B | M : self .
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : So again , it never really penalizes , the company doing the wrong .
+	Free: Pattern=it, Pattern=the
+	Constrained: 
+Turn ID=41| B | M : It's a .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=42| A | B : They can go right on doing the same old thing they always used to .
+	Free: Pattern=to, Pattern=They, Pattern=they, Pattern=the
+	Constrained: 
+Turn ID=43| B | M : What if they can't afford it ?
+	Free: Pattern=if they, Pattern=it
+	Constrained: Pattern=if, Pattern=they
+Turn ID=44| A | B : And if , if they know some practice is wrong , you know , I'm not talking about your isolated occurrences , I'm talking more about the , you know , the thing that they know , maybe they're willfully manufacturing something that they know is hurting people out there and they continue to do it even after they become aware of that .
+	Free: Pattern=people, Pattern=, you know ,, Pattern=if, Pattern=know, Pattern=is, Pattern=if they, Pattern=the, Pattern=to, Pattern=that, Pattern=not, Pattern=know ,, Pattern=that ., Pattern=they, Pattern=there, Pattern=it, Pattern=and
+	Constrained: Pattern=know ,, Pattern=you, Pattern=they, Pattern=if, Pattern=, you know, Pattern=know, Pattern=that
+Turn ID=45| B | M : Yes , but the risk is still there .
+	Free: Pattern=there ., Pattern=but, Pattern=the, Pattern=is
+	Constrained: Pattern=there
+Turn ID=46| A | B : Then I think they ought to have to pay something out of their own pocket .
+	Free: Pattern=have to, Pattern=I think, Pattern=to, Pattern=they
+	Constrained: Pattern=I, Pattern=to, Pattern=have

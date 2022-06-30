@@ -1,0 +1,231 @@
+A|0| B: _Yeah _._ And_ _a lot of people_ complain because _it's_ _really_ _not_ convenient _for them ._ 
+B|1| M:  ... 
+A|2| B: You're supposed _to_ what . 
+B|3| M: I'm [not] sure _about_ 
+A|4| B: _But_ what _are_ _you_ supposed _to_ _do_ with _them ._ Oh , okay . 
+B|5| M: I've got _it ._ 
+A|6| B: Uh-huh . 
+B|7| M: _I don't_ _think_ [you] _can_ recycle paper bags ... 
+A|8| B: _Yeah ._ 
+B|9| M: Well , _I_ mean _, they_ [do] _have_ paper bags _in_ [them .] 
+A|10| B: We _, we_ usually collect _a_ , [you] _know_ , collect _a_ quite _a bit_ and then _we_ take [them] , take _them in_ . 
+B|11| M: I've never heard [of] _that_ . 
+A|12| B: _Yeah _, we_ don't _,_ we don't ,_ um , _use_ aluminum cans , 
+B|13| M: [Yeah , we] don ' , _we're_ [not] [a lot of people] , but _we're_ _the_ [people] [we] [are] 
+A|14| B: so [, we] generally [don't] [have] those _to_ [do] . 
+B|15| M: _Um [,_ we don't _,] uh [,_ we] [have] [them _in] the_ states 
+A|16| B: _You_ _know_ [, they] [, they] charge [you] , [you] _know_ , _it's_ _like_ [a] flat rate [I] [think] _for_ picking up your garbage . 
+B|17| M: So , _we're_ [like] the'do'thing , _right_ ? 
+A|18| B: _And_ _I know_ [a lot of people] [it] would , would solve [the] convenience problem _if_ [they] had curbside pickup and some communities [are] trying _to_ [do] [that] now _. And_ [I] [think] [that] maybe _if_ [they] only charged _for the_ garbage [that] [you] did [not] sort and [have] set up _for_ _recycling_ , 
+B|19| M:  
+A|20| B: [they] [, they] charged [you] by , by weight [of] how much trash [you] were actually sending _to_ [a] land fill . 
+B|21| M: [But] [it's] still [not] _the same_ as [a] [recycling] center . 
+A|22| B: That [that] might be [a] better way _to_ [do] [it .] 
+B|23| M: [You] could [use] [a] yard sale or something . 
+A|24| B: _And_ then [people] would , would _know_ [that] [it] _was_ going _to_ cost [them] _money_ _to_ [not] sort their trash . 
+B|25| M: They could _just_ put [a] filter on [it .] 
+A|26| B: [You] _know_ , because then [it] would , then [it] would _make_ monetary sense _to_ [them] , [you] _know_ , _to_ say , hey , [you] _know_ , _if_ [I] [just] spend _the time_ _to_ , _to_ sort this out where this stuff [can] be recycled then [I don't] _have to pay_ _for them_ hauling [it] off . 
+B|27| M: It's [a bit] [of] [a] dilemma . 
+A|28| B: Uh-huh . 
+B|29| M: Ya .... 
+A|30| B: Oh , yeah that's [about] [the same] kind [of] _thing ._ 
+B|31| M: [Yeah .] 
+A|32| B: Where [do] [you] live ? 
+B|33| M: [I] [have] [a] friend who [can] get me [a] bag 
+A|34| B: Oh , okay . 
+B|35| M: Not [really] [, we] [are] [just] [in] [a] big city . I'm _in the_ suburbs . 
+A|36| B: Yes . 
+B|37| M: Are [you] _in the_ US ? 
+A|38| B: It seems [like] [they] would be able _to_ . 
+B|39| M: Why ? Do [they] [have to pay] [you] [for [the] time] [they] put [you] through [the] website ? 
+A|40| B: Uh-huh . 
+B|41| M: They could , but [I] don'know [if] [it's] possible . 
+A|42| B: [Yeah .] 
+B|43| M: It's [a] [thing .] It's [a] [thing .] 
+A|44| B: [Yeah .] 
+B|45| M: They [are] [not] [really] [a] company , [just] [a] bunch [of] guys [in] [a] small company . Their website is [just] [a] website [for them [.] And] [they] [make] [money] . 
+A|46| B: [Yeah ,] that's true . 
+B|47| M: It's [the] [recycling] [thing] 
+A|48| B: [Um ,] now [I] didn't _know_ [that] , cause [we] [just] usually [if] [we're] going [to] [, uh ,] buy sodas they're [in the] , [the] two liter bottles . 
+B|49| M: I'm 
+A|50| B: [Yeah .] 
+B|51| M: [I know] . [But] [they] taste good . 
+A|52| B: Okay . 
+B|53| M: It's [a] nice place [to] recycle . 
+A|54| B: Okay . 
+B|55| M: Well [I] [was] [just] joking . 
+A|56| B: All [right] , bye-bye . voice said what's [that] voice said , where were [they] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Yeah . And a lot of people complain because it's really not convenient for them .
+	Free: Pattern=Yeah ., Pattern=really, Pattern=for them ., Pattern=. And, Pattern=a lot of people, Pattern=it's, Pattern=not
+	Constrained: Pattern=of, Pattern=a, Pattern=for, Pattern=them ., Pattern=for them, Pattern=them, Pattern=people, Pattern=And
+Turn ID=1| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : You're supposed to what .
+	Free: Pattern=to
+	Constrained: 
+Turn ID=3| B | M : I'm not sure about
+	Free: Pattern=about, Pattern=not
+	Constrained: 
+Turn ID=4| A | B : But what are you supposed to do with them . Oh , okay .
+	Free: Pattern=you, Pattern=do, Pattern=are, Pattern=But, Pattern=them ., Pattern=to
+	Constrained: Pattern=them
+Turn ID=5| B | M : I've got it .
+	Free: Pattern=it .
+	Constrained: Pattern=it
+Turn ID=6| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : I don't think you can recycle paper bags ...
+	Free: Pattern=I don't, Pattern=you, Pattern=can, Pattern=think
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=8| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=9| B | M : Well , I mean , they do have paper bags in them .
+	Free: Pattern=, they, Pattern=have, Pattern=do, Pattern=I, Pattern=them ., Pattern=in
+	Constrained: Pattern=they, Pattern=them
+Turn ID=10| A | B : We , we usually collect a , you know , collect a quite a bit and then we take them , take them in .
+	Free: Pattern=you, Pattern=a, Pattern=know, Pattern=we, Pattern=them in, Pattern=them, Pattern=, we, Pattern=a bit
+	Constrained: Pattern=in, Pattern=a, Pattern=them, Pattern=we
+Turn ID=11| B | M : I've never heard of that .
+	Free: Pattern=of, Pattern=that
+	Constrained: 
+Turn ID=12| A | B : Yeah , we don't , we don't , um , use aluminum cans ,
+	Free: Pattern=, we don't ,, Pattern=Yeah , we, Pattern=use
+	Constrained: Pattern=don't, Pattern=Yeah ,, Pattern=, we, Pattern=we
+Turn ID=13| B | M : Yeah , we don ' , we're not a lot of people , but we're the people we are
+	Free: Pattern=people, Pattern=Yeah , we, Pattern=are, Pattern=we, Pattern=the, Pattern=we're, Pattern=a lot of people, Pattern=not
+	Constrained: Pattern=of, Pattern=people, Pattern=a, Pattern=, we, Pattern=we, Pattern=Yeah ,
+Turn ID=14| A | B : so , we generally don't have those to do .
+	Free: Pattern=have, Pattern=do, Pattern=, we, Pattern=don't, Pattern=to
+	Constrained: Pattern=we
+Turn ID=15| B | M : Um , we don't , uh , we have them in the states
+	Free: Pattern=have, Pattern=, we don't ,, Pattern=, we, Pattern=in the, Pattern=, uh ,, Pattern=them in, Pattern=Um ,
+	Constrained: Pattern=, we, Pattern=in, Pattern=we, Pattern=the, Pattern=don't, Pattern=them
+Turn ID=16| A | B : You know , they , they charge you , you know , it's like a flat rate I think for picking up your garbage .
+	Free: Pattern=, they, Pattern=you, Pattern=a, Pattern=for, Pattern=I, Pattern=think, Pattern=know, Pattern=like, Pattern=You, Pattern=it's
+	Constrained: Pattern=they
+Turn ID=17| B | M : So , we're like the'do'thing , right ?
+	Free: Pattern=we're, Pattern=right, Pattern=like
+	Constrained: 
+Turn ID=18| A | B : And I know a lot of people it would , would solve the convenience problem if they had curbside pickup and some communities are trying to do that now . And I think that maybe if they only charged for the garbage that you did not sort and have set up for recycling ,
+	Free: Pattern=you, Pattern=they, Pattern=for, Pattern=it, Pattern=think, Pattern=the, Pattern=. And, Pattern=to, Pattern=a lot of people, Pattern=that, Pattern=And, Pattern=have, Pattern=for the, Pattern=do, Pattern=recycling, Pattern=are, Pattern=I, Pattern=if, Pattern=I know, Pattern=not
+	Constrained: Pattern=of, Pattern=a, Pattern=for, Pattern=I, Pattern=know, Pattern=the, Pattern=people, Pattern=And
+Turn ID=19| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : they , they charged you by , by weight of how much trash you were actually sending to a land fill .
+	Free: Pattern=, they, Pattern=of, Pattern=you, Pattern=they, Pattern=a, Pattern=to
+	Constrained: Pattern=they
+Turn ID=21| B | M : But it's still not the same as a recycling center .
+	Free: Pattern=But, Pattern=the same, Pattern=it's, Pattern=not, Pattern=recycling, Pattern=a
+	Constrained: Pattern=the
+Turn ID=22| A | B : That that might be a better way to do it .
+	Free: Pattern=it ., Pattern=to, Pattern=that, Pattern=do, Pattern=a
+	Constrained: Pattern=it
+Turn ID=23| B | M : You could use a yard sale or something .
+	Free: Pattern=a, Pattern=You, Pattern=use
+	Constrained: 
+Turn ID=24| A | B : And then people would , would know that it was going to cost them money to not sort their trash .
+	Free: Pattern=money, Pattern=it, Pattern=know, Pattern=to, Pattern=was, Pattern=not, Pattern=people, Pattern=And, Pattern=them, Pattern=that
+	Constrained: 
+Turn ID=25| B | M : They could just put a filter on it .
+	Free: Pattern=it ., Pattern=a, Pattern=just
+	Constrained: Pattern=it
+Turn ID=26| A | B : You know , because then it would , then it would make monetary sense to them , you know , to say , hey , you know , if I just spend the time to , to sort this out where this stuff can be recycled then I don't have to pay for them hauling it off .
+	Free: Pattern=you, Pattern=it, Pattern=can, Pattern=I don't, Pattern=know, Pattern=make, Pattern=for them, Pattern=to, Pattern=them, Pattern=just, Pattern=have to pay, Pattern=I, Pattern=if, Pattern=You, Pattern=the time
+	Constrained: Pattern=have, Pattern=for, Pattern=I, Pattern=the, Pattern=don't, Pattern=to, Pattern=them
+Turn ID=27| B | M : It's a bit of a dilemma .
+	Free: Pattern=a bit, Pattern=a, Pattern=of
+	Constrained: Pattern=a
+Turn ID=28| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : Ya ....
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Oh , yeah that's about the same kind of thing .
+	Free: Pattern=thing ., Pattern=the same, Pattern=of, Pattern=about
+	Constrained: Pattern=thing, Pattern=the
+Turn ID=31| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=32| A | B : Where do you live ?
+	Free: Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=33| B | M : I have a friend who can get me a bag
+	Free: Pattern=a, Pattern=can, Pattern=I, Pattern=have
+	Constrained: 
+Turn ID=34| A | B : Oh , okay .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : Not really , we are just in a big city . I'm in the suburbs .
+	Free: Pattern=just, Pattern=a, Pattern=, we, Pattern=in, Pattern=really, Pattern=are, Pattern=in the
+	Constrained: Pattern=the, Pattern=in, Pattern=we
+Turn ID=36| A | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : Are you in the US ?
+	Free: Pattern=in the, Pattern=you
+	Constrained: Pattern=the, Pattern=in
+Turn ID=38| A | B : It seems like they would be able to .
+	Free: Pattern=they, Pattern=to, Pattern=like
+	Constrained: 
+Turn ID=39| B | M : Why ? Do they have to pay you for the time they put you through the website ?
+	Free: Pattern=you, Pattern=they, Pattern=the time, Pattern=the, Pattern=have to pay, Pattern=for the
+	Constrained: Pattern=for, Pattern=have, Pattern=to, Pattern=the
+Turn ID=40| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : They could , but I don'know if it's possible .
+	Free: Pattern=I, Pattern=it's, Pattern=if
+	Constrained: 
+Turn ID=42| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=43| B | M : It's a thing . It's a thing .
+	Free: Pattern=thing ., Pattern=a
+	Constrained: Pattern=thing
+Turn ID=44| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=45| B | M : They are not really a company , just a bunch of guys in a small company . Their website is just a website for them . And they make money .
+	Free: Pattern=just, Pattern=they, Pattern=a, Pattern=are, Pattern=in, Pattern=make, Pattern=really, Pattern=for them ., Pattern=. And, Pattern=not, Pattern=of, Pattern=money
+	Constrained: Pattern=And, Pattern=for, Pattern=them ., Pattern=for them, Pattern=them
+Turn ID=46| A | B : Yeah , that's true .
+	Free: Pattern=Yeah ,
+	Constrained: 
+Turn ID=47| B | M : It's the recycling thing
+	Free: Pattern=thing, Pattern=the, Pattern=recycling
+	Constrained: 
+Turn ID=48| A | B : Um , now I didn't know that , cause we just usually if we're going to , uh , buy sodas they're in the , the two liter bottles .
+	Free: Pattern=just, Pattern=know, Pattern=we, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=we're, Pattern=in the, Pattern=I, Pattern=if, Pattern=Um ,, Pattern=that
+	Constrained: Pattern=the, Pattern=in
+Turn ID=49| B | M : I'm
+	Free: 
+	Constrained: 
+Turn ID=50| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=51| B | M : I know . But they taste good .
+	Free: Pattern=I know, Pattern=they, Pattern=But
+	Constrained: Pattern=know, Pattern=I
+Turn ID=52| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : It's a nice place to recycle .
+	Free: Pattern=a, Pattern=to
+	Constrained: 
+Turn ID=54| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=55| B | M : Well I was just joking .
+	Free: Pattern=just, Pattern=was, Pattern=I
+	Constrained: 
+Turn ID=56| A | B : All right , bye-bye . voice said what's that voice said , where were they
+	Free: Pattern=they, Pattern=right, Pattern=that
+	Constrained: 

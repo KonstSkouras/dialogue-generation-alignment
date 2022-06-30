@@ -1,0 +1,235 @@
+A|0| B: And electric windows , and power locks 
+B|1| M: They're originally _from_ Dallas . 
+A|2| B: Now _we've had one_ lately , um , oh , _a_ , uh , _a_ Dustbuster Plus _that_ we bought , 
+B|3| M: _Yeah _, _I_ think_ so_ 
+A|4| B: [Yeah] . 
+B|5| M:  
+A|6| B: [Yeah , I] , sort _of_ weird _for_ me _to_ _have_ _had one_ too _but_ there , _it_ _was_ _a_ convenient little pet _to_ _have_ because _it_ stayed _in_ its cage and _, you_ _know ,_ _it_ _was_ easy . Easy _to_ take care _of_ 
+B|7| M: Do [you] _mean_ _the_ bike path ? 
+A|8| B: _There's_ should be _, you_ _know ,_ _this_ , _for this_ crime , _this_ is [the] penalty . _You_ killed , someone [you] _know ,_ _in_ cold blood or whatever . 
+B|9| M: It's _really_ only about [a] mile _from_ Pennsylvania _, I think ._ 
+A|10| B: Uh-huh . 
+B|11| M: Well , how do [you] pay [for] [it] ? 
+A|12| B: [Yeah ,] and _just_ kind _of_ relaxed and unwound [a] little _bit_ , [from] our daily routine . 
+B|13| M: [There's] [a] lot [of] _stuff_ about [the] _game_ here , _so_ [you] might _have to_ wait [a] [bit] . 
+A|14| B: Uh-huh . 
+B|15| M:  
+A|16| B: And _that_ , _it's_ , _it's_ fine , because then [I] _can_ _just_ say , Okay fine _, you_ bring _this_ _, you_ bring _this_ _, you_ bring _this_ , we're done . 
+B|17| M:  ... 
+A|18| B: So when [I] drive [the] car _in the_ , _in the_ driveway _in the_ afternoon , [it] , [it] will _just_ drive [it] up _on_ [a] ramp _that_ actually puts me _on_ top _of the_ _, the_ , uh , pressure side [of] [a] , uh , hydraulic cylinder . 
+B|19| M: Four levels . 
+A|20| B: _I don't_ either . 
+B|21| M: How are [you] _even_ paying [for this] ? 
+A|22| B: Uh-huh . 
+B|23| M: He [was] [on] probation . 
+A|24| B: Anyway [I] [have] another , uh , recycling method [I] use . 
+B|25| M: [You] . 
+A|26| B: [I] like [the] heat . 
+B|27| M: Well [, the] kids [in the] UK are _all_ working . 
+A|28| B: Uh-huh . 
+B|29| M: Ayeaay 
+A|30| B: and if there's [a] [game] [on] , _he's_ watching [it] . [I] [mean] , that's [all] there is [to] [it] , 
+B|31| M: We [have] some pretty good cucumbers . 
+A|32| B: _you [have_ to] cut each thing or _, you_ _know ,_ use [the] melon baller and [stuff] _but_ _, but_ [I think] they're [really] neat and _, you_ _know [, I_ think] they're worth [the] _time_ _, you_ _know ,_ because they , 
+B|33| M: Well , [we've had _one] of the_ most successful seasons [in] [a] long [time] . 
+A|34| B: [Yeah ,] [it] must be fun [to] be able [to] play [it] and _, you_ _know ,_ if _you can_ play tunes _that_ _people_ _can_ sing along [to] it'd be , it'd be kind [of] fun [, I think .] 
+B|35| M: _I don't know_ . 
+A|36| B: Uh-huh . [You] must be [a] . 
+B|37| M: Not anymore 
+A|38| B: That's , what kind [of] fondue [, the] cheese dip or , 
+B|39| M: Hahhhhhhuh 
+A|40| B: [I think so] . [Yeah ,] seven twenty-five . 
+B|41| M: He's [from] Strasburg [, but] [he's] 
+A|42| B: [I think] [one of the] things that's interesting [to] me is if [you] look particularly at [the] political changes is _that_ [the] , they seem [to] be social , they seem [to] be economically driven also . 
+B|43| M: I'm pretty sure you're not supposed [to] shoot anyone who isn't armed with [a] gun . 
+A|44| B: [Yeah] . 
+B|45| M:  ... 
+A|46| B: And [he's] like oh , thank [you] [so] much . 
+B|47| M: _I [know_ , I] [was] [just] saying [that] . 
+A|48| B: [I] [, I] _can't_ identify _them_ either . [I] [just] like _them_ . [I] could [, [I] know] which ones come next [, but] [I don't] [even] [know] their names . Most [of] _them_ [I don't know] their names [of the] song [, but] [I] [, I] _can_ identify _them_ . But [I] like [that] and [I] like , uh , course [I] [, I] like classical music . 
+B|49| M: [I think] [it's] [the] radio . 
+A|50| B: Uh , 
+B|51| M: If [you have] jury members who are paid [to] do jury duty [, you] pay [them] [a] salary [of] 20 , 000 . 
+A|52| B: [I] guess , 
+B|53| M: [I] read [the] books [in the] morning . 
+A|54| B: Uh-huh . 
+B|55| M: [You] [can't] . 
+A|56| B: Okay . 
+B|57| M: [There's] only [so] many [people] [you can] watch [in] jury duty . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : And electric windows , and power locks
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : They're originally from Dallas .
+	Free: Pattern=from
+	Constrained: 
+Turn ID=2| A | B : Now we've had one lately , um , oh , a , uh , a Dustbuster Plus that we bought ,
+	Free: Pattern=we've had one, Pattern=a, Pattern=that
+	Constrained: Pattern=had one
+Turn ID=3| B | M : Yeah , I think so
+	Free: Pattern=, I think, Pattern=I think so, Pattern=Yeah , I
+	Constrained: Pattern=, I, Pattern=I, Pattern=I think, Pattern=Yeah ,, Pattern=Yeah, Pattern=so
+Turn ID=4| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=5| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : Yeah , I , sort of weird for me to have had one too but there , it was a convenient little pet to have because it stayed in its cage and , you know , it was easy . Easy to take care of
+	Free: Pattern=have, Pattern=a, Pattern=for, Pattern=, you, Pattern=to, Pattern=was, Pattern=but, Pattern=of, Pattern=know ,, Pattern=it, Pattern=Yeah , I, Pattern=in, Pattern=had one
+	Constrained: Pattern=you, Pattern=, I, Pattern=I, Pattern=know, Pattern=Yeah ,, Pattern=Yeah
+Turn ID=7| B | M : Do you mean the bike path ?
+	Free: Pattern=the, Pattern=mean, Pattern=you
+	Constrained: 
+Turn ID=8| A | B : There's should be , you know , this , for this crime , this is the penalty . You killed , someone you know , in cold blood or whatever .
+	Free: Pattern=know ,, Pattern=you, Pattern=There's, Pattern=in, Pattern=, you, Pattern=You, Pattern=the, Pattern=for this, Pattern=this
+	Constrained: Pattern=for, Pattern=know, Pattern=this, Pattern=you
+Turn ID=9| B | M : It's really only about a mile from Pennsylvania , I think .
+	Free: Pattern=, I think ., Pattern=really, Pattern=a, Pattern=from
+	Constrained: Pattern=, I, Pattern=, I think, Pattern=I, Pattern=I think
+Turn ID=10| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : Well , how do you pay for it ?
+	Free: Pattern=for, Pattern=you, Pattern=it
+	Constrained: 
+Turn ID=12| A | B : Yeah , and just kind of relaxed and unwound a little bit , from our daily routine .
+	Free: Pattern=of, Pattern=just, Pattern=from, Pattern=Yeah ,, Pattern=bit, Pattern=a
+	Constrained: Pattern=Yeah
+Turn ID=13| B | M : There's a lot of stuff about the game here , so you might have to wait a bit .
+	Free: Pattern=of, Pattern=you, Pattern=game, Pattern=the, Pattern=have to, Pattern=so, Pattern=stuff, Pattern=There's, Pattern=bit, Pattern=a
+	Constrained: Pattern=to, Pattern=have
+Turn ID=14| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : And that , it's , it's fine , because then I can just say , Okay fine , you bring this , you bring this , you bring this , we're done .
+	Free: Pattern=just, Pattern=I, Pattern=can, Pattern=, you, Pattern=this, Pattern=that, Pattern=it's
+	Constrained: Pattern=you
+Turn ID=17| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : So when I drive the car in the , in the driveway in the afternoon , it , it will just drive it up on a ramp that actually puts me on top of the , the , uh , pressure side of a , uh , hydraulic cylinder .
+	Free: Pattern=of, Pattern=just, Pattern=a, Pattern=it, Pattern=, the, Pattern=in the, Pattern=I, Pattern=on, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=the, Pattern=in, Pattern=of
+Turn ID=19| B | M : Four levels .
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : I don't either .
+	Free: Pattern=I don't
+	Constrained: Pattern=I
+Turn ID=21| B | M : How are you even paying for this ?
+	Free: Pattern=for this, Pattern=you, Pattern=even
+	Constrained: Pattern=for, Pattern=this
+Turn ID=22| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : He was on probation .
+	Free: Pattern=was, Pattern=on
+	Constrained: 
+Turn ID=24| A | B : Anyway I have another , uh , recycling method I use .
+	Free: Pattern=have, Pattern=I
+	Constrained: 
+Turn ID=25| B | M : You .
+	Free: Pattern=You
+	Constrained: 
+Turn ID=26| A | B : I like the heat .
+	Free: Pattern=the, Pattern=I
+	Constrained: 
+Turn ID=27| B | M : Well , the kids in the UK are all working .
+	Free: Pattern=in the, Pattern=, the, Pattern=all
+	Constrained: Pattern=the, Pattern=in
+Turn ID=28| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : Ayeaay
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : and if there's a game on , he's watching it . I mean , that's all there is to it ,
+	Free: Pattern=mean, Pattern=a, Pattern=game, Pattern=it, Pattern=I, Pattern=he's, Pattern=to, Pattern=on, Pattern=all
+	Constrained: 
+Turn ID=31| B | M : We have some pretty good cucumbers .
+	Free: Pattern=have
+	Constrained: 
+Turn ID=32| A | B : you have to cut each thing or , you know , use the melon baller and stuff but , but I think they're really neat and , you know , I think they're worth the time , you know , because they ,
+	Free: Pattern=time, Pattern=know ,, Pattern=, but, Pattern=stuff, Pattern=you have, Pattern=, you, Pattern=really, Pattern=the, Pattern=have to, Pattern=know , I, Pattern=but, Pattern=I think, Pattern=, I think
+	Constrained: Pattern=know ,, Pattern=you, Pattern=have, Pattern=, I, Pattern=I, Pattern=know, Pattern=I think, Pattern=to, Pattern=but
+Turn ID=33| B | M : Well , we've had one of the most successful seasons in a long time .
+	Free: Pattern=time, Pattern=a, Pattern=one of the, Pattern=in, Pattern=we've had one
+	Constrained: Pattern=had one, Pattern=of the, Pattern=the, Pattern=of
+Turn ID=34| A | B : Yeah , it must be fun to be able to play it and , you know , if you can play tunes that people can sing along to it'd be , it'd be kind of fun , I think .
+	Free: Pattern=people, Pattern=it, Pattern=, you, Pattern=, I think ., Pattern=Yeah ,, Pattern=to, Pattern=that, Pattern=of, Pattern=know ,, Pattern=can, Pattern=you can
+	Constrained: Pattern=you, Pattern=, I, Pattern=I, Pattern=can, Pattern=know, Pattern=Yeah, Pattern=I think, Pattern=, I think
+Turn ID=35| B | M : I don't know .
+	Free: Pattern=I don't know
+	Constrained: Pattern=know, Pattern=I don't, Pattern=I
+Turn ID=36| A | B : Uh-huh . You must be a .
+	Free: Pattern=You, Pattern=a
+	Constrained: 
+Turn ID=37| B | M : Not anymore
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : That's , what kind of fondue , the cheese dip or ,
+	Free: Pattern=, the, Pattern=of
+	Constrained: Pattern=the
+Turn ID=39| B | M : Hahhhhhhuh
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : I think so . Yeah , seven twenty-five .
+	Free: Pattern=I think so, Pattern=Yeah ,
+	Constrained: Pattern=so, Pattern=I, Pattern=Yeah, Pattern=I think
+Turn ID=41| B | M : He's from Strasburg , but he's
+	Free: Pattern=, but, Pattern=from, Pattern=he's
+	Constrained: Pattern=but
+Turn ID=42| A | B : I think one of the things that's interesting to me is if you look particularly at the political changes is that the , they seem to be social , they seem to be economically driven also .
+	Free: Pattern=you, Pattern=one of the, Pattern=I think, Pattern=the, Pattern=to, Pattern=that
+	Constrained: Pattern=of the, Pattern=I, Pattern=the, Pattern=of
+Turn ID=43| B | M : I'm pretty sure you're not supposed to shoot anyone who isn't armed with a gun .
+	Free: Pattern=to, Pattern=a
+	Constrained: 
+Turn ID=44| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=45| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : And he's like oh , thank you so much .
+	Free: Pattern=you, Pattern=he's, Pattern=so
+	Constrained: 
+Turn ID=47| B | M : I know , I was just saying that .
+	Free: Pattern=just, Pattern=know , I, Pattern=was, Pattern=that, Pattern=I know
+	Constrained: Pattern=, I, Pattern=know ,, Pattern=know, Pattern=I
+Turn ID=48| A | B : I , I can't identify them either . I just like them . I could , I know which ones come next , but I don't even know their names . Most of them I don't know their names of the song , but I , I can identify them . But I like that and I like , uh , course I , I like classical music .
+	Free: Pattern=of, Pattern=, but, Pattern=just, Pattern=even, Pattern=, I, Pattern=I, Pattern=can, Pattern=I don't, Pattern=I don't know, Pattern=know, Pattern=can't, Pattern=I know, Pattern=of the, Pattern=them, Pattern=that
+	Constrained: Pattern=of, Pattern=I, Pattern=I don't, Pattern=know, Pattern=the, Pattern=but
+Turn ID=49| B | M : I think it's the radio .
+	Free: Pattern=I think, Pattern=the, Pattern=it's
+	Constrained: Pattern=I
+Turn ID=50| A | B : Uh ,
+	Free: 
+	Constrained: 
+Turn ID=51| B | M : If you have jury members who are paid to do jury duty , you pay them a salary of 20 , 000 .
+	Free: Pattern=of, Pattern=a, Pattern=you have, Pattern=, you, Pattern=to, Pattern=them
+	Constrained: Pattern=have, Pattern=you
+Turn ID=52| A | B : I guess ,
+	Free: Pattern=I
+	Constrained: 
+Turn ID=53| B | M : I read the books in the morning .
+	Free: Pattern=in the, Pattern=the, Pattern=I
+	Constrained: Pattern=the, Pattern=in
+Turn ID=54| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=55| B | M : You can't .
+	Free: Pattern=You, Pattern=can't
+	Constrained: 
+Turn ID=56| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : There's only so many people you can watch in jury duty .
+	Free: Pattern=people, Pattern=There's, Pattern=you can, Pattern=in, Pattern=so
+	Constrained: Pattern=can, Pattern=you

@@ -1,0 +1,163 @@
+A|0| A: Right . They don't _have_ _one of those_ . So , _it ,_ we decided _that_ _was_ _it _,_ you know _,_ and_ _, I_ mean , everybody calls us _and_ wants _to_ give us _a_ credit _card_ . We _have_ , we _could have_ credit cards running _down_ our ears . 
+B|1| B: _Uh-huh ._ 
+A|2| A: _What_ part , _what_ sections _are_ _they_ _in_ ? _Yeah _,_ that's_ nice . 
+B|3| B: Um . 
+A|4| A: help _a_ lot . _Yeah ._ See _around_ , _around_ here it's _like ,_ uh , we pretty much work from project _to_ project _on_ _, well_ _, you know ,_ with different sponsors . 
+B|5| B: [Yeah .] Now [what] about [you] , if [you] [could have] _the_ car [that] [you] wanted [what] would [you] get 
+A|6| A: Right . 
+B|7| B: _And_ [they] had misclassed _the_ sex [of] back there [and] so _, um ,_ she asked _me_ if [I] want [to] , [one of those] babies [, and] [I] took _the_ baby [and] [I] got her when she [was] [, you know ,] just this tiniest little thing [like ,] half _the_ price [of] [a] mouse , 
+A|8| A: _it_ will be whole . You'll be able [to] read _off_ [of] _it_ . 
+B|9| B: _Oh [,_ well] they'll , weed him out . 
+A|10| A: [Uh-huh .] 
+B|11| B: [What] [are] [you] studying [down] there ? 
+A|12| A: Okay _Uh ,_ let [me] see . Unfortunately , we [are] _not_ much into recycling . 
+B|13| B: [Yeah ,] _my_ truck's broken [down] [and] _my_ house just burned [down] [, you know] . 
+A|14| A: Best friends , _now ._ 
+B|15| B: [Uh-huh] , relaxed [and] laid back [and] stuff 
+A|16| A: [I] _, I_ [know ,] but _it ,_ it's , it's , uh , easier _on_ [the] patient _in_ [the] long run , which amazed [me] . 
+B|17| B: Well _, I was_ just talking about any company . [Uh ,] let's just say [a] lumber manufacturing company 
+A|18| A: [And] it's _probably_ _because_ [I] [, I] [, I was] born _in_ [the] Chicago area [and] grew up _in_ California [, and] at [that] point [that] [was] sort [of] [the] limit but since _then_ I've been abroad [a] lot , 
+B|19| B: _Yes ,_ absolutely . 
+A|20| A: [Yeah .] 
+B|21| B: As [you] start putting lots [of] little _kids_ together _, the_ infection rates [that] go [around] 
+A|22| A: [I] really think [, I] think [, um ,] people [, you] should [, I] [, you know [,] the] [kids] today [I] teach [, I] spend [a] lot [of] [my] time teaching college students 
+B|23| B: _Oh _,_ that_ makes [a] big difference . 
+A|24| A: [Oh [,] I] hear , [Yes _,] that's_ true . 
+B|25| B: [Uh-huh .] 
+A|26| A: I'd hate [to] decide _it ,_ but [I] guess , uh , guess it's important [, that] we decide as [a] people [what] , [what] we're _going to_ _do_ . 
+B|27| B: [I] remember food 
+A|28| A: Say [, that] good [, I] think _that's_ , [like] [the] state [of] Virginia , yeah _, that's_ great . 
+B|29| B: People aren't tuned [in] [to] [like] saving _for_ [it] [and] [then] buying [it ,] [they] just put [it] [on] [a] charge [card] , put [it] [on] account [, and] [then] pay [off] [the] bill [because] [they] want [it] [now .] 
+A|30| A: [Yeah _,] that's_ exactly [it] . 
+B|31| B: That's _too_ bad , [because] I'm [probably] [not] [going to] stop eating [it] 
+A|32| A: [Yeah _,] that's_ fun . [Uh-huh .] 
+B|33| B: All _right_ , bye-bye . voice said what's [that] voice said , where were [they] 
+A|34| A: [and] [it] is [too] far south [for] [me] , 
+B|35| B: Well [, that's] happened before . 
+A|36| A: [I] [know] but he's [a] man come [on] , men [know] how [to] _do_ [that] , [right] ? 
+B|37| B: [Uh-huh .] 
+A|38| A: [Uh-huh .] 
+B|39| B: [Oh ,] [do] [they] ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Right . They don't have one of those . So , it , we decided that was it , you know , and , I mean , everybody calls us and wants to give us a credit card . We have , we could have credit cards running down our ears .
+	Free: Pattern=could have, Pattern=have, Pattern=down, Pattern=and, Pattern=one of those, Pattern=was, Pattern=that, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=it ,, Pattern=card, Pattern=, and, Pattern=to
+	Constrained: Pattern=you, Pattern=have, Pattern=I, Pattern=, you know, Pattern=of, Pattern=know ,, Pattern=it, Pattern=and, Pattern=know, Pattern=, you
+Turn ID=1| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=2| A | A : What part , what sections are they in ? Yeah , that's nice .
+	Free: Pattern=are, Pattern=What, Pattern=in, Pattern=Yeah ,, Pattern=, that's, Pattern=what, Pattern=they
+	Constrained: Pattern=that's
+Turn ID=3| B | B : Um .
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : help a lot . Yeah . See around , around here it's like , uh , we pretty much work from project to project on , well , you know , with different sponsors .
+	Free: Pattern=around, Pattern=on, Pattern=to, Pattern=like ,, Pattern=, well, Pattern=Yeah ., Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=know ,, Pattern=you, Pattern=, you know, Pattern=like, Pattern=know, Pattern=, you
+Turn ID=5| B | B : Yeah . Now what about you , if you could have the car that you wanted what would you get
+	Free: Pattern=Yeah ., Pattern=what, Pattern=the, Pattern=that, Pattern=could have, Pattern=you
+	Constrained: Pattern=have
+Turn ID=6| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : And they had misclassed the sex of back there and so , um , she asked me if I want to , one of those babies , and I took the baby and I got her when she was , you know , just this tiniest little thing like , half the price of a mouse ,
+	Free: Pattern=of, Pattern=And, Pattern=me, Pattern=and, Pattern=I, Pattern=one of those, Pattern=the, Pattern=was, Pattern=like ,, Pattern=, um ,, Pattern=they, Pattern=, you know ,, Pattern=a, Pattern=, and, Pattern=to
+	Constrained: Pattern=you, Pattern=and, Pattern=, you know, Pattern=like, Pattern=of, Pattern=know ,, Pattern=know, Pattern=, you
+Turn ID=8| A | A : it will be whole . You'll be able to read off of it .
+	Free: Pattern=to, Pattern=of, Pattern=it, Pattern=off
+	Constrained: 
+Turn ID=9| B | B : Oh , well they'll , weed him out .
+	Free: Pattern=Oh ,, Pattern=, well
+	Constrained: 
+Turn ID=10| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=11| B | B : What are you studying down there ?
+	Free: Pattern=down, Pattern=you, Pattern=are, Pattern=What
+	Constrained: 
+Turn ID=12| A | A : Okay Uh , let me see . Unfortunately , we are not much into recycling .
+	Free: Pattern=Uh ,, Pattern=not, Pattern=are, Pattern=me
+	Constrained: 
+Turn ID=13| B | B : Yeah , my truck's broken down and my house just burned down , you know .
+	Free: Pattern=down, Pattern=and, Pattern=, you know, Pattern=Yeah ,, Pattern=my
+	Constrained: Pattern=, you, Pattern=you, Pattern=know
+Turn ID=14| A | A : Best friends , now .
+	Free: Pattern=now .
+	Constrained: 
+Turn ID=15| B | B : Uh-huh , relaxed and laid back and stuff
+	Free: Pattern=Uh-huh, Pattern=and
+	Constrained: 
+Turn ID=16| A | A : I , I know , but it , it's , it's , uh , easier on the patient in the long run , which amazed me .
+	Free: Pattern=know ,, Pattern=me, Pattern=, I, Pattern=I, Pattern=in, Pattern=it ,, Pattern=on, Pattern=the
+	Constrained: Pattern=know, Pattern=I, Pattern=it
+Turn ID=17| B | B : Well , I was just talking about any company . Uh , let's just say a lumber manufacturing company
+	Free: Pattern=, I was, Pattern=Uh ,, Pattern=a
+	Constrained: Pattern=, I, Pattern=I, Pattern=was
+Turn ID=18| A | A : And it's probably because I , I , I was born in the Chicago area and grew up in California , and at that point that was sort of the limit but since then I've been abroad a lot ,
+	Free: Pattern=of, Pattern=And, Pattern=, I was, Pattern=and, Pattern=I, Pattern=probably, Pattern=in, Pattern=the, Pattern=, and, Pattern=was, Pattern=that, Pattern=then, Pattern=, I, Pattern=a, Pattern=because
+	Constrained: Pattern=, I, Pattern=I, Pattern=was, Pattern=and
+Turn ID=19| B | B : Yes , absolutely .
+	Free: Pattern=Yes ,
+	Constrained: 
+Turn ID=20| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=21| B | B : As you start putting lots of little kids together , the infection rates that go around
+	Free: Pattern=of, Pattern=you, Pattern=around, Pattern=kids, Pattern=, the, Pattern=that
+	Constrained: Pattern=the
+Turn ID=22| A | A : I really think , I think , um , people , you should , I , you know , the kids today I teach , I spend a lot of my time teaching college students
+	Free: Pattern=of, Pattern=, um ,, Pattern=, you, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=kids, Pattern=I, Pattern=, the, Pattern=my
+	Constrained: Pattern=know ,, Pattern=you, Pattern=I, Pattern=, you know, Pattern=the, Pattern=know, Pattern=, you
+Turn ID=23| B | B : Oh , that makes a big difference .
+	Free: Pattern=Oh ,, Pattern=, that, Pattern=a
+	Constrained: Pattern=that
+Turn ID=24| A | A : Oh , I hear , Yes , that's true .
+	Free: Pattern=Oh ,, Pattern=, I, Pattern=, that's, Pattern=Yes ,
+	Constrained: Pattern=I, Pattern=that's
+Turn ID=25| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=26| A | A : I'd hate to decide it , but I guess , uh , guess it's important , that we decide as a people what , what we're going to do .
+	Free: Pattern=going to, Pattern=what, Pattern=I, Pattern=, that, Pattern=it ,, Pattern=to, Pattern=do, Pattern=a
+	Constrained: Pattern=to, Pattern=it, Pattern=that
+Turn ID=27| B | B : I remember food
+	Free: Pattern=I
+	Constrained: 
+Turn ID=28| A | A : Say , that good , I think that's , like the state of Virginia , yeah , that's great .
+	Free: Pattern=of, Pattern=, I, Pattern=, that, Pattern=like, Pattern=, that's, Pattern=that's, Pattern=the
+	Constrained: Pattern=I, Pattern=that, Pattern=that's
+Turn ID=29| B | B : People aren't tuned in to like saving for it and then buying it , they just put it on a charge card , put it on account , and then pay off the bill because they want it now .
+	Free: Pattern=they, Pattern=now ., Pattern=for, Pattern=in, Pattern=then, Pattern=a, Pattern=because, Pattern=it, Pattern=and, Pattern=it ,, Pattern=card, Pattern=like, Pattern=on, Pattern=off, Pattern=the, Pattern=, and, Pattern=to
+	Constrained: Pattern=and, Pattern=it
+Turn ID=30| A | A : Yeah , that's exactly it .
+	Free: Pattern=, that's, Pattern=Yeah ,, Pattern=it
+	Constrained: Pattern=that's
+Turn ID=31| B | B : That's too bad , because I'm probably not going to stop eating it
+	Free: Pattern=going to, Pattern=because, Pattern=probably, Pattern=not, Pattern=it, Pattern=too
+	Constrained: Pattern=to
+Turn ID=32| A | A : Yeah , that's fun . Uh-huh .
+	Free: Pattern=, that's, Pattern=Uh-huh ., Pattern=Yeah ,
+	Constrained: Pattern=Uh-huh, Pattern=that's
+Turn ID=33| B | B : All right , bye-bye . voice said what's that voice said , where were they
+	Free: Pattern=right, Pattern=they, Pattern=that
+	Constrained: 
+Turn ID=34| A | A : and it is too far south for me ,
+	Free: Pattern=me, Pattern=for, Pattern=it, Pattern=and, Pattern=too
+	Constrained: 
+Turn ID=35| B | B : Well , that's happened before .
+	Free: Pattern=, that's
+	Constrained: Pattern=that's
+Turn ID=36| A | A : I know but he's a man come on , men know how to do that , right ?
+	Free: Pattern=right, Pattern=I, Pattern=know, Pattern=on, Pattern=to, Pattern=that, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=37| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=38| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=39| B | B : Oh , do they ?
+	Free: Pattern=Oh ,, Pattern=they, Pattern=do
+	Constrained: 

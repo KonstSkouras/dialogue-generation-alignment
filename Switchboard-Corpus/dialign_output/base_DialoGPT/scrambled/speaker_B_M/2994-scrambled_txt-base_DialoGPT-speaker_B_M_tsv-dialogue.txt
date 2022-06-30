@@ -1,0 +1,231 @@
+A|0| B: uh , let's _see_ , _I've_ had gerbils , _I_ _have_ , _I_ had _a_ son , _he's_ now gone from _the_ home , _that_ _was_ an animal lover . 
+B|1| M: [I] _don't_ _know_ . 
+A|2| B: and then 
+B|3| M: Is _it_ slab ? 
+A|4| B: Uh-huh . 
+B|5| M: _How_ many _people_ _do_ _you know_ who _don't have_ their own . 
+A|6| B: That sounds _like_ [it] would hurt more . 
+B|7| M: _I know_ . 
+A|8| B: So [I] guess [I] can't really [I] can't say what [it] would be _like_ _to_ , uh , grow up _in a_ really oppressed region 
+B|9| M: It's _been_ [a] while since [I've] _seen a_ musical . 
+A|10| B: because we're so , _we_ love our freedom and our freedom _of_ choice and , um , having [people] _like_ 
+B|11| M: _I know ,_ right ? It's [like] they're _not_ even trying . 
+A|12| B: Yeah , _I think_ _that's_ , uh , _I think_ _that's_ [a] good term , demanding _the_ time for yourself . That you've _just_ got _to_ you've _just_ got _to_ 
+B|13| M: It's [the] eastside . 
+A|14| B: And , uh , _we_ , [I] [do] some interesting recycling things . 
+B|15| M:  
+A|16| B: Interesting thing about gas is when , [I] mean , about battery powered cars is when you're at [a] stop light , you're [not] using any any energy 
+B|17| M: Hehehehe . 
+A|18| B: Right . [I] mean Sunday dinner _was_ at my grandmother's and _, [you_ [know] ,] [like] [I] said _there_ would be thirty _, [you_ [know] ,] thirty [people] , and everyone would _just_ bring things and my grandmother would cook and cook and cook . 
+B|19| M: Uhhh 
+A|20| B: They're _in_ Missouri and [I] could , [I] , [I know ,] [I know] stories for _sure_ _that they_ _just_ , _they_ , _they_ _just_ , well , _they_ can't take [the] proper care _of_ them . Most _of_ them . 
+B|21| M: Oh _, that's_ cool . It _was in_ Mississippi . 
+A|22| B: And , uh , _it's_ , _it's_ tragic _that_ _, [you_ [know] ,] when [people] _live_ so long _that they_ , uh , [don't _have] a_ really [don't _have] _a_ place_ _to_ go . 
+B|23| M: [I've] heard [of] [that] too . 
+A|24| B: That's what she plans _to_ [do] . 
+B|25| M: [I] [live] [in [a] place] where [we] _can_ play over here . 
+A|26| B: Uh-huh . 
+B|27| M: _Do you_ play baseball ? 
+A|28| B: unless there's some trend or something [that] says , Jesus this neighborhood has [been] hit forty-seven times or whatever . Uh [, that's] [, that's] sort [of] more [of] , [of] [a] pattern news . 
+B|29| M: Are [you] guys _on_ [the] same _course_ ? 
+A|30| B: And _a lot of_ them decide _just_ [not] _to_ [have] children . 
+B|31| M: [I think] [it's] funny [that _they] think_ [you] 
+A|32| B: And , because my daughter calls [it] her gravy and [I] mean , she thinks [it's] wonderful , my , good , you're [a] picky eater , _if I can_ get [you] _to_ , 
+B|33| M: I'm [not] [sure] [if I _can] _do_ _that_ ._ 
+A|34| B: [I know ,] and [that] makes me so mad _You_ [know ,] [it] is [like] [it] is [not] going _to_ [do that] much damage _to_ [the] [course] _, but_ apparently [they think] differently 
+B|35| M: She nods . 
+A|36| B: and [it] turns out great , because [I] mean , you've got [like] hot sauce and taco meat and barbecue and _, [you_ [know] ,] bacon and _all_ [that] good stuff . 
+B|37| M: [I] [don't] , I'm [not] [a] robot . 
+A|38| B: Yeah , [I] , [I think] [that's] Yeah . Yeah . 
+B|39| M: Yes [, but] [we] [do] need [to] spend money _on_ education . 
+A|40| B: Right . 
+B|41| M: There's [a lot of] pollution down [there] 
+A|42| B: And , uh , [it] , [I think] [that's] what happens when [they] get scattered , [the] , [the] family unit _, [you_ [know] ,] falls , into disrepair . 
+B|43| M: I'm [not] [sure] . 
+A|44| B: [Do you] read [a] newspaper ? 
+B|45| M: right . 
+A|46| B: Well , [I] [have] [seen a] big change , [I think] , [in] high school kids [that] my relatives and friends , [that] , um , [I know] when [I] [was in] high school [I] had an idea [of] what [I] really wanted [to] [do] with what my , what [I] [was] going [to] study 
+B|47| M: [you] . 
+A|48| B: Uh-huh . 
+B|49| M: Why [not] ? 
+A|50| B: [How] are [they] built ? 
+B|51| M: [You] [have a] cat ? 
+A|52| B: [I] would [have] thought , 
+B|53| M: But they're [all] dead , right ? 
+A|54| B: Yeah , [it's] really neat . And , uh , uh , [course] [I've] [been] working [on] [it] for five years [, but] _, [you_ [know] ,] 
+B|55| M: [You] [don't] need [to] [know] [if] [he's] _a real_ person [, you] [just] need [to] [see] [it] . 
+A|56| B: [I] really believe [that .] And [it] has , um , helped us [to] afford some things for our children [that] [we] couldn't otherwise [that] [I think] are wonderful particularly at this age , and [I think] our kids are [real] secure . And [have [a] real] sense [of] priorities and [that they] [can do] anything and be anything both male and female [a lot] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : uh , let's see , I've had gerbils , I have , I had a son , he's now gone from the home , that was an animal lover .
+	Free: Pattern=I've, Pattern=have, Pattern=a, Pattern=I, Pattern=he's, Pattern=the, Pattern=see, Pattern=was, Pattern=that
+	Constrained: 
+Turn ID=1| B | M : I don't know .
+	Free: Pattern=don't, Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=2| A | B : and then
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : Is it slab ?
+	Free: Pattern=it
+	Constrained: 
+Turn ID=4| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : How many people do you know who don't have their own .
+	Free: Pattern=you know, Pattern=people, Pattern=How, Pattern=do, Pattern=don't have
+	Constrained: Pattern=don't, Pattern=know, Pattern=you, Pattern=have
+Turn ID=6| A | B : That sounds like it would hurt more .
+	Free: Pattern=it, Pattern=like
+	Constrained: 
+Turn ID=7| B | M : I know .
+	Free: Pattern=I know
+	Constrained: Pattern=know, Pattern=I
+Turn ID=8| A | B : So I guess I can't really I can't say what it would be like to , uh , grow up in a really oppressed region
+	Free: Pattern=in a, Pattern=it, Pattern=I, Pattern=like, Pattern=to
+	Constrained: Pattern=in, Pattern=a
+Turn ID=9| B | M : It's been a while since I've seen a musical .
+	Free: Pattern=seen a, Pattern=I've, Pattern=been, Pattern=a
+	Constrained: Pattern=a
+Turn ID=10| A | B : because we're so , we love our freedom and our freedom of choice and , um , having people like
+	Free: Pattern=we, Pattern=of, Pattern=people, Pattern=like
+	Constrained: 
+Turn ID=11| B | M : I know , right ? It's like they're not even trying .
+	Free: Pattern=I know ,, Pattern=not, Pattern=like
+	Constrained: Pattern=I know, Pattern=know ,, Pattern=know, Pattern=I
+Turn ID=12| A | B : Yeah , I think that's , uh , I think that's a good term , demanding the time for yourself . That you've just got to you've just got to
+	Free: Pattern=just, Pattern=a, Pattern=I think, Pattern=to, Pattern=that's, Pattern=the
+	Constrained: Pattern=I
+Turn ID=13| B | M : It's the eastside .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=14| A | B : And , uh , we , I do some interesting recycling things .
+	Free: Pattern=we, Pattern=do, Pattern=I
+	Constrained: 
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : Interesting thing about gas is when , I mean , about battery powered cars is when you're at a stop light , you're not using any any energy
+	Free: Pattern=not, Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=17| B | M : Hehehehe .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : Right . I mean Sunday dinner was at my grandmother's and , you know , like I said there would be thirty , you know , thirty people , and everyone would just bring things and my grandmother would cook and cook and cook .
+	Free: Pattern=know ,, Pattern=you know, Pattern=there, Pattern=I, Pattern=, you, Pattern=like, Pattern=was, Pattern=people, Pattern=just
+	Constrained: Pattern=know, Pattern=you
+Turn ID=19| B | M : Uhhh
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : They're in Missouri and I could , I , I know , I know stories for sure that they just , they , they just , well , they can't take the proper care of them . Most of them .
+	Free: Pattern=of, Pattern=just, Pattern=they, Pattern=I, Pattern=in, Pattern=sure, Pattern=the, Pattern=I know ,, Pattern=that they, Pattern=I know
+	Constrained: Pattern=know ,, Pattern=they, Pattern=I, Pattern=know, Pattern=that, Pattern=I know
+Turn ID=21| B | M : Oh , that's cool . It was in Mississippi .
+	Free: Pattern=was in, Pattern=, that's
+	Constrained: Pattern=was, Pattern=that's, Pattern=in
+Turn ID=22| A | B : And , uh , it's , it's tragic that , you know , when people live so long that they , uh , don't have a really don't have a place to go .
+	Free: Pattern=know ,, Pattern=you know, Pattern=people, Pattern=live, Pattern=, you, Pattern=don't have, Pattern=to, Pattern=that they, Pattern=a place, Pattern=have a, Pattern=that, Pattern=it's
+	Constrained: Pattern=you, Pattern=have, Pattern=they, Pattern=a, Pattern=know, Pattern=don't, Pattern=that
+Turn ID=23| B | M : I've heard of that too .
+	Free: Pattern=of, Pattern=that, Pattern=I've
+	Constrained: 
+Turn ID=24| A | B : That's what she plans to do .
+	Free: Pattern=do, Pattern=to
+	Constrained: 
+Turn ID=25| B | M : I live in a place where we can play over here .
+	Free: Pattern=a place, Pattern=in a, Pattern=can, Pattern=we, Pattern=live, Pattern=I
+	Constrained: Pattern=in, Pattern=a
+Turn ID=26| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : Do you play baseball ?
+	Free: Pattern=Do you
+	Constrained: Pattern=you
+Turn ID=28| A | B : unless there's some trend or something that says , Jesus this neighborhood has been hit forty-seven times or whatever . Uh , that's , that's sort of more of , of a pattern news .
+	Free: Pattern=of, Pattern=a, Pattern=, that's, Pattern=been, Pattern=that
+	Constrained: Pattern=that's
+Turn ID=29| B | M : Are you guys on the same course ?
+	Free: Pattern=on, Pattern=the, Pattern=you, Pattern=course
+	Constrained: 
+Turn ID=30| A | B : And a lot of them decide just not to have children .
+	Free: Pattern=a lot of, Pattern=to, Pattern=not, Pattern=just, Pattern=have
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=31| B | M : I think it's funny that they think you
+	Free: Pattern=you, Pattern=they think, Pattern=I think, Pattern=it's, Pattern=that they
+	Constrained: Pattern=that, Pattern=I, Pattern=they
+Turn ID=32| A | B : And , because my daughter calls it her gravy and I mean , she thinks it's wonderful , my , good , you're a picky eater , if I can get you to ,
+	Free: Pattern=you, Pattern=a, Pattern=it, Pattern=I, Pattern=if I can, Pattern=to, Pattern=it's
+	Constrained: Pattern=I, Pattern=can, Pattern=if
+Turn ID=33| B | M : I'm not sure if I can do that .
+	Free: Pattern=that ., Pattern=can do, Pattern=sure, Pattern=not, Pattern=do that, Pattern=if I can
+	Constrained: Pattern=do, Pattern=can, Pattern=that, Pattern=I, Pattern=if
+Turn ID=34| A | B : I know , and that makes me so mad You know , it is like it is not going to do that much damage to the course , but apparently they think differently
+	Free: Pattern=know ,, Pattern=, but, Pattern=it, Pattern=course, Pattern=You, Pattern=the, Pattern=to, Pattern=not, Pattern=do that, Pattern=like, Pattern=they think, Pattern=I know ,, Pattern=that
+	Constrained: Pattern=know ,, Pattern=they, Pattern=do, Pattern=I, Pattern=know, Pattern=that, Pattern=I know
+Turn ID=35| B | M : She nods .
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : and it turns out great , because I mean , you've got like hot sauce and taco meat and barbecue and , you know , bacon and all that good stuff .
+	Free: Pattern=know ,, Pattern=you know, Pattern=it, Pattern=I, Pattern=, you, Pattern=like, Pattern=all, Pattern=that
+	Constrained: Pattern=know, Pattern=you
+Turn ID=37| B | M : I don't , I'm not a robot .
+	Free: Pattern=not, Pattern=don't, Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=38| A | B : Yeah , I , I think that's Yeah . Yeah .
+	Free: Pattern=I think, Pattern=that's, Pattern=I
+	Constrained: Pattern=I
+Turn ID=39| B | M : Yes , but we do need to spend money on education .
+	Free: Pattern=, but, Pattern=do, Pattern=we, Pattern=on, Pattern=to
+	Constrained: 
+Turn ID=40| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : There's a lot of pollution down there
+	Free: Pattern=a lot of, Pattern=there
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=42| A | B : And , uh , it , I think that's what happens when they get scattered , the , the family unit , you know , falls , into disrepair .
+	Free: Pattern=know ,, Pattern=you know, Pattern=they, Pattern=it, Pattern=, you, Pattern=I think, Pattern=that's, Pattern=the
+	Constrained: Pattern=know, Pattern=I, Pattern=you
+Turn ID=43| B | M : I'm not sure .
+	Free: Pattern=not, Pattern=sure
+	Constrained: 
+Turn ID=44| A | B : Do you read a newspaper ?
+	Free: Pattern=Do you, Pattern=a
+	Constrained: Pattern=you
+Turn ID=45| B | M : right .
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : Well , I have seen a big change , I think , in high school kids that my relatives and friends , that , um , I know when I was in high school I had an idea of what I really wanted to do with what my , what I was going to study
+	Free: Pattern=of, Pattern=have, Pattern=do, Pattern=I, Pattern=in, Pattern=I think, Pattern=was in, Pattern=seen a, Pattern=to, Pattern=was, Pattern=that, Pattern=I know
+	Constrained: Pattern=a, Pattern=I, Pattern=in, Pattern=know, Pattern=was
+Turn ID=47| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=48| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : Why not ?
+	Free: Pattern=not
+	Constrained: 
+Turn ID=50| A | B : How are they built ?
+	Free: Pattern=How, Pattern=they
+	Constrained: 
+Turn ID=51| B | M : You have a cat ?
+	Free: Pattern=have a, Pattern=You
+	Constrained: Pattern=a, Pattern=have
+Turn ID=52| A | B : I would have thought ,
+	Free: Pattern=I, Pattern=have
+	Constrained: 
+Turn ID=53| B | M : But they're all dead , right ?
+	Free: Pattern=all
+	Constrained: 
+Turn ID=54| A | B : Yeah , it's really neat . And , uh , uh , course I've been working on it for five years , but , you know ,
+	Free: Pattern=know ,, Pattern=I've, Pattern=it, Pattern=, you, Pattern=course, Pattern=on, Pattern=been, Pattern=it's, Pattern=you know, Pattern=, but
+	Constrained: Pattern=know, Pattern=you
+Turn ID=55| B | M : You don't need to know if he's a real person , you just need to see it .
+	Free: Pattern=just, Pattern=it, Pattern=if, Pattern=he's, Pattern=You, Pattern=a real, Pattern=to, Pattern=know, Pattern=, you, Pattern=see, Pattern=don't
+	Constrained: Pattern=you, Pattern=real, Pattern=a
+Turn ID=56| A | B : I really believe that . And it has , um , helped us to afford some things for our children that we couldn't otherwise that I think are wonderful particularly at this age , and I think our kids are real secure . And have a real sense of priorities and that they can do anything and be anything both male and female a lot
+	Free: Pattern=it, Pattern=I, Pattern=we, Pattern=I think, Pattern=a real, Pattern=that, Pattern=that they, Pattern=real, Pattern=of, Pattern=that ., Pattern=can do, Pattern=have a, Pattern=a lot, Pattern=to
+	Constrained: Pattern=have, Pattern=they, Pattern=I, Pattern=can, Pattern=that, Pattern=real, Pattern=do, Pattern=a

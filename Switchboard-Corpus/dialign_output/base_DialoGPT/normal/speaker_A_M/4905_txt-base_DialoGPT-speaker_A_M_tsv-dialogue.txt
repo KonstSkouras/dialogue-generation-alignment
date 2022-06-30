@@ -1,0 +1,203 @@
+B|0| M: Are _you_ ? 
+A|1| A: Uh-huh . 
+B|2| M:  
+A|3| A: _Yeah ._ 
+B|4| M:  
+A|5| A: Uh-huh . 
+B|6| M: _So_ I can't be fired _for_ not being able _to do_ _my_ job . 
+A|7| A: _Yeah . Yeah . Yeah ._ 
+B|8| M: Yes [. [Yeah . [Yeah .] Yeah .] Yeah .] 
+A|9| A: Huh . Right . 
+B|10| M: I mean , uh , I've been at _the_ office _all_ day . 
+A|11| A: [Yeah .] 
+B|12| M: I mean _. That's_ kinda bad . 
+A|13| A: Uh-huh . 
+B|14| M: _It's_ _a_ _good ._ _it's_ _a_ _good thing_ . 
+A|15| A: [Yeah . Yeah .] Right . Uh , _and_ , _and_ , _and_ another [good thing] _is_ with [the] health _benefits_ when they give [you] _more_ than two choices on who [to] go with . 
+B|16| M: _And_ [the] one [you] _can_ choose [to] have . 
+A|17| A: [And] _that_ really helped us out [a] great deal . [So] . But [my] husband does get vacation _and_ [it's] worked out really _good for_ us too . 
+B|18| M: Yes 
+A|19| A: [So] But . 
+B|20| M: I think [the] best [thing] about [the] [benefits] [is] [the] availability _of the_ [benefits] . 
+A|21| A: [Yeah .] 
+B|22| M: I'm [good for] [a] week [and] [a] half . 
+A|23| A: Uh-huh . 
+B|24| M: Uhm , I don't think so . 
+A|25| A: Uh-huh . 
+B|26| M: Uhh . Um . 
+A|27| A: Well , that's great _that_ [you] [all] [can] work _that_ out [. That's] really [good .] 
+B|28| M: [Yeah] , we're not doing it any [more] . We're doing it [for] [the] sake _of the_ 
+A|29| A: Right . 
+B|30| M: Oh ? I see . 
+A|31| A: Uh-huh . 
+B|32| M: Oh , cool . 
+A|33| A: [Yeah .] 
+B|34| M: You're [a] kid ? 
+A|35| A: [Yeah _.] It's_ [the] same with [my] husband cause he's _got_ pretty flexible hours if , as long as he puts in [the] hours he needs [to do] . Worked out really well [for] us too . 
+B|36| M: What ? 
+A|37| A: Uh . Well [is] there anything else _that_ [you] look [for] or , 
+B|38| M: I just have _a lot of_ free time . 
+A|39| A: You've hit pretty , you've put [a lot [of] the] main points in . 
+B|40| M: [That's] what I'm trying [to do] , but I don't _want to_ be [a] bad guy . 
+A|41| A: Uh-huh . 
+B|42| M: He's [got] [the] uhhhhh . 
+A|43| A: [Yeah . Yeah .] 
+B|44| M: You know . 
+A|45| A: Uh-huh . 
+B|46| M: [that] . 
+A|47| A: Uh-huh . 
+B|48| M: I can't [. It's] . [all] [of] . It'ing . 
+A|49| A: [Yeah .] [And] [that] does make [a] [a] person [want to] stay 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : Are you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=1| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=4| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : So I can't be fired for not being able to do my job .
+	Free: Pattern=to do, Pattern=So, Pattern=my, Pattern=for
+	Constrained: Pattern=to
+Turn ID=7| A | A : Yeah . Yeah . Yeah .
+	Free: Pattern=Yeah . Yeah . Yeah .
+	Constrained: Pattern=Yeah, Pattern=. Yeah . Yeah ., Pattern=Yeah . Yeah ., Pattern=Yeah .
+Turn ID=8| B | M : Yes . Yeah . Yeah . Yeah . Yeah .
+	Free: Pattern=Yeah . Yeah . Yeah ., Pattern=. Yeah . Yeah .
+	Constrained: Pattern=Yeah, Pattern=. Yeah . Yeah ., Pattern=Yeah . Yeah ., Pattern=Yeah .
+Turn ID=9| A | A : Huh . Right .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : I mean , uh , I've been at the office all day .
+	Free: Pattern=all, Pattern=the
+	Constrained: 
+Turn ID=11| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=12| B | M : I mean . That's kinda bad .
+	Free: Pattern=. That's
+	Constrained: Pattern=That's
+Turn ID=13| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : It's a good . it's a good thing .
+	Free: Pattern=a, Pattern=good thing, Pattern=good ., Pattern=It's, Pattern=it's
+	Constrained: Pattern=thing
+Turn ID=15| A | A : Yeah . Yeah . Right . Uh , and , and , and another good thing is with the health benefits when they give you more than two choices on who to go with .
+	Free: Pattern=more, Pattern=you, Pattern=and, Pattern=Yeah . Yeah ., Pattern=good thing, Pattern=is, Pattern=benefits, Pattern=the, Pattern=to
+	Constrained: Pattern=thing, Pattern=Yeah, Pattern=Yeah .
+Turn ID=16| B | M : And the one you can choose to have .
+	Free: Pattern=you, Pattern=And, Pattern=can, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=17| A | A : And that really helped us out a great deal . So . But my husband does get vacation and it's worked out really good for us too .
+	Free: Pattern=And, Pattern=a, Pattern=So, Pattern=and, Pattern=good for, Pattern=my, Pattern=that, Pattern=it's
+	Constrained: Pattern=for
+Turn ID=18| B | M : Yes
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : So But .
+	Free: Pattern=So
+	Constrained: 
+Turn ID=20| B | M : I think the best thing about the benefits is the availability of the benefits .
+	Free: Pattern=is, Pattern=benefits, Pattern=of the, Pattern=thing, Pattern=the
+	Constrained: Pattern=of, Pattern=the
+Turn ID=21| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=22| B | M : I'm good for a week and a half .
+	Free: Pattern=good for, Pattern=a, Pattern=and
+	Constrained: Pattern=for
+Turn ID=23| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=24| B | M : Uhm , I don't think so .
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=26| B | M : Uhh . Um .
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : Well , that's great that you all can work that out . That's really good .
+	Free: Pattern=you, Pattern=. That's, Pattern=can, Pattern=good ., Pattern=all, Pattern=that
+	Constrained: Pattern=That's
+Turn ID=28| B | M : Yeah , we're not doing it any more . We're doing it for the sake of the
+	Free: Pattern=more, Pattern=for, Pattern=the, Pattern=Yeah, Pattern=of the
+	Constrained: Pattern=of, Pattern=the
+Turn ID=29| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : Oh ? I see .
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : Oh , cool .
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=34| B | M : You're a kid ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=35| A | A : Yeah . It's the same with my husband cause he's got pretty flexible hours if , as long as he puts in the hours he needs to do . Worked out really well for us too .
+	Free: Pattern=Yeah ., Pattern=to do, Pattern=for, Pattern=the, Pattern=my, Pattern=. It's, Pattern=got
+	Constrained: Pattern=Yeah, Pattern=to, Pattern=It's
+Turn ID=36| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : Uh . Well is there anything else that you look for or ,
+	Free: Pattern=you, Pattern=is, Pattern=for, Pattern=that
+	Constrained: 
+Turn ID=38| B | M : I just have a lot of free time .
+	Free: Pattern=a lot of
+	Constrained: Pattern=a, Pattern=of
+Turn ID=39| A | A : You've hit pretty , you've put a lot of the main points in .
+	Free: Pattern=a lot of, Pattern=of the
+	Constrained: Pattern=a, Pattern=of, Pattern=the
+Turn ID=40| B | M : That's what I'm trying to do , but I don't want to be a bad guy .
+	Free: Pattern=to do, Pattern=want to, Pattern=That's, Pattern=a
+	Constrained: Pattern=to
+Turn ID=41| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : He's got the uhhhhh .
+	Free: Pattern=got, Pattern=the
+	Constrained: 
+Turn ID=43| A | A : Yeah . Yeah .
+	Free: Pattern=Yeah . Yeah .
+	Constrained: Pattern=Yeah ., Pattern=Yeah
+Turn ID=44| B | M : You know .
+	Free: 
+	Constrained: 
+Turn ID=45| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=46| B | M : that .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=47| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=48| B | M : I can't . It's . all of . It'ing .
+	Free: Pattern=. It's, Pattern=of, Pattern=all
+	Constrained: Pattern=It's
+Turn ID=49| A | A : Yeah . And that does make a a person want to stay
+	Free: Pattern=Yeah ., Pattern=And, Pattern=a, Pattern=want to, Pattern=that
+	Constrained: Pattern=Yeah, Pattern=to

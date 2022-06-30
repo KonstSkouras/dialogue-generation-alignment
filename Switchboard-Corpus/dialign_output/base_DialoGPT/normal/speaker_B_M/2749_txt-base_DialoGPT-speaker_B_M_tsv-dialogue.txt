@@ -1,0 +1,231 @@
+A|0| B: Uh _, _I_ don't_ _, _I_ don't_ even _think_ _that_ _it should be_ unanimous either . Uh , 
+B|1| M: It's aight 
+A|2| B: Uh-huh . Right . 
+B|3| M: No _, you_ [should be] 
+A|4| B: Exactly . Uh-huh . Uh _, _I_ don't_ _know ._ _I , uh _,_ you [,_ you] rarely hear [, you] hear , _of_ course there's _cases_ where someone has been put in , in , in _, uh ,_ prison _, uh ,_ falsely accused _but_ _, uh ,_ more than likely _the_ people _that_ _are_ on _the_ , _the_ _jury_ _know_ what _they're_ doing . Uh _, I mean_ _you ,_ 
+B|5| M:  . u' 
+A|6| B: Never . 
+B|7| M: I'll 
+A|8| B: Huh . _Well [,_ you] _would_ _think_ _that_ _they would get_ _that_ in _the_ _, uh ,_ when _the_ prosecution and defense _are_ choosing _the_ _jury_ [you] _would_ _think_ _that_ those _would_ come out and _I _,_ I know_ _they_ automatically , when [you] go through _, uh ,_ when you're chosen is , you're automatically _like_ _a_ , _a_ , _a_ professor in criminal justice or something _like_ _that_ , _that_ you're automatically , no _they_ _don't_ _want_ [you] on _the_ _jury_ . 
+B|9| M:  
+A|10| B: Exactly . Uh-huh , exactly . Uh , 
+B|11| M:  ... 
+A|12| B: Uh-huh . 
+B|13| M: i 
+A|14| B: Uh-huh . 
+B|15| M: U [mean] [, you ,] i [don't] ?? 
+A|16| B: _I've_ _, I've_ _never_ _I've_ _never_ even been _called_ _to_ _jury duty_ . 
+B|17| M: You've [, I've] seen [the] movie , [but] [never] seen [the] book . 
+A|18| B: _Yeah_ . _I , uh , _I_ don't_ _know _, I_ think_ [the] _, I_ guess there's _a_ lot _of_ problems _with_ [the] legal system 
+B|19| M: [I don't] 
+A|20| B: Uh-huh . Uh-huh . 
+B|21| M: _I'm_ not 
+A|22| B: Uh-huh . 
+B|23| M: _I'm_ 
+A|24| B: Right . 
+B|25| M: [I think] I'd rather [be] 
+A|26| B: Uh-huh . 
+B|27| M:  . 
+A|28| B: _I , uh , I_ _I _,_ [I_ don't] [think] [the] judge [should] _just_ make [the] decision alone . 
+B|29| M:  ... 
+A|30| B: Least _with_ [the] _jury_ _you have_ twelve people [, you] _know_ _that_ _are_ going _to_ decide [, you] _know ,_ 
+B|31| M: [I , uh , I] don t [know .] 
+A|32| B: judge 
+B|33| M: Why do [you] _want to_ do [that] ? 
+A|34| B: Right , exactly 
+B|35| M: _If_ [you have] [jury] members _who_ [are] paid [to] do [jury duty] [, you] pay them [a] salary [of] 20 , 000 . 
+A|36| B: Probably , yeah _Yeah_ . But [, uh ,] no , it's , it's sad , though , [that] [, uh ,] [that] [the] people , though , [that] [you [,] you ,] somebody's life is in twelve people's hands and sometimes those twelve people _could_ care less . 
+B|37| M: [I mean] [, you] [could] say [that] about any job . 
+A|38| B: And [, uh ,] or _they_ fool [the] , [the] defense in thinking _that they're_ [, you] _know ,_ because when _they_ go through those processes _they_ kind [of] pick out [who] _they_ [want] . 
+B|39| M: [I [know] [, I] [know] ,] 
+A|40| B: Exactly . 
+B|41| M: [I] . 
+A|42| B: Uh-huh . 
+B|43| M: [Yeah] 
+A|44| B: Oh , yeah . _Well ,_ 
+B|45| M: No [, I mean] , I'll [just] ask them about [it] . 
+A|46| B: [I] guess it's [just] [that] maybe people [are] [, you] [know ,] upset at court [, you] [know .] [If] [it] was , _if it_ was [a] , [a] family member [of] theirs , though [that] was innocent and , then they'd [want to] [be] on [that] [jury] . 
+B|47| M: What's [the] verdict ? 
+A|48| B: But [, uh ,] _if_ everyone _would_ take [it] _, I think_ _if_ everyone took [it] seriously 
+B|49| M: [I think] that's how [it should be] [, I think] [they would get] away [with] [it] [if it] wasn't for 
+A|50| B: [Yeah] . 
+B|51| M: [Well _,] I'm_ sure there [are] other [cases] [like] this . 
+A|52| B: [I] [would] _love to_ [be] _called [,_ I'm] ready [to] go They [just] haven't _called_ me up yet 
+B|53| M: It's [a] shame [that they're] not [called ,] I'd [love to] [have] [a] team [called] 
+A|54| B: It was nice talking [to] [you] . 
+B|55| M: Sorry about [that] . 
+A|56| B: Bye-bye . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh , I don't , I don't even think that it should be unanimous either . Uh ,
+	Free: Pattern=, I, Pattern=think, Pattern=that, Pattern=I don't, Pattern=it should be
+	Constrained: Pattern=it, Pattern=I, Pattern=be, Pattern=don't, Pattern=should, Pattern=should be
+Turn ID=1| B | M : It's aight
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : Uh-huh . Right .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : No , you should be
+	Free: Pattern=should be, Pattern=, you
+	Constrained: Pattern=should, Pattern=you, Pattern=be
+Turn ID=4| A | B : Exactly . Uh-huh . Uh , I don't know . I , uh , you , you rarely hear , you hear , of course there's cases where someone has been put in , in , in , uh , prison , uh , falsely accused but , uh , more than likely the people that are on the , the jury know what they're doing . Uh , I mean you ,
+	Free: Pattern=of, Pattern=cases, Pattern=, I, Pattern=, you ,, Pattern=are, Pattern=you ,, Pattern=I don't, Pattern=they're, Pattern=know, Pattern=, you, Pattern=jury, Pattern=I , uh ,, Pattern=, uh ,, Pattern=know ., Pattern=, I mean, Pattern=the, Pattern=that, Pattern=but
+	Constrained: Pattern=I ,, Pattern=you, Pattern=mean, Pattern=, I, Pattern=I, Pattern=don't, Pattern=you ,, Pattern=know, Pattern=, you, Pattern=, uh ,, Pattern=I mean
+Turn ID=5| B | M :  . u'
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : Never .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : I'll
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : Huh . Well , you would think that they would get that in the , uh , when the prosecution and defense are choosing the jury you would think that those would come out and I , I know they automatically , when you go through , uh , when you're chosen is , you're automatically like a , a , a professor in criminal justice or something like that , that you're automatically , no they don't want you on the jury .
+	Free: Pattern=I ,, Pattern=, I know, Pattern=want, Pattern=you, Pattern=they, Pattern=a, Pattern=are, Pattern=, you, Pattern=jury, Pattern=like, Pattern=, uh ,, Pattern=the, Pattern=that, Pattern=they would get, Pattern=Well ,, Pattern=think, Pattern=would, Pattern=don't
+	Constrained: Pattern=you, Pattern=they, Pattern=, I, Pattern=I, Pattern=know, Pattern=would, Pattern=I know
+Turn ID=9| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : Exactly . Uh-huh , exactly . Uh ,
+	Free: 
+	Constrained: 
+Turn ID=11| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : i
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : U mean , you , i don't ??
+	Free: Pattern=, you ,, Pattern=don't, Pattern=mean
+	Constrained: Pattern=, you, Pattern=you ,, Pattern=you
+Turn ID=16| A | B : I've , I've never I've never even been called to jury duty .
+	Free: Pattern=called, Pattern=I've, Pattern=jury duty, Pattern=never, Pattern=to, Pattern=, I've
+	Constrained: Pattern=I've, Pattern=jury
+Turn ID=17| B | M : You've , I've seen the movie , but never seen the book .
+	Free: Pattern=, I've, Pattern=but, Pattern=the, Pattern=never
+	Constrained: Pattern=I've
+Turn ID=18| A | B : Yeah . I , uh , I don't know , I think the , I guess there's a lot of problems with the legal system
+	Free: Pattern=of, Pattern=I , uh , I, Pattern=I don't, Pattern=, I think, Pattern=the, Pattern=know , I, Pattern=Yeah, Pattern=with, Pattern=, I, Pattern=a
+	Constrained: Pattern=I ,, Pattern=know ,, Pattern=, I, Pattern=I, Pattern=think, Pattern=know, Pattern=I , uh ,, Pattern=don't, Pattern=I think, Pattern=, uh ,
+Turn ID=19| B | M : I don't
+	Free: Pattern=I don't
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=20| A | B : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : I'm not
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=22| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : I'm
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=24| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I think I'd rather be
+	Free: Pattern=I think, Pattern=be
+	Constrained: Pattern=I, Pattern=think
+Turn ID=26| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : I , uh , I I , I don't think the judge should just make the decision alone .
+	Free: Pattern=I ,, Pattern=just, Pattern=, I, Pattern=I don't, Pattern=think, Pattern=the, Pattern=should, Pattern=I , uh , I
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=I, Pattern=I , uh ,, Pattern=, uh ,, Pattern=don't
+Turn ID=29| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Least with the jury you have twelve people , you know that are going to decide , you know ,
+	Free: Pattern=know ,, Pattern=are, Pattern=you have, Pattern=jury, Pattern=the, Pattern=to, Pattern=know, Pattern=, you, Pattern=with, Pattern=that
+	Constrained: Pattern=have, Pattern=know, Pattern=you
+Turn ID=31| B | M : I , uh , I don t know .
+	Free: Pattern=I , uh , I, Pattern=know .
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=I, Pattern=know, Pattern=I , uh ,, Pattern=, uh ,
+Turn ID=32| A | B : judge
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : Why do you want to do that ?
+	Free: Pattern=want to, Pattern=you, Pattern=that
+	Constrained: Pattern=to, Pattern=want
+Turn ID=34| A | B : Right , exactly
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : If you have jury members who are paid to do jury duty , you pay them a salary of 20 , 000 .
+	Free: Pattern=of, Pattern=jury duty, Pattern=are, Pattern=you have, Pattern=, you, Pattern=to, Pattern=who, Pattern=a, Pattern=If, Pattern=jury
+	Constrained: Pattern=have, Pattern=you, Pattern=jury
+Turn ID=36| A | B : Probably , yeah Yeah . But , uh , no , it's , it's sad , though , that , uh , that the people , though , that you , you , somebody's life is in twelve people's hands and sometimes those twelve people could care less .
+	Free: Pattern=, you ,, Pattern=, uh ,, Pattern=the, Pattern=you ,, Pattern=that, Pattern=Yeah, Pattern=could
+	Constrained: Pattern=, you, Pattern=you ,, Pattern=you
+Turn ID=37| B | M : I mean , you could say that about any job .
+	Free: Pattern=, you, Pattern=I mean, Pattern=could, Pattern=that
+	Constrained: Pattern=I, Pattern=you, Pattern=mean
+Turn ID=38| A | B : And , uh , or they fool the , the defense in thinking that they're , you know , because when they go through those processes they kind of pick out who they want .
+	Free: Pattern=want, Pattern=they, Pattern=who, Pattern=, you, Pattern=, uh ,, Pattern=the, Pattern=that they're, Pattern=of, Pattern=know ,
+	Constrained: Pattern=that, Pattern=they're, Pattern=you, Pattern=know
+Turn ID=39| B | M : I know , I know ,
+	Free: Pattern=know , I, Pattern=, I know, Pattern=know ,, Pattern=I know
+	Constrained: Pattern=know ,, Pattern=, I, Pattern=I, Pattern=know, Pattern=I know
+Turn ID=40| A | B : Exactly .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : I .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=42| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=44| A | B : Oh , yeah . Well ,
+	Free: Pattern=Well ,
+	Constrained: 
+Turn ID=45| B | M : No , I mean , I'll just ask them about it .
+	Free: Pattern=, I mean, Pattern=just, Pattern=it
+	Constrained: Pattern=, I, Pattern=I mean, Pattern=I, Pattern=mean
+Turn ID=46| A | B : I guess it's just that maybe people are , you know , upset at court , you know . If it was , if it was a , a family member of theirs , though that was innocent and , then they'd want to be on that jury .
+	Free: Pattern=just, Pattern=a, Pattern=want to, Pattern=, you, Pattern=that, Pattern=of, Pattern=know ,, Pattern=it, Pattern=if it, Pattern=are, Pattern=I, Pattern=If, Pattern=jury, Pattern=know ., Pattern=be
+	Constrained: Pattern=want, Pattern=you, Pattern=it, Pattern=if, Pattern=know, Pattern=to
+Turn ID=47| B | M : What's the verdict ?
+	Free: Pattern=the
+	Constrained: 
+Turn ID=48| A | B : But , uh , if everyone would take it , I think if everyone took it seriously
+	Free: Pattern=it, Pattern=if, Pattern=would, Pattern=, uh ,, Pattern=, I think
+	Constrained: Pattern=I, Pattern=think, Pattern=I think, Pattern=, I
+Turn ID=49| B | M : I think that's how it should be , I think they would get away with it if it wasn't for
+	Free: Pattern=it should be, Pattern=with, Pattern=they would get, Pattern=it, Pattern=if it, Pattern=I think, Pattern=, I think
+	Constrained: Pattern=, I, Pattern=it, Pattern=think, Pattern=would, Pattern=should, Pattern=should be, Pattern=they, Pattern=I, Pattern=if, Pattern=I think, Pattern=be
+Turn ID=50| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=51| B | M : Well , I'm sure there are other cases like this .
+	Free: Pattern=cases, Pattern=are, Pattern=Well ,, Pattern=like, Pattern=, I'm
+	Constrained: Pattern=I'm
+Turn ID=52| A | B : I would love to be called , I'm ready to go They just haven't called me up yet
+	Free: Pattern=called, Pattern=love to, Pattern=just, Pattern=I, Pattern=be, Pattern=would, Pattern=to, Pattern=, I'm, Pattern=called ,
+	Constrained: Pattern=to, Pattern=called, Pattern=I'm
+Turn ID=53| B | M : It's a shame that they're not called , I'd love to have a team called
+	Free: Pattern=called, Pattern=love to, Pattern=have, Pattern=a, Pattern=that they're, Pattern=called ,
+	Constrained: Pattern=to, Pattern=they're, Pattern=called, Pattern=that
+Turn ID=54| A | B : It was nice talking to you .
+	Free: Pattern=to, Pattern=you
+	Constrained: 
+Turn ID=55| B | M : Sorry about that .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=56| A | B : Bye-bye .
+	Free: 
+	Constrained: 

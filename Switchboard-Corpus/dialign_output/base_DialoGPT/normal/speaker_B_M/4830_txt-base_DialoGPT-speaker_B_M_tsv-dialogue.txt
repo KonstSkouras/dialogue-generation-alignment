@@ -1,0 +1,283 @@
+A|0| B: _Right ._ 
+B|1| M: _I_ _know_ _that_ _the jury_ decides . 
+A|2| B: _Right ._ _There's_ , there , _this_ topic _is_ kind _of_ mute . _Uh_ 
+B|3| M: What _do_ _you_ _mean_ ? 
+A|4| B: there , there's no way . _We_ , _we_ couldn't survive _in a_ _in a_ juror _in a_ trial _system_ without _a_ [jury] . 
+B|5| M: [Right .] 
+A|6| B: _Uh ,_ one man _can_ _never_ _be_ , one man , one woman _can_ _never_ _be_ objectionable _in_ every case . 
+B|7| M: _They_ are . 
+A|8| B: _Uh ,_ every person has their opinions and that's _why_ [jury] selection _is_ often very difficult . _Uh_ . 
+B|9| M: [We] don't . 
+A|10| B: [Right .] 
+B|11| M:  
+A|12| B: [Right .] [They] shouldn't allow an _appeal ._ 
+B|13| M: _I'm_ a'there's . 
+A|14| B: Yep . 
+B|15| M: Can't [be] legal . 
+A|16| B: Uh-huh 
+B|17| M: What [is] ? 
+A|18| B: Oh , that's right . [I] work _for _a_ law_ firm 
+B|19| M: [I] _was_ _at_ _the_ school . 
+A|20| B: [Right .] 
+B|21| M: The lawyers _have_ been involved [in a] lot . 
+A|22| B: Well _plea_ _plea_ bargaining [is] _a different_ story . 
+B|23| M: Because it's _the only_ option available _to_ _them_ . 
+A|24| B: Plea bargaining [is] something completely _different_ . That , [that] actually prevents trials . Or [at] least speeds [them] up . 
+B|25| M: If they get [a] [plea] bargain then they [can] [be] charged with assault . 
+A|26| B: [Right .] 
+B|27| M: _I mean _,_ the_ whole [system] [is] broken . That's [why] they're doing it . 
+A|28| B: [Right .] 
+B|29| M: It's [a law] 
+A|30| B: Huh . 
+B|31| M: [They] don't . 
+A|32| B: [Right .] 
+B|33| M:  ... _but_ [we] _do_ _have_ capital penalty . 
+A|34| B: [We] [do] 
+B|35| M: Why don't [we] _have_ capital punishments ? 
+A|36| B: [Right .] 
+B|37| M: [I] _think_ they're both guilty 
+A|38| B: [Right .] When you're _saying_ as far as _the appeal_ , uh , procedure [was] concerned . 
+B|39| M: It's not [that] they're not guilty . It's [that] they aren't guilty . 
+A|40| B: [We] just [have] [the] case _, I'm_ _, I'm_ _sure_ you've probably _heard of_ Marion Berry . 
+B|41| M: [I'm] not [sure] , I've [never] [heard _of] [the_ [appeal] .] 
+A|42| B: _Uh ,_ his last [appeal] [was] , [was] denied two days before his sentence [was] up 
+B|43| M: [Uh ,] what ? 
+A|44| B: So _, [I_ mean ,] his [appeal] [was] denied and two days later he got out [of] jail For cocaine possession . 
+B|45| M: _No_ , he's [a] minor . 
+A|46| B: But , uh , [that] [was] absurd There [is] [never] , there [was] no reason [the appeal] process should [have] dragged _on_ [that] long _for a_ six month sentence . 
+B|47| M: He [was] [on] probation . 
+A|48| B: Well , uh [, the] [, [the] only] [I] [can] _, I_ [you] _know [,_ the] , [appeal] procedure [is] [the only] thing [I] [can] possibly [think] [of] . [Uh ,] like [I] said , as far as removing [of [the] jury] and having [the] judge sentence , that's absurd . _There's_ no way [that] could work . 
+B|49| M: The [appeal] 
+A|50| B: [Uh ,] [but] , 
+B|51| M: It's 
+A|52| B: Oh , exactly . 
+B|53| M: _I , I_ don t [know] . 
+A|54| B: Exactly . [Right .] 
+B|55| M: It's not _about_ feeling good . It's _about_ feeling happy . 
+A|56| B: [No] one _would want_ [the] job 
+B|57| M: What if [I] told _you [,_ I] [would want] _to_ [do] [this] [for a] living . 
+A|58| B: [Uh ,] and , [you] _know ,_ like [I] said [, the] , [you] _know ,_ everyone has their opinions [about] every case . 
+B|59| M: [I] [know] . The majority [do] 
+A|60| B: Oh yeah . [I , I] feel [that] everyone [is] , everyone [is] , uh , entitled [to] [a] trial by [jury] . That , [that] , [that] right 
+B|61| M: [I] am , uhh [, I'm] not . 
+A|62| B: Well [, [I] mean ,] were there witnesses ? 
+B|63| M: [I] don't [think] so . 
+A|64| B: [Right .] [Right .] That [you] can't , [you] can't remove [the jury] regardless [of the] case . 
+B|65| M: [I] [know [,] I'm] [saying] [that] [you] [can] 
+A|66| B: [I mean] [you] could [have] fifty _people_ [in] audience watching [a] murder take place 
+B|67| M: [I] [was] thinking [of] [a different] scenario . 
+A|68| B: and [you ,] you'd still , there's still mitigating circumstances 
+B|69| M: [There's] [only] so many [people] [you] [can] watch [in] [jury] duty . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=1| B | M : I know that the jury decides .
+	Free: Pattern=the jury, Pattern=know, Pattern=I, Pattern=that
+	Constrained: Pattern=jury, Pattern=the
+Turn ID=2| A | B : Right . There's , there , this topic is kind of mute . Uh
+	Free: Pattern=of, Pattern=There's, Pattern=is, Pattern=Right ., Pattern=this, Pattern=Uh
+	Constrained: 
+Turn ID=3| B | M : What do you mean ?
+	Free: Pattern=do, Pattern=you, Pattern=mean
+	Constrained: 
+Turn ID=4| A | B : there , there's no way . We , we couldn't survive in a in a juror in a trial system without a jury .
+	Free: Pattern=We, Pattern=a, Pattern=in a, Pattern=system, Pattern=jury, Pattern=we
+	Constrained: Pattern=in, Pattern=a
+Turn ID=5| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=6| A | B : Uh , one man can never be , one man , one woman can never be objectionable in every case .
+	Free: Pattern=can, Pattern=Uh ,, Pattern=in, Pattern=never, Pattern=be
+	Constrained: Pattern=Uh
+Turn ID=7| B | M : They are .
+	Free: Pattern=They
+	Constrained: 
+Turn ID=8| A | B : Uh , every person has their opinions and that's why jury selection is often very difficult . Uh .
+	Free: Pattern=Uh ,, Pattern=why, Pattern=Uh, Pattern=is, Pattern=jury
+	Constrained: Pattern=Uh
+Turn ID=9| B | M : We don't .
+	Free: Pattern=We
+	Constrained: 
+Turn ID=10| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=11| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Right . They shouldn't allow an appeal .
+	Free: Pattern=appeal ., Pattern=Right ., Pattern=They
+	Constrained: Pattern=appeal
+Turn ID=13| B | M : I'm a'there's .
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=14| A | B : Yep .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : Can't be legal .
+	Free: Pattern=be
+	Constrained: 
+Turn ID=16| A | B : Uh-huh
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : What is ?
+	Free: Pattern=is
+	Constrained: 
+Turn ID=18| A | B : Oh , that's right . I work for a law firm
+	Free: Pattern=a law, Pattern=for a, Pattern=I
+	Constrained: Pattern=a
+Turn ID=19| B | M : I was at the school .
+	Free: Pattern=was, Pattern=I, Pattern=the, Pattern=at
+	Constrained: 
+Turn ID=20| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=21| B | M : The lawyers have been involved in a lot .
+	Free: Pattern=in a, Pattern=have
+	Constrained: Pattern=in, Pattern=a
+Turn ID=22| A | B : Well plea plea bargaining is a different story .
+	Free: Pattern=a different, Pattern=plea, Pattern=is
+	Constrained: Pattern=a, Pattern=different
+Turn ID=23| B | M : Because it's the only option available to them .
+	Free: Pattern=the only, Pattern=them, Pattern=to
+	Constrained: Pattern=the, Pattern=only
+Turn ID=24| A | B : Plea bargaining is something completely different . That , that actually prevents trials . Or at least speeds them up .
+	Free: Pattern=different, Pattern=at, Pattern=is, Pattern=them, Pattern=that
+	Constrained: 
+Turn ID=25| B | M : If they get a plea bargain then they can be charged with assault .
+	Free: Pattern=a, Pattern=be, Pattern=plea, Pattern=can
+	Constrained: 
+Turn ID=26| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=27| B | M : I mean , the whole system is broken . That's why they're doing it .
+	Free: Pattern=system, Pattern=is, Pattern=I mean ,, Pattern=why, Pattern=, the
+	Constrained: Pattern=I mean, Pattern=I, Pattern=the, Pattern=mean
+Turn ID=28| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=29| B | M : It's a law
+	Free: Pattern=a law
+	Constrained: Pattern=a
+Turn ID=30| A | B : Huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : They don't .
+	Free: Pattern=They
+	Constrained: 
+Turn ID=32| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=33| B | M :  ... but we do have capital penalty .
+	Free: Pattern=we, Pattern=but, Pattern=do, Pattern=have
+	Constrained: 
+Turn ID=34| A | B : We do
+	Free: Pattern=We, Pattern=do
+	Constrained: 
+Turn ID=35| B | M : Why don't we have capital punishments ?
+	Free: Pattern=we, Pattern=have
+	Constrained: 
+Turn ID=36| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=37| B | M : I think they're both guilty
+	Free: Pattern=I, Pattern=think
+	Constrained: 
+Turn ID=38| A | B : Right . When you're saying as far as the appeal , uh , procedure was concerned .
+	Free: Pattern=Right ., Pattern=the appeal, Pattern=was, Pattern=saying
+	Constrained: Pattern=the, Pattern=appeal
+Turn ID=39| B | M : It's not that they're not guilty . It's that they aren't guilty .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=40| A | B : We just have the case , I'm , I'm sure you've probably heard of Marion Berry .
+	Free: Pattern=have, Pattern=We, Pattern=heard of, Pattern=sure, Pattern=the, Pattern=, I'm
+	Constrained: Pattern=I'm, Pattern=of
+Turn ID=41| B | M : I'm not sure , I've never heard of the appeal .
+	Free: Pattern=the appeal, Pattern=I'm, Pattern=appeal ., Pattern=sure, Pattern=of the, Pattern=heard of, Pattern=never
+	Constrained: Pattern=the, Pattern=appeal, Pattern=of
+Turn ID=42| A | B : Uh , his last appeal was , was denied two days before his sentence was up
+	Free: Pattern=Uh ,, Pattern=was, Pattern=appeal
+	Constrained: Pattern=Uh
+Turn ID=43| B | M : Uh , what ?
+	Free: Pattern=Uh ,
+	Constrained: Pattern=Uh
+Turn ID=44| A | B : So , I mean , his appeal was denied and two days later he got out of jail For cocaine possession .
+	Free: Pattern=of, Pattern=, I, Pattern=appeal, Pattern=I mean ,, Pattern=was
+	Constrained: Pattern=I mean, Pattern=I, Pattern=mean
+Turn ID=45| B | M : No , he's a minor .
+	Free: Pattern=a, Pattern=No
+	Constrained: 
+Turn ID=46| A | B : But , uh , that was absurd There is never , there was no reason the appeal process should have dragged on that long for a six month sentence .
+	Free: Pattern=the appeal, Pattern=have, Pattern=on, Pattern=that, Pattern=is, Pattern=never, Pattern=for a, Pattern=was
+	Constrained: Pattern=a, Pattern=the, Pattern=appeal
+Turn ID=47| B | M : He was on probation .
+	Free: Pattern=was, Pattern=on
+	Constrained: 
+Turn ID=48| A | B : Well , uh , the , the only I can , I you know , the , appeal procedure is the only thing I can possibly think of . Uh , like I said , as far as removing of the jury and having the judge sentence , that's absurd . There's no way that could work .
+	Free: Pattern=you, Pattern=, I, Pattern=I, Pattern=can, Pattern=Uh ,, Pattern=think, Pattern=appeal, Pattern=is, Pattern=the, Pattern=, the, Pattern=of, Pattern=know ,, Pattern=There's, Pattern=the only, Pattern=the jury, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=only, Pattern=I, Pattern=know, Pattern=jury, Pattern=the, Pattern=Uh
+Turn ID=49| B | M : The appeal
+	Free: Pattern=appeal
+	Constrained: 
+Turn ID=50| A | B : Uh , but ,
+	Free: Pattern=Uh ,, Pattern=but
+	Constrained: Pattern=Uh
+Turn ID=51| B | M : It's
+	Free: 
+	Constrained: 
+Turn ID=52| A | B : Oh , exactly .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : I , I don t know .
+	Free: Pattern=I , I, Pattern=know
+	Constrained: Pattern=, I, Pattern=I
+Turn ID=54| A | B : Exactly . Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=55| B | M : It's not about feeling good . It's about feeling happy .
+	Free: Pattern=about
+	Constrained: 
+Turn ID=56| A | B : No one would want the job
+	Free: Pattern=would want, Pattern=the, Pattern=No
+	Constrained: 
+Turn ID=57| B | M : What if I told you , I would want to do this for a living .
+	Free: Pattern=I, Pattern=to, Pattern=do, Pattern=, I, Pattern=for a, Pattern=would want, Pattern=you ,, Pattern=this
+	Constrained: Pattern=a, Pattern=you, Pattern=I
+Turn ID=58| A | B : Uh , and , you know , like I said , the , you know , everyone has their opinions about every case .
+	Free: Pattern=know ,, Pattern=you, Pattern=I, Pattern=, the, Pattern=about, Pattern=Uh ,
+	Constrained: Pattern=know, Pattern=Uh, Pattern=the
+Turn ID=59| B | M : I know . The majority do
+	Free: Pattern=know, Pattern=do, Pattern=I
+	Constrained: 
+Turn ID=60| A | B : Oh yeah . I , I feel that everyone is , everyone is , uh , entitled to a trial by jury . That , that , that right
+	Free: Pattern=a, Pattern=I , I, Pattern=to, Pattern=that, Pattern=is, Pattern=jury
+	Constrained: Pattern=, I, Pattern=I
+Turn ID=61| B | M : I am , uhh , I'm not .
+	Free: Pattern=, I'm, Pattern=I
+	Constrained: Pattern=I'm
+Turn ID=62| A | B : Well , I mean , were there witnesses ?
+	Free: Pattern=I mean ,, Pattern=, I
+	Constrained: Pattern=I mean, Pattern=I, Pattern=mean
+Turn ID=63| B | M : I don't think so .
+	Free: Pattern=I, Pattern=think
+	Constrained: 
+Turn ID=64| A | B : Right . Right . That you can't , you can't remove the jury regardless of the case .
+	Free: Pattern=the jury, Pattern=Right ., Pattern=of the, Pattern=you
+	Constrained: Pattern=jury, Pattern=the, Pattern=of
+Turn ID=65| B | M : I know , I'm saying that you can
+	Free: Pattern=know ,, Pattern=you, Pattern=I, Pattern=can, Pattern=saying, Pattern=, I'm, Pattern=that
+	Constrained: Pattern=know, Pattern=I'm
+Turn ID=66| A | B : I mean you could have fifty people in audience watching a murder take place
+	Free: Pattern=you, Pattern=a, Pattern=in, Pattern=I mean, Pattern=people, Pattern=have
+	Constrained: Pattern=I, Pattern=mean
+Turn ID=67| B | M : I was thinking of a different scenario .
+	Free: Pattern=a different, Pattern=was, Pattern=I, Pattern=of
+	Constrained: Pattern=a, Pattern=different
+Turn ID=68| A | B : and you , you'd still , there's still mitigating circumstances
+	Free: Pattern=you ,
+	Constrained: Pattern=you
+Turn ID=69| B | M : There's only so many people you can watch in jury duty .
+	Free: Pattern=you, Pattern=There's, Pattern=can, Pattern=in, Pattern=jury, Pattern=people, Pattern=only
+	Constrained: 

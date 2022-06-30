@@ -1,0 +1,131 @@
+A|0| B: and _I_ heard something _the_ other day , this sounds ridiculous , _about_ mosquitoes . And _, you know ,_ they've _been_ saying oh , no , absolutely _not ._ Can't get _it_ from mosquitoes . And _, uh ,_ and now they _are_ saying well maybe in _the_ right conditions , yes . 
+B|1| M: You [know] him ? 
+A|2| B: That's okay . 
+B|3| M: Roasted beef ? 
+A|4| B: _I don't_ think necessarily _that_ , things _are_ being made better _uh _,_ you know ,_ 
+B|5| M: I've [been] _to_ Morocco . 
+A|6| B: _I_ float so _that_ _I have_ no benefits except higher pay for doing _that ._ 
+B|7| M: _Yeah _._ Yeah _._ Yeah_ 
+A|8| B: Okay . 
+B|9| M: _I know_ . 
+A|10| B: and _it was_ difficult _to hold_ them together . And then , of course , he died two years ago , so _, you know ,_ _that_ family has gone down [to] one brother and one sister now . 
+B|11| M: You [know] 
+A|12| B: Thank _you_ . 
+B|13| M: What [are] [you] on ? 
+A|14| B: They _got_ _that_ _, uh ,_ _what_ is _that_ safer soap _, uh ,_ B T spray this , year . 
+B|15| M: Uhuh . 
+A|16| B: Uh-huh [. Yeah .] And [are] they tested random ? 
+B|17| M: It's funny because he's [not .] 
+A|18| B: Uh-huh . 
+B|19| M: [I] . 
+A|20| B: Uh . 
+B|21| M: we've [got] 3 . 5 billion _people_ . 
+A|22| B: Like aluminum cans ? 
+B|23| M: _I'm_ going [to hold] [you] [to] [that .] 
+A|24| B: Most [people] [are] , [are] , retired or , or , or _, you know ,_ they're , they're in their forties or , or whatever . So and [I'm] in my twenties , so _I _,_ I'm_ _, I'm_ out more than they [are] _, but_ they're at home at night , 
+B|25| M: Yes [, I'm] sure [it was] . 
+A|26| B: Okay . Uh _what_ type of _, uh ,_ utilizations _do you_ make of [it] ? Word processing obviously . 
+B|27| M: [I don't] really [, but] [, uh _,] [I_ don't] _know what_ you're on _about ._ 
+A|28| B: [I] think those ought [to] be punished a whole lot worse than they [are] . 
+B|29| M: Do [you] [have] any experience with slab building ? 
+A|30| B: [Yeah] [, [I] [know] what] family home evening's all [about .] 
+B|31| M: What [do you] mean [, [I] have] [, [I] ,] I've [been] [to] [, you know ,] [the] moon . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and I heard something the other day , this sounds ridiculous , about mosquitoes . And , you know , they've been saying oh , no , absolutely not . Can't get it from mosquitoes . And , uh , and now they are saying well maybe in the right conditions , yes .
+	Free: Pattern=, you know ,, Pattern=it, Pattern=about, Pattern=not ., Pattern=, uh ,, Pattern=the, Pattern=been, Pattern=are, Pattern=I
+	Constrained: Pattern=uh ,, Pattern=you, Pattern=know
+Turn ID=1| B | M : You know him ?
+	Free: Pattern=know
+	Constrained: 
+Turn ID=2| A | B : That's okay .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : Roasted beef ?
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : I don't think necessarily that , things are being made better uh , you know ,
+	Free: Pattern=, you know ,, Pattern=are, Pattern=I don't, Pattern=uh ,, Pattern=that
+	Constrained: Pattern=I, Pattern=you, Pattern=know
+Turn ID=5| B | M : I've been to Morocco .
+	Free: Pattern=been, Pattern=to
+	Constrained: 
+Turn ID=6| A | B : I float so that I have no benefits except higher pay for doing that .
+	Free: Pattern=I have, Pattern=that ., Pattern=I, Pattern=that
+	Constrained: Pattern=I, Pattern=have, Pattern=that
+Turn ID=7| B | M : Yeah . Yeah . Yeah
+	Free: Pattern=. Yeah ., Pattern=Yeah ., Pattern=. Yeah
+	Constrained: Pattern=Yeah ., Pattern=. Yeah, Pattern=Yeah
+Turn ID=8| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : I know .
+	Free: Pattern=I know
+	Constrained: Pattern=I, Pattern=know
+Turn ID=10| A | B : and it was difficult to hold them together . And then , of course , he died two years ago , so , you know , that family has gone down to one brother and one sister now .
+	Free: Pattern=it was, Pattern=, you know ,, Pattern=to, Pattern=to hold, Pattern=that
+	Constrained: Pattern=it, Pattern=to, Pattern=you, Pattern=know
+Turn ID=11| B | M : You know
+	Free: Pattern=know
+	Constrained: 
+Turn ID=12| A | B : Thank you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=13| B | M : What are you on ?
+	Free: Pattern=you, Pattern=are
+	Constrained: 
+Turn ID=14| A | B : They got that , uh , what is that safer soap , uh , B T spray this , year .
+	Free: Pattern=, uh ,, Pattern=what, Pattern=that, Pattern=got
+	Constrained: Pattern=uh ,
+Turn ID=15| B | M : Uhuh .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : Uh-huh . Yeah . And are they tested random ?
+	Free: Pattern=. Yeah ., Pattern=are
+	Constrained: Pattern=Yeah ., Pattern=. Yeah, Pattern=Yeah
+Turn ID=17| B | M : It's funny because he's not .
+	Free: Pattern=not .
+	Constrained: 
+Turn ID=18| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : I .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=20| A | B : Uh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : we've got 3 . 5 billion people .
+	Free: Pattern=people, Pattern=got
+	Constrained: 
+Turn ID=22| A | B : Like aluminum cans ?
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : I'm going to hold you to that .
+	Free: Pattern=that ., Pattern=to, Pattern=to hold, Pattern=you, Pattern=I'm
+	Constrained: Pattern=to, Pattern=that
+Turn ID=24| A | B : Most people are , are , retired or , or , or , you know , they're , they're in their forties or , or whatever . So and I'm in my twenties , so I , I'm , I'm out more than they are , but they're at home at night ,
+	Free: Pattern=I ,, Pattern=people, Pattern=, you know ,, Pattern=are, Pattern=, I'm, Pattern=, but, Pattern=I'm
+	Constrained: Pattern=I'm, Pattern=I, Pattern=you, Pattern=know
+Turn ID=25| B | M : Yes , I'm sure it was .
+	Free: Pattern=it was, Pattern=, I'm
+	Constrained: Pattern=it, Pattern=I'm
+Turn ID=26| A | B : Okay . Uh what type of , uh , utilizations do you make of it ? Word processing obviously .
+	Free: Pattern=, uh ,, Pattern=do you, Pattern=it, Pattern=what
+	Constrained: Pattern=uh ,, Pattern=you
+Turn ID=27| B | M : I don't really , but , uh , I don't know what you're on about .
+	Free: Pattern=, but, Pattern=, I, Pattern=I don't, Pattern=know what, Pattern=about ., Pattern=, uh ,
+	Constrained: Pattern=what, Pattern=I, Pattern=about, Pattern=know, Pattern=uh ,
+Turn ID=28| A | B : I think those ought to be punished a whole lot worse than they are .
+	Free: Pattern=to, Pattern=I, Pattern=are
+	Constrained: 
+Turn ID=29| B | M : Do you have any experience with slab building ?
+	Free: Pattern=you, Pattern=have
+	Constrained: 
+Turn ID=30| A | B : Yeah , I know what family home evening's all about .
+	Free: Pattern=, I, Pattern=know what, Pattern=about ., Pattern=Yeah, Pattern=I know
+	Constrained: Pattern=I, Pattern=know, Pattern=what, Pattern=about
+Turn ID=31| B | M : What do you mean , I have , I , I've been to , you know , the moon .
+	Free: Pattern=I ,, Pattern=do you, Pattern=I have, Pattern=the, Pattern=to, Pattern=been, Pattern=, you know ,, Pattern=, I
+	Constrained: Pattern=have, Pattern=I, Pattern=you, Pattern=know

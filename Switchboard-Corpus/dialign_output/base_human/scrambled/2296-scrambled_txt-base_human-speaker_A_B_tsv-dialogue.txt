@@ -1,0 +1,203 @@
+A|0| A: _Yes_ . 
+B|1| B: _And_ stuff like _that_ _. And_ _so_ _, um ,_ 
+A|2| A: _Uh-huh ._ 
+B|3| B: _And_ _it _,_ it _,_ it _,_ it_ sits _right_ _at the_ limit , 
+A|4| A: _Yeah ._ As long _as_ Troy Aikman doesn't _get_ hurt again . That kind _of_ killed them [at the] end _of the_ season last year . 
+B|5| B: Okay . 
+A|6| A: [so] _I_ sort _, uh ,_ _been_ aware _of_ my dress ever since _then_ _and_ try _to_ look my best , 
+B|7| B: It's _, I_ , I'm , I'm probably [the] , one [of the] youngest people _that_ live over _here_ . 
+A|8| A: _Yeah [,_ it _,] and_ [it] if _you_ [, um ,] well , first [of] _all_ [I] take _about_ _a_ quarter _and_ _a_ half [of] milk _and_ [I] put [it] _in_ _a_ two quart saucepan _and_ _you_ put [it] on _a_ _really_ low heat . 
+B|9| B: [Yeah .] 
+A|10| A: _Yeah [,_ um] . 
+B|11| B: [Yeah] 
+A|12| A: _Uh-huh ._ 
+B|13| B: _But [,_ uh ,] 
+A|14| A: [Yeah .] 
+B|15| B: _Oh _,_ I_ see _. So_ , _do_ [you] ... 
+A|16| A: [Oh ,] _they_ [do] _, too [._ And] _they're_ impossible _to_ crush _. I mean_ _, you_ _can't get_ [the] down _to_ any size _, you_ _know_ . If [you] _get_ four milk cartons _and_ [that] fills _up_ trash bag _, you_ _know_ pretty easily _, so_ . You _know_ , 
+B|17| B: [Oh ,] yeah . 
+A|18| A: _but_ certainly not , 
+B|19| B: [Uh-huh .] Do [you] _have_ , [do] [you] _have_ [a] rotor tiller ? 
+A|20| A: _Oh , that's_ interesting . 
+B|21| B: [Uh-huh [.] I] was _just_ saying [that] way , _what_ [they're] saying _is_ [that] [they] [can't get] people [to] turn themselves [in] [then] [. And] [so] _, we_ _have to_ go through [a] trial [then] [to] prove [the] person's guilty . 
+A|22| A: [Oh] . 
+B|23| B: [And] [I] ended [up] getting one [that] [, uh ,] came _out_ _of a_ , [a] , [a] hunting stock _because I_ wanted one [that] could still perform like [a] retriever did . 
+A|24| A: [Oh] . 
+B|25| B: _Yes [,_ _it] is ._ Uh , unfortunately [I] need [all] _of it_ . 
+A|26| A: _I would_ imagine [it is .] 
+B|27| B: Five bedrooms . [Uh-huh .] 
+A|28| A: [Yes] . 
+B|29| B: yeah [, that's] [really] lovely [. [I] would] love [to] _have_ different fruit trees . It's , _it's_ [been] wonderful [to] _have_ [the] peaches . They're _just_ delicious [. And] _, we_ _, we_ _we_ _have_ , still _have to_ spray _some_ , [but] _we_ don't _have to_ _just_ asphyxiate ourself with [the] poison _, which_ [is] _good_ _, _because_ I_ _just_ _, I_ [can't] see [the] point [in] doing [that] [and] eating _anything_ _out_ _of it_ afterwards . 
+A|30| A: [Uh-huh .] 
+B|31| B: [Oh ,] [really] [, you] like [, uh [,] so] you're an American 
+A|32| A: _Well [,_ I] think [that's] [all] [I] [have to] say . 
+B|33| B: When [they] , when [they] switch [to] , switch , 
+A|34| A: _Yeah _,_ and_ [that's] lots [of] fun . 
+B|35| B: Have [a] _good_ , 
+A|36| A: _Well [,_ that's] [the] [good] thing _about_ [what] [is] happening [because I] think more [and] more [the] news media [, which] takes [a] heck [of a] beating [and] _, and_ deserves [some] [of [it] ,] [is] telling us [, you] _know_ , _about_ [the] problems [. So] [the] more [we] communicate , hey , look [, we] want [a] change [here] [, because] [, you] _know_ , _as_ [it] turns [out] , we've wasted [a] tremendous amount [of] money on our defense spending [in] this country . 
+B|37| B: [Oh [,] I] see . Huh . 
+A|38| A: [Oh] [it's] tough [, it] [really] [is .] 
+B|39| B: [Oh , that's] [good] [, too .] 
+A|40| A: [Yes ,] our first [and] _he_ [just] turned three months . 
+B|41| B: [Oh _,] right_ , now [we] [have] [a] kid [but] [he] was , no , completely against having [a] dog or cat , [he] said , [they're] much , [they're] [as] much work [as] [a] kid [, and] [they're] harder [to] [get] rid [of] for [the] weekend , [And] , 
+A|42| A: [But [,] you] _know_ [what] , if [you] , if [you] [get] [anything] under five hundred [you] [get] into [what] [they] call high density living [you] _know_ _, the_ big apartment complexes 
+B|43| B: Do , [do] [you] like [to] [do] [it] with other people [. I mean] like [the] [, the] jazzercise [would] be ? 
+A|44| A: Visit . 
+B|45| B: Good , [good] [, that's] great . [Yeah .] [Well ,] [good] luck . 
+A|46| A: Right [, right] . 
+B|47| B: [I] [, I] [just] [know] [that] [too] many horror stories [about] nursing homes [and] [so] , 
+A|48| A: [Oh] yes , 
+B|49| B: [Yeah ,] yeah . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yes .
+	Free: Pattern=Yes
+	Constrained: 
+Turn ID=1| B | B : And stuff like that . And so , um ,
+	Free: Pattern=And, Pattern=, um ,, Pattern=. And, Pattern=that, Pattern=so
+	Constrained: Pattern=, um, Pattern=And
+Turn ID=2| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=3| B | B : And it , it , it , it sits right at the limit ,
+	Free: Pattern=right, Pattern=And, Pattern=at the, Pattern=it ,, Pattern=, it, Pattern=, it ,
+	Constrained: Pattern=it ,, Pattern=, it, Pattern=the, Pattern=it
+Turn ID=4| A | A : Yeah . As long as Troy Aikman doesn't get hurt again . That kind of killed them at the end of the season last year .
+	Free: Pattern=Yeah ., Pattern=of, Pattern=as, Pattern=at the, Pattern=get, Pattern=of the
+	Constrained: Pattern=Yeah, Pattern=of, Pattern=the
+Turn ID=5| B | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : so I sort , uh , been aware of my dress ever since then and try to look my best ,
+	Free: Pattern=of, Pattern=then, Pattern=and, Pattern=I, Pattern=, uh ,, Pattern=to, Pattern=been, Pattern=so
+	Constrained: 
+Turn ID=7| B | B : It's , I , I'm , I'm probably the , one of the youngest people that live over here .
+	Free: Pattern=here, Pattern=, I, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=I, Pattern=the
+Turn ID=8| A | A : Yeah , it , and it if you , um , well , first of all I take about a quarter and a half of milk and I put it in a two quart saucepan and you put it on a really low heat .
+	Free: Pattern=, it ,, Pattern=of, Pattern=you, Pattern=, um ,, Pattern=a, Pattern=I, Pattern=about, Pattern=in, Pattern=really, Pattern=all, Pattern=Yeah ,, Pattern=, and, Pattern=it, Pattern=and
+	Constrained: Pattern=it ,, Pattern=Yeah, Pattern=, um, Pattern=, it, Pattern=it, Pattern=and
+Turn ID=9| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=10| A | A : Yeah , um .
+	Free: Pattern=Yeah ,, Pattern=, um
+	Constrained: Pattern=Yeah
+Turn ID=11| B | B : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=12| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=13| B | B : But , uh ,
+	Free: Pattern=, uh ,, Pattern=But ,
+	Constrained: 
+Turn ID=14| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=15| B | B : Oh , I see . So , do you ...
+	Free: Pattern=you, Pattern=Oh ,, Pattern=. So, Pattern=do, Pattern=, I
+	Constrained: Pattern=Oh, Pattern=I
+Turn ID=16| A | A : Oh , they do , too . And they're impossible to crush . I mean , you can't get the down to any size , you know . If you get four milk cartons and that fills up trash bag , you know pretty easily , so . You know ,
+	Free: Pattern=. I mean, Pattern=you, Pattern=can't get, Pattern=they, Pattern=do, Pattern=and, Pattern=they're, Pattern=Oh ,, Pattern=the, Pattern=. And, Pattern=, so, Pattern=get, Pattern=know, Pattern=, you, Pattern=up, Pattern=to, Pattern=that, Pattern=, too .
+	Constrained: Pattern=you, Pattern=And, Pattern=too, Pattern=I, Pattern=. I, Pattern=can't, Pattern=Oh, Pattern=get, Pattern=so
+Turn ID=17| B | B : Oh , yeah .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=18| A | A : but certainly not ,
+	Free: Pattern=but
+	Constrained: 
+Turn ID=19| B | B : Uh-huh . Do you have , do you have a rotor tiller ?
+	Free: Pattern=you, Pattern=have, Pattern=do, Pattern=Uh-huh ., Pattern=a
+	Constrained: 
+Turn ID=20| A | A : Oh , that's interesting .
+	Free: Pattern=Oh , that's
+	Constrained: Pattern=Oh ,, Pattern=, that's, Pattern=Oh, Pattern=that's
+Turn ID=21| B | B : Uh-huh . I was just saying that way , what they're saying is that they can't get people to turn themselves in then . And so , we have to go through a trial then to prove the person's guilty .
+	Free: Pattern=just, Pattern=can't get, Pattern=, we, Pattern=. I, Pattern=they're, Pattern=in, Pattern=is, Pattern=the, Pattern=have to, Pattern=. And, Pattern=to, Pattern=that, Pattern=so, Pattern=what, Pattern=they, Pattern=then, Pattern=Uh-huh ., Pattern=a
+	Constrained: Pattern=I, Pattern=we, Pattern=can't, Pattern=to, Pattern=get, Pattern=And, Pattern=have
+Turn ID=22| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=23| B | B : And I ended up getting one that , uh , came out of a , a , a hunting stock because I wanted one that could still perform like a retriever did .
+	Free: Pattern=out, Pattern=And, Pattern=a, Pattern=I, Pattern=up, Pattern=that, Pattern=because I, Pattern=of a, Pattern=, uh ,
+	Constrained: Pattern=I, Pattern=of, Pattern=a
+Turn ID=24| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=25| B | B : Yes , it is . Uh , unfortunately I need all of it .
+	Free: Pattern=, it, Pattern=I, Pattern=it is ., Pattern=Yes ,, Pattern=of it, Pattern=all
+	Constrained: Pattern=of, Pattern=is ., Pattern=it, Pattern=is, Pattern=Yes
+Turn ID=26| A | A : I would imagine it is .
+	Free: Pattern=it is ., Pattern=I would
+	Constrained: Pattern=is ., Pattern=it, Pattern=I, Pattern=is, Pattern=would
+Turn ID=27| B | B : Five bedrooms . Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=28| A | A : Yes .
+	Free: Pattern=Yes
+	Constrained: 
+Turn ID=29| B | B : yeah , that's really lovely . I would love to have different fruit trees . It's , it's been wonderful to have the peaches . They're just delicious . And , we , we we have , still have to spray some , but we don't have to just asphyxiate ourself with the poison , which is good , because I just , I can't see the point in doing that and eating anything out of it afterwards .
+	Free: Pattern=good, Pattern=out, Pattern=, I, Pattern=, which, Pattern=. I, Pattern=some, Pattern=in, Pattern=I would, Pattern=have to, Pattern=to, Pattern=been, Pattern=just, Pattern=have, Pattern=and, Pattern=, we, Pattern=, because, Pattern=is, Pattern=we, Pattern=really, Pattern=because I, Pattern=can't, Pattern=anything, Pattern=of it, Pattern=the, Pattern=, that's, Pattern=. And, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=of, Pattern=it, Pattern=I, Pattern=we, Pattern=that's, Pattern=would, Pattern=to, Pattern=And, Pattern=have
+Turn ID=30| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=31| B | B : Oh , really , you like , uh , so you're an American
+	Free: Pattern=, you, Pattern=Oh ,, Pattern=really, Pattern=, uh ,, Pattern=, so
+	Constrained: Pattern=you, Pattern=so, Pattern=Oh
+Turn ID=32| A | A : Well , I think that's all I have to say .
+	Free: Pattern=, I, Pattern=I, Pattern=Well ,, Pattern=have to, Pattern=that's, Pattern=all
+	Constrained: Pattern=have, Pattern=to, Pattern=I
+Turn ID=33| B | B : When they , when they switch to , switch ,
+	Free: Pattern=to, Pattern=they
+	Constrained: 
+Turn ID=34| A | A : Yeah , and that's lots of fun .
+	Free: Pattern=Yeah ,, Pattern=, and, Pattern=of, Pattern=that's
+	Constrained: Pattern=Yeah, Pattern=and
+Turn ID=35| B | B : Have a good ,
+	Free: Pattern=good, Pattern=a
+	Constrained: 
+Turn ID=36| A | A : Well , that's the good thing about what is happening because I think more and more the news media , which takes a heck of a beating and , and deserves some of it , is telling us , you know , about the problems . So the more we communicate , hey , look , we want a change here , because , you know , as it turns out , we've wasted a tremendous amount of money on our defense spending in this country .
+	Free: Pattern=good, Pattern=of, Pattern=out, Pattern=as, Pattern=a, Pattern=, which, Pattern=about, Pattern=some, Pattern=, that's, Pattern=, and, Pattern=. So, Pattern=here, Pattern=what, Pattern=it, Pattern=and, Pattern=, we, Pattern=Well ,, Pattern=in, Pattern=know, Pattern=, you, Pattern=, because, Pattern=is, Pattern=it ,, Pattern=we, Pattern=because I, Pattern=of a, Pattern=of it, Pattern=the
+	Constrained: Pattern=of, Pattern=you, Pattern=a, Pattern=I, Pattern=we, Pattern=that's, Pattern=it, Pattern=and
+Turn ID=37| B | B : Oh , I see . Huh .
+	Free: Pattern=Oh ,, Pattern=, I
+	Constrained: Pattern=Oh, Pattern=I
+Turn ID=38| A | A : Oh it's tough , it really is .
+	Free: Pattern=, it, Pattern=is ., Pattern=really, Pattern=Oh, Pattern=it's
+	Constrained: Pattern=it, Pattern=is
+Turn ID=39| B | B : Oh , that's good , too .
+	Free: Pattern=, too ., Pattern=Oh , that's, Pattern=good
+	Constrained: Pattern=too, Pattern=Oh ,, Pattern=that's, Pattern=, that's, Pattern=Oh
+Turn ID=40| A | A : Yes , our first and he just turned three months .
+	Free: Pattern=Yes ,, Pattern=he, Pattern=and, Pattern=just
+	Constrained: Pattern=Yes
+Turn ID=41| B | B : Oh , right , now we have a kid but he was , no , completely against having a dog or cat , he said , they're much , they're as much work as a kid , and they're harder to get rid of for the weekend , And ,
+	Free: Pattern=of, Pattern=a, Pattern=he, Pattern=they're, Pattern=Oh ,, Pattern=we, Pattern=get, Pattern=but, Pattern=as, Pattern=And, Pattern=have, Pattern=, right, Pattern=the, Pattern=, and, Pattern=to
+	Constrained: Pattern=Oh, Pattern=and, Pattern=right
+Turn ID=42| A | A : But , you know what , if you , if you get anything under five hundred you get into what they call high density living you know , the big apartment complexes
+	Free: Pattern=you, Pattern=anything, Pattern=But ,, Pattern=what, Pattern=they, Pattern=know, Pattern=, you, Pattern=get, Pattern=, the
+	Constrained: Pattern=you, Pattern=the
+Turn ID=43| B | B : Do , do you like to do it with other people . I mean like the , the jazzercise would be ?
+	Free: Pattern=. I mean, Pattern=you, Pattern=do, Pattern=it, Pattern=the, Pattern=would, Pattern=to, Pattern=, the
+	Constrained: Pattern=I, Pattern=the, Pattern=. I
+Turn ID=44| A | A : Visit .
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : Good , good , that's great . Yeah . Well , good luck .
+	Free: Pattern=, that's, Pattern=Yeah ., Pattern=Well ,, Pattern=good
+	Constrained: Pattern=Yeah, Pattern=that's
+Turn ID=46| A | A : Right , right .
+	Free: Pattern=, right
+	Constrained: Pattern=right
+Turn ID=47| B | B : I , I just know that too many horror stories about nursing homes and so ,
+	Free: Pattern=just, Pattern=, I, Pattern=I, Pattern=about, Pattern=know, Pattern=that, Pattern=so, Pattern=and, Pattern=too
+	Constrained: Pattern=I
+Turn ID=48| A | A : Oh yes ,
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=49| B | B : Yeah , yeah .
+	Free: Pattern=Yeah ,
+	Constrained: Pattern=Yeah

@@ -1,0 +1,239 @@
+B|0| M: What _do_ _you_ _think_ _is_ _the_ main reason _for_ _the_ current outbreak ? 
+A|1| B: Uh-huh . 
+B|2| M: That's _what_ _I_ was going _for_ . 
+A|3| B: Uh-huh . 
+B|4| M: It's funny _because_ he's _not ._ 
+A|5| B: Uh-huh . 
+B|6| M: _I_ _like_ _the_ way he says _it ._ 
+A|7| B: Huh . 
+B|8| M: He said _the_ same thing _to_ _the_ French _people_ _in_ Paris . 
+A|9| B: Yeah . _I'm_ , _I'm_ ambivalent about [it] _because ,_ um _, uh ,_ well [it] [is] _very_ frightening _and_ scary _. I_ _have_ no perspective on how [it] relates [to] _other_ diseases _, and_ _, uh _,_ I_ mean whether , 
+B|10| M:  ... 
+A|11| B: Yes . 
+B|12| M: So ? Is _that_ _why_ _you_ [have] less _money_ _than_ [other] _people_ ? 
+A|13| B: And _, uh ,_ whether those diseases _can_ some difference could _be_ made _if_ [you] _did_ pour more [money] [in] [like] diabetes _research_ 
+B|14| M:  ... [because [,] uh [,] uh] . 
+A|15| B: [uh] 
+B|16| M: Uhhhhhhhhhh . 
+A|17| B: didn't [, uh ,] [you] _know_ _, but_ [I] [, uh ,] then part _of_ _it's_ lack _of_ _education_ _. _I_ don't_ _know_ whether , whether , [you] _know_ , where our _money would_ _be_ most effectively spent . 
+B|18| M: [I don't] _think_ [it's] _the_ same [. _I] think_ _the_ [money would] go [to] [education] _, and the_ [money] goes [to] cancer [research] . 
+A|19| B: Uh-huh . 
+B|20| M: Uuh [, I] don'know [if] [it] [, uh _,] is_ still going _to be_ _the_ case . 
+A|21| B: And _I'm_ [, I] am concerned _a_ lot about [, uh ,] _I'm_ concerned about [, uh ,] two things . One [is] preventing [the] spread [and the] [other] [is] [for] [, uh ,] [for] [, uh ,] treating [the] illness . 
+B|22| M:  , 
+A|23| B: And _I'm not_ certain [, I] [, I] , again this , _I'm_ telling [you] , basically [I don't] [have] any opinion . 
+B|24| M: Uhh , you're [not] [very] good 
+A|25| B: But whether or [not] [it] [would] [be] [, uh ,] our [money would] [be] better spent [, uh ,] teaching , [you] _know_ , working on [the] drug problems [and the] [, and the] sex problems [, uh ,] rather [than] trying [to] cure [the] [people] [that] already _have it ._ 
+B|26| M:  
+A|27| B: Yeah , well , [you] _know_ , 
+B|28| M: _No_ [, and] 
+A|29| B: t- , whether my dentist or 
+B|30| M:  
+A|31| B: [and] [I] heard something [the] [other] day , this sounds ridiculous , about mosquitoes . And , [you] _know_ , they've been saying oh , no , absolutely [not .] Can't get [it] from mosquitoes . And [, uh [,] and] now they _are_ saying well maybe [in] [the] right conditions , _yes ._ 
+B|32| M: [yes .] 
+A|33| B: And [I don't] _know_ that's true or [not [.] I] mean [, I] just heard [it] [in] passing _, but_ so [what] does [that] , 
+B|34| M: [I don't] . 
+A|35| B: [what] does [that] mean [for] [people] [that] [you] _work with_ _and shake_ hands _with_ [and] 
+B|36| M: [I] [work with] him [and shake] his hand 
+A|37| B: Yeah . 
+B|38| M: It's [not] [a] virus . It's [a] virus . The same thing as [the] flu virus . 
+A|39| B: Uh-huh . 
+B|40| M: What's wrong [with] [that] ? 
+A|41| B: [No] . 
+B|42| M: So [did] [the] UN 
+A|43| B: Uh-huh . 
+B|44| M:  
+A|45| B: Oh . 
+B|46| M: You [know] . 
+A|47| B: [I think] maybe more information should [be] given out about [it .] 
+B|48| M: We _do_ [know] [that] [the] effects [of] [it] [are] [very] much different . 
+A|49| B: [I] [, I] , give me cyanide [. I] mean [, is] [it] )) , 
+B|50| M: It's [not .] 
+A|51| B: Uh-huh . 
+B|52| M: Well , yeah [, but] [if] [I] had [a] gun [, I] [would] still [have it .] 
+A|53| B: Ri- , _Exactly ._ 
+B|54| M: Are [you] sure [you] [are] dying ? 
+A|55| B: And [why] can't [you] , [why] can't [the] F D A say , [you] [know] , [if] these [people] knowingly consent [to be] , [research] monkeys [and] well , let them , 
+B|56| M: [I'm not] going [to] answer [that] question , you're [not] [the] same guy . 
+A|57| B: let them , _do it ._ 
+B|58| M: [Exactly .] It's [not] [like] they're [the] only ones who [can] [do it .] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : What do you think is the main reason for the current outbreak ?
+	Free: Pattern=you, Pattern=do, Pattern=for, Pattern=think, Pattern=is, Pattern=the
+	Constrained: 
+Turn ID=1| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : That's what I was going for .
+	Free: Pattern=what, Pattern=I, Pattern=for
+	Constrained: 
+Turn ID=3| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=4| B | M : It's funny because he's not .
+	Free: Pattern=not ., Pattern=because
+	Constrained: Pattern=not
+Turn ID=5| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : I like the way he says it .
+	Free: Pattern=it ., Pattern=I, Pattern=the, Pattern=like
+	Constrained: Pattern=it
+Turn ID=7| A | B : Huh .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : He said the same thing to the French people in Paris .
+	Free: Pattern=the, Pattern=people, Pattern=to, Pattern=in
+	Constrained: 
+Turn ID=9| A | B : Yeah . I'm , I'm ambivalent about it because , um , uh , well it is very frightening and scary . I have no perspective on how it relates to other diseases , and , uh , I mean whether ,
+	Free: Pattern=I'm, Pattern=have, Pattern=, I, Pattern=, uh ,, Pattern=because ,, Pattern=it, Pattern=and, Pattern=other, Pattern=. I, Pattern=very, Pattern=is, Pattern=, and, Pattern=to
+	Constrained: Pattern=because, Pattern=and, Pattern=I, Pattern=uh, Pattern=, uh
+Turn ID=10| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=11| A | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : So ? Is that why you have less money than other people ?
+	Free: Pattern=money, Pattern=you, Pattern=other, Pattern=than, Pattern=why, Pattern=that, Pattern=people, Pattern=have
+	Constrained: 
+Turn ID=13| A | B : And , uh , whether those diseases can some difference could be made if you did pour more money in like diabetes research
+	Free: Pattern=money, Pattern=you, Pattern=research, Pattern=did, Pattern=if, Pattern=can, Pattern=in, Pattern=like, Pattern=, uh ,, Pattern=be
+	Constrained: Pattern=, uh, Pattern=uh
+Turn ID=14| B | M :  ... because , uh , uh .
+	Free: Pattern=, uh ,, Pattern=, uh, Pattern=because ,
+	Constrained: Pattern=, uh, Pattern=uh, Pattern=because
+Turn ID=15| A | B : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=16| B | M : Uhhhhhhhhhh .
+	Free: 
+	Constrained: 
+Turn ID=17| A | B : didn't , uh , you know , but I , uh , then part of it's lack of education . I don't know whether , whether , you know , where our money would be most effectively spent .
+	Free: Pattern=of, Pattern=I, Pattern=. I, Pattern=I don't, Pattern=education, Pattern=know, Pattern=money would, Pattern=it's, Pattern=you, Pattern=, but, Pattern=, uh ,, Pattern=be
+	Constrained: Pattern=money, Pattern=I, Pattern=would, Pattern=uh, Pattern=, uh
+Turn ID=18| B | M : I don't think it's the same . I think the money would go to education , and the money goes to cancer research .
+	Free: Pattern=money, Pattern=research, Pattern=. I, Pattern=I don't, Pattern=education, Pattern=think, Pattern=I think, Pattern=to, Pattern=, and the, Pattern=it's, Pattern=money would, Pattern=the
+	Constrained: Pattern=money, Pattern=and the, Pattern=and, Pattern=I, Pattern=think, Pattern=the, Pattern=would, Pattern=, and
+Turn ID=19| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=20| B | M : Uuh , I don'know if it , uh , is still going to be the case .
+	Free: Pattern=, is, Pattern=, I, Pattern=it, Pattern=if, Pattern=, uh ,, Pattern=the, Pattern=to be
+	Constrained: Pattern=I, Pattern=is, Pattern=be, Pattern=to, Pattern=uh, Pattern=, uh
+Turn ID=21| A | B : And I'm , I am concerned a lot about , uh , I'm concerned about , uh , two things . One is preventing the spread and the other is for , uh , for , uh , treating the illness .
+	Free: Pattern=I'm, Pattern=other, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=, I, Pattern=a, Pattern=for, Pattern=and the
+	Constrained: Pattern=and, Pattern=I, Pattern=the, Pattern=uh, Pattern=, uh
+Turn ID=22| B | M :  ,
+	Free: 
+	Constrained: 
+Turn ID=23| A | B : And I'm not certain , I , I , again this , I'm telling you , basically I don't have any opinion .
+	Free: Pattern=have, Pattern=, I, Pattern=I don't, Pattern=I'm not, Pattern=you, Pattern=I'm
+	Constrained: Pattern=I, Pattern=not, Pattern=I'm
+Turn ID=24| B | M : Uhh , you're not very good
+	Free: Pattern=very, Pattern=not
+	Constrained: 
+Turn ID=25| A | B : But whether or not it would be , uh , our money would be better spent , uh , teaching , you know , working on the drug problems and the , and the sex problems , uh , rather than trying to cure the people that already have it .
+	Free: Pattern=you, Pattern=and the, Pattern=it, Pattern=than, Pattern=know, Pattern=would, Pattern=to, Pattern=, and the, Pattern=that, Pattern=not, Pattern=have it ., Pattern=people, Pattern=, uh ,, Pattern=be, Pattern=money would, Pattern=the
+	Constrained: Pattern=money, Pattern=have, Pattern=and the, Pattern=the, Pattern=would, Pattern=, and, Pattern=uh, Pattern=, uh, Pattern=it ., Pattern=it, Pattern=and
+Turn ID=26| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=27| A | B : Yeah , well , you know ,
+	Free: Pattern=you, Pattern=know
+	Constrained: 
+Turn ID=28| B | M : No , and
+	Free: Pattern=, and, Pattern=No
+	Constrained: Pattern=and
+Turn ID=29| A | B : t- , whether my dentist or
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=31| A | B : and I heard something the other day , this sounds ridiculous , about mosquitoes . And , you know , they've been saying oh , no , absolutely not . Can't get it from mosquitoes . And , uh , and now they are saying well maybe in the right conditions , yes .
+	Free: Pattern=you, Pattern=yes ., Pattern=other, Pattern=in, Pattern=know, Pattern=not ., Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=it, Pattern=and, Pattern=are, Pattern=I
+	Constrained: Pattern=uh, Pattern=, uh, Pattern=not, Pattern=and
+Turn ID=32| B | M : yes .
+	Free: Pattern=yes .
+	Constrained: 
+Turn ID=33| A | B : And I don't know that's true or not . I mean , I just heard it in passing , but so what does that ,
+	Free: Pattern=, but, Pattern=what, Pattern=, I, Pattern=it, Pattern=. I, Pattern=I don't, Pattern=in, Pattern=know, Pattern=not ., Pattern=that
+	Constrained: Pattern=I, Pattern=not
+Turn ID=34| B | M : I don't .
+	Free: Pattern=I don't
+	Constrained: Pattern=I
+Turn ID=35| A | B : what does that mean for people that you work with and shake hands with and
+	Free: Pattern=you, Pattern=people, Pattern=what, Pattern=for, Pattern=and, Pattern=work with, Pattern=and shake, Pattern=with, Pattern=that
+	Constrained: Pattern=with, Pattern=and
+Turn ID=36| B | M : I work with him and shake his hand
+	Free: Pattern=and shake, Pattern=work with, Pattern=I
+	Constrained: Pattern=with, Pattern=and
+Turn ID=37| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M : It's not a virus . It's a virus . The same thing as the flu virus .
+	Free: Pattern=not, Pattern=the, Pattern=a
+	Constrained: 
+Turn ID=39| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : What's wrong with that ?
+	Free: Pattern=with, Pattern=that
+	Constrained: 
+Turn ID=41| A | B : No .
+	Free: Pattern=No
+	Constrained: 
+Turn ID=42| B | M : So did the UN
+	Free: Pattern=did, Pattern=the
+	Constrained: 
+Turn ID=43| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=45| A | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=46| B | M : You know .
+	Free: Pattern=know
+	Constrained: 
+Turn ID=47| A | B : I think maybe more information should be given out about it .
+	Free: Pattern=I think, Pattern=it ., Pattern=be
+	Constrained: Pattern=think, Pattern=I, Pattern=it
+Turn ID=48| B | M : We do know that the effects of it are very much different .
+	Free: Pattern=of, Pattern=do, Pattern=it, Pattern=are, Pattern=know, Pattern=very, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=49| A | B : I , I , give me cyanide . I mean , is it )) ,
+	Free: Pattern=, is, Pattern=, I, Pattern=it, Pattern=I, Pattern=. I
+	Constrained: Pattern=I, Pattern=is
+Turn ID=50| B | M : It's not .
+	Free: Pattern=not .
+	Constrained: Pattern=not
+Turn ID=51| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=52| B | M : Well , yeah , but if I had a gun , I would still have it .
+	Free: Pattern=, but, Pattern=have it ., Pattern=would, Pattern=, I, Pattern=a, Pattern=I, Pattern=if
+	Constrained: Pattern=have, Pattern=it, Pattern=I, Pattern=it .
+Turn ID=53| A | B : Ri- , Exactly .
+	Free: Pattern=Exactly .
+	Constrained: 
+Turn ID=54| B | M : Are you sure you are dying ?
+	Free: Pattern=you, Pattern=are
+	Constrained: 
+Turn ID=55| A | B : And why can't you , why can't the F D A say , you know , if these people knowingly consent to be , research monkeys and well , let them ,
+	Free: Pattern=you, Pattern=people, Pattern=research, Pattern=and, Pattern=if, Pattern=know, Pattern=the, Pattern=why, Pattern=to be
+	Constrained: Pattern=be, Pattern=to
+Turn ID=56| B | M : I'm not going to answer that question , you're not the same guy .
+	Free: Pattern=the, Pattern=to, Pattern=I'm not, Pattern=that, Pattern=not
+	Constrained: Pattern=not, Pattern=I'm
+Turn ID=57| A | B : let them , do it .
+	Free: Pattern=do it .
+	Constrained: Pattern=it ., Pattern=it, Pattern=do
+Turn ID=58| B | M : Exactly . It's not like they're the only ones who can do it .
+	Free: Pattern=do it ., Pattern=Exactly ., Pattern=can, Pattern=like, Pattern=the, Pattern=not
+	Constrained: Pattern=it ., Pattern=it, Pattern=do

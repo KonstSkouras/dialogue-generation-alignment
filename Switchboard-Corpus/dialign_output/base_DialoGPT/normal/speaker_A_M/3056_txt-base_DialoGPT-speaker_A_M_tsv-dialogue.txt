@@ -1,0 +1,271 @@
+B|0| M: I'm _reading_ _a _book_ _,_ uh ,_ _about_ _the_ first world _war_ _, uh_ 
+A|1| A: Who wrote _that_ ? 
+B|2| M: _I think_ that's _the_ first time I've _read_ _a _book_ I_ haven't _read_ _in_ _a_ while . 
+A|3| A: Huh . 
+B|4| M:  ... 
+A|5| A: [I] see . 
+B|6| M:  
+A|7| A: Well , _that_ _is_ interesting . Right . 
+B|8| M: No . 
+A|9| A: That _is_ an intriguing type _of_ [book] to _be_ [reading] and trying to keep up on things _like_ _that ._ 
+B|10| M: He's _talking about_ _the book ._ 
+A|11| A: Uh-huh . 
+B|12| M: [I] don't _think_ _it's_ real . 
+A|13| A: And , _they_ have _not_ _made a_ _movie_ _of_ [the] week _of it_ yet . 
+B|14| M: They haven't even [made a] film _of it ._ 
+A|15| A: _Yeah_ . 
+B|16| M: Have _you_ seen _the movie_ ? 
+A|17| A: Uh . Explained , *listen; could _be_ br 
+B|18| M:  
+A|19| A: Supposedly scooped up by [the] triangle . 
+B|20| M:  
+A|21| A: _Yeah_ . 
+B|22| M: The'n' _we_ . [not] . [they] . [not] . 
+A|23| A: _Yeah_ . On _that_ same topic , have [you] ever [read] anything [about] _, you_ _know_ , [the] Amelia Earhart story , whatever happened with her ? 
+B|24| M:  
+A|25| A: [I] _, I think_ _that_ would _be_ _, I_ am _sure_ there _is_ something out there [, uh ,] , 
+B|26| M: i . 
+A|27| A: [I] thought she _was_ [a] prisoner [of] [war] or something for _like_ ten years . 
+B|28| M: _It's_ [a] bit [of] [a] shame [, I think] she's still alive . 
+A|29| A: Well whatever , this _is_ one aspect [of it .] 
+B|30| M: _Oh ,_ okay . 
+A|31| A: Of course _, you_ _know_ , [it] _is_ so weird , cause _no_ one will ever _really_ _know_ , [it's] , [it] , so but [it's] entertaining and [it] makes [you] [think] [about] things . 
+B|32| M: [I] don't [know] . 
+A|33| A: That _is_ for _sure_ . 
+B|34| M: _I like_ [it .] 
+A|35| A: _Yeah_ . 
+B|36| M: Wait _, what_ ? 
+A|37| A: Right . Well [, I] [, I] guess [I] just have [not] [read] [I] mean , usually [, I] just , if [I] find [a] good [book [,] I] will sit _, you_ [know] , for two days until [it] _is_ finished . If [it's] _that_ good , 
+B|38| M: [Yeah] [, _I] read_ . 
+A|39| A: and [I think] [the] last one [I read] [like] _that_ _was_ Scott Thurow's and _that_ _was_ PRESUMED INNOCENT . 
+B|40| M: It [was] 
+A|41| A: And [I] just _really_ , _really_ liked [the] _way_ he writes . [It's] just , incredible . 
+B|42| M: _I like_ [it .] 
+A|43| A: [Yeah] . 
+B|44| M: Did [you] [read] [it] ? 
+A|45| A: Uh . 
+B|46| M: [I read] [that .] 
+A|47| A: That [was] good [, I think] . And , and [the] other [book I] am trying to [think] _, you_ [know] , [like] _was in the_ last year and [I think] [I] did [read] Tom Wolfe and VANITY [, uh ,] 
+B|48| M: You . 
+A|49| A: BON yeah . 
+B|50| M: You're [the] best . 
+A|51| A: Uh . [Yeah] [I] , [that] [was] _really_ , _really_ good , [the movie] [was] nothing compared to [the book .] 
+B|52| M: There [is] [no] [way] [you] [read] _that [,_ you] should [be] ashamed . 
+A|53| A: And . [Yeah] . 
+B|54| M: He [was _in the] movie_ 
+A|55| A: [Oh ,] [the movie] [was] [a] joke compared to [, I] mean , because Tom Wolfe [is] so perceptive , when [it] comes to [, you] [know] , pinpointing [, uh ,] society's ills and , things [like] [that] and just nailing people to [the] wall and exposing things 
+B|56| M: [I think] he's _talking about_ [the movie] . 
+A|57| A: and , and so , [it] [was] , [it] [was] [a] much more intense [book] than [the] sort [of] flimflam [that] [they] cast off [in the movie] 
+B|58| M: I'm [not] [really] [sure] _what_ you're saying . 
+A|59| A: And , anyway , [we] are [not] [talking about] [that ,] but [, uh ,] gee [, I] just [I like] to [read] gardening books and things [like] [that .] Just to tell me [what] to _do_ with my garden and [, uh ,] And [, uh ,] 
+B|60| M: i , [do] . 
+A|61| A: [Yeah] . 
+B|62| M: I'm [reading] 
+A|63| A: Like [, what] [is] [a book] on your list [, you] [know] [I] have [a] list too and [I] have never gotten to [it] 
+B|64| M: You . 
+A|65| A: [Oh] . 
+B|66| M:  
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I'm reading a book , uh , about the first world war , uh
+	Free: Pattern=war, Pattern=, uh, Pattern=a book, Pattern=about, Pattern=reading, Pattern=, uh ,, Pattern=the, Pattern=book ,
+	Constrained: Pattern=book, Pattern=, uh, Pattern=a
+Turn ID=1| A | A : Who wrote that ?
+	Free: Pattern=that
+	Constrained: 
+Turn ID=2| B | M : I think that's the first time I've read a book I haven't read in a while .
+	Free: Pattern=I think, Pattern=the, Pattern=read, Pattern=a book, Pattern=a, Pattern=book I, Pattern=in
+	Constrained: Pattern=a, Pattern=book, Pattern=I, Pattern=think
+Turn ID=3| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=4| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : I see .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=6| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : Well , that is interesting . Right .
+	Free: Pattern=is, Pattern=that
+	Constrained: 
+Turn ID=8| B | M : No .
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : That is an intriguing type of book to be reading and trying to keep up on things like that .
+	Free: Pattern=book, Pattern=reading, Pattern=is, Pattern=like, Pattern=be, Pattern=of, Pattern=that .
+	Constrained: Pattern=that
+Turn ID=10| B | M : He's talking about the book .
+	Free: Pattern=the book ., Pattern=talking about
+	Constrained: Pattern=book, Pattern=the, Pattern=about
+Turn ID=11| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : I don't think it's real .
+	Free: Pattern=I, Pattern=think, Pattern=it's
+	Constrained: 
+Turn ID=13| A | A : And , they have not made a movie of the week of it yet .
+	Free: Pattern=of, Pattern=they, Pattern=movie, Pattern=made a, Pattern=not, Pattern=of it, Pattern=the
+	Constrained: Pattern=a, Pattern=of, Pattern=it
+Turn ID=14| B | M : They haven't even made a film of it .
+	Free: Pattern=of it ., Pattern=made a
+	Constrained: Pattern=of, Pattern=it ., Pattern=a, Pattern=it, Pattern=of it
+Turn ID=15| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=16| B | M : Have you seen the movie ?
+	Free: Pattern=the movie, Pattern=you
+	Constrained: Pattern=movie, Pattern=the
+Turn ID=17| A | A : Uh . Explained , *listen; could be br
+	Free: Pattern=be
+	Constrained: 
+Turn ID=18| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : Supposedly scooped up by the triangle .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=20| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=22| B | M : The'n' we . not . they . not .
+	Free: Pattern=not, Pattern=we, Pattern=they
+	Constrained: 
+Turn ID=23| A | A : Yeah . On that same topic , have you ever read anything about , you know , the Amelia Earhart story , whatever happened with her ?
+	Free: Pattern=you, Pattern=about, Pattern=the, Pattern=that, Pattern=know, Pattern=, you, Pattern=Yeah, Pattern=read
+	Constrained: Pattern=you
+Turn ID=24| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : I , I think that would be , I am sure there is something out there , uh , ,
+	Free: Pattern=, I, Pattern=I, Pattern=is, Pattern=that, Pattern=sure, Pattern=, uh ,, Pattern=, I think, Pattern=be
+	Constrained: Pattern=, uh, Pattern=, I, Pattern=I, Pattern=think, Pattern=I think
+Turn ID=26| B | M : i .
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : I thought she was a prisoner of war or something for like ten years .
+	Free: Pattern=of, Pattern=war, Pattern=a, Pattern=I, Pattern=like, Pattern=was
+	Constrained: 
+Turn ID=28| B | M : It's a bit of a shame , I think she's still alive .
+	Free: Pattern=, I think, Pattern=a, Pattern=It's, Pattern=of
+	Constrained: Pattern=I think, Pattern=, I, Pattern=I, Pattern=think
+Turn ID=29| A | A : Well whatever , this is one aspect of it .
+	Free: Pattern=of it ., Pattern=is
+	Constrained: Pattern=it ., Pattern=of it, Pattern=of, Pattern=it
+Turn ID=30| B | M : Oh , okay .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=31| A | A : Of course , you know , it is so weird , cause no one will ever really know , it's , it , so but it's entertaining and it makes you think about things .
+	Free: Pattern=you, Pattern=no, Pattern=it, Pattern=about, Pattern=think, Pattern=is, Pattern=really, Pattern=it's, Pattern=know, Pattern=, you
+	Constrained: Pattern=you
+Turn ID=32| B | M : I don't know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=33| A | A : That is for sure .
+	Free: Pattern=sure, Pattern=is
+	Constrained: 
+Turn ID=34| B | M : I like it .
+	Free: Pattern=it ., Pattern=I like
+	Constrained: Pattern=I, Pattern=it, Pattern=like
+Turn ID=35| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=36| B | M : Wait , what ?
+	Free: Pattern=, what
+	Constrained: Pattern=what
+Turn ID=37| A | A : Right . Well , I , I guess I just have not read I mean , usually , I just , if I find a good book , I will sit , you know , for two days until it is finished . If it's that good ,
+	Free: Pattern=it, Pattern=I, Pattern=is, Pattern=not, Pattern=, I, Pattern=a, Pattern=know, Pattern=, you, Pattern=read, Pattern=book ,, Pattern=that, Pattern=it's
+	Constrained: Pattern=you, Pattern=book, Pattern=I
+Turn ID=38| B | M : Yeah , I read .
+	Free: Pattern=, I, Pattern=I read, Pattern=Yeah
+	Constrained: Pattern=I, Pattern=read
+Turn ID=39| A | A : and I think the last one I read like that was Scott Thurow's and that was PRESUMED INNOCENT .
+	Free: Pattern=like, Pattern=I think, Pattern=the, Pattern=was, Pattern=that, Pattern=I read
+	Constrained: Pattern=I, Pattern=think, Pattern=read
+Turn ID=40| B | M : It was
+	Free: Pattern=was
+	Constrained: 
+Turn ID=41| A | A : And I just really , really liked the way he writes . It's just , incredible .
+	Free: Pattern=I, Pattern=really, Pattern=way, Pattern=It's, Pattern=the
+	Constrained: 
+Turn ID=42| B | M : I like it .
+	Free: Pattern=it ., Pattern=I like
+	Constrained: Pattern=I, Pattern=it, Pattern=like
+Turn ID=43| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=44| B | M : Did you read it ?
+	Free: Pattern=you, Pattern=it, Pattern=read
+	Constrained: 
+Turn ID=45| A | A : Uh .
+	Free: 
+	Constrained: 
+Turn ID=46| B | M : I read that .
+	Free: Pattern=that ., Pattern=I read
+	Constrained: Pattern=I, Pattern=read, Pattern=that
+Turn ID=47| A | A : That was good , I think . And , and the other book I am trying to think , you know , like was in the last year and I think I did read Tom Wolfe and VANITY , uh ,
+	Free: Pattern=was in the, Pattern=I, Pattern=like, Pattern=the, Pattern=book I, Pattern=think, Pattern=know, Pattern=, you, Pattern=I think, Pattern=, uh ,, Pattern=, I think, Pattern=read, Pattern=was
+	Constrained: Pattern=I, Pattern=I think, Pattern=the, Pattern=was, Pattern=you, Pattern=, uh, Pattern=, I, Pattern=book, Pattern=think, Pattern=in
+Turn ID=48| B | M : You .
+	Free: 
+	Constrained: 
+Turn ID=49| A | A : BON yeah .
+	Free: 
+	Constrained: 
+Turn ID=50| B | M : You're the best .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=51| A | A : Uh . Yeah I , that was really , really good , the movie was nothing compared to the book .
+	Free: Pattern=I, Pattern=really, Pattern=the book ., Pattern=the movie, Pattern=that, Pattern=Yeah, Pattern=was
+	Constrained: Pattern=movie, Pattern=book, Pattern=the
+Turn ID=52| B | M : There is no way you read that , you should be ashamed .
+	Free: Pattern=you, Pattern=no, Pattern=, you, Pattern=is, Pattern=be, Pattern=read, Pattern=that ,, Pattern=way
+	Constrained: Pattern=you, Pattern=that
+Turn ID=53| A | A : And . Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=54| B | M : He was in the movie
+	Free: Pattern=was in the, Pattern=in the movie
+	Constrained: Pattern=movie, Pattern=in, Pattern=the, Pattern=was, Pattern=the movie
+Turn ID=55| A | A : Oh , the movie was a joke compared to , I mean , because Tom Wolfe is so perceptive , when it comes to , you know , pinpointing , uh , society's ills and , things like that and just nailing people to the wall and exposing things
+	Free: Pattern=it, Pattern=like, Pattern=, uh ,, Pattern=the, Pattern=was, Pattern=the movie, Pattern=that, Pattern=, I, Pattern=a, Pattern=know, Pattern=, you, Pattern=Oh ,, Pattern=is
+	Constrained: Pattern=movie, Pattern=I, Pattern=the, Pattern=Oh, Pattern=you, Pattern=, uh
+Turn ID=56| B | M : I think he's talking about the movie .
+	Free: Pattern=talking about, Pattern=the movie, Pattern=I think
+	Constrained: Pattern=movie, Pattern=I, Pattern=about, Pattern=think, Pattern=the
+Turn ID=57| A | A : and , and so , it was , it was a much more intense book than the sort of flimflam that they cast off in the movie
+	Free: Pattern=of, Pattern=they, Pattern=it, Pattern=the, Pattern=in the movie, Pattern=was, Pattern=that, Pattern=a, Pattern=book
+	Constrained: Pattern=the movie, Pattern=in, Pattern=movie, Pattern=the
+Turn ID=58| B | M : I'm not really sure what you're saying .
+	Free: Pattern=not, Pattern=what, Pattern=really, Pattern=sure
+	Constrained: 
+Turn ID=59| A | A : And , anyway , we are not talking about that , but , uh , gee , I just I like to read gardening books and things like that . Just to tell me what to do with my garden and , uh , And , uh ,
+	Free: Pattern=what, Pattern=I like, Pattern=, uh ,, Pattern=read, Pattern=that ,, Pattern=not, Pattern=talking about, Pattern=that ., Pattern=do, Pattern=, I, Pattern=we, Pattern=like
+	Constrained: Pattern=, uh, Pattern=I, Pattern=about, Pattern=like, Pattern=that
+Turn ID=60| B | M : i , do .
+	Free: Pattern=do
+	Constrained: 
+Turn ID=61| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=62| B | M : I'm reading
+	Free: Pattern=reading
+	Constrained: 
+Turn ID=63| A | A : Like , what is a book on your list , you know I have a list too and I have never gotten to it
+	Free: Pattern=, what, Pattern=it, Pattern=I, Pattern=is, Pattern=a book, Pattern=a, Pattern=know, Pattern=, you
+	Constrained: Pattern=a, Pattern=what, Pattern=you, Pattern=book
+Turn ID=64| B | M : You .
+	Free: 
+	Constrained: 
+Turn ID=65| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=66| B | M : 
+	Free: 
+	Constrained: 

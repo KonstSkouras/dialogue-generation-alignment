@@ -1,0 +1,183 @@
+A|0| B: Right . 
+B|1| M: _not_ . 
+A|2| B: _Yeah_ , and _it_ was [not] only _in_ Mississippi _, in_ some other places , as well , 
+B|3| M: U _mean_ _, _you_ ,_ i _don't_ ?? 
+A|4| B: _I_ guess those _are the_ only places I've skied _up_ _there_ . 
+B|5| M: Is 
+A|6| B: _Well ,_ that's happened before . 
+B|7| M: [I] _don't_ _know ,_ why _would_ _you_ recommend [it] ? 
+A|8| B: _Yeah_ , _I think_ _it's_ _, it's_ somewhat _a_ _, uh ,_ symptom _of_ our , me generation and _that _,_ we_ _think_ _we_ need all these things and _I think_ my parents always [, you] [know ,] did without or saved _up_ to [, you] [know ,] _buy_ things and _we_ consider _that_ so many _of_ these things _we_ _just_ _have_ to _have_ [, you] [know ,] like when [I] first got my apartment and [I] was setting [it] _up_ [I] did try to economize some _but_ [, you] [know ,] [I] was _just_ like , well , _I have_ to _have_ [it] all furnished and _I have_ to _have_ all _of_ my kitchen setup and [you] [don't] [, you] [know ,] do without too much and [, you] [know ,] that's how [I] got started kind _of_ _with_ setting _up_ _a_ household all _up_ [, you] [know ,] [it] kind _of_ like _, _in_ the_ short amount _of_ time . _You know [,_ you] _just_ _have_ to _have_ these things _just_ [, you] [know ,] _have_ them at home , _have_ to _have_ them at my own place and that's [, you] [know ,] _a big_ expenditure to start , um , buying all these things _that_ [you] _think_ or , or _have_ to _have_ and actually _they're_ kind _of_ luxuries or [you] should save _up_ slowly and keep buying them and [not] _just_ rush out and furnish _the_ whole place [, you] [know ,] going _in_ _one_ _big_ swoop , save _up_ and then _buy _it_ ._ 
+B|9| M: They're , [they're] 
+A|10| B: And [I] , 
+B|11| M: They [are the] best . 
+A|12| B: Really . 
+B|13| M: [You] take any magazines ? 
+A|14| B: _Yeah_ , _just_ work , short trips . _No_ _no_ heavy mileage . _I'm_ putting on less than fifteen thousand miles _a_ year . 
+B|15| M: [Well [,] we] [know] what's [up] . 
+A|16| B: So _you can_ still get _a_ , get _a_ , _a_ good house _for_ _a very_ , _very_ reasonable price . And _I mean_ good , [I] [would] , let's say typical , say three bedroom _, uh ,_ two and _a_ half baths , on _a_ half acre or so _of_ land _uh ,_ reasonable construction [would] probably run [you _,] uh ,_ right now anywhere between , somewhere between _a_ hundred and _a_ hundred and forty thousand dollars . And probably , perhaps , cheaper , depending upon [the] neighborhood . 
+B|17| M: [I] [don't] [have] any experience [with] [that ,] [but] [I'm] sure [it's] something [you can] learn . 
+A|18| B: How _is_ your what _is_ your feeling about _uh_ _uh_ expressing yourself by burning [the] American flag ? 
+B|19| M: Mexico City [is] [the] worst [one] . 
+A|20| B: _Yeah_ 
+B|21| M:  ... 
+A|22| B: Flower Mound _, yeah ._ So , we're _a_ little [you] [know ,] farther removed from like Dallas and some _of_ [the] areas _where_ they probably [have] more _of_ [the] homeless and [that] type _of_ thing . 
+B|23| M: The weather [is] pretty cool . 
+A|24| B: Yours [is] _a_ slab [I] assume . 
+B|25| M: _It's_ [not] [a big] deal [, [you] can] [buy it] [in the] US . 
+A|26| B: [you] _just_ said _it ._ [It's] their right by freedom _of_ speech ? What does speech [have] to do [with] burning [a] flag ? 
+B|27| M: Yup [, we] [have] [a] few fish [that] [are] [, uh ,] pretty rare . 
+A|28| B: Right . 
+B|29| M: h , 
+A|30| B: Uh-huh . 
+B|31| M: [You know [,] in] [a] recent war . 
+A|32| B: And she's so easy going and so sociable , 
+B|33| M: [Well [,] we] [are] [a very] small country . 
+A|34| B: Uh , last year when they passed [the] tax laws _for_ [the] [, uh ,] nineteen ninety , ninety-one , whatever , nineteen ninety-one [uh ,] [I] added [up] all [the] taxes [that] [we] were going to pay on all these different specific luxury items and travel expenses and everything else , 
+B|35| M: _Yeah ._ [I think] [I] [know] [where] [you] live . 
+A|36| B: [Yeah .] [Yeah .] 
+B|37| M: [No] [, it's] [just] [a] bad solution . 
+A|38| B: _But_ [, uh ,] 
+B|39| M: Are [you] ok ? 
+A|40| B: Five bedrooms . Uh-huh . 
+B|41| M: [But] [I have] heard [that] [there] [are] [no] programs [for] [it .] 
+A|42| B: [But] she's [, uh ,] she's [that] sort _of_ strawberry blonde reddish color [, you] [know] . 
+B|43| M: Where [is] [the] West part [of] Florida ? 
+B|44| M: [I mean] [, uh [,] yeah .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=2| A | B : Yeah , and it was not only in Mississippi , in some other places , as well ,
+	Free: Pattern=it, Pattern=in, Pattern=, in, Pattern=Yeah, Pattern=not
+	Constrained: Pattern=in
+Turn ID=3| B | M : U mean , you , i don't ??
+	Free: Pattern=, you, Pattern=you ,, Pattern=don't, Pattern=mean
+	Constrained: Pattern=you
+Turn ID=4| A | B : I guess those are the only places I've skied up there .
+	Free: Pattern=are the, Pattern=up, Pattern=I, Pattern=there
+	Constrained: Pattern=the, Pattern=are
+Turn ID=5| B | M : Is
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : Well , that's happened before .
+	Free: Pattern=Well ,
+	Constrained: 
+Turn ID=7| B | M : I don't know , why would you recommend it ?
+	Free: Pattern=know ,, Pattern=you, Pattern=it, Pattern=I, Pattern=would, Pattern=don't
+	Constrained: Pattern=know
+Turn ID=8| A | B : Yeah , I think it's , it's somewhat a , uh , symptom of our , me generation and that , we think we need all these things and I think my parents always , you know , did without or saved up to , you know , buy things and we consider that so many of these things we just have to have , you know , like when I first got my apartment and I was setting it up I did try to economize some but , you know , I was just like , well , I have to have it all furnished and I have to have all of my kitchen setup and you don't , you know , do without too much and , you know , that's how I got started kind of with setting up a household all up , you know , it kind of like , in the short amount of time . You know , you just have to have these things just , you know , have them at home , have to have them at my own place and that's , you know , a big expenditure to start , um , buying all these things that you think or , or have to have and actually they're kind of luxuries or you should save up slowly and keep buying them and not just rush out and furnish the whole place , you know , going in one big swoop , save up and then buy it .
+	Free: Pattern=a, Pattern=buy, Pattern=, you, Pattern=we, Pattern=don't, Pattern=, in, Pattern=up, Pattern=Yeah, Pattern=that ,, Pattern=not, Pattern=of, Pattern=know ,, Pattern=you, Pattern=You know ,, Pattern=it ., Pattern=just, Pattern=have, Pattern=it, Pattern=, we, Pattern=one, Pattern=in the, Pattern=I, Pattern=, it's, Pattern=they're, Pattern=think, Pattern=in, Pattern=I have, Pattern=a big, Pattern=I think, Pattern=, uh ,, Pattern=the, Pattern=buy it, Pattern=big, Pattern=with, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=know ,, Pattern=have, Pattern=a, Pattern=buy, Pattern=it, Pattern=I, Pattern=know, Pattern=we, Pattern=You, Pattern=you, Pattern=uh, Pattern=think, Pattern=in, Pattern=uh ,, Pattern=big, Pattern=the, Pattern=that, Pattern=it's
+Turn ID=9| B | M : They're , they're
+	Free: Pattern=they're
+	Constrained: 
+Turn ID=10| A | B : And I ,
+	Free: Pattern=I
+	Constrained: 
+Turn ID=11| B | M : They are the best .
+	Free: Pattern=are the
+	Constrained: Pattern=the, Pattern=are
+Turn ID=12| A | B : Really .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : You take any magazines ?
+	Free: Pattern=You
+	Constrained: 
+Turn ID=14| A | B : Yeah , just work , short trips . No no heavy mileage . I'm putting on less than fifteen thousand miles a year .
+	Free: Pattern=I'm, Pattern=just, Pattern=no, Pattern=a, Pattern=No, Pattern=Yeah
+	Constrained: 
+Turn ID=15| B | M : Well , we know what's up .
+	Free: Pattern=Well ,, Pattern=, we, Pattern=know, Pattern=up
+	Constrained: Pattern=we
+Turn ID=16| A | B : So you can still get a , get a , a good house for a very , very reasonable price . And I mean good , I would , let's say typical , say three bedroom , uh , two and a half baths , on a half acre or so of land uh , reasonable construction would probably run you , uh , right now anywhere between , somewhere between a hundred and a hundred and forty thousand dollars . And probably , perhaps , cheaper , depending upon the neighborhood .
+	Free: Pattern=of, Pattern=a, Pattern=for, Pattern=I, Pattern=you can, Pattern=would, Pattern=you ,, Pattern=very, Pattern=a very, Pattern=, uh ,, Pattern=I mean, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=mean, Pattern=a, Pattern=I, Pattern=very, Pattern=uh ,, Pattern=you, Pattern=uh
+Turn ID=17| B | M : I don't have any experience with that , but I'm sure it's something you can learn .
+	Free: Pattern=I'm, Pattern=have, Pattern=I, Pattern=you can, Pattern=don't, Pattern=that ,, Pattern=with, Pattern=it's, Pattern=but
+	Constrained: Pattern=you, Pattern=that
+Turn ID=18| A | B : How is your what is your feeling about uh uh expressing yourself by burning the American flag ?
+	Free: Pattern=uh, Pattern=the, Pattern=is
+	Constrained: 
+Turn ID=19| B | M : Mexico City is the worst one .
+	Free: Pattern=the, Pattern=one, Pattern=is
+	Constrained: 
+Turn ID=20| A | B : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=21| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : Flower Mound , yeah . So , we're a little you know , farther removed from like Dallas and some of the areas where they probably have more of the homeless and that type of thing .
+	Free: Pattern=you, Pattern=have, Pattern=a, Pattern=, yeah ., Pattern=where, Pattern=the, Pattern=that, Pattern=of, Pattern=know ,
+	Constrained: Pattern=know
+Turn ID=23| B | M : The weather is pretty cool .
+	Free: Pattern=is
+	Constrained: 
+Turn ID=24| A | B : Yours is a slab I assume .
+	Free: Pattern=I, Pattern=a, Pattern=is
+	Constrained: 
+Turn ID=25| B | M : It's not a big deal , you can buy it in the US .
+	Free: Pattern=in the, Pattern=you can, Pattern=, you, Pattern=a big, Pattern=not, Pattern=buy it, Pattern=It's
+	Constrained: Pattern=you, Pattern=a, Pattern=buy, Pattern=it, Pattern=in, Pattern=big, Pattern=the
+Turn ID=26| A | B : you just said it . It's their right by freedom of speech ? What does speech have to do with burning a flag ?
+	Free: Pattern=of, Pattern=a, Pattern=It's, Pattern=with, Pattern=you, Pattern=it ., Pattern=just, Pattern=have
+	Constrained: Pattern=it
+Turn ID=27| B | M : Yup , we have a few fish that are , uh , pretty rare .
+	Free: Pattern=have, Pattern=a, Pattern=, we, Pattern=are, Pattern=, uh ,, Pattern=that
+	Constrained: Pattern=uh ,, Pattern=we, Pattern=uh
+Turn ID=28| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : h ,
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : You know , in a recent war .
+	Free: Pattern=You know ,, Pattern=, in, Pattern=a
+	Constrained: Pattern=know ,, Pattern=know, Pattern=in, Pattern=You
+Turn ID=32| A | B : And she's so easy going and so sociable ,
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : Well , we are a very small country .
+	Free: Pattern=Well ,, Pattern=a very, Pattern=, we, Pattern=are
+	Constrained: Pattern=we, Pattern=a, Pattern=very
+Turn ID=34| A | B : Uh , last year when they passed the tax laws for the , uh , nineteen ninety , ninety-one , whatever , nineteen ninety-one uh , I added up all the taxes that we were going to pay on all these different specific luxury items and travel expenses and everything else ,
+	Free: Pattern=for, Pattern=I, Pattern=we, Pattern=, uh ,, Pattern=up, Pattern=that, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=uh ,, Pattern=uh
+Turn ID=35| B | M : Yeah . I think I know where you live .
+	Free: Pattern=Yeah ., Pattern=you, Pattern=I, Pattern=I think, Pattern=where, Pattern=know
+	Constrained: Pattern=I, Pattern=Yeah, Pattern=think
+Turn ID=36| A | B : Yeah . Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=37| B | M : No , it's just a bad solution .
+	Free: Pattern=, it's, Pattern=just, Pattern=No, Pattern=a
+	Constrained: Pattern=it's
+Turn ID=38| A | B : But , uh ,
+	Free: Pattern=, uh ,, Pattern=But
+	Constrained: Pattern=uh ,, Pattern=uh
+Turn ID=39| B | M : Are you ok ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=40| A | B : Five bedrooms . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : But I have heard that there are no programs for it .
+	Free: Pattern=it ., Pattern=for, Pattern=are, Pattern=But, Pattern=I have, Pattern=that, Pattern=no, Pattern=there
+	Constrained: Pattern=I, Pattern=it, Pattern=have
+Turn ID=42| A | B : But she's , uh , she's that sort of strawberry blonde reddish color , you know .
+	Free: Pattern=of, Pattern=But, Pattern=, uh ,, Pattern=that, Pattern=know, Pattern=, you
+	Constrained: Pattern=uh ,, Pattern=you, Pattern=uh
+Turn ID=43| B | M : Where is the West part of Florida ?
+	Free: Pattern=of, Pattern=the, Pattern=is
+	Constrained: 
+Turn ID=44| B | M : I mean , uh , yeah .
+	Free: Pattern=, yeah ., Pattern=, uh ,, Pattern=I mean
+	Constrained: Pattern=uh, Pattern=I, Pattern=uh ,, Pattern=mean

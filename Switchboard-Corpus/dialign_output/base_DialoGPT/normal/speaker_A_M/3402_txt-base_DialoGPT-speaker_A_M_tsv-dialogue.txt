@@ -1,0 +1,143 @@
+B|0| M:  
+A|1| A: Right _, _right_ ._ 
+B|2| M:  . [right .] 
+A|3| A: Oh , yeah . Okay . 
+B|4| M: _It's_ not _a_ problem _, _it's_ a_ _way_ _to_ say _you_ _don't_ _have a_ problem . 
+A|5| A: _You_ think _that_ that's , uh , pretty adequate coverage and [you] _get_ . Uh-huh . [It's] historic events , huh . 
+B|6| M: What ? 
+A|7| A: Oh , okay . 
+B|8| M: _So ._ 
+A|9| A: Yes . 
+B|10| M: I'm sorry _, I don't_ [get] _it_ . 
+A|11| A: Yeah . 
+B|12| M: [you] might [get] _more thorough_ , umm , _from_ TV 
+A|13| A: Um [, I] found out too , _that_ , uh , quite often if [I] see something on television _that_ [I] want [more] in-depth , uh , understanding or , or [get] , want [to] _know_ [more] about [it] , _that_ _the_ , _the_ newspaper or , uh [, I] read NEWSWEEK , can give [you] [a] better and [more thorough] coverage of what I've heard on T V , but , uh , um [, I] found out _that_ also on , on T V _that_ [you] can scan through [a] whole lot of different things on C N N and , and _like_ [you] said , _the_ , _the_ _news_ shows _that_ are , _that_ are happening , and [you] can read some [more] about [it] if [you] want [to] . Um [, I] found out , though _that_ , or [I] feel _that_ [a] lot of _the_ stuff on T V and _the_ newspapers _is_ negative . There's an awful lot of negative _news_ or bad _news_ , or , or bad _news_ . And it'd be refreshing once _in_ [a] while [to] hear some good _news_ . 
+B|14| M:  ... 
+A|15| A: And , uh . 
+B|16| M:  
+A|17| A: Yes , _we_ do . 
+B|18| M: u . 
+A|19| A: True , true . 
+B|20| M: This [is] [the] only _time_ [in] history _that _we_ have_ had [news] [that] happened . 
+A|21| A: Uh-huh . I've heard an interesting comment also [that] , uh , with budget cuts and , uh , expenses [the] [way] _they_ are [that] [it's] affected [the] [news] media , whereas before _they_ would be able [to] [have a] in-depth analysis or , uh , investigative reporting , on certain topics and issues , but [that] takes [time] , [that] takes an awful lot of money and commitment , and , and quite often [it's a] lot easier [to] listen [to] [the] police scanners or what _they_ call ambulance chasing 
+B|22| M:  
+A|23| A: and go after _, you know [,_ it's] lot easy [to] go after and follow [a] fire department or [a] police officer , and , uh , find out [news] [from] [that] as opposed [to] going out and finding good things , so . [I don't] _know , I_ guess [the] economy [is] , [is] effecting also [the] [news] media 
+B|24| M:  .. 
+A|25| A: and [we have] [to] pay [that] price , but , uh [, I don't] _know [, I_ don't] _know ._ [It's] interesting , and [I] think [that] nowadays with communications [the] [way] _they_ are also , [that we] can see global events happening as , as _they_ occur all over [the] world , _like_ [the] , 
+B|26| M: It 
+A|27| A: Exactly . We saw , Yes _, you know ,_ twenty years ago , thirty years ago , [we] wouldn't [have] been able [to] [have] [that] privilege or , or luxury [to] , [to] view [that] . [So .] 
+B|28| M: This . 
+A|29| A: Oh , yes . 
+B|30| M: [You] [know , I] [know .] 
+A|31| A: Uh-huh . 
+B|32| M: There was [a] World Series [, right] ? 
+A|33| A: Oh , yeah . Yeah . 
+B|34| M: [You] mean [like] [, you know ,] when [they] were playing [in] [the] Coliseum ? 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : Right , right .
+	Free: Pattern=, right, Pattern=right .
+	Constrained: 
+Turn ID=2| B | M :  . right .
+	Free: Pattern=right .
+	Constrained: 
+Turn ID=3| A | A : Oh , yeah . Okay .
+	Free: 
+	Constrained: 
+Turn ID=4| B | M : It's not a problem , it's a way to say you don't have a problem .
+	Free: Pattern=it's a, Pattern=you, Pattern=have a, Pattern=a, Pattern=, it's, Pattern=It's, Pattern=don't, Pattern=to, Pattern=way
+	Constrained: Pattern=a, Pattern=it's, Pattern=have
+Turn ID=5| A | A : You think that that's , uh , pretty adequate coverage and you get . Uh-huh . It's historic events , huh .
+	Free: Pattern=you, Pattern=You, Pattern=It's, Pattern=get, Pattern=that
+	Constrained: 
+Turn ID=6| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : Oh , okay .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : So .
+	Free: Pattern=So .
+	Constrained: 
+Turn ID=9| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : I'm sorry , I don't get it .
+	Free: Pattern=, I don't, Pattern=it, Pattern=get
+	Constrained: Pattern=, I, Pattern=I don't, Pattern=I, Pattern=don't
+Turn ID=11| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : you might get more thorough , umm , from TV
+	Free: Pattern=more thorough, Pattern=you, Pattern=from, Pattern=get
+	Constrained: Pattern=more
+Turn ID=13| A | A : Um , I found out too , that , uh , quite often if I see something on television that I want more in-depth , uh , understanding or , or get , want to know more about it , that the , the newspaper or , uh , I read NEWSWEEK , can give you a better and more thorough coverage of what I've heard on T V , but , uh , um , I found out that also on , on T V that you can scan through a whole lot of different things on C N N and , and like you said , the , the news shows that are , that are happening , and you can read some more about it if you want to . Um , I found out , though that , or I feel that a lot of the stuff on T V and the newspapers is negative . There's an awful lot of negative news or bad news , or , or bad news . And it'd be refreshing once in a while to hear some good news .
+	Free: Pattern=more, Pattern=you, Pattern=it, Pattern=I, Pattern=in, Pattern=know, Pattern=is, Pattern=like, Pattern=the, Pattern=to, Pattern=, I, Pattern=a, Pattern=get, Pattern=news, Pattern=that, Pattern=more thorough
+	Constrained: Pattern=I, Pattern=more
+Turn ID=14| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : And , uh .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : Yes , we do .
+	Free: Pattern=we
+	Constrained: 
+Turn ID=18| B | M : u .
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : True , true .
+	Free: 
+	Constrained: 
+Turn ID=20| B | M : This is the only time in history that we have had news that happened .
+	Free: Pattern=time, Pattern=we have, Pattern=in, Pattern=is, Pattern=the, Pattern=that we, Pattern=news, Pattern=that
+	Constrained: Pattern=we, Pattern=have, Pattern=that
+Turn ID=21| A | A : Uh-huh . I've heard an interesting comment also that , uh , with budget cuts and , uh , expenses the way they are that it's affected the news media , whereas before they would be able to have a in-depth analysis or , uh , investigative reporting , on certain topics and issues , but that takes time , that takes an awful lot of money and commitment , and , and quite often it's a lot easier to listen to the police scanners or what they call ambulance chasing
+	Free: Pattern=time, Pattern=it's a, Pattern=the, Pattern=to, Pattern=news, Pattern=they, Pattern=have a, Pattern=that, Pattern=it's, Pattern=way
+	Constrained: Pattern=a, Pattern=it's, Pattern=have
+Turn ID=22| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : and go after , you know , it's lot easy to go after and follow a fire department or a police officer , and , uh , find out news from that as opposed to going out and finding good things , so . I don't know , I guess the economy is , is effecting also the news media
+	Free: Pattern=from, Pattern=is, Pattern=the, Pattern=know , I, Pattern=to, Pattern=news, Pattern=that, Pattern=, you know ,, Pattern=a, Pattern=I don't, Pattern=, it's
+	Constrained: Pattern=you, Pattern=, I, Pattern=I, Pattern=know, Pattern=don't, Pattern=it's
+Turn ID=24| B | M :  ..
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : and we have to pay that price , but , uh , I don't know , I don't know . It's interesting , and I think that nowadays with communications the way they are also , that we can see global events happening as , as they occur all over the world , like the ,
+	Free: Pattern=they, Pattern=I, Pattern=we have, Pattern=, I don't, Pattern=like, Pattern=know ., Pattern=know , I, Pattern=to, Pattern=that we, Pattern=It's, Pattern=the, Pattern=that, Pattern=way
+	Constrained: Pattern=have, Pattern=, I, Pattern=I, Pattern=I don't, Pattern=know, Pattern=we, Pattern=don't, Pattern=that
+Turn ID=26| B | M : It
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : Exactly . We saw , Yes , you know , twenty years ago , thirty years ago , we wouldn't have been able to have that privilege or , or luxury to , to view that . So .
+	Free: Pattern=have, Pattern=we, Pattern=to, Pattern=that, Pattern=So ., Pattern=, you know ,
+	Constrained: Pattern=you, Pattern=know
+Turn ID=28| B | M : This .
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : Oh , yes .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : You know , I know .
+	Free: Pattern=know , I, Pattern=know ., Pattern=You
+	Constrained: Pattern=, I, Pattern=I, Pattern=know
+Turn ID=31| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : There was a World Series , right ?
+	Free: Pattern=, right, Pattern=a
+	Constrained: 
+Turn ID=33| A | A : Oh , yeah . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : You mean like , you know , when they were playing in the Coliseum ?
+	Free: Pattern=they, Pattern=, you know ,, Pattern=in, Pattern=like, Pattern=You, Pattern=the
+	Constrained: Pattern=you, Pattern=know

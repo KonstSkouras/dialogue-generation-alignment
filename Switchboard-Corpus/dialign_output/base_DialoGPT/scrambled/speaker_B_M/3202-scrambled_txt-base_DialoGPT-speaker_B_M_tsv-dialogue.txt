@@ -1,0 +1,59 @@
+A|0| B: and _you_ _know_ , there's _a_ big move , especially _in_ _the_ industrial part _in_ Texas right now of controlling _the_ C F C that _the_ big manufacturing companies _are_ producing into _the_ air they're having to change _the_ type of products _they_ use 
+B|1| M: Why _do_ [you] hate [the] Packers ? 
+A|2| B: Well , uh , uh , smoking and all that stuff ? 
+B|3| M: Is it just me or is [the] second story on [the] left [a] bit high ? 
+A|4| B: Uh Uh , uh , although _I_ [do] , uh , [a] lot of , 
+B|5| M: [I] have [you] played ? 
+A|6| B: And everyone always asked if [the] girl got spoiled . 
+B|7| M: If [they] were not [in] jail , how did [they] [do] it ? 
+A|8| B: Uh-huh . 
+B|9| M: [I] don't . 
+A|10| B: Yeah . Well that's big up here because of [the] , [they] grow [a] lot of corn 
+B|11| M: What [are] your fathers'fathers ? 
+A|12| B: Right . 
+B|13| M: [I] [know] . [I] [know] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and you know , there's a big move , especially in the industrial part in Texas right now of controlling the C F C that the big manufacturing companies are producing into the air they're having to change the type of products they use
+	Free: Pattern=you, Pattern=they, Pattern=a, Pattern=are, Pattern=in, Pattern=know, Pattern=the
+	Constrained: 
+Turn ID=1| B | M : Why do you hate the Packers ?
+	Free: Pattern=you, Pattern=do, Pattern=the
+	Constrained: 
+Turn ID=2| A | B : Well , uh , uh , smoking and all that stuff ?
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : Is it just me or is the second story on the left a bit high ?
+	Free: Pattern=the, Pattern=a
+	Constrained: 
+Turn ID=4| A | B : Uh Uh , uh , although I do , uh , a lot of ,
+	Free: Pattern=do, Pattern=a, Pattern=I
+	Constrained: 
+Turn ID=5| B | M : I have you played ?
+	Free: Pattern=you, Pattern=I
+	Constrained: 
+Turn ID=6| A | B : And everyone always asked if the girl got spoiled .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=7| B | M : If they were not in jail , how did they do it ?
+	Free: Pattern=do, Pattern=in, Pattern=they
+	Constrained: 
+Turn ID=8| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : I don't .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=10| A | B : Yeah . Well that's big up here because of the , they grow a lot of corn
+	Free: Pattern=the, Pattern=a, Pattern=they
+	Constrained: 
+Turn ID=11| B | M : What are your fathers'fathers ?
+	Free: Pattern=are
+	Constrained: 
+Turn ID=12| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : I know . I know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 

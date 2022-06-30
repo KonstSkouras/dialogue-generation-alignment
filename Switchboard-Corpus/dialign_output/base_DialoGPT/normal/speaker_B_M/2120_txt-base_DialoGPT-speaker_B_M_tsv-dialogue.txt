@@ -1,0 +1,59 @@
+B|0| M: Uhhh , look at _that_ . 
+A|1| B: Uh-huh . 
+B|2| M: Uhh _, you know ,_ _we_ , uh , 
+A|3| B: Yeah _, I _,_ I ,_ yeah _, I _,_ I _,_ I_ truly believe [that] , [that] before [that] , [that] _we have_ to address _the_ racial , racial issues in _the_ United States , before [we] can go anywhere . 
+B|4| M: [I] [have] [, I ,] uhhhuhuhuh , [we have] , [we] , [we] 
+A|5| B: Um , because it is so [, you know ,] _it's_ , 
+B|6| M: Because [it's] 
+A|7| B: Hello . 
+B|8| M: You are _not_ [the] first . 
+A|9| B: Yeah , well it wasn't [the] matter of wealth , it was [the] matter [that] they were [not] wealthy , [that] made them equal . 
+B|10| M: You can't be both . 
+A|11| B: _Well , I'll_ talk to [you] later , 
+B|12| M: Oh . [Well , I'll] see [you] then . 
+A|13| B: Okay . Bye-bye . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : Uhhh , look at that .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=1| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : Uhh , you know , we , uh ,
+	Free: Pattern=, you know ,, Pattern=we
+	Constrained: Pattern=you
+Turn ID=3| A | B : Yeah , I , I , yeah , I , I , I truly believe that , that before that , that we have to address the racial , racial issues in the United States , before we can go anywhere .
+	Free: Pattern=, I, Pattern=, I ,, Pattern=we have, Pattern=we, Pattern=the, Pattern=that
+	Constrained: Pattern=have, Pattern=, I, Pattern=I, Pattern=we
+Turn ID=4| B | M : I have , I , uhhhuhuhuh , we have , we , we
+	Free: Pattern=have, Pattern=, I ,, Pattern=I, Pattern=we have, Pattern=we
+	Constrained: Pattern=have, Pattern=, I, Pattern=I, Pattern=we
+Turn ID=5| A | B : Um , because it is so , you know , it's ,
+	Free: Pattern=, you know ,, Pattern=it's
+	Constrained: Pattern=you
+Turn ID=6| B | M : Because it's
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=7| A | B : Hello .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : You are not the first .
+	Free: Pattern=the, Pattern=not
+	Constrained: 
+Turn ID=9| A | B : Yeah , well it wasn't the matter of wealth , it was the matter that they were not wealthy , that made them equal .
+	Free: Pattern=the, Pattern=that, Pattern=not
+	Constrained: 
+Turn ID=10| B | M : You can't be both .
+	Free: 
+	Constrained: 
+Turn ID=11| A | B : Well , I'll talk to you later ,
+	Free: Pattern=Well , I'll, Pattern=you
+	Constrained: 
+Turn ID=12| B | M : Oh . Well , I'll see you then .
+	Free: Pattern=Well , I'll, Pattern=you
+	Constrained: 
+Turn ID=13| A | B : Okay . Bye-bye .
+	Free: 
+	Constrained: 

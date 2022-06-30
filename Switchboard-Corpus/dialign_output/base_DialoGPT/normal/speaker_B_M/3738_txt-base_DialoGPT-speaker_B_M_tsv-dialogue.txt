@@ -1,0 +1,131 @@
+A|0| B: You bet . 
+B|1| M: I'm ready 
+A|2| B: I'll let _you_ _lead_ out . 
+B|3| M: _Oh_ . Alright . 
+A|4| B: I'll let _you_ _lead_ out . 
+B|5| M: _I don't_ _have_ anything _to_ [lead] [you] . 
+A|6| B: [I] _think_ one of the things that's interesting [to] me _is_ if [you] look particularly at the political changes _is_ that the , they seem [to] be social , they seem [to] be economically driven also . 
+B|7| M: Theylol 
+A|8| B: So if [you] look at Russia and what's happened over there , [I] _think_ the change in Communism was as a result of the economic problems that they were experiencing . And , of course , [I] look at the economic problems in the United States right now . One of the things [you] wonder _is_ _what_ that's going [to] _do_ [to] us . 
+B|9| M:  _, yeah_ ? yes 
+A|10| B: [I] _think_ the other kind of changes _like_ job changes and those kinds of things , [I] mean , [I] _think_ it's great [to] even [have] three _or_ four different careers in your life . 
+B|11| M: What [do] _you're_ [what] 
+A|12| B: [I] _think it_ must [have] been terribly boring [to] go through , your life doing just one thing for fifty _years_ _or_ forty _years_ . 
+B|13| M: 50 [years] 
+A|14| B: Some of that opportunity for job change in the fact that , that aspects changing . 
+B|15| M: It's pretty _hard_ [to] _not_ feel [like] you've accomplished something 
+A|16| B: And the uncertainty of whether [you're] going [to] [have] a job _is_ [not] as _good_ , but , the fact that [you] really can make major changes in your life and jobs . 
+B|17| M: That's true . 
+A|18| B: [I] _think_ it's great . 
+B|19| M: Do [you] [think it] [is] [good] [or] [not] ? 
+A|20| B: [Oh] [, yeah] . 
+B|21| M: It's [good] . 
+A|22| B: [I] [think] one of the problems with , with education as [it] relates [to] this , though , [is] that [I don't] know that education [is] prepared [to] help people make those changes . It just seems a lot of the training and education that goes on [is] gearing people towards a profession and [not] giving them the skills and whatever those skills _are_ necessary [to] make those job changes , which [I] [think] [is] going [to] be a [hard] thing for , for people [to] face . 
+B|23| M:  
+A|24| B: Yeah . 
+B|25| M:  
+A|26| B: There probably needs [to] be some training on how [to] , [to] , [to] adjust [to] these changes as they come about . [I] mean if [you] look at the , the high unemployment rate right now and [you] look at people who _are_ in those situations , [I don't] know that they [have] [good] coping skills [or] a lot of them , even ideas of how [to] make those changes now . 
+B|27| M:  . 
+A|28| B: So [it] seems [to] me that while those changes _are_ taking place _, maybe_ we're [not] well preparing people [to] make the changes with them . 
+B|29| M: [I] [have] [, maybe] 
+A|30| B: Uh-huh . 
+B|31| M: What [are] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : You bet .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I'm ready
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : I'll let you lead out .
+	Free: Pattern=lead, Pattern=you
+	Constrained: 
+Turn ID=3| B | M : Oh . Alright .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=4| A | B : I'll let you lead out .
+	Free: Pattern=lead, Pattern=you
+	Constrained: 
+Turn ID=5| B | M : I don't have anything to lead you .
+	Free: Pattern=you, Pattern=have, Pattern=I don't, Pattern=lead, Pattern=to
+	Constrained: Pattern=I
+Turn ID=6| A | B : I think one of the things that's interesting to me is if you look particularly at the political changes is that the , they seem to be social , they seem to be economically driven also .
+	Free: Pattern=you, Pattern=I, Pattern=think, Pattern=is, Pattern=to
+	Constrained: 
+Turn ID=7| B | M : Theylol
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : So if you look at Russia and what's happened over there , I think the change in Communism was as a result of the economic problems that they were experiencing . And , of course , I look at the economic problems in the United States right now . One of the things you wonder is what that's going to do to us .
+	Free: Pattern=you, Pattern=what, Pattern=do, Pattern=I, Pattern=think, Pattern=is, Pattern=to
+	Constrained: 
+Turn ID=9| B | M :  , yeah ? yes
+	Free: Pattern=, yeah
+	Constrained: 
+Turn ID=10| A | B : I think the other kind of changes like job changes and those kinds of things , I mean , I think it's great to even have three or four different careers in your life .
+	Free: Pattern=have, Pattern=I, Pattern=think, Pattern=like, Pattern=or, Pattern=to
+	Constrained: 
+Turn ID=11| B | M : What do you're what
+	Free: Pattern=what, Pattern=you're, Pattern=do
+	Constrained: 
+Turn ID=12| A | B : I think it must have been terribly boring to go through , your life doing just one thing for fifty years or forty years .
+	Free: Pattern=have, Pattern=years, Pattern=I, Pattern=or, Pattern=to, Pattern=think it
+	Constrained: Pattern=it, Pattern=think
+Turn ID=13| B | M : 50 years
+	Free: Pattern=years
+	Constrained: 
+Turn ID=14| A | B : Some of that opportunity for job change in the fact that , that aspects changing .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : It's pretty hard to not feel like you've accomplished something
+	Free: Pattern=hard, Pattern=not, Pattern=to, Pattern=like
+	Constrained: 
+Turn ID=16| A | B : And the uncertainty of whether you're going to have a job is not as good , but , the fact that you really can make major changes in your life and jobs .
+	Free: Pattern=good, Pattern=you're, Pattern=you, Pattern=have, Pattern=is, Pattern=to, Pattern=not
+	Constrained: 
+Turn ID=17| B | M : That's true .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : I think it's great .
+	Free: Pattern=think, Pattern=I
+	Constrained: 
+Turn ID=19| B | M : Do you think it is good or not ?
+	Free: Pattern=good, Pattern=you, Pattern=is, Pattern=or, Pattern=think it, Pattern=not
+	Constrained: Pattern=it, Pattern=think
+Turn ID=20| A | B : Oh , yeah .
+	Free: Pattern=, yeah, Pattern=Oh
+	Constrained: 
+Turn ID=21| B | M : It's good .
+	Free: Pattern=good
+	Constrained: 
+Turn ID=22| A | B : I think one of the problems with , with education as it relates to this , though , is that I don't know that education is prepared to help people make those changes . It just seems a lot of the training and education that goes on is gearing people towards a profession and not giving them the skills and whatever those skills are necessary to make those job changes , which I think is going to be a hard thing for , for people to face .
+	Free: Pattern=it, Pattern=I don't, Pattern=think, Pattern=is, Pattern=hard, Pattern=to, Pattern=not, Pattern=are, Pattern=I
+	Constrained: Pattern=I
+Turn ID=23| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : There probably needs to be some training on how to , to , to adjust to these changes as they come about . I mean if you look at the , the high unemployment rate right now and you look at people who are in those situations , I don't know that they have good coping skills or a lot of them , even ideas of how to make those changes now .
+	Free: Pattern=good, Pattern=you, Pattern=have, Pattern=I don't, Pattern=or, Pattern=to, Pattern=are, Pattern=I
+	Constrained: Pattern=I
+Turn ID=27| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : So it seems to me that while those changes are taking place , maybe we're not well preparing people to make the changes with them .
+	Free: Pattern=, maybe, Pattern=it, Pattern=are, Pattern=to, Pattern=not
+	Constrained: 
+Turn ID=29| B | M : I have , maybe
+	Free: Pattern=, maybe, Pattern=have, Pattern=I
+	Constrained: 
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : What are
+	Free: Pattern=are
+	Constrained: 

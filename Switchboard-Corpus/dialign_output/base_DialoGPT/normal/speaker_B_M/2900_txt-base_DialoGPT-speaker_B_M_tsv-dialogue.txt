@@ -1,0 +1,171 @@
+A|0| B: Oh , definitely . 
+B|1| M: It . 
+A|2| B: Right . Yeah , yeah . 
+B|3| M: I'm sorry 
+A|4| B: Yeah . Yeah , yeah . 
+B|5| M: They _don't_ really . 
+A|6| B: Yeah , _that_ sounds _like_ _a_ good idea . My only concern is what happens _when you_ turn things over _to_ _the_ government _, I_ [don't] _know_ 
+B|7| M: _I mean [,_ I] can't imagine [that] _many people_ _would_ actually _be_ upset about _this_ . 
+A|8| B: Do _they_ wind up with more red tape , and more problems then ? Yeah , yeah . 
+B|9| M: I'm pretty sure _they have_ , but [I] don t [know] . 
+A|10| B: Uh-huh . 
+B|11| M: It's [a] lot easier [to] make [a] lot _of_ _money_ [when you] _don't have_ [to] do anything . 
+A|12| B: Oh . 
+B|13| M: _Well ,_ _if_ _you go through_ [the] rest _of_ Europe you'll find [a] lot _of_ them . 
+A|14| B: Yeah . 
+B|15| M: It's interesting [that] [you] can tell [when] _people_ are being sarcastic . 
+A|16| B: Wow . 
+B|17| M: You can _be a_ medic _if_ [you] _have_ [a] heart attack . 
+A|18| B: Yeah . [Well [,] _I] think_ part _of the_ , [the] tremendous benefit _of that_ is [that] there's so [many people] who wait now because [they] [don't _have] the_ [money] , until _, you_ [know] , [they have] no preventative measures People , um _, you_ [know] , _just_ [go] on and on and on _. [I_ mean ,] so [many people] [don't] _even_ get prenatal care or , and _it_ _just_ extends with [if] _it_ , what [would] [be a] minor _problem_ [to] deal with [if] [they] had [a] help available early on becomes _just_ [this] horrendous _, you_ [know] , burden on [the] taxpayers . They're saying now [that] one out [of] every ten child born _in_ public hospitals is addicted [to] crack . 
+B|19| M:  
+A|20| B: [Well _,] you_ [know] 
+B|21| M:  ... 
+A|22| B: Uh-huh . 
+B|23| M: Why 
+A|24| B: Yeah . 
+B|25| M: You [mean ,] [like] [, you] [just] 
+A|26| B: Yeah , yeah . 
+B|27| M: The young [people] are robbing 
+A|28| B: Oh , it's unbelievable how much [you go through] . When [I] [just] had [a] _problem_ with my neck and [they] ended up doing [a] seven hundred dollar CAT scan , and [, [I] mean ,] [a] chiropractor got _it_ _in_ one time 
+B|29| M:  
+A|30| B: _it _was_ _just_ strange ._ 
+B|31| M: It's [just strange .] 
+A|32| B: Oh , well , [that] should help . 
+B|33| M: i [have the] [problem] [of the] cat being [in] [the] same room 
+A|34| B: Yeah 
+B|35| M: I'm not sure [. [I] think] [it was] [a] joke . 
+A|36| B: Oh _I see_ Oh , gosh . 
+B|37| M: I've never heard [of that] [, I] [was just] thinking about [it] . 
+A|38| B: Okay , well 
+B|39| M: I'm not [even] sure . 
+A|40| B: Okay , thank [you] . Bye-bye 
+B|41| M: [I see] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Oh , definitely .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : It .
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : Right . Yeah , yeah .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : I'm sorry
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : Yeah . Yeah , yeah .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : They don't really .
+	Free: Pattern=don't
+	Constrained: 
+Turn ID=6| A | B : Yeah , that sounds like a good idea . My only concern is what happens when you turn things over to the government , I don't know
+	Free: Pattern=when you, Pattern=know, Pattern=like, Pattern=the, Pattern=don't, Pattern=to, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=you, Pattern=when
+Turn ID=7| B | M : I mean , I can't imagine that many people would actually be upset about this .
+	Free: Pattern=many people, Pattern=, I, Pattern=would, Pattern=this, Pattern=that, Pattern=I mean ,, Pattern=be
+	Constrained: Pattern=mean ,, Pattern=I, Pattern=people
+Turn ID=8| A | B : Do they wind up with more red tape , and more problems then ? Yeah , yeah .
+	Free: Pattern=they
+	Constrained: 
+Turn ID=9| B | M : I'm pretty sure they have , but I don t know .
+	Free: Pattern=they have, Pattern=know, Pattern=I
+	Constrained: Pattern=they, Pattern=have
+Turn ID=10| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : It's a lot easier to make a lot of money when you don't have to do anything .
+	Free: Pattern=a, Pattern=when you, Pattern=don't have, Pattern=to, Pattern=of, Pattern=money
+	Constrained: Pattern=don't, Pattern=you, Pattern=when, Pattern=have
+Turn ID=12| A | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Well , if you go through the rest of Europe you'll find a lot of them .
+	Free: Pattern=a, Pattern=if, Pattern=Well ,, Pattern=the, Pattern=you go through, Pattern=of
+	Constrained: Pattern=you, Pattern=go
+Turn ID=14| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : It's interesting that you can tell when people are being sarcastic .
+	Free: Pattern=that, Pattern=people, Pattern=you, Pattern=when
+	Constrained: 
+Turn ID=16| A | B : Wow .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : You can be a medic if you have a heart attack .
+	Free: Pattern=you, Pattern=have, Pattern=a, Pattern=if, Pattern=be a
+	Constrained: Pattern=be, Pattern=a
+Turn ID=18| A | B : Yeah . Well , I think part of the , the tremendous benefit of that is that there's so many people who wait now because they don't have the money , until , you know , they have no preventative measures People , um , you know , just go on and on and on . I mean , so many people don't even get prenatal care or , and it just extends with if it , what would be a minor problem to deal with if they had a help available early on becomes just this horrendous , you know , burden on the taxpayers . They're saying now that one out of every ten child born in public hospitals is addicted to crack .
+	Free: Pattern=it, Pattern=if, Pattern=. I, Pattern=don't have, Pattern=the, Pattern=to, Pattern=this, Pattern=problem, Pattern=of, Pattern=money, Pattern=have the, Pattern=many people, Pattern=just, Pattern=they have, Pattern=go, Pattern=of that, Pattern=even, Pattern=they, Pattern=, I, Pattern=a, Pattern=Well ,, Pattern=in, Pattern=know, Pattern=be a, Pattern=, you, Pattern=I think, Pattern=I mean ,, Pattern=would, Pattern=don't, Pattern=of the, Pattern=that
+	Constrained: Pattern=you, Pattern=they, Pattern=a, Pattern=I, Pattern=be, Pattern=the, Pattern=don't, Pattern=that, Pattern=of, Pattern=mean ,, Pattern=people, Pattern=have
+Turn ID=19| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : Well , you know
+	Free: Pattern=, you, Pattern=Well ,, Pattern=know
+	Constrained: Pattern=you
+Turn ID=21| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : Why
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : You mean , like , you just
+	Free: Pattern=mean ,, Pattern=, you, Pattern=just, Pattern=like
+	Constrained: Pattern=you
+Turn ID=26| A | B : Yeah , yeah .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : The young people are robbing
+	Free: Pattern=people
+	Constrained: 
+Turn ID=28| A | B : Oh , it's unbelievable how much you go through . When I just had a problem with my neck and they ended up doing a seven hundred dollar CAT scan , and , I mean , a chiropractor got it in one time
+	Free: Pattern=just, Pattern=they, Pattern=it, Pattern=I, Pattern=in, Pattern=I mean ,, Pattern=you go through, Pattern=problem, Pattern=, I, Pattern=a
+	Constrained: Pattern=mean ,, Pattern=I, Pattern=you, Pattern=go
+Turn ID=29| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : it was just strange .
+	Free: Pattern=just strange ., Pattern=was just, Pattern=it was
+	Constrained: Pattern=just, Pattern=it
+Turn ID=31| B | M : It's just strange .
+	Free: Pattern=just strange .
+	Constrained: Pattern=just
+Turn ID=32| A | B : Oh , well , that should help .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=33| B | M : i have the problem of the cat being in the same room
+	Free: Pattern=problem, Pattern=have the, Pattern=in, Pattern=the, Pattern=of the
+	Constrained: Pattern=of, Pattern=the, Pattern=have
+Turn ID=34| A | B : Yeah
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : I'm not sure . I think it was a joke .
+	Free: Pattern=. I, Pattern=it was, Pattern=I think, Pattern=a
+	Constrained: Pattern=I, Pattern=it
+Turn ID=36| A | B : Oh I see Oh , gosh .
+	Free: Pattern=I see
+	Constrained: Pattern=I
+Turn ID=37| B | M : I've never heard of that , I was just thinking about it .
+	Free: Pattern=, I, Pattern=was just, Pattern=of that, Pattern=it
+	Constrained: Pattern=just, Pattern=of, Pattern=I, Pattern=that
+Turn ID=38| A | B : Okay , well
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : I'm not even sure .
+	Free: Pattern=even
+	Constrained: 
+Turn ID=40| A | B : Okay , thank you . Bye-bye
+	Free: Pattern=you
+	Constrained: 
+Turn ID=41| B | M : I see .
+	Free: Pattern=I see
+	Constrained: Pattern=I

@@ -1,0 +1,287 @@
+A|0| B: _they_ _have_ some nice stuff down there . _I_ miss _it_ 
+B|1| M: The only _thing_ [I] _can_ _think_ _of_ _is_ _you_ being paid _for_ your _time_ . 
+A|2| B: _and_ _the_ average _, you_ _know_ , _the_ average _, uh ,_ first frost [is] like _the_ fifteenth [of] November here 
+B|3| M: They can't , because _they're_ not _a_ country . 
+A|4| B: Right . Yeah , my backyard _is _, _uh_ ,_ is_ sloping _so_ [I] built [a] box up _, you_ _know_ had _to_ build _the one_ , _the_ low side up . 
+B|5| M: What _about_ [it] ? 
+A|6| B: And _, uh ,_ they've _been_ _to_ _the_ Guadalupe River _, and_ _they_ also _, uh _, uh_ ,_ _have been_ _to_ _, uh ,_ [I] guess Colorado _, and_ they've really enjoyed [it] . 
+B|7| M: U 
+A|8| B: Golly . 
+B|9| M: He's [the one] 
+A|10| B: _but_ it's , [it] _, uh _, uh_ ,_ actually some friends [of] mine _and_ [I] are planning _to_ camp this summer _, uh ,_ [for] four days . Also going fishing _, uh_ 
+B|11| M: I'll show _them_ . 
+A|12| B: _and_ she didn't eat . She ate very poor _so_ _I think_ she was _, you_ _know_ , bad _, uh ,_ nutrition on top [of] [it] . And _, uh ,_ she got _to_ [the] point she didn't want _to_ alone anymore . So , 
+B|13| M: They're both ugly . 
+A|14| B: Right . 
+B|15| M: What's your favourite animal ? 
+A|16| B: _I'm_ _, and_ _they_ just talked _to_ [the] other day other day [about] setting something up again _so_ hopefully pretty soon we'll at least _have_ [the] word processing . 
+B|17| M: [I think] we're gonna [have] [to] get _that_ [one] started . 
+A|18| B: Uh-huh . 
+B|19| M: Uhuh . Uhuh . 
+A|20| B: _You know_ , 
+B|21| M: [You _know] what_ ? [I'm] not sure . 
+A|22| B: Uh-huh Uh-huh . Uh-huh . 
+B|23| M: Well , 
+A|24| B: _That's_ right We're against [it] _That's_ right . 
+B|25| M: Oh . [That's] cool . 
+A|26| B: [I think] maybe [a] year would be , [the] longest . 
+B|27| M: [You] 
+A|28| B: _It_ wasn't [that] long [that] [I] was [that] young . 
+B|29| M: Uhhh ... 
+A|30| B: Italian food 
+B|31| M: Is [it] _a problem_ ? 
+A|32| B: [you] _, you_ pretty well [know what] you're getting ahead [of] [time] _, and_ _, uh_ [you] [know] , if [you] buy [a] _good_ [one] _, you_ shouldn't [have] any _, you_ [know] , too much [of] [a problem] with [it] , 
+B|33| M: [That's] [, uh , uh] . [uh [,] and] [uh , [is] , uh] ., 
+A|34| B: Right . 
+B|35| M: [It] 
+A|36| B: [That's] rather interesting . 
+B|37| M: Uhhh ... [what] ? 
+A|38| B: Uh-huh , uh-huh . 
+B|39| M: The [, uh [,] you] [have] [, uh] .. [you] [have been] [, uh] ... banned from . 
+A|40| B: [You] bet . 
+B|41| M: [I] [, uh ,] _don't_ [think] _so ._ 
+A|42| B: Yeah . 
+B|43| M:  [, and] . 
+A|44| B: [I] [don't] [know] how else [to] explain _. But_ , we've got friends [that] are in [the] music business [that] go around Dallas , [they're] [, uh ,] called Odessa . _It's a_ husband [and] wife team [that] we've known [for] years [and] [, uh ,] we try [to] make contact with [them] periodically [to] see what's going on [and] stuff , too , [so] we've had [a] lot [of] stuff [, you] [know] , friends [and] [, and] things [to] _do_ with music [that] constant , plus my husband's real big into music , too , [so .] He doesn't play anything , _but_ , he just likes [to] listen . 
+B|45| M:  
+A|46| B: _but_ 
+B|47| M: Red 
+A|48| B: Yeah . 
+B|49| M: [but] 
+A|50| B: [and] [you] [know] , if [you] [can] _do_ any [a] little bit , [it] helps , [so] 
+B|51| M: That . 
+A|52| B: So , 
+B|53| M:  
+A|54| B: Yeah . 
+B|55| M: [I] [know] . 
+A|56| B: _It's_ , it's real easy , [I] like doing [that] part . 
+B|57| M: [I] 
+A|58| B: Uh-huh . 
+B|59| M: [It's a] funny vowel . 
+A|60| B: And [so] , Based on [that] , who _do you_ [think] you're talking [to] , you're talking [to] an employer . 
+B|61| M: Uhh ... no , [they] [don't] . 
+A|62| B: Uh-huh . 
+B|63| M: [I] read 
+A|64| B: Himself [and] her ? 
+B|65| M: What's [the] difference ? 
+A|66| B: [I] see . 
+B|67| M: What kind [of] jobs [do you] [have] ? 
+A|68| B: [but] [, you] [know] , Escort [is] supposed [to] [have] [a] great track record as far as sales . 
+B|69| M: [I] [know] [. But] [they] taste [good] . 
+A|70| B: Uh , that's [one] [thing] [that] [they] [do] . At [that] , it's pretty easy [to] [do] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : they have some nice stuff down there . I miss it
+	Free: Pattern=I, Pattern=they, Pattern=it, Pattern=have
+	Constrained: 
+Turn ID=1| B | M : The only thing I can think of is you being paid for your time .
+	Free: Pattern=time, Pattern=of, Pattern=you, Pattern=for, Pattern=I, Pattern=can, Pattern=think, Pattern=is, Pattern=thing
+	Constrained: 
+Turn ID=2| A | B : and the average , you know , the average , uh , first frost is like the fifteenth of November here
+	Free: Pattern=of, Pattern=and, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=know, Pattern=, you
+	Constrained: Pattern=uh ,, Pattern=, uh, Pattern=you
+Turn ID=3| B | M : They can't , because they're not a country .
+	Free: Pattern=a, Pattern=they're
+	Constrained: 
+Turn ID=4| A | B : Right . Yeah , my backyard is , uh , is sloping so I built a box up , you know had to build the one , the low side up .
+	Free: Pattern=the one, Pattern=a, Pattern=uh , is, Pattern=I, Pattern=is , uh, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=so, Pattern=know, Pattern=, you
+	Constrained: Pattern=one, Pattern=is, Pattern=you, Pattern=, uh, Pattern=uh ,, Pattern=the
+Turn ID=5| B | M : What about it ?
+	Free: Pattern=about, Pattern=it
+	Constrained: 
+Turn ID=6| A | B : And , uh , they've been to the Guadalupe River , and they also , uh , uh , have been to , uh , I guess Colorado , and they've really enjoyed it .
+	Free: Pattern=, uh , uh, Pattern=they, Pattern=it, Pattern=I, Pattern=have been, Pattern=, uh ,, Pattern=the, Pattern=been, Pattern=, and, Pattern=to
+	Constrained: Pattern=, uh, Pattern=have, Pattern=and, Pattern=, uh ,, Pattern=uh ,, Pattern=been
+Turn ID=7| B | M : U
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : Golly .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : He's the one
+	Free: Pattern=the one
+	Constrained: Pattern=one, Pattern=the
+Turn ID=10| A | B : but it's , it , uh , uh , actually some friends of mine and I are planning to camp this summer , uh , for four days . Also going fishing , uh
+	Free: Pattern=, uh , uh, Pattern=of, Pattern=, uh, Pattern=for, Pattern=I, Pattern=, uh ,, Pattern=to, Pattern=but, Pattern=it, Pattern=and
+	Constrained: Pattern=uh ,, Pattern=, uh, Pattern=, uh ,
+Turn ID=11| B | M : I'll show them .
+	Free: Pattern=them
+	Constrained: 
+Turn ID=12| A | B : and she didn't eat . She ate very poor so I think she was , you know , bad , uh , nutrition on top of it . And , uh , she got to the point she didn't want to alone anymore . So ,
+	Free: Pattern=of, Pattern=the, Pattern=to, Pattern=so, Pattern=it, Pattern=and, Pattern=know, Pattern=, you, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=I, Pattern=think, Pattern=uh ,, Pattern=you, Pattern=, uh
+Turn ID=13| B | M : They're both ugly .
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : What's your favourite animal ?
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : I'm , and they just talked to the other day other day about setting something up again so hopefully pretty soon we'll at least have the word processing .
+	Free: Pattern=I'm, Pattern=have, Pattern=they, Pattern=about, Pattern=the, Pattern=so, Pattern=, and, Pattern=to
+	Constrained: Pattern=and
+Turn ID=17| B | M : I think we're gonna have to get that one started .
+	Free: Pattern=have, Pattern=one, Pattern=I think, Pattern=to, Pattern=that
+	Constrained: Pattern=I, Pattern=think
+Turn ID=18| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : Uhuh . Uhuh .
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : You know ,
+	Free: Pattern=You know
+	Constrained: Pattern=know, Pattern=You
+Turn ID=21| B | M : You know what ? I'm not sure .
+	Free: Pattern=know what, Pattern=You know, Pattern=I'm
+	Constrained: Pattern=know, Pattern=You, Pattern=what
+Turn ID=22| A | B : Uh-huh Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : Well ,
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : That's right We're against it That's right .
+	Free: Pattern=That's, Pattern=it
+	Constrained: 
+Turn ID=25| B | M : Oh . That's cool .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=26| A | B : I think maybe a year would be , the longest .
+	Free: Pattern=I think, Pattern=a, Pattern=the
+	Constrained: Pattern=I, Pattern=think
+Turn ID=27| B | M : You
+	Free: Pattern=You
+	Constrained: 
+Turn ID=28| A | B : It wasn't that long that I was that young .
+	Free: Pattern=I, Pattern=that, Pattern=It
+	Constrained: 
+Turn ID=29| B | M : Uhhh ...
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Italian food
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : Is it a problem ?
+	Free: Pattern=a problem, Pattern=it
+	Constrained: Pattern=a
+Turn ID=32| A | B : you , you pretty well know what you're getting ahead of time , and , uh you know , if you buy a good one , you shouldn't have any , you know , too much of a problem with it ,
+	Free: Pattern=good, Pattern=time, Pattern=of, Pattern=have, Pattern=a, Pattern=it, Pattern=one, Pattern=you, Pattern=, uh, Pattern=know, Pattern=know what, Pattern=, you, Pattern=, and, Pattern=a problem
+	Constrained: Pattern=you, Pattern=what, Pattern=a, Pattern=and, Pattern=know
+Turn ID=33| B | M : That's , uh , uh . uh , and uh , is , uh .,
+	Free: Pattern=, uh , uh, Pattern=That's, Pattern=uh , is, Pattern=is , uh, Pattern=uh ,, Pattern=, and
+	Constrained: Pattern=, uh, Pattern=and, Pattern=is, Pattern=, uh ,, Pattern=uh ,
+Turn ID=34| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : It
+	Free: Pattern=It
+	Constrained: 
+Turn ID=36| A | B : That's rather interesting .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=37| B | M : Uhhh ... what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=38| A | B : Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : The , uh , you have , uh .. you have been , uh ... banned from .
+	Free: Pattern=have, Pattern=have been, Pattern=, you, Pattern=, uh ,, Pattern=you, Pattern=, uh
+	Constrained: Pattern=have, Pattern=uh ,, Pattern=been, Pattern=you, Pattern=, uh
+Turn ID=40| A | B : You bet .
+	Free: Pattern=You
+	Constrained: 
+Turn ID=41| B | M : I , uh , don't think so .
+	Free: Pattern=I, Pattern=think, Pattern=, uh ,, Pattern=don't, Pattern=so .
+	Constrained: Pattern=uh ,, Pattern=, uh, Pattern=so
+Turn ID=42| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M :  , and .
+	Free: Pattern=, and
+	Constrained: Pattern=and
+Turn ID=44| A | B : I don't know how else to explain . But , we've got friends that are in the music business that go around Dallas , they're , uh , called Odessa . It's a husband and wife team that we've known for years and , uh , we try to make contact with them periodically to see what's going on and stuff , too , so we've had a lot of stuff , you know , friends and , and things to do with music that constant , plus my husband's real big into music , too , so . He doesn't play anything , but , he just likes to listen .
+	Free: Pattern=of, Pattern=. But, Pattern=for, Pattern=and, Pattern=I, Pattern=they're, Pattern=, uh ,, Pattern=the, Pattern=so ., Pattern=so, Pattern=do, Pattern=a, Pattern=know, Pattern=, you, Pattern=It's a, Pattern=don't, Pattern=, and, Pattern=to, Pattern=but, Pattern=them, Pattern=that
+	Constrained: Pattern=a, Pattern=and, Pattern=so, Pattern=you, Pattern=, uh, Pattern=uh ,, Pattern=It's
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : but
+	Free: Pattern=but
+	Constrained: 
+Turn ID=47| B | M : Red
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : but
+	Free: Pattern=but
+	Constrained: 
+Turn ID=50| A | B : and you know , if you can do any a little bit , it helps , so
+	Free: Pattern=you, Pattern=can, Pattern=know, Pattern=so, Pattern=do, Pattern=a, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=51| B | M : That .
+	Free: 
+	Constrained: 
+Turn ID=52| A | B : So ,
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=54| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=55| B | M : I know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=56| A | B : It's , it's real easy , I like doing that part .
+	Free: Pattern=I, Pattern=that, Pattern=It's
+	Constrained: 
+Turn ID=57| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=58| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=59| B | M : It's a funny vowel .
+	Free: Pattern=It's a
+	Constrained: Pattern=a, Pattern=It's
+Turn ID=60| A | B : And so , Based on that , who do you think you're talking to , you're talking to an employer .
+	Free: Pattern=do you, Pattern=think, Pattern=to, Pattern=that, Pattern=so
+	Constrained: Pattern=do, Pattern=you
+Turn ID=61| B | M : Uhh ... no , they don't .
+	Free: Pattern=don't, Pattern=they
+	Constrained: 
+Turn ID=62| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=63| B | M : I read
+	Free: Pattern=I
+	Constrained: 
+Turn ID=64| A | B : Himself and her ?
+	Free: Pattern=and
+	Constrained: 
+Turn ID=65| B | M : What's the difference ?
+	Free: Pattern=the
+	Constrained: 
+Turn ID=66| A | B : I see .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=67| B | M : What kind of jobs do you have ?
+	Free: Pattern=do you, Pattern=of, Pattern=have
+	Constrained: Pattern=do, Pattern=you
+Turn ID=68| A | B : but , you know , Escort is supposed to have a great track record as far as sales .
+	Free: Pattern=have, Pattern=a, Pattern=is, Pattern=to, Pattern=but, Pattern=know, Pattern=, you
+	Constrained: Pattern=you
+Turn ID=69| B | M : I know . But they taste good .
+	Free: Pattern=good, Pattern=. But, Pattern=they, Pattern=I, Pattern=know
+	Constrained: 
+Turn ID=70| A | B : Uh , that's one thing that they do . At that , it's pretty easy to do .
+	Free: Pattern=they, Pattern=do, Pattern=one, Pattern=thing, Pattern=to, Pattern=that
+	Constrained: 

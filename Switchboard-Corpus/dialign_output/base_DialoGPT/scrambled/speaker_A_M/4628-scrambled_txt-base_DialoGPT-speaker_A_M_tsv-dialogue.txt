@@ -1,0 +1,187 @@
+A|0| A: now _I think_ maybe _it's_ started changing _in_ _the_ past few years because _, uh _,_ _they_ have_ _of_ these _, uh ,_ sort _of_ mandatory tests if _you_ _have to_ take before _you_ get _a_ diploma . 
+B|1| M: [I think] you'll find _it's a_ _very_ confusing shop . 
+A|2| A: _that's how_ [I] keep looking at _it_ . 
+B|3| M:  ? 
+A|4| A: Oh . 
+B|5| M: [I] [have] [a] lot [of] stuff _to do_ . _it's a_ bit busy . 
+A|6| A: okay . Bye-bye 
+B|7| M: Uhh [, they] can _just_ use [a] certain type _that_ [they have] [a] lot [of] money [to] buy . 
+A|8| A: Oh , yeah . 
+B|9| M: Uuhh , [that's] [, uh ,] weird . 
+A|10| A: Well , um _, I_ was [a] technical writer for many years , um , 
+B|11| M: [I] _know_ _. _And_ ,_ _we live_ [in] _an_ old _house_ . _But ,_ _I'm_ [in] [a] _house_ with [a] nice , clean , quiet place . 
+A|12| A: [But [,] uh ,] even _the_ small towns now though , has really changed _from_ when [I] was [a] kid , but now [I'm] raising children . It _it_ really _is_ . 
+B|13| M: That'snot [, I] [have] problems 
+A|14| A: Right , right . 
+B|15| M: This [is] sooo weird 
+A|16| A: _So_ if you're [a] nincompoop on trial , you'd , you'd _have to_ [have] nincompoops [to] [, uh ,] 
+B|17| M: We _do_ [have] [the] most . 
+A|18| A: Well , church softball leagues _, so_ , 
+B|19| M: Are [you] [from] Pennsylvania ? 
+A|20| A: Uh-huh . 
+B|21| M: _well [,_ uh [,] uh] huh . 
+A|22| A: _Yeah_ . That's true . 
+B|23| M: [So] are [you] saying _that_ [they] are _going _to_ be_ rehabilitated ? 
+A|24| A: Um . 
+B|25| M: [I] _know ,_ [I'm] _just_ telling [you] [that's how] [it] sounded . 
+A|26| A: [But ,] typically _, you [know_ [,] uh ,] typically [, uh ,] everyone gets involved [in] [, uh ,] [the] jury process _and I_ suppose [an] elitist might _say_ , [well _,] you_ really want someone who [is] [well] educated [to be] able [to] , [to] winnow [the] facts [from] [the] , [from] [the] prejudice . 
+B|27| M: What _do_ [you] mean [, you] _think it's_ not [a] _good_ time 
+A|28| A: Oh . 
+B|29| M: _It's_ [a] law [in] most _of the_ countries [, so] _it's a_ big problem . 
+A|30| A: [It's] really kind [of] fun . 
+B|31| M: _You know [,_ I] usually [have to] check _things_ . 
+A|32| A: [And] [I] [just] , there _, you [know_ [,] they] came [from] poverty [, they] were [going to] condition [in] poverty _and_ [it] was , [it] was , [the] school district couldn't hire many people , [it] was [very] difficult for them [to] hire _, and [I_ think] _, you [know_ ,] [in] [the] sense , [that] aspect [of] public service for education [in] some [of the] inner cities for , um , [just] social workers [in] some [of the] inner cities _and_ some [of the] rural areas where [they] [just] need advice on medical , um , [things] [, [I] [think] [it's] a] really [good] idea [. And] even if [it] [is] overseas . 
+B|33| M: This 
+A|34| A: [You know ,] [it's] [just] , but [it's] frightening [to] us because [we live] pretty far [from] her . She's down [in] Temple 
+B|35| M: Yes [, and I] am [so] happy [I'm] not dead . 
+A|36| A: Uh-huh . 
+B|37| M: [You know [,] you know] . 
+A|38| A: [I] don't [know ,] 
+B|39| M: [You know] ? 
+A|40| A: Oh . 
+B|41| M: [Yeah] [, uh] . 
+A|42| A: [and] [, uh ,] return offenders [have] , they've actually waited for them , where they've robbed [, you [know] ,] particular neighborhood , they'll rob one [house] , then other people will wait up [, you [know] [,] and] wait for somebody [to do] something else , try [to] take [it] [in] their own hands . 
+B|43| M: Maybe . [But] [I] wouldn't [say] [that] . 
+A|44| A: [And [,] and I] [just] sort [of] [think] [that's] ridiculous . 
+B|45| M: [And] they're , they're 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : now I think maybe it's started changing in the past few years because , uh , they have of these , uh , sort of mandatory tests if you have to take before you get a diploma .
+	Free: Pattern=, they, Pattern=of, Pattern=you, Pattern=they have, Pattern=a, Pattern=in, Pattern=the, Pattern=have to, Pattern=it's, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=, uh, Pattern=have, Pattern=they, Pattern=I, Pattern=think, Pattern=to
+Turn ID=1| B | M : I think you'll find it's a very confusing shop .
+	Free: Pattern=I think, Pattern=it's a, Pattern=very
+	Constrained: Pattern=I, Pattern=think, Pattern=a, Pattern=it's
+Turn ID=2| A | A : that's how I keep looking at it .
+	Free: Pattern=that's how, Pattern=I, Pattern=it
+	Constrained: Pattern=that's
+Turn ID=3| B | M :  ?
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : I have a lot of stuff to do . it's a bit busy .
+	Free: Pattern=have, Pattern=to do, Pattern=a, Pattern=I, Pattern=of, Pattern=it's a
+	Constrained: Pattern=a, Pattern=do, Pattern=to, Pattern=it's
+Turn ID=6| A | A : okay . Bye-bye
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : Uhh , they can just use a certain type that they have a lot of money to buy .
+	Free: Pattern=, they, Pattern=of, Pattern=a, Pattern=to, Pattern=that, Pattern=just, Pattern=they have
+	Constrained: Pattern=have, Pattern=they
+Turn ID=8| A | A : Oh , yeah .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : Uuhh , that's , uh , weird .
+	Free: Pattern=, uh ,, Pattern=that's
+	Constrained: Pattern=, uh
+Turn ID=10| A | A : Well , um , I was a technical writer for many years , um ,
+	Free: Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=11| B | M : I know . And , we live in an old house . But , I'm in a house with a nice , clean , quiet place .
+	Free: Pattern=house, Pattern=I'm, Pattern=a, Pattern=an, Pattern=I, Pattern=in, Pattern=know, Pattern=. And, Pattern=But ,, Pattern=we live, Pattern=And ,
+	Constrained: Pattern=But, Pattern=And
+Turn ID=12| A | A : But , uh , even the small towns now though , has really changed from when I was a kid , but now I'm raising children . It it really is .
+	Free: Pattern=I'm, Pattern=a, Pattern=it, Pattern=I, Pattern=from, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=But ,
+	Constrained: Pattern=, uh, Pattern=But
+Turn ID=13| B | M : That'snot , I have problems
+	Free: Pattern=, I, Pattern=have
+	Constrained: Pattern=I
+Turn ID=14| A | A : Right , right .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : This is sooo weird
+	Free: Pattern=is
+	Constrained: 
+Turn ID=16| A | A : So if you're a nincompoop on trial , you'd , you'd have to have nincompoops to , uh ,
+	Free: Pattern=have, Pattern=a, Pattern=So, Pattern=, uh ,, Pattern=have to, Pattern=to
+	Constrained: Pattern=have, Pattern=to, Pattern=, uh
+Turn ID=17| B | M : We do have the most .
+	Free: Pattern=have, Pattern=do, Pattern=the
+	Constrained: 
+Turn ID=18| A | A : Well , church softball leagues , so ,
+	Free: Pattern=, so
+	Constrained: Pattern=so
+Turn ID=19| B | M : Are you from Pennsylvania ?
+	Free: Pattern=you, Pattern=from
+	Constrained: 
+Turn ID=20| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : well , uh , uh huh .
+	Free: Pattern=, uh ,, Pattern=well ,, Pattern=, uh
+	Constrained: Pattern=, uh, Pattern=well
+Turn ID=22| A | A : Yeah . That's true .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=23| B | M : So are you saying that they are going to be rehabilitated ?
+	Free: Pattern=going to, Pattern=you, Pattern=they, Pattern=So, Pattern=to be, Pattern=that
+	Constrained: Pattern=to
+Turn ID=24| A | A : Um .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I know , I'm just telling you that's how it sounded .
+	Free: Pattern=know ,, Pattern=just, Pattern=I, Pattern=you, Pattern=I'm, Pattern=it, Pattern=that's how
+	Constrained: Pattern=know, Pattern=that's
+Turn ID=26| A | A : But , typically , you know , uh , typically , uh , everyone gets involved in , uh , the jury process and I suppose an elitist might say , well , you really want someone who is well educated to be able to , to winnow the facts from the , from the prejudice .
+	Free: Pattern=know ,, Pattern=well, Pattern=an, Pattern=in, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=to be, Pattern=But ,, Pattern=and I, Pattern=well ,, Pattern=from, Pattern=, you know, Pattern=say, Pattern=, you
+	Constrained: Pattern=well, Pattern=and, Pattern=I, Pattern=But, Pattern=to, Pattern=you, Pattern=, uh, Pattern=know, Pattern=, you
+Turn ID=27| B | M : What do you mean , you think it's not a good time
+	Free: Pattern=good, Pattern=you, Pattern=, you, Pattern=do, Pattern=a, Pattern=think it's
+	Constrained: Pattern=you, Pattern=think, Pattern=it's
+Turn ID=28| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : It's a law in most of the countries , so it's a big problem .
+	Free: Pattern=it's a, Pattern=a, Pattern=in, Pattern=It's, Pattern=, so, Pattern=of the
+	Constrained: Pattern=of, Pattern=a, Pattern=the, Pattern=it's, Pattern=so
+Turn ID=30| A | A : It's really kind of fun .
+	Free: Pattern=It's, Pattern=of
+	Constrained: 
+Turn ID=31| B | M : You know , I usually have to check things .
+	Free: Pattern=You know ,, Pattern=, I, Pattern=have to, Pattern=things
+	Constrained: Pattern=know ,, Pattern=have, Pattern=I, Pattern=know, Pattern=You know, Pattern=to
+Turn ID=32| A | A : And I just , there , you know , they came from poverty , they were going to condition in poverty and it was , it was , the school district couldn't hire many people , it was very difficult for them to hire , and I think , you know , in the sense , that aspect of public service for education in some of the inner cities for , um , just social workers in some of the inner cities and some of the rural areas where they just need advice on medical , um , things , I think it's a really good idea . And even if it is overseas .
+	Free: Pattern=they, Pattern=things, Pattern=in, Pattern=I think, Pattern=the, Pattern=. And, Pattern=to, Pattern=going to, Pattern=, they, Pattern=good, Pattern=of, Pattern=know ,, Pattern=it's a, Pattern=And, Pattern=just, Pattern=, I, Pattern=think it's, Pattern=it, Pattern=and, Pattern=, and I, Pattern=I, Pattern=from, Pattern=, you know, Pattern=very, Pattern=is, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=you, Pattern=And, Pattern=they, Pattern=a, Pattern=and, Pattern=I, Pattern=think, Pattern=the, Pattern=it's, Pattern=and I, Pattern=know, Pattern=, you, Pattern=, and, Pattern=to
+Turn ID=33| B | M : This
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : You know , it's just , but it's frightening to us because we live pretty far from her . She's down in Temple
+	Free: Pattern=You know ,, Pattern=just, Pattern=from, Pattern=in, Pattern=to, Pattern=it's, Pattern=we live
+	Constrained: Pattern=You know, Pattern=know ,, Pattern=know
+Turn ID=35| B | M : Yes , and I am so happy I'm not dead .
+	Free: Pattern=, and I, Pattern=so, Pattern=I'm
+	Constrained: Pattern=and I, Pattern=, and, Pattern=I, Pattern=and
+Turn ID=36| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : You know , you know .
+	Free: Pattern=You know ,, Pattern=, you know
+	Constrained: Pattern=know ,, Pattern=you, Pattern=You know, Pattern=know, Pattern=, you
+Turn ID=38| A | A : I don't know ,
+	Free: Pattern=know ,, Pattern=I
+	Constrained: Pattern=know
+Turn ID=39| B | M : You know ?
+	Free: Pattern=You know
+	Constrained: Pattern=know
+Turn ID=40| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : Yeah , uh .
+	Free: Pattern=, uh, Pattern=Yeah
+	Constrained: 
+Turn ID=42| A | A : and , uh , return offenders have , they've actually waited for them , where they've robbed , you know , particular neighborhood , they'll rob one house , then other people will wait up , you know , and wait for somebody to do something else , try to take it in their own hands .
+	Free: Pattern=house, Pattern=know ,, Pattern=have, Pattern=to do, Pattern=, you know, Pattern=in, Pattern=, uh ,, Pattern=it, Pattern=and, Pattern=, and, Pattern=to
+	Constrained: Pattern=do, Pattern=and, Pattern=to, Pattern=you, Pattern=, uh, Pattern=know, Pattern=, you
+Turn ID=43| B | M : Maybe . But I wouldn't say that .
+	Free: Pattern=I, Pattern=say, Pattern=But, Pattern=that
+	Constrained: 
+Turn ID=44| A | A : And , and I just sort of think that's ridiculous .
+	Free: Pattern=of, Pattern=just, Pattern=, and I, Pattern=think, Pattern=that's, Pattern=And ,
+	Constrained: Pattern=And, Pattern=and, Pattern=I, Pattern=, and, Pattern=and I
+Turn ID=45| B | M : And they're , they're
+	Free: Pattern=And
+	Constrained: 

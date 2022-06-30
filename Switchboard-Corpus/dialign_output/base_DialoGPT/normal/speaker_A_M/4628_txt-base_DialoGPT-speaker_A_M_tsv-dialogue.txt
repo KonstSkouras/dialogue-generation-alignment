@@ -1,0 +1,187 @@
+B|0| M: You _know_ what's small ? 
+A|1| A: Uh-huh . 
+B|2| M: Uhhh ... _I don't know_ ... 
+A|3| A: Uh-huh . 
+B|4| M: _I'm_ guessing _they_ _are_ from _a_ lab , _but_ _the_ fact _that_ _they_ _have_ _that_ _much_ hair , _I'm_ guessing _it's_ _a_ lab . 
+A|5| A: _Huh ._ Well , [I] , [I] work for _, uh ,_ actually probably similar kind of place . [I] work for _, uh ,_ Lincoln Laboratory . 
+B|6| M: Hahaha _, you_ _know_ , _I'm_ not sure . 
+A|7| A: _Uh ,_ yeah . We actually _do_ some work with some people down at Georgia Tech . 
+B|8| M: [Huh .] [Uh _,] you_ [do] ? 
+A|9| A: [Uh ,] and _, uh ,_ so we're , we're part , we're actually part of M [I] T _. So_ [it's] very [much] _the same_ kind of place and _, uh_ [the] technical institution . 
+B|10| M: [Huh [.] So] _what_ ? 
+A|11| A: [Uh ,] while [I] was sitting here waiting while [they] tried to find somebody for me to talk to , trying to think of [what] _, uh _, uh_ ,_ [what] things were important _, uh ,_ besides salary and [a] , and [a] job . [I] guess _, uh ,_ list [I] had scribbled down was [the] people [you] worked with and maybe [the] _, uh ,_ [the] challenge of [the] work and _, uh_ [the] working conditions , things like [that] . 
+B|12| M: [I] . 
+A|13| A: [I don't know] . What [are] your _, uh ,_ [what] sorts of things would [you] consider important ? 
+B|14| M: [I] _mean_ [, uh , uh] . 
+A|15| A: Uh-huh . 
+B|16| M: It's not exactly 
+A|17| A: Uh-huh . 
+B|18| M: Why not ? 
+A|19| A: _Yeah_ . 
+B|20| M: Um . [Uh] 
+A|21| A: Uh-huh . 
+B|22| M: No , [they] 
+A|23| A: Uh-huh . 
+B|24| M: Yup . _I'm_ sure [it's] [the same] reason [you] can't _have_ [a] blunt blow on [a] plane . 
+A|25| A: Uh-huh . 
+B|26| M: [I] 
+A|27| A: Now how _do you_ [mean] _that ?_ [I] [know] it , 
+B|28| M:  
+A|29| A: Uh-huh . 
+B|30| M:  ... 
+A|31| A: Uh-huh . 
+B|32| M: How [do you] [know] [that ?] 
+A|33| A: Well [, _you] [,_ you] think [it's] better than to , to try to spread [the] , [the] effort equally among all [the] employees of [the] company or , 
+B|34| M: [Yeah] , _but_ ... 
+A|35| A: Uh-huh . 
+B|36| M: Not really . 
+A|37| A: Uh-huh . 
+B|38| M: [Yeah] , that's right . 
+A|39| A: [Yeah] . Uh-huh . 
+B|40| M: Ugh . Ugh . [Uh] 
+A|41| A: [Yeah] . I've heard of [a] couple of companies [that] [have] done [that] . [I] think [, uh ,] back about , [a] few years ago when things were tough , Hewlett-Packard did [that] for awhile . They went to [a] [, uh ,] [a] , [a] four and [a] half day work week rather than cut , yeah , just cut everybody back ten percent . And [, uh ,] [have] to , give everybody [a] half day [a] week off . 
+B|42| M: Hehehuh 
+A|43| A: And [I] think [you] can [do] [that] for [a] little while [but] [I'm] , 
+B|44| M: [you ,] you're 
+A|45| A: [Yeah] . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : You know what's small ?
+	Free: Pattern=know
+	Constrained: 
+Turn ID=1| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : Uhhh ... I don't know ...
+	Free: Pattern=I don't know
+	Constrained: Pattern=I, Pattern=know
+Turn ID=3| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=4| B | M : I'm guessing they are from a lab , but the fact that they have that much hair , I'm guessing it's a lab .
+	Free: Pattern=I'm, Pattern=have, Pattern=they, Pattern=a, Pattern=are, Pattern=much, Pattern=the, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: 
+Turn ID=5| A | A : Huh . Well , I , I work for , uh , actually probably similar kind of place . I work for , uh , Lincoln Laboratory .
+	Free: Pattern=, uh ,, Pattern=Huh ., Pattern=I
+	Constrained: Pattern=, uh
+Turn ID=6| B | M : Hahaha , you know , I'm not sure .
+	Free: Pattern=, you, Pattern=I'm, Pattern=know
+	Constrained: Pattern=you
+Turn ID=7| A | A : Uh , yeah . We actually do some work with some people down at Georgia Tech .
+	Free: Pattern=Uh ,, Pattern=do
+	Constrained: Pattern=Uh
+Turn ID=8| B | M : Huh . Uh , you do ?
+	Free: Pattern=, you, Pattern=Uh ,, Pattern=Huh ., Pattern=do
+	Constrained: Pattern=you, Pattern=Uh
+Turn ID=9| A | A : Uh , and , uh , so we're , we're part , we're actually part of M I T . So it's very much the same kind of place and , uh the technical institution .
+	Free: Pattern=, uh, Pattern=I, Pattern=Uh ,, Pattern=much, Pattern=, uh ,, Pattern=the, Pattern=the same, Pattern=it's, Pattern=. So
+	Constrained: Pattern=Uh, Pattern=the, Pattern=, uh
+Turn ID=10| B | M : Huh . So what ?
+	Free: Pattern=. So, Pattern=Huh ., Pattern=what
+	Constrained: 
+Turn ID=11| A | A : Uh , while I was sitting here waiting while they tried to find somebody for me to talk to , trying to think of what , uh , uh , what things were important , uh , besides salary and a , and a job . I guess , uh , list I had scribbled down was the people you worked with and maybe the , uh , the challenge of the work and , uh the working conditions , things like that .
+	Free: Pattern=, uh , uh, Pattern=a, Pattern=I, Pattern=Uh ,, Pattern=, uh ,, Pattern=the, Pattern=that, Pattern=you, Pattern=, uh, Pattern=what, Pattern=they
+	Constrained: Pattern=, uh, Pattern=Uh, Pattern=, uh ,
+Turn ID=12| B | M : I .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=13| A | A : I don't know . What are your , uh , what sorts of things would you consider important ?
+	Free: Pattern=you, Pattern=what, Pattern=are, Pattern=I don't know, Pattern=, uh ,
+	Constrained: Pattern=I, Pattern=know, Pattern=, uh
+Turn ID=14| B | M : I mean , uh , uh .
+	Free: Pattern=, uh , uh, Pattern=I, Pattern=mean
+	Constrained: Pattern=, uh, Pattern=, uh ,
+Turn ID=15| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : It's not exactly
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : Why not ?
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=20| B | M : Um . Uh
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=21| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=22| B | M : No , they
+	Free: Pattern=they
+	Constrained: 
+Turn ID=23| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=24| B | M : Yup . I'm sure it's the same reason you can't have a blunt blow on a plane .
+	Free: Pattern=have, Pattern=a, Pattern=the same, Pattern=it's, Pattern=you, Pattern=I'm
+	Constrained: Pattern=the
+Turn ID=25| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=26| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=27| A | A : Now how do you mean that ? I know it ,
+	Free: Pattern=mean, Pattern=do you, Pattern=I, Pattern=know, Pattern=that ?
+	Constrained: Pattern=do, Pattern=that, Pattern=you
+Turn ID=28| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : How do you know that ?
+	Free: Pattern=that ?, Pattern=do you, Pattern=know
+	Constrained: Pattern=do, Pattern=that, Pattern=you
+Turn ID=33| A | A : Well , you , you think it's better than to , to try to spread the , the effort equally among all the employees of the company or ,
+	Free: Pattern=, you, Pattern=you ,, Pattern=the, Pattern=it's
+	Constrained: Pattern=you
+Turn ID=34| B | M : Yeah , but ...
+	Free: Pattern=but, Pattern=Yeah
+	Constrained: 
+Turn ID=35| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : Not really .
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M : Yeah , that's right .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=39| A | A : Yeah . Uh-huh .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=40| B | M : Ugh . Ugh . Uh
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=41| A | A : Yeah . I've heard of a couple of companies that have done that . I think , uh , back about , a few years ago when things were tough , Hewlett-Packard did that for awhile . They went to a , uh , a , a four and a half day work week rather than cut , yeah , just cut everybody back ten percent . And , uh , have to , give everybody a half day a week off .
+	Free: Pattern=have, Pattern=a, Pattern=I, Pattern=, uh ,, Pattern=Yeah, Pattern=that
+	Constrained: Pattern=, uh
+Turn ID=42| B | M : Hehehuh
+	Free: 
+	Constrained: 
+Turn ID=43| A | A : And I think you can do that for a little while but I'm ,
+	Free: Pattern=I, Pattern=you, Pattern=I'm, Pattern=do, Pattern=a, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=44| B | M : you , you're
+	Free: Pattern=you ,
+	Constrained: Pattern=you
+Turn ID=45| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 

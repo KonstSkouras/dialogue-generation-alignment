@@ -1,0 +1,79 @@
+A|0| B: _Yeah_ . 
+B|1| M: Lol 
+A|2| B: Uh-huh . 
+B|3| M: [Yeah] , I'd say so . 
+A|4| B: Oh . 
+B|5| M: [Yeah] , _it's_ pretty _easy_ _to_ find _a stick shift_ car _in_ America . 
+A|6| B: But _I'm_ not sure that [it's] such [a] massive improvement . Uh _, you_ _know ,_ once _you_ get passed thirty-three megahertz , all help is , kind of lost _in the_ , _in the_ translation . Because _you_ no longer can think that fast anyway . 
+B|7| M: [Yeah] , _like_ [, you] ? 
+A|8| B: Sort of [easy] listening because [you] [like] country but then , 
+B|9| M: That's right . 
+A|10| B: Because they were looking _for_ this disposition . And nowadays [you] , you'll get , you'll get [a] dog trainer [to] recommend [a] specific [, you] _know ,_ breeder handler . They will recommend their shepherds as [a] children's dog . 
+B|11| M: [I'm] sorry 
+A|12| B: Well , actually , _I_ much prefer [a stick shift] and _, what_ , [I'm] , [I'm] curious . _I_ , _I know_ why _I_ love [a stick shift] . Why why did [you] want one ? 
+B|13| M: [I'm] [in the] day 
+A|14| B: [Yeah] . Right . 
+B|15| M: Uhhh _, uh [,_ what] color ? 
+A|16| B: But [, uh ,] we had [, uh [,] you] _know ,_ all these , we have all these [, uh ,] somebody said [, you] _know ,_ you're either [a] stranger or [a] fool [to] try [to] predict Texas weather , but . Well , always , they were saying it was going [to] be [the] hottest summer ever , 
+B|17| M: [I [know] ,] I've been there [for] [a] while . 
+A|18| B: Oh really ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=1| B | M : Lol
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : Yeah , I'd say so .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=4| A | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : Yeah , it's pretty easy to find a stick shift car in America .
+	Free: Pattern=easy, Pattern=a stick shift, Pattern=in, Pattern=to, Pattern=Yeah, Pattern=it's
+	Constrained: Pattern=a
+Turn ID=6| A | B : But I'm not sure that it's such a massive improvement . Uh , you know , once you get passed thirty-three megahertz , all help is , kind of lost in the , in the translation . Because you no longer can think that fast anyway .
+	Free: Pattern=know ,, Pattern=a, Pattern=in the, Pattern=, you, Pattern=it's, Pattern=you, Pattern=I'm
+	Constrained: Pattern=the, Pattern=you, Pattern=in
+Turn ID=7| B | M : Yeah , like , you ?
+	Free: Pattern=, you, Pattern=Yeah, Pattern=like
+	Constrained: Pattern=you
+Turn ID=8| A | B : Sort of easy listening because you like country but then ,
+	Free: Pattern=like, Pattern=you, Pattern=easy
+	Constrained: 
+Turn ID=9| B | M : That's right .
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : Because they were looking for this disposition . And nowadays you , you'll get , you'll get a dog trainer to recommend a specific , you know , breeder handler . They will recommend their shepherds as a children's dog .
+	Free: Pattern=know ,, Pattern=you, Pattern=a, Pattern=for, Pattern=, you, Pattern=to
+	Constrained: Pattern=you
+Turn ID=11| B | M : I'm sorry
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=12| A | B : Well , actually , I much prefer a stick shift and , what , I'm , I'm curious . I , I know why I love a stick shift . Why why did you want one ?
+	Free: Pattern=a stick shift, Pattern=, what, Pattern=I, Pattern=I know, Pattern=you, Pattern=I'm
+	Constrained: Pattern=I, Pattern=a
+Turn ID=13| B | M : I'm in the day
+	Free: Pattern=in the, Pattern=I'm
+	Constrained: Pattern=the, Pattern=in
+Turn ID=14| A | B : Yeah . Right .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=15| B | M : Uhhh , uh , what color ?
+	Free: Pattern=, uh ,, Pattern=, what
+	Constrained: 
+Turn ID=16| A | B : But , uh , we had , uh , you know , all these , we have all these , uh , somebody said , you know , you're either a stranger or a fool to try to predict Texas weather , but . Well , always , they were saying it was going to be the hottest summer ever ,
+	Free: Pattern=know ,, Pattern=a, Pattern=, you, Pattern=, uh ,, Pattern=the, Pattern=to
+	Constrained: Pattern=you
+Turn ID=17| B | M : I know , I've been there for a while .
+	Free: Pattern=know ,, Pattern=I know, Pattern=a, Pattern=for
+	Constrained: Pattern=I
+Turn ID=18| A | B : Oh really ?
+	Free: 
+	Constrained: 

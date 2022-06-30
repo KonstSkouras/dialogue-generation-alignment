@@ -1,0 +1,179 @@
+A|0| B: _We_ have , uh , uh , tortoise which is _a_ black _and_ , _and_ orange . 
+B|1| M: _I don't_ _think_ _you_ can really _say_ _that ,_ unless I'm missing _something_ . 
+A|2| B: Yeah . 
+B|3| M: That _was the_ plan , yes . 
+A|4| B: _and_ [you] , [you] give them your speech _and_ maybe _a_ little slide show _or_ [something] , 
+B|5| M: _It_ _was_ [a] _great_ _time_ . 
+A|6| B: Those petroleum products are going _to_ kill us . 
+B|7| M: _You_ mean _like_ , they've _been_ _in_ prison ? 
+A|8| B: That's absolutely _right_ . [It] , _it_ , uh _, I_ guess _it_ all comes down _to_ , uh , [you] know , [a] , [a] definition _of_ , uh , how much out , outside activities affect your work _and_ , uh , uh , granted , [you] know , [that ,] any , any kind _of_ drug use _on_ , _on_ company property _and_ whatnot , is , is definitely _not_ acceptable . 
+B|9| M: [I] used [to] live _in the_ city , so [I] used [it] as _a place_ _to get_ around . 
+A|10| B: _Oh_ . Huh . 
+B|11| M: [I] mean ... [you] put [it] _in the_ pan , [right] ? 
+A|12| B: [You] know _, they_ buy [a place] _and_ _they_ just hate [the] area . 
+B|13| M: When [you] _say_ _you're a_ big guy , _do_ [you] mean [you] walk [or] _do_ [you] walk [and] _do it_ ? 
+A|14| B: Right . Right . _Oh ,_ definitely motherhood is devalued [in] this society . If [you're] , stay at home [and] [you're a] mother , it's [like] what [a] waste . People [think] , [you] know , [you] should be fulfilling yourself 
+B|15| M: What _do_ [you] mean ? 
+A|16| B: Uh-huh . 
+B|17| M: I'm Bill . 
+A|18| B: And once you've established [the] fact [that] [you're] _not_ [a] drug user [and] especially if your personality proves [that] [you're] _not ._ [I] [think] _they_ could , uh , save money by _not_ doing [that] . [You] know , every [time] , [say] if [you] change jobs [you] wouldn't have [to] [do it] if you'd just [been] tested at your other work [place] . 
+B|19| M: [Oh ,] hey . 
+A|20| B: Uh-huh . 
+B|21| M: [We] were _on the_ way [to] [a] military base . 
+A|22| B: _but_ [that] [was] , [that] [was the] only [time] she wanted [to get] wet [and] she didn't want [you] getting her wet 
+B|23| M: _I don't_ really [like] [the] sound [of] [the] new album , [but] [I] love [the] new _one_ . 
+A|24| B: They just overflow . 
+B|25| M: Yea [but] [the] 7 day wait 
+A|26| B: [Oh ,] now that's neat . 
+B|27| M: i [, I] 
+A|28| B: Yeah , that's [right] , [you] know he [was] [one] [of] ours , [one] [of] our boys . 
+B|29| M: _I don't_ [think] so . 
+A|30| B: Just started shooting people , because _they_ botched [the] first job 
+B|31| M:  . 
+A|32| B: Well good , well good . Well , uh , uh , have [you] , have [you] done any jogging ? [I] tell [you] , [you] said [you] did [on the] bike [and] [on the] treadmill _in ,_ [in the] , uh , club . 
+B|33| M: I'm [in ,] I'm 
+A|34| B: Right . 
+B|35| M: I'm sorry [, _I] don't_ remember [the] name [of] [the] book . 
+A|36| B: She loves lots [of] windows . That's [great] . 
+B|37| M: i . 
+A|38| B: Yeah . 
+B|39| M: I'm [not .] 
+A|40| B: So it's pretty minimal . 
+B|41| M: I'm [in the] industry . 
+A|42| B: [and] [I don't] have [to] concentrate too hard [on] them . 
+B|43| M:  [, they] ,? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : We have , uh , uh , tortoise which is a black and , and orange .
+	Free: Pattern=We, Pattern=a, Pattern=and
+	Constrained: 
+Turn ID=1| B | M : I don't think you can really say that , unless I'm missing something .
+	Free: Pattern=you, Pattern=I don't, Pattern=think, Pattern=say, Pattern=that ,, Pattern=something
+	Constrained: Pattern=I, Pattern=that
+Turn ID=2| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : That was the plan , yes .
+	Free: Pattern=was the
+	Constrained: Pattern=the, Pattern=was
+Turn ID=4| A | B : and you , you give them your speech and maybe a little slide show or something ,
+	Free: Pattern=you, Pattern=a, Pattern=and, Pattern=or, Pattern=something
+	Constrained: 
+Turn ID=5| B | M : It was a great time .
+	Free: Pattern=time, Pattern=great, Pattern=a, Pattern=It, Pattern=was
+	Constrained: 
+Turn ID=6| A | B : Those petroleum products are going to kill us .
+	Free: Pattern=to
+	Constrained: 
+Turn ID=7| B | M : You mean like , they've been in prison ?
+	Free: Pattern=in, Pattern=You, Pattern=been, Pattern=like
+	Constrained: 
+Turn ID=8| A | B : That's absolutely right . It , it , uh , I guess it all comes down to , uh , you know , a , a definition of , uh , how much out , outside activities affect your work and , uh , uh , granted , you know , that , any , any kind of drug use on , on company property and whatnot , is , is definitely not acceptable .
+	Free: Pattern=you, Pattern=It, Pattern=on, Pattern=to, Pattern=that ,, Pattern=not, Pattern=right, Pattern=of, Pattern=, I, Pattern=a, Pattern=it, Pattern=and
+	Constrained: Pattern=I, Pattern=that
+Turn ID=9| B | M : I used to live in the city , so I used it as a place to get around .
+	Free: Pattern=a place, Pattern=to, Pattern=it, Pattern=to get, Pattern=in the, Pattern=I
+	Constrained: Pattern=a, Pattern=in, Pattern=the, Pattern=to, Pattern=place
+Turn ID=10| A | B : Oh . Huh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=11| B | M : I mean ... you put it in the pan , right ?
+	Free: Pattern=right, Pattern=you, Pattern=it, Pattern=in the, Pattern=I
+	Constrained: Pattern=the, Pattern=in
+Turn ID=12| A | B : You know , they buy a place and they just hate the area .
+	Free: Pattern=, they, Pattern=and, Pattern=You, Pattern=the, Pattern=a place, Pattern=they
+	Constrained: Pattern=place, Pattern=a, Pattern=they
+Turn ID=13| B | M : When you say you're a big guy , do you mean you walk or do you walk and do it ?
+	Free: Pattern=you, Pattern=do, Pattern=and, Pattern=say, Pattern=do it, Pattern=or, Pattern=you're a
+	Constrained: Pattern=it, Pattern=a, Pattern=do, Pattern=you're
+Turn ID=14| A | B : Right . Right . Oh , definitely motherhood is devalued in this society . If you're , stay at home and you're a mother , it's like what a waste . People think , you know , you should be fulfilling yourself
+	Free: Pattern=you're, Pattern=you, Pattern=a, Pattern=and, Pattern=Oh ,, Pattern=like, Pattern=you're a, Pattern=think, Pattern=in
+	Constrained: Pattern=Oh, Pattern=a, Pattern=you're
+Turn ID=15| B | M : What do you mean ?
+	Free: Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=16| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : I'm Bill .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : And once you've established the fact that you're not a drug user and especially if your personality proves that you're not . I think they could , uh , save money by not doing that . You know , every time , say if you change jobs you wouldn't have to do it if you'd just been tested at your other work place .
+	Free: Pattern=time, Pattern=you're, Pattern=you, Pattern=they, Pattern=a, Pattern=and, Pattern=I, Pattern=think, Pattern=say, Pattern=do it, Pattern=not ., Pattern=You, Pattern=the, Pattern=to, Pattern=that, Pattern=not, Pattern=been, Pattern=place
+	Constrained: Pattern=it, Pattern=do, Pattern=not
+Turn ID=19| B | M : Oh , hey .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=20| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : We were on the way to a military base .
+	Free: Pattern=on the, Pattern=We, Pattern=a, Pattern=to
+	Constrained: Pattern=the, Pattern=on
+Turn ID=22| A | B : but that was , that was the only time she wanted to get wet and she didn't want you getting her wet
+	Free: Pattern=time, Pattern=you, Pattern=was the, Pattern=was, Pattern=and, Pattern=to get, Pattern=that, Pattern=but
+	Constrained: Pattern=the, Pattern=was, Pattern=to
+Turn ID=23| B | M : I don't really like the sound of the new album , but I love the new one .
+	Free: Pattern=of, Pattern=I don't, Pattern=like, Pattern=the, Pattern=but, Pattern=one, Pattern=I
+	Constrained: Pattern=I
+Turn ID=24| A | B : They just overflow .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : Yea but the 7 day wait
+	Free: Pattern=the, Pattern=but
+	Constrained: 
+Turn ID=26| A | B : Oh , now that's neat .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=27| B | M : i , I
+	Free: Pattern=, I
+	Constrained: Pattern=I
+Turn ID=28| A | B : Yeah , that's right , you know he was one of ours , one of our boys .
+	Free: Pattern=you, Pattern=one, Pattern=was, Pattern=right, Pattern=of
+	Constrained: 
+Turn ID=29| B | M : I don't think so .
+	Free: Pattern=I don't, Pattern=think
+	Constrained: Pattern=I
+Turn ID=30| A | B : Just started shooting people , because they botched the first job
+	Free: Pattern=the, Pattern=they
+	Constrained: 
+Turn ID=31| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : Well good , well good . Well , uh , uh , have you , have you done any jogging ? I tell you , you said you did on the bike and on the treadmill in , in the , uh , club .
+	Free: Pattern=in ,, Pattern=you, Pattern=and, Pattern=on the, Pattern=in the, Pattern=I
+	Constrained: Pattern=the, Pattern=in, Pattern=on
+Turn ID=33| B | M : I'm in , I'm
+	Free: Pattern=in ,
+	Constrained: Pattern=in
+Turn ID=34| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : I'm sorry , I don't remember the name of the book .
+	Free: Pattern=, I, Pattern=I don't, Pattern=the, Pattern=of
+	Constrained: Pattern=I
+Turn ID=36| A | B : She loves lots of windows . That's great .
+	Free: Pattern=great, Pattern=of
+	Constrained: 
+Turn ID=37| B | M : i .
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : I'm not .
+	Free: Pattern=not .
+	Constrained: Pattern=not
+Turn ID=40| A | B : So it's pretty minimal .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : I'm in the industry .
+	Free: Pattern=in the
+	Constrained: Pattern=the, Pattern=in
+Turn ID=42| A | B : and I don't have to concentrate too hard on them .
+	Free: Pattern=I don't, Pattern=to, Pattern=and, Pattern=on
+	Constrained: Pattern=I
+Turn ID=43| B | M :  , they ,?
+	Free: Pattern=, they
+	Constrained: Pattern=they

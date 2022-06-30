@@ -1,0 +1,83 @@
+A|0| A: Right . _What about_ tomatoes , aren't _they_ pretty hardy ? 
+B|1| B: They almost always get thrown right back _out_ again , but [they] have _to_ have every single appeal made open _to_ _them_ . 
+A|2| A: And , _you_ know , he _was_ [out] within two months _because_ of the parole system . So what , what , 
+B|3| B: _Uh-huh ._ 
+A|4| A: _Yeah_ , you're not sure where [to] go _and_ vote _and_ all _that_ . 
+B|5| B: _Yeah ._ 
+A|6| A: That's life , that's how life goes . 
+B|7| B: Oh . 
+A|8| A: [Yeah .] 
+B|9| B: Huh . 
+A|10| A: [Uh-huh .] 
+B|11| B: [What about] like those grocery bags ? 
+A|12| A: _and_ _now_ , [they] can't find [them] _and_ _they're_ finding bodies in _you_ know _, _I_ mean ,_ _you_ think why [they] say _it's_ _because_ you're over crowd _, it's_ over crowded , _and_ _you_ think how is , is everybody _that_ stupid or is the world really _that_ rotten 
+B|13| B: [I mean [,] it's] like , [that] [was] _just_ something [because] [that] [was] like live [and] real like [you] said , 
+A|14| A: _Uh , I_ wish it were a little bit harder [to] not serve on juries actually _. [I_ mean _,] I_ know , it , it [, it's] tricky [because] [I] know , [you] know , an awful lot of intelligent people who [just] , _well_ I'm too busy [to] serve on a jury , 
+B|15| B: [Uh-huh .] 
+A|16| A: We had [about] , a little bit less than two weeks . 
+B|17| B: [Uh ,] [that] happens [to] be my specialty for [that] family [. I] do other things very [well] , 
+A|18| A: [that] are sometimes so dumb 
+B|19| B: [Uh , I] take my boys [well] [, I] took [them] up until this year , [they're] grown [and] gone from home [now] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Right . What about tomatoes , aren't they pretty hardy ?
+	Free: Pattern=What about, Pattern=they
+	Constrained: Pattern=about
+Turn ID=1| B | B : They almost always get thrown right back out again , but they have to have every single appeal made open to them .
+	Free: Pattern=to, Pattern=out, Pattern=them, Pattern=they
+	Constrained: 
+Turn ID=2| A | A : And , you know , he was out within two months because of the parole system . So what , what ,
+	Free: Pattern=because, Pattern=you, Pattern=out, Pattern=was
+	Constrained: 
+Turn ID=3| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=4| A | A : Yeah , you're not sure where to go and vote and all that .
+	Free: Pattern=that, Pattern=to, Pattern=Yeah, Pattern=and
+	Constrained: 
+Turn ID=5| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=6| A | A : That's life , that's how life goes .
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=9| B | B : Huh .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=11| B | B : What about like those grocery bags ?
+	Free: Pattern=What about
+	Constrained: Pattern=about
+Turn ID=12| A | A : and now , they can't find them and they're finding bodies in you know , I mean , you think why they say it's because you're over crowd , it's over crowded , and you think how is , is everybody that stupid or is the world really that rotten
+	Free: Pattern=you, Pattern=they, Pattern=and, Pattern=I mean ,, Pattern=now, Pattern=, I, Pattern=because, Pattern=, it's, Pattern=they're, Pattern=it's, Pattern=them, Pattern=that
+	Constrained: Pattern=it's, Pattern=I
+Turn ID=13| B | B : I mean , it's like , that was just something because that was like live and real like you said ,
+	Free: Pattern=you, Pattern=just, Pattern=because, Pattern=and, Pattern=, it's, Pattern=I mean ,, Pattern=was, Pattern=that
+	Constrained: Pattern=it's, Pattern=I
+Turn ID=14| A | A : Uh , I wish it were a little bit harder to not serve on juries actually . I mean , I know , it , it , it's tricky because I know , you know , an awful lot of intelligent people who just , well I'm too busy to serve on a jury ,
+	Free: Pattern=well, Pattern=you, Pattern=just, Pattern=Uh , I, Pattern=I, Pattern=. I, Pattern=, it's, Pattern=I mean ,, Pattern=to, Pattern=, I, Pattern=because
+	Constrained: Pattern=it's, Pattern=Uh ,, Pattern=I, Pattern=, I
+Turn ID=15| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=16| A | A : We had about , a little bit less than two weeks .
+	Free: Pattern=about
+	Constrained: 
+Turn ID=17| B | B : Uh , that happens to be my specialty for that family . I do other things very well ,
+	Free: Pattern=well, Pattern=. I, Pattern=Uh ,, Pattern=to, Pattern=that
+	Constrained: Pattern=I
+Turn ID=18| A | A : that are sometimes so dumb
+	Free: Pattern=that
+	Constrained: 
+Turn ID=19| B | B : Uh , I take my boys well , I took them up until this year , they're grown and gone from home now
+	Free: Pattern=well, Pattern=, I, Pattern=they're, Pattern=now, Pattern=them, Pattern=and, Pattern=Uh , I
+	Constrained: Pattern=Uh ,, Pattern=, I, Pattern=I

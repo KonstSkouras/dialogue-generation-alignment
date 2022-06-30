@@ -1,0 +1,63 @@
+A|0| B: Yeah , _that's_ how it works . 
+B|1| M: He's been in power for over _a_ year . 
+A|2| B: You just say , Have [a] good day or whatever . 
+B|3| M: adays 
+A|4| B: Um , 
+B|5| M:  
+A|6| B: Right . 
+B|7| M: Are they ? 
+A|8| B: Uh-huh . 
+B|9| M: Ohhaha . So you ... 
+A|10| B: Uh-huh . 
+B|11| M: I think [that's] what I'd do . 
+A|12| B: Yes . 
+B|13| M: She's not there anymore . 
+B|14| M: We'll be getting [a] few recruits in the spring , but they're [a] little out of the loop . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Yeah , that's how it works .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=1| B | M : He's been in power for over a year .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=2| A | B : You just say , Have a good day or whatever .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=3| B | M : adays
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : Um ,
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : Are they ?
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : Ohhaha . So you ...
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : I think that's what I'd do .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=12| A | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : She's not there anymore .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : We'll be getting a few recruits in the spring , but they're a little out of the loop .
+	Free: Pattern=a
+	Constrained: 

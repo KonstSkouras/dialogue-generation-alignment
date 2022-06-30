@@ -1,0 +1,239 @@
+A|0| B: So , 
+B|1| M: _I_ _don't_ _know , I'm_ hoping _we_ could _get_ _a_ third person _to do it_ _, but_ _I'm not_ sure . 
+A|2| B: _and_ , 
+B|3| M:  ? 
+A|4| B: [I] was reading just recently where _the_ typical administrator _in_ _the_ , Montgomery County Public Schools makes , _and_ [I'm not] , this _is_ , uh , _the_ figure _, he_ makes eighty thousand dollars [a] year . 
+B|5| M: No _, I'm not_ . 
+A|6| B: _Right ._ 
+B|7| M: No , [not] here's , here _, what_ ? 
+A|8| B: I'd say health care _is_ _way_ up _there_ , especially anybody _with_ kids . Uh _and_ that's _one_ _of_ _the_ big things _that_ [we] always look at _, you_ [know] . When [we] , when _I think_ about changing jobs _is_ _, you_ [know _,] you_ [know [,] what] kind _of_ health care _they_ _have_ 
+B|9| M: [I] 
+A|10| B: Course _they_ _have_ such [a] crime problem because _they_ _have_ such [a] unemployment rate . 
+B|11| M: Yes . [I] agree . 
+A|12| B: If [it] rained [we] were stuck back _in_ _there ._ Had [a] four wheel drive . 
+B|13| M: He got away [with] [it] [, he] had [a] good run . 
+A|14| B: Uh-huh , uh-huh . 
+B|15| M: What _do_ [you] _mean_ ? 
+A|16| B: Okay . 
+B|17| M: How much ? 
+A|18| B: _Right_ _and_ _the_ weed come up , 
+B|19| M: Would [it] 
+A|20| B: And if , if _they_ [know] some practice _is_ wrong _, you_ [know [, I'm] not] talking about your isolated occurrences [, I'm] talking more about _the_ _, you_ [know ,] _the_ thing _that_ _they_ [know ,] maybe _they're_ willfully manufacturing something _that_ _they_ [know] _is_ hurting _people_ out _there_ _and_ _they_ continue [to do it] even after _they_ become aware _of_ _that_ . 
+B|21| M: You're [not] limited [, you] [have] [to do it] 
+A|22| B: _Well [,_ what] [, what] [it] will _be_ [, you] just [, you] drive up on _the_ jack [, but] [you] , [it] won't go down . 
+B|23| M: uuhhuhuhuh uuhuhhuuhuhuuhuh 
+A|24| B: Uh-huh . 
+B|25| M: There's [a] lot [of] [people] who _don't_ believe [in] God . 
+A|26| B: And , uh _, yeah ._ 
+B|27| M: _The_ [way] [I] understand [it] [is] [that] [they're] going [to] _get_ [the] same treatment as [the] inmates . 
+A|28| B: And there's no family _there_ , _they_ _don't get_ [to] see their grandkids , _they_ _don't get_ [to] see their children , _they_ just _there_ [in] [that] _house ._ 
+B|29| M: _It's_ [not] [a] language . 
+A|30| B: They are _beautiful_ homes . 
+B|31| M: Yeah [I] heard [they] changed [it] [to] [a] felony . 
+A|32| B: [I] just want [to] , 
+B|33| M: [Well ,] [we] [do] [have] [a] [house .] 
+A|34| B: They're ... 
+B|35| M: ' . 
+A|36| B: _I think_ [that] helps . 
+B|37| M: Yes [, but] [the] risk [is] still [there .] 
+A|38| B: Uh-huh . 
+B|39| M: That's how [I] got my wife [and] my wife's friend 
+A|40| B: Uh-huh . 
+B|41| M: [I'm] [a] Floridian [and] [I think] Florida [is] [a] [beautiful] state . 
+A|42| B: But you'll see , [I] [mean] , if [you] ever start looking [in] papers now [and] [you] start seeing these ads _for_ German Shepherds , [they] will say on them , bred _for_ disposition , A K C conforming which means [that] their advertising [that] this [is] no longer an indiscriminate dog . 
+B|43| M: Ah , well [, you] [don't] [know] me . 
+A|44| B: Uh-huh . 
+B|45| M: [I] [don't] [be] [a] doctor ? 
+A|46| B: Uh [, but] , 
+B|47| M: [I'm] sorry [I] [don't get] [it] . 
+A|48| B: Um . 
+B|49| M: Yes . Yes she does . 
+A|50| B: Last year [it] was D C , [I] guess Baltimore caught them . 
+B|51| M: [I'm] a'there's . 
+A|52| B: It kind [of] crept [in] [and] , 
+B|53| M: Uhhh [, yeah .] 
+A|54| B: [The] other _one_ [is] , uh , uh , has [, you] [know ,] needs more work done . [It's] twenty years old , [I think] . 
+B|55| M: Yeah . [Right .] 
+A|56| B: [and] then , [of] course , _one_ thing [I think] , too , [is] [with] 
+B|57| M:  ... 
+B|58| M: [Well ,] I've got [a] new [one] [for] [you] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : So ,
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I don't know , I'm hoping we could get a third person to do it , but I'm not sure .
+	Free: Pattern=, but, Pattern=a, Pattern=we, Pattern=don't, Pattern=to do it, Pattern=I'm not, Pattern=get, Pattern=know , I'm, Pattern=I
+	Constrained: Pattern=know ,, Pattern=I'm, Pattern=do, Pattern=it, Pattern=know, Pattern=to, Pattern=, I'm, Pattern=not
+Turn ID=2| A | B : and ,
+	Free: Pattern=and
+	Constrained: 
+Turn ID=3| B | M :  ?
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : I was reading just recently where the typical administrator in the , Montgomery County Public Schools makes , and I'm not , this is , uh , the figure , he makes eighty thousand dollars a year .
+	Free: Pattern=a, Pattern=and, Pattern=I, Pattern=, he, Pattern=in, Pattern=is, Pattern=the, Pattern=I'm not
+	Constrained: Pattern=not, Pattern=I'm
+Turn ID=5| B | M : No , I'm not .
+	Free: Pattern=, I'm not
+	Constrained: Pattern=, I'm, Pattern=I'm not, Pattern=not, Pattern=I'm
+Turn ID=6| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=7| B | M : No , not here's , here , what ?
+	Free: Pattern=, what, Pattern=not
+	Constrained: 
+Turn ID=8| A | B : I'd say health care is way up there , especially anybody with kids . Uh and that's one of the big things that we always look at , you know . When we , when I think about changing jobs is , you know , you know , what kind of health care they have
+	Free: Pattern=have, Pattern=, what, Pattern=and, Pattern=one, Pattern=is, Pattern=we, Pattern=I think, Pattern=the, Pattern=of, Pattern=know ,, Pattern=they, Pattern=there, Pattern=know, Pattern=, you, Pattern=with, Pattern=that, Pattern=way
+	Constrained: Pattern=I, Pattern=you, Pattern=know
+Turn ID=9| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=10| A | B : Course they have such a crime problem because they have such a unemployment rate .
+	Free: Pattern=a, Pattern=they, Pattern=have
+	Constrained: 
+Turn ID=11| B | M : Yes . I agree .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=12| A | B : If it rained we were stuck back in there . Had a four wheel drive .
+	Free: Pattern=a, Pattern=it, Pattern=we, Pattern=there ., Pattern=in
+	Constrained: Pattern=there
+Turn ID=13| B | M : He got away with it , he had a good run .
+	Free: Pattern=, he, Pattern=with, Pattern=it, Pattern=a
+	Constrained: 
+Turn ID=14| A | B : Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : What do you mean ?
+	Free: Pattern=do, Pattern=you, Pattern=mean
+	Constrained: 
+Turn ID=16| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : How much ?
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : Right and the weed come up ,
+	Free: Pattern=and, Pattern=the, Pattern=Right
+	Constrained: 
+Turn ID=19| B | M : Would it
+	Free: Pattern=it
+	Constrained: 
+Turn ID=20| A | B : And if , if they know some practice is wrong , you know , I'm not talking about your isolated occurrences , I'm talking more about the , you know , the thing that they know , maybe they're willfully manufacturing something that they know is hurting people out there and they continue to do it even after they become aware of that .
+	Free: Pattern=people, Pattern=and, Pattern=know , I'm, Pattern=they're, Pattern=is, Pattern=to do it, Pattern=, I'm, Pattern=that, Pattern=of, Pattern=know ,, Pattern=they, Pattern=there, Pattern=know, Pattern=, you, Pattern=, I'm not, Pattern=the
+	Constrained: Pattern=know ,, Pattern=do, Pattern=it, Pattern=know, Pattern=to, Pattern=I'm not, Pattern=, I'm, Pattern=not, Pattern=you, Pattern=I'm
+Turn ID=21| B | M : You're not limited , you have to do it
+	Free: Pattern=to do it, Pattern=, you, Pattern=not, Pattern=have
+	Constrained: Pattern=do, Pattern=it, Pattern=to, Pattern=you
+Turn ID=22| A | B : Well , what , what it will be , you just , you drive up on the jack , but you , it won't go down .
+	Free: Pattern=, what, Pattern=it, Pattern=Well ,, Pattern=, you, Pattern=be, Pattern=the, Pattern=you, Pattern=, but
+	Constrained: Pattern=you
+Turn ID=23| B | M : uuhhuhuhuh uuhuhhuuhuhuuhuh
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : There's a lot of people who don't believe in God .
+	Free: Pattern=of, Pattern=people, Pattern=a, Pattern=in, Pattern=don't
+	Constrained: 
+Turn ID=26| A | B : And , uh , yeah .
+	Free: Pattern=, yeah .
+	Constrained: 
+Turn ID=27| B | M : The way I understand it is that they're going to get the same treatment as the inmates .
+	Free: Pattern=it, Pattern=I, Pattern=they're, Pattern=is, Pattern=the, Pattern=The, Pattern=to, Pattern=get, Pattern=that, Pattern=way
+	Constrained: 
+Turn ID=28| A | B : And there's no family there , they don't get to see their grandkids , they don't get to see their children , they just there in that house .
+	Free: Pattern=house ., Pattern=in, Pattern=to, Pattern=that, Pattern=don't get, Pattern=they, Pattern=there
+	Constrained: Pattern=get, Pattern=don't
+Turn ID=29| B | M : It's not a language .
+	Free: Pattern=not, Pattern=a, Pattern=It's
+	Constrained: 
+Turn ID=30| A | B : They are beautiful homes .
+	Free: Pattern=beautiful
+	Constrained: 
+Turn ID=31| B | M : Yeah I heard they changed it to a felony .
+	Free: Pattern=they, Pattern=a, Pattern=it, Pattern=I, Pattern=to
+	Constrained: 
+Turn ID=32| A | B : I just want to ,
+	Free: Pattern=I, Pattern=to
+	Constrained: 
+Turn ID=33| B | M : Well , we do have a house .
+	Free: Pattern=have, Pattern=house ., Pattern=Well ,, Pattern=we, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=34| A | B : They're ...
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : ' .
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : I think that helps .
+	Free: Pattern=I think, Pattern=that
+	Constrained: Pattern=I
+Turn ID=37| B | M : Yes , but the risk is still there .
+	Free: Pattern=there ., Pattern=, but, Pattern=the, Pattern=is
+	Constrained: Pattern=there
+Turn ID=38| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : That's how I got my wife and my wife's friend
+	Free: Pattern=I, Pattern=and
+	Constrained: 
+Turn ID=40| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : I'm a Floridian and I think Florida is a beautiful state .
+	Free: Pattern=I'm, Pattern=a, Pattern=and, Pattern=beautiful, Pattern=is, Pattern=I think
+	Constrained: Pattern=I
+Turn ID=42| A | B : But you'll see , I mean , if you ever start looking in papers now and you start seeing these ads for German Shepherds , they will say on them , bred for disposition , A K C conforming which means that their advertising that this is no longer an indiscriminate dog .
+	Free: Pattern=you, Pattern=mean, Pattern=they, Pattern=for, Pattern=and, Pattern=I, Pattern=in, Pattern=is, Pattern=that
+	Constrained: 
+Turn ID=43| B | M : Ah , well , you don't know me .
+	Free: Pattern=, you, Pattern=know, Pattern=don't
+	Constrained: Pattern=you
+Turn ID=44| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : I don't be a doctor ?
+	Free: Pattern=I, Pattern=be, Pattern=a, Pattern=don't
+	Constrained: 
+Turn ID=46| A | B : Uh , but ,
+	Free: Pattern=, but
+	Constrained: 
+Turn ID=47| B | M : I'm sorry I don't get it .
+	Free: Pattern=don't get, Pattern=I, Pattern=it, Pattern=I'm
+	Constrained: Pattern=get, Pattern=don't
+Turn ID=48| A | B : Um .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : Yes . Yes she does .
+	Free: 
+	Constrained: 
+Turn ID=50| A | B : Last year it was D C , I guess Baltimore caught them .
+	Free: Pattern=I, Pattern=it
+	Constrained: 
+Turn ID=51| B | M : I'm a'there's .
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=52| A | B : It kind of crept in and ,
+	Free: Pattern=and, Pattern=of, Pattern=in
+	Constrained: 
+Turn ID=53| B | M : Uhhh , yeah .
+	Free: Pattern=, yeah .
+	Constrained: 
+Turn ID=54| A | B : The other one is , uh , uh , has , you know , needs more work done . It's twenty years old , I think .
+	Free: Pattern=know ,, Pattern=one, Pattern=, you, Pattern=is, Pattern=I think, Pattern=It's, Pattern=The
+	Constrained: Pattern=I, Pattern=know, Pattern=you
+Turn ID=55| B | M : Yeah . Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=56| A | B : and then , of course , one thing I think , too , is with
+	Free: Pattern=of, Pattern=and, Pattern=one, Pattern=is, Pattern=I think, Pattern=with
+	Constrained: Pattern=I
+Turn ID=57| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=58| B | M : Well , I've got a new one for you .
+	Free: Pattern=you, Pattern=a, Pattern=for, Pattern=one, Pattern=Well ,
+	Constrained: 

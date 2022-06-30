@@ -1,0 +1,63 @@
+A|0| A: No , _no_ . 
+B|1| M: It's _a_ hard thing _to_ say . 
+A|2| A: Yeah . 
+B|3| M: _I have_ family in the _state_ _of_ Texas . 
+A|4| A: _Well ,_ _no_ that's my _other_ phone . 
+B|5| M: My cat . She's _a_ big one . 
+A|6| A: _I mean _,_ and_ [I] think _it's going to_ be real interesting [to] see _and_ _, and_ then force upon them , uh , 
+B|7| M: [Well _,] [I_ mean ,] you're _not_ wrong . 
+A|8| A: so many , uh , women are heads [of] [state] _and_ [I] , you know , we , we keep saying oh yes , we feel some day [a] woman will be president . _But_ , uh [, [I] have] some question , whether or [not] they will ever really _get_ around [to] that . [I] think we'll [have] [a] black president before we [have] [a] women president . 
+B|9| M: [But] there is [no] [other] way [to] play . 
+A|10| A: [I] _like_ that . 
+B|11| M: Why ? It's [a] very good movie , [it's] [a] great movie [, and] [it's] [not] [like] [it's going to] [get] better . 
+A|12| A: Oh , really ? Uh-huh . 
+B|13| M: this 
+A|14| A: Huh . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : No , no .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=1| B | M : It's a hard thing to say .
+	Free: Pattern=to, Pattern=a
+	Constrained: 
+Turn ID=2| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : I have family in the state of Texas .
+	Free: Pattern=I have, Pattern=of, Pattern=state
+	Constrained: Pattern=have, Pattern=I
+Turn ID=4| A | A : Well , no that's my other phone .
+	Free: Pattern=Well ,, Pattern=other, Pattern=no
+	Constrained: 
+Turn ID=5| B | M : My cat . She's a big one .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=6| A | A : I mean , and I think it's going to be real interesting to see and , and then force upon them , uh ,
+	Free: Pattern=and, Pattern=I, Pattern=I mean ,, Pattern=it's going to, Pattern=, and, Pattern=to
+	Constrained: Pattern=it's, Pattern=I, Pattern=to, Pattern=and
+Turn ID=7| B | M : Well , I mean , you're not wrong .
+	Free: Pattern=I mean ,, Pattern=Well ,, Pattern=, I, Pattern=not
+	Constrained: Pattern=I
+Turn ID=8| A | A : so many , uh , women are heads of state and I , you know , we , we keep saying oh yes , we feel some day a woman will be president . But , uh , I have some question , whether or not they will ever really get around to that . I think we'll have a black president before we have a women president .
+	Free: Pattern=of, Pattern=state, Pattern=have, Pattern=and, Pattern=I, Pattern=But, Pattern=I have, Pattern=to, Pattern=get, Pattern=not, Pattern=, I, Pattern=a
+	Constrained: Pattern=have, Pattern=I
+Turn ID=9| B | M : But there is no other way to play .
+	Free: Pattern=to, Pattern=other, Pattern=But, Pattern=no
+	Constrained: 
+Turn ID=10| A | A : I like that .
+	Free: Pattern=like, Pattern=I
+	Constrained: 
+Turn ID=11| B | M : Why ? It's a very good movie , it's a great movie , and it's not like it's going to get better .
+	Free: Pattern=a, Pattern=like, Pattern=, and, Pattern=it's, Pattern=not, Pattern=get, Pattern=it's going to
+	Constrained: Pattern=it's, Pattern=to, Pattern=and
+Turn ID=12| A | A : Oh , really ? Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : this
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : Huh .
+	Free: 
+	Constrained: 

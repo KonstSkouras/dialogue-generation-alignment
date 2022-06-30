@@ -1,0 +1,235 @@
+A|0| B: _Yes_ . 
+B|1| M: In fairness , he _was_ probably _the_ first person _to_ ever actually _get_ hit by _a_ car 
+A|2| B: Oh , _that_ sounds _good_ . 
+B|3| M: I'm _a_ bit confused 
+A|4| B: _Well ,_ when _you_ when _you_ go out into [the] _, uh ,_ when _you_ go out into [the] working world _it_ , _it_ changes quickly . 
+B|5| M: _That's_ _a_ [good] idea . 
+A|6| B: Uh-huh . 
+B|7| M:  
+A|8| B: _Yeah ,_ _really_ . If _they_ survive this year . Oh , well , [good] luck [to] _you_ . 
+B|9| M: _It's_ , 
+A|10| B: Oh , _that_ sounds _like_ [a] fun , fun field . 
+B|11| M: [Well [,] uh ,] how _do_ we _do_ [it] ? 
+A|12| B: _It_ _just_ _really_ gets way , when [it] gets way too hot 
+B|13| M:  ... 
+A|14| B: So that's make up most _of_ [the] laboratory so from , from _that_ standpoint , it's pretty small it's pretty small . 
+B|15| M: Why would [you] say [that] ? 
+A|16| B: Um _, you_ _know ,_ [it] may prevent somebody who [was] , [was] teetering on [the] edge _of_ experimenting _or_ whatnot _but_ [, uh _,] _I_ don't_ _know_ _if_ _, you_ _know ,_ [the] , it's , it's [a] needs _of_ [the] few _and_ [the] needs _of_ [the] many type situation _I don't_ _know_ _if_ everybody should _have to_ sacrifice quite as much . There , there's still _a big_ question _in_ my mind [that] , [the] , [the] absolute refusal [to] accept [the] possibility _of_ , _of_ mistakes on [the] testing , is something [that] still bothers me . 
+B|17| M: What ? 
+A|18| B: Uh-huh . 
+B|19| M: [Yeah _,] but_ then I'd [have to] walk around _for_ hours . 
+A|20| B: [Yeah [,] uh ,] _are_ [you] going [to] [, uh ,] put your son _in_ child _care_ _in_ [a] _, a_ year _or_ two ? 
+B|21| M: _That's_ true . 
+A|22| B: Uh _, _I_ don't _,_ _I_ don't_ even _think that_ [it] should be unanimous either . Uh , 
+B|23| M: They come [in] [the] winter [and] leave them [in] [the] recycling bin . 
+A|24| B: Uh-huh . 
+B|25| M: _I got_ involved _with_ [it] . [It] [was] [a] dance dance [, a] group [of] _people_ were dancing . 
+A|26| B: Uh-huh . 
+B|27| M: _Not_ exactly . I've never cooked [it] . 
+A|28| B: So _they_ found [a] [, a] place nearby [that] _they_ put her [in] last year . 
+B|29| M: They'd [have to] [have] [the] family [or] friends [to] [have] _any_ [good] [care] . 
+A|30| B: Okay , 
+B|31| M: [Yes] [, I] _do_ . 
+A|32| B: [I] mean , [people] [do] , 
+B|33| M: Texas . _You_ ? 
+A|34| B: [You] cannot show your retriever _if_ it's _, you_ _know [,_ a] hundred plus pounds . 
+B|35| M: [I don't [,] uh ,] [know ,] _what_ [, uh] 
+A|36| B: _I _, I_ , I_ _really_ _think_ we're going [to] far overboard [with] all [of] this . 
+B|37| M: He [was] [really] [a big] guy 
+A|38| B: Um , my husband has used [the] one at his folks house [for] mostly business things . Uh , his resume , his [, uh ,] letter , 
+B|39| M: They _get away_ _, but they_ _get away_ . 
+A|40| B: [Not] getting [to] go . 
+B|41| M: What ? 
+A|42| B: [You] can't [get away] from [it] so [I] _think_ , To some point , 
+B|43| M: no 
+A|44| B: [Well ,] is [the] pollution [really] bad up _there_ ? 
+B|45| M:  
+A|46| B: [I] can't remember which . [I] [was] on [a] jury trial last year only [I got] kicked out as [, uh ,] [the] last selection [that] [the] [, uh ,] defense [got] . 
+B|47| M: [You] [don't] 
+A|48| B: [That's] correct . 
+B|49| M:  . 
+A|50| B: _And_ [, but they] [have] two children , too , [and] [they] , [they] bought [what] [they] could afford . 
+B|51| M: I'd [like] [to] [think that] she [was] [just] laying [there] waiting [for] [the] water [to] cool . 
+A|52| B: Uh , yeah , unfortunately [the] little portable P C [that] [was] plugged on [the] back [was] only [a] seven [and] [a] half megahertz , eighty , eighty-six . [It's] [like] slow out [the] 
+B|53| M: [It's] [a big] problem , isn't [it] ? 
+A|54| B: _I [,_ uh [,] I] haven't done [any] [of] [that] type [of] work myself . 
+B|55| M: Yourself . She's 
+A|56| B: [Yeah] . 
+B|57| M: [And] [if] [you] [do] not [get] [the] answer [, you] [are] [, I] am [, I , I] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Yes .
+	Free: Pattern=Yes
+	Constrained: 
+Turn ID=1| B | M : In fairness , he was probably the first person to ever actually get hit by a car
+	Free: Pattern=a, Pattern=the, Pattern=to, Pattern=was, Pattern=get
+	Constrained: 
+Turn ID=2| A | B : Oh , that sounds good .
+	Free: Pattern=good, Pattern=that
+	Constrained: 
+Turn ID=3| B | M : I'm a bit confused
+	Free: Pattern=a
+	Constrained: 
+Turn ID=4| A | B : Well , when you when you go out into the , uh , when you go out into the working world it , it changes quickly .
+	Free: Pattern=you, Pattern=it, Pattern=Well ,, Pattern=, uh ,, Pattern=the
+	Constrained: Pattern=, uh
+Turn ID=5| B | M : That's a good idea .
+	Free: Pattern=a, Pattern=good, Pattern=That's
+	Constrained: 
+Turn ID=6| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : Yeah , really . If they survive this year . Oh , well , good luck to you .
+	Free: Pattern=good, Pattern=you, Pattern=they, Pattern=really, Pattern=Yeah ,, Pattern=to
+	Constrained: Pattern=Yeah
+Turn ID=9| B | M : It's ,
+	Free: Pattern=It's
+	Constrained: 
+Turn ID=10| A | B : Oh , that sounds like a fun , fun field .
+	Free: Pattern=a, Pattern=that, Pattern=like
+	Constrained: 
+Turn ID=11| B | M : Well , uh , how do we do it ?
+	Free: Pattern=, uh ,, Pattern=Well ,, Pattern=do, Pattern=it
+	Constrained: Pattern=, uh
+Turn ID=12| A | B : It just really gets way , when it gets way too hot
+	Free: Pattern=just, Pattern=it, Pattern=really, Pattern=It
+	Constrained: 
+Turn ID=13| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : So that's make up most of the laboratory so from , from that standpoint , it's pretty small it's pretty small .
+	Free: Pattern=of, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=15| B | M : Why would you say that ?
+	Free: Pattern=you, Pattern=that
+	Constrained: 
+Turn ID=16| A | B : Um , you know , it may prevent somebody who was , was teetering on the edge of experimenting or whatnot but , uh , I don't know if , you know , the , it's , it's a needs of the few and the needs of the many type situation I don't know if everybody should have to sacrifice quite as much . There , there's still a big question in my mind that , the , the absolute refusal to accept the possibility of , of mistakes on the testing , is something that still bothers me .
+	Free: Pattern=if, Pattern=I don't, Pattern=in, Pattern=, uh ,, Pattern=the, Pattern=have to, Pattern=to, Pattern=was, Pattern=of, Pattern=know ,, Pattern=, I, Pattern=a, Pattern=it, Pattern=and, Pattern=know, Pattern=, you, Pattern=or, Pattern=a big, Pattern=that, Pattern=but
+	Constrained: Pattern=have, Pattern=a, Pattern=I, Pattern=know, Pattern=don't, Pattern=to, Pattern=you, Pattern=, uh
+Turn ID=17| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : Yeah , but then I'd have to walk around for hours .
+	Free: Pattern=, but, Pattern=Yeah ,, Pattern=have to, Pattern=for
+	Constrained: Pattern=but, Pattern=Yeah, Pattern=to, Pattern=have
+Turn ID=20| A | B : Yeah , uh , are you going to , uh , put your son in child care in a , a year or two ?
+	Free: Pattern=you, Pattern=a, Pattern=care, Pattern=are, Pattern=in, Pattern=, a, Pattern=or, Pattern=, uh ,, Pattern=Yeah ,, Pattern=to
+	Constrained: Pattern=, uh, Pattern=Yeah, Pattern=a
+Turn ID=21| B | M : That's true .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=22| A | B : Uh , I don't , I don't even think that it should be unanimous either . Uh ,
+	Free: Pattern=I don't ,, Pattern=, I, Pattern=it, Pattern=I don't, Pattern=think that
+	Constrained: Pattern=I, Pattern=I don't, Pattern=think, Pattern=don't, Pattern=that
+Turn ID=23| B | M : They come in the winter and leave them in the recycling bin .
+	Free: Pattern=the, Pattern=and, Pattern=in
+	Constrained: 
+Turn ID=24| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I got involved with it . It was a dance dance , a group of people were dancing .
+	Free: Pattern=of, Pattern=people, Pattern=a, Pattern=it, Pattern=, a, Pattern=It, Pattern=I got, Pattern=was, Pattern=with
+	Constrained: Pattern=a, Pattern=got, Pattern=I
+Turn ID=26| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : Not exactly . I've never cooked it .
+	Free: Pattern=Not, Pattern=it
+	Constrained: 
+Turn ID=28| A | B : So they found a , a place nearby that they put her in last year .
+	Free: Pattern=they, Pattern=a, Pattern=in, Pattern=, a, Pattern=that
+	Constrained: Pattern=a
+Turn ID=29| B | M : They'd have to have the family or friends to have any good care .
+	Free: Pattern=good, Pattern=have, Pattern=or, Pattern=the, Pattern=have to, Pattern=to, Pattern=any, Pattern=care
+	Constrained: Pattern=to, Pattern=have
+Turn ID=30| A | B : Okay ,
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : Yes , I do .
+	Free: Pattern=, I, Pattern=Yes, Pattern=do
+	Constrained: Pattern=I
+Turn ID=32| A | B : I mean , people do ,
+	Free: Pattern=do, Pattern=people, Pattern=I
+	Constrained: 
+Turn ID=33| B | M : Texas . You ?
+	Free: Pattern=You
+	Constrained: 
+Turn ID=34| A | B : You cannot show your retriever if it's , you know , a hundred plus pounds .
+	Free: Pattern=know ,, Pattern=if, Pattern=, you, Pattern=, a, Pattern=You
+	Constrained: Pattern=a, Pattern=know, Pattern=you
+Turn ID=35| B | M : I don't , uh , know , what , uh
+	Free: Pattern=I don't ,, Pattern=know ,, Pattern=, uh, Pattern=what, Pattern=, uh ,
+	Constrained: Pattern=, uh, Pattern=I, Pattern=I don't, Pattern=know, Pattern=don't
+Turn ID=36| A | B : I , I , I really think we're going to far overboard with all of this .
+	Free: Pattern=of, Pattern=, I , I, Pattern=think, Pattern=really, Pattern=I , I, Pattern=to, Pattern=with
+	Constrained: Pattern=I , I, Pattern=, I, Pattern=I ,, Pattern=I
+Turn ID=37| B | M : He was really a big guy
+	Free: Pattern=a big, Pattern=was, Pattern=really
+	Constrained: Pattern=a
+Turn ID=38| A | B : Um , my husband has used the one at his folks house for mostly business things . Uh , his resume , his , uh , letter ,
+	Free: Pattern=, uh ,, Pattern=for, Pattern=the
+	Constrained: Pattern=, uh
+Turn ID=39| B | M : They get away , but they get away .
+	Free: Pattern=, but they, Pattern=get away
+	Constrained: Pattern=but, Pattern=they, Pattern=, but, Pattern=get
+Turn ID=40| A | B : Not getting to go .
+	Free: Pattern=Not, Pattern=to
+	Constrained: 
+Turn ID=41| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : You can't get away from it so I think , To some point ,
+	Free: Pattern=it, Pattern=I, Pattern=think, Pattern=You, Pattern=get away
+	Constrained: Pattern=get
+Turn ID=43| B | M : no
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : Well , is the pollution really bad up there ?
+	Free: Pattern=Well ,, Pattern=the, Pattern=really, Pattern=there
+	Constrained: 
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : I can't remember which . I was on a jury trial last year only I got kicked out as , uh , the last selection that the , uh , defense got .
+	Free: Pattern=a, Pattern=I, Pattern=, uh ,, Pattern=the, Pattern=was, Pattern=that, Pattern=I got, Pattern=got
+	Constrained: Pattern=got, Pattern=I, Pattern=, uh
+Turn ID=47| B | M : You don't
+	Free: Pattern=don't, Pattern=You
+	Constrained: 
+Turn ID=48| A | B : That's correct .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=49| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=50| A | B : And , but they have two children , too , and they , they bought what they could afford .
+	Free: Pattern=and, Pattern=, but they, Pattern=And, Pattern=have, Pattern=what, Pattern=they
+	Constrained: Pattern=, but, Pattern=but, Pattern=they
+Turn ID=51| B | M : I'd like to think that she was just laying there waiting for the water to cool .
+	Free: Pattern=just, Pattern=there, Pattern=for, Pattern=think that, Pattern=like, Pattern=the, Pattern=to, Pattern=was
+	Constrained: Pattern=think, Pattern=that
+Turn ID=52| A | B : Uh , yeah , unfortunately the little portable P C that was plugged on the back was only a seven and a half megahertz , eighty , eighty-six . It's like slow out the
+	Free: Pattern=a, Pattern=and, Pattern=like, Pattern=was, Pattern=that, Pattern=It's, Pattern=the
+	Constrained: 
+Turn ID=53| B | M : It's a big problem , isn't it ?
+	Free: Pattern=a big, Pattern=it, Pattern=It's
+	Constrained: Pattern=a
+Turn ID=54| A | B : I , uh , I haven't done any of that type of work myself .
+	Free: Pattern=I ,, Pattern=of, Pattern=, I, Pattern=any, Pattern=, uh ,, Pattern=that
+	Constrained: Pattern=, uh, Pattern=I
+Turn ID=55| B | M : Yourself . She's
+	Free: 
+	Constrained: 
+Turn ID=56| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=57| B | M : And if you do not get the answer , you are , I am , I , I .
+	Free: Pattern=you, Pattern=And, Pattern=, I , I, Pattern=, you, Pattern=the, Pattern=get, Pattern=do, Pattern=, I, Pattern=are, Pattern=if
+	Constrained: Pattern=I ,, Pattern=you, Pattern=, I, Pattern=I, Pattern=I , I

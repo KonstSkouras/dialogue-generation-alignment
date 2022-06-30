@@ -1,0 +1,195 @@
+A|0| A: _Yeah_ . 
+B|1| M: They're _not going_ _to_ come _in_ _because_ _they have_ no problems . 
+A|2| A: _you_ , _you_ see somebody's mini series and _you_ hear _about_ somebody's crime , _there_ _was_ something _on ,_ and this gets back [to] capital punishment _, but_ _the_ man _had_ stolen _, uh ,_ [not] stolen _but_ kidnapped _, uh ,_ _some_ wealthy ex-athlete's daughter somewhere [in] Florida and [they] changed all _the_ facts _that_ [they] said _it_ _was_ true 
+B|3| M: Hehe _, I'm_ glad you're _okay ._ 
+A|4| A: _Yeah_ . _Yeah_ . Um . _Well_ I'll tell _you_ . Sometimes _it's_ _, it's_ _pretty_ bad here . Like today _I think_ _it_ _was_ _pretty_ bad . _I don't_ _know_ if _it_ _was_ , if _it's_ just _, uh ,_ _the_ allergies or _what_ _but_ _some_ days _it's_ very nice here downtown 
+B|5| M: No _, I mean _,_ I_ am _not sure_ [about] [the] middle east [, but] [I] do [know] [that] [there] _is_ no reason [to] go [to] Syria . 
+A|6| A: [I] enjoyed having _a_ lawn service [but] now [I] [have] [the] time and [I] _really_ can't [, I] _really_ _you_ [know] , _don't_ , want [to] spend [the] money for _it ._ 
+B|7| M: _That's_ [the] dog . 
+A|8| A: And she's _on_ [the] yearbook staff and things _like_ [that] so [I] _can_ help her with [that] and she gives me ideas for my writing too so . 
+B|9| M: [I think] _we_ should be worried [about] [the] people who _are_ [in] [the] military . 
+A|10| A: _Yeah ,_ _Yeah_ . 
+B|11| M: That , work . 
+A|12| A: Static here . 
+B|13| M: _Well ,_ 
+A|14| A: and [they] [are] , um , _of_ an advanced years , and when [I] see [the] money _that's_ poured down [the] , down [the] drain _on_ Medicare and Medicaid [, I mean ,] [the] , absolute uncontrollable situation [that] [we] find ourselves [in] , 
+B|15| M: The train [of] kittens . 
+A|16| A: It sounds nice . 
+B|17| M: _I'm not_ gonna lie . 
+A|18| A: Like , _what_ [is] _a_ book _on_ your list , _you_ [know] [I] [have] _a_ list too and [I] [have] never gotten [to] _it_ 
+B|19| M: _I'm_ , get , kids [on [,] uh ,] 
+A|20| A: Uh-huh . 
+B|21| M: It's _been_ [a] while . 
+A|22| A: Oh , _don't_ _you_ hate [that] ? I've got [a] [, I] got [a] few pounds [to] lose myself . [That's] [okay .] 
+B|23| M: Don't ! 
+A|24| A: Uh-huh . 
+B|25| M: You _like the_ _look_ [of] [it .] [uh] 
+A|26| A: Which makes her [, I] guess , unshowable , even if she _had_ papers which she doesn't 
+B|27| M: [Yeah [,] it's] called motherhood . 
+A|28| A: he's [been] doing real good . _I'm pretty_ impressed with him so far . 
+B|29| M: They made [some] kind [of] funny looking onion ring , 
+A|30| A: [I] [know] , and [it] , and [the] economy here [in] Dallas [, I mean ,] [it] [, it's] steady [, but] [it's] still [not going] up . 
+B|31| M: [Yeah _,] that's_ [what] [I] [was] thinking . 
+A|32| A: [I mean [,] that's] [, that's] just [not] [a] cop out [, uh ,] and [I] just , _you_ [know] [, I'm] originally from Pennsylvania which [I think] [is] basically [like] New York these days [, [I'm] [not] sure] if [they] [, _I] don't_ [think] [they have] capital punishment [there] . 
+B|33| M: [That's] _because_ [I'm] old 
+A|34| A: right . 
+B|35| M: [I'm pretty] [sure] [you] [can] 
+A|36| A: [that's] hard [to] say . Uh , so [, it's] [, it's] [, uh ,] [you] [know] , saying , well , [look] [we] _don't_ [like the] way he looks and , let's [, uh ,] let's throw [the] rascal [in] jail and stuff . 
+B|37| M: Why would [I] ? 
+A|38| A: Uh-huh . Uh-huh . 
+B|39| M: _Well [,_ it's] [been] [a] while . 
+A|40| A: [Well [,] that's] right , [because] [that's] just so much [of] [the] way [that] [they] make their money and so many communities [have] [, uh ,] [have] [to] [have] [that] for farming 
+B|41| M: Do [you] play any instruments ? 
+A|42| A: Uh-huh . 
+B|43| M: [I don't] [really] [know] . 
+A|44| A: [Yeah ,] [we] [have] . We . We did , [we] whirlwinded through , Europe . 
+B|45| M: [I'm] [going] crazy 
+A|46| A: Most [of] [the] time 
+B|47| M: You [mean] [you] [had] one ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=1| B | M : They're not going to come in because they have no problems .
+	Free: Pattern=they have, Pattern=because, Pattern=in, Pattern=not going, Pattern=to
+	Constrained: Pattern=going, Pattern=not, Pattern=they, Pattern=have
+Turn ID=2| A | A : you , you see somebody's mini series and you hear about somebody's crime , there was something on , and this gets back to capital punishment , but the man had stolen , uh , not stolen but kidnapped , uh , some wealthy ex-athlete's daughter somewhere in Florida and they changed all the facts that they said it was true
+	Free: Pattern=it, Pattern=about, Pattern=some, Pattern=in, Pattern=had, Pattern=the, Pattern=to, Pattern=was, Pattern=not, Pattern=you, Pattern=, but, Pattern=they, Pattern=there, Pattern=, uh ,, Pattern=on ,, Pattern=that, Pattern=but
+	Constrained: Pattern=but, Pattern=uh, Pattern=on
+Turn ID=3| B | M : Hehe , I'm glad you're okay .
+	Free: Pattern=, I'm, Pattern=okay .
+	Constrained: Pattern=I'm
+Turn ID=4| A | A : Yeah . Yeah . Um . Well I'll tell you . Sometimes it's , it's pretty bad here . Like today I think it was pretty bad . I don't know if it was , if it's just , uh , the allergies or what but some days it's very nice here downtown
+	Free: Pattern=you, Pattern=what, Pattern=it, Pattern=some, Pattern=know, Pattern=Well, Pattern=pretty, Pattern=the, Pattern=I don't, Pattern=, it's, Pattern=I think, Pattern=, uh ,, Pattern=Yeah, Pattern=was, Pattern=it's, Pattern=but
+	Constrained: Pattern=uh, Pattern=I, Pattern=think, Pattern=don't, Pattern=it's
+Turn ID=5| B | M : No , I mean , I am not sure about the middle east , but I do know that there is no reason to go to Syria .
+	Free: Pattern=, I mean ,, Pattern=, but, Pattern=there, Pattern=, I, Pattern=I, Pattern=about, Pattern=is, Pattern=the, Pattern=to, Pattern=that, Pattern=know, Pattern=not sure
+	Constrained: Pattern=mean, Pattern=, I, Pattern=I, Pattern=but, Pattern=not, Pattern=sure, Pattern=I mean ,
+Turn ID=6| A | A : I enjoyed having a lawn service but now I have the time and I really can't , I really you know , don't , want to spend the money for it .
+	Free: Pattern=have, Pattern=I, Pattern=know, Pattern=really, Pattern=the, Pattern=don't, Pattern=to, Pattern=but, Pattern=you, Pattern=it ., Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=it
+Turn ID=7| B | M : That's the dog .
+	Free: Pattern=That's, Pattern=the
+	Constrained: 
+Turn ID=8| A | A : And she's on the yearbook staff and things like that so I can help her with that and she gives me ideas for my writing too so .
+	Free: Pattern=I, Pattern=can, Pattern=like, Pattern=that, Pattern=on, Pattern=the
+	Constrained: 
+Turn ID=9| B | M : I think we should be worried about the people who are in the military .
+	Free: Pattern=are, Pattern=about, Pattern=in, Pattern=we, Pattern=I think, Pattern=the
+	Constrained: Pattern=I, Pattern=think
+Turn ID=10| A | A : Yeah , Yeah .
+	Free: Pattern=Yeah ,, Pattern=Yeah
+	Constrained: Pattern=Yeah
+Turn ID=11| B | M : That , work .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : Static here .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Well ,
+	Free: Pattern=Well ,
+	Constrained: Pattern=Well
+Turn ID=14| A | A : and they are , um , of an advanced years , and when I see the money that's poured down the , down the drain on Medicare and Medicaid , I mean , the , absolute uncontrollable situation that we find ourselves in ,
+	Free: Pattern=they, Pattern=in, Pattern=we, Pattern=that, Pattern=of, Pattern=, I mean ,, Pattern=are, Pattern=I, Pattern=on, Pattern=that's, Pattern=the
+	Constrained: Pattern=I, Pattern=I mean ,, Pattern=mean, Pattern=, I
+Turn ID=15| B | M : The train of kittens .
+	Free: Pattern=of
+	Constrained: 
+Turn ID=16| A | A : It sounds nice .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : I'm not gonna lie .
+	Free: Pattern=I'm not
+	Constrained: Pattern=not, Pattern=I'm
+Turn ID=18| A | A : Like , what is a book on your list , you know I have a list too and I have never gotten to it
+	Free: Pattern=you, Pattern=have, Pattern=what, Pattern=a, Pattern=it, Pattern=I, Pattern=know, Pattern=is, Pattern=on, Pattern=to
+	Constrained: 
+Turn ID=19| B | M : I'm , get , kids on , uh ,
+	Free: Pattern=, uh ,, Pattern=on ,, Pattern=I'm
+	Constrained: Pattern=uh, Pattern=on
+Turn ID=20| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : It's been a while .
+	Free: Pattern=been, Pattern=a
+	Constrained: 
+Turn ID=22| A | A : Oh , don't you hate that ? I've got a , I got a few pounds to lose myself . That's okay .
+	Free: Pattern=okay ., Pattern=you, Pattern=That's, Pattern=don't, Pattern=to, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=23| B | M : Don't !
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : You like the look of it . uh
+	Free: Pattern=of, Pattern=look, Pattern=like the, Pattern=uh, Pattern=it .
+	Constrained: Pattern=it, Pattern=like, Pattern=the
+Turn ID=26| A | A : Which makes her , I guess , unshowable , even if she had papers which she doesn't
+	Free: Pattern=, I, Pattern=had
+	Constrained: Pattern=I
+Turn ID=27| B | M : Yeah , it's called motherhood .
+	Free: Pattern=, it's, Pattern=Yeah ,
+	Constrained: Pattern=Yeah, Pattern=it's
+Turn ID=28| A | A : he's been doing real good . I'm pretty impressed with him so far .
+	Free: Pattern=I'm pretty, Pattern=been
+	Constrained: Pattern=I'm, Pattern=pretty
+Turn ID=29| B | M : They made some kind of funny looking onion ring ,
+	Free: Pattern=some, Pattern=of
+	Constrained: 
+Turn ID=30| A | A : I know , and it , and the economy here in Dallas , I mean , it , it's steady , but it's still not going up .
+	Free: Pattern=, I mean ,, Pattern=, but, Pattern=it, Pattern=I, Pattern=, it's, Pattern=in, Pattern=know, Pattern=the, Pattern=not going, Pattern=it's
+	Constrained: Pattern=, I, Pattern=I, Pattern=I mean ,, Pattern=not, Pattern=going, Pattern=mean, Pattern=it's, Pattern=but
+Turn ID=31| B | M : Yeah , that's what I was thinking .
+	Free: Pattern=what, Pattern=I, Pattern=Yeah ,, Pattern=, that's, Pattern=was
+	Constrained: Pattern=that's, Pattern=Yeah
+Turn ID=32| A | A : I mean , that's , that's just not a cop out , uh , and I just , you know , I'm originally from Pennsylvania which I think is basically like New York these days , I'm not sure if they , I don't think they have capital punishment there .
+	Free: Pattern=you, Pattern=they have, Pattern=I, Pattern=I don't, Pattern=think, Pattern=is, Pattern=like, Pattern=, that's, Pattern=I'm not, Pattern=, I'm, Pattern=not, Pattern=they, Pattern=there, Pattern=, I, Pattern=a, Pattern=know, Pattern=not sure, Pattern=I think, Pattern=, uh ,, Pattern=I mean ,
+	Constrained: Pattern=they, Pattern=I, Pattern=think, Pattern=sure, Pattern=that's, Pattern=don't, Pattern=not, Pattern=uh, Pattern=I'm, Pattern=have, Pattern=mean
+Turn ID=33| B | M : That's because I'm old
+	Free: Pattern=That's, Pattern=because, Pattern=I'm
+	Constrained: 
+Turn ID=34| A | A : right .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : I'm pretty sure you can
+	Free: Pattern=I'm pretty, Pattern=you, Pattern=can, Pattern=sure
+	Constrained: Pattern=I'm, Pattern=pretty
+Turn ID=36| A | A : that's hard to say . Uh , so , it's , it's , uh , you know , saying , well , look we don't like the way he looks and , let's , uh , let's throw the rascal in jail and stuff .
+	Free: Pattern=you, Pattern=, it's, Pattern=in, Pattern=know, Pattern=look, Pattern=we, Pattern=, uh ,, Pattern=don't, Pattern=to, Pattern=like the, Pattern=that's, Pattern=the
+	Constrained: Pattern=it's, Pattern=uh, Pattern=like, Pattern=the
+Turn ID=37| B | M : Why would I ?
+	Free: Pattern=I
+	Constrained: 
+Turn ID=38| A | A : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : Well , it's been a while .
+	Free: Pattern=, it's, Pattern=Well ,, Pattern=been, Pattern=a
+	Constrained: Pattern=Well, Pattern=it's
+Turn ID=40| A | A : Well , that's right , because that's just so much of the way that they make their money and so many communities have , uh , have to have that for farming
+	Free: Pattern=of, Pattern=have, Pattern=they, Pattern=because, Pattern=Well ,, Pattern=, uh ,, Pattern=, that's, Pattern=to, Pattern=that, Pattern=that's, Pattern=the
+	Constrained: Pattern=that's, Pattern=Well, Pattern=uh
+Turn ID=41| B | M : Do you play any instruments ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=42| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : I don't really know .
+	Free: Pattern=I don't, Pattern=know, Pattern=really
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=44| A | A : Yeah , we have . We . We did , we whirlwinded through , Europe .
+	Free: Pattern=Yeah ,, Pattern=we, Pattern=have
+	Constrained: Pattern=Yeah
+Turn ID=45| B | M : I'm going crazy
+	Free: Pattern=going, Pattern=I'm
+	Constrained: 
+Turn ID=46| A | A : Most of the time
+	Free: Pattern=the, Pattern=of
+	Constrained: 
+Turn ID=47| B | M : You mean you had one ?
+	Free: Pattern=had, Pattern=you, Pattern=mean
+	Constrained: 

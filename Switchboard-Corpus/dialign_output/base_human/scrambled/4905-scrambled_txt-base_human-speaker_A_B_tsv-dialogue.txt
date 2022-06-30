@@ -1,0 +1,223 @@
+A|0| A: _Well ,_ that's _it ._ Last _year_ _, I think_ _it was_ , _you_ know , my peonies _were_ , _were_ , budding _in_ January _, and_ , _you_ know , _there_ _was_ no way _that_ _was_ going _to_ make _it_ _, and_ sure enough , _you_ know , we had _really_ mild weather until _I think_ _it was_ May or something 
+B|1| B: _Yeah ._ 
+A|2| A: _I mean_ _, I_ couldn't believe _that_ she couldn't _think of_ any place _. They_ said , _the_ , apparently _the_ crime , _is ,_ _just _,_ uh ,_ 
+B|3| B: Really ? 
+A|4| A: Uh , _well_ _, I think_ _all_ college players _have_ _to_ do an initial drug test at _a_ certain point prior _to_ _the_ season 
+B|5| B: _So_ _, [it_ was] [a] large reunion [of] , [of] , [of] [that] group [, uh ,] from [that] descendants . 
+A|6| A: In fact [, it] puts [it] out on Tuesdays _and_ Thursdays _I_ can hardly wait _to_ get [that] _to_ get _the_ local news 
+B|7| B: _And , uh _,_ it's_ about [a] five [year] old house now . 
+A|8| A: _Uh-huh ._ 
+B|9| B: [I mean] might _as_ [well] _not_ _even_ heat [and] cool [it .] 
+A|10| A: _Right _._ Yeah ,_ [that] would be [a] real _good_ motivation for people . 
+B|11| B: [Right] _, yeah ._ 
+A|12| A: _Well _,_ it _is_ ,_ _the_ hardest thing I've ever done , [as] much [as] you'd go out 
+B|13| B: [They] hold competitions [in] Los Angeles [in] , um , Florida [and] Minneapolis , um , _trying to_ [think of] [, I think] _it's_ [in] four places around [the] United States [. They] hold competition [and] [the] only requirement [is ,] [of] course , _your_ skill [of] passing _these_ tests , 
+A|14| A: In other words you're saying [that] , _you_ _have_ [to] find out whether [it's] premeditated or what [the] circumstances _were_ . 
+B|15| B: [Uh-huh .] 
+A|16| A: Yep _. _And_ then_ , _you_ know , if _you_ can put [your] cocoa [in] with [your] cornstarch if _you_ wanted [to] . The cocoa [even] seems [to] thicken [it] [even] more . 
+B|17| B: [Uh-huh .] [Uh-huh .] 
+A|18| A: [Yeah .] 
+B|19| B: Yours [is] [a] slab [I] assume . 
+A|20| A: [Uh-huh _.] [Yeah_ .] 
+B|21| B: It wasn't [that] long [that] [I] [was] [that] young . 
+A|22| A: Don't get enough sleep [as] _it [is_ _,] right_ 
+B|23| B: [Uh-huh .] 
+A|24| A: [Uh-huh .] 
+B|25| B: [Yeah .] 
+A|26| A: Oh [, yeah .] 
+B|27| B: [Well] I'm _not_ _talking_ about [just] [in] [the] school system . 
+A|28| A: [I mean] , actually [I think] [that] works pretty [well] . [and] [that] , [that] makes , 
+B|29| B: [And then] [as] _they_ got older , _they_ went [to] [, uh [,] I] preferred _to call_ _them_ schools [and] _they_ [were] [really] _all day_ preschools [and] _they_ [were] wonderful [. And] [I think] _they_ got exposed [to] [a] lot [of] neat _things ._ 
+A|30| A: [And , uh ,] [not] necessarily , _you_ know , give [in] [to] their [, uh ,] human rights desires . _You_ know , if they're overcrowded , [just] keep cramming [them] [in] _there_ till [they] [just] suffocate . Uh , 
+B|31| B: [uh] 
+A|32| A: _Yeah ,_ oh , but , boy _you_ try get into [that] , you'd [really] open [a] can [of] worms . 
+B|33| B: [Well _,] it's_ very true , now I'm [a] [, uh ,] New Yorker by birth . 
+A|34| A: [Uh-huh .] 
+B|35| B: _So_ [, right] now we're [just ,] 
+A|36| A: That would be [really] awful . 
+B|37| B: [Right .] 
+A|38| A: [Uh-huh .] 
+B|39| B: [And] electric windows [, and] power locks 
+A|40| A: [Uh-huh .] 
+B|41| B: Yes . 
+A|42| A: [Uh-huh .] taxes . 
+B|43| B: [you] can't help [it's] _like_ _, it's_ _like_ [a] kid . 
+A|44| A: Ten acres . 
+B|45| B: [Yeah [.] Yeah [,] it is] . [Well _,] it's_ [good] _talking_ , 
+A|46| A: [Yeah .] [So] other than [the] Vikings , who do [you] [like] ? 
+B|47| B: No ? Didn't [have] shrimp [there] huh 
+A|48| A: [Yeah [,] yeah] [, I think] so _too ._ But , [you] know [, it's] one [of] those [things .] 
+B|49| B: Sure . 
+A|50| A: [Uh-huh .] 
+B|51| B: Especially , 
+A|52| A: Real excited when [I] heard this . [So] far I've been [trying [to] call] [all day] because [I] keep getting [these] subjects [like] capital punishment so football [, I] love this . 
+B|53| B: [You] [too .] 
+A|54| A: but I've enjoyed [talking] [to] [you] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Well , that's it . Last year , I think it was , you know , my peonies were , were , budding in January , and , you know , there was no way that was going to make it , and sure enough , you know , we had really mild weather until I think it was May or something
+	Free: Pattern=it was, Pattern=there, Pattern=it, Pattern=really, Pattern=was, Pattern=were, Pattern=that, Pattern=you, Pattern=it ., Pattern=Well ,, Pattern=in, Pattern=I think, Pattern=year, Pattern=, I think, Pattern=, and, Pattern=to
+	Constrained: Pattern=, I, Pattern=I, Pattern=Well, Pattern=I think, Pattern=was, Pattern=it, Pattern=and
+Turn ID=1| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=2| A | A : I mean , I couldn't believe that she couldn't think of any place . They said , the , apparently the crime , is , just , uh ,
+	Free: Pattern=think of, Pattern=, I, Pattern=is ,, Pattern=. They, Pattern=the, Pattern=, uh ,, Pattern=I mean, Pattern=that, Pattern=just ,
+	Constrained: Pattern=of, Pattern=uh, Pattern=I, Pattern=is, Pattern=They, Pattern=just
+Turn ID=3| B | B : Really ?
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : Uh , well , I think all college players have to do an initial drug test at a certain point prior to the season
+	Free: Pattern=well, Pattern=have, Pattern=a, Pattern=, I think, Pattern=to, Pattern=the, Pattern=all
+	Constrained: Pattern=, I, Pattern=I think, Pattern=I
+Turn ID=5| B | B : So , it was a large reunion of , of , of that group , uh , from that descendants .
+	Free: Pattern=it was, Pattern=, it, Pattern=of, Pattern=a, Pattern=So, Pattern=, uh ,, Pattern=that
+	Constrained: Pattern=uh, Pattern=was, Pattern=it
+Turn ID=6| A | A : In fact , it puts it out on Tuesdays and Thursdays I can hardly wait to get that to get the local news
+	Free: Pattern=, it, Pattern=I, Pattern=the, Pattern=to, Pattern=that, Pattern=it, Pattern=and
+	Constrained: Pattern=it
+Turn ID=7| B | B : And , uh , it's about a five year old house now .
+	Free: Pattern=And , uh ,, Pattern=, it's, Pattern=year, Pattern=a
+	Constrained: Pattern=it's, Pattern=And, Pattern=uh, Pattern=, uh ,
+Turn ID=8| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=9| B | B : I mean might as well not even heat and cool it .
+	Free: Pattern=well, Pattern=it ., Pattern=as, Pattern=even, Pattern=and, Pattern=I mean, Pattern=not
+	Constrained: Pattern=I, Pattern=it
+Turn ID=10| A | A : Right . Yeah , that would be a real good motivation for people .
+	Free: Pattern=good, Pattern=. Yeah ,, Pattern=a, Pattern=Right ., Pattern=that
+	Constrained: Pattern=Yeah ,, Pattern=. Yeah, Pattern=Right
+Turn ID=11| B | B : Right , yeah .
+	Free: Pattern=, yeah ., Pattern=Right
+	Constrained: Pattern=, yeah
+Turn ID=12| A | A : Well , it is , the hardest thing I've ever done , as much as you'd go out
+	Free: Pattern=as, Pattern=the, Pattern=, it is, Pattern=Well ,, Pattern=is ,
+	Constrained: Pattern=, it, Pattern=it, Pattern=it is, Pattern=Well, Pattern=is
+Turn ID=13| B | B : They hold competitions in Los Angeles in , um , Florida and Minneapolis , um , trying to think of , I think it's in four places around the United States . They hold competition and the only requirement is , of course , your skill of passing these tests ,
+	Free: Pattern=think of, Pattern=of, Pattern=They, Pattern=and, Pattern=these, Pattern=your, Pattern=, I think, Pattern=the, Pattern=it's, Pattern=is ,, Pattern=in, Pattern=. They, Pattern=trying to
+	Constrained: Pattern=of, Pattern=They, Pattern=, I, Pattern=I, Pattern=is, Pattern=I think, Pattern=to
+Turn ID=14| A | A : In other words you're saying that , you have to find out whether it's premeditated or what the circumstances were .
+	Free: Pattern=you, Pattern=have, Pattern=the, Pattern=to, Pattern=were, Pattern=that, Pattern=it's
+	Constrained: 
+Turn ID=15| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=16| A | A : Yep . And then , you know , if you can put your cocoa in with your cornstarch if you wanted to . The cocoa even seems to thicken it even more .
+	Free: Pattern=even, Pattern=it, Pattern=in, Pattern=your, Pattern=. And, Pattern=to, Pattern=you, Pattern=And then
+	Constrained: Pattern=And
+Turn ID=17| B | B : Uh-huh . Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=18| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=19| B | B : Yours is a slab I assume .
+	Free: Pattern=I, Pattern=is, Pattern=a
+	Constrained: 
+Turn ID=20| A | A : Uh-huh . Yeah .
+	Free: Pattern=Yeah ., Pattern=. Yeah, Pattern=Uh-huh .
+	Constrained: 
+Turn ID=21| B | B : It wasn't that long that I was that young .
+	Free: Pattern=that, Pattern=I, Pattern=was
+	Constrained: 
+Turn ID=22| A | A : Don't get enough sleep as it is , right
+	Free: Pattern=, right, Pattern=it is, Pattern=is ,, Pattern=as
+	Constrained: Pattern=is, Pattern=it
+Turn ID=23| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=24| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=25| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=26| A | A : Oh , yeah .
+	Free: Pattern=, yeah .
+	Constrained: Pattern=, yeah
+Turn ID=27| B | B : Well I'm not talking about just in the school system .
+	Free: Pattern=just, Pattern=talking, Pattern=in, Pattern=Well, Pattern=the, Pattern=not
+	Constrained: 
+Turn ID=28| A | A : I mean , actually I think that works pretty well . and that , that makes ,
+	Free: Pattern=well, Pattern=and, Pattern=that, Pattern=I think, Pattern=I mean
+	Constrained: Pattern=I
+Turn ID=29| B | B : And then as they got older , they went to , uh , I preferred to call them schools and they were really all day preschools and they were wonderful . And I think they got exposed to a lot of neat things .
+	Free: Pattern=to call, Pattern=of, Pattern=And then, Pattern=as, Pattern=they, Pattern=all day, Pattern=and, Pattern=things ., Pattern=really, Pattern=. And, Pattern=to, Pattern=were, Pattern=them, Pattern=, I, Pattern=a, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=uh, Pattern=And, Pattern=I, Pattern=all, Pattern=to
+Turn ID=30| A | A : And , uh , not necessarily , you know , give in to their , uh , human rights desires . You know , if they're overcrowded , just keep cramming them in there till they just suffocate . Uh ,
+	Free: Pattern=you, Pattern=just, Pattern=in, Pattern=to, Pattern=And , uh ,, Pattern=them, Pattern=not, Pattern=they, Pattern=there, Pattern=You, Pattern=, uh ,
+	Constrained: Pattern=, uh ,, Pattern=uh, Pattern=And
+Turn ID=31| B | B : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=32| A | A : Yeah , oh , but , boy you try get into that , you'd really open a can of worms .
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=really, Pattern=Yeah ,, Pattern=that
+	Constrained: 
+Turn ID=33| B | B : Well , it's very true , now I'm a , uh , New Yorker by birth .
+	Free: Pattern=, uh ,, Pattern=, it's, Pattern=Well ,, Pattern=a
+	Constrained: Pattern=uh, Pattern=it's, Pattern=Well
+Turn ID=34| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=35| B | B : So , right now we're just ,
+	Free: Pattern=, right, Pattern=just ,, Pattern=So
+	Constrained: Pattern=just
+Turn ID=36| A | A : That would be really awful .
+	Free: Pattern=really
+	Constrained: 
+Turn ID=37| B | B : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=38| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=39| B | B : And electric windows , and power locks
+	Free: Pattern=, and, Pattern=And
+	Constrained: Pattern=and
+Turn ID=40| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=41| B | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : Uh-huh . taxes .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=43| B | B : you can't help it's like , it's like a kid .
+	Free: Pattern=you, Pattern=a, Pattern=, it's, Pattern=like, Pattern=it's
+	Constrained: Pattern=it's
+Turn ID=44| A | A : Ten acres .
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : Yeah . Yeah , it is . Well , it's good talking ,
+	Free: Pattern=. Yeah ,, Pattern=talking, Pattern=, it's, Pattern=Well ,, Pattern=, it is, Pattern=good, Pattern=Yeah .
+	Constrained: Pattern=. Yeah, Pattern=, it, Pattern=it, Pattern=Yeah ,, Pattern=it is, Pattern=it's, Pattern=Well, Pattern=is
+Turn ID=46| A | A : Yeah . So other than the Vikings , who do you like ?
+	Free: Pattern=Yeah ., Pattern=you, Pattern=So, Pattern=like, Pattern=the
+	Constrained: 
+Turn ID=47| B | B : No ? Didn't have shrimp there huh
+	Free: Pattern=there, Pattern=have
+	Constrained: 
+Turn ID=48| A | A : Yeah , yeah , I think so too . But , you know , it's one of those things .
+	Free: Pattern=of, Pattern=you, Pattern=, I think, Pattern=Yeah ,, Pattern=too ., Pattern=things ., Pattern=, it's, Pattern=, yeah
+	Constrained: Pattern=it's, Pattern=, I, Pattern=I, Pattern=I think
+Turn ID=49| B | B : Sure .
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=51| B | B : Especially ,
+	Free: 
+	Constrained: 
+Turn ID=52| A | A : Real excited when I heard this . So far I've been trying to call all day because I keep getting these subjects like capital punishment so football , I love this .
+	Free: Pattern=to call, Pattern=, I, Pattern=So, Pattern=all day, Pattern=I, Pattern=these, Pattern=like, Pattern=trying to
+	Constrained: Pattern=all, Pattern=I, Pattern=to
+Turn ID=53| B | B : You too .
+	Free: Pattern=too ., Pattern=You
+	Constrained: 
+Turn ID=54| A | A : but I've enjoyed talking to you .
+	Free: Pattern=to, Pattern=you, Pattern=talking
+	Constrained: 

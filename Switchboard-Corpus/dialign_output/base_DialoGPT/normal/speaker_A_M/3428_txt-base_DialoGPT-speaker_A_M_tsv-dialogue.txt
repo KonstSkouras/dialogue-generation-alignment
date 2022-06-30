@@ -1,0 +1,79 @@
+B|0| M: _then_ ,, _that _,_ and_ ? 
+A|1| A: Yeah , _I_ can , _I_ can understand _that ._ _I_ was raised in Oklahoma [, and] of course , being Oklahoman [and] Texan , uh , yeah , the hunting [and] everything [, and] _I_ used to things in my father [and] my husband having guns [and] all [, and] _I_ , _I_ did , used to be all in favor of it , but it's , all of a sudden it's starting to get really scary with these gangs . Yet _I_ _think_ _I_ would vote a one if _I_ thought [that] it would be nation wide [and] they can guarantee no one would have a gun , no crooks , nothing . But because _I_ know that's not going to happen _, then_ _I_ have to probably right up there about an eight 
+B|2| M:  
+A|3| A: Well , it just seems like in the past three or four years it has just gotten _so_ much worse than it was . There's always been a certain amount of crime in your , you know , your urban areas [, and] _I_ know we lived in Chicago for seven years [, and] of course it was definitely there . So when we first moved here , it wasn't as bad as this . It's , you know , it's just getting all of a sudden _so_ much worse . _I don't_ know whether it's due to the drugs [and] the , uh , drug kings [that] are here [and] Jamaican drug kings coming in . _I don't_ know whether that's it , or street gangs . _I don't_ know what the answer is . _I_ know [that] it's scary [, and] yet _I_ hate the government constantly telling me what _I_ can _do_ [and] what _I_ can't _do_ [, and] that's basically what the gun control would end up being . 
+B|4| M:  
+A|5| A: Well , it's very true . 
+B|6| M:  . Why . [that] 
+A|7| A: It's not the law abiding citizen [that ,] you know , is , is dangerous with the gun It's the ones [that] are going out [and] stealing it . 
+B|8| M:  
+A|9| A: And _I_ said _I_ _think_ the only way _I_ would be in big favor of gun control is if they could absolutely guarantee [that] nobody would have them . And _I_ _think_ [that] would almost have to go with armies , too . _I_ mean , they'd have to be almost world-wide , which we know would never ever happen . 
+B|10| M: [I don't] [think] [so] . 
+A|11| A: Because even if you said , okay , you know , armed forces could have them , some idiot would come out [and] sell it to somebody on the street to make a quick buck . 
+B|12| M: Why [do] [that .] 
+A|13| A: That's very true very true . Who knows , we maybe want to overthrow the government 
+B|14| M:  ... 
+A|15| A: [I] know , if somebody doesn't [do] something . Uh , what about , uh , what [do] you [think] of this , this , uh , law [that] they're putting into effect [that] you have to wait X number of days before you can , uh , carry the gun , or buy , you know , actually purchase the gun ? 
+B|16| M: How [, then] . 
+A|17| A: _Yes ._ 
+B|18| M: No . [Yes .] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : then ,, that , and ?
+	Free: Pattern=, and, Pattern=that ,, Pattern=then
+	Constrained: Pattern=that, Pattern=and
+Turn ID=1| A | A : Yeah , I can , I can understand that . I was raised in Oklahoma , and of course , being Oklahoman and Texan , uh , yeah , the hunting and everything , and I used to things in my father and my husband having guns and all , and I , I did , used to be all in favor of it , but it's , all of a sudden it's starting to get really scary with these gangs . Yet I think I would vote a one if I thought that it would be nation wide and they can guarantee no one would have a gun , no crooks , nothing . But because I know that's not going to happen , then I have to probably right up there about an eight
+	Free: Pattern=, then, Pattern=that ., Pattern=and, Pattern=I, Pattern=think, Pattern=, and, Pattern=that
+	Constrained: Pattern=that, Pattern=and, Pattern=then
+Turn ID=2| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : Well , it just seems like in the past three or four years it has just gotten so much worse than it was . There's always been a certain amount of crime in your , you know , your urban areas , and I know we lived in Chicago for seven years , and of course it was definitely there . So when we first moved here , it wasn't as bad as this . It's , you know , it's just getting all of a sudden so much worse . I don't know whether it's due to the drugs and the , uh , drug kings that are here and Jamaican drug kings coming in . I don't know whether that's it , or street gangs . I don't know what the answer is . I know that it's scary , and yet I hate the government constantly telling me what I can do and what I can't do , and that's basically what the gun control would end up being .
+	Free: Pattern=do, Pattern=and, Pattern=I, Pattern=I don't, Pattern=, and, Pattern=that, Pattern=so
+	Constrained: Pattern=and, Pattern=I
+Turn ID=4| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : Well , it's very true .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M :  . Why . that
+	Free: Pattern=that
+	Constrained: 
+Turn ID=7| A | A : It's not the law abiding citizen that , you know , is , is dangerous with the gun It's the ones that are going out and stealing it .
+	Free: Pattern=that ,, Pattern=that, Pattern=and
+	Constrained: Pattern=that
+Turn ID=8| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : And I said I think the only way I would be in big favor of gun control is if they could absolutely guarantee that nobody would have them . And I think that would almost have to go with armies , too . I mean , they'd have to be almost world-wide , which we know would never ever happen .
+	Free: Pattern=think, Pattern=that, Pattern=I
+	Constrained: 
+Turn ID=10| B | M : I don't think so .
+	Free: Pattern=I don't, Pattern=think, Pattern=so
+	Constrained: Pattern=I
+Turn ID=11| A | A : Because even if you said , okay , you know , armed forces could have them , some idiot would come out and sell it to somebody on the street to make a quick buck .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=12| B | M : Why do that .
+	Free: Pattern=that ., Pattern=do
+	Constrained: Pattern=that
+Turn ID=13| A | A : That's very true very true . Who knows , we maybe want to overthrow the government
+	Free: 
+	Constrained: 
+Turn ID=14| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : I know , if somebody doesn't do something . Uh , what about , uh , what do you think of this , this , uh , law that they're putting into effect that you have to wait X number of days before you can , uh , carry the gun , or buy , you know , actually purchase the gun ?
+	Free: Pattern=do, Pattern=think, Pattern=that, Pattern=I
+	Constrained: 
+Turn ID=16| B | M : How , then .
+	Free: Pattern=, then
+	Constrained: Pattern=then
+Turn ID=17| A | A : Yes .
+	Free: Pattern=Yes .
+	Constrained: 
+Turn ID=18| B | M : No . Yes .
+	Free: Pattern=Yes .
+	Constrained: 

@@ -1,0 +1,99 @@
+A|0| A: _Yeah ,_ 
+B|1| B: Um , _me_ either _. I_ _, I_ went _to_ _college_ _and_ _then_ started working _and_ _then_ got married _and ,_ 
+A|2| A: And if [I] _have_ something _in_ mind , [then] _he _,_ he_ remembers _that_ _, that's_ what _he wants to_ do . 
+B|3| B: _and_ the way [I] was brought up , _and_ [he wants] _me_ now [, [he] _,] like_ [he _,] you_ know _, like_ [he wants to] be best friends now 
+A|4| A: That's kind _of_ what [, like] his _parents_ _have_ _, uh ,_ land _that_ _they_ retired [to] , um , about _a_ hundred miles _out of_ Atlanta [and ,] _in_ Georgia , 
+B|5| B: You can't get away _from_ it so [I] think , To some point , 
+A|6| A: _Uh-huh ._ 
+B|7| B: [Uh-huh .] 
+A|8| A: _Uh_ . [Uh-huh .] 
+B|9| B: Flower Mound , yeah . So , we're [a] little _you_ know , farther removed _from_ [like] Dallas [and] some [of] the areas where [they] probably [have] more [of] the homeless [and] [that] type [of] thing . 
+A|10| A: Oh . 
+B|11| B: That throws the budget [out of] whack real fast . 
+A|12| A: Great . 
+B|13| B: well [that's] , yeah [, that's] right [that] the children [have] some responsibility _, too_ , [to] their [parents] [and] such , [to] help decide what's the right thing . 
+A|14| A: _Well [,_ you] [, too] . Good luck _, uh ,_ enjoy [college] while [you] can . Let [me] tell [you] it's _, uh_ . 
+B|15| B: [Well ,] because my , 
+A|16| A: [Uh-huh] , 
+B|17| B: [Yeah ,] how old is she ? 
+A|18| A: [Uh-huh .] 
+B|19| B: [Uh] , books , I've , actually [I] am reading [a] couple [of] different books [, uh ,] one is [, uh ,] [a] story , well it is not [a] story , it is [a] collection [of] [, uh ,] [of] memos , supposedly written by Howard Hughes [, uh ,] 
+A|20| A: But [, uh ,] 
+B|21| B: To put her [in] [a] rest home ? 
+A|22| A: [Yeah] [. I] [have] [a] [, I] had [a] friend [in] [college] [from] Strasbourg , 
+B|23| B: [Uh] , usually either black or red . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah ,
+	Free: Pattern=Yeah ,
+	Constrained: Pattern=Yeah
+Turn ID=1| B | B : Um , me either . I , I went to college and then started working and then got married and ,
+	Free: Pattern=college, Pattern=and, Pattern=. I, Pattern=to, Pattern=me, Pattern=and ,, Pattern=then, Pattern=, I
+	Constrained: Pattern=I, Pattern=and
+Turn ID=2| A | A : And if I have something in mind , then he , he remembers that , that's what he wants to do .
+	Free: Pattern=he ,, Pattern=have, Pattern=then, Pattern=I, Pattern=, he, Pattern=in, Pattern=, that's, Pattern=he wants to, Pattern=that
+	Constrained: Pattern=to, Pattern=he wants, Pattern=that's
+Turn ID=3| B | B : and the way I was brought up , and he wants me now , he , like he , you know , like he wants to be best friends now
+	Free: Pattern=he ,, Pattern=me, Pattern=, he, Pattern=, you, Pattern=he wants to, Pattern=and, Pattern=he wants, Pattern=, like, Pattern=I
+	Constrained: Pattern=he wants, Pattern=like, Pattern=to, Pattern=you
+Turn ID=4| A | A : That's kind of what , like his parents have , uh , land that they retired to , um , about a hundred miles out of Atlanta and , in Georgia ,
+	Free: Pattern=of, Pattern=have, Pattern=and ,, Pattern=a, Pattern=, like, Pattern=in, Pattern=, uh ,, Pattern=to, Pattern=that, Pattern=they, Pattern=parents, Pattern=out of
+	Constrained: Pattern=, uh, Pattern=like, Pattern=of, Pattern=and
+Turn ID=5| B | B : You can't get away from it so I think , To some point ,
+	Free: Pattern=I, Pattern=from
+	Constrained: 
+Turn ID=6| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=7| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=8| A | A : Uh . Uh-huh .
+	Free: Pattern=Uh-huh ., Pattern=Uh
+	Constrained: Pattern=Uh-huh
+Turn ID=9| B | B : Flower Mound , yeah . So , we're a little you know , farther removed from like Dallas and some of the areas where they probably have more of the homeless and that type of thing .
+	Free: Pattern=of, Pattern=you, Pattern=have, Pattern=they, Pattern=a, Pattern=and, Pattern=from, Pattern=like, Pattern=that
+	Constrained: 
+Turn ID=10| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : That throws the budget out of whack real fast .
+	Free: Pattern=out of
+	Constrained: Pattern=of
+Turn ID=12| A | A : Great .
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : well that's , yeah , that's right that the children have some responsibility , too , to their parents and such , to help decide what's the right thing .
+	Free: Pattern=have, Pattern=parents, Pattern=and, Pattern=, too, Pattern=that's, Pattern=, that's, Pattern=to, Pattern=that
+	Constrained: Pattern=that's
+Turn ID=14| A | A : Well , you , too . Good luck , uh , enjoy college while you can . Let me tell you it's , uh .
+	Free: Pattern=college, Pattern=me, Pattern=Well ,, Pattern=, you, Pattern=, too, Pattern=, uh ,, Pattern=you, Pattern=, uh
+	Constrained: Pattern=you, Pattern=, uh
+Turn ID=15| B | B : Well , because my ,
+	Free: Pattern=Well ,
+	Constrained: 
+Turn ID=16| A | A : Uh-huh ,
+	Free: Pattern=Uh-huh
+	Constrained: 
+Turn ID=17| B | B : Yeah , how old is she ?
+	Free: Pattern=Yeah ,
+	Constrained: Pattern=Yeah
+Turn ID=18| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=19| B | B : Uh , books , I've , actually I am reading a couple of different books , uh , one is , uh , a story , well it is not a story , it is a collection of , uh , of memos , supposedly written by Howard Hughes , uh ,
+	Free: Pattern=of, Pattern=a, Pattern=I, Pattern=, uh ,, Pattern=Uh
+	Constrained: Pattern=, uh
+Turn ID=20| A | A : But , uh ,
+	Free: Pattern=, uh ,
+	Constrained: Pattern=, uh
+Turn ID=21| B | B : To put her in a rest home ?
+	Free: Pattern=a, Pattern=in
+	Constrained: 
+Turn ID=22| A | A : Yeah . I have a , I had a friend in college from Strasbourg ,
+	Free: Pattern=in, Pattern=Yeah, Pattern=college, Pattern=have, Pattern=, I, Pattern=a, Pattern=. I, Pattern=from
+	Constrained: Pattern=I
+Turn ID=23| B | B : Uh , usually either black or red .
+	Free: Pattern=Uh
+	Constrained: 

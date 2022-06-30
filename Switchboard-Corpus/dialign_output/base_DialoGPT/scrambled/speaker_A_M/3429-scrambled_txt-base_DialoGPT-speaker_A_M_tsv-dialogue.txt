@@ -1,0 +1,239 @@
+A|0| A: Oh , dear . 
+B|1| M: _I've been_ _told_ by _my_ family _that_ _I have_ an apple . 
+A|2| A: _I know_ so _, I_ felt kind _of_ _sorry_ for him . [that] must [have] [been] hard on him because he's just _a_ person _but_ _, um , I_ never _, a_ major owner _of_ our _of_ _the_ team here . 
+B|3| M: You're _not_ _my_ friend . 
+A|4| A: _And ,_ _It's_ _really_ more _of_ _a_ _, um ,_ _like_ _a_ respect issue [that] _the_ older , older _people_ _in_ other countries [that] [I've been] _to_ seem _to_ _really_ [have] _a_ lot more respect for _the_ elderly _people_ and , and _they_ _really_ seem as wise and , and _in_ this country nobody _really_ , _Yeah ,_ nobody _really_ pays attention 
+B|5| M: [I _know] _,_ but_ _uh _,_ I'm_ _uh _,_ uh [,_ um , _I] don't_ [really] _understand_ , 
+A|6| A: Uh-huh . 
+B|7| M: Because [the] world _is_ full [of] [people] [that] _don't_ [know] how _to do _that_ ._ 
+A|8| A: [I have] Xanadu and Precious , and Rascal . 
+B|9| M: No _we don't_ . 
+A|10| A: they're all real young , they're just raised _right_ _that's_ what God's [told] them [to do] [but] they're [not] condemning _you_ , if _you_ , [we] only [have] one child , _you_ [know ,] _they_ [don't] say , _they_ [don't] put on bad or anything which [is] good because _it_ would be easy [, I'm] sure , for them [to do that] , _you_ _get_ _a_ conviction _like_ [that] and _you_ _think_ everyone should [have] _it_ . _And_ so [I'm] real proud [of] them because they're aren't [really] , _they_ [don't] [do that] at all . 
+B|11| M: [And] [the] murder 
+A|12| A: _Well ,_ _they_ would probably never make _it_ then because [I don't] _think_ [, uh [,] I] only took lessons for golf when [I] _was_ _in_ college . 
+B|13| M: _I think_ _it is_ . 
+A|14| A: You _know ._ Uh-huh . 
+B|15| M: _I [,_ uh ,] [know .] 
+A|16| A: So , _you_ _are_ kind [of] , half way acquainted [that] way . 
+B|17| M: There [was] [a] World Series , [right] ? 
+A|18| A: To , [to] compensate for some [of] [the] benefits . 
+B|19| M:  ... [I'm] [sorry] 
+A|20| A: _Yeah ,_ well , 
+B|21| M: He's [a] cousin [of] Elijah . 
+A|22| A: [And] [I] wrote [that] down on [my] questionnaire [that] he'd [told] _me_ [that] , 
+B|23| M: [And [,] uh ,] [are] [you] [a] six year old ? 
+A|24| A: Then [I ,] I'd love [to] go somewhere _in_ Asia [, but] I'd [have] [to] [have] [a] tour guide with _me_ [to] help with all [the] language and all [that .] 
+B|25| M: She's [a] golden retriever 
+A|26| A: _Yeah ,_ can [you] believe [it] _, that's_ just [, uh ,] 
+B|27| M: _Um ,_ yes . 
+A|28| A: Oh , _it was_ , 
+B|29| M: He _had_ [to] [get] . [it was] . [in] . greee . _me ._ up 
+A|30| A: Oh [, I] [had] fondue . That [was] easy [to] say 
+B|31| M: [Well [,] that's] [uh [,] a] little much . 
+A|32| A: Uh-huh . 
+B|33| M: [It's] [not] [that .] [It's] [the] wood burning . 
+A|34| A: More , more [, I] can [understand] [that] [, that's] probably what [I] would [, uh ,] 
+B|35| M: Do [you] [like] tomatoes ? 
+A|36| A: _Yeah ,_ [it is] [, I] _mean_ [, I] would never buy [it] [but] leasing [it is] fine . 
+B|37| M: i . 
+A|38| A: and , 
+B|39| M: No [, that's] [not] true . 
+A|40| A: Uh [, _I'm] a_ research engineer [, I] work [, uh ,] with Georgia Tech . 
+B|41| M: What's ? 
+A|42| A: [And] [I] spend most [of] [my] time carpooling 
+B|43| M: [I'm] [not] going [to] 
+A|44| A: That will be interesting . 
+B|45| M: [I] 
+A|46| A: _Yeah ,_ yeah [, [I] think] so too . But , [you] [know ,] it's one [of] those things . 
+B|47| M: It 
+A|48| A: _That's_ [it] . 
+B|49| M: You're [a] big guy . 
+A|50| A: Uh-huh . 
+B|51| M: [I'm a] little bit jealous . 
+A|52| A: [Um ,] [was] [it] [a] home [that] you've [had] for quite [a] few years , or [that] you've , 
+B|53| M:  
+A|54| A: and [, uh ,] so , and Sundays [, uh ,] [we] usually [have] , all [of] our kids [are] over on Sunday , so , [you] [know ,] [we don't] [get] into [that] , except [that] sometimes we'll [get] into their home videos 
+B|55| M: [Yeah ,] uhuh . 
+A|56| A: [Yeah ,] it's [, uh ,] Wordstar [was] never very intuitive [to] [me .] [I] _mean_ [you] [know ,] [you] , some [of] [the] commands just [had] nothing [to do] with , [you] [know ,] what [you] were supposed [to] be doing what _they_ , what _they_ did on [the] computer [but] [, uh ,] 
+B|57| M: [That's] why [they] call [it] [the] North . 
+B|58| M: What [do] [you] [mean] ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Oh , dear .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I've been told by my family that I have an apple .
+	Free: Pattern=I've been, Pattern=I have, Pattern=my, Pattern=that, Pattern=told
+	Constrained: Pattern=I, Pattern=been, Pattern=have
+Turn ID=2| A | A : I know so , I felt kind of sorry for him . that must have been hard on him because he's just a person but , um , I never , a major owner of our of the team here .
+	Free: Pattern=of, Pattern=have, Pattern=, a, Pattern=, um , I, Pattern=been, Pattern=I know, Pattern=, I, Pattern=a, Pattern=sorry, Pattern=the, Pattern=that, Pattern=but
+	Constrained: Pattern=, um ,, Pattern=I, Pattern=know, Pattern=, I, Pattern=a
+Turn ID=3| B | M : You're not my friend .
+	Free: Pattern=my, Pattern=not
+	Constrained: 
+Turn ID=4| A | A : And , It's really more of a , um , like a respect issue that the older , older people in other countries that I've been to seem to really have a lot more respect for the elderly people and , and they really seem as wise and , and in this country nobody really , Yeah , nobody really pays attention
+	Free: Pattern=of, Pattern=a, Pattern=I've been, Pattern=in, Pattern=Yeah ,, Pattern=to, Pattern=that, Pattern=And ,, Pattern=people, Pattern=have, Pattern=, um ,, Pattern=they, Pattern=really, Pattern=like, Pattern=It's, Pattern=the
+	Constrained: Pattern=And, Pattern=been
+Turn ID=5| B | M : I know , but uh , I'm uh , uh , um , I don't really understand ,
+	Free: Pattern=know ,, Pattern=, but, Pattern=I don't, Pattern=understand, Pattern=really, Pattern=, uh ,, Pattern=uh ,, Pattern=, um , I, Pattern=, I'm, Pattern=I know
+	Constrained: Pattern=I'm, Pattern=, um ,, Pattern=, I, Pattern=I, Pattern=know, Pattern=uh ,, Pattern=don't, Pattern=but
+Turn ID=6| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : Because the world is full of people that don't know how to do that .
+	Free: Pattern=know, Pattern=is, Pattern=the, Pattern=don't, Pattern=that, Pattern=of, Pattern=that ., Pattern=people, Pattern=to do that
+	Constrained: Pattern=to do, Pattern=do, Pattern=do that, Pattern=to, Pattern=that
+Turn ID=8| A | A : I have Xanadu and Precious , and Rascal .
+	Free: Pattern=I have
+	Constrained: Pattern=I, Pattern=have
+Turn ID=9| B | M : No we don't .
+	Free: Pattern=we don't
+	Constrained: Pattern=don't, Pattern=we
+Turn ID=10| A | A : they're all real young , they're just raised right that's what God's told them to do but they're not condemning you , if you , we only have one child , you know , they don't say , they don't put on bad or anything which is good because it would be easy , I'm sure , for them to do that , you get a conviction like that and you think everyone should have it . And so I'm real proud of them because they're aren't really , they don't do that at all .
+	Free: Pattern=to do, Pattern=they, Pattern=a, Pattern=it, Pattern=think, Pattern=is, Pattern=that's, Pattern=don't, Pattern=, I'm, Pattern=get, Pattern=told, Pattern=not, Pattern=right, Pattern=of, Pattern=know ,, Pattern=you, Pattern=I'm, Pattern=And, Pattern=to do that, Pattern=have, Pattern=do that, Pattern=we, Pattern=really, Pattern=like, Pattern=that, Pattern=but
+	Constrained: Pattern=I'm, Pattern=to do, Pattern=do, Pattern=know, Pattern=do that, Pattern=to, Pattern=that
+Turn ID=11| B | M : And the murder
+	Free: Pattern=And, Pattern=the
+	Constrained: 
+Turn ID=12| A | A : Well , they would probably never make it then because I don't think , uh , I only took lessons for golf when I was in college .
+	Free: Pattern=they, Pattern=, I, Pattern=it, Pattern=I, Pattern=I don't, Pattern=, uh ,, Pattern=was, Pattern=Well ,, Pattern=think, Pattern=in
+	Constrained: Pattern=uh ,, Pattern=I, Pattern=don't
+Turn ID=13| B | M : I think it is .
+	Free: Pattern=I think, Pattern=it is
+	Constrained: Pattern=I, Pattern=think, Pattern=it, Pattern=is
+Turn ID=14| A | A : You know . Uh-huh .
+	Free: Pattern=know .
+	Constrained: Pattern=know
+Turn ID=15| B | M : I , uh , know .
+	Free: Pattern=, uh ,, Pattern=I ,, Pattern=know .
+	Constrained: Pattern=uh ,, Pattern=know, Pattern=I
+Turn ID=16| A | A : So , you are kind of , half way acquainted that way .
+	Free: Pattern=you, Pattern=that, Pattern=of, Pattern=are
+	Constrained: 
+Turn ID=17| B | M : There was a World Series , right ?
+	Free: Pattern=right, Pattern=a, Pattern=was
+	Constrained: 
+Turn ID=18| A | A : To , to compensate for some of the benefits .
+	Free: Pattern=the, Pattern=to, Pattern=of
+	Constrained: 
+Turn ID=19| B | M :  ... I'm sorry
+	Free: Pattern=I'm, Pattern=sorry
+	Constrained: 
+Turn ID=20| A | A : Yeah , well ,
+	Free: Pattern=Yeah ,
+	Constrained: 
+Turn ID=21| B | M : He's a cousin of Elijah .
+	Free: Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=22| A | A : And I wrote that down on my questionnaire that he'd told me that ,
+	Free: Pattern=And, Pattern=me, Pattern=I, Pattern=my, Pattern=that, Pattern=told
+	Constrained: 
+Turn ID=23| B | M : And , uh , are you a six year old ?
+	Free: Pattern=you, Pattern=a, Pattern=are, Pattern=, uh ,, Pattern=And ,
+	Constrained: Pattern=uh ,, Pattern=And
+Turn ID=24| A | A : Then I , I'd love to go somewhere in Asia , but I'd have to have a tour guide with me to help with all the language and all that .
+	Free: Pattern=I ,, Pattern=that ., Pattern=, but, Pattern=have, Pattern=me, Pattern=a, Pattern=in, Pattern=the, Pattern=to
+	Constrained: Pattern=I, Pattern=but, Pattern=that
+Turn ID=25| B | M : She's a golden retriever
+	Free: Pattern=a
+	Constrained: 
+Turn ID=26| A | A : Yeah , can you believe it , that's just , uh ,
+	Free: Pattern=you, Pattern=it, Pattern=, uh ,, Pattern=Yeah ,, Pattern=, that's
+	Constrained: Pattern=uh ,, Pattern=that's
+Turn ID=27| B | M : Um , yes .
+	Free: Pattern=Um ,
+	Constrained: 
+Turn ID=28| A | A : Oh , it was ,
+	Free: Pattern=it was
+	Constrained: Pattern=it, Pattern=was
+Turn ID=29| B | M : He had to get . it was . in . greee . me . up
+	Free: Pattern=it was, Pattern=me ., Pattern=in, Pattern=had, Pattern=to, Pattern=get
+	Constrained: Pattern=me, Pattern=it, Pattern=was
+Turn ID=30| A | A : Oh , I had fondue . That was easy to say
+	Free: Pattern=, I, Pattern=to, Pattern=was, Pattern=had
+	Constrained: Pattern=I
+Turn ID=31| B | M : Well , that's uh , a little much .
+	Free: Pattern=uh ,, Pattern=Well ,, Pattern=, that's, Pattern=, a
+	Constrained: Pattern=that's, Pattern=a
+Turn ID=32| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : It's not that . It's the wood burning .
+	Free: Pattern=that ., Pattern=not, Pattern=the, Pattern=It's
+	Constrained: Pattern=that
+Turn ID=34| A | A : More , more , I can understand that , that's probably what I would , uh ,
+	Free: Pattern=, I, Pattern=I, Pattern=understand, Pattern=, uh ,, Pattern=, that's, Pattern=that
+	Constrained: Pattern=uh ,, Pattern=I, Pattern=that's
+Turn ID=35| B | M : Do you like tomatoes ?
+	Free: Pattern=you, Pattern=like
+	Constrained: 
+Turn ID=36| A | A : Yeah , it is , I mean , I would never buy it but leasing it is fine .
+	Free: Pattern=mean, Pattern=, I, Pattern=it, Pattern=Yeah ,, Pattern=it is, Pattern=but
+	Constrained: Pattern=I, Pattern=it, Pattern=is
+Turn ID=37| B | M : i .
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : and ,
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : No , that's not true .
+	Free: Pattern=, that's, Pattern=not
+	Constrained: Pattern=that's
+Turn ID=40| A | A : Uh , I'm a research engineer , I work , uh , with Georgia Tech .
+	Free: Pattern=, uh ,, Pattern=, I'm, Pattern=, I, Pattern=I'm a
+	Constrained: Pattern=uh ,, Pattern=I, Pattern=I'm, Pattern=a
+Turn ID=41| B | M : What's ?
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : And I spend most of my time carpooling
+	Free: Pattern=I, Pattern=my, Pattern=And, Pattern=of
+	Constrained: 
+Turn ID=43| B | M : I'm not going to
+	Free: Pattern=not, Pattern=I'm, Pattern=to
+	Constrained: 
+Turn ID=44| A | A : That will be interesting .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=46| A | A : Yeah , yeah , I think so too . But , you know , it's one of those things .
+	Free: Pattern=you, Pattern=, I, Pattern=I think, Pattern=Yeah ,, Pattern=of, Pattern=know ,
+	Constrained: Pattern=know, Pattern=I, Pattern=think
+Turn ID=47| B | M : It
+	Free: 
+	Constrained: 
+Turn ID=48| A | A : That's it .
+	Free: Pattern=That's, Pattern=it
+	Constrained: 
+Turn ID=49| B | M : You're a big guy .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=50| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=51| B | M : I'm a little bit jealous .
+	Free: Pattern=I'm a
+	Constrained: Pattern=I'm, Pattern=a
+Turn ID=52| A | A : Um , was it a home that you've had for quite a few years , or that you've ,
+	Free: Pattern=a, Pattern=it, Pattern=had, Pattern=was, Pattern=Um ,, Pattern=that
+	Constrained: 
+Turn ID=53| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=54| A | A : and , uh , so , and Sundays , uh , we usually have , all of our kids are over on Sunday , so , you know , we don't get into that , except that sometimes we'll get into their home videos
+	Free: Pattern=you, Pattern=have, Pattern=are, Pattern=we, Pattern=, uh ,, Pattern=get, Pattern=that, Pattern=we don't, Pattern=of, Pattern=know ,
+	Constrained: Pattern=uh ,, Pattern=know, Pattern=don't, Pattern=we
+Turn ID=55| B | M : Yeah , uhuh .
+	Free: Pattern=Yeah ,
+	Constrained: 
+Turn ID=56| A | A : Yeah , it's , uh , Wordstar was never very intuitive to me . I mean you know , you , some of the commands just had nothing to do with , you know , what you were supposed to be doing what they , what they did on the computer but , uh ,
+	Free: Pattern=you, Pattern=mean, Pattern=to do, Pattern=they, Pattern=I, Pattern=me ., Pattern=had, Pattern=, uh ,, Pattern=the, Pattern=Yeah ,, Pattern=to, Pattern=was, Pattern=but, Pattern=of, Pattern=know ,
+	Constrained: Pattern=me, Pattern=do, Pattern=know, Pattern=uh ,, Pattern=to
+Turn ID=57| B | M : That's why they call it the North .
+	Free: Pattern=That's, Pattern=the, Pattern=it, Pattern=they
+	Constrained: 
+Turn ID=58| B | M : What do you mean ?
+	Free: Pattern=you, Pattern=do, Pattern=mean
+	Constrained: 

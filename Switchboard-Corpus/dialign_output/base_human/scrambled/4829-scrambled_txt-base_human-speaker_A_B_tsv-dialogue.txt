@@ -1,0 +1,203 @@
+A|0| A: _Yeah_ . 
+B|1| B: She loves lots _of_ windows . That's great . 
+A|2| A: _Oh _,_ is_ _it_ ? _Oh _,_ I_ didn't _realize_ _that_ . _Okay ._ 
+B|3| B: _Yeah _,_ and_ spend _a_ day doing _, that's_ _really_ neat . _I mean_ _, it's not_ _a lot_ _because_ you're _just_ doing _a_ house _at_ _a_ _time , but_ _you know ,_ every _little bit_ helps . 
+A|4| A: _Oh ,_ do _they_ [really] . Curbside pick up ? 
+B|5| B: Well [, I] guess [I] better _go_ . 
+A|6| A: _Uh-huh ._ 
+B|7| B: They're both females ? 
+A|8| A: So I've enjoyed _that_ part [of] _it ._ [Yeah] . _And_ [at] _the_ gym , even in _the_ class _, uh [,_ I] [, it's not] [really] [a] group _where_ [you] chat [a lot] . Everybody's on their way _to_ someplace 
+B|9| B: _Yeah _,_ the_ first , first couple [of] times [it's] pretty scary _but , uh ,_ after [that] [you] [realize] [they] are _just_ as afraid [of] [you] , too . 
+A|10| A: [Yeah _,] yeah ._ 
+B|11| B: That's great . 
+A|12| A: _And_ families took care [of] themselves _and ,_ um [, but] now _, you know ,_ people _don't_ , [they] _don't_ support each other [that] way . 
+B|13| B: [Oh _,] well ,_ still _that's_ [a] [, you know _,] that's_ _a good_ chunk [of] kids . 
+A|14| A: [I mean] like going , um , forward [and] backward [a] word _or_ up [and] down [a] line [that] _sort of_ _thing_ _just [,_ you know ,] didn't match _with_ [the] kinds [of] keys [, you] _were_ using . 
+B|15| B: _Yes ._ We've , _my_ [, uh _,] well ,_ when we first got married , _my_ wife worked _for a_ _year_ . Then we decided [to] _have_ kids . 
+A|16| A: [Yeah] . Probably our _family_ room _is_ [the] [, the] biggest . Uh , 
+B|17| B: [And] [they] _can_ tell me , basically _some_ things [that] _I don't_ [know] 
+A|18| A: Sure . Let somebody _get_ something _out_ [of] _it ._ 
+B|19| B: [and [,] uh ,] [that] seems _to be_ [sort of] [a] middle ground _for_ all _of the_ Texas [family] . 
+A|20| A: [Yeah] . 
+B|21| B: The [, the] penalty phase [, yeah] , they've , decide [the] penalty separately from [the] verdict . 
+A|22| A: Probably . [Oh] . 
+B|23| B: She made these onion rings [that] [were] _so_ _good_ , 
+A|24| A: [Yeah] . 
+B|25| B: _and then_ , [of] course , _one_ [thing] _I _think_ ,_ too [, is] [with] 
+A|26| A: [but , uh ,] this [year] [my] husband recharged our freon [because] _it_ _was_ , needed [to be] done [, and] [one] [of the] cans released entire amount [of] freon into [the] [, uh ,] into [the] air [because] he opened _it_ , 
+B|27| B: [Okay .] 
+A|28| A: [Oh] . 
+B|29| B: _so_ , 
+A|30| A: [Yes .] _Uh-huh ._ 
+B|31| B: _But_ [not] worth [it .] 
+A|32| A: _Right [,_ you know ,] [they] , they'd figure [a] way around [that] [one] in [a] heartbeat . [But] , I'm wondering if there's another issue here [, and] maybe this [is] why this has died _out_ . Can [you] [go] into [, and] this wasn't [the] question [but] [it's] _, it_ may [be] [the] more [of the] issue versus should young adults , [can] [they] [go] in _there_ [and] [can] anyone [go] into [, well ,] _out_ [of the] Kurdish community [is] [a] [little bit] extreme [at] this [time , but] say [, [I] think] Bangladesh would [have] been [a good] example _or_ [some] , [some] [really] desperate situation [and] teach them [to] farm [and] teach them [and] [it] doesn't do any [good] . 
+B|33| B: [And] [, uh [,] well ,] give [you] an idea [, it's] three [and] [a] half miles [of] dirt road [to] [the] concrete _, I mean_ , [to] [the] asphalt , we're [out] [there] . 
+A|34| A: _Uh-huh ._ Exactly . [And] [I don't] [think [,] uh [,] it's] ended up being [, I mean] [it] gave people jobs 
+B|35| B: [Uh-huh .] 
+A|36| A: [Uh-huh .] 
+B|37| B: [But] [it's] [just [,] it] [just] [was] [not] [and] [you] [get] stung [a] [time] [or] two , 
+A|38| A: [and then] [it] doesn't sell [and then] [the] bank's holding [the] bag . 
+B|39| B: [Right [,] yeah .] 
+A|40| A: [But] [, I] used [to] work [for a] power company , [so] [it] [was] _very_ important [that] [they] make sure their employees , especially linemen [uh ,] [were] clean . 
+B|41| B: [I] guess [I] relate [it] [to] , [to] Japan [where] things are [very] expensive , aren't [they] ? 
+A|42| A: [Uh-huh .] 
+B|43| B: [Uh-huh .] 
+A|44| A: [Yeah] . 
+B|45| B: Even [the] farmers . 
+A|46| A: [Yeah] . 
+B|47| B: What does [that] [mean] , accidental tomatoes ? 
+A|48| A: That [, that's] _real_ [good] . 
+B|49| B: It [is] [, it's] [real] nice . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=1| B | B : She loves lots of windows . That's great .
+	Free: Pattern=of
+	Constrained: 
+Turn ID=2| A | A : Oh , is it ? Oh , I didn't realize that . Okay .
+	Free: Pattern=, is, Pattern=, I, Pattern=it, Pattern=Oh ,, Pattern=realize, Pattern=that, Pattern=Okay .
+	Constrained: Pattern=is, Pattern=Oh, Pattern=I
+Turn ID=3| B | B : Yeah , and spend a day doing , that's really neat . I mean , it's not a lot because you're just doing a house at a time , but you know , every little bit helps .
+	Free: Pattern=you know ,, Pattern=just, Pattern=, it's not, Pattern=at, Pattern=time , but, Pattern=little bit, Pattern=really, Pattern=I mean, Pattern=Yeah ,, Pattern=, that's, Pattern=a, Pattern=because, Pattern=a lot, Pattern=, and
+	Constrained: Pattern=time, Pattern=mean, Pattern=a, Pattern=and, Pattern=I, Pattern=, it's, Pattern=know, Pattern=that's, Pattern=Yeah, Pattern=not, Pattern=you, Pattern=, but, Pattern=it's, Pattern=but
+Turn ID=4| A | A : Oh , do they really . Curbside pick up ?
+	Free: Pattern=Oh ,, Pattern=really, Pattern=they
+	Constrained: Pattern=Oh
+Turn ID=5| B | B : Well , I guess I better go .
+	Free: Pattern=, I, Pattern=go, Pattern=I
+	Constrained: Pattern=I
+Turn ID=6| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=7| B | B : They're both females ?
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : So I've enjoyed that part of it . Yeah . And at the gym , even in the class , uh , I , it's not really a group where you chat a lot . Everybody's on their way to someplace
+	Free: Pattern=of, Pattern=And, Pattern=, it's not, Pattern=at, Pattern=where, Pattern=really, Pattern=, uh ,, Pattern=the, Pattern=Yeah, Pattern=that, Pattern=you, Pattern=it ., Pattern=, I, Pattern=a, Pattern=a lot, Pattern=to
+	Constrained: Pattern=a, Pattern=it, Pattern=I, Pattern=, it's, Pattern=uh ,, Pattern=it's, Pattern=not
+Turn ID=9| B | B : Yeah , the first , first couple of times it's pretty scary but , uh , after that you realize they are just as afraid of you , too .
+	Free: Pattern=of, Pattern=you, Pattern=just, Pattern=they, Pattern=but , uh ,, Pattern=Yeah ,, Pattern=, the, Pattern=realize, Pattern=that, Pattern=it's
+	Constrained: Pattern=, uh ,, Pattern=Yeah, Pattern=but, Pattern=uh ,, Pattern=the
+Turn ID=10| A | A : Yeah , yeah .
+	Free: Pattern=, yeah ., Pattern=Yeah ,
+	Constrained: Pattern=, yeah, Pattern=Yeah
+Turn ID=11| B | B : That's great .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : And families took care of themselves and , um , but now , you know , people don't , they don't support each other that way .
+	Free: Pattern=of, Pattern=, but, Pattern=And, Pattern=and ,, Pattern=they, Pattern=, you know ,, Pattern=don't, Pattern=that
+	Constrained: Pattern=you know ,, Pattern=you, Pattern=and, Pattern=but, Pattern=know, Pattern=, you
+Turn ID=13| B | B : Oh , well , still that's a , you know , that's a good chunk of kids .
+	Free: Pattern=of, Pattern=, well ,, Pattern=a good, Pattern=Oh ,, Pattern=that's, Pattern=, that's, Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=good, Pattern=you know ,, Pattern=you, Pattern=a, Pattern=that's, Pattern=Oh, Pattern=know, Pattern=, you
+Turn ID=14| A | A : I mean like going , um , forward and backward a word or up and down a line that sort of thing just , you know , didn't match with the kinds of keys , you were using .
+	Free: Pattern=of, Pattern=and, Pattern=, you, Pattern=or, Pattern=I mean, Pattern=sort of, Pattern=were, Pattern=, you know ,, Pattern=a, Pattern=thing, Pattern=the, Pattern=with, Pattern=that, Pattern=just ,
+	Constrained: Pattern=you, Pattern=I, Pattern=of, Pattern=you know ,, Pattern=just, Pattern=mean, Pattern=know, Pattern=, you
+Turn ID=15| B | B : Yes . We've , my , uh , well , when we first got married , my wife worked for a year . Then we decided to have kids .
+	Free: Pattern=have, Pattern=, well ,, Pattern=Yes ., Pattern=to, Pattern=for a, Pattern=my, Pattern=, uh ,, Pattern=year
+	Constrained: Pattern=uh ,, Pattern=a, Pattern=for
+Turn ID=16| A | A : Yeah . Probably our family room is the , the biggest . Uh ,
+	Free: Pattern=family, Pattern=is, Pattern=the, Pattern=Yeah, Pattern=, the
+	Constrained: Pattern=the
+Turn ID=17| B | B : And they can tell me , basically some things that I don't know
+	Free: Pattern=And, Pattern=they, Pattern=can, Pattern=I don't, Pattern=some, Pattern=know, Pattern=that
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=18| A | A : Sure . Let somebody get something out of it .
+	Free: Pattern=it ., Pattern=get, Pattern=of, Pattern=out
+	Constrained: Pattern=it
+Turn ID=19| B | B : and , uh , that seems to be sort of a middle ground for all of the Texas family .
+	Free: Pattern=and ,, Pattern=a, Pattern=for, Pattern=family, Pattern=, uh ,, Pattern=sort of, Pattern=to be, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=and, Pattern=be, Pattern=to, Pattern=uh ,, Pattern=the
+Turn ID=20| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=21| B | B : The , the penalty phase , yeah , they've , decide the penalty separately from the verdict .
+	Free: Pattern=, yeah, Pattern=, the, Pattern=the
+	Constrained: Pattern=the
+Turn ID=22| A | A : Probably . Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=23| B | B : She made these onion rings that were so good ,
+	Free: Pattern=so, Pattern=good, Pattern=were, Pattern=that
+	Constrained: 
+Turn ID=24| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=25| B | B : and then , of course , one thing I think , too , is with
+	Free: Pattern=of, Pattern=, is, Pattern=and then, Pattern=I think, Pattern=thing, Pattern=with, Pattern=one, Pattern=think ,
+	Constrained: Pattern=is, Pattern=I, Pattern=and
+Turn ID=26| A | A : but , uh , this year my husband recharged our freon because it was , needed to be done , and one of the cans released entire amount of freon into the , uh , into the air because he opened it ,
+	Free: Pattern=of, Pattern=because, Pattern=it, Pattern=one, Pattern=, and, Pattern=was, Pattern=to be, Pattern=my, Pattern=of the, Pattern=, uh ,, Pattern=year, Pattern=the, Pattern=but , uh ,
+	Constrained: Pattern=of, Pattern=and, Pattern=to, Pattern=but, Pattern=, uh ,, Pattern=be, Pattern=uh ,, Pattern=the
+Turn ID=27| B | B : Okay .
+	Free: Pattern=Okay .
+	Constrained: 
+Turn ID=28| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=29| B | B : so ,
+	Free: Pattern=so
+	Constrained: 
+Turn ID=30| A | A : Yes . Uh-huh .
+	Free: Pattern=Uh-huh ., Pattern=Yes .
+	Constrained: 
+Turn ID=31| B | B : But not worth it .
+	Free: Pattern=it ., Pattern=not, Pattern=But
+	Constrained: Pattern=it
+Turn ID=32| A | A : Right , you know , they , they'd figure a way around that one in a heartbeat . But , I'm wondering if there's another issue here , and maybe this is why this has died out . Can you go into , and this wasn't the question but it's , it may be the more of the issue versus should young adults , can they go in there and can anyone go into , well , out of the Kurdish community is a little bit extreme at this time , but say , I think Bangladesh would have been a good example or some , some really desperate situation and teach them to farm and teach them and it doesn't do any good .
+	Free: Pattern=good, Pattern=, it, Pattern=have, Pattern=go, Pattern=a good, Pattern=one, Pattern=time , but, Pattern=really, Pattern=or, Pattern=the, Pattern=you, Pattern=out, Pattern=, well ,, Pattern=they, Pattern=there, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=it, Pattern=and, Pattern=But, Pattern=can, Pattern=at, Pattern=some, Pattern=Right ,, Pattern=little bit, Pattern=is, Pattern=I think, Pattern=be, Pattern=, and, Pattern=to, Pattern=of the, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=good, Pattern=time, Pattern=a, Pattern=I, Pattern=the, Pattern=but, Pattern=of, Pattern=you know ,, Pattern=you, Pattern=, but, Pattern=it, Pattern=and, Pattern=know, Pattern=, you
+Turn ID=33| B | B : And , uh , well , give you an idea , it's three and a half miles of dirt road to the concrete , I mean , to the asphalt , we're out there .
+	Free: Pattern=of, Pattern=And, Pattern=a, Pattern=and, Pattern=, it's, Pattern=, uh ,, Pattern=to, Pattern=you, Pattern=out, Pattern=, well ,, Pattern=there, Pattern=, I mean, Pattern=the
+	Constrained: Pattern=mean, Pattern=, I, Pattern=I, Pattern=I mean, Pattern=uh ,, Pattern=it's
+Turn ID=34| A | A : Uh-huh . Exactly . And I don't think , uh , it's ended up being , I mean it gave people jobs
+	Free: Pattern=And, Pattern=Uh-huh ., Pattern=it, Pattern=think ,, Pattern=, uh ,, Pattern=, I mean, Pattern=I don't, Pattern=, it's
+	Constrained: Pattern=mean, Pattern=, I, Pattern=I, Pattern=I mean, Pattern=uh ,, Pattern=don't, Pattern=it's
+Turn ID=35| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=36| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=37| B | B : But it's just , it just was not and you get stung a time or two ,
+	Free: Pattern=you, Pattern=just, Pattern=a, Pattern=and, Pattern=But, Pattern=or, Pattern=was, Pattern=get, Pattern=not, Pattern=, it, Pattern=time, Pattern=it's, Pattern=just ,
+	Constrained: Pattern=it, Pattern=just
+Turn ID=38| A | A : and then it doesn't sell and then the bank's holding the bag .
+	Free: Pattern=and then, Pattern=it, Pattern=the
+	Constrained: Pattern=and
+Turn ID=39| B | B : Right , yeah .
+	Free: Pattern=, yeah ., Pattern=Right ,
+	Constrained: Pattern=, yeah
+Turn ID=40| A | A : But , I used to work for a power company , so it was very important that they make sure their employees , especially linemen uh , were clean .
+	Free: Pattern=they, Pattern=, I, Pattern=it, Pattern=But, Pattern=very, Pattern=uh ,, Pattern=to, Pattern=were, Pattern=that, Pattern=so, Pattern=for a, Pattern=was
+	Constrained: Pattern=a, Pattern=I, Pattern=for
+Turn ID=41| B | B : I guess I relate it to , to Japan where things are very expensive , aren't they ?
+	Free: Pattern=they, Pattern=it, Pattern=I, Pattern=where, Pattern=very, Pattern=to
+	Constrained: 
+Turn ID=42| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=43| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=44| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=45| B | B : Even the farmers .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=46| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=47| B | B : What does that mean , accidental tomatoes ?
+	Free: Pattern=mean, Pattern=that
+	Constrained: 
+Turn ID=48| A | A : That , that's real good .
+	Free: Pattern=, that's, Pattern=good, Pattern=real
+	Constrained: Pattern=that's
+Turn ID=49| B | B : It is , it's real nice .
+	Free: Pattern=, it's, Pattern=real, Pattern=is
+	Constrained: Pattern=it's

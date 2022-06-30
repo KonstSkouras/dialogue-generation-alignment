@@ -1,0 +1,251 @@
+A|0| A: Oh , yeah , yeah . 
+B|1| M: _I_ _know_ . 
+A|2| A: So , um , well _, I_ _have_ _not_ _really_ paid much attention because [I] clock , although [I] think we've probably been talking _at_ least ten minutes so , um , if you , um , unless you _have_ some other things you want _to_ talk _about_ as having _to_ _do_ _with_ P C 
+B|3| M: You ... [I] don t [, I] ? 
+A|4| A: And then even _my_ eleven year old boy loves _to_ listen _to_ _it_ . 
+B|5| M:  ... 
+A|6| A: Wow . 
+B|7| M: They 
+A|8| A: so . 
+B|9| M: Not sure 
+A|10| A: Well , you , too . Good luck _, uh ,_ enjoy college while you can . Let _me_ tell you it's _, uh_ . 
+B|11| M: [I] [do] [, uh ,] err , _don't_ [I] 
+A|12| A: Uh-huh . 
+B|13| M: She's [not] . 
+A|14| A: Uh-huh . Yeah . 
+B|15| M: No . 
+A|16| A: Um . 
+B|17| M: [I] call [it] _the_ . 
+A|18| A: Oh . 
+B|19| M: The relationship between [me] _and_ [my] sister _is_ ... complicated . 
+A|20| A: so _they_ just felt absolutely awful . 
+B|21| M:  ... 
+A|22| A: Uh-huh . 
+B|23| M: _What_ [about] her ? 
+A|24| A: [What] type _of_ job [do] you _have_ ? 
+B|25| M: It's _a_ lot easier [to] [have] _a good_ relationship [with] _your_ siblings than [to] [have] _them_ _be_ spoiled . 
+A|26| A: so I'll just trust well , [the] party kind _of_ goes along these lines so I'll go ahead [and] vote . 
+B|27| M: It's _a good_ thing . 
+A|28| A: Uh-huh . Sure . Sure , _that_ happens quite _a bit_ , 
+B|29| M: You _know_ what ? I'm going [to] stop . 
+A|30| A: So we took _those_ back , [and] that's [about] _that_ all _that_ were taken back _in_ ages . 
+B|31| M: [I] _don't_ [really] [have] any _of those_ . 
+A|32| A: Yeah . 
+B|33| M: Not _in the_ sun . 
+A|34| A: Oh , yeah , uh-huh . 
+B|35| M: I'm _in the_ same area 
+A|36| A: Uh-huh . Yeah , that's true . 
+B|37| M: [I] [do] [not] eat [at] restaurants . 
+A|38| A: Um , but it's [a] beautiful home [and] [, I] mean , [my] brother lives , 
+B|39| M: Uhhhhhuh .... 
+A|40| A: um , it's [really] nice . 
+B|41| M: You 
+A|42| A: Yeah [, I] think [it] could affect [the] outcome , you [know] , could make [it] unfair . 
+B|43| M: You . 
+A|44| A: [and] some [of those] people , _they_ [don't] deserve [to] [be] let loose . 
+B|45| M: Are [they] changing ? 
+A|46| A: Uh-huh . Do you [do] _that_ very often ? 
+B|47| M: He said [it] 
+A|48| A: [and] , you [know] , various other things , Raised [it] up . 
+B|49| M: It's ok . 
+A|50| A: If you [have] an , an optometrist or an ophthalmologist , there's [a] vast difference [in] [those] two [, uh ,] professionals . 
+B|51| M: I'm fine [with] [that] 
+A|52| A: [and] boy , [it] [is] [really] nice , 
+B|53| M: [I] [know] . I'm [in] east Texas . 
+A|54| A: How [do] you usually cook [your] deer ? 
+B|55| M: Wait , what ? 
+A|56| A: Uh-huh . Um . 
+B|57| M:  
+A|58| A: [and] ours start [at] , [at] , [at] , [at] eight [and] end [at] eleven , that's why we . [I] [, I] would actually like [it] better if everything started [at] seven [and] ended [at] ten . 
+B|59| M:  
+A|60| A: all , always right , right before [the] news [is] when [I] catch [them] . [I] [, I] tend [to] , if nothing else [is] [in the] town television [at] eleven o'clock just [to] watch [the] news , [and] or , or NIGHTLINE or something , just sort [of] get [a good] , you [know] , [a good] , [a good] think for [the] day . 
+B|61| M: It's [a bit] [of] [a] joke . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Oh , yeah , yeah .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=2| A | A : So , um , well , I have not really paid much attention because I clock , although I think we've probably been talking at least ten minutes so , um , if you , um , unless you have some other things you want to talk about as having to do with P C
+	Free: Pattern=have, Pattern=I, Pattern=at, Pattern=about, Pattern=really, Pattern=to, Pattern=with, Pattern=not, Pattern=do, Pattern=, I
+	Constrained: Pattern=I
+Turn ID=3| B | M : You ... I don t , I ?
+	Free: Pattern=, I, Pattern=I
+	Constrained: Pattern=I
+Turn ID=4| A | A : And then even my eleven year old boy loves to listen to it .
+	Free: Pattern=it, Pattern=to, Pattern=my
+	Constrained: 
+Turn ID=5| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : Wow .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : They
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : so .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : Not sure
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : Well , you , too . Good luck , uh , enjoy college while you can . Let me tell you it's , uh .
+	Free: Pattern=, uh ,, Pattern=, uh, Pattern=me
+	Constrained: Pattern=, uh
+Turn ID=11| B | M : I do , uh , err , don't I
+	Free: Pattern=, uh ,, Pattern=don't, Pattern=do, Pattern=I
+	Constrained: Pattern=, uh
+Turn ID=12| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : She's not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=14| A | A : Uh-huh . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : No .
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : Um .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : I call it the .
+	Free: Pattern=it, Pattern=the, Pattern=I
+	Constrained: 
+Turn ID=18| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : The relationship between me and my sister is ... complicated .
+	Free: Pattern=is, Pattern=my, Pattern=me, Pattern=and
+	Constrained: 
+Turn ID=20| A | A : so they just felt absolutely awful .
+	Free: Pattern=they
+	Constrained: 
+Turn ID=21| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : What about her ?
+	Free: Pattern=What, Pattern=about
+	Constrained: 
+Turn ID=24| A | A : What type of job do you have ?
+	Free: Pattern=have, Pattern=What, Pattern=do, Pattern=of
+	Constrained: 
+Turn ID=25| B | M : It's a lot easier to have a good relationship with your siblings than to have them be spoiled .
+	Free: Pattern=have, Pattern=a, Pattern=a good, Pattern=your, Pattern=be, Pattern=to, Pattern=with, Pattern=them
+	Constrained: Pattern=a
+Turn ID=26| A | A : so I'll just trust well , the party kind of goes along these lines so I'll go ahead and vote .
+	Free: Pattern=the, Pattern=and, Pattern=of
+	Constrained: 
+Turn ID=27| B | M : It's a good thing .
+	Free: Pattern=a good
+	Constrained: Pattern=a
+Turn ID=28| A | A : Uh-huh . Sure . Sure , that happens quite a bit ,
+	Free: Pattern=a bit, Pattern=that
+	Constrained: Pattern=a
+Turn ID=29| B | M : You know what ? I'm going to stop .
+	Free: Pattern=know, Pattern=to
+	Constrained: 
+Turn ID=30| A | A : So we took those back , and that's about that all that were taken back in ages .
+	Free: Pattern=and, Pattern=about, Pattern=in, Pattern=those, Pattern=that
+	Constrained: 
+Turn ID=31| B | M : I don't really have any of those .
+	Free: Pattern=have, Pattern=I, Pattern=of those, Pattern=really, Pattern=don't
+	Constrained: Pattern=those, Pattern=of
+Turn ID=32| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : Not in the sun .
+	Free: Pattern=in the
+	Constrained: Pattern=in, Pattern=the
+Turn ID=34| A | A : Oh , yeah , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : I'm in the same area
+	Free: Pattern=in the
+	Constrained: Pattern=in, Pattern=the
+Turn ID=36| A | A : Uh-huh . Yeah , that's true .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : I do not eat at restaurants .
+	Free: Pattern=not, Pattern=at, Pattern=do, Pattern=I
+	Constrained: 
+Turn ID=38| A | A : Um , but it's a beautiful home and , I mean , my brother lives ,
+	Free: Pattern=, I, Pattern=my, Pattern=a, Pattern=and
+	Constrained: Pattern=I
+Turn ID=39| B | M : Uhhhhhuh ....
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : um , it's really nice .
+	Free: Pattern=really
+	Constrained: 
+Turn ID=41| B | M : You
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : Yeah , I think it could affect the outcome , you know , could make it unfair .
+	Free: Pattern=, I, Pattern=it, Pattern=know, Pattern=the
+	Constrained: Pattern=I
+Turn ID=43| B | M : You .
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : and some of those people , they don't deserve to be let loose .
+	Free: Pattern=they, Pattern=and, Pattern=of those, Pattern=be, Pattern=don't, Pattern=to
+	Constrained: Pattern=those, Pattern=of
+Turn ID=45| B | M : Are they changing ?
+	Free: Pattern=they
+	Constrained: 
+Turn ID=46| A | A : Uh-huh . Do you do that very often ?
+	Free: Pattern=do, Pattern=that
+	Constrained: 
+Turn ID=47| B | M : He said it
+	Free: Pattern=it
+	Constrained: 
+Turn ID=48| A | A : and , you know , various other things , Raised it up .
+	Free: Pattern=it, Pattern=know, Pattern=and
+	Constrained: 
+Turn ID=49| B | M : It's ok .
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : If you have an , an optometrist or an ophthalmologist , there's a vast difference in those two , uh , professionals .
+	Free: Pattern=have, Pattern=a, Pattern=in, Pattern=, uh ,, Pattern=those
+	Constrained: Pattern=, uh
+Turn ID=51| B | M : I'm fine with that
+	Free: Pattern=with, Pattern=that
+	Constrained: 
+Turn ID=52| A | A : and boy , it is really nice ,
+	Free: Pattern=it, Pattern=is, Pattern=and, Pattern=really
+	Constrained: 
+Turn ID=53| B | M : I know . I'm in east Texas .
+	Free: Pattern=in, Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=54| A | A : How do you usually cook your deer ?
+	Free: Pattern=do, Pattern=your
+	Constrained: 
+Turn ID=55| B | M : Wait , what ?
+	Free: 
+	Constrained: 
+Turn ID=56| A | A : Uh-huh . Um .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=58| A | A : and ours start at , at , at , at eight and end at eleven , that's why we . I , I would actually like it better if everything started at seven and ended at ten .
+	Free: Pattern=, I, Pattern=I, Pattern=at, Pattern=it, Pattern=and
+	Constrained: Pattern=I
+Turn ID=59| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=60| A | A : all , always right , right before the news is when I catch them . I , I tend to , if nothing else is in the town television at eleven o'clock just to watch the news , and or , or NIGHTLINE or something , just sort of get a good , you know , a good , a good think for the day .
+	Free: Pattern=of, Pattern=, I, Pattern=a good, Pattern=and, Pattern=at, Pattern=know, Pattern=is, Pattern=the, Pattern=to, Pattern=them, Pattern=in the, Pattern=I
+	Constrained: Pattern=in, Pattern=a, Pattern=I, Pattern=the
+Turn ID=61| B | M : It's a bit of a joke .
+	Free: Pattern=a bit, Pattern=a, Pattern=of
+	Constrained: Pattern=a

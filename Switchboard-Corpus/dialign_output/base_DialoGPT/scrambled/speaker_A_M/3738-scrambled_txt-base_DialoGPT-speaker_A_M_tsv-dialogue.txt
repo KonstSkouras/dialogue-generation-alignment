@@ -1,0 +1,131 @@
+A|0| A: Yeah . Yeah , and get even _with_ who _, I_ mean , 
+B|1| M: _I've_ never heard _of_ _a_ single girl having _a_ son _or_ _daughter_ . 
+A|2| A: _Oh _,_ I_ agree . _I think_ _that_ people are getting off too easy . They're getting , they're getting paroled too easily . 
+B|3| M: Um . Uh 
+A|4| A: _Oh _,_ _I_ don't know ,_ is _it_ , do _you_ feel at all like _, _it's_ a_ religious issue ? 
+B|5| M: Not _to be_ [that] guy _, but_ [it's a] song 
+A|6| A: _But_ , uh , Yeah [, but] _, I_ mean , [a] , [a] , [a] lot [of] people would get involved and , _you_ _know ,_ because there were all different , organizations [to] do . There _was_ Big Brother , Big Sister , 
+B|7| M: [I think] he [was] _in_ prison . 
+A|8| A: Everyday ? 
+B|9| M: _Oh _, yeah_ [,_ I] _know ._ 
+A|10| A: Yes . Uh-huh . They are getting [a] handle on [that] , [in] fact , uh , my oldest [daughter] is , uh , is uh , [a] nurse and she just received her masters degree and she is now into consulting and that's one [of] _the_ areas [that] she is working on . To _have_ , uh , uh , [a] day care center for _the_ _the_ children [of] _the_ , [of] _the_ nurses [that] are staffing _the_ facility . 
+B|11| M: It [was] _an_ early spring freeze . 
+A|12| A: Yeah , well that's , he's got [a] job there and this is his first year , so _, it's been a_ real interesting thing for them 
+B|13| M: How long [have] u _been _in_ the_ church ? 
+A|14| A: _But_ , uh , we just really like music . It's [a] [, I] [, I] especially like _it_ as [an] outlet when [the] T V goes off , we get [the] T V off and just [have] some nice quiet music . 
+B|15| M:  ... 
+A|16| A: Yeah . Yeah [, I] would [think] [, I] would [think] [a] cave would [be] , could [have] problems like [that] , too . 
+B|17| M: [But] [you] [don't] need [to] worry _about_ [the] cat . 
+A|18| A: Yeah . Uh-huh . Yeah . 
+B|19| M: The ability [to] move 
+A|20| A: [Oh , yeah] . [I] mean , [you] [know .] There's no place [in the] house where [you] can stand and not see four windows . 
+B|21| M: ' ,,. 
+A|22| A: Uh-huh . _That's [,_ yeah ,] [a] really good friend [of] mine lives [in] Penn Hills , and they've [been in] their house , oh , probably [about] twelve years now 
+B|23| M: what . 
+A|24| A: [I] [, _I] don't_ either . It's [a] really delicate , uh , moral , issue . Because , if [you] [have] , well [, I] guess [the] one thing [I] do see [that] is , is [that] needs [to be] [a] solution is , [that] if [you] do let people into [the] country [, I] do feel [you] [have] [a] certain obligation [to] , [to] get them on their feet . 
+B|25| M: [That's ,] 
+A|26| A: And that's [the] best place [that] [I've] ever canoed . 
+B|27| M: [That's] what [I] [was] thinking . 
+A|28| A: Right . And actually [in] , [in] summer [I] like [to] swim . We [don't] [have] facilities for swimming [in] winter [, but] , um , and , and that's true , when [I] go home from work at [the] end [of] [the] day , if [I] go up for [an] hour [in the] pool , I'm much , much more awake , I'm ready [to] work [in the] garden [or] whatever [in the] evening . 
+B|29| M: [I] 
+A|30| A: Uh-huh . taxes . 
+B|31| M: [I don't know [,] it's been a] while since we've had [a] big problem [with] [it] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah . Yeah , and get even with who , I mean ,
+	Free: Pattern=, I, Pattern=with
+	Constrained: Pattern=I
+Turn ID=1| B | M : I've never heard of a single girl having a son or daughter .
+	Free: Pattern=of, Pattern=I've, Pattern=a, Pattern=daughter, Pattern=or
+	Constrained: 
+Turn ID=2| A | A : Oh , I agree . I think that people are getting off too easy . They're getting , they're getting paroled too easily .
+	Free: Pattern=I think, Pattern=Oh ,, Pattern=, I, Pattern=that
+	Constrained: Pattern=think, Pattern=I
+Turn ID=3| B | M : Um . Uh
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : Oh , I don't know , is it , do you feel at all like , it's a religious issue ?
+	Free: Pattern=it's a, Pattern=you, Pattern=, I, Pattern=it, Pattern=, it's, Pattern=I don't know ,, Pattern=Oh ,
+	Constrained: Pattern=know ,, Pattern=a, Pattern=I, Pattern=I don't, Pattern=don't
+Turn ID=5| B | M : Not to be that guy , but it's a song
+	Free: Pattern=it's a, Pattern=, but, Pattern=to be, Pattern=that
+	Constrained: Pattern=a, Pattern=to, Pattern=be
+Turn ID=6| A | A : But , uh , Yeah , but , I mean , a , a , a lot of people would get involved and , you know , because there were all different , organizations to do . There was Big Brother , Big Sister ,
+	Free: Pattern=But, Pattern=to, Pattern=was, Pattern=of, Pattern=know ,, Pattern=you, Pattern=, but, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=7| B | M : I think he was in prison .
+	Free: Pattern=I think, Pattern=in, Pattern=was
+	Constrained: Pattern=think, Pattern=I
+Turn ID=8| A | A : Everyday ?
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : Oh , yeah , I know .
+	Free: Pattern=, yeah ,, Pattern=Oh , yeah, Pattern=know ., Pattern=, I
+	Constrained: Pattern=Oh ,, Pattern=I
+Turn ID=10| A | A : Yes . Uh-huh . They are getting a handle on that , in fact , uh , my oldest daughter is , uh , is uh , a nurse and she just received her masters degree and she is now into consulting and that's one of the areas that she is working on . To have , uh , uh , a day care center for the the children of the , of the nurses that are staffing the facility .
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=in, Pattern=daughter, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=11| B | M : It was an early spring freeze .
+	Free: Pattern=an, Pattern=was
+	Constrained: 
+Turn ID=12| A | A : Yeah , well that's , he's got a job there and this is his first year , so , it's been a real interesting thing for them
+	Free: Pattern=, it's been a, Pattern=a
+	Constrained: Pattern=a, Pattern=, it's
+Turn ID=13| B | M : How long have u been in the church ?
+	Free: Pattern=in the, Pattern=been in, Pattern=have
+	Constrained: Pattern=the, Pattern=in
+Turn ID=14| A | A : But , uh , we just really like music . It's a , I , I especially like it as an outlet when the T V goes off , we get the T V off and just have some nice quiet music .
+	Free: Pattern=have, Pattern=an, Pattern=it, Pattern=But, Pattern=the, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=15| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : Yeah . Yeah , I would think , I would think a cave would be , could have problems like that , too .
+	Free: Pattern=have, Pattern=think, Pattern=be, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=17| B | M : But you don't need to worry about the cat .
+	Free: Pattern=you, Pattern=But, Pattern=about, Pattern=the, Pattern=don't, Pattern=to
+	Constrained: 
+Turn ID=18| A | A : Yeah . Uh-huh . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : The ability to move
+	Free: Pattern=to
+	Constrained: 
+Turn ID=20| A | A : Oh , yeah . I mean , you know . There's no place in the house where you can stand and not see four windows .
+	Free: Pattern=you, Pattern=in the, Pattern=I, Pattern=Oh , yeah, Pattern=know .
+	Constrained: Pattern=in, Pattern=Oh ,, Pattern=the
+Turn ID=21| B | M : ' ,,.
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : Uh-huh . That's , yeah , a really good friend of mine lives in Penn Hills , and they've been in their house , oh , probably about twelve years now
+	Free: Pattern=of, Pattern=, yeah ,, Pattern=a, Pattern=about, Pattern=in, Pattern=That's ,, Pattern=been in
+	Constrained: Pattern=That's, Pattern=in
+Turn ID=23| B | M : what .
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : I , I don't either . It's a really delicate , uh , moral , issue . Because , if you have , well , I guess the one thing I do see that is , is that needs to be a solution is , that if you do let people into the country , I do feel you have a certain obligation to , to get them on their feet .
+	Free: Pattern=you, Pattern=have, Pattern=I, Pattern=I don't, Pattern=the, Pattern=to, Pattern=to be, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=be, Pattern=I, Pattern=don't, Pattern=to
+Turn ID=25| B | M : That's ,
+	Free: Pattern=That's ,
+	Constrained: Pattern=That's
+Turn ID=26| A | A : And that's the best place that I've ever canoed .
+	Free: Pattern=the, Pattern=I've, Pattern=that
+	Constrained: 
+Turn ID=27| B | M : That's what I was thinking .
+	Free: Pattern=That's, Pattern=I, Pattern=was
+	Constrained: 
+Turn ID=28| A | A : Right . And actually in , in summer I like to swim . We don't have facilities for swimming in winter , but , um , and , and that's true , when I go home from work at the end of the day , if I go up for an hour in the pool , I'm much , much more awake , I'm ready to work in the garden or whatever in the evening .
+	Free: Pattern=of, Pattern=, but, Pattern=have, Pattern=an, Pattern=in, Pattern=or, Pattern=the, Pattern=don't, Pattern=to, Pattern=in the, Pattern=I
+	Constrained: Pattern=the, Pattern=in
+Turn ID=29| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=30| A | A : Uh-huh . taxes .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : I don't know , it's been a while since we've had a big problem with it .
+	Free: Pattern=a, Pattern=it, Pattern=I don't know ,, Pattern=, it's been a, Pattern=with
+	Constrained: Pattern=know ,, Pattern=a, Pattern=I, Pattern=don't, Pattern=I don't, Pattern=, it's

@@ -1,0 +1,191 @@
+B|0| M:  . _about_ 
+A|1| A: _I mean ,_ _not_ , _not_ _to_ _this_ large scale as Iraq _, but_ _that_ , 
+B|2| M:  , 
+A|3| A: whenever _we_ give arms _to_ people , as _we_ did _, and_ as _we_ sold arms _to_ , pardon me , _to_ Iraq , when _we_ wanted them _to_ fight Iran _, and_ then , _uh_ _, and_ then _it_ turn around _and ,_ 
+B|4| M: No _, and , and_ [it] , 
+A|5| A: Uh-huh . 
+B|6| M: _I think_ _so_ . [uh] . 
+A|7| A: Uh-huh . And [I] _know_ when [I] spent , _the_ time _that_ I've studied in Mexico , [uh] , Spanish _was_ one of my majors in college , _that_ , [uh] , _there_ _was a_ kind of _a_ lot of resentment _there_ towards America , 
+B|8| M: [I] 
+A|9| A: [about] , [uh] , like _you_ _say_ , using them , _our_ interest _there is_ _, you_ _know_ _, what_ profit _we_ could make off of any kind of relationship with them , 
+B|10| M: Uuhuhuh . 
+A|11| A: [and] _that_ _we_ weren't normally very interested in them [, and] _they have ,_ in other , in most Latin American countries _, they_ , _there_ _are_ _a_ lot of _the_ kind of problems _that_ we've fought _for_ in other countries _, you_ _know_ , _that_ _they have_ corruption [, and , and] _they_ don't _have ,_ [uh] _, I mean ,_ _there's_ just very few _really_ modern cities . 
+B|12| M: [I mean ,] 
+A|13| A: Uh-huh . 
+B|14| M: _Yeah [,_ and] [there's] ... 
+A|15| A: _Well ,_ that's _right_ , because that's just [so] much of _the_ way _that_ _they_ make their money [and] [so] many communities _have ,_ [uh] , _have_ _to_ _have_ _that_ _for_ farming 
+B|16| M:  
+A|17| A: And _they_ don't look at [it] [so] much as _, you_ _know_ , 
+B|18| M: [we] [, [they] have [,] _you] ,_ 
+A|19| A: Uh-huh . _That's right ._ 
+B|20| M: [That's right .] 
+A|21| A: And [I think] _it's_ _really_ very sad _that_ north of _the_ border [, you] _know_ , _the_ United States [and] Canada _is_ [so] different , from _the_ from South America [, and] Central America . 
+B|22| M: [I think] [it] [was a] joke . 
+A|23| A: There's _really_ [a] disparity between _the_ , [uh] _, what_ [a] _I would_ call civilization of _the_ countries [, you] _know_ . 
+B|24| M: We should _all_ _be_ thankful [for] [this] . 
+A|25| A: Uh-huh . 
+B|26| M: [I would] [say] [it's] [the] opposite . 
+A|27| A: Yes , [it's] _really_ kind of sad [, and ,] _that_ [we] [would] _go_ [all] [the] way _to_ Iraq [and] _that_ [we] [would] [be] very concerned with [the] situation between Jerusalem [and ,] [uh] , Israel [and] _the Middle_ East Arab countries [, and , and] when [we] [have ,] when [we] [have] [a] lot of problems , [right] in _our_ own back door . 
+B|28| M: Not [really] . 
+A|29| A: Um . 
+B|30| M: I'm [so] . [so] . uhh . 
+A|31| A: _So_ [I] guess we've kind of neglected Latin America . 
+B|32| M: No [, they] [are] [not] . 
+A|33| A: recently 
+B|34| M: [So] [what] [have] [you] been up [to] lately ? 
+A|35| A: [Yeah ,] fairly recently . _Well ,_ that's [really] sad . [I] hadn't thought [about] _that_ in [a] long time . 
+B|36| M: [Well ,] they've been _on_ [the] front page [for] [a] while now . 
+A|37| A: [Well _,] I_ guess then _, I_ will _go_ _, but I_ , 
+B|38| M: [I] [have] [not] seen [you] . 
+A|39| A: made me stop [and] [think] [a] minute [about] , [not] worrying [so] much _about _the_ Middle_ East crisis . 
+B|40| M: [So] [, what] happened ? 
+A|41| A: [I] _know that_ [it's] [not] _settled_ _but_ , _there_ [are] other areas _that_ [we] could _focus our_ attention [on] . 
+B|42| M: No [, I mean [,] I] am [not] sure [about the] middle east [, but I] do [know that] [there is] no reason [to] [go] [to] Syria . 
+A|43| A: [Well ,] thank [you [,] you] [have] [a] good day . 
+B|44| M: It's [settled] , we'll [focus our] efforts [on] [the Middle] Eastern conflict . 
+A|45| A: Bye-bye . 
+B|46| M: Alright , bye . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M :  . about
+	Free: Pattern=about
+	Constrained: 
+Turn ID=1| A | A : I mean , not , not to this large scale as Iraq , but that ,
+	Free: Pattern=, but, Pattern=I mean ,, Pattern=to, Pattern=this, Pattern=that, Pattern=not
+	Constrained: Pattern=but, Pattern=I
+Turn ID=2| B | M :  ,
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : whenever we give arms to people , as we did , and as we sold arms to , pardon me , to Iraq , when we wanted them to fight Iran , and then , uh , and then it turn around and ,
+	Free: Pattern=uh, Pattern=and ,, Pattern=it, Pattern=we, Pattern=, and, Pattern=to
+	Constrained: Pattern=and
+Turn ID=4| B | M : No , and , and it ,
+	Free: Pattern=, and , and, Pattern=it
+	Constrained: Pattern=and ,, Pattern=, and, Pattern=and, Pattern=, and ,
+Turn ID=5| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : I think so . uh .
+	Free: Pattern=I think, Pattern=uh, Pattern=so
+	Constrained: Pattern=think, Pattern=I
+Turn ID=7| A | A : Uh-huh . And I know when I spent , the time that I've studied in Mexico , uh , Spanish was one of my majors in college , that , uh , there was a kind of a lot of resentment there towards America ,
+	Free: Pattern=uh, Pattern=there, Pattern=a, Pattern=I, Pattern=was a, Pattern=know, Pattern=the, Pattern=was, Pattern=that
+	Constrained: Pattern=a, Pattern=was
+Turn ID=8| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=9| A | A : about , uh , like you say , using them , our interest there is , you know , what profit we could make off of any kind of relationship with them ,
+	Free: Pattern=, what, Pattern=our, Pattern=about, Pattern=we, Pattern=there is, Pattern=you, Pattern=uh, Pattern=say, Pattern=know, Pattern=, you
+	Constrained: Pattern=you, Pattern=is, Pattern=there, Pattern=what
+Turn ID=10| B | M : Uuhuhuh .
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : and that we weren't normally very interested in them , and they have , in other , in most Latin American countries , they , there are a lot of the kind of problems that we've fought for in other countries , you know , that they have corruption , and , and they don't have , uh , I mean , there's just very few really modern cities .
+	Free: Pattern=, they, Pattern=, I mean ,, Pattern=uh, Pattern=they have, Pattern=a, Pattern=for, Pattern=and, Pattern=are, Pattern=there's, Pattern=, and, Pattern=that, Pattern=, and , and, Pattern=they, Pattern=there, Pattern=know, Pattern=have ,, Pattern=, you, Pattern=we, Pattern=really, Pattern=they have ,, Pattern=the
+	Constrained: Pattern=you, Pattern=and ,, Pattern=they, Pattern=, I, Pattern=and, Pattern=I, Pattern=have ,, Pattern=I mean ,, Pattern=, and, Pattern=they have, Pattern=, and ,, Pattern=have
+Turn ID=12| B | M : I mean ,
+	Free: Pattern=I mean ,
+	Constrained: Pattern=I
+Turn ID=13| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : Yeah , and there's ...
+	Free: Pattern=Yeah ,, Pattern=, and, Pattern=there's
+	Constrained: Pattern=and
+Turn ID=15| A | A : Well , that's right , because that's just so much of the way that they make their money and so many communities have , uh , have to have that for farming
+	Free: Pattern=right, Pattern=uh, Pattern=have, Pattern=they, Pattern=for, Pattern=and, Pattern=Well ,, Pattern=have ,, Pattern=the, Pattern=to, Pattern=that, Pattern=so
+	Constrained: Pattern=have
+Turn ID=16| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : And they don't look at it so much as , you know ,
+	Free: Pattern=they, Pattern=it, Pattern=so, Pattern=know, Pattern=, you
+	Constrained: Pattern=you
+Turn ID=18| B | M : we , they have , you ,
+	Free: Pattern=, they, Pattern=, you, Pattern=we, Pattern=they have ,, Pattern=you ,
+	Constrained: Pattern=you, Pattern=they, Pattern=have ,, Pattern=they have, Pattern=have
+Turn ID=19| A | A : Uh-huh . That's right .
+	Free: Pattern=That's right .
+	Constrained: Pattern=right
+Turn ID=20| B | M : That's right .
+	Free: Pattern=That's right .
+	Constrained: Pattern=right
+Turn ID=21| A | A : And I think it's really very sad that north of the border , you know , the United States and Canada is so different , from the from South America , and Central America .
+	Free: Pattern=and, Pattern=is, Pattern=really, Pattern=I think, Pattern=the, Pattern=, and, Pattern=so, Pattern=know, Pattern=, you, Pattern=that, Pattern=it's
+	Constrained: Pattern=think, Pattern=and, Pattern=you, Pattern=I
+Turn ID=22| B | M : I think it was a joke .
+	Free: Pattern=I think, Pattern=was a, Pattern=it
+	Constrained: Pattern=think, Pattern=a, Pattern=was, Pattern=I
+Turn ID=23| A | A : There's really a disparity between the , uh , what a I would call civilization of the countries , you know .
+	Free: Pattern=uh, Pattern=a, Pattern=, what, Pattern=really, Pattern=I would, Pattern=the, Pattern=know, Pattern=, you
+	Constrained: Pattern=you, Pattern=I, Pattern=would, Pattern=what
+Turn ID=24| B | M : We should all be thankful for this .
+	Free: Pattern=this, Pattern=for, Pattern=all, Pattern=be
+	Constrained: 
+Turn ID=25| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=26| B | M : I would say it's the opposite .
+	Free: Pattern=I would, Pattern=it's, Pattern=the, Pattern=say
+	Constrained: Pattern=I, Pattern=would
+Turn ID=27| A | A : Yes , it's really kind of sad , and , that we would go all the way to Iraq and that we would be very concerned with the situation between Jerusalem and , uh , Israel and the Middle East Arab countries , and , and when we have , when we have a lot of problems , right in our own back door .
+	Free: Pattern=right, Pattern=uh, Pattern=the Middle, Pattern=a, Pattern=our, Pattern=and, Pattern=have ,, Pattern=be, Pattern=would, Pattern=to, Pattern=, and , and, Pattern=, and ,, Pattern=have, Pattern=go, Pattern=and ,, Pattern=we, Pattern=really, Pattern=the, Pattern=all, Pattern=that, Pattern=it's
+	Constrained: Pattern=and ,, Pattern=and, Pattern=the, Pattern=, and, Pattern=, and ,, Pattern=have
+Turn ID=28| B | M : Not really .
+	Free: Pattern=really
+	Constrained: 
+Turn ID=29| A | A : Um .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : I'm so . so . uhh .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=31| A | A : So I guess we've kind of neglected Latin America .
+	Free: Pattern=So, Pattern=I
+	Constrained: 
+Turn ID=32| B | M : No , they are not .
+	Free: Pattern=, they, Pattern=not, Pattern=are
+	Constrained: Pattern=they
+Turn ID=33| A | A : recently
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : So what have you been up to lately ?
+	Free: Pattern=you, Pattern=have, Pattern=what, Pattern=So, Pattern=to
+	Constrained: 
+Turn ID=35| A | A : Yeah , fairly recently . Well , that's really sad . I hadn't thought about that in a long time .
+	Free: Pattern=a, Pattern=I, Pattern=about, Pattern=Well ,, Pattern=really, Pattern=Yeah ,, Pattern=that
+	Constrained: 
+Turn ID=36| B | M : Well , they've been on the front page for a while now .
+	Free: Pattern=a, Pattern=for, Pattern=Well ,, Pattern=on, Pattern=the
+	Constrained: 
+Turn ID=37| A | A : Well , I guess then , I will go , but I ,
+	Free: Pattern=, but I, Pattern=Well ,, Pattern=, I, Pattern=go
+	Constrained: Pattern=, but, Pattern=but, Pattern=I
+Turn ID=38| B | M : I have not seen you .
+	Free: Pattern=you, Pattern=I, Pattern=have, Pattern=not
+	Constrained: 
+Turn ID=39| A | A : made me stop and think a minute about , not worrying so much about the Middle East crisis .
+	Free: Pattern=about the, Pattern=the Middle, Pattern=a, Pattern=and, Pattern=about, Pattern=think, Pattern=so, Pattern=not
+	Constrained: Pattern=the, Pattern=about
+Turn ID=40| B | M : So , what happened ?
+	Free: Pattern=, what, Pattern=So
+	Constrained: Pattern=what
+Turn ID=41| A | A : I know that it's not settled but , there are other areas that we could focus our attention on .
+	Free: Pattern=there, Pattern=settled, Pattern=focus our, Pattern=we, Pattern=on, Pattern=know that, Pattern=not, Pattern=are, Pattern=I, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=our, Pattern=that, Pattern=know
+Turn ID=42| B | M : No , I mean , I am not sure about the middle east , but I do know that there is no reason to go to Syria .
+	Free: Pattern=, I mean ,, Pattern=, but I, Pattern=about the, Pattern=go, Pattern=, I, Pattern=know that, Pattern=not, Pattern=there is, Pattern=to
+	Constrained: Pattern=, but, Pattern=there, Pattern=, I, Pattern=I, Pattern=about, Pattern=know, Pattern=is, Pattern=I mean ,, Pattern=the, Pattern=that, Pattern=but
+Turn ID=43| A | A : Well , thank you , you have a good day .
+	Free: Pattern=have, Pattern=a, Pattern=Well ,, Pattern=, you, Pattern=you ,
+	Constrained: Pattern=you
+Turn ID=44| B | M : It's settled , we'll focus our efforts on the Middle Eastern conflict .
+	Free: Pattern=the Middle, Pattern=focus our, Pattern=on, Pattern=settled
+	Constrained: Pattern=the, Pattern=our
+Turn ID=45| A | A : Bye-bye .
+	Free: 
+	Constrained: 
+Turn ID=46| B | M : Alright , bye .
+	Free: 
+	Constrained: 

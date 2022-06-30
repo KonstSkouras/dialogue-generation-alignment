@@ -1,0 +1,231 @@
+A|0| B: Well , _good_ . 
+B|1| M: He's _not_ _that_ [good] 
+A|2| B: Really ? Huh . _It_ really has _been_ strange here this year _, I_ mean , this whole course this whole year has _been_ _a_ _different_ year _in_ more ways than one . 
+B|3| M: _And it's_ _not_ _like_ _they're_ _the_ fastest 
+A|4| B: _Right ._ Uh-huh _Oh_ Now that's _a_ big win . 
+B|5| M: Not _in the_ _last_ century . 
+A|6| B: [And] _, uh _,_ you know ,_ _we_ _had_ _a_ case [like] [that] here _and_ , on [the] _other_ hand _, you know ,_ _people_ are saying [that] _because_ [the] _, he_ knows , _because_ [the] criminals _know_ [that] [the] _, uh ,_ penalties can be very severe , they _, uh ,_ there's less criminals [that] are _, you know ,_ turning themselves [in] , or _, you know ,_ pleading or whatever , _because_ they _know_ [that] [the] judge _, you know ,_ if they find them guilty _is_ _, you know ,_ has [the] _, the_ opportunity _to_ sentence them _, you know _,_ for_ _, for_ [the] death sentence . 
+B|7| M: _They're_ playing [the] Patriots , _not the_ Jets . 
+A|8| B: they _never_ _know_ when they _want_ _to_ run out _and_ _do_ _an_ errand at noon _, you know ,_ they just feel they need their car . 
+B|9| M: _Oh ._ [Right .] 
+A|10| B: Yes . 
+B|11| M: _Oh ,_ _it's_ [different] . It's [different] [because] _of the_ chalk . 
+A|12| B: [Right .] My Dad _is_ actually _, uh ,_ 
+B|13| M: _So_ they'll wait [, uh [,] for] someone [to] [do] it [, uh] . 
+A|14| B: [Right] , uh-huh . A lot [of the] older family lives [in] Vernon . 
+B|15| M: The Cowboys _have_ [been] _over_ hyped [for] [a] long time . 
+A|16| B: _Yeah_ 
+B|17| M: I'm _from_ [the] East Coast . 
+A|18| B: [Right] , _no_ , they _don't_ . _I_ _should_ make _you_ , 
+B|19| M: If [you] [want] [a] fight [, you] [should] go watch [the] Texans . 
+A|20| B: [Right .] 
+B|21| M: ' [, you] . 
+A|22| B: Tibby _and_ Liberty . 
+B|23| M: [I] , eh ? 
+A|24| B: [Oh .] 
+B|25| M: He _was_ [in] jail [, he] didn't _have_ any 
+A|26| B: Really . 
+B|27| M: Were [you] _in the_ bears camp ? 
+A|28| B: But [, uh ,] well [I] got my thirty day notice yesterday . 
+B|29| M: I'm so , I'm ... 
+A|30| B: Um , 
+B|31| M: [and] _I was_ _with_ him 
+A|32| B: [Right] , exactly . 
+B|33| M: [Oh .] [Yeah] _, I've_ [never] [been] [to] [a] museum before . 
+A|34| B: [Oh ,] okay . Well [they're] having [a] lot [of] recruiting this week [in] all [the] [different] areas . That's why [I was] just 
+B|35| M: He's [the] Chris _, but_ his middle name isn't Chris . 
+A|36| B: Well , _we_ try [to] stay away [from] those things which might _have [,_ uh ,] salmonella [in] them . 
+B|37| M: They _have , you know [,_ the] ,,... 
+A|38| B: [And] [I] [do] [like] them . [And] I'd [like] [to] [have] [a] compact disc player [in the] car . That would be , something [that] [I] would really [like] . 
+B|39| M: What [do] [you] [do] ? 
+A|40| B: Uh-huh . 
+B|41| M: [I] [don't] think [you know] _what_ [a] spoiler [is] . 
+A|42| B: Uh-huh . Uh-huh . 
+B|43| M: there [is] [no] way [, I] think [, the] US [is] [the] only country [that] [have [,] the] ratio [of] [people] , [to] each [other] . 
+A|44| B: Uh-huh . 
+B|45| M: [It] 
+A|46| B: Um , yeah [, I've] [been] involved [with] [, uh ,] some [of the] campaigns [and] [the] state conventions [of the] , [of the] Republican party . [And it's] really interesting [to] see [the] process _as_ far _as_ [what] goes through _as_ far _as_ [the] voting [and] [the] [, uh ,] how [the] [, uh [,] the] [not the] ballots [, but] [, uh ,] my mind has gone blank . [I've] [been] all evening How they develop [, uh ,] [what] [the] candidate stands [for] 
+B|47| M: Eye Care . 
+A|48| B: Uh-huh . 
+B|49| M: [I] . 
+A|50| B: [So] now [the] tickets even got lower than [the] lowest one [last] year . 
+B|51| M: I'm [not] sure about [that] . The most efficient crop [is] [a] few thousand years ago _, and_ it [was] [the] most efficient way [to] grow it 
+A|52| B: [They're] just looking what's going [to] pay [the] biggest cash . 
+B|53| M: [I] [don't] [know [,] I] [don't] think [I've] ever seen [a] church [that] gives me [the] same chance [as] [a] child . 
+A|54| B: [And] [have , you know ,] [like] three or four couples come [over] [, and] I'll [do] [the] potatoes [and] [you know ,] [like] butter [and] cheese [and] stuff [and] [have] everybody else just bring [a] couple [of] toppings , whatever they [like] 
+B|55| M: Have [we] ever [had] [an] airbag ? 
+A|56| B: [Yeah] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Well , good .
+	Free: Pattern=good
+	Constrained: 
+Turn ID=1| B | M : He's not that good
+	Free: Pattern=not, Pattern=good, Pattern=that
+	Constrained: 
+Turn ID=2| A | B : Really ? Huh . It really has been strange here this year , I mean , this whole course this whole year has been a different year in more ways than one .
+	Free: Pattern=different, Pattern=in, Pattern=It, Pattern=been, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=3| B | M : And it's not like they're the fastest
+	Free: Pattern=they're, Pattern=And it's, Pattern=like, Pattern=the, Pattern=not
+	Constrained: Pattern=And, Pattern=it's
+Turn ID=4| A | B : Right . Uh-huh Oh Now that's a big win .
+	Free: Pattern=Right ., Pattern=a, Pattern=Oh
+	Constrained: Pattern=Right
+Turn ID=5| B | M : Not in the last century .
+	Free: Pattern=in the, Pattern=last
+	Constrained: Pattern=in, Pattern=the
+Turn ID=6| A | B : And , uh , you know , we had a case like that here and , on the other hand , you know , people are saying that because the , he knows , because the criminals know that the , uh , penalties can be very severe , they , uh , there's less criminals that are , you know , turning themselves in , or , you know , pleading or whatever , because they know that the judge , you know , if they find them guilty is , you know , has the , the opportunity to sentence them , you know , for , for the death sentence .
+	Free: Pattern=and, Pattern=other, Pattern=in, Pattern=know, Pattern=is, Pattern=had, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=, the, Pattern=that, Pattern=people, Pattern=And, Pattern=, you know ,, Pattern=a, Pattern=because, Pattern=, he, Pattern=, for, Pattern=we, Pattern=like
+	Constrained: Pattern=for, Pattern=the, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=, uh, Pattern=know, Pattern=, you
+Turn ID=7| B | M : They're playing the Patriots , not the Jets .
+	Free: Pattern=not the, Pattern=the, Pattern=They're
+	Constrained: Pattern=not, Pattern=the
+Turn ID=8| A | B : they never know when they want to run out and do an errand at noon , you know , they just feel they need their car .
+	Free: Pattern=want, Pattern=an, Pattern=and, Pattern=know, Pattern=never, Pattern=to, Pattern=do, Pattern=, you know ,
+	Constrained: Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
+Turn ID=9| B | M : Oh . Right .
+	Free: Pattern=Right ., Pattern=Oh .
+	Constrained: Pattern=Right, Pattern=Oh
+Turn ID=10| A | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : Oh , it's different . It's different because of the chalk .
+	Free: Pattern=different, Pattern=because, Pattern=Oh ,, Pattern=of the, Pattern=it's
+	Constrained: Pattern=the, Pattern=Oh, Pattern=of
+Turn ID=12| A | B : Right . My Dad is actually , uh ,
+	Free: Pattern=, uh ,, Pattern=Right ., Pattern=is
+	Constrained: Pattern=, uh, Pattern=Right
+Turn ID=13| B | M : So they'll wait , uh , for someone to do it , uh .
+	Free: Pattern=, uh, Pattern=do, Pattern=So, Pattern=, for, Pattern=, uh ,, Pattern=to
+	Constrained: Pattern=, uh, Pattern=for
+Turn ID=14| A | B : Right , uh-huh . A lot of the older family lives in Vernon .
+	Free: Pattern=of the, Pattern=in, Pattern=Right
+	Constrained: Pattern=the, Pattern=of
+Turn ID=15| B | M : The Cowboys have been over hyped for a long time .
+	Free: Pattern=have, Pattern=a, Pattern=for, Pattern=over, Pattern=been
+	Constrained: 
+Turn ID=16| A | B : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=17| B | M : I'm from the East Coast .
+	Free: Pattern=the, Pattern=from
+	Constrained: 
+Turn ID=18| A | B : Right , no , they don't . I should make you ,
+	Free: Pattern=you, Pattern=I, Pattern=Right, Pattern=don't, Pattern=should, Pattern=no
+	Constrained: 
+Turn ID=19| B | M : If you want a fight , you should go watch the Texans .
+	Free: Pattern=want, Pattern=you, Pattern=should, Pattern=a, Pattern=, you, Pattern=the
+	Constrained: Pattern=you
+Turn ID=20| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=21| B | M : ' , you .
+	Free: Pattern=, you
+	Constrained: Pattern=you
+Turn ID=22| A | B : Tibby and Liberty .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=23| B | M : I , eh ?
+	Free: Pattern=I
+	Constrained: 
+Turn ID=24| A | B : Oh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=25| B | M : He was in jail , he didn't have any
+	Free: Pattern=, he, Pattern=in, Pattern=was, Pattern=have
+	Constrained: 
+Turn ID=26| A | B : Really .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : Were you in the bears camp ?
+	Free: Pattern=in the, Pattern=you
+	Constrained: Pattern=in, Pattern=the
+Turn ID=28| A | B : But , uh , well I got my thirty day notice yesterday .
+	Free: Pattern=, uh ,, Pattern=I
+	Constrained: Pattern=, uh
+Turn ID=29| B | M : I'm so , I'm ...
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Um ,
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : and I was with him
+	Free: Pattern=I was, Pattern=with, Pattern=and
+	Constrained: Pattern=was, Pattern=I
+Turn ID=32| A | B : Right , exactly .
+	Free: Pattern=Right
+	Constrained: 
+Turn ID=33| B | M : Oh . Yeah , I've never been to a museum before .
+	Free: Pattern=Oh ., Pattern=a, Pattern=never, Pattern=to, Pattern=, I've, Pattern=Yeah, Pattern=been
+	Constrained: Pattern=I've, Pattern=Oh
+Turn ID=34| A | B : Oh , okay . Well they're having a lot of recruiting this week in all the different areas . That's why I was just
+	Free: Pattern=of, Pattern=a, Pattern=they're, Pattern=in, Pattern=Oh ,, Pattern=the, Pattern=different, Pattern=I was
+	Constrained: Pattern=was, Pattern=I, Pattern=Oh
+Turn ID=35| B | M : He's the Chris , but his middle name isn't Chris .
+	Free: Pattern=, but, Pattern=the
+	Constrained: 
+Turn ID=36| A | B : Well , we try to stay away from those things which might have , uh , salmonella in them .
+	Free: Pattern=from, Pattern=in, Pattern=have ,, Pattern=we, Pattern=, uh ,, Pattern=to
+	Constrained: Pattern=, uh, Pattern=have
+Turn ID=37| B | M : They have , you know , the ,,...
+	Free: Pattern=have , you know ,, Pattern=, the
+	Constrained: Pattern=have, Pattern=, you know ,, Pattern=the, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=know, Pattern=have ,, Pattern=, you
+Turn ID=38| A | B : And I do like them . And I'd like to have a compact disc player in the car . That would be , something that I would really like .
+	Free: Pattern=like, Pattern=to, Pattern=that, Pattern=And, Pattern=have, Pattern=do, Pattern=a, Pattern=in the, Pattern=I
+	Constrained: Pattern=in, Pattern=the
+Turn ID=39| B | M : What do you do ?
+	Free: Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=40| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : I don't think you know what a spoiler is .
+	Free: Pattern=you know, Pattern=what, Pattern=a, Pattern=I, Pattern=is, Pattern=don't
+	Constrained: Pattern=know, Pattern=you
+Turn ID=42| A | B : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : there is no way , I think , the US is the only country that have , the ratio of people , to each other .
+	Free: Pattern=of, Pattern=people, Pattern=no, Pattern=, I, Pattern=other, Pattern=have ,, Pattern=is, Pattern=the, Pattern=to, Pattern=, the, Pattern=that
+	Constrained: Pattern=the, Pattern=I, Pattern=have
+Turn ID=44| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : It
+	Free: Pattern=It
+	Constrained: 
+Turn ID=46| A | B : Um , yeah , I've been involved with , uh , some of the campaigns and the state conventions of the , of the Republican party . And it's really interesting to see the process as far as what goes through as far as the voting and the , uh , how the , uh , the not the ballots , but , uh , my mind has gone blank . I've been all evening How they develop , uh , what the candidate stands for
+	Free: Pattern=I've, Pattern=, but, Pattern=as, Pattern=what, Pattern=for, Pattern=and, Pattern=And it's, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=been, Pattern=, I've, Pattern=not the, Pattern=, the, Pattern=with, Pattern=of the
+	Constrained: Pattern=of, Pattern=I've, Pattern=, uh, Pattern=And, Pattern=the, Pattern=it's, Pattern=not
+Turn ID=47| B | M : Eye Care .
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : I .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=50| A | B : So now the tickets even got lower than the lowest one last year .
+	Free: Pattern=the, Pattern=last, Pattern=So
+	Constrained: 
+Turn ID=51| B | M : I'm not sure about that . The most efficient crop is a few thousand years ago , and it was the most efficient way to grow it
+	Free: Pattern=a, Pattern=is, Pattern=the, Pattern=was, Pattern=that, Pattern=not, Pattern=, and, Pattern=to
+	Constrained: Pattern=and
+Turn ID=52| A | B : They're just looking what's going to pay the biggest cash .
+	Free: Pattern=to, Pattern=the, Pattern=They're
+	Constrained: 
+Turn ID=53| B | M : I don't know , I don't think I've ever seen a church that gives me the same chance as a child .
+	Free: Pattern=know ,, Pattern=I've, Pattern=as, Pattern=I, Pattern=the, Pattern=don't, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=know, Pattern=I
+Turn ID=54| A | B : And have , you know , like three or four couples come over , and I'll do the potatoes and you know , like butter and cheese and stuff and have everybody else just bring a couple of toppings , whatever they like
+	Free: Pattern=have , you know ,, Pattern=and, Pattern=over, Pattern=like, Pattern=the, Pattern=, and, Pattern=of, Pattern=you know ,, Pattern=And, Pattern=have, Pattern=do, Pattern=a
+	Constrained: Pattern=have, Pattern=, you know ,, Pattern=and, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=know, Pattern=have ,, Pattern=, you
+Turn ID=55| B | M : Have we ever had an airbag ?
+	Free: Pattern=we, Pattern=had, Pattern=an
+	Constrained: 
+Turn ID=56| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 

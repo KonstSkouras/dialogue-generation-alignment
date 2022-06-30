@@ -1,0 +1,271 @@
+A|0| A: _That_ _was_ kind _of_ _a_ funny song _but_ _they_ _sure_ _do_ , _it_ seems _to_ me like _they_ really love their Cowboys here . Even when _they_ were losing pitifully , _you_ _know ,_ people still support them . _We_ drive by some houses everyday _that_ _have_ big signs , _we_ love _the_ 
+B|1| M: [We] [have] no money [to] _buy_ . 
+A|2| A: _Yeah_ . But _it's_ _, _I_ _,_ I know ._ 
+B|3| M: I'm _not_ saying [they] _don't_ , I'm _just_ saying 
+A|4| A: _Yeah_ . 
+B|5| M: You [do] ? 
+A|6| A: The rest _of_ _it_ _is_ [just] like wild flowers 
+B|7| M:  . 
+A|8| A: Uh-huh . 
+B|9| M: Hah , ah _. I ,_ ah , ah ... _I don't_ . 
+A|10| A: _Um ,_ that's probably true _, but_ [I] guess there's other factors _that_ , 
+B|11| M: no 
+A|12| A: _Oh_ really . 
+B|13| M: That's what [I] thought . 
+A|14| A: Uh-huh . 
+B|15| M: _I think_ [it's] [a] bit overpriced . 
+A|16| A: _Yeah_ . _Oh_ . 
+B|17| M: You _are_ correct . I'm _not_ 
+A|18| A: _you're_ [not] President Bush [. _I] know_ and _he_ said yeah , _it_ does _so_ fast _, I_ heard _it_ _on the_ radio [. I] heard _the_ audio portion _on the_ radio _in the_ _car_ _but_ [I] didn't see _it_ _but_ , 
+B|19| M: _I think_ [you] _mean_ [in the] sense [of] never _having_ [to] [do] anything _for_ [a] month again 
+A|20| A: Yes . 
+B|21| M: _I think_ [he] _got_ elected [in the] wrong state . 
+A|22| A: Well , _it_ _was_ pretty reasonable [. I ,] _it_ _was_ around ten dollars [for] lunch . Okay , which _is_ kind [of] high [for] lunch [I] guess . 
+B|23| M: I'm guessing [you're] [on the] wrong website . 
+A|24| A: yeah _So ,_ 
+B|25| M: He's [in the] river . 
+A|26| A: _It's just_ one story . _Yeah_ . _It's_ [a] Fox and Jacobs home . 
+B|27| M: I'm [not] [sure] _if you're_ saying [we] _can_ _do it [,_ but] [we] _can_ 
+A|28| A: No , we're [just] , this _is_ only [the] second place we've lived . We've only been married [for] five and [a] half years . And _, uh ,_ [we] [have] two small children , and [he] had [a] _, uh ,_ [just] [got] transferred here [to] E-Systems , _so ._ 
+B|29| M: Weird ... 
+A|30| A: _so ._ 
+B|31| M: [That] [is] [a] lot 
+A|32| A: Uh-huh . 
+B|33| M: I'm 
+A|34| A: Uh-huh . 
+B|35| M: Food . 
+A|36| A: Bye 
+B|37| M:  
+A|38| A: and _, uh ,_ kind [of] [have] , [if you're] [having] [the] pressures [of] school and _, uh ,_ everything else , [it's] kind [of] , course [it's] really , [you] _know ,_ as soon as [you] [do it ,] [it's] really [a] release . 
+B|39| M: _Oh ,_ cool . 
+A|40| A: And _, I don't think_ [a] cart damages [the] turf . 
+B|41| M: [Um [,] uh [,] I don't think] [so .] 
+A|42| A: Uh-huh , uh-huh . 
+B|43| M: [Yeah] [, but] [the] government _can_ [do] [that] . 
+A|44| A: Right . 
+B|45| M: Some [of] [the] cars [have] [a] 3 [car] garage . 
+A|46| A: And [it] _was just_ [, I] [mean] [you] [can] go [to] K-Mart and [buy] them [for] [, uh ,] eight dollars or [I think] six dollars or whatever [for] toilet seats , 
+B|47| M: [I think] [he] [was just] making [a] joke . 
+A|48| A: Uh-huh . 
+B|49| M: [It's just] [a] joke . 
+A|50| A: Uh-huh . [Oh ,] okay , well , [they] seem [to] be [on] later , 
+B|51| M: [So [,] uh ,] [can] [I] come ? 
+A|52| A: Right . 
+B|53| M: You [know [,] I know .] 
+A|54| A: [I] see . 
+B|55| M: What [do] [you] [mean] ? 
+A|56| A: [Oh ,] Japan's ridiculous . 
+B|57| M: good 
+A|58| A: There [are] people now [that] [are] obsolete point and fact [just] , [just] like endangered species [of] animals , [so] there [are] quote tribes [of] people , [that] [are] endangered or obsolete . 
+B|59| M: Kau 
+A|60| A: Well , that's pretty . 
+B|61| M: Emotions . 
+A|62| A: [Oh] man . 
+B|63| M:  . 
+A|64| A: [Yeah] . 
+B|65| M: no . 
+B|66| M: [I] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : That was kind of a funny song but they sure do , it seems to me like they really love their Cowboys here . Even when they were losing pitifully , you know , people still support them . We drive by some houses everyday that have big signs , we love the
+	Free: Pattern=you, Pattern=have, Pattern=We, Pattern=they, Pattern=it, Pattern=That, Pattern=we, Pattern=sure, Pattern=the, Pattern=to, Pattern=was, Pattern=of, Pattern=know ,, Pattern=do, Pattern=a, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=1| B | M : We have no money to buy .
+	Free: Pattern=buy, Pattern=We, Pattern=to, Pattern=have
+	Constrained: 
+Turn ID=2| A | A : Yeah . But it's , I , I know .
+	Free: Pattern=I ,, Pattern=, I know ., Pattern=, I, Pattern=Yeah, Pattern=it's
+	Constrained: Pattern=I, Pattern=I know, Pattern=, I
+Turn ID=3| B | M : I'm not saying they don't , I'm just saying
+	Free: Pattern=don't, Pattern=they, Pattern=just, Pattern=not
+	Constrained: 
+Turn ID=4| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=5| B | M : You do ?
+	Free: Pattern=do
+	Constrained: 
+Turn ID=6| A | A : The rest of it is just like wild flowers
+	Free: Pattern=of, Pattern=just, Pattern=it, Pattern=is
+	Constrained: 
+Turn ID=7| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : Hah , ah . I , ah , ah ... I don't .
+	Free: Pattern=. I ,, Pattern=I don't
+	Constrained: Pattern=I ,, Pattern=. I, Pattern=don't, Pattern=I
+Turn ID=10| A | A : Um , that's probably true , but I guess there's other factors that ,
+	Free: Pattern=Um ,, Pattern=, but, Pattern=I, Pattern=that
+	Constrained: Pattern=but
+Turn ID=11| B | M : no
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : Oh really .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=13| B | M : That's what I thought .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=14| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : I think it's a bit overpriced .
+	Free: Pattern=I think, Pattern=it's, Pattern=a
+	Constrained: Pattern=I
+Turn ID=16| A | A : Yeah . Oh .
+	Free: Pattern=Yeah, Pattern=Oh
+	Constrained: 
+Turn ID=17| B | M : You are correct . I'm not
+	Free: Pattern=are, Pattern=not
+	Constrained: 
+Turn ID=18| A | A : you're not President Bush . I know and he said yeah , it does so fast , I heard it on the radio . I heard the audio portion on the radio in the car but I didn't see it but ,
+	Free: Pattern=you're, Pattern=, I, Pattern=it, Pattern=car, Pattern=but, Pattern=so, Pattern=in the, Pattern=I, Pattern=he, Pattern=. I, Pattern=on the, Pattern=the, Pattern=I know, Pattern=not
+	Constrained: Pattern=I, Pattern=on, Pattern=the
+Turn ID=19| B | M : I think you mean in the sense of never having to do anything for a month again
+	Free: Pattern=of, Pattern=you, Pattern=mean, Pattern=for, Pattern=in the, Pattern=having, Pattern=I think, Pattern=to, Pattern=do, Pattern=a
+	Constrained: Pattern=I, Pattern=the
+Turn ID=20| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : I think he got elected in the wrong state .
+	Free: Pattern=in the, Pattern=I think, Pattern=got, Pattern=he
+	Constrained: Pattern=I, Pattern=the
+Turn ID=22| A | A : Well , it was pretty reasonable . I , it was around ten dollars for lunch . Okay , which is kind of high for lunch I guess .
+	Free: Pattern=of, Pattern=for, Pattern=it, Pattern=I, Pattern=is, Pattern=was, Pattern=. I ,
+	Constrained: Pattern=I ,, Pattern=. I, Pattern=I
+Turn ID=23| B | M : I'm guessing you're on the wrong website .
+	Free: Pattern=on the, Pattern=you're
+	Constrained: Pattern=on, Pattern=the
+Turn ID=24| A | A : yeah So ,
+	Free: Pattern=So ,
+	Constrained: 
+Turn ID=25| B | M : He's in the river .
+	Free: Pattern=in the
+	Constrained: Pattern=the
+Turn ID=26| A | A : It's just one story . Yeah . It's a Fox and Jacobs home .
+	Free: Pattern=It's just, Pattern=a, Pattern=Yeah, Pattern=It's
+	Constrained: Pattern=It's, Pattern=just
+Turn ID=27| B | M : I'm not sure if you're saying we can do it , but we can
+	Free: Pattern=, but, Pattern=do it ,, Pattern=can, Pattern=we, Pattern=sure, Pattern=if you're, Pattern=not
+	Constrained: Pattern=do, Pattern=it, Pattern=but, Pattern=you're
+Turn ID=28| A | A : No , we're just , this is only the second place we've lived . We've only been married for five and a half years . And , uh , we have two small children , and he had a , uh , just got transferred here to E-Systems , so .
+	Free: Pattern=a, Pattern=for, Pattern=he, Pattern=is, Pattern=we, Pattern=, uh ,, Pattern=the, Pattern=got, Pattern=to, Pattern=so ., Pattern=just, Pattern=have
+	Constrained: Pattern=so
+Turn ID=29| B | M : Weird ...
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : so .
+	Free: Pattern=so .
+	Constrained: Pattern=so
+Turn ID=31| B | M : That is a lot
+	Free: Pattern=a, Pattern=That, Pattern=is
+	Constrained: 
+Turn ID=32| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : I'm
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : Food .
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : Bye
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : and , uh , kind of have , if you're having the pressures of school and , uh , everything else , it's kind of , course it's really , you know , as soon as you do it , it's really a release .
+	Free: Pattern=you, Pattern=have, Pattern=having, Pattern=, uh ,, Pattern=it's, Pattern=of, Pattern=know ,, Pattern=do it ,, Pattern=a, Pattern=if you're, Pattern=the
+	Constrained: Pattern=do, Pattern=it, Pattern=you're
+Turn ID=39| B | M : Oh , cool .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=40| A | A : And , I don't think a cart damages the turf .
+	Free: Pattern=, I don't think, Pattern=a, Pattern=the
+	Constrained: Pattern=, I, Pattern=I don't, Pattern=I, Pattern=don't
+Turn ID=41| B | M : Um , uh , I don't think so .
+	Free: Pattern=, I don't think, Pattern=, uh ,, Pattern=Um ,, Pattern=so .
+	Constrained: Pattern=, I, Pattern=I, Pattern=I don't, Pattern=don't, Pattern=so
+Turn ID=42| A | A : Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : Yeah , but the government can do that .
+	Free: Pattern=, but, Pattern=do, Pattern=can, Pattern=the, Pattern=Yeah, Pattern=that
+	Constrained: Pattern=but
+Turn ID=44| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : Some of the cars have a 3 car garage .
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=the, Pattern=car
+	Constrained: 
+Turn ID=46| A | A : And it was just , I mean you can go to K-Mart and buy them for , uh , eight dollars or I think six dollars or whatever for toilet seats ,
+	Free: Pattern=you, Pattern=mean, Pattern=, I, Pattern=it, Pattern=can, Pattern=for, Pattern=buy, Pattern=I think, Pattern=, uh ,, Pattern=to, Pattern=was just
+	Constrained: Pattern=just, Pattern=I, Pattern=was
+Turn ID=47| B | M : I think he was just making a joke .
+	Free: Pattern=was just, Pattern=I think, Pattern=a, Pattern=he
+	Constrained: Pattern=was, Pattern=I, Pattern=just
+Turn ID=48| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : It's just a joke .
+	Free: Pattern=It's just, Pattern=a
+	Constrained: Pattern=It's, Pattern=just
+Turn ID=50| A | A : Uh-huh . Oh , okay , well , they seem to be on later ,
+	Free: Pattern=Oh ,, Pattern=they, Pattern=to, Pattern=on
+	Constrained: Pattern=Oh
+Turn ID=51| B | M : So , uh , can I come ?
+	Free: Pattern=, uh ,, Pattern=So ,, Pattern=I, Pattern=can
+	Constrained: 
+Turn ID=52| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : You know , I know .
+	Free: Pattern=, I know ., Pattern=know ,
+	Constrained: Pattern=I, Pattern=I know, Pattern=, I
+Turn ID=54| A | A : I see .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=55| B | M : What do you mean ?
+	Free: Pattern=do, Pattern=you, Pattern=mean
+	Constrained: 
+Turn ID=56| A | A : Oh , Japan's ridiculous .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=57| B | M : good
+	Free: 
+	Constrained: 
+Turn ID=58| A | A : There are people now that are obsolete point and fact just , just like endangered species of animals , so there are quote tribes of people , that are endangered or obsolete .
+	Free: Pattern=of, Pattern=just, Pattern=are, Pattern=that, Pattern=so
+	Constrained: 
+Turn ID=59| B | M : Kau
+	Free: 
+	Constrained: 
+Turn ID=60| A | A : Well , that's pretty .
+	Free: 
+	Constrained: 
+Turn ID=61| B | M : Emotions .
+	Free: 
+	Constrained: 
+Turn ID=62| A | A : Oh man .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=63| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=64| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=65| B | M : no .
+	Free: 
+	Constrained: 
+Turn ID=66| B | M : I
+	Free: Pattern=I
+	Constrained: 

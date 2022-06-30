@@ -1,0 +1,151 @@
+A|0| A: Yeah . Yeah . 
+B|1| M:  ... 
+A|2| A: Right . 
+B|3| M: _I_ 
+A|4| A: _What_ [I] mean how _to_ train them so _they're_ going _to_ be _a_ blessing and so _, you_ _know_ , they _do_ _that_ and they , they _just_ live lean _pretty_ much they _don't_ , she doesn't shop at Foley's _you_ _know_ , and stuff _like_ _that_ . _But_ _a_ lot women die or shop at Foley's so things , 
+B|5| M: What's your wife ? 
+A|6| A: Yeah , yeah _, I_ can _see_ it'll be _a_ _good_ break . 
+B|7| M: _I'm pretty sure_ [they're] [just] looking _for_ [a] way [to] _make_ money . 
+A|8| A: Bang , *one utt ?? bang . 
+B|9| M: lt 
+A|10| A: Yeah . 
+B|11| M: Hmmm . 
+A|12| A: So , it's [a] little bit more humane _, I_ guess , _it_ _is_ , 
+B|13| M: _Well_ [you] are ... 
+A|14| A: _I think_ _that_ _might_ be true . 
+B|15| M:  
+A|16| A: Uh-huh . Oh , that's great . Long as it's not raining . 
+B|17| M: That's [a] [pretty] [good] idea [, _I] think I_ [might] [do] [it] . 
+A|18| A: Yeah [, I] [, I] was called once , but [I] was out _of_ _the_ country , and apparently [I] , apparently they thought [I] served so [I] didn't [, I] didn't [make] any noise _about_ [it] [I] came back and they said _the_ record showed [I] served , but [I] was out _of_ _the_ country at _the_ time , so [I'm pretty sure] [I] didn't . Uh , 
+B|19| M: [But] [they're] still [the] same . 
+A|20| A: _That_ there's no problem with getting them [to] , [do] stuff . 
+B|21| M: We've got four bedrooms , because we're [the] one [that] got hit by [a] car . 
+A|22| A: Yeah 
+B|23| M: Yes , 
+A|24| A: Um . Yeah , [it] seems [to] me [I'm] always challenged peremptorily also when [I] go [to] these things . [I think I] have [a] severe demeanor or something . 
+B|25| M: [What] [is] ? 
+A|26| A: Uh . [Well] [is] there anything else [that] [you] look [for] or , 
+B|27| M: Uhhh [, you] [don't] [know] _what_ [a] joke [is] . 
+A|28| A: Uh-huh . 
+B|29| M: [That] . [about] . [it] . [it] 
+A|30| A: [I] [, I] [know] , but [it] , it's , it's , uh , easier on [the] patient in [the] long run , which amazed me . 
+B|31| M: Good morning , sir . 
+A|32| A: I've done [a] little , [a] lot _of_ different kinds , but [I] [, I] [just] [know] right now [that] [I] couldn't have put out half _of_ [what] [I] did if [that] much without [the] being in computers so that's been really great . And , uh , [I'm] , so [I'm] _real_ spoiled . 
+B|33| M: I'd [like] [to] [see] [a] picture [of] [a] [real] job 
+A|34| A: So [, you] [know] , it's [just] , 
+B|35| M:  
+B|36| M: He nods . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=4| A | A : What I mean how to train them so they're going to be a blessing and so , you know , they do that and they , they just live lean pretty much they don't , she doesn't shop at Foley's you know , and stuff like that . But a lot women die or shop at Foley's so things ,
+	Free: Pattern=you, Pattern=just, Pattern=I, Pattern=But, Pattern=like, Pattern=pretty, Pattern=don't, Pattern=to, Pattern=that, Pattern=do, Pattern=a, Pattern=they're, Pattern=What, Pattern=know, Pattern=, you
+	Constrained: Pattern=you
+Turn ID=5| B | M : What's your wife ?
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : Yeah , yeah , I can see it'll be a good break .
+	Free: Pattern=, I, Pattern=good, Pattern=a, Pattern=see
+	Constrained: Pattern=I
+Turn ID=7| B | M : I'm pretty sure they're just looking for a way to make money .
+	Free: Pattern=just, Pattern=a, Pattern=for, Pattern=they're, Pattern=make, Pattern=to, Pattern=I'm pretty sure
+	Constrained: Pattern=I'm, Pattern=pretty
+Turn ID=8| A | A : Bang , *one utt ?? bang .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : lt
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : Hmmm .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : So , it's a little bit more humane , I guess , it is ,
+	Free: Pattern=, I, Pattern=it, Pattern=is, Pattern=a
+	Constrained: Pattern=I
+Turn ID=13| B | M : Well you are ...
+	Free: Pattern=Well, Pattern=you
+	Constrained: 
+Turn ID=14| A | A : I think that might be true .
+	Free: Pattern=I think, Pattern=that, Pattern=might
+	Constrained: Pattern=I
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : Uh-huh . Oh , that's great . Long as it's not raining .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : That's a pretty good idea , I think I might do it .
+	Free: Pattern=good, Pattern=I think I, Pattern=it, Pattern=pretty, Pattern=might, Pattern=do, Pattern=, I, Pattern=a
+	Constrained: Pattern=I think, Pattern=I
+Turn ID=18| A | A : Yeah , I , I was called once , but I was out of the country , and apparently I , apparently they thought I served so I didn't , I didn't make any noise about it I came back and they said the record showed I served , but I was out of the country at the time , so I'm pretty sure I didn't . Uh ,
+	Free: Pattern=of, Pattern=, I, Pattern=it, Pattern=I, Pattern=about, Pattern=make, Pattern=the, Pattern=I'm pretty sure
+	Constrained: Pattern=pretty, Pattern=I'm, Pattern=I
+Turn ID=19| B | M : But they're still the same .
+	Free: Pattern=the, Pattern=they're, Pattern=But
+	Constrained: 
+Turn ID=20| A | A : That there's no problem with getting them to , do stuff .
+	Free: Pattern=do, Pattern=to, Pattern=That
+	Constrained: 
+Turn ID=21| B | M : We've got four bedrooms , because we're the one that got hit by a car .
+	Free: Pattern=that, Pattern=the, Pattern=a
+	Constrained: 
+Turn ID=22| A | A : Yeah
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : Yes ,
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : Um . Yeah , it seems to me I'm always challenged peremptorily also when I go to these things . I think I have a severe demeanor or something .
+	Free: Pattern=I think I, Pattern=I'm, Pattern=a, Pattern=it, Pattern=I, Pattern=to
+	Constrained: Pattern=I think, Pattern=I
+Turn ID=25| B | M : What is ?
+	Free: Pattern=is, Pattern=What
+	Constrained: 
+Turn ID=26| A | A : Uh . Well is there anything else that you look for or ,
+	Free: Pattern=you, Pattern=for, Pattern=that, Pattern=Well, Pattern=is
+	Constrained: 
+Turn ID=27| B | M : Uhhh , you don't know what a joke is .
+	Free: Pattern=what, Pattern=a, Pattern=is, Pattern=don't, Pattern=know, Pattern=, you
+	Constrained: Pattern=you
+Turn ID=28| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : That . about . it . it
+	Free: Pattern=it, Pattern=about, Pattern=That
+	Constrained: 
+Turn ID=30| A | A : I , I know , but it , it's , it's , uh , easier on the patient in the long run , which amazed me .
+	Free: Pattern=, I, Pattern=it, Pattern=I, Pattern=know, Pattern=the
+	Constrained: Pattern=I
+Turn ID=31| B | M : Good morning , sir .
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : I've done a little , a lot of different kinds , but I , I just know right now that I couldn't have put out half of what I did if that much without the being in computers so that's been really great . And , uh , I'm , so I'm real spoiled .
+	Free: Pattern=of, Pattern=I'm, Pattern=just, Pattern=what, Pattern=I, Pattern=know, Pattern=the, Pattern=that, Pattern=real, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=33| B | M : I'd like to see a picture of a real job
+	Free: Pattern=of, Pattern=a, Pattern=like, Pattern=see, Pattern=to, Pattern=real
+	Constrained: 
+Turn ID=34| A | A : So , you know , it's just ,
+	Free: Pattern=, you, Pattern=just, Pattern=know
+	Constrained: Pattern=you
+Turn ID=35| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : He nods .
+	Free: 
+	Constrained: 

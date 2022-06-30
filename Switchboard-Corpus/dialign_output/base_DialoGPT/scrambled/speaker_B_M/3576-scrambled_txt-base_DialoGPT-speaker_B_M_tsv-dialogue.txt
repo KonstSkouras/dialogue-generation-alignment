@@ -1,0 +1,279 @@
+A|0| B: Is _that_ _right_ ? 
+B|1| M: He smiles back _and_ gives _you_ _a_ thumbs _up_ . 
+A|2| B: That's _right_ [and] that's exactly _what_ _they_ said , _to_ sound _like_ [a] my wife dragged me away _from_ _the_ television . 
+B|3| M: You're [right] _, it's_ _just_ [that] [they] _say that_ 
+A|4| B: _Oh ,_ how fun . 
+B|5| M: [that] 
+A|6| B: Uh-huh . 
+B|7| M: Did _you_ _have a_ harp playing _in_ [the] background ? 
+A|8| B: _Well_ , 
+B|9| M: The seeds go _in_ [the] tomatoes 
+A|10| B: Uh-huh . Huh . _Well_ tell me has _it_ ever been decided when when _is_ [a] uh fetus [a] human ? 
+B|11| M:  
+A|12| B: And _I_ do get tired _of_ [that] but , uh _, I_ _don't_ know _, I_ _don't_ _think_ _I'd_ want _to_ change _it_ . 
+B|13| M: _I _,_ I _,_ I'm_ not sure . 
+A|14| B: _Yeah_ . 
+B|15| M: [Oh _,] I'm from_ Philly . 
+A|16| B: Um . 
+B|17| M:  
+A|18| B: _Yeah_ . _Yeah_ . 
+B|19| M: It's _in_ Texas . 
+A|20| B: Right . 
+B|21| M: [I] mean _, I'm_ sure I'll _be_ fine . _I'm_ not [that] _much_ [of] [a] car guy . 
+A|22| B: And this Christmas [, I] went _to_ Turkey . _But_ basically [, _it's] a_ , for [the] past couple [of] years [, I ,] since my parents are , are _, well [,_ I'm from] Argentina , [and] my parents live down there . So , all [the] traveling [I] do _is_ alone . 
+B|23| M: [I] _can't_ [think] [of] [a] more iconic name than Jerry . 
+A|24| B: didn't , uh , [you] know , but [I ,] uh , then part [of] [it's] lack [of] education . [I] _don't_ know whether , whether , [you] know , where our money _would_ [be] most effectively spent . 
+B|25| M: [I] [would] not . 
+A|26| B: _Yeah_ . _How_ big [a] lot do [you] got _it_ on ? 
+B|27| M: Heh , [what] ? 
+A|28| B: On my driveway [, I] guess , that's [what] [they] do [and] then [, I] had _to_ wheel barrow _it_ [in] . 
+B|29| M: [I] 
+A|30| B: [I'm] sorry for these beeps , 
+B|31| M: Uhh [, it's] not illegal . 
+A|32| B: Gosh . That's great . That's [a] lot . 
+B|33| M: ThatYeah .? They . adays 
+A|34| B: _Well_ _at_ least [that] [would] give [a] person [a] chance _to_ look [you] know . Because [the] way _it_ _is_ , [a] person _really_ _don't [have_ a] chance 
+B|35| M: [Oh [,] well [,] _I] just_ [really] _like the_ place . 
+A|36| B: Uh [, I] [say that] health care _is_ probably definitely number one though . want _to_ [just] , [you] know , all _your_ salary [can't] even begin _to_ pay for [what] [you] can wind [up] losing , [you] know [in] [a] major illness or something . Uh . 
+B|37| M:  
+A|38| B: Right . 
+B|39| M: [I] . 
+A|40| B: Its reliability . And , uh [, I ,] [you] know , I've read all [the] CONSUMER REPORTS [and] things , [and] [they] [just] run head [and] shoulders above [the] American made cars . If Ford was [a] head [and] [the] shoulders above _it_ , _I'd_ buy [a] Ford . 
+B|41| M: [Oh ,] okay . 
+A|42| B: [and] [I] was [in] , [like] , chamber music groups [and] stuff , so [I'm] used _to_ pieces [and] , [and] [I] played classical flute [, I] didn't play , play jazz flute or anything [like] [that] , so . [I] [I] can relate _to_ _it_ [, I] suppose _But_ , uh , [and] [I] [like] [, I'm] [like] [you] [I] [like the] older stuff , too , because [I] [like] Chicago 
+B|43| M: [Well] you're [a] doctor 
+A|44| B: _Yeah_ [and] , 
+B|45| M: [I'm] [at] [the] top [of] [the] hill . 
+A|46| B: Yep . Right . 
+B|47| M: It's also , they're [just] as _much_ [a] threat [to] [your] crops as tomatoes . 
+A|48| B: Uh , one man can never [be] , one man , one woman can never [be] objectionable [in] every case . 
+B|49| M: [I'd] [like the] oasis 
+A|50| B: Uh-huh . 
+B|51| M: What's [up] with [the] guy [in] [the] picture ? 
+A|52| B: Uh-huh . 
+B|53| M: [I] don 
+A|54| B: _Yeah [,_ I] love those , too . They're [just] so relaxing . 
+B|55| M: [But] [it's a] good thing ! 
+A|56| B: Uh-huh . 
+B|57| M: [I] agree . 
+A|58| B: [I just] _don't_ understand why [they] , so [much] want [to] [just] stay [in] [that] building . 
+B|59| M: Yea . huh . 
+A|60| B: [Oh ,] pardon me , we [have] forty , we gave ten [to] one [of] our children 
+B|61| M: u trollabot trollaboot 
+A|62| B: [Oh [,] I] see . So , do [you] ... 
+B|63| M: We [don't have] any crime statistics . 
+A|64| B: [Oh] . 
+B|65| M: [How] [is] [it] ? 
+A|66| B: Right . 
+B|67| M: [Yeah ,] yeah . 
+B|68| M:  
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Is that right ?
+	Free: Pattern=right, Pattern=that
+	Constrained: 
+Turn ID=1| B | M : He smiles back and gives you a thumbs up .
+	Free: Pattern=up, Pattern=a, Pattern=you, Pattern=and
+	Constrained: 
+Turn ID=2| A | B : That's right and that's exactly what they said , to sound like a my wife dragged me away from the television .
+	Free: Pattern=right, Pattern=a, Pattern=and, Pattern=from, Pattern=like, Pattern=the, Pattern=to, Pattern=what, Pattern=they
+	Constrained: 
+Turn ID=3| B | M : You're right , it's just that they say that
+	Free: Pattern=right, Pattern=they, Pattern=, it's, Pattern=that, Pattern=say that, Pattern=just
+	Constrained: Pattern=it's, Pattern=that
+Turn ID=4| A | B : Oh , how fun .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=5| B | M : that
+	Free: Pattern=that
+	Constrained: 
+Turn ID=6| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : Did you have a harp playing in the background ?
+	Free: Pattern=have a, Pattern=in, Pattern=the, Pattern=you
+	Constrained: Pattern=a, Pattern=have
+Turn ID=8| A | B : Well ,
+	Free: Pattern=Well
+	Constrained: 
+Turn ID=9| B | M : The seeds go in the tomatoes
+	Free: Pattern=in, Pattern=the
+	Constrained: 
+Turn ID=10| A | B : Uh-huh . Huh . Well tell me has it ever been decided when when is a uh fetus a human ?
+	Free: Pattern=it, Pattern=is, Pattern=Well, Pattern=a
+	Constrained: 
+Turn ID=11| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : And I do get tired of that but , uh , I don't know , I don't think I'd want to change it .
+	Free: Pattern=of, Pattern=it, Pattern=I, Pattern=think, Pattern=don't, Pattern=to, Pattern=that, Pattern=I'd, Pattern=, I
+	Constrained: Pattern=I
+Turn ID=13| B | M : I , I , I'm not sure .
+	Free: Pattern=, I ,, Pattern=I ,, Pattern=, I'm
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=I'm, Pattern=I
+Turn ID=14| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=15| B | M : Oh , I'm from Philly .
+	Free: Pattern=, I'm from, Pattern=Oh ,
+	Constrained: Pattern=I'm, Pattern=, I'm, Pattern=Oh, Pattern=from
+Turn ID=16| A | B : Um .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : Yeah . Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=19| B | M : It's in Texas .
+	Free: Pattern=in
+	Constrained: 
+Turn ID=20| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : I mean , I'm sure I'll be fine . I'm not that much of a car guy .
+	Free: Pattern=of, Pattern=I'm, Pattern=a, Pattern=I, Pattern=much, Pattern=be, Pattern=, I'm, Pattern=that
+	Constrained: Pattern=I'm
+Turn ID=22| A | B : And this Christmas , I went to Turkey . But basically , it's a , for the past couple of years , I , since my parents are , are , well , I'm from Argentina , and my parents live down there . So , all the traveling I do is alone .
+	Free: Pattern=, well ,, Pattern=, I, Pattern=, I ,, Pattern=and, Pattern=I, Pattern=But, Pattern=, it's, Pattern=is, Pattern=, I'm from, Pattern=the, Pattern=to, Pattern=of, Pattern=it's a
+	Constrained: Pattern=I ,, Pattern=I'm, Pattern=I, Pattern=from, Pattern=, I'm, Pattern=it's, Pattern=, I, Pattern=a
+Turn ID=23| B | M : I can't think of a more iconic name than Jerry .
+	Free: Pattern=of, Pattern=a, Pattern=I, Pattern=think, Pattern=can't
+	Constrained: 
+Turn ID=24| A | B : didn't , uh , you know , but I , uh , then part of it's lack of education . I don't know whether , whether , you know , where our money would be most effectively spent .
+	Free: Pattern=I ,, Pattern=of, Pattern=you, Pattern=I, Pattern=be, Pattern=it's, Pattern=would, Pattern=don't
+	Constrained: Pattern=I
+Turn ID=25| B | M : I would not .
+	Free: Pattern=I, Pattern=would
+	Constrained: 
+Turn ID=26| A | B : Yeah . How big a lot do you got it on ?
+	Free: Pattern=you, Pattern=How, Pattern=a, Pattern=it, Pattern=Yeah
+	Constrained: 
+Turn ID=27| B | M : Heh , what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=28| A | B : On my driveway , I guess , that's what they do and then , I had to wheel barrow it in .
+	Free: Pattern=, I, Pattern=in, Pattern=to, Pattern=what, Pattern=they, Pattern=it, Pattern=and
+	Constrained: Pattern=I
+Turn ID=29| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=30| A | B : I'm sorry for these beeps ,
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=31| B | M : Uhh , it's not illegal .
+	Free: Pattern=, it's
+	Constrained: Pattern=it's
+Turn ID=32| A | B : Gosh . That's great . That's a lot .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=33| B | M : ThatYeah .? They . adays
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : Well at least that would give a person a chance to look you know . Because the way it is , a person really don't have a chance
+	Free: Pattern=you, Pattern=have a, Pattern=a, Pattern=it, Pattern=at, Pattern=the, Pattern=would, Pattern=to, Pattern=that, Pattern=Well, Pattern=is, Pattern=don't have, Pattern=really
+	Constrained: Pattern=a, Pattern=don't, Pattern=have
+Turn ID=35| B | M : Oh , well , I just really like the place .
+	Free: Pattern=, well ,, Pattern=, I, Pattern=I just, Pattern=Oh ,, Pattern=really, Pattern=like the
+	Constrained: Pattern=just, Pattern=I, Pattern=like, Pattern=the, Pattern=Oh
+Turn ID=36| A | B : Uh , I say that health care is probably definitely number one though . want to just , you know , all your salary can't even begin to pay for what you can wind up losing , you know in a major illness or something . Uh .
+	Free: Pattern=you, Pattern=what, Pattern=in, Pattern=can't, Pattern=say that, Pattern=just, Pattern=, I, Pattern=a, Pattern=is, Pattern=your, Pattern=up, Pattern=to
+	Constrained: Pattern=I, Pattern=that
+Turn ID=37| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : I .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=40| A | B : Its reliability . And , uh , I , you know , I've read all the CONSUMER REPORTS and things , and they just run head and shoulders above the American made cars . If Ford was a head and the shoulders above it , I'd buy a Ford .
+	Free: Pattern=you, Pattern=just, Pattern=they, Pattern=, I ,, Pattern=the, Pattern=I'd, Pattern=a, Pattern=it, Pattern=and
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=I
+Turn ID=41| B | M : Oh , okay .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=42| A | B : and I was in , like , chamber music groups and stuff , so I'm used to pieces and , and I played classical flute , I didn't play , play jazz flute or anything like that , so . I I can relate to it , I suppose But , uh , and I like , I'm like you I like the older stuff , too , because I like Chicago
+	Free: Pattern=, I, Pattern=I, Pattern=But, Pattern=in, Pattern=like, Pattern=to, Pattern=like the, Pattern=, I'm, Pattern=that, Pattern=you, Pattern=I'm, Pattern=it, Pattern=and
+	Constrained: Pattern=I'm, Pattern=the, Pattern=I, Pattern=like
+Turn ID=43| B | M : Well you're a doctor
+	Free: Pattern=Well, Pattern=a
+	Constrained: 
+Turn ID=44| A | B : Yeah and ,
+	Free: Pattern=Yeah, Pattern=and
+	Constrained: 
+Turn ID=45| B | M : I'm at the top of the hill .
+	Free: Pattern=I'm, Pattern=the, Pattern=at, Pattern=of
+	Constrained: 
+Turn ID=46| A | B : Yep . Right .
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : It's also , they're just as much a threat to your crops as tomatoes .
+	Free: Pattern=just, Pattern=a, Pattern=your, Pattern=much, Pattern=to
+	Constrained: 
+Turn ID=48| A | B : Uh , one man can never be , one man , one woman can never be objectionable in every case .
+	Free: Pattern=in, Pattern=be
+	Constrained: 
+Turn ID=49| B | M : I'd like the oasis
+	Free: Pattern=like the, Pattern=I'd
+	Constrained: Pattern=the, Pattern=like
+Turn ID=50| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=51| B | M : What's up with the guy in the picture ?
+	Free: Pattern=in, Pattern=up, Pattern=the
+	Constrained: 
+Turn ID=52| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : I don
+	Free: Pattern=I
+	Constrained: 
+Turn ID=54| A | B : Yeah , I love those , too . They're just so relaxing .
+	Free: Pattern=, I, Pattern=Yeah ,, Pattern=just
+	Constrained: Pattern=Yeah, Pattern=I
+Turn ID=55| B | M : But it's a good thing !
+	Free: Pattern=it's a, Pattern=But
+	Constrained: Pattern=it's, Pattern=a
+Turn ID=56| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : I agree .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=58| A | B : I just don't understand why they , so much want to just stay in that building .
+	Free: Pattern=just, Pattern=they, Pattern=I just, Pattern=in, Pattern=much, Pattern=don't, Pattern=to, Pattern=that
+	Constrained: Pattern=just, Pattern=I
+Turn ID=59| B | M : Yea . huh .
+	Free: 
+	Constrained: 
+Turn ID=60| A | B : Oh , pardon me , we have forty , we gave ten to one of our children
+	Free: Pattern=Oh ,, Pattern=to, Pattern=of, Pattern=have
+	Constrained: Pattern=Oh
+Turn ID=61| B | M : u trollabot trollaboot
+	Free: 
+	Constrained: 
+Turn ID=62| A | B : Oh , I see . So , do you ...
+	Free: Pattern=, I, Pattern=Oh ,, Pattern=you
+	Constrained: Pattern=I, Pattern=Oh
+Turn ID=63| B | M : We don't have any crime statistics .
+	Free: Pattern=don't have
+	Constrained: Pattern=don't, Pattern=have
+Turn ID=64| A | B : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=65| B | M : How is it ?
+	Free: Pattern=it, Pattern=is, Pattern=How
+	Constrained: 
+Turn ID=66| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=67| B | M : Yeah , yeah .
+	Free: Pattern=Yeah ,
+	Constrained: Pattern=Yeah
+Turn ID=68| B | M : 
+	Free: 
+	Constrained: 

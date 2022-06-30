@@ -1,0 +1,59 @@
+A|0| A: Uh-huh . 
+B|1| M:  . Why . _that_ 
+A|2| A: Um , and , um , um , you know _, it's_ _, it's_ _just_ nice [that] cats , you know , cats , yeah , you _don't_ _have_ _to_ let them outside , you know , all cats are indoor cats , 
+B|3| M: I [have] no idea what [that] story _is_ about . 
+A|4| A: Uh-huh . 
+B|5| M: I'm sorry . 
+A|6| A: Uh-huh . Uh-huh . 
+B|7| M: I [have] _a_ cat [, it's] okay . 
+A|8| A: And Spanish [is] [a] lot like English . 
+B|9| M: I [don't] think he'd ever come home [to] me 
+A|10| A: and especially if you're not [a] person [that] [is] like [a] medical person maybe or something [that] the person needs medical treatment . 
+B|11| M: It's [just] [a] good feeling . 
+A|12| A: So , you see , 
+B|13| M: No . I stay in my house . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M :  . Why . that
+	Free: Pattern=that
+	Constrained: 
+Turn ID=2| A | A : Um , and , um , um , you know , it's , it's just nice that cats , you know , cats , yeah , you don't have to let them outside , you know , all cats are indoor cats ,
+	Free: Pattern=, it's, Pattern=don't, Pattern=to, Pattern=that, Pattern=just, Pattern=have
+	Constrained: 
+Turn ID=3| B | M : I have no idea what that story is about .
+	Free: Pattern=have, Pattern=that, Pattern=is
+	Constrained: 
+Turn ID=4| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : I'm sorry .
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : I have a cat , it's okay .
+	Free: Pattern=, it's, Pattern=a, Pattern=have
+	Constrained: 
+Turn ID=8| A | A : And Spanish is a lot like English .
+	Free: Pattern=a, Pattern=is
+	Constrained: 
+Turn ID=9| B | M : I don't think he'd ever come home to me
+	Free: Pattern=to, Pattern=don't
+	Constrained: 
+Turn ID=10| A | A : and especially if you're not a person that is like a medical person maybe or something that the person needs medical treatment .
+	Free: Pattern=a, Pattern=that, Pattern=is
+	Constrained: 
+Turn ID=11| B | M : It's just a good feeling .
+	Free: Pattern=a, Pattern=just
+	Constrained: 
+Turn ID=12| A | A : So , you see ,
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : No . I stay in my house .
+	Free: 
+	Constrained: 

@@ -1,0 +1,235 @@
+A|0| A: Of course _, _I'm_ _not_ a_ carpenter or anything _like_ _that ._ They could probably come _in_ _and_ say , gee , this _is_ _not_ straight _and_ this _is_ under something _but_ , 
+B|1| M: She [is] _the_ only _one_ who can _be_ [a] ballplayer . 
+A|2| A: _Well_ whatever , this [is] [one] aspect _of_ _it ._ 
+B|3| M:  ,... 
+A|4| A: If _it_ finally gets _to_ _that_ point . 
+B|5| M: _I_ love [to] bake [, I'm] _, uh ,_ [not a] bad cook _, I guess_ . 
+A|6| A: Uh-huh . 
+B|7| M: [I'm not] _sure_ _if_ _it's_ _just_ me _, but_ _I've_ been paying [a] ton [of] taxes . 
+A|8| A: _Yeah_ . 
+B|9| M: Uhh ... well _, I don't_ . 
+A|10| A: Oh [, I] didn't _know_ _that ._ 
+B|11| M: [I'm] interested 
+A|12| A: [I] mean _, you_ _know_ 
+B|13| M: What's your favorite animal ? 
+A|14| A: Horses ? 
+B|15| M: _It's_ [not] [like] _you have_ [a] creditcard . 
+A|16| A: _and_ from _that_ point on [, uh ,] at , [the] N C double A does [have] something [to] _do_ with _it_ [, but] [it's] almost discretionary on [the] coach's part [of] each individual institution [to] identify [the] ones _that_ [have] [the] problem . 
+B|17| M: Are [you] _sure_ ? 
+A|18| A: _and_ they're , they're both declawed at least on [the] , [the] front claws . 
+B|19| M: [I] love running [, I] love exercise [, I'm] [a] runner _, I just_ [like] running . 
+A|20| A: _Yeah_ . 
+B|21| M: Hahaha _I can't_ _do [that_ .] 
+A|22| A: _and_ everything has _to be_ an immediate reward _and_ _it_ has _to be_ fun . 
+B|23| M: _Yeah ,_ [it's] [the] school , [not] _so_ , school . 
+A|24| A: Oh . 
+B|25| M: [I] [have] never _had_ [to] _work_ [in] [a] job [that] required me [to be] drug tested . 
+A|26| A: [Yeah [,] I] , [I've] heard [a] lot [of] _people_ say [that .] _That's_ _for_ [sure] _. Uh ,_ we [have] an attic [that] we've [just] put _, you_ _know_ , plywood over [the] beams _and_ things up [in] [the] attic _and_ [so] [that] , has replaced _it_ [to] _some_ extent 
+B|27| M: [I] [know] . 
+A|28| A: [Yeah] . 
+B|29| M: Huh [. Uh [,] you] [do] ? 
+A|30| A: Uh-huh . 
+B|31| M: [and] . 
+A|32| A: [I've] tried [to] [do that] with sugar 
+B|33| M: Do _you have_ [a] resume ? 
+A|34| A: [Yeah] . 
+B|35| M: _Well [,_ you] _can't_ _really_ talk about [that .] 
+A|36| A: Uh-huh . [Well [,] I] bet [you] , Uh-huh . 
+B|37| M: [Well [,] uh ,] what about _my_ husband ? 
+A|38| A: Uh-huh . Uh-huh . 
+B|39| M: [Yeah ,] [it's] _a good_ _thing_ [, I] find [it] odd [that] [some] [people] are against healthcare [in] general . 
+A|40| A: [Well ,] [if] you're looking _for_ [a] nice , Uh-huh . [Well [,] I guess] [if] [you] were having , [if] [you] were trying [to] impress somebody [like] taking somebody [that] [you] hadn't seen _for_ [a] long time [and] wanted [to] show them [a good] restaurant . [It's] [a] special occasion , type [thing] . 
+B|41| M: My dad was there . 
+A|42| A: Uh-huh . 
+B|43| M: _I don't_ think [I'm] gonna read [the] whole [thing] [, I] think I'll [just] wait [for] [the] next [one] . 
+A|44| A: [Yeah] . Um , [do] [you] [like] big dogs or or little dogs ? 
+B|45| M: [I] 
+A|46| A: [but] [I] , someone [, I don't] [know] , [it] ended up [I] got [some] furniture back [that] [one] [of] them [had] moved out or something . 
+B|47| M: Hey ! [That's] pretty [good] . 
+A|48| A: _So_ you're [in] , you're [in] favor [of] capital punishment , then . 
+B|49| M: What kind [of] car ? 
+A|50| A: [Well [,] I don't] either unless [it's] [like] [, uh ,] [some] [of] [my] favorite's [like] [a] Friday night when [it] rains [and] [you] [really] didn't [have] anywhere [to] go , [and] [it's] sleeping time . But [if] [you have] [to] get up [and] get out [in] [it] [, I don't] _like it_ either 
+B|51| M:  
+A|52| A: The , 
+B|53| M: You live [in] Atlanta ? 
+A|54| A: [Yeah] . [Yeah] . 
+B|55| M: [So] . [of] . land 
+A|56| A: And [, uh ,] [so] [I don't] [, I just] [don't] [like] anything [that] [I can't] figure out why [it] doesn't [work] 
+B|57| M: You [like [it] .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Of course , I'm not a carpenter or anything like that . They could probably come in and say , gee , this is not straight and this is under something but ,
+	Free: Pattern=not a, Pattern=that ., Pattern=and, Pattern=in, Pattern=is, Pattern=like, Pattern=I'm not, Pattern=, I'm, Pattern=but, Pattern=not
+	Constrained: Pattern=a, Pattern=I'm, Pattern=that, Pattern=not
+Turn ID=1| B | M : She is the only one who can be a ballplayer .
+	Free: Pattern=a, Pattern=one, Pattern=is, Pattern=be, Pattern=the
+	Constrained: 
+Turn ID=2| A | A : Well whatever , this is one aspect of it .
+	Free: Pattern=of, Pattern=it ., Pattern=one, Pattern=Well, Pattern=is
+	Constrained: Pattern=it
+Turn ID=3| B | M :  ,...
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : If it finally gets to that point .
+	Free: Pattern=to, Pattern=that, Pattern=it
+	Constrained: 
+Turn ID=5| B | M : I love to bake , I'm , uh , not a bad cook , I guess .
+	Free: Pattern=not a, Pattern=, I guess, Pattern=I, Pattern=, uh ,, Pattern=to, Pattern=, I'm
+	Constrained: Pattern=I'm, Pattern=I, Pattern=not, Pattern=, I, Pattern=a
+Turn ID=6| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : I'm not sure if it's just me , but I've been paying a ton of taxes .
+	Free: Pattern=of, Pattern=I've, Pattern=, but, Pattern=just, Pattern=a, Pattern=if, Pattern=sure, Pattern=I'm not, Pattern=it's
+	Constrained: Pattern=but, Pattern=I'm, Pattern=not
+Turn ID=8| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=9| B | M : Uhh ... well , I don't .
+	Free: Pattern=, I don't
+	Constrained: Pattern=, I, Pattern=I don't, Pattern=don't, Pattern=I
+Turn ID=10| A | A : Oh , I didn't know that .
+	Free: Pattern=, I, Pattern=that ., Pattern=know
+	Constrained: Pattern=that, Pattern=I
+Turn ID=11| B | M : I'm interested
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=12| A | A : I mean , you know
+	Free: Pattern=, you, Pattern=know, Pattern=I
+	Constrained: Pattern=you
+Turn ID=13| B | M : What's your favorite animal ?
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : Horses ?
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : It's not like you have a creditcard .
+	Free: Pattern=a, Pattern=you have, Pattern=like, Pattern=It's, Pattern=not
+	Constrained: Pattern=you, Pattern=have
+Turn ID=16| A | A : and from that point on , uh , at , the N C double A does have something to do with it , but it's almost discretionary on the coach's part of each individual institution to identify the ones that have the problem .
+	Free: Pattern=of, Pattern=, but, Pattern=have, Pattern=do, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=it, Pattern=and, Pattern=that, Pattern=it's
+	Constrained: Pattern=but
+Turn ID=17| B | M : Are you sure ?
+	Free: Pattern=you, Pattern=sure
+	Constrained: 
+Turn ID=18| A | A : and they're , they're both declawed at least on the , the front claws .
+	Free: Pattern=and, Pattern=the
+	Constrained: 
+Turn ID=19| B | M : I love running , I love exercise , I'm a runner , I just like running .
+	Free: Pattern=, I just, Pattern=I, Pattern=like, Pattern=, I'm, Pattern=, I, Pattern=a
+	Constrained: Pattern=, I, Pattern=I, Pattern=I'm, Pattern=just
+Turn ID=20| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=21| B | M : Hahaha I can't do that .
+	Free: Pattern=that ., Pattern=do that, Pattern=I can't
+	Constrained: Pattern=do, Pattern=can't, Pattern=that, Pattern=I
+Turn ID=22| A | A : and everything has to be an immediate reward and it has to be fun .
+	Free: Pattern=to be, Pattern=and, Pattern=it
+	Constrained: Pattern=to, Pattern=be
+Turn ID=23| B | M : Yeah , it's the school , not so , school .
+	Free: Pattern=the, Pattern=Yeah ,, Pattern=it's, Pattern=so, Pattern=not
+	Constrained: Pattern=Yeah
+Turn ID=24| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I have never had to work in a job that required me to be drug tested .
+	Free: Pattern=have, Pattern=a, Pattern=I, Pattern=in, Pattern=work, Pattern=had, Pattern=to, Pattern=to be, Pattern=that
+	Constrained: Pattern=to, Pattern=be
+Turn ID=26| A | A : Yeah , I , I've heard a lot of people say that . That's for sure . Uh , we have an attic that we've just put , you know , plywood over the beams and things up in the attic and so that , has replaced it to some extent
+	Free: Pattern=I've, Pattern=That's, Pattern=for, Pattern=some, Pattern=in, Pattern=sure, Pattern=the, Pattern=Yeah ,, Pattern=to, Pattern=that, Pattern=so, Pattern=. Uh ,, Pattern=of, Pattern=that ., Pattern=people, Pattern=just, Pattern=have, Pattern=, I, Pattern=a, Pattern=it, Pattern=and, Pattern=know, Pattern=, you
+	Constrained: Pattern=you, Pattern=Yeah, Pattern=I, Pattern=that
+Turn ID=27| B | M : I know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=28| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=29| B | M : Huh . Uh , you do ?
+	Free: Pattern=. Uh ,, Pattern=, you, Pattern=do
+	Constrained: Pattern=you
+Turn ID=30| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : and .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=32| A | A : I've tried to do that with sugar
+	Free: Pattern=do that, Pattern=I've, Pattern=to
+	Constrained: Pattern=do, Pattern=that
+Turn ID=33| B | M : Do you have a resume ?
+	Free: Pattern=you have, Pattern=a
+	Constrained: Pattern=you, Pattern=have
+Turn ID=34| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=35| B | M : Well , you can't really talk about that .
+	Free: Pattern=that ., Pattern=Well ,, Pattern=, you, Pattern=really, Pattern=can't
+	Constrained: Pattern=Well, Pattern=you, Pattern=that
+Turn ID=36| A | A : Uh-huh . Well , I bet you , Uh-huh .
+	Free: Pattern=, I, Pattern=Well ,, Pattern=you
+	Constrained: Pattern=Well, Pattern=I
+Turn ID=37| B | M : Well , uh , what about my husband ?
+	Free: Pattern=, uh ,, Pattern=Well ,, Pattern=my
+	Constrained: Pattern=Well
+Turn ID=38| A | A : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : Yeah , it's a good thing , I find it odd that some people are against healthcare in general .
+	Free: Pattern=people, Pattern=, I, Pattern=a good, Pattern=it, Pattern=some, Pattern=in, Pattern=thing, Pattern=Yeah ,, Pattern=that, Pattern=it's
+	Constrained: Pattern=good, Pattern=a, Pattern=Yeah, Pattern=I
+Turn ID=40| A | A : Well , if you're looking for a nice , Uh-huh . Well , I guess if you were having , if you were trying to impress somebody like taking somebody that you hadn't seen for a long time and wanted to show them a good restaurant . It's a special occasion , type thing .
+	Free: Pattern=, I guess, Pattern=you, Pattern=a, Pattern=a good, Pattern=for, Pattern=and, Pattern=if, Pattern=Well ,, Pattern=like, Pattern=to, Pattern=that, Pattern=thing, Pattern=It's
+	Constrained: Pattern=good, Pattern=I, Pattern=Well, Pattern=, I, Pattern=a
+Turn ID=41| B | M : My dad was there .
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : I don't think I'm gonna read the whole thing , I think I'll just wait for the next one .
+	Free: Pattern=I'm, Pattern=just, Pattern=, I, Pattern=for, Pattern=one, Pattern=I don't, Pattern=thing, Pattern=the
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=44| A | A : Yeah . Um , do you like big dogs or or little dogs ?
+	Free: Pattern=do, Pattern=you, Pattern=Yeah, Pattern=like
+	Constrained: 
+Turn ID=45| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=46| A | A : but I , someone , I don't know , it ended up I got some furniture back that one of them had moved out or something .
+	Free: Pattern=of, Pattern=it, Pattern=some, Pattern=, I don't, Pattern=know, Pattern=had, Pattern=one, Pattern=I, Pattern=that, Pattern=but
+	Constrained: Pattern=, I, Pattern=I don't, Pattern=don't, Pattern=I
+Turn ID=47| B | M : Hey ! That's pretty good .
+	Free: Pattern=good, Pattern=That's
+	Constrained: 
+Turn ID=48| A | A : So you're in , you're in favor of capital punishment , then .
+	Free: Pattern=So, Pattern=in, Pattern=of
+	Constrained: 
+Turn ID=49| B | M : What kind of car ?
+	Free: Pattern=of
+	Constrained: 
+Turn ID=50| A | A : Well , I don't either unless it's like , uh , some of my favorite's like a Friday night when it rains and you really didn't have anywhere to go , and it's sleeping time . But if you have to get up and get out in it , I don't like it either
+	Free: Pattern=of, Pattern=you, Pattern=have, Pattern=a, Pattern=if, Pattern=, uh ,, Pattern=to, Pattern=my, Pattern=it's, Pattern=it, Pattern=and, Pattern=like it, Pattern=some, Pattern=you have, Pattern=, I don't, Pattern=Well ,, Pattern=in, Pattern=really, Pattern=like
+	Constrained: Pattern=you, Pattern=have, Pattern=, I, Pattern=it, Pattern=I, Pattern=I don't, Pattern=Well, Pattern=like, Pattern=don't
+Turn ID=51| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=52| A | A : The ,
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : You live in Atlanta ?
+	Free: Pattern=in
+	Constrained: 
+Turn ID=54| A | A : Yeah . Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=55| B | M : So . of . land
+	Free: Pattern=So, Pattern=of
+	Constrained: 
+Turn ID=56| A | A : And , uh , so I don't , I just don't like anything that I can't figure out why it doesn't work
+	Free: Pattern=it, Pattern=I don't, Pattern=work, Pattern=like, Pattern=, uh ,, Pattern=don't, Pattern=that, Pattern=so, Pattern=I can't, Pattern=, I just
+	Constrained: Pattern=just, Pattern=, I, Pattern=I, Pattern=can't, Pattern=don't
+Turn ID=57| B | M : You like it .
+	Free: Pattern=like it, Pattern=it .
+	Constrained: Pattern=like, Pattern=it

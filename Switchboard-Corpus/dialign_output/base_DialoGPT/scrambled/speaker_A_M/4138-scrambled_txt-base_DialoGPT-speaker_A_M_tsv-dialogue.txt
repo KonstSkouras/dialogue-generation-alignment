@@ -1,0 +1,131 @@
+A|0| A: Uh-huh . _So ,_ _you_ , _what_ you're saying is this , if there is _the_ second offense , then _you_ execute them . 
+B|1| M: _But_ it's cheaper _to_ send [the] kid 
+A|2| A: Really . 
+B|3| M: Oh , what's _that_ ? 
+A|4| A: _I_ don't know unless it , labor intensive or something . _I_ really , don't know . 
+B|5| M: [I] think [you] mean Dallas . 
+A|6| A: Yeah . Uh-huh . 
+B|7| M: How do [you] ? 
+A|8| A: And , well , when we leave [the] doors open , they fly in [the] house . 
+B|9| M: [So ,] coming 
+A|10| A: and especially _, _uh_ ,_ in Wisconsin and Michigan they say , no , buying of our fish . 
+B|11| M: Uh huh [, uh] huh . 
+A|12| A: Uh-huh . Right . [I] agree with [that] _, I_ agree with [that] . [But] [I] believe [that] [, _uh] ,_ _an_ individual should really learn how [to] , [to] learn 
+B|13| M: Yes . [uh ,] um 
+A|14| A: Um . 
+B|15| M:  
+A|16| A: And [, [uh] ,] so when my friend played something on [the] piano and he played it [, [uh] ,] with his right hand , we went , wow 
+B|17| M: Oh . Oh . 
+A|18| A: [So] [I] found this one and [, [uh] ,] actually it was on _a_ sign at Taco Bell drive-thru [that] said free kittens . 
+B|19| M: You . [the] . [what] . 
+A|20| A: so it might have [to] be something [that] they might consider doing as _a_ that's got [to] be very short term . 
+B|21| M:  
+A|22| A: Uh-huh . That's right . 
+B|23| M: You 
+A|24| A: Nursing homes . 
+B|25| M: [I] 
+A|26| A: See _, I_ even know his name because he's on [the] news _a_ lot , and [I] never had [to] watch [the] news _not_ , [you] know , _not_ like some people hour and _a_ half _a_ day or anything . 
+B|27| M:  ... [what] ? 
+A|28| A: Uh-huh . 
+B|29| M: [But] it's [not] [an] airplane , it's [a] fuel tanker . 
+A|30| A: Uh-huh , golly [I] know . 
+B|31| M: No [, I] can . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Uh-huh . So , you , what you're saying is this , if there is the second offense , then you execute them .
+	Free: Pattern=So ,, Pattern=the, Pattern=you, Pattern=what
+	Constrained: Pattern=So
+Turn ID=1| B | M : But it's cheaper to send the kid
+	Free: Pattern=to, Pattern=the, Pattern=But
+	Constrained: 
+Turn ID=2| A | A : Really .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : Oh , what's that ?
+	Free: Pattern=that
+	Constrained: 
+Turn ID=4| A | A : I don't know unless it , labor intensive or something . I really , don't know .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=5| B | M : I think you mean Dallas .
+	Free: Pattern=I, Pattern=you
+	Constrained: 
+Turn ID=6| A | A : Yeah . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : How do you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=8| A | A : And , well , when we leave the doors open , they fly in the house .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=9| B | M : So , coming
+	Free: Pattern=So ,
+	Constrained: Pattern=So
+Turn ID=10| A | A : and especially , uh , in Wisconsin and Michigan they say , no , buying of our fish .
+	Free: Pattern=, uh, Pattern=uh ,
+	Constrained: 
+Turn ID=11| B | M : Uh huh , uh huh .
+	Free: Pattern=, uh
+	Constrained: 
+Turn ID=12| A | A : Uh-huh . Right . I agree with that , I agree with that . But I believe that , uh , an individual should really learn how to , to learn
+	Free: Pattern=, uh, Pattern=, I, Pattern=an, Pattern=I, Pattern=But, Pattern=uh ,, Pattern=to, Pattern=that
+	Constrained: Pattern=I
+Turn ID=13| B | M : Yes . uh , um
+	Free: Pattern=uh ,
+	Constrained: 
+Turn ID=14| A | A : Um .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : And , uh , so when my friend played something on the piano and he played it , uh , with his right hand , we went , wow
+	Free: Pattern=, uh, Pattern=uh ,, Pattern=the
+	Constrained: 
+Turn ID=17| B | M : Oh . Oh .
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : So I found this one and , uh , actually it was on a sign at Taco Bell drive-thru that said free kittens .
+	Free: Pattern=, uh, Pattern=a, Pattern=So, Pattern=I, Pattern=uh ,, Pattern=that
+	Constrained: 
+Turn ID=19| B | M : You . the . what .
+	Free: Pattern=the, Pattern=what
+	Constrained: 
+Turn ID=20| A | A : so it might have to be something that they might consider doing as a that's got to be very short term .
+	Free: Pattern=that, Pattern=to, Pattern=a
+	Constrained: 
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : Uh-huh . That's right .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : You
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : Nursing homes .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=26| A | A : See , I even know his name because he's on the news a lot , and I never had to watch the news not , you know , not like some people hour and a half a day or anything .
+	Free: Pattern=you, Pattern=I, Pattern=the, Pattern=to, Pattern=not, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=27| B | M :  ... what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=28| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : But it's not an airplane , it's a fuel tanker .
+	Free: Pattern=not, Pattern=But, Pattern=an, Pattern=a
+	Constrained: 
+Turn ID=30| A | A : Uh-huh , golly I know .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=31| B | M : No , I can .
+	Free: Pattern=, I
+	Constrained: Pattern=I

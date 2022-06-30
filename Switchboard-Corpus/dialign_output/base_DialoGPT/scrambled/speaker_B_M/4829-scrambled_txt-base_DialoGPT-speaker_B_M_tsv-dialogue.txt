@@ -1,0 +1,183 @@
+A|0| B: Uh-huh . 
+B|1| M:  
+A|2| B: Uh-huh . 
+B|3| M: He's gone . He's been gone _for_ like 3 weeks . 
+A|4| B: And what _do you_ _have_ . 
+B|5| M: _You_ . 
+A|6| B: Five hundred of them are good , solid kids _and I have_ _the same_ thirty-seven _in_ my office every day . 
+B|7| M: Why ? 
+A|8| B: Uh 
+B|9| M: [I] don't _know ,_ _but_ _it's_ [the same] _as_ _it's_ _always_ been . 
+A|10| B: Oh , yeah _. That's_ beautiful . 
+B|11| M: _You_ ? 
+A|12| B: Well , that's true , _and_ lot of times though , _it_ is , _it_ costs _so much_ _to_ get something fixed _that_ _you_ almost are just [as] well off _buying_ another one _you_ [know ,] if [it's] , 
+B|13| M:  ... [and] we're _going to_ [have] _a_ huge event . 
+A|14| B: Uh , they , _they're_ up there _in_ _that_ mall . Uh , just below Campbell . Or _that_ strip , strip , center . 
+B|15| M: They were also _not_ allowed [to] carry concealed weapons . 
+A|16| B: Uh-huh . 
+B|17| M: Hahaha [. That's] great . 
+A|18| B: Uh _, I_ remember seeing _that_ , 
+B|19| M: Are [you] ... 
+A|20| B: Uh-huh . Uh-huh . 
+B|21| M: What [do you] mean ? 
+A|22| B: _They're_ [always] saying _that_ somebody's [going to] , [and] some of them _, I_ think unconsciously [do] _it_ , [you] [know ,] [as] [a] just , [you] [know ,] half 
+B|23| M: You're _on the_ way [to] [the] drug test . 
+A|24| B: Oh , that's wonderful . Okay . 
+B|25| M: _I'm_ _in [the_ same] boat _, I'm_ [a] student [and I have] [to] go [to] school [and] _I'm_ working part _time_ _, so_ [I] can't [do] _anything_ . 
+A|26| B: It just depends [on the] , [on the] , uh , [on the] tree . 
+B|27| M: Not really _. I_ mean [, [I] have] [a] laptop [and] mouse , _but_ [I] can't use [the] mouse anymore . 
+A|28| B: [You] [know ,] _it_ be , _it_ wouldn't take up _much_ , _much_ , _it_ would take up more [time] than [anything] [but] _it_ wouldn't take up [a] lot of money . 
+B|29| M: [They're] blooming right now . 
+A|30| B: Uh-huh . 
+B|31| M: _I'm_ [so much] 
+A|32| B: [I'm] surprised . My dad worked [for] Arby's [for] several years . 
+B|33| M: It's [the same] _in the_ UK . 
+A|34| B: Reduce [the] violence [in the] prisons [. I] think that's its only purpose is , is , [you] [know ,] [to] reduce , uh , [the] violence [in the] prisons [so] _people_ behave themselves [a] little bit better if they think _they're_ [going to] get off early . Off earlier . 
+B|35| M: N 
+A|36| B: Remember Jim Hart ? Jim Hart was playing . Terry Metcalf was [on the] Cardinals . This was [a] long [time] ago . 
+B|37| M: I've had [a] few [people] [have] said [that] [they're] _not_ [buying] [it] . 
+A|38| B: Now , 
+B|39| M: [I] am . 
+A|40| B: Yeah . Oh . Yeah [, I] was up [, I] was up there cutting some firewood this weekend [, so] . 
+B|41| M: he did 
+A|42| B: Uh-huh . 
+B|43| M: [I] don't [know] . 
+A|44| B: [I] think technology is better [, I'm] [, I'm] [not] sure [. I] think you've got [a] good point with [the] plastic [and] [that] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : He's gone . He's been gone for like 3 weeks .
+	Free: Pattern=for
+	Constrained: 
+Turn ID=4| A | B : And what do you have .
+	Free: Pattern=do you, Pattern=have
+	Constrained: Pattern=do, Pattern=you
+Turn ID=5| B | M : You .
+	Free: Pattern=You
+	Constrained: 
+Turn ID=6| A | B : Five hundred of them are good , solid kids and I have the same thirty-seven in my office every day .
+	Free: Pattern=and I have, Pattern=the same, Pattern=in
+	Constrained: Pattern=have, Pattern=and, Pattern=I, Pattern=I have, Pattern=the
+Turn ID=7| B | M : Why ?
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : Uh
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : I don't know , but it's the same as it's always been .
+	Free: Pattern=know ,, Pattern=always, Pattern=as, Pattern=I, Pattern=the same, Pattern=it's, Pattern=but
+	Constrained: Pattern=know, Pattern=the
+Turn ID=10| A | B : Oh , yeah . That's beautiful .
+	Free: Pattern=. That's
+	Constrained: 
+Turn ID=11| B | M : You ?
+	Free: Pattern=You
+	Constrained: 
+Turn ID=12| A | B : Well , that's true , and lot of times though , it is , it costs so much to get something fixed that you almost are just as well off buying another one you know , if it's ,
+	Free: Pattern=know ,, Pattern=you, Pattern=as, Pattern=buying, Pattern=so much, Pattern=to, Pattern=it, Pattern=and, Pattern=that, Pattern=it's
+	Constrained: Pattern=know, Pattern=so, Pattern=much
+Turn ID=13| B | M :  ... and we're going to have a huge event .
+	Free: Pattern=going to, Pattern=and, Pattern=have, Pattern=a
+	Constrained: Pattern=to
+Turn ID=14| A | B : Uh , they , they're up there in that mall . Uh , just below Campbell . Or that strip , strip , center .
+	Free: Pattern=they're, Pattern=that, Pattern=in
+	Constrained: 
+Turn ID=15| B | M : They were also not allowed to carry concealed weapons .
+	Free: Pattern=not, Pattern=to
+	Constrained: 
+Turn ID=16| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : Hahaha . That's great .
+	Free: Pattern=. That's
+	Constrained: 
+Turn ID=18| A | B : Uh , I remember seeing that ,
+	Free: Pattern=, I, Pattern=that
+	Constrained: Pattern=I
+Turn ID=19| B | M : Are you ...
+	Free: Pattern=you
+	Constrained: 
+Turn ID=20| A | B : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : What do you mean ?
+	Free: Pattern=do you
+	Constrained: Pattern=do, Pattern=you
+Turn ID=22| A | B : They're always saying that somebody's going to , and some of them , I think unconsciously do it , you know , as a just , you know , half
+	Free: Pattern=going to, Pattern=know ,, Pattern=always, Pattern=you, Pattern=as, Pattern=They're, Pattern=that, Pattern=do, Pattern=, I, Pattern=a, Pattern=it, Pattern=and
+	Constrained: Pattern=know, Pattern=I, Pattern=to
+Turn ID=23| B | M : You're on the way to the drug test .
+	Free: Pattern=on the, Pattern=the, Pattern=to
+	Constrained: Pattern=the
+Turn ID=24| A | B : Oh , that's wonderful . Okay .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I'm in the same boat , I'm a student and I have to go to school and I'm working part time , so I can't do anything .
+	Free: Pattern=time, Pattern=I'm, Pattern=and, Pattern=anything, Pattern=to, Pattern=, I'm, Pattern=do, Pattern=a, Pattern=in the, Pattern=I, Pattern=and I have, Pattern=the same, Pattern=, so
+	Constrained: Pattern=I'm, Pattern=have, Pattern=and, Pattern=I, Pattern=in, Pattern=I have, Pattern=the, Pattern=so
+Turn ID=26| A | B : It just depends on the , on the , uh , on the tree .
+	Free: Pattern=on the
+	Constrained: Pattern=the
+Turn ID=27| B | M : Not really . I mean , I have a laptop and mouse , but I can't use the mouse anymore .
+	Free: Pattern=and, Pattern=I, Pattern=. I, Pattern=I have, Pattern=the, Pattern=but, Pattern=, I, Pattern=a
+	Constrained: Pattern=have, Pattern=I
+Turn ID=28| A | B : You know , it be , it wouldn't take up much , much , it would take up more time than anything but it wouldn't take up a lot of money .
+	Free: Pattern=time, Pattern=know ,, Pattern=a, Pattern=it, Pattern=much, Pattern=You, Pattern=anything, Pattern=but
+	Constrained: Pattern=know
+Turn ID=29| B | M : They're blooming right now .
+	Free: Pattern=They're
+	Constrained: 
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : I'm so much
+	Free: Pattern=so much, Pattern=I'm
+	Constrained: Pattern=so, Pattern=much
+Turn ID=32| A | B : I'm surprised . My dad worked for Arby's for several years .
+	Free: Pattern=for, Pattern=I'm
+	Constrained: 
+Turn ID=33| B | M : It's the same in the UK .
+	Free: Pattern=in the, Pattern=the same
+	Constrained: Pattern=the, Pattern=in
+Turn ID=34| A | B : Reduce the violence in the prisons . I think that's its only purpose is , is , you know , to reduce , uh , the violence in the prisons so people behave themselves a little bit better if they think they're going to get off early . Off earlier .
+	Free: Pattern=going to, Pattern=know ,, Pattern=you, Pattern=people, Pattern=a, Pattern=in the, Pattern=. I, Pattern=they're, Pattern=the, Pattern=to, Pattern=so
+	Constrained: Pattern=I, Pattern=in, Pattern=know, Pattern=the, Pattern=to
+Turn ID=35| B | M : N
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : Remember Jim Hart ? Jim Hart was playing . Terry Metcalf was on the Cardinals . This was a long time ago .
+	Free: Pattern=on the, Pattern=time, Pattern=a
+	Constrained: Pattern=the
+Turn ID=37| B | M : I've had a few people have said that they're not buying it .
+	Free: Pattern=buying, Pattern=a, Pattern=it, Pattern=they're, Pattern=that, Pattern=not, Pattern=people, Pattern=have
+	Constrained: 
+Turn ID=38| A | B : Now ,
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : I am .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=40| A | B : Yeah . Oh . Yeah , I was up , I was up there cutting some firewood this weekend , so .
+	Free: Pattern=, I, Pattern=, so
+	Constrained: Pattern=so, Pattern=I
+Turn ID=41| B | M : he did
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : I don't know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=44| A | B : I think technology is better , I'm , I'm not sure . I think you've got a good point with the plastic and that .
+	Free: Pattern=a, Pattern=and, Pattern=I, Pattern=. I, Pattern=the, Pattern=, I'm, Pattern=that, Pattern=not
+	Constrained: Pattern=I, Pattern=I'm

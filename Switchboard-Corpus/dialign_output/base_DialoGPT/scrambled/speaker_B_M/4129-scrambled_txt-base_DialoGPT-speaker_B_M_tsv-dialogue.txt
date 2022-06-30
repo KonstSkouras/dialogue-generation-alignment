@@ -1,0 +1,271 @@
+A|0| B: Uh-huh . 
+B|1| M:  
+A|2| B: _That's what I_ thought . 
+B|3| M: What ? 
+A|4| B: Exactly , yeah , um , 
+B|5| M: _It's_ , _of_ , 
+A|6| B: Yeah . 
+B|7| M: She says _that_ _in_ _her_ voice . 
+A|8| B: _Oh_ yeah . _I_ _, I_ feel [that] everyone _is_ , everyone _is_ _, uh ,_ entitled to _a_ trial by jury . _That_ , _that ,_ [that] right 
+B|9| M: different 
+A|10| B: Yeah , well _I_ _, I_ have _a_ dog [that] God gave us too , 
+B|11| M: _So_ what's your opinion on musicals ? 
+A|12| B: No . 
+B|13| M: Uhh , huuuuh . 
+A|14| B: Yeah . 
+B|15| M: This . 
+A|16| B: _Oh_ . 
+B|17| M: But why _do_ they make meat 
+A|18| B: Okay . Yes _, I_ [do] 
+B|19| M: [I] don't . 
+A|20| B: because [I] [I] _think_ , _what_ _do you_ have there ? [It's] _a_ house , 
+B|21| M: [what] ? 
+A|22| B: Yeah . 
+B|23| M: [That's what I] said . 
+A|24| B: Yeah . 
+B|25| M: Umm [, _uh ,] uh_ .,. _Uh [,_ uh] ? 
+A|26| B: [So] _, I_ mean , his appeal _was_ denied _and_ two days later he got out [of] jail For cocaine possession . 
+B|27| M: It _is [that_ ,] _it ._ 
+A|28| B: Uh-huh . Sure , yeah . 
+B|29| M: Ah [, I] see . 
+A|30| B: Uh-huh . 
+B|31| M:  
+A|32| B: And [uh , uh] Really _the_ only objection _we_ have _Is_ [uh] _you_ _you_ give _a_ little _and_ next thing _you_ know somebody's trying to take more . 
+B|33| M: But _that's_ _like_ [a] month's salary . 
+A|34| B: Something , 
+B|35| M: Do [you] work _for_ [a] company ? 
+A|36| B: _That_ [, I] mean , [that] makes [a] big difference cause [I] wondered when they're taking classes with [, uh ,] with people [that] are really , are interested [in] _the_ , _the_ subject _and_ stuff [like] [that] . 
+B|37| M: I'm [a] guy 
+A|38| B: You know [, I] mean they're not _the_ , _the_ typical country where they're just _, you_ know , my wife left _me_ , my dog left _me_ _, you_ know 
+B|39| M:  
+A|40| B: Yeah , Lyndon LaRouche , [that's] [it .] 
+B|41| M: [That] [was] [the] worst weather _I've_ ever seen . 
+A|42| B: Yeah . [That's] neat . 
+B|43| M: Where [do you] live ? 
+A|44| B: And [, uh ,] whether those diseases _can_ some difference could be made if [you] did pour more money [in] [like] diabetes research 
+B|45| M: [you] [can] call [me] 
+A|46| B: _and_ [I] [like] [it .] And [what] [I've] been thinking about doing [is] volunteering [for] this [, uh ,] Asian center [that ,] [a] Doctor Falk has started , [that] works with [the] school district . 
+B|47| M: _Right_ . I'm . sorry 
+A|48| B: And [, uh ,] who [do you] have [her] , or him , take [it] from ? 
+B|49| M: [I] hope [you] enjoy your day 
+A|50| B: Uh-huh . 
+B|51| M: [I] don't [think] [you] [can] . 
+A|52| B: [is that] so ? [I] didn't know [that] . 
+B|53| M: [Oh] , we're , [we] _, and_ it's [, you] , we've , [it] , it's 
+A|54| B: [Uh ,] right , right . [Right] , right . 
+B|55| M: ' 
+A|56| B: Yes , absolutely . 
+B|57| M: [I] 
+A|58| B: Well , [for] some things . 
+B|59| M: [I] don't remember [that] 
+A|60| B: Uh-huh 
+B|61| M:  
+A|62| B: Yeah . Unfortunately . 
+B|63| M: My cat's cat [is] [a] cat . 
+A|64| B: [I] [, I] , give [me] cyanide . [I] mean , [is] [it] )) , 
+B|65| M: [Is] [the] ... 
+A|66| B: well [, and] [the] thing with Bundy [was] though he escaped 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : That's what I thought .
+	Free: Pattern=That's what I
+	Constrained: Pattern=what, Pattern=I, Pattern=That's
+Turn ID=3| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : Exactly , yeah , um ,
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : It's , of ,
+	Free: Pattern=of, Pattern=It's
+	Constrained: 
+Turn ID=6| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : She says that in her voice .
+	Free: Pattern=in, Pattern=her, Pattern=that
+	Constrained: 
+Turn ID=8| A | B : Oh yeah . I , I feel that everyone is , everyone is , uh , entitled to a trial by jury . That , that , that right
+	Free: Pattern=I, Pattern=That, Pattern=is, Pattern=, uh ,, Pattern=Oh, Pattern=that ,, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=uh, Pattern=, uh, Pattern=I, Pattern=that
+Turn ID=9| B | M : different
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : Yeah , well I , I have a dog that God gave us too ,
+	Free: Pattern=, I, Pattern=I, Pattern=a, Pattern=that
+	Constrained: Pattern=I
+Turn ID=11| B | M : So what's your opinion on musicals ?
+	Free: Pattern=So
+	Constrained: 
+Turn ID=12| A | B : No .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Uhh , huuuuh .
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : This .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=17| B | M : But why do they make meat
+	Free: Pattern=do
+	Constrained: 
+Turn ID=18| A | B : Okay . Yes , I do
+	Free: Pattern=, I, Pattern=do
+	Constrained: Pattern=I
+Turn ID=19| B | M : I don't .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=20| A | B : because I I think , what do you have there ? It's a house ,
+	Free: Pattern=what, Pattern=a, Pattern=do you, Pattern=I, Pattern=think, Pattern=It's
+	Constrained: Pattern=do, Pattern=you
+Turn ID=21| B | M : what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=22| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : That's what I said .
+	Free: Pattern=That's what I
+	Constrained: Pattern=what, Pattern=I, Pattern=That's
+Turn ID=24| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : Umm , uh , uh .,. Uh , uh ?
+	Free: Pattern=uh , uh, Pattern=, uh ,, Pattern=Uh ,, Pattern=, uh
+	Constrained: Pattern=, uh, Pattern=uh
+Turn ID=26| A | B : So , I mean , his appeal was denied and two days later he got out of jail For cocaine possession .
+	Free: Pattern=of, Pattern=, I, Pattern=So, Pattern=and, Pattern=was
+	Constrained: Pattern=I
+Turn ID=27| B | M : It is that , it .
+	Free: Pattern=it ., Pattern=that ,, Pattern=is that
+	Constrained: Pattern=it, Pattern=is, Pattern=that
+Turn ID=28| A | B : Uh-huh . Sure , yeah .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : Ah , I see .
+	Free: Pattern=, I
+	Constrained: Pattern=I
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : And uh , uh Really the only objection we have Is uh you you give a little and next thing you know somebody's trying to take more .
+	Free: Pattern=a, Pattern=Is, Pattern=and, Pattern=uh , uh, Pattern=we, Pattern=the, Pattern=you, Pattern=uh
+	Constrained: Pattern=, uh, Pattern=uh
+Turn ID=33| B | M : But that's like a month's salary .
+	Free: Pattern=that's, Pattern=like, Pattern=a
+	Constrained: 
+Turn ID=34| A | B : Something ,
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : Do you work for a company ?
+	Free: Pattern=for, Pattern=a, Pattern=you
+	Constrained: 
+Turn ID=36| A | B : That , I mean , that makes a big difference cause I wondered when they're taking classes with , uh , with people that are really , are interested in the , the subject and stuff like that .
+	Free: Pattern=and, Pattern=I, Pattern=in, Pattern=That, Pattern=like, Pattern=, uh ,, Pattern=the, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=, uh, Pattern=I, Pattern=uh
+Turn ID=37| B | M : I'm a guy
+	Free: Pattern=a
+	Constrained: 
+Turn ID=38| A | B : You know , I mean they're not the , the typical country where they're just , you know , my wife left me , my dog left me , you know
+	Free: Pattern=, I, Pattern=, you, Pattern=the, Pattern=me
+	Constrained: Pattern=I, Pattern=you
+Turn ID=39| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : Yeah , Lyndon LaRouche , that's it .
+	Free: Pattern=it ., Pattern=that's
+	Constrained: Pattern=it
+Turn ID=41| B | M : That was the worst weather I've ever seen .
+	Free: Pattern=the, Pattern=was, Pattern=I've, Pattern=That
+	Constrained: 
+Turn ID=42| A | B : Yeah . That's neat .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=43| B | M : Where do you live ?
+	Free: Pattern=do you
+	Constrained: Pattern=do, Pattern=you
+Turn ID=44| A | B : And , uh , whether those diseases can some difference could be made if you did pour more money in like diabetes research
+	Free: Pattern=you, Pattern=can, Pattern=in, Pattern=like, Pattern=, uh ,
+	Constrained: Pattern=, uh, Pattern=uh
+Turn ID=45| B | M : you can call me
+	Free: Pattern=can, Pattern=me, Pattern=you
+	Constrained: 
+Turn ID=46| A | B : and I like it . And what I've been thinking about doing is volunteering for this , uh , Asian center that , a Doctor Falk has started , that works with the school district .
+	Free: Pattern=I've, Pattern=it ., Pattern=what, Pattern=a, Pattern=for, Pattern=and, Pattern=I, Pattern=is, Pattern=like, Pattern=, uh ,, Pattern=the, Pattern=that ,, Pattern=that
+	Constrained: Pattern=it, Pattern=uh, Pattern=that, Pattern=, uh
+Turn ID=47| B | M : Right . I'm . sorry
+	Free: Pattern=Right
+	Constrained: 
+Turn ID=48| A | B : And , uh , who do you have her , or him , take it from ?
+	Free: Pattern=, uh ,, Pattern=do you, Pattern=it, Pattern=her
+	Constrained: Pattern=do, Pattern=uh, Pattern=you, Pattern=, uh
+Turn ID=49| B | M : I hope you enjoy your day
+	Free: Pattern=I, Pattern=you
+	Constrained: 
+Turn ID=50| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=51| B | M : I don't think you can .
+	Free: Pattern=I, Pattern=can, Pattern=think, Pattern=you
+	Constrained: 
+Turn ID=52| A | B : is that so ? I didn't know that .
+	Free: Pattern=is that, Pattern=I, Pattern=that
+	Constrained: Pattern=is, Pattern=that
+Turn ID=53| B | M : Oh , we're , we , and it's , you , we've , it , it's
+	Free: Pattern=it, Pattern=, you, Pattern=we, Pattern=, and, Pattern=Oh
+	Constrained: Pattern=and, Pattern=you
+Turn ID=54| A | B : Uh , right , right . Right , right .
+	Free: Pattern=Uh ,, Pattern=Right
+	Constrained: 
+Turn ID=55| B | M : '
+	Free: 
+	Constrained: 
+Turn ID=56| A | B : Yes , absolutely .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=58| A | B : Well , for some things .
+	Free: Pattern=for
+	Constrained: 
+Turn ID=59| B | M : I don't remember that
+	Free: Pattern=I, Pattern=that
+	Constrained: 
+Turn ID=60| A | B : Uh-huh
+	Free: 
+	Constrained: 
+Turn ID=61| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=62| A | B : Yeah . Unfortunately .
+	Free: 
+	Constrained: 
+Turn ID=63| B | M : My cat's cat is a cat .
+	Free: Pattern=is, Pattern=a
+	Constrained: 
+Turn ID=64| A | B : I , I , give me cyanide . I mean , is it )) ,
+	Free: Pattern=me, Pattern=, I, Pattern=it, Pattern=I, Pattern=is
+	Constrained: Pattern=I
+Turn ID=65| B | M : Is the ...
+	Free: Pattern=the, Pattern=Is
+	Constrained: 
+Turn ID=66| A | B : well , and the thing with Bundy was though he escaped
+	Free: Pattern=, and, Pattern=the, Pattern=was
+	Constrained: Pattern=and

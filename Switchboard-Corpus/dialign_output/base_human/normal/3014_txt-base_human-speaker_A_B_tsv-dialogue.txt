@@ -1,0 +1,567 @@
+A|0| A: Are _you_ _ready_ _to_ start ? 
+B|1| B: _Yes_ . 
+A|2| A: _Okay_ 
+B|3| B: Have [you] recently _bought_ _a_ new _car_ Catherine ? 
+A|4| A: _Well _, I_ just_ found _out_ _that_ _my_ [car] _like_ _an_ _old_ _was_ thirty _months_ _old _,_ and_ _it_ _doesn't_ seem _like_ _it's_ _that_ _old_ . 
+B|5| B: _Oh ._ 
+A|6| A: Seems _like_ _I just_ _bought _it_ ._ 
+B|7| B: _Oh ,_ wow . 
+A|8| A: _It's_ _an_ eighty-nine _and_ _I_ _bought _it_ _,_ uh ,_ _in_ _, uh ,_ eighty-eight so , yeah . 
+B|9| B: [Well _, I] really_ _, the_ last [car] we _got_ [was] _a ,_ [was] _a_ used _car ._ _I really_ _don't_ prefer buying _a_ new _car ._ _I _like_ to_ let somebody else pay _for_ [that] 
+A|10| A: [I] _know [, I_ really] _will_ _do_ [that] [the] next _time , I_ _buy_ _it_ _too ._ 
+B|11| B: _But_ [, uh] mine [was] _a_ year [old ,] 
+A|12| A: _Uh-huh ._ 
+B|13| B: [and] we [bought it] _for_ very functional purposes , 
+A|14| A: _Uh-huh ._ 
+B|15| B: [and] _that was_ we [bought] _a_ station wagon . We _wanted_ [an] economical [car] [to] operate , 
+A|16| A: _Uh-huh ._ 
+B|17| B: _but_ we _wanted_ _one_ [that] could carry _a lot of_ equipment . _So_ , we chose _a_ Nissan Stanza wagon . 
+A|18| A: _Uh-huh ._ 
+B|19| B: And _I've_ _never_ been _sorry_ , 
+A|20| A: [Oh ,] _that's_ wonderful . 
+B|21| B: however [the] need _for_ [that] kind _of_ [car] has changed _now_ , 
+A|22| A: _Uh-huh _._ Oh _,_ _okay_ ._ 
+B|23| B: _and [,_ uh ,] while _it is_ still good [, _and] it's_ quite serviceable [, and] I'll drive [it] until [it] no longer _is_ reliable . 
+A|24| A: _Uh-huh ._ Huh . 
+B|25| B: And _probably_ then some I'll spend _a lot of_ [time] praying over [it] before [I] give [it] _up ._ 
+A|26| A: _Sure_ . 
+B|27| B: _I think_ [that] _I would_ _like _to_ _,_ if_ _you know ,_ we all say _, if I_ could _have_ _the car I_ always _wanted_ _I would_ either [buy] _a_ Nissan Maxima [, uh ,] 
+A|28| A: Right . 
+B|29| B: I'm sold _on_ Nissans . 
+A|30| A: _Uh-huh ._ 
+B|31| B: [I] _a_ _or_ _, or_ foreign cars actually . _Uh ,_ 
+A|32| A: [But] _do you_ feel though [, uh ,] craftsmanship [is] _much_ superior _to _the_ American_ abilities ? 
+B|33| B: _Uh ,_ 
+A|34| A: Is [that] how _you [,_ I] [have] [never] , 
+B|35| B: its reliability . 
+A|36| A: _Its_ 
+B|37| B: [Its] reliability . And [, uh [,] _I] _,_ you know ,_ _I've_ read all [the] CONSUMER REPORTS [and] things [, and] _they_ [just] run head [and] shoulders above [the American] made cars . _If_ _Ford_ [was] _a_ head _and the_ shoulders above [it ,] I'd [buy] _a_ _Ford_ . 
+A|38| A: Isn't [that] [a] shame . 
+B|39| B: _But _I_ had_ [, uh ,] _had_ [a] _Ford_ Escort [that] absolutely needed taps [the] day we _got_ [it .] 
+A|40| A: My word isn't [that] [sorry] . _That's_ [sorry] . 
+B|41| B: _Uh _,_ you know , _I_ mean_ [it] [was] [ready] _for_ [the] graveyard . 
+A|42| A: My word . 
+B|43| B: And [I] spent as [much] _on_ _that car_ [in] twelve [months] as [I] spent _for_ _the _car_ ._ 
+A|44| A: [Oh ,] mercy . 
+B|45| B: _So_ , 
+A|46| A: _You_ , 
+B|47| B: [and] _that was_ [just] trying [to] _hold_ us , getting [out] _of_ _that was_ [a] used _car ._ 
+A|48| A: Huh . 
+B|49| B: And [it] [was] [an] older [car] , 
+A|50| A: Huh . 
+B|51| B: _but_ _, you know ,_ Escort [is] supposed [to] [have] [a] great track record as far as sales . 
+A|52| A: Huh _. Uh-huh ._ 
+B|53| B: [But] [it's] [just] _, it_ [just] [was] not [and] [you] _get_ stung [a] [time] _or_ two , 
+A|54| A: _Sure_ . 
+B|55| B: [and] [you] say , no _thanks ._ 
+A|56| A: _No_ [thanks .] _That's_ right . 
+B|57| B: _So_ [, I just] trusted [the] CONSUMER REPORTS _and the_ auto [, uh ,] reports 
+A|58| A: _Uh-huh , uh-huh ._ 
+B|59| B: _had_ [my] son _who_ knows _a lot_ about [that] , study them thoroughly [, and] he gave _me_ four choices _of_ cars [to] [buy] 
+A|60| A: _Uh-huh ._ 
+B|61| B: An Escort definitely [was] not among them . In fact , there wasn't [an] [American] [car] [in] there . 
+A|62| A: Wow . 
+B|63| B: _Uh _,_ the_ Nissan came _and [,_ and] we [bought] [the] Nissan _for_ functional purposes not _what_ [the] CONSUMER REPORTS said we should _get_ . 
+A|64| A: _Uh-huh ._ 
+B|65| B: [But] [it] served our needs . _Uh ,_ later _on_ his reports _, the_ reports [that] he studied showed [that] [, uh ,] Nissan [was] head [and] shoulders above [the] rest [in] [the] [in] [the] class [that] we were looking _for_ . And [that] [, and] I'd rather [have] [a] Maxima than [a] Cadillac . [I really] _would_ . [It's] not necessarily prestige , 
+A|66| A: _Uh-huh ._ 
+B|67| B: _but_ [it's] _comfort_ . _Uh ,_ there's _a lot of_ features _on_ there [that] _are_ desirable _if_ _you're_ going [to] pay [that] kind _of_ money _for_ [a] _car ._ _Uh ,_ 
+A|68| A: Who makes [that car] ? 
+B|69| B: Nissan . 
+A|70| A: [I mean] [but] where [are] [they] , where [are] [they] , [what] , [what] [is] their location , [is] [it [,] uh ,] Asian [or] [is] [it] European [or] [who] , 
+B|71| B: [No] . [No] , no . Nissan _is Japanese ._ 
+A|72| A: [Oh [,] [it] [is] Japanese .] 
+B|73| B: [Uh-huh , uh-huh] , 
+A|74| A: _Okay_ , 
+B|75| B: [uh-huh .] 
+A|76| A: [I] didn't [know] . 
+B|77| B: _Yeah ._ And [, uh _,] if I_ couldn't [have] [my] luxury Maxima then I'd [buy] _me_ [a] fancy little red C _R_ X sports [car] 
+A|78| A: _Uh-huh ._ _Okay_ 
+B|79| B: [I mean] _, you know ,_ every every _one_ _of_ us [have] two sides 
+A|80| A: [Yeah] _, I guess_ so _that's_ true _. Yeah ._ 
+B|81| B: [Yeah .] Now [what] about [you _,] if_ [you] could [have] _the _car_ _that_ you_ _wanted_ [what] _would_ [you] _get_ 
+A|82| A: [If] [, if] [, _if I] had [the_ car I] [wanted] . 
+B|83| B: [and] why ? 
+A|84| A: Gee . 
+B|85| B: [Uh-huh .] 
+A|86| A: Probably , um [, uh ,] let's see [, [I] _like] the_ looks _of the_ Lincoln Town [car] 
+B|87| B: [Uh-huh , uh-huh [.] Yeah .] See there , 
+A|88| A: [But _I] _, I_ don't_ [know] [the] performance [of] [it .] _That's_ [a ,] [Ford] product , 
+B|89| B: _Uh-huh . Uh-huh ._ 
+A|90| A: [and [,] you know _, I] would_ [get] hung [up] by [my] boot straps [if I] [if I] ever mentioned [the] [Ford] product [in] [my] family . 
+B|91| B: _Uh-huh . _Uh-huh ._ Uh-huh ._ [I] tell [you] [that's] sad [too] because there _one_ [time] [Ford] [was] [the] best _, that was_ made . 
+A|92| A: [Yeah] , yeah . 
+B|93| B: Really [was] . 
+A|94| A: [Uh-huh .] 
+B|95| B: And [, uh [,] [I] [, I] really] [have] not seen _, now_ _a lot [of_ [the] American] cars actually [are] , [are] , parts [are] produced [in] foreign countries [and] assembled here [or] vice versa . 
+A|96| A: Can [I] put [you] [on] [hold] [for] [one] minute ? 
+B|97| B: Of course . 
+A|98| A: Thank [you] . [Well [,] that was] [one] minute . They hung [up .] 
+B|99| B: [Okay] _Uh ,_ at any rate [do you] [have] _color preferences_ [or] [what] [would] be [the] features _that you_ [would] be looking [for] ? 
+A|100| A: Um _, well [,_ the] [comfort] [of] [a] large [car that] [the] security [of] [a] large [car .] Um _, and the_ luxuries [of] [a] large [car .] 
+B|101| B: _Uh-huh . Uh-huh ._ 
+A|102| A: [Uh [,] now] [color preferences] [, [I] think] [I would] opt [to] _go_ _with_ [a] bronze . Which [is] [probably] closest [to] gold _that you can_ [get] 
+B|103| B: [Uh-huh , uh-huh [.] Yeah [.] Oh ,] wow . We [like the] stuff [that] glitters 
+A|104| A: [Yeah .] 
+B|105| B: Good . There's nothing wrong [with] [that] . Actually [I think] [probably] [if I] were going [to] [get] [if I] were going [to] be _practical_ , which [doesn't] [mean] [I would] be [, I would] prefer white . Because , simply because [it's] more visible at night . 
+A|106| A: Right _, well ,_ [practical] yes [that's] _, Uh-huh ._ Right [and it's] cooler [I] believe , [too] , when [you're] driving [in] , 
+B|107| B: And [, _Uh-huh .] Uh-huh ._ Now [the] interior [, okay] [, I don't] care about [the] interior [just] as long as [it's] not black [or] red . 
+A|108| A: [Uh-huh , uh-huh .] 
+B|109| B: [But] [if I had the] little red C _R_ X [, I guess] [the] interior [would] [have] [to] be black leather [and] I'd [have] [to] live [with] [that] . And [if I] _got the_ C _R_ X [it] [would] [have] [to] [have] [a] real good sound system [in] [it] because I'd want [that] [too .] 
+A|110| A: [Oh .] 
+B|111| B: I'd [just] [go] _back_ [to] [my] teenage years [and] [just] throw all [my] experience [to the] wind 
+A|112| A: Um , _can_ [you [,] uh ,] hang [on] again 
+B|113| B: [Uh-huh .] 
+A|114| A: Thanks [I've] [got the] phones [for] lunch hour . 
+B|115| B: [Uh-huh .] 
+A|116| A: [So] . Just [don't] mind [me] [if I] bounce [back] [and] forth . 
+B|117| B: [That's] [okay .] 
+A|118| A: Um , so [you] [like _to] listen to , uh ,_ [a lot of] _music [,_ or] [do] , [is] [it] talk shows . 
+B|119| B: [No] , no , no . [I] generally [would] [uh ,] prefer [to listen to , uh [,] well [,] I] [listen to] K C B [I] [a lot] [but] [I] [will] [listen [to] the] news [and _the] [,_ and the] traffic [and] _those_ things at work . 
+A|120| A: [Uh-huh , uh-huh .] 
+B|121| B: [But] [if] I'm going [to] be traveling [in] [that car] [for] any period [of] [time , I] want some real good classical [music] . 
+A|122| A: [Uh-huh . Uh-huh .] 
+B|123| B: [I] love classical [music [,] and] [you] [just] can't enjoy [it] unless you've [got] [a] good sound system [to] produce all _the ,_ all [the] characteristics [of the] instruments . 
+A|124| A: All [the ,] yeah [. Uh-huh .] [That's] true . 
+B|125| B: [So] [I] [do] love classical [music] [or] [it] [or] [, or] [, uh ,] contemporary classical . 
+A|126| A: Do [you] [listen] Do [you] [listen to] _W R R_ ? 
+B|127| B: [Uh-huh .] 
+A|128| A: Huh . 
+B|129| B: [Sure] [do] . 
+A|130| A: [Yeah .] 
+B|131| B: [W R R] [and the] Oasis [are] [the] two [that] [I] [listen to ,] more than anything else . 
+A|132| A: [Uh-huh . Uh-huh .] 
+B|133| B: And [I] [do] [like] them . And I'd [like to] [have] [a] compact disc player [in] [the [car] .] That [would] be , something [that] [I would] [really] [like] . 
+A|134| A: _Those_ [are] nice , aren't [they] ? [Yes] , [those] [are] nice . 
+B|135| B: [Those] compact discs , [really] [are] good [for] cars because [they] [don't] melt , 
+A|136| A: [Uh-huh .] 
+B|137| B: [they] [don't] warp . 
+A|138| A: [Uh-huh .] 
+B|139| B: [You] [know ,] there's nothing [in] there [that] [can] wrap around [the [,] [the] [,] uh ,] rollers [or] anything . It seems [like] [a] [really] good answer [to] portable [music [,] [that] you can] choose . 
+A|140| A: Huh . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Are you ready to start ?
+	Free: Pattern=to, Pattern=ready, Pattern=you
+	Constrained: 
+Turn ID=1| B | B : Yes .
+	Free: Pattern=Yes
+	Constrained: 
+Turn ID=2| A | A : Okay
+	Free: Pattern=Okay
+	Constrained: 
+Turn ID=3| B | B : Have you recently bought a new car Catherine ?
+	Free: Pattern=a, Pattern=bought, Pattern=car, Pattern=you
+	Constrained: 
+Turn ID=4| A | A : Well , I just found out that my car like an old was thirty months old , and it doesn't seem like it's that old .
+	Free: Pattern=Well , I, Pattern=doesn't, Pattern=months, Pattern=an, Pattern=it, Pattern=like, Pattern=car, Pattern=, and, Pattern=was, Pattern=old ,, Pattern=, I just, Pattern=out, Pattern=my, Pattern=old, Pattern=that, Pattern=it's
+	Constrained: Pattern=just, Pattern=, I, Pattern=and, Pattern=I, Pattern=I just, Pattern=Well ,, Pattern=old
+Turn ID=5| B | B : Oh .
+	Free: Pattern=Oh .
+	Constrained: 
+Turn ID=6| A | A : Seems like I just bought it .
+	Free: Pattern=it ., Pattern=I just, Pattern=bought it, Pattern=like
+	Constrained: Pattern=I, Pattern=bought, Pattern=just, Pattern=it
+Turn ID=7| B | B : Oh , wow .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=8| A | A : It's an eighty-nine and I bought it , uh , in , uh , eighty-eight so , yeah .
+	Free: Pattern=bought it, Pattern=an, Pattern=and, Pattern=I, Pattern=in, Pattern=it ,, Pattern=, uh ,, Pattern=It's
+	Constrained: Pattern=it, Pattern=uh ,, Pattern=bought, Pattern=, uh
+Turn ID=9| B | B : Well , I really , the last car we got was a , was a used car . I really don't prefer buying a new car . I like to let somebody else pay for that
+	Free: Pattern=a ,, Pattern=Well , I, Pattern=a, Pattern=for, Pattern=I really, Pattern=I like, Pattern=like to, Pattern=got, Pattern=was, Pattern=that, Pattern=, I really, Pattern=car, Pattern=don't, Pattern=, the, Pattern=car .
+	Constrained: Pattern=I really, Pattern=I, Pattern=Well ,, Pattern=the, Pattern=car, Pattern=to, Pattern=, I, Pattern=a, Pattern=really, Pattern=like
+Turn ID=10| A | A : I know , I really will do that the next time , I buy it too .
+	Free: Pattern=do, Pattern=buy, Pattern=it, Pattern=will, Pattern=the, Pattern=that, Pattern=, I really, Pattern=too ., Pattern=I, Pattern=know , I, Pattern=time , I
+	Constrained: Pattern=time, Pattern=know ,, Pattern=, I, Pattern=I, Pattern=know, Pattern=really, Pattern=too, Pattern=I really
+Turn ID=11| B | B : But , uh mine was a year old ,
+	Free: Pattern=, uh, Pattern=a, Pattern=But, Pattern=was, Pattern=old ,
+	Constrained: Pattern=old
+Turn ID=12| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=13| B | B : and we bought it for very functional purposes ,
+	Free: Pattern=bought it, Pattern=for, Pattern=and
+	Constrained: Pattern=bought, Pattern=it
+Turn ID=14| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=15| B | B : and that was we bought a station wagon . We wanted an economical car to operate ,
+	Free: Pattern=a, Pattern=an, Pattern=and, Pattern=that was, Pattern=car, Pattern=to, Pattern=bought, Pattern=wanted
+	Constrained: Pattern=was, Pattern=that
+Turn ID=16| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=17| B | B : but we wanted one that could carry a lot of equipment . So , we chose a Nissan Stanza wagon .
+	Free: Pattern=a lot of, Pattern=wanted, Pattern=a, Pattern=So, Pattern=one, Pattern=that, Pattern=but
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=18| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=19| B | B : And I've never been sorry ,
+	Free: Pattern=I've, Pattern=sorry, Pattern=never
+	Constrained: 
+Turn ID=20| A | A : Oh , that's wonderful .
+	Free: Pattern=Oh ,, Pattern=that's
+	Constrained: 
+Turn ID=21| B | B : however the need for that kind of car has changed now ,
+	Free: Pattern=of, Pattern=for, Pattern=the, Pattern=car, Pattern=now, Pattern=that
+	Constrained: 
+Turn ID=22| A | A : Uh-huh . Oh , okay .
+	Free: Pattern=. Oh ,, Pattern=, okay, Pattern=okay ., Pattern=Uh-huh .
+	Constrained: Pattern=Oh ,
+Turn ID=23| B | B : and , uh , while it is still good , and it's quite serviceable , and I'll drive it until it no longer is reliable .
+	Free: Pattern=and it's, Pattern=and ,, Pattern=it, Pattern=is, Pattern=, uh ,, Pattern=, and, Pattern=it is
+	Constrained: Pattern=, uh, Pattern=is, Pattern=uh ,, Pattern=it's, Pattern=it, Pattern=and
+Turn ID=24| A | A : Uh-huh . Huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=25| B | B : And probably then some I'll spend a lot of time praying over it before I give it up .
+	Free: Pattern=time, Pattern=a lot of, Pattern=it, Pattern=I, Pattern=probably, Pattern=up .
+	Constrained: Pattern=up, Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=26| A | A : Sure .
+	Free: Pattern=Sure
+	Constrained: 
+Turn ID=27| B | B : I think that I would like to , if you know , we all say , if I could have the car I always wanted I would either buy a Nissan Maxima , uh ,
+	Free: Pattern=you know ,, Pattern=wanted, Pattern=have, Pattern=a, Pattern=buy, Pattern=, if, Pattern=to ,, Pattern=like to, Pattern=, if I, Pattern=that, Pattern=I would, Pattern=the car I, Pattern=I think, Pattern=, uh ,
+	Constrained: Pattern=the car, Pattern=know ,, Pattern=if I, Pattern=, if, Pattern=know, Pattern=like, Pattern=to, Pattern=you, Pattern=, uh, Pattern=I, Pattern=if, Pattern=uh ,, Pattern=the, Pattern=car, Pattern=would
+Turn ID=28| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : I'm sold on Nissans .
+	Free: Pattern=on
+	Constrained: 
+Turn ID=30| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=31| B | B : I a or , or foreign cars actually . Uh ,
+	Free: Pattern=a, Pattern=I, Pattern=Uh ,, Pattern=or, Pattern=, or
+	Constrained: Pattern=or
+Turn ID=32| A | A : But do you feel though , uh , craftsmanship is much superior to the American abilities ?
+	Free: Pattern=to the, Pattern=do you, Pattern=But, Pattern=is, Pattern=much, Pattern=, uh ,, Pattern=the American
+	Constrained: Pattern=do, Pattern=to, Pattern=American, Pattern=you, Pattern=, uh, Pattern=uh ,, Pattern=the
+Turn ID=33| B | B : Uh ,
+	Free: Pattern=Uh ,
+	Constrained: 
+Turn ID=34| A | A : Is that how you , I have never ,
+	Free: Pattern=have, Pattern=, I, Pattern=never, Pattern=you ,, Pattern=that
+	Constrained: Pattern=I, Pattern=you
+Turn ID=35| B | B : its reliability .
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : Its
+	Free: Pattern=Its
+	Constrained: 
+Turn ID=37| B | B : Its reliability . And , uh , I , you know , I've read all the CONSUMER REPORTS and things , and they just run head and shoulders above the American made cars . If Ford was a head and the shoulders above it , I'd buy a Ford .
+	Free: Pattern=I ,, Pattern=I've, Pattern=just, Pattern=they, Pattern=and, Pattern=If, Pattern=it ,, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=was, Pattern=the American, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=and the, Pattern=buy, Pattern=Ford, Pattern=Its
+	Constrained: Pattern=I, Pattern=know, Pattern=American, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=, uh, Pattern=it, Pattern=and, Pattern=uh ,, Pattern=the
+Turn ID=38| A | A : Isn't that a shame .
+	Free: Pattern=a, Pattern=that
+	Constrained: 
+Turn ID=39| B | B : But I had , uh , had a Ford Escort that absolutely needed taps the day we got it .
+	Free: Pattern=it ., Pattern=a, Pattern=I had, Pattern=But I, Pattern=, uh ,, Pattern=the, Pattern=got, Pattern=that, Pattern=Ford, Pattern=had
+	Constrained: Pattern=, uh, Pattern=it, Pattern=I, Pattern=But, Pattern=had, Pattern=uh ,
+Turn ID=40| A | A : My word isn't that sorry . That's sorry .
+	Free: Pattern=sorry, Pattern=that, Pattern=That's
+	Constrained: 
+Turn ID=41| B | B : Uh , you know , I mean it was ready for the graveyard .
+	Free: Pattern=for, Pattern=it, Pattern=Uh ,, Pattern=I mean, Pattern=the, Pattern=was, Pattern=ready, Pattern=, you know , I
+	Constrained: Pattern=you, Pattern=mean, Pattern=I, Pattern=know, Pattern=know , I, Pattern=know ,, Pattern=you know ,, Pattern=, you know ,, Pattern=, I
+Turn ID=42| A | A : My word .
+	Free: 
+	Constrained: 
+Turn ID=43| B | B : And I spent as much on that car in twelve months as I spent for the car .
+	Free: Pattern=the car, Pattern=months, Pattern=for, Pattern=I, Pattern=in, Pattern=that car, Pattern=much, Pattern=on, Pattern=car .
+	Constrained: Pattern=the, Pattern=car, Pattern=that
+Turn ID=44| A | A : Oh , mercy .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=45| B | B : So ,
+	Free: Pattern=So
+	Constrained: 
+Turn ID=46| A | A : You ,
+	Free: Pattern=You
+	Constrained: 
+Turn ID=47| B | B : and that was just trying to hold us , getting out of that was a used car .
+	Free: Pattern=of, Pattern=out, Pattern=just, Pattern=a, Pattern=and, Pattern=that was, Pattern=to, Pattern=car ., Pattern=hold
+	Constrained: Pattern=was, Pattern=car, Pattern=that
+Turn ID=48| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=49| B | B : And it was an older car ,
+	Free: Pattern=an, Pattern=was, Pattern=car, Pattern=it
+	Constrained: 
+Turn ID=50| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=51| B | B : but , you know , Escort is supposed to have a great track record as far as sales .
+	Free: Pattern=have, Pattern=is, Pattern=to, Pattern=but, Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=you know ,, Pattern=know ,, Pattern=know, Pattern=you
+Turn ID=52| A | A : Huh . Uh-huh .
+	Free: Pattern=. Uh-huh .
+	Constrained: Pattern=Uh-huh .
+Turn ID=53| B | B : But it's just , it just was not and you get stung a time or two ,
+	Free: Pattern=you, Pattern=just, Pattern=a, Pattern=and, Pattern=But, Pattern=or, Pattern=was, Pattern=get, Pattern=it's, Pattern=, it, Pattern=time
+	Constrained: Pattern=it
+Turn ID=54| A | A : Sure .
+	Free: Pattern=Sure
+	Constrained: 
+Turn ID=55| B | B : and you say , no thanks .
+	Free: Pattern=thanks ., Pattern=and, Pattern=you
+	Constrained: 
+Turn ID=56| A | A : No thanks . That's right .
+	Free: Pattern=thanks ., Pattern=No, Pattern=That's
+	Constrained: 
+Turn ID=57| B | B : So , I just trusted the CONSUMER REPORTS and the auto , uh , reports
+	Free: Pattern=, I just, Pattern=So, Pattern=and the, Pattern=, uh ,, Pattern=the
+	Constrained: Pattern=, uh, Pattern=just, Pattern=, I, Pattern=and, Pattern=I, Pattern=I just, Pattern=uh ,, Pattern=the
+Turn ID=58| A | A : Uh-huh , uh-huh .
+	Free: Pattern=Uh-huh , uh-huh .
+	Constrained: Pattern=uh-huh ., Pattern=Uh-huh , uh-huh
+Turn ID=59| B | B : had my son who knows a lot about that , study them thoroughly , and he gave me four choices of cars to buy
+	Free: Pattern=of, Pattern=me, Pattern=who, Pattern=buy, Pattern=had, Pattern=my, Pattern=that, Pattern=a lot, Pattern=, and, Pattern=to
+	Constrained: Pattern=a, Pattern=and
+Turn ID=60| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=61| B | B : An Escort definitely was not among them . In fact , there wasn't an American car in there .
+	Free: Pattern=an, Pattern=in, Pattern=car, Pattern=was, Pattern=American
+	Constrained: 
+Turn ID=62| A | A : Wow .
+	Free: 
+	Constrained: 
+Turn ID=63| B | B : Uh , the Nissan came and , and we bought the Nissan for functional purposes not what the CONSUMER REPORTS said we should get .
+	Free: Pattern=bought, Pattern=and ,, Pattern=what, Pattern=for, Pattern=Uh ,, Pattern=the, Pattern=, and, Pattern=get, Pattern=, the
+	Constrained: Pattern=the, Pattern=and
+Turn ID=64| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=65| B | B : But it served our needs . Uh , later on his reports , the reports that he studied showed that , uh , Nissan was head and shoulders above the rest in the in the class that we were looking for . And that , and I'd rather have a Maxima than a Cadillac . I really would . It's not necessarily prestige ,
+	Free: Pattern=have, Pattern=a, Pattern=for, Pattern=But, Pattern=Uh ,, Pattern=in, Pattern=, uh ,, Pattern=would, Pattern=, and, Pattern=was, Pattern=, the, Pattern=that, Pattern=it, Pattern=and, Pattern=I really, Pattern=on, Pattern=It's, Pattern=the
+	Constrained: Pattern=, uh, Pattern=and, Pattern=I, Pattern=really, Pattern=uh ,, Pattern=the
+Turn ID=66| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=67| B | B : but it's comfort . Uh , there's a lot of features on there that are desirable if you're going to pay that kind of money for a car . Uh ,
+	Free: Pattern=a, Pattern=for, Pattern=Uh ,, Pattern=comfort, Pattern=on, Pattern=to, Pattern=car ., Pattern=you're, Pattern=a lot of, Pattern=of, Pattern=are, Pattern=if, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=a, Pattern=car, Pattern=a lot, Pattern=of
+Turn ID=68| A | A : Who makes that car ?
+	Free: Pattern=that car
+	Constrained: Pattern=car, Pattern=that
+Turn ID=69| B | B : Nissan .
+	Free: 
+	Constrained: 
+Turn ID=70| A | A : I mean but where are they , where are they , what , what is their location , is it , uh , Asian or is it European or who ,
+	Free: Pattern=who, Pattern=it, Pattern=are, Pattern=is, Pattern=it ,, Pattern=or, Pattern=but, Pattern=what, Pattern=they, Pattern=, uh ,, Pattern=I mean
+	Constrained: Pattern=, uh, Pattern=mean, Pattern=it, Pattern=I, Pattern=uh ,
+Turn ID=71| B | B : No . No , no . Nissan is Japanese .
+	Free: Pattern=is Japanese ., Pattern=No
+	Constrained: Pattern=is
+Turn ID=72| A | A : Oh , it is Japanese .
+	Free: Pattern=is Japanese ., Pattern=Oh ,, Pattern=, it, Pattern=it is
+	Constrained: Pattern=is, Pattern=it
+Turn ID=73| B | B : Uh-huh , uh-huh ,
+	Free: Pattern=Uh-huh , uh-huh
+	Constrained: 
+Turn ID=74| A | A : Okay ,
+	Free: Pattern=Okay
+	Constrained: 
+Turn ID=75| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=76| A | A : I didn't know .
+	Free: Pattern=I, Pattern=know
+	Constrained: 
+Turn ID=77| B | B : Yeah . And , uh , if I couldn't have my luxury Maxima then I'd buy me a fancy little red C R X sports car
+	Free: Pattern=Yeah ., Pattern=have, Pattern=me, Pattern=buy, Pattern=, uh ,, Pattern=car, Pattern=, if I, Pattern=my, Pattern=R, Pattern=a
+	Constrained: Pattern=, uh, Pattern=if I, Pattern=, if, Pattern=uh ,, Pattern=Yeah, Pattern=I, Pattern=if
+Turn ID=78| A | A : Uh-huh . Okay
+	Free: Pattern=Uh-huh ., Pattern=Okay
+	Constrained: 
+Turn ID=79| B | B : I mean , you know , every every one of us have two sides
+	Free: Pattern=of, Pattern=have, Pattern=, you know ,, Pattern=one, Pattern=I mean
+	Constrained: Pattern=you, Pattern=mean, Pattern=I, Pattern=know, Pattern=know ,, Pattern=you know ,
+Turn ID=80| A | A : Yeah , I guess so that's true . Yeah .
+	Free: Pattern=. Yeah ., Pattern=, I guess, Pattern=Yeah, Pattern=that's
+	Constrained: Pattern=, I, Pattern=I, Pattern=Yeah, Pattern=Yeah .
+Turn ID=81| B | B : Yeah . Now what about you , if you could have the car that you wanted what would you get
+	Free: Pattern=Yeah ., Pattern=the car, Pattern=have, Pattern=what, Pattern=car that, Pattern=, if, Pattern=that you, Pattern=would, Pattern=you, Pattern=wanted, Pattern=get, Pattern=you ,
+	Constrained: Pattern=you, Pattern=if, Pattern=the, Pattern=car, Pattern=Yeah, Pattern=that
+Turn ID=82| A | A : If , if , if I had the car I wanted .
+	Free: Pattern=wanted, Pattern=if I had the, Pattern=, if, Pattern=If, Pattern=the car I, Pattern=, if I
+	Constrained: Pattern=the car, Pattern=I had, Pattern=if I, Pattern=, if, Pattern=had, Pattern=the, Pattern=car, Pattern=I, Pattern=if
+Turn ID=83| B | B : and why ?
+	Free: Pattern=and
+	Constrained: 
+Turn ID=84| A | A : Gee .
+	Free: 
+	Constrained: 
+Turn ID=85| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=86| A | A : Probably , um , uh , let's see , I like the looks of the Lincoln Town car
+	Free: Pattern=, I, Pattern=I like, Pattern=, uh ,, Pattern=car, Pattern=like the, Pattern=of the
+	Constrained: Pattern=of, Pattern=, uh, Pattern=I, Pattern=like, Pattern=uh ,, Pattern=the
+Turn ID=87| B | B : Uh-huh , uh-huh . Yeah . See there ,
+	Free: Pattern=Uh-huh , uh-huh ., Pattern=. Yeah .
+	Constrained: Pattern=uh-huh ., Pattern=Yeah, Pattern=Uh-huh , uh-huh, Pattern=Yeah .
+Turn ID=88| A | A : But I , I don't know the performance of it . That's a , Ford product ,
+	Free: Pattern=a ,, Pattern=of, Pattern=it ., Pattern=That's, Pattern=, I don't, Pattern=know, Pattern=But I, Pattern=Ford, Pattern=I , I, Pattern=the
+	Constrained: Pattern=I ,, Pattern=it, Pattern=I, Pattern=But, Pattern=don't, Pattern=, I, Pattern=a
+Turn ID=89| B | B : Uh-huh . Uh-huh .
+	Free: Pattern=Uh-huh . Uh-huh .
+	Constrained: Pattern=. Uh-huh ., Pattern=Uh-huh .
+Turn ID=90| A | A : and , you know , I would get hung up by my boot straps if I if I ever mentioned the Ford product in my family .
+	Free: Pattern=if I, Pattern=in, Pattern=Ford, Pattern=the, Pattern=up, Pattern=, I would, Pattern=, you know , I, Pattern=and ,, Pattern=get, Pattern=my
+	Constrained: Pattern=you, Pattern=and, Pattern=know, Pattern=I would, Pattern=would, Pattern=know , I, Pattern=know ,, Pattern=you know ,, Pattern=, you know ,, Pattern=, I, Pattern=I, Pattern=if
+Turn ID=91| B | B : Uh-huh . Uh-huh . Uh-huh . I tell you that's sad too because there one time Ford was the best , that was made .
+	Free: Pattern=time, Pattern=you, Pattern=too, Pattern=, that was, Pattern=was, Pattern=one, Pattern=I, Pattern=Ford, Pattern=Uh-huh . Uh-huh ., Pattern=that's, Pattern=the
+	Constrained: Pattern=. Uh-huh ., Pattern=Uh-huh ., Pattern=was, Pattern=that, Pattern=that was, Pattern=, that
+Turn ID=92| A | A : Yeah , yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=93| B | B : Really was .
+	Free: Pattern=was
+	Constrained: 
+Turn ID=94| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=95| B | B : And , uh , I , I really have not seen , now a lot of the American cars actually are , are , parts are produced in foreign countries and assembled here or vice versa .
+	Free: Pattern=, now, Pattern=a lot of, Pattern=have, Pattern=, I, Pattern=and, Pattern=are, Pattern=in, Pattern=or, Pattern=, uh ,, Pattern=I , I, Pattern=of the, Pattern=, I really, Pattern=the American
+	Constrained: Pattern=I ,, Pattern=of, Pattern=, uh, Pattern=I really, Pattern=I, Pattern=really, Pattern=a lot, Pattern=, I, Pattern=a, Pattern=uh ,, Pattern=the, Pattern=American, Pattern=now
+Turn ID=96| A | A : Can I put you on hold for one minute ?
+	Free: Pattern=you, Pattern=for, Pattern=on, Pattern=hold, Pattern=one, Pattern=I
+	Constrained: 
+Turn ID=97| B | B : Of course .
+	Free: 
+	Constrained: 
+Turn ID=98| A | A : Thank you . Well , that was one minute . They hung up .
+	Free: Pattern=you, Pattern=one, Pattern=Well ,, Pattern=, that was, Pattern=up .
+	Constrained: Pattern=up, Pattern=was, Pattern=that, Pattern=that was, Pattern=, that
+Turn ID=99| B | B : Okay Uh , at any rate do you have color preferences or what would be the features that you would be looking for ?
+	Free: Pattern=have, Pattern=what, Pattern=for, Pattern=do you, Pattern=Okay, Pattern=Uh ,, Pattern=or, Pattern=that you, Pattern=the, Pattern=would, Pattern=color preferences
+	Constrained: Pattern=that, Pattern=do, Pattern=you
+Turn ID=100| A | A : Um , well , the comfort of a large car that the security of a large car . Um , and the luxuries of a large car .
+	Free: Pattern=of, Pattern=, well ,, Pattern=a, Pattern=car that, Pattern=comfort, Pattern=the, Pattern=, and the, Pattern=, the, Pattern=car .
+	Constrained: Pattern=and the, Pattern=and, Pattern=the, Pattern=car, Pattern=, and, Pattern=that
+Turn ID=101| B | B : Uh-huh . Uh-huh .
+	Free: Pattern=Uh-huh . Uh-huh .
+	Constrained: Pattern=. Uh-huh ., Pattern=Uh-huh .
+Turn ID=102| A | A : Uh , now color preferences , I think I would opt to go with a bronze . Which is probably closest to gold that you can get
+	Free: Pattern=, now, Pattern=go, Pattern=that you can, Pattern=probably, Pattern=Uh ,, Pattern=is, Pattern=I would, Pattern=I think, Pattern=to, Pattern=get, Pattern=with, Pattern=color preferences, Pattern=, I, Pattern=a
+	Constrained: Pattern=you, Pattern=I, Pattern=can, Pattern=that you, Pattern=would, Pattern=now, Pattern=that
+Turn ID=103| B | B : Uh-huh , uh-huh . Yeah . Oh , wow . We like the stuff that glitters
+	Free: Pattern=Uh-huh , uh-huh ., Pattern=. Oh ,, Pattern=. Yeah ., Pattern=like the, Pattern=that
+	Constrained: Pattern=Yeah ., Pattern=like, Pattern=the, Pattern=uh-huh ., Pattern=Yeah, Pattern=Uh-huh , uh-huh, Pattern=Oh ,
+Turn ID=104| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=105| B | B : Good . There's nothing wrong with that . Actually I think probably if I were going to get if I were going to be practical , which doesn't mean I would be , I would prefer white . Because , simply because it's more visible at night .
+	Free: Pattern=, I would, Pattern=probably, Pattern=if I, Pattern=practical, Pattern=I would, Pattern=I think, Pattern=to, Pattern=get, Pattern=mean, Pattern=doesn't, Pattern=with, Pattern=that, Pattern=it's
+	Constrained: Pattern=, I, Pattern=I would, Pattern=would, Pattern=I, Pattern=if
+Turn ID=106| A | A : Right , well , practical yes that's , Uh-huh . Right and it's cooler I believe , too , when you're driving in ,
+	Free: Pattern=you're, Pattern=and it's, Pattern=, well ,, Pattern=, Uh-huh ., Pattern=too, Pattern=I, Pattern=in, Pattern=practical, Pattern=that's
+	Constrained: Pattern=it's, Pattern=Uh-huh ., Pattern=and
+Turn ID=107| B | B : And , Uh-huh . Uh-huh . Now the interior , okay , I don't care about the interior just as long as it's not black or red .
+	Free: Pattern=just, Pattern=, Uh-huh ., Pattern=, okay, Pattern=, I don't, Pattern=the, Pattern=it's, Pattern=Uh-huh . Uh-huh ., Pattern=or
+	Constrained: Pattern=. Uh-huh ., Pattern=I, Pattern=don't, Pattern=Uh-huh ., Pattern=, I
+Turn ID=108| A | A : Uh-huh , uh-huh .
+	Free: Pattern=Uh-huh , uh-huh .
+	Constrained: Pattern=uh-huh ., Pattern=Uh-huh , uh-huh
+Turn ID=109| B | B : But if I had the little red C R X , I guess the interior would have to be black leather and I'd have to live with that . And if I got the C R X it would have to have a real good sound system in it because I'd want that too .
+	Free: Pattern=, I guess, Pattern=have, Pattern=got the, Pattern=too ., Pattern=But, Pattern=if I, Pattern=in, Pattern=the, Pattern=would, Pattern=to, Pattern=R, Pattern=a, Pattern=it, Pattern=and, Pattern=if I had the, Pattern=with, Pattern=that
+	Constrained: Pattern=, I, Pattern=if I, Pattern=had, Pattern=the, Pattern=got, Pattern=too, Pattern=I had, Pattern=I, Pattern=if
+Turn ID=110| A | A : Oh .
+	Free: Pattern=Oh .
+	Constrained: 
+Turn ID=111| B | B : I'd just go back to my teenage years and just throw all my experience to the wind
+	Free: Pattern=just, Pattern=go, Pattern=to the, Pattern=and, Pattern=back, Pattern=to, Pattern=my
+	Constrained: Pattern=the, Pattern=to
+Turn ID=112| A | A : Um , can you , uh , hang on again
+	Free: Pattern=, uh ,, Pattern=you ,, Pattern=on, Pattern=can
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=you
+Turn ID=113| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=114| A | A : Thanks I've got the phones for lunch hour .
+	Free: Pattern=got the, Pattern=I've, Pattern=for
+	Constrained: Pattern=the, Pattern=got
+Turn ID=115| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=116| A | A : So . Just don't mind me if I bounce back and forth .
+	Free: Pattern=me, Pattern=So, Pattern=and, Pattern=if I, Pattern=back, Pattern=don't
+	Constrained: Pattern=I, Pattern=if
+Turn ID=117| B | B : That's okay .
+	Free: Pattern=okay ., Pattern=That's
+	Constrained: 
+Turn ID=118| A | A : Um , so you like to listen to , uh , a lot of music , or do , is it talk shows .
+	Free: Pattern=you, Pattern=do, Pattern=it, Pattern=to listen to , uh ,, Pattern=is, Pattern=, or, Pattern=like to, Pattern=music ,, Pattern=a lot of
+	Constrained: Pattern=of, Pattern=, uh, Pattern=a, Pattern=listen to, Pattern=listen to ,, Pattern=listen, Pattern=or, Pattern=, uh ,, Pattern=uh ,, Pattern=music, Pattern=to ,, Pattern=like, Pattern=a lot, Pattern=to
+Turn ID=119| B | B : No , no , no . I generally would uh , prefer to listen to , uh , well , I listen to K C B I a lot but I will listen to the news and the , and the traffic and those things at work .
+	Free: Pattern=, well ,, Pattern=, I, Pattern=will, Pattern=No, Pattern=uh ,, Pattern=would, Pattern=a lot, Pattern=but, Pattern=and the, Pattern=to the, Pattern=and, Pattern=the ,, Pattern=listen to, Pattern=to listen to , uh ,, Pattern=I, Pattern=, and the, Pattern=those
+	Constrained: Pattern=, uh, Pattern=a, Pattern=and the, Pattern=I, Pattern=listen to ,, Pattern=listen, Pattern=to ,, Pattern=, uh ,, Pattern=and, Pattern=listen to, Pattern=uh ,, Pattern=the, Pattern=, and, Pattern=to
+Turn ID=120| A | A : Uh-huh , uh-huh .
+	Free: Pattern=Uh-huh , uh-huh .
+	Constrained: Pattern=uh-huh ., Pattern=Uh-huh , uh-huh
+Turn ID=121| B | B : But if I'm going to be traveling in that car for any period of time , I want some real good classical music .
+	Free: Pattern=of, Pattern=for, Pattern=if, Pattern=But, Pattern=in, Pattern=that car, Pattern=to, Pattern=time , I, Pattern=music
+	Constrained: Pattern=time, Pattern=, I, Pattern=I, Pattern=car, Pattern=that
+Turn ID=122| A | A : Uh-huh . Uh-huh .
+	Free: Pattern=Uh-huh . Uh-huh .
+	Constrained: Pattern=. Uh-huh ., Pattern=Uh-huh .
+Turn ID=123| B | B : I love classical music , and you just can't enjoy it unless you've got a good sound system to produce all the , all the characteristics of the instruments .
+	Free: Pattern=music ,, Pattern=you, Pattern=just, Pattern=a, Pattern=I, Pattern=the, Pattern=got, Pattern=of the, Pattern=it, Pattern=the ,, Pattern=, and, Pattern=to
+	Constrained: Pattern=the, Pattern=music, Pattern=and, Pattern=of
+Turn ID=124| A | A : All the , yeah . Uh-huh . That's true .
+	Free: Pattern=. Uh-huh ., Pattern=the ,, Pattern=That's
+	Constrained: Pattern=Uh-huh ., Pattern=the
+Turn ID=125| B | B : So I do love classical music or it or , or , uh , contemporary classical .
+	Free: Pattern=do, Pattern=So, Pattern=it, Pattern=I, Pattern=or, Pattern=music, Pattern=, uh ,, Pattern=, or
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=or
+Turn ID=126| A | A : Do you listen Do you listen to W R R ?
+	Free: Pattern=W R R, Pattern=listen to, Pattern=listen, Pattern=you
+	Constrained: Pattern=listen, Pattern=to, Pattern=R
+Turn ID=127| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=128| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=129| B | B : Sure do .
+	Free: Pattern=Sure, Pattern=do
+	Constrained: 
+Turn ID=130| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=131| B | B : W R R and the Oasis are the two that I listen to , more than anything else .
+	Free: Pattern=and the, Pattern=listen to ,, Pattern=the, Pattern=W R R, Pattern=that, Pattern=are, Pattern=I
+	Constrained: Pattern=R, Pattern=listen, Pattern=to ,, Pattern=the, Pattern=to, Pattern=and, Pattern=listen to
+Turn ID=132| A | A : Uh-huh . Uh-huh .
+	Free: Pattern=Uh-huh . Uh-huh .
+	Constrained: Pattern=. Uh-huh ., Pattern=Uh-huh .
+Turn ID=133| B | B : And I do like them . And I'd like to have a compact disc player in the car . That would be , something that I would really like .
+	Free: Pattern=the car, Pattern=have, Pattern=I, Pattern=in, Pattern=I would, Pattern=like to, Pattern=would, Pattern=car ., Pattern=that, Pattern=do, Pattern=a, Pattern=really, Pattern=like
+	Constrained: Pattern=I, Pattern=like, Pattern=the, Pattern=to, Pattern=car, Pattern=would
+Turn ID=134| A | A : Those are nice , aren't they ? Yes , those are nice .
+	Free: Pattern=they, Pattern=are, Pattern=Those, Pattern=Yes, Pattern=those
+	Constrained: 
+Turn ID=135| B | B : Those compact discs , really are good for cars because they don't melt ,
+	Free: Pattern=they, Pattern=for, Pattern=are, Pattern=Those, Pattern=really, Pattern=don't
+	Constrained: 
+Turn ID=136| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=137| B | B : they don't warp .
+	Free: Pattern=don't, Pattern=they
+	Constrained: 
+Turn ID=138| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=139| B | B : You know , there's nothing in there that can wrap around the , the , uh , rollers or anything . It seems like a really good answer to portable music , that you can choose .
+	Free: Pattern=that you can, Pattern=a, Pattern=the ,, Pattern=can, Pattern=, that, Pattern=in, Pattern=or, Pattern=to, Pattern=, the, Pattern=that, Pattern=music ,, Pattern=know ,, Pattern=really, Pattern=like, Pattern=You, Pattern=, uh ,
+	Constrained: Pattern=can, Pattern=know, Pattern=that you, Pattern=music, Pattern=that, Pattern=you, Pattern=, uh, Pattern=uh ,, Pattern=the
+Turn ID=140| A | A : Huh .
+	Free: 
+	Constrained: 

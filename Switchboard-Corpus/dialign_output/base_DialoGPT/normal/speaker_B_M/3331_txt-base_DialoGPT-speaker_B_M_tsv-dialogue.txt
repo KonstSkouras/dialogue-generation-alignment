@@ -1,0 +1,187 @@
+A|0| B: You were ? 
+B|1| M: _I_ _was_ . 
+A|2| B: Uh-huh . Uh-huh . 
+B|3| M: _Well_ _uh _,_ uh ,_ _you_ are _a_ woman . 
+A|4| B: _Yeah_ _. Yeah _,_ yeah ._ From _what I_ understand , _they_ act up pretty _bad_ 
+B|5| M: It's not like it's not [bad] , _you_ just _don't_ _see_ them . 
+A|6| B: What [, uh ,] grade is your daughter _in_ ? 
+B|7| M: That's not [what I] meant _, I_ mean _you_ can't really say _that_ about _a_ _school_ [in] _the_ middle _of the_ road . 
+A|8| B: Uh-huh , uh-huh . 
+B|9| M: Uh [, uh [,] uh] . 
+A|10| B: Uh-huh , uh-huh _. Yeah_ . 
+B|11| M: I'm sorry , I'm sorry . I'm not sorry . 
+A|12| B: _Oh_ , no , uh-huh . They always had [a] paddle [in] our _school ._ 
+B|13| M: Uhh [, uh [,] uh] . Uh [, uh] 
+A|14| B: [I] _know ._ 
+B|15| M: Uhh [, uh [,] uh] ... [yeah] [, uh] . 
+A|16| B: Uh-huh _. Yeah _,_ yeah ._ 
+B|17| M: So [, uh [,] uh] [. Yeah [,] uh] ... [yeah] [, uh] 
+A|18| B: Uh-huh , uh-huh . Uh-huh . 
+B|19| M: Ohhhh [, uh [,] yeah] [, yeah .] 
+A|20| B: [Yeah] . Wasn't [that] [what] part [of the] lottery is going to go for , if we approve _it_ ? 
+B|21| M:  
+A|22| B: Uh-huh . 
+B|23| M: _I think_ that's [the] point [of the] draft 
+A|24| B: Uh-huh . 
+B|25| M: _I don't_ really care . 
+A|26| B: Uh-huh . No . Really ? 
+B|27| M: Uh [uh] [uh] [uh] 
+A|28| B: Ooh . 
+B|29| M: [Oh] [yeah] [, uh _,] I think_ you're right . 
+A|30| B: Uh-huh . 
+B|31| M: Oooh . Uh . 
+A|32| B: Uh-huh . Um . 
+B|33| M: _Well _,_ I_ can't say I'm very impressed by [the] quality [of the] high [school] students , but it's [a] [school .] 
+A|34| B: [Oh] [, I] _do_ too [, I think] they're doing real good job . 
+B|35| M: [I think] [they] [do] . 
+A|36| B: But , _then_ , [what] [do] [I] _know [,_ [I] don't] have any kids . No , none at all 
+B|37| M: [I don't] [know ,] I'm not sure . 
+A|38| B: [Oh] [, yeah] 
+B|39| M: _Well ,_ it's [a] thing _you_ [know .] 
+A|40| B: Okay . 
+B|41| M: I'm not . 
+A|42| B: [Well ,] _it_ [was] good talking to [you] too . 
+B|43| M: I'm glad [you] liked [it] . 
+A|44| B: We'll [see] [you] , bye-bye . 
+B|45| M: Alright [then] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : You were ?
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I was .
+	Free: Pattern=was, Pattern=I
+	Constrained: 
+Turn ID=2| A | B : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : Well uh , uh , you are a woman .
+	Free: Pattern=you, Pattern=a, Pattern=Well, Pattern=, uh ,, Pattern=uh ,
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=uh
+Turn ID=4| A | B : Yeah . Yeah , yeah . From what I understand , they act up pretty bad
+	Free: Pattern=bad, Pattern=. Yeah ,, Pattern=they, Pattern=what I, Pattern=, yeah ., Pattern=Yeah
+	Constrained: Pattern=. Yeah, Pattern=what, Pattern=yeah, Pattern=I, Pattern=, yeah, Pattern=Yeah
+Turn ID=5| B | M : It's not like it's not bad , you just don't see them .
+	Free: Pattern=see, Pattern=bad, Pattern=don't, Pattern=you
+	Constrained: 
+Turn ID=6| A | B : What , uh , grade is your daughter in ?
+	Free: Pattern=, uh ,, Pattern=in
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=uh
+Turn ID=7| B | M : That's not what I meant , I mean you can't really say that about a school in the middle of the road .
+	Free: Pattern=you, Pattern=what I, Pattern=in, Pattern=the, Pattern=, I, Pattern=a, Pattern=of the, Pattern=that, Pattern=school
+	Constrained: Pattern=the, Pattern=what, Pattern=I
+Turn ID=8| A | B : Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : Uh , uh , uh .
+	Free: Pattern=, uh ,, Pattern=, uh
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=uh
+Turn ID=10| A | B : Uh-huh , uh-huh . Yeah .
+	Free: Pattern=. Yeah
+	Constrained: Pattern=Yeah
+Turn ID=11| B | M : I'm sorry , I'm sorry . I'm not sorry .
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Oh , no , uh-huh . They always had a paddle in our school .
+	Free: Pattern=school ., Pattern=a, Pattern=Oh, Pattern=in
+	Constrained: Pattern=school
+Turn ID=13| B | M : Uhh , uh , uh . Uh , uh
+	Free: Pattern=, uh ,, Pattern=, uh
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=uh
+Turn ID=14| A | B : I know .
+	Free: Pattern=know ., Pattern=I
+	Constrained: 
+Turn ID=15| B | M : Uhh , uh , uh ... yeah , uh .
+	Free: Pattern=, uh ,, Pattern=, uh, Pattern=yeah
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=uh
+Turn ID=16| A | B : Uh-huh . Yeah , yeah .
+	Free: Pattern=. Yeah ,, Pattern=, yeah .
+	Constrained: Pattern=, yeah, Pattern=. Yeah, Pattern=Yeah, Pattern=yeah
+Turn ID=17| B | M : So , uh , uh . Yeah , uh ... yeah , uh
+	Free: Pattern=. Yeah ,, Pattern=, uh ,, Pattern=, uh, Pattern=yeah
+	Constrained: Pattern=. Yeah, Pattern=uh ,, Pattern=Yeah, Pattern=uh, Pattern=, uh
+Turn ID=18| A | B : Uh-huh , uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : Ohhhh , uh , yeah , yeah .
+	Free: Pattern=, yeah ., Pattern=, uh ,, Pattern=, yeah
+	Constrained: Pattern=yeah, Pattern=, yeah, Pattern=uh ,, Pattern=uh, Pattern=, uh
+Turn ID=20| A | B : Yeah . Wasn't that what part of the lottery is going to go for , if we approve it ?
+	Free: Pattern=what, Pattern=it, Pattern=Yeah, Pattern=of the, Pattern=that
+	Constrained: Pattern=the
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : I think that's the point of the draft
+	Free: Pattern=I think, Pattern=of the, Pattern=the
+	Constrained: Pattern=the, Pattern=I
+Turn ID=24| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I don't really care .
+	Free: Pattern=I don't
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=26| A | B : Uh-huh . No . Really ?
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : Uh uh uh uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=28| A | B : Ooh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : Oh yeah , uh , I think you're right .
+	Free: Pattern=, I think, Pattern=, uh ,, Pattern=Oh, Pattern=yeah
+	Constrained: Pattern=, I, Pattern=I, Pattern=I think, Pattern=uh ,, Pattern=uh, Pattern=, uh
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : Oooh . Uh .
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : Uh-huh . Um .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : Well , I can't say I'm very impressed by the quality of the high school students , but it's a school .
+	Free: Pattern=Well ,, Pattern=the, Pattern=school ., Pattern=, I, Pattern=a, Pattern=of the, Pattern=school
+	Constrained: Pattern=the, Pattern=Well, Pattern=school, Pattern=I
+Turn ID=34| A | B : Oh , I do too , I think they're doing real good job .
+	Free: Pattern=, I think, Pattern=, I, Pattern=Oh, Pattern=do
+	Constrained: Pattern=I think, Pattern=, I, Pattern=I
+Turn ID=35| B | M : I think they do .
+	Free: Pattern=I think, Pattern=do, Pattern=they
+	Constrained: Pattern=I
+Turn ID=36| A | B : But , then , what do I know , I don't have any kids . No , none at all
+	Free: Pattern=know ,, Pattern=what, Pattern=I, Pattern=I don't, Pattern=do, Pattern=then, Pattern=, I
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=37| B | M : I don't know , I'm not sure .
+	Free: Pattern=know ,, Pattern=I don't
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=38| A | B : Oh , yeah
+	Free: Pattern=, yeah, Pattern=Oh
+	Constrained: Pattern=yeah
+Turn ID=39| B | M : Well , it's a thing you know .
+	Free: Pattern=know ., Pattern=Well ,, Pattern=a, Pattern=you
+	Constrained: Pattern=Well
+Turn ID=40| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : I'm not .
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : Well , it was good talking to you too .
+	Free: Pattern=Well ,, Pattern=it, Pattern=was, Pattern=you
+	Constrained: Pattern=Well
+Turn ID=43| B | M : I'm glad you liked it .
+	Free: Pattern=it, Pattern=you
+	Constrained: 
+Turn ID=44| A | B : We'll see you , bye-bye .
+	Free: Pattern=see, Pattern=you
+	Constrained: 
+Turn ID=45| B | M : Alright then .
+	Free: Pattern=then
+	Constrained: 

@@ -1,0 +1,199 @@
+A|0| B: Uh-huh . 
+B|1| M: _I think_ _you_ _have a_ weird fixation _on_ _them ._ 
+A|2| B: Oh . 
+B|3| M: he's _a_ redditor . 
+A|4| B: Well _I [have_ a] bunch _of_ _computer_ journals because _I'm_ _in_ _computer_ science 
+B|5| M: Why _are_ _you_ _so_ awesome ? 
+A|6| B: _but_ beyond that , uh , lately _I've_ _been_ reading , _I've always_ liked _the_ NEW YORKER . 
+B|7| M: _Yeah_ _, you_ _do ._ 
+A|8| B: my wife _also_ gets _a lot _of_ the_ _food magazines ._ BON APPETITE _, and_ FOOD AND WINE _and_ GOURMET . 
+B|9| M: [I've always] [been] interested [in] [food magazines .] 
+A|10| B: [Yeah] . And _she_ still _likes to_ get TIME which [I've] never liked very much 
+B|11| M: yeah [she] [likes to] eat . 
+A|12| B: _but_ [she] seems [to] . 
+B|13| M: _I like_ her . 
+A|14| B: Do [you] _read a_ newspaper ? 
+B|15| M: [I] [read [a] lot of] newspapers , [but] [I'm] _not_ _one _of_ them ._ 
+A|16| B: [Yeah] . larger _computer_ _ones_ . 
+B|17| M: Like [a] [computer] ? 
+A|18| B: [I] haven't bought _it_ now for about eight years . But _when_ [I] used [to] get _it_ , _it_ was about five hundred pages , about three hundred [of them] advertising . 
+B|19| M: [I have] [it] _on_ [a] [computer] [, _and] it's_ pretty great . 
+A|20| B: That , that _half_ _the fun_ is finding out what all _the_ products [are] . 
+B|21| M: _I think_ [you] mean [the] [half] [of [the] fun] . 
+A|22| B: But [, you] know , some [of the] get ridiculous . TRAVEL AND LEISURE , all [of the] AMERICAN EXPRESS [magazines] 
+B|23| M: [Yeah] , [but] _they're_ [also] [the] [ones] _who_ [read] [the] _articles_ . 
+A|24| B: [so] TRAVEL AND LEISURE , FOOD AND WINE _and [I_ think] _they_ [have] some others , uh , certainly [half] [the] pages [and] maybe _more_ [are] pure ads plus _they_ [have] [the] advertising supplement sections that [are] supposed [to] look [like] [articles] [but] [are] paid for [and] _they_ _don't_ care if _they_ make _any_ money [on] [the] _magazine_ subscription , [they're] making everything [on] ads . 
+B|25| M:  ... 
+A|26| B: Uh-huh . Have [you] ever , uh , [read] or subscribe [to] CONSUMER REPORTS for _any_ length [of] time ? 
+B|27| M: _not_ . 
+A|28| B: But [not] worth _it ._ 
+B|29| M: ' . 
+A|30| B: _I ,_ [I've always] had this , [one [of] the] reasons [I like] just [to] pick up [magazines] [in] other fields is that [you] seem [to] get [a] very different perspective . 
+B|31| M: _I , [I_ ,] [I'm] [not] sure . 
+A|32| B: So [I've always] had this problem _with_ CONSUMER REPORTS that [in] [the] areas that [I] know [a lot] about [, I] _disagree with_ [them .] 
+B|33| M: [I've always] found [the] gun [magazines] [to] be [a lot] [more] comfortable [to] hold than [the] [magazines] themselves . 
+A|34| B: And _I always_ wonder whether there [are] _people_ [who] know [a lot] about every area disagreeing _with_ [them] [on] everything , or , or _what's_ going [on] 
+B|35| M: Umm ... [and [I] always] [think] _it's_ funny [when] [people] say [they] [disagree with] me . 
+A|36| B: So [I ,] [like] [I've] picked up now [a] subscription [to] [one [of] the] travel agent , uh , organization [magazines] [and it's] [a] ridiculous difference [when] [you] start reading from their perspective . Uh [, you] know , their major interest is [in] commissions [and] [, you] know , there's very little talk about [the] quality [of] places or airlines . Their major talk is about [, you] know , commissions [and] commission rebates [and] how [they] won't suggest hotels [to] [people] if [the] commission's [not] [a] , [the] full ten percent or whatever [it] is [and] [it] gives [you] [a] different perspective [on] what [people] [do .] 
+B|37| M:  
+A|38| B: Uh , some [of them .] The , [the] general travel [magazines] [do .] 
+B|39| M: i 
+A|40| B: But [I , I] usually just [read] through [the] sections [on] , [on] domestic stuff . 
+B|41| M: Huh [, you] 
+A|42| B: No . 
+B|43| M: Uhh , [what's] your favorite [magazine] ? 
+A|44| B: [Yeah] . _I don't_ _take_ much [more] [in] myself . 
+B|45| M: You [take] [any] [magazines] ? 
+A|46| B: Okay . 
+B|47| M: [I don't] need [it .] 
+A|48| B: Okay , nice talking [to] [you] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I think you have a weird fixation on them .
+	Free: Pattern=you, Pattern=have a, Pattern=them ., Pattern=I think, Pattern=on
+	Constrained: Pattern=have, Pattern=a, Pattern=I, Pattern=think, Pattern=them
+Turn ID=2| A | B : Oh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : he's a redditor .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=4| A | B : Well I have a bunch of computer journals because I'm in computer science
+	Free: Pattern=of, Pattern=I'm, Pattern=have a, Pattern=in, Pattern=computer, Pattern=I have
+	Constrained: Pattern=I, Pattern=have, Pattern=a
+Turn ID=5| B | M : Why are you so awesome ?
+	Free: Pattern=so, Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=6| A | B : but beyond that , uh , lately I've been reading , I've always liked the NEW YORKER .
+	Free: Pattern=I've, Pattern=I've always, Pattern=the, Pattern=been, Pattern=but
+	Constrained: Pattern=I've
+Turn ID=7| B | M : Yeah , you do .
+	Free: Pattern=do ., Pattern=, you, Pattern=Yeah
+	Constrained: Pattern=you
+Turn ID=8| A | B : my wife also gets a lot of the food magazines . BON APPETITE , and FOOD AND WINE and GOURMET .
+	Free: Pattern=a lot of, Pattern=and, Pattern=also, Pattern=, and, Pattern=of the, Pattern=food magazines .
+	Constrained: Pattern=magazines, Pattern=of, Pattern=a, Pattern=and, Pattern=the, Pattern=a lot
+Turn ID=9| B | M : I've always been interested in food magazines .
+	Free: Pattern=food magazines ., Pattern=I've always, Pattern=in, Pattern=been
+	Constrained: Pattern=I've, Pattern=magazines
+Turn ID=10| A | B : Yeah . And she still likes to get TIME which I've never liked very much
+	Free: Pattern=likes to, Pattern=she, Pattern=I've, Pattern=Yeah
+	Constrained: Pattern=to
+Turn ID=11| B | M : yeah she likes to eat .
+	Free: Pattern=likes to, Pattern=she
+	Constrained: Pattern=to
+Turn ID=12| A | B : but she seems to .
+	Free: Pattern=she, Pattern=but, Pattern=to
+	Constrained: 
+Turn ID=13| B | M : I like her .
+	Free: Pattern=I like
+	Constrained: Pattern=like, Pattern=I
+Turn ID=14| A | B : Do you read a newspaper ?
+	Free: Pattern=read a, Pattern=you
+	Constrained: Pattern=read, Pattern=a
+Turn ID=15| B | M : I read a lot of newspapers , but I'm not one of them .
+	Free: Pattern=a lot of, Pattern=I'm, Pattern=I, Pattern=read a, Pattern=of them ., Pattern=one of, Pattern=but, Pattern=not
+	Constrained: Pattern=of, Pattern=a, Pattern=of them, Pattern=them ., Pattern=a lot, Pattern=read, Pattern=them
+Turn ID=16| A | B : Yeah . larger computer ones .
+	Free: Pattern=ones, Pattern=Yeah, Pattern=computer
+	Constrained: 
+Turn ID=17| B | M : Like a computer ?
+	Free: Pattern=a, Pattern=computer
+	Constrained: 
+Turn ID=18| A | B : I haven't bought it now for about eight years . But when I used to get it , it was about five hundred pages , about three hundred of them advertising .
+	Free: Pattern=of them, Pattern=it, Pattern=I, Pattern=when, Pattern=to
+	Constrained: Pattern=them, Pattern=of
+Turn ID=19| B | M : I have it on a computer , and it's pretty great .
+	Free: Pattern=and it's, Pattern=a, Pattern=it, Pattern=computer, Pattern=I have, Pattern=on, Pattern=, and
+	Constrained: Pattern=I, Pattern=and, Pattern=have, Pattern=it's
+Turn ID=20| A | B : That , that half the fun is finding out what all the products are .
+	Free: Pattern=the fun, Pattern=the, Pattern=are, Pattern=half
+	Constrained: Pattern=the
+Turn ID=21| B | M : I think you mean the half of the fun .
+	Free: Pattern=you, Pattern=I think, Pattern=the, Pattern=the fun, Pattern=half, Pattern=of the
+	Constrained: Pattern=I, Pattern=think, Pattern=of, Pattern=the
+Turn ID=22| A | B : But , you know , some of the get ridiculous . TRAVEL AND LEISURE , all of the AMERICAN EXPRESS magazines
+	Free: Pattern=of the, Pattern=, you, Pattern=magazines
+	Constrained: Pattern=the, Pattern=you, Pattern=of
+Turn ID=23| B | M : Yeah , but they're also the ones who read the articles .
+	Free: Pattern=who, Pattern=ones, Pattern=articles, Pattern=they're, Pattern=also, Pattern=the, Pattern=but, Pattern=Yeah, Pattern=read
+	Constrained: 
+Turn ID=24| A | B : so TRAVEL AND LEISURE , FOOD AND WINE and I think they have some others , uh , certainly half the pages and maybe more are pure ads plus they have the advertising supplement sections that are supposed to look like articles but are paid for and they don't care if they make any money on the magazine subscription , they're making everything on ads .
+	Free: Pattern=more, Pattern=have, Pattern=they, Pattern=any, Pattern=are, Pattern=they're, Pattern=like, Pattern=I think, Pattern=to, Pattern=half, Pattern=but, Pattern=so, Pattern=and I, Pattern=and, Pattern=articles, Pattern=on, Pattern=the, Pattern=magazine, Pattern=don't
+	Constrained: Pattern=I, Pattern=think, Pattern=and
+Turn ID=25| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : Uh-huh . Have you ever , uh , read or subscribe to CONSUMER REPORTS for any length of time ?
+	Free: Pattern=of, Pattern=you, Pattern=any, Pattern=to, Pattern=read
+	Constrained: 
+Turn ID=27| B | M : not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=28| A | B : But not worth it .
+	Free: Pattern=it ., Pattern=not
+	Constrained: Pattern=it
+Turn ID=29| B | M : ' .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : I , I've always had this , one of the reasons I like just to pick up magazines in other fields is that you seem to get a very different perspective .
+	Free: Pattern=magazines, Pattern=I ,, Pattern=you, Pattern=a, Pattern=I've always, Pattern=to, Pattern=one of, Pattern=of the, Pattern=I like, Pattern=in
+	Constrained: Pattern=of, Pattern=I've, Pattern=I, Pattern=like, Pattern=the
+Turn ID=31| B | M : I , I , I'm not sure .
+	Free: Pattern=I , I, Pattern=I ,, Pattern=not, Pattern=I'm
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=I
+Turn ID=32| A | B : So I've always had this problem with CONSUMER REPORTS that in the areas that I know a lot about , I disagree with them .
+	Free: Pattern=, I, Pattern=I've always, Pattern=I, Pattern=them ., Pattern=in, Pattern=the, Pattern=with, Pattern=a lot, Pattern=disagree with
+	Constrained: Pattern=I've, Pattern=a, Pattern=I, Pattern=with, Pattern=them
+Turn ID=33| B | M : I've always found the gun magazines to be a lot more comfortable to hold than the magazines themselves .
+	Free: Pattern=magazines, Pattern=more, Pattern=I've always, Pattern=the, Pattern=a lot, Pattern=to
+	Constrained: Pattern=I've, Pattern=a
+Turn ID=34| A | B : And I always wonder whether there are people who know a lot about every area disagreeing with them on everything , or , or what's going on
+	Free: Pattern=people, Pattern=who, Pattern=are, Pattern=I always, Pattern=what's, Pattern=on, Pattern=a lot, Pattern=with, Pattern=them
+	Constrained: Pattern=I, Pattern=a
+Turn ID=35| B | M : Umm ... and I always think it's funny when people say they disagree with me .
+	Free: Pattern=people, Pattern=they, Pattern=I always, Pattern=think, Pattern=when, Pattern=disagree with, Pattern=it's, Pattern=and I
+	Constrained: Pattern=with, Pattern=I, Pattern=and
+Turn ID=36| A | B : So I , like I've picked up now a subscription to one of the travel agent , uh , organization magazines and it's a ridiculous difference when you start reading from their perspective . Uh , you know , their major interest is in commissions and , you know , there's very little talk about the quality of places or airlines . Their major talk is about , you know , commissions and commission rebates and how they won't suggest hotels to people if the commission's not a , the full ten percent or whatever it is and it gives you a different perspective on what people do .
+	Free: Pattern=magazines, Pattern=I ,, Pattern=of, Pattern=you, Pattern=people, Pattern=they, Pattern=a, Pattern=do ., Pattern=in, Pattern=, you, Pattern=like, Pattern=when, Pattern=to, Pattern=one of, Pattern=of the, Pattern=not, Pattern=I've, Pattern=and it's, Pattern=it, Pattern=and, Pattern=on, Pattern=the
+	Constrained: Pattern=of, Pattern=you, Pattern=and, Pattern=I, Pattern=the, Pattern=it's
+Turn ID=37| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : Uh , some of them . The , the general travel magazines do .
+	Free: Pattern=of them ., Pattern=do ., Pattern=the, Pattern=magazines
+	Constrained: Pattern=of them, Pattern=them ., Pattern=them, Pattern=of
+Turn ID=39| B | M : i
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : But I , I usually just read through the sections on , on domestic stuff .
+	Free: Pattern=I , I, Pattern=the, Pattern=on, Pattern=read
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=I
+Turn ID=41| B | M : Huh , you
+	Free: Pattern=, you
+	Constrained: Pattern=you
+Turn ID=42| A | B : No .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : Uhh , what's your favorite magazine ?
+	Free: Pattern=magazine, Pattern=what's
+	Constrained: 
+Turn ID=44| A | B : Yeah . I don't take much more in myself .
+	Free: Pattern=more, Pattern=I don't, Pattern=in, Pattern=take, Pattern=Yeah
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=45| B | M : You take any magazines ?
+	Free: Pattern=take, Pattern=any, Pattern=magazines
+	Constrained: 
+Turn ID=46| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : I don't need it .
+	Free: Pattern=I don't, Pattern=it .
+	Constrained: Pattern=I, Pattern=don't, Pattern=it
+Turn ID=48| A | B : Okay , nice talking to you .
+	Free: Pattern=you, Pattern=to
+	Constrained: 

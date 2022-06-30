@@ -1,0 +1,79 @@
+A|0| A: _Yeah ._ 
+B|1| B: So _that's_ make _up_ most _of the_ laboratory _so_ _from_ _, from_ _that_ standpoint _, it's_ pretty small _it's_ pretty small . 
+A|2| A: _Well ,_ 
+B|3| B: [Yeah .] I'll bet they're involved . [Yeah .] 
+A|4| A: Oh , dear . 
+B|5| B: _You know_ . Because _it's_ _not_ _a_ person's fault _that_ , _you_ _know_ , people _not_ buying _or_ businesses are , are _not_ on _the_ _up_ _and_ _up_ all _the_ time , _you_ _know_ . _I_ don't see how _one_ _or_ two people , maybe more _one_ _or_ two , _but_ , _you_ _know_ _, a_ number _of_ people _can_ , _can_ be _the_ downfall _of_ _a_ company situation . 
+A|6| A: [Yeah] _, I_ do too . _Well _,_ It's_ _been_ good talking with [you] . 
+B|7| B: [I] would say . 
+A|8| A: [You] [can] borrow [the] money _to_ pay _somebody_ else _to_ build your house [but] [you] can't borrow [the] money _to_ build your own . 
+B|9| B: [Well _,] uh ,_ we live in _a_ _, a_ brick home in far north Dallas _and_ _it's_ _, uh ,_ four bedrooms _and_ three _and_ _a_ half baths _and_ swimming pool in [the] back _and_ [, It's] _about_ thirty-five hundred square feet . 
+A|10| A: [Well ,] [that's] [not] what [I] heard [, from] [one] [of] , _somebody_ [that] was supposed _to_ [know] what they were talking [about] . 
+B|11| B: [I] don't guess I've ever [been] [to] anything _like_ [that] _so_ [, I] really don't have anything [to] compare _it_ [to] . 
+A|12| A: Um , [so] [you] [like] [to] listen [to] [, uh [,] a] lot [of] music , [or] do , is [it] talk shows . 
+B|13| B: So you'd , you'd rather see [it] harder [to] convict [somebody] . 
+A|14| A: [I] mean , I'm [not] kidding [you] . 
+B|15| B: Uh , _and_ [that] probably gives us [a] better insight as [to] [the] city [of] Raleigh than , than [the] paper would have anyway . 
+A|16| A: [Yeah .] 
+B|17| B: Uh-huh . [Yeah .] 
+A|18| A: [and] I'm [, I] , [that's] fine with me . my fiancee [and] [I] both figure [that's] what's , we're going [to] end [up] with both [of the] parents [or] whoever . If [You know] what [I] mean ? We feel [like] [, it's] our responsibility , 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=1| B | B : So that's make up most of the laboratory so from , from that standpoint , it's pretty small it's pretty small .
+	Free: Pattern=from, Pattern=, it's, Pattern=, from, Pattern=that's, Pattern=up, Pattern=so, Pattern=of the, Pattern=that, Pattern=it's
+	Constrained: Pattern=it's, Pattern=from, Pattern=the, Pattern=of
+Turn ID=2| A | A : Well ,
+	Free: Pattern=Well ,
+	Constrained: 
+Turn ID=3| B | B : Yeah . I'll bet they're involved . Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=4| A | A : Oh , dear .
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : You know . Because it's not a person's fault that , you know , people not buying or businesses are , are not on the up and up all the time , you know . I don't see how one or two people , maybe more one or two , but , you know , a number of people can , can be the downfall of a company situation .
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=and, Pattern=can, Pattern=know, Pattern=, a, Pattern=or, Pattern=up, Pattern=not, Pattern=one, Pattern=I, Pattern=You know, Pattern=the, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=know, Pattern=You, Pattern=a
+Turn ID=6| A | A : Yeah , I do too . Well , It's been good talking with you .
+	Free: Pattern=you, Pattern=, I, Pattern=Well ,, Pattern=, It's, Pattern=Yeah, Pattern=been
+	Constrained: Pattern=I
+Turn ID=7| B | B : I would say .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=8| A | A : You can borrow the money to pay somebody else to build your house but you can't borrow the money to build your own .
+	Free: Pattern=you, Pattern=somebody, Pattern=can, Pattern=You, Pattern=the, Pattern=to, Pattern=but
+	Constrained: 
+Turn ID=9| B | B : Well , uh , we live in a , a brick home in far north Dallas and it's , uh , four bedrooms and three and a half baths and swimming pool in the back and , It's about thirty-five hundred square feet .
+	Free: Pattern=a, Pattern=and, Pattern=about, Pattern=Well ,, Pattern=, a, Pattern=, uh ,, Pattern=the, Pattern=, It's, Pattern=it's
+	Constrained: Pattern=a
+Turn ID=10| A | A : Well , that's not what I heard , from one of , somebody that was supposed to know what they were talking about .
+	Free: Pattern=of, Pattern=somebody, Pattern=about, Pattern=Well ,, Pattern=that's, Pattern=to, Pattern=that, Pattern=not, Pattern=one, Pattern=I, Pattern=know, Pattern=, from
+	Constrained: Pattern=from
+Turn ID=11| B | B : I don't guess I've ever been to anything like that so , I really don't have anything to compare it to .
+	Free: Pattern=, I, Pattern=it, Pattern=I, Pattern=like, Pattern=to, Pattern=been, Pattern=that, Pattern=so
+	Constrained: Pattern=I
+Turn ID=12| A | A : Um , so you like to listen to , uh , a lot of music , or do , is it talk shows .
+	Free: Pattern=of, Pattern=you, Pattern=it, Pattern=, a, Pattern=like, Pattern=or, Pattern=, uh ,, Pattern=to, Pattern=so
+	Constrained: Pattern=a
+Turn ID=13| B | B : So you'd , you'd rather see it harder to convict somebody .
+	Free: Pattern=somebody, Pattern=it, Pattern=to
+	Constrained: 
+Turn ID=14| A | A : I mean , I'm not kidding you .
+	Free: Pattern=I, Pattern=you, Pattern=not
+	Constrained: 
+Turn ID=15| B | B : Uh , and that probably gives us a better insight as to the city of Raleigh than , than the paper would have anyway .
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=the, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=16| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=17| B | B : Uh-huh . Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=18| A | A : and I'm , I , that's fine with me . my fiancee and I both figure that's what's , we're going to end up with both of the parents or whoever . If You know what I mean ? We feel like , it's our responsibility ,
+	Free: Pattern=, I, Pattern=and, Pattern=I, Pattern=, it's, Pattern=like, Pattern=or, Pattern=of the, Pattern=You know, Pattern=that's, Pattern=up, Pattern=to
+	Constrained: Pattern=of, Pattern=I, Pattern=know, Pattern=You, Pattern=the, Pattern=it's

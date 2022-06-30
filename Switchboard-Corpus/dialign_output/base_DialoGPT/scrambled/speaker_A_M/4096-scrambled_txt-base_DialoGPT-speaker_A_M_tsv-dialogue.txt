@@ -1,0 +1,163 @@
+A|0| A: Okay . 
+B|1| M: _And _,_ uh ,_ _if_ _you_ 
+A|2| A: That _would be_ fair . 
+B|3| M: I'm curious _about_ _the_ reason why _it was_ done , _like_ _the_ _people_ who had _the_ money 
+A|4| A: _Well ,_ _not_ really . _It's_ [, uh ,] it's on [the] side of _a_ hill . 
+B|5| M: How _about_ an R8 ? 
+A|6| A: Exactly . 
+B|7| M: _Do_ _you_ want _to_ cook ? 
+A|8| A: _in_ , _in the_ whole scope of things this isn't going [to] , _to have_ any real affect on , what's going on _in the_ street . 
+B|9| M: You're . 
+A|10| A: No , actually _I_ paid [about] either _a_ thousand dollars or _a_ little bit , no _maybe_ [it was] [about] _a_ thousand dollars _, maybe_ _a_ little bit less , _I don't_ really remember , for ten days including all my meals , _a_ guide , _a_ car , [the] airfare and , but this _is_ from Hong Kong , 
+B|11| M: [Well _,] they_ are 
+A|12| A: Huh . Uh-huh . 
+B|13| M: [It's] Sunday morning [in] New England . 
+A|14| A: Right . Huh . [And ,] of course , _I_ doubt [if] there's any , _you can_ buy regular anymore . _You_ buy unleaded . Right ? 
+B|15| M: [I] [have] [a] son . He's _out_ . 
+A|16| A: and that got [to] _be_ somewhat expensive , _so_ [I] [I] _think_ _one_ of [the] benefits [I] , [I] see _is_ [the] [, uh ,] _is_ [the] group [, uh ,] group discount . 
+B|17| M: What [is] [it] ? 
+A|18| A: Uh-huh , [it] sure _would_ . It _would_ _have to_ _be_ [a] lot of , [you] know , thought given [to] something [like] that , [I] _would_ _think_ . 
+B|19| M: I've been [to] Detroit [a] few times . 
+A|20| A: [Do] what now ? 
+B|21| M: [You] [have to] ask [the] question . 
+A|22| A: Yeah . This [is] , 
+B|23| M: _They_ [would be] [in the] hospital . 
+A|24| A: [I] just , [I] go hysterical when [they] _don't_ come home . 
+B|25| M: He's [a] professor . 
+A|26| A: That's [a] good idea . We ought [to] , Yeah , and _maybe_ when [the] other brothers and sisters retire or whatever , _I don't_ know what they're going [to] do . [It's] really _not_ my family . [It's] my fiancee's _so_ _I don't_ , [I] can't say much . 
+B|27| M: [You] could also use [a] tape recorder [, maybe] . 
+A|28| A: We found this _one_ area that doesn't [have] mosquitoes . [They] just _don't_ [have] them and it's just wonderful _not_ [to] [be] bugged all night long with [a] humming mosquito at your ear , 
+B|29| M: Uh [, uh _,] yeah_ . 
+A|30| A: Yes [, yeah] 
+B|31| M: [I don't] [think] [so] . 
+A|32| A: Because we [have] , [you] know , everywhere that [a] tree [is] down [people] need help and , we're all , all , [a] lot of older folks need help getting , their yards cleaned [out] because [they] can't afford [to] pay anyone 
+B|33| M: Hmmmmmm ... [I] [have] two . 
+A|34| A: but then when [I] travel [it] [is] [a] little different situation . 
+B|35| M: [And] [the] [one] [you can] choose [to have] . 
+A|36| A: and , [you] know [, they] were newly built and [they] were sort of [the] lower end of [the] top of [the] line , hotels , because [they] said [you] can't stay [in the] cheap stuff . 
+B|37| M: [It's] [not] . 
+A|38| A: Of course , [you] know , [it] [is] [so] weird , cause no [one] will ever really know , it's , [it] , [so] but it's entertaining and [it] makes [you] [think] [about] things . 
+B|39| M: Nope . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Okay .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : And , uh , if you
+	Free: Pattern=, uh ,, Pattern=And ,, Pattern=if, Pattern=you
+	Constrained: Pattern=And
+Turn ID=2| A | A : That would be fair .
+	Free: Pattern=would be
+	Constrained: Pattern=be, Pattern=would
+Turn ID=3| B | M : I'm curious about the reason why it was done , like the people who had the money
+	Free: Pattern=it was, Pattern=people, Pattern=about, Pattern=like, Pattern=the
+	Constrained: Pattern=it
+Turn ID=4| A | A : Well , not really . It's , uh , it's on the side of a hill .
+	Free: Pattern=a, Pattern=Well ,, Pattern=, uh ,, Pattern=not, Pattern=It's, Pattern=the
+	Constrained: 
+Turn ID=5| B | M : How about an R8 ?
+	Free: Pattern=about
+	Constrained: 
+Turn ID=6| A | A : Exactly .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : Do you want to cook ?
+	Free: Pattern=Do, Pattern=you, Pattern=to
+	Constrained: 
+Turn ID=8| A | A : in , in the whole scope of things this isn't going to , to have any real affect on , what's going on in the street .
+	Free: Pattern=in the, Pattern=to have, Pattern=in, Pattern=to
+	Constrained: Pattern=in, Pattern=to, Pattern=the, Pattern=have
+Turn ID=9| B | M : You're .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : No , actually I paid about either a thousand dollars or a little bit , no maybe it was about a thousand dollars , maybe a little bit less , I don't really remember , for ten days including all my meals , a guide , a car , the airfare and , but this is from Hong Kong ,
+	Free: Pattern=it was, Pattern=, maybe, Pattern=a, Pattern=I, Pattern=is, Pattern=the, Pattern=maybe, Pattern=I don't, Pattern=about
+	Constrained: Pattern=maybe, Pattern=it, Pattern=I, Pattern=don't
+Turn ID=11| B | M : Well , they are
+	Free: Pattern=, they, Pattern=Well ,
+	Constrained: Pattern=they
+Turn ID=12| A | A : Huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : It's Sunday morning in New England .
+	Free: Pattern=in, Pattern=It's
+	Constrained: 
+Turn ID=14| A | A : Right . Huh . And , of course , I doubt if there's any , you can buy regular anymore . You buy unleaded . Right ?
+	Free: Pattern=you can, Pattern=You, Pattern=And ,, Pattern=I, Pattern=if
+	Constrained: Pattern=you, Pattern=And
+Turn ID=15| B | M : I have a son . He's out .
+	Free: Pattern=I, Pattern=a, Pattern=out, Pattern=have
+	Constrained: 
+Turn ID=16| A | A : and that got to be somewhat expensive , so I I think one of the benefits I , I see is the , uh , is the group , uh , group discount .
+	Free: Pattern=think, Pattern=is, Pattern=the, Pattern=to, Pattern=so, Pattern=one, Pattern=I, Pattern=, uh ,, Pattern=be
+	Constrained: 
+Turn ID=17| B | M : What is it ?
+	Free: Pattern=is, Pattern=it
+	Constrained: 
+Turn ID=18| A | A : Uh-huh , it sure would . It would have to be a lot of , you know , thought given to something like that , I would think .
+	Free: Pattern=you, Pattern=a, Pattern=it, Pattern=I, Pattern=think, Pattern=like, Pattern=be, Pattern=to, Pattern=would, Pattern=have to
+	Constrained: Pattern=to, Pattern=have
+Turn ID=19| B | M : I've been to Detroit a few times .
+	Free: Pattern=to, Pattern=a
+	Constrained: 
+Turn ID=20| A | A : Do what now ?
+	Free: Pattern=Do
+	Constrained: 
+Turn ID=21| B | M : You have to ask the question .
+	Free: Pattern=have to, Pattern=the, Pattern=You
+	Constrained: Pattern=to, Pattern=have
+Turn ID=22| A | A : Yeah . This is ,
+	Free: Pattern=is
+	Constrained: 
+Turn ID=23| B | M : They would be in the hospital .
+	Free: Pattern=would be, Pattern=in the, Pattern=They
+	Constrained: Pattern=in, Pattern=be, Pattern=the, Pattern=would
+Turn ID=24| A | A : I just , I go hysterical when they don't come home .
+	Free: Pattern=don't, Pattern=I, Pattern=they
+	Constrained: 
+Turn ID=25| B | M : He's a professor .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=26| A | A : That's a good idea . We ought to , Yeah , and maybe when the other brothers and sisters retire or whatever , I don't know what they're going to do . It's really not my family . It's my fiancee's so I don't , I can't say much .
+	Free: Pattern=a, Pattern=I, Pattern=I don't, Pattern=to, Pattern=maybe, Pattern=so, Pattern=not, Pattern=It's, Pattern=the
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=27| B | M : You could also use a tape recorder , maybe .
+	Free: Pattern=, maybe, Pattern=a, Pattern=You
+	Constrained: Pattern=maybe
+Turn ID=28| A | A : We found this one area that doesn't have mosquitoes . They just don't have them and it's just wonderful not to be bugged all night long with a humming mosquito at your ear ,
+	Free: Pattern=a, Pattern=one, Pattern=be, Pattern=don't, Pattern=to, Pattern=not, Pattern=They, Pattern=have
+	Constrained: 
+Turn ID=29| B | M : Uh , uh , yeah .
+	Free: Pattern=, uh ,, Pattern=, yeah
+	Constrained: 
+Turn ID=30| A | A : Yes , yeah
+	Free: Pattern=, yeah
+	Constrained: 
+Turn ID=31| B | M : I don't think so .
+	Free: Pattern=I don't, Pattern=so, Pattern=think
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=32| A | A : Because we have , you know , everywhere that a tree is down people need help and , we're all , all , a lot of older folks need help getting , their yards cleaned out because they can't afford to pay anyone
+	Free: Pattern=they, Pattern=a, Pattern=is, Pattern=to, Pattern=you, Pattern=out, Pattern=people, Pattern=have
+	Constrained: 
+Turn ID=33| B | M : Hmmmmmm ... I have two .
+	Free: Pattern=I, Pattern=have
+	Constrained: 
+Turn ID=34| A | A : but then when I travel it is a little different situation .
+	Free: Pattern=I, Pattern=a, Pattern=is, Pattern=it
+	Constrained: 
+Turn ID=35| B | M : And the one you can choose to have .
+	Free: Pattern=And, Pattern=you can, Pattern=the, Pattern=one, Pattern=to have
+	Constrained: Pattern=you, Pattern=to, Pattern=have
+Turn ID=36| A | A : and , you know , they were newly built and they were sort of the lower end of the top of the line , hotels , because they said you can't stay in the cheap stuff .
+	Free: Pattern=, they, Pattern=you, Pattern=they, Pattern=in the, Pattern=the
+	Constrained: Pattern=in, Pattern=the, Pattern=they
+Turn ID=37| B | M : It's not .
+	Free: Pattern=not, Pattern=It's
+	Constrained: 
+Turn ID=38| A | A : Of course , you know , it is so weird , cause no one will ever really know , it's , it , so but it's entertaining and it makes you think about things .
+	Free: Pattern=you, Pattern=it, Pattern=one, Pattern=about, Pattern=think, Pattern=is, Pattern=so
+	Constrained: 
+Turn ID=39| B | M : Nope .
+	Free: 
+	Constrained: 

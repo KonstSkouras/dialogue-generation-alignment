@@ -1,0 +1,151 @@
+A|0| A: _Okay ._ 
+B|1| B: _It_ _just_ depends _on the_ , _on the_ _, uh ,_ _on the_ tree . 
+A|2| A: _That's_ interesting . Uh-huh . 
+B|3| B: Well _, my_ other line _is_ ringing 
+A|4| A: Mashed potatoes _with_ [, uh ,] cheese melted over [the] top _of_ them . _A_ couple things _like_ that _. It_ _was_ pretty good _little_ dinner . _Yeah ,_ usually _it's_ 
+B|5| B: _Yeah ._ Isn't , isn't Maryland _where_ [the] famous Willy Horton case [was] . 
+A|6| A: _but still_ _I_ _would_ hate _to_ _be_ [on the] jury that sentenced someone . 
+B|7| B: [but still] _they_ _have_ benefited _from_ _it_ . 
+A|8| A: Huh . 
+B|9| B: [Yeah ,] Saint Claude , 
+A|10| A: And _we_ [just] had _a_ really big ice storm . And , basically , half [the] trees _in_ , _in_ our _city_ , I'm _in_ Rochester which [is] [, uh] _right_ upstate . Half _of_ [the] trees _in the_ _city_ [, uh ,] _are_ _no_ good anymore . 
+B|11| B: _and_ _they_ clean _it_ _up_ . 
+A|12| A: No , not really . I'm not that [up] _be_ [on] that sort _of_ thing . 
+B|13| B: [Okay .] 
+A|14| A: We _don't ,_ _we_ _don't_ _do_ _enough_ . _I_ _know_ _we_ _don't_ so _Uh ,_ although lately I've been _, uh , a_ friend _of_ mine that _I_ _spend_ _a_ _lot of_ _time_ _with_ does recycle quite _a_ _bit_ [and] _it's_ , _it's_ , _it's_ [, uh ,] interesting _to_ watch some _of_ [the] things that she does _and then_ she's almost had _an_ impact [on] _me_ [, uh ,] [where] she doesn't say _anything_ _to_ _me_ when she comes _to_ [my] house [but] _I can_ kind _of_ tell [it] bothers her so , [just] unconsciously I've , I've stopped buying _a_ _lot of_ _, uh , uh ,_ paper plates [and] paper cups [and] _I don't_ _do_ that anymore . _I don't_ _know_ why _, I_ [just] _don't_ _I_ [just] , [just] [from] socializing _with_ her so . 
+B|15| B: So K [A] L [A] _, I think_ , C H [A] N D . 
+A|16| A: Let's _see_ , _what_ _did_ _we_ [have] [the] last _time_ _we_ had guests over . Ah _, yeah_ , _we_ had _a_ _, uh , a_ turkey loaf . 
+B|17| B: Wow . 
+A|18| A: [and] [, uh ,] well _, you know ,_ even doing that three _or_ four times _a_ week , when _summer_ hits , _that's_ _a_ hard thing _to_ go out [and] [and] go jogging _for_ [, uh] half hour _or_ so , 
+B|19| B: [Yeah ,] there's _one_ _very_ close [to] [where] [my] parents [are] _but , uh _,_ I think_ [it] [would] [be] nice [but] [my] dad's [the] type he wouldn't want [to] [spend] [the] money [on] [anything] . 
+A|20| A: Snow peas [are] [up] [and] [, uh [,] _my] wife_ does _, uh , a_ small herb garden [on the] side . 
+B|21| B: _Oh_ [, I] [see] . How'd , how [did] _they ,_ how [do] _they_ pick their people ? 
+A|22| A: Sure . [Yeah .] 
+B|23| B: [I don't] [have] any _, um [,_ [I] [don't] [,] you know [,] [I] don't] use [an] awful [lot of] [city] services [. It] , [it] [, you know] [it's] [like] [I] [have] [to] work [I] [have] [to] work all [the] [time] [just] [to] make [enough] money [to] pay [the] taxes . 
+A|24| A: [and] these kids [, um [,] you know ,] every girl [I] taught , except _for_ [one] , [was] pregnant . 
+B|25| B: _I mean_ he started off as [a] stray [and then] [we] [did] all this [for] him 
+A|26| A: [Yeah ,] [it's] [, uh ,] Wordstar [was] never [very] intuitive [to] _me_ . [I mean] [you know [,] you] , some [of] [the] commands [just] had nothing [to] [do] _with_ [, you know ,] _what_ [you] were supposed [to] [be] doing _what [they_ ,] _what they_ [did] [on the] computer [but , uh ,] 
+B|27| B: [Uh [,] yeah] [a] [little] [bit] . [Uh [,] uh] [of] course [in the] [summer] if [I can] get away [with] [it] [, I] wear [, uh [, uh ,] a] pair [of] shorts [and] [that's] [it] . Run around barefoot , [no] shirt [or] [anything] But [, uh ,] 
+A|28| A: [Oh] . 
+B|29| B: Hello Chuck . 
+A|30| A: Our major crimes [in] our immediate town [, uh ,] [is] probably robberies , house robberies [and] [very] few instances [of] [, you know ,] alcohol , drugs [, uh ,] reported . 
+B|31| B: [Okay] 
+A|32| A: [I] guess baby-sitters now [are] [up] at , _what_ , five dollars [an] hour ? 
+B|33| B: [Oh] , boy . 
+A|34| A: Is [it] choice [or] [just] business [or] , 
+B|35| B: [That's] [right] [and] [that's] exactly [what they] said , [to] sound [like] [a] [my wife] dragged [me] away [from] [the] television . 
+A|36| A: [Uh [,] I think] [that's] about [where] [it] [is] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Okay .
+	Free: Pattern=Okay .
+	Constrained: Pattern=Okay
+Turn ID=1| B | B : It just depends on the , on the , uh , on the tree .
+	Free: Pattern=, uh ,, Pattern=on the, Pattern=just, Pattern=It
+	Constrained: Pattern=the, Pattern=on, Pattern=, uh
+Turn ID=2| A | A : That's interesting . Uh-huh .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=3| B | B : Well , my other line is ringing
+	Free: Pattern=, my, Pattern=is
+	Constrained: Pattern=my
+Turn ID=4| A | A : Mashed potatoes with , uh , cheese melted over the top of them . A couple things like that . It was pretty good little dinner . Yeah , usually it's
+	Free: Pattern=of, Pattern=little, Pattern=A, Pattern=, uh ,, Pattern=the, Pattern=Yeah ,, Pattern=was, Pattern=like, Pattern=. It, Pattern=with, Pattern=it's
+	Constrained: Pattern=, uh, Pattern=It
+Turn ID=5| B | B : Yeah . Isn't , isn't Maryland where the famous Willy Horton case was .
+	Free: Pattern=Yeah ., Pattern=the, Pattern=where, Pattern=was
+	Constrained: 
+Turn ID=6| A | A : but still I would hate to be on the jury that sentenced someone .
+	Free: Pattern=I, Pattern=but still, Pattern=be, Pattern=on the, Pattern=would, Pattern=to
+	Constrained: Pattern=on, Pattern=the, Pattern=but
+Turn ID=7| B | B : but still they have benefited from it .
+	Free: Pattern=have, Pattern=they, Pattern=it, Pattern=from, Pattern=but still
+	Constrained: Pattern=but
+Turn ID=8| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : Yeah , Saint Claude ,
+	Free: Pattern=Yeah ,
+	Constrained: 
+Turn ID=10| A | A : And we just had a really big ice storm . And , basically , half the trees in , in our city , I'm in Rochester which is , uh right upstate . Half of the trees in the city , uh , are no good anymore .
+	Free: Pattern=city, Pattern=, uh, Pattern=just, Pattern=no, Pattern=a, Pattern=in, Pattern=is, Pattern=we, Pattern=, uh ,, Pattern=the, Pattern=right, Pattern=of, Pattern=are, Pattern=in the
+	Constrained: Pattern=in, Pattern=, uh, Pattern=the
+Turn ID=11| B | B : and they clean it up .
+	Free: Pattern=up, Pattern=they, Pattern=and, Pattern=it
+	Constrained: 
+Turn ID=12| A | A : No , not really . I'm not that up be on that sort of thing .
+	Free: Pattern=be, Pattern=up, Pattern=of, Pattern=on
+	Constrained: 
+Turn ID=13| B | B : Okay .
+	Free: Pattern=Okay .
+	Constrained: Pattern=Okay
+Turn ID=14| A | A : We don't , we don't do enough . I know we don't so Uh , although lately I've been , uh , a friend of mine that I spend a lot of time with does recycle quite a bit and it's , it's , it's , uh , interesting to watch some of the things that she does and then she's almost had an impact on me , uh , where she doesn't say anything to me when she comes to my house but I can kind of tell it bothers her so , just unconsciously I've , I've stopped buying a lot of , uh , uh , paper plates and paper cups and I don't do that anymore . I don't know why , I just don't I just , just from socializing with her so .
+	Free: Pattern=time, Pattern=of, Pattern=just, Pattern=I, Pattern=we, Pattern=spend, Pattern=, uh ,, Pattern=don't, Pattern=, uh , uh ,, Pattern=my, Pattern=I can, Pattern=me, Pattern=do, Pattern=, uh , a, Pattern=a, Pattern=, I, Pattern=bit, Pattern=an, Pattern=enough, Pattern=it, Pattern=and, Pattern=lot of, Pattern=and then, Pattern=from, Pattern=I don't, Pattern=Uh ,, Pattern=where, Pattern=know, Pattern=on, Pattern=anything, Pattern=the, Pattern=don't ,, Pattern=to, Pattern=with, Pattern=it's, Pattern=but
+	Constrained: Pattern=of, Pattern=, uh, Pattern=a, Pattern=and, Pattern=I, Pattern=, uh ,, Pattern=don't
+Turn ID=15| B | B : So K A L A , I think , C H A N D .
+	Free: Pattern=, I think, Pattern=A
+	Constrained: Pattern=, I, Pattern=I
+Turn ID=16| A | A : Let's see , what did we have the last time we had guests over . Ah , yeah , we had a , uh , a turkey loaf .
+	Free: Pattern=time, Pattern=have, Pattern=what, Pattern=, yeah, Pattern=we, Pattern=the, Pattern=see, Pattern=did, Pattern=, uh , a, Pattern=a
+	Constrained: Pattern=, uh, Pattern=a, Pattern=, uh ,
+Turn ID=17| B | B : Wow .
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : and , uh , well , you know , even doing that three or four times a week , when summer hits , that's a hard thing to go out and and go jogging for , uh half hour or so ,
+	Free: Pattern=, uh, Pattern=for, Pattern=and, Pattern=or, Pattern=, uh ,, Pattern=that's, Pattern=to, Pattern=summer, Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=you know ,, Pattern=, you know, Pattern=you, Pattern=, uh, Pattern=know, Pattern=, you
+Turn ID=19| B | B : Yeah , there's one very close to where my parents are but , uh , I think it would be nice but my dad's the type he wouldn't want to spend the money on anything .
+	Free: Pattern=it, Pattern=where, Pattern=very, Pattern=spend, Pattern=to, Pattern=my, Pattern=but, Pattern=are, Pattern=one, Pattern=, I think, Pattern=be, Pattern=on, Pattern=anything, Pattern=the, Pattern=but , uh ,, Pattern=would, Pattern=Yeah ,
+	Constrained: Pattern=, uh, Pattern=, I, Pattern=I, Pattern=, uh ,, Pattern=but
+Turn ID=20| A | A : Snow peas are up and , uh , my wife does , uh , a small herb garden on the side .
+	Free: Pattern=, uh , a, Pattern=and, Pattern=are, Pattern=my wife, Pattern=, uh ,, Pattern=on the, Pattern=, my, Pattern=up
+	Constrained: Pattern=, uh, Pattern=a, Pattern=, uh ,, Pattern=my, Pattern=on, Pattern=the
+Turn ID=21| B | B : Oh , I see . How'd , how did they , how do they pick their people ?
+	Free: Pattern=they ,, Pattern=they, Pattern=see, Pattern=Oh, Pattern=do, Pattern=did, Pattern=, I
+	Constrained: Pattern=I, Pattern=they
+Turn ID=22| A | A : Sure . Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=23| B | B : I don't have any , um , I don't , you know , I don't use an awful lot of city services . It , it , you know it's like I have to work I have to work all the time just to make enough money to pay the taxes .
+	Free: Pattern=city, Pattern=time, Pattern=, um ,, Pattern=I, Pattern=, you know, Pattern=I don't, Pattern=the, Pattern=it's, Pattern=just, Pattern=have, Pattern=, you know ,, Pattern=, I, Pattern=an, Pattern=enough, Pattern=it, Pattern=lot of, Pattern=like, Pattern=. It, Pattern=don't ,, Pattern=to
+	Constrained: Pattern=you, Pattern=I, Pattern=, you know, Pattern=It, Pattern=don't, Pattern=of, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=24| A | A : and these kids , um , you know , every girl I taught , except for one , was pregnant .
+	Free: Pattern=, um ,, Pattern=, you know ,, Pattern=for, Pattern=and, Pattern=was, Pattern=one, Pattern=I
+	Constrained: Pattern=you know ,, Pattern=you, Pattern=, you know, Pattern=know, Pattern=, you
+Turn ID=25| B | B : I mean he started off as a stray and then we did all this for him
+	Free: Pattern=for, Pattern=and then, Pattern=we, Pattern=I mean, Pattern=did, Pattern=a
+	Constrained: Pattern=I, Pattern=and
+Turn ID=26| A | A : Yeah , it's , uh , Wordstar was never very intuitive to me . I mean you know , you , some of the commands just had nothing to do with , you know , what you were supposed to be doing what they , what they did on the computer but , uh ,
+	Free: Pattern=they ,, Pattern=you, Pattern=just, Pattern=me, Pattern=what, Pattern=, you, Pattern=very, Pattern=Yeah ,, Pattern=to, Pattern=was, Pattern=of, Pattern=you know ,, Pattern=do, Pattern=did, Pattern=, you know ,, Pattern=, uh ,, Pattern=I mean, Pattern=be, Pattern=on the, Pattern=the, Pattern=but , uh ,, Pattern=what they, Pattern=with, Pattern=it's
+	Constrained: Pattern=you know ,, Pattern=I, Pattern=, you know, Pattern=, uh ,, Pattern=but, Pattern=you, Pattern=, uh, Pattern=what, Pattern=they, Pattern=know, Pattern=, you, Pattern=on, Pattern=the
+Turn ID=27| B | B : Uh , yeah a little bit . Uh , uh of course in the summer if I can get away with it , I wear , uh , uh , a pair of shorts and that's it . Run around barefoot , no shirt or anything But , uh ,
+	Free: Pattern=of, Pattern=, uh, Pattern=I can, Pattern=in the, Pattern=or, Pattern=, uh ,, Pattern=, uh , uh ,, Pattern=no, Pattern=little, Pattern=, uh , a, Pattern=a, Pattern=, I, Pattern=bit, Pattern=it, Pattern=and, Pattern=, yeah, Pattern=Uh ,, Pattern=anything, Pattern=that's, Pattern=with, Pattern=summer
+	Constrained: Pattern=, uh, Pattern=a, Pattern=I, Pattern=in, Pattern=, uh ,, Pattern=the
+Turn ID=28| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=29| B | B : Hello Chuck .
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : Our major crimes in our immediate town , uh , is probably robberies , house robberies and very few instances of , you know , alcohol , drugs , uh , reported .
+	Free: Pattern=of, Pattern=, you know ,, Pattern=and, Pattern=in, Pattern=, uh ,, Pattern=very, Pattern=is
+	Constrained: Pattern=you know ,, Pattern=, you know, Pattern=you, Pattern=, uh, Pattern=know, Pattern=, you
+Turn ID=31| B | B : Okay
+	Free: Pattern=Okay
+	Constrained: 
+Turn ID=32| A | A : I guess baby-sitters now are up at , what , five dollars an hour ?
+	Free: Pattern=what, Pattern=an, Pattern=up, Pattern=are, Pattern=I
+	Constrained: 
+Turn ID=33| B | B : Oh , boy .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=34| A | A : Is it choice or just business or ,
+	Free: Pattern=just, Pattern=or, Pattern=it
+	Constrained: 
+Turn ID=35| B | B : That's right and that's exactly what they said , to sound like a my wife dragged me away from the television .
+	Free: Pattern=right, Pattern=me, Pattern=That's, Pattern=a, Pattern=and, Pattern=from, Pattern=to, Pattern=my wife, Pattern=like, Pattern=that's, Pattern=the, Pattern=what they
+	Constrained: Pattern=my, Pattern=they, Pattern=what
+Turn ID=36| A | A : Uh , I think that's about where it is .
+	Free: Pattern=it, Pattern=Uh ,, Pattern=where, Pattern=is, Pattern=, I think, Pattern=that's
+	Constrained: Pattern=, I, Pattern=I

@@ -1,0 +1,279 @@
+B|0| M: _you_ 
+A|1| B: Wow . Wow . That's _a_ , _a_ big job . 
+B|2| M: _I _know_ ,_ _right_ ? 
+A|3| B: Uh-huh . 
+B|4| M: _Oh_ yeah _, uh_ huh . 
+A|5| B: Uh-huh . 
+B|6| M: This _is_ _a lot_ _more_ than _just_ _the_ dirt _, this is_ _the_ entire planet . 
+A|7| B: [Oh] , sure . [Oh] _, I_ bet _it's_ _beautiful_ . 
+B|8| M: This _is_ how _you_ build [a] [beautiful] house . 
+A|9| B: Uh-huh . 
+B|10| M: _I _know_ _,_ I was_ _just_ kidding . 
+A|11| B: Wild _flowers_ . 
+B|12| M: What's _the_ [flowers] ? 
+A|13| B: Uh-huh . 
+B|14| M: We _get_ _the_ best _of_ _the_ best . 
+A|15| B: Uh-huh . 
+B|16| M: _I _know_ ,_ _right_ ? 
+A|17| B: [Oh] , _that_ sounds lovely . Uh-huh . [Oh] , [the] wild [flowers] _are_ [beautiful] _. I think_ , um [, I was] thinking _about_ throwing some _for_ , _in the_ back , [just] where [the] kids , um , [just] way _in the_ back , behind [the] swing sets or , [just] _have_ some wild [flowers] growing back there would _be_ real pretty . Then _you _don't_ really_ _have to_ _have_ much maintenance involved . 
+B|18| M: [I] 
+A|19| B: Uh-huh . 
+B|20| M: _I see_ 
+A|21| B: Uh-huh [, [I] know] [a _lot] of_ 
+B|22| M: Hahhhhhhuh 
+A|23| B: uh-huh , [a _lot] of_ women do . Um , _I've_ [just] _never_ _really _,_ you_ [know ,] maybe one [of] these days _I'll_ _have to_ [get] _out_ there _and_ mow _, but_ , um , my husband takes _it_ on _, and_ _I'll_ help rake up [the] grass _, and ,_ um , sometimes _I'll_ help him edge , um , _because_ , _we_ _don't have_ _that_ much property _, but_ we're on [a] corner [lot] , _so_ there's [a _lot] of_ edging _to_ do 
+B|24| M: [I] 
+A|25| B: _and ,_ um _, uh ,_ that's what's nice _about_ living [more] _in the_ country _, you don't have to_ worry _about_ any [of] _that_ 
+B|26| M: i [don't [really] ,] you're 
+A|27| B: [Oh] . [Oh] , that's nice [, I] [, this is] different _for_ us _because_ [the] other , _in the_ past we've _had_ homes _that_ haven't _had_ any side walks _, and ,_ um _, it's_ been [a] little [more] country with [the] _trees _, and_ we_ do miss _that ._ Um , if _we_ _had_ [a] chance _to_ move [, _I] think_ we'd move back _to_ somewhere _that_ [was] [a] little [more] countrified _and_ [a] little less maintenance required as , as far as _that_ goes . 
+B|28| M: A . 
+A|29| B: Uh-huh . 
+B|30| M: We [are] [you] ? 
+A|31| B: [Oh] . Uh-huh . 
+B|32| M: You [know] 
+A|33| B: Wow that's , 
+B|34| M: A [lot of] [trees [, and] [,] uh ,] conservation . 
+A|35| B: Um . 
+B|36| M: We're [in] [, uh] 
+A|37| B: Uh-huh . Right . 
+B|38| M: [Oh] yeah [, it's] cold _out ,_ I'm trying [to] build [a] snowman 
+A|39| B: Right . _Well [,_ I] put , 
+B|40| M: [I] _don't have the_ _right_ [to] say [that .] 
+A|41| B: Uh-huh . 
+B|42| M: You [and] me both brother . 
+A|43| B: Uh-huh . 
+B|44| M: Uh [, you don't have to] [be] [so] rude . 
+A|45| B: [Oh] . [Oh] , [that] sounds [so] pretty . 
+B|46| M: _They_ [have] all summer [, and we] [have] lots [of] spring . 
+A|47| B: [Oh] [really] Do _they_ , [don't] do any damage , _though_ _, they_ [just] fly [right] back [out ,] if _you [have_ the] , 
+B|48| M: [I'll] keep an eye [out] [for] _them ._ 
+A|49| B: [I see] . 
+B|50| M: [Well [,] they] don t _like_ [it] here [, but] [they] [don't] _like_ [to] eat . 
+A|51| B: [I see] . 
+B|52| M: You can eat [the] babies 
+A|53| B: Uh-huh . 
+B|54| M: You [see] ? 
+A|55| B: Uh-huh . 
+B|56| M: You [know ,] [for] [the] mostly non native american [, [you] have] [a] few plants [in] your _home_ , [right] ? 
+A|57| B: [Oh] , oh , [that] sounds wonderful . 
+B|58| M: _I love_ strawberries . 
+A|59| B: [Oh] [, [I] love] [home] grown _tomatos ._ 
+B|60| M: _What_ [about] [the] _tomatoes ?_ 
+A|61| B: There's nothing [like] _them . They_ [just] [don't have the] same ones _in the_ supermarket 
+B|62| M: [I've] [never] [had] [them . They] [are] good [though] . 
+A|63| B: [What] does [that] mean , accidental [tomatoes ?] 
+B|64| M: You're [right] , [tomatoes] [are] [a] thing . 
+A|65| B: Uh-huh . 
+B|66| M: You're [right] [. I think] [it's] [because] [it's] [a] [tomatos .] 
+A|67| B: [I see] . 
+B|68| M: The seeds go [in the] [tomatoes] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=1| A | B : Wow . Wow . That's a , a big job .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=2| B | M : I know , right ?
+	Free: Pattern=I know, Pattern=know ,, Pattern=right
+	Constrained: Pattern=I, Pattern=know
+Turn ID=3| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=4| B | M : Oh yeah , uh huh .
+	Free: Pattern=, uh, Pattern=Oh
+	Constrained: 
+Turn ID=5| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : This is a lot more than just the dirt , this is the entire planet .
+	Free: Pattern=more, Pattern=just, Pattern=is, Pattern=a lot, Pattern=, this is, Pattern=the
+	Constrained: Pattern=a, Pattern=lot, Pattern=is
+Turn ID=7| A | B : Oh , sure . Oh , I bet it's beautiful .
+	Free: Pattern=, I, Pattern=beautiful, Pattern=Oh, Pattern=it's
+	Constrained: Pattern=I
+Turn ID=8| B | M : This is how you build a beautiful house .
+	Free: Pattern=a, Pattern=beautiful, Pattern=you, Pattern=is
+	Constrained: 
+Turn ID=9| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : I know , I was just kidding .
+	Free: Pattern=, I was, Pattern=I know, Pattern=know ,, Pattern=just
+	Constrained: Pattern=, I, Pattern=I, Pattern=know, Pattern=was
+Turn ID=11| A | B : Wild flowers .
+	Free: Pattern=flowers
+	Constrained: 
+Turn ID=12| B | M : What's the flowers ?
+	Free: Pattern=the, Pattern=flowers
+	Constrained: 
+Turn ID=13| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : We get the best of the best .
+	Free: Pattern=the, Pattern=get, Pattern=of
+	Constrained: 
+Turn ID=15| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : I know , right ?
+	Free: Pattern=I know, Pattern=know ,, Pattern=right
+	Constrained: Pattern=I, Pattern=know
+Turn ID=17| A | B : Oh , that sounds lovely . Uh-huh . Oh , the wild flowers are beautiful . I think , um , I was thinking about throwing some for , in the back , just where the kids , um , just way in the back , behind the swing sets or , just have some wild flowers growing back there would be real pretty . Then you don't really have to have much maintenance involved .
+	Free: Pattern=, I was, Pattern=about, Pattern=beautiful, Pattern=the, Pattern=Oh, Pattern=flowers, Pattern=that, Pattern=just, Pattern=have, Pattern=. I think, Pattern=for, Pattern=are, Pattern=in the, Pattern=don't really, Pattern=be, Pattern=have to, Pattern=you don't
+	Constrained: Pattern=you, Pattern=have, Pattern=, I, Pattern=I, Pattern=in, Pattern=really, Pattern=I think, Pattern=the, Pattern=don't, Pattern=to, Pattern=was
+Turn ID=18| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=19| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=20| B | M : I see
+	Free: Pattern=I see
+	Constrained: Pattern=I, Pattern=see
+Turn ID=21| A | B : Uh-huh , I know a lot of
+	Free: Pattern=, I, Pattern=lot of, Pattern=I know, Pattern=a lot
+	Constrained: Pattern=of, Pattern=a, Pattern=I, Pattern=know, Pattern=lot
+Turn ID=22| B | M : Hahhhhhhuh
+	Free: 
+	Constrained: 
+Turn ID=23| A | B : uh-huh , a lot of women do . Um , I've just never really , you know , maybe one of these days I'll have to get out there and mow , but , um , my husband takes it on , and I'll help rake up the grass , and , um , sometimes I'll help him edge , um , because , we don't have that much property , but we're on a corner lot , so there's a lot of edging to do
+	Free: Pattern=I've, Pattern=I'll, Pattern=, you, Pattern=never, Pattern=have to, Pattern=get, Pattern=that, Pattern=so, Pattern=of, Pattern=know ,, Pattern=out, Pattern=, but, Pattern=just, Pattern=, and ,, Pattern=a, Pattern=because, Pattern=it, Pattern=and, Pattern=lot of, Pattern=we, Pattern=don't have, Pattern=really ,, Pattern=lot, Pattern=the, Pattern=a lot, Pattern=, and, Pattern=to
+	Constrained: Pattern=of, Pattern=you, Pattern=have, Pattern=and ,, Pattern=a, Pattern=and, Pattern=know, Pattern=really, Pattern=lot, Pattern=don't, Pattern=, and, Pattern=to
+Turn ID=24| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=25| A | B : and , um , uh , that's what's nice about living more in the country , you don't have to worry about any of that
+	Free: Pattern=and ,, Pattern=in the, Pattern=about, Pattern=, uh ,, Pattern=, you don't have to, Pattern=that, Pattern=of, Pattern=more
+	Constrained: Pattern=have, Pattern=and, Pattern=in, Pattern=, you, Pattern=don't have, Pattern=the, Pattern=to, Pattern=you, Pattern=, uh, Pattern=have to, Pattern=don't, Pattern=you don't
+Turn ID=26| B | M : i don't really , you're
+	Free: Pattern=don't really, Pattern=really ,
+	Constrained: Pattern=don't, Pattern=really
+Turn ID=27| A | B : Oh . Oh , that's nice , I , this is different for us because the other , in the past we've had homes that haven't had any side walks , and , um , it's been a little more country with the trees , and we do miss that . Um , if we had a chance to move , I think we'd move back to somewhere that was a little more countrified and a little less maintenance required as , as far as that goes .
+	Free: Pattern=, and ,, Pattern=trees , and, Pattern=for, Pattern=and, Pattern=in the, Pattern=, it's, Pattern=we, Pattern=had, Pattern=I think, Pattern=was, Pattern=that, Pattern=, and we, Pattern=that ., Pattern=more, Pattern=, I, Pattern=a, Pattern=because, Pattern=, this is, Pattern=the, Pattern=Oh, Pattern=to
+	Constrained: Pattern=and ,, Pattern=and, Pattern=I, Pattern=in, Pattern=is, Pattern=we, Pattern=the, Pattern=, and, Pattern=that, Pattern=it's
+Turn ID=28| B | M : A .
+	Free: 
+	Constrained: 
+Turn ID=29| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : We are you ?
+	Free: Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=31| A | B : Oh . Uh-huh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=32| B | M : You know
+	Free: Pattern=know
+	Constrained: 
+Turn ID=33| A | B : Wow that's ,
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : A lot of trees , and , uh , conservation .
+	Free: Pattern=trees , and, Pattern=, uh ,, Pattern=, and ,, Pattern=lot of
+	Constrained: Pattern=of, Pattern=, uh, Pattern=and ,, Pattern=and, Pattern=lot, Pattern=, and
+Turn ID=35| A | B : Um .
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : We're in , uh
+	Free: Pattern=, uh, Pattern=in
+	Constrained: 
+Turn ID=37| A | B : Uh-huh . Right .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M : Oh yeah , it's cold out , I'm trying to build a snowman
+	Free: Pattern=a, Pattern=out ,, Pattern=, it's, Pattern=Oh, Pattern=to
+	Constrained: Pattern=it's, Pattern=out
+Turn ID=39| A | B : Right . Well , I put ,
+	Free: Pattern=, I, Pattern=Well ,
+	Constrained: Pattern=I
+Turn ID=40| B | M : I don't have the right to say that .
+	Free: Pattern=don't have the, Pattern=I, Pattern=to, Pattern=right, Pattern=that .
+	Constrained: Pattern=have the, Pattern=have, Pattern=don't have, Pattern=the, Pattern=don't, Pattern=that
+Turn ID=41| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : You and me both brother .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=43| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : Uh , you don't have to be so rude .
+	Free: Pattern=, you don't have to, Pattern=be, Pattern=so
+	Constrained: Pattern=you, Pattern=have, Pattern=, you, Pattern=don't have, Pattern=to, Pattern=have to, Pattern=don't, Pattern=you don't
+Turn ID=45| A | B : Oh . Oh , that sounds so pretty .
+	Free: Pattern=so, Pattern=Oh, Pattern=that
+	Constrained: 
+Turn ID=46| B | M : They have all summer , and we have lots of spring .
+	Free: Pattern=, and we, Pattern=They, Pattern=have, Pattern=of
+	Constrained: Pattern=, and, Pattern=and, Pattern=we
+Turn ID=47| A | B : Oh really Do they , don't do any damage , though , they just fly right back out , if you have the ,
+	Free: Pattern=, they, Pattern=right, Pattern=have the, Pattern=just, Pattern=out ,, Pattern=you have, Pattern=really, Pattern=don't, Pattern=Oh, Pattern=though, Pattern=they
+	Constrained: Pattern=have, Pattern=they, Pattern=the, Pattern=you, Pattern=out
+Turn ID=48| B | M : I'll keep an eye out for them .
+	Free: Pattern=them ., Pattern=I'll, Pattern=out, Pattern=for
+	Constrained: 
+Turn ID=49| A | B : I see .
+	Free: Pattern=I see
+	Constrained: Pattern=I, Pattern=see
+Turn ID=50| B | M : Well , they don t like it here , but they don't like to eat .
+	Free: Pattern=, they, Pattern=, but, Pattern=they, Pattern=it, Pattern=Well ,, Pattern=like, Pattern=don't, Pattern=to
+	Constrained: Pattern=they
+Turn ID=51| A | B : I see .
+	Free: Pattern=I see
+	Constrained: Pattern=I, Pattern=see
+Turn ID=52| B | M : You can eat the babies
+	Free: Pattern=the
+	Constrained: 
+Turn ID=53| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=54| B | M : You see ?
+	Free: Pattern=see
+	Constrained: 
+Turn ID=55| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=56| B | M : You know , for the mostly non native american , you have a few plants in your home , right ?
+	Free: Pattern=a, Pattern=for, Pattern=you have, Pattern=in, Pattern=, you, Pattern=the, Pattern=home, Pattern=right, Pattern=know ,
+	Constrained: Pattern=have, Pattern=you, Pattern=know
+Turn ID=57| A | B : Oh , oh , that sounds wonderful .
+	Free: Pattern=Oh, Pattern=that
+	Constrained: 
+Turn ID=58| B | M : I love strawberries .
+	Free: Pattern=I love
+	Constrained: Pattern=I
+Turn ID=59| A | B : Oh , I love home grown tomatos .
+	Free: Pattern=tomatos ., Pattern=I love, Pattern=, I, Pattern=Oh, Pattern=home
+	Constrained: Pattern=I
+Turn ID=60| B | M : What about the tomatoes ?
+	Free: Pattern=tomatoes ?, Pattern=the, Pattern=about, Pattern=What
+	Constrained: Pattern=tomatoes
+Turn ID=61| A | B : There's nothing like them . They just don't have the same ones in the supermarket
+	Free: Pattern=don't have the, Pattern=just, Pattern=in the, Pattern=like, Pattern=them . They
+	Constrained: Pattern=have the, Pattern=them ., Pattern=in, Pattern=don't have, Pattern=the, Pattern=don't, Pattern=They, Pattern=have
+Turn ID=62| B | M : I've never had them . They are good though .
+	Free: Pattern=I've, Pattern=though, Pattern=are, Pattern=never, Pattern=had, Pattern=them . They
+	Constrained: Pattern=them ., Pattern=They
+Turn ID=63| A | B : What does that mean , accidental tomatoes ?
+	Free: Pattern=tomatoes ?, Pattern=that, Pattern=What
+	Constrained: Pattern=tomatoes
+Turn ID=64| B | M : You're right , tomatoes are a thing .
+	Free: Pattern=right, Pattern=a, Pattern=are, Pattern=tomatoes
+	Constrained: 
+Turn ID=65| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=66| B | M : You're right . I think it's because it's a tomatos .
+	Free: Pattern=tomatos ., Pattern=right, Pattern=. I think, Pattern=it's, Pattern=a, Pattern=because
+	Constrained: Pattern=I think, Pattern=I
+Turn ID=67| A | B : I see .
+	Free: Pattern=I see
+	Constrained: Pattern=I, Pattern=see
+Turn ID=68| B | M : The seeds go in the tomatoes
+	Free: Pattern=in the, Pattern=tomatoes
+	Constrained: Pattern=the, Pattern=in

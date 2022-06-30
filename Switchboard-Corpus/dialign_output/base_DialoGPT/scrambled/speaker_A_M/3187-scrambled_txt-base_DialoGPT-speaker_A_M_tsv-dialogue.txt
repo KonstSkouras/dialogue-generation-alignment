@@ -1,0 +1,155 @@
+A|0| A: _I_ mean _I don't_ even _have to_ pay . 
+B|1| M: [I] hate 
+A|2| A: _Yeah_ . 
+B|3| M: So 
+A|4| A: Oh really . 
+B|5| M: What ? 
+A|6| A: _Yeah_ . 
+B|7| M: Uuhh _uh_ _uh_ . 
+A|8| A: _Yeah_ . _Yeah_ . [I] _, I'm_ _not_ _sure_ either . But _, I_ _think_ , there would _have to_ be _a_ lot more , _you_ _know ,_ information , _you_ _know ,_ disseminated , _before_ _you_ say , let's do this , _you_ _know_ . 
+B|9| M:  ... [I don't] [think] _I've_ ever _seen_ [a] picture _of_ him _in_ _my_ _life_ . 
+A|10| A: [I] _know_ Florida has _it_ . 
+B|11| M: [I] 
+A|12| A: Right . Right . Um _, I_ [think] [I] , [I've] singled _out_ [my] grandchildren _and_ but actually they're , they're pretty good , along those lines _as_ compared _to_ what [I] _have_ [seen] from other people's children _and_ grandchildren , mine aren't really _that_ bad , 
+B|13| M: It _was_ _an_ _uh ,_ snake . 
+A|14| A: And _it_ [was] just _, [uh_ ,] amazing _to_ me _, and_ [of] course they made [a] big deal _out_ [of] _the_ _, the_ few _that_ got _out_ _and_ turned around _and_ committed [a] crime within five days [of] getting _out_ _, and_ being rearrested [an] . 
+B|15| M:  
+A|16| A: Oh . 
+B|17| M: _Well [,_ the] trial is [a] bit [of] [a] stretch . 
+A|18| A: Uh-huh . 
+B|19| M: Uhh , yeah [, I'm] [sure] it's [not] very complicated . 
+A|20| A: Uh-huh . 
+B|21| M: [I've] _never_ heard [that] [before] . I'll [have to] check [it] [out] . 
+A|22| A: they paid fifty-eight for [it] . 
+B|23| M: It [was] nice meeting [you] too 
+A|24| A: Yes _, and_ , [you] _know ,_ we [have] _, [uh_ ,] needs [in] our [life] [that] are unique [to] us _and_ _, [uh_ ,] [you] _know ,_ people [have] needs [in] their [life] [that] unique [to] us , [to] them . 
+B|25| M: You [know [,] I] love [, uh] 
+A|26| A: [I] like photography [a] lot , 
+B|27| M: Er , 
+A|28| A: Uh , [that] God because , *listen [it] [never] occurred [to] [it] [never] occurred [to] us [that] [it] would take seven months . 
+B|29| M: [Yeah] [, and] ... 
+A|30| A: [and] [I] understand [that] [the] jails are full [of] people , [you] [know [,] uh] [and] [that] they [have to] do something . 
+B|31| M: [I] didn't [know] he [was] so cruel . 
+A|32| A: [Well [,] I] [think] that's important for your budget [to] be for [it] [to] work though , [you] [have to] do something . 
+B|33| M: [I] 
+A|34| A: Uh-huh . 
+B|35| M: I'll make [a] fire . 
+A|36| A: And , [not] being , [you] [know ,] 
+B|37| M: [I] read [it] [as] [I don't] [have] [a] wife . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : I mean I don't even have to pay .
+	Free: Pattern=have to, Pattern=I don't, Pattern=I
+	Constrained: Pattern=I, Pattern=to, Pattern=have
+Turn ID=1| B | M : I hate
+	Free: Pattern=I
+	Constrained: 
+Turn ID=2| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=3| B | M : So
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : Oh really .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : What ?
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=7| B | M : Uuhh uh uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=8| A | A : Yeah . Yeah . I , I'm not sure either . But , I think , there would have to be a lot more , you know , information , you know , disseminated , before you say , let's do this , you know .
+	Free: Pattern=know ,, Pattern=you, Pattern=I, Pattern=think, Pattern=know, Pattern=sure, Pattern=have to, Pattern=before, Pattern=Yeah, Pattern=, I'm, Pattern=not, Pattern=, I, Pattern=a
+	Constrained: Pattern=have, Pattern=I, Pattern=to, Pattern=know
+Turn ID=9| B | M :  ... I don't think I've ever seen a picture of him in my life .
+	Free: Pattern=of, Pattern=I've, Pattern=a, Pattern=I don't, Pattern=life, Pattern=think, Pattern=in, Pattern=seen, Pattern=my
+	Constrained: Pattern=I
+Turn ID=10| A | A : I know Florida has it .
+	Free: Pattern=it, Pattern=I, Pattern=know
+	Constrained: 
+Turn ID=11| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=12| A | A : Right . Right . Um , I think I , I've singled out my grandchildren and but actually they're , they're pretty good , along those lines as compared to what I have seen from other people's children and grandchildren , mine aren't really that bad ,
+	Free: Pattern=I've, Pattern=out, Pattern=, I, Pattern=and, Pattern=I, Pattern=think, Pattern=to, Pattern=that, Pattern=as, Pattern=have, Pattern=seen, Pattern=my
+	Constrained: Pattern=I
+Turn ID=13| B | M : It was an uh , snake .
+	Free: Pattern=uh ,, Pattern=was, Pattern=an
+	Constrained: Pattern=uh
+Turn ID=14| A | A : And it was just , uh , amazing to me , and of course they made a big deal out of the , the few that got out and turned around and committed a crime within five days of getting out , and being rearrested an .
+	Free: Pattern=of, Pattern=a, Pattern=an, Pattern=was, Pattern=, the, Pattern=that, Pattern=out, Pattern=, uh, Pattern=it, Pattern=and, Pattern=uh ,, Pattern=the, Pattern=, and, Pattern=to
+	Constrained: Pattern=uh, Pattern=the, Pattern=and
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : Well , the trial is a bit of a stretch .
+	Free: Pattern=, the, Pattern=Well ,, Pattern=a, Pattern=of
+	Constrained: Pattern=the
+Turn ID=18| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : Uhh , yeah , I'm sure it's not very complicated .
+	Free: Pattern=, I'm, Pattern=not, Pattern=sure
+	Constrained: 
+Turn ID=20| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : I've never heard that before . I'll have to check it out .
+	Free: Pattern=I've, Pattern=out, Pattern=it, Pattern=never, Pattern=have to, Pattern=before, Pattern=that
+	Constrained: Pattern=to, Pattern=have
+Turn ID=22| A | A : they paid fifty-eight for it .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=23| B | M : It was nice meeting you too
+	Free: Pattern=was, Pattern=you
+	Constrained: 
+Turn ID=24| A | A : Yes , and , you know , we have , uh , needs in our life that are unique to us and , uh , you know , people have needs in their life that unique to us , to them .
+	Free: Pattern=know ,, Pattern=have, Pattern=and, Pattern=in, Pattern=uh ,, Pattern=you, Pattern=, uh, Pattern=, and, Pattern=to, Pattern=life, Pattern=that
+	Constrained: Pattern=know, Pattern=uh, Pattern=and
+Turn ID=25| B | M : You know , I love , uh
+	Free: Pattern=, I, Pattern=, uh, Pattern=know ,
+	Constrained: Pattern=I, Pattern=know, Pattern=uh
+Turn ID=26| A | A : I like photography a lot ,
+	Free: Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=27| B | M : Er ,
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : Uh , that God because , *listen it never occurred to it never occurred to us that it would take seven months .
+	Free: Pattern=it, Pattern=never, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=29| B | M : Yeah , and ...
+	Free: Pattern=, and, Pattern=Yeah
+	Constrained: Pattern=and
+Turn ID=30| A | A : and I understand that the jails are full of people , you know , uh and that they have to do something .
+	Free: Pattern=and, Pattern=I, Pattern=the, Pattern=have to, Pattern=that, Pattern=of, Pattern=know ,, Pattern=you, Pattern=, uh
+	Constrained: Pattern=know, Pattern=uh, Pattern=to, Pattern=have
+Turn ID=31| B | M : I didn't know he was so cruel .
+	Free: Pattern=was, Pattern=I, Pattern=know
+	Constrained: 
+Turn ID=32| A | A : Well , I think that's important for your budget to be for it to work though , you have to do something .
+	Free: Pattern=you, Pattern=, I, Pattern=it, Pattern=have to, Pattern=to, Pattern=Well ,, Pattern=think
+	Constrained: Pattern=I, Pattern=to, Pattern=have
+Turn ID=33| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=34| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : I'll make a fire .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=36| A | A : And , not being , you know ,
+	Free: Pattern=know ,, Pattern=not, Pattern=you
+	Constrained: Pattern=know
+Turn ID=37| B | M : I read it as I don't have a wife .
+	Free: Pattern=a, Pattern=it, Pattern=I, Pattern=I don't, Pattern=as, Pattern=have
+	Constrained: Pattern=I

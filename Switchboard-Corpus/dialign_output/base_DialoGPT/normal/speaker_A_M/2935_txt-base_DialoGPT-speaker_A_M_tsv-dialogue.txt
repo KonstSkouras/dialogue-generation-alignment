@@ -1,0 +1,291 @@
+B|0| M: _I'm_ _so_ _you're_ _not_ _uh _,_ and_ _uh _,_ we_ can _you're_ 
+A|1| A: Uh-huh . 
+B|2| M: _I_ _know ,_ right ? 
+A|3| A: Do _you_ _have a_ lawn ? 
+B|4| M: _I don't think_ _so_ . 
+A|5| A: _Oh ,_ yeah . 
+B|6| M: [Oh ,] _no_ _, it's_ _just_ ... We [have] _the_ same _tree_ . 
+A|7| A: _Well , um ,_ actually _it_ _, we've_ sort _of_ _had an_ ideal Spring . 
+B|8| M: _But_ what _do_ _we_ _do_ up here ? 
+A|9| A: _And _,_ um ,_ [the] , [the] peonies [have] been out _for_ now _about_ three weeks 
+B|10| M: [Well , um [,] we've] [had an] idea [for] [a] plot , _so_ _I'm_ _not_ _too_ _sure ._ 
+A|11| A: [and] [the] roses [have] been blooming [for] two weeks [, and] [the] grass _is_ _, uh ,_ this lush green [, and] _of_ course I've got lots _of_ weeds _in_ mine because _, I don't_ use any poison either . 
+B|12| M: [Oh ,] wow . 
+A|13| A: _But [,_ um ,] _you_ _know , I_ [just] keep looking at [, and] [I] say , Jeez , _you_ [know ,] this _is_ [the] first year [it's] been [so] perfect . 
+B|14| M: [And [,] uh _,] I'm_ _not_ afraid [of] _your_ kind . 
+A|15| A: _But [,_ and] my garden , _you_ [know ,] my tomatoes _are_ two [and] [a] half feet tall 
+B|16| M: [I don't] [know , I] don'know . 
+A|17| A: [the] _plants_ [and] , 
+B|18| M: The [plants] grow , 
+A|19| A: _you_ _know , I'm_ [I'm] going , Gee , this can't , _you_ [know ,] we'll _have a_ freeze . 
+B|20| M: [I] am [so] , [so] , sorry 
+A|21| A: [Well ,] _that's_ _it_ . Last year [, I] [think] _it_ _was_ , _you_ [know ,] my peonies were , were , budding _in_ January [, and] , _you_ [know ,] there _was_ [no] way _that_ _was_ going _to_ make _it_ [, and] [sure] enough , _you_ [know [,] we] [had] really mild _weather_ until [I] [think] _it_ _was_ May or _something_ 
+B|22| M: i 
+A|23| A: _and then_ , _you_ [know ,] everything [just] got hit hard 
+B|24| M: [Oh ,] we're . 
+A|25| A: So _, but_ yeah , _it_ [, it's] interesting [, and] [I] enjoy gardening . My son does [the] mowing _of the_ grass . 
+B|26| M: [Well ,] _you're_ _not_ wrong . 
+A|27| A: _I don't think that's_ [a] pleasure [for] anybody , [the] [the] mowing . 
+B|28| M: [I] [know , I'm] sorry 
+A|29| A: Uh-huh . 
+B|30| M:  
+A|31| A: [Oh ,] they help _you_ . 
+B|32| M: You 
+A|33| A: [Oh] dear . [Oh] _but_ _that's_ nice , _you_ [know , _I] mean_ [the] peach [tree] _is_ , _is_ [a] start [and] , 
+B|34| M: [Well [,] _it's] not_ [that] _bad_ . 
+A|35| A: Right . _What_ _about_ tomatoes , aren't they _pretty_ hardy ? 
+B|36| M: i'a ' 
+A|37| A: _Oh ._ 
+B|38| M:  ... 
+A|39| A: Uh-huh . 
+B|40| M: [What] _do_ [you] [mean] ? 
+A|41| A: _Oh ._ 
+B|42| M: That's [a] thing . 
+A|43| A: Uh-huh . 
+B|44| M: [I'm] gonna go with [, [and] then] [you] can [have a] big pool [of] water . 
+A|45| A: Uh-huh . 
+B|46| M: I'S . The . 
+A|47| A: [Well [,] I] would assume , [too] [, _I] mean ,_ you've got three or four months [you're] talking _about_ [of] , [of] [bad] _weather_ . 
+B|48| M: huh . 
+A|49| A: Uh-huh . 
+B|50| M: [I mean [,] I'm] [a] little nervous [about] [the] [weather] _too ._ 
+A|51| A: Uh-huh . 
+B|52| M: [Oh .] That's [pretty] cool . 
+A|53| A: [Oh ,] dear . 
+B|54| M: yes . 
+A|55| A: Sounds like _it_ would [have] been [pretty] . 
+B|56| M: Yeah [, I'm] [a] bit [of] [a] little . 
+A|57| A: [Oh ,] [sure] , [sure .] 
+B|58| M: [I] [was] joking [, [I don't] think that's] [the] case . 
+A|59| A: [Well ,] _it_ sounds like [you] , you've got [your] hands full 
+B|60| M: [I'm] [sure] I'll be able [to] _do_ [something] [in] [a] few years . 
+A|61| A: [And ,] [you] [know ,] gardening isn't , isn't high _on _the_ list_ _, but_ [it's not] off _the _list_ ._ 
+B|62| M: Not [in] [the list] [of] people who [are] [, but] [it] [is] [on the] [to] _do_ [list .] 
+A|63| A: Uh-huh . 
+B|64| M: [But [,] uh ,] what ? 
+A|65| A: [Oh .] 
+B|66| M:  
+A|67| A: Right . Maybe next year they'll [do] better . 
+B|68| M: You 
+A|69| A: Okay , well , thanks . 
+B|70| M: [I'm] [not] [a] huge fan [of the] new colors . 
+A|71| A: It [was] nice talking [to] [you] [too .] Bye-bye . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I'm so you're not uh , and uh , we can you're
+	Free: Pattern=you're, Pattern=I'm, Pattern=, we, Pattern=uh ,, Pattern=, and, Pattern=so, Pattern=not
+	Constrained: Pattern=and, Pattern=we
+Turn ID=1| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : I know , right ?
+	Free: Pattern=know ,, Pattern=I
+	Constrained: 
+Turn ID=3| A | A : Do you have a lawn ?
+	Free: Pattern=have a, Pattern=you
+	Constrained: Pattern=have, Pattern=a
+Turn ID=4| B | M : I don't think so .
+	Free: Pattern=I don't think, Pattern=so
+	Constrained: Pattern=think, Pattern=I don't, Pattern=I
+Turn ID=5| A | A : Oh , yeah .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=6| B | M : Oh , no , it's just ... We have the same tree .
+	Free: Pattern=tree, Pattern=no, Pattern=, it's, Pattern=Oh ,, Pattern=the, Pattern=just, Pattern=have
+	Constrained: Pattern=it's, Pattern=Oh
+Turn ID=7| A | A : Well , um , actually it , we've sort of had an ideal Spring .
+	Free: Pattern=, we've, Pattern=it, Pattern=Well , um ,, Pattern=had an, Pattern=of
+	Constrained: Pattern=, um ,, Pattern=Well ,, Pattern=had
+Turn ID=8| B | M : But what do we do up here ?
+	Free: Pattern=But, Pattern=do, Pattern=we
+	Constrained: 
+Turn ID=9| A | A : And , um , the , the peonies have been out for now about three weeks
+	Free: Pattern=have, Pattern=, um ,, Pattern=for, Pattern=about, Pattern=the, Pattern=And ,
+	Constrained: 
+Turn ID=10| B | M : Well , um , we've had an idea for a plot , so I'm not too sure .
+	Free: Pattern=, we've, Pattern=had an, Pattern=I'm, Pattern=a, Pattern=for, Pattern=Well , um ,, Pattern=so, Pattern=not, Pattern=too, Pattern=sure .
+	Constrained: Pattern=, um ,, Pattern=Well ,, Pattern=sure, Pattern=had
+Turn ID=11| A | A : and the roses have been blooming for two weeks , and the grass is , uh , this lush green , and of course I've got lots of weeds in mine because , I don't use any poison either .
+	Free: Pattern=of, Pattern=have, Pattern=for, Pattern=and, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=, I don't, Pattern=in
+	Constrained: Pattern=, I, Pattern=and, Pattern=I, Pattern=I don't, Pattern=uh ,
+Turn ID=12| B | M : Oh , wow .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=13| A | A : But , um , you know , I just keep looking at , and I say , Jeez , you know , this is the first year it's been so perfect .
+	Free: Pattern=know ,, Pattern=you, Pattern=just, Pattern=, um ,, Pattern=I, Pattern=is, Pattern=the, Pattern=know , I, Pattern=, and, Pattern=so, Pattern=But ,, Pattern=it's
+	Constrained: Pattern=know ,, Pattern=, I, Pattern=and, Pattern=I, Pattern=But
+Turn ID=14| B | M : And , uh , I'm not afraid of your kind .
+	Free: Pattern=of, Pattern=your, Pattern=, uh ,, Pattern=, I'm, Pattern=And ,, Pattern=not
+	Constrained: Pattern=uh ,, Pattern=I'm
+Turn ID=15| A | A : But , and my garden , you know , my tomatoes are two and a half feet tall
+	Free: Pattern=know ,, Pattern=you, Pattern=a, Pattern=and, Pattern=are, Pattern=, and, Pattern=But ,
+	Constrained: Pattern=and, Pattern=But
+Turn ID=16| B | M : I don't know , I don'know .
+	Free: Pattern=know , I, Pattern=I don't
+	Constrained: Pattern=, I, Pattern=know ,, Pattern=I
+Turn ID=17| A | A : the plants and ,
+	Free: Pattern=and, Pattern=plants, Pattern=the
+	Constrained: 
+Turn ID=18| B | M : The plants grow ,
+	Free: Pattern=plants
+	Constrained: 
+Turn ID=19| A | A : you know , I'm I'm going , Gee , this can't , you know , we'll have a freeze .
+	Free: Pattern=know ,, Pattern=have a, Pattern=know , I'm, Pattern=you, Pattern=I'm
+	Constrained: Pattern=know ,, Pattern=I'm, Pattern=have, Pattern=a, Pattern=, I'm
+Turn ID=20| B | M : I am so , so , sorry
+	Free: Pattern=I, Pattern=so
+	Constrained: 
+Turn ID=21| A | A : Well , that's it . Last year , I think it was , you know , my peonies were , were , budding in January , and , you know , there was no way that was going to make it , and sure enough , you know , we had really mild weather until I think it was May or something
+	Free: Pattern=know ,, Pattern=you, Pattern=no, Pattern=, I, Pattern=I, Pattern=had, Pattern=sure, Pattern=that's, Pattern=was, Pattern=that, Pattern=weather, Pattern=something, Pattern=it, Pattern=, we, Pattern=Well ,, Pattern=think, Pattern=in, Pattern=, and, Pattern=to
+	Constrained: Pattern=I, Pattern=and, Pattern=we
+Turn ID=22| B | M : i
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : and then , you know , everything just got hit hard
+	Free: Pattern=and then, Pattern=know ,, Pattern=you, Pattern=just
+	Constrained: Pattern=and
+Turn ID=24| B | M : Oh , we're .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=25| A | A : So , but yeah , it , it's interesting , and I enjoy gardening . My son does the mowing of the grass .
+	Free: Pattern=, but, Pattern=it, Pattern=I, Pattern=, it's, Pattern=the, Pattern=, and, Pattern=of the
+	Constrained: Pattern=of, Pattern=and, Pattern=the, Pattern=it's, Pattern=but
+Turn ID=26| B | M : Well , you're not wrong .
+	Free: Pattern=Well ,, Pattern=you're, Pattern=not
+	Constrained: 
+Turn ID=27| A | A : I don't think that's a pleasure for anybody , the the mowing .
+	Free: Pattern=I don't think that's, Pattern=for, Pattern=a, Pattern=the
+	Constrained: Pattern=I don't think, Pattern=I, Pattern=I don't, Pattern=think, Pattern=that's
+Turn ID=28| B | M : I know , I'm sorry
+	Free: Pattern=know , I'm, Pattern=I
+	Constrained: Pattern=, I'm, Pattern=know ,, Pattern=I'm
+Turn ID=29| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : Oh , they help you .
+	Free: Pattern=Oh ,, Pattern=you
+	Constrained: Pattern=Oh
+Turn ID=32| B | M : You
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : Oh dear . Oh but that's nice , you know , I mean the peach tree is , is a start and ,
+	Free: Pattern=a, Pattern=and, Pattern=is, Pattern=I mean, Pattern=know , I, Pattern=Oh, Pattern=but, Pattern=you, Pattern=tree, Pattern=that's, Pattern=the
+	Constrained: Pattern=, I, Pattern=know ,, Pattern=I, Pattern=mean
+Turn ID=34| B | M : Well , it's not that bad .
+	Free: Pattern=bad, Pattern=, it's, Pattern=Well ,, Pattern=it's not, Pattern=that
+	Constrained: Pattern=it's, Pattern=not
+Turn ID=35| A | A : Right . What about tomatoes , aren't they pretty hardy ?
+	Free: Pattern=about, Pattern=pretty, Pattern=What
+	Constrained: 
+Turn ID=36| B | M : i'a '
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : Oh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=38| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : What do you mean ?
+	Free: Pattern=you, Pattern=mean, Pattern=do, Pattern=What
+	Constrained: 
+Turn ID=41| A | A : Oh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=42| B | M : That's a thing .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=43| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : I'm gonna go with , and then you can have a big pool of water .
+	Free: Pattern=of, Pattern=have a, Pattern=and then, Pattern=, and, Pattern=you, Pattern=I'm
+	Constrained: Pattern=and, Pattern=have, Pattern=a
+Turn ID=45| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=46| B | M : I'S . The .
+	Free: 
+	Constrained: 
+Turn ID=47| A | A : Well , I would assume , too , I mean , you've got three or four months you're talking about of , of bad weather .
+	Free: Pattern=bad, Pattern=, I, Pattern=too, Pattern=about, Pattern=Well ,, Pattern=I mean ,, Pattern=weather, Pattern=you're, Pattern=of
+	Constrained: Pattern=I mean, Pattern=I, Pattern=mean
+Turn ID=48| B | M : huh .
+	Free: 
+	Constrained: 
+Turn ID=49| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=50| B | M : I mean , I'm a little nervous about the weather too .
+	Free: Pattern=a, Pattern=too ., Pattern=about, Pattern=I mean ,, Pattern=the, Pattern=, I'm, Pattern=weather
+	Constrained: Pattern=I'm, Pattern=mean, Pattern=too, Pattern=I, Pattern=I mean
+Turn ID=51| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=52| B | M : Oh . That's pretty cool .
+	Free: Pattern=Oh ., Pattern=pretty
+	Constrained: Pattern=Oh
+Turn ID=53| A | A : Oh , dear .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=54| B | M : yes .
+	Free: 
+	Constrained: 
+Turn ID=55| A | A : Sounds like it would have been pretty .
+	Free: Pattern=it, Pattern=pretty, Pattern=have
+	Constrained: 
+Turn ID=56| B | M : Yeah , I'm a bit of a little .
+	Free: Pattern=, I'm, Pattern=a, Pattern=of
+	Constrained: Pattern=I'm
+Turn ID=57| A | A : Oh , sure , sure .
+	Free: Pattern=sure ., Pattern=Oh ,, Pattern=sure
+	Constrained: Pattern=sure, Pattern=Oh
+Turn ID=58| B | M : I was joking , I don't think that's the case .
+	Free: Pattern=I don't think that's, Pattern=I, Pattern=, I don't, Pattern=the, Pattern=was
+	Constrained: Pattern=I don't think, Pattern=, I, Pattern=I, Pattern=I don't, Pattern=think, Pattern=that's
+Turn ID=59| A | A : Well , it sounds like you , you've got your hands full
+	Free: Pattern=Well ,, Pattern=your, Pattern=it, Pattern=you
+	Constrained: 
+Turn ID=60| B | M : I'm sure I'll be able to do something in a few years .
+	Free: Pattern=I'm, Pattern=in, Pattern=sure, Pattern=to, Pattern=something, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=61| A | A : And , you know , gardening isn't , isn't high on the list , but it's not off the list .
+	Free: Pattern=know ,, Pattern=on the, Pattern=the list, Pattern=list ., Pattern=it's not, Pattern=And ,, Pattern=you, Pattern=, but
+	Constrained: Pattern=it's, Pattern=but, Pattern=not, Pattern=the
+Turn ID=62| B | M : Not in the list of people who are , but it is on the to do list .
+	Free: Pattern=of, Pattern=, but, Pattern=do, Pattern=it, Pattern=are, Pattern=in, Pattern=is, Pattern=on the, Pattern=the list, Pattern=to, Pattern=list .
+	Constrained: Pattern=but, Pattern=the
+Turn ID=63| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=64| B | M : But , uh , what ?
+	Free: Pattern=, uh ,, Pattern=But ,
+	Constrained: Pattern=uh ,, Pattern=But
+Turn ID=65| A | A : Oh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=66| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=67| A | A : Right . Maybe next year they'll do better .
+	Free: Pattern=do
+	Constrained: 
+Turn ID=68| B | M : You
+	Free: 
+	Constrained: 
+Turn ID=69| A | A : Okay , well , thanks .
+	Free: 
+	Constrained: 
+Turn ID=70| B | M : I'm not a huge fan of the new colors .
+	Free: Pattern=of the, Pattern=I'm, Pattern=a, Pattern=not
+	Constrained: Pattern=the, Pattern=of
+Turn ID=71| A | A : It was nice talking to you too . Bye-bye .
+	Free: Pattern=too ., Pattern=to, Pattern=you, Pattern=was
+	Constrained: Pattern=too

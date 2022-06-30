@@ -1,0 +1,79 @@
+A|0| A: _That's_ right . _I'm_ _not_ even _really_ sure _at_ _this_ point _in_ time _, you know ,_ what , what programs are out there . 
+B|1| B: _but_ there's probably something else _that_ might make [you] . Because [you] could [know] _about_ [, you] could [know] _about_ _the_ crime , _but_ [not] necessarily be taken off _the_ jury [, you know ,] [not] be accepted _for_ _the_ jury . 
+A|2| A: See , that's we've _we_ had _a_ problem with [that] . 
+B|3| B: No , no , _it ,_ no _I_ don't go _to_ East Texas . _I_ got [a] degree from T W U , _but_ [I'm] [really] interested [in] legal [, you know ,] [in] _the_ legal environment , _but_ _I_ don't want _to_ be [a] lawyer so _I_ said well _, I_ think I'll go back _to_ school _and_ see _about_ _being_ [a] legal assistant . 
+A|4| A: Well , _they_ fear [being] dependent on _somebody_ . 
+B|5| B: _I_ [know _,] I_ [, you] read _about_ _it_ [in] _the_ paper , every day , [somebody] who's done [this] , or [that] , something [really] horrible 
+A|6| A: So , yeah , that's why , that's why England was nice . Even _, we_ traveled [in] Europe [for] [about] [a] week , [and] [that] was even nice _because_ there wasn't , uh , [the] , most [the] places _we_ went _, we_ went [to] Germany [and] Switzerland [and] , 
+B|7| B: [That's] always [a] good thing . Vegetable trays always go over so well , [because] _I_ think people get tired of eating junk . _I_ mean _, I_ think [they] like [to] have healthy stuff too [, you know] it's , 
+A|8| A: Watch me . 
+B|9| B: Right . 
+A|10| A: Pardon me ? 
+B|11| B: [and] [they] have one [at] ten . 
+A|12| A: Okay . 
+B|13| B: Yeah . 
+A|14| A: _Oh_ , yes [, I] sure do . 
+B|15| B: Sure . 
+A|16| A: [and] [you] feel stupid doing [that] [but] _we_ did [it ,] 
+B|17| B: And [we] [, we] [the] taxpayers float him [a] loan [for] all all those bad checks , no interest , no repayment schedule . 
+B|18| B: [Oh] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : That's right . I'm not even really sure at this point in time , you know , what , what programs are out there .
+	Free: Pattern=I'm, Pattern=That's, Pattern=, you know ,, Pattern=at, Pattern=in, Pattern=really, Pattern=this, Pattern=not
+	Constrained: Pattern=know ,, Pattern=you, Pattern=, you know, Pattern=know, Pattern=, you
+Turn ID=1| B | B : but there's probably something else that might make you . Because you could know about , you could know about the crime , but not necessarily be taken off the jury , you know , not be accepted for the jury .
+	Free: Pattern=you, Pattern=, you know ,, Pattern=for, Pattern=about, Pattern=the, Pattern=not, Pattern=know, Pattern=, you, Pattern=that, Pattern=but
+	Constrained: Pattern=know ,, Pattern=you, Pattern=, you know, Pattern=know, Pattern=, you
+Turn ID=2| A | A : See , that's we've we had a problem with that .
+	Free: Pattern=that, Pattern=a, Pattern=we
+	Constrained: 
+Turn ID=3| B | B : No , no , it , no I don't go to East Texas . I got a degree from T W U , but I'm really interested in legal , you know , in the legal environment , but I don't want to be a lawyer so I said well , I think I'll go back to school and see about being a legal assistant .
+	Free: Pattern=I'm, Pattern=and, Pattern=I, Pattern=being, Pattern=about, Pattern=in, Pattern=the, Pattern=to, Pattern=but, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=it ,, Pattern=really
+	Constrained: Pattern=know ,, Pattern=you, Pattern=it, Pattern=I, Pattern=, you know, Pattern=know, Pattern=, you
+Turn ID=4| A | A : Well , they fear being dependent on somebody .
+	Free: Pattern=somebody, Pattern=being, Pattern=they
+	Constrained: 
+Turn ID=5| B | B : I know , I , you read about it in the paper , every day , somebody who's done this , or that , something really horrible
+	Free: Pattern=know ,, Pattern=, I, Pattern=I, Pattern=about, Pattern=in, Pattern=, you, Pattern=really, Pattern=the, Pattern=this, Pattern=that, Pattern=it, Pattern=somebody
+	Constrained: Pattern=I, Pattern=you, Pattern=know
+Turn ID=6| A | A : So , yeah , that's why , that's why England was nice . Even , we traveled in Europe for about a week , and that was even nice because there wasn't , uh , the , most the places we went , we went to Germany and Switzerland and ,
+	Free: Pattern=for, Pattern=about, Pattern=in, Pattern=we, Pattern=the, Pattern=to, Pattern=that, Pattern=a, Pattern=because, Pattern=and, Pattern=, we
+	Constrained: Pattern=we
+Turn ID=7| B | B : That's always a good thing . Vegetable trays always go over so well , because I think people get tired of eating junk . I mean , I think they like to have healthy stuff too , you know it's ,
+	Free: Pattern=I, Pattern=, you know, Pattern=to, Pattern=they, Pattern=That's, Pattern=, I, Pattern=a, Pattern=because
+	Constrained: Pattern=I, Pattern=, you, Pattern=you, Pattern=know
+Turn ID=8| A | A : Watch me .
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : Pardon me ?
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : and they have one at ten .
+	Free: Pattern=at, Pattern=they, Pattern=and
+	Constrained: 
+Turn ID=12| A | A : Okay .
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : Oh , yes , I sure do .
+	Free: Pattern=, I, Pattern=Oh
+	Constrained: Pattern=I
+Turn ID=15| B | B : Sure .
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : and you feel stupid doing that but we did it ,
+	Free: Pattern=you, Pattern=and, Pattern=it ,, Pattern=we, Pattern=that, Pattern=but
+	Constrained: Pattern=it
+Turn ID=17| B | B : And we , we the taxpayers float him a loan for all all those bad checks , no interest , no repayment schedule .
+	Free: Pattern=a, Pattern=for, Pattern=, we, Pattern=we, Pattern=the
+	Constrained: Pattern=we
+Turn ID=18| B | B : Oh .
+	Free: Pattern=Oh
+	Constrained: 

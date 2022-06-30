@@ -1,0 +1,199 @@
+A|0| A: Oh , yeah ? 
+B|1| M: We _do_ . 
+A|2| A: _Yeah ._ 
+B|3| M: uhhhhhhh . Uhuh . 
+A|4| A: Especially when _you_ _have a_ lot _of_ problems with _the_ children teeth , and , and _you_ _have to_ really _get_ them when _they_ are young , _in_ order _to_ _have_ , uh , _not_ , uh , _a_ decent smile when _they_ are fifteen , sixteen years old . 
+B|5| M: Well _, that's_ how _it's_ supposed [to] _be_ . 
+A|6| A: about , uh , like _you_ say , using them , our interest there _is_ _, you_ _know_ , _what_ profit we could make off _of_ _any_ _kind of_ relationship with them , 
+B|7| M: Not sure _if_ _you're_ joking _, but_ _I_ [have a] friend _who_ plays piano . 
+A|8| A: _And_ , yes , [you're] _right_ _, I think_ [it's] [a] sixties program . _I think_ _it_ was _one_ _of_ Kennedy's hot points _that_ he , _that_ was his big deal . 
+B|9| M: I'm [not] sure [you] understand how this [is] relevant [to] [the] topic . 
+A|10| A: and [I] worked _in_ [a] very rural school district and _I _,_ _I_ ,_ _one_ _of the_ things [I] taught was [a] computer class 
+B|11| M: Beats me . I'm [not] [a] fan _of that_ [kind of] stuff . 
+A|12| A: _Yeah_ , yeah . 
+B|13| M: [I] 
+A|14| A: Uh-huh . 
+B|15| M: That's [the] point [of the] place _. But_ [I] don'think you'll _be able to_ find [it] [in] time . 
+A|16| A: It goes from hot , and then [you] _get_ [a] couple [of] weeks [of that] Indian Summer , and then [it's] cold 
+B|17| M: [I] _know ._ 
+A|18| A: Oh _, you_ are ? 
+B|19| M: I'd rather _just_ [get] [the] P C 
+A|20| A: Yes . Do _you ,_ Do [you] _think_ [that] [you] should fund [that] [if] _they_ [have] [that] as [a] benefit , [if] [you] _would_ fund [that] somewhat from your salary [that] [you] are getting ? Do [you] _think_ [that] _would be_ , acceptable ? 
+B|21| M: Uhh [, I think] [they] were _just_ [a] bit _too_ serious . 
+A|22| A: Uh , oh . 
+B|23| M: [I] [have _to] read_ [the] newspaper . I'm _too_ lazy . 
+A|24| A: [But] [, but] , yeah , substantially _, you_ [know .] Um , [do] [you] like living [in] an older home and restoring [it] like [that] ? 
+B|25| M: You [would] [think] [they] [would _be] able to_ . 
+A|26| A: [But] , uh _, you_ certainly should [not] judge [a] book by its cover and , uh , or evaluate [a] person by [that] . 
+B|27| M: _So_ ... How's [it] _going_ ? 
+A|28| A: _Yeah ._ 
+B|29| M: It's random . 
+A|30| A: _Yeah_ [, that's] [, that's] _right_ talk [to] [, I] _had_ [to] talk about gun control with somebody and [I] talked with [a] woman [who] actually _, you_ [know] , _had_ [just] purchased [a] gun [that] day , and was [going] target shooting _, you_ [know] , 
+B|31| M: [Yeah _.] But_ I'm [not] [the] [one] [who] likes bread . [right] . well . 
+A|32| A: now [I] noticed [just] [the] other day [in] [the] paper [that] , [that] Medicare will [be] based , payments will [be] based [not] , uh , [just] on cost [, but] on cost effectiveness . [So] [I] 
+B|33| M: That's [what] [they] want [you] [to] [think] . 
+A|34| A: there's buildings and concrete and [a] lot [of] people and [that's] about [it] down here , and _so_ , 
+B|35| M: [you [,] you] 
+A|36| A: [Yeah] [, that's] true [. But] [but] , uh [, I think] [, I] mean even more than [that] , even [, I] mean [if] [you] drop out [in] high school [you] should still [be able [to] read] [you] [know] ? Which [it] [I] mean [it] sounds like , uh , 
+B|37| M: [I] 
+A|38| A: _And_ then [I] went [to] England [a] few years ago . 
+B|39| M: [I] [have] seen [it] [in] Raleigh . 
+A|40| A: I'll [have to] check [it] out . [I] saw [the] , [the] , uh , previews _for_ [it] and all and [it] did look like it'd [be] [a] good movie [, but] , 
+B|41| M: I'm 
+A|42| A: _And_ , [it] makes , [it] makes [it] nice . It makes [, you] [know] [, you] can say classy or [it] makes an elegant wedding [to] [have] something else . 
+B|43| M:  
+A|44| A: Uh-huh . Sure . Makes , uh , makes [a] colorful salad [too] . 
+B|45| M: I've always wondered why I've never seen [any] windows [in] my house . 
+A|46| A: [Yeah] , uh [, I] was living [in] northern Jersey when [that] law came through , remember hearing all about [it] , 
+B|47| M: [And] we've been saying this [for] [a] long time [, but] we've never [had] [it] work , [so] we've always been [able to] 
+B|48| M: [I ,] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Oh , yeah ?
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : We do .
+	Free: Pattern=do
+	Constrained: 
+Turn ID=2| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=3| B | M : uhhhhhhh . Uhuh .
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : Especially when you have a lot of problems with the children teeth , and , and you have to really get them when they are young , in order to have , uh , not , uh , a decent smile when they are fifteen , sixteen years old .
+	Free: Pattern=of, Pattern=you, Pattern=have, Pattern=a, Pattern=in, Pattern=the, Pattern=have to, Pattern=to, Pattern=get, Pattern=not, Pattern=they, Pattern=have a
+	Constrained: Pattern=a, Pattern=have, Pattern=to
+Turn ID=5| B | M : Well , that's how it's supposed to be .
+	Free: Pattern=, that's, Pattern=be, Pattern=it's, Pattern=to
+	Constrained: Pattern=that's
+Turn ID=6| A | A : about , uh , like you say , using them , our interest there is , you know , what profit we could make off of any kind of relationship with them ,
+	Free: Pattern=of, Pattern=kind of, Pattern=you, Pattern=what, Pattern=any, Pattern=is, Pattern=know, Pattern=, you
+	Constrained: Pattern=you, Pattern=of
+Turn ID=7| B | M : Not sure if you're joking , but I have a friend who plays piano .
+	Free: Pattern=you're, Pattern=, but, Pattern=have a, Pattern=who, Pattern=I, Pattern=if
+	Constrained: Pattern=but, Pattern=a, Pattern=have
+Turn ID=8| A | A : And , yes , you're right , I think it's a sixties program . I think it was one of Kennedy's hot points that he , that was his big deal .
+	Free: Pattern=And, Pattern=a, Pattern=it, Pattern=one, Pattern=right, Pattern=you're, Pattern=of, Pattern=I think, Pattern=, I think, Pattern=that, Pattern=it's
+	Constrained: Pattern=I think, Pattern=, I, Pattern=think, Pattern=I
+Turn ID=9| B | M : I'm not sure you understand how this is relevant to the topic .
+	Free: Pattern=you, Pattern=is, Pattern=the, Pattern=to, Pattern=not
+	Constrained: 
+Turn ID=10| A | A : and I worked in a very rural school district and I , I , one of the things I taught was a computer class
+	Free: Pattern=I ,, Pattern=in, Pattern=of the, Pattern=, I, Pattern=a, Pattern=one, Pattern=I
+	Constrained: Pattern=the, Pattern=of, Pattern=I
+Turn ID=11| B | M : Beats me . I'm not a fan of that kind of stuff .
+	Free: Pattern=of that, Pattern=kind of, Pattern=not, Pattern=a
+	Constrained: Pattern=of, Pattern=that
+Turn ID=12| A | A : Yeah , yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=13| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=14| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : That's the point of the place . But I don'think you'll be able to find it in time .
+	Free: Pattern=be able to, Pattern=. But, Pattern=it, Pattern=I, Pattern=in, Pattern=the, Pattern=of the
+	Constrained: Pattern=of, Pattern=able to, Pattern=But, Pattern=be, Pattern=the, Pattern=to
+Turn ID=16| A | A : It goes from hot , and then you get a couple of weeks of that Indian Summer , and then it's cold
+	Free: Pattern=of, Pattern=you, Pattern=of that, Pattern=a, Pattern=get, Pattern=it's
+	Constrained: Pattern=of, Pattern=that
+Turn ID=17| B | M : I know .
+	Free: Pattern=know ., Pattern=I
+	Constrained: Pattern=know
+Turn ID=18| A | A : Oh , you are ?
+	Free: Pattern=, you
+	Constrained: Pattern=you
+Turn ID=19| B | M : I'd rather just get the P C
+	Free: Pattern=just, Pattern=the, Pattern=get
+	Constrained: 
+Turn ID=20| A | A : Yes . Do you , Do you think that you should fund that if they have that as a benefit , if you would fund that somewhat from your salary that you are getting ? Do you think that would be , acceptable ?
+	Free: Pattern=you, Pattern=have, Pattern=they, Pattern=a, Pattern=if, Pattern=think, Pattern=would, Pattern=you ,, Pattern=that, Pattern=would be
+	Constrained: Pattern=you, Pattern=be, Pattern=would
+Turn ID=21| B | M : Uhh , I think they were just a bit too serious .
+	Free: Pattern=just, Pattern=they, Pattern=a, Pattern=too, Pattern=, I think
+	Constrained: Pattern=I think, Pattern=, I, Pattern=think, Pattern=I
+Turn ID=22| A | A : Uh , oh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : I have to read the newspaper . I'm too lazy .
+	Free: Pattern=too, Pattern=I, Pattern=the, Pattern=to read, Pattern=have to
+	Constrained: Pattern=have, Pattern=to
+Turn ID=24| A | A : But , but , yeah , substantially , you know . Um , do you like living in an older home and restoring it like that ?
+	Free: Pattern=do, Pattern=it, Pattern=But, Pattern=in, Pattern=, you, Pattern=know ., Pattern=that, Pattern=you, Pattern=, but
+	Constrained: Pattern=know, Pattern=but, Pattern=you
+Turn ID=25| B | M : You would think they would be able to .
+	Free: Pattern=be able to, Pattern=they, Pattern=think, Pattern=would, Pattern=would be
+	Constrained: Pattern=able to, Pattern=be, Pattern=would, Pattern=to
+Turn ID=26| A | A : But , uh , you certainly should not judge a book by its cover and , uh , or evaluate a person by that .
+	Free: Pattern=a, Pattern=But, Pattern=, you, Pattern=that, Pattern=not
+	Constrained: Pattern=you
+Turn ID=27| B | M : So ... How's it going ?
+	Free: Pattern=So, Pattern=it, Pattern=going
+	Constrained: 
+Turn ID=28| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=29| B | M : It's random .
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : Yeah , that's , that's right talk to , I had to talk about gun control with somebody and I talked with a woman who actually , you know , had just purchased a gun that day , and was going target shooting , you know ,
+	Free: Pattern=right, Pattern=I, Pattern=had, Pattern=, that's, Pattern=to, Pattern=Yeah, Pattern=that, Pattern=going, Pattern=just, Pattern=who, Pattern=, I, Pattern=a, Pattern=know, Pattern=, you
+	Constrained: Pattern=that's, Pattern=you, Pattern=I
+Turn ID=31| B | M : Yeah . But I'm not the one who likes bread . right . well .
+	Free: Pattern=Yeah ., Pattern=right, Pattern=. But, Pattern=who, Pattern=one, Pattern=the, Pattern=not
+	Constrained: Pattern=Yeah, Pattern=But
+Turn ID=32| A | A : now I noticed just the other day in the paper that , that Medicare will be based , payments will be based not , uh , just on cost , but on cost effectiveness . So I
+	Free: Pattern=, but, Pattern=just, Pattern=So, Pattern=I, Pattern=in, Pattern=be, Pattern=the, Pattern=that, Pattern=not
+	Constrained: Pattern=but
+Turn ID=33| B | M : That's what they want you to think .
+	Free: Pattern=you, Pattern=think, Pattern=to, Pattern=what, Pattern=they
+	Constrained: 
+Turn ID=34| A | A : there's buildings and concrete and a lot of people and that's about it down here , and so ,
+	Free: Pattern=of, Pattern=a, Pattern=it, Pattern=that's, Pattern=so
+	Constrained: 
+Turn ID=35| B | M : you , you
+	Free: Pattern=you ,, Pattern=, you
+	Constrained: Pattern=you
+Turn ID=36| A | A : Yeah , that's true . But but , uh , I think , I mean even more than that , even , I mean if you drop out in high school you should still be able to read you know ? Which it I mean it sounds like , uh ,
+	Free: Pattern=be able to, Pattern=you, Pattern=. But, Pattern=, I, Pattern=it, Pattern=in, Pattern=know, Pattern=, I think, Pattern=to read, Pattern=, that's, Pattern=Yeah, Pattern=I, Pattern=if, Pattern=that, Pattern=but
+	Constrained: Pattern=I, Pattern=But, Pattern=think, Pattern=that's, Pattern=to, Pattern=able to, Pattern=, I, Pattern=I think, Pattern=be
+Turn ID=37| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=38| A | A : And then I went to England a few years ago .
+	Free: Pattern=a, Pattern=I, Pattern=And, Pattern=to
+	Constrained: 
+Turn ID=39| B | M : I have seen it in Raleigh .
+	Free: Pattern=I, Pattern=it, Pattern=have, Pattern=in
+	Constrained: 
+Turn ID=40| A | A : I'll have to check it out . I saw the , the , uh , previews for it and all and it did look like it'd be a good movie , but ,
+	Free: Pattern=, but, Pattern=a, Pattern=for, Pattern=it, Pattern=I, Pattern=be, Pattern=the, Pattern=have to
+	Constrained: Pattern=but, Pattern=have, Pattern=to
+Turn ID=41| B | M : I'm
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : And , it makes , it makes it nice . It makes , you know , you can say classy or it makes an elegant wedding to have something else .
+	Free: Pattern=it, Pattern=to, Pattern=And, Pattern=have, Pattern=know, Pattern=, you
+	Constrained: Pattern=you
+Turn ID=43| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : Uh-huh . Sure . Makes , uh , makes a colorful salad too .
+	Free: Pattern=too, Pattern=a
+	Constrained: 
+Turn ID=45| B | M : I've always wondered why I've never seen any windows in my house .
+	Free: Pattern=any, Pattern=in
+	Constrained: 
+Turn ID=46| A | A : Yeah , uh , I was living in northern Jersey when that law came through , remember hearing all about it ,
+	Free: Pattern=, I, Pattern=it, Pattern=in, Pattern=Yeah, Pattern=that
+	Constrained: Pattern=I
+Turn ID=47| B | M : And we've been saying this for a long time , but we've never had it work , so we've always been able to
+	Free: Pattern=, but, Pattern=And, Pattern=for, Pattern=it, Pattern=had, Pattern=so, Pattern=able to, Pattern=a
+	Constrained: Pattern=but, Pattern=to
+Turn ID=48| B | M : I ,
+	Free: Pattern=I ,
+	Constrained: Pattern=I

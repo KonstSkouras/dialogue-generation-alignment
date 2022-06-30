@@ -1,0 +1,299 @@
+B|0| M:  
+A|1| A: How about your community ? 
+B|2| M:  ... 
+A|3| A: Dye Mound ? 
+B|4| M: i 
+A|5| A: Uh-huh . 
+B|6| M: _No_ _, it's_ _not ._ 
+A|7| A: Sounds _like_ _a_ place where _I_ grew up 
+B|8| M: [I] live _in_ [a] small town _in_ Ohio . 
+A|9| A: _Well ,_ [I] _like_ _it ._ 
+B|10| M: You're _the_ _one_ who's downvoting me , I'm telling _you_ what _I think_ 
+A|11| A: Uh-huh . 
+B|12| M: You're _out_ _of_ _the_ country _, it's_ two _and_ [a] quarter miles _of_ concrete . 
+A|13| A: _Well ,_ _good_ . 
+B|14| M: [I] _know_ . you'll never _know_ . 
+A|15| A: _Oh ,_ okay . 
+B|16| M: It's [a] weightless _, uh ,_ crusher . 
+A|17| A: Uh-huh . 
+B|18| M: Yeah . I'm _pretty_ _sure_ _that's_ _the_ reason why [I] _have _a_ hydraulic_ pump on my car . 
+A|19| A: _Oh ._ 
+B|20| M: It's [a] car . 
+A|21| A: _Well ,_ let's hope [not _.] _You_ can_ _be_ [, uh ,] _get_ [in] trouble _for_ _that_ . 
+B|22| M: I'm [not] going _to_ 
+A|23| A: Uh-huh . 
+B|24| M: [Oh .] [Well ,] I'll _have_ _to_ go see [a] doctor _then_ . 
+A|25| A: _Well , it's_ quite _similar to_ [a _hydraulic] jack_ , isn't _it_ ? 
+B|26| M: The real question is , what _do_ _you_ _do_ when _you_ _have_ [to] drop [a hydraulic] 
+A|27| A: Okay , okay . 
+B|28| M: [I] mean [, it's] [similar to] _the_ [hydraulic jack] . 
+A|29| A: Yes , until [you] release _it ._ 
+B|30| M: _That's_ what [I] was wondering . 
+A|31| A: All right . 
+B|32| M: It's [a] small _one_ . 
+A|33| A: [I think] , Yes . 
+B|34| M: So , is there any way [to] change _the_ color _of_ _the_ metal ? 
+A|35| A: _Oh ,_ yes , [I] [sure] [do] . 
+B|36| M: [Oh ,] [do] [you] ? 
+A|37| A: Uh-huh . 
+B|38| M:  ... [I think] 
+A|39| A: Uh-huh . [Oh .] 
+B|40| M: It's _been_ [a] while _. [I_ think] I'm gonna go _get a_ new computer _and_ try [to] make [a] game _of_ [it .] 
+A|41| A: Yes . 
+B|42| M: Uhhh ... [do] _you know_ what's [in] _the_ trash [can] ? 
+A|43| A: [No] . 
+B|44| M: [Well , it's] [a] yard . 
+A|45| A: [Well ,] great . [That's] excellent . 
+B|46| M: [I] don't _know_ . 
+A|47| A: [Well [,] uh ,] _if_ [a] lot [of] _people_ did _that_ , [then] _we_ wouldn't [have a] lot [of] _this_ junk mail . _That's a_ great _idea [._ I] hadn't thought about _that_ [and] _we_ might _be_ able [to] incorporate some [of] _that_ . One thing , 
+B|48| M: If [you] don't mind , I'd [like] [to] _know_ [if] _we could_ put [a] website or something [in] _the_ sidebar [for] [people] who [do] [this] ? 
+A|49| A: Right . 
+B|50| M: [You] can't [. You] can't even recycle . 
+A|51| A: Uh-huh . 
+B|52| M: [That's a] [good] [idea .] 
+A|53| A: Right . 
+B|54| M: [You] mean [I] can't build my own recyclables ? 
+A|55| A: [Oh .] 
+B|56| M: [I] am . 
+A|57| A: Yes . 
+B|58| M: Is [that] [a] question ? 
+A|59| A: [Well ,] [that's] [a] great [idea] , [that's] [a] great [idea .] 
+B|60| M: Metal , so metal . 
+A|61| A: Products . Yes . 
+B|62| M: [You] mean [like] _, you_ make products ? 
+A|63| A: Uh-huh . 
+B|64| M: [You can] recycle them . 
+A|65| A: Yes , _they_ _will ._ 
+B|66| M: They [will .] 
+A|67| A: Exactly . 
+B|68| M: They'll [be] back , just [like] [they] were when [I] got here . 
+A|69| A: Huh . 
+B|70| M: He's from Dallas , Texas . 
+A|71| A: [Well ,] [that's] [a] full time job . 
+B|72| M: [I] work _at_ [a] grocery store . 
+A|73| A: Yes , well , I've found [out] , too , [that] [, uh [,] [you] know] , [a] couple years ago , we've always [been] recycling newspaper [for] [the] last twelve years , [and] [at] [one] time [we could] [get a] [pretty] [good] return [, uh ,] with [the] Boy Scouts . We [could] take [and] collect [the] newspaper , 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : How about your community ?
+	Free: 
+	Constrained: 
+Turn ID=2| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : Dye Mound ?
+	Free: 
+	Constrained: 
+Turn ID=4| B | M : i
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : No , it's not .
+	Free: Pattern=not ., Pattern=, it's, Pattern=No
+	Constrained: Pattern=not
+Turn ID=7| A | A : Sounds like a place where I grew up
+	Free: Pattern=I, Pattern=a, Pattern=like
+	Constrained: 
+Turn ID=8| B | M : I live in a small town in Ohio .
+	Free: Pattern=in, Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=9| A | A : Well , I like it .
+	Free: Pattern=Well ,, Pattern=it ., Pattern=I, Pattern=like
+	Constrained: Pattern=it
+Turn ID=10| B | M : You're the one who's downvoting me , I'm telling you what I think
+	Free: Pattern=I think, Pattern=one, Pattern=you, Pattern=the
+	Constrained: Pattern=I
+Turn ID=11| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : You're out of the country , it's two and a quarter miles of concrete .
+	Free: Pattern=of, Pattern=out, Pattern=a, Pattern=and, Pattern=, it's, Pattern=the
+	Constrained: 
+Turn ID=13| A | A : Well , good .
+	Free: Pattern=Well ,, Pattern=good
+	Constrained: 
+Turn ID=14| B | M : I know . you'll never know .
+	Free: Pattern=I, Pattern=know
+	Constrained: 
+Turn ID=15| A | A : Oh , okay .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=16| B | M : It's a weightless , uh , crusher .
+	Free: Pattern=, uh ,, Pattern=a
+	Constrained: 
+Turn ID=17| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : Yeah . I'm pretty sure that's the reason why I have a hydraulic pump on my car .
+	Free: Pattern=have a, Pattern=I, Pattern=a hydraulic, Pattern=pretty, Pattern=sure, Pattern=that's, Pattern=the
+	Constrained: Pattern=a, Pattern=have
+Turn ID=19| A | A : Oh .
+	Free: Pattern=Oh .
+	Constrained: 
+Turn ID=20| B | M : It's a car .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=21| A | A : Well , let's hope not . You can be , uh , get in trouble for that .
+	Free: Pattern=. You, Pattern=for, Pattern=You can, Pattern=not ., Pattern=get, Pattern=that, Pattern=Well ,, Pattern=in, Pattern=, uh ,, Pattern=be
+	Constrained: Pattern=not, Pattern=You, Pattern=can
+Turn ID=22| B | M : I'm not going to
+	Free: Pattern=not, Pattern=to
+	Constrained: 
+Turn ID=23| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=24| B | M : Oh . Well , I'll have to go see a doctor then .
+	Free: Pattern=have, Pattern=Oh ., Pattern=Well ,, Pattern=to, Pattern=then, Pattern=a
+	Constrained: 
+Turn ID=25| A | A : Well , it's quite similar to a hydraulic jack , isn't it ?
+	Free: Pattern=hydraulic jack, Pattern=similar to, Pattern=it, Pattern=a hydraulic, Pattern=Well , it's
+	Constrained: Pattern=Well ,, Pattern=a, Pattern=to, Pattern=, it's
+Turn ID=26| B | M : The real question is , what do you do when you have to drop a hydraulic
+	Free: Pattern=you, Pattern=have, Pattern=do, Pattern=a hydraulic, Pattern=to
+	Constrained: Pattern=a
+Turn ID=27| A | A : Okay , okay .
+	Free: 
+	Constrained: 
+Turn ID=28| B | M : I mean , it's similar to the hydraulic jack .
+	Free: Pattern=hydraulic jack, Pattern=similar to, Pattern=I, Pattern=, it's, Pattern=the
+	Constrained: Pattern=to
+Turn ID=29| A | A : Yes , until you release it .
+	Free: Pattern=it ., Pattern=you
+	Constrained: Pattern=it
+Turn ID=30| B | M : That's what I was wondering .
+	Free: Pattern=I, Pattern=That's
+	Constrained: 
+Turn ID=31| A | A : All right .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : It's a small one .
+	Free: Pattern=one, Pattern=a
+	Constrained: 
+Turn ID=33| A | A : I think , Yes .
+	Free: Pattern=I think
+	Constrained: Pattern=I
+Turn ID=34| B | M : So , is there any way to change the color of the metal ?
+	Free: Pattern=the, Pattern=to, Pattern=of
+	Constrained: 
+Turn ID=35| A | A : Oh , yes , I sure do .
+	Free: Pattern=Oh ,, Pattern=I, Pattern=sure, Pattern=do
+	Constrained: 
+Turn ID=36| B | M : Oh , do you ?
+	Free: Pattern=Oh ,, Pattern=you, Pattern=do
+	Constrained: 
+Turn ID=37| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M :  ... I think
+	Free: Pattern=I think
+	Constrained: Pattern=I
+Turn ID=39| A | A : Uh-huh . Oh .
+	Free: Pattern=Oh .
+	Constrained: 
+Turn ID=40| B | M : It's been a while . I think I'm gonna go get a new computer and try to make a game of it .
+	Free: Pattern=of, Pattern=it ., Pattern=get a, Pattern=a, Pattern=and, Pattern=. I, Pattern=I think, Pattern=to, Pattern=been
+	Constrained: Pattern=it, Pattern=a, Pattern=I, Pattern=get
+Turn ID=41| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : Uhhh ... do you know what's in the trash can ?
+	Free: Pattern=you know, Pattern=do, Pattern=can, Pattern=in, Pattern=the
+	Constrained: Pattern=you, Pattern=know
+Turn ID=43| A | A : No .
+	Free: Pattern=No
+	Constrained: 
+Turn ID=44| B | M : Well , it's a yard .
+	Free: Pattern=Well , it's, Pattern=a
+	Constrained: Pattern=Well ,, Pattern=, it's
+Turn ID=45| A | A : Well , great . That's excellent .
+	Free: Pattern=Well ,, Pattern=That's
+	Constrained: 
+Turn ID=46| B | M : I don't know .
+	Free: Pattern=I, Pattern=know
+	Constrained: 
+Turn ID=47| A | A : Well , uh , if a lot of people did that , then we wouldn't have a lot of this junk mail . That's a great idea . I hadn't thought about that and we might be able to incorporate some of that . One thing ,
+	Free: Pattern=of, Pattern=That's a, Pattern=people, Pattern=have a, Pattern=and, Pattern=if, Pattern=. I, Pattern=Well ,, Pattern=idea ., Pattern=we, Pattern=to, Pattern=this, Pattern=that, Pattern=then, Pattern=a, Pattern=, uh ,, Pattern=be
+	Constrained: Pattern=idea, Pattern=have, Pattern=That's, Pattern=a, Pattern=I
+Turn ID=48| B | M : If you don't mind , I'd like to know if we could put a website or something in the sidebar for people who do this ?
+	Free: Pattern=you, Pattern=people, Pattern=if, Pattern=in, Pattern=know, Pattern=like, Pattern=the, Pattern=to, Pattern=this, Pattern=do, Pattern=a, Pattern=for, Pattern=we could
+	Constrained: Pattern=we, Pattern=could
+Turn ID=49| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=50| B | M : You can't . You can't even recycle .
+	Free: Pattern=. You, Pattern=You
+	Constrained: Pattern=You
+Turn ID=51| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=52| B | M : That's a good idea .
+	Free: Pattern=That's a, Pattern=idea ., Pattern=good
+	Constrained: Pattern=That's, Pattern=a, Pattern=idea
+Turn ID=53| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=54| B | M : You mean I can't build my own recyclables ?
+	Free: Pattern=I, Pattern=You
+	Constrained: 
+Turn ID=55| A | A : Oh .
+	Free: Pattern=Oh .
+	Constrained: 
+Turn ID=56| B | M : I am .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=57| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=58| B | M : Is that a question ?
+	Free: Pattern=a, Pattern=that
+	Constrained: 
+Turn ID=59| A | A : Well , that's a great idea , that's a great idea .
+	Free: Pattern=idea, Pattern=a, Pattern=Well ,, Pattern=idea ., Pattern=that's
+	Constrained: Pattern=idea
+Turn ID=60| B | M : Metal , so metal .
+	Free: 
+	Constrained: 
+Turn ID=61| A | A : Products . Yes .
+	Free: 
+	Constrained: 
+Turn ID=62| B | M : You mean like , you make products ?
+	Free: Pattern=, you, Pattern=You, Pattern=like
+	Constrained: Pattern=you
+Turn ID=63| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=64| B | M : You can recycle them .
+	Free: Pattern=You can
+	Constrained: Pattern=You, Pattern=can
+Turn ID=65| A | A : Yes , they will .
+	Free: Pattern=will ., Pattern=they
+	Constrained: 
+Turn ID=66| B | M : They will .
+	Free: Pattern=will .
+	Constrained: 
+Turn ID=67| A | A : Exactly .
+	Free: 
+	Constrained: 
+Turn ID=68| B | M : They'll be back , just like they were when I got here .
+	Free: Pattern=I, Pattern=be, Pattern=they, Pattern=like
+	Constrained: 
+Turn ID=69| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=70| B | M : He's from Dallas , Texas .
+	Free: 
+	Constrained: 
+Turn ID=71| A | A : Well , that's a full time job .
+	Free: Pattern=Well ,, Pattern=that's, Pattern=a
+	Constrained: 
+Turn ID=72| B | M : I work at a grocery store .
+	Free: Pattern=I, Pattern=at, Pattern=a
+	Constrained: 
+Turn ID=73| A | A : Yes , well , I've found out , too , that , uh , you know , a couple years ago , we've always been recycling newspaper for the last twelve years , and at one time we could get a pretty good return , uh , with the Boy Scouts . We could take and collect the newspaper ,
+	Free: Pattern=good, Pattern=get a, Pattern=a, Pattern=and, Pattern=one, Pattern=at, Pattern=, you, Pattern=pretty, Pattern=, uh ,, Pattern=the, Pattern=that, Pattern=out, Pattern=you know, Pattern=for, Pattern=we could, Pattern=been, Pattern=could
+	Constrained: Pattern=you, Pattern=a, Pattern=know, Pattern=we, Pattern=could, Pattern=get

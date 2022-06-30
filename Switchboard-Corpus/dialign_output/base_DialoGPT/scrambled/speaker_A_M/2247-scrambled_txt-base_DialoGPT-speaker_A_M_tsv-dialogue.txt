@@ -1,0 +1,231 @@
+A|0| A: and _so_ _it_ kind _of_ wound down , 
+B|1| M:  ..., 
+A|2| A: Uh-huh . Uh-huh . 
+B|3| M: Fun . 
+A|4| A: _is that_ _in_ term , 
+B|5| M: What do _you_ mean ? 
+A|6| A: My wife _had_ _, uh ,_ just put _in_ _a_ bunch _of_ _, I_ want to say , they _are_ pansies . 
+B|7| M:  
+A|8| A: Yeah . 
+B|9| M: [I] _like_ _the_ ones [that] [are] _the_ ones _with the_ funny music 
+A|10| A: _Uh ,_ _Uh ,_ University _of_ Southern Mississippi . 
+B|11| M: h ? 
+A|12| A: Yes , uh-huh . 
+B|13| M: Not all [of] them . There [are] [a] lot [of] places _where_ police [are] _not_ _the most_ effective . 
+A|14| A: And _it's_ [not] an easy sacrifice for [a] person to make , because , [you] _know , I_ , [you] _know , I_ _have_ interests [that] , too , 
+B|15| M: No [, I] was _the_ coach . 
+A|16| A: _It_ , _it_ turned out to _be_ [a] _, a_ Chrysler _. Uh_ Lancer . 
+B|17| M: What [are] [you] [, a] fruit farmer ? 
+A|18| A: Yeah . 
+B|19| M: I'm sure 
+A|20| A: _Well_ well , [like] , um , well [, I] can't _really_ _think_ [of] _any_ off [the] top [of] _my_ head right now because there's _so_ few and far between . 
+B|21| M: [I] ... 
+A|22| A: Really ? 
+B|23| M: _But_ [, I] don't [know _,] that's_ [the] whole system . 
+A|24| A: Sure . Yeah . 
+B|25| M: _Well [,_ I] mean , I'm [not] sure _if_ _they're_ gonna [be] [any] fun tonight . 
+A|26| A: yeah , _it's_ [the] unsweetened kind _it's_ [not] [like] Nestles Quik . 
+B|27| M: [It] ' 
+A|28| A: [Well ,] no , and _it's_ , _it's_ just [not] , um , _it's_ [not] as stable for [the] kids , 
+B|29| M: He [is] [my] father 
+A|30| A: Yeah . 
+B|31| M: but [, uh ,] I'm [not] sure [you] understand _how_ [it] works 
+A|32| A: Uh-huh . 
+B|33| M: [I] don't [know] . 
+A|34| A: Snow peas [are] up and [, uh ,] [my] wife _does_ [, uh [,] a] small herb garden on [the] side . 
+B|35| M: That's [not] [really] [the] case , I've never [had] [a] case [in] which [the] defendant was [not] involved . 
+A|36| A: amount [of] people eat , *listen and then say , man this [is] [really] good , 
+B|37| M: What about [the] dog ? 
+A|38| A: Yeah . 
+B|39| M: [Uh ,] [have] [you] ever [had] [a] Suzuki student ? 
+A|40| A: [But] for [the most] _part_ [I] truly believe [that] [the] parents would [be] better [if] they were [with the] children . 
+B|41| M:  ... I'm [so] sorry . 
+A|42| A: _Oh_ , uh-huh . Yeah . 
+B|43| M: [I] don't [think] [it] was . 
+A|44| A: _Oh_ , yeah . 
+B|45| M: [But] [does] [it's] sad . 
+A|46| A: _Oh_ , [how] sweet . 
+B|47| M: He was [a] pet . 
+A|48| A: _Oh_ , okay [, _I] know_ [where] [that] [is] . 
+B|49| M: [Oh] [. Uh] 
+A|50| A: Yeah [, that's] very true . You [know ,] [how] many , [is] [it] they say we [have] [so] many lawyers [in] this country , and [I] guess [, I] [, I] live near Washington , _being_ [in] , [in] Baltimore , [it's] something [like] one [in] four people , [in] [the] Washington , area , [are] lawyers , 
+B|51| M: What do [you] [think] you're doing ? 
+A|52| A: [Well] . 
+B|53| M: [I [know] , I] was joking . 
+A|54| A: both , yeah , both females , [they're] both spayed , um , or whatever [it] [is] , neutered , [you] [know ,] um , 
+B|55| M: The best [part] [is that] [my] cats'names [are] [the] same . 
+B|56| M: It's called [being] [a] judge . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : and so it kind of wound down ,
+	Free: Pattern=it, Pattern=so, Pattern=of
+	Constrained: 
+Turn ID=1| B | M :  ...,
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : Fun .
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : is that in term ,
+	Free: Pattern=is that, Pattern=in
+	Constrained: Pattern=is, Pattern=that
+Turn ID=5| B | M : What do you mean ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=6| A | A : My wife had , uh , just put in a bunch of , I want to say , they are pansies .
+	Free: Pattern=of, Pattern=are, Pattern=in, Pattern=had, Pattern=, uh ,, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=7| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : I like the ones that are the ones with the funny music
+	Free: Pattern=with the, Pattern=like, Pattern=the, Pattern=that, Pattern=are, Pattern=I
+	Constrained: Pattern=the
+Turn ID=10| A | A : Uh , Uh , University of Southern Mississippi .
+	Free: Pattern=Uh ,, Pattern=of
+	Constrained: 
+Turn ID=11| B | M : h ?
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : Yes , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Not all of them . There are a lot of places where police are not the most effective .
+	Free: Pattern=of, Pattern=a, Pattern=are, Pattern=the most, Pattern=where, Pattern=not
+	Constrained: Pattern=the
+Turn ID=14| A | A : And it's not an easy sacrifice for a person to make , because , you know , I , you know , I have interests that , too ,
+	Free: Pattern=you, Pattern=have, Pattern=a, Pattern=know , I, Pattern=not, Pattern=that, Pattern=it's
+	Constrained: Pattern=, I, Pattern=know ,, Pattern=know, Pattern=I
+Turn ID=15| B | M : No , I was the coach .
+	Free: Pattern=, I, Pattern=the
+	Constrained: Pattern=I
+Turn ID=16| A | A : It , it turned out to be a , a Chrysler . Uh Lancer .
+	Free: Pattern=a, Pattern=, a, Pattern=It, Pattern=be, Pattern=it, Pattern=. Uh
+	Constrained: Pattern=a
+Turn ID=17| B | M : What are you , a fruit farmer ?
+	Free: Pattern=, a, Pattern=are, Pattern=you
+	Constrained: Pattern=a
+Turn ID=18| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : I'm sure
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : Well well , like , um , well , I can't really think of any off the top of my head right now because there's so few and far between .
+	Free: Pattern=of, Pattern=, I, Pattern=any, Pattern=think, Pattern=Well, Pattern=the, Pattern=my, Pattern=so, Pattern=really, Pattern=like
+	Constrained: Pattern=I
+Turn ID=21| B | M : I ...
+	Free: Pattern=I
+	Constrained: 
+Turn ID=22| A | A : Really ?
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : But , I don't know , that's the whole system .
+	Free: Pattern=know ,, Pattern=, I, Pattern=But, Pattern=the, Pattern=, that's
+	Constrained: Pattern=know, Pattern=I
+Turn ID=24| A | A : Sure . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : Well , I mean , I'm not sure if they're gonna be any fun tonight .
+	Free: Pattern=, I, Pattern=any, Pattern=if, Pattern=they're, Pattern=Well ,, Pattern=be, Pattern=not
+	Constrained: Pattern=Well, Pattern=I
+Turn ID=26| A | A : yeah , it's the unsweetened kind it's not like Nestles Quik .
+	Free: Pattern=the, Pattern=not, Pattern=it's, Pattern=like
+	Constrained: 
+Turn ID=27| B | M : It '
+	Free: Pattern=It
+	Constrained: 
+Turn ID=28| A | A : Well , no , and it's , it's just not , um , it's not as stable for the kids ,
+	Free: Pattern=Well ,, Pattern=the, Pattern=not, Pattern=it's
+	Constrained: Pattern=Well
+Turn ID=29| B | M : He is my father
+	Free: Pattern=is, Pattern=my
+	Constrained: 
+Turn ID=30| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : but , uh , I'm not sure you understand how it works
+	Free: Pattern=you, Pattern=how, Pattern=it, Pattern=, uh ,, Pattern=not
+	Constrained: 
+Turn ID=32| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : I don't know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=34| A | A : Snow peas are up and , uh , my wife does , uh , a small herb garden on the side .
+	Free: Pattern=are, Pattern=does, Pattern=, a, Pattern=, uh ,, Pattern=the, Pattern=my
+	Constrained: Pattern=a
+Turn ID=35| B | M : That's not really the case , I've never had a case in which the defendant was not involved .
+	Free: Pattern=a, Pattern=in, Pattern=really, Pattern=had, Pattern=the, Pattern=not
+	Constrained: 
+Turn ID=36| A | A : amount of people eat , *listen and then say , man this is really good ,
+	Free: Pattern=is, Pattern=of, Pattern=really
+	Constrained: 
+Turn ID=37| B | M : What about the dog ?
+	Free: Pattern=the
+	Constrained: 
+Turn ID=38| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : Uh , have you ever had a Suzuki student ?
+	Free: Pattern=you, Pattern=have, Pattern=a, Pattern=Uh ,, Pattern=had
+	Constrained: 
+Turn ID=40| A | A : But for the most part I truly believe that the parents would be better if they were with the children .
+	Free: Pattern=with the, Pattern=But, Pattern=the most, Pattern=be, Pattern=that, Pattern=I, Pattern=if, Pattern=part, Pattern=the
+	Constrained: Pattern=the
+Turn ID=41| B | M :  ... I'm so sorry .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=42| A | A : Oh , uh-huh . Yeah .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=43| B | M : I don't think it was .
+	Free: Pattern=it, Pattern=think, Pattern=I
+	Constrained: 
+Turn ID=44| A | A : Oh , yeah .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=45| B | M : But does it's sad .
+	Free: Pattern=does, Pattern=But, Pattern=it's
+	Constrained: 
+Turn ID=46| A | A : Oh , how sweet .
+	Free: Pattern=how, Pattern=Oh
+	Constrained: 
+Turn ID=47| B | M : He was a pet .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=48| A | A : Oh , okay , I know where that is .
+	Free: Pattern=, I, Pattern=where, Pattern=is, Pattern=Oh, Pattern=that, Pattern=I know
+	Constrained: Pattern=know, Pattern=I
+Turn ID=49| B | M : Oh . Uh
+	Free: Pattern=. Uh, Pattern=Oh
+	Constrained: 
+Turn ID=50| A | A : Yeah , that's very true . You know , how many , is it they say we have so many lawyers in this country , and I guess , I , I live near Washington , being in , in Baltimore , it's something like one in four people , in the Washington , area , are lawyers ,
+	Free: Pattern=know ,, Pattern=have, Pattern=, I, Pattern=how, Pattern=it, Pattern=being, Pattern=in, Pattern=is, Pattern=like, Pattern=the, Pattern=, that's, Pattern=it's, Pattern=so, Pattern=are, Pattern=I
+	Constrained: Pattern=know, Pattern=I
+Turn ID=51| B | M : What do you think you're doing ?
+	Free: Pattern=you, Pattern=think
+	Constrained: 
+Turn ID=52| A | A : Well .
+	Free: Pattern=Well
+	Constrained: 
+Turn ID=53| B | M : I know , I was joking .
+	Free: Pattern=know , I, Pattern=I know
+	Constrained: Pattern=, I, Pattern=know ,, Pattern=know, Pattern=I
+Turn ID=54| A | A : both , yeah , both females , they're both spayed , um , or whatever it is , neutered , you know , um ,
+	Free: Pattern=know ,, Pattern=you, Pattern=it, Pattern=they're, Pattern=is
+	Constrained: Pattern=know
+Turn ID=55| B | M : The best part is that my cats'names are the same .
+	Free: Pattern=are, Pattern=is that, Pattern=my, Pattern=part, Pattern=the
+	Constrained: Pattern=is, Pattern=that
+Turn ID=56| B | M : It's called being a judge .
+	Free: Pattern=a, Pattern=being
+	Constrained: 

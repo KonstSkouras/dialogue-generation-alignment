@@ -1,0 +1,191 @@
+A|0| B: _I have_ _not_ read _that_ , although _, _I_ have_ heard _it_ _is_ pretty good . 
+B|1| M: _But_ [I] was told [that] [I] _could_ _have a_ much bigger family . [I] . _could_ [have] _been_ _a_ lot richer . Thats why _I have a_ family _. It_ isnt _really_ _my_ fault 
+A|2| B: _It's_ just kind _of_ _, uh ,_ we're supposed _to_ [have a] chance _to_ _get_ some rain _the_ next couple _of_ days _here _,_ uh ,_ which will _be_ _, you_ _know ,_ [a] little bit more typical _, uh ,_ autumn weather . [But] [really] it's strange _. We_ haven't [really] had an autumn . _It's_ _like_ _we_ went into winter 
+B|3| M: _Well _, I_ mean [,_ you] are [the] one who's [the] one , _right_ ? 
+A|4| B: Uh-huh . 
+B|5| M: You , 
+A|6| B: Uh-huh . 
+B|7| M:  . _and_ ,. 
+A|8| B: [I] _know_ when [my] friend's mother-in-law first went in [, I mean ,] very antisocial . Maybe _it_ takes [a] while _for_ them _to_ say , okay , _well_ I'll _be_ with other people _but_ , 
+B|9| M: You [know ,] [that] [is] true . 
+A|10| B: Yeah [, [I] have a] garden _but_ [you] [know ,] _we_ [have a] garden . 
+B|11| M: [I mean] ... You _do have_ [the] peace corps though . 
+A|12| B: Yeah . 
+B|13| M: What _do_ [you] need ? 
+A|14| B: Tibby [is] [the] dog [and] Liberty [is] [the] cat . 
+B|15| M: Uhhhuhhhhhhhhhhhhhhhh . [I] dunno . 
+A|16| B: In [the] summer or _like_ in [the] Easter _time_ , _like_ around _now_ ? 
+B|17| M: _Well _,_ they_ don t [like] [it] [here _,] but_ _they_ don't [like] [to] eat . 
+A|18| B: And so _, and_ in [the] book [, you] [know ,] even , he wrote this book back in [the] seventies _, and_ even _, and_ even then he , he had [a] very good case _for_ [the] fact [they] probably just got lost [and] [they] ditched in [the] water . And _, uh ,_ _because_ he , he mentions , he , he goes through [and] brings out points from [the] Navy's findings [and] so forth . And _, uh ,_ it's probably [, you] [know ,] real close [to] what [, you] [know ,] everyone [is] thinking , _now_ [that] [, they] just got turned around [and] [could] _not_ find their way back . 
+B|19| M: _I'm_ [not] . 
+A|20| B: Yeah . That's [right] . Our own hemisphere [, but] we've , that's [been] _, uh ,_ that's [been] [the] way it's always [been] . 
+B|21| M: [you] . 
+A|22| B: [I] saw [that] _on_ Hard Copy 
+B|23| M: [well] uhuh . 
+A|24| B: [you] just kind _of_ [have] [to] read [and] understand what [is] going _on_ . 
+B|25| M: s 
+A|26| B: [But] we're [not] into [that] . We're into [like] , [have] [to] _have it_ _all_ _now ._ 
+B|27| M: To [be] fair [, I] don't [have a] choice . [I] can [get] up at any [time] . 
+A|28| B: Anyways [, but] _, uh_ . Yeah , _we_ just had [a] terrible case in Virginia where some girl disappeared [and] _, and_ [the] guy , [like] [I] said , he just _, uh ,_ said [that] he took her [, but] he won't admit [that] she died or whatever _, and_ he won't say where [the] body _is because_ he knows [the] penalty's very [you] [know ,] mandatory life sentences _for_ murder . 
+B|29| M: You can [have it] . 
+A|30| B: [I] [, I] lived in Abilene _for_ [a] little while _, and_ _, uh ,_ worked in [the] Abilene plant , 
+B|31| M: [It's] [been] [on] [the] internet [for] over [a] week [now .] 
+A|32| B: Right . That's [right] . 
+B|33| M:  
+A|34| B: [But] _we_ [like] our area [. It] , [like] [I] said , it's , it's an old house [and] everything 
+B|35| M: So [the] reason [you] don't want [to] [be] there [is because] [of] [the] cart ? 
+A|36| B: [It] starts with an E . 
+B|37| M: They are [all] home made . 
+A|38| B: [I] [I] sure wish [they] [could] build basements in homes in Texas . 
+B|39| M: What's your point ? 
+A|40| B: Yeah . 
+B|41| M: What [is] ? 
+A|42| B: Um , [I'm] done , where [I] work . 
+B|43| M: [It's] [, uh ,] political . 
+A|44| B: [Well , I] [know] in North Carolina , _we_ [do have] capital punishment . 
+B|45| M: [We] are [the] best at something [. We] are [the] only ones who can afford [to] buy [a] new car [, and] [we] are [the] worst at [it] . 
+A|46| B: Yeah . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : I have not read that , although , I have heard it is pretty good .
+	Free: Pattern=, I, Pattern=it, Pattern=is, Pattern=I have, Pattern=that, Pattern=not
+	Constrained: Pattern=I, Pattern=have
+Turn ID=1| B | M : But I was told that I could have a much bigger family . I . could have been a lot richer . Thats why I have a family . It isnt really my fault
+	Free: Pattern=I have a, Pattern=have, Pattern=have a, Pattern=a, Pattern=I, Pattern=But, Pattern=my, Pattern=that, Pattern=really, Pattern=. It, Pattern=been, Pattern=could
+	Constrained: Pattern=have, Pattern=have a, Pattern=a, Pattern=I, Pattern=It, Pattern=I have
+Turn ID=2| A | B : It's just kind of , uh , we're supposed to have a chance to get some rain the next couple of days here , uh , which will be , you know , a little bit more typical , uh , autumn weather . But really it's strange . We haven't really had an autumn . It's like we went into winter
+	Free: Pattern=here ,, Pattern=have a, Pattern=a, Pattern=But, Pattern=, you, Pattern=to, Pattern=get, Pattern=. We, Pattern=of, Pattern=know ,, Pattern=we, Pattern=really, Pattern=like, Pattern=, uh ,, Pattern=be, Pattern=It's, Pattern=the
+	Constrained: Pattern=have, Pattern=We, Pattern=a, Pattern=know, Pattern=you, Pattern=, uh
+Turn ID=3| B | M : Well , I mean , you are the one who's the one , right ?
+	Free: Pattern=Well , I, Pattern=, you, Pattern=the, Pattern=right, Pattern=, I mean ,
+	Constrained: Pattern=you, Pattern=, I, Pattern=I, Pattern=Well ,, Pattern=I mean
+Turn ID=4| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : You ,
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M :  . and ,.
+	Free: Pattern=and
+	Constrained: 
+Turn ID=8| A | B : I know when my friend's mother-in-law first went in , I mean , very antisocial . Maybe it takes a while for them to say , okay , well I'll be with other people but ,
+	Free: Pattern=, I mean ,, Pattern=well, Pattern=a, Pattern=for, Pattern=it, Pattern=I, Pattern=know, Pattern=be, Pattern=to, Pattern=my, Pattern=but
+	Constrained: Pattern=I mean, Pattern=I, Pattern=, I
+Turn ID=9| B | M : You know , that is true .
+	Free: Pattern=know ,, Pattern=is, Pattern=that
+	Constrained: Pattern=know
+Turn ID=10| A | B : Yeah , I have a garden but you know , we have a garden .
+	Free: Pattern=know ,, Pattern=I have a, Pattern=you, Pattern=have a, Pattern=, I, Pattern=we, Pattern=but
+	Constrained: Pattern=have, Pattern=have a, Pattern=a, Pattern=I, Pattern=know, Pattern=I have
+Turn ID=11| B | M : I mean ... You do have the peace corps though .
+	Free: Pattern=I mean, Pattern=do have, Pattern=the
+	Constrained: Pattern=I, Pattern=do, Pattern=have
+Turn ID=12| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : What do you need ?
+	Free: Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=14| A | B : Tibby is the dog and Liberty is the cat .
+	Free: Pattern=the, Pattern=is, Pattern=and
+	Constrained: 
+Turn ID=15| B | M : Uhhhuhhhhhhhhhhhhhhhh . I dunno .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=16| A | B : In the summer or like in the Easter time , like around now ?
+	Free: Pattern=now, Pattern=the, Pattern=like, Pattern=time
+	Constrained: 
+Turn ID=17| B | M : Well , they don t like it here , but they don't like to eat .
+	Free: Pattern=, they, Pattern=here ,, Pattern=, but, Pattern=they, Pattern=it, Pattern=Well ,, Pattern=like, Pattern=to
+	Constrained: Pattern=they, Pattern=but
+Turn ID=18| A | B : And so , and in the book , you know , even , he wrote this book back in the seventies , and even , and even then he , he had a very good case for the fact they probably just got lost and they ditched in the water . And , uh , because he , he mentions , he , he goes through and brings out points from the Navy's findings and so forth . And , uh , it's probably , you know , real close to what , you know , everyone is thinking , now that , they just got turned around and could not find their way back .
+	Free: Pattern=, they, Pattern=know ,, Pattern=they, Pattern=for, Pattern=and, Pattern=, you, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=could, Pattern=now, Pattern=that, Pattern=not, Pattern=a, Pattern=because, Pattern=, and, Pattern=to
+	Constrained: Pattern=they, Pattern=and, Pattern=know, Pattern=you, Pattern=, uh
+Turn ID=19| B | M : I'm not .
+	Free: Pattern=not, Pattern=I'm
+	Constrained: 
+Turn ID=20| A | B : Yeah . That's right . Our own hemisphere , but we've , that's been , uh , that's been the way it's always been .
+	Free: Pattern=right, Pattern=, but, Pattern=, uh ,, Pattern=the, Pattern=been
+	Constrained: Pattern=, uh, Pattern=but
+Turn ID=21| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=22| A | B : I saw that on Hard Copy
+	Free: Pattern=I, Pattern=on, Pattern=that
+	Constrained: 
+Turn ID=23| B | M : well uhuh .
+	Free: Pattern=well
+	Constrained: 
+Turn ID=24| A | B : you just kind of have to read and understand what is going on .
+	Free: Pattern=of, Pattern=you, Pattern=have, Pattern=and, Pattern=is, Pattern=on, Pattern=to
+	Constrained: 
+Turn ID=25| B | M : s
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : But we're not into that . We're into like , have to have it all now .
+	Free: Pattern=have it, Pattern=have, Pattern=now ., Pattern=But, Pattern=like, Pattern=all, Pattern=to, Pattern=that, Pattern=not
+	Constrained: Pattern=now, Pattern=it, Pattern=have
+Turn ID=27| B | M : To be fair , I don't have a choice . I can get up at any time .
+	Free: Pattern=time, Pattern=have a, Pattern=, I, Pattern=I, Pattern=be, Pattern=get
+	Constrained: Pattern=I, Pattern=a, Pattern=have
+Turn ID=28| A | B : Anyways , but , uh . Yeah , we just had a terrible case in Virginia where some girl disappeared and , and the guy , like I said , he just , uh , said that he took her , but he won't admit that she died or whatever , and he won't say where the body is because he knows the penalty's very you know , mandatory life sentences for murder .
+	Free: Pattern=know ,, Pattern=a, Pattern=for, Pattern=and, Pattern=I, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=is because, Pattern=that, Pattern=you, Pattern=, uh, Pattern=, but, Pattern=we, Pattern=like
+	Constrained: Pattern=, uh, Pattern=because, Pattern=and, Pattern=know, Pattern=is, Pattern=but
+Turn ID=29| B | M : You can have it .
+	Free: Pattern=have it
+	Constrained: Pattern=it, Pattern=have
+Turn ID=30| A | B : I , I lived in Abilene for a little while , and , uh , worked in the Abilene plant ,
+	Free: Pattern=for, Pattern=I, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=, uh, Pattern=and
+Turn ID=31| B | M : It's been on the internet for over a week now .
+	Free: Pattern=a, Pattern=now ., Pattern=for, Pattern=been, Pattern=on, Pattern=It's, Pattern=the
+	Constrained: Pattern=now
+Turn ID=32| A | B : Right . That's right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=33| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : But we like our area . It , like I said , it's , it's an old house and everything
+	Free: Pattern=and, Pattern=I, Pattern=But, Pattern=we, Pattern=like, Pattern=. It
+	Constrained: Pattern=It
+Turn ID=35| B | M : So the reason you don't want to be there is because of the cart ?
+	Free: Pattern=of, Pattern=you, Pattern=be, Pattern=the, Pattern=to, Pattern=is because
+	Constrained: Pattern=because, Pattern=is
+Turn ID=36| A | B : It starts with an E .
+	Free: Pattern=It
+	Constrained: 
+Turn ID=37| B | M : They are all home made .
+	Free: Pattern=all
+	Constrained: 
+Turn ID=38| A | B : I I sure wish they could build basements in homes in Texas .
+	Free: Pattern=they, Pattern=I, Pattern=could
+	Constrained: 
+Turn ID=39| B | M : What's your point ?
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : What is ?
+	Free: Pattern=is
+	Constrained: 
+Turn ID=42| A | B : Um , I'm done , where I work .
+	Free: Pattern=I, Pattern=I'm
+	Constrained: 
+Turn ID=43| B | M : It's , uh , political .
+	Free: Pattern=, uh ,, Pattern=It's
+	Constrained: Pattern=, uh
+Turn ID=44| A | B : Well , I know in North Carolina , we do have capital punishment .
+	Free: Pattern=Well , I, Pattern=do have, Pattern=we, Pattern=know
+	Constrained: Pattern=have, Pattern=I, Pattern=Well ,, Pattern=do, Pattern=, I
+Turn ID=45| B | M : We are the best at something . We are the only ones who can afford to buy a new car , and we are the worst at it .
+	Free: Pattern=We, Pattern=a, Pattern=it, Pattern=we, Pattern=the, Pattern=. We, Pattern=, and, Pattern=to
+	Constrained: Pattern=We, Pattern=and
+Turn ID=46| A | B : Yeah .
+	Free: 
+	Constrained: 

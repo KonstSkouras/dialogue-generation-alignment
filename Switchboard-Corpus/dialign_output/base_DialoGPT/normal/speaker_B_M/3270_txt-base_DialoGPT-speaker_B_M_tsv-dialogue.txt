@@ -1,0 +1,187 @@
+A|0| B: Um , 
+B|1| M: _I'm not_ saying _it's_ _not_ _a_ good idea _, but_ _it's_ _a_ terrible idea . 
+A|2| B: Uh-huh . 
+B|3| M: _I_ don't _know_ . 
+A|4| B: _Oh ,_ which state _is_ _that_ ? 
+B|5| M: State _of the_ art . 
+A|6| B: Uh-huh . 
+B|7| M: State _of_ Minnesota . 
+A|8| B: Uh-huh . 
+B|9| M: This [is] one _of the_ ugliest , most bizarre , most confusing , most nonsensical , most ridiculous , most annoying , most disturbing , most incomprehensible , most hilarious , most 
+A|10| B: Right . Right . 
+B|11| M: They might . 
+A|12| B: Yep . Right . 
+B|13| M: The military _, uh ,_ finds 
+A|14| B: Yeah . 
+B|15| M: _I think_ _you_ are talking _about_ _the_ military . 
+A|16| B: Yeah . Definitely [I think] _that_ there's _probably_ [a] lot [of] _waste_ _in_ defense and _in_ government funded research _in_ [the] first place . 
+B|17| M: [I] _know_ . That's why [I] said _it_ . 
+A|18| B: [I] mean there was , um , people at Stanford who were soaking [the] government , [you] [know] , using _millions_ [of] dollars [of] research _money_ _to_ [, uh ,] _for_ [the] President _to_ buy beach homes or whatever [it] was . 
+B|19| M: There's no such thing as [a] [waste] [of] [money] . 
+A|20| B: And [I think] _that_ , _that_ maybe more widespread than well , than we'd _like_ _to_ _have_ [think] . 
+B|21| M: We [have] plenty [of] [money] [for] [it] . 
+A|22| B: _But_ [, but] _then_ [it's] _something_ _that's_ hard _to_ enforce too [I'm] sure . 
+B|23| M: If [you] [think] [that's] [something] we should be worried _about_ , [then] you're [probably] _right ._ 
+A|24| B: Uh-huh . 
+B|25| M: I'mep . 
+A|26| B: Right . 
+B|27| M: _You know_ . [I'm] just'bout [that] . com . 
+A|28| B: Uh-huh . 
+B|29| M: A big crunch . 
+A|30| B: Well , [that's] [right _.] Uh ,_ [I think] [that] , oh _, politicians_ _talk_ [a] lot _about waste_ 
+B|31| M: Because [, uh [,] politicians] don't [talk] [about waste] . 
+A|32| B: [but] [I'm not] sure [that] [that's] _really_ [that] much [of the] problem . 
+B|33| M: Uuhh [. Uh ,] [it's] [not] [like] they are doing anything . 
+A|34| B: [I] mean when [you] look at [something] [like] [the] Gulf War [it] cost us God knows how much . [You know] , at [a] million dollars , [a] pop [for] patriot missiles . 
+B|35| M: Because [it] costs taxpayers [millions] [in] military spending . 
+A|36| B: Yeah . 
+B|37| M: [But] [the] USA never did 
+A|38| B: Right . Uh-huh . 
+B|39| M: It's [not] [really] . 
+A|40| B: Uh-huh . Right . 
+B|41| M: No . 
+A|42| B: Okay All [right .] [You] too . 
+B|43| M: [Oh ,] [I'm] fine , just don't want [to] be alone . 
+A|44| B: Bye-bye . 
+B|45| M: See [you] later 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Um ,
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I'm not saying it's not a good idea , but it's a terrible idea .
+	Free: Pattern=, but, Pattern=a, Pattern=I'm not, Pattern=it's, Pattern=not
+	Constrained: Pattern=I'm, Pattern=not, Pattern=but
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : I don't know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=4| A | B : Oh , which state is that ?
+	Free: Pattern=Oh ,, Pattern=is, Pattern=that
+	Constrained: 
+Turn ID=5| B | M : State of the art .
+	Free: Pattern=of the
+	Constrained: Pattern=the, Pattern=of
+Turn ID=6| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : State of Minnesota .
+	Free: Pattern=of
+	Constrained: 
+Turn ID=8| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : This is one of the ugliest , most bizarre , most confusing , most nonsensical , most ridiculous , most annoying , most disturbing , most incomprehensible , most hilarious , most
+	Free: Pattern=of the, Pattern=is
+	Constrained: Pattern=the, Pattern=of
+Turn ID=10| A | B : Right . Right .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : They might .
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Yep . Right .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : The military , uh , finds
+	Free: Pattern=, uh ,
+	Constrained: 
+Turn ID=14| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : I think you are talking about the military .
+	Free: Pattern=I think, Pattern=about, Pattern=the, Pattern=you
+	Constrained: Pattern=I, Pattern=think
+Turn ID=16| A | B : Yeah . Definitely I think that there's probably a lot of waste in defense and in government funded research in the first place .
+	Free: Pattern=of, Pattern=probably, Pattern=in, Pattern=I think, Pattern=the, Pattern=that, Pattern=waste, Pattern=a
+	Constrained: Pattern=I, Pattern=think
+Turn ID=17| B | M : I know . That's why I said it .
+	Free: Pattern=it, Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=18| A | B : I mean there was , um , people at Stanford who were soaking the government , you know , using millions of dollars of research money to , uh , for the President to buy beach homes or whatever it was .
+	Free: Pattern=you, Pattern=it, Pattern=I, Pattern=know, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=of, Pattern=money, Pattern=for, Pattern=millions
+	Constrained: 
+Turn ID=19| B | M : There's no such thing as a waste of money .
+	Free: Pattern=money, Pattern=a, Pattern=waste, Pattern=of
+	Constrained: 
+Turn ID=20| A | B : And I think that , that maybe more widespread than well , than we'd like to have think .
+	Free: Pattern=have, Pattern=think, Pattern=like, Pattern=I think, Pattern=to, Pattern=that
+	Constrained: Pattern=I, Pattern=think
+Turn ID=21| B | M : We have plenty of money for it .
+	Free: Pattern=have, Pattern=for, Pattern=it, Pattern=of, Pattern=money
+	Constrained: 
+Turn ID=22| A | B : But , but then it's something that's hard to enforce too I'm sure .
+	Free: Pattern=then, Pattern=But, Pattern=that's, Pattern=to, Pattern=it's, Pattern=something, Pattern=, but, Pattern=I'm
+	Constrained: Pattern=but
+Turn ID=23| B | M : If you think that's something we should be worried about , then you're probably right .
+	Free: Pattern=you, Pattern=then, Pattern=probably, Pattern=about, Pattern=think, Pattern=right ., Pattern=that's, Pattern=something
+	Constrained: 
+Turn ID=24| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I'mep .
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : You know . I'm just'bout that . com .
+	Free: Pattern=You know, Pattern=I'm, Pattern=that
+	Constrained: Pattern=know, Pattern=You
+Turn ID=28| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : A big crunch .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Well , that's right . Uh , I think that , oh , politicians talk a lot about waste
+	Free: Pattern=a, Pattern=about waste, Pattern=, politicians, Pattern=right ., Pattern=I think, Pattern=that's, Pattern=. Uh ,, Pattern=talk, Pattern=that
+	Constrained: Pattern=I, Pattern=think, Pattern=waste, Pattern=about
+Turn ID=31| B | M : Because , uh , politicians don't talk about waste .
+	Free: Pattern=, uh ,, Pattern=about waste, Pattern=, politicians, Pattern=talk
+	Constrained: Pattern=about, Pattern=waste
+Turn ID=32| A | B : but I'm not sure that that's really that much of the problem .
+	Free: Pattern=really, Pattern=that's, Pattern=I'm not, Pattern=of the, Pattern=that, Pattern=but
+	Constrained: Pattern=I'm, Pattern=not, Pattern=the, Pattern=of
+Turn ID=33| B | M : Uuhh . Uh , it's not like they are doing anything .
+	Free: Pattern=. Uh ,, Pattern=not, Pattern=it's, Pattern=like
+	Constrained: 
+Turn ID=34| A | B : I mean when you look at something like the Gulf War it cost us God knows how much . You know , at a million dollars , a pop for patriot missiles .
+	Free: Pattern=you, Pattern=a, Pattern=for, Pattern=it, Pattern=I, Pattern=like, Pattern=something, Pattern=You know, Pattern=the
+	Constrained: Pattern=know, Pattern=You
+Turn ID=35| B | M : Because it costs taxpayers millions in military spending .
+	Free: Pattern=it, Pattern=in, Pattern=millions
+	Constrained: 
+Turn ID=36| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : But the USA never did
+	Free: Pattern=the, Pattern=But
+	Constrained: 
+Turn ID=38| A | B : Right . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : It's not really .
+	Free: Pattern=not, Pattern=really
+	Constrained: 
+Turn ID=40| A | B : Uh-huh . Right .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : No .
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : Okay All right . You too .
+	Free: Pattern=right ., Pattern=You
+	Constrained: 
+Turn ID=43| B | M : Oh , I'm fine , just don't want to be alone .
+	Free: Pattern=Oh ,, Pattern=I'm, Pattern=to
+	Constrained: 
+Turn ID=44| A | B : Bye-bye .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : See you later
+	Free: Pattern=you
+	Constrained: 

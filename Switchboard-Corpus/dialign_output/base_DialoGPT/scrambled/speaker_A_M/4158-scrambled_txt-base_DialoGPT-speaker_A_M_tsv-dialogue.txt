@@ -1,0 +1,179 @@
+A|0| A: Right . 
+B|1| M: Alright _then_ . Bye . 
+A|2| A: _I_ think more people would _do_ it if it wasn't such _a_ hassle . 
+B|3| M: _Well_ _uh _,_ I have_ _no_ kids . 
+A|4| A: It's , yeah , That's why we _not_ _sure ,_ we , we're _not_ _sure_ we want to , [uh ,] buy down here , because we actually , we lived up north long enough to appreciate _the_ , um , *listen--one utt ? Minneapolis-Saint Paul is very clean 
+B|5| M: _Yeah _._ Yeah ._ Yep . Yep 
+A|6| A: Really ? _Well ,_ that's _a_ good deal . 
+B|7| M: Yea . _Uh_ . [uh] . 
+A|8| A: So for about twenty twenty , thirty minutes _a_ day we got _a_ baby-sitter comes _in_ . 
+B|9| M: Hm ? Huh ? 
+A|10| A: Oh . 
+B|11| M: You 
+A|12| A: And we [have] to bring _the_ paper bags back every time . Because _they_ won't take them . 
+B|13| M: _Yeah _._ But_ shes [a] strawberry . 
+A|14| A: _and_ [I have] _not_ had to use _the_ heat . 
+B|15| M: ' 
+A|16| A: This , this friend _of_ mine has , well _it's_ _the_ same guy _that_ _was_ watching , [uh ,] _my_ German Shepherd when he got hit _, but_ , [uh ,] went fishing _with_ him on Friday _and_ took , he's got [a] full , [a] pure bred Golden Retriever _and_ [then] [I] had , [uh ,] _the_ puppy , [a] little tiny puppy _and_ we went _and_ took _the_ two dogs up fishing . And this , _they_ just , _they_ had [a] ball romping around , 
+B|17| M: [Well _,] I_ _know_ _what_ I'm doing [with] [my] life . 
+A|18| A: [Yeah .] 
+B|19| M: No _, and_ 
+A|20| A: Long way , [uh ,] 
+B|21| M: _But_ ... [I] 
+A|22| A: Oh , _you're_ kidding [Well ,] _do you_ mind if [I] ask [what] _it's_ worth down there [, I] _mean_ , [what] _it's_ , 
+B|23| M: I'm [not] even [a] fan [of] [the] New York Mets . 
+A|24| A: It kind [of] traveled around travel . 
+B|25| M: _Yeah ,_ please , yes _, and_ . 
+A|26| A: [Uh] , actually [no] . We [have] , [uh ,] quite [a] bit , [uh ,] [the] only problem _that_ we [have] [and] that's _all_ over [the] whole world is ozone [and] [of] course hay fever season 
+B|27| M: I'm guessing [you're] [a] roofer , right ? 
+A|28| A: Oh . 
+B|29| M: They arent . They are [in] [the] garden . 
+A|30| A: Sure [. Yeah .] 
+B|31| M: _Um ,_ I'm [not] _really_ [sure [,] but] [it's] an interesting question . 
+A|32| A: [and] so [I] kind [of] stay 
+B|33| M: The first thing [I] thought [of] [was] [that] [they] are [in] [the] middle [of] [a] street . 
+A|34| A: Uh-huh [. Yeah .] [Um [,] I have] [that] on [my] , [uh ,] computer here [and] also , um [, I] _do_ some work at U T D [and] , [uh ,] that's [what] [they] [have] there [and] it [was] just so nice to be able just to step into [the] position [and] [, and] already [know] [the] _you_ [know] , already [know] [the] , [the] software . And , um [, I] don't [know] from [my] own experience , um , WordPerfect is just so much better than , than Wordstar at least [the] version [of] Wordstar [that] [I] used to [have] . It may be improved by now [but] , 
+B|35| M: I'm sorry . 
+A|36| A: Handling , power , everything [. [Yeah] ,] it just got like [the] top rating . It [was] compared up against , [uh ,] let's see , there [was] like [the] Mazda M X three , [uh ,] Nissan's , whatever , their two , N X two thousand , [the] Civic S [I] [and] it just , _you_ [know] , it , it dominated over _all_ [of] them . Everybody , _all_ [the] , [uh ,] raters loved it . [I] like [the] [, I] like [the] styling [and] [, I] seen [a] few [of] them actually race [and] [they] seem to be [really] good cars for it . 
+B|37| M: I'm 
+A|38| A: Right . 
+B|39| M: The Rams , Chiefs [, and] [the] Chiefs [have] [all] won Super Bowls . 
+A|40| A: It [was] good talking to _you_ . 
+B|41| M: He's still [a] father . 
+A|42| A: that's true [. But] [I] [was] thinking boy , [in] Dallas , if somebody asked me if there were places _you_ wouldn't go by yourself at night , I'd [have] to set them down for about five or ten minutes to list [all] [the] places out . 
+B|43| M: What [do you] [mean] ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : Alright then . Bye .
+	Free: Pattern=then
+	Constrained: 
+Turn ID=2| A | A : I think more people would do it if it wasn't such a hassle .
+	Free: Pattern=I, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=3| B | M : Well uh , I have no kids .
+	Free: Pattern=, I have, Pattern=uh ,, Pattern=Well, Pattern=no
+	Constrained: Pattern=uh, Pattern=have, Pattern=, I, Pattern=I, Pattern=I have
+Turn ID=4| A | A : It's , yeah , That's why we not sure , we , we're not sure we want to , uh , buy down here , because we actually , we lived up north long enough to appreciate the , um , *listen--one utt ? Minneapolis-Saint Paul is very clean
+	Free: Pattern=sure, Pattern=sure ,, Pattern=not, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=sure, Pattern=uh
+Turn ID=5| B | M : Yeah . Yeah . Yep . Yep
+	Free: Pattern=. Yeah ., Pattern=Yeah .
+	Constrained: Pattern=Yeah ., Pattern=. Yeah
+Turn ID=6| A | A : Really ? Well , that's a good deal .
+	Free: Pattern=Well ,, Pattern=a
+	Constrained: Pattern=Well
+Turn ID=7| B | M : Yea . Uh . uh .
+	Free: Pattern=Uh, Pattern=uh
+	Constrained: 
+Turn ID=8| A | A : So for about twenty twenty , thirty minutes a day we got a baby-sitter comes in .
+	Free: Pattern=a, Pattern=in
+	Constrained: 
+Turn ID=9| B | M : Hm ? Huh ?
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : You
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : And we have to bring the paper bags back every time . Because they won't take them .
+	Free: Pattern=the, Pattern=they, Pattern=have
+	Constrained: 
+Turn ID=13| B | M : Yeah . But shes a strawberry .
+	Free: Pattern=. But, Pattern=Yeah ., Pattern=a
+	Constrained: Pattern=But
+Turn ID=14| A | A : and I have not had to use the heat .
+	Free: Pattern=I have, Pattern=not, Pattern=the, Pattern=and
+	Constrained: Pattern=I, Pattern=have
+Turn ID=15| B | M : '
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : This , this friend of mine has , well it's the same guy that was watching , uh , my German Shepherd when he got hit , but , uh , went fishing with him on Friday and took , he's got a full , a pure bred Golden Retriever and then I had , uh , the puppy , a little tiny puppy and we went and took the two dogs up fishing . And this , they just , they had a ball romping around ,
+	Free: Pattern=of, Pattern=, but, Pattern=they, Pattern=and, Pattern=I, Pattern=was, Pattern=my, Pattern=then, Pattern=a, Pattern=uh ,, Pattern=the, Pattern=with, Pattern=that, Pattern=it's
+	Constrained: Pattern=uh, Pattern=but
+Turn ID=17| B | M : Well , I know what I'm doing with my life .
+	Free: Pattern=what, Pattern=, I, Pattern=Well ,, Pattern=know, Pattern=my, Pattern=with
+	Constrained: Pattern=Well, Pattern=I
+Turn ID=18| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=19| B | M : No , and
+	Free: Pattern=, and
+	Constrained: Pattern=and
+Turn ID=20| A | A : Long way , uh ,
+	Free: Pattern=uh ,
+	Constrained: Pattern=uh
+Turn ID=21| B | M : But ... I
+	Free: Pattern=But, Pattern=I
+	Constrained: 
+Turn ID=22| A | A : Oh , you're kidding Well , do you mind if I ask what it's worth down there , I mean , what it's ,
+	Free: Pattern=you're, Pattern=mean, Pattern=what, Pattern=, I, Pattern=do you, Pattern=I, Pattern=Well ,, Pattern=it's
+	Constrained: Pattern=Well, Pattern=I, Pattern=do, Pattern=you
+Turn ID=23| B | M : I'm not even a fan of the New York Mets .
+	Free: Pattern=not, Pattern=the, Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=24| A | A : It kind of traveled around travel .
+	Free: Pattern=of
+	Constrained: 
+Turn ID=25| B | M : Yeah , please , yes , and .
+	Free: Pattern=, and, Pattern=Yeah ,
+	Constrained: Pattern=and
+Turn ID=26| A | A : Uh , actually no . We have , uh , quite a bit , uh , the only problem that we have and that's all over the whole world is ozone and of course hay fever season
+	Free: Pattern=of, Pattern=have, Pattern=no, Pattern=a, Pattern=and, Pattern=uh ,, Pattern=the, Pattern=all, Pattern=that, Pattern=Uh
+	Constrained: Pattern=uh
+Turn ID=27| B | M : I'm guessing you're a roofer , right ?
+	Free: Pattern=you're, Pattern=a
+	Constrained: 
+Turn ID=28| A | A : Oh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : They arent . They are in the garden .
+	Free: Pattern=the, Pattern=in
+	Constrained: 
+Turn ID=30| A | A : Sure . Yeah .
+	Free: Pattern=. Yeah .
+	Constrained: Pattern=Yeah ., Pattern=. Yeah
+Turn ID=31| B | M : Um , I'm not really sure , but it's an interesting question .
+	Free: Pattern=, but, Pattern=really, Pattern=sure ,, Pattern=not, Pattern=Um ,, Pattern=it's
+	Constrained: Pattern=sure, Pattern=but
+Turn ID=32| A | A : and so I kind of stay
+	Free: Pattern=I, Pattern=and, Pattern=of
+	Constrained: 
+Turn ID=33| B | M : The first thing I thought of was that they are in the middle of a street .
+	Free: Pattern=of, Pattern=they, Pattern=a, Pattern=I, Pattern=in, Pattern=the, Pattern=was, Pattern=that
+	Constrained: 
+Turn ID=34| A | A : Uh-huh . Yeah . Um , I have that on my , uh , computer here and also , um , I do some work at U T D and , uh , that's what they have there and it was just so nice to be able just to step into the position and , and already know the you know , already know the , the software . And , um , I don't know from my own experience , um , WordPerfect is just so much better than , than Wordstar at least the version of Wordstar that I used to have . It may be improved by now but ,
+	Free: Pattern=of, Pattern=you, Pattern=have, Pattern=and, Pattern=I, Pattern=know, Pattern=. Yeah ., Pattern=, and, Pattern=was, Pattern=my, Pattern=what, Pattern=they, Pattern=do, Pattern=, I, Pattern=, I have, Pattern=uh ,, Pattern=the, Pattern=Um ,, Pattern=that, Pattern=but
+	Constrained: Pattern=uh, Pattern=have, Pattern=, I, Pattern=and, Pattern=I, Pattern=I have, Pattern=. Yeah, Pattern=Yeah .
+Turn ID=35| B | M : I'm sorry .
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : Handling , power , everything . Yeah , it just got like the top rating . It was compared up against , uh , let's see , there was like the Mazda M X three , uh , Nissan's , whatever , their two , N X two thousand , the Civic S I and it just , you know , it , it dominated over all of them . Everybody , all the , uh , raters loved it . I like the , I like the styling and , I seen a few of them actually race and they seem to be really good cars for it .
+	Free: Pattern=. Yeah, Pattern=of, Pattern=you, Pattern=they, Pattern=and, Pattern=I, Pattern=know, Pattern=really, Pattern=Yeah ,, Pattern=was, Pattern=, I, Pattern=a, Pattern=uh ,, Pattern=the, Pattern=all
+	Constrained: Pattern=I, Pattern=uh
+Turn ID=37| B | M : I'm
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : The Rams , Chiefs , and the Chiefs have all won Super Bowls .
+	Free: Pattern=, and, Pattern=the, Pattern=have, Pattern=all
+	Constrained: Pattern=and
+Turn ID=40| A | A : It was good talking to you .
+	Free: Pattern=you, Pattern=was
+	Constrained: 
+Turn ID=41| B | M : He's still a father .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=42| A | A : that's true . But I was thinking boy , in Dallas , if somebody asked me if there were places you wouldn't go by yourself at night , I'd have to set them down for about five or ten minutes to list all the places out .
+	Free: Pattern=you, Pattern=have, Pattern=. But, Pattern=I, Pattern=in, Pattern=was, Pattern=the, Pattern=all
+	Constrained: Pattern=But
+Turn ID=43| B | M : What do you mean ?
+	Free: Pattern=do you, Pattern=mean
+	Constrained: Pattern=do, Pattern=you

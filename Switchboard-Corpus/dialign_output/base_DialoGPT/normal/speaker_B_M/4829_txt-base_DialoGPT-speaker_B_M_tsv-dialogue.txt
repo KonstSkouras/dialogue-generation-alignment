@@ -1,0 +1,183 @@
+A|0| B: Uh-huh . 
+B|1| M: fun . 
+A|2| B: Right . 
+B|3| M: They _have , uh ,_ _recycling_ . 
+A|4| B: Oh . Right . Over here _, they_ [, uh ,] [have] several private companies _that_ _you_ can take [, uh ,] recycled , materials to . But [, uh ,] if _you_ want to take them all to one place _, they_ [have , uh ,] _the_ first Saturday of every month _, they_ [have] certain places _that_ _you_ can drop them off . _That's_ what _I_ _do_ . Uh _, and_ _I_ _, I_ recycle aluminum , glass [, uh ,] newspapers . 
+B|5| M:  
+A|6| B: So _it's_ nice to [have _,] you_ _know ,_ one place _that_ _you_ can take them all to instead of driving _the_ glass to one place 
+B|7| M: That . 
+A|8| B: Right . So _it's ,_ so _that's_ nice . It would be , _it_ would be really nice if _they_ [, uh ,] came to _the_ house to pick _it_ up _and_ _they_ just were talking _about_ _a_ bill _in_ Tucson _about_ _that ,_ but [, uh [,] uh ,] _it_ didn't go through . 
+B|9| M: i [, I] 
+A|10| B: Right . [I] guess what _they_ , what _they_ were talking _about_ here was [, uh ,] was reducing _the_ garbage collection _in_ order to make _that_ up or something _, you_ _know ._ 
+B|11| M: That . 
+A|12| B: Uh , so [I] guess _that's_ one option . 
+B|13| M: I'll [do] [you] think [about] [it] . 
+A|14| B: [I] guess one _thing_ they're working on now is [recycling] plastics too . Like [, uh] 
+B|15| M: [That's] good . 
+A|16| B: [have] [you] noticed _that_ on _the_ bottom of plastic goods _, they_ [have] _this_ little number now _that_ tells what kind of plastic [it] is ? 
+B|17| M: [I] think [they] [do] [, and] [it's] [a] good [thing] . 
+A|18| B: Yeah [, I] guess _the_ _problem with_ plastic is there's so many different kinds _that_ [you] can't recycle _, you_ can't just throw all plastic into one recycler . 
+B|19| M: [I] _have a_ _friend_ [that's] [a] mechanic who's been [in] [the] field for 20 years . He said he has [the] same [problem with] metal . 
+A|20| B: Yeah . So now they're like marking [, uh ,] they're [, _I] don't _know_ ,_ there's six , seven , eight different kind of plastics [and] [they] _, they_ mark on [the] bottom what kind [it] is . 
+B|21| M: I've seen [this] before , 
+A|22| B: So [I] guess _that_ makes [it] easy to recycle [and] then they're , they're [, uh ,] trying to make plastic goods _that_ _don't_ [have a] bunch of different plastics [in] them _, you_ _know _,_ that_ are _, that_ are only made out of one kind of plastic so _that_ _that_ makes [it] easier [I] guess . 
+B|23| M:  
+A|24| B: Right . 
+B|25| M: [I] 
+A|26| B: Where does your [friend] go to to recycle ? 
+B|27| M: Don't [, they] don'you , 'they [do] , ' 
+A|28| B: Uh-huh . 
+B|29| M: I'm sorry . 
+A|30| B: Yeah . 
+B|31| M: What [about] her ? 
+A|32| B: Yeah . 
+B|33| M: Uhm ... [I don't [know] .] 
+A|34| B: [I] guess [that's] how [it] gets _passed_ on . You _know ,_ when one _person_ _, you_ hear from another _person_ 
+B|35| M: She says [that] [in] her voice . 
+A|36| B: [and] then [, uh [,] and] then _you [,_ and] then [you] pass [it] on . 
+B|37| M: No . Not even [the] [person] who [passed] [it] . 
+A|38| B: It seems to be catching on [, uh ,] slowly but surely [, I] guess 
+B|39| M: [That's] [the] [thing] . 
+A|40| B: Uh-huh . 
+B|41| M: [I] [know [,] uh] huh 
+A|42| B: Uh-huh . Wow , [that's] cute . [That's] neat , yeah . When _you ,_ 
+B|43| M: No , [it's [,] [you] [,] [that] ,] you're . 
+A|44| B: Well , when [you] start early [, I] guess , 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : fun .
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : They have , uh , recycling .
+	Free: Pattern=have , uh ,, Pattern=recycling
+	Constrained: Pattern=have, Pattern=, uh, Pattern=have ,, Pattern=, uh ,
+Turn ID=4| A | B : Oh . Right . Over here , they , uh , have several private companies that you can take , uh , recycled , materials to . But , uh , if you want to take them all to one place , they have , uh , the first Saturday of every month , they have certain places that you can drop them off . That's what I do . Uh , and I , I recycle aluminum , glass , uh , newspapers .
+	Free: Pattern=, they, Pattern=you, Pattern=have, Pattern=That's, Pattern=I, Pattern=have , uh ,, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=that, Pattern=do, Pattern=, I
+	Constrained: Pattern=, uh, Pattern=have, Pattern=they, Pattern=and, Pattern=I, Pattern=have ,, Pattern=, uh ,
+Turn ID=5| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : So it's nice to have , you know , one place that you can take them all to instead of driving the glass to one place
+	Free: Pattern=know ,, Pattern=you, Pattern=the, Pattern=have ,, Pattern=, you, Pattern=that, Pattern=it's
+	Constrained: Pattern=have, Pattern=you
+Turn ID=7| B | M : That .
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : Right . So it's , so that's nice . It would be , it would be really nice if they , uh , came to the house to pick it up and they just were talking about a bill in Tucson about that , but , uh , uh , it didn't go through .
+	Free: Pattern=it's ,, Pattern=they, Pattern=a, Pattern=about, Pattern=in, Pattern=, uh ,, Pattern=that ,, Pattern=it, Pattern=and, Pattern=that's, Pattern=the
+	Constrained: Pattern=it's, Pattern=that, Pattern=, uh
+Turn ID=9| B | M : i , I
+	Free: Pattern=, I
+	Constrained: Pattern=I
+Turn ID=10| A | B : Right . I guess what they , what they were talking about here was , uh , was reducing the garbage collection in order to make that up or something , you know .
+	Free: Pattern=they, Pattern=I, Pattern=about, Pattern=in, Pattern=, you, Pattern=the, Pattern=that, Pattern=, uh ,, Pattern=know .
+	Constrained: Pattern=, uh, Pattern=you
+Turn ID=11| B | M : That .
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Uh , so I guess that's one option .
+	Free: Pattern=I, Pattern=that's
+	Constrained: 
+Turn ID=13| B | M : I'll do you think about it .
+	Free: Pattern=do, Pattern=about, Pattern=you, Pattern=it
+	Constrained: 
+Turn ID=14| A | B : I guess one thing they're working on now is recycling plastics too . Like , uh
+	Free: Pattern=, uh, Pattern=I, Pattern=thing, Pattern=recycling
+	Constrained: 
+Turn ID=15| B | M : That's good .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=16| A | B : have you noticed that on the bottom of plastic goods , they have this little number now that tells what kind of plastic it is ?
+	Free: Pattern=, they, Pattern=you, Pattern=have, Pattern=it, Pattern=the, Pattern=this, Pattern=that
+	Constrained: Pattern=they
+Turn ID=17| B | M : I think they do , and it's a good thing .
+	Free: Pattern=they, Pattern=I, Pattern=thing, Pattern=, and, Pattern=it's, Pattern=do, Pattern=a
+	Constrained: Pattern=and
+Turn ID=18| A | B : Yeah , I guess the problem with plastic is there's so many different kinds that you can't recycle , you can't just throw all plastic into one recycler .
+	Free: Pattern=you, Pattern=, I, Pattern=problem with, Pattern=, you, Pattern=the, Pattern=that
+	Constrained: Pattern=I, Pattern=you
+Turn ID=19| B | M : I have a friend that's a mechanic who's been in the field for 20 years . He said he has the same problem with metal .
+	Free: Pattern=have a, Pattern=a, Pattern=problem with, Pattern=I, Pattern=in, Pattern=friend, Pattern=that's, Pattern=the
+	Constrained: Pattern=have, Pattern=a
+Turn ID=20| A | B : Yeah . So now they're like marking , uh , they're , I don't know , there's six , seven , eight different kind of plastics and they , they mark on the bottom what kind it is .
+	Free: Pattern=, they, Pattern=know ,, Pattern=they, Pattern=, I, Pattern=I don't know, Pattern=, uh ,, Pattern=the, Pattern=it, Pattern=and
+	Constrained: Pattern=they, Pattern=, uh, Pattern=I, Pattern=don't
+Turn ID=21| B | M : I've seen this before ,
+	Free: Pattern=this
+	Constrained: 
+Turn ID=22| A | B : So I guess that makes it easy to recycle and then they're , they're , uh , trying to make plastic goods that don't have a bunch of different plastics in them , you know , that are , that are only made out of one kind of plastic so that that makes it easier I guess .
+	Free: Pattern=know ,, Pattern=have a, Pattern=I, Pattern=, that, Pattern=in, Pattern=, you, Pattern=, uh ,, Pattern=don't, Pattern=that, Pattern=it, Pattern=and
+	Constrained: Pattern=have, Pattern=a, Pattern=that, Pattern=you, Pattern=, uh
+Turn ID=23| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=26| A | B : Where does your friend go to to recycle ?
+	Free: Pattern=friend
+	Constrained: 
+Turn ID=27| B | M : Don't , they don'you , 'they do , '
+	Free: Pattern=, they, Pattern=do
+	Constrained: Pattern=they
+Turn ID=28| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : I'm sorry .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : What about her ?
+	Free: Pattern=about
+	Constrained: 
+Turn ID=32| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : Uhm ... I don't know .
+	Free: Pattern=I don't know, Pattern=know .
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=34| A | B : I guess that's how it gets passed on . You know , when one person , you hear from another person
+	Free: Pattern=know ,, Pattern=passed, Pattern=it, Pattern=I, Pattern=person, Pattern=, you, Pattern=that's
+	Constrained: Pattern=you
+Turn ID=35| B | M : She says that in her voice .
+	Free: Pattern=that, Pattern=in
+	Constrained: 
+Turn ID=36| A | B : and then , uh , and then you , and then you pass it on .
+	Free: Pattern=you, Pattern=, uh ,, Pattern=, and, Pattern=you ,, Pattern=it, Pattern=and
+	Constrained: Pattern=you, Pattern=, uh, Pattern=and
+Turn ID=37| B | M : No . Not even the person who passed it .
+	Free: Pattern=person, Pattern=passed, Pattern=the, Pattern=it
+	Constrained: 
+Turn ID=38| A | B : It seems to be catching on , uh , slowly but surely , I guess
+	Free: Pattern=, uh ,, Pattern=, I
+	Constrained: Pattern=, uh, Pattern=I
+Turn ID=39| B | M : That's the thing .
+	Free: Pattern=That's, Pattern=the, Pattern=thing
+	Constrained: 
+Turn ID=40| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : I know , uh huh
+	Free: Pattern=, uh, Pattern=know ,, Pattern=I
+	Constrained: 
+Turn ID=42| A | B : Uh-huh . Wow , that's cute . That's neat , yeah . When you ,
+	Free: Pattern=you ,, Pattern=That's, Pattern=that's
+	Constrained: Pattern=you
+Turn ID=43| B | M : No , it's , you , that , you're .
+	Free: Pattern=it's ,, Pattern=, that, Pattern=, you, Pattern=that ,, Pattern=you ,
+	Constrained: Pattern=that, Pattern=you, Pattern=it's
+Turn ID=44| A | B : Well , when you start early , I guess ,
+	Free: Pattern=, I, Pattern=you
+	Constrained: Pattern=I

@@ -1,0 +1,235 @@
+A|0| A: _I_ didn't _know ._ 
+B|1| M: _Yeah ,_ but we _have_ snow . 
+A|2| A: _Oh ,_ _if_ _you_ had it _early_ . 
+B|3| M: You _mean_ _to_ go home [early] _and_ _have_ _a_ night _of_ _alone_ time ? 
+A|4| A: [Yeah _,] I_ think it _was_ _on_ [a] Hard Copy , _she was_ [a] real attractive blond girl , _in_ , _in_ her freshman year [of] college 
+B|5| M: Uhhuhuh . _And_ . 
+A|6| A: For colleges ? 
+B|7| M: It's cool . 
+A|8| A: _Well _,_ I_ would assume , too _, I_ [mean] , you've got three or four months you're _talking about_ [of] , [of] bad weather . 
+B|9| M: You [mean] _the_ truck ? 
+A|10| A: Right , or _you_ _don't know what_ they _you_ _know_ , where they stand or anything like that . 
+B|11| M: _I guess_ _so_ 
+A|12| A: [Yeah _,] I'm_ _in_ Dallas , [and] they're long here too . 
+B|13| M: [I] do _. I_ [don't] _, uh ,_ exercise . 
+A|14| A: Um , that's basically _about_ all that _I know_ that may be wrong _with_ [the] _school_ system [. I] think , _with_ _what_ they [have] [to] _work_ _with_ _, I_ think they're doing [a] pretty good job right now . 
+B|15| M: _I am_ . 
+A|16| A: [And] where _are_ they at ? 
+B|17| M: You [have] [a] lot [of] [work] [to] do _in the_ _area_ . 
+A|18| A: _Oh ,_ that's good . 
+B|19| M: [I] [don't] [, I] [don't] _even_ [know what] [to] do . 
+A|20| A: _Oh ,_ you're used [to] that , too . 
+B|21| M: [I] don'ts 
+A|22| A: [Yeah [,] I] understand [. [I] am] [a] [, I] own _my_ company [. [I] am] [in the] [, [I] am] [, uh ,] manufactures rep sales organization [and] _my_ office is [a] small office [and] [I am] very casual [and] wear slacks [and] sports shirt [and] things like that 
+B|23| M: [Oh] [I] _see_ _. So_ [she was] [in] high [school] 
+A|24| A: [And] , they [have] _not_ made [a] movie [of] [the] week [of] it yet . 
+B|25| M:  
+A|26| A: _What_ [, uh ,] is _there_ anything [, uh ,] that _you_ particularly _are_ concerned _with_ [in] your particular [area] as far as security [and] that sort [of] thing ? 
+B|27| M: [I'm] sorry , but ... 
+A|28| A: Uh-huh . 
+B|29| M: [Well ,] yeah . 
+A|30| A: Uh-huh . 
+B|31| M: Do [you] ? 
+A|32| A: [and] [you] also get [in] [to] [see] things that [you] might _not_ get into _if_ [you] were [alone] [, uh ,] 
+B|33| M: Yes , 
+A|34| A: [So] they're happening during [the] hours they're gone from [work] . 
+B|35| M: then 
+A|36| A: Bye-bye . 
+B|37| M: You could always cheer _for_ [the] Cowboys 
+A|38| A: [Yeah ,] [the] population's been really up . They've [, uh ,] they've had longer hunting seasons _than_ that [even] [to] get rid [of] _more_ [of] them , because they were [, uh ,] increasing [so] much . 
+B|39| M: [So] what's [the] story ? 
+A|40| A: Uh-huh . Uh-huh . Right , uh-huh . 
+B|41| M: [I [know] .] 
+A|42| A: Sure , sure [. So] , 
+B|43| M: [Oh [,] I'm] [not] [talking about] [the] city [of] L A . 
+A|44| A: Uh-huh . 
+B|45| M: _well_ 
+A|46| A: Because they [have] this weird opinion that _if_ [you] use that card , [you] [don't] [have] [to] pay [for] it . 
+B|47| M: [you] . 
+A|48| A: [Yeah] . 
+B|49| M: You're [in] New York ? 
+A|50| A: Uh-huh . 
+B|51| M: Uhhh [, I] [, uh [,] I] [don't [know] .] 
+A|52| A: Uh-huh [. So] they're pretty good kids , huh ? 
+B|53| M: [Yeah ,] [my] mom has [a] crush [on] me 
+A|54| A: [And] that , that's been [a] , that's been [a] nice way [of] keeping us all aware [of] each other [, I] think . 
+B|55| M: [I] always wonder [if] [there] [are] [more] people who agree [with] me [than] disagreeing . 
+A|56| A: Right . Right , [well] [I guess] that's [a] good point [, uh ,] 
+B|57| M: [What] ? You can't tell me [what] [to] do [, I] [don't know what] [to] say . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : I didn't know .
+	Free: Pattern=know ., Pattern=I
+	Constrained: Pattern=know
+Turn ID=1| B | M : Yeah , but we have snow .
+	Free: Pattern=Yeah ,, Pattern=have
+	Constrained: Pattern=Yeah
+Turn ID=2| A | A : Oh , if you had it early .
+	Free: Pattern=Oh ,, Pattern=early, Pattern=you, Pattern=if
+	Constrained: Pattern=Oh
+Turn ID=3| B | M : You mean to go home early and have a night of alone time ?
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=early, Pattern=to, Pattern=alone, Pattern=have, Pattern=mean
+	Constrained: 
+Turn ID=4| A | A : Yeah , I think it was on a Hard Copy , she was a real attractive blond girl , in , in her freshman year of college
+	Free: Pattern=of, Pattern=on, Pattern=Yeah ,, Pattern=was, Pattern=, I, Pattern=a, Pattern=in, Pattern=she was
+	Constrained: Pattern=was, Pattern=I, Pattern=Yeah
+Turn ID=5| B | M : Uhhuhuh . And .
+	Free: Pattern=And
+	Constrained: 
+Turn ID=6| A | A : For colleges ?
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : It's cool .
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Well , I would assume , too , I mean , you've got three or four months you're talking about of , of bad weather .
+	Free: Pattern=mean, Pattern=, I, Pattern=Well ,, Pattern=talking about, Pattern=of
+	Constrained: Pattern=about, Pattern=I
+Turn ID=9| B | M : You mean the truck ?
+	Free: Pattern=the, Pattern=mean
+	Constrained: 
+Turn ID=10| A | A : Right , or you don't know what they you know , where they stand or anything like that .
+	Free: Pattern=don't know what, Pattern=know, Pattern=you
+	Constrained: Pattern=what, Pattern=don't know, Pattern=don't, Pattern=know, Pattern=know what
+Turn ID=11| B | M : I guess so
+	Free: Pattern=I guess, Pattern=so
+	Constrained: Pattern=I
+Turn ID=12| A | A : Yeah , I'm in Dallas , and they're long here too .
+	Free: Pattern=, I'm, Pattern=Yeah ,, Pattern=in, Pattern=and
+	Constrained: Pattern=Yeah, Pattern=I'm
+Turn ID=13| B | M : I do . I don't , uh , exercise .
+	Free: Pattern=, uh ,, Pattern=. I, Pattern=don't, Pattern=I
+	Constrained: Pattern=I
+Turn ID=14| A | A : Um , that's basically about all that I know that may be wrong with the school system . I think , with what they have to work with , I think they're doing a pretty good job right now .
+	Free: Pattern=have, Pattern=what, Pattern=. I, Pattern=about, Pattern=work, Pattern=the, Pattern=to, Pattern=I know, Pattern=, I, Pattern=a, Pattern=with, Pattern=school
+	Constrained: Pattern=know, Pattern=I
+Turn ID=15| B | M : I am .
+	Free: Pattern=I am
+	Constrained: Pattern=I
+Turn ID=16| A | A : And where are they at ?
+	Free: Pattern=are, Pattern=And
+	Constrained: 
+Turn ID=17| B | M : You have a lot of work to do in the area .
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=in the, Pattern=work, Pattern=to, Pattern=area
+	Constrained: Pattern=the, Pattern=in
+Turn ID=18| A | A : Oh , that's good .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=19| B | M : I don't , I don't even know what to do .
+	Free: Pattern=even, Pattern=, I, Pattern=I, Pattern=know what, Pattern=don't, Pattern=to
+	Constrained: Pattern=what, Pattern=know, Pattern=I
+Turn ID=20| A | A : Oh , you're used to that , too .
+	Free: Pattern=Oh ,, Pattern=to
+	Constrained: Pattern=Oh
+Turn ID=21| B | M : I don'ts
+	Free: Pattern=I
+	Constrained: 
+Turn ID=22| A | A : Yeah , I understand . I am a , I own my company . I am in the , I am , uh , manufactures rep sales organization and my office is a small office and I am very casual and wear slacks and sports shirt and things like that
+	Free: Pattern=and, Pattern=in the, Pattern=. I, Pattern=, uh ,, Pattern=I am, Pattern=Yeah ,, Pattern=my, Pattern=, I, Pattern=a
+	Constrained: Pattern=in, Pattern=I, Pattern=Yeah, Pattern=the
+Turn ID=23| B | M : Oh I see . So she was in high school
+	Free: Pattern=I, Pattern=see, Pattern=Oh, Pattern=school, Pattern=. So, Pattern=in, Pattern=she was
+	Constrained: Pattern=was, Pattern=So
+Turn ID=24| A | A : And , they have not made a movie of the week of it yet .
+	Free: Pattern=of, Pattern=a, Pattern=the, Pattern=not, Pattern=And, Pattern=have
+	Constrained: 
+Turn ID=25| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : What , uh , is there anything , uh , that you particularly are concerned with in your particular area as far as security and that sort of thing ?
+	Free: Pattern=of, Pattern=you, Pattern=there, Pattern=and, Pattern=are, Pattern=What, Pattern=in, Pattern=, uh ,, Pattern=area, Pattern=with
+	Constrained: 
+Turn ID=27| B | M : I'm sorry , but ...
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=28| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : Well , yeah .
+	Free: Pattern=Well ,
+	Constrained: 
+Turn ID=30| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : Do you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=32| A | A : and you also get in to see things that you might not get into if you were alone , uh ,
+	Free: Pattern=you, Pattern=and, Pattern=if, Pattern=in, Pattern=, uh ,, Pattern=see, Pattern=to, Pattern=alone, Pattern=not
+	Constrained: 
+Turn ID=33| B | M : Yes ,
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : So they're happening during the hours they're gone from work .
+	Free: Pattern=work, Pattern=So, Pattern=the
+	Constrained: 
+Turn ID=35| B | M : then
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : Bye-bye .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : You could always cheer for the Cowboys
+	Free: Pattern=for, Pattern=the
+	Constrained: 
+Turn ID=38| A | A : Yeah , the population's been really up . They've , uh , they've had longer hunting seasons than that even to get rid of more of them , because they were , uh , increasing so much .
+	Free: Pattern=even, Pattern=than, Pattern=, uh ,, Pattern=the, Pattern=Yeah ,, Pattern=to, Pattern=so, Pattern=of, Pattern=more
+	Constrained: Pattern=Yeah
+Turn ID=39| B | M : So what's the story ?
+	Free: Pattern=So, Pattern=the
+	Constrained: 
+Turn ID=40| A | A : Uh-huh . Uh-huh . Right , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : I know .
+	Free: Pattern=I know, Pattern=know .
+	Constrained: Pattern=know, Pattern=I
+Turn ID=42| A | A : Sure , sure . So ,
+	Free: Pattern=. So
+	Constrained: Pattern=So
+Turn ID=43| B | M : Oh , I'm not talking about the city of L A .
+	Free: Pattern=Oh ,, Pattern=the, Pattern=, I'm, Pattern=not, Pattern=talking about, Pattern=of
+	Constrained: Pattern=Oh, Pattern=about, Pattern=I'm
+Turn ID=44| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : well
+	Free: Pattern=well
+	Constrained: 
+Turn ID=46| A | A : Because they have this weird opinion that if you use that card , you don't have to pay for it .
+	Free: Pattern=you, Pattern=have, Pattern=for, Pattern=if, Pattern=don't, Pattern=to
+	Constrained: 
+Turn ID=47| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=48| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=49| B | M : You're in New York ?
+	Free: Pattern=in
+	Constrained: 
+Turn ID=50| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=51| B | M : Uhhh , I , uh , I don't know .
+	Free: Pattern=, uh ,, Pattern=know ., Pattern=, I, Pattern=don't know
+	Constrained: Pattern=don't, Pattern=know, Pattern=I
+Turn ID=52| A | A : Uh-huh . So they're pretty good kids , huh ?
+	Free: Pattern=. So
+	Constrained: Pattern=So
+Turn ID=53| B | M : Yeah , my mom has a crush on me
+	Free: Pattern=Yeah ,, Pattern=a, Pattern=on, Pattern=my
+	Constrained: Pattern=Yeah
+Turn ID=54| A | A : And that , that's been a , that's been a nice way of keeping us all aware of each other , I think .
+	Free: Pattern=, I, Pattern=a, Pattern=And, Pattern=of
+	Constrained: Pattern=I
+Turn ID=55| B | M : I always wonder if there are more people who agree with me than disagreeing .
+	Free: Pattern=more, Pattern=there, Pattern=than, Pattern=with, Pattern=are, Pattern=I, Pattern=if
+	Constrained: 
+Turn ID=56| A | A : Right . Right , well I guess that's a good point , uh ,
+	Free: Pattern=, uh ,, Pattern=I guess, Pattern=well, Pattern=a
+	Constrained: Pattern=I
+Turn ID=57| B | M : What ? You can't tell me what to do , I don't know what to say .
+	Free: Pattern=don't know what, Pattern=what, Pattern=, I, Pattern=What, Pattern=to
+	Constrained: Pattern=what, Pattern=don't know, Pattern=I, Pattern=don't, Pattern=know, Pattern=know what

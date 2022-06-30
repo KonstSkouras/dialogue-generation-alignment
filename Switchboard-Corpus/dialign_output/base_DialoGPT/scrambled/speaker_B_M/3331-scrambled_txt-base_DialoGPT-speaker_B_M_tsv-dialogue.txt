@@ -1,0 +1,187 @@
+A|0| B: but , _uh_ _, _you_ know_ , _I_ , _I don't_ guess we can get away from _it_ _a_ hundred percent 
+B|1| M: You wanna _go_ ? 
+A|2| B: Uh , no , _I_ _have_ not . 
+B|3| M: _I think_ [you] . 
+A|4| B: Right . [I] guess _what_ they _, what_ they were talking _about_ here was , _uh_ , was reducing _the_ garbage collection _in_ order to make that up or something _, _you_ _know_ ._ 
+B|5| M: s . 
+A|6| B: Uh-huh . 
+B|7| M: We _do_ [have] [a] water system . 
+A|8| B: [I] mean _, _you_ know_ , that was _just_ so phenomenal to see this stadium shake and _the_ , and _the_ announcers _, _you_ know_ grabbing , 
+B|9| M: But [, what] [about] paper ? 
+A|10| B: Yeah . Yeah . _They_ , they _just_ run all over , _the_ place , _don't_ they , 
+B|11| M: We're on [the] ground floor of [a] major hospital [in] [the] UK 
+A|12| B: Uh-huh . 
+B|13| M: You've _never_ used [it] ? 
+A|14| B: Cooking chocolate . 
+B|15| M: So [uh] 
+A|16| B: [I think] maybe more information should be given out [about] [it] . 
+B|17| M: [I don't] _really_ care . 
+A|18| B: Good-bye . 
+B|19| M:  
+A|20| B: Yes . _We've_ , _my_ , [uh] , well , when we first got married , _my_ wife worked for [a] year . Then we decided to [have] kids . 
+B|21| M:  
+A|22| B: _Oh ,_ [really] ? 
+B|23| M: Okay , okay . 
+A|24| B: and _my_ husband , then fianc3e , was to keep _my_ cat , and he let her out , and _my_ house was loaded with fleas , [I] mean _, you_ walked [in] and your legs were _just_ black . 
+B|25| M: [We've] been [a] lot of course , yea of _, like_ , yeah , [a] lot . 
+A|26| B: Really . 
+B|27| M: We _do_ . 
+A|28| B: but I'm applying for , What ? Yeah , [it] is . 
+B|29| M: [Oh] . You did ? 
+A|30| B: Exactly . 
+B|31| M: Uu _do_ it's [just] _, do_ _, do_ [it] 
+A|32| B: Do [you] [go] , how [about] [like] for , [uh] [, do] [you] [go] for long vacations [, like] [a] week or something when they [have] school off ? 
+B|33| M: [They] _are_ [my] parents'rooms . 
+A|34| B: Uh-huh . Yeah . That's true . 
+B|35| M: [Oh ,] okay . 
+A|36| B: Yes . 
+B|37| M: You can't [, you] can't win [a] Super Bowl [in] [a] season . 
+A|38| B: Exactly . Uh-huh , exactly . Uh , 
+B|39| M: Like [a] computer ? 
+A|40| B: I've [never] seen [you] before Who [are] [you] ? 
+B|41| M: [I] [know .] 
+A|42| B: Yeah . 
+B|43| M: Did [you know] that's [a] thing ? 
+A|44| B: And [it] weighs twenty pounds or , something [like] that . 
+B|45| M: It's [like] an old timey English dinner party . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : but , uh , you know , I , I don't guess we can get away from it a hundred percent
+	Free: Pattern=a, Pattern=it, Pattern=I, Pattern=I don't, Pattern=, you, Pattern=uh, Pattern=you know
+	Constrained: Pattern=don't, Pattern=I, Pattern=you
+Turn ID=1| B | M : You wanna go ?
+	Free: Pattern=go
+	Constrained: 
+Turn ID=2| A | B : Uh , no , I have not .
+	Free: Pattern=I, Pattern=have
+	Constrained: 
+Turn ID=3| B | M : I think you .
+	Free: Pattern=I think, Pattern=you
+	Constrained: Pattern=I
+Turn ID=4| A | B : Right . I guess what they , what they were talking about here was , uh , was reducing the garbage collection in order to make that up or something , you know .
+	Free: Pattern=what, Pattern=, what, Pattern=I, Pattern=about, Pattern=in, Pattern=, you, Pattern=know ., Pattern=the, Pattern=uh, Pattern=you know
+	Constrained: Pattern=what, Pattern=you
+Turn ID=5| B | M : s .
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : We do have a water system .
+	Free: Pattern=do, Pattern=a, Pattern=have
+	Constrained: 
+Turn ID=8| A | B : I mean , you know , that was just so phenomenal to see this stadium shake and the , and the announcers , you know grabbing ,
+	Free: Pattern=you know, Pattern=just, Pattern=I, Pattern=, you, Pattern=the
+	Constrained: Pattern=you
+Turn ID=9| B | M : But , what about paper ?
+	Free: Pattern=, what, Pattern=about
+	Constrained: Pattern=what
+Turn ID=10| A | B : Yeah . Yeah . They , they just run all over , the place , don't they ,
+	Free: Pattern=just, Pattern=don't, Pattern=They, Pattern=the
+	Constrained: 
+Turn ID=11| B | M : We're on the ground floor of a major hospital in the UK
+	Free: Pattern=in, Pattern=a, Pattern=the
+	Constrained: 
+Turn ID=12| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : You've never used it ?
+	Free: Pattern=never, Pattern=it
+	Constrained: 
+Turn ID=14| A | B : Cooking chocolate .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : So uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=16| A | B : I think maybe more information should be given out about it .
+	Free: Pattern=I think, Pattern=about, Pattern=it
+	Constrained: Pattern=I
+Turn ID=17| B | M : I don't really care .
+	Free: Pattern=I don't, Pattern=really
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=18| A | B : Good-bye .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : Yes . We've , my , uh , well , when we first got married , my wife worked for a year . Then we decided to have kids .
+	Free: Pattern=uh, Pattern=have, Pattern=a, Pattern=We've, Pattern=my
+	Constrained: 
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : Oh , really ?
+	Free: Pattern=Oh ,, Pattern=really
+	Constrained: Pattern=Oh
+Turn ID=23| B | M : Okay , okay .
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : and my husband , then fianc3e , was to keep my cat , and he let her out , and my house was loaded with fleas , I mean , you walked in and your legs were just black .
+	Free: Pattern=just, Pattern=I, Pattern=in, Pattern=, you, Pattern=my
+	Constrained: Pattern=you
+Turn ID=25| B | M : We've been a lot of course , yea of , like , yeah , a lot .
+	Free: Pattern=, like, Pattern=a, Pattern=We've
+	Constrained: Pattern=like
+Turn ID=26| A | B : Really .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : We do .
+	Free: Pattern=do
+	Constrained: 
+Turn ID=28| A | B : but I'm applying for , What ? Yeah , it is .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=29| B | M : Oh . You did ?
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=30| A | B : Exactly .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : Uu do it's just , do , do it
+	Free: Pattern=, do, Pattern=just, Pattern=do, Pattern=it
+	Constrained: Pattern=do
+Turn ID=32| A | B : Do you go , how about like for , uh , do you go for long vacations , like a week or something when they have school off ?
+	Free: Pattern=have, Pattern=go, Pattern=a, Pattern=, like, Pattern=about, Pattern=, do, Pattern=like, Pattern=you, Pattern=uh
+	Constrained: Pattern=do, Pattern=like
+Turn ID=33| B | M : They are my parents'rooms .
+	Free: Pattern=They, Pattern=are, Pattern=my
+	Constrained: 
+Turn ID=34| A | B : Uh-huh . Yeah . That's true .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : Oh , okay .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=36| A | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : You can't , you can't win a Super Bowl in a season .
+	Free: Pattern=, you, Pattern=in, Pattern=a
+	Constrained: Pattern=you
+Turn ID=38| A | B : Exactly . Uh-huh , exactly . Uh ,
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : Like a computer ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=40| A | B : I've never seen you before Who are you ?
+	Free: Pattern=never, Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=41| B | M : I know .
+	Free: Pattern=know ., Pattern=I
+	Constrained: 
+Turn ID=42| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : Did you know that's a thing ?
+	Free: Pattern=you know, Pattern=a
+	Constrained: Pattern=you
+Turn ID=44| A | B : And it weighs twenty pounds or , something like that .
+	Free: Pattern=like, Pattern=it
+	Constrained: 
+Turn ID=45| B | M : It's like an old timey English dinner party .
+	Free: Pattern=like
+	Constrained: 

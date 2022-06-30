@@ -1,0 +1,183 @@
+A|0| A: Huh _. Uh-huh ,_ uh-huh . 
+B|1| B: No _, I don't think_ _it's a_ monetary thing . 
+A|2| A: All right . 
+B|3| B: _Uh-huh ._ 
+A|4| A: _Yeah ._ 
+B|5| B: Okay what kind _of_ foods _would_ _you_ _have_ ? 
+A|6| A: It _really_ _makes_ an effort on , _to_ , do this anymore . 
+B|7| B: Johnny Elway . 
+A|8| A: _And_ as they , _And_ as they go _to_ _the_ next _one_ [I] _just_ keep _the ,_ 
+B|9| B: Exactly [. Uh-huh ,] exactly _. Uh ,_ 
+A|10| A: If [I] didn't [have] [a] _family [,_ I don't think] [I] [would] [have] , as , as [a] male or as [a] , as an individual _of ,_ _in_ this stage [of] _my_ life [, I don't think] [I] [would] [have] insurance _, uh ,_ _other_ , 
+B|11| B: Right . 
+A|12| A: [Uh ,] bye . 
+B|13| B: I've heard _too_ many _people_ say [, I] hate _it_ _here_ . 
+A|14| A: It was , [it] was an interesting theory . She talked about _the , uh ,_ _the_ Catholics all , [it's a] home centered _, you know ,_ [it's] all _family_ centered anyway , _so_ [you] usually _are_ living _where_ your parents live _and_ [it's] all , your _, you_ [don't] [have] _to_ come home , _so_ _the_ Catholics [would] make [a] pilgrimage _in_ older Europe , _but_ when _the_ Protestant ethic happened _in_ America , _there_ were [people] _who_ ever went _out_ _and , you know ,_ went away _from_ _the_ _family_ _to_ seek their fortune _, and_ then _had_ _to_ come back home _for_ their reunion , _so_ _that_ , became their version _of the_ pilgrimage . 
+B|15| B: Oh , _well_ , what's [there] [to] say ? Doesn't seem like [it's] being carried [out] _very_ _well_ [in] [my] opinion . Seems like [it] takes [so] long _between_ conviction [and] carrying [out] [the] penalty [that] [I don't] see [that] [it] [makes] any difference [to] sentence anybody . 
+A|16| A: [Uh-huh [.] [Uh-huh] .] 
+B|17| B: [just] set [it] up [and] get [out] [of ,] get [out] [of the] city [for] awhile . 
+A|18| A: So _are_ they currently practicing capital punishment [in] your state ? 
+B|19| B: [And] [, uh ,] nobody brought covered dishes . We [had] [a] great big fish fry [, [and] , you know [,] I] fixed [a] salad [in] [a] number three tub . 
+A|20| A: True , _true_ . 
+B|21| B: [I] see . 
+A|22| A: [Uh-huh .] 
+B|23| B: [and] [the] cities [are] _very_ populated with tenement housing _, where_ [there] [are] more _than_ [one] [family] [in] [a] house . [And] with [the , uh ,] [people] [that] [are] coming into [the] country [from] [other] countries , _not_ knowing [the] language 
+A|24| A: [Uh-huh .] 
+B|25| B: _Yes ._ 
+A|26| A: But [, I] do , do enjoy since [the] Gulf War listening [to] C N N radio [too] , as [well] as watching C N N on T V [here] at work . [I don't] [have] C N N at home . Let me turn this radio off , I'm actually at work right now believe [it] or [not] [. Uh [,] where] was _I ,_ I'm , go ahead , your , your turn . 
+B|27| B: [Uh-huh .] 
+A|28| A: Of course , uh-huh . 
+B|29| B: [Uh-huh .] 
+A|30| A: _Yeah ._ 
+B|31| B: [so] [I] [know] [it] sounds like [a] rationalization [but] [it's] [, I] [really] [think] [it's] [true] [for] _our_ [family [,] and] [I] [think] [it] has worked _very_ [well] . 
+A|32| A: [Uh [,] I don't] take anymore [than] [that] 
+B|33| B: like [who] knows [, you know] . 
+A|34| A: You [know ,] [the] 
+B|35| B: [Yeah .] 
+A|36| A: [Yeah] 
+B|37| B: [Uh-huh .] 
+A|38| A: [Yeah] [, I] mean , we'll , [our] neighbors , [the] attached on [the] [other] side , they're [very] nice , thank God , 
+B|39| B: [I [,] I] lived [in] Abilene [for] [a] little while [, [and] [,] uh ,] worked [in] [the] Abilene plant , 
+A|40| A: [but] , um [, [I] ,] [my] father always told me if [you] put hot food [in] your refrigerator you're going [to] make [it] work [too] hard . 
+B|41| B: That's wonderful . There's [a] lot [out] [there] [to] see , 
+A|42| A: somebody , somebody abandoned her [and ,] she's only about , oh , [between] six [and] eight , six [to] eight weeks old 
+B|43| B: [Yeah .] 
+A|44| A: [Yes .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Huh . Uh-huh , uh-huh .
+	Free: Pattern=. Uh-huh ,
+	Constrained: Pattern=. Uh-huh
+Turn ID=1| B | B : No , I don't think it's a monetary thing .
+	Free: Pattern=, I don't think, Pattern=it's a
+	Constrained: Pattern=I, Pattern=I don't, Pattern=don't, Pattern=it's, Pattern=, I, Pattern=a, Pattern=, I don't, Pattern=think
+Turn ID=2| A | A : All right .
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=4| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=5| B | B : Okay what kind of foods would you have ?
+	Free: Pattern=of, Pattern=you, Pattern=would, Pattern=have
+	Constrained: 
+Turn ID=6| A | A : It really makes an effort on , to , do this anymore .
+	Free: Pattern=to, Pattern=makes, Pattern=really
+	Constrained: 
+Turn ID=7| B | B : Johnny Elway .
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : And as they , And as they go to the next one I just keep the ,
+	Free: Pattern=the ,, Pattern=the, Pattern=to, Pattern=And, Pattern=just, Pattern=one, Pattern=I
+	Constrained: Pattern=the
+Turn ID=9| B | B : Exactly . Uh-huh , exactly . Uh ,
+	Free: Pattern=. Uh ,, Pattern=. Uh-huh ,
+	Constrained: Pattern=. Uh-huh, Pattern=Uh ,
+Turn ID=10| A | A : If I didn't have a family , I don't think I would have , as , as a male or as a , as an individual of , in this stage of my life , I don't think I would have insurance , uh , other ,
+	Free: Pattern=have, Pattern=a, Pattern=I, Pattern=other, Pattern=of ,, Pattern=in, Pattern=, I don't think, Pattern=, uh ,, Pattern=would, Pattern=my, Pattern=of, Pattern=family ,
+	Constrained: Pattern=of, Pattern=, I, Pattern=I, Pattern=don't, Pattern=I don't, Pattern=family, Pattern=, I don't, Pattern=think
+Turn ID=11| B | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : Uh , bye .
+	Free: Pattern=Uh ,
+	Constrained: 
+Turn ID=13| B | B : I've heard too many people say , I hate it here .
+	Free: Pattern=people, Pattern=here, Pattern=, I, Pattern=it, Pattern=too
+	Constrained: Pattern=I
+Turn ID=14| A | A : It was , it was an interesting theory . She talked about the , uh , the Catholics all , it's a home centered , you know , it's all family centered anyway , so you usually are living where your parents live and it's all , your , you don't have to come home , so the Catholics would make a pilgrimage in older Europe , but when the Protestant ethic happened in America , there were people who ever went out and , you know , went away from the family to seek their fortune , and then had to come back home for their reunion , so that , became their version of the pilgrimage .
+	Free: Pattern=it's a, Pattern=there, Pattern=for, Pattern=are, Pattern=from, Pattern=in, Pattern=had, Pattern=the, Pattern=so, Pattern=you, Pattern=out, Pattern=people, Pattern=have, Pattern=who, Pattern=, you know ,, Pattern=a, Pattern=it, Pattern=and, Pattern=and , you know ,, Pattern=family, Pattern=where, Pattern=, you, Pattern=would, Pattern=don't, Pattern=, and, Pattern=to, Pattern=the , uh ,, Pattern=of the, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=you, Pattern=and ,, Pattern=, you know, Pattern=, uh ,, Pattern=the, Pattern=it's, Pattern=of, Pattern=know ,, Pattern=, you know ,, Pattern=a, Pattern=and, Pattern=the ,, Pattern=know, Pattern=, you
+Turn ID=15| B | B : Oh , well , what's there to say ? Doesn't seem like it's being carried out very well in my opinion . Seems like it takes so long between conviction and carrying out the penalty that I don't see that it makes any difference to sentence anybody .
+	Free: Pattern=well, Pattern=out, Pattern=there, Pattern=between, Pattern=in, Pattern=very, Pattern=the, Pattern=to, Pattern=my, Pattern=so, Pattern=it, Pattern=and, Pattern=I don't, Pattern=makes, Pattern=that, Pattern=it's
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=16| A | A : Uh-huh . Uh-huh .
+	Free: Pattern=. Uh-huh, Pattern=Uh-huh .
+	Constrained: 
+Turn ID=17| B | B : just set it up and get out of , get out of the city for awhile .
+	Free: Pattern=out, Pattern=just, Pattern=for, Pattern=of ,, Pattern=of the, Pattern=it, Pattern=and
+	Constrained: Pattern=of, Pattern=the
+Turn ID=18| A | A : So are they currently practicing capital punishment in your state ?
+	Free: Pattern=in, Pattern=are
+	Constrained: 
+Turn ID=19| B | B : And , uh , nobody brought covered dishes . We had a great big fish fry , and , you know , I fixed a salad in a number three tub .
+	Free: Pattern=And, Pattern=and , you know ,, Pattern=in, Pattern=had, Pattern=, uh ,, Pattern=, and, Pattern=, I, Pattern=a
+	Constrained: Pattern=know ,, Pattern=you, Pattern=and ,, Pattern=, you know ,, Pattern=and, Pattern=I, Pattern=, you know, Pattern=know, Pattern=, you
+Turn ID=20| A | A : True , true .
+	Free: Pattern=true
+	Constrained: 
+Turn ID=21| B | B : I see .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=22| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=23| B | B : and the cities are very populated with tenement housing , where there are more than one family in a house . And with the , uh , people that are coming into the country from other countries , not knowing the language
+	Free: Pattern=there, Pattern=a, Pattern=and, Pattern=family, Pattern=very, Pattern=the, Pattern=the , uh ,, Pattern=that, Pattern=, where, Pattern=not, Pattern=people, Pattern=And, Pattern=are, Pattern=one, Pattern=other, Pattern=from, Pattern=than, Pattern=in
+	Constrained: Pattern=, uh ,, Pattern=the ,, Pattern=where, Pattern=the
+Turn ID=24| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=25| B | B : Yes .
+	Free: Pattern=Yes .
+	Constrained: 
+Turn ID=26| A | A : But , I do , do enjoy since the Gulf War listening to C N N radio too , as well as watching C N N on T V here at work . I don't have C N N at home . Let me turn this radio off , I'm actually at work right now believe it or not . Uh , where was I , I'm , go ahead , your , your turn .
+	Free: Pattern=I ,, Pattern=well, Pattern=have, Pattern=here, Pattern=, I, Pattern=I don't, Pattern=the, Pattern=to, Pattern=, where, Pattern=it, Pattern=too, Pattern=not, Pattern=. Uh ,
+	Constrained: Pattern=Uh ,, Pattern=I, Pattern=where, Pattern=don't
+Turn ID=27| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=28| A | A : Of course , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=30| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=31| B | B : so I know it sounds like a rationalization but it's , I really think it's true for our family , and I think it has worked very well .
+	Free: Pattern=family ,, Pattern=well, Pattern=it, Pattern=I, Pattern=think, Pattern=know, Pattern=very, Pattern=really, Pattern=true, Pattern=, and, Pattern=so, Pattern=, I, Pattern=a, Pattern=our, Pattern=for, Pattern=it's, Pattern=but
+	Constrained: Pattern=I, Pattern=and, Pattern=family
+Turn ID=32| A | A : Uh , I don't take anymore than that
+	Free: Pattern=, I don't, Pattern=Uh ,, Pattern=than, Pattern=that
+	Constrained: Pattern=, I, Pattern=I don't, Pattern=I, Pattern=don't
+Turn ID=33| B | B : like who knows , you know .
+	Free: Pattern=, you know, Pattern=who
+	Constrained: Pattern=, you, Pattern=know, Pattern=you
+Turn ID=34| A | A : You know , the
+	Free: Pattern=know ,, Pattern=the
+	Constrained: Pattern=know
+Turn ID=35| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=36| A | A : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=37| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=38| A | A : Yeah , I mean , we'll , our neighbors , the attached on the other side , they're very nice , thank God ,
+	Free: Pattern=, I, Pattern=our, Pattern=other, Pattern=very, Pattern=the, Pattern=Yeah
+	Constrained: Pattern=I
+Turn ID=39| B | B : I , I lived in Abilene for a little while , and , uh , worked in the Abilene plant ,
+	Free: Pattern=I ,, Pattern=and ,, Pattern=for, Pattern=in, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=and
+Turn ID=40| A | A : but , um , I , my father always told me if you put hot food in your refrigerator you're going to make it work too hard .
+	Free: Pattern=I ,, Pattern=you, Pattern=, I, Pattern=in, Pattern=to, Pattern=my, Pattern=but, Pattern=it, Pattern=too
+	Constrained: Pattern=I
+Turn ID=41| B | B : That's wonderful . There's a lot out there to see ,
+	Free: Pattern=to, Pattern=a, Pattern=out, Pattern=there
+	Constrained: 
+Turn ID=42| A | A : somebody , somebody abandoned her and , she's only about , oh , between six and eight , six to eight weeks old
+	Free: Pattern=and ,, Pattern=to, Pattern=and, Pattern=between
+	Constrained: Pattern=and
+Turn ID=43| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=44| A | A : Yes .
+	Free: Pattern=Yes .
+	Constrained: 

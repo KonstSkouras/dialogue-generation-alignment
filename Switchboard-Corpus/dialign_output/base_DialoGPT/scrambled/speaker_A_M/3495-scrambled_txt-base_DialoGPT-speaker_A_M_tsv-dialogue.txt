@@ -1,0 +1,183 @@
+A|0| A: _I_ did something _a_ little bit different _this_ year _that_ _I_ haven't done before , I've got , my garden _is_ shaped _that_ _I_ can , it's kind like _this_ , uh , box shape , so _I_ got four pieces of two by twelve _and_ joined them together _and_ just made _a_ box . And put _in_ _a_ whole bunch like eight hundred pounds of topsoil _and_ manure 
+B|1| M:  
+A|2| A: _Yeah_ . 
+B|3| M: I'll _be_ her friend . 
+A|4| A: yeah , _in_ certain crimes . 
+B|5| M: It's not really . 
+A|6| A: _Yeah _,_ right_ _that's_ _I_ think _that's_ the only _thing_ _that's_ going to change _it_ . 
+B|7| M: You 
+A|8| A: Uh-huh . 
+B|9| M: It's [a] joke . 
+A|10| A: And _I_ hope _you_ enjoy the weather _this_ week . 
+B|11| M: [I] know [, right] ? 
+A|12| A: Uh-huh . That sounds like it'd [be] fun . Did _you_ go alone or with [a] group or , 
+B|13| M: Hahaha , [you] know _, I'm_ not sure . 
+A|14| A: _Yeah_ . Uh , very 
+B|15| M: How [is] [this] [a] [thing] ? 
+A|16| A: _Oh_ [, I'm] so sorry . _But_ _that's_ good _that_ you're going to get another one . 
+B|17| M: [I] _have a_ feeling [this] [is] gonna [be] [a] long story 
+A|18| A: _Oh_ . 
+B|19| M: No . 
+A|20| A: _Well_ good , well , then [have a] good day . 
+B|21| M: How [is] [it] transmitted ? 
+A|22| A: Uh-huh . 
+B|23| M:  
+A|24| A: Uh-huh . 
+B|25| M: i _mean ,_ [it] [is] new 
+A|26| A: _Yeah ,_ if , if the person who's going to commit the crime knew _that_ they were going to [be] punished severely , possibly capital punishment , 
+B|27| M: Hong Kong 
+A|28| A: Uh-huh . 
+B|29| M: [I'm] saying [that] there [is] [a] difference between being [right] [and] being [right] . 
+A|30| A: we got lucky . We had no damage to our house or anything so , The rest will just [have] to come with time . 
+B|31| M: You know , [that's] why 
+A|32| A: Uh-huh , uh-huh , uh-huh . 
+B|33| M: [Well] [, I'm] sure [that's] why [I'm] still [in] school . 
+A|34| A: Uh-huh . 
+B|35| M: [But] what would [you] _do_ ? 
+A|36| A: She looks gorgeous , no she's gorgeous [and] she just liked having kids [and] she's thin [and] _, I_ [mean ,] four or more children are thin , 
+B|37| M: Why ? [I'm] [a] nice guy . 
+A|38| A: so [I'm] kind of ready for the pumpkin weather . 
+B|39| M: [Yeah [,] I] _do_ . 
+A|40| A: Really . Uh-huh . 
+B|41| M:  
+A|42| A: [I] [mean ,] everybody , everybody everybody has [a] computer . 
+B|43| M: [Oh] ? What about [it] ? 
+A|44| A: [Oh] , so [do] [I] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : I did something a little bit different this year that I haven't done before , I've got , my garden is shaped that I can , it's kind like this , uh , box shape , so I got four pieces of two by twelve and joined them together and just made a box . And put in a whole bunch like eight hundred pounds of topsoil and manure
+	Free: Pattern=a, Pattern=and, Pattern=I, Pattern=in, Pattern=is, Pattern=this, Pattern=that
+	Constrained: 
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=3| B | M : I'll be her friend .
+	Free: Pattern=be
+	Constrained: 
+Turn ID=4| A | A : yeah , in certain crimes .
+	Free: Pattern=in
+	Constrained: 
+Turn ID=5| B | M : It's not really .
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : Yeah , right that's I think that's the only thing that's going to change it .
+	Free: Pattern=it, Pattern=I, Pattern=Yeah ,, Pattern=, right, Pattern=thing, Pattern=that's
+	Constrained: Pattern=Yeah, Pattern=right
+Turn ID=7| B | M : You
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : It's a joke .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=10| A | A : And I hope you enjoy the weather this week .
+	Free: Pattern=this, Pattern=I, Pattern=you
+	Constrained: 
+Turn ID=11| B | M : I know , right ?
+	Free: Pattern=, right, Pattern=I
+	Constrained: Pattern=right
+Turn ID=12| A | A : Uh-huh . That sounds like it'd be fun . Did you go alone or with a group or ,
+	Free: Pattern=a, Pattern=you, Pattern=be
+	Constrained: 
+Turn ID=13| B | M : Hahaha , you know , I'm not sure .
+	Free: Pattern=, I'm, Pattern=you
+	Constrained: Pattern=I'm
+Turn ID=14| A | A : Yeah . Uh , very
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=15| B | M : How is this a thing ?
+	Free: Pattern=is, Pattern=this, Pattern=a, Pattern=thing
+	Constrained: 
+Turn ID=16| A | A : Oh , I'm so sorry . But that's good that you're going to get another one .
+	Free: Pattern=But, Pattern=that's, Pattern=Oh, Pattern=, I'm, Pattern=that
+	Constrained: Pattern=I'm
+Turn ID=17| B | M : I have a feeling this is gonna be a long story
+	Free: Pattern=have a, Pattern=a, Pattern=I, Pattern=is, Pattern=be, Pattern=this
+	Constrained: Pattern=have, Pattern=a
+Turn ID=18| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=19| B | M : No .
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : Well good , well , then have a good day .
+	Free: Pattern=have a, Pattern=Well
+	Constrained: Pattern=have, Pattern=a
+Turn ID=21| B | M : How is it transmitted ?
+	Free: Pattern=it, Pattern=is
+	Constrained: 
+Turn ID=22| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : i mean , it is new
+	Free: Pattern=mean ,, Pattern=it, Pattern=is
+	Constrained: 
+Turn ID=26| A | A : Yeah , if , if the person who's going to commit the crime knew that they were going to be punished severely , possibly capital punishment ,
+	Free: Pattern=Yeah ,, Pattern=that, Pattern=be
+	Constrained: Pattern=Yeah
+Turn ID=27| B | M : Hong Kong
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : I'm saying that there is a difference between being right and being right .
+	Free: Pattern=right, Pattern=I'm, Pattern=a, Pattern=and, Pattern=is, Pattern=that
+	Constrained: 
+Turn ID=30| A | A : we got lucky . We had no damage to our house or anything so , The rest will just have to come with time .
+	Free: Pattern=have
+	Constrained: 
+Turn ID=31| B | M : You know , that's why
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=32| A | A : Uh-huh , uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : Well , I'm sure that's why I'm still in school .
+	Free: Pattern=I'm, Pattern=in, Pattern=Well, Pattern=that's, Pattern=, I'm
+	Constrained: Pattern=I'm
+Turn ID=34| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : But what would you do ?
+	Free: Pattern=do, Pattern=But, Pattern=you
+	Constrained: 
+Turn ID=36| A | A : She looks gorgeous , no she's gorgeous and she just liked having kids and she's thin and , I mean , four or more children are thin ,
+	Free: Pattern=, I, Pattern=mean ,, Pattern=and
+	Constrained: Pattern=I
+Turn ID=37| B | M : Why ? I'm a nice guy .
+	Free: Pattern=I'm, Pattern=a
+	Constrained: 
+Turn ID=38| A | A : so I'm kind of ready for the pumpkin weather .
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=39| B | M : Yeah , I do .
+	Free: Pattern=, I, Pattern=Yeah ,, Pattern=do
+	Constrained: Pattern=I, Pattern=Yeah
+Turn ID=40| A | A : Really . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : I mean , everybody , everybody everybody has a computer .
+	Free: Pattern=mean ,, Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=43| B | M : Oh ? What about it ?
+	Free: Pattern=it, Pattern=Oh
+	Constrained: 
+Turn ID=44| A | A : Oh , so do I .
+	Free: Pattern=do, Pattern=I, Pattern=Oh
+	Constrained: 

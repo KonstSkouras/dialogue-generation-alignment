@@ -1,0 +1,163 @@
+A|0| B: Yeah . 
+B|1| M: I've never had _them_ . They _are_ good though . 
+A|2| B: Yes , yes , yes . 
+B|3| M: _I_ mean , _I'm not_ _a_ lawyer _but_ _I_ can tell _you_ this . 
+A|4| B: Right . 
+B|5| M: _I'm not_ sure _how_ _you_ can do _that ,_ _but_ _I_ do _it_ _with_ _a_ rice cooker . 
+A|6| B: So , right now we're just , 
+B|7| M: _I'm_ _a_ heavy science guy . 
+A|8| B: Uh-huh . 
+B|9| M: You _have_ , _uh ,_ _a_ twelve inch machine _, in_ _your_ bedroom . 
+A|10| B: _Well_ another reason , well _, I_ guess [I] can't say [that] [it] _, I don't_ _like_ _the_ rain completely . We [have] _a little_ garden [that] we [have] _and_ _and_ _so_ [it] really helps our garden , 
+B|11| M: _I'm not_ sure _how_ _you know_ _that ,_ _but_ [I] 
+A|12| B: [but] usually it's [not] until later _It's_ really strange . 
+B|13| M: Ohhhh , okay , _I'm_ [a] big fan _of_ [the] egg . 
+A|14| B: Uh-huh . 
+B|15| M: [It's] [the] recycling thing 
+A|16| B: Right , absolutely . 
+B|17| M: They've been , _uh ,_ _uh_ . 
+A|18| B: Right . 
+B|19| M: That's [a] long way from my home . 
+A|20| B: because if that's _what_ , if that's _what_ [the] punishment _is_ [in] [that [,] in] [that] instance , then you're always going to say _, [you_ know] , [not] you're , you're [not] going to want to [have] him [have] [that] [uh ,] [that] punishment . So , 
+B|21| M: _I'm not_ sure . [I] _think_ [it] was [a] joke . 
+A|22| B: No more , huh . 
+B|23| M: Pet 
+A|24| B: Are [you] serious ? 
+B|25| M: uuh [, you] 
+A|26| B: Uh-huh . 
+B|27| M: You , news . [and] , news . 
+A|28| B: No , somebody played [it] 
+B|29| M: _Well [,_ I don't] [have] kids _, so_ ... 
+A|30| B: No [, I don't] [think] [so] either because [a] lot [of] people , um , depending on [how] [the] public service programs [are] set up [and] [I'm not] [that] familiar [with] [them] to [know] , 
+B|31| M: She 
+A|32| B: [I] _like_ mysteries . 
+B|33| M: He didn't [know] . He said he didn't [like] dogs . 
+A|34| B: Oh , well , [that] should help . 
+B|35| M: How about [what] ? 
+A|36| B: But , 
+B|37| M: What time was [it] ? 
+A|38| B: [Well [,] so] [, so] . So , [your] wife , does she work right now ? 
+B|39| M: He [is] [a little] bit crazy . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I've never had them . They are good though .
+	Free: Pattern=are, Pattern=them
+	Constrained: 
+Turn ID=2| A | B : Yes , yes , yes .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : I mean , I'm not a lawyer but I can tell you this .
+	Free: Pattern=you, Pattern=a, Pattern=I, Pattern=I'm not, Pattern=but
+	Constrained: Pattern=not, Pattern=I'm
+Turn ID=4| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : I'm not sure how you can do that , but I do it with a rice cooker .
+	Free: Pattern=you, Pattern=a, Pattern=how, Pattern=it, Pattern=I, Pattern=I'm not, Pattern=that ,, Pattern=with, Pattern=but
+	Constrained: Pattern=not, Pattern=I'm, Pattern=that
+Turn ID=6| A | B : So , right now we're just ,
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : I'm a heavy science guy .
+	Free: Pattern=a, Pattern=I'm
+	Constrained: 
+Turn ID=8| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : You have , uh , a twelve inch machine , in your bedroom .
+	Free: Pattern=have, Pattern=a, Pattern=your, Pattern=uh ,, Pattern=, in
+	Constrained: Pattern=in, Pattern=uh
+Turn ID=10| A | B : Well another reason , well , I guess I can't say that it , I don't like the rain completely . We have a little garden that we have and and so it really helps our garden ,
+	Free: Pattern=have, Pattern=, I, Pattern=I, Pattern=a little, Pattern=, I don't, Pattern=Well, Pattern=like, Pattern=the, Pattern=that, Pattern=so, Pattern=it, Pattern=and
+	Constrained: Pattern=a, Pattern=, I, Pattern=I
+Turn ID=11| B | M : I'm not sure how you know that , but I
+	Free: Pattern=you know, Pattern=how, Pattern=I, Pattern=I'm not, Pattern=that ,, Pattern=but
+	Constrained: Pattern=know, Pattern=that, Pattern=not, Pattern=you, Pattern=I'm
+Turn ID=12| A | B : but usually it's not until later It's really strange .
+	Free: Pattern=not, Pattern=but, Pattern=It's
+	Constrained: 
+Turn ID=13| B | M : Ohhhh , okay , I'm a big fan of the egg .
+	Free: Pattern=the, Pattern=of, Pattern=a, Pattern=I'm
+	Constrained: 
+Turn ID=14| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : It's the recycling thing
+	Free: Pattern=the, Pattern=It's
+	Constrained: 
+Turn ID=16| A | B : Right , absolutely .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : They've been , uh , uh .
+	Free: Pattern=uh ,, Pattern=uh
+	Constrained: Pattern=uh
+Turn ID=18| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : That's a long way from my home .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=20| A | B : because if that's what , if that's what the punishment is in that , in that instance , then you're always going to say , you know , not you're , you're not going to want to have him have that uh , that punishment . So ,
+	Free: Pattern=you know, Pattern=have, Pattern=what, Pattern=in, Pattern=, you, Pattern=is, Pattern=, in, Pattern=that ,, Pattern=that, Pattern=not, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=in, Pattern=know, Pattern=that, Pattern=you, Pattern=uh
+Turn ID=21| B | M : I'm not sure . I think it was a joke .
+	Free: Pattern=a, Pattern=it, Pattern=I, Pattern=think, Pattern=I'm not
+	Constrained: Pattern=not, Pattern=I'm
+Turn ID=22| A | B : No more , huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : Pet
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : Are you serious ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=25| B | M : uuh , you
+	Free: Pattern=, you
+	Constrained: Pattern=you
+Turn ID=26| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : You , news . and , news .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=28| A | B : No , somebody played it
+	Free: Pattern=it
+	Constrained: 
+Turn ID=29| B | M : Well , I don't have kids , so ...
+	Free: Pattern=, I don't, Pattern=, so, Pattern=Well ,, Pattern=have
+	Constrained: Pattern=Well, Pattern=so, Pattern=, I, Pattern=I
+Turn ID=30| A | B : No , I don't think so either because a lot of people , um , depending on how the public service programs are set up and I'm not that familiar with them to know ,
+	Free: Pattern=of, Pattern=a, Pattern=how, Pattern=and, Pattern=are, Pattern=know, Pattern=the, Pattern=I'm not, Pattern=so, Pattern=, I don't, Pattern=think, Pattern=with, Pattern=them, Pattern=that
+	Constrained: Pattern=I'm, Pattern=, I, Pattern=not, Pattern=I
+Turn ID=31| B | M : She
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : I like mysteries .
+	Free: Pattern=I, Pattern=like
+	Constrained: 
+Turn ID=33| B | M : He didn't know . He said he didn't like dogs .
+	Free: Pattern=know, Pattern=like
+	Constrained: 
+Turn ID=34| A | B : Oh , well , that should help .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=35| B | M : How about what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=36| A | B : But ,
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : What time was it ?
+	Free: Pattern=it
+	Constrained: 
+Turn ID=38| A | B : Well , so , so . So , your wife , does she work right now ?
+	Free: Pattern=, so, Pattern=Well ,, Pattern=your
+	Constrained: Pattern=Well, Pattern=so
+Turn ID=39| B | M : He is a little bit crazy .
+	Free: Pattern=a little, Pattern=is
+	Constrained: Pattern=a

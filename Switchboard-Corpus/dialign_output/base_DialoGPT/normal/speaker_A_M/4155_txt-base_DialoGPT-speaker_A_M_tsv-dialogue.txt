@@ -1,0 +1,287 @@
+B|0| M: Do _you_ _pay_ _taxes_ .? 
+A|1| A: _What_ _do you_ _do_ ? 
+B|2| M: _No_ _we_ _don't_ . 
+A|3| A: _I_ guess _that_ , _I_ _mean_ _it_ all depends _really_ on _what_ kind _of_ bracket _you're_ _in_ . 
+B|4| M: _I'm_ [in] _the_ US . 
+A|5| A: Uh-huh . 
+B|6| M: Well , how _much_ ? 
+A|7| A: Right . 
+B|8| M: Not [really] . 
+A|9| A: _Oh_ , _sure_ . 
+B|10| M: You _pay_ _a_ LOT [of] _taxes ._ not _much_ 
+A|11| A: Uh-huh . Uh-huh . Right . 
+B|12| M: Yes [I] [do] . 
+A|13| A: Uh-huh . 
+B|14| M: Uhm ... What's _the_ point ? 
+A|15| A: Right . 
+B|16| M: _Yeah_ , uhuh . 
+A|17| A: _Uh ,_ well , _no_ , [I] can't [really] complain _. I'm_ [a] student , um , and [I] [I] work as [a] co-op at _, uh_ , Georgia Tech Research Institute . And _, uh_ , [I'm] _going to_ get back most [of] _what_ [I] earned , [I] _mean_ most [of] _what_ [I] [pay] [in] [taxes] and _, uh_ , and _, uh_ , _one_ [of] my parents is still claiming me . 
+B|18| M: [I'm] sorry . 
+A|19| A: Huh ? Uh-huh _. I'm_ _sure_ 
+B|20| M: [I'm] _the_ ... You ...? 
+A|21| A: [I] went , well [I] did work , um , just very _for_ some time _but_ [I] didn't make enough money _to_ [really] make , too [much] [of] [a] difference . 
+B|22| M:  , 
+A|23| A: Right . 
+B|24| M: _I don't_ have [to] 
+A|25| A: [No] , _no_ , [I] haven't . 
+B|26| M: You should , [but] [you] have [no] idea [what] [you're] talking _about_ . 
+A|27| A: Uh-huh . 
+B|28| M: [What] _are_ [you] , like , [a] lawyer ? 
+A|29| A: Uh-huh . 
+B|30| M: It's not like there's anything else [that] _could_ be done . 
+A|31| A: Huh . 
+B|32| M: [I'm] not [going to] say anything _about_ [it] [. I'm] not gonna say anything . 
+A|33| A: _Oh ._ Really ? 
+B|34| M: We _are_ paying [for] his services , _so_ _we_ _are_ . 
+A|35| A: Uh-huh . Uh-huh . 
+B|36| M: [I] have [no] idea . 
+A|37| A: _Oh_ , _sure_ . 
+B|38| M:  ... _I don't_ know . 
+A|39| A: Uh-huh . 
+B|40| M: [Uh [,] uh] 
+A|41| A: Wow . 
+B|42| M: How [much] [do you] [pay] ? 
+A|43| A: Uh-huh . [taxes .] 
+B|44| M: About [a] dollar per gallon . 
+A|45| A: Uh-huh . 
+B|46| M: If [you're] not [going to] [pay] [for] [it] , why not ? 
+A|47| A: Huh . 
+B|48| M: Taxes . 
+A|49| A: [Yeah] . 
+B|50| M: [Oh _.] So_ [you] [mean] [you're] not _the_ [one] who's paying [for] [it] ? 
+A|51| A: [No] , [no] , [I] haven't . [Uh ,] [I] [, uh] , my father pays [for] my , my schooling , my tuition [. So] [, uh] , [I'm] , [I] haven't made use [of] [that] . 
+B|52| M: Ohh . Well , that's unfortunate . 
+A|53| A: Physics . 
+B|54| M: Ahh . [I] am [in] university . 
+A|55| A: Uh-huh . 
+B|56| M: [I] know . 
+A|57| A: Everybody says [that] 
+B|58| M: [I'm] not [sure] [what] [you] [mean] . 
+A|59| A: Huh . 
+B|60| M: [I] _think_ [you're] right . 
+A|61| A: Um , [I] haven't , [I] haven't gotten too terribly [much] into my major yet . Actually , um , [the] , [the] degree [I'm] getting is _physics_ . There's [a] different [one] [for] applied _physics_ [so] [I] guess [you] [could] call [it] more straight stuff than applied . 
+B|62| M: _Are_ [you] studying theoretical [physics] ? 
+A|63| A: [I] doubt [about] [that] . [Are] , [are] , is America , [I] [mean] [are] [we] pretty , pretty steep compared [to] most countries ? 
+B|64| M: How [are] [you] ? 
+A|65| A: [No] , [I don't] [think] [so] either . 
+B|66| M: What's ? 
+A|67| A: Uh-huh . Uh-huh . Uh-huh . 
+B|68| M: [What] ?! [What] ? 
+A|69| A: [Yeah] . 
+B|70| M: Wait . Wait . Wait . Wait . Wait . wait . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : Do you pay taxes .?
+	Free: Pattern=taxes, Pattern=pay, Pattern=you
+	Constrained: 
+Turn ID=1| A | A : What do you do ?
+	Free: Pattern=do you, Pattern=What, Pattern=do
+	Constrained: Pattern=you, Pattern=do
+Turn ID=2| B | M : No we don't .
+	Free: Pattern=we, Pattern=No, Pattern=don't
+	Constrained: 
+Turn ID=3| A | A : I guess that , I mean it all depends really on what kind of bracket you're in .
+	Free: Pattern=mean, Pattern=what, Pattern=it, Pattern=I, Pattern=in, Pattern=really, Pattern=that, Pattern=you're, Pattern=of
+	Constrained: 
+Turn ID=4| B | M : I'm in the US .
+	Free: Pattern=I'm, Pattern=in, Pattern=the
+	Constrained: 
+Turn ID=5| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : Well , how much ?
+	Free: Pattern=much
+	Constrained: 
+Turn ID=7| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : Not really .
+	Free: Pattern=really
+	Constrained: 
+Turn ID=9| A | A : Oh , sure .
+	Free: Pattern=sure, Pattern=Oh
+	Constrained: 
+Turn ID=10| B | M : You pay a LOT of taxes . not much
+	Free: Pattern=of, Pattern=a, Pattern=much, Pattern=pay, Pattern=taxes .
+	Constrained: Pattern=taxes
+Turn ID=11| A | A : Uh-huh . Uh-huh . Right .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : Yes I do .
+	Free: Pattern=I, Pattern=do
+	Constrained: 
+Turn ID=13| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : Uhm ... What's the point ?
+	Free: Pattern=the
+	Constrained: 
+Turn ID=15| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : Yeah , uhuh .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=17| A | A : Uh , well , no , I can't really complain . I'm a student , um , and I I work as a co-op at , uh , Georgia Tech Research Institute . And , uh , I'm going to get back most of what I earned , I mean most of what I pay in taxes and , uh , and , uh , one of my parents is still claiming me .
+	Free: Pattern=going to, Pattern=of, Pattern=mean, Pattern=a, Pattern=taxes, Pattern=Uh ,, Pattern=really, Pattern=pay, Pattern=, uh, Pattern=I'm, Pattern=no, Pattern=what, Pattern=one, Pattern=I, Pattern=. I'm, Pattern=in
+	Constrained: Pattern=I'm, Pattern=to
+Turn ID=18| B | M : I'm sorry .
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=19| A | A : Huh ? Uh-huh . I'm sure
+	Free: Pattern=. I'm, Pattern=sure
+	Constrained: Pattern=I'm
+Turn ID=20| B | M : I'm the ... You ...?
+	Free: Pattern=I'm, Pattern=the
+	Constrained: 
+Turn ID=21| A | A : I went , well I did work , um , just very for some time but I didn't make enough money to really make , too much of a difference .
+	Free: Pattern=of, Pattern=a, Pattern=for, Pattern=I, Pattern=really, Pattern=much, Pattern=to, Pattern=but
+	Constrained: 
+Turn ID=22| B | M :  ,
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=24| B | M : I don't have to
+	Free: Pattern=I don't, Pattern=to
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=25| A | A : No , no , I haven't .
+	Free: Pattern=I, Pattern=No, Pattern=no
+	Constrained: 
+Turn ID=26| B | M : You should , but you have no idea what you're talking about .
+	Free: Pattern=you're, Pattern=you, Pattern=about, Pattern=but, Pattern=no, Pattern=what
+	Constrained: 
+Turn ID=27| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=28| B | M : What are you , like , a lawyer ?
+	Free: Pattern=What, Pattern=are, Pattern=you, Pattern=a
+	Constrained: 
+Turn ID=29| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : It's not like there's anything else that could be done .
+	Free: Pattern=could, Pattern=that
+	Constrained: 
+Turn ID=31| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : I'm not going to say anything about it . I'm not gonna say anything .
+	Free: Pattern=going to, Pattern=I'm, Pattern=it, Pattern=about, Pattern=. I'm
+	Constrained: Pattern=I'm, Pattern=to
+Turn ID=33| A | A : Oh . Really ?
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=34| B | M : We are paying for his services , so we are .
+	Free: Pattern=we, Pattern=for, Pattern=are, Pattern=so
+	Constrained: 
+Turn ID=35| A | A : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : I have no idea .
+	Free: Pattern=I, Pattern=no
+	Constrained: 
+Turn ID=37| A | A : Oh , sure .
+	Free: Pattern=sure, Pattern=Oh
+	Constrained: 
+Turn ID=38| B | M :  ... I don't know .
+	Free: Pattern=I don't
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=39| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : Uh , uh
+	Free: Pattern=, uh, Pattern=Uh ,
+	Constrained: 
+Turn ID=41| A | A : Wow .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : How much do you pay ?
+	Free: Pattern=do you, Pattern=pay, Pattern=much
+	Constrained: Pattern=you, Pattern=do
+Turn ID=43| A | A : Uh-huh . taxes .
+	Free: Pattern=taxes .
+	Constrained: Pattern=taxes
+Turn ID=44| B | M : About a dollar per gallon .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=45| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=46| B | M : If you're not going to pay for it , why not ?
+	Free: Pattern=going to, Pattern=you're, Pattern=for, Pattern=it, Pattern=pay
+	Constrained: Pattern=to
+Turn ID=47| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=48| B | M : Taxes .
+	Free: 
+	Constrained: 
+Turn ID=49| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=50| B | M : Oh . So you mean you're not the one who's paying for it ?
+	Free: Pattern=you're, Pattern=you, Pattern=mean, Pattern=Oh ., Pattern=for, Pattern=it, Pattern=one, Pattern=the, Pattern=. So
+	Constrained: Pattern=Oh
+Turn ID=51| A | A : No , no , I haven't . Uh , I , uh , my father pays for my , my schooling , my tuition . So , uh , I'm , I haven't made use of that .
+	Free: Pattern=of, Pattern=no, Pattern=for, Pattern=I, Pattern=Uh ,, Pattern=No, Pattern=that, Pattern=. So, Pattern=, uh, Pattern=I'm
+	Constrained: 
+Turn ID=52| B | M : Ohh . Well , that's unfortunate .
+	Free: 
+	Constrained: 
+Turn ID=53| A | A : Physics .
+	Free: 
+	Constrained: 
+Turn ID=54| B | M : Ahh . I am in university .
+	Free: Pattern=in, Pattern=I
+	Constrained: 
+Turn ID=55| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=56| B | M : I know .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=57| A | A : Everybody says that
+	Free: Pattern=that
+	Constrained: 
+Turn ID=58| B | M : I'm not sure what you mean .
+	Free: Pattern=mean, Pattern=what, Pattern=sure, Pattern=you, Pattern=I'm
+	Constrained: 
+Turn ID=59| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=60| B | M : I think you're right .
+	Free: Pattern=you're, Pattern=I, Pattern=think
+	Constrained: 
+Turn ID=61| A | A : Um , I haven't , I haven't gotten too terribly much into my major yet . Actually , um , the , the degree I'm getting is physics . There's a different one for applied physics so I guess you could call it more straight stuff than applied .
+	Free: Pattern=a, Pattern=for, Pattern=it, Pattern=physics, Pattern=much, Pattern=the, Pattern=could, Pattern=so, Pattern=you, Pattern=I'm, Pattern=one, Pattern=I
+	Constrained: 
+Turn ID=62| B | M : Are you studying theoretical physics ?
+	Free: Pattern=physics, Pattern=you, Pattern=Are
+	Constrained: 
+Turn ID=63| A | A : I doubt about that . Are , are , is America , I mean are we pretty , pretty steep compared to most countries ?
+	Free: Pattern=mean, Pattern=about, Pattern=we, Pattern=to, Pattern=Are, Pattern=that, Pattern=are, Pattern=I
+	Constrained: 
+Turn ID=64| B | M : How are you ?
+	Free: Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=65| A | A : No , I don't think so either .
+	Free: Pattern=I don't, Pattern=think, Pattern=so, Pattern=No
+	Constrained: Pattern=I, Pattern=don't
+Turn ID=66| B | M : What's ?
+	Free: 
+	Constrained: 
+Turn ID=67| A | A : Uh-huh . Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=68| B | M : What ?! What ?
+	Free: Pattern=What
+	Constrained: 
+Turn ID=69| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=70| B | M : Wait . Wait . Wait . Wait . Wait . wait .
+	Free: 
+	Constrained: 

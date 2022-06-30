@@ -1,0 +1,455 @@
+B|0| B: _Okay ._ 
+A|1| A: [Okay] , where _have_ _you_ _all_ _been_ on vacation recently ? 
+B|2| B: Recently , _my_ _most_ recent trip _was_ _last_ _year_ _, and that was_ _Detroit_ . 
+A|3| A: [Detroit] ? 
+B|4| B: _Yeah ._ 
+A|5| A: Is [that] _a nice_ vacation _spot_ ? 
+B|6| B: _Well _,_ _it_ wasn't_ _really_ _. _It was_ _,_ um _,_ uh _,_ _to_ see_ an old relative . 
+A|7| A: Right _, okay_ . 
+B|8| B: _And_ _it was _,_ uh ,_ _just_ _to _,_ uh ,_ [have] _some_ fellowship _with_ her . 
+A|9| A: Right . _So_ _you_ _probably_ wouldn't recommend [that] as _a_ big _tourist spot_ ? 
+B|10| B: No . The _only_ _thing_ [that] _I , I_ visited [that] _, you know ,_ _is_ quite [a] [tourist spot] _is_ Cancun , _Mexico_ . 
+A|11| A: Ooh _, that_ would be _nice ._ 
+B|12| B: _And that was_ _real_ [nice .] Uh , 
+A|13| A: Did [you] scuba dive _there_ ? 
+B|14| B: No _, we_ _just kind of_ walked _the_ beaches _and_ looked _at_ _all the_ beautiful scenery _there ._ 
+A|15| A: Ooh _, that_ would be [nice .] 
+B|16| B: _Yeah _,_ and_ _just kind of_ relaxed _and_ unwound _a little bit ,_ _from_ our daily routine . 
+A|17| A: _Oh _,_ that_ would be enjoyable . Right , yeah _, that's_ , _a nice_ break . 
+B|18| B: Huh . 
+A|19| A: [I] haven't _been_ on vacation _in_ [a] while either . Um , usually _when we_ _go_ [, we] _go_ [to] _Colorado [,_ to] Estes Park area . Which [is] _up_ [kind of] near Denver . _And , uh ,_ stay _in_ [the] mountains _up_ [there] , _do_ [a little] hiking [and] resting , _get away from_ [the] Texas heat _, that_ [kind of] _thing ._ 
+B|20| B: _Uh-huh ._ Yes . [Oh [,] that's] always refreshing _to [get_ away from] . 
+A|21| A: _So_ _it's_ _a lot of_ fun _. I_ worked _up_ [there] [last] summer _, so_ _I guess_ [it was] [kind of] like [a] vacation _the ,_ _whole_ summer long 
+B|22| B: [Oh ,] well [, that's] [nice .] _Yeah ._ 
+A|23| A: Worked [at] [a] camp [there] [, and] _so_ [I] got [to] spend _a lot of_ _time_ _up_ _in_ [the] mountains . _So_ [that's] _probably_ [my] favorite _place_ _when_ [I] [have] [to] _go_ somewhere on [a] vacation . 
+B|24| B: _Well ,_ [my] [, uh ,] [my] middle daughter [and] her husband [have] _just_ taken [up] [a] new activity [, _and] that's_ canoeing . 
+A|25| A: [Oh] . 
+B|26| B: [And , uh ,] they've _been to_ [the] Guadalupe _River_ [, _and] they_ also [, uh [,] uh ,] [have] _been _to_ [,_ uh _,] [I_ guess] [Colorado [,] and] they've _really enjoyed_ [it] . 
+A|27| A: _That's_ [nice .] We [, um [,] we] canoed [up] _in_ Arkansas [at] [the] Buffalo [River] . 
+B|28| B: _It's_ _a whole_ new , _Uh-huh ._ 
+A|29| A: [And] [that's] [the] best _place_ [that] I've ever canoed . 
+B|30| B: Huh . 
+A|31| A: [It's] [really] , [really] pretty _. I_ [was] [a little] kid then [, and] [we] [to] [have] [, uh [,] we] stayed [at] [some] park [and they] _had [a_ little] [uh ,] mountain man who came down [the] river every night [, and] he would give [a little] talk _about_ mountain things . _You_ [know _,] I think_ he [wasn't] [a] [real] mountain man _, but_ [we] were pretty convinced he [was] [a] full , hermit who _lived_ [up] _in_ _, the_ woods _, that_ he'd come _in_ his [little] log boat down [the] river , 
+B|32| B: Sure . _Uh-huh ._ 
+A|33| A: [and] [we] would [have] [to ,] we'd [and] he'd make sassafras tea _out_ [of] sassafras roots [that] he'd found [and] , _That's_ [a] _good_ family _place_ [to] _go_ , 
+B|34| B: [Oh [,] that's] _neat_ . Sure . 
+A|35| A: [and] then [the] river [was] [really] [nice] _because_ [it wasn't] _too_ frightening _, but_ [it wasn't] [, you know ,] _too_ easy either . 
+B|36| B: _Uh-huh ._ 
+A|37| A: [It was] like , 
+B|38| B: _Well [,_ you] learn [a lot of] [, um ,] skills [too] [, and] [I think] _you're_ more receptive [when] _you're_ younger than [when] _you're_ older [, to] learn new skills , 
+A|39| A: _That's_ true . 
+B|40| B: [and] [I think] [they] [really] [it] [really] penetrates [in] your memory [, you know ,] _what_ [to] [do] _, because_ [you] [really] _have _a_ great_ interest [in] [it] . Because [it's] something [you] weren't forced [to] [do] 
+A|41| A: [Uh-huh .] Right . 
+B|42| B: _so you_ [have] [kind _of] a_ relaxed mode [of] learning . 
+A|43| A: [Yeah .] 
+B|44| B: [And] _you're_ more receptive . 
+A|45| A: [Well [,] that's] _good _._ Well [,_ we] [, um ,] let's _see _,_ the_ [only] other _place_ I've ever vacationed , we'd [, you know ,] _go_ on camping trips [up] [to] Texoma [and] things like _that ._ 
+B|46| B: [Uh-huh .] 
+A|47| A: [And] then [I] went _to England_ _a few_ _years_ ago . 
+B|48| B: [Oh [,] that's] exciting . 
+A|49| A: [I] [was] [a] , student [there] [and] spent [, um ,] [a] semester studying abroad [in] London . 
+B|50| B: [Uh-huh .] [Uh-huh .] 
+A|51| A: [And that was] [a great] _time [,_ because] [it's] [so] [, that's] such [a] [neat] _place_ [and] [it's] , there's _not_ [a] language barrier [so you] don't [, I] mean , [there] there's [a little bit [,] because] there's [some] [of] those English words [that] [you] [just] don't exactly [know] [what] [they] mean [, and] [a lot of] people [have] trouble wrestling [with] _their_ accents _, but_ [it's] _, it was_ [really] fun _. [I_ , [I] , I] [really enjoyed] _that ._ I'm _probably_ going _back_ _there to_ work , _for_ [a] [year] . 
+B|52| B: [Uh-huh [.] Well _,] _I had_ a friend_ [that] [, uh ,] visited [England] [not] , well [, I think] [it's] [been] [probably] two [years] now [, but] [that's] her _next_ goal [, and] she _can_ [do] [it] , [is] _go back_ [to England] [, because] she [really] has [a great] desire [to] [do] [that] [, because] [the] _love_ [that] she [, um ,] has [for] [it] now after visiting [it] . 
+A|53| A: [It] , [it's] [really] [nice _.] I_ would [, I] would spend [all] [my] _time_ [in] London , or [most] [of] [my] _time ,_ 
+B|54| B: [Uh-huh .] 
+A|55| A: [and that's] [it was] [really] different being [in] [a] big city [, because] [I] don't [get] much into urban [, you know ,] [really] urban areas [a lot] 
+B|56| B: [Uh-huh] , uh-huh . 
+A|57| A: [and] [it was ,] [it's] [really] , [it's] sort [of a] weird [little] anonymous feeling where no one _knows_ who [you] are [and] [you] [can] spend [a whole] day without _talking_ [to] anyone , which [I] thought [I] would [just] hate [, but] [it] ended [up] being [kind of] [nice] [because] [you're] [not] accountable [to] anyone . 
+B|58| B: [Uh-huh] , uh-huh . 
+A|59| A: _You_ could [just kind of] [kind of] walk _around_ [and] observe , 
+B|60| B: Do your own [thing .] [Yeah .] 
+A|61| A: [I] _did_ [a lot of] [just] going _out_ by myself [and] riding on [the] subway [and] watching people . 
+B|62| B: [Uh-huh .] 
+A|63| A: [And] [I had [a] great] _time_ doing _that [._ It was] [really] interesting . 
+B|64| B: [That's] wonderful _. There's_ [a lot] [out] [there _to] [see_ ,] 
+A|65| A: [Yeah [,] I] [know ,] 
+B|66| B: I'll _say_ . 
+A|67| A: [I] keep wanting [to get] [up] [to [,] I] haven't [, I] haven't [been] anywhere else outside [the] United States _. I_ haven't [been to] [Mexico] or _Canada_ or , 
+B|68| B: [Well [,] I] [lived] across [the] street almost [from] [Canada] 
+A|69| A: [Oh] . 
+B|70| B: [So] _that was [,_ that] [, that's] [a nice] [place] . [Canada] [is] _very_ [nice .] 
+A|71| A: [Yeah [,] that] would be [nice _.] [I_ had a friend] [from] [there .] 
+B|72| B: [Uh-huh .] 
+A|73| A: Then [I ,] I'd [love] [to] [go] somewhere [in] Asia [, but] I'd [have] [to] [have a] tour guide [with] me [to] help [with] [all the] language [and] [all] _that ._ 
+B|74| B: [Oh ,] yes , absolutely . Sure , somebody [that] [knows] [their] way [around] . 
+A|75| A: [So] , yeah [, _that's] why_ [, _that's] why_ [England] _was [nice_ .] Even [, we] traveled [in] Europe [for] _about_ [a] week [, and that was] even [nice] [because] [there] [wasn't] [, uh _,] _the_ ,_ [most] [the] _places_ [we] went [, we] went [to] Germany [and] Switzerland [and] , 
+B|76| B: [Well ,] you've [been] quite [a few] [places] [there] 
+A|77| A: [Yeah [,] we] [have] . We . We _did_ [, we] whirlwinded through , Europe . 
+B|78| B: Once [you] [think] [about] [it] , huh . [Uh-huh .] 
+A|79| A: [It was] [just] insane twelve days where we'd [just] stop like [a] city [a] day [, and] [you] slept on [the] train [at] night . 
+B|80| B: [Oh [,] that's] [great] . 
+A|81| A: But [there] [wasn't] [a] _, it was_ strange _, it was_ [kind of] sad , [there] [wasn't] ever [a] language problem [there] [, because] everyone [in] Germany knew English [and] everyone [in] Switzerland , knew English . 
+B|82| B: [Uh-huh _.] That's_ [great] . 
+A|83| A: [So] [we] were [kind of] pitiful . We found one restaurant [we] were [in] [and] got seated [, and] then no one knew English [in] [there] [, and] [we] were [just] finally [had] [to] break [out] [the] phrase book [and] start looking [up] things . 
+B|84| B: [Uh-huh] 
+A|85| A: But [it was ,] 
+B|86| B: What [did] [you] wind [up] [with] ? 
+A|87| A: [Oh [,] I had] fondue . That [was] easy [to] [say] 
+B|88| B: [Oh [,] okay] 
+A|89| A: Tried [to get] fondue [and] white wine [, and [that was] ,] 
+B|90| B: Uh , uh-huh . 
+A|91| A: [we] were able [to] [have] [that] pretty , pretty effortlessly . There were [some] people [at] [the] [next] table who spoke English _, so_ [we] elicited [their] aid [for] [a] while 
+B|92| B: They [kind of] guided _you ._ 
+A|93| A: [and] , [they] were [very] helpful 
+B|94| B: [Uh-huh .] 
+A|95| A: [so] , [It was _,] it was_ [a] pleasant _time_ . 
+B|96| B: [Well ,] [good .] 
+A|97| A: I'd , I'd [love] [to] [go back] [there [.] There's] [just] [not] _time_ [There's] [not] enough _time_ [to] [go] [see] everything [, and] then [to] afford [to see] everything . 
+B|98| B: [I guess] [that's why] [we] need [to] plan [for] retirement [, so] [when we] [do] [have] [the] free [time ,] we'll [have] [the [,] the] means [to [,] uh ,] pursue our dreams . 
+A|99| A: Right [. That's] 
+B|100| B: [Yeah [.] [I] guess] [that's] [what] retirement [is] [all] [about] . 
+A|101| A: That [and] sleeping late 
+B|102| B: Yes . 
+A|103| A: [I] keep hoping [for] . 
+B|104| B: [Uh-huh .] 
+A|105| A: [Well] _it was nice talking with [you_ .] 
+B|106| B: [I] understand [that [.] Well [,] [it was] nice talking with you] [too] , Craig . 
+A|107| A: [And] [have a] [good] afternoon . 
+B|108| B: [You] [do] [the] same . 
+A|109| A: [Okay .] 
+B|110| B: Thank [you .] 
+A|111| A: Good-bye . 
+B|112| B: Bye-bye . 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : Okay .
+	Free: Pattern=Okay .
+	Constrained: Pattern=Okay
+Turn ID=1| A | A : Okay , where have you all been on vacation recently ?
+	Free: Pattern=you, Pattern=have, Pattern=Okay, Pattern=all, Pattern=been
+	Constrained: 
+Turn ID=2| B | B : Recently , my most recent trip was last year , and that was Detroit .
+	Free: Pattern=, and that was, Pattern=last, Pattern=my, Pattern=most, Pattern=year, Pattern=Detroit, Pattern=was
+	Constrained: Pattern=that, Pattern=was, Pattern=, and, Pattern=and
+Turn ID=3| A | A : Detroit ?
+	Free: Pattern=Detroit
+	Constrained: 
+Turn ID=4| B | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=5| A | A : Is that a nice vacation spot ?
+	Free: Pattern=a nice, Pattern=spot, Pattern=that
+	Constrained: Pattern=nice, Pattern=a
+Turn ID=6| B | B : Well , it wasn't really . It was , um , uh , to see an old relative .
+	Free: Pattern=, it, Pattern=, um ,, Pattern=. It was, Pattern=Well ,, Pattern=really, Pattern=it wasn't, Pattern=, uh ,, Pattern=It was ,, Pattern=to see, Pattern=, to
+	Constrained: Pattern=wasn't, Pattern=Well, Pattern=It, Pattern=uh ,, Pattern=see, Pattern=to, Pattern=was, Pattern=it, Pattern=It was
+Turn ID=7| A | A : Right , okay .
+	Free: Pattern=, okay
+	Constrained: 
+Turn ID=8| B | B : And it was , uh , just to , uh , have some fellowship with her .
+	Free: Pattern=it was ,, Pattern=some, Pattern=to ,, Pattern=, uh ,, Pattern=with, Pattern=And, Pattern=just, Pattern=have
+	Constrained: Pattern=it was, Pattern=it, Pattern=uh ,, Pattern=to, Pattern=was
+Turn ID=9| A | A : Right . So you probably wouldn't recommend that as a big tourist spot ?
+	Free: Pattern=you, Pattern=a, Pattern=So, Pattern=probably, Pattern=that, Pattern=tourist spot
+	Constrained: Pattern=spot
+Turn ID=10| B | B : No . The only thing that I , I visited that , you know , is quite a tourist spot is Cancun , Mexico .
+	Free: Pattern=only, Pattern=is, Pattern=Mexico, Pattern=, you know ,, Pattern=a, Pattern=I , I, Pattern=thing, Pattern=that, Pattern=tourist spot
+	Constrained: Pattern=I ,, Pattern=know ,, Pattern=you, Pattern=, I, Pattern=I, Pattern=know, Pattern=spot, Pattern=, you
+Turn ID=11| A | A : Ooh , that would be nice .
+	Free: Pattern=nice ., Pattern=, that
+	Constrained: Pattern=nice, Pattern=that
+Turn ID=12| B | B : And that was real nice . Uh ,
+	Free: Pattern=And that was, Pattern=nice ., Pattern=real
+	Constrained: Pattern=And, Pattern=nice, Pattern=that, Pattern=was
+Turn ID=13| A | A : Did you scuba dive there ?
+	Free: Pattern=there, Pattern=you
+	Constrained: 
+Turn ID=14| B | B : No , we just kind of walked the beaches and looked at all the beautiful scenery there .
+	Free: Pattern=at, Pattern=there ., Pattern=all the, Pattern=the, Pattern=just kind of, Pattern=and, Pattern=, we
+	Constrained: Pattern=of, Pattern=kind of, Pattern=just, Pattern=there, Pattern=we, Pattern=the, Pattern=all
+Turn ID=15| A | A : Ooh , that would be nice .
+	Free: Pattern=nice ., Pattern=, that
+	Constrained: Pattern=nice, Pattern=that
+Turn ID=16| B | B : Yeah , and just kind of relaxed and unwound a little bit , from our daily routine .
+	Free: Pattern=and, Pattern=from, Pattern=Yeah ,, Pattern=, and, Pattern=just kind of, Pattern=a little bit ,
+	Constrained: Pattern=of, Pattern=kind of, Pattern=just, Pattern=little, Pattern=a, Pattern=and, Pattern=a little
+Turn ID=17| A | A : Oh , that would be enjoyable . Right , yeah , that's , a nice break .
+	Free: Pattern=Oh ,, Pattern=, that's, Pattern=, that, Pattern=a nice
+	Constrained: Pattern=a, Pattern=nice, Pattern=that's, Pattern=Oh, Pattern=that
+Turn ID=18| B | B : Huh .
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : I haven't been on vacation in a while either . Um , usually when we go , we go to Colorado , to Estes Park area . Which is up kind of near Denver . And , uh , stay in the mountains up there , do a little hiking and resting , get away from the Texas heat , that kind of thing .
+	Free: Pattern=go, Pattern=there, Pattern=I, Pattern=a little, Pattern=get away from, Pattern=in, Pattern=is, Pattern=the, Pattern=been, Pattern=And , uh ,, Pattern=kind of, Pattern=, to, Pattern=do, Pattern=a, Pattern=when we, Pattern=Colorado ,, Pattern=and, Pattern=, we, Pattern=, that, Pattern=thing ., Pattern=up, Pattern=to
+	Constrained: Pattern=of, Pattern=And, Pattern=little, Pattern=a, Pattern=from, Pattern=we, Pattern=, uh ,, Pattern=when, Pattern=to, Pattern=get, Pattern=that, Pattern=uh ,, Pattern=thing
+Turn ID=20| B | B : Uh-huh . Yes . Oh , that's always refreshing to get away from .
+	Free: Pattern=Uh-huh ., Pattern=to get, Pattern=get away from, Pattern=Oh ,, Pattern=, that's
+	Constrained: Pattern=from, Pattern=Uh-huh, Pattern=that's, Pattern=get, Pattern=Oh, Pattern=to
+Turn ID=21| A | A : So it's a lot of fun . I worked up there last summer , so I guess it was kind of like a vacation the , whole summer long
+	Free: Pattern=it was, Pattern=a lot of, Pattern=kind of, Pattern=there, Pattern=a, Pattern=So, Pattern=the ,, Pattern=. I, Pattern=I guess, Pattern=whole, Pattern=last, Pattern=up, Pattern=, so, Pattern=it's
+	Constrained: Pattern=of, Pattern=a, Pattern=it, Pattern=I, Pattern=the, Pattern=a lot, Pattern=was, Pattern=so
+Turn ID=22| B | B : Oh , well , that's nice . Yeah .
+	Free: Pattern=Yeah ., Pattern=Oh ,, Pattern=nice ., Pattern=, that's
+	Constrained: Pattern=nice, Pattern=that's, Pattern=Oh
+Turn ID=23| A | A : Worked at a camp there , and so I got to spend a lot of time up in the mountains . So that's probably my favorite place when I have to go somewhere on a vacation .
+	Free: Pattern=time, Pattern=a lot of, Pattern=have, Pattern=go, Pattern=there, Pattern=a, Pattern=So, Pattern=I, Pattern=in, Pattern=when, Pattern=place, Pattern=my, Pattern=so, Pattern=at, Pattern=probably, Pattern=that's, Pattern=the, Pattern=, and, Pattern=up, Pattern=to
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of, Pattern=and
+Turn ID=24| B | B : Well , my , uh , my middle daughter and her husband have just taken up a new activity , and that's canoeing .
+	Free: Pattern=a, Pattern=and, Pattern=, uh ,, Pattern=my, Pattern=just, Pattern=have, Pattern=Well ,, Pattern=and that's, Pattern=, and, Pattern=up
+	Constrained: Pattern=uh ,, Pattern=that's, Pattern=Well, Pattern=and
+Turn ID=25| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=26| B | B : And , uh , they've been to the Guadalupe River , and they also , uh , uh , have been to , uh , I guess Colorado , and they've really enjoyed it .
+	Free: Pattern=have, Pattern=, I, Pattern=been to, Pattern=Colorado ,, Pattern=it, Pattern=I guess, Pattern=to ,, Pattern=, uh ,, Pattern=the, Pattern=and they, Pattern=And , uh ,, Pattern=really enjoyed, Pattern=, and, Pattern=River
+	Constrained: Pattern=And, Pattern=they, Pattern=and, Pattern=I, Pattern=really, Pattern=, uh ,, Pattern=uh ,, Pattern=to, Pattern=been
+Turn ID=27| A | A : That's nice . We , um , we canoed up in Arkansas at the Buffalo River .
+	Free: Pattern=nice ., Pattern=, we, Pattern=at, Pattern=in, Pattern=the, Pattern=, um ,, Pattern=That's, Pattern=River, Pattern=up
+	Constrained: Pattern=nice, Pattern=we
+Turn ID=28| B | B : It's a whole new , Uh-huh .
+	Free: Pattern=Uh-huh ., Pattern=a whole, Pattern=It's
+	Constrained: Pattern=whole, Pattern=Uh-huh, Pattern=a
+Turn ID=29| A | A : And that's the best place that I've ever canoed .
+	Free: Pattern=And, Pattern=place, Pattern=that, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=30| B | B : Huh .
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : It's really , really pretty . I was a little kid then , and we to have , uh , we stayed at some park and they had a little uh , mountain man who came down the river every night , and he would give a little talk about mountain things . You know , I think he wasn't a real mountain man , but we were pretty convinced he was a full , hermit who lived up in , the woods , that he'd come in his little log boat down the river ,
+	Free: Pattern=had a, Pattern=know ,, Pattern=, but, Pattern=have, Pattern=little, Pattern=a, Pattern=wasn't, Pattern=, we, Pattern=some, Pattern=in, Pattern=and they, Pattern=was, Pattern=, the, Pattern=real, Pattern=. I, Pattern=at, Pattern=a little, Pattern=about, Pattern=, that, Pattern=we, Pattern=really, Pattern=You, Pattern=, uh ,, Pattern=, I think, Pattern=uh ,, Pattern=lived, Pattern=It's, Pattern=the, Pattern=, and, Pattern=up, Pattern=to
+	Constrained: Pattern=and, Pattern=I, Pattern=think, Pattern=know, Pattern=we, Pattern=had, Pattern=I think, Pattern=that, Pattern=they, Pattern=little, Pattern=, I, Pattern=a, Pattern=uh ,, Pattern=the
+Turn ID=32| B | B : Sure . Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=33| A | A : and we would have to , we'd and he'd make sassafras tea out of sassafras roots that he'd found and , That's a good family place to go ,
+	Free: Pattern=good, Pattern=of, Pattern=out, Pattern=have, Pattern=go, Pattern=That's, Pattern=a, Pattern=and, Pattern=to, Pattern=place, Pattern=that, Pattern=to ,, Pattern=we
+	Constrained: Pattern=to
+Turn ID=34| B | B : Oh , that's neat . Sure .
+	Free: Pattern=Oh ,, Pattern=, that's, Pattern=neat
+	Constrained: Pattern=that's, Pattern=Oh
+Turn ID=35| A | A : and then the river was really nice because it wasn't too frightening , but it wasn't , you know , too easy either .
+	Free: Pattern=, but, Pattern=nice, Pattern=really, Pattern=it wasn't, Pattern=the, Pattern=was, Pattern=, you know ,, Pattern=because, Pattern=and, Pattern=too
+	Constrained: Pattern=know ,, Pattern=you, Pattern=wasn't, Pattern=it, Pattern=know, Pattern=, you
+Turn ID=36| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=37| A | A : It was like ,
+	Free: Pattern=It was
+	Constrained: Pattern=was, Pattern=It
+Turn ID=38| B | B : Well , you learn a lot of , um , skills too , and I think you're more receptive when you're younger than when you're older , to learn new skills ,
+	Free: Pattern=, to, Pattern=, um ,, Pattern=too, Pattern=Well ,, Pattern=, you, Pattern=I think, Pattern=when, Pattern=, and, Pattern=you're, Pattern=a lot of
+	Constrained: Pattern=of, Pattern=you, Pattern=a, Pattern=and, Pattern=I, Pattern=think, Pattern=Well, Pattern=a lot, Pattern=to
+Turn ID=39| A | A : That's true .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=40| B | B : and I think they really it really penetrates in your memory , you know , what to do , because you really have a great interest in it . Because it's something you weren't forced to do
+	Free: Pattern=you, Pattern=in, Pattern=a great, Pattern=, because, Pattern=really, Pattern=I think, Pattern=to, Pattern=it's, Pattern=what, Pattern=they, Pattern=have a, Pattern=do, Pattern=, you know ,, Pattern=it, Pattern=and
+	Constrained: Pattern=know ,, Pattern=have, Pattern=I, Pattern=think, Pattern=you, Pattern=great, Pattern=a, Pattern=because, Pattern=know, Pattern=, you
+Turn ID=41| A | A : Uh-huh . Right .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=42| B | B : so you have kind of a relaxed mode of learning .
+	Free: Pattern=of, Pattern=kind of, Pattern=have, Pattern=so you, Pattern=of a
+	Constrained: Pattern=so, Pattern=you, Pattern=of, Pattern=a
+Turn ID=43| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=44| B | B : And you're more receptive .
+	Free: Pattern=And, Pattern=you're
+	Constrained: 
+Turn ID=45| A | A : Well , that's good . Well , we , um , let's see , the only other place I've ever vacationed , we'd , you know , go on camping trips up to Texoma and things like that .
+	Free: Pattern=that ., Pattern=only, Pattern=go, Pattern=, um ,, Pattern=. Well ,, Pattern=good ., Pattern=Well ,, Pattern=, that's, Pattern=place, Pattern=, the, Pattern=, you know ,, Pattern=see ,, Pattern=and, Pattern=, we, Pattern=up, Pattern=to
+	Constrained: Pattern=good, Pattern=know ,, Pattern=you, Pattern=Well ,, Pattern=Well, Pattern=we, Pattern=see, Pattern=that, Pattern=know, Pattern=, you, Pattern=that's, Pattern=the
+Turn ID=46| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=47| A | A : And then I went to England a few years ago .
+	Free: Pattern=years, Pattern=a few, Pattern=I, Pattern=And, Pattern=to England
+	Constrained: Pattern=to, Pattern=England, Pattern=a
+Turn ID=48| B | B : Oh , that's exciting .
+	Free: Pattern=Oh ,, Pattern=, that's
+	Constrained: Pattern=that's, Pattern=Oh
+Turn ID=49| A | A : I was a , student there and spent , um , a semester studying abroad in London .
+	Free: Pattern=a, Pattern=and, Pattern=I, Pattern=in, Pattern=was, Pattern=, um ,, Pattern=there
+	Constrained: 
+Turn ID=50| B | B : Uh-huh . Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=51| A | A : And that was a great time , because it's so , that's such a neat place and it's , there's not a language barrier so you don't , I mean , there there's a little bit , because there's some of those English words that you just don't exactly know what they mean , and a lot of people have trouble wrestling with their accents , but it's , it was really fun . I , I , I really enjoyed that . I'm probably going back there to work , for a year .
+	Free: Pattern=their, Pattern=there to, Pattern=for, Pattern=and, Pattern=so you, Pattern=, it was, Pattern=some, Pattern=time ,, Pattern=really, Pattern=year, Pattern=I , I, Pattern=, that's, Pattern=, and, Pattern=place, Pattern=And that was, Pattern=a lot of, Pattern=of, Pattern=that ., Pattern=you, Pattern=, but, Pattern=just, Pattern=have, Pattern=what, Pattern=they, Pattern=there, Pattern=neat, Pattern=, I, Pattern=a, Pattern=. I, Pattern=probably, Pattern=know, Pattern=a great, Pattern=, because, Pattern=back, Pattern=with, Pattern=that, Pattern=it's, Pattern=so, Pattern=really enjoyed, Pattern=not, Pattern=a little bit ,
+	Constrained: Pattern=it was, Pattern=of, Pattern=And, Pattern=I, Pattern=a little, Pattern=really, Pattern=that's, Pattern=was, Pattern=that, Pattern=so, Pattern=, it, Pattern=time, Pattern=I ,, Pattern=you, Pattern=great, Pattern=there, Pattern=little, Pattern=, I, Pattern=a, Pattern=because, Pattern=it, Pattern=and, Pattern=a lot, Pattern=to
+Turn ID=52| B | B : Uh-huh . Well , I had a friend that , uh , visited England not , well , I think it's been probably two years now , but that's her next goal , and she can do it , is go back to England , because she really has a great desire to do that , because the love that she , um , has for it now after visiting it .
+	Free: Pattern=next, Pattern=go back, Pattern=, but, Pattern=to England, Pattern=, um ,, Pattern=years, Pattern=for, Pattern=it, Pattern=love, Pattern=a great, Pattern=really, Pattern=been, Pattern=do, Pattern=Uh-huh ., Pattern=can, Pattern=probably, Pattern=. Well ,, Pattern=, because, Pattern=is, Pattern=, uh ,, Pattern=, I think, Pattern=that's, Pattern=I had a friend, Pattern=the, Pattern=, and, Pattern=to, Pattern=that, Pattern=it's, Pattern=, I had, Pattern=not, Pattern=England
+	Constrained: Pattern=had a, Pattern=great, Pattern=go, Pattern=and, Pattern=I, Pattern=Uh-huh, Pattern=had, Pattern=I think, Pattern=uh ,, Pattern=England, Pattern=, I, Pattern=a, Pattern=because, Pattern=Well ,, Pattern=think, Pattern=Well, Pattern=back, Pattern=I had a, Pattern=to
+Turn ID=53| A | A : It , it's really nice . I would , I would spend all my time in London , or most of my time ,
+	Free: Pattern=time, Pattern=of, Pattern=nice ., Pattern=, I, Pattern=. I, Pattern=most, Pattern=all, Pattern=my, Pattern=it's, Pattern=time ,, Pattern=in, Pattern=It, Pattern=really
+	Constrained: Pattern=nice, Pattern=I, Pattern=time
+Turn ID=54| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=55| A | A : and that's it was really different being in a big city , because I don't get much into urban , you know , really urban areas a lot
+	Free: Pattern=it was, Pattern=I, Pattern=, because, Pattern=really, Pattern=a lot, Pattern=get, Pattern=, you know ,, Pattern=a, Pattern=in, Pattern=and that's
+	Constrained: Pattern=know ,, Pattern=you, Pattern=that's, Pattern=was, Pattern=a, Pattern=because, Pattern=it, Pattern=and, Pattern=know, Pattern=, you
+Turn ID=56| B | B : Uh-huh , uh-huh .
+	Free: Pattern=Uh-huh
+	Constrained: 
+Turn ID=57| A | A : and it was , it's really , it's sort of a weird little anonymous feeling where no one knows who you are and you can spend a whole day without talking to anyone , which I thought I would just hate , but it ended up being kind of nice because you're not accountable to anyone .
+	Free: Pattern=you're, Pattern=kind of, Pattern=just, Pattern=little, Pattern=because, Pattern=nice, Pattern=really, Pattern=of a, Pattern=knows, Pattern=it's, Pattern=you, Pattern=, but, Pattern=it, Pattern=and, Pattern=I, Pattern=it was ,, Pattern=can, Pattern=talking, Pattern=up, Pattern=to, Pattern=not, Pattern=a whole
+	Constrained: Pattern=it was, Pattern=of, Pattern=a, Pattern=it, Pattern=whole, Pattern=was
+Turn ID=58| B | B : Uh-huh , uh-huh .
+	Free: Pattern=Uh-huh
+	Constrained: 
+Turn ID=59| A | A : You could just kind of kind of walk around and observe ,
+	Free: Pattern=kind of, Pattern=around, Pattern=and, Pattern=You, Pattern=just kind of
+	Constrained: Pattern=kind of, Pattern=of, Pattern=just
+Turn ID=60| B | B : Do your own thing . Yeah .
+	Free: Pattern=Yeah ., Pattern=thing .
+	Constrained: Pattern=thing
+Turn ID=61| A | A : I did a lot of just going out by myself and riding on the subway and watching people .
+	Free: Pattern=a lot of, Pattern=out, Pattern=just, Pattern=did, Pattern=and, Pattern=I, Pattern=the
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=62| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=63| A | A : And I had a great time doing that . It was really interesting .
+	Free: Pattern=time, Pattern=that ., Pattern=And, Pattern=. It was, Pattern=a great, Pattern=really, Pattern=I had a
+	Constrained: Pattern=had a, Pattern=great, Pattern=a, Pattern=It was, Pattern=I, Pattern=It, Pattern=had, Pattern=was, Pattern=that
+Turn ID=64| B | B : That's wonderful . There's a lot out there to see ,
+	Free: Pattern=to see, Pattern=out, Pattern=. There's, Pattern=there to, Pattern=That's, Pattern=see ,, Pattern=a lot
+	Constrained: Pattern=There's, Pattern=there, Pattern=a, Pattern=see, Pattern=to
+Turn ID=65| A | A : Yeah , I know ,
+	Free: Pattern=Yeah ,, Pattern=know ,, Pattern=, I
+	Constrained: Pattern=I, Pattern=know
+Turn ID=66| B | B : I'll say .
+	Free: Pattern=say
+	Constrained: 
+Turn ID=67| A | A : I keep wanting to get up to , I haven't , I haven't been anywhere else outside the United States . I haven't been to Mexico or Canada or ,
+	Free: Pattern=Canada, Pattern=, I, Pattern=been to, Pattern=to get, Pattern=I, Pattern=. I, Pattern=to ,, Pattern=the, Pattern=been, Pattern=Mexico, Pattern=up
+	Constrained: Pattern=I, Pattern=been, Pattern=to, Pattern=get
+Turn ID=68| B | B : Well , I lived across the street almost from Canada
+	Free: Pattern=Canada, Pattern=, I, Pattern=from, Pattern=Well ,, Pattern=lived, Pattern=the
+	Constrained: Pattern=I, Pattern=Well
+Turn ID=69| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=70| B | B : So that was , that , that's a nice place . Canada is very nice .
+	Free: Pattern=Canada, Pattern=So, Pattern=, that, Pattern=, that's, Pattern=place, Pattern=a nice, Pattern=that was ,, Pattern=nice ., Pattern=very, Pattern=is
+	Constrained: Pattern=a, Pattern=nice, Pattern=that's, Pattern=was, Pattern=that
+Turn ID=71| A | A : Yeah , that would be nice . I had a friend from there .
+	Free: Pattern=nice ., Pattern=, that, Pattern=there ., Pattern=I had a friend, Pattern=Yeah ,, Pattern=. I, Pattern=from
+	Constrained: Pattern=had a, Pattern=there, Pattern=a, Pattern=nice, Pattern=I, Pattern=had, Pattern=I had a, Pattern=that
+Turn ID=72| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=73| A | A : Then I , I'd love to go somewhere in Asia , but I'd have to have a tour guide with me to help with all the language and all that .
+	Free: Pattern=I ,, Pattern=that ., Pattern=, but, Pattern=have, Pattern=go, Pattern=have a, Pattern=and, Pattern=all the, Pattern=all, Pattern=to, Pattern=with, Pattern=love, Pattern=in
+	Constrained: Pattern=have, Pattern=a, Pattern=I, Pattern=that, Pattern=the, Pattern=all
+Turn ID=74| B | B : Oh , yes , absolutely . Sure , somebody that knows their way around .
+	Free: Pattern=their, Pattern=around, Pattern=Oh ,, Pattern=knows, Pattern=that
+	Constrained: Pattern=Oh
+Turn ID=75| A | A : So , yeah , that's why , that's why England was nice . Even , we traveled in Europe for about a week , and that was even nice because there wasn't , uh , the , most the places we went , we went to Germany and Switzerland and ,
+	Free: Pattern=nice ., Pattern=So, Pattern=, and that was, Pattern=about, Pattern=in, Pattern=we, Pattern=the, Pattern=, that's, Pattern=to, Pattern=was nice, Pattern=, the, Pattern=England, Pattern=places, Pattern=there, Pattern=a, Pattern=because, Pattern=nice, Pattern=for, Pattern=wasn't, Pattern=and, Pattern=, we, Pattern=the ,, Pattern=that's why, Pattern=most, Pattern=, uh ,
+	Constrained: Pattern=nice, Pattern=and, Pattern=we, Pattern=, and, Pattern=was, Pattern=that, Pattern=uh ,, Pattern=that's, Pattern=the
+Turn ID=76| B | B : Well , you've been quite a few places there
+	Free: Pattern=a few, Pattern=Well ,, Pattern=been, Pattern=places, Pattern=there
+	Constrained: Pattern=Well, Pattern=a
+Turn ID=77| A | A : Yeah , we have . We . We did , we whirlwinded through , Europe .
+	Free: Pattern=Yeah ,, Pattern=, we, Pattern=did, Pattern=have
+	Constrained: Pattern=we
+Turn ID=78| B | B : Once you think about it , huh . Uh-huh .
+	Free: Pattern=you, Pattern=Uh-huh ., Pattern=it, Pattern=about, Pattern=think
+	Constrained: Pattern=Uh-huh
+Turn ID=79| A | A : It was just insane twelve days where we'd just stop like a city a day , and you slept on the train at night .
+	Free: Pattern=you, Pattern=just, Pattern=a, Pattern=It was, Pattern=at, Pattern=the, Pattern=, and
+	Constrained: Pattern=and, Pattern=was, Pattern=It
+Turn ID=80| B | B : Oh , that's great .
+	Free: Pattern=Oh ,, Pattern=, that's, Pattern=great
+	Constrained: Pattern=that's, Pattern=Oh
+Turn ID=81| A | A : But there wasn't a , it was strange , it was kind of sad , there wasn't ever a language problem there , because everyone in Germany knew English and everyone in Switzerland , knew English .
+	Free: Pattern=kind of, Pattern=there, Pattern=a, Pattern=wasn't, Pattern=and, Pattern=, it was, Pattern=in, Pattern=, because
+	Constrained: Pattern=it was, Pattern=, it, Pattern=of, Pattern=because, Pattern=it, Pattern=was
+Turn ID=82| B | B : Uh-huh . That's great .
+	Free: Pattern=Uh-huh ., Pattern=. That's, Pattern=great
+	Constrained: Pattern=That's, Pattern=Uh-huh
+Turn ID=83| A | A : So we were kind of pitiful . We found one restaurant we were in and got seated , and then no one knew English in there , and we were just finally had to break out the phrase book and start looking up things .
+	Free: Pattern=kind of, Pattern=out, Pattern=just, Pattern=there, Pattern=So, Pattern=and, Pattern=in, Pattern=we, Pattern=had, Pattern=the, Pattern=, and, Pattern=up, Pattern=to
+	Constrained: Pattern=and, Pattern=of
+Turn ID=84| B | B : Uh-huh
+	Free: Pattern=Uh-huh
+	Constrained: 
+Turn ID=85| A | A : But it was ,
+	Free: Pattern=it was ,
+	Constrained: Pattern=it was, Pattern=it, Pattern=was
+Turn ID=86| B | B : What did you wind up with ?
+	Free: Pattern=with, Pattern=did, Pattern=you, Pattern=up
+	Constrained: 
+Turn ID=87| A | A : Oh , I had fondue . That was easy to say
+	Free: Pattern=say, Pattern=Oh ,, Pattern=to, Pattern=was, Pattern=, I had
+	Constrained: Pattern=had, Pattern=, I, Pattern=I, Pattern=Oh
+Turn ID=88| B | B : Oh , okay
+	Free: Pattern=Oh ,, Pattern=, okay
+	Constrained: Pattern=Oh
+Turn ID=89| A | A : Tried to get fondue and white wine , and that was ,
+	Free: Pattern=, and that was, Pattern=that was ,, Pattern=to get, Pattern=and
+	Constrained: Pattern=and, Pattern=was, Pattern=get, Pattern=that, Pattern=, and, Pattern=to
+Turn ID=90| B | B : Uh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=91| A | A : we were able to have that pretty , pretty effortlessly . There were some people at the next table who spoke English , so we elicited their aid for a while
+	Free: Pattern=their, Pattern=next, Pattern=have, Pattern=a, Pattern=for, Pattern=at, Pattern=some, Pattern=we, Pattern=the, Pattern=to, Pattern=, so, Pattern=that
+	Constrained: Pattern=so
+Turn ID=92| B | B : They kind of guided you .
+	Free: Pattern=you ., Pattern=kind of
+	Constrained: Pattern=you, Pattern=of
+Turn ID=93| A | A : and , they were very helpful
+	Free: Pattern=very, Pattern=and, Pattern=they
+	Constrained: 
+Turn ID=94| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=95| A | A : so , It was , it was a pleasant time .
+	Free: Pattern=time, Pattern=a, Pattern=, it was, Pattern=It was ,, Pattern=so
+	Constrained: Pattern=it was, Pattern=, it, Pattern=It, Pattern=was, Pattern=it, Pattern=It was
+Turn ID=96| B | B : Well , good .
+	Free: Pattern=good ., Pattern=Well ,
+	Constrained: Pattern=Well, Pattern=good
+Turn ID=97| A | A : I'd , I'd love to go back there . There's just not time There's not enough time to go see everything , and then to afford to see everything .
+	Free: Pattern=time, Pattern=see, Pattern=not, Pattern=to see, Pattern=go back, Pattern=just, Pattern=. There's, Pattern=go, Pattern=There's, Pattern=love, Pattern=there ., Pattern=, and, Pattern=to
+	Constrained: Pattern=there, Pattern=and, Pattern=back, Pattern=see, Pattern=to, Pattern=go, Pattern=There's
+Turn ID=98| B | B : I guess that's why we need to plan for retirement , so when we do have the free time , we'll have the , the means to , uh , pursue our dreams .
+	Free: Pattern=have, Pattern=do, Pattern=the ,, Pattern=the, Pattern=to, Pattern=, so, Pattern=, the, Pattern=when we, Pattern=for, Pattern=I guess, Pattern=time ,, Pattern=to ,, Pattern=we, Pattern=that's why, Pattern=, uh ,
+	Constrained: Pattern=time, Pattern=I, Pattern=we, Pattern=when, Pattern=to, Pattern=so, Pattern=uh ,, Pattern=that's, Pattern=the
+Turn ID=99| A | A : Right . That's
+	Free: Pattern=. That's
+	Constrained: Pattern=That's
+Turn ID=100| B | B : Yeah . I guess that's what retirement is all about .
+	Free: Pattern=Yeah ., Pattern=what, Pattern=. I, Pattern=about, Pattern=I guess, Pattern=is, Pattern=that's, Pattern=all
+	Constrained: Pattern=I
+Turn ID=101| A | A : That and sleeping late
+	Free: Pattern=and
+	Constrained: 
+Turn ID=102| B | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=103| A | A : I keep hoping for .
+	Free: Pattern=I, Pattern=for
+	Constrained: 
+Turn ID=104| B | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=105| A | A : Well it was nice talking with you .
+	Free: Pattern=it was nice talking with you, Pattern=you ., Pattern=Well
+	Constrained: Pattern=it was, Pattern=you, Pattern=nice, Pattern=it, Pattern=talking, Pattern=was, Pattern=was nice, Pattern=with
+Turn ID=106| B | B : I understand that . Well , it was nice talking with you too , Craig .
+	Free: Pattern=that ., Pattern=it was nice talking with you, Pattern=too, Pattern=I, Pattern=. Well ,, Pattern=, it was
+	Constrained: Pattern=it was, Pattern=, it, Pattern=you, Pattern=nice, Pattern=it, Pattern=talking, Pattern=Well ,, Pattern=Well, Pattern=was, Pattern=was nice, Pattern=with, Pattern=that
+Turn ID=107| A | A : And have a good afternoon .
+	Free: Pattern=have a, Pattern=good, Pattern=And
+	Constrained: Pattern=have, Pattern=a
+Turn ID=108| B | B : You do the same .
+	Free: Pattern=do, Pattern=You, Pattern=the
+	Constrained: 
+Turn ID=109| A | A : Okay .
+	Free: Pattern=Okay .
+	Constrained: Pattern=Okay
+Turn ID=110| B | B : Thank you .
+	Free: Pattern=you .
+	Constrained: Pattern=you
+Turn ID=111| A | A : Good-bye .
+	Free: 
+	Constrained: 
+Turn ID=112| B | B : Bye-bye .
+	Free: 
+	Constrained: 

@@ -1,0 +1,63 @@
+A|0| A: Yes . 
+B|1| M:  
+A|2| A: I , I'll agree it , it's not your responsibility but , is it also legal , for you to do that ? from what I understand from various net readings , it , the Federal government is going to try to legislate a more aggressive enforcement of state tax schemes , uh , in , into place in the next few years . _It_ is , it is a lost revenue stream right now and states can use all the revenue they can get . With some , with something like that , do your arguments still apply ? 
+B|3| M: :You 
+A|4| A: Which is exactly what businesses do at the present . 
+B|5| M: lol 
+A|6| A: And I , I I was actually talking about businesses purchasing something mail order and then having , having to pay sales tax on it . 
+B|7| M:  
+A|8| A: That's my understanding of the way , uh , the way it works . Usually , the , the person ordering doesn't pay . But the accounting department will , uh , suck up all the bills at the end of the month and realize how much they have to pay . And there there _are_ some substantial , nasty penalties , um , if you , if businesses try to avoid that . 
+B|9| M: U . 
+A|10| A: No . Businesses , uh if purchasing things mail order , if , if I'm a computer consulting firm and I see these , this great deal on forty-six mother boards , uh , from , from say Utah . Um , I , I might buy the mother boards from Utah but then still have to pay Pennsylvania sales tax . My accounting department will at the end of the month . I think that I think that's the way things work in Pennsylvania . And I know they work that way in , uh , say here in D C . 
+B|11| M: [are] 
+A|12| A: Yeah . 
+B|13| M: [It] 
+A|14| A: That's true . a a big hole does exist right now , uh , in that consumers can just say oh , I , I forgot that . There , there is no well defined mechanism at all and , and that it is a a loss . I , I think is that the Federal government will try to establish a mechanism just to do just that in in order to gain the revenue that's being lost . Uh , I mean , I , I don't know if I agree with that . But it , but , 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : I , I'll agree it , it's not your responsibility but , is it also legal , for you to do that ? from what I understand from various net readings , it , the Federal government is going to try to legislate a more aggressive enforcement of state tax schemes , uh , in , into place in the next few years . It is , it is a lost revenue stream right now and states can use all the revenue they can get . With some , with something like that , do your arguments still apply ?
+	Free: Pattern=It
+	Constrained: 
+Turn ID=3| B | M : :You
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : Which is exactly what businesses do at the present .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : lol
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : And I , I I was actually talking about businesses purchasing something mail order and then having , having to pay sales tax on it .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : That's my understanding of the way , uh , the way it works . Usually , the , the person ordering doesn't pay . But the accounting department will , uh , suck up all the bills at the end of the month and realize how much they have to pay . And there there are some substantial , nasty penalties , um , if you , if businesses try to avoid that .
+	Free: Pattern=are
+	Constrained: 
+Turn ID=9| B | M : U .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : No . Businesses , uh if purchasing things mail order , if , if I'm a computer consulting firm and I see these , this great deal on forty-six mother boards , uh , from , from say Utah . Um , I , I might buy the mother boards from Utah but then still have to pay Pennsylvania sales tax . My accounting department will at the end of the month . I think that I think that's the way things work in Pennsylvania . And I know they work that way in , uh , say here in D C .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : are
+	Free: Pattern=are
+	Constrained: 
+Turn ID=12| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : It
+	Free: Pattern=It
+	Constrained: 
+Turn ID=14| A | A : That's true . a a big hole does exist right now , uh , in that consumers can just say oh , I , I forgot that . There , there is no well defined mechanism at all and , and that it is a a loss . I , I think is that the Federal government will try to establish a mechanism just to do just that in in order to gain the revenue that's being lost . Uh , I mean , I , I don't know if I agree with that . But it , but ,
+	Free: 
+	Constrained: 

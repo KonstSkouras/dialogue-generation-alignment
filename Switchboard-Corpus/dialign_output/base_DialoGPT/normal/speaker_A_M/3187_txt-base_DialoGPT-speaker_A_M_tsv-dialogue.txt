@@ -1,0 +1,155 @@
+B|0| M: I'm sorry ? 
+A|1| A: _Oh_ , my . 
+B|2| M: You 
+A|3| A: Yeah , _so_ _the_ convenience , Right . 
+B|4| M: _It's_ . 
+A|5| A: My grandmother lived with us , _um ,_ until August , _um ,_ and we made _the_ decision _to_ put her _in_ _a_ nursing home . She has leukemia 
+B|6| M: Thanks . gif 
+A|7| A: and her , _the_ rest of her family and her regular doctors and everybody _she_ trusted and knew _was_ _in_ Dayton , and were several thousand miles away 
+B|8| M:  ... [um ,] how did [she] die ? 
+A|9| A: _so_ _I_ made _the_ decision _to_ put her _in_ _a_ nursing home , and my sister being on _the_ other end found _one_ _that_ [she] could have what _was_ called an independent living facility . She _had_ her own little room and _didn't_ have _to_ share _it_ with anyone and could bring _in_ her own chair and T V set 
+B|10| M: No 
+A|11| A: _so ._ 
+B|12| M: [I] don't _think_ [so .] 
+A|13| A: Yes . _And_ _that_ , _the_ other major factor is _that_ [she] needs blood transfusions every week _to_ ten days , and would have _to be_ hospitalized _a_ day or two , [so] _in_ this facility they can do _it_ right there from her own room 
+B|14| M: _It's_ fine 
+A|15| A: [so] [she] _didn't_ have _to be_ transported back and forth . So _, she's_ been there since August _the_ thirteenth and seems _to_ have adjusted _pretty_ well . [It's] _not_ her favorite place _to be_ _in ._ She'd much rather _be_ here with _me ._ But when _it_ got _to_ _the_ point [I] _was_ spending more time at _the_ hospital with her , 
+B|16| M:  
+A|17| A: and I've got little children here who needed _me_ here [she] needed somebody _to_ watch her twenty-four hours _a_ day . 
+B|18| M: She's [so] [she's] _just_ fine . 
+A|19| A: So . She _was_ falling down and hemorrhaging and , you _know_ , all kinds of physical problems , [so] _it_ [just] became too much for _me_ _to_ handle , even though [I] would have liked _to_ have _had_ her stay , with her health being what _it was_ [she] couldn't anymore . 
+B|20| M: _It_ 
+A|21| A: Yeah . Uh-huh . Yeah . 
+B|22| M: Weep . 
+A|23| A: _Oh ._ 
+B|24| M: He [had] [to] _get_ . [it was] . [in .] greee . [me .] up 
+A|25| A: Yeah . 
+B|26| M: [Oh .] That's unfortunate . 
+A|27| A: Yes , well , [I] [think] sometimes when people [get] _to be_ _a_ certain age , other people have [to] kind of help them make decisions . [It] _sure_ wouldn't have been Granny's decision [to] leave us and go back [to] _a_ nursing home , but [she's] accepted [it] real well _now_ 
+B|28| M: I'm [pretty] [sure] that's why _he_ left , _he_ [didn't] want [to be] [the] only [one] . 
+A|29| A: [so .] 
+B|30| M: _I know_ . 
+A|31| A: Well , we enjoyed having her here , 
+B|32| M: [she's] [not] [that] old [, she's] [a] year old [now] 
+A|33| A: but we feel [she's] much safer where [she] is [now] . She still continues [to] fall , but when [she] does there , [a] nurse is right there [to] help her 
+B|34| M: [And] [she's] very calm . 
+A|35| A: and [I know] [she's] eating [the] right things , and her doctor's right there where [he] can come [in] and check on her , [so .] [It] became dangerous for us [to] keep transporting her back and forth [in] [the] car because [she] [was] [so] wobbly and needed [a] walker or [a] wheel chair 
+B|36| M:  ... I'm [so] sorry . 
+A|37| A: [so] , [I] [think] she'll adjust , 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I'm sorry ?
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : Oh , my .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=2| B | M : You
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : Yeah , so the convenience , Right .
+	Free: Pattern=so, Pattern=the
+	Constrained: 
+Turn ID=4| B | M : It's .
+	Free: Pattern=It's
+	Constrained: 
+Turn ID=5| A | A : My grandmother lived with us , um , until August , um , and we made the decision to put her in a nursing home . She has leukemia
+	Free: Pattern=um ,, Pattern=a, Pattern=in, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=6| B | M : Thanks . gif
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : and her , the rest of her family and her regular doctors and everybody she trusted and knew was in Dayton , and were several thousand miles away
+	Free: Pattern=in, Pattern=was, Pattern=the, Pattern=she
+	Constrained: 
+Turn ID=8| B | M :  ... um , how did she die ?
+	Free: Pattern=um ,, Pattern=she
+	Constrained: 
+Turn ID=9| A | A : so I made the decision to put her in a nursing home , and my sister being on the other end found one that she could have what was called an independent living facility . She had her own little room and didn't have to share it with anyone and could bring in her own chair and T V set
+	Free: Pattern=a, Pattern=it, Pattern=didn't, Pattern=in, Pattern=had, Pattern=the, Pattern=to, Pattern=was, Pattern=that, Pattern=so, Pattern=one, Pattern=I, Pattern=she
+	Constrained: 
+Turn ID=10| B | M : No
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : so .
+	Free: Pattern=so .
+	Constrained: Pattern=so
+Turn ID=12| B | M : I don't think so .
+	Free: Pattern=so ., Pattern=think, Pattern=I
+	Constrained: Pattern=so
+Turn ID=13| A | A : Yes . And that , the other major factor is that she needs blood transfusions every week to ten days , and would have to be hospitalized a day or two , so in this facility they can do it right there from her own room
+	Free: Pattern=And, Pattern=a, Pattern=it, Pattern=she, Pattern=in, Pattern=the, Pattern=to, Pattern=to be, Pattern=that, Pattern=so
+	Constrained: Pattern=to, Pattern=be
+Turn ID=14| B | M : It's fine
+	Free: Pattern=It's
+	Constrained: 
+Turn ID=15| A | A : so she didn't have to be transported back and forth . So , she's been there since August the thirteenth and seems to have adjusted pretty well . It's not her favorite place to be in . She'd much rather be here with me . But when it got to the point I was spending more time at the hospital with her ,
+	Free: Pattern=it, Pattern=, she's, Pattern=pretty, Pattern=to, Pattern=was, Pattern=to be, Pattern=so, Pattern=not, Pattern=I, Pattern=she, Pattern=didn't, Pattern=me ., Pattern=in ., Pattern=be, Pattern=It's, Pattern=the
+	Constrained: Pattern=me, Pattern=in, Pattern=she's, Pattern=be, Pattern=to
+Turn ID=16| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : and I've got little children here who needed me here she needed somebody to watch her twenty-four hours a day .
+	Free: Pattern=to, Pattern=a, Pattern=me, Pattern=she
+	Constrained: 
+Turn ID=18| B | M : She's so she's just fine .
+	Free: Pattern=she's, Pattern=so, Pattern=just
+	Constrained: 
+Turn ID=19| A | A : So . She was falling down and hemorrhaging and , you know , all kinds of physical problems , so it just became too much for me to handle , even though I would have liked to have had her stay , with her health being what it was she couldn't anymore .
+	Free: Pattern=it was, Pattern=just, Pattern=me, Pattern=it, Pattern=know, Pattern=had, Pattern=to, Pattern=was, Pattern=so, Pattern=I, Pattern=she
+	Constrained: Pattern=it, Pattern=was
+Turn ID=20| B | M : It
+	Free: Pattern=It
+	Constrained: 
+Turn ID=21| A | A : Yeah . Uh-huh . Yeah .
+	Free: 
+	Constrained: 
+Turn ID=22| B | M : Weep .
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : Oh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=24| B | M : He had to get . it was . in . greee . me . up
+	Free: Pattern=it was, Pattern=me ., Pattern=had, Pattern=in ., Pattern=to, Pattern=get
+	Constrained: Pattern=it, Pattern=in, Pattern=was, Pattern=me
+Turn ID=25| A | A : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=26| B | M : Oh . That's unfortunate .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=27| A | A : Yes , well , I think sometimes when people get to be a certain age , other people have to kind of help them make decisions . It sure wouldn't have been Granny's decision to leave us and go back to a nursing home , but she's accepted it real well now
+	Free: Pattern=a, Pattern=it, Pattern=I, Pattern=think, Pattern=she's, Pattern=It, Pattern=sure, Pattern=to, Pattern=get, Pattern=to be, Pattern=now
+	Constrained: Pattern=to, Pattern=be
+Turn ID=28| B | M : I'm pretty sure that's why he left , he didn't want to be the only one .
+	Free: Pattern=one, Pattern=pretty, Pattern=sure, Pattern=the, Pattern=to be, Pattern=he, Pattern=didn't
+	Constrained: Pattern=to, Pattern=be
+Turn ID=29| A | A : so .
+	Free: Pattern=so .
+	Constrained: Pattern=so
+Turn ID=30| B | M : I know .
+	Free: Pattern=I know
+	Constrained: Pattern=know, Pattern=I
+Turn ID=31| A | A : Well , we enjoyed having her here ,
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : she's not that old , she's a year old now
+	Free: Pattern=a, Pattern=, she's, Pattern=she's, Pattern=now, Pattern=that, Pattern=not
+	Constrained: Pattern=she's
+Turn ID=33| A | A : but we feel she's much safer where she is now . She still continues to fall , but when she does there , a nurse is right there to help her
+	Free: Pattern=a, Pattern=she, Pattern=she's, Pattern=to, Pattern=now
+	Constrained: 
+Turn ID=34| B | M : And she's very calm .
+	Free: Pattern=she's, Pattern=And
+	Constrained: 
+Turn ID=35| A | A : and I know she's eating the right things , and her doctor's right there where he can come in and check on her , so . It became dangerous for us to keep transporting her back and forth in the car because she was so wobbly and needed a walker or a wheel chair
+	Free: Pattern=a, Pattern=she, Pattern=he, Pattern=in, Pattern=she's, Pattern=It, Pattern=the, Pattern=to, Pattern=was, Pattern=so ., Pattern=so, Pattern=I know
+	Constrained: Pattern=so, Pattern=know, Pattern=I
+Turn ID=36| B | M :  ... I'm so sorry .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=37| A | A : so , I think she'll adjust ,
+	Free: Pattern=so, Pattern=think, Pattern=I
+	Constrained: 

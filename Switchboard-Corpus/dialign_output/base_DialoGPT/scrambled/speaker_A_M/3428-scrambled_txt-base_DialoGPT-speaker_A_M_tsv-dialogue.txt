@@ -1,0 +1,79 @@
+A|0| A: but _it_ doesn't really feel _like_ you're _in the_ country . 
+B|1| M: I'm _not_ . 
+A|2| A: Oh _I_ wouldn't either . There'd _be_ _no_ way . 
+B|3| M: He smiles _and_ smiles back 
+A|4| A: [and] we're leasing _a_ , uh , two story town home _in_ _a_ section of Dallas _they_ call North Dallas . 
+B|5| M: [I] am ? 
+A|6| A: [and] , uh , now tonight [I] just finished _up_ with that A WOMAN CALLED JACKIE , did _you_ watch did _you_ watch _it_ ? 
+B|7| M: _Well ,_ that's _all_ [you] got _to_ do . 
+A|8| A: right , just [to] get [you] by five years [and] then you'll throw _it_ away rather than _have_ _it_ fixed 
+B|9| M: It's _not_ . 
+A|10| A: [I] _mean_ , we are [all] different so , 
+B|11| M: You [mean] [like] , [you] know , when [they] were playing [in the] Coliseum ? 
+A|12| A: Yeah , are [they] , um , just house pets ? 
+B|13| M: No , huhuhuhuhuuhuh 
+A|14| A: [Well ,] _no_ , [not] really 
+B|15| M: Nah , they're [up] there 
+A|16| A: Seventeen years . 
+B|17| M: [I] 
+B|18| M: You [have] [no] idea how hard [it] is [to] [be] [a] troll . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : but it doesn't really feel like you're in the country .
+	Free: Pattern=in the, Pattern=like, Pattern=it
+	Constrained: Pattern=in
+Turn ID=1| B | M : I'm not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=2| A | A : Oh I wouldn't either . There'd be no way .
+	Free: Pattern=no, Pattern=I, Pattern=be
+	Constrained: 
+Turn ID=3| B | M : He smiles and smiles back
+	Free: Pattern=and
+	Constrained: 
+Turn ID=4| A | A : and we're leasing a , uh , two story town home in a section of Dallas they call North Dallas .
+	Free: Pattern=and, Pattern=a, Pattern=they, Pattern=in
+	Constrained: 
+Turn ID=5| B | M : I am ?
+	Free: Pattern=I
+	Constrained: 
+Turn ID=6| A | A : and , uh , now tonight I just finished up with that A WOMAN CALLED JACKIE , did you watch did you watch it ?
+	Free: Pattern=you, Pattern=I, Pattern=up, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=7| B | M : Well , that's all you got to do .
+	Free: Pattern=Well ,, Pattern=all, Pattern=to, Pattern=you
+	Constrained: 
+Turn ID=8| A | A : right , just to get you by five years and then you'll throw it away rather than have it fixed
+	Free: Pattern=you, Pattern=have, Pattern=to, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=9| B | M : It's not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=10| A | A : I mean , we are all different so ,
+	Free: Pattern=all, Pattern=I, Pattern=mean
+	Constrained: 
+Turn ID=11| B | M : You mean like , you know , when they were playing in the Coliseum ?
+	Free: Pattern=you, Pattern=mean, Pattern=they, Pattern=in the, Pattern=like
+	Constrained: Pattern=in
+Turn ID=12| A | A : Yeah , are they , um , just house pets ?
+	Free: Pattern=they
+	Constrained: 
+Turn ID=13| B | M : No , huhuhuhuhuuhuh
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : Well , no , not really
+	Free: Pattern=Well ,, Pattern=not, Pattern=no
+	Constrained: 
+Turn ID=15| B | M : Nah , they're up there
+	Free: Pattern=up
+	Constrained: 
+Turn ID=16| A | A : Seventeen years .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=18| B | M : You have no idea how hard it is to be a troll .
+	Free: Pattern=have, Pattern=no, Pattern=a, Pattern=it, Pattern=be, Pattern=to
+	Constrained: 

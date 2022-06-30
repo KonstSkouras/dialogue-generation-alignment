@@ -1,0 +1,187 @@
+A|0| A: Uh-huh . 
+B|1| M: It's _like_ _, you _know ,_ I_ can 
+A|2| A: Uh-huh . 
+B|3| M: You _know_ _what_ i mean . 
+A|4| A: _Well ,_ don't _they_ take _people_ who _have_ some sort _of_ , um , big abilities [like] _and , and_ at least _they_ used _to_ when it , when it , _the_ _first_ ones [I] saw _they_ had , um , _a_ man _on_ who was _, uh ,_ he played college football _and_ almost went pro _, and_ _they_ had _a_ , _a_ woman who was _a_ black belt _in_ karate _and_ she was _the_ _, uh ,_ she was _in_ _the_ junior Olympics _or_ something _or_ _they_ seem _to_ _have_ _people_ who _have_ very , very big sports backgrounds . To _have_ _they_ , leaned away from _that_ sort _of_ , 
+B|5| M: _Well , I'm in_ Dallas . 
+A|6| A: _The_ one [in] Florida _is_ so cool because _they_ pick up everything . They pick up newspapers _and _,_ uh [,_ you know ,] milk jugs _and_ aluminum _and_ tin cans [, you know ,] [like] soup comes [in] _and_ stuff . 
+B|7| M: No . 
+A|8| A: Huh-uh . [Well , I'm in] Pennsylvania . 
+B|9| M: You pay them . 
+A|10| A: In Richardson ? 
+B|11| M:  ... where do [you] live ? 
+A|12| A: _The_ Texas Rangers , _they_ , _they_ lost [, I] _think_ . 
+B|13| M: That's _what_ you're supposed [to] do _with_ _your_ [first] language , not _your_ [first] meal . 
+A|14| A: _So_ , _it's_ difficult , it _really_ _is_ _and_ we're all heading _that_ way _and ,_ 
+B|15| M: [you] mean [they] don t get outta [the] house ? 
+A|16| A: Okay . 
+B|17| M: It's [a] joke [, I'm] sure he's joking . 
+A|18| A: We've had [a] garden , gosh , for years _and_ years _and_ years , _of_ some size [, you know ,] 
+B|19| M: i [really] hope [they] do 
+A|20| A: _So_ , [what] _are_ [your] thoughts _on_ dining out ? 
+B|21| M: It _would_ be interesting [to] see how many [people] _would_ go . 
+A|22| A: As [a] matter _of_ fact , _if_ [I'm] injured _or_ _have_ an emergency when [I'm] , say [in] Germany _or_ France _, uh ,_ _that_ [, I'm] automatically taken care _of_ , 
+B|23| M: [The] Vikings [and] Cowboys [are] both [on] [the] downswing 
+A|24| A: _Yeah_ . 
+B|25| M: Can [you] get 
+A|26| A: [Well ,] _it's_ very true . 
+B|27| M: [I'm] not sure [if] [it's] hard [or] not . 
+A|28| A: [and] so , but _, uh ,_ she got over it , so . 
+B|29| M: You [know _,] we_ [have] [a] lot [of] friends [in] _this_ city , 
+A|30| A: [and] some [of] [the] _are the_ overseas programs . Uh , 
+B|31| M: [I] hate rain . 
+A|32| A: _Yeah_ . Uh-huh . 
+B|33| M: That [and , and] 
+A|34| A: I've seen _that ._ _Yeah_ . 
+B|35| M: [So] [the] Yankees [are the] _New_ England Patriots ? 
+A|36| A: They say [we] , we're testing [you] tomorrow [and] we'll test [you] every three months thereafter while [you] work here . 
+B|37| M: Why do 
+A|38| A: And _, uh ,_ yeah [I] was amazed . Really good temperament [and] very playful [and] affectionate , good personality . [I] don't [know , I] can't imagine [what] _, uh ,_ [would] [have] been wrong [with] [this] dog , so . 
+B|39| M: [So] [you] _just_ do [the] math , huh ? 
+A|40| A: You're _, uh ,_ everybody [I] speak [to] _is_ [in] Texas , oh , oh , yeah , but [I'm] [, I'm in] [New] York [and _,] uh [,_ we] seem [, we] seem [to] [have] , um [, I] _think_ [the] AMERICAN GLADIATORS _is_ [on] Sunday afternoons actually around here as well , sometimes . 
+B|41| M: [Well ,] my son [is] . 
+A|42| A: Uh-huh . 
+B|43| M: Why do [you] [think] ? 
+A|44| A: [So] . She was falling down [and] hemorrhaging [and [,] you know ,] all kinds [of] physical problems , so it [just] became too much for me [to] handle , even though [I] [would] [have] liked [to] [have] had her stay , [with] her health being [what] it was she couldn't anymore . 
+B|45| M: [Yeah] , my wife [, uh ,] likes [that .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : It's like , you know , I can
+	Free: Pattern=, you know ,, Pattern=know , I, Pattern=like
+	Constrained: Pattern=know ,, Pattern=you, Pattern=, I, Pattern=I, Pattern=know
+Turn ID=2| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : You know what i mean .
+	Free: Pattern=what, Pattern=know
+	Constrained: 
+Turn ID=4| A | A : Well , don't they take people who have some sort of , um , big abilities like and , and at least they used to when it , when it , the first ones I saw they had , um , a man on who was , uh , he played college football and almost went pro , and they had a , a woman who was a black belt in karate and she was the , uh , she was in the junior Olympics or something or they seem to have people who have very , very big sports backgrounds . To have they , leaned away from that sort of ,
+	Free: Pattern=of, Pattern=they, Pattern=and, Pattern=I, Pattern=like, Pattern=or, Pattern=, uh ,, Pattern=people, Pattern=have, Pattern=and , and, Pattern=a, Pattern=Well ,, Pattern=in, Pattern=on, Pattern=the, Pattern=, and, Pattern=to, Pattern=that, Pattern=first
+	Constrained: Pattern=, and, Pattern=and ,, Pattern=and
+Turn ID=5| B | M : Well , I'm in Dallas .
+	Free: Pattern=Well , I'm in
+	Constrained: Pattern=, I'm in, Pattern=I'm, Pattern=, I'm, Pattern=Well ,, Pattern=in
+Turn ID=6| A | A : The one in Florida is so cool because they pick up everything . They pick up newspapers and , uh , you know , milk jugs and aluminum and tin cans , you know , like soup comes in and stuff .
+	Free: Pattern=and ,, Pattern=they, Pattern=, you know ,, Pattern=and, Pattern=in, Pattern=is, Pattern=like, Pattern=, uh ,, Pattern=The
+	Constrained: Pattern=know ,, Pattern=and, Pattern=you, Pattern=know
+Turn ID=7| B | M : No .
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Huh-uh . Well , I'm in Pennsylvania .
+	Free: Pattern=Well , I'm in
+	Constrained: Pattern=, I'm in, Pattern=I'm, Pattern=, I'm, Pattern=Well ,, Pattern=in
+Turn ID=9| B | M : You pay them .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : In Richardson ?
+	Free: 
+	Constrained: 
+Turn ID=11| B | M :  ... where do you live ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=12| A | A : The Texas Rangers , they , they lost , I think .
+	Free: Pattern=, I, Pattern=The, Pattern=think, Pattern=they
+	Constrained: Pattern=I
+Turn ID=13| B | M : That's what you're supposed to do with your first language , not your first meal .
+	Free: Pattern=what, Pattern=your, Pattern=to, Pattern=with, Pattern=first
+	Constrained: 
+Turn ID=14| A | A : So , it's difficult , it really is and we're all heading that way and ,
+	Free: Pattern=and ,, Pattern=So, Pattern=and, Pattern=is, Pattern=really, Pattern=that, Pattern=it's
+	Constrained: Pattern=and
+Turn ID=15| B | M : you mean they don t get outta the house ?
+	Free: Pattern=you, Pattern=the, Pattern=they
+	Constrained: 
+Turn ID=16| A | A : Okay .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : It's a joke , I'm sure he's joking .
+	Free: Pattern=, I'm, Pattern=a
+	Constrained: Pattern=I'm
+Turn ID=18| A | A : We've had a garden , gosh , for years and years and years , of some size , you know ,
+	Free: Pattern=, you know ,, Pattern=a, Pattern=of, Pattern=and
+	Constrained: Pattern=know ,, Pattern=know, Pattern=you
+Turn ID=19| B | M : i really hope they do
+	Free: Pattern=really, Pattern=they
+	Constrained: 
+Turn ID=20| A | A : So , what are your thoughts on dining out ?
+	Free: Pattern=what, Pattern=So, Pattern=are, Pattern=your, Pattern=on
+	Constrained: 
+Turn ID=21| B | M : It would be interesting to see how many people would go .
+	Free: Pattern=would, Pattern=to, Pattern=people
+	Constrained: 
+Turn ID=22| A | A : As a matter of fact , if I'm injured or have an emergency when I'm , say in Germany or France , uh , that , I'm automatically taken care of ,
+	Free: Pattern=of, Pattern=I'm, Pattern=have, Pattern=a, Pattern=if, Pattern=in, Pattern=or, Pattern=, uh ,, Pattern=, I'm, Pattern=that
+	Constrained: Pattern=I'm
+Turn ID=23| B | M : The Vikings and Cowboys are both on the downswing
+	Free: Pattern=and, Pattern=are, Pattern=The, Pattern=on, Pattern=the
+	Constrained: 
+Turn ID=24| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=25| B | M : Can you get
+	Free: Pattern=you
+	Constrained: 
+Turn ID=26| A | A : Well , it's very true .
+	Free: Pattern=Well ,, Pattern=it's
+	Constrained: 
+Turn ID=27| B | M : I'm not sure if it's hard or not .
+	Free: Pattern=if, Pattern=or, Pattern=I'm, Pattern=it's
+	Constrained: 
+Turn ID=28| A | A : and so , but , uh , she got over it , so .
+	Free: Pattern=, uh ,, Pattern=and
+	Constrained: 
+Turn ID=29| B | M : You know , we have a lot of friends in this city ,
+	Free: Pattern=have, Pattern=a, Pattern=, we, Pattern=in, Pattern=this, Pattern=of, Pattern=know ,
+	Constrained: Pattern=we, Pattern=know
+Turn ID=30| A | A : and some of the are the overseas programs . Uh ,
+	Free: Pattern=are the, Pattern=the, Pattern=of, Pattern=and
+	Constrained: Pattern=are, Pattern=the
+Turn ID=31| B | M : I hate rain .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=32| A | A : Yeah . Uh-huh .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=33| B | M : That and , and
+	Free: Pattern=and , and
+	Constrained: Pattern=, and, Pattern=and ,, Pattern=and
+Turn ID=34| A | A : I've seen that . Yeah .
+	Free: Pattern=that ., Pattern=Yeah
+	Constrained: Pattern=that
+Turn ID=35| B | M : So the Yankees are the New England Patriots ?
+	Free: Pattern=are the, Pattern=So, Pattern=the, Pattern=New
+	Constrained: Pattern=are, Pattern=the
+Turn ID=36| A | A : They say we , we're testing you tomorrow and we'll test you every three months thereafter while you work here .
+	Free: Pattern=we, Pattern=you, Pattern=and
+	Constrained: 
+Turn ID=37| B | M : Why do
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : And , uh , yeah I was amazed . Really good temperament and very playful and affectionate , good personality . I don't know , I can't imagine what , uh , would have been wrong with this dog , so .
+	Free: Pattern=have, Pattern=what, Pattern=and, Pattern=I, Pattern=, uh ,, Pattern=would, Pattern=know , I, Pattern=this, Pattern=with
+	Constrained: Pattern=I, Pattern=know, Pattern=know ,, Pattern=, I
+Turn ID=39| B | M : So you just do the math , huh ?
+	Free: Pattern=just, Pattern=you, Pattern=So, Pattern=the
+	Constrained: 
+Turn ID=40| A | A : You're , uh , everybody I speak to is in Texas , oh , oh , yeah , but I'm , I'm in New York and , uh , we seem , we seem to have , um , I think the AMERICAN GLADIATORS is on Sunday afternoons actually around here as well , sometimes .
+	Free: Pattern=, I'm in, Pattern=have, Pattern=and ,, Pattern=, I, Pattern=, we, Pattern=I, Pattern=is, Pattern=, uh ,, Pattern=to, Pattern=New, Pattern=I'm, Pattern=think, Pattern=in, Pattern=on, Pattern=the
+	Constrained: Pattern=I'm, Pattern=and, Pattern=I, Pattern=in, Pattern=we, Pattern=, I'm
+Turn ID=41| B | M : Well , my son is .
+	Free: Pattern=Well ,, Pattern=is
+	Constrained: 
+Turn ID=42| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : Why do you think ?
+	Free: Pattern=you, Pattern=think
+	Constrained: 
+Turn ID=44| A | A : So . She was falling down and hemorrhaging and , you know , all kinds of physical problems , so it just became too much for me to handle , even though I would have liked to have had her stay , with her health being what it was she couldn't anymore .
+	Free: Pattern=of, Pattern=and ,, Pattern=what, Pattern=, you know ,, Pattern=So, Pattern=and, Pattern=I, Pattern=would, Pattern=to, Pattern=with, Pattern=just, Pattern=have
+	Constrained: Pattern=know ,, Pattern=and, Pattern=you, Pattern=know
+Turn ID=45| B | M : Yeah , my wife , uh , likes that .
+	Free: Pattern=, uh ,, Pattern=that ., Pattern=Yeah
+	Constrained: Pattern=that

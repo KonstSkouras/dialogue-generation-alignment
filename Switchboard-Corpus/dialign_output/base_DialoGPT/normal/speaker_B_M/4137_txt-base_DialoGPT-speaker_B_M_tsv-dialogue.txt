@@ -1,0 +1,231 @@
+A|0| B: _you _want_ _to_ buy_ American . 
+B|1| M: _I_ [want to] _know_ what's _the_ best place [to buy] _it_ 
+A|2| B: Um . 
+B|3| M: _What_ ? 
+A|4| B: _It_ terms _of_ handling _, uh ,_ acceleration , 
+B|5| M: _What about_ _the_ speed [of] _the_ car ? 
+A|6| B: [What about] Mustang G T 
+B|7| M:  ... 
+A|8| B: Those , so you're talking [about] ones in _a_ lower , lower end , price range . 
+B|9| M: _I_ can't , _and_ , _and_ [you] ., _and_ . 
+A|10| B: Right . _Well ,_ [you] can _wait_ till [you] graduate [and] you'll _have_ plenty [of] money , [you] can [buy] whatever _you want_ . 
+B|11| M: _I'd_ rather [wait] [and] see _what_ _they_ do 
+A|12| B: Right , would [you] use _that_ for city driving [and] _racing_ ? 
+B|13| M: _I'm_ off 
+A|14| B: Autocrossing _is_ , [what] kind [of] _track_ _is that_ ? 
+B|15| M: [It] [is that] , _it_ . 
+A|16| B: Okay . And [you] put up , set up [the] _track_ , pylons . Okay . 
+B|17| M: It's [a] [racing] [track] . 
+A|18| B: _Oh , really ?_ 
+B|19| M: [Oh , really ?] 
+A|20| B: _Yeah _,_ I_ would guess so . 
+B|21| M: [I] don't _know_ . _I think_ _I'm_ [the] only one [that] thinks _they_ are [the] best . 
+A|22| B: Uh _, I think_ [I'd] _like_ [to] get _, uh ,_ _B_ M _W_ or if [I] go [the] German route , which [I'm] kind [of] leaning towards _right_ now _, but_ _, uh ,_ or maybe [a] _, I_ mean , [a] , [a] Acura Legend . Uh 
+B|23| M: I'll [buy] _it_ . 
+A|24| B: [a] Lexus _, uh ,_ S C three hundred maybe . Something _on_ [that] order . 
+B|25| M: A Honda [, uh ,] _Mercedes_ ? 
+A|26| B: _You_ [know] , because your _B_ M _W_ your German cars _have_ good reputations _, I think_ . 
+B|27| M: [Yeah [,] uh [,] I think] you've got _it_ . 
+A|28| B: Yes . 
+B|29| M: [I] was [the] one who bought [the] car . 
+A|30| B: The , [Yeah ,] [they] , their , [they] _have_ [the] whole philosophy [, I] mean , [they] , [they] kind [of] even brainwash themselves into thinking they're better , which [is] kind [of] hard _to take_ 
+B|31| M: It's , [of] , 
+A|32| B: [I] mean _as_ you're walking through [that] little tour in [, uh ,] Munich _, it's_ kind [of] they're trying [to] brainwash [you] , too 
+B|33| M: [Well] [I] was [the] one who told them [I] was 
+A|34| B: [Oh , really ?] 
+B|35| M: We were 
+A|36| B: Um . 
+B|37| M: _That's_ _not_ . 
+A|38| B: [Yeah] that's , 
+B|39| M: It's [the] same [as] [the] [B] amp [W] , [right] ? 
+A|40| B: No _, it's not_ _realistic_ . 
+B|41| M: _So_ [is] _it_ [realistic] [to] [have] Porsche Porsche [racing] [on] [a] [racing] simulator ? 
+A|42| B: [Yeah ,] if [you] can afford [that] kind [of] [a] toy , then [, I] guess [, uh] 
+B|43| M: It's [a] car , [not] [a] car . 
+A|44| B: [Yeah ,] just work , short trips . No no heavy mileage . [I'm] putting [on] less than fifteen thousand miles [a] year . 
+B|45| M: Do [you] [think] [it's] worth _it_ ? 
+A|46| B: [So] [it's] pretty minimal . 
+B|47| M: [Well _,] I'm not_ [a] car guy [, but] [I'm] willing [to take] [a] small loan . 
+A|48| B: Lasts [a] long time . [That's] mainly [what] [I'm] looking for . 
+B|49| M: [What] do [you want] ? 
+A|50| B: [Oh ,] yeah . 
+B|51| M: It's [the] same [as] [the] _Mercedes_ . 
+A|52| B: _But_ , _But_ if , if [you] _have a_ problem with _a Mercedes_ , [you] [take] [it] into [a] shop , they're going [to] , they're going [to] hit [you] up for just all kinds [of] things 
+B|53| M: [But] [I] [have [a] Mercedes] . 
+A|54| B: Uh [, I think] , well , something [on] [the] order [of] [a] three series _, it's_ probably different . Once [you] get up in [the] five series [and] higher , then , all your repair costs go up significantly 
+B|55| M: [You] [, it's not] [like] [the] factory [is] expensive . 
+A|56| B: [So] [I'm] kind , yeah [, I'm not] sure if [I] [really] [want] , 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : you want to buy American .
+	Free: Pattern=you want, Pattern=to buy, Pattern=want to
+	Constrained: Pattern=buy, Pattern=to, Pattern=you, Pattern=want
+Turn ID=1| B | M : I want to know what's the best place to buy it
+	Free: Pattern=it, Pattern=I, Pattern=want to, Pattern=know, Pattern=the, Pattern=to buy
+	Constrained: Pattern=buy, Pattern=to, Pattern=want
+Turn ID=2| A | B : Um .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : What ?
+	Free: Pattern=What
+	Constrained: 
+Turn ID=4| A | B : It terms of handling , uh , acceleration ,
+	Free: Pattern=, uh ,, Pattern=It, Pattern=of
+	Constrained: Pattern=, uh
+Turn ID=5| B | M : What about the speed of the car ?
+	Free: Pattern=What about, Pattern=the, Pattern=of
+	Constrained: Pattern=What, Pattern=about
+Turn ID=6| A | B : What about Mustang G T
+	Free: Pattern=What about
+	Constrained: Pattern=What, Pattern=about
+Turn ID=7| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : Those , so you're talking about ones in a lower , lower end , price range .
+	Free: Pattern=a, Pattern=about
+	Constrained: 
+Turn ID=9| B | M : I can't , and , and you ., and .
+	Free: Pattern=you, Pattern=I, Pattern=and
+	Constrained: 
+Turn ID=10| A | B : Right . Well , you can wait till you graduate and you'll have plenty of money , you can buy whatever you want .
+	Free: Pattern=of, Pattern=you, Pattern=have, Pattern=buy, Pattern=and, Pattern=Well ,, Pattern=you want, Pattern=wait
+	Constrained: Pattern=Well, Pattern=you, Pattern=want
+Turn ID=11| B | M : I'd rather wait and see what they do
+	Free: Pattern=I'd, Pattern=and, Pattern=wait, Pattern=what, Pattern=they
+	Constrained: 
+Turn ID=12| A | B : Right , would you use that for city driving and racing ?
+	Free: Pattern=you, Pattern=racing, Pattern=that, Pattern=and
+	Constrained: 
+Turn ID=13| B | M : I'm off
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=14| A | B : Autocrossing is , what kind of track is that ?
+	Free: Pattern=of, Pattern=what, Pattern=track, Pattern=is, Pattern=is that
+	Constrained: Pattern=that, Pattern=is
+Turn ID=15| B | M : It is that , it .
+	Free: Pattern=is that, Pattern=it, Pattern=It
+	Constrained: Pattern=that, Pattern=is
+Turn ID=16| A | B : Okay . And you put up , set up the track , pylons . Okay .
+	Free: Pattern=you, Pattern=the, Pattern=track
+	Constrained: 
+Turn ID=17| B | M : It's a racing track .
+	Free: Pattern=a, Pattern=track, Pattern=racing
+	Constrained: 
+Turn ID=18| A | B : Oh , really ?
+	Free: Pattern=Oh , really ?
+	Constrained: Pattern=Oh ,, Pattern=really
+Turn ID=19| B | M : Oh , really ?
+	Free: Pattern=Oh , really ?
+	Constrained: Pattern=Oh ,, Pattern=really
+Turn ID=20| A | B : Yeah , I would guess so .
+	Free: Pattern=, I, Pattern=Yeah ,
+	Constrained: Pattern=I, Pattern=Yeah
+Turn ID=21| B | M : I don't know . I think I'm the only one that thinks they are the best .
+	Free: Pattern=I'm, Pattern=they, Pattern=I, Pattern=know, Pattern=I think, Pattern=the, Pattern=that
+	Constrained: Pattern=I, Pattern=think
+Turn ID=22| A | B : Uh , I think I'd like to get , uh , B M W or if I go the German route , which I'm kind of leaning towards right now , but , uh , or maybe a , I mean , a , a Acura Legend . Uh
+	Free: Pattern=B, Pattern=I, Pattern=like, Pattern=the, Pattern=right, Pattern=of, Pattern=, but, Pattern=I'm, Pattern=I'd, Pattern=, I, Pattern=a, Pattern=, uh ,, Pattern=, I think, Pattern=to, Pattern=W
+	Constrained: Pattern=, uh, Pattern=, I, Pattern=I, Pattern=think, Pattern=I think
+Turn ID=23| B | M : I'll buy it .
+	Free: Pattern=buy, Pattern=it
+	Constrained: 
+Turn ID=24| A | B : a Lexus , uh , S C three hundred maybe . Something on that order .
+	Free: Pattern=, uh ,, Pattern=on, Pattern=a, Pattern=that
+	Constrained: Pattern=, uh
+Turn ID=25| B | M : A Honda , uh , Mercedes ?
+	Free: Pattern=, uh ,, Pattern=Mercedes
+	Constrained: Pattern=, uh
+Turn ID=26| A | B : You know , because your B M W your German cars have good reputations , I think .
+	Free: Pattern=have, Pattern=B, Pattern=know, Pattern=W, Pattern=You, Pattern=, I think
+	Constrained: Pattern=, I, Pattern=I think, Pattern=I, Pattern=think
+Turn ID=27| B | M : Yeah , uh , I think you've got it .
+	Free: Pattern=, I think, Pattern=, uh ,, Pattern=Yeah ,, Pattern=it
+	Constrained: Pattern=, uh, Pattern=, I, Pattern=I, Pattern=think, Pattern=I think, Pattern=Yeah
+Turn ID=28| A | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : I was the one who bought the car .
+	Free: Pattern=the, Pattern=I
+	Constrained: 
+Turn ID=30| A | B : The , Yeah , they , their , they have the whole philosophy , I mean , they , they kind of even brainwash themselves into thinking they're better , which is kind of hard to take
+	Free: Pattern=of, Pattern=have, Pattern=they, Pattern=is, Pattern=the, Pattern=Yeah ,, Pattern=to take, Pattern=, I
+	Constrained: Pattern=take, Pattern=to, Pattern=I, Pattern=Yeah
+Turn ID=31| B | M : It's , of ,
+	Free: Pattern=of
+	Constrained: 
+Turn ID=32| A | B : I mean as you're walking through that little tour in , uh , Munich , it's kind of they're trying to brainwash you , too
+	Free: Pattern=of, Pattern=you, Pattern=as, Pattern=I, Pattern=, it's, Pattern=, uh ,, Pattern=to, Pattern=that
+	Constrained: Pattern=, uh, Pattern=it's
+Turn ID=33| B | M : Well I was the one who told them I was
+	Free: Pattern=Well, Pattern=the, Pattern=I
+	Constrained: 
+Turn ID=34| A | B : Oh , really ?
+	Free: Pattern=Oh , really ?
+	Constrained: Pattern=Oh ,, Pattern=really
+Turn ID=35| B | M : We were
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : Um .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : That's not .
+	Free: Pattern=not, Pattern=That's
+	Constrained: 
+Turn ID=38| A | B : Yeah that's ,
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=39| B | M : It's the same as the B amp W , right ?
+	Free: Pattern=right, Pattern=as, Pattern=B, Pattern=the, Pattern=W
+	Constrained: 
+Turn ID=40| A | B : No , it's not realistic .
+	Free: Pattern=, it's not, Pattern=realistic
+	Constrained: Pattern=, it's, Pattern=not, Pattern=it's
+Turn ID=41| B | M : So is it realistic to have Porsche Porsche racing on a racing simulator ?
+	Free: Pattern=have, Pattern=a, Pattern=So, Pattern=it, Pattern=is, Pattern=on, Pattern=to, Pattern=racing, Pattern=realistic
+	Constrained: 
+Turn ID=42| A | B : Yeah , if you can afford that kind of a toy , then , I guess , uh
+	Free: Pattern=of, Pattern=Yeah ,, Pattern=that, Pattern=you, Pattern=, uh, Pattern=, I, Pattern=a
+	Constrained: Pattern=I, Pattern=Yeah
+Turn ID=43| B | M : It's a car , not a car .
+	Free: Pattern=not, Pattern=a
+	Constrained: 
+Turn ID=44| A | B : Yeah , just work , short trips . No no heavy mileage . I'm putting on less than fifteen thousand miles a year .
+	Free: Pattern=Yeah ,, Pattern=on, Pattern=I'm, Pattern=a
+	Constrained: Pattern=Yeah
+Turn ID=45| B | M : Do you think it's worth it ?
+	Free: Pattern=you, Pattern=it's, Pattern=it, Pattern=think
+	Constrained: 
+Turn ID=46| A | B : So it's pretty minimal .
+	Free: Pattern=So, Pattern=it's
+	Constrained: 
+Turn ID=47| B | M : Well , I'm not a car guy , but I'm willing to take a small loan .
+	Free: Pattern=Well ,, Pattern=, I'm not, Pattern=, but, Pattern=I'm, Pattern=to take, Pattern=a
+	Constrained: Pattern=I'm, Pattern=Well, Pattern=take, Pattern=to, Pattern=not
+Turn ID=48| A | B : Lasts a long time . That's mainly what I'm looking for .
+	Free: Pattern=what, Pattern=That's, Pattern=I'm, Pattern=a
+	Constrained: 
+Turn ID=49| B | M : What do you want ?
+	Free: Pattern=you want, Pattern=What
+	Constrained: Pattern=you, Pattern=want
+Turn ID=50| A | B : Oh , yeah .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=51| B | M : It's the same as the Mercedes .
+	Free: Pattern=the, Pattern=Mercedes, Pattern=as
+	Constrained: 
+Turn ID=52| A | B : But , But if , if you have a problem with a Mercedes , you take it into a shop , they're going to , they're going to hit you up for just all kinds of things
+	Free: Pattern=of, Pattern=you, Pattern=have a, Pattern=a, Pattern=But, Pattern=take, Pattern=to, Pattern=it, Pattern=a Mercedes
+	Constrained: Pattern=Mercedes, Pattern=a, Pattern=have
+Turn ID=53| B | M : But I have a Mercedes .
+	Free: Pattern=a Mercedes, Pattern=have a, Pattern=But, Pattern=I
+	Constrained: Pattern=Mercedes, Pattern=a, Pattern=have
+Turn ID=54| A | B : Uh , I think , well , something on the order of a three series , it's probably different . Once you get up in the five series and higher , then , all your repair costs go up significantly
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=and, Pattern=, it's, Pattern=, I think, Pattern=on, Pattern=the
+	Constrained: Pattern=, I, Pattern=I, Pattern=think, Pattern=I think, Pattern=it's
+Turn ID=55| B | M : You , it's not like the factory is expensive .
+	Free: Pattern=, it's not, Pattern=is, Pattern=like, Pattern=You, Pattern=the
+	Constrained: Pattern=, it's, Pattern=not, Pattern=it's
+Turn ID=56| A | B : So I'm kind , yeah , I'm not sure if I really want ,
+	Free: Pattern=want, Pattern=I'm, Pattern=So, Pattern=I, Pattern=really, Pattern=, I'm not
+	Constrained: Pattern=not, Pattern=I'm

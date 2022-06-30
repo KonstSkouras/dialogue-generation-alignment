@@ -1,0 +1,195 @@
+A|0| B: _Oh_ really . 
+B|1| M: I've never met _a_ dog _that_ could _do_ _that_ . 
+A|2| B: Uh-huh . 
+B|3| M: What _did_ _you_ _do_ ? 
+A|4| B: No . 
+B|5| M: I'm waiting _for_ _them_ _to_ finish _my_ graduate year , I'm _so_ nervous . 
+A|6| B: Right . The lesser _of_ _the two_ evils _is_ how _we_ usually look at _it_ . 
+B|7| M: [Oh] . That's _right_ . 
+A|8| B: But _, uh ,_ it's , it's still , _it ,_ _it_ still remains [a] tough question _and_ , it's , there's [a] lot _of_ , [you] _know , the_ whole _, the_ whole department _of_ defense _, uh ,_ reasoning behind _the_ original plan _and_ whatnot . There's [a] lot _of_ different things [that] _, uh ,_ come into play but [that] was _, I think_ everybody , everybody pretty much knows [that] [that] was kind _of_ [a] smoke screen [to] implement _it_ throughout _the_ whole _company ._ 
+B|9| M: I'm sorry _for_ your loss . 
+A|10| B: Sure [did] . 
+B|11| M: You _try to_ make [it ,] [we] _try_ . 
+A|12| B: [so] you've been all through Europe . 
+B|13| M: I'm [a] cat lover . 
+A|14| B: I'll say . 
+B|15| M: You _do_ realize [you] have _to pay_ _for_ [the] taxes [and] insurance [of] your car _right ?_ 
+A|16| B: _I_ _know ,_ he's _not_ [a] handy , [right ?] 
+B|17| M: Are [you] serious ? 
+A|18| B: [Oh] , okay . 
+B|19| M: You 
+A|20| B: Right . Right . 
+B|21| M: You've 
+A|22| B: Uh-huh . 
+B|23| M: It's [a] small place . 
+A|24| B: Yeah , how old _is_ she ? 
+B|25| M: [I] 
+A|26| B: Uh-huh . 
+B|27| M: He said [the] same _thing_ [to] [the] French _people_ _in_ Paris . 
+A|28| B: _I think_ [I] would _be_ , [you] _know _,_ I_ guess , really if [I] had [to] say yes or no _, I_ guess [I] would say , [you] _know ,_ [that] [I] am [in] certain cases , [in] favor [of] [the] death penalty _, I don't know_ [that] it's [a] big deterrent really . _I don't know_ [that] [it] _is_ . _I don't know_ how we'd ever find out , [you] _know ,_ really whether [it] _is_ or _not_ . 
+B|29| M: Are [you] ? 
+A|30| B: It does [a] few more things _, uh ,_ than had been available before . 
+B|31| M: Uhhhhh . What's [the] difference between [the two] ? 
+A|32| B: Yeah . 
+B|33| M:  
+A|34| B: they , they [do] . 
+B|35| M: uuhhhh . [uh] . [uh] [is] [a] verb , uuh . u [is] [a] noun . 
+A|36| B: And , [and] [the] one person [I] _know_ [that] has one , they , they feel guilty . She has this continual guilt trip [that] she's _not_ doing [the] [right] [thing] , [and] [so] on _, uh ,_ on weekends she would , [you] _know ,_ spend all [of] her time with her kids [and] spend lots [of] , lots [and] lots [of] money . Basically _, I think_ they , they really spoil [the] child , [to] [try to] overcompensate [for] their guilt feelings . 
+B|37| M: I'm [not] sure [, I think] 
+A|38| B: We'll see [you] , bye-bye . 
+B|39| M: I'm about . 
+A|40| B: [Oh] , [my] heaven . 
+B|41| M: [I] mean [, the] kids'parents have [a] responsibility [to] take care [of] _them_ . 
+A|42| B: Because when [it] come down [to] layoff , they _don't_ really consider [people] [and] , [and] , [you] _know ,_ their well being as far as , [you] _know ,_ how they going , their next dollar going [to] come [in] . How they going [to pay] their bills . They just lay [them] off . 
+B|43| M: You must [be] from [the] east coast 
+A|44| B: Yeah , well , [my] , [my] oldest [is] only nine . 
+B|45| M: Well [I] [, uh [,] I don't know] . 
+A|46| B: [Oh] , yeah , oh , absolutely , yeah , [it] goes on [for] years [and] years , [and] costs hundreds [of] thousands [of] dollars , taxpayer money . 
+B|47| M: You [know , the] Power [company .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Oh really .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=1| B | M : I've never met a dog that could do that .
+	Free: Pattern=a, Pattern=do, Pattern=that
+	Constrained: 
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : What did you do ?
+	Free: Pattern=do, Pattern=did, Pattern=you
+	Constrained: 
+Turn ID=4| A | B : No .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : I'm waiting for them to finish my graduate year , I'm so nervous .
+	Free: Pattern=for, Pattern=to, Pattern=my, Pattern=them, Pattern=so
+	Constrained: 
+Turn ID=6| A | B : Right . The lesser of the two evils is how we usually look at it .
+	Free: Pattern=of, Pattern=it, Pattern=is, Pattern=we, Pattern=the two
+	Constrained: Pattern=the
+Turn ID=7| B | M : Oh . That's right .
+	Free: Pattern=Oh, Pattern=right
+	Constrained: 
+Turn ID=8| A | B : But , uh , it's , it's still , it , it still remains a tough question and , it's , there's a lot of , you know , the whole , the whole department of defense , uh , reasoning behind the original plan and whatnot . There's a lot of different things that , uh , come into play but that was , I think everybody , everybody pretty much knows that that was kind of a smoke screen to implement it throughout the whole company .
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=know , the, Pattern=it ,, Pattern=the, Pattern=to, Pattern=company ., Pattern=, the, Pattern=that, Pattern=it, Pattern=and, Pattern=, uh ,, Pattern=, I think
+	Constrained: Pattern=know ,, Pattern=uh, Pattern=, I, Pattern=it, Pattern=I, Pattern=know, Pattern=I think, Pattern=the, Pattern=, the
+Turn ID=9| B | M : I'm sorry for your loss .
+	Free: Pattern=for
+	Constrained: 
+Turn ID=10| A | B : Sure did .
+	Free: Pattern=did
+	Constrained: 
+Turn ID=11| B | M : You try to make it , we try .
+	Free: Pattern=it ,, Pattern=try to, Pattern=try, Pattern=we
+	Constrained: Pattern=to, Pattern=try, Pattern=it
+Turn ID=12| A | B : so you've been all through Europe .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=13| B | M : I'm a cat lover .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=14| A | B : I'll say .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : You do realize you have to pay for the taxes and insurance of your car right ?
+	Free: Pattern=of, Pattern=you, Pattern=right ?, Pattern=do, Pattern=for, Pattern=and, Pattern=to pay, Pattern=the
+	Constrained: Pattern=to, Pattern=right
+Turn ID=16| A | B : I know , he's not a handy , right ?
+	Free: Pattern=know ,, Pattern=right ?, Pattern=a, Pattern=I, Pattern=not
+	Constrained: Pattern=know, Pattern=right
+Turn ID=17| B | M : Are you serious ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=18| A | B : Oh , okay .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=19| B | M : You
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : Right . Right .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : You've
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : It's a small place .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=24| A | B : Yeah , how old is she ?
+	Free: Pattern=is
+	Constrained: 
+Turn ID=25| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=26| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : He said the same thing to the French people in Paris .
+	Free: Pattern=people, Pattern=in, Pattern=to, Pattern=thing, Pattern=the
+	Constrained: 
+Turn ID=28| A | B : I think I would be , you know , I guess , really if I had to say yes or no , I guess I would say , you know , that I am in certain cases , in favor of the death penalty , I don't know that it's a big deterrent really . I don't know that it is . I don't know how we'd ever find out , you know , really whether it is or not .
+	Free: Pattern=you, Pattern=it, Pattern=I, Pattern=is, Pattern=the, Pattern=to, Pattern=not, Pattern=of, Pattern=know ,, Pattern=, I, Pattern=a, Pattern=I don't know, Pattern=in, Pattern=I think, Pattern=be, Pattern=, I don't know, Pattern=that
+	Constrained: Pattern=, I, Pattern=I, Pattern=I don't know, Pattern=know, Pattern=don't
+Turn ID=29| B | M : Are you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=30| A | B : It does a few more things , uh , than had been available before .
+	Free: Pattern=, uh ,, Pattern=a
+	Constrained: Pattern=uh
+Turn ID=31| B | M : Uhhhhh . What's the difference between the two ?
+	Free: Pattern=the two, Pattern=the
+	Constrained: Pattern=the
+Turn ID=32| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : they , they do .
+	Free: Pattern=do
+	Constrained: 
+Turn ID=35| B | M : uuhhhh . uh . uh is a verb , uuh . u is a noun .
+	Free: Pattern=a, Pattern=uh, Pattern=is
+	Constrained: 
+Turn ID=36| A | B : And , and the one person I know that has one , they , they feel guilty . She has this continual guilt trip that she's not doing the right thing , and so on , uh , on weekends she would , you know , spend all of her time with her kids and spend lots of , lots and lots of money . Basically , I think they , they really spoil the child , to try to overcompensate for their guilt feelings .
+	Free: Pattern=for, Pattern=and, Pattern=I, Pattern=know, Pattern=to, Pattern=that, Pattern=so, Pattern=not, Pattern=right, Pattern=of, Pattern=know ,, Pattern=you, Pattern=try to, Pattern=, uh ,, Pattern=, I think, Pattern=thing, Pattern=the
+	Constrained: Pattern=uh, Pattern=, I, Pattern=try, Pattern=I, Pattern=know, Pattern=I think, Pattern=to
+Turn ID=37| B | M : I'm not sure , I think
+	Free: Pattern=, I think, Pattern=not
+	Constrained: Pattern=, I, Pattern=I think, Pattern=I
+Turn ID=38| A | B : We'll see you , bye-bye .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=39| B | M : I'm about .
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : Oh , my heaven .
+	Free: Pattern=my, Pattern=Oh
+	Constrained: 
+Turn ID=41| B | M : I mean , the kids'parents have a responsibility to take care of them .
+	Free: Pattern=of, Pattern=a, Pattern=I, Pattern=to, Pattern=, the, Pattern=them
+	Constrained: Pattern=the
+Turn ID=42| A | B : Because when it come down to layoff , they don't really consider people and , and , you know , their well being as far as , you know , how they going , their next dollar going to come in . How they going to pay their bills . They just lay them off .
+	Free: Pattern=know ,, Pattern=you, Pattern=people, Pattern=in, Pattern=to pay, Pattern=don't, Pattern=to, Pattern=them, Pattern=it, Pattern=and
+	Constrained: Pattern=know, Pattern=to
+Turn ID=43| B | M : You must be from the east coast
+	Free: Pattern=the, Pattern=be
+	Constrained: 
+Turn ID=44| A | B : Yeah , well , my , my oldest is only nine .
+	Free: Pattern=my, Pattern=is
+	Constrained: 
+Turn ID=45| B | M : Well I , uh , I don't know .
+	Free: Pattern=, I don't know, Pattern=, uh ,, Pattern=I
+	Constrained: Pattern=uh, Pattern=, I, Pattern=I, Pattern=I don't know, Pattern=know, Pattern=don't
+Turn ID=46| A | B : Oh , yeah , oh , absolutely , yeah , it goes on for years and years , and costs hundreds of thousands of dollars , taxpayer money .
+	Free: Pattern=of, Pattern=for, Pattern=Oh, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=47| B | M : You know , the Power company .
+	Free: Pattern=know , the, Pattern=company .
+	Constrained: Pattern=know ,, Pattern=, the, Pattern=know, Pattern=the

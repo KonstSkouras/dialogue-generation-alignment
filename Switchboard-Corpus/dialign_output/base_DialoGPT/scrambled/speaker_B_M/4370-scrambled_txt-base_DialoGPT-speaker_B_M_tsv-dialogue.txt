@@ -1,0 +1,175 @@
+A|0| B: and _I_ used _to_ know as _a_ Boy Scout _but_ all _I_ remember _was the_ red _in the_ flag represented _the_ blood that _was_ shed _to_ _to_ create this country , and _to_ maintain _it ._ 
+B|1| M:  
+A|2| B: No . 
+B|3| M: The E P [a] _is_ [a] pretty _new_ proposal . 
+A|4| B: I'd like _to_ try , _you_ know , _just_ try something [new] , every year that _, I_ haven't tried before 
+B|5| M: _Well _,_ we're_ also gonna be [a] bit different . 
+A|6| B: And _it's_ , _it's_ fun , _in_ fact that's _what_ we had _for_ [a] Christmas party last _week_ . 
+B|7| M: _Oh_ _yeah_ ? _Uh_ huh ? 
+A|8| B: _So_ _the_ engine kicks on when _the_ batteries need power and _it_ turns off . 
+B|9| M: Do _they have _a lot_ of_ kids ? 
+A|10| B: Yeah . 
+B|11| M: They're called'rood 
+A|12| B: [Well ,] _you_ know , somebody elected that recently . 
+B|13| M: [Well ,] there's plenty _of_ full employment [in the] US . 
+A|14| B: And if [they] were [in the] same building then _you_ _are_ going _to_ [the] same place , 
+B|15| M: They don't _have_ any left . 
+A|16| B: Yeah . 
+B|17| M:  ... 
+A|18| B: they're _much_ more responsible . _I_ know , um , [the] church that _I_ go _to_ , um , [the] young men give two years [of] their life when [they] turn nineteen , _you_ know , 
+B|19| M: It [was] _, but I_ _have _a lot_ of_ _money ._ 
+A|20| B: Yeah . 
+B|21| M: _What_ [was the] _most_ recent game [you] watched ? 
+A|22| B: And [the] people think [the] income [is] really great [in] some [of] those areas [but] when [they] sit down and look at _what_ _it_ costs _to_ live and , uh , [of] course , [most] [of] [the] homes _are_ , [you] know , fairly nice , they're , uh , done up fairly nice , uh , 
+B|23| M: I'm _from_ Canada [, I] [was] [just] thinking _about it ._ 
+A|24| B: Yeah _, yeah_ , [you] , _it's_ , _it's_ hard sometimes at work because , [you] know , people say , oh [, we're] taking [a] cruise [, we're] going here [, we're] going there , [you] know because [they have a lot] more [money .] 
+B|25| M: [they] [are] recy recycle 
+A|26| B: Bradford's north [of] us . 
+B|27| M: uhhh [, yeah] . 
+A|28| B: _Uh ,_ where [I] live now _it's_ , _it's_ not _so_ bad . [I] mean [I] can basically leave my front door unlocked and not [have] _to_ worry [about it .] _Uh [,_ but I] do [have] friends that live [in the] city and [I] think that [they] get [a lot of] fallout [from] this war on drug thing . _Uh ,_ [just] because there [are] , like , crack houses , [you] know , on their street and stuff like this . 
+B|29| M: [so] . [much] . corn . corn . 
+A|30| B: [Oh] really . 
+B|31| M: [I] [have] ,, [I] [, I] [have] , [have] , 
+A|32| B: [Oh] , definitely . 
+B|33| M: _Yes_ [, but] [it's] mostly [for] [the] camping . 
+A|34| B: Yeah . 
+B|35| M:  ... [Uh _,] what_ ? 
+A|36| B: [Yes] . [Yes] . 
+B|37| M: [So] , I'm assuming it'll be [a] four [to] five hour [week] ? 
+A|38| B: that , that's really sad , [you] know , [you] got young boys or girls , that at fourteen or twelve years old that [are] committing murders and , no remorse [, what] [so] ever . 
+B|39| M: A bit [, I] don't fight . 
+A|40| B: Yeah . 
+B|41| M: You'av 
+A|42| B: [What] we do , usually , [is] , uh , vote , uh , absenteeism 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and I used to know as a Boy Scout but all I remember was the red in the flag represented the blood that was shed to to create this country , and to maintain it .
+	Free: Pattern=it ., Pattern=a, Pattern=was the, Pattern=the, Pattern=to, Pattern=was, Pattern=but, Pattern=in the, Pattern=I
+	Constrained: Pattern=was, Pattern=the, Pattern=in, Pattern=it
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : No .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : The E P a is a pretty new proposal .
+	Free: Pattern=a, Pattern=new, Pattern=is
+	Constrained: 
+Turn ID=4| A | B : I'd like to try , you know , just try something new , every year that , I haven't tried before
+	Free: Pattern=new, Pattern=you, Pattern=just, Pattern=, I, Pattern=to
+	Constrained: Pattern=I
+Turn ID=5| B | M : Well , we're also gonna be a bit different .
+	Free: Pattern=, we're, Pattern=Well ,, Pattern=a
+	Constrained: 
+Turn ID=6| A | B : And it's , it's fun , in fact that's what we had for a Christmas party last week .
+	Free: Pattern=week, Pattern=what, Pattern=a, Pattern=for, Pattern=in, Pattern=it's
+	Constrained: 
+Turn ID=7| B | M : Oh yeah ? Uh huh ?
+	Free: Pattern=Uh, Pattern=yeah, Pattern=Oh
+	Constrained: 
+Turn ID=8| A | B : So the engine kicks on when the batteries need power and it turns off .
+	Free: Pattern=the, Pattern=So, Pattern=it
+	Constrained: 
+Turn ID=9| B | M : Do they have a lot of kids ?
+	Free: Pattern=they have a lot, Pattern=a lot of
+	Constrained: Pattern=of, Pattern=have, Pattern=they, Pattern=a, Pattern=have a lot
+Turn ID=10| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : They're called'rood
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Well , you know , somebody elected that recently .
+	Free: Pattern=Well ,, Pattern=you
+	Constrained: 
+Turn ID=13| B | M : Well , there's plenty of full employment in the US .
+	Free: Pattern=in the, Pattern=Well ,, Pattern=of
+	Constrained: Pattern=the, Pattern=in
+Turn ID=14| A | B : And if they were in the same building then you are going to the same place ,
+	Free: Pattern=you, Pattern=they, Pattern=the, Pattern=to, Pattern=are, Pattern=in the
+	Constrained: Pattern=the, Pattern=in
+Turn ID=15| B | M : They don't have any left .
+	Free: Pattern=have
+	Constrained: 
+Turn ID=16| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : they're much more responsible . I know , um , the church that I go to , um , the young men give two years of their life when they turn nineteen , you know ,
+	Free: Pattern=of, Pattern=you, Pattern=they, Pattern=I, Pattern=much, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=19| B | M : It was , but I have a lot of money .
+	Free: Pattern=a lot of, Pattern=, but I, Pattern=was, Pattern=money ., Pattern=have a lot
+	Constrained: Pattern=of, Pattern=, but, Pattern=have, Pattern=a, Pattern=I, Pattern=but
+Turn ID=20| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : What was the most recent game you watched ?
+	Free: Pattern=was the, Pattern=What, Pattern=you, Pattern=most
+	Constrained: Pattern=was, Pattern=the
+Turn ID=22| A | B : And the people think the income is really great in some of those areas but when they sit down and look at what it costs to live and , uh , of course , most of the homes are , you know , fairly nice , they're , uh , done up fairly nice , uh ,
+	Free: Pattern=of, Pattern=you, Pattern=it, Pattern=are, Pattern=in, Pattern=is, Pattern=most, Pattern=the, Pattern=to, Pattern=but, Pattern=what, Pattern=they
+	Constrained: 
+Turn ID=23| B | M : I'm from Canada , I was just thinking about it .
+	Free: Pattern=just, Pattern=, I, Pattern=was, Pattern=about it ., Pattern=from
+	Constrained: Pattern=it ., Pattern=I, Pattern=it
+Turn ID=24| A | B : Yeah , yeah , you , it's , it's hard sometimes at work because , you know , people say , oh , we're taking a cruise , we're going here , we're going there , you know because they have a lot more money .
+	Free: Pattern=you, Pattern=they have a lot, Pattern=, yeah, Pattern=money ., Pattern=it's, Pattern=a, Pattern=, we're
+	Constrained: Pattern=have, Pattern=they, Pattern=a, Pattern=yeah, Pattern=have a lot
+Turn ID=25| B | M : they are recy recycle
+	Free: Pattern=are, Pattern=they
+	Constrained: 
+Turn ID=26| A | B : Bradford's north of us .
+	Free: Pattern=of
+	Constrained: 
+Turn ID=27| B | M : uhhh , yeah .
+	Free: Pattern=, yeah
+	Constrained: Pattern=yeah
+Turn ID=28| A | B : Uh , where I live now it's , it's not so bad . I mean I can basically leave my front door unlocked and not have to worry about it . Uh , but I do have friends that live in the city and I think that they get a lot of fallout from this war on drug thing . Uh , just because there are , like , crack houses , you know , on their street and stuff like this .
+	Free: Pattern=a lot of, Pattern=they, Pattern=Uh ,, Pattern=to, Pattern=it's, Pattern=so, Pattern=you, Pattern=, but I, Pattern=just, Pattern=have, Pattern=are, Pattern=in the, Pattern=I, Pattern=about it ., Pattern=from
+	Constrained: Pattern=of, Pattern=a, Pattern=it, Pattern=I, Pattern=in, Pattern=the, Pattern=, but, Pattern=it ., Pattern=but, Pattern=Uh
+Turn ID=29| B | M : so . much . corn . corn .
+	Free: Pattern=much, Pattern=so
+	Constrained: 
+Turn ID=30| A | B : Oh really .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=31| B | M : I have ,, I , I have , have ,
+	Free: Pattern=, I, Pattern=I, Pattern=have
+	Constrained: Pattern=I
+Turn ID=32| A | B : Oh , definitely .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=33| B | M : Yes , but it's mostly for the camping .
+	Free: Pattern=, but, Pattern=for, Pattern=Yes, Pattern=the, Pattern=it's
+	Constrained: Pattern=but
+Turn ID=34| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M :  ... Uh , what ?
+	Free: Pattern=, what, Pattern=Uh ,
+	Constrained: Pattern=what, Pattern=Uh
+Turn ID=36| A | B : Yes . Yes .
+	Free: Pattern=Yes
+	Constrained: 
+Turn ID=37| B | M : So , I'm assuming it'll be a four to five hour week ?
+	Free: Pattern=a, Pattern=week, Pattern=to, Pattern=So
+	Constrained: 
+Turn ID=38| A | B : that , that's really sad , you know , you got young boys or girls , that at fourteen or twelve years old that are committing murders and , no remorse , what so ever .
+	Free: Pattern=, what, Pattern=so, Pattern=are, Pattern=you
+	Constrained: Pattern=what
+Turn ID=39| B | M : A bit , I don't fight .
+	Free: Pattern=, I
+	Constrained: Pattern=I
+Turn ID=40| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : You'av
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : What we do , usually , is , uh , vote , uh , absenteeism
+	Free: Pattern=What, Pattern=is
+	Constrained: 

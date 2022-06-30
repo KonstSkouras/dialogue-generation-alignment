@@ -1,0 +1,191 @@
+A|0| B: _I'm going _to_ get_ another one as soon as _I_ _get_ back _in_ town . _I'm going_ out _of_ town this weekend , when _I_ _get_ back _I'm going to_ find _a_ _cat_ . So , 
+B|1| M: You're . 
+A|2| B: Uh-huh . 
+B|3| M: What _if_ _they_ die ? 
+A|4| B: right _, we_ wound up _just_ choosing _a_ , another Mennonite nursing home _that_ was easier _to get_ into . Or but naturally , no , it was even Mennonite related _, _I'm_ sorry_ , it was actually _not_ _a_ particularly great nursing home . Mostly _the_ _thing_ was _that_ it was available when _we_ needed it , because he suddenly got sick and needed _to be_ put _in_ . 
+B|5| M:  ... 
+A|6| B: _Well ,_ _a_ little bit for _the_ price , 
+B|7| M: Haha , _that's_ awesome . 
+A|8| B: In terms _of_ motivation and incentive , yeah . 
+B|9| M: [I'm sorry] 
+A|10| B: Yes _, I_ understand _that_ , but hopefully _that_ _the_ _people_ _that_ _are_ listening _to_ what our comments _are_ take some action _on_ it . 
+B|11| M: [Well [,] I] _like_ [to] photograph _things_ . 
+A|12| B: [I'm] glad _you_ told me _that_ , because [I] use those at work , where [I] work and , uh , _But_ _I can_ _just_ forget _that_ from now _on_ . _I'm going_ _I'm going to_ switch [to] _the_ white ones . 
+B|13| M:  
+A|14| B: Uh-huh . 
+B|15| M: [I] _have_ [to get] [to] _my_ _car_ _, so_ [I'm going [to] be] taking [the] bus . 
+A|16| B: _Yeah_ , and wasn't _that_ fun . [I] went [to] [the] balloon festival _in_ Plano and carried [my] little portable radio _with_ me , and [I] must say [I] attracted _a_ lot _of_ attention . 
+B|17| M: [But] ... [you] can't _have the_ [cat] 
+A|18| B: but [I] feel closer [to] them , because [I] kind _of_ grew up _with_ them . [But] , [But] , uh , as , [you] know , for [the] rest _of_ _that_ group , no _not_ really . 
+B|19| M:  ... [I'm] surprised . 
+A|20| B: and [they] _have a_ bunch _of_ computers leftover from _that_ 
+B|21| M: [I'm] _so_ confused 
+A|22| B: Right . They're doing _that_ _in_ our state , too . 
+B|23| M: Oh , _that's_ nice . 
+A|24| B: Uh-huh . 
+B|25| M: [I] don't _think_ [I can] afford [to] buy [a] _house_ [with] all _that ._ 
+A|26| B: Okay 
+B|27| M: [I'm] [not] . 
+A|28| B: _just_ , pick up and head _on_ out . 
+B|29| M: He . 
+A|30| B: and , [you] know , [they] sort _of_ cause trouble around [the] [house] and [things] [like] [that .] [I] [, I] tried _to have_ , um , figured something having [, so] [I] tried _to have a_ goldfish , 
+B|31| M: yes . 
+A|32| B: [I] mean , it's [like] , [that] was _just_ something because [that] was [like] live and real [like] [you] said , 
+B|33| M: Uhhh _. Uh_ . _Yeah ._ 
+A|34| B: [But] , 
+B|35| M: No [, we] [just] _wanted_ [to have a] conversation 
+A|36| B: and then [we] would turn [the] television off and [we] were sort _of_ limiting or dieting ourselves _on_ , _on_ news [that] way . And , then [we] would do [a] similar _thing_ , uh , at uh , ten forty-five because , uh , C N N would [be] wrapping their hourly coverage up and then [we] would [get] [the] local coverage , uh , and then [I] [think] [the] local coverage [we] would tend [to] watch [the] same station [that] would , would [have] better state coverage rather than local coverage [. Uh] , three _of_ [the] networks here , _on_ their local news , uh , [that] [if] , [if] [you] wish [to] listen at eleven o'clock _you can_ find out _who_ raped _who_ , murdered _who_ , or stole what . from whom . 
+B|37| M: The only [thing] _that's_ stopping [you] _is_ [the] mass [of] innocent [people] [who] [are] guilty . 
+A|38| B: [Yeah] , it sounds pretty good That sounds good . I've noticed [a] lot [of] , uh , different organizations _in_ our community , uh , pick up , [like] _on_ [the] highway and stuff , and [I] [think] [that's] pretty neat . They , uh , go along and [have] [so] many miles [I] guess [of] highway [to] take over 
+B|39| M: Oh , well [, I'm] [not] planning [on] putting anything [in] there . 
+A|40| B: [Yeah .] Now what about [you] , [if] [you] could [have the] [car] [that] [you] [wanted] what would [you] [get] 
+B|41| M: Maybe [you can] make [a] list [of] all [the] [things] [that] [have] been done [in] [the] past ? 
+A|42| B: Are [you] , uh , transit usually ? [I] mean do [you] stay [not] [in] one place too long ? 
+B|43| M:  ... guilty . 
+A|44| B: Uh-huh . 
+B|45| M:  
+A|46| B: Right . College credit [is] [a] good idea because , 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : I'm going to get another one as soon as I get back in town . I'm going out of town this weekend , when I get back I'm going to find a cat . So ,
+	Free: Pattern=of, Pattern=I'm going, Pattern=to get, Pattern=I, Pattern=I'm going to, Pattern=in, Pattern=get, Pattern=cat, Pattern=a
+	Constrained: Pattern=I'm, Pattern=I'm going, Pattern=to, Pattern=get
+Turn ID=1| B | M : You're .
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : What if they die ?
+	Free: Pattern=if, Pattern=they
+	Constrained: 
+Turn ID=4| A | B : right , we wound up just choosing a , another Mennonite nursing home that was easier to get into . Or but naturally , no , it was even Mennonite related , I'm sorry , it was actually not a particularly great nursing home . Mostly the thing was that it was available when we needed it , because he suddenly got sick and needed to be put in .
+	Free: Pattern=just, Pattern=a, Pattern=I'm sorry, Pattern=in, Pattern=we, Pattern=that, Pattern=not, Pattern=to get, Pattern=, we, Pattern=thing, Pattern=the, Pattern=, I'm, Pattern=to be
+	Constrained: Pattern=I'm, Pattern=we, Pattern=be, Pattern=to, Pattern=get
+Turn ID=5| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : Well , a little bit for the price ,
+	Free: Pattern=Well ,, Pattern=the, Pattern=a
+	Constrained: 
+Turn ID=7| B | M : Haha , that's awesome .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=8| A | B : In terms of motivation and incentive , yeah .
+	Free: Pattern=of
+	Constrained: 
+Turn ID=9| B | M : I'm sorry
+	Free: Pattern=I'm sorry
+	Constrained: Pattern=I'm
+Turn ID=10| A | B : Yes , I understand that , but hopefully that the people that are listening to what our comments are take some action on it .
+	Free: Pattern=people, Pattern=, I, Pattern=are, Pattern=to, Pattern=that, Pattern=on, Pattern=the
+	Constrained: Pattern=I
+Turn ID=11| B | M : Well , I like to photograph things .
+	Free: Pattern=, I, Pattern=things, Pattern=Well ,, Pattern=like, Pattern=to
+	Constrained: Pattern=I
+Turn ID=12| A | B : I'm glad you told me that , because I use those at work , where I work and , uh , But I can just forget that from now on . I'm going I'm going to switch to the white ones .
+	Free: Pattern=I'm going, Pattern=just, Pattern=I can, Pattern=I, Pattern=But, Pattern=I'm going to, Pattern=to, Pattern=that, Pattern=you, Pattern=I'm, Pattern=on, Pattern=the
+	Constrained: Pattern=I'm, Pattern=I'm going, Pattern=I, Pattern=to
+Turn ID=13| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : I have to get to my car , so I'm going to be taking the bus .
+	Free: Pattern=have, Pattern=to get, Pattern=I, Pattern=I'm going to, Pattern=the, Pattern=car, Pattern=to, Pattern=, so, Pattern=to be, Pattern=my
+	Constrained: Pattern=I'm going, Pattern=I'm, Pattern=be, Pattern=to, Pattern=get, Pattern=so
+Turn ID=16| A | B : Yeah , and wasn't that fun . I went to the balloon festival in Plano and carried my little portable radio with me , and I must say I attracted a lot of attention .
+	Free: Pattern=of, Pattern=a, Pattern=I, Pattern=in, Pattern=the, Pattern=to, Pattern=Yeah, Pattern=my, Pattern=with, Pattern=that
+	Constrained: 
+Turn ID=17| B | M : But ... you can't have the cat
+	Free: Pattern=have the, Pattern=But, Pattern=you, Pattern=cat
+	Constrained: Pattern=have, Pattern=the
+Turn ID=18| A | B : but I feel closer to them , because I kind of grew up with them . But , But , uh , as , you know , for the rest of that group , no not really .
+	Free: Pattern=of, Pattern=you, Pattern=I, Pattern=But, Pattern=the, Pattern=to, Pattern=not, Pattern=with, Pattern=that
+	Constrained: 
+Turn ID=19| B | M :  ... I'm surprised .
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=20| A | B : and they have a bunch of computers leftover from that
+	Free: Pattern=have a, Pattern=that, Pattern=they, Pattern=of
+	Constrained: Pattern=have, Pattern=a
+Turn ID=21| B | M : I'm so confused
+	Free: Pattern=so, Pattern=I'm
+	Constrained: 
+Turn ID=22| A | B : Right . They're doing that in our state , too .
+	Free: Pattern=in, Pattern=that
+	Constrained: 
+Turn ID=23| B | M : Oh , that's nice .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=24| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I don't think I can afford to buy a house with all that .
+	Free: Pattern=house, Pattern=that ., Pattern=I can, Pattern=a, Pattern=I, Pattern=think, Pattern=to, Pattern=with
+	Constrained: Pattern=that, Pattern=I
+Turn ID=26| A | B : Okay
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : I'm not .
+	Free: Pattern=not, Pattern=I'm
+	Constrained: 
+Turn ID=28| A | B : just , pick up and head on out .
+	Free: Pattern=just, Pattern=on
+	Constrained: 
+Turn ID=29| B | M : He .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : and , you know , they sort of cause trouble around the house and things like that . I , I tried to have , um , figured something having , so I tried to have a goldfish ,
+	Free: Pattern=house, Pattern=you, Pattern=they, Pattern=, I, Pattern=things, Pattern=like, Pattern=to have a, Pattern=the, Pattern=, so, Pattern=of, Pattern=that ., Pattern=I, Pattern=to have
+	Constrained: Pattern=have, Pattern=have a, Pattern=a, Pattern=to, Pattern=that, Pattern=so, Pattern=I, Pattern=to have
+Turn ID=31| B | M : yes .
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : I mean , it's like , that was just something because that was like live and real like you said ,
+	Free: Pattern=you, Pattern=just, Pattern=I, Pattern=like, Pattern=that
+	Constrained: 
+Turn ID=33| B | M : Uhhh . Uh . Yeah .
+	Free: Pattern=. Uh, Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=34| A | B : But ,
+	Free: Pattern=But
+	Constrained: 
+Turn ID=35| B | M : No , we just wanted to have a conversation
+	Free: Pattern=to have a, Pattern=, we, Pattern=just, Pattern=wanted
+	Constrained: Pattern=have, Pattern=have a, Pattern=a, Pattern=to have, Pattern=we, Pattern=to
+Turn ID=36| A | B : and then we would turn the television off and we were sort of limiting or dieting ourselves on , on news that way . And , then we would do a similar thing , uh , at uh , ten forty-five because , uh , C N N would be wrapping their hourly coverage up and then we would get the local coverage , uh , and then I think the local coverage we would tend to watch the same station that would , would have better state coverage rather than local coverage . Uh , three of the networks here , on their local news , uh , that if , if you wish to listen at eleven o'clock you can find out who raped who , murdered who , or stole what . from whom .
+	Free: Pattern=of, Pattern=you, Pattern=have, Pattern=. Uh, Pattern=you can, Pattern=think, Pattern=we, Pattern=be, Pattern=to, Pattern=get, Pattern=that, Pattern=who, Pattern=a, Pattern=I, Pattern=if, Pattern=on, Pattern=thing, Pattern=the
+	Constrained: Pattern=you
+Turn ID=37| B | M : The only thing that's stopping you is the mass of innocent people who are guilty .
+	Free: Pattern=of, Pattern=you, Pattern=people, Pattern=who, Pattern=are, Pattern=is, Pattern=thing, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=38| A | B : Yeah , it sounds pretty good That sounds good . I've noticed a lot of , uh , different organizations in our community , uh , pick up , like on the highway and stuff , and I think that's pretty neat . They , uh , go along and have so many miles I guess of highway to take over
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=I, Pattern=like, Pattern=to, Pattern=Yeah, Pattern=so, Pattern=think, Pattern=in, Pattern=on, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=39| B | M : Oh , well , I'm not planning on putting anything in there .
+	Free: Pattern=, I'm, Pattern=in, Pattern=not, Pattern=on
+	Constrained: Pattern=I'm
+Turn ID=40| A | B : Yeah . Now what about you , if you could have the car that you wanted what would you get
+	Free: Pattern=Yeah ., Pattern=if, Pattern=car, Pattern=get, Pattern=that, Pattern=you, Pattern=have the, Pattern=wanted
+	Constrained: Pattern=have, Pattern=the, Pattern=Yeah
+Turn ID=41| B | M : Maybe you can make a list of all the things that have been done in the past ?
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=you can, Pattern=things, Pattern=in, Pattern=the, Pattern=that
+	Constrained: Pattern=you
+Turn ID=42| A | B : Are you , uh , transit usually ? I mean do you stay not in one place too long ?
+	Free: Pattern=in, Pattern=not, Pattern=you, Pattern=I
+	Constrained: 
+Turn ID=43| B | M :  ... guilty .
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : Right . College credit is a good idea because ,
+	Free: Pattern=a, Pattern=is
+	Constrained: 

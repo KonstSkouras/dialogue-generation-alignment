@@ -1,0 +1,247 @@
+A|0| A: _Oh ,_ _the_ movie _was_ _a_ joke compared _to_ _, I_ mean , because Tom Wolfe _is_ _so_ perceptive , when _it_ comes _to_ , _you_ know , pinpointing _, uh ,_ society's ills _and_ , things like _that_ _and_ just nailing _people_ _to the_ wall _and_ exposing things 
+B|1| M: Do [you] watch [the] videos ? 
+A|2| A: _Yeah_ . 
+B|3| M: It's [a] car . 
+A|4| A: Uh , we , we tended _to_ want _to_ keep on giving lavish , gifts _as_ , we _had_ done before . 
+B|5| M: They're [a] bunch _of_ _twisted people_ . 
+A|6| A: Right . Right . Uh-huh . Especially with like [a] lot _of the_ different organizations now like , [you] know , Pro-Life _and_ _, and_ _uh ,_ Choice _in_ , _in the_ special interest groups maybe _um ,_ like amnesty . 
+B|7| M: It [was] [in the] middle [of the] night 
+A|8| A: Uh-huh . 
+B|9| M: [Oh ,] that's good . 
+A|10| A: _Yeah_ . Right . 
+B|11| M: _I think_ it's [a] bit _too_ far . 
+A|12| A: Really ? 
+B|13| M: And that's why _we're_ [in the] market _for_ houses , huh ? 
+A|14| A: [I] want _to_ believe _they_ go into other countries _and_ teach them _how_ _to_ _do_ things like farm _, uh ,_ dig their own wells , set _up_ , their schools . 
+B|15| M: You should , but _you have_ no idea what you're talking _about_ . 
+A|16| A: _Yeah_ . 
+B|17| M: She's [a] human . 
+A|18| A: _Yes ._ 
+B|19| M: [I] dunno . 
+A|20| A: _Yeah ,_ well , we _had_ [a] wonderful 
+B|21| M:  
+A|22| A: Uh-huh . 
+B|23| M: Not _much_ , but [they] _have_ _some_ 
+A|24| A: Okay . 
+B|25| M: [Yes .] 
+A|26| A: So [you] just _have to_ , _to_ handle _it_ until he gets home 
+B|27| M: Huh . Well , that's interesting . 
+A|28| A: _Yeah _,_ I_ am [I] need _it_ , [too] , otherwise , 
+B|29| M: That's not _really_ [how] [it] works . 
+A|30| A: Uh , [in] parts . [I] mean [you] couldn't , [you] [really] couldn't use [it] _for a_ room . 
+B|31| M: We [have to] look [to the] future . 
+A|32| A: _Yeah_ . One _nice_ thing with onions _and_ _, and_ bell peppers at least _you can_ chop them _and_ freeze them if [you have] , [you] know , [too] many . 
+B|33| M: [I] 
+A|34| A: So _, uh _,_ I_ , 
+B|35| M: We are [, uh _,] um ,_ friends . 
+A|36| A: _Yeah_ . 
+B|37| M: [Oh] _yeah_ . 
+A|38| A: Uh-huh . 
+B|39| M: They [have] _some_ [nice] beaches [, and] [a] big aquarium . 
+A|40| A: Uh-huh . 
+B|41| M: What [do] [you] [, _I] do_ [you] ? 
+A|42| A: [I] mean , [we're] within walking distance [of] , [of] stores [and] shops _so_ [I do] . Now [, [I] think] [, um ,] basically , _is your_ motive simply [, um ,] health or because [you] enjoy [it] ? 
+B|43| M: i . [think] [it] [can] . [it] . show [up] [and] flag [as] positive 
+A|44| A: [Oh ,] [yeah] , I'd [do] [it] , I'd use [it] [for] both . The [nice] thing [about] autocrossing _is_ _you can ,_ _you can_ [do] both . 
+B|45| M:  
+A|46| A: If [I] eat very [much] sugar , boy , just does something . 
+B|47| M:  ... 
+A|48| A: _Yeah [,_ uh ,] _I'm_ [in] [, uh ,] New York . 
+B|49| M: Well [, um ,] we've [had] an idea [for a] plot , [so] [I'm] not [too] sure . 
+A|50| A: when they're decreasing [some] [of the] military spending , [some] [of] _that_ money has gone into [the] Peace Corps 
+B|51| M: [I] 
+A|52| A: Because one [of] my neighbors [, uh ,] did _that_ [in] Pittsburgh , from Pittsburgh . 
+B|53| M: [Yeah ,] but you're [in the] kitchen . 
+A|54| A: Uh-huh . 
+B|55| M: [I think] [so] . Let's see 
+A|56| A: Right . [I] know , [how] we [and] straighten [up] all these [twisted people] before [they] [do] something terrible , 
+B|57| M: i dont [think] [you can ,] [they] arent [really] [that] good . 
+A|58| A: [I] know . 
+B|59| M: [you] . 
+B|60| M: What [is your] major crime ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Oh , the movie was a joke compared to , I mean , because Tom Wolfe is so perceptive , when it comes to , you know , pinpointing , uh , society's ills and , things like that and just nailing people to the wall and exposing things
+	Free: Pattern=you, Pattern=people, Pattern=to the, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=was, Pattern=that, Pattern=so, Pattern=, I, Pattern=a, Pattern=it, Pattern=and, Pattern=Oh ,, Pattern=is
+	Constrained: Pattern=I, Pattern=uh ,, Pattern=the, Pattern=Oh, Pattern=to
+Turn ID=1| B | M : Do you watch the videos ?
+	Free: Pattern=the, Pattern=you
+	Constrained: 
+Turn ID=2| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=3| B | M : It's a car .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=4| A | A : Uh , we , we tended to want to keep on giving lavish , gifts as , we had done before .
+	Free: Pattern=had, Pattern=as, Pattern=to
+	Constrained: 
+Turn ID=5| B | M : They're a bunch of twisted people .
+	Free: Pattern=twisted people, Pattern=a, Pattern=of
+	Constrained: Pattern=people
+Turn ID=6| A | A : Right . Right . Uh-huh . Especially with like a lot of the different organizations now like , you know , Pro-Life and , and uh , Choice in , in the special interest groups maybe um , like amnesty .
+	Free: Pattern=um ,, Pattern=you, Pattern=a, Pattern=and, Pattern=in the, Pattern=in, Pattern=uh ,, Pattern=, and, Pattern=of the
+	Constrained: Pattern=the, Pattern=of, Pattern=and, Pattern=in
+Turn ID=7| B | M : It was in the middle of the night
+	Free: Pattern=in the, Pattern=of the, Pattern=was
+	Constrained: Pattern=the, Pattern=of, Pattern=in
+Turn ID=8| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : Oh , that's good .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=10| A | A : Yeah . Right .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=11| B | M : I think it's a bit too far .
+	Free: Pattern=I think, Pattern=a, Pattern=too
+	Constrained: Pattern=I, Pattern=think
+Turn ID=12| A | A : Really ?
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : And that's why we're in the market for houses , huh ?
+	Free: Pattern=in the, Pattern=for, Pattern=we're
+	Constrained: Pattern=the, Pattern=in
+Turn ID=14| A | A : I want to believe they go into other countries and teach them how to do things like farm , uh , dig their own wells , set up , their schools .
+	Free: Pattern=they, Pattern=do, Pattern=how, Pattern=and, Pattern=I, Pattern=, uh ,, Pattern=up, Pattern=to
+	Constrained: Pattern=uh ,
+Turn ID=15| B | M : You should , but you have no idea what you're talking about .
+	Free: Pattern=you have, Pattern=about
+	Constrained: Pattern=have, Pattern=you
+Turn ID=16| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=17| B | M : She's a human .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=18| A | A : Yes .
+	Free: Pattern=Yes .
+	Constrained: 
+Turn ID=19| B | M : I dunno .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=20| A | A : Yeah , well , we had a wonderful
+	Free: Pattern=Yeah ,, Pattern=a, Pattern=had
+	Constrained: Pattern=Yeah
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : Not much , but they have some
+	Free: Pattern=some, Pattern=much, Pattern=have, Pattern=they
+	Constrained: 
+Turn ID=24| A | A : Okay .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : Yes .
+	Free: Pattern=Yes .
+	Constrained: 
+Turn ID=26| A | A : So you just have to , to handle it until he gets home
+	Free: Pattern=have to, Pattern=you, Pattern=it, Pattern=to
+	Constrained: Pattern=have, Pattern=to
+Turn ID=27| B | M : Huh . Well , that's interesting .
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : Yeah , I am I need it , too , otherwise ,
+	Free: Pattern=, I, Pattern=I, Pattern=Yeah ,, Pattern=it, Pattern=too
+	Constrained: Pattern=I, Pattern=Yeah
+Turn ID=29| B | M : That's not really how it works .
+	Free: Pattern=how, Pattern=it, Pattern=really
+	Constrained: 
+Turn ID=30| A | A : Uh , in parts . I mean you couldn't , you really couldn't use it for a room .
+	Free: Pattern=you, Pattern=it, Pattern=I, Pattern=in, Pattern=really, Pattern=for a
+	Constrained: Pattern=for, Pattern=a
+Turn ID=31| B | M : We have to look to the future .
+	Free: Pattern=have to, Pattern=to the
+	Constrained: Pattern=have, Pattern=the, Pattern=to
+Turn ID=32| A | A : Yeah . One nice thing with onions and , and bell peppers at least you can chop them and freeze them if you have , you know , too many .
+	Free: Pattern=you, Pattern=nice, Pattern=you can, Pattern=you have, Pattern=, and, Pattern=Yeah, Pattern=and, Pattern=too
+	Constrained: Pattern=have, Pattern=can, Pattern=you, Pattern=and
+Turn ID=33| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=34| A | A : So , uh , I ,
+	Free: Pattern=, uh ,, Pattern=, I
+	Constrained: Pattern=uh ,, Pattern=I
+Turn ID=35| B | M : We are , uh , um , friends .
+	Free: Pattern=, uh ,, Pattern=, um ,
+	Constrained: Pattern=uh ,, Pattern=um ,
+Turn ID=36| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=37| B | M : Oh yeah .
+	Free: Pattern=yeah, Pattern=Oh
+	Constrained: 
+Turn ID=38| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : They have some nice beaches , and a big aquarium .
+	Free: Pattern=have, Pattern=a, Pattern=nice, Pattern=some, Pattern=, and
+	Constrained: Pattern=and
+Turn ID=40| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : What do you , I do you ?
+	Free: Pattern=I do, Pattern=, I, Pattern=you, Pattern=do
+	Constrained: Pattern=I, Pattern=do
+Turn ID=42| A | A : I mean , we're within walking distance of , of stores and shops so I do . Now , I think , um , basically , is your motive simply , um , health or because you enjoy it ?
+	Free: Pattern=of, Pattern=, um ,, Pattern=, I, Pattern=I, Pattern=I do, Pattern=I think, Pattern=we're, Pattern=so, Pattern=you, Pattern=is your, Pattern=it, Pattern=and
+	Constrained: Pattern=um ,, Pattern=do, Pattern=I, Pattern=think, Pattern=is
+Turn ID=43| B | M : i . think it can . it . show up and flag as positive
+	Free: Pattern=as, Pattern=can, Pattern=think, Pattern=up, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=44| A | A : Oh , yeah , I'd do it , I'd use it for both . The nice thing about autocrossing is you can , you can do both .
+	Free: Pattern=do, Pattern=you can, Pattern=about, Pattern=you can ,, Pattern=nice, Pattern=for, Pattern=it, Pattern=yeah, Pattern=Oh ,, Pattern=is
+	Constrained: Pattern=you, Pattern=can, Pattern=Oh, Pattern=you can
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : If I eat very much sugar , boy , just does something .
+	Free: Pattern=I, Pattern=much
+	Constrained: 
+Turn ID=47| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=48| A | A : Yeah , uh , I'm in , uh , New York .
+	Free: Pattern=, uh ,, Pattern=Yeah ,, Pattern=I'm, Pattern=in
+	Constrained: Pattern=uh ,, Pattern=Yeah
+Turn ID=49| B | M : Well , um , we've had an idea for a plot , so I'm not too sure .
+	Free: Pattern=I'm, Pattern=, um ,, Pattern=too, Pattern=had, Pattern=for a, Pattern=so
+	Constrained: Pattern=um ,, Pattern=for, Pattern=a
+Turn ID=50| A | A : when they're decreasing some of the military spending , some of that money has gone into the Peace Corps
+	Free: Pattern=of, Pattern=some, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=the, Pattern=of
+Turn ID=51| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=52| A | A : Because one of my neighbors , uh , did that in Pittsburgh , from Pittsburgh .
+	Free: Pattern=, uh ,, Pattern=of, Pattern=that, Pattern=in
+	Constrained: Pattern=uh ,
+Turn ID=53| B | M : Yeah , but you're in the kitchen .
+	Free: Pattern=in the, Pattern=Yeah ,
+	Constrained: Pattern=the, Pattern=Yeah, Pattern=in
+Turn ID=54| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=55| B | M : I think so . Let's see
+	Free: Pattern=I think, Pattern=so
+	Constrained: Pattern=I, Pattern=think
+Turn ID=56| A | A : Right . I know , how we and straighten up all these twisted people before they do something terrible ,
+	Free: Pattern=twisted people, Pattern=they, Pattern=do, Pattern=how, Pattern=and, Pattern=I, Pattern=up
+	Constrained: Pattern=people
+Turn ID=57| B | M : i dont think you can , they arent really that good .
+	Free: Pattern=they, Pattern=think, Pattern=really, Pattern=you can ,, Pattern=that
+	Constrained: Pattern=you can, Pattern=can, Pattern=you
+Turn ID=58| A | A : I know .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=59| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=60| B | M : What is your major crime ?
+	Free: Pattern=is your
+	Constrained: Pattern=is

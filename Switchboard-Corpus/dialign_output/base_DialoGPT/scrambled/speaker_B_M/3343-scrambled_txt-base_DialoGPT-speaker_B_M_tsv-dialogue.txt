@@ -1,0 +1,199 @@
+A|0| B: But _I_ _mean_ _it_ doesn't give _you_ trouble ? 
+B|1| M: Um _, we don't _,_ uh _,_ we_ _have_ _them_ _in_ _the_ states 
+A|2| B: Yeah , yeah , but [, uh _,] it's_ just _, it's_ just something _that_ , _you_ _know ,_ _my_ theory _is ,_ _you_ _know ,_ when , when _you_ [have] kids _and_ all _you_ , _you want_ to _do_ , well , _what_ I'll _do_ _is ,_ _you_ _know ,_ _like_ , _I_ _mean_ , _you_ might [have] problems , but _it's not_ your kids' problems _you_ _know ,_ 
+B|3| M: They ,. 
+A|4| B: Okay , nice speaking to _you ._ 
+B|5| M: _Oh_ . _Well ,_ how old _are_ [you] ? 
+A|6| B: _it's not_ step for step . 
+B|7| M: Yes . A cave ? 
+A|8| B: _Oh ,_ _I_ . 
+B|9| M: [I] think _the_ question [is ,] why ? 
+A|10| B: So _that_ , _that_ works out good . 
+B|11| M: I'm confused . How many playoff games [have] _they_ won ? 
+A|12| B: Uh-huh . 
+B|13| M: Uuhh . _Uh [,_ [it's] not] [like] _they_ _are_ doing anything . 
+A|14| B: _You_ _too ._ 
+B|15| M: [I] think [it] _was_ _a lot_ _more_ than [that] . 
+A|16| B: Surely , there's _and_ end to , [the] situation . 
+B|17| M: helicop . Iadays , 's , [too .] 's . venge .,... IThat 
+A|18| B: Yeah . And [it's not] , [you] _know [,_ we don't] promote [it] [a lot] outside [the] community because [we don't] _want_ recognition for [it] , [you] _know_ so much as [, we] just _want_ to help _people_ out . 
+B|19| M:  ... 
+A|20| B: [Uh ,] _what_ I've gotten into [more] recently _are the_ tools to use [them] . Have [you] , 
+B|21| M: I'm [not] sure [you] _understand_ [what] tape means . 
+A|22| B: But [we don't] farm . 
+B|23| M: [I] think [you] [mean] [the] half of [the] fun . 
+A|24| B: Uh-huh . Uh-huh . 
+B|25| M: [I] think [you] [mean] [that] . 
+A|26| B: Yeah , [I] always said _if_ [I] [Well ,] [I] always said _if_ [I] died I'd come back as [a] dog 
+B|27| M:  , [and] , 
+A|28| B: Right . 
+B|29| M: [You] can [have] [my] daughter [if] [you want] . 
+A|30| B: Yeah [, we don't [,] we don't ,] um , use aluminum cans , 
+B|31| M: You're _right_ . 
+A|32| B: Right . _Oh ,_ [I] [understand] 
+B|33| M: [Uh ,] where [are the] [people] from ? 
+A|34| B: _Oh ,_ [is] [that] [right] ? 
+B|35| M: [I] [know ,] [right] . 
+A|36| B: Uh-huh . 
+B|37| M: I'm from Ohio . 
+A|38| B: Okay . 
+B|39| M: I'm [not] planning on putting anything _in_ [it] . 
+A|40| B: Me [too .] 
+B|41| M: [You] can [do] [that] ?!? 
+A|42| B: And , Uh-huh . Uh-huh . Now [the] interior , okay , [I] [don't] care about [the] interior just as long as [it's not] black or red . 
+B|43| M: [Oh [,] uh ,] Grapevine ? 
+A|44| B: We [, we] found [that] [in] Jamaica . It [was] [the] same way , [that] [people] would come up [and] try [and] sell [you] , well try [and] sell drugs [and] things [like] [that] 
+B|45| M: She's [a lot] [like] [you .] 
+A|46| B: Uh-huh . 
+B|47| M:  
+A|48| B: And as far as [like] [them] [, uh ,] entertaining [the] rights [that] [they] should [have] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : But I mean it doesn't give you trouble ?
+	Free: Pattern=I, Pattern=it, Pattern=mean, Pattern=you
+	Constrained: 
+Turn ID=1| B | M : Um , we don't , uh , we have them in the states
+	Free: Pattern=have, Pattern=, we don't ,, Pattern=, we, Pattern=in, Pattern=, uh ,, Pattern=the, Pattern=them
+	Constrained: Pattern=don't, Pattern=, we don't, Pattern=we don't, Pattern=, we
+Turn ID=2| A | B : Yeah , yeah , but , uh , it's just , it's just something that , you know , my theory is , you know , when , when you have kids and all you , you want to do , well , what I'll do is , you know , like , I mean , you might have problems , but it's not your kids' problems you know ,
+	Free: Pattern=know ,, Pattern=you, Pattern=what, Pattern=do, Pattern=and, Pattern=I, Pattern=, it's, Pattern=is ,, Pattern=like, Pattern=, uh ,, Pattern=you want, Pattern=that, Pattern=have, Pattern=mean, Pattern=it's not, Pattern=my
+	Constrained: Pattern=want, Pattern=you, Pattern=know, Pattern=is, Pattern=not
+Turn ID=3| B | M : They ,.
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : Okay , nice speaking to you .
+	Free: Pattern=you .
+	Constrained: Pattern=you
+Turn ID=5| B | M : Oh . Well , how old are you ?
+	Free: Pattern=Well ,, Pattern=are, Pattern=you, Pattern=Oh
+	Constrained: 
+Turn ID=6| A | B : it's not step for step .
+	Free: Pattern=it's not
+	Constrained: Pattern=not
+Turn ID=7| B | M : Yes . A cave ?
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : Oh , I .
+	Free: Pattern=Oh ,, Pattern=I
+	Constrained: Pattern=Oh
+Turn ID=9| B | M : I think the question is , why ?
+	Free: Pattern=is ,, Pattern=I, Pattern=the
+	Constrained: Pattern=is
+Turn ID=10| A | B : So that , that works out good .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=11| B | M : I'm confused . How many playoff games have they won ?
+	Free: Pattern=they, Pattern=have
+	Constrained: 
+Turn ID=12| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Uuhh . Uh , it's not like they are doing anything .
+	Free: Pattern=they, Pattern=are, Pattern=like, Pattern=it's not, Pattern=, it's, Pattern=Uh ,
+	Constrained: Pattern=not
+Turn ID=14| A | B : You too .
+	Free: Pattern=too ., Pattern=You
+	Constrained: 
+Turn ID=15| B | M : I think it was a lot more than that .
+	Free: Pattern=more, Pattern=it, Pattern=I, Pattern=a lot, Pattern=was, Pattern=that
+	Constrained: Pattern=a
+Turn ID=16| A | B : Surely , there's and end to , the situation .
+	Free: Pattern=the, Pattern=and
+	Constrained: 
+Turn ID=17| B | M : helicop . Iadays , 's , too . 's . venge .,... IThat
+	Free: Pattern=too .
+	Constrained: 
+Turn ID=18| A | B : Yeah . And it's not , you know , we don't promote it a lot outside the community because we don't want recognition for it , you know so much as , we just want to help people out .
+	Free: Pattern=know ,, Pattern=want, Pattern=you, Pattern=people, Pattern=know, Pattern=the, Pattern=a lot, Pattern=it's not, Pattern=, we don't, Pattern=we don't, Pattern=it, Pattern=, we
+	Constrained: Pattern=a, Pattern=, we, Pattern=know, Pattern=don't, Pattern=not, Pattern=we don't
+Turn ID=19| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : Uh , what I've gotten into more recently are the tools to use them . Have you ,
+	Free: Pattern=more, Pattern=you, Pattern=what, Pattern=are the, Pattern=Uh ,, Pattern=them
+	Constrained: Pattern=are, Pattern=the
+Turn ID=21| B | M : I'm not sure you understand what tape means .
+	Free: Pattern=what, Pattern=not, Pattern=you, Pattern=understand
+	Constrained: 
+Turn ID=22| A | B : But we don't farm .
+	Free: Pattern=we don't
+	Constrained: Pattern=don't
+Turn ID=23| B | M : I think you mean the half of the fun .
+	Free: Pattern=I, Pattern=the, Pattern=mean, Pattern=you
+	Constrained: 
+Turn ID=24| A | B : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : I think you mean that .
+	Free: Pattern=I, Pattern=that, Pattern=mean, Pattern=you
+	Constrained: 
+Turn ID=26| A | B : Yeah , I always said if I Well , I always said if I died I'd come back as a dog
+	Free: Pattern=Well ,, Pattern=if, Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=27| B | M :  , and ,
+	Free: Pattern=and
+	Constrained: 
+Turn ID=28| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : You can have my daughter if you want .
+	Free: Pattern=have, Pattern=if, Pattern=You, Pattern=you want, Pattern=my
+	Constrained: Pattern=you, Pattern=want
+Turn ID=30| A | B : Yeah , we don't , we don't , um , use aluminum cans ,
+	Free: Pattern=, we don't ,
+	Constrained: Pattern=don't, Pattern=, we don't, Pattern=we don't, Pattern=, we
+Turn ID=31| B | M : You're right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=32| A | B : Right . Oh , I understand
+	Free: Pattern=Oh ,, Pattern=I, Pattern=understand
+	Constrained: Pattern=Oh
+Turn ID=33| B | M : Uh , where are the people from ?
+	Free: Pattern=are the, Pattern=Uh ,, Pattern=people
+	Constrained: Pattern=are, Pattern=the
+Turn ID=34| A | B : Oh , is that right ?
+	Free: Pattern=Oh ,, Pattern=that, Pattern=right, Pattern=is
+	Constrained: Pattern=Oh
+Turn ID=35| B | M : I know , right .
+	Free: Pattern=know ,, Pattern=I, Pattern=right
+	Constrained: Pattern=know
+Turn ID=36| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : I'm from Ohio .
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : I'm not planning on putting anything in it .
+	Free: Pattern=not, Pattern=it, Pattern=in
+	Constrained: 
+Turn ID=40| A | B : Me too .
+	Free: Pattern=too .
+	Constrained: 
+Turn ID=41| B | M : You can do that ?!?
+	Free: Pattern=that, Pattern=do, Pattern=You
+	Constrained: 
+Turn ID=42| A | B : And , Uh-huh . Uh-huh . Now the interior , okay , I don't care about the interior just as long as it's not black or red .
+	Free: Pattern=it's not, Pattern=I, Pattern=the, Pattern=don't
+	Constrained: Pattern=not
+Turn ID=43| B | M : Oh , uh , Grapevine ?
+	Free: Pattern=, uh ,, Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=44| A | B : We , we found that in Jamaica . It was the same way , that people would come up and try and sell you , well try and sell drugs and things like that
+	Free: Pattern=you, Pattern=people, Pattern=in, Pattern=like, Pattern=the, Pattern=was, Pattern=that, Pattern=and, Pattern=, we
+	Constrained: 
+Turn ID=45| B | M : She's a lot like you .
+	Free: Pattern=a lot, Pattern=you ., Pattern=like
+	Constrained: Pattern=a, Pattern=you
+Turn ID=46| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : And as far as like them , uh , entertaining the rights that they should have .
+	Free: Pattern=have, Pattern=they, Pattern=like, Pattern=, uh ,, Pattern=the, Pattern=them, Pattern=that
+	Constrained: 

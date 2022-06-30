@@ -1,0 +1,183 @@
+B|0| M: _I_ _walk ._ 
+A|1| B: but Washington is one _of_ my favorite places _to_ visit . Uh , my daughter lives _in_ Arlington , and when [I] _go to_ visit her _, I_ love _to_ get out on _that_ _bike_ trail , and either ride _the bike_ , oh , gosh , _you_ _can_ ride _a_ _bike_ practically all _the_ way _to_ Southern Virginia or just get out and _walk _,_ uh ,_ or even jog _a_ little , although [I] _don't_ _do_ _that_ regularly . 
+B|2| M:  
+A|3| B: But Washington's _a_ great _place to_ _do_ _that_ . 
+B|4| M: _So_ what ? 
+A|5| B: Uh-huh . 
+B|6| M: He's [the] canal 
+A|7| B: Right . 
+B|8| M: _Do you_ _mean_ [the bike] path ? 
+A|9| B: [Do _you] _live_ in_ [the] District ? 
+B|10| M: You [can] _do it_ ! 
+A|11| B: Because _I think_ there're _so_ many parts _of_ [the] District where _it's_ not very _safe_ _to_ get out and [walk .] 
+B|12| M: Why would anyone [go to] DC ? 
+A|13| B: Uh-huh . 
+B|14| M: _I mean ,_ if [you] can't _find_ [a] [safe] [place to] [walk ,] _then_ [it's] no bueno . 
+A|15| B: Well , [it's] _, uh ,_ [it's] really both . _I'm_ certainly driven by [the] desire [to] maintain my weight and be healthy and be _in_ shape , and _, uh ,_ and most _of_ [the] time [I] enjoy [it] . Sometimes [I] _don't_ , but [I] feel _that_ _, uh ,_ _that_ [the] discipline [it] affords me when [I] [do it] when [I] _don't_ want [to] is also worth something . 
+B|16| M:  ... 
+A|17| B: And [I] often [find] _that_ even when [I] _don't_ feel _that_ much like exercising , like I'll be really tired , and I'll start swimming , and I'll , and I'll actually get energy . And I'll be , _have_ much more energy when _I'm_ done than when [I] started _, [I_ mean _,] I_ just feel great . That happens [to] me probably one _in_ four or five times _that_ [I] swim . 
+B|18| M: [you] 
+A|19| B: And that's really [a] terrific feeling , because [you] just [go] _there_ at [the] end _of_ [the] day , and [you] figure , God _, I'm_ ready for bed and [you] exercise and [then] , [it's] sort _of_ painful for [a] while , 
+B|20| M: [that] 
+A|21| B: but by [the] time [you] get done [you] feeling really terrific . 
+B|22| M: [I think] [of] course . 
+A|23| B: Yeah , yeah . 
+B|24| M:  ... 
+A|25| B: [So] , [can] [I] just ask [you] , _are_ [you] Canadian ? 
+B|26| M: No [, I'm] sorry . 
+A|27| B: _Philadelphia_ ? 
+B|28| M: Where [do] [you live] ? 
+A|29| B: [I'm] trying [to] because [you] _have_ [a] , [you] _have_ one _funny vowel_ that's probably going [to] drive [the] T [I] _people_ crazy . 
+B|30| M: It's [a] [funny vowel] . 
+A|31| B: Say out , instead [of] out [you] say out . Did [you] know [that] ? 
+B|32| M: TIL [there] [are] [people] [in] [Philadelphia] 
+A|33| B: Huh . 
+B|34| M: [I] [, uh ,] [don't] [think] [so] . 
+A|35| B: Huh . [I] see . [I] know this isn't on our topic , but where did [you] grow up _in California_ ? 
+B|36| M: Nope . You [don't] . 
+A|37| B: Oh , okay , because [I] grew up [in] North Hollywood , _California_ went [to] U C L A and all [that] . 
+B|38| M: [I] [live [in] California] . 
+A|39| B: Yes . 
+B|40| M: Is [that] [a] good thing ? 
+A|41| B: Well , same here . Thanks for calling . 
+B|42| M: I've been [in] [a] few [, I] [have] no idea what [I'm] doing . 
+A|43| B: Bye . 
+B|44| M: See [you] . Later . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I walk .
+	Free: Pattern=walk ., Pattern=I
+	Constrained: 
+Turn ID=1| A | B : but Washington is one of my favorite places to visit . Uh , my daughter lives in Arlington , and when I go to visit her , I love to get out on that bike trail , and either ride the bike , oh , gosh , you can ride a bike practically all the way to Southern Virginia or just get out and walk , uh , or even jog a little , although I don't do that regularly .
+	Free: Pattern=go to, Pattern=of, Pattern=you, Pattern=I, Pattern=can, Pattern=bike, Pattern=in, Pattern=, uh ,, Pattern=don't, Pattern=to, Pattern=that, Pattern=do, Pattern=, I, Pattern=a, Pattern=walk ,, Pattern=the bike, Pattern=the
+	Constrained: Pattern=go, Pattern=I, Pattern=bike, Pattern=the, Pattern=to
+Turn ID=2| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=3| A | B : But Washington's a great place to do that .
+	Free: Pattern=place to, Pattern=a, Pattern=do, Pattern=that
+	Constrained: Pattern=to
+Turn ID=4| B | M : So what ?
+	Free: Pattern=So
+	Constrained: 
+Turn ID=5| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : He's the canal
+	Free: Pattern=the
+	Constrained: 
+Turn ID=7| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : Do you mean the bike path ?
+	Free: Pattern=the bike, Pattern=Do you, Pattern=mean
+	Constrained: Pattern=bike, Pattern=you, Pattern=the
+Turn ID=9| A | B : Do you live in the District ?
+	Free: Pattern=you live, Pattern=Do you, Pattern=live in, Pattern=the
+	Constrained: Pattern=in, Pattern=you
+Turn ID=10| B | M : You can do it !
+	Free: Pattern=do it, Pattern=can
+	Constrained: Pattern=do, Pattern=it
+Turn ID=11| A | B : Because I think there're so many parts of the District where it's not very safe to get out and walk .
+	Free: Pattern=of, Pattern=safe, Pattern=I think, Pattern=the, Pattern=it's, Pattern=so, Pattern=to, Pattern=walk .
+	Constrained: Pattern=I, Pattern=think
+Turn ID=12| B | M : Why would anyone go to DC ?
+	Free: Pattern=go to
+	Constrained: Pattern=go, Pattern=to
+Turn ID=13| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : I mean , if you can't find a safe place to walk , then it's no bueno .
+	Free: Pattern=you, Pattern=I mean ,, Pattern=then, Pattern=a, Pattern=walk ,, Pattern=safe, Pattern=place to, Pattern=it's, Pattern=find
+	Constrained: Pattern=I, Pattern=to, Pattern=mean
+Turn ID=15| A | B : Well , it's , uh , it's really both . I'm certainly driven by the desire to maintain my weight and be healthy and be in shape , and , uh , and most of the time I enjoy it . Sometimes I don't , but I feel that , uh , that the discipline it affords me when I do it when I don't want to is also worth something .
+	Free: Pattern=of, Pattern=I'm, Pattern=it, Pattern=I, Pattern=in, Pattern=do it, Pattern=, uh ,, Pattern=the, Pattern=don't, Pattern=to, Pattern=that, Pattern=it's
+	Constrained: Pattern=do, Pattern=it
+Turn ID=16| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=17| A | B : And I often find that even when I don't feel that much like exercising , like I'll be really tired , and I'll start swimming , and I'll , and I'll actually get energy . And I'll be , have much more energy when I'm done than when I started , I mean , I just feel great . That happens to me probably one in four or five times that I swim .
+	Free: Pattern=I'm, Pattern=have, Pattern=, I, Pattern=I, Pattern=in, Pattern=I mean ,, Pattern=don't, Pattern=to, Pattern=that, Pattern=find
+	Constrained: Pattern=I, Pattern=mean
+Turn ID=18| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=19| A | B : And that's really a terrific feeling , because you just go there at the end of the day , and you figure , God , I'm ready for bed and you exercise and then , it's sort of painful for a while ,
+	Free: Pattern=of, Pattern=you, Pattern=go, Pattern=there, Pattern=the, Pattern=, I'm, Pattern=it's, Pattern=then, Pattern=a
+	Constrained: Pattern=I'm
+Turn ID=20| B | M : that
+	Free: Pattern=that
+	Constrained: 
+Turn ID=21| A | B : but by the time you get done you feeling really terrific .
+	Free: Pattern=you, Pattern=the
+	Constrained: 
+Turn ID=22| B | M : I think of course .
+	Free: Pattern=I think, Pattern=of
+	Constrained: Pattern=I, Pattern=think
+Turn ID=23| A | B : Yeah , yeah .
+	Free: 
+	Constrained: 
+Turn ID=24| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=25| A | B : So , can I just ask you , are you Canadian ?
+	Free: Pattern=you, Pattern=So, Pattern=can, Pattern=are, Pattern=I
+	Constrained: 
+Turn ID=26| B | M : No , I'm sorry .
+	Free: Pattern=, I'm
+	Constrained: Pattern=I'm
+Turn ID=27| A | B : Philadelphia ?
+	Free: Pattern=Philadelphia
+	Constrained: 
+Turn ID=28| B | M : Where do you live ?
+	Free: Pattern=you live, Pattern=do
+	Constrained: Pattern=you
+Turn ID=29| A | B : I'm trying to because you have a , you have one funny vowel that's probably going to drive the T I people crazy .
+	Free: Pattern=funny vowel, Pattern=a, Pattern=I, Pattern=the, Pattern=to, Pattern=you, Pattern=I'm, Pattern=people, Pattern=have
+	Constrained: 
+Turn ID=30| B | M : It's a funny vowel .
+	Free: Pattern=funny vowel, Pattern=a
+	Constrained: 
+Turn ID=31| A | B : Say out , instead of out you say out . Did you know that ?
+	Free: Pattern=you, Pattern=that, Pattern=of
+	Constrained: 
+Turn ID=32| B | M : TIL there are people in Philadelphia
+	Free: Pattern=there, Pattern=are, Pattern=in, Pattern=Philadelphia, Pattern=people
+	Constrained: 
+Turn ID=33| A | B : Huh .
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : I , uh , don't think so .
+	Free: Pattern=I, Pattern=think, Pattern=, uh ,, Pattern=don't, Pattern=so
+	Constrained: 
+Turn ID=35| A | B : Huh . I see . I know this isn't on our topic , but where did you grow up in California ?
+	Free: Pattern=in California, Pattern=I, Pattern=you
+	Constrained: Pattern=in, Pattern=California
+Turn ID=36| B | M : Nope . You don't .
+	Free: Pattern=don't
+	Constrained: 
+Turn ID=37| A | B : Oh , okay , because I grew up in North Hollywood , California went to U C L A and all that .
+	Free: Pattern=I, Pattern=California, Pattern=in, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=38| B | M : I live in California .
+	Free: Pattern=in California, Pattern=live in, Pattern=I
+	Constrained: Pattern=in, Pattern=California
+Turn ID=39| A | B : Yes .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : Is that a good thing ?
+	Free: Pattern=a, Pattern=that
+	Constrained: 
+Turn ID=41| A | B : Well , same here . Thanks for calling .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : I've been in a few , I have no idea what I'm doing .
+	Free: Pattern=I'm, Pattern=have, Pattern=in, Pattern=, I, Pattern=a
+	Constrained: Pattern=I
+Turn ID=43| A | B : Bye .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : See you . Later .
+	Free: Pattern=you
+	Constrained: 

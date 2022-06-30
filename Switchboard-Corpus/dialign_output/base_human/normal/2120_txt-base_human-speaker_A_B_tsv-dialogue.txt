@@ -1,0 +1,79 @@
+B|0| B: Back by _that ._ 
+A|1| A: The , uh , uh _, you know_ there are _so_ many ramifications _to_ this entire thing _of_ woman , how women _have_ changed , 
+B|2| B: Uh-huh . 
+A|3| A: uh , look at _them_ , _in_ England , Margaret Thatcher _was_ prime minister , uh , Indira Ghandi , uh , _in_ India , 
+B|4| B: Uh-huh . 
+A|5| A: _so_ many , uh , women are heads _of_ state and _I _,_ you know ,_ _we_ , _we_ keep saying oh yes , _we_ feel some day a woman will be president . But , uh _, I_ _have_ some question , whether or _not_ _they_ will ever really get around _to_ [that .] _I_ think we'll _have_ a black president _before _we_ have_ a women president . 
+B|6| B: Uh-huh . 
+A|7| A: And , uh _, I_ don't _know_ whether that's bad or good _, it's_ just a point [that] _I_ _have_ observed _that we_ , 
+B|8| B: Yeah [, [I] [,] [I] ,] yeah [, [I] [,] [I] [,] I] truly believe [that] , [that] [before] [that] , [that [we] have] [to] address the racial , racial issues [in] the United States , [before we] can go anywhere . 
+A|9| A: Yes . Right . 
+B|10| B: Um , because it is [so] [, you know [,] it's] , 
+A|11| A: Uh , oh . 
+B|12| B: Hello . 
+A|13| A: Uh , oh [, I] think , we're , we're supposed [to] hang up . 
+B|14| B: Yeah , well it wasn't the matter [of] wealth , it [was] the matter [that] [they] were [not] wealthy , [that] made [them] equal . 
+A|15| A: Yes . 
+B|16| B: Well , I'll talk [to] [you] later , 
+A|17| A: All right . Thank [you] . Bye , bye . 
+B|18| B: Okay . Bye-bye . 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : Back by that .
+	Free: Pattern=that .
+	Constrained: Pattern=that
+Turn ID=1| A | A : The , uh , uh , you know there are so many ramifications to this entire thing of woman , how women have changed ,
+	Free: Pattern=of, Pattern=have, Pattern=, you know, Pattern=to, Pattern=so
+	Constrained: Pattern=you, Pattern=know
+Turn ID=2| B | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : uh , look at them , in England , Margaret Thatcher was prime minister , uh , Indira Ghandi , uh , in India ,
+	Free: Pattern=them, Pattern=was, Pattern=in
+	Constrained: 
+Turn ID=4| B | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : so many , uh , women are heads of state and I , you know , we , we keep saying oh yes , we feel some day a woman will be president . But , uh , I have some question , whether or not they will ever really get around to that . I think we'll have a black president before we have a women president .
+	Free: Pattern=I ,, Pattern=have, Pattern=they, Pattern=I, Pattern=we have, Pattern=we, Pattern=so, Pattern=not, Pattern=of, Pattern=that ., Pattern=, you know ,, Pattern=, I, Pattern=before we, Pattern=to
+	Constrained: Pattern=you, Pattern=have, Pattern=I, Pattern=, you know, Pattern=know, Pattern=we, Pattern=before, Pattern=that
+Turn ID=6| B | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : And , uh , I don't know whether that's bad or good , it's just a point that I have observed that we ,
+	Free: Pattern=have, Pattern=, I, Pattern=I, Pattern=, it's, Pattern=know, Pattern=that we, Pattern=that
+	Constrained: Pattern=we, Pattern=I, Pattern=that
+Turn ID=8| B | B : Yeah , I , I , yeah , I , I , I truly believe that , that before that , that we have to address the racial , racial issues in the United States , before we can go anywhere .
+	Free: Pattern=I ,, Pattern=, I, Pattern=we have, Pattern=in, Pattern=that we, Pattern=that, Pattern=before, Pattern=before we, Pattern=to
+	Constrained: Pattern=have, Pattern=I, Pattern=we, Pattern=before, Pattern=that
+Turn ID=9| A | A : Yes . Right .
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : Um , because it is so , you know , it's ,
+	Free: Pattern=, you know ,, Pattern=, it's, Pattern=so
+	Constrained: Pattern=, you know, Pattern=you, Pattern=know
+Turn ID=11| A | A : Uh , oh .
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : Hello .
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : Uh , oh , I think , we're , we're supposed to hang up .
+	Free: Pattern=, I, Pattern=to
+	Constrained: Pattern=I
+Turn ID=14| B | B : Yeah , well it wasn't the matter of wealth , it was the matter that they were not wealthy , that made them equal .
+	Free: Pattern=of, Pattern=they, Pattern=was, Pattern=not, Pattern=them, Pattern=that
+	Constrained: 
+Turn ID=15| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : Well , I'll talk to you later ,
+	Free: Pattern=to, Pattern=you
+	Constrained: 
+Turn ID=17| A | A : All right . Thank you . Bye , bye .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=18| B | B : Okay . Bye-bye .
+	Free: 
+	Constrained: 

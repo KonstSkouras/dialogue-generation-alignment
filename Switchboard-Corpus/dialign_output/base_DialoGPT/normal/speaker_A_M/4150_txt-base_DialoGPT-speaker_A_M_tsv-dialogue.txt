@@ -1,0 +1,299 @@
+B|0| M: _I_ am , it's fine . 
+A|1| A: Uh-huh . 
+B|2| M: _I_ mean ... _it_ is ? 
+A|3| A: _No ._ 
+B|4| M: _But_ _I_ _do_ _have_ children . 
+A|5| A: _Yeah ,_ we , we've been married _for_ two _and_ _a_ half years . We've been trying _for_ _about_ two years but no _luck_ yet . 
+B|6| M: I'm sorry . 
+A|7| A: Hopefully , 
+B|8| M: _We_ should try again . 
+A|9| A: Uh-huh . 
+B|10| M: I'm _not_ sure . 
+A|11| A: whispers _to_ someone _in the_ She had another call . She has _just_ three kids , eleven , nine , _and_ eight . 
+B|12| M: She's probably thinking [about] _it ._ 
+A|13| A: Uh-huh . 
+B|14| M: Hi ! How are _you_ ? 
+A|15| A: All right . 
+B|16| M: He's _dead_ . 
+A|17| A: Okay . _That_ keeps [you] _do you_ _have _a_ lot of_ activities _with your_ kids ? 
+B|18| M: He laughs _. Yeah ,_ _I_ think _so_ . 
+A|19| A: Uh-huh . 
+B|20| M: _I_ don't _know_ . _I_ don'' _know_ . 
+A|21| A: Uh-huh . _So_ they're pretty _good_ kids , huh ? 
+B|22| M:  ... 
+A|23| A: [Yeah] . _Well ,_ we had growing up [I] guess [I] _can_ _talk_ [about] us . [We] had nine kids _in_ our family . [We] had eight boys _and_ one _girl_ _. But_ , my Dad _, uh_ , 
+B|24| M:  ... 
+A|25| A: [Yeah] . And _the_ time that my , we spent _with_ our Dad _was_ , he owned his own business [so] we worked _with_ him most _of_ _the_ time . _So_ that's how we spent most _of_ _the_ time _with_ him . 
+B|26| M: How ? 
+A|27| A: [Yeah] . 
+B|28| M: Mormons . Not [a lot of] them . 
+A|29| A: _That_ _was_ [a] [dead] giveaway , huh ? 
+B|30| M: I'm [in] Utah [and] it's _not_ . 
+A|31| A: Uh-huh . 
+B|32| M: [I] don't . 
+A|33| A: _Oh_ . 
+B|34| M: That's [a] nice shirt . 
+A|35| A: Which that , 
+B|36| M: There is [a] [girl] who is _spoiled_ [in the] books . 
+A|37| A: _I was_ going _to_ say , my sister wasn't [spoiled] very much . 
+B|38| M: [I] didn't feel anything 
+A|39| A: [Yeah ,] that's _. But_ , 
+B|40| M: _It's_ [a lot] easier [to] [have a] [good] relationship [with your] siblings than [to] [have] them be [spoiled] . 
+A|41| A: Uh-huh . 
+B|42| M: That's what [I] _said_ . 
+A|43| A: _Oh_ . 
+B|44| M: [Yeah ,] it's [a] common _problem_ . 
+A|45| A: [Yeah] . Uh-huh . 
+B|46| M: [No [.] But] [do you] [talk] [to] [your] parents [about] _it_ ? 
+A|47| A: Uh-huh . 
+B|48| M: You're _not_ aww 
+A|49| A: Uh-huh . 
+B|50| M:  
+A|51| A: [Yeah] . [It's] _like_ [you] [said] _, you_ [know] , [to] each his own . And we're planning on having my _wife_ stay home . And but , 
+B|52| M: Good [luck] [with] [the] rest [of] course ? 
+A|53| A: Uh-huh . 
+B|54| M: [Well ,] if _you're_ happy [with your] [wife] [, you] [can] [have] her . If _not_ , _then_ _you're_ _not_ [a] real woman . 
+A|55| A: [Yeah] . 
+B|56| M: Uhh ... [I] [know] . 
+A|57| A: Uh-huh . 
+B|58| M: [That] is true . 
+A|59| A: Right . 
+B|60| M: You [like] [the] look [of] _it ._ [uh] 
+A|61| A: _Oh_ . Uh-huh . 
+B|62| M: [Yeah ,] it's called motherhood . 
+A|63| A: Uh-huh . 
+B|64| M: That's what [I was] thinking . 
+A|65| A: Uh-huh . 
+B|66| M: [Oh] [, uh] . 
+A|67| A: [Well ,] that's [good] . Sounds [like] [you're] , [have a] handle on [it .] 
+B|68| M: We're [just] _, not_ _really_ _, not_ [a] [good] relationship . 
+A|69| A: Um , no [, not] right now . 
+B|70| M: [So] , [you're] [not] [in the] mood _for a_ date ? 
+A|71| A: Right . [Well ,] we [just] moved down here . [We] used [to] live up _in Seattle_ [for a] couple [of] years . 
+B|72| M: [No] , I'm [in Seattle] . 
+A|73| A: [It's] that's no [problem] here [. Yeah ,] we [really] liked [it] up there but [then] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I am , it's fine .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=1| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : I mean ... it is ?
+	Free: Pattern=it, Pattern=I
+	Constrained: 
+Turn ID=3| A | A : No .
+	Free: Pattern=No .
+	Constrained: Pattern=No
+Turn ID=4| B | M : But I do have children .
+	Free: Pattern=I, Pattern=do, Pattern=But, Pattern=have
+	Constrained: 
+Turn ID=5| A | A : Yeah , we , we've been married for two and a half years . We've been trying for about two years but no luck yet .
+	Free: Pattern=a, Pattern=for, Pattern=and, Pattern=luck, Pattern=about, Pattern=Yeah ,
+	Constrained: Pattern=Yeah
+Turn ID=6| B | M : I'm sorry .
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : Hopefully ,
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : We should try again .
+	Free: Pattern=We
+	Constrained: 
+Turn ID=9| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : I'm not sure .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=11| A | A : whispers to someone in the She had another call . She has just three kids , eleven , nine , and eight .
+	Free: Pattern=in the, Pattern=to, Pattern=just, Pattern=and
+	Constrained: Pattern=in, Pattern=the
+Turn ID=12| B | M : She's probably thinking about it .
+	Free: Pattern=it ., Pattern=about
+	Constrained: Pattern=it
+Turn ID=13| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : Hi ! How are you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=15| A | A : All right .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : He's dead .
+	Free: Pattern=dead
+	Constrained: 
+Turn ID=17| A | A : Okay . That keeps you do you have a lot of activities with your kids ?
+	Free: Pattern=a lot of, Pattern=you, Pattern=have a, Pattern=do you, Pattern=That, Pattern=with your
+	Constrained: Pattern=of, Pattern=you, Pattern=have, Pattern=your, Pattern=a lot, Pattern=with, Pattern=do, Pattern=a
+Turn ID=18| B | M : He laughs . Yeah , I think so .
+	Free: Pattern=. Yeah ,, Pattern=I, Pattern=so
+	Constrained: Pattern=Yeah ,, Pattern=Yeah
+Turn ID=19| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=20| B | M : I don't know . I don'' know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=21| A | A : Uh-huh . So they're pretty good kids , huh ?
+	Free: Pattern=good, Pattern=So
+	Constrained: 
+Turn ID=22| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : Yeah . Well , we had growing up I guess I can talk about us . We had nine kids in our family . We had eight boys and one girl . But , my Dad , uh ,
+	Free: Pattern=, uh, Pattern=and, Pattern=I, Pattern=can, Pattern=about, Pattern=Yeah, Pattern=. But, Pattern=We, Pattern=Well ,, Pattern=in, Pattern=talk, Pattern=girl
+	Constrained: Pattern=uh, Pattern=But
+Turn ID=24| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : Yeah . And the time that my , we spent with our Dad was , he owned his own business so we worked with him most of the time . So that's how we spent most of the time with him .
+	Free: Pattern=of, Pattern=So, Pattern=the, Pattern=with, Pattern=so, Pattern=Yeah, Pattern=was
+	Constrained: 
+Turn ID=26| B | M : How ?
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=28| B | M : Mormons . Not a lot of them .
+	Free: Pattern=a lot of
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=29| A | A : That was a dead giveaway , huh ?
+	Free: Pattern=was, Pattern=a, Pattern=That, Pattern=dead
+	Constrained: 
+Turn ID=30| B | M : I'm in Utah and it's not .
+	Free: Pattern=in, Pattern=not, Pattern=and
+	Constrained: 
+Turn ID=31| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : I don't .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=33| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=34| B | M : That's a nice shirt .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=35| A | A : Which that ,
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : There is a girl who is spoiled in the books .
+	Free: Pattern=in the, Pattern=a, Pattern=girl, Pattern=spoiled
+	Constrained: Pattern=in, Pattern=the
+Turn ID=37| A | A : I was going to say , my sister wasn't spoiled very much .
+	Free: Pattern=I was, Pattern=to, Pattern=spoiled
+	Constrained: Pattern=was, Pattern=I
+Turn ID=38| B | M : I didn't feel anything
+	Free: Pattern=I
+	Constrained: 
+Turn ID=39| A | A : Yeah , that's . But ,
+	Free: Pattern=. But, Pattern=Yeah ,
+	Constrained: Pattern=Yeah, Pattern=But
+Turn ID=40| B | M : It's a lot easier to have a good relationship with your siblings than to have them be spoiled .
+	Free: Pattern=good, Pattern=have, Pattern=have a, Pattern=It's, Pattern=with your, Pattern=spoiled, Pattern=a lot, Pattern=to
+	Constrained: Pattern=a, Pattern=with, Pattern=have, Pattern=your
+Turn ID=41| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : That's what I said .
+	Free: Pattern=I, Pattern=said
+	Constrained: 
+Turn ID=43| A | A : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=44| B | M : Yeah , it's a common problem .
+	Free: Pattern=Yeah ,, Pattern=problem, Pattern=a
+	Constrained: Pattern=Yeah
+Turn ID=45| A | A : Yeah . Uh-huh .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=46| B | M : No . But do you talk to your parents about it ?
+	Free: Pattern=. But, Pattern=about, Pattern=your, Pattern=talk, Pattern=it, Pattern=do you, Pattern=No ., Pattern=to
+	Constrained: Pattern=do, Pattern=you, Pattern=But, Pattern=No
+Turn ID=47| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=48| B | M : You're not aww
+	Free: Pattern=not
+	Constrained: 
+Turn ID=49| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=50| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=51| A | A : Yeah . It's like you said , you know , to each his own . And we're planning on having my wife stay home . And but ,
+	Free: Pattern=you, Pattern=said, Pattern=like, Pattern=to, Pattern=Yeah, Pattern=know, Pattern=, you, Pattern=wife, Pattern=It's
+	Constrained: Pattern=you
+Turn ID=52| B | M : Good luck with the rest of course ?
+	Free: Pattern=with, Pattern=luck, Pattern=the, Pattern=of
+	Constrained: 
+Turn ID=53| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=54| B | M : Well , if you're happy with your wife , you can have her . If not , then you're not a real woman .
+	Free: Pattern=you're, Pattern=have, Pattern=can, Pattern=Well ,, Pattern=, you, Pattern=wife, Pattern=with your, Pattern=not, Pattern=then, Pattern=a
+	Constrained: Pattern=with, Pattern=your, Pattern=you
+Turn ID=55| A | A : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=56| B | M : Uhh ... I know .
+	Free: Pattern=know, Pattern=I
+	Constrained: 
+Turn ID=57| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=58| B | M : That is true .
+	Free: Pattern=That
+	Constrained: 
+Turn ID=59| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=60| B | M : You like the look of it . uh
+	Free: Pattern=of, Pattern=like, Pattern=the, Pattern=uh, Pattern=it .
+	Constrained: Pattern=it
+Turn ID=61| A | A : Oh . Uh-huh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=62| B | M : Yeah , it's called motherhood .
+	Free: Pattern=Yeah ,
+	Constrained: Pattern=Yeah
+Turn ID=63| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=64| B | M : That's what I was thinking .
+	Free: Pattern=I was
+	Constrained: Pattern=was, Pattern=I
+Turn ID=65| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=66| B | M : Oh , uh .
+	Free: Pattern=, uh, Pattern=Oh
+	Constrained: Pattern=uh
+Turn ID=67| A | A : Well , that's good . Sounds like you're , have a handle on it .
+	Free: Pattern=good, Pattern=you're, Pattern=it ., Pattern=have a, Pattern=Well ,, Pattern=like
+	Constrained: Pattern=it, Pattern=a, Pattern=have
+Turn ID=68| B | M : We're just , not really , not a good relationship .
+	Free: Pattern=good, Pattern=just, Pattern=a, Pattern=really, Pattern=, not
+	Constrained: Pattern=not
+Turn ID=69| A | A : Um , no , not right now .
+	Free: Pattern=, not
+	Constrained: Pattern=not
+Turn ID=70| B | M : So , you're not in the mood for a date ?
+	Free: Pattern=you're, Pattern=So, Pattern=in the, Pattern=for a, Pattern=not
+	Constrained: Pattern=in, Pattern=a, Pattern=for, Pattern=the
+Turn ID=71| A | A : Right . Well , we just moved down here . We used to live up in Seattle for a couple of years .
+	Free: Pattern=of, Pattern=just, Pattern=We, Pattern=in Seattle, Pattern=Well ,, Pattern=to, Pattern=for a
+	Constrained: Pattern=in, Pattern=a, Pattern=for
+Turn ID=72| B | M : No , I'm in Seattle .
+	Free: Pattern=in Seattle, Pattern=No
+	Constrained: Pattern=in
+Turn ID=73| A | A : It's that's no problem here . Yeah , we really liked it up there but then
+	Free: Pattern=problem, Pattern=. Yeah ,, Pattern=then, Pattern=it, Pattern=really, Pattern=It's
+	Constrained: Pattern=Yeah ,, Pattern=Yeah

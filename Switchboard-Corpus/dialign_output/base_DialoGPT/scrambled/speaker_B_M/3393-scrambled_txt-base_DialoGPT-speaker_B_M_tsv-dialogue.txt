@@ -1,0 +1,199 @@
+A|0| B: _and_ so _, uh ,_ _that_ , _it's_ kind _of_ _a_ seasonal thing . Three times _a_ year she's _really_ busy doing certain things based on _that_ kind _of_ business , 
+B|1| M: _I know_ . 
+A|2| B: _You_ can give me seventies 
+B|3| M: Hehehe , I'm gonna wait _for_ _the_ next _to_ _be_ ! 
+A|4| B: Yeah . 
+B|5| M: How are _you_ ? 
+A|6| B: Uh , anything 
+B|7| M: You've been gone _for a_ long _time ._ 
+A|8| B: Yes , [I] love [to] cook . 
+B|9| M: _I _know_ ,_ _but_ what will _it_ _be_ ? 
+A|10| B: Yeah . Yeah . _Well ,_ _that_ makes [it] hard though [for] in terms _of_ _, _you_ [know_ ,] family [time] with , with him . 
+B|11| M: How do [you know] ? 
+A|12| B: Oh , super . 
+B|13| M: _I'll_ do [you] think _about_ _it ._ 
+A|14| B: Uh , so [I] guess that's one option . 
+B|15| M: [I] don't think [it] _was_ [that] expensive . 
+A|16| B: Yeah . It [was] [a] , Landmark _is_ [the] one who built [it .] 
+B|17| M: [I] [was] thinking _about_ [it .] 
+A|18| B: That's , 
+B|19| M: You're _, and_ [it's] 
+A|20| B: They've done special stories on [the] news , local news here . 
+B|21| M: Have [you] ever heard _of the_ mountain ? 
+A|22| B: Uh-huh . Huh . 
+B|23| M:  
+A|24| B: [I] [that] true , yeah . Yeah , she's even _got_ , she's _got_ one dog now _and the_ two cats [and] her dog there _is_ , _is_ basically [a] reject , somebody _had_ bought him [, and] wanted him . 
+B|25| M: I'm pretty sure [the] costs [of] replacing _a broken_ unit [is] covered by [the] warranty . 
+A|26| B: Yes 
+B|27| M: i 
+A|28| B: Okay . 
+B|29| M: Moroccans ? Where are [you] ? 
+A|30| B: [but] _, uh ,_ they're , they're trying [to] reinstate [it] _and the_ governor's opposed [to] [it] being [that] _, uh , the_ Democrat [that] he [is] [, and] Mario Cuomo 
+B|31| M: we _did_ aerobiic stuff together [, and] we made some [really] cool stuff 
+A|32| B: bye . 
+B|33| M: [I] dunno . I've always [had] [a] good , I'm 
+A|34| B: Uh-huh , yeah , that's [it] , [I] mean , that's [about] where almost all [of the] fat comes from 
+B|35| M: It's [, uh , _the] [,_ uh] . 
+A|36| B: Okay . 
+B|37| M: I'm [a] student . I've been _to the_ gym [and the] gym . 
+A|38| B: Okay . Uh , [I] use them both here at work [and] at home . 
+B|39| M: [You] 
+A|40| B: Yeah 
+B|41| M: [Well [,] you] can't _, I'll_ , I'm . 
+A|42| B: Right [, and] then [you] get [to] their life story , Oh , they came from [a broken] family 
+B|43| M: I'm pretty sure [I] [got] [a] loan . 
+A|44| B: Right . There [for a] while , [that] would , [that] worked . We've [, uh ,] [I know] [I] have , um [, I'll] stick [to] [uh ,] [to [the] [,] [you] [know] ,] sometimes [I'll] stick [to] [a] certain party , depends on [the] guy . 
+B|45| M: [I'll] burn [it .] 
+A|46| B: [Well ,] if [it's] [a] second offense [, the] punishment should certainly [be] more severe than [a] first offense , because obviously [, the] rehabilitation process [did] not work [the] first [time .] 
+B|47| M:  
+A|48| B: Yeah . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and so , uh , that , it's kind of a seasonal thing . Three times a year she's really busy doing certain things based on that kind of business ,
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=really, Pattern=, uh ,, Pattern=that, Pattern=it's
+	Constrained: Pattern=, uh, Pattern=uh ,
+Turn ID=1| B | M : I know .
+	Free: Pattern=I know
+	Constrained: Pattern=I
+Turn ID=2| A | B : You can give me seventies
+	Free: Pattern=You
+	Constrained: 
+Turn ID=3| B | M : Hehehe , I'm gonna wait for the next to be !
+	Free: Pattern=be, Pattern=the, Pattern=for, Pattern=to
+	Constrained: 
+Turn ID=4| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : How are you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=6| A | B : Uh , anything
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : You've been gone for a long time .
+	Free: Pattern=for a, Pattern=time .
+	Constrained: Pattern=a, Pattern=for, Pattern=time
+Turn ID=8| A | B : Yes , I love to cook .
+	Free: Pattern=I, Pattern=to
+	Constrained: 
+Turn ID=9| B | M : I know , but what will it be ?
+	Free: Pattern=know ,, Pattern=it, Pattern=be, Pattern=but, Pattern=I know
+	Constrained: Pattern=I
+Turn ID=10| A | B : Yeah . Yeah . Well , that makes it hard though for in terms of , you know , family time with , with him .
+	Free: Pattern=time, Pattern=you know, Pattern=for, Pattern=it, Pattern=Well ,, Pattern=, you, Pattern=that, Pattern=of, Pattern=know ,
+	Constrained: Pattern=you
+Turn ID=11| B | M : How do you know ?
+	Free: Pattern=you know
+	Constrained: Pattern=you
+Turn ID=12| A | B : Oh , super .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : I'll do you think about it .
+	Free: Pattern=it ., Pattern=about, Pattern=you, Pattern=I'll
+	Constrained: Pattern=it
+Turn ID=14| A | B : Uh , so I guess that's one option .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=15| B | M : I don't think it was that expensive .
+	Free: Pattern=it, Pattern=I, Pattern=that, Pattern=was
+	Constrained: 
+Turn ID=16| A | B : Yeah . It was a , Landmark is the one who built it .
+	Free: Pattern=it ., Pattern=a, Pattern=is, Pattern=the, Pattern=was
+	Constrained: Pattern=it
+Turn ID=17| B | M : I was thinking about it .
+	Free: Pattern=it ., Pattern=about, Pattern=I, Pattern=was
+	Constrained: Pattern=it
+Turn ID=18| A | B : That's ,
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : You're , and it's
+	Free: Pattern=, and, Pattern=it's
+	Constrained: Pattern=and
+Turn ID=20| A | B : They've done special stories on the news , local news here .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=21| B | M : Have you ever heard of the mountain ?
+	Free: Pattern=of the, Pattern=you
+	Constrained: Pattern=the, Pattern=of
+Turn ID=22| A | B : Uh-huh . Huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : I that true , yeah . Yeah , she's even got , she's got one dog now and the two cats and her dog there is , is basically a reject , somebody had bought him , and wanted him .
+	Free: Pattern=a, Pattern=and the, Pattern=and, Pattern=I, Pattern=is, Pattern=had, Pattern=got, Pattern=, and, Pattern=that
+	Constrained: Pattern=and, Pattern=the
+Turn ID=25| B | M : I'm pretty sure the costs of replacing a broken unit is covered by the warranty .
+	Free: Pattern=a broken, Pattern=is, Pattern=the, Pattern=of
+	Constrained: Pattern=a
+Turn ID=26| A | B : Yes
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : i
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : Moroccans ? Where are you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=30| A | B : but , uh , they're , they're trying to reinstate it and the governor's opposed to it being that , uh , the Democrat that he is , and Mario Cuomo
+	Free: Pattern=, uh , the, Pattern=and the, Pattern=it, Pattern=is, Pattern=, uh ,, Pattern=, and, Pattern=to, Pattern=that, Pattern=but
+	Constrained: Pattern=, uh, Pattern=and, Pattern=, uh ,, Pattern=, the, Pattern=uh ,, Pattern=the
+Turn ID=31| B | M : we did aerobiic stuff together , and we made some really cool stuff
+	Free: Pattern=, and, Pattern=really, Pattern=did
+	Constrained: Pattern=and
+Turn ID=32| A | B : bye .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : I dunno . I've always had a good , I'm
+	Free: Pattern=had, Pattern=a, Pattern=I
+	Constrained: 
+Turn ID=34| A | B : Uh-huh , yeah , that's it , I mean , that's about where almost all of the fat comes from
+	Free: Pattern=of the, Pattern=about, Pattern=it, Pattern=I
+	Constrained: Pattern=the, Pattern=of
+Turn ID=35| B | M : It's , uh , the , uh .
+	Free: Pattern=, uh , the, Pattern=the ,, Pattern=, uh
+	Constrained: Pattern=, uh, Pattern=, uh ,, Pattern=, the, Pattern=uh ,, Pattern=the
+Turn ID=36| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : I'm a student . I've been to the gym and the gym .
+	Free: Pattern=to the, Pattern=and the, Pattern=a
+	Constrained: Pattern=and, Pattern=the, Pattern=to
+Turn ID=38| A | B : Okay . Uh , I use them both here at work and at home .
+	Free: Pattern=and, Pattern=I
+	Constrained: 
+Turn ID=39| B | M : You
+	Free: Pattern=You
+	Constrained: 
+Turn ID=40| A | B : Yeah
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : Well , you can't , I'll , I'm .
+	Free: Pattern=, you, Pattern=, I'll, Pattern=Well ,
+	Constrained: Pattern=you, Pattern=I'll
+Turn ID=42| A | B : Right , and then you get to their life story , Oh , they came from a broken family
+	Free: Pattern=a broken, Pattern=, and, Pattern=you, Pattern=to
+	Constrained: Pattern=and, Pattern=a
+Turn ID=43| B | M : I'm pretty sure I got a loan .
+	Free: Pattern=got, Pattern=a, Pattern=I
+	Constrained: 
+Turn ID=44| A | B : Right . There for a while , that would , that worked . We've , uh , I know I have , um , I'll stick to uh , to the , you know , sometimes I'll stick to a certain party , depends on the guy .
+	Free: Pattern=know ,, Pattern=you know, Pattern=I'll, Pattern=a, Pattern=to the, Pattern=the ,, Pattern=I, Pattern=, I'll, Pattern=, you, Pattern=, uh ,, Pattern=to, Pattern=for a, Pattern=that, Pattern=I know, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=I'll, Pattern=a, Pattern=for, Pattern=I, Pattern=to, Pattern=you, Pattern=, uh, Pattern=uh ,, Pattern=the
+Turn ID=45| B | M : I'll burn it .
+	Free: Pattern=it ., Pattern=I'll
+	Constrained: Pattern=it
+Turn ID=46| A | B : Well , if it's a second offense , the punishment should certainly be more severe than a first offense , because obviously , the rehabilitation process did not work the first time .
+	Free: Pattern=time ., Pattern=Well ,, Pattern=be, Pattern=the, Pattern=, the, Pattern=it's, Pattern=did, Pattern=a
+	Constrained: Pattern=the, Pattern=time
+Turn ID=47| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : Yeah .
+	Free: 
+	Constrained: 

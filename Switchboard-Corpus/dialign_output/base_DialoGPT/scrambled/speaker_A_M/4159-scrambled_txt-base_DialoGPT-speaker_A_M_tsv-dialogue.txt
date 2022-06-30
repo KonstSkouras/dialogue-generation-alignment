@@ -1,0 +1,191 @@
+A|0| A: _Um_ . 
+B|1| M: _I_ _was_ joking . 
+A|2| A: Uh-huh . 
+B|3| M: He's _there_ _to_ get _out_ _of_ jail . 
+A|4| A: _Yeah_ , where _are you_ ? 
+B|5| M: Uuh _, uh_ 
+A|6| A: Well it will make , it will make _them_ taste better _I'm_ sure . 
+B|7| M: You _know _,_ uh_ ... 
+A|8| A: _That's_ great . 
+B|9| M: _Uh ,_ _what_ ? 
+A|10| A: _And_ _I'm_ _just_ wondering if you're fighting _a_ natural process [there] [of] being winnowed [out] . There's _a_ German word for it _that's_ elegant , but [I] never _can_ remember [what] it [was] [, uh] , but , but _that_ they're , they're being winnowed because they're , where _they are_ they're _not_ adapted [to] their environment essentially . 
+B|11| M: You're _from_ _the_ south . 
+A|12| A: Uh-huh 
+B|13| M: _Oh_ _yeah_ ? 
+A|14| A: Well , [I] , [I] do [, uh] [, uh] , programming for C N C turret presses and [uh] , cat cam system type things 
+B|15| M: [Um] ... _I think_ _we_ [can] get [them] [out] [of] _here_ . 
+A|16| A: There , _there's a_ guy , _have_ _you_ ever heard [of] George Winston , _he_ plays piano . 
+B|17| M: i' 
+A|18| A: [Oh] , [yeah] , [I] agree , because _it's not_ fair [to] those [of] us _that_ , _that_ deserve _a_ safe , _you_ [know ,] life _to have_ [to] , 
+B|19| M: You _don't know_ who [he] _is_ ? 
+A|20| A: _Yeah ._ 
+B|21| M:  
+A|22| A: _But_ [, uh] , _it's_ _a_ problem , and [I] , [I] _just ,_ _I think that_ [the] court systems need [to] be more accurate in , in , stiffer in their penalties , 
+B|23| M: [I think] _it's just_ an excuse [to have] [a] baby . 
+A|24| A: It [was] [the] Protestant version [of] [the] Catholic pilgrimage . 
+B|25| M: He nods . [Yeah .] 
+A|26| A: _that's_ very true . [Uh ,] other than _that_ [, uh] , [I] [don't [know] ,] 
+B|27| M: This 
+A|28| A: [Yeah .] 
+B|29| M: [I'm] [not] [that's] [just ,] 
+A|30| A: [Yeah] , _that_ , _that_ would all start at , at , um , _that_ would all start at , at eight o'clock [here] , _that_ wouldn't start at seven . We [have] , um , at seven o'clock [we] [just] [have] , um , [the] , they'll play , _you_ [know ,] _they have_ old reruns [of] CHEERS or something [from] seven [to] seven thirty , and _then_ something else [from] seven thirty [to] eight 
+B|31| M: [That's] _what I_ said _. [I_ think that] [you] [can] remove [the] judge . [But] _can't_ [you] remove [the] defendant . [And] [it's not] _like_ [there's a] jury . 
+A|32| A: Our major crimes in our immediate town [, uh] , [is] probably robberies , house robberies and very few instances [of] , [you] [know ,] alcohol , drugs [, uh] , reported . 
+B|33| M: How [are you] guys doing 
+A|34| A: Uh-huh . 
+B|35| M: You [know] 
+A|36| A: Now , um , 
+B|37| M: Do [they have] any idea [what] [they are] doing ? 
+A|38| A: Well , it [just] seems [like] in [the] past three or four years it has [just] gotten so much worse than it [was] . There's always been [a] certain amount [of] crime in your , [you] [know ,] your urban areas , and [I] [know] [we] lived in Chicago for seven years , and [of] course it [was] definitely [there] . _So_ when [we] first moved [here] , it wasn't as bad as this . It's , [you] [know ,] [it's just] getting all [of] [a] sudden so much worse [. I] [don't know] whether [it's] due [to] [the] drugs and [the] [, uh] , drug kings [that] [are] [here] and Jamaican drug kings coming in [. I] [don't know] whether [that's] it , or street gangs [. I] [don't know] [what] [the] answer [is] [. I] [know] [that] [it's] scary , and yet [I] hate [the] government constantly telling me [what I] [can] do and [what I] [can't] do , and [that's] basically [what] [the] gun control would end up being . 
+B|39| M: [I'm] going [to] listen [, uh] . 
+A|40| A: Right . 
+B|41| M: [So] [what] did [you] guys eat ? 
+A|42| A: [Yeah .] 
+B|43| M:  
+A|44| A: and [I'm] Brian . 
+B|45| M: uhh . [uh] . 
+B|46| M: [then] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Um .
+	Free: Pattern=Um
+	Constrained: 
+Turn ID=1| B | M : I was joking .
+	Free: Pattern=was, Pattern=I
+	Constrained: 
+Turn ID=2| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : He's there to get out of jail .
+	Free: Pattern=there, Pattern=to, Pattern=out, Pattern=of
+	Constrained: 
+Turn ID=4| A | A : Yeah , where are you ?
+	Free: Pattern=are you, Pattern=Yeah
+	Constrained: Pattern=are, Pattern=you
+Turn ID=5| B | M : Uuh , uh
+	Free: Pattern=, uh
+	Constrained: Pattern=uh
+Turn ID=6| A | A : Well it will make , it will make them taste better I'm sure .
+	Free: Pattern=them, Pattern=I'm
+	Constrained: 
+Turn ID=7| B | M : You know , uh ...
+	Free: Pattern=, uh, Pattern=know ,
+	Constrained: Pattern=know, Pattern=uh
+Turn ID=8| A | A : That's great .
+	Free: Pattern=That's
+	Constrained: 
+Turn ID=9| B | M : Uh , what ?
+	Free: Pattern=Uh ,, Pattern=what
+	Constrained: 
+Turn ID=10| A | A : And I'm just wondering if you're fighting a natural process there of being winnowed out . There's a German word for it that's elegant , but I never can remember what it was , uh , but , but that they're , they're being winnowed because they're , where they are they're not adapted to their environment essentially .
+	Free: Pattern=of, Pattern=a, Pattern=I, Pattern=that's, Pattern=to, Pattern=was, Pattern=that, Pattern=not, Pattern=out, Pattern=, uh, Pattern=I'm, Pattern=And, Pattern=just, Pattern=what, Pattern=there, Pattern=can, Pattern=they are
+	Constrained: Pattern=are, Pattern=uh
+Turn ID=11| B | M : You're from the south .
+	Free: Pattern=from, Pattern=the
+	Constrained: 
+Turn ID=12| A | A : Uh-huh
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : Oh yeah ?
+	Free: Pattern=yeah, Pattern=Oh
+	Constrained: 
+Turn ID=14| A | A : Well , I , I do , uh , uh , programming for C N C turret presses and uh , cat cam system type things
+	Free: Pattern=, uh, Pattern=uh, Pattern=I
+	Constrained: Pattern=uh
+Turn ID=15| B | M : Um ... I think we can get them out of here .
+	Free: Pattern=of, Pattern=here, Pattern=can, Pattern=we, Pattern=I think, Pattern=them, Pattern=out, Pattern=Um
+	Constrained: Pattern=I
+Turn ID=16| A | A : There , there's a guy , have you ever heard of George Winston , he plays piano .
+	Free: Pattern=of, Pattern=there's a, Pattern=you, Pattern=have, Pattern=he
+	Constrained: Pattern=a
+Turn ID=17| B | M : i'
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : Oh , yeah , I agree , because it's not fair to those of us that , that deserve a safe , you know , life to have to ,
+	Free: Pattern=you, Pattern=a, Pattern=yeah, Pattern=it's not, Pattern=that, Pattern=of, Pattern=know ,, Pattern=I, Pattern=to have, Pattern=Oh, Pattern=to
+	Constrained: Pattern=have, Pattern=know, Pattern=to, Pattern=it's, Pattern=not
+Turn ID=19| B | M : You don't know who he is ?
+	Free: Pattern=don't know, Pattern=he, Pattern=is
+	Constrained: Pattern=know
+Turn ID=20| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : But , uh , it's a problem , and I , I just , I think that the court systems need to be more accurate in , in , stiffer in their penalties ,
+	Free: Pattern=, uh, Pattern=I think that, Pattern=a, Pattern=I, Pattern=But, Pattern=the, Pattern=to, Pattern=it's, Pattern=just ,
+	Constrained: Pattern=uh, Pattern=just, Pattern=I, Pattern=I think, Pattern=that
+Turn ID=23| B | M : I think it's just an excuse to have a baby .
+	Free: Pattern=I think, Pattern=to have, Pattern=it's just, Pattern=a
+	Constrained: Pattern=I, Pattern=to, Pattern=it's, Pattern=just, Pattern=have
+Turn ID=24| A | A : It was the Protestant version of the Catholic pilgrimage .
+	Free: Pattern=was, Pattern=of, Pattern=the
+	Constrained: 
+Turn ID=25| B | M : He nods . Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=26| A | A : that's very true . Uh , other than that , uh , I don't know ,
+	Free: Pattern=know ,, Pattern=, uh, Pattern=don't know, Pattern=I, Pattern=Uh ,, Pattern=that's, Pattern=that
+	Constrained: Pattern=know, Pattern=uh
+Turn ID=27| B | M : This
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=29| B | M : I'm not that's just ,
+	Free: Pattern=just ,, Pattern=not, Pattern=that's, Pattern=I'm
+	Constrained: Pattern=just
+Turn ID=30| A | A : Yeah , that , that would all start at , at , um , that would all start at , at eight o'clock here , that wouldn't start at seven . We have , um , at seven o'clock we just have , um , the , they'll play , you know , they have old reruns of CHEERS or something from seven to seven thirty , and then something else from seven thirty to eight
+	Free: Pattern=you, Pattern=here, Pattern=then, Pattern=from, Pattern=we, Pattern=the, Pattern=to, Pattern=Yeah, Pattern=that, Pattern=of, Pattern=know ,, Pattern=just, Pattern=they have, Pattern=have
+	Constrained: Pattern=know, Pattern=have
+Turn ID=31| B | M : That's what I said . I think that you can remove the judge . But can't you remove the defendant . And it's not like there's a jury .
+	Free: Pattern=there's a, Pattern=you, Pattern=And, Pattern=what I, Pattern=like, Pattern=can't, Pattern=the, Pattern=it's not, Pattern=I think that, Pattern=That's, Pattern=But, Pattern=can, Pattern=. I
+	Constrained: Pattern=what, Pattern=a, Pattern=I, Pattern=I think, Pattern=not, Pattern=that, Pattern=it's
+Turn ID=32| A | A : Our major crimes in our immediate town , uh , is probably robberies , house robberies and very few instances of , you know , alcohol , drugs , uh , reported .
+	Free: Pattern=is, Pattern=of, Pattern=know ,, Pattern=you, Pattern=, uh
+	Constrained: Pattern=know, Pattern=uh
+Turn ID=33| B | M : How are you guys doing
+	Free: Pattern=are you
+	Constrained: Pattern=are, Pattern=you
+Turn ID=34| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : You know
+	Free: Pattern=know
+	Constrained: 
+Turn ID=36| A | A : Now , um ,
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : Do they have any idea what they are doing ?
+	Free: Pattern=they are, Pattern=they have, Pattern=what
+	Constrained: Pattern=are, Pattern=have
+Turn ID=38| A | A : Well , it just seems like in the past three or four years it has just gotten so much worse than it was . There's always been a certain amount of crime in your , you know , your urban areas , and I know we lived in Chicago for seven years , and of course it was definitely there . So when we first moved here , it wasn't as bad as this . It's , you know , it's just getting all of a sudden so much worse . I don't know whether it's due to the drugs and the , uh , drug kings that are here and Jamaican drug kings coming in . I don't know whether that's it , or street gangs . I don't know what the answer is . I know that it's scary , and yet I hate the government constantly telling me what I can do and what I can't do , and that's basically what the gun control would end up being .
+	Free: Pattern=just, Pattern=a, Pattern=what I, Pattern=know, Pattern=is, Pattern=can't, Pattern=to, Pattern=was, Pattern=of, Pattern=know ,, Pattern=you, Pattern=, uh, Pattern=it's just, Pattern=here, Pattern=what, Pattern=there, Pattern=So, Pattern=don't know, Pattern=are, Pattern=I, Pattern=can, Pattern=. I, Pattern=we, Pattern=like, Pattern=that's, Pattern=the, Pattern=that, Pattern=it's
+	Constrained: Pattern=uh, Pattern=just, Pattern=what, Pattern=I, Pattern=know, Pattern=it's
+Turn ID=39| B | M : I'm going to listen , uh .
+	Free: Pattern=, uh, Pattern=to, Pattern=I'm
+	Constrained: Pattern=uh
+Turn ID=40| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : So what did you guys eat ?
+	Free: Pattern=what, Pattern=you, Pattern=So
+	Constrained: 
+Turn ID=42| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=43| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : and I'm Brian .
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=45| B | M : uhh . uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=46| B | M : then
+	Free: Pattern=then
+	Constrained: 

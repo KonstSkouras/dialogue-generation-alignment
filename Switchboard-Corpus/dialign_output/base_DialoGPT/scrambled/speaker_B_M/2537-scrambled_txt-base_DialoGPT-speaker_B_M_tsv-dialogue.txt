@@ -1,0 +1,303 @@
+A|0| B: Uh-huh . 
+B|1| M: _I_ see , well _that's_ good . 
+A|2| B: Uh-huh . 
+B|3| M: _What_ ? How ? 
+A|4| B: _I've_ always said _that_ _it _,_ it's_ really _not_ interesting unless _it's_ three weeks old and found its way into _a_ news weekly headline . 
+B|5| M: no , i' 
+A|6| B: But , _the_ problem _is_ , _like_ first _time_ [I] went out _of_ here , and _they_ took me _to_ Las Vegas 
+B|7| M: I'd love _to be_ at [the] conference 
+A|8| B: _Well _,_ _I_ don't_ want [to] _, _I_ don't_ want _this_ [to be] _a_ unilateral conversation but , yes , we _do_ . Both my husband and [I] work and our children _are_ sixth , fourth , and third grade . And [the] school years _are_ wonderful , _they're_ just wonderful . 
+B|9| M: [I] 
+A|10| B: Really ? 
+B|11| M: B 
+A|12| B: Sure . 
+B|13| M: [I don't] even _know_ . 
+A|14| B: Yeah , haven't either . 
+B|15| M: [Well] they've got [a] lot [of] money . 
+A|16| B: Yeah _, uh _,_ I_ was 
+B|17| M: [I] see . [Well [,] uh] ... 
+A|18| B: _It_ was _, uh _,_ you_ [know] _, it's_ easier [to] join them than fight them . 
+B|19| M: _I think_ [they] have . 
+A|20| B: Heavy involvement _from_ [the] public . 
+B|21| M: How long would [it] take [to] train _in_ [the] US ? 
+A|22| B: Really . 
+B|23| M: _I ,_ actually [, _I] like_ [that] . 
+A|24| B: [What] does [that] _mean ,_ accidental tomatoes ? 
+B|25| M: The'U'is silent . 
+A|26| B: Uh-huh . 
+B|27| M: _I mean [,_ you] can't _be the_ judge [of] [the] jury . 
+A|28| B: Yeah , and [I like] [it] . 
+B|29| M: Then . 
+A|30| B: [Well ,] thank [you] _, it's_ nice talking [to] [you] . 
+B|31| M: Oh , okay . So _, what's_ [it] [like] ? 
+A|32| B: _is_ talking [to] someone [in] Sorry . 
+B|33| M: [I] am [not] sure if [they] care . 
+A|34| B: Um , [that's] possible [I] guess . 
+B|35| M:  
+A|36| B: That's great . 
+B|37| M: _Yes_ . It's [a] good garden area . 
+A|38| B: Uh-huh . 
+B|39| M: [It] 
+A|40| B: and _it's_ , 
+B|41| M:  
+A|42| B: Uh-huh . 
+B|43| M: [Well [,] uh _,] what_ we've done . 
+A|44| B: Uh-huh . 
+B|45| M:  
+A|46| B: And [, [I] mean _,] it_ _sounds_ horrible . [It] [, I] hear myself saying _this_ , and , but [, [I] ,] [don't] [know] [what] else [to] _do_ _with_ some [of] these people , [that] _are_ , 
+B|47| M: _They_ [do] [it] all [the] [time] . [I don't] _think_ [they're] afraid [of] [the] consequences . 
+A|48| B: Sure , same here . 
+B|49| M: Oh [, I] see . [Well ,] if [you] _get_ [it ,] then [you] _get_ [the] job . 
+A|50| B: and let's face [it [,] what] [do] [they] [get] paid . 
+B|51| M: Where [are] [you] [from] ? 
+A|52| B: People running up saying , oh [, what's] [the] score [, what's] [the] score ? 
+B|53| M: _I think_ you're confusing [this] [with] [the] car he bought . 
+A|54| B: and [what] we found [, uh ,] [to [be] the] best guide was our own instincts about , people who were going [to be] loving 
+B|55| M: That [sounds] funny . 
+A|56| B: Uh-huh . Uh-huh . Right . 
+B|57| M: We . 
+A|58| B: [it] has [to be] something [that's] voluntary . You [know] , which _is_ pretty much [the] way _it is_ now . [They] might , 
+B|59| M:  
+A|60| B: [I think] attitudes [are] more lax now than [they] used [to be] . 
+B|61| M: Uhh ... [that's] weird . 
+A|62| B: _Yes ,_ oh , yes . [to] child [in] No , I'm busy right now , Steven . Steven wants me [to] [do] popcorn right now . 
+B|63| M: It's [not] [a] place [, it's] [a] city . 
+A|64| B: Have [I] ? 
+B|65| M: Isn't there [a] death penalty [in] [the] US ? 
+A|66| B: Uh-huh . 
+B|67| M: Uhh , you're [not] very good 
+A|68| B: Uh-huh . 
+B|69| M: [I've] been [to] France . 
+A|70| B: Yeah , 
+B|71| M: [Yes [,] [it] is] . 
+A|72| B: Uh-huh . 
+B|73| M: N 
+A|74| B: Uh-huh . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I see , well that's good .
+	Free: Pattern=that's, Pattern=I
+	Constrained: 
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : What ? How ?
+	Free: Pattern=What
+	Constrained: 
+Turn ID=4| A | B : I've always said that it , it's really not interesting unless it's three weeks old and found its way into a news weekly headline .
+	Free: Pattern=I've, Pattern=a, Pattern=, it's, Pattern=it ,, Pattern=not, Pattern=that, Pattern=it's
+	Constrained: Pattern=it, Pattern=it's
+Turn ID=5| B | M : no , i'
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : But , the problem is , like first time I went out of here , and they took me to Las Vegas
+	Free: Pattern=time, Pattern=of, Pattern=they, Pattern=I, Pattern=is, Pattern=like, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=7| B | M : I'd love to be at the conference
+	Free: Pattern=to be, Pattern=the
+	Constrained: Pattern=to
+Turn ID=8| A | B : Well , I don't want to , I don't want this to be a unilateral conversation but , yes , we do . Both my husband and I work and our children are sixth , fourth , and third grade . And the school years are wonderful , they're just wonderful .
+	Free: Pattern=Well ,, Pattern=the, Pattern=to, Pattern=to be, Pattern=this, Pattern=do, Pattern=, I, Pattern=a, Pattern=are, Pattern=I, Pattern=I don't, Pattern=they're
+	Constrained: Pattern=Well, Pattern=to, Pattern=I, Pattern=don't
+Turn ID=9| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=10| A | B : Really ?
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : B
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : Sure .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : I don't even know .
+	Free: Pattern=I don't, Pattern=know
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=14| A | B : Yeah , haven't either .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : Well they've got a lot of money .
+	Free: Pattern=Well, Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=16| A | B : Yeah , uh , I was
+	Free: Pattern=, uh ,, Pattern=, I
+	Constrained: Pattern=, uh, Pattern=I
+Turn ID=17| B | M : I see . Well , uh ...
+	Free: Pattern=, uh, Pattern=Well ,, Pattern=I
+	Constrained: Pattern=Well
+Turn ID=18| A | B : It was , uh , you know , it's easier to join them than fight them .
+	Free: Pattern=, it's, Pattern=It, Pattern=, uh ,, Pattern=to, Pattern=know, Pattern=, you
+	Constrained: Pattern=it's, Pattern=you, Pattern=, uh
+Turn ID=19| B | M : I think they have .
+	Free: Pattern=I think, Pattern=they
+	Constrained: Pattern=I, Pattern=think
+Turn ID=20| A | B : Heavy involvement from the public .
+	Free: Pattern=the, Pattern=from
+	Constrained: 
+Turn ID=21| B | M : How long would it take to train in the US ?
+	Free: Pattern=to, Pattern=the, Pattern=it, Pattern=in
+	Constrained: 
+Turn ID=22| A | B : Really .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : I , actually , I like that .
+	Free: Pattern=I like, Pattern=I ,, Pattern=, I, Pattern=that
+	Constrained: Pattern=I, Pattern=like
+Turn ID=24| A | B : What does that mean , accidental tomatoes ?
+	Free: Pattern=mean ,, Pattern=that, Pattern=What
+	Constrained: 
+Turn ID=25| B | M : The'U'is silent .
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : I mean , you can't be the judge of the jury .
+	Free: Pattern=of, Pattern=, you, Pattern=I mean ,, Pattern=the, Pattern=be the
+	Constrained: Pattern=mean ,, Pattern=I, Pattern=you, Pattern=the
+Turn ID=28| A | B : Yeah , and I like it .
+	Free: Pattern=I like, Pattern=it
+	Constrained: Pattern=I, Pattern=like
+Turn ID=29| B | M : Then .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : Well , thank you , it's nice talking to you .
+	Free: Pattern=Well ,, Pattern=, it's, Pattern=you, Pattern=to
+	Constrained: Pattern=Well, Pattern=it's
+Turn ID=31| B | M : Oh , okay . So , what's it like ?
+	Free: Pattern=, what's, Pattern=it, Pattern=like
+	Constrained: 
+Turn ID=32| A | B : is talking to someone in Sorry .
+	Free: Pattern=to, Pattern=in, Pattern=is
+	Constrained: 
+Turn ID=33| B | M : I am not sure if they care .
+	Free: Pattern=they, Pattern=I, Pattern=not
+	Constrained: 
+Turn ID=34| A | B : Um , that's possible I guess .
+	Free: Pattern=that's, Pattern=I
+	Constrained: 
+Turn ID=35| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : That's great .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : Yes . It's a good garden area .
+	Free: Pattern=Yes, Pattern=a
+	Constrained: 
+Turn ID=38| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : It
+	Free: Pattern=It
+	Constrained: 
+Turn ID=40| A | B : and it's ,
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=41| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : Well , uh , what we've done .
+	Free: Pattern=, uh ,, Pattern=Well ,, Pattern=, what
+	Constrained: Pattern=Well, Pattern=what, Pattern=, uh
+Turn ID=44| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : And , I mean , it sounds horrible . It , I hear myself saying this , and , but , I , don't know what else to do with some of these people , that are ,
+	Free: Pattern=of, Pattern=what, Pattern=are, Pattern=know, Pattern=I mean ,, Pattern=don't, Pattern=to, Pattern=this, Pattern=, it, Pattern=I ,, Pattern=do, Pattern=, I, Pattern=It, Pattern=sounds, Pattern=with, Pattern=that
+	Constrained: Pattern=mean ,, Pattern=it, Pattern=I
+Turn ID=47| B | M : They do it all the time . I don't think they're afraid of the consequences .
+	Free: Pattern=time, Pattern=of, Pattern=They, Pattern=do, Pattern=it, Pattern=think, Pattern=the, Pattern=I don't, Pattern=they're
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=48| A | B : Sure , same here .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : Oh , I see . Well , if you get it , then you get the job .
+	Free: Pattern=you, Pattern=, I, Pattern=Well ,, Pattern=it ,, Pattern=the, Pattern=get
+	Constrained: Pattern=Well, Pattern=it, Pattern=I
+Turn ID=50| A | B : and let's face it , what do they get paid .
+	Free: Pattern=they, Pattern=do, Pattern=, what, Pattern=it ,, Pattern=get
+	Constrained: Pattern=what, Pattern=it
+Turn ID=51| B | M : Where are you from ?
+	Free: Pattern=you, Pattern=are, Pattern=from
+	Constrained: 
+Turn ID=52| A | B : People running up saying , oh , what's the score , what's the score ?
+	Free: Pattern=, what's, Pattern=the
+	Constrained: 
+Turn ID=53| B | M : I think you're confusing this with the car he bought .
+	Free: Pattern=I think, Pattern=this, Pattern=the, Pattern=with
+	Constrained: Pattern=I, Pattern=think
+Turn ID=54| A | B : and what we found , uh , to be the best guide was our own instincts about , people who were going to be loving
+	Free: Pattern=, uh ,, Pattern=be the, Pattern=to be, Pattern=what
+	Constrained: Pattern=to, Pattern=, uh, Pattern=the
+Turn ID=55| B | M : That sounds funny .
+	Free: Pattern=sounds
+	Constrained: 
+Turn ID=56| A | B : Uh-huh . Uh-huh . Right .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : We .
+	Free: 
+	Constrained: 
+Turn ID=58| A | B : it has to be something that's voluntary . You know , which is pretty much the way it is now . They might ,
+	Free: Pattern=They, Pattern=it, Pattern=know, Pattern=is, Pattern=to be, Pattern=it is, Pattern=that's, Pattern=the
+	Constrained: Pattern=to, Pattern=it, Pattern=is
+Turn ID=59| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=60| A | B : I think attitudes are more lax now than they used to be .
+	Free: Pattern=I think, Pattern=to be, Pattern=are, Pattern=they
+	Constrained: Pattern=to, Pattern=I, Pattern=think
+Turn ID=61| B | M : Uhh ... that's weird .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=62| A | B : Yes , oh , yes . to child in No , I'm busy right now , Steven . Steven wants me to do popcorn right now .
+	Free: Pattern=Yes ,, Pattern=to, Pattern=do, Pattern=in
+	Constrained: Pattern=Yes
+Turn ID=63| B | M : It's not a place , it's a city .
+	Free: Pattern=, it's, Pattern=a, Pattern=not
+	Constrained: Pattern=it's
+Turn ID=64| A | B : Have I ?
+	Free: Pattern=I
+	Constrained: 
+Turn ID=65| B | M : Isn't there a death penalty in the US ?
+	Free: Pattern=the, Pattern=a, Pattern=in
+	Constrained: 
+Turn ID=66| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=67| B | M : Uhh , you're not very good
+	Free: Pattern=not
+	Constrained: 
+Turn ID=68| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=69| B | M : I've been to France .
+	Free: Pattern=to, Pattern=I've
+	Constrained: 
+Turn ID=70| A | B : Yeah ,
+	Free: 
+	Constrained: 
+Turn ID=71| B | M : Yes , it is .
+	Free: Pattern=Yes ,, Pattern=, it, Pattern=it is
+	Constrained: Pattern=Yes, Pattern=it, Pattern=is
+Turn ID=72| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=73| B | M : N
+	Free: 
+	Constrained: 
+Turn ID=74| A | B : Uh-huh .
+	Free: 
+	Constrained: 

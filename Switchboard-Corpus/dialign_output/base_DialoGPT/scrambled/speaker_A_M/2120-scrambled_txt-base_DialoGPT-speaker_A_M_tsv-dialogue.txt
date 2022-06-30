@@ -1,0 +1,59 @@
+A|0| A: Good point . That's a good point . 
+B|1| M: I meant _that_ I _like_ it . 
+A|2| A: and , uh , 
+B|3| M: I'm glad _you_ 
+A|4| A: Probably . Oh . 
+B|5| M: i , I _think_ , 
+A|6| A: Yeah and how Yeah how it'll sway from one one extreme to another . 
+B|7| M:  
+A|8| A: Yeah . Well , [you] know , these guys [that] gambled high lost big [you] know . 
+B|9| M:  
+A|10| A: Well , how do [you] feel about setting , [like] , well , for example , a car type accident where , uh , or some incident where someone loses a limb . Do [you] [think] the jury should have a dollar figure for losing an arm , a dollar figure for losing different body parts ? 
+B|11| M: Mmmmmm , taste . 
+A|12| A: Right . 
+B|13| M: It's white paper . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Good point . That's a good point .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : I meant that I like it .
+	Free: Pattern=that, Pattern=like
+	Constrained: 
+Turn ID=2| A | A : and , uh ,
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : I'm glad you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=4| A | A : Probably . Oh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : i , I think ,
+	Free: Pattern=think
+	Constrained: 
+Turn ID=6| A | A : Yeah and how Yeah how it'll sway from one one extreme to another .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Yeah . Well , you know , these guys that gambled high lost big you know .
+	Free: Pattern=that, Pattern=you
+	Constrained: 
+Turn ID=9| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : Well , how do you feel about setting , like , well , for example , a car type accident where , uh , or some incident where someone loses a limb . Do you think the jury should have a dollar figure for losing an arm , a dollar figure for losing different body parts ?
+	Free: Pattern=think, Pattern=like, Pattern=you
+	Constrained: 
+Turn ID=11| B | M : Mmmmmm , taste .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : Right .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : It's white paper .
+	Free: 
+	Constrained: 

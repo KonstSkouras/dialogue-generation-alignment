@@ -1,0 +1,191 @@
+A|0| B: _Yeah_ . _It's_ 
+B|1| M: _Oh ,_ 
+A|2| B: Uh-huh . 
+B|3| M: He . 
+A|4| B: [Oh ,] _really_ ? 
+B|5| M: He _has_ _a_ lot _of_ time . 
+A|6| B: Uh-huh . 
+B|7| M: _So_ what happens if _he_ goes _to_ the senior center _and_ _says_ _I_ need _to_ get some help ? 
+A|8| B: Right . 
+B|9| M: _I_ _think_ _it's_ the _other_ _way_ around . 
+A|10| B: To put her _in_ [a] rest home ? 
+B|11| M: Why _is_ _she_ still [in] the house ? 
+A|12| B: Um , well , see [it's] more my grandma that feels that [way] . 
+B|13| M: [Oh ,] okay . 
+A|14| B: She [says] that when her husband died that [he] said , oh , that my uncle had said that [he] would never put her [in] [a] rest home . [So] [it's] kind [of] , uh _, I_ don't _know ._ [I] _mean_ _, I_ don't _, I_ don't [think] my parents would _but_ [she] [is] getting _pretty_ bad _like_ [she] [has] [to] _have_ _like_ [a] little toilet right by her bed [and] , [it's] , 
+B|15| M: Why ? 
+A|16| B: [and] my mom [has] [to] take care [of] her _pretty_ much _so_ it gets _, I_ don't _know ._ _It's_ , [it's] [a] hard decision _, but_ [I] don't [think] [I] would do it [to] my parents personally 
+B|17| M: _I'm_ [so] _, I'm_ ... 
+A|18| B: When [he] retired ? 
+B|19| M: [I] 
+A|20| B: _Yeah ,_ _it's like_ that good for us just because my uncle [and] my _, and_ my mom switch off _like_ we _have_ her for three months _and then_ [he] [has] her for three months . 
+B|21| M: _You_ 
+A|22| B: [So] that , that works out good . 
+B|23| M: _I'm_ gonna be [in] the hospital _, I'm_ gonna [have] 
+A|24| B: Uh-huh . 
+B|25| M: [Yeah [,] [and] then] [I] can 
+A|26| B: Really ? 
+B|27| M: _I'm_ ? 
+A|28| B: Uh-huh . 
+B|29| M:  ... _You_ [know .] 
+A|30| B: Uh-huh . 
+B|31| M: Ugh [, _I] know ._ 
+A|32| B: [You] [think] ? [I] [, I] [I'm] not _really_ familiar with how [other] countries , 
+B|33| M: And here [I] am , [in] the US , where [it's like] the first time you've _seen_ [a] baby , you [know] , before . 
+A|34| B: They're [seen] as senile 
+B|35| M: No , 
+A|36| B: Right . 
+B|37| M: [You] [mean] you [like] , you [know .] 
+A|38| B: Uh-huh . 
+B|39| M: And [I'm] [a] [pretty] young person , [so] [I] can't [really] say that's [a] problem . 
+A|40| B: Right . 
+B|41| M: [It's] incredible . 
+A|42| B: Uh-huh . [I know .] 
+B|43| M: [I'm] sorry [, but] what [is] the point [of] this ? 
+A|44| B: Um [, I'm] twenty . 
+B|45| M: [I'm] 26 . 
+A|46| B: [Yeah ,] [it's] , it [really] [is] [but] [, and] [she] , [she] drives us 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Yeah . It's
+	Free: Pattern=It's, Pattern=Yeah
+	Constrained: 
+Turn ID=1| B | M : Oh ,
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=2| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : He .
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : Oh , really ?
+	Free: Pattern=Oh ,, Pattern=really
+	Constrained: 
+Turn ID=5| B | M : He has a lot of time .
+	Free: Pattern=a, Pattern=has, Pattern=of
+	Constrained: 
+Turn ID=6| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : So what happens if he goes to the senior center and says I need to get some help ?
+	Free: Pattern=So, Pattern=I, Pattern=he, Pattern=to, Pattern=says, Pattern=and
+	Constrained: 
+Turn ID=8| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : I think it's the other way around .
+	Free: Pattern=I, Pattern=other, Pattern=think, Pattern=it's, Pattern=way
+	Constrained: 
+Turn ID=10| A | B : To put her in a rest home ?
+	Free: Pattern=in, Pattern=a
+	Constrained: 
+Turn ID=11| B | M : Why is she still in the house ?
+	Free: Pattern=is, Pattern=in, Pattern=she
+	Constrained: 
+Turn ID=12| A | B : Um , well , see it's more my grandma that feels that way .
+	Free: Pattern=it's, Pattern=way
+	Constrained: 
+Turn ID=13| B | M : Oh , okay .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=14| A | B : She says that when her husband died that he said , oh , that my uncle had said that he would never put her in a rest home . So it's kind of , uh , I don't know . I mean , I don't , I don't think my parents would but she is getting pretty bad like she has to have like a little toilet right by her bed and , it's ,
+	Free: Pattern=of, Pattern=So, Pattern=he, Pattern=is, Pattern=like, Pattern=pretty, Pattern=know ., Pattern=to, Pattern=have, Pattern=mean, Pattern=, I, Pattern=a, Pattern=says, Pattern=and, Pattern=has, Pattern=I, Pattern=she, Pattern=think, Pattern=in, Pattern=it's, Pattern=but
+	Constrained: Pattern=I, Pattern=know
+Turn ID=15| B | M : Why ?
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : and my mom has to take care of her pretty much so it gets , I don't know . It's , it's a hard decision , but I don't think I would do it to my parents personally
+	Free: Pattern=of, Pattern=, but, Pattern=I, Pattern=think, Pattern=pretty, Pattern=know ., Pattern=It's, Pattern=to, Pattern=it's, Pattern=so, Pattern=, I, Pattern=a, Pattern=and, Pattern=has
+	Constrained: Pattern=I, Pattern=but, Pattern=know
+Turn ID=17| B | M : I'm so , I'm ...
+	Free: Pattern=, I'm, Pattern=I'm, Pattern=so
+	Constrained: Pattern=I'm
+Turn ID=18| A | B : When he retired ?
+	Free: Pattern=he
+	Constrained: 
+Turn ID=19| B | M : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=20| A | B : Yeah , it's like that good for us just because my uncle and my , and my mom switch off like we have her for three months and then he has her for three months .
+	Free: Pattern=have, Pattern=it's like, Pattern=like, Pattern=Yeah ,, Pattern=, and, Pattern=and, Pattern=has, Pattern=he, Pattern=and then
+	Constrained: Pattern=it's, Pattern=Yeah, Pattern=like, Pattern=and
+Turn ID=21| B | M : You
+	Free: Pattern=You
+	Constrained: 
+Turn ID=22| A | B : So that , that works out good .
+	Free: Pattern=So
+	Constrained: 
+Turn ID=23| B | M : I'm gonna be in the hospital , I'm gonna have
+	Free: Pattern=, I'm, Pattern=have, Pattern=I'm, Pattern=in
+	Constrained: Pattern=I'm
+Turn ID=24| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : Yeah , and then I can
+	Free: Pattern=and then, Pattern=, and, Pattern=Yeah ,, Pattern=I
+	Constrained: Pattern=Yeah, Pattern=and
+Turn ID=26| A | B : Really ?
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : I'm ?
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=28| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M :  ... You know .
+	Free: Pattern=know ., Pattern=You
+	Constrained: Pattern=know
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : Ugh , I know .
+	Free: Pattern=I know ., Pattern=, I
+	Constrained: Pattern=know ., Pattern=I, Pattern=know
+Turn ID=32| A | B : You think ? I , I I'm not really familiar with how other countries ,
+	Free: Pattern=I'm, Pattern=, I, Pattern=I, Pattern=other, Pattern=think, Pattern=really, Pattern=You
+	Constrained: Pattern=I
+Turn ID=33| B | M : And here I am , in the US , where it's like the first time you've seen a baby , you know , before .
+	Free: Pattern=it's like, Pattern=a, Pattern=I, Pattern=in, Pattern=know, Pattern=seen
+	Constrained: Pattern=it's, Pattern=like
+Turn ID=34| A | B : They're seen as senile
+	Free: Pattern=seen
+	Constrained: 
+Turn ID=35| B | M : No ,
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : You mean you like , you know .
+	Free: Pattern=know ., Pattern=like, Pattern=mean, Pattern=You
+	Constrained: Pattern=know
+Turn ID=38| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : And I'm a pretty young person , so I can't really say that's a problem .
+	Free: Pattern=I'm, Pattern=a, Pattern=I, Pattern=really, Pattern=pretty, Pattern=so
+	Constrained: 
+Turn ID=40| A | B : Right .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : It's incredible .
+	Free: Pattern=It's
+	Constrained: 
+Turn ID=42| A | B : Uh-huh . I know .
+	Free: Pattern=I know .
+	Constrained: Pattern=know ., Pattern=I, Pattern=know
+Turn ID=43| B | M : I'm sorry , but what is the point of this ?
+	Free: Pattern=, but, Pattern=I'm, Pattern=is, Pattern=of
+	Constrained: Pattern=but
+Turn ID=44| A | B : Um , I'm twenty .
+	Free: Pattern=, I'm
+	Constrained: Pattern=I'm
+Turn ID=45| B | M : I'm 26 .
+	Free: Pattern=I'm
+	Constrained: 
+Turn ID=46| A | B : Yeah , it's , it really is but , and she , she drives us
+	Free: Pattern=she, Pattern=is, Pattern=really, Pattern=Yeah ,, Pattern=, and, Pattern=it's, Pattern=but
+	Constrained: Pattern=Yeah, Pattern=and
