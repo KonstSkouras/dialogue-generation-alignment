@@ -1,0 +1,4 @@
+[submodule "external/Switchboard-Corpus"]
+	path = external/Switchboard-Corpus
+	url = https://github.com/KonstSkouras/Switchboard-Corpus.git
+	branch = develop
