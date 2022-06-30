@@ -7,11 +7,14 @@ Alignment in contextualised dialogue generation
 ### Experiments Type 1: Alignement in Human - Human Dialogue
 - `run_human_normal.py`
 - `run_human_scramble.py`
+
+Results already in `Switchboard-Corpus/results/base_human`.
 ### Experiments Type 2: Alignement in Human-Model Dialogue
 Different models and tokenizers can be selected inside the scripts. Current default `DialoGPT` (DialoGPT-small).
 - `run_model_normal_testAll.py`: Currently without parallelization. Takes ~2.5 hours for DialoGPT-small.
 - `run_model_scramble.py`
 
+Results already in `Switchboard-Corpus/results/base_DialoGPT`.
 ### Fine tuning
 (Coming)
 
