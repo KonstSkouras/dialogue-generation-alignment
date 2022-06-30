@@ -1,5 +1,7 @@
-# dialogue-generation-alignment
-Alignment in contextualised dialogue generation
+# Alignment in contextualised dialogue generation
+MSc AI Thesis Project code
+
+Supervisor: Arabella J. Sinclair
 
 (To be updated with more info ie requirements, visuals etc)
 
