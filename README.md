@@ -21,7 +21,11 @@ Results already in `results/Switchboard-Corpus/expreriments/base_DialoGPT`.
 ### Fine tuning
 (Coming)
 
-# Folder Structure
+### Other scripts
+- `create_directories.py`: Create results directories proactively. No need to run in advance.
+- `utilities.py`: Multiple utilities functions used by the experiments scripts.
+
+## Folder Structure
 - `external`: External Data and Utilities. 
   - `Switchboatd-Corpus`: It contains the Switchboard Data and utilities to process them and has been added as a git submodule. It is tracking the `develop` branch of [KonstSkouras/Switchboard-Corpus](https://github.com/KonstSkouras/Switchboard-Corpus/tree/develop). Forked repo with changes from [NathanDuran/Switchboard-Corpus](https://github.com/NathanDuran/Switchboard-Corpus).
   - `Maptak-Corpus` (coming).
