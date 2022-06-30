@@ -19,10 +19,10 @@ def create_directory_safe(directory):
 
 def create_result_directories(models_list, to_local_directory=False):
   if to_local_directory:
-    res_directory = "./Switchboard-Corpus/results/"
-    data_directory = "./Switchboard-Corpus/data_modified/"
+    res_directory = "./results/Switchboard-Corpus/expetiments/"
+    data_directory = ".results//Switchboard-Corpus/data_modified/"
   else:
-    res_directory = "/content/Switchboard-Corpus/results/" 
+    res_directory = "/content/results/Switchboard-Corpus/expetiments/" 
     data_directory = "/content/Switchboard-Corpus/data_modified/"
 
   create_directory_safe(res_directory)
