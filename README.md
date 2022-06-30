@@ -22,7 +22,7 @@ Results already in `results/Switchboard-Corpus/expreriments/base_DialoGPT`.
 # Folder Structure
 - `external`: External Data and Utilities. 
 
-  - `Switchboatd-Corpus` has been added as a git submodule in the external directory. Tracking the `develop` branch of [KonstSkouras/Switchboard-Corpus](https://github.com/KonstSkouras/Switchboard-Corpus). Forked repo with changes from [NathanDuran/Switchboard-Corpus](https://github.com/NathanDuran/Switchboard-Corpus).
+  - `Switchboatd-Corpus` has been added as a git submodule in the external directory. Tracking the `develop` branch of [KonstSkouras/Switchboard-Corpus](https://github.com/KonstSkouras/Switchboard-Corpus/tree/develop). Forked repo with changes from [NathanDuran/Switchboard-Corpus](https://github.com/NathanDuran/Switchboard-Corpus).
   - `Maptak-Corpus` (coming).
 - `results`: Results of running the experiments scripts, the dialign software etc.
   - `Switchboard-Corpus`: Results of the above scripts and dialign for Switchboard.
