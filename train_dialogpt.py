@@ -641,4 +641,15 @@ def main(df_trn, df_val):
 # %tensorboard --logdir '/content/Switchboard-Corpus/results/runs/' #runs
 
 if __name__ == '__main__':
+    use_cuda = torch.cuda.is_available()
+
+    if use_cuda:
+        print('CUDNN VERSION:', torch.backends.cudnn.version())
+        print('Number CUDA Devices:', torch.cuda.device_count())
+        print('CUDA Device Name:',torch.cuda.get_device_name(0))
+        print('CUDA Device Total Memory [GB]:',torch.cuda.get_device_properties(0).total_memory/1e9)
+
+    else: 
+        print("No GPU available.")
+
     main(df_train_contexted, df_val_contexted)
