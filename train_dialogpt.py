@@ -1,9 +1,13 @@
 ## Read the data
 import pandas as pd 
+import argparse
 
-HISTORY_CONTEXT_LENGTH = 5
-df_train_contexted = pd.read_csv("./results/Switchboard-Corpus/data_modified/train_contexted_5.csv", index_col=0)
-df_val_contexted = pd.read_csv("./results/Switchboard-Corpus/data_modified/val_contexted_5.csv", index_col=0)
+# command line arguments
+parser = argparse.ArgumentParser(description='PyTorch DialoGPT-small Training')
+parser.add_argument('--save', default='~/sharedscratch/', type=str, help='directory of the dataset')
+parser.add_argument('--data', default='~/sharedscratch/dialogue-generation-alignment/', type=str, help='directory of the dataset')
+
+# HISTORY_CONTEXT_LENGTH = 5
 
 """### Fine Tuning
 
@@ -96,8 +100,6 @@ class Args():
     self.local_rank = -1
     self.fp16 = False
     self.fp16_opt_level = 'O1'
-
-args = Args()
 
 """Convert the dataset into a format suitable for the model. We will convert each smaller dialog with a context, and a response, into a single conversation string that is separated a special token that tells our model when a person is finished speaking."""
 
@@ -526,8 +528,11 @@ def evaluate(args, model: PreTrainedModel, tokenizer: PreTrainedTokenizer, df_tr
 
 #   # return result
 
-def main(df_trn, df_val):
+def main(df_trn, df_val, save_dir):
     args = Args()
+    
+    args.output_dir = save_dir + args.output_dir
+    args.cache_dir = save_dir + args.cache_dir
 
     if args.should_continue:
         sorted_checkpoints = _sorted_checkpoints(args)
@@ -652,4 +657,12 @@ if __name__ == '__main__':
     else: 
         print("No GPU available.")
 
-    main(df_train_contexted, df_val_contexted)
+    input_args = parser.parse_args()
+
+    train_data_file = "results/Switchboard-Corpus/data_modified/train_contexted_5.csv"
+    val_data_file = "results/Switchboard-Corpus/data_modified/val_contexted_5.csv"
+
+    df_train_contexted = pd.read_csv(input_args.data + train_data_file, index_col=0)
+    df_val_contexted = pd.read_csv(input_args.data + val_data_file, index_col=0)
+    
+    main(df_train_contexted, df_val_contexted, input_args.save)
