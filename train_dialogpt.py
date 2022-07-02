@@ -77,9 +77,9 @@ class Args():
     self.block_size = 512
     self.do_train = True
     self.do_eval = True
-    self.evaluate_during_training = True
-    self.per_gpu_train_batch_size = 4
-    self.per_gpu_eval_batch_size = 4
+    self.evaluate_during_training = False
+    self.per_gpu_train_batch_size = 2
+    self.per_gpu_eval_batch_size = 2
     self.gradient_accumulation_steps = 1
     self.learning_rate = 5e-5
     self.weight_decay = 0.0
