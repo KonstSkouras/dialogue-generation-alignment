@@ -98,7 +98,7 @@ class Args():
     self.should_continue = False
     self.seed = 42
     self.local_rank = -1
-    self.fp16 = False
+    self.fp16 = True
     self.fp16_opt_level = 'O1'
 
 """Convert the dataset into a format suitable for the model. We will convert each smaller dialog with a context, and a response, into a single conversation string that is separated a special token that tells our model when a person is finished speaking."""
