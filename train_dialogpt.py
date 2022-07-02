@@ -78,8 +78,8 @@ class Args():
     self.do_train = True
     self.do_eval = True
     self.evaluate_during_training = False
-    self.per_gpu_train_batch_size = 1
-    self.per_gpu_eval_batch_size = 1
+    self.per_gpu_train_batch_size = 2
+    self.per_gpu_eval_batch_size = 2
     self.gradient_accumulation_steps = 1
     self.learning_rate = 5e-5
     self.weight_decay = 0.0
@@ -98,7 +98,7 @@ class Args():
     self.should_continue = False
     self.seed = 42
     self.local_rank = -1
-    self.fp16 = True
+    self.fp16 = False
     self.fp16_opt_level = 'O1'
 
 """Convert the dataset into a format suitable for the model. We will convert each smaller dialog with a context, and a response, into a single conversation string that is separated a special token that tells our model when a person is finished speaking."""
