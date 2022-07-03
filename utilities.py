@@ -142,6 +142,18 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
     model_res_dict[full_model_name] = res_dict
   return model_res_dict
 
+def get_dataset_settings(dataset="Switchboard-Corpus"):
+  DatasetSettings = namedtuple('Settings', ['test_dir', 'speakers'])
+  if dataset == "Switchboard-Corpus":
+    test_dir = './external/Switchboard-Corpus/swda_data/test/'
+    speakers=["A", "B"]
+  else:
+    test_dir = './external/Maptask-Corpus/maptask_data/test/'
+    speakers=["f", "g"]
+  s = DatasetSettings(test_dir, speakers)
+  return s
+  
+
 """## Experiments Type 1: Alignement in Human - Human Dialogue
 
 ### Human - Normal Dialogue
