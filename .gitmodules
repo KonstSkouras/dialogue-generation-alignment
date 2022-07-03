@@ -2,3 +2,7 @@
 	path = external/Switchboard-Corpus
 	url = https://github.com/KonstSkouras/Switchboard-Corpus.git
 	branch = develop
+[submodule "external/Maptask-Corpus"]
+	path = external/Maptask-Corpus
+	url = https://github.com/KonstSkouras/Maptask-Corpus.git
+	branch = develop
