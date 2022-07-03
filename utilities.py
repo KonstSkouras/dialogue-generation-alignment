@@ -17,13 +17,13 @@ def create_directory_safe(directory):
     os.makedirs(directory)
     print("Creating directory %s", directory)
 
-def create_result_directories(models_list, to_local_directory=False):
+def create_result_directories(models_list, to_local_directory=False, dataset="Switchboard-Corpus", model_type="base"):  
   if to_local_directory:
-    res_directory = "./results/Switchboard-Corpus/expetiments/"
-    data_directory = ".results//Switchboard-Corpus/data_modified/"
+    res_directory = "./results/" + dataset + "/expetiments/"
+    data_directory = ".results/" + dataset + "/data_modified/"
   else:
-    res_directory = "/content/results/Switchboard-Corpus/expetiments/" 
-    data_directory = "/content/Switchboard-Corpus/data_modified/"
+    res_directory = "/content/results/" + dataset + "/expetiments/" 
+    data_directory = "/content/" + dataset + "/data_modified/"
 
   create_directory_safe(res_directory)
   create_directory_safe(data_directory)
@@ -31,9 +31,9 @@ def create_result_directories(models_list, to_local_directory=False):
   model_res_dict = {}
   for model_name in models_list:
     res_dict = {}
-    
+    full_model_name = model_type + "_" + model_name
     # Create Model directory
-    model_directory = res_directory + "base_" + model_name + "/"
+    model_directory = res_directory + full_model_name + "/"
     res_dict["model_directory"] = model_directory
     # directory = "/content/Switchboard-Corpus/results/base_DialoGPT/"
     create_directory_safe(model_directory)
@@ -94,18 +94,18 @@ def create_result_directories(models_list, to_local_directory=False):
     res_dict["directory_scrambled"] = directory_scrambled
     create_directory_safe(directory_scrambled)
 
-    directory_scrambled_csv = directory_scrambled + "csv/"
-    res_dict["directory_scrambled_csv"] = directory_scrambled_csv
-    create_directory_safe(directory_scrambled_csv)
+    # directory_scrambled_csv = directory_scrambled + "csv/"
+    # res_dict["directory_scrambled_csv"] = directory_scrambled_csv
+    # create_directory_safe(directory_scrambled_csv)
 
-    if(model_name != "human"):
-      directory_scrambled_csv_A = directory_scrambled_csv + "speaker_A_M/"
-      res_dict["directory_scrambled_csv_A_M"] = directory_scrambled_csv_A
-      create_directory_safe(directory_scrambled_csv_A)
+    # if(model_name != "human"):
+    #   directory_scrambled_csv_A = directory_scrambled_csv + "speaker_A_M/"
+    #   res_dict["directory_scrambled_csv_A_M"] = directory_scrambled_csv_A
+    #   create_directory_safe(directory_scrambled_csv_A)
 
-      directory_scrambled_csv_B = directory_scrambled_csv + "speaker_B_M/"
-      res_dict["directory_scrambled_csv_B_M"] = directory_scrambled_csv_B
-      create_directory_safe(directory_scrambled_csv_B)
+    #   directory_scrambled_csv_B = directory_scrambled_csv + "speaker_B_M/"
+    #   res_dict["directory_scrambled_csv_B_M"] = directory_scrambled_csv_B
+    #   create_directory_safe(directory_scrambled_csv_B)
 
     directory_scrambled_tsv = directory_scrambled + "tsv/"
     res_dict["directory_scrambled_tsv"] = directory_scrambled_tsv
@@ -133,7 +133,7 @@ def create_result_directories(models_list, to_local_directory=False):
       res_dict["directory_scrambled_txt_B_M"] = directory_scrambled_txt_B
       create_directory_safe(directory_scrambled_txt_B)
 
-    model_res_dict[model_name] = res_dict
+    model_res_dict[full_model_name] = res_dict
   return model_res_dict
 
 """## Experiments Type 1: Alignement in Human - Human Dialogue
@@ -420,6 +420,7 @@ def create_model_speaker_df(source_df, model_df, speaker="A", n=HISTORY_CONTEXT_
 
 def test_all(model, 
              model_name,
+             model_type,
              tokenizer,
              output_dirs,
              verbose = False, 
@@ -427,10 +428,18 @@ def test_all(model,
              text_file = None, 
              n = HISTORY_CONTEXT_LENGTH):
   
-  directory_c_csv = output_dirs[model_name]["directory_c_csv"]
-  directory_csv = output_dirs[model_name]["directory_csv"]
-  directory_tsv = output_dirs[model_name]["directory_tsv"]
+  full_model_name = model_type + "_" + model_name
+  
+  directory_c_csv = output_dirs[full_model_name]["directory_c_csv"]
+  
+  # directory_csv = output_dirs[full_model_name]["directory_csv"]
+  directory_csv_A_M = output_dirs[full_model_name]["directory_csv_A_M"]
+  directory_csv_B_M = output_dirs[full_model_name]["directory_csv_B_M"]
 
+  # directory_tsv = output_dirs[full_model_name]["directory_tsv"]
+  directory_tsv_A_M = output_dirs[full_model_name]["directory_tsv_A_M"]
+  directory_tsv_B_M = output_dirs[full_model_name]["directory_tsv_B_M"]
+  
   force_file = False
   if (text_file):
     force_file = True
@@ -468,7 +477,7 @@ def test_all(model,
     
     # 3.2. Save model contexted df to csv
     txt_file = txt_file.replace(".", "_")
-    filename = txt_file + '-base_' + model_name + '-contexted_' + str(n) + '.csv'
+    filename = txt_file + '-' + full_model_name + '-contexted_' + str(n) + '.csv'
     print("3.2. Save model contexted df to csv:", filename)
     df_model_contexted.to_csv(directory_c_csv + filename)
     
@@ -483,18 +492,18 @@ def test_all(model,
     print("5. Create speaker A - model df")
     df_model_speaker_A = create_model_speaker_df(df_test, df_model, speaker="A",
                                                  n=n, remove_first_context=True)
-    filename = txt_file + '-base_' + model_name + '-speaker_A'
+    filename = txt_file + '-' + full_model_name + '-speaker_A'
     # 5.1 Save to csv.
     filaname_csv = filename + '.csv'
     print("5.1 Save to csv:", filaname_csv)
-    df_model_speaker_A.to_csv(directory_csv+filaname_csv)
+    df_model_speaker_A.to_csv(directory_csv_A_M+filaname_csv)
 
     # 5.2 Save to tsv for dialign.
     filename_tsv = filename + '.tsv'
     print("5.2 Save to tsv for dialign:", filename_tsv)
     df_dialign = df_model_speaker_A.drop('Unified', axis=1)
     df_dialign['Speaker'] = df_dialign['Speaker'].apply(lambda x: x + ":")
-    df_dialign.to_csv(directory_tsv+filename_tsv, sep="\t", header=False, index=False)
+    df_dialign.to_csv(directory_tsv_A_M+filename_tsv, sep="\t", header=False, index=False)
     
     # 6. Create speaker B - model df and save as csv and tsv (for dialign).
     # -> remove the first n utterances that there is no model generated text 
@@ -503,17 +512,17 @@ def test_all(model,
     df_model_speaker_B = create_model_speaker_df(df_test, df_model, speaker="B",
                                                  n=n, remove_first_context=True)
     # 6.1 Save to csv.
-    filename = txt_file + '-base_' + model_name + '-speaker_B'
+    filename = txt_file + '-' + full_model_name + '-speaker_B'
     filaname_csv = filename + '.csv'
     print("6.1 Save to csv:", filaname_csv)
-    df_model_speaker_B.to_csv(directory_csv+filaname_csv)
+    df_model_speaker_B.to_csv(directory_csv_B_M+filaname_csv)
 
     # 6.2 Save to tsv for dialign.
     filename_tsv = filename + '.tsv'
     print("6.2 Save to tsv for dialign:", filename_tsv)
     df_dialign = df_model_speaker_B.drop('Unified', axis=1)
     df_dialign['Speaker'] = df_dialign['Speaker'].apply(lambda x: x + ":")
-    df_dialign.to_csv(directory_tsv+filename_tsv, sep="\t", header=False, index=False)
+    df_dialign.to_csv(directory_tsv_B_M+filename_tsv, sep="\t", header=False, index=False)
     
     stop_file_time = datetime.now()
     print("Processing Time:", stop_file_time - start_file_time)
