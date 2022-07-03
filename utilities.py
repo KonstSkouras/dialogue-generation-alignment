@@ -19,10 +19,10 @@ def create_directory_safe(directory):
 
 def create_result_directories(models_list, to_local_directory=False, dataset="Switchboard-Corpus", model_type="base"):  
   if to_local_directory:
-    res_directory = "./results/" + dataset + "/expetiments/"
-    data_directory = ".results/" + dataset + "/data_modified/"
+    res_directory = "./results/" + dataset + "/experiments/"
+    data_directory = "./results/" + dataset + "/data_modified/"
   else:
-    res_directory = "/content/results/" + dataset + "/expetiments/" 
+    res_directory = "/content/results/" + dataset + "/experiments/" 
     data_directory = "/content/" + dataset + "/data_modified/"
 
   create_directory_safe(res_directory)
@@ -71,6 +71,12 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
       res_dict["directory_csv_B_M"] = directory_csv_B
       # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
       create_directory_safe(directory_csv_B)
+    # else:
+    #   directory_csv_A_B = directory_csv + "speaker_A_B/"
+    #   res_dict["directory_csv_A_B"] = directory_csv_A_B
+    #   # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
+    #   create_directory_safe(directory_csv_A_B)
+    
 
     # Create tsv directorie(s).
     directory_tsv = model_directory + "tsv/"
