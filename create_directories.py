@@ -1,10 +1,12 @@
 from utilities import create_result_directories
 
 models_list = ["DialoGPT"]
-model_res_dict = create_result_directories(models_list, to_local_directory=True)
-
+create_result_directories(models_list, to_local_directory=True, dataset="Switchboard-Corpus", model_type="base")
+create_result_directories(models_list, to_local_directory=True, dataset="Switchboard-Corpus", model_type="finetuned")
+create_result_directories(models_list, to_local_directory=True, dataset="Maptask-Corpus")
 # print(model_res_dict)
-models_list = ["human"]
-human_res_dict = create_result_directories(models_list, to_local_directory=True)
 
+models_list = ["human"]
+create_result_directories(models_list, to_local_directory=True, dataset="Switchboard-Corpus")
+create_result_directories(models_list, to_local_directory=True, dataset="Maptask-Corpus")
 # print(human_res_dict)
