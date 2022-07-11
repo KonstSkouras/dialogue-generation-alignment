@@ -1,0 +1,427 @@
+A|0| M: _yeah_ 
+B|1| f: west 
+A|2| M: _right to the_ _east_ _then_ turn _to_ your _right_ 
+B|3| f: how far _do you_ west _do you_ want _me_ _to go_ 
+A|4| M: ehm you're _about_ three _inches_ 
+B|5| f: _right okay_ yes 
+A|6| M: _right i'm_ there 
+B|7| f: _just_ [the] bottom 
+A|8| M: [right] 
+B|9| f: [right] 
+A|10| M: _and_ _then_ [go] up 
+B|11| f: [east] over [the] footbridge 
+A|12| M: " !!!!,!! ' !! "" !! 2018 !! 2019 !! 2020 !! 2017 !! 2018 !! 4 !! 8 !! 6 !! 7 !! 88 !!!.!! 86 !! 886 !! 84 !!,!! 889 !! 888 !! 89 !! " 
+B|13| f: [right] 
+A|14| M: " !!! "" !! ' !! Siri !! [okay] !!! ' !! 2 !! " 
+B|15| f: _no_ 
+A|16| M: [no] [okay] _go down_ _about_ an _inch_ _and_ _a_ half 
+B|17| f: _two inches_ [right] 
+A|18| M: _and_ _then_ _go to_ your [right] _about_ [two] _and_ _a_ half [inches] 
+B|19| f: [right] _that's_ [okay] 
+A|20| M: _and_ _then_ _come_ along _a_ wee _bit_ _to the right_ _and_ [that's] us _finished_ 
+B|21| f: yes 
+A|22| M: _right go_ along _the top_ _of _the_ old_ _mountain_ _and_ _then_ up [the] left-hand side _of_ _it_ 
+B|23| f: _do _you_ go_ _go [right_ [go] [to] the right] 
+A|24| M: _yeah_ [go _right] to the top_ _of the_ temple 
+B|25| f: [right] 
+A|26| M: _and_ [go] up 
+B|27| f: "i _don't have_ ""x"" marks [finished] how far _above [the_ old] temple" 
+A|28| M: "ehm it's _about_ an an _inch_ [to the] [east] _of the_ ""y""" 
+B|29| f: [yeah] 
+A|30| M: [right] you're _going_ [to _go] down_ slightly _from_ that _and_ _then_ you're kind _of_ _going_ [to] curve up slightly _and_ _then_ _back_ up _again_ _like_ _a_ kind _of_ hill 
+B|31| f: _so_ this is [about] [a] _ten_ [inch] _line from_ [the] _where_ i am _just now_ 
+A|32| M: _uh-huh_ [ten] [about] twelve centimetres 
+B|33| f: [right] _aye_ 
+A|34| M: " !!! ' !! "" !! ': !! 8 !! 4 !! 226 !! 428 !! 424 !! 286 !! 487 !! 92 !! 88 !! 488 !! 688 !! 889 !! 89 !! 886 !! 887 !!!!!!!!!!!!!!!!.!!!!!!!.!!!!!!,!! " 
+B|35| f: _right okay_ 
+A|36| M: _and_ [you] _should_ see an [old] mill on your left-hand side 
+B|37| f: how far [right to] _my_ _my_ _left_ 
+A|38| M: [about] [two inches] 
+B|39| f: _so_ i _do_ i [go _to] the left of the_ abandoned truck 
+A|40| M: [no] [you [go] to] your [right] 
+B|41| f: [right] 
+A|42| M: [okay] 
+B|43| f: [no] _right do_ i _do_ i i stop before i reach [the] abandoned truck or after i reach [the] abandoned truck 
+A|44| M: [aye] [you] [do] 
+B|45| f: _right okay_ _right so_ i [go] [back] _left_ [again] i keep [going] _left_ i [go down] [then] i [go] _left_ 
+A|46| M: " !!! ' !! "" !! " 
+B|47| f: _right okay_ let _me_ cross this [bit] i haven't _got_ _any_ baboons [no] 
+A|48| M: [you] [don't have] [any] kind [of] marking at _all_ 
+B|49| f: [right] 
+A|50| M: [right [do] you] [have] [a] graveyard 
+B|51| f: [aye] 
+A|52| M: [okay] if [you] draw [a] [line from] [where] [you] are [just now] [a] straight one up [to the] left-hand side [of the] path you've [just] gone by 
+B|53| f: [right] 
+A|54| M: _and_ [then] curve round _the top_ [of the] banana tree 
+B|55| f: [right] 
+A|56| M: _and_ [then] [have] [you] [got] [a] collapsed shelter 
+B|57| f: [uh-huh] 
+A|58| M: [right] well you're [going] [to [go] down] slightly [to the left of] that 
+B|59| f: [right to the top] 
+A|60| M: uh [to the] 
+B|61| f: yes 
+A|62| M: [right] head up towards [east] lake 
+B|63| f: [right] [got] [you] 
+A|64| M: [right] _and_ [then] [go down] _and_ _under _the_ remote village_ 
+B|65| f: [no] 
+A|66| M: well if [you [go] right] up there's [a] [a] [a] [bit] [right so] [you] _should_ be [above] [have] [you] [got] [the] stone creek 
+B|67| f: yes 
+A|68| M: [right okay] if [you] take [the] middle [of the] [two] lines _and_ _come_ up [to] _just above _the_ remote_ 
+B|69| f: [should] directly _below_ _me_ _almost_ 
+A|70| M: [almost] [right to the] edge [of the] paper 
+B|71| f: [right i'm] [right] [under] [it] 
+A|72| M: _and_ [then] [you go] along [the] side [of] [it] 
+B|73| f: mmhmm 
+A|74| M: [okay] 
+B|75| f: [right] [all] [right] [no] problem 
+A|76| M: [right] 
+B|77| f: [right i'm] [so] [i'm] [just above _the] white_ [mountain] 
+A|78| M: [just above the] peak [of [the] white] 
+B|79| f: mmhmm 
+A|80| M: [right] you're [going] [to go] along ehm heading [down] towards your [left] [about] an [inch] [a] slope 
+B|81| f: i [have] cleared _it right_ [the remote village] is [like] ah _four inches below_ _the pyramid_ _in_ this 
+A|82| M: [four inches below] [it right] 
+B|83| f: [right] 
+A|84| M: [okay] 
+B|85| f: [right i'm] _in between_ [the remote village] [and] _the pyramid_ 
+A|86| M: [uh-huh] you're [in between] 
+B|87| f: [uh-huh] 
+A|88| M: [right okay] 
+B|89| f: because [you] told _me_ [to] [come] [under _the] pyramid_ 
+A|90| M: well you're you're underneath [it] [now] 
+B|91| f: [right] 
+A|92| M: [and] [then] [go] up [have] [you] [got] [a] cobbled street marked 
+B|93| f: i [have] [come] across far enough [now] 
+A|94| M: [right] [you] [should] be [about] three [four] centimetres [above the] peak [of [the] pyramid] you're making [me] pick [my] nose 
+B|95| f: [right] 
+A|96| M: [and] [then] [come] up north [and] you'll pass [a] forge on [the] north [of] [it] 
+B|97| f: [right] i've [got] [you] 
+A|98| M: [and] [then] [go] south [to the] edge [of the] map [to the left of [the] remote] 
+B|99| f: [uh-huh] 
+A|100| M: [and] [then] [you [go] down] 
+B|101| f: [right] 
+A|102| M: [and] [then] turn [right] wait [a] minute you've not [got] [the remote] 
+B|103| f: how far 
+A|104| M: ehm [about] three [inches] 
+B|105| f: [right] [right] [right] [that's] [it] 
+
+
+TURN DETAILS:
+Turn ID=0| A | M : yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=1| B | f : west
+	Free: 
+	Constrained: 
+Turn ID=2| A | M : right to the east then turn to your right
+	Free: Pattern=right, Pattern=then, Pattern=right to the, Pattern=to, Pattern=east
+	Constrained: Pattern=right, Pattern=to the, Pattern=the, Pattern=to, Pattern=right to
+Turn ID=3| B | f : how far do you west do you want me to go
+	Free: Pattern=to go, Pattern=do you, Pattern=me
+	Constrained: Pattern=do, Pattern=to, Pattern=you, Pattern=go
+Turn ID=4| A | M : ehm you're about three inches
+	Free: Pattern=about, Pattern=inches
+	Constrained: 
+Turn ID=5| B | f : right okay yes
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=6| A | M : right i'm there
+	Free: Pattern=right i'm
+	Constrained: Pattern=right, Pattern=i'm
+Turn ID=7| B | f : just the bottom
+	Free: Pattern=just, Pattern=the
+	Constrained: 
+Turn ID=8| A | M : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=9| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=10| A | M : and then go up
+	Free: Pattern=go, Pattern=then, Pattern=and
+	Constrained: 
+Turn ID=11| B | f : east over the footbridge
+	Free: Pattern=east, Pattern=the
+	Constrained: 
+Turn ID=12| A | M : " !!!!,!! ' !! "" !! 2018 !! 2019 !! 2020 !! 2017 !! 2018 !! 4 !! 8 !! 6 !! 7 !! 88 !!!.!! 86 !! 886 !! 84 !!,!! 889 !! 888 !! 89 !! "
+	Free: 
+	Constrained: 
+Turn ID=13| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=14| A | M : " !!! "" !! ' !! Siri !! okay !!! ' !! 2 !! "
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=15| B | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=16| A | M : no okay go down about an inch and a half
+	Free: Pattern=no, Pattern=a, Pattern=about, Pattern=and, Pattern=inch, Pattern=go down, Pattern=okay
+	Constrained: Pattern=down, Pattern=go
+Turn ID=17| B | f : two inches right
+	Free: Pattern=two inches, Pattern=right
+	Constrained: Pattern=inches, Pattern=two
+Turn ID=18| A | M : and then go to your right about two and a half inches
+	Free: Pattern=go to, Pattern=right, Pattern=and, Pattern=two, Pattern=then, Pattern=a, Pattern=about, Pattern=inches
+	Constrained: Pattern=to, Pattern=go
+Turn ID=19| B | f : right that's okay
+	Free: Pattern=that's, Pattern=right, Pattern=okay
+	Constrained: 
+Turn ID=20| A | M : and then come along a wee bit to the right and that's us finished
+	Free: Pattern=come, Pattern=and, Pattern=to the right, Pattern=then, Pattern=bit, Pattern=a, Pattern=that's, Pattern=finished
+	Constrained: Pattern=to the, Pattern=to, Pattern=right, Pattern=the
+Turn ID=21| B | f : yes
+	Free: 
+	Constrained: 
+Turn ID=22| A | M : right go along the top of the old mountain and then up the left-hand side of it
+	Free: Pattern=of, Pattern=the old, Pattern=then, Pattern=mountain, Pattern=the, Pattern=right go, Pattern=the top, Pattern=of the, Pattern=it, Pattern=and
+	Constrained: Pattern=go, Pattern=the, Pattern=old, Pattern=right, Pattern=of
+Turn ID=23| B | f : do you go go right go to the right
+	Free: Pattern=go to, Pattern=you go, Pattern=do you, Pattern=right go, Pattern=go right, Pattern=to the right
+	Constrained: Pattern=right, Pattern=you, Pattern=go, Pattern=do, Pattern=to the, Pattern=the, Pattern=to
+Turn ID=24| A | M : yeah go right to the top of the temple
+	Free: Pattern=right to the top, Pattern=go right, Pattern=of the, Pattern=yeah
+	Constrained: Pattern=go, Pattern=to the, Pattern=right to the, Pattern=the, Pattern=to, Pattern=right, Pattern=of, Pattern=the top, Pattern=right to
+Turn ID=25| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=26| A | M : and go up
+	Free: Pattern=go, Pattern=and
+	Constrained: 
+Turn ID=27| B | f : "i don't have ""x"" marks finished how far above the old temple"
+	Free: Pattern=above the, Pattern=don't have, Pattern=the old, Pattern=finished
+	Constrained: Pattern=old, Pattern=have, Pattern=above, Pattern=the
+Turn ID=28| A | M : "ehm it's about an an inch to the east of the ""y"""
+	Free: Pattern=to the, Pattern=inch, Pattern=about, Pattern=of the, Pattern=east
+	Constrained: Pattern=to, Pattern=of, Pattern=the
+Turn ID=29| B | f : yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=30| A | M : right you're going to go down slightly from that and then you're kind of going to curve up slightly and then back up again like a kind of hill
+	Free: Pattern=going, Pattern=and, Pattern=from, Pattern=back, Pattern=like, Pattern=to, Pattern=go down, Pattern=right, Pattern=of, Pattern=then, Pattern=a, Pattern=again, Pattern=to go
+	Constrained: Pattern=down, Pattern=to, Pattern=go
+Turn ID=31| B | f : so this is about a ten inch line from the where i am just now
+	Free: Pattern=a, Pattern=inch, Pattern=where, Pattern=ten, Pattern=the, Pattern=just now, Pattern=so, Pattern=about, Pattern=line from
+	Constrained: Pattern=just, Pattern=now, Pattern=from
+Turn ID=32| A | M : uh-huh ten about twelve centimetres
+	Free: Pattern=about, Pattern=uh-huh, Pattern=ten
+	Constrained: 
+Turn ID=33| B | f : right aye
+	Free: Pattern=right, Pattern=aye
+	Constrained: 
+Turn ID=34| A | M : " !!! ' !! "" !! ': !! 8 !! 4 !! 226 !! 428 !! 424 !! 286 !! 487 !! 92 !! 88 !! 488 !! 688 !! 889 !! 89 !! 886 !! 887 !!!!!!!!!!!!!!!!.!!!!!!!.!!!!!!,!! "
+	Free: 
+	Constrained: 
+Turn ID=35| B | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=36| A | M : and you should see an old mill on your left-hand side
+	Free: Pattern=old, Pattern=you, Pattern=and, Pattern=should
+	Constrained: 
+Turn ID=37| B | f : how far right to my my left
+	Free: Pattern=right to, Pattern=my, Pattern=left
+	Constrained: Pattern=right, Pattern=to
+Turn ID=38| A | M : about two inches
+	Free: Pattern=two inches, Pattern=about
+	Constrained: Pattern=inches, Pattern=two
+Turn ID=39| B | f : so i do i go to the left of the abandoned truck
+	Free: Pattern=to the left of the, Pattern=go to, Pattern=do, Pattern=so
+	Constrained: Pattern=to the left of, Pattern=of, Pattern=go, Pattern=to the, Pattern=left, Pattern=the, Pattern=to, Pattern=of the
+Turn ID=40| A | M : no you go to your right
+	Free: Pattern=go to, Pattern=you go, Pattern=right, Pattern=no
+	Constrained: Pattern=to, Pattern=you, Pattern=go
+Turn ID=41| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=42| A | M : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=43| B | f : no right do i do i i stop before i reach the abandoned truck or after i reach the abandoned truck
+	Free: Pattern=right do, Pattern=do, Pattern=no, Pattern=the
+	Constrained: Pattern=do, Pattern=right
+Turn ID=44| A | M : aye you do
+	Free: Pattern=do, Pattern=you, Pattern=aye
+	Constrained: 
+Turn ID=45| B | f : right okay right so i go back left again i keep going left i go down then i go left
+	Free: Pattern=going, Pattern=go, Pattern=left, Pattern=back, Pattern=again, Pattern=right okay, Pattern=go down, Pattern=then, Pattern=right so
+	Constrained: Pattern=right, Pattern=go, Pattern=down, Pattern=so, Pattern=okay
+Turn ID=46| A | M : " !!! ' !! "" !! "
+	Free: 
+	Constrained: 
+Turn ID=47| B | f : right okay let me cross this bit i haven't got any baboons no
+	Free: Pattern=me, Pattern=no, Pattern=bit, Pattern=any, Pattern=got, Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=48| A | M : you don't have any kind of marking at all
+	Free: Pattern=of, Pattern=you, Pattern=any, Pattern=don't have, Pattern=all
+	Constrained: Pattern=have
+Turn ID=49| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=50| A | M : right do you have a graveyard
+	Free: Pattern=do you, Pattern=right do, Pattern=a, Pattern=have
+	Constrained: Pattern=do, Pattern=right, Pattern=you
+Turn ID=51| B | f : aye
+	Free: Pattern=aye
+	Constrained: 
+Turn ID=52| A | M : okay if you draw a line from where you are just now a straight one up to the left-hand side of the path you've just gone by
+	Free: Pattern=you, Pattern=just, Pattern=a, Pattern=to the, Pattern=line from, Pattern=where, Pattern=just now, Pattern=of the, Pattern=okay
+	Constrained: Pattern=of, Pattern=just, Pattern=from, Pattern=the, Pattern=to, Pattern=now
+Turn ID=53| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=54| A | M : and then curve round the top of the banana tree
+	Free: Pattern=the top, Pattern=of the, Pattern=then, Pattern=and
+	Constrained: Pattern=of, Pattern=the
+Turn ID=55| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=56| A | M : and then have you got a collapsed shelter
+	Free: Pattern=you, Pattern=have, Pattern=and, Pattern=got, Pattern=then, Pattern=a
+	Constrained: 
+Turn ID=57| B | f : uh-huh
+	Free: Pattern=uh-huh
+	Constrained: 
+Turn ID=58| A | M : right well you're going to go down slightly to the left of that
+	Free: Pattern=to the left of, Pattern=right, Pattern=going, Pattern=to go, Pattern=go down
+	Constrained: Pattern=of, Pattern=go, Pattern=down, Pattern=to the, Pattern=left, Pattern=the, Pattern=to
+Turn ID=59| B | f : right to the top
+	Free: Pattern=right to the top
+	Constrained: Pattern=right, Pattern=to the, Pattern=right to the, Pattern=the, Pattern=to, Pattern=the top, Pattern=right to
+Turn ID=60| A | M : uh to the
+	Free: Pattern=to the
+	Constrained: Pattern=to, Pattern=the
+Turn ID=61| B | f : yes
+	Free: 
+	Constrained: 
+Turn ID=62| A | M : right head up towards east lake
+	Free: Pattern=right, Pattern=east
+	Constrained: 
+Turn ID=63| B | f : right got you
+	Free: Pattern=got, Pattern=right, Pattern=you
+	Constrained: 
+Turn ID=64| A | M : right and then go down and under the remote village
+	Free: Pattern=then, Pattern=and, Pattern=under the, Pattern=go down, Pattern=right, Pattern=the remote village
+	Constrained: Pattern=go, Pattern=the, Pattern=under, Pattern=down, Pattern=the remote
+Turn ID=65| B | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=66| A | M : well if you go right up there's a a a bit right so you should be above have you got the stone creek
+	Free: Pattern=you, Pattern=have, Pattern=go right, Pattern=the, Pattern=got, Pattern=should, Pattern=above, Pattern=right so, Pattern=you go, Pattern=bit, Pattern=a
+	Constrained: Pattern=right, Pattern=so, Pattern=you, Pattern=go
+Turn ID=67| B | f : yes
+	Free: 
+	Constrained: 
+Turn ID=68| A | M : right okay if you take the middle of the two lines and come up to just above the remote
+	Free: Pattern=just above the, Pattern=you, Pattern=and, Pattern=two, Pattern=the, Pattern=to, Pattern=come, Pattern=the remote, Pattern=right okay, Pattern=of the
+	Constrained: Pattern=just, Pattern=above, Pattern=above the, Pattern=the, Pattern=okay, Pattern=right, Pattern=of
+Turn ID=69| B | f : should directly below me almost
+	Free: Pattern=me, Pattern=below, Pattern=should, Pattern=almost
+	Constrained: 
+Turn ID=70| A | M : almost right to the edge of the paper
+	Free: Pattern=right to the, Pattern=of the, Pattern=almost
+	Constrained: Pattern=to the, Pattern=the, Pattern=to, Pattern=right to, Pattern=right, Pattern=of
+Turn ID=71| B | f : right i'm right under it
+	Free: Pattern=right i'm, Pattern=right, Pattern=under, Pattern=it
+	Constrained: Pattern=right, Pattern=i'm
+Turn ID=72| A | M : and then you go along the side of it
+	Free: Pattern=of, Pattern=the, Pattern=then, Pattern=you go, Pattern=it, Pattern=and
+	Constrained: Pattern=you, Pattern=go
+Turn ID=73| B | f : mmhmm
+	Free: 
+	Constrained: 
+Turn ID=74| A | M : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=75| B | f : right all right no problem
+	Free: Pattern=right, Pattern=all, Pattern=no
+	Constrained: 
+Turn ID=76| A | M : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=77| B | f : right i'm so i'm just above the white mountain
+	Free: Pattern=just above the, Pattern=the white, Pattern=right i'm, Pattern=mountain, Pattern=i'm, Pattern=so
+	Constrained: Pattern=right, Pattern=just, Pattern=above, Pattern=i'm, Pattern=above the, Pattern=the
+Turn ID=78| A | M : just above the peak of the white
+	Free: Pattern=just above the, Pattern=the white, Pattern=of the
+	Constrained: Pattern=of, Pattern=just, Pattern=above, Pattern=above the, Pattern=the
+Turn ID=79| B | f : mmhmm
+	Free: 
+	Constrained: 
+Turn ID=80| A | M : right you're going to go along ehm heading down towards your left about an inch a slope
+	Free: Pattern=right, Pattern=going, Pattern=a, Pattern=down, Pattern=inch, Pattern=about, Pattern=left, Pattern=to go
+	Constrained: Pattern=to, Pattern=go
+Turn ID=81| B | f : i have cleared it right the remote village is like ah four inches below the pyramid in this
+	Free: Pattern=the remote village, Pattern=the pyramid, Pattern=in, Pattern=like, Pattern=it right, Pattern=have, Pattern=four inches below
+	Constrained: Pattern=below, Pattern=right, Pattern=four, Pattern=the remote, Pattern=it, Pattern=inches, Pattern=the
+Turn ID=82| A | M : four inches below it right
+	Free: Pattern=four inches below, Pattern=it right
+	Constrained: Pattern=below, Pattern=right, Pattern=four, Pattern=it, Pattern=inches
+Turn ID=83| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=84| A | M : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=85| B | f : right i'm in between the remote village and the pyramid
+	Free: Pattern=in between, Pattern=the remote village, Pattern=the pyramid, Pattern=right i'm, Pattern=and
+	Constrained: Pattern=right, Pattern=the remote, Pattern=in, Pattern=i'm, Pattern=the
+Turn ID=86| A | M : uh-huh you're in between
+	Free: Pattern=in between, Pattern=uh-huh
+	Constrained: Pattern=in
+Turn ID=87| B | f : uh-huh
+	Free: Pattern=uh-huh
+	Constrained: 
+Turn ID=88| A | M : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=89| B | f : because you told me to come under the pyramid
+	Free: Pattern=me, Pattern=come, Pattern=under the, Pattern=to, Pattern=the pyramid, Pattern=you
+	Constrained: Pattern=under, Pattern=the
+Turn ID=90| A | M : well you're you're underneath it now
+	Free: Pattern=now, Pattern=it
+	Constrained: 
+Turn ID=91| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=92| A | M : and then go up have you got a cobbled street marked
+	Free: Pattern=you, Pattern=have, Pattern=go, Pattern=and, Pattern=got, Pattern=then, Pattern=a
+	Constrained: 
+Turn ID=93| B | f : i have come across far enough now
+	Free: Pattern=now, Pattern=have, Pattern=come
+	Constrained: 
+Turn ID=94| A | M : right you should be about three four centimetres above the peak of the pyramid you're making me pick my nose
+	Free: Pattern=right, Pattern=four, Pattern=me, Pattern=should, Pattern=about, Pattern=above the, Pattern=my, Pattern=of the, Pattern=the pyramid, Pattern=you
+	Constrained: Pattern=of, Pattern=above, Pattern=the
+Turn ID=95| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=96| A | M : and then come up north and you'll pass a forge on the north of it
+	Free: Pattern=of, Pattern=come, Pattern=the, Pattern=then, Pattern=a, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=97| B | f : right i've got you
+	Free: Pattern=got, Pattern=right, Pattern=you
+	Constrained: 
+Turn ID=98| A | M : and then go south to the edge of the map to the left of the remote
+	Free: Pattern=go, Pattern=then, Pattern=the remote, Pattern=to the, Pattern=and, Pattern=to the left of the, Pattern=of the
+	Constrained: Pattern=to the left of, Pattern=of, Pattern=to the, Pattern=left, Pattern=the, Pattern=to, Pattern=of the
+Turn ID=99| B | f : uh-huh
+	Free: Pattern=uh-huh
+	Constrained: 
+Turn ID=100| A | M : and then you go down
+	Free: Pattern=go down, Pattern=you go, Pattern=then, Pattern=and
+	Constrained: Pattern=down, Pattern=you, Pattern=go
+Turn ID=101| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=102| A | M : and then turn right wait a minute you've not got the remote
+	Free: Pattern=right, Pattern=the remote, Pattern=and, Pattern=got, Pattern=then, Pattern=a
+	Constrained: Pattern=the
+Turn ID=103| B | f : how far
+	Free: 
+	Constrained: 
+Turn ID=104| A | M : ehm about three inches
+	Free: Pattern=about, Pattern=inches
+	Constrained: 
+Turn ID=105| B | f : right right right that's it
+	Free: Pattern=that's, Pattern=right, Pattern=it
+	Constrained: 
