@@ -17,7 +17,7 @@ def create_directory_safe(directory):
     os.makedirs(directory)
     print("Creating directory %s", directory)
 
-def create_result_directories(models_list, to_local_directory=False, dataset="Switchboard-Corpus", model_type="base"):  
+def create_result_directories(models_list, to_local_directory=False, dataset="Switchboard-Corpus", model_type="base", speakers=["A", "B"]):  
   if to_local_directory:
     res_directory = "./results/" + dataset + "/experiments/"
     data_directory = "./results/" + dataset + "/data_modified/"
@@ -44,17 +44,6 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
     # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
     create_directory_safe(directory_c_csv)
 
-    # if(model_name != "human"):
-    #   directory_c_csv_A = directory_c_csv + "speaker_A_M/"
-    #   res_dict["directory_c_csv_A_M"] = directory_c_csv_A
-    #   # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
-    #   create_directory_safe(directory_c_csv_A)
-
-    #   directory_c_csv_B = directory_c_csv + "speaker_B_M/"
-    #   res_dict["directory_c_csv_B_M"] = directory_c_csv_B
-    #   # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
-    #   create_directory_safe(directory_c_csv_B)
-
     # Create csv directorie(s).
     directory_csv = model_directory + "csv/"
     res_dict["directory_csv"] = directory_csv
@@ -62,82 +51,67 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
     create_directory_safe(directory_csv)
 
     if(model_name != "human"):
-      directory_csv_A = directory_csv + "speaker_A_M/"
-      res_dict["directory_csv_A_M"] = directory_csv_A
-      # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
-      create_directory_safe(directory_csv_A)
-
-      directory_csv_B = directory_csv + "speaker_B_M/"
-      res_dict["directory_csv_B_M"] = directory_csv_B
-      # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
-      create_directory_safe(directory_csv_B)
-    # else:
-    #   directory_csv_A_B = directory_csv + "speaker_A_B/"
-    #   res_dict["directory_csv_A_B"] = directory_csv_A_B
-    #   # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
-    #   create_directory_safe(directory_csv_A_B)
+      dir_init_name = "directory_csv_"
+      for speaker in speakers:
+        dir_end_name = speaker + "_M"
+        directory_csv_speaker = directory_csv + "speaker_" + dir_end_name + "/"
+        
+        res_dict[dir_init_name+dir_end_name] = directory_csv_speaker
+        create_directory_safe(directory_csv_speaker)
     
-
-    # Create tsv directorie(s).
     directory_tsv = model_directory + "tsv/"
     res_dict["directory_tsv"] = directory_tsv
     # directory_tsv = "/content/Switchboard-Corpus/results/base_DialoGPT/tsv/"
     create_directory_safe(directory_tsv)
 
     if(model_name != "human"):
-      directory_tsv_A = directory_tsv + "speaker_A_M/"
-      res_dict["directory_tsv_A_M"] = directory_tsv_A
-      # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
-      create_directory_safe(directory_tsv_A)
+      dir_init_name = "directory_tsv_"
+      for speaker in speakers:
+        dir_end_name =  speaker + "_M"
+        directory_tsv_speaker = directory_tsv + "speaker_" + dir_end_name + "/"
+        
+        res_dict[dir_init_name + dir_end_name] = directory_tsv_speaker
+        create_directory_safe(directory_tsv_speaker)
+    # else:
+    #   speaker_1 = speakers[0]
+    #   speaker_2 = speakers[1]
+    #   dir_end_name = "speaker_" + speaker_1 + "_" + speaker_2
+    #   directory_tsv_speaker = directory_tsv + dir_end_name + "/"
+        
+    #   res_dict[dir_init_name + dir_end_name] = directory_tsv_speaker
+    #   create_directory_safe(directory_tsv_speaker)
 
-      directory_tsv_B = directory_tsv + "speaker_B_M/"
-      res_dict["directory_tsv_B_M"] = directory_tsv_B
-      # directory_c_csv = "/content/Switchboard-Corpus/results/base_DialoGPT/contexed_csv/"
-      create_directory_safe(directory_tsv_B)
 
     # Create Scrambled directorie(s).
     directory_scrambled = model_directory + "scrambled/"
     res_dict["directory_scrambled"] = directory_scrambled
     create_directory_safe(directory_scrambled)
 
-    # directory_scrambled_csv = directory_scrambled + "csv/"
-    # res_dict["directory_scrambled_csv"] = directory_scrambled_csv
-    # create_directory_safe(directory_scrambled_csv)
-
-    # if(model_name != "human"):
-    #   directory_scrambled_csv_A = directory_scrambled_csv + "speaker_A_M/"
-    #   res_dict["directory_scrambled_csv_A_M"] = directory_scrambled_csv_A
-    #   create_directory_safe(directory_scrambled_csv_A)
-
-    #   directory_scrambled_csv_B = directory_scrambled_csv + "speaker_B_M/"
-    #   res_dict["directory_scrambled_csv_B_M"] = directory_scrambled_csv_B
-    #   create_directory_safe(directory_scrambled_csv_B)
-
     directory_scrambled_tsv = directory_scrambled + "tsv/"
     res_dict["directory_scrambled_tsv"] = directory_scrambled_tsv
     create_directory_safe(directory_scrambled_tsv)
 
     if(model_name != "human"):
-      directory_scrambled_tsv_A = directory_scrambled_tsv + "speaker_A_M/"
-      res_dict["directory_scrambled_tsv_A_M"] = directory_scrambled_tsv_A
-      create_directory_safe(directory_scrambled_tsv_A)
-
-      directory_scrambled_tsv_B = directory_scrambled_tsv + "speaker_B_M/"
-      res_dict["directory_scrambled_tsv_B_M"] = directory_scrambled_tsv_B
-      create_directory_safe(directory_scrambled_tsv_B)
+      dir_init_name = "directory_scrambled_tsv_"
+      for speaker in speakers:
+        dir_end_name = speaker + "_M"
+        directory_scrambled_tsv_speaker = directory_scrambled_tsv + "speaker_" + dir_end_name + "/"
+        
+        res_dict[dir_init_name + dir_end_name] = directory_scrambled_tsv_speaker
+        create_directory_safe(directory_scrambled_tsv_speaker)
 
     directory_scrambled_txt = directory_scrambled + "txt/"
     res_dict["directory_scrambled_txt"] = directory_scrambled_txt
     create_directory_safe(directory_scrambled_txt)
 
     if(model_name != "human"):
-      directory_scrambled_txt_A = directory_scrambled_txt + "speaker_A_M/"
-      res_dict["directory_scrambled_txt_A_M"] = directory_scrambled_txt_A
-      create_directory_safe(directory_scrambled_txt_A)
-
-      directory_scrambled_txt_B = directory_scrambled_txt + "speaker_B_M/"
-      res_dict["directory_scrambled_txt_B_M"] = directory_scrambled_txt_B
-      create_directory_safe(directory_scrambled_txt_B)
+      dir_init_name = "directory_scrambled_txt_"
+      for speaker in speakers:
+        dir_end_name = speaker + "_M"
+        directory_scrambled_txt_speaker = directory_scrambled_txt + "speaker_" + dir_end_name + "/"
+        
+        res_dict[dir_init_name + dir_end_name] = directory_scrambled_txt_speaker
+        create_directory_safe(directory_scrambled_txt_speaker)
 
     model_res_dict[full_model_name] = res_dict
   return model_res_dict
@@ -441,22 +415,29 @@ def test_all(model,
              model_type,
              tokenizer,
              output_dirs,
+             speakers=["A","B"],
              verbose = False, 
              data_dir = './external/Switchboard-Corpus/swda_data/test/', 
              text_file = None, 
              n = HISTORY_CONTEXT_LENGTH):
   
   full_model_name = model_type + "_" + model_name
-  
+  speaker_1 = speakers[0]
+  speaker_2 = speakers[1]
+
   directory_c_csv = output_dirs[full_model_name]["directory_c_csv"]
   
   # directory_csv = output_dirs[full_model_name]["directory_csv"]
-  directory_csv_A_M = output_dirs[full_model_name]["directory_csv_A_M"]
-  directory_csv_B_M = output_dirs[full_model_name]["directory_csv_B_M"]
+  dir_name_1 = "directory_csv_" + speaker_1 + "_M" # ie directory_csv_A_M 
+  dir_name_2 = "directory_csv_" + speaker_2 + "_M"
+  directory_csv_1_M = output_dirs[full_model_name][dir_name_1]
+  directory_csv_2_M = output_dirs[full_model_name][dir_name_2]
 
   # directory_tsv = output_dirs[full_model_name]["directory_tsv"]
-  directory_tsv_A_M = output_dirs[full_model_name]["directory_tsv_A_M"]
-  directory_tsv_B_M = output_dirs[full_model_name]["directory_tsv_B_M"]
+  dir_name_1 = "directory_tsv_" + speaker_1 + "_M" # ie directory_tsv_A_M 
+  dir_name_2 = "directory_tsv_" + speaker_2 + "_M"
+  directory_tsv_1_M = output_dirs[full_model_name][dir_name_1]
+  directory_tsv_2_M = output_dirs[full_model_name][dir_name_2]
   
   force_file = False
   if (text_file):
@@ -507,40 +488,40 @@ def test_all(model,
     # 5. Create speaker A - model df and save as csv and tsv (for dialign).
     # -> remove the first n utterances that there is no model generated text 
     #    for replacement.
-    print("5. Create speaker A - model df")
-    df_model_speaker_A = create_model_speaker_df(df_test, df_model, speaker="A",
+    print("5. Create speaker 1 - model df")
+    df_model_speaker_1 = create_model_speaker_df(df_test, df_model, speaker=speaker_1,
                                                  n=n, remove_first_context=True)
-    filename = txt_file + '-' + full_model_name + '-speaker_A'
+    filename = txt_file + '-' + full_model_name + '-speaker_' + speaker_1
     # 5.1 Save to csv.
     filaname_csv = filename + '.csv'
     print("5.1 Save to csv:", filaname_csv)
-    df_model_speaker_A.to_csv(directory_csv_A_M+filaname_csv)
+    df_model_speaker_1.to_csv(directory_csv_1_M+filaname_csv)
 
     # 5.2 Save to tsv for dialign.
     filename_tsv = filename + '.tsv'
     print("5.2 Save to tsv for dialign:", filename_tsv)
-    df_dialign = df_model_speaker_A.drop('Unified', axis=1)
+    df_dialign = df_model_speaker_1.drop('Unified', axis=1)
     df_dialign['Speaker'] = df_dialign['Speaker'].apply(lambda x: x + ":")
-    df_dialign.to_csv(directory_tsv_A_M+filename_tsv, sep="\t", header=False, index=False)
+    df_dialign.to_csv(directory_tsv_1_M+filename_tsv, sep="\t", header=False, index=False)
     
     # 6. Create speaker B - model df and save as csv and tsv (for dialign).
     # -> remove the first n utterances that there is no model generated text 
     #    for replacement.
-    print("6. Create speaker B - model df")
-    df_model_speaker_B = create_model_speaker_df(df_test, df_model, speaker="B",
+    print("6. Create speaker 2 - model df")
+    df_model_speaker_2 = create_model_speaker_df(df_test, df_model, speaker=speaker_2,
                                                  n=n, remove_first_context=True)
     # 6.1 Save to csv.
-    filename = txt_file + '-' + full_model_name + '-speaker_B'
+    filename = txt_file + '-' + full_model_name + '-speaker_' + speaker_2
     filaname_csv = filename + '.csv'
     print("6.1 Save to csv:", filaname_csv)
-    df_model_speaker_B.to_csv(directory_csv_B_M+filaname_csv)
+    df_model_speaker_2.to_csv(directory_csv_2_M+filaname_csv)
 
     # 6.2 Save to tsv for dialign.
     filename_tsv = filename + '.tsv'
     print("6.2 Save to tsv for dialign:", filename_tsv)
-    df_dialign = df_model_speaker_B.drop('Unified', axis=1)
+    df_dialign = df_model_speaker_2.drop('Unified', axis=1)
     df_dialign['Speaker'] = df_dialign['Speaker'].apply(lambda x: x + ":")
-    df_dialign.to_csv(directory_tsv_B_M+filename_tsv, sep="\t", header=False, index=False)
+    df_dialign.to_csv(directory_tsv_2_M+filename_tsv, sep="\t", header=False, index=False)
     
     stop_file_time = datetime.now()
     print("Processing Time:", stop_file_time - start_file_time)
