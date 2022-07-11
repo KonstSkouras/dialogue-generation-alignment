@@ -1,0 +1,427 @@
+A|0| M: _right_ i'll be there soon 
+B|1| f: _west_ 
+A|2| M: oh _right so_ _you want_ _to _go_ to the_ _east_ ? 
+B|3| f: _how far_ _do you_ _west_ _do [you_ want] _me_ [to go] 
+A|4| M: [west] _to the_ end 
+B|5| f: [right] _okay_ _yes_ 
+A|6| M: yea north _of_ crestfall 
+B|7| f: _just_ _the bottom_ 
+A|8| M: I _don't_ know if I'm missing something , but [how far] away are [you] ? 
+B|9| f: [right] 
+A|10| M: I'm _going_ [to] take _a_ guess _and_ say it's [the bottom] [right] _of [the_ bottom] _line_ . 
+B|11| f: [east] over [the] footbridge 
+A|12| M: _where_ are [you] _going_ [to] _stop_ at ? 
+B|13| f: [right] 
+A|14| M: gravel _is_ _a_ sign _of_ _a_ lie 
+B|15| f: _no_ 
+A|16| M: _i do_ 
+B|17| f: two inches [right] 
+A|18| M: [right] walkin 
+B|19| f: [right] that's _okay_ 
+A|20| M: [how far] are [you] willing [to go] 
+B|21| f: _yes_ 
+A|22| M: _i have_ _a_ temple 
+B|23| f: _do you go_ _go _right_ [go_ to _the] right_ 
+A|24| M: _right [do_ you [go] _right] _to the_ left_ 
+B|25| f: [right] 
+A|26| M: _right to the top_ 
+B|27| f: "i _don't have_ ""x"" marks finished [how far] _above_ [the] old temple" 
+A|28| M: [go to the] north shrine _of the_ [east] temple 
+B|29| f: _yeah_ 
+A|30| M: _left_ temple 
+B|31| f: [so] this [is] about [a] ten inch [line] from [the] [where] _i am_ _just_ _now_ 
+A|32| M: [no] , [i] [just] [have] [a] hard time getting [a] [line] _in_ [the right] place 
+B|33| f: [right] aye 
+A|34| M: [yeah] _i'm_ on [the] road 
+B|35| f: [right] _okay_ 
+A|36| M: _i'm in_ [the] [east] bay _and_ _i'm_ not even _in_ [a] jeep 
+B|37| f: [how far] [right _to] my_ _my left_ 
+A|38| M: [you] can [go] straight [to the] trash can , [you] [just] need [to go] through [the] dumpster first 
+B|39| f: [so] [i do] _i [go [to_ the] left] [of the] abandoned truck 
+A|40| M: if [you go] south you'll be _in_ [the right] 
+B|41| f: [right] 
+A|42| M: [i go [to] [my] _left] i go_ south 
+B|43| f: [no] [right do] [i do] [i] _i stop_ before [i] reach [the] abandoned truck or after [i] reach [the] abandoned truck 
+A|44| M: I [don't have] [a] way [to _go] back_ _and_ [do] that . 
+B|45| f: [right] _okay_ [right so] [i [go] back] [left] again [i] keep [going] [left i _go] down_ _then _i_ go left_ 
+A|46| M: [i go left] _and_ [then i] get up 
+B|47| f: [right] _okay_ let _me_ cross this bit [i] _haven't_ got _any_ baboons [no] 
+A|48| M: [okay] [i [go] right] [then [i] stop] 
+B|49| f: [right] 
+A|50| M: I [go down] [i go] up [then i] get up 
+B|51| f: aye 
+A|52| M: yea what ? 
+B|53| f: [right] 
+A|54| M: [right go] 
+B|55| f: [right] 
+A|56| M: [left] 
+B|57| f: uh-huh 
+A|58| M: [how] [is] [the] sky 
+B|59| f: [right to the top] 
+A|60| M: [right] [where] [the bottom] [of the] screen [is] 
+B|61| f: _yes_ 
+A|62| M: [you] mean _like_ _in_ _the pyramid_ ? 
+B|63| f: [right] got [you] 
+A|64| M: [i] can [do] _it_ _in_ [the] middle [of _the] pyramid_ if [you want] 
+B|65| f: [no] 
+A|66| M: [do you] [have] [any] cobbled streets ? 
+B|67| f: _yes_ 
+A|68| M: are [you] online [now] ? 
+B|69| f: should directly below _me_ almost 
+A|70| M: How [do you] know [where] [the] location [is] ? 
+B|71| f: [right] _i'm right_ under [it] 
+A|72| M: [i'm right] [above] [it] 
+B|73| f: mmhmm 
+A|74| M: I'm [just] _like_ that 
+B|75| f: [right] all [right] [no] problem 
+A|76| M: I'm not sure what [you] mean , I'm pretty sure I'm fine with that . 
+B|77| f: [right] [i'm] [so] [i'm] [just] [above] _the white_ mountain 
+A|78| M: it's [a] nice view [of _the] remote_ villages 
+B|79| f: mmhmm 
+A|80| M: I'm [above] [it] ! 
+B|81| f: [i have] cleared [it] [right] [the remote] _village_ [is] [like] ah four inches below [the pyramid] [in] this 
+A|82| M: I'm sorry , [i'm] not sure what [you] mean by that 
+B|83| f: [right] 
+A|84| M: [you] are [just] [me] 
+B|85| f: [right] [i'm in] between [the remote] _village_ [and] [the pyramid] 
+A|86| M: I'm [in] [the remote] Village , [so] it's fine 
+B|87| f: uh-huh 
+A|88| M: I've _come_ [to the] conclusion that [you] are [a] fake 
+B|89| f: because [you] told [me] [to] [come] under [the pyramid] 
+A|90| M: [i'm] confused 
+B|91| f: [right] 
+A|92| M: [yes] [i am] 
+B|93| f: [i have] _come across_ [far] enough [now] 
+A|94| M: You [haven't] [come across] [the white] [pyramid] 
+B|95| f: [right] 
+A|96| M: [you] are wrong 
+B|97| f: [right] i've got [you] 
+A|98| M: [yes] [it] [is] 
+B|99| f: uh-huh 
+A|100| M: [i'm in] [the] [village] 
+B|101| f: [right] 
+A|102| M: [right] [where] ? 
+B|103| f: [how far] 
+A|104| M: I'm on [the right] 
+B|105| f: [right] [right] [right] that's [it] 
+
+
+TURN DETAILS:
+Turn ID=0| A | M : right i'll be there soon
+	Free: Pattern=right
+	Constrained: 
+Turn ID=1| B | f : west
+	Free: Pattern=west
+	Constrained: 
+Turn ID=2| A | M : oh right so you want to go to the east ?
+	Free: Pattern=right so, Pattern=go to the, Pattern=east, Pattern=you want, Pattern=to go
+	Constrained: Pattern=right, Pattern=you, Pattern=go, Pattern=to the, Pattern=the, Pattern=to, Pattern=so
+Turn ID=3| B | f : how far do you west do you want me to go
+	Free: Pattern=how far, Pattern=west, Pattern=me, Pattern=do you, Pattern=you want, Pattern=to go
+	Constrained: Pattern=far, Pattern=you, Pattern=go, Pattern=do, Pattern=how, Pattern=to
+Turn ID=4| A | M : west to the end
+	Free: Pattern=to the, Pattern=west
+	Constrained: Pattern=to, Pattern=the
+Turn ID=5| B | f : right okay yes
+	Free: Pattern=okay, Pattern=right, Pattern=yes
+	Constrained: 
+Turn ID=6| A | M : yea north of crestfall
+	Free: Pattern=of
+	Constrained: 
+Turn ID=7| B | f : just the bottom
+	Free: Pattern=the bottom, Pattern=just
+	Constrained: Pattern=the
+Turn ID=8| A | M : I don't know if I'm missing something , but how far away are you ?
+	Free: Pattern=how far, Pattern=you, Pattern=don't
+	Constrained: Pattern=far, Pattern=how
+Turn ID=9| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=10| A | M : I'm going to take a guess and say it's the bottom right of the bottom line .
+	Free: Pattern=right, Pattern=a, Pattern=and, Pattern=the bottom, Pattern=to, Pattern=of the, Pattern=going, Pattern=line
+	Constrained: Pattern=the, Pattern=of
+Turn ID=11| B | f : east over the footbridge
+	Free: Pattern=the, Pattern=east
+	Constrained: 
+Turn ID=12| A | M : where are you going to stop at ?
+	Free: Pattern=you, Pattern=going, Pattern=where, Pattern=to, Pattern=stop
+	Constrained: 
+Turn ID=13| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=14| A | M : gravel is a sign of a lie
+	Free: Pattern=a, Pattern=is, Pattern=of
+	Constrained: 
+Turn ID=15| B | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=16| A | M : i do
+	Free: Pattern=i do
+	Constrained: Pattern=do, Pattern=i
+Turn ID=17| B | f : two inches right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=18| A | M : right walkin
+	Free: Pattern=right
+	Constrained: 
+Turn ID=19| B | f : right that's okay
+	Free: Pattern=okay, Pattern=right
+	Constrained: 
+Turn ID=20| A | M : how far are you willing to go
+	Free: Pattern=how far, Pattern=to go, Pattern=you
+	Constrained: Pattern=far, Pattern=to, Pattern=how, Pattern=go
+Turn ID=21| B | f : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=22| A | M : i have a temple
+	Free: Pattern=i have, Pattern=a
+	Constrained: Pattern=i, Pattern=have
+Turn ID=23| B | f : do you go go right go to the right
+	Free: Pattern=go right, Pattern=the right, Pattern=do you go, Pattern=right go, Pattern=go to the
+	Constrained: Pattern=right, Pattern=you, Pattern=go, Pattern=to the, Pattern=do you, Pattern=the, Pattern=to, Pattern=do, Pattern=you go
+Turn ID=24| A | M : right do you go right to the left
+	Free: Pattern=to the left, Pattern=go right, Pattern=do you go, Pattern=right to the, Pattern=right do
+	Constrained: Pattern=right, Pattern=you, Pattern=go, Pattern=to the, Pattern=do you, Pattern=left, Pattern=the, Pattern=to, Pattern=right to, Pattern=do, Pattern=you go
+Turn ID=25| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=26| A | M : right to the top
+	Free: Pattern=right to the top
+	Constrained: Pattern=right, Pattern=to the, Pattern=right to the, Pattern=the, Pattern=to, Pattern=right to
+Turn ID=27| B | f : "i don't have ""x"" marks finished how far above the old temple"
+	Free: Pattern=don't have, Pattern=how far, Pattern=above, Pattern=the
+	Constrained: Pattern=far, Pattern=have, Pattern=how, Pattern=don't
+Turn ID=28| A | M : go to the north shrine of the east temple
+	Free: Pattern=go to the, Pattern=of the, Pattern=east
+	Constrained: Pattern=of, Pattern=go, Pattern=to the, Pattern=the, Pattern=to
+Turn ID=29| B | f : yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=30| A | M : left temple
+	Free: Pattern=left
+	Constrained: 
+Turn ID=31| B | f : so this is about a ten inch line from the where i am just now
+	Free: Pattern=a, Pattern=i am, Pattern=where, Pattern=is, Pattern=the, Pattern=now, Pattern=so, Pattern=just, Pattern=line
+	Constrained: Pattern=i
+Turn ID=32| A | M : no , i just have a hard time getting a line in the right place
+	Free: Pattern=no, Pattern=a, Pattern=in, Pattern=i, Pattern=the right, Pattern=just, Pattern=have, Pattern=line
+	Constrained: Pattern=the, Pattern=right
+Turn ID=33| B | f : right aye
+	Free: Pattern=right
+	Constrained: 
+Turn ID=34| A | M : yeah i'm on the road
+	Free: Pattern=yeah, Pattern=the, Pattern=i'm
+	Constrained: 
+Turn ID=35| B | f : right okay
+	Free: Pattern=okay, Pattern=right
+	Constrained: 
+Turn ID=36| A | M : i'm in the east bay and i'm not even in a jeep
+	Free: Pattern=and, Pattern=in, Pattern=i'm, Pattern=the, Pattern=east, Pattern=a, Pattern=i'm in
+	Constrained: Pattern=i'm, Pattern=in
+Turn ID=37| B | f : how far right to my my left
+	Free: Pattern=my left, Pattern=right to, Pattern=how far, Pattern=to my
+	Constrained: Pattern=how, Pattern=left, Pattern=to, Pattern=right, Pattern=far
+Turn ID=38| A | M : you can go straight to the trash can , you just need to go through the dumpster first
+	Free: Pattern=you, Pattern=just, Pattern=go, Pattern=to the, Pattern=the, Pattern=to go
+	Constrained: Pattern=to, Pattern=the, Pattern=go
+Turn ID=39| B | f : so i do i go to the left of the abandoned truck
+	Free: Pattern=i do, Pattern=go to the, Pattern=of the, Pattern=so, Pattern=i go to, Pattern=to the left
+	Constrained: Pattern=of, Pattern=go, Pattern=do, Pattern=to the, Pattern=left, Pattern=i, Pattern=the, Pattern=to, Pattern=i go
+Turn ID=40| A | M : if you go south you'll be in the right
+	Free: Pattern=you go, Pattern=the right, Pattern=in
+	Constrained: Pattern=the, Pattern=you, Pattern=go, Pattern=right
+Turn ID=41| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=42| A | M : i go to my left i go south
+	Free: Pattern=left i go, Pattern=i go to, Pattern=my left, Pattern=to my
+	Constrained: Pattern=go, Pattern=left, Pattern=i, Pattern=to, Pattern=i go
+Turn ID=43| B | f : no right do i do i i stop before i reach the abandoned truck or after i reach the abandoned truck
+	Free: Pattern=i do, Pattern=no, Pattern=i, Pattern=right do, Pattern=the, Pattern=i stop
+	Constrained: Pattern=do, Pattern=i, Pattern=stop, Pattern=right
+Turn ID=44| A | M : I don't have a way to go back and do that .
+	Free: Pattern=go back, Pattern=and, Pattern=don't have, Pattern=to go, Pattern=do, Pattern=a
+	Constrained: Pattern=have, Pattern=don't, Pattern=to, Pattern=go
+Turn ID=45| B | f : right okay right so i go back left again i keep going left i go down then i go left
+	Free: Pattern=left i go, Pattern=right, Pattern=go back, Pattern=going, Pattern=right so, Pattern=left, Pattern=then i, Pattern=i go, Pattern=i go left, Pattern=i, Pattern=go down, Pattern=okay
+	Constrained: Pattern=right, Pattern=go, Pattern=left, Pattern=i, Pattern=i go, Pattern=so
+Turn ID=46| A | M : i go left and then i get up
+	Free: Pattern=i go left, Pattern=then i, Pattern=and
+	Constrained: Pattern=i go, Pattern=left, Pattern=i, Pattern=go
+Turn ID=47| B | f : right okay let me cross this bit i haven't got any baboons no
+	Free: Pattern=right, Pattern=me, Pattern=no, Pattern=any, Pattern=haven't, Pattern=i, Pattern=okay
+	Constrained: 
+Turn ID=48| A | M : okay i go right then i stop
+	Free: Pattern=go right, Pattern=then i, Pattern=i go, Pattern=i stop, Pattern=okay
+	Constrained: Pattern=i, Pattern=stop, Pattern=go, Pattern=right
+Turn ID=49| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=50| A | M : I go down i go up then i get up
+	Free: Pattern=i go, Pattern=go down, Pattern=then i
+	Constrained: Pattern=i, Pattern=go
+Turn ID=51| B | f : aye
+	Free: 
+	Constrained: 
+Turn ID=52| A | M : yea what ?
+	Free: 
+	Constrained: 
+Turn ID=53| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=54| A | M : right go
+	Free: Pattern=right go
+	Constrained: Pattern=go, Pattern=right
+Turn ID=55| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=56| A | M : left
+	Free: Pattern=left
+	Constrained: 
+Turn ID=57| B | f : uh-huh
+	Free: 
+	Constrained: 
+Turn ID=58| A | M : how is the sky
+	Free: Pattern=the, Pattern=how, Pattern=is
+	Constrained: 
+Turn ID=59| B | f : right to the top
+	Free: Pattern=right to the top
+	Constrained: Pattern=right, Pattern=to the, Pattern=right to the, Pattern=the, Pattern=to, Pattern=right to
+Turn ID=60| A | M : right where the bottom of the screen is
+	Free: Pattern=right, Pattern=where, Pattern=is, Pattern=the bottom, Pattern=of the
+	Constrained: Pattern=the, Pattern=of
+Turn ID=61| B | f : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=62| A | M : you mean like in the pyramid ?
+	Free: Pattern=the pyramid, Pattern=like, Pattern=you, Pattern=in
+	Constrained: Pattern=the, Pattern=pyramid
+Turn ID=63| B | f : right got you
+	Free: Pattern=you, Pattern=right
+	Constrained: 
+Turn ID=64| A | M : i can do it in the middle of the pyramid if you want
+	Free: Pattern=the pyramid, Pattern=do, Pattern=it, Pattern=in, Pattern=i, Pattern=the, Pattern=you want, Pattern=of the
+	Constrained: Pattern=you, Pattern=pyramid, Pattern=of, Pattern=the
+Turn ID=65| B | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=66| A | M : do you have any cobbled streets ?
+	Free: Pattern=do you, Pattern=have, Pattern=any
+	Constrained: Pattern=do, Pattern=you
+Turn ID=67| B | f : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=68| A | M : are you online now ?
+	Free: Pattern=you, Pattern=now
+	Constrained: 
+Turn ID=69| B | f : should directly below me almost
+	Free: Pattern=me
+	Constrained: 
+Turn ID=70| A | M : How do you know where the location is ?
+	Free: Pattern=do you, Pattern=where, Pattern=the, Pattern=is
+	Constrained: Pattern=do, Pattern=you
+Turn ID=71| B | f : right i'm right under it
+	Free: Pattern=i'm right, Pattern=right, Pattern=it
+	Constrained: Pattern=right, Pattern=i'm
+Turn ID=72| A | M : i'm right above it
+	Free: Pattern=i'm right, Pattern=above, Pattern=it
+	Constrained: Pattern=right, Pattern=i'm
+Turn ID=73| B | f : mmhmm
+	Free: 
+	Constrained: 
+Turn ID=74| A | M : I'm just like that
+	Free: Pattern=like, Pattern=just
+	Constrained: 
+Turn ID=75| B | f : right all right no problem
+	Free: Pattern=right, Pattern=no
+	Constrained: 
+Turn ID=76| A | M : I'm not sure what you mean , I'm pretty sure I'm fine with that .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=77| B | f : right i'm so i'm just above the white mountain
+	Free: Pattern=the white, Pattern=right, Pattern=just, Pattern=above, Pattern=i'm, Pattern=so
+	Constrained: Pattern=the
+Turn ID=78| A | M : it's a nice view of the remote villages
+	Free: Pattern=the remote, Pattern=of the, Pattern=a
+	Constrained: Pattern=the, Pattern=of
+Turn ID=79| B | f : mmhmm
+	Free: 
+	Constrained: 
+Turn ID=80| A | M : I'm above it !
+	Free: Pattern=above, Pattern=it
+	Constrained: 
+Turn ID=81| B | f : i have cleared it right the remote village is like ah four inches below the pyramid in this
+	Free: Pattern=right, Pattern=the pyramid, Pattern=the remote, Pattern=village, Pattern=it, Pattern=in, Pattern=is, Pattern=like, Pattern=i have
+	Constrained: Pattern=have, Pattern=i, Pattern=pyramid, Pattern=the
+Turn ID=82| A | M : I'm sorry , i'm not sure what you mean by that
+	Free: Pattern=you, Pattern=i'm
+	Constrained: 
+Turn ID=83| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=84| A | M : you are just me
+	Free: Pattern=you, Pattern=me, Pattern=just
+	Constrained: 
+Turn ID=85| B | f : right i'm in between the remote village and the pyramid
+	Free: Pattern=right, Pattern=the pyramid, Pattern=i'm in, Pattern=the remote, Pattern=village, Pattern=and
+	Constrained: Pattern=in, Pattern=pyramid, Pattern=i'm, Pattern=the
+Turn ID=86| A | M : I'm in the remote Village , so it's fine
+	Free: Pattern=the remote, Pattern=so, Pattern=in
+	Constrained: Pattern=the
+Turn ID=87| B | f : uh-huh
+	Free: 
+	Constrained: 
+Turn ID=88| A | M : I've come to the conclusion that you are a fake
+	Free: Pattern=to the, Pattern=come, Pattern=a, Pattern=you
+	Constrained: Pattern=to, Pattern=the
+Turn ID=89| B | f : because you told me to come under the pyramid
+	Free: Pattern=me, Pattern=come, Pattern=to, Pattern=the pyramid, Pattern=you
+	Constrained: Pattern=the, Pattern=pyramid
+Turn ID=90| A | M : i'm confused
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=91| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=92| A | M : yes i am
+	Free: Pattern=i am, Pattern=yes
+	Constrained: Pattern=i
+Turn ID=93| B | f : i have come across far enough now
+	Free: Pattern=come across, Pattern=i have, Pattern=far, Pattern=now
+	Constrained: Pattern=i, Pattern=come, Pattern=have
+Turn ID=94| A | M : You haven't come across the white pyramid
+	Free: Pattern=come across, Pattern=the white, Pattern=pyramid, Pattern=haven't
+	Constrained: Pattern=come, Pattern=the
+Turn ID=95| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=96| A | M : you are wrong
+	Free: Pattern=you
+	Constrained: 
+Turn ID=97| B | f : right i've got you
+	Free: Pattern=you, Pattern=right
+	Constrained: 
+Turn ID=98| A | M : yes it is
+	Free: Pattern=is, Pattern=yes, Pattern=it
+	Constrained: 
+Turn ID=99| B | f : uh-huh
+	Free: 
+	Constrained: 
+Turn ID=100| A | M : i'm in the village
+	Free: Pattern=i'm in, Pattern=the, Pattern=village
+	Constrained: Pattern=i'm, Pattern=in
+Turn ID=101| B | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=102| A | M : right where ?
+	Free: Pattern=where, Pattern=right
+	Constrained: 
+Turn ID=103| B | f : how far
+	Free: Pattern=how far
+	Constrained: Pattern=far, Pattern=how
+Turn ID=104| A | M : I'm on the right
+	Free: Pattern=the right
+	Constrained: Pattern=the, Pattern=right
+Turn ID=105| B | f : right right right that's it
+	Free: Pattern=right, Pattern=it
+	Constrained: 
