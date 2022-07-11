@@ -1,0 +1,191 @@
+B|0| M: And so , _you_ , _you_ can't really make judgments based on _that_ , based on one person , _you're_ not , _you_ _have to_ make judgments on six people . 
+A|1| A: _Right ._ 
+B|2| M: And then _the_ judge decides whether _or_ not it's _, uh_ . 
+A|3| A: _Right ._ _they_ 
+B|4| M: I mean , I _think_ , I mean , it's , _it_ , _it_ is _a_ terrible problem . 
+A|5| A: _Right ._ 
+B|6| M: So , 
+A|7| A: Well , how _do_ [you] feel _about_ setting , like _, well_ , _for_ _example_ _, a_ car type accident where _, uh ,_ [or] _some_ incident where someone loses [a] limb . Do [you] [think] _the jury_ _should _have_ a_ dollar figure _for_ losing an arm _, a_ dollar figure _for_ losing different body parts ? 
+B|8| M: I [think] _it_ [should] be based on [the] number _of_ people _that_ were killed . 
+A|9| A: Uh-huh . 
+B|10| M: I mean , I [think] that's [a] , I donno , I'm not sure that's , that's really [the] right way _to_ [do] _it_ . I , I [, uh] I [think] , I would agree with [you] _that_ there [should] be [some] way _of_ checking [for] [, uh [,] uh ,] [you] , [you] can't just say , you've , _you're_ , [you] [have a] certain age _that_ _you're going to_ be drug tested and then [you] can say [, well] I'm sure [you] [have] drug use . 
+A|11| A: Huh . 
+B|12| M: You know , and I [think] , I [think] _that_ , that's , _that_ would be unfair _to [the_ jury] because _they have to_ decide whether [or] not [they] want _to_ hear [the] facts . 
+A|13| A: Uh-huh . 
+B|14| M: but I [think] , I don't know , I , I'm not sure _that_ it's _that_ important . I [think] [they] [should have] more say . 
+A|15| A: _Yeah ._ 
+B|16| M: but I don't [think] it's [a] [, a] necessity . 
+A|17| A: _Right ._ 
+B|18| M: So I don't , I donno , I , I [think] , I'm not , I mean , I just [think] it's not _going to_ be , it's _going to_ _have to_ be unanimous . 
+A|19| A: _Yeah _._ That's_ true . 
+B|20| M: _But_ [, uh] . 
+A|21| A: Huh . 
+B|22| M: but it's not , [you] can't [do] _that_ . 
+A|23| A: Oh , _out of_ As opposed [to _the] insurance_ _paying_ [the] bills , 
+B|24| M: [Yeah .] [Right .] 
+A|25| A: Uh-huh . Well , _we're_ , Who , who 
+B|26| M: We're [we're] _in_ [the] process [of] , [of] building [a] [, a] system . 
+A|27| A: [do] [they] get _, they_ get insured _, they_ get insured from other _insurance companies_ [or] how does [that] _work_ ? 
+B|28| M: Uh [, they] , they're [, they] go through [the] process [of] selection . 
+A|29| A: Oh , okay , your _talking about_ 
+B|30| M: I'm [talking about] [the] , [the [insurance] companies] , [the] ones [that] are , [that] are [paying] [out] huge amounts [of] money [to] these people . 
+A|31| A: Sure . 
+B|32| M: and [they] , and _they have to_ pay [for] _it_ themselves . 
+A|33| A: Okay . Well , 
+B|34| M: So [, uh ,] that's [the] first thing [they] look [for] is _if_ _you're going to_ [do] _it_ [that] way . 
+A|35| A: [But] [in] [some] instances [you're going to] put [companies] _out of_ business by taking [that] stance , [if] [they have to] take [it] _out of_ their own retained earnings . 
+B|36| M: [Right .] 
+A|37| A: That , For , oh , Uh-huh . 
+B|38| M:  !!! % !! ; !! Remind me [of] [that] [. That's] [a] very good [example] . 
+A|39| A: Uh-huh . 
+B|40| M: So , I mean [, [they] have] no way [of] knowing [if] [the] person is guilty [or] innocent . 
+A|41| A: [Right .] That _will_ , 
+B|42| M: And [that] [will] make [it] even more difficult [for] them . 
+A|43| A: Huh . 
+B|44| M: And [, uh ,] I , I [think] it's , it's [going to] be [a] big problem . Uh , [the] way our tax laws are structured and [, uh] [you] can't just tax people [out of] [the] [work] place [, uh] . 
+A|45| A: Sure . Okay . 
+B|46| M:  !!! % !! translated . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : And so , you , you can't really make judgments based on that , based on one person , you're not , you have to make judgments on six people .
+	Free: Pattern=have to, Pattern=that, Pattern=you, Pattern=you're
+	Constrained: Pattern=to, Pattern=have
+Turn ID=1| A | A : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=2| B | M : And then the judge decides whether or not it's , uh .
+	Free: Pattern=, uh, Pattern=the, Pattern=or
+	Constrained: 
+Turn ID=3| A | A : Right . they
+	Free: Pattern=Right ., Pattern=they
+	Constrained: 
+Turn ID=4| B | M : I mean , I think , I mean , it's , it , it is a terrible problem .
+	Free: Pattern=think, Pattern=a, Pattern=it
+	Constrained: 
+Turn ID=5| A | A : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=6| B | M : So ,
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : Well , how do you feel about setting , like , well , for example , a car type accident where , uh , or some incident where someone loses a limb . Do you think the jury should have a dollar figure for losing an arm , a dollar figure for losing different body parts ?
+	Free: Pattern=, well, Pattern=should have, Pattern=you, Pattern=have a, Pattern=for, Pattern=about, Pattern=some, Pattern=think, Pattern=, a, Pattern=or, Pattern=, uh ,, Pattern=example, Pattern=the jury, Pattern=do, Pattern=a
+	Constrained: Pattern=, uh, Pattern=have, Pattern=should, Pattern=a, Pattern=the
+Turn ID=8| B | M : I think it should be based on the number of people that were killed .
+	Free: Pattern=of, Pattern=should, Pattern=it, Pattern=think, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=9| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : I mean , I think that's a , I donno , I'm not sure that's , that's really the right way to do it . I , I , uh I think , I would agree with you that there should be some way of checking for , uh , uh , you , you can't just say , you've , you're , you have a certain age that you're going to be drug tested and then you can say , well I'm sure you have drug use .
+	Free: Pattern=, well, Pattern=have, Pattern=for, Pattern=it, Pattern=some, Pattern=think, Pattern=, uh ,, Pattern=to, Pattern=that, Pattern=you're, Pattern=of, Pattern=you, Pattern=, uh, Pattern=should, Pattern=have a, Pattern=do, Pattern=a, Pattern=you're going to, Pattern=the
+	Constrained: Pattern=going to, Pattern=you're, Pattern=, uh, Pattern=have, Pattern=a, Pattern=to
+Turn ID=11| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : You know , and I think , I think that , that's , that would be unfair to the jury because they have to decide whether or not they want to hear the facts .
+	Free: Pattern=they, Pattern=to the, Pattern=think, Pattern=or, Pattern=to, Pattern=they have to, Pattern=the, Pattern=the jury, Pattern=that
+	Constrained: Pattern=they, Pattern=the, Pattern=have to, Pattern=to, Pattern=they have, Pattern=have
+Turn ID=13| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : but I think , I don't know , I , I'm not sure that it's that important . I think they should have more say .
+	Free: Pattern=should have, Pattern=they, Pattern=that, Pattern=think
+	Constrained: Pattern=should, Pattern=have
+Turn ID=15| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=16| B | M : but I don't think it's a , a necessity .
+	Free: Pattern=, a, Pattern=think, Pattern=a
+	Constrained: Pattern=a
+Turn ID=17| A | A : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=18| B | M : So I don't , I donno , I , I think , I'm not , I mean , I just think it's not going to be , it's going to have to be unanimous .
+	Free: Pattern=going to, Pattern=have to, Pattern=think
+	Constrained: Pattern=to, Pattern=have
+Turn ID=19| A | A : Yeah . That's true .
+	Free: Pattern=Yeah ., Pattern=. That's
+	Constrained: 
+Turn ID=20| B | M : But , uh .
+	Free: Pattern=, uh, Pattern=But
+	Constrained: 
+Turn ID=21| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=22| B | M : but it's not , you can't do that .
+	Free: Pattern=do, Pattern=that, Pattern=you
+	Constrained: 
+Turn ID=23| A | A : Oh , out of As opposed to the insurance paying the bills ,
+	Free: Pattern=out of, Pattern=to the, Pattern=paying, Pattern=the, Pattern=the insurance
+	Constrained: Pattern=out, Pattern=to, Pattern=of, Pattern=the
+Turn ID=24| B | M : Yeah . Right .
+	Free: Pattern=Right ., Pattern=Yeah .
+	Constrained: 
+Turn ID=25| A | A : Uh-huh . Well , we're , Who , who
+	Free: Pattern=we're
+	Constrained: 
+Turn ID=26| B | M : We're we're in the process of , of building a , a system .
+	Free: Pattern=of, Pattern=a, Pattern=in, Pattern=, a, Pattern=the, Pattern=we're
+	Constrained: Pattern=a
+Turn ID=27| A | A : do they get , they get insured , they get insured from other insurance companies or how does that work ?
+	Free: Pattern=, they, Pattern=they, Pattern=do, Pattern=insurance companies, Pattern=work, Pattern=or, Pattern=that
+	Constrained: Pattern=they, Pattern=companies
+Turn ID=28| B | M : Uh , they , they're , they go through the process of selection .
+	Free: Pattern=, they, Pattern=of, Pattern=the
+	Constrained: Pattern=they
+Turn ID=29| A | A : Oh , okay , your talking about
+	Free: Pattern=talking about
+	Constrained: Pattern=about
+Turn ID=30| B | M : I'm talking about the , the insurance companies , the ones that are , that are paying out huge amounts of money to these people .
+	Free: Pattern=out, Pattern=insurance companies, Pattern=paying, Pattern=the, Pattern=to, Pattern=the insurance, Pattern=that, Pattern=talking about, Pattern=of
+	Constrained: Pattern=the, Pattern=about, Pattern=companies
+Turn ID=31| A | A : Sure .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : and they , and they have to pay for it themselves .
+	Free: Pattern=they have to, Pattern=for, Pattern=they, Pattern=it
+	Constrained: Pattern=they, Pattern=have to, Pattern=to, Pattern=they have, Pattern=have
+Turn ID=33| A | A : Okay . Well ,
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : So , uh , that's the first thing they look for is if you're going to do it that way .
+	Free: Pattern=they, Pattern=do, Pattern=for, Pattern=it, Pattern=if, Pattern=, uh ,, Pattern=that, Pattern=you're going to, Pattern=the
+	Constrained: Pattern=you're, Pattern=to, Pattern=, uh, Pattern=going to
+Turn ID=35| A | A : But in some instances you're going to put companies out of business by taking that stance , if they have to take it out of their own retained earnings .
+	Free: Pattern=out of, Pattern=it, Pattern=if, Pattern=But, Pattern=some, Pattern=in, Pattern=companies, Pattern=that, Pattern=they have to, Pattern=you're going to
+	Constrained: Pattern=going to, Pattern=out, Pattern=they, Pattern=have to, Pattern=to, Pattern=you're, Pattern=of, Pattern=they have, Pattern=have
+Turn ID=36| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=37| A | A : That , For , oh , Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M :  !!! % !! ; !! Remind me of that . That's a very good example .
+	Free: Pattern=of, Pattern=a, Pattern=. That's, Pattern=example, Pattern=that
+	Constrained: 
+Turn ID=39| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : So , I mean , they have no way of knowing if the person is guilty or innocent .
+	Free: Pattern=, they, Pattern=of, Pattern=they have, Pattern=if, Pattern=or, Pattern=the
+	Constrained: Pattern=they, Pattern=have
+Turn ID=41| A | A : Right . That will ,
+	Free: Pattern=Right ., Pattern=will
+	Constrained: 
+Turn ID=42| B | M : And that will make it even more difficult for them .
+	Free: Pattern=for, Pattern=that, Pattern=it, Pattern=will
+	Constrained: 
+Turn ID=43| A | A : Huh .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : And , uh , I , I think it's , it's going to be a big problem . Uh , the way our tax laws are structured and , uh you can't just tax people out of the work place , uh .
+	Free: Pattern=going to, Pattern=out of, Pattern=a, Pattern=think, Pattern=work, Pattern=, uh ,, Pattern=the, Pattern=you, Pattern=, uh
+	Constrained: Pattern=out, Pattern=to, Pattern=, uh, Pattern=of
+Turn ID=45| A | A : Sure . Okay .
+	Free: 
+	Constrained: 
+Turn ID=46| B | M :  !!! % !! translated .
+	Free: 
+	Constrained: 

@@ -1,0 +1,63 @@
+A|0| A: Yes . 
+B|1| M: _And_ _, uh_ _and_ _I'm_ _not_ sure _that's_ , _that's_ _not_ part _of the_ problem _. _I_ mean_ _it's_ _just that_ _I'm_ _being_ cheeky _and _,_ uh_ _I'm_ _in the_ middle _of_ _it ._ _I'm_ _, I think_ _it's_ part _of_ _it_ _and_ _it's_ _also_ part _of_ _my_ character _to_ be cheeky . 
+A|2| A: [I] , I'll agree [it] , [it's] [not] your responsibility but , is [it] [also] legal , for _you_ [to] do [that] ? from what [I] understand from various net readings , [it] , [the] Federal government is going [to] try [to] legislate a more aggressive enforcement [of] state tax schemes [, uh] , [in] , into place [in the] next few years . It is , [it] is a lost revenue stream right now [and] states can use all [the] revenue _they_ can get . With some , with something like [that] , do your arguments still apply ? 
+B|3| M: Uh-huh . 
+A|4| A: Which is exactly what businesses do at [the] present . 
+B|5| M: Right . 
+A|6| A: [And] [I] [, I] [I] was actually talking about businesses purchasing something mail order [and] then having , having [to] pay _sales_ tax _on_ [it .] 
+B|7| M: Uh-huh . 
+A|8| A: That's [my] understanding [of the] way [, uh] , [the] way [it] works . Usually , [the] , [the] person ordering doesn't pay . _But_ [the] accounting department will [, uh] , suck up all [the] bills at [the] end [of the] month [and] realize how much _they have_ [to] pay . [And] there there are some substantial , nasty penalties , um , if _you_ , if businesses try [to] avoid [that] . 
+B|9| M: _Yeah ._ 
+A|10| A: No . Businesses [, uh] if purchasing things mail order , if , if [I'm] a computer consulting firm [and] [I] see these , this great deal _on_ forty-six mother boards [, uh] , from , from say Utah . Um [, I] [, I] might _buy_ [the] mother boards from Utah but then still _have_ [to] pay _Pennsylvania_ _sales_ tax . My accounting department will at [the] end [of the] month [. [I] think] [that] [I think] [that's] [the] way things work _in Pennsylvania_ . [And] [I] know _they_ work [that] way [in] [, uh] , say here [in] D C . 
+B|11| M: Oh , okay . 
+A|12| A: [Yeah .] 
+B|13| M: [But] [I think] [they have] [the] [sales] taxes [in Pennsylvania] based [on] [the] amount [you] [buy] . 
+A|14| A: That's true . a a big hole does exist right now [, uh] , [in] [that] consumers can [just] say oh [, I] [, I] forgot [that] . There , there is no well defined mechanism at all [and ,] [and] [that] [it] is a a loss [. I] [, I think] is [that] [the] Federal government will try [to] establish a mechanism [just] [to] do [just that] [in] [in] order [to] gain [the] revenue [that's] [being] lost . Uh [, [I] mean] [, I] [, I] don't know if [I] agree with [that] . [But] [it] , but , 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : And , uh and I'm not sure that's , that's not part of the problem . I mean it's just that I'm being cheeky and , uh I'm in the middle of it . I'm , I think it's part of it and it's also part of my character to be cheeky .
+	Free: Pattern=of, Pattern=And, Pattern=and ,, Pattern=in the, Pattern=also, Pattern=that's, Pattern=just that, Pattern=to, Pattern=my, Pattern=not, Pattern=, uh, Pattern=I'm, Pattern=it ., Pattern=it, Pattern=and, Pattern=. I, Pattern=being, Pattern=I mean, Pattern=, I think, Pattern=of the, Pattern=it's
+	Constrained: Pattern=of, Pattern=just, Pattern=, I, Pattern=I, Pattern=in, Pattern=I think, Pattern=the, Pattern=that, Pattern=it, Pattern=and
+Turn ID=2| A | A : I , I'll agree it , it's not your responsibility but , is it also legal , for you to do that ? from what I understand from various net readings , it , the Federal government is going to try to legislate a more aggressive enforcement of state tax schemes , uh , in , into place in the next few years . It is , it is a lost revenue stream right now and states can use all the revenue they can get . With some , with something like that , do your arguments still apply ?
+	Free: Pattern=of, Pattern=they, Pattern=in, Pattern=also, Pattern=the, Pattern=to, Pattern=not, Pattern=you, Pattern=, uh, Pattern=it, Pattern=and, Pattern=in the, Pattern=I, Pattern=that, Pattern=it's
+	Constrained: Pattern=the, Pattern=in
+Turn ID=3| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : Which is exactly what businesses do at the present .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=5| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : And I , I I was actually talking about businesses purchasing something mail order and then having , having to pay sales tax on it .
+	Free: Pattern=it ., Pattern=And, Pattern=, I, Pattern=and, Pattern=I, Pattern=on, Pattern=to, Pattern=sales
+	Constrained: Pattern=it, Pattern=I
+Turn ID=7| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : That's my understanding of the way , uh , the way it works . Usually , the , the person ordering doesn't pay . But the accounting department will , uh , suck up all the bills at the end of the month and realize how much they have to pay . And there there are some substantial , nasty penalties , um , if you , if businesses try to avoid that .
+	Free: Pattern=But, Pattern=the, Pattern=to, Pattern=my, Pattern=you, Pattern=, uh, Pattern=And, Pattern=they have, Pattern=it, Pattern=and, Pattern=of the, Pattern=that
+	Constrained: Pattern=have, Pattern=they, Pattern=of, Pattern=the
+Turn ID=9| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=10| A | A : No . Businesses , uh if purchasing things mail order , if , if I'm a computer consulting firm and I see these , this great deal on forty-six mother boards , uh , from , from say Utah . Um , I , I might buy the mother boards from Utah but then still have to pay Pennsylvania sales tax . My accounting department will at the end of the month . I think that I think that's the way things work in Pennsylvania . And I know they work that way in , uh , say here in D C .
+	Free: Pattern=they, Pattern=, I, Pattern=buy, Pattern=and, Pattern=I, Pattern=. I, Pattern=in, Pattern=I think, Pattern=sales, Pattern=Pennsylvania, Pattern=, uh, Pattern=I'm, Pattern=And, Pattern=have, Pattern=on, Pattern=that's, Pattern=the, Pattern=in Pennsylvania, Pattern=to, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=I, Pattern=in, Pattern=the, Pattern=Pennsylvania
+Turn ID=11| B | M : Oh , okay .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=13| B | M : But I think they have the sales taxes in Pennsylvania based on the amount you buy .
+	Free: Pattern=you, Pattern=they have, Pattern=buy, Pattern=But, Pattern=I think, Pattern=in Pennsylvania, Pattern=sales, Pattern=on, Pattern=the
+	Constrained: Pattern=have, Pattern=they, Pattern=I, Pattern=in, Pattern=Pennsylvania
+Turn ID=14| A | A : That's true . a a big hole does exist right now , uh , in that consumers can just say oh , I , I forgot that . There , there is no well defined mechanism at all and , and that it is a a loss . I , I think is that the Federal government will try to establish a mechanism just to do just that in in order to gain the revenue that's being lost . Uh , I mean , I , I don't know if I agree with that . But it , but ,
+	Free: Pattern=, uh, Pattern=just, Pattern=and ,, Pattern=, I, Pattern=I, Pattern=in, Pattern=just that, Pattern=to, Pattern=that, Pattern=it, Pattern=and, Pattern=But, Pattern=. I, Pattern=being, Pattern=I mean, Pattern=, I think, Pattern=that's, Pattern=the
+	Constrained: Pattern=just, Pattern=, I, Pattern=and, Pattern=I, Pattern=I think, Pattern=that

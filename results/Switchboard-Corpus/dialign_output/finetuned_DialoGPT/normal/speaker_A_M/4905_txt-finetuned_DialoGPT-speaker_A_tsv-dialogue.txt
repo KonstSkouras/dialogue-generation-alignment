@@ -1,0 +1,203 @@
+B|0| M: _Uh-huh ._ 
+A|1| A: [Uh-huh .] 
+B|2| M: I think _that_ , uh . 
+A|3| A: _Yeah ._ 
+B|4| M: _you_ _can_ _get_ _a lot of_ _benefits_ , but _you_ can't _get_ enough . 
+A|5| A: [Uh-huh .] 
+B|6| M: _And_ , _you_ can't have everything . 
+A|7| A: _Yeah _._ Yeah _._ Yeah ._ 
+B|8| M: I , I _really_ _do_ enjoy it . I don't know how many times have _you_ done this _or ,_ 
+A|9| A: Huh . _Right ._ 
+B|10| M: _and_ then there's other places _that_ , _that_ offer , uh . 
+A|11| A: _Yeah ._ 
+B|12| M: _But_ , uh , 
+A|13| A: [Uh-huh .] 
+B|14| M: _But_ , uh , it , it _really_ _is_ . 
+A|15| A: _Yeah _._ Yeah ._ _Right ._ Uh , _and ,_ _and ,_ [and] another _good_ _thing_ [is] _with_ _the_ health [benefits] when they give [you] more than two choices on who _to_ go _with_ . 
+B|16| M: [Right .] 
+A|17| A: [And] [that] [really] helped _us_ _out_ _a great deal_ . So . [But] _my_ husband does [get] vacation [and] it's worked _out_ [really] _good_ _for us_ _too_ . 
+B|18| M: Oh _, that's_ _good ._ 
+A|19| A: So [But] . 
+B|20| M: _Well ,_ what are your favorite shows ? 
+A|21| A: _Yeah ._ 
+B|22| M: I , I _do_ have _flexible hours_ , so , uh _, that's_ , [that] works [out] real _well for us_ . 
+A|23| A: [Uh-huh .] 
+B|24| M: [And] , uh , so , I , I _work_ [a] full-time job [and ,] uh . 
+A|25| A: [Uh-huh .] 
+B|26| M: She has _to do_ _a lot of the_ planning [and ,] uh choreographed _work_ [for] [the] people _there_ . 
+A|27| A: [Well [,] that's] _great_ [that] [you] all [can] [work] [that] [out] . That's [really] [good .] 
+B|28| M: [Yeah .] 
+A|29| A: [Right .] 
+B|30| M: [But] , uh . 
+A|31| A: [Uh-huh .] 
+B|32| M: You know , I think , uh , [the] other [thing] [that] I like _to do_ _with my_ kids [is] , uh ... 
+A|33| A: [Yeah .] 
+B|34| M: [But] , uh , I don't know . I guess I'm not [really] [for] [too] much into it . 
+A|35| A: [Yeah .] It's _the same_ [with my] husband cause he's got pretty [flexible hours] if , as long as he puts in [the] [hours] he needs [to do] . Worked [out] [really] [well for us] [too] . 
+B|36| M: Uh-uh [. Yeah .] 
+A|37| A: Uh . [Well] [is] [there] anything else [that] [you] look [for] [or ,] 
+B|38| M:  !!! % !! RemindMe !! 
+A|39| A: You've hit pretty , you've put [a lot of the] main points in . 
+B|40| M: [Well ,] yeah , I guess so . 
+A|41| A: [Uh-huh .] 
+B|42| M: [And] , uh . 
+A|43| A: [Yeah [.] Yeah .] 
+B|44| M: [And] , uh I know [that] , uh . 
+A|45| A: [Uh-huh .] 
+B|46| M: You know , [you] [can] [do] [that] , [you] , [you] don't have [to] be , like [you] say , [a great deal] [of] time [and] effort into , [to] , you're making [the] right choice . 
+A|47| A: [Uh-huh .] 
+B|48| M: [And] , [you] have [to] have , have [the same] sort [of] job , [same] sort , [same] type [of] background . 
+A|49| A: [Yeah .] [And] [that] does make [a] [a] person want [to] stay 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=1| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=2| B | M : I think that , uh .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=3| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=4| B | M : you can get a lot of benefits , but you can't get enough .
+	Free: Pattern=a lot of, Pattern=you, Pattern=can, Pattern=benefits, Pattern=get
+	Constrained: Pattern=of, Pattern=a
+Turn ID=5| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=6| B | M : And , you can't have everything .
+	Free: Pattern=And, Pattern=you
+	Constrained: 
+Turn ID=7| A | A : Yeah . Yeah . Yeah .
+	Free: Pattern=. Yeah ., Pattern=Yeah .
+	Constrained: Pattern=Yeah .
+Turn ID=8| B | M : I , I really do enjoy it . I don't know how many times have you done this or ,
+	Free: Pattern=or ,, Pattern=really, Pattern=you, Pattern=do
+	Constrained: 
+Turn ID=9| A | A : Huh . Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=10| B | M : and then there's other places that , that offer , uh .
+	Free: Pattern=that, Pattern=and
+	Constrained: 
+Turn ID=11| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=12| B | M : But , uh ,
+	Free: Pattern=But
+	Constrained: 
+Turn ID=13| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=14| B | M : But , uh , it , it really is .
+	Free: Pattern=really, Pattern=But, Pattern=is
+	Constrained: 
+Turn ID=15| A | A : Yeah . Yeah . Right . Uh , and , and , and another good thing is with the health benefits when they give you more than two choices on who to go with .
+	Free: Pattern=you, Pattern=and ,, Pattern=and, Pattern=is, Pattern=. Yeah ., Pattern=benefits, Pattern=Right ., Pattern=to, Pattern=with, Pattern=good, Pattern=Yeah ., Pattern=thing, Pattern=the
+	Constrained: Pattern=Yeah ., Pattern=and
+Turn ID=16| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=17| A | A : And that really helped us out a great deal . So . But my husband does get vacation and it's worked out really good for us too .
+	Free: Pattern=good, Pattern=out, Pattern=And, Pattern=a great deal, Pattern=really, Pattern=for us, Pattern=that, Pattern=and, Pattern=too, Pattern=But, Pattern=us, Pattern=get, Pattern=my
+	Constrained: Pattern=for, Pattern=us, Pattern=a, Pattern=great
+Turn ID=18| B | M : Oh , that's good .
+	Free: Pattern=good ., Pattern=, that's
+	Constrained: Pattern=good
+Turn ID=19| A | A : So But .
+	Free: Pattern=But
+	Constrained: 
+Turn ID=20| B | M : Well , what are your favorite shows ?
+	Free: Pattern=Well ,
+	Constrained: Pattern=Well
+Turn ID=21| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=22| B | M : I , I do have flexible hours , so , uh , that's , that works out real well for us .
+	Free: Pattern=out, Pattern=do, Pattern=well for us, Pattern=, that's, Pattern=flexible hours, Pattern=that
+	Constrained: Pattern=us, Pattern=for, Pattern=hours, Pattern=for us
+Turn ID=23| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=24| B | M : And , uh , so , I , I work a full-time job and , uh .
+	Free: Pattern=and ,, Pattern=And, Pattern=a, Pattern=work
+	Constrained: Pattern=and
+Turn ID=25| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=26| B | M : She has to do a lot of the planning and , uh choreographed work for the people there .
+	Free: Pattern=a lot of the, Pattern=there, Pattern=for, Pattern=work, Pattern=the, Pattern=and ,, Pattern=to do
+	Constrained: Pattern=and, Pattern=the, Pattern=to, Pattern=a lot of, Pattern=of, Pattern=do, Pattern=a
+Turn ID=27| A | A : Well , that's great that you all can work that out . That's really good .
+	Free: Pattern=can, Pattern=good ., Pattern=Well ,, Pattern=work, Pattern=really, Pattern=, that's, Pattern=that, Pattern=you, Pattern=out, Pattern=great
+	Constrained: Pattern=Well, Pattern=good
+Turn ID=28| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=29| A | A : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=30| B | M : But , uh .
+	Free: Pattern=But
+	Constrained: 
+Turn ID=31| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=32| B | M : You know , I think , uh , the other thing that I like to do with my kids is , uh ...
+	Free: Pattern=to do, Pattern=is, Pattern=that, Pattern=with my, Pattern=thing, Pattern=the
+	Constrained: Pattern=with, Pattern=do, Pattern=my, Pattern=to
+Turn ID=33| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=34| B | M : But , uh , I don't know . I guess I'm not really for too much into it .
+	Free: Pattern=really, Pattern=But, Pattern=too, Pattern=for
+	Constrained: 
+Turn ID=35| A | A : Yeah . It's the same with my husband cause he's got pretty flexible hours if , as long as he puts in the hours he needs to do . Worked out really well for us too .
+	Free: Pattern=Yeah ., Pattern=hours, Pattern=out, Pattern=to do, Pattern=too, Pattern=well for us, Pattern=really, Pattern=the same, Pattern=flexible hours, Pattern=with my, Pattern=the
+	Constrained: Pattern=hours, Pattern=do, Pattern=for, Pattern=us, Pattern=the, Pattern=same, Pattern=to, Pattern=for us, Pattern=my, Pattern=with
+Turn ID=36| B | M : Uh-uh . Yeah .
+	Free: Pattern=. Yeah .
+	Constrained: Pattern=Yeah .
+Turn ID=37| A | A : Uh . Well is there anything else that you look for or ,
+	Free: Pattern=or ,, Pattern=you, Pattern=there, Pattern=for, Pattern=that, Pattern=Well, Pattern=is
+	Constrained: 
+Turn ID=38| B | M :  !!! % !! RemindMe !!
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : You've hit pretty , you've put a lot of the main points in .
+	Free: Pattern=a lot of the
+	Constrained: Pattern=of, Pattern=the, Pattern=a, Pattern=a lot of
+Turn ID=40| B | M : Well , yeah , I guess so .
+	Free: Pattern=Well ,
+	Constrained: Pattern=Well
+Turn ID=41| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=42| B | M : And , uh .
+	Free: Pattern=And
+	Constrained: 
+Turn ID=43| A | A : Yeah . Yeah .
+	Free: Pattern=. Yeah ., Pattern=Yeah .
+	Constrained: Pattern=Yeah .
+Turn ID=44| B | M : And , uh I know that , uh .
+	Free: Pattern=And, Pattern=that
+	Constrained: 
+Turn ID=45| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=46| B | M : You know , you can do that , you , you don't have to be , like you say , a great deal of time and effort into , to , you're making the right choice .
+	Free: Pattern=of, Pattern=you, Pattern=do, Pattern=a great deal, Pattern=and, Pattern=can, Pattern=the, Pattern=to, Pattern=that
+	Constrained: Pattern=a, Pattern=great
+Turn ID=47| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=48| B | M : And , you have to have , have the same sort of job , same sort , same type of background .
+	Free: Pattern=of, Pattern=you, Pattern=And, Pattern=same, Pattern=to, Pattern=the same
+	Constrained: Pattern=the, Pattern=same
+Turn ID=49| A | A : Yeah . And that does make a a person want to stay
+	Free: Pattern=Yeah ., Pattern=And, Pattern=a, Pattern=to, Pattern=that
+	Constrained: 

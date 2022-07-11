@@ -1,0 +1,163 @@
+B|0| M: _Uh_ . 
+A|1| A: _and _, uh_ ,_ they had basically decided _that_ there _is_ going to be _a_ real _problem_ here within _a_ _few years_ on solid waste . 
+B|2| M: _Uh ,_ yeah . 
+A|3| A: Well , _it's_ not too new . 
+B|4| M: _Yeah ._ 
+A|5| A: Oh , they _really_ didn't propose any solutions . Actually , they were _, the_ guy _was_ pretty negative _about_ _the_ things _that_ _the_ government _was_ doing _even_ though _he was_ from _the_ E P A . 
+B|6| M: _Yeah ._ 
+A|7| A: But _, he_ had _a_ lot _of_ _, uh ,_ facts to , to give _and _, uh_ ,_ things like _how_ many solid waste plants were being shut down _and ,_ _and _, uh_ ,_ one _of_ _the_ most interesting things _that_ _he was_ talking _about_ _was_ _recycling_ _of_ , _of_ news print _. He was_ talking _about_ _, uh _,_ the_ City _of_ New York _and_ _how_ they went _and_ collected all this news print 
+B|8| M: _Uh_ . 
+A|9| A: _and_ they could sell _it_ for _a_ while . They were able to sell _it_ for some amount per ton _and_ now at this stage _of_ _the_ game where they _have_ gotten into _recycling_ , they've collected so much news print _that_ they _have_ to pay to _have_ _it_ hauled away . 
+B|10| M: _Yeah _,_ I_ _, I_ don't know _if _you_ have_ [a] local _paper_ _, but_ _I_ [, uh] 
+A|11| A: [Yeah .] We're doing some here _in_ , _in_ Cash Valley _, the_ community here . 
+B|12| M: _Uh-huh ._ 
+A|13| A: There's _, uh ,_ we've actually got [a] _kind of_ [a] nice set up . We've got [a] couple _of_ plants here _that_ actually take _, uh ,_ recycled [paper] _and_ shred _it_ _and_ spray _it_ with chemical treatment so _that_ _it's_ not [a] fire hazard _and_ make _it_ into insulation 
+B|14| M: _Uh ,_ [how] _do_ _you_ handle [that] ? 
+A|15| A: _and_ they _can_ actually use as much recycled [paper] as _the_ community _can_ get to them . Because they are actually buying _it_ _and_ shipping _it_ _in_ from outside . 
+B|16| M: Right , right . 
+A|17| A: _So_ one _of_ _the_ real keys _, it_ sounds like , to getting _recycling_ for _, uh ,_ [paper] or something like [that] to go _is_ to get some sort _of_ business to actually want _it_ once [you have] collected _it_ . 
+B|18| M: _Uh-huh ._ 
+A|19| A: [Uh-huh .] 
+B|20| M: [and , uh] . 
+A|21| A: And there _was_ [a] [paper] presented at this conference from [a] guy from Alabama [and] _he was_ _kind of_ hired to [do] [a] study by two departments for _the_ government . One _was_ like , environmental protection [and] _the_ other one _was_ , oh [, I] can't remember _what_ [, but] _the_ basic idea _, it was_ presented to him _was_ [how] _can we_ maximize _the_ amount _of_ energy [that] _we_ _can_ get back from _recycling_ [and] minimize _the_ volume _of_ stuff [that] _we_ are putting into our landfill 
+B|22| M: _Uh ,_ 
+A|23| A: [and _, uh] _,_ the_ solution [that] _he_ came up with for plastics , [and] _it was_ _really_ quite amazing _, he_ says , well _the_ best _thing_ to [do] with plastics _is_ to burn them . 
+B|24| M:  !!! % !! ; !! LINE !! LINE !! You bet !! That's [the] [kind of] [thing] that's , [that] [I] think that's [really] been [a] major [problem] [in] [the] last [few years] [is] [that] [, uh] ... 
+A|25| A: _He_ came to [the] conclusion , plastics [is] actually one [of] [the] biggest problems [in] landfills cause _it's ,_ _it's_ low weight [, but] _it's_ high volume so _it_ takes up [a] lot [of] space 
+B|26| M: _Uh_ . 
+A|27| A: [and] there's almost no energy , there's very little energy value [in] actually doing [a] lot [of] [the] _recycling_ [, but] there [is] [a] lot [of] energy [in] _it_ [if you] _can_ burn _it_ [and] use _it_ , produce electricity . 
+B|28| M: Right , yeah . 
+A|29| A: _So_ his solution _was_ to burn plastic . Collect _it_ [and] burn _it_ . 
+B|30| M:  !!! % !! translated It's , 
+A|31| A: [Yeah .] And _it's_ _more than_ _even_ [paper] or something like [that] . There [is] _more_ energy [in] _it_ per pound or whatever . Well [that] _was_ _he_ didn't deal with [that] . 
+B|32| M: _Yeah [,_ I] think [it's [,] it was] [more than] _just_ [paper] [. He was] [even] [, [he] was] [even] [recycling] [the] [, the] tin cans . 
+A|33| A: [He] [just] said burn [it] . 
+B|34| M: Okay . 
+A|35| A: [He] didn't _talk about_ cleaning [it] up or anything like [that] . _So_ [it's] not very practical 
+B|36| M: [Uh-huh .] 
+A|37| A: [Yeah ,] well , real interesting . 
+B|38| M: [So] [, uh ,] [what] else [can we] [talk about] . 
+A|39| A: [Uh ,] not too much . [Uh [,] I] got [a] bit . Actually , 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=1| A | A : and , uh , they had basically decided that there is going to be a real problem here within a few years on solid waste .
+	Free: Pattern=problem, Pattern=and , uh, Pattern=a, Pattern=is, Pattern=, uh ,, Pattern=few years, Pattern=that
+	Constrained: Pattern=and ,, Pattern=, uh, Pattern=and
+Turn ID=2| B | M : Uh , yeah .
+	Free: Pattern=Uh ,
+	Constrained: Pattern=Uh
+Turn ID=3| A | A : Well , it's not too new .
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=4| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=5| A | A : Oh , they really didn't propose any solutions . Actually , they were , the guy was pretty negative about the things that the government was doing even though he was from the E P A .
+	Free: Pattern=even, Pattern=about, Pattern=the, Pattern=was, Pattern=, the, Pattern=that, Pattern=really, Pattern=he was
+	Constrained: Pattern=the, Pattern=he, Pattern=was
+Turn ID=6| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=7| A | A : But , he had a lot of , uh , facts to , to give and , uh , things like how many solid waste plants were being shut down and , and , uh , one of the most interesting things that he was talking about was recycling of , of news print . He was talking about , uh , the City of New York and how they went and collected all this news print
+	Free: Pattern=of, Pattern=and ,, Pattern=and , uh, Pattern=how, Pattern=about, Pattern=, he, Pattern=he was, Pattern=, uh ,, Pattern=the, Pattern=was, Pattern=, the, Pattern=that, Pattern=recycling, Pattern=a, Pattern=and, Pattern=. He was
+	Constrained: Pattern=, uh, Pattern=and ,, Pattern=and, Pattern=he, Pattern=the, Pattern=was, Pattern=He
+Turn ID=8| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=9| A | A : and they could sell it for a while . They were able to sell it for some amount per ton and now at this stage of the game where they have gotten into recycling , they've collected so much news print that they have to pay to have it hauled away .
+	Free: Pattern=of, Pattern=have, Pattern=the, Pattern=that, Pattern=recycling, Pattern=a, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=10| B | M : Yeah , I , I don't know if you have a local paper , but I , uh
+	Free: Pattern=I, Pattern=Yeah ,, Pattern=paper, Pattern=, uh, Pattern=, but, Pattern=, I, Pattern=a, Pattern=if you, Pattern=you have
+	Constrained: Pattern=have, Pattern=I, Pattern=you
+Turn ID=11| A | A : Yeah . We're doing some here in , in Cash Valley , the community here .
+	Free: Pattern=, the, Pattern=Yeah ., Pattern=in
+	Constrained: Pattern=the
+Turn ID=12| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=13| A | A : There's , uh , we've actually got a kind of a nice set up . We've got a couple of plants here that actually take , uh , recycled paper and shred it and spray it with chemical treatment so that it's not a fire hazard and make it into insulation
+	Free: Pattern=of, Pattern=kind of, Pattern=a, Pattern=, uh ,, Pattern=paper, Pattern=it, Pattern=and, Pattern=that, Pattern=it's
+	Constrained: Pattern=, uh, Pattern=of
+Turn ID=14| B | M : Uh , how do you handle that ?
+	Free: Pattern=you, Pattern=do, Pattern=how, Pattern=Uh ,, Pattern=that
+	Constrained: Pattern=Uh
+Turn ID=15| A | A : and they can actually use as much recycled paper as the community can get to them . Because they are actually buying it and shipping it in from outside .
+	Free: Pattern=can, Pattern=in, Pattern=the, Pattern=paper, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=16| B | M : Right , right .
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : So one of the real keys , it sounds like , to getting recycling for , uh , paper or something like that to go is to get some sort of business to actually want it once you have collected it .
+	Free: Pattern=, it, Pattern=of, Pattern=recycling, Pattern=So, Pattern=it, Pattern=you have, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=paper, Pattern=that
+	Constrained: Pattern=have, Pattern=it, Pattern=you, Pattern=, uh
+Turn ID=18| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=19| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=20| B | M : and , uh .
+	Free: Pattern=and , uh
+	Constrained: Pattern=and ,, Pattern=, uh, Pattern=and
+Turn ID=21| A | A : And there was a paper presented at this conference from a guy from Alabama and he was kind of hired to do a study by two departments for the government . One was like , environmental protection and the other one was , oh , I can't remember what , but the basic idea , it was presented to him was how can we maximize the amount of energy that we can get back from recycling and minimize the volume of stuff that we are putting into our landfill
+	Free: Pattern=of, Pattern=kind of, Pattern=, but, Pattern=what, Pattern=how, Pattern=can we, Pattern=and, Pattern=can, Pattern=, it was, Pattern=the, Pattern=that, Pattern=do, Pattern=recycling, Pattern=, I, Pattern=a, Pattern=we, Pattern=he was, Pattern=was, Pattern=paper
+	Constrained: Pattern=it was, Pattern=, it, Pattern=of, Pattern=it, Pattern=I, Pattern=we, Pattern=was, Pattern=he, Pattern=can
+Turn ID=22| B | M : Uh ,
+	Free: Pattern=Uh ,
+	Constrained: Pattern=Uh
+Turn ID=23| A | A : and , uh , the solution that he came up with for plastics , and it was really quite amazing , he says , well the best thing to do with plastics is to burn them .
+	Free: Pattern=it was, Pattern=and , uh, Pattern=do, Pattern=and, Pattern=he, Pattern=, he, Pattern=is, Pattern=really, Pattern=, uh ,, Pattern=, the, Pattern=that, Pattern=thing, Pattern=the
+	Constrained: Pattern=, uh, Pattern=and ,, Pattern=he, Pattern=the, Pattern=was, Pattern=it, Pattern=and
+Turn ID=24| B | M :  !!! % !! ; !! LINE !! LINE !! You bet !! That's the kind of thing that's , that I think that's really been a major problem in the last few years is that , uh ...
+	Free: Pattern=problem, Pattern=kind of, Pattern=, uh, Pattern=a, Pattern=I, Pattern=in, Pattern=is, Pattern=really, Pattern=few years, Pattern=that, Pattern=thing, Pattern=the
+	Constrained: Pattern=of
+Turn ID=25| A | A : He came to the conclusion , plastics is actually one of the biggest problems in landfills cause it's , it's low weight , but it's high volume so it takes up a lot of space
+	Free: Pattern=of, Pattern=it's ,, Pattern=, but, Pattern=a, Pattern=it, Pattern=in, Pattern=is, Pattern=the, Pattern=He, Pattern=it's
+	Constrained: Pattern=it's
+Turn ID=26| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=27| A | A : and there's almost no energy , there's very little energy value in actually doing a lot of the recycling , but there is a lot of energy in it if you can burn it and use it , produce electricity .
+	Free: Pattern=of, Pattern=, but, Pattern=can, Pattern=if you, Pattern=in, Pattern=is, Pattern=the, Pattern=recycling, Pattern=a, Pattern=it, Pattern=and
+	Constrained: Pattern=you
+Turn ID=28| B | M : Right , yeah .
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : So his solution was to burn plastic . Collect it and burn it .
+	Free: Pattern=was, Pattern=So, Pattern=and, Pattern=it
+	Constrained: 
+Turn ID=30| B | M :  !!! % !! translated It's ,
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : Yeah . And it's more than even paper or something like that . There is more energy in it per pound or whatever . Well that was he didn't deal with that .
+	Free: Pattern=Yeah ., Pattern=more, Pattern=even, Pattern=it, Pattern=he, Pattern=in, Pattern=is, Pattern=was, Pattern=paper, Pattern=more than, Pattern=that, Pattern=it's
+	Constrained: Pattern=more
+Turn ID=32| B | M : Yeah , I think it's , it was more than just paper . He was even , he was even recycling the , the tin cans .
+	Free: Pattern=it's ,, Pattern=just, Pattern=even, Pattern=. He was, Pattern=, it was, Pattern=, he, Pattern=he was, Pattern=the, Pattern=Yeah ,, Pattern=paper, Pattern=, the, Pattern=more than, Pattern=recycling, Pattern=, I
+	Constrained: Pattern=it was, Pattern=, it, Pattern=more, Pattern=it, Pattern=I, Pattern=he, Pattern=the, Pattern=it's, Pattern=was, Pattern=He
+Turn ID=33| A | A : He just said burn it .
+	Free: Pattern=just, Pattern=it, Pattern=He
+	Constrained: 
+Turn ID=34| B | M : Okay .
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : He didn't talk about cleaning it up or anything like that . So it's not very practical
+	Free: Pattern=So, Pattern=He, Pattern=it, Pattern=talk about, Pattern=that, Pattern=it's
+	Constrained: Pattern=about
+Turn ID=36| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=37| A | A : Yeah , well , real interesting .
+	Free: Pattern=Yeah ,
+	Constrained: 
+Turn ID=38| B | M : So , uh , what else can we talk about .
+	Free: Pattern=what, Pattern=So, Pattern=can we, Pattern=talk about, Pattern=, uh ,
+	Constrained: Pattern=about, Pattern=we, Pattern=can, Pattern=, uh
+Turn ID=39| A | A : Uh , not too much . Uh , I got a bit . Actually ,
+	Free: Pattern=, I, Pattern=Uh ,, Pattern=a
+	Constrained: Pattern=I, Pattern=Uh

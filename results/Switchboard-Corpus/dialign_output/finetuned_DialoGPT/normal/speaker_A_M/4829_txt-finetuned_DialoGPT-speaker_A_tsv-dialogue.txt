@@ -1,0 +1,183 @@
+B|0| M: _Uh ,_ _do_ _you_ _have_ _a_ garden _or_ , 
+A|1| A: _and they_ put them out _on_ _a certain_ day _of_ _the_ week 
+B|2| M: _Uh_ . 
+A|3| A: _and_ each _, uh ,_ home does participate _but_ we _really_ _don't_ [have] anything _, uh ,_ close in this area _that_ _, that_ [do] anything . _And , and_ some _of_ _the_ communities _that_ [do] , _the_ residents are having _to_ pay _to_ participate in _it ._ Which _really_ _doesn't_ make sense . 
+B|4| M: Right , right . 
+A|5| A: _Yeah_ _, that's_ good . 
+B|6| M: _And , uh_ 
+A|7| A: _Yeah_ _, yeah_ . That's another thing . _You_ _have to_ go _to_ different places _to_ [do] _that ._ 
+B|8| M: _Uh-huh ._ 
+A|9| A: [Uh-huh .] _But_ _I_ heard _that_ most homes _that_ [do] participate in _that_ are having _to_ pay [a] monthly fee _to_ [do] _that ._ Which _, uh _,_ I_ _don't_ _know _,_ it_ _just_ _doesn't_ make sense _to_ _me ._ 
+B|10| M: _Well [,_ I] _think_ _it's_ _just a_ , _it's_ [a] matter _of ,_ [of] people _not_ being lazy [and] _not_ paying _, you_ _, you_ [don't] want [to] _, you_ want [to] say , well [, I] [just] _didn't_ take [the] time [to] look [and] see _what_ [it] _was_ . 
+A|11| A: _Yeah . Yeah ._ 
+B|12| M: [But] [, uh] . 
+A|13| A: _Yeah ._ That's good _, that's_ good . 
+B|14| M: So [, yeah] [, I] guess _I _, I_ ,_ 
+A|15| A: [Uh-huh .] 
+B|16| M: [but] they've , they've [really] [, uh ,] started [to] cut down _on [that_ .] 
+A|17| A: _Huh ._ No . 
+B|18| M: [And , _and] it's_ _not_ _like_ [they] _, you _know ,_ they_ , _it's_ [, it] _doesn't , they don't_ [really] [have] [a] , [a] [, uh ,] [a] marketing deal [on] [it .] 
+A|19| A: _Oh [,_ I] [didn't] [know] [that .] 
+B|20| M: _You [know_ _,] you_ [have to] [have] [a certain] weight , 
+A|21| A: _Yeah ._ 
+B|22| M: _And , uh_ . 
+A|23| A: [Uh-huh .] [Well _,] that's_ good . [I ,] _I'm_ [, you know ,] unfortunately Garland [doesn't] [have] , [doesn't , they don't] [, I] [don't] [know [, they] don't] [do] anything [like] [that] [or] [I _,] you know , I_ read those little slips [that] come in [to] your , utility bills [or] your [, uh ,] garbage collection 
+B|24| M: _Uh ,_ 
+A|25| A: _and they_ haven't [, you know ,] talked about doing something [like] [that] 
+B|26| M: [Yeah . Yeah .] 
+A|27| A: She lives in Garland [and] _I'm_ [not] _sure_ where , [what] _she_ does . [But] _she's_ [, uh ,] oh _she's_ very heavy in [that] [and] _she_ takes her own bags [to] [the] grocery store 
+B|28| M: Uh-oh . 
+A|29| A: [Uh _,] she_ has _, I , I_ [really] [don't] [think] _she_ has any paper products in her house . 
+B|30| M: Right . 
+A|31| A: [Uh [,] and] [just a] lot [of] things I've learned off [of] her [that] , [to] start doing . [And] _she_ does make [a] lot [of] sense . 
+B|32| M: [Oh [,] that's] great . 
+A|33| A: Just her whole house _is_ [like] wow . 
+B|34| M: [Huh .] 
+A|35| A: [Yeah .] 
+B|36| M: [and they] say , well [, you know [, I] , I] can't say [I'm] [sure] , [but] [she] says [, uh [,] she] said [she's] [not] going [to] tell [me .] 
+A|37| A: [Yeah .] 
+B|38| M: [And] [you] can't stop [it] , _so_ . 
+A|39| A: [Yeah .] [And [, uh] ,] my little _boy_ has , watches [a] program [that] [was] [really] _neat ._ [I] sat [and] watched him . [You know] [the] Barney ? [You know] [the] little [, I] [don't] [know] if [you know] [the] little character Barney . 
+B|40| M: [Uh-huh .] 
+A|41| A: They had one [, uh ,] [on that] kind [of ,] type [of] thing [and] how children can , can [do] [that] [and] how [to] save water when [you] brush your teeth in water [and it's] [really] caught [on] [and] he's only four [and] he's [really] caught [on] . 
+B|42| M: [Oh ,] [boy] . 
+A|43| A: [And] keep [the] refrigerator door closed [and] [that] kind [of] thing . He's [really] caught [on] [so] [that's] [really] _neat_ 
+B|44| M: [Oh [,] that] [is] [neat .] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : Uh , do you have a garden or ,
+	Free: Pattern=you, Pattern=have, Pattern=Uh ,, Pattern=or, Pattern=do, Pattern=a
+	Constrained: Pattern=Uh
+Turn ID=1| A | A : and they put them out on a certain day of the week
+	Free: Pattern=of, Pattern=and they, Pattern=a certain, Pattern=on, Pattern=the
+	Constrained: Pattern=they, Pattern=a, Pattern=and
+Turn ID=2| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=3| A | A : and each , uh , home does participate but we really don't have anything , uh , close in this area that , that do anything . And , and some of the communities that do , the residents are having to pay to participate in it . Which really doesn't make sense .
+	Free: Pattern=of, Pattern=it ., Pattern=do, Pattern=and, Pattern=, that, Pattern=really, Pattern=, uh ,, Pattern=the, Pattern=don't, Pattern=to, Pattern=And , and, Pattern=have, Pattern=doesn't, Pattern=that, Pattern=but
+	Constrained: Pattern=, uh, Pattern=And, Pattern=, and, Pattern=that, Pattern=it, Pattern=and
+Turn ID=4| B | M : Right , right .
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : Yeah , that's good .
+	Free: Pattern=, that's, Pattern=Yeah
+	Constrained: Pattern=that's
+Turn ID=6| B | M : And , uh
+	Free: Pattern=And , uh
+	Constrained: Pattern=, uh, Pattern=And
+Turn ID=7| A | A : Yeah , yeah . That's another thing . You have to go to different places to do that .
+	Free: Pattern=that ., Pattern=do, Pattern=, yeah, Pattern=You, Pattern=have to, Pattern=to, Pattern=Yeah
+	Constrained: Pattern=have, Pattern=to, Pattern=that
+Turn ID=8| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=9| A | A : Uh-huh . But I heard that most homes that do participate in that are having to pay a monthly fee to do that . Which , uh , I don't know , it just doesn't make sense to me .
+	Free: Pattern=, it, Pattern=I, Pattern=, uh ,, Pattern=don't, Pattern=to, Pattern=that, Pattern=know ,, Pattern=that ., Pattern=just, Pattern=doesn't, Pattern=do, Pattern=Uh-huh ., Pattern=, I, Pattern=a, Pattern=But, Pattern=me .
+	Constrained: Pattern=, uh, Pattern=it, Pattern=I, Pattern=know, Pattern=that
+Turn ID=10| B | M : Well , I think it's just a , it's a matter of , of people not being lazy and not paying , you , you don't want to , you want to say , well , I just didn't take the time to look and see what it was .
+	Free: Pattern=of, Pattern=just, Pattern=what, Pattern=just a, Pattern=didn't, Pattern=of ,, Pattern=, you, Pattern=the, Pattern=don't, Pattern=to, Pattern=was, Pattern=it's, Pattern=not, Pattern=, I, Pattern=a, Pattern=it, Pattern=and, Pattern=Well ,, Pattern=think
+	Constrained: Pattern=of, Pattern=you, Pattern=just, Pattern=a, Pattern=I
+Turn ID=11| A | A : Yeah . Yeah .
+	Free: Pattern=Yeah . Yeah .
+	Constrained: Pattern=Yeah ., Pattern=Yeah
+Turn ID=12| B | M : But , uh .
+	Free: Pattern=, uh, Pattern=But
+	Constrained: 
+Turn ID=13| A | A : Yeah . That's good , that's good .
+	Free: Pattern=, that's, Pattern=Yeah .
+	Constrained: Pattern=Yeah, Pattern=that's
+Turn ID=14| B | M : So , yeah , I guess I , I ,
+	Free: Pattern=I , I, Pattern=, I ,, Pattern=, yeah, Pattern=, I
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=I
+Turn ID=15| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=16| B | M : but they've , they've really , uh , started to cut down on that .
+	Free: Pattern=that ., Pattern=on that, Pattern=really, Pattern=, uh ,, Pattern=to, Pattern=but
+	Constrained: Pattern=that, Pattern=on, Pattern=, uh
+Turn ID=17| A | A : Huh . No .
+	Free: Pattern=Huh .
+	Constrained: 
+Turn ID=18| B | M : And , and it's not like they , you know , they , it's , it doesn't , they don't really have a , a , uh , a marketing deal on it .
+	Free: Pattern=, it, Pattern=and it's, Pattern=it ., Pattern=have, Pattern=they, Pattern=doesn't , they don't, Pattern=, uh ,, Pattern=on, Pattern=it's, Pattern=, you know ,, Pattern=know , they, Pattern=a, Pattern=really, Pattern=like, Pattern=And , and, Pattern=not
+	Constrained: Pattern=know ,, Pattern=they, Pattern=, they don't, Pattern=don't, Pattern=, and, Pattern=it's, Pattern=you, Pattern=you know, Pattern=, uh, Pattern=And, Pattern=doesn't, Pattern=it, Pattern=and, Pattern=know, Pattern=, you
+Turn ID=19| A | A : Oh , I didn't know that .
+	Free: Pattern=that ., Pattern=, I, Pattern=didn't, Pattern=know, Pattern=Oh ,
+	Constrained: Pattern=I, Pattern=that
+Turn ID=20| B | M : You know , you have to have a certain weight ,
+	Free: Pattern=know ,, Pattern=have, Pattern=, you, Pattern=You know, Pattern=have to, Pattern=a certain
+	Constrained: Pattern=you, Pattern=have, Pattern=a, Pattern=know, Pattern=You, Pattern=to
+Turn ID=21| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=22| B | M : And , uh .
+	Free: Pattern=And , uh
+	Constrained: Pattern=, uh, Pattern=And
+Turn ID=23| A | A : Uh-huh . Well , that's good . I , I'm , you know , unfortunately Garland doesn't have , doesn't , they don't , I don't know , they don't do anything like that or I , you know , I read those little slips that come in to your , utility bills or your , uh , garbage collection
+	Free: Pattern=I ,, Pattern=I'm, Pattern=, you know , I, Pattern=Well ,, Pattern=like, Pattern=or, Pattern=, uh ,, Pattern=don't, Pattern=, that's, Pattern=to, Pattern=that, Pattern=have, Pattern=doesn't, Pattern=do, Pattern=Uh-huh ., Pattern=, you know ,, Pattern=, I, Pattern=know , they, Pattern=doesn't , they don't, Pattern=, they don't
+	Constrained: Pattern=know ,, Pattern=doesn't, Pattern=they, Pattern=I, Pattern=, they don't, Pattern=that's, Pattern=don't, Pattern=you, Pattern=you know, Pattern=, uh, Pattern=, you know ,, Pattern=, I, Pattern=know, Pattern=, you
+Turn ID=24| B | M : Uh ,
+	Free: Pattern=Uh ,
+	Constrained: Pattern=Uh
+Turn ID=25| A | A : and they haven't , you know , talked about doing something like that
+	Free: Pattern=, you know ,, Pattern=and they, Pattern=that, Pattern=like
+	Constrained: Pattern=know ,, Pattern=they, Pattern=and, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
+Turn ID=26| B | M : Yeah . Yeah .
+	Free: Pattern=Yeah . Yeah .
+	Constrained: Pattern=Yeah ., Pattern=Yeah
+Turn ID=27| A | A : She lives in Garland and I'm not sure where , what she does . But she's , uh , oh she's very heavy in that and she takes her own bags to the grocery store
+	Free: Pattern=I'm, Pattern=what, Pattern=and, Pattern=she, Pattern=But, Pattern=she's, Pattern=the, Pattern=to, Pattern=that, Pattern=not, Pattern=sure, Pattern=, uh ,
+	Constrained: Pattern=, uh
+Turn ID=28| B | M : Uh-oh .
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : Uh , she has , I , I really don't think she has any paper products in her house .
+	Free: Pattern=, she, Pattern=, I , I, Pattern=she, Pattern=Uh ,, Pattern=think, Pattern=really, Pattern=don't
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=, I ,, Pattern=I , I, Pattern=Uh, Pattern=I, Pattern=she
+Turn ID=30| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : Uh , and just a lot of things I've learned off of her that , to start doing . And she does make a lot of sense .
+	Free: Pattern=of, Pattern=And, Pattern=a, Pattern=just a, Pattern=she, Pattern=Uh ,, Pattern=that, Pattern=, and, Pattern=to
+	Constrained: Pattern=a, Pattern=Uh, Pattern=and, Pattern=just
+Turn ID=32| B | M : Oh , that's great .
+	Free: Pattern=, that's, Pattern=Oh ,
+	Constrained: Pattern=that's
+Turn ID=33| A | A : Just her whole house is like wow .
+	Free: Pattern=like, Pattern=is
+	Constrained: 
+Turn ID=34| B | M : Huh .
+	Free: Pattern=Huh .
+	Constrained: 
+Turn ID=35| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=36| B | M : and they say , well , you know , I , I can't say I'm sure , but she says , uh , she said she's not going to tell me .
+	Free: Pattern=I'm, Pattern=, you know , I, Pattern=, she, Pattern=, I , I, Pattern=she, Pattern=me ., Pattern=she's, Pattern=and they, Pattern=to, Pattern=but, Pattern=not, Pattern=sure, Pattern=, uh ,
+	Constrained: Pattern=I ,, Pattern=know ,, Pattern=they, Pattern=, I ,, Pattern=and, Pattern=I , I, Pattern=you, Pattern=you know, Pattern=, uh, Pattern=, you know ,, Pattern=, I, Pattern=I, Pattern=she, Pattern=know, Pattern=, you
+Turn ID=37| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=38| B | M : And you can't stop it , so .
+	Free: Pattern=so, Pattern=it, Pattern=And, Pattern=you
+	Constrained: 
+Turn ID=39| A | A : Yeah . And , uh , my little boy has , watches a program that was really neat . I sat and watched him . You know the Barney ? You know the little , I don't know if you know the little character Barney .
+	Free: Pattern=Yeah ., Pattern=you know, Pattern=and, Pattern=I, Pattern=know, Pattern=really, Pattern=And , uh, Pattern=, uh ,, Pattern=don't, Pattern=neat ., Pattern=that, Pattern=, I, Pattern=a, Pattern=You know, Pattern=the, Pattern=boy, Pattern=was
+	Constrained: Pattern=And, Pattern=neat, Pattern=I, Pattern=know, Pattern=You, Pattern=Yeah, Pattern=you, Pattern=, uh
+Turn ID=40| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=41| A | A : They had one , uh , on that kind of , type of thing and how children can , can do that and how to save water when you brush your teeth in water and it's really caught on and he's only four and he's really caught on .
+	Free: Pattern=of, Pattern=and it's, Pattern=you, Pattern=on that, Pattern=do, Pattern=and, Pattern=of ,, Pattern=really, Pattern=, uh ,, Pattern=on, Pattern=to, Pattern=that
+	Constrained: Pattern=of, Pattern=, uh, Pattern=and, Pattern=on, Pattern=that, Pattern=it's
+Turn ID=42| B | M : Oh , boy .
+	Free: Pattern=Oh ,, Pattern=boy
+	Constrained: 
+Turn ID=43| A | A : And keep the refrigerator door closed and that kind of thing . He's really caught on so that's really neat
+	Free: Pattern=of, Pattern=And, Pattern=neat, Pattern=and, Pattern=really, Pattern=that, Pattern=so, Pattern=on, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=44| B | M : Oh , that is neat .
+	Free: Pattern=, that, Pattern=Oh ,, Pattern=neat ., Pattern=is
+	Constrained: Pattern=that, Pattern=neat

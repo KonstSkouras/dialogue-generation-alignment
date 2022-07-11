@@ -1,0 +1,115 @@
+A|0| B: Were _you_ up _in ,_ _in_ Wisconsin or would _you_ go into where would _you_ camp ? 
+B|1| M: Um , no . _I'm_ [in] New York . 
+A|2| B: _Uh-huh ._ 
+B|3| M: _And_ there's places [in] Minnesota , Minnesota _that_ _are_ really nice , _and_ there's also places [in _,] uh_ Minnesota _that_ look pretty nice , _but_ they're real limited [in] what they can offer . 
+A|4| B: _Oh ,_ yeah . That's beautiful . 
+B|5| M: _Yeah ._ 
+A|6| B: Right 
+B|7| M: [Oh] . 
+A|8| B: _Oh ,_ yeah _. Well ,_ most _of_ my camping _, I_ haven't done much since _I_ _was_ _a_ kid [but] [, uh] , we'd , basically , take the tent up [in] the Sierras [and] [, uh] , usually _just_ camp near some stream or some lake . 
+B|9| M: [Uh-huh .] 
+A|10| B: [And] [, uh] , _just_ _, it_ wasn't even _a_ , _a_ full tent . _It_ would _be_ more _a_ tarp [, uh] strung up between trees 
+B|11| M: _Uh_ . 
+A|12| B: [and] [, uh] _, we_ _just_ thought _it was_ absolute heaven . 
+B|13| M: [Oh] . 
+A|14| B: [Uh] , _there_ _was_ certainly nothing _like_ _a_ , _a_ bathroom , _a_ shower or anything , near by _It was_ dig your own hole [and] [, uh] [and] _I_ _I'm not_ sure I'd _do that_ [that] anymore , 
+B|15| M: Uh-hums . 
+A|16| B: [but] _it's_ _, it_ [, uh] [, uh] , _actually_ some _friends_ _of_ mine [and] _I_ [are] planning _to_ camp this summer [, uh] , for four days . Also _going_ fishing [, uh] 
+B|17| M: [Oh ,] that's nice . 
+A|18| B: [and] _I_ _have a_ idea _it's_ _going _to_ be_ _a_ , _a_ lot more equipment [and] _a_ lot more stuff than before . 
+B|19| M: _Yeah ._ _Yeah [._ Well [,] I] know [, uh] . [I] think [it's] [just] [going to] [have] [to be] [, uh] [you] know , [it's] got [to be] something [that] , [you] know [you] can [actually] get out [and] [do] . 
+A|20| B: [Yeah .] But , 
+B|21| M: [It was] [, [it] was] [, uh] . 
+A|22| B: [Yeah .] 
+B|23| M: It's [like] [I] don [, I] don'mamma , [I'm not] [going to] [do that] . 
+A|24| B: [Oh ,] my . 
+B|25| M:  !!! % !! ; !! RemindMe !! 
+A|26| B: [Uh-huh .] 
+B|27| M: [And] so that's , that's been our experience . We've been [there] quite [a] bit [of] times . We [, we] [have a] group [of] [friends] [that] [, uh] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Were you up in , in Wisconsin or would you go into where would you camp ?
+	Free: Pattern=in ,, Pattern=you, Pattern=in
+	Constrained: Pattern=in
+Turn ID=1| B | M : Um , no . I'm in New York .
+	Free: Pattern=I'm, Pattern=in
+	Constrained: 
+Turn ID=2| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=3| B | M : And there's places in Minnesota , Minnesota that are really nice , and there's also places in , uh Minnesota that look pretty nice , but they're real limited in what they can offer .
+	Free: Pattern=in ,, Pattern=, uh, Pattern=And, Pattern=and, Pattern=are, Pattern=in, Pattern=that, Pattern=but
+	Constrained: Pattern=in
+Turn ID=4| A | B : Oh , yeah . That's beautiful .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=5| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=6| A | B : Right
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=8| A | B : Oh , yeah . Well , most of my camping , I haven't done much since I was a kid but , uh , we'd , basically , take the tent up in the Sierras and , uh , usually just camp near some stream or some lake .
+	Free: Pattern=of, Pattern=, uh, Pattern=just, Pattern=and, Pattern=I, Pattern=. Well ,, Pattern=in, Pattern=Oh ,, Pattern=was, Pattern=but, Pattern=, I, Pattern=a
+	Constrained: Pattern=Oh, Pattern=I
+Turn ID=9| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=10| A | B : And , uh , just , it wasn't even a , a full tent . It would be more a tarp , uh strung up between trees
+	Free: Pattern=, it, Pattern=, uh, Pattern=a, Pattern=It, Pattern=be, Pattern=And, Pattern=just
+	Constrained: 
+Turn ID=11| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=12| A | B : and , uh , we just thought it was absolute heaven .
+	Free: Pattern=it was, Pattern=, uh, Pattern=just, Pattern=and, Pattern=, we
+	Constrained: Pattern=was
+Turn ID=13| B | M : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=14| A | B : Uh , there was certainly nothing like a , a bathroom , a shower or anything , near by It was dig your own hole and , uh and I I'm not sure I'd do that that anymore ,
+	Free: Pattern=, uh, Pattern=there, Pattern=a, Pattern=I, Pattern=and, Pattern=It was, Pattern=do that, Pattern=like, Pattern=was, Pattern=I'm not, Pattern=that, Pattern=Uh
+	Constrained: Pattern=I'm, Pattern=do, Pattern=It, Pattern=was, Pattern=that
+Turn ID=15| B | M : Uh-hums .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : but it's , it , uh , uh , actually some friends of mine and I are planning to camp this summer , uh , for four days . Also going fishing , uh
+	Free: Pattern=, it, Pattern=of, Pattern=, uh, Pattern=going, Pattern=actually, Pattern=and, Pattern=friends, Pattern=to, Pattern=are, Pattern=I, Pattern=it's, Pattern=but
+	Constrained: 
+Turn ID=17| B | M : Oh , that's nice .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=18| A | B : and I have a idea it's going to be a , a lot more equipment and a lot more stuff than before .
+	Free: Pattern=going to, Pattern=have a, Pattern=a, Pattern=and, Pattern=I, Pattern=to be, Pattern=it's
+	Constrained: Pattern=a, Pattern=be, Pattern=to, Pattern=going, Pattern=have
+Turn ID=19| B | M : Yeah . Yeah . Well , I know , uh . I think it's just going to have to be , uh you know , it's got to be something that , you know you can actually get out and do .
+	Free: Pattern=and, Pattern=I, Pattern=. Well ,, Pattern=to be, Pattern=going to, Pattern=Yeah ., Pattern=you, Pattern=, uh, Pattern=just, Pattern=have, Pattern=do, Pattern=actually, Pattern=, I, Pattern=that, Pattern=it's
+	Constrained: Pattern=going, Pattern=I, Pattern=to, Pattern=be
+Turn ID=20| A | B : Yeah . But ,
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=21| B | M : It was , it was , uh .
+	Free: Pattern=It was, Pattern=, uh, Pattern=, it, Pattern=it was
+	Constrained: Pattern=It, Pattern=was
+Turn ID=22| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=23| B | M : It's like I don , I don'mamma , I'm not going to do that .
+	Free: Pattern=going to, Pattern=, I, Pattern=I, Pattern=I'm not, Pattern=do that, Pattern=like
+	Constrained: Pattern=I'm, Pattern=going, Pattern=do, Pattern=I, Pattern=to, Pattern=that
+Turn ID=24| A | B : Oh , my .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=25| B | M :  !!! % !! ; !! RemindMe !!
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=27| B | M : And so that's , that's been our experience . We've been there quite a bit of times . We , we have a group of friends that , uh
+	Free: Pattern=of, Pattern=, uh, Pattern=And, Pattern=a, Pattern=, we, Pattern=friends, Pattern=that, Pattern=have a, Pattern=there
+	Constrained: Pattern=have, Pattern=a

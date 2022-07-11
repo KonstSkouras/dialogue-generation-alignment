@@ -1,0 +1,187 @@
+A|0| B: _You_ _were_ ? 
+B|1| M: and _I_ _was_ _, I_ _was_ very protective and _, uh ,_ and , _you_ _know , I_ would _always_ , I'd tell my _kids_ , _you_ can't _do_ this _to_ me . [You] can't make me _do_ this . [You] _know ._ 
+A|2| B: Uh-huh . Uh-huh . 
+B|3| M: It's _a_ complete opposite . 
+A|4| B: _Yeah ._ _Yeah ,_ yeah . From _what_ [I] understand _, they_ act up pretty bad 
+B|5| M: Uh , 
+A|6| B: What [, uh ,] _grade_ _is_ your daughter _in_ ? 
+B|7| M: She's [in] seventh [grade] . 
+A|8| B: Uh-huh , uh-huh . 
+B|9| M: and [, uh] . 
+A|10| B: Uh-huh , uh-huh . _Yeah ._ 
+B|11| M: or , _you_ _know ,_ it's not just _a_ problem with _the_ _school_ system _, it_ _, it_ has _to_ _do_ with _the_ , with _the_ society as _a_ whole , um . 
+A|12| B: _Oh_ , no , uh-huh . They [always] had [a] paddle [in] our [school] . 
+B|13| M: [Yeah .] 
+A|14| B: [I] [know .] 
+B|15| M: So . 
+A|16| B: Uh-huh . _Yeah ,_ yeah . 
+B|17| M: So _, I don't_ _know ,_ it's _, it_ seems like there's so much more pressure _to_ , _to_ _do_ more and more _of the_ things _that_ aren't _good_ and [I] donno . 
+A|18| B: Uh-huh , uh-huh . Uh-huh . 
+B|19| M: _I don't_ [know .] [I] _, I_ , _you_ _know , I_ just _, I don't_ _think_ I'm , I'm satisfied with [what] I'm getting . 
+A|20| B: [Yeah .] Wasn't [that] [what] part [of the] lottery _is_ going [to] _go_ for , if we approve [it] ? 
+B|21| M: [Yeah ,] that's [what] [they] [were] saying . 
+A|22| B: Uh-huh . 
+B|23| M: _But [,_ uh _,] I don't_ [know .] [I] donno . 
+A|24| B: Uh-huh . 
+B|25| M: _Um_ , _you_ [know] _I think_ it's just [a] , it's [a] bigger risk than [it] [is] worth . 
+A|26| B: Uh-huh . No . Really ? 
+B|27| M: and [they] just [go] out and , _you_ _know [,_ they] just , _they're_ [, they] [go] out [to] [the] corner store and , and _, I_ mean [, they] [, they] _do_ this [in] [the] middle [of the] night , 
+A|28| B: Ooh . 
+B|29| M: and [, uh] . 
+A|30| B: Uh-huh . 
+B|31| M: and [they] can be unbelievable . 
+A|32| B: Uh-huh . [Um] . 
+B|33| M: And [I] _, I think_ that's [the] only thing [that] [I] _see_ changing [in] [the] , [in] [the] [school] system . 
+A|34| B: _Oh_ [, I] [do] too [, I think] [they're] doing real [good] job . 
+B|35| M: [Yeah ,] [they're] trying [to] , 
+A|36| B: [But ,] then , [what] [do] [I] [know [, I] don't] have any [kids] . No , none at all 
+B|37| M: [Oh] . 
+A|38| B: [Oh] , yeah 
+B|39| M: [Yeah .] 
+A|40| B: Okay . 
+B|41| M: [Um] , and [I] will [, I] will cut [it] off . 
+A|42| B: Well [, it] [was] [good] talking [to] [you] too . 
+B|43| M: Bye-bye . 
+A|44| B: We'll [see] [you] , bye-bye . 
+B|45| M: Bye-bye 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : You were ?
+	Free: Pattern=You, Pattern=were
+	Constrained: 
+Turn ID=1| B | M : and I was , I was very protective and , uh , and , you know , I would always , I'd tell my kids , you can't do this to me . You can't make me do this . You know .
+	Free: Pattern=always, Pattern=you, Pattern=know , I, Pattern=to, Pattern=was, Pattern=do, Pattern=, I, Pattern=kids, Pattern=I, Pattern=You, Pattern=, uh ,, Pattern=know .
+	Constrained: Pattern=know ,, Pattern=, uh, Pattern=, I, Pattern=I, Pattern=know
+Turn ID=2| A | B : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : It's a complete opposite .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=4| A | B : Yeah . Yeah , yeah . From what I understand , they act up pretty bad
+	Free: Pattern=what, Pattern=I, Pattern=Yeah ,, Pattern=, they, Pattern=Yeah .
+	Constrained: Pattern=they
+Turn ID=5| B | M : Uh ,
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : What , uh , grade is your daughter in ?
+	Free: Pattern=, uh ,, Pattern=is, Pattern=grade, Pattern=in
+	Constrained: Pattern=, uh
+Turn ID=7| B | M : She's in seventh grade .
+	Free: Pattern=grade, Pattern=in
+	Constrained: 
+Turn ID=8| A | B : Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : and , uh .
+	Free: Pattern=, uh
+	Constrained: 
+Turn ID=10| A | B : Uh-huh , uh-huh . Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=11| B | M : or , you know , it's not just a problem with the school system , it , it has to do with the , with the society as a whole , um .
+	Free: Pattern=, it, Pattern=know ,, Pattern=you, Pattern=the, Pattern=to, Pattern=school, Pattern=do, Pattern=a
+	Constrained: Pattern=it, Pattern=know
+Turn ID=12| A | B : Oh , no , uh-huh . They always had a paddle in our school .
+	Free: Pattern=always, Pattern=a, Pattern=in, Pattern=Oh, Pattern=school
+	Constrained: 
+Turn ID=13| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=14| A | B : I know .
+	Free: Pattern=know ., Pattern=I
+	Constrained: Pattern=know
+Turn ID=15| B | M : So .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : Uh-huh . Yeah , yeah .
+	Free: Pattern=Yeah ,
+	Constrained: 
+Turn ID=17| B | M : So , I don't know , it's , it seems like there's so much more pressure to , to do more and more of the things that aren't good and I donno .
+	Free: Pattern=good, Pattern=, it, Pattern=know ,, Pattern=do, Pattern=I, Pattern=, I don't, Pattern=to, Pattern=of the, Pattern=that
+	Constrained: Pattern=, I, Pattern=it, Pattern=I, Pattern=I don't, Pattern=know, Pattern=the
+Turn ID=18| A | B : Uh-huh , uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : I don't know . I , I , you know , I just , I don't think I'm , I'm satisfied with what I'm getting .
+	Free: Pattern=you, Pattern=what, Pattern=, I, Pattern=I, Pattern=I don't, Pattern=know ., Pattern=know , I, Pattern=, I don't, Pattern=think
+	Constrained: Pattern=know ,, Pattern=, I, Pattern=I, Pattern=I don't, Pattern=know
+Turn ID=20| A | B : Yeah . Wasn't that what part of the lottery is going to go for , if we approve it ?
+	Free: Pattern=Yeah ., Pattern=go, Pattern=what, Pattern=it, Pattern=is, Pattern=to, Pattern=of the, Pattern=that
+	Constrained: Pattern=the
+Turn ID=21| B | M : Yeah , that's what they were saying .
+	Free: Pattern=Yeah ,, Pattern=what, Pattern=were, Pattern=they
+	Constrained: 
+Turn ID=22| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : But , uh , I don't know . I donno .
+	Free: Pattern=I, Pattern=, I don't, Pattern=But ,, Pattern=, uh ,, Pattern=know .
+	Constrained: Pattern=, uh, Pattern=, I, Pattern=I, Pattern=I don't, Pattern=know
+Turn ID=24| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : Um , you know I think it's just a , it's a bigger risk than it is worth .
+	Free: Pattern=a, Pattern=it, Pattern=know, Pattern=is, Pattern=I think, Pattern=you, Pattern=Um
+	Constrained: Pattern=think, Pattern=I
+Turn ID=26| A | B : Uh-huh . No . Really ?
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : and they just go out and , you know , they just , they're , they go out to the corner store and , and , I mean , they , they do this in the middle of the night ,
+	Free: Pattern=, they, Pattern=know ,, Pattern=you, Pattern=go, Pattern=they, Pattern=they're, Pattern=in, Pattern=the, Pattern=to, Pattern=of the, Pattern=do, Pattern=, I
+	Constrained: Pattern=the, Pattern=I, Pattern=they, Pattern=know
+Turn ID=28| A | B : Ooh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : and , uh .
+	Free: Pattern=, uh
+	Constrained: 
+Turn ID=30| A | B : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : and they can be unbelievable .
+	Free: Pattern=they
+	Constrained: 
+Turn ID=32| A | B : Uh-huh . Um .
+	Free: Pattern=Um
+	Constrained: 
+Turn ID=33| B | M : And I , I think that's the only thing that I see changing in the , in the school system .
+	Free: Pattern=I, Pattern=in, Pattern=, I think, Pattern=the, Pattern=see, Pattern=that, Pattern=school
+	Constrained: Pattern=I think, Pattern=, I, Pattern=think, Pattern=I
+Turn ID=34| A | B : Oh , I do too , I think they're doing real good job .
+	Free: Pattern=good, Pattern=they're, Pattern=, I think, Pattern=Oh, Pattern=do, Pattern=, I
+	Constrained: Pattern=I think, Pattern=, I, Pattern=think, Pattern=I
+Turn ID=35| B | M : Yeah , they're trying to ,
+	Free: Pattern=Yeah ,, Pattern=to, Pattern=they're
+	Constrained: 
+Turn ID=36| A | B : But , then , what do I know , I don't have any kids . No , none at all
+	Free: Pattern=what, Pattern=do, Pattern=, I don't, Pattern=know , I, Pattern=But ,, Pattern=kids, Pattern=I
+	Constrained: Pattern=know ,, Pattern=, I, Pattern=I, Pattern=I don't, Pattern=know
+Turn ID=37| B | M : Oh .
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=38| A | B : Oh , yeah
+	Free: Pattern=Oh
+	Constrained: 
+Turn ID=39| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=40| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : Um , and I will , I will cut it off .
+	Free: Pattern=, I, Pattern=it, Pattern=I, Pattern=Um
+	Constrained: Pattern=I
+Turn ID=42| A | B : Well , it was good talking to you too .
+	Free: Pattern=good, Pattern=, it, Pattern=you, Pattern=to, Pattern=was
+	Constrained: Pattern=it
+Turn ID=43| B | M : Bye-bye .
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : We'll see you , bye-bye .
+	Free: Pattern=see, Pattern=you
+	Constrained: 
+Turn ID=45| B | M : Bye-bye
+	Free: 
+	Constrained: 

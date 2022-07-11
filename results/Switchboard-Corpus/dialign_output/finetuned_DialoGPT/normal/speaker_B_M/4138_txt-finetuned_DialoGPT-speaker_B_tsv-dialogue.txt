@@ -1,0 +1,131 @@
+A|0| B: So _I think_ for , for , for many years _, uh_ , we've paid teachers _and_ police officers _and_ firemen who _are _,_ uh_ , to _a_ great extent , public servants _uh_ _, we have_ not paid them really what they're worth in what _they_ contribute to society . 
+B|1| M: Uh-huh . 
+A|2| B: But _, uh_ , then again _, uh_ , _it's_ _the_ , hard to justify with all _the_ wastefulness of money _that_ _the_ government spends on all levels of , of _, uh_ , government , including municipalities as well as _state_ _and_ federal governments . 
+B|3| M: Well , that's true . 
+A|4| B: _Uh ,_ _you're_ very fortunate . 
+B|5| M: _and , uh_ 
+A|6| B: We _just_ try not to _pay_ any _more_ in than _we have_ to [, uh] _, we_ _pay_ in _a_ substantial amount . _Uh ,_ 
+B|7| M: Well [, we] [just] _, we have a_ _, a_ [, uh] [we] [just] [pay] [the] [state] _tax ,_ which _is_ [, uh] 
+A|8| B: We don't regret paying taxes . We do _think that [,_ uh] , sometimes [, uh] [, we have a] reverse of [a] regressive [tax [,] a] progressive [tax] . 
+B|9| M: [Uh ,] uh-hue . 
+A|10| B: And progressive [tax _,] _I think_ [,_ uh] , does not give _people_ incentive to _make_ _more_ money , [and] what _I_ mean by _that ,_ [the] _more_ _income_ _you_ _make_ , [the] _more_ [tax] _you_ [pay] . 
+B|11| M: Right . 
+A|12| B: It should be _, _I think_ [,_ a] flat percentage [and , uh] , _that_ percentage ought to be an equitable amount . 
+B|13| M: _Yeah_ [, I] agree . 
+A|14| B: [Uh ,] last year when _they_ passed [the] [tax] laws for [the] [, uh] , nineteen ninety , ninety-one , whatever , nineteen ninety-one [uh] [, I] added up all [the] taxes _that_ [we] were going to [pay] on all these different specific luxury items [and] travel expenses [and] everything else , 
+B|15| M: _Yeah_ . 
+A|16| B: [and] [I] totaled them all up [and] basically [, uh] [, we] were going to be paying seventy or eighty percent [tax] . 
+B|17| M: Huh . 
+A|18| B: Now , _that_ was [the] assumption _that_ _you_ spent _that_ same dollar for every , for every item on there even though there's [, uh] , taxes on different things . 
+B|19| M: [Uh ,] that's true . 
+A|20| B: But _, you know ,_ there's there's [a] lot of taxes _you_ [pay] _that_ _you're_ not even aware of _that_ _you're_ paying [, uh] , like when _you_ buy [a] tire _, you_ [pay] [a] federal excise [tax] . 
+B|21| M: Oh [, I] see . 
+A|22| B: You [pay] gasoline taxes every time _you_ pump something into your , your tank . 
+B|23| M: _Yeah_ . 
+A|24| B: But _you_ _probably_ [pay] _more_ percentage wise in other taxes . 
+B|25| M: _Yeah_ , that's true . [I think [,] I think] [it's] [probably] [more] obvious [that] [people] [have] , [have a] , [have] [, uh] [a] lower [income] . 
+A|26| B: [Yeah] if _you_ implemented [a] flat percentage , it would encourage [people] [, uh] , to _make_ [more] money [and] [the] , what [people] need to understand in my opinion , now this [is] [just] my opinion , okay [, uh] , [is] [that] businesses create jobs [and] jobs create [income] [and] [income] pays taxes . 
+B|27| M: Right . 
+A|28| B: And , so , if _they_ penalize businesses , business [people] _are_ smart enough to say , here's my break point , I'm not going to work any harder _and make_ any [more] or create any [more] jobs . 
+B|29| M: Right . 
+A|30| B: And so , Based on _that ,_ who do _you_ [think] _you're_ talking to , _you're_ talking to an employer . 
+B|31| M: [I think] that's true . [I [think] that [,] I think] [it's] important [that] [they] check [you] out [and make] sure [you're] [, you] [are [,] you know ,] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : So I think for , for , for many years , uh , we've paid teachers and police officers and firemen who are , uh , to a great extent , public servants uh , we have not paid them really what they're worth in what they contribute to society .
+	Free: Pattern=they, Pattern=a, Pattern=and, Pattern=uh, Pattern=, uh, Pattern=are ,, Pattern=I think, Pattern=, we have
+	Constrained: Pattern=uh, Pattern=have, Pattern=, we, Pattern=we have, Pattern=think, Pattern=we, Pattern=are, Pattern=I
+Turn ID=1| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : But , uh , then again , uh , it's the , hard to justify with all the wastefulness of money that the government spends on all levels of , of , uh , government , including municipalities as well as state and federal governments .
+	Free: Pattern=state, Pattern=, uh, Pattern=and, Pattern=the, Pattern=that, Pattern=it's
+	Constrained: Pattern=uh
+Turn ID=3| B | M : Well , that's true .
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : Uh , you're very fortunate .
+	Free: Pattern=Uh ,, Pattern=you're
+	Constrained: 
+Turn ID=5| B | M : and , uh
+	Free: Pattern=and , uh
+	Constrained: Pattern=, uh, Pattern=and, Pattern=uh
+Turn ID=6| A | B : We just try not to pay any more in than we have to , uh , we pay in a substantial amount . Uh ,
+	Free: Pattern=more, Pattern=, uh, Pattern=just, Pattern=a, Pattern=, we, Pattern=we have, Pattern=Uh ,, Pattern=pay
+	Constrained: Pattern=have, Pattern=uh, Pattern=we
+Turn ID=7| B | M : Well , we just , we have a , a , uh we just pay the state tax , which is , uh
+	Free: Pattern=, we have a, Pattern=state, Pattern=, uh, Pattern=just, Pattern=tax ,, Pattern=, we, Pattern=we, Pattern=pay, Pattern=the, Pattern=, a, Pattern=is
+	Constrained: Pattern=uh, Pattern=have, Pattern=have a, Pattern=a, Pattern=, we, Pattern=we have, Pattern=we, Pattern=, we have, Pattern=tax
+Turn ID=8| A | B : We don't regret paying taxes . We do think that , uh , sometimes , uh , we have a reverse of a regressive tax , a progressive tax .
+	Free: Pattern=, we have a, Pattern=, uh, Pattern=, a, Pattern=tax, Pattern=think that ,, Pattern=tax ,, Pattern=a
+	Constrained: Pattern=uh, Pattern=have, Pattern=have a, Pattern=a, Pattern=, we, Pattern=we have, Pattern=think, Pattern=we, Pattern=, we have, Pattern=tax, Pattern=that ,, Pattern=that
+Turn ID=9| B | M : Uh , uh-hue .
+	Free: Pattern=Uh ,
+	Constrained: 
+Turn ID=10| A | B : And progressive tax , I think , uh , does not give people incentive to make more money , and what I mean by that , the more income you make , the more tax you pay .
+	Free: Pattern=more, Pattern=people, Pattern=tax ,, Pattern=and, Pattern=I, Pattern=make, Pattern=income, Pattern=the, Pattern=tax, Pattern=that ,, Pattern=you, Pattern=, uh, Pattern=I think ,, Pattern=pay, Pattern=, I think
+	Constrained: Pattern=uh, Pattern=, I, Pattern=I, Pattern=think, Pattern=I think, Pattern=tax, Pattern=that
+Turn ID=11| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : It should be , I think , a flat percentage and , uh , that percentage ought to be an equitable amount .
+	Free: Pattern=I think ,, Pattern=and , uh, Pattern=, a, Pattern=, I think, Pattern=that
+	Constrained: Pattern=and, Pattern=I, Pattern=think, Pattern=I think, Pattern=uh, Pattern=, uh, Pattern=, I, Pattern=a
+Turn ID=13| B | M : Yeah , I agree .
+	Free: Pattern=, I, Pattern=Yeah
+	Constrained: Pattern=I
+Turn ID=14| A | B : Uh , last year when they passed the tax laws for the , uh , nineteen ninety , ninety-one , whatever , nineteen ninety-one uh , I added up all the taxes that we were going to pay on all these different specific luxury items and travel expenses and everything else ,
+	Free: Pattern=they, Pattern=, I, Pattern=and, Pattern=Uh ,, Pattern=we, Pattern=pay, Pattern=the, Pattern=tax, Pattern=that, Pattern=uh, Pattern=, uh
+	Constrained: Pattern=I, Pattern=uh
+Turn ID=15| B | M : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=16| A | B : and I totaled them all up and basically , uh , we were going to be paying seventy or eighty percent tax .
+	Free: Pattern=, uh, Pattern=I, Pattern=tax, Pattern=and, Pattern=, we
+	Constrained: Pattern=uh, Pattern=we
+Turn ID=17| B | M : Huh .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : Now , that was the assumption that you spent that same dollar for every , for every item on there even though there's , uh , taxes on different things .
+	Free: Pattern=, uh, Pattern=the, Pattern=you, Pattern=that
+	Constrained: Pattern=uh
+Turn ID=19| B | M : Uh , that's true .
+	Free: Pattern=Uh ,
+	Constrained: 
+Turn ID=20| A | B : But , you know , there's there's a lot of taxes you pay that you're not even aware of that you're paying , uh , like when you buy a tire , you pay a federal excise tax .
+	Free: Pattern=you're, Pattern=, you, Pattern=pay, Pattern=tax, Pattern=that, Pattern=you, Pattern=, uh, Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=uh, Pattern=you, Pattern=, you
+Turn ID=21| B | M : Oh , I see .
+	Free: Pattern=, I
+	Constrained: Pattern=I
+Turn ID=22| A | B : You pay gasoline taxes every time you pump something into your , your tank .
+	Free: Pattern=you, Pattern=pay
+	Constrained: 
+Turn ID=23| B | M : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=24| A | B : But you probably pay more percentage wise in other taxes .
+	Free: Pattern=you, Pattern=probably, Pattern=more, Pattern=pay
+	Constrained: 
+Turn ID=25| B | M : Yeah , that's true . I think , I think it's probably more obvious that people have , have a , have , uh a lower income .
+	Free: Pattern=more, Pattern=have a, Pattern=a, Pattern=probably, Pattern=income, Pattern=, I think, Pattern=Yeah, Pattern=, uh, Pattern=I think ,, Pattern=people, Pattern=have, Pattern=that, Pattern=it's
+	Constrained: Pattern=uh, Pattern=have, Pattern=I, Pattern=think, Pattern=I think, Pattern=, I, Pattern=a
+Turn ID=26| A | B : Yeah if you implemented a flat percentage , it would encourage people , uh , to make more money and the , what people need to understand in my opinion , now this is just my opinion , okay , uh , is that businesses create jobs and jobs create income and income pays taxes .
+	Free: Pattern=more, Pattern=a, Pattern=and, Pattern=income, Pattern=the, Pattern=Yeah, Pattern=that, Pattern=you, Pattern=, uh, Pattern=people, Pattern=just, Pattern=is, Pattern=make
+	Constrained: Pattern=uh
+Turn ID=27| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : And , so , if they penalize businesses , business people are smart enough to say , here's my break point , I'm not going to work any harder and make any more or create any more jobs .
+	Free: Pattern=more, Pattern=people, Pattern=they, Pattern=are, Pattern=and make
+	Constrained: Pattern=and, Pattern=make
+Turn ID=29| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : And so , Based on that , who do you think you're talking to , you're talking to an employer .
+	Free: Pattern=that ,, Pattern=you're, Pattern=you, Pattern=think
+	Constrained: Pattern=that
+Turn ID=31| B | M : I think that's true . I think that , I think it's important that they check you out and make sure you're , you are , you know ,
+	Free: Pattern=you're, Pattern=you, Pattern=they, Pattern=, you know ,, Pattern=, you, Pattern=and make, Pattern=think that ,, Pattern=are ,, Pattern=I think, Pattern=, I think, Pattern=that, Pattern=it's
+	Constrained: Pattern=you, Pattern=, I, Pattern=and, Pattern=think, Pattern=, you, Pattern=make, Pattern=I think, Pattern=that ,, Pattern=that, Pattern=are, Pattern=I

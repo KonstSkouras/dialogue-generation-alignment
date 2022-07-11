@@ -1,0 +1,79 @@
+A|0| B: _And_ , um _, it_ scares me _a_ little bit _to_ _think_ _that_ they _would_ begin restricting _gun_ control _to_ _the_ point where , um , eventually we may _not_ _be able _to_ have_ _that_ _right_ any more . 
+B|1| M: _Well _,_ that's_ true . _I_ mean , it's _, it [,_ it] is [, it] [would] [be] [a] _big_ problem _, I_ mean _there are_ [a] lot _of ,_ [a] lot , [a] large number _of_ guns out _there_ . 
+A|2| B: Yeah [, it _,] uh ,_ moving _to_ this area , [of] course [it] happens everywhere , but _, uh [,_ I] guess we're pretty naive coming from small towns _, uh ,_ in _the_ midwest _and_ then _, uh ,_ moving _to_ [a] larger city where [there are] drive-by shootings _and _, uh_ ,_ [there] seems like killing for no reason at all _, _and_ , uh_ . 
+B|3| M: Uh-huh . 
+A|4| B: _I _, I_ think_ so _, _and_ , and_ there's always _the_ _, uh ,_ _the_ _, uh ,_ _the_ old _, uh ,_ saying _that_ keeps coming up _that_ if [a] person wants [a] _gun_ bad enough they'll , they'll _get_ _one_ _, _and_ _, uh_ _,_ and_ then _, uh_ . 
+B|5| M: Uh-huh . 
+A|6| B: Yeah . 
+B|7| M: Uh [, [I] , I] don [, I] mean [, I] _know_ _people_ [that] [are] _, that_ [are] very avid [gun] owners . Uh , I'm [not] [one] [of] them . Uh 
+A|8| B: Yeah . 
+B|9| M: [And] [I think] _that's_ _, that's_ [one] _of the_ problems [that] [the] police [have] identified as being [the] ones who [are] really out [to] [get] [the] guns . 
+A|10| B: Yeah , yeah [, that's] for sure . 
+B|11| M: But [I] don't _know_ . [I] don [, I] donno [, I think] [it] [would] [be] [a] good idea . [I , [I] _,] you_ , you've got [to have] [the] _people_ who [are] , who [are] legitimate [and , and] legitimate [, uh ,] [right] _to , uh_ [to have] them _, you_ got _to [be_ able to] prove [that] you're [a] legitimate owner [and , uh] 
+A|12| B: Yeah [, [and] [, uh] [,] [and] [,] you] [know] [, uh [,] I] suppose [, uh ,] years ago , way back when [, uh ,] when [, uh ,] they had [the] revolutionary war [and] [people] decided [that] they [, uh ,] were fed up with [the] government [, uh [,] and] if they didn't [have] [a] way [to [, uh] ,] [to] fight back they [would] [have] been in [big] trouble . 
+B|13| M: Uh-huh . 
+A|14| B: [Well ,] [the] way things [are] going . 
+B|15| M: [and , uh] 
+A|16| B: [Well [,] you] [know] , they introduced some [gun] control back when [I] was [a] teenager [, I] believe , in terms [of [,] uh ,] every [gun] [you] bought had [to be] licensed [, I] believe . 
+B|17| M: Uh-huh . 
+A|18| B: [And] [, uh [,] you] [know] [, that] didn't bother me [, uh ,] too much [, and] so [, I] guess [it] depends , um , if [there are] some statistics [that] show [that] [, uh [,] that] [people] [, uh ,] commit crimes on [the] spur [of the] moment . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : And , um , it scares me a little bit to think that they would begin restricting gun control to the point where , um , eventually we may not be able to have that right any more .
+	Free: Pattern=right, Pattern=And, Pattern=a, Pattern=gun, Pattern=to have, Pattern=think, Pattern=the, Pattern=would, Pattern=to, Pattern=that, Pattern=not, Pattern=, it, Pattern=be able to
+	Constrained: Pattern=have, Pattern=it, Pattern=to, Pattern=be
+Turn ID=1| B | M : Well , that's true . I mean , it's , it , it is , it would be a big problem , I mean there are a lot of , a lot , a large number of guns out there .
+	Free: Pattern=of, Pattern=I, Pattern=of ,, Pattern=Well ,, Pattern=be, Pattern=big, Pattern=would, Pattern=, that's, Pattern=, it, Pattern=, it ,, Pattern=there are, Pattern=there, Pattern=, I, Pattern=a
+	Constrained: Pattern=, it, Pattern=of, Pattern=there, Pattern=it, Pattern=that's, Pattern=are, Pattern=I
+Turn ID=2| A | B : Yeah , it , uh , moving to this area , of course it happens everywhere , but , uh , I guess we're pretty naive coming from small towns , uh , in the midwest and then , uh , moving to a larger city where there are drive-by shootings and , uh , there seems like killing for no reason at all , and , uh .
+	Free: Pattern=, it ,, Pattern=of, Pattern=, uh ,, Pattern=the, Pattern=there are, Pattern=and , uh, Pattern=there, Pattern=, I, Pattern=a, Pattern=it, Pattern=and, Pattern=, and, Pattern=to
+	Constrained: Pattern=, it, Pattern=, uh, Pattern=and ,, Pattern=there, Pattern=it, Pattern=and, Pattern=are, Pattern=I
+Turn ID=3| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : I , I think so , and , and there's always the , uh , the , uh , the old , uh , saying that keeps coming up that if a person wants a gun bad enough they'll , they'll get one , and , uh , and then , uh .
+	Free: Pattern=, uh, Pattern=and , uh, Pattern=gun, Pattern=one, Pattern=, and, Pattern=get, Pattern=that, Pattern=and , and, Pattern=a, Pattern=, uh ,, Pattern=, I think, Pattern=I , I, Pattern=the
+	Constrained: Pattern=I ,, Pattern=, uh, Pattern=and ,, Pattern=, I, Pattern=and, Pattern=I, Pattern=think, Pattern=I think, Pattern=, and
+Turn ID=5| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : Uh , I , I don , I mean , I know people that are , that are very avid gun owners . Uh , I'm not one of them . Uh
+	Free: Pattern=of, Pattern=people, Pattern=, I, Pattern=gun, Pattern=, that, Pattern=know, Pattern=I , I, Pattern=that, Pattern=not, Pattern=are, Pattern=one
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=I, Pattern=that
+Turn ID=8| A | B : Yeah .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : And I think that's , that's one of the problems that the police have identified as being the ones who are really out to get the guns .
+	Free: Pattern=I think, Pattern=, that's, Pattern=to, Pattern=get, Pattern=And, Pattern=have, Pattern=are, Pattern=one, Pattern=that's, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=I, Pattern=think, Pattern=that's, Pattern=the
+Turn ID=10| A | B : Yeah , yeah , that's for sure .
+	Free: Pattern=, that's
+	Constrained: Pattern=that's
+Turn ID=11| B | M : But I don't know . I don , I donno , I think it would be a good idea . I , I , you , you've got to have the people who are , who are legitimate and , and legitimate , uh , right to , uh to have them , you got to be able to prove that you're a legitimate owner and , uh
+	Free: Pattern=right, Pattern=people, Pattern=and , uh, Pattern=it, Pattern=would, Pattern=to be, Pattern=that, Pattern=be able to, Pattern=I ,, Pattern=and , and, Pattern=, I, Pattern=a, Pattern=are, Pattern=I, Pattern=to have, Pattern=to , uh, Pattern=know, Pattern=, you, Pattern=, uh ,, Pattern=, I think, Pattern=be, Pattern=I , I, Pattern=the
+	Constrained: Pattern=I ,, Pattern=have, Pattern=and ,, Pattern=, I, Pattern=and, Pattern=I, Pattern=think, Pattern=you, Pattern=, uh, Pattern=I think, Pattern=be, Pattern=, and, Pattern=to
+Turn ID=12| A | B : Yeah , and , uh , and , you know , uh , I suppose , uh , years ago , way back when , uh , when , uh , they had the revolutionary war and people decided that they , uh , were fed up with the government , uh , and if they didn't have a way to , uh , to fight back they would have been in big trouble .
+	Free: Pattern=and ,, Pattern=and , uh, Pattern=and, Pattern=to , uh, Pattern=, uh ,, Pattern=would, Pattern=that, Pattern=people, Pattern=have, Pattern=, I, Pattern=a, Pattern=know, Pattern=, you, Pattern=big, Pattern=the, Pattern=, and, Pattern=to
+	Constrained: Pattern=and ,, Pattern=and, Pattern=I, Pattern=to, Pattern=you, Pattern=, uh
+Turn ID=13| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : Well , the way things are going .
+	Free: Pattern=Well ,, Pattern=the, Pattern=are
+	Constrained: 
+Turn ID=15| B | M : and , uh
+	Free: Pattern=and , uh
+	Constrained: Pattern=, uh, Pattern=and ,, Pattern=and
+Turn ID=16| A | B : Well , you know , they introduced some gun control back when I was a teenager , I believe , in terms of , uh , every gun you bought had to be licensed , I believe .
+	Free: Pattern=you, Pattern=gun, Pattern=I, Pattern=of ,, Pattern=Well ,, Pattern=, uh ,, Pattern=to be, Pattern=, I, Pattern=a, Pattern=know, Pattern=, you
+	Constrained: Pattern=of, Pattern=I, Pattern=be, Pattern=to, Pattern=you, Pattern=, uh
+Turn ID=17| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : And , uh , you know , that didn't bother me , uh , too much , and so , I guess it depends , um , if there are some statistics that show that , uh , that people , uh , commit crimes on the spur of the moment .
+	Free: Pattern=there are, Pattern=, I, Pattern=it, Pattern=, that, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=people, Pattern=And, Pattern=know, Pattern=, you, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=there, Pattern=and, Pattern=the, Pattern=that, Pattern=you, Pattern=, uh, Pattern=are, Pattern=I

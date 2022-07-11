@@ -1,0 +1,155 @@
+A|0| B: Um , well , _the_ , _see_ _, uh ,_ well , _we_ , he wanted _to_ get into _a_ Mennonite _nursing_ _home_ which _is_ _very_ popular _and_ hard _to_ get into _and_ _had_ like _a_ ten year waiting list 
+B|1| M: _Uh_ . 
+A|2| B: _right_ , _we_ wound up _just_ choosing _a ,_ another Mennonite _nursing_ _home_ _that was_ easier _to_ get into . Or _but_ naturally , no , _it_ _was_ even Mennonite related , I'm sorry , _it_ _was_ actually not _a_ particularly great _nursing_ _home_ . Mostly _the_ thing _was_ _that_ _it_ _was_ available when _we_ needed _it _,_ because_ he suddenly got sick _and_ needed _to be_ put _in_ . 
+B|3| M: _Uh-huh ._ Oh _, _that's_ ,_ [that] sounds awful 
+A|4| B: [Uh] , what _do_ _you_ _think_ ? 
+B|5| M: Well , _I_ , _I_ don't [think] [that] [, uh] [nursing] homes are safe . 
+A|6| B: [Uh-huh .] 
+B|7| M: [and] [we] made [a] point _of_ doing [that] . She [had] been [in] [a ,] _a nursing_ homes before _, but_ she has now , um . 
+A|8| B: _Yeah ._ 
+B|9| M: _so_ she [had] [to] _make_ [that] decision on her _own_ 
+A|10| B: _Yeah_ 
+B|11| M: [and] _so_ [, uh ,] _I_ _went_ [in] there [and] _I_ [was] _so_ happy [to] find [that] [and] [, uh] she [had] [, uh] 
+A|12| B: _yeah_ [, that's] _important_ _I would_ say . 
+B|13| M: [Yeah .] [Yeah] , [I] , [I would] , [I] really [think] _so_ [, because] it's [important] for your [, uh ,] your family [and] for your future _, too_ . 
+A|14| B: Okay . 
+B|15| M: [and] [, uh ,] she [is] able [to] _, to_ [do] [that] _, and_ it's [very] convenient [because] , [you] know , she has [a] private baby-sitter [that] , [you] can [just] trust her _with_ whatever she decides , [you] , she will [do] [it ,] 
+A|16| B: [Yeah .] 
+B|17| M: [and] she [was] [very] , [very] concerned about me , 
+A|18| B: Right [, and] [that] becomes difficult then . 
+B|19| M: It really [is] . 
+A|20| B: [Uh-huh .] Yep , [we] tried [to] convince _my_ grandfather [to] live [with] us at several points _during the_ last few years [of] his life [, but] he [was] essentially [too] proud [and] [too] independent [so] [that] even though his heart [was] getting incredibly weak [and] his knees were going bad he lived [in] his [own] house as long as he _could_ 
+B|21| M: [Uh] . 
+A|22| B: [but] he [was] _living_ alone , [had] _an_ upstairs _apartment_ , _could_ barely [make] [it] up _the_ steps [to] _the_ top without [a] great deal [of] pain , 
+B|23| M: [Uh] . 
+A|24| B: [and] this , eventually things [just] [went] [too] far 
+B|25| M: [Yeah] [, _that's] ,_ [that was] [my] mother [living] [with] me [, and] [I] [was] [just] , [you] know , [I] [was] [in] [a ,] [a] situation where [my] mother [was] [in] [an] [apartment] [and] [, uh ,] [you] [could] [see] her crying , 
+A|26| B: [and] he allowed himself _to be_ put into [a nursing] _home_ . 
+B|27| M: [Yeah] [, _that's] ,_ [that] [would] [be] [a] nightmare . 
+A|28| B: Right 
+B|29| M: [and] she's , she's gone through [a] period [of] depression [, and] she's [had] [to] find [a] good [home] [and] [, and] [, uh ,] take care [of] herself [and] everything . 
+A|30| B: well [that's _,] yeah_ [, that's] _right_ [that] _the_ children _have_ some responsibility [, too] [, to] their parents [and] such [, to] help decide what's _the_ _right_ thing . 
+B|31| M: [Yeah] [, yeah] . 
+A|32| B: And . 
+B|33| M: [and] [, uh ,] she [was] really good [, but] [I] , [I] , [you] know , [I] [just] , [I] don't [think] [that] , [that] [, uh] [that] [we] [have] [to] , [you] , [you] [have] [to be] [so] totally convinced [that] , you're , [you] can't [do] everything on her every day . 
+A|34| B: [Uh-huh .] 
+B|35| M: [and] she doesn't [have] [to be] there [during the] day , she can [just] go [right] down [the] hallway [and] sit [, and] [and] [, and] , [you] know , 
+A|36| B: Yep . 
+B|37| M:  !!! % 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Um , well , the , see , uh , well , we , he wanted to get into a Mennonite nursing home which is very popular and hard to get into and had like a ten year waiting list
+	Free: Pattern=nursing, Pattern=a, Pattern=and, Pattern=we, Pattern=had, Pattern=, uh ,, Pattern=the, Pattern=see, Pattern=to, Pattern=home, Pattern=very, Pattern=is
+	Constrained: Pattern=, uh
+Turn ID=1| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=2| A | B : right , we wound up just choosing a , another Mennonite nursing home that was easier to get into . Or but naturally , no , it was even Mennonite related , I'm sorry , it was actually not a particularly great nursing home . Mostly the thing was that it was available when we needed it , because he suddenly got sick and needed to be put in .
+	Free: Pattern=nursing, Pattern=a ,, Pattern=right, Pattern=just, Pattern=a, Pattern=that was, Pattern=in, Pattern=, because, Pattern=the, Pattern=to, Pattern=was, Pattern=to be, Pattern=home, Pattern=it, Pattern=and, Pattern=it ,, Pattern=we, Pattern=that, Pattern=but
+	Constrained: Pattern=it, Pattern=be, Pattern=to, Pattern=was, Pattern=that, Pattern=a, Pattern=because
+Turn ID=3| B | M : Uh-huh . Oh , that's , that sounds awful
+	Free: Pattern=that's ,, Pattern=, that's, Pattern=Uh-huh ., Pattern=that
+	Constrained: 
+Turn ID=4| A | B : Uh , what do you think ?
+	Free: Pattern=Uh, Pattern=do, Pattern=think, Pattern=you
+	Constrained: 
+Turn ID=5| B | M : Well , I , I don't think that , uh nursing homes are safe .
+	Free: Pattern=nursing, Pattern=, uh, Pattern=I, Pattern=think, Pattern=that
+	Constrained: 
+Turn ID=6| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=7| B | M : and we made a point of doing that . She had been in a , a nursing homes before , but she has now , um .
+	Free: Pattern=a ,, Pattern=of, Pattern=a, Pattern=and, Pattern=in, Pattern=we, Pattern=had, Pattern=that, Pattern=, but, Pattern=a nursing
+	Constrained: Pattern=but, Pattern=a, Pattern=nursing
+Turn ID=8| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=9| B | M : so she had to make that decision on her own
+	Free: Pattern=own, Pattern=make, Pattern=had, Pattern=to, Pattern=that, Pattern=so
+	Constrained: 
+Turn ID=10| A | B : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=11| B | M : and so , uh , I went in there and I was so happy to find that and , uh she had , uh
+	Free: Pattern=, uh, Pattern=went, Pattern=and, Pattern=I, Pattern=in, Pattern=had, Pattern=, uh ,, Pattern=to, Pattern=was, Pattern=that, Pattern=so
+	Constrained: Pattern=, uh
+Turn ID=12| A | B : yeah , that's important I would say .
+	Free: Pattern=I would, Pattern=, that's, Pattern=important, Pattern=yeah
+	Constrained: Pattern=I, Pattern=would
+Turn ID=13| B | M : Yeah . Yeah , I , I would , I really think so , because it's important for your , uh , your family and for your future , too .
+	Free: Pattern=Yeah ., Pattern=and, Pattern=I, Pattern=think, Pattern=important, Pattern=, because, Pattern=, too, Pattern=I would, Pattern=, uh ,, Pattern=Yeah, Pattern=so
+	Constrained: Pattern=, uh, Pattern=because, Pattern=too, Pattern=I, Pattern=would, Pattern=Yeah
+Turn ID=14| A | B : Okay .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : and , uh , she is able to , to do that , and it's very convenient because , you know , she has a private baby-sitter that , you can just trust her with whatever she decides , you , she will do it ,
+	Free: Pattern=, to, Pattern=you, Pattern=just, Pattern=and, Pattern=it ,, Pattern=, uh ,, Pattern=do, Pattern=a, Pattern=because, Pattern=very, Pattern=is, Pattern=, and, Pattern=to, Pattern=with, Pattern=that
+	Constrained: Pattern=it, Pattern=to, Pattern=, uh, Pattern=and
+Turn ID=16| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=17| B | M : and she was very , very concerned about me ,
+	Free: Pattern=very, Pattern=was, Pattern=and
+	Constrained: 
+Turn ID=18| A | B : Right , and that becomes difficult then .
+	Free: Pattern=, and, Pattern=that
+	Constrained: Pattern=and
+Turn ID=19| B | M : It really is .
+	Free: Pattern=is
+	Constrained: 
+Turn ID=20| A | B : Uh-huh . Yep , we tried to convince my grandfather to live with us at several points during the last few years of his life , but he was essentially too proud and too independent so that even though his heart was getting incredibly weak and his knees were going bad he lived in his own house as long as he could
+	Free: Pattern=of, Pattern=own, Pattern=, but, Pattern=during the, Pattern=Uh-huh ., Pattern=in, Pattern=we, Pattern=to, Pattern=my, Pattern=so, Pattern=and, Pattern=too, Pattern=was, Pattern=could, Pattern=with, Pattern=that
+	Constrained: Pattern=but, Pattern=the
+Turn ID=21| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=22| A | B : but he was living alone , had an upstairs apartment , could barely make it up the steps to the top without a great deal of pain ,
+	Free: Pattern=of, Pattern=an, Pattern=it, Pattern=make, Pattern=had, Pattern=living, Pattern=the, Pattern=to, Pattern=but, Pattern=apartment, Pattern=a, Pattern=was, Pattern=could
+	Constrained: 
+Turn ID=23| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=24| A | B : and this , eventually things just went too far
+	Free: Pattern=just, Pattern=went, Pattern=too, Pattern=and
+	Constrained: 
+Turn ID=25| B | M : Yeah , that's , that was my mother living with me , and I was just , you know , I was in a , a situation where my mother was in an apartment and , uh , you could see her crying ,
+	Free: Pattern=a ,, Pattern=you, Pattern=just, Pattern=an, Pattern=and, Pattern=I, Pattern=that was, Pattern=in, Pattern=that's ,, Pattern=see, Pattern=, that's, Pattern=, and, Pattern=my, Pattern=with, Pattern=apartment, Pattern=a, Pattern=living, Pattern=, uh ,, Pattern=Yeah, Pattern=was, Pattern=could
+	Constrained: Pattern=, uh, Pattern=a, Pattern=and, Pattern=was, Pattern=that
+Turn ID=26| A | B : and he allowed himself to be put into a nursing home .
+	Free: Pattern=a nursing, Pattern=to be, Pattern=home, Pattern=and
+	Constrained: Pattern=to, Pattern=a, Pattern=be, Pattern=nursing
+Turn ID=27| B | M : Yeah , that's , that would be a nightmare .
+	Free: Pattern=a, Pattern=that's ,, Pattern=be, Pattern=would, Pattern=, that's, Pattern=Yeah, Pattern=that
+	Constrained: 
+Turn ID=28| A | B : Right
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : and she's , she's gone through a period of depression , and she's had to find a good home and , and , uh , take care of herself and everything .
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=had, Pattern=, uh ,, Pattern=home, Pattern=, and, Pattern=to
+	Constrained: Pattern=, uh, Pattern=and
+Turn ID=30| A | B : well that's , yeah , that's right that the children have some responsibility , too , to their parents and such , to help decide what's the right thing .
+	Free: Pattern=right, Pattern=, to, Pattern=have, Pattern=and, Pattern=, yeah, Pattern=that's ,, Pattern=, too, Pattern=the, Pattern=, that's, Pattern=that
+	Constrained: Pattern=to, Pattern=yeah, Pattern=too
+Turn ID=31| B | M : Yeah , yeah .
+	Free: Pattern=, yeah, Pattern=Yeah
+	Constrained: Pattern=yeah
+Turn ID=32| A | B : And .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : and , uh , she was really good , but I , I , you know , I just , I don't think that , that , uh that we have to , you , you have to be so totally convinced that , you're , you can't do everything on her every day .
+	Free: Pattern=do, Pattern=and, Pattern=I, Pattern=think, Pattern=we, Pattern=, uh ,, Pattern=to, Pattern=was, Pattern=to be, Pattern=that, Pattern=so, Pattern=you, Pattern=, uh, Pattern=, but, Pattern=just, Pattern=have
+	Constrained: Pattern=but, Pattern=to, Pattern=, uh, Pattern=be
+Turn ID=34| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=35| B | M : and she doesn't have to be there during the day , she can just go right down the hallway and sit , and and , and , you know ,
+	Free: Pattern=right, Pattern=you, Pattern=during the, Pattern=and, Pattern=the, Pattern=, and, Pattern=to be, Pattern=just, Pattern=have
+	Constrained: Pattern=the, Pattern=to, Pattern=be, Pattern=and
+Turn ID=36| A | B : Yep .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M :  !!! %
+	Free: 
+	Constrained: 

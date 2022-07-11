@@ -1,0 +1,131 @@
+A|0| B: You bet . 
+B|1| M:  !!! % !! RemindMe !! 
+A|2| B: I'll let _you_ lead out . 
+B|3| M: All _right_ . 
+A|4| B: I'll let _you_ lead out . 
+B|5| M: Well , _it's_ _not_ mine _. I_ _just_ got _it_ from _a_ friend _who_ _was_ _taking_ _it_ _for_ _a_ friend _and_ she _was_ _going to_ take _it_ _to_ _a_ friend's _and_ _I_ said , _well_ _, I_ _can_ _just_ charge _it_ , [you] _know_ . 
+A|6| B: _I think_ one of _the_ things _that's_ interesting [to] me _is_ _if_ [you] look particularly at _the_ political changes _is_ _that_ _the_ , they seem _to be_ social , they seem _to be_ economically driven also . 
+B|7| M: _Uh-huh ._ 
+A|8| B: So _if_ [you] look at Russia [and] _what's_ happened over there _, I think_ _the_ change _in_ Communism [was] as [a] result of _the economic_ problems _that_ they were experiencing . _And ,_ of course [, I] look at _the economic_ problems _in the_ United States [right] now . One of _the_ things [you] wonder _is_ _what_ _that's_ [going _to] do_ [to] us . 
+B|9| M: Well , [that's] true _, _that_ , that_ [is] true _. I_ _, I mean , I_ , _it_ _, I don't know_ , I'm _not_ sure [if] [the] Soviet Union itself _is going to be_ better off under communism _or_ _not_ _, but_ [what's] [going] _on_ [in [the] economic] situation . 
+A|10| B: _I think_ [the] other kind of changes like job changes [and] those kinds of things [, I mean _, I] think_ [it's] great [to] even _have_ three [or] four different careers [in] your life . 
+B|11| M: Right . 
+A|12| B: _I think it_ must _have_ been terribly boring [to] go through , your life doing [just] one thing [for] fifty years [or] forty years . 
+B|13| M: _Yeah ._ 
+A|14| B: Some of [that] opportunity [for] job change [in the] fact [that , that] aspects changing . 
+B|15| M: Right . Right . 
+A|16| B: _And_ [the] uncertainty of whether you're [going to] _have a_ job [is] [not] as _good_ [, but] , [the] fact [that] [you] really [can] make major changes [in] your life [and] jobs . 
+B|17| M: _Uh-huh ._ 
+A|18| B: _I think_ [it's] great . 
+B|19| M: _Yeah_ [, [I think] it] [is] . 
+A|20| B: Oh , yeah . 
+B|21| M: [And ,] uh , [and] , [and] I'm [not] , I'm _, I don't_ [think] I'm getting [a] [good] _education_ [, I think] [I] would _probably_ [be] better off [in] [a] larger school [, but] [I] don'ely _know_ [what] [to do] _about_ [it] . 
+A|22| B: [I think] one of [the] problems _with_ , _with_ [education] as [it] relates [to] this , though , [is] _that [I_ don't _know] that_ [education] [is] prepared [to] help _people_ make those changes . It [just] seems _a lot_ of [the] training [and] [education] [that] goes [on] [is] gearing _people_ towards [a] profession [and] [not] giving them [the] skills [and] whatever those skills _are_ necessary [to] make those job changes , which [I think] [is going to be] _a hard_ thing [for] , [for] _people_ [to] face . 
+B|23| M: _Yeah_ [, I think] [, I] don [, I] agree [with] [you] [, I] , I've [, I] [have [a] hard] time getting into [a] , [a] [good] teaching field , because [I think] [a lot] , [a lot] [the] [people] [that I] [know that] _are [in_ the] [education] field _are in_ [that] field [and] , uh [, I] [know] [a lot] _who_ would , _who_ wouldn't , _who_ would benefit most from [a] [good] [education] . 
+A|24| B: [Yeah .] 
+B|25| M: [and] [I] don tinker [with] [it] [, but] [I think] , [you] [know] . 
+A|26| B: There [probably] needs [to be] some training [on] how [to] , [to] , [to] adjust [to] these changes as they come [about] [. [I] mean] [if] [you] look at [the] , [the] high unemployment rate [right] now [and] [you] look at [people] [who] [are in] those situations [, I don't [know] that] they [have] [good] coping skills [or] [a lot] of them , even ideas of how [to] make those changes now . 
+B|27| M: Right . 
+A|28| B: So [it] seems [to] me [that] while those changes [are] [taking] place , maybe we're [not] [well] preparing [people] [to] make [the] changes [with] them . 
+B|29| M: Well , [it's] [hard] [to] say . 
+A|30| B: [Uh-huh .] 
+B|31| M: [And ,] uh 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : You bet .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M :  !!! % !! RemindMe !!
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : I'll let you lead out .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=3| B | M : All right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=4| A | B : I'll let you lead out .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=5| B | M : Well , it's not mine . I just got it from a friend who was taking it for a friend and she was going to take it to a friend's and I said , well , I can just charge it , you know .
+	Free: Pattern=going to, Pattern=well, Pattern=you, Pattern=just, Pattern=for, Pattern=I, Pattern=know, Pattern=to, Pattern=was, Pattern=it's, Pattern=not, Pattern=who, Pattern=, I, Pattern=a, Pattern=it, Pattern=and, Pattern=taking, Pattern=can, Pattern=. I
+	Constrained: Pattern=I, Pattern=to, Pattern=going
+Turn ID=6| A | B : I think one of the things that's interesting to me is if you look particularly at the political changes is that the , they seem to be social , they seem to be economically driven also .
+	Free: Pattern=you, Pattern=if, Pattern=is, Pattern=I think, Pattern=to, Pattern=to be, Pattern=that, Pattern=that's, Pattern=the
+	Constrained: Pattern=I, Pattern=think, Pattern=to, Pattern=be
+Turn ID=7| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=8| A | B : So if you look at Russia and what's happened over there , I think the change in Communism was as a result of the economic problems that they were experiencing . And , of course , I look at the economic problems in the United States right now . One of the things you wonder is what that's going to do to us .
+	Free: Pattern=going to, Pattern=right, Pattern=you, Pattern=to do, Pattern=what, Pattern=and, Pattern=in, Pattern=is, Pattern=, I think, Pattern=to, Pattern=was, Pattern=that, Pattern=And ,, Pattern=, I, Pattern=a, Pattern=in the, Pattern=if, Pattern=the economic, Pattern=what's, Pattern=that's, Pattern=the
+	Constrained: Pattern=, I, Pattern=I, Pattern=I think, Pattern=the, Pattern=to, Pattern=And, Pattern=going, Pattern=think, Pattern=in
+Turn ID=9| B | M : Well , that's true , that , that is true . I , I mean , I , it , I don't know , I'm not sure if the Soviet Union itself is going to be better off under communism or not , but what's going on in the economic situation .
+	Free: Pattern=, but, Pattern=going, Pattern=is going to be, Pattern=it, Pattern=, that, Pattern=is, Pattern=or, Pattern=not, Pattern=in the, Pattern=if, Pattern=that , that, Pattern=. I, Pattern=the economic, Pattern=what's, Pattern=on, Pattern=that's, Pattern=the, Pattern=, I don't know, Pattern=, I mean , I
+	Constrained: Pattern=going to, Pattern=going, Pattern=, I, Pattern=I, Pattern=, that, Pattern=know, Pattern=is, Pattern=the, Pattern=to, Pattern=to be, Pattern=that, Pattern=, I don't, Pattern=I don't know, Pattern=in, Pattern=I mean, Pattern=be
+Turn ID=10| A | B : I think the other kind of changes like job changes and those kinds of things , I mean , I think it's great to even have three or four different careers in your life .
+	Free: Pattern=have, Pattern=and, Pattern=in, Pattern=or, Pattern=the, Pattern=to, Pattern=I think, Pattern=, I think, Pattern=it's, Pattern=, I mean , I
+	Constrained: Pattern=, I, Pattern=I, Pattern=think, Pattern=I think, Pattern=I mean
+Turn ID=11| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : I think it must have been terribly boring to go through , your life doing just one thing for fifty years or forty years .
+	Free: Pattern=for, Pattern=or, Pattern=to, Pattern=I think it, Pattern=just, Pattern=have
+	Constrained: Pattern=it, Pattern=I, Pattern=think, Pattern=I think
+Turn ID=13| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=14| A | B : Some of that opportunity for job change in the fact that , that aspects changing .
+	Free: Pattern=that , that, Pattern=in the, Pattern=for, Pattern=that
+	Constrained: Pattern=, that, Pattern=the, Pattern=in, Pattern=that
+Turn ID=15| B | M : Right . Right .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : And the uncertainty of whether you're going to have a job is not as good , but , the fact that you really can make major changes in your life and jobs .
+	Free: Pattern=And, Pattern=have a, Pattern=and, Pattern=can, Pattern=in, Pattern=is, Pattern=the, Pattern=that, Pattern=not, Pattern=going to, Pattern=good, Pattern=you, Pattern=, but
+	Constrained: Pattern=have, Pattern=going, Pattern=a, Pattern=to
+Turn ID=17| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=18| A | B : I think it's great .
+	Free: Pattern=I think, Pattern=it's
+	Constrained: Pattern=I, Pattern=think
+Turn ID=19| B | M : Yeah , I think it is .
+	Free: Pattern=, I think, Pattern=I think it, Pattern=Yeah, Pattern=is
+	Constrained: Pattern=, I, Pattern=it, Pattern=I, Pattern=think, Pattern=I think
+Turn ID=20| A | B : Oh , yeah .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : And , uh , and , and I'm not , I'm , I don't think I'm getting a good education , I think I would probably be better off in a larger school , but I don'ely know what to do about it .
+	Free: Pattern=good, Pattern=, but, Pattern=to do, Pattern=what, Pattern=a, Pattern=I, Pattern=probably, Pattern=about, Pattern=education, Pattern=know, Pattern=And ,, Pattern=not, Pattern=it, Pattern=and, Pattern=, I don't, Pattern=think, Pattern=in, Pattern=, I think, Pattern=be
+	Constrained: Pattern=And, Pattern=, I, Pattern=I, Pattern=think, Pattern=I think, Pattern=to
+Turn ID=22| A | B : I think one of the problems with , with education as it relates to this , though , is that I don't know that education is prepared to help people make those changes . It just seems a lot of the training and education that goes on is gearing people towards a profession and not giving them the skills and whatever those skills are necessary to make those job changes , which I think is going to be a hard thing for , for people to face .
+	Free: Pattern=is going to be, Pattern=for, Pattern=are, Pattern=education, Pattern=I don't know, Pattern=is, Pattern=I think, Pattern=a hard, Pattern=know that, Pattern=not, Pattern=people, Pattern=just, Pattern=that I, Pattern=a, Pattern=it, Pattern=and, Pattern=on, Pattern=the, Pattern=a lot, Pattern=to, Pattern=with, Pattern=that
+	Constrained: Pattern=going to, Pattern=going, Pattern=a, Pattern=I, Pattern=think, Pattern=know, Pattern=is, Pattern=be, Pattern=hard, Pattern=to, Pattern=to be, Pattern=that
+Turn ID=23| B | M : Yeah , I think , I don , I agree with you , I , I've , I have a hard time getting into a , a good teaching field , because I think a lot , a lot the people that I know that are in the education field are in that field and , uh , I know a lot who would , who wouldn't , who would benefit most from a good education .
+	Free: Pattern=good, Pattern=you, Pattern=people, Pattern=have a, Pattern=are in, Pattern=and, Pattern=in the, Pattern=education, Pattern=know, Pattern=the, Pattern=a lot, Pattern=Yeah, Pattern=a hard, Pattern=know that, Pattern=who, Pattern=that I, Pattern=, I, Pattern=a, Pattern=I think, Pattern=, I think, Pattern=with, Pattern=that
+	Constrained: Pattern=have, Pattern=know, Pattern=I think, Pattern=the, Pattern=hard, Pattern=that, Pattern=, I, Pattern=a, Pattern=are, Pattern=I, Pattern=think, Pattern=in
+Turn ID=24| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=25| B | M : and I don tinker with it , but I think , you know .
+	Free: Pattern=I, Pattern=know, Pattern=I think, Pattern=with, Pattern=you, Pattern=, but, Pattern=it, Pattern=and
+	Constrained: Pattern=I, Pattern=think
+Turn ID=26| A | B : There probably needs to be some training on how to , to , to adjust to these changes as they come about . I mean if you look at the , the high unemployment rate right now and you look at people who are in those situations , I don't know that they have good coping skills or a lot of them , even ideas of how to make those changes now .
+	Free: Pattern=good, Pattern=right, Pattern=you, Pattern=who, Pattern=are in, Pattern=and, Pattern=if, Pattern=about, Pattern=or, Pattern=I mean, Pattern=to be, Pattern=, I don't know, Pattern=know that, Pattern=people, Pattern=have, Pattern=. I, Pattern=probably, Pattern=on, Pattern=the, Pattern=a lot, Pattern=to
+	Constrained: Pattern=know, Pattern=be, Pattern=to, Pattern=that, Pattern=, I, Pattern=a, Pattern=are, Pattern=I, Pattern=, I don't, Pattern=I don't know, Pattern=in
+Turn ID=27| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : So it seems to me that while those changes are taking place , maybe we're not well preparing people to make the changes with them .
+	Free: Pattern=well, Pattern=people, Pattern=are, Pattern=the, Pattern=to, Pattern=not, Pattern=it, Pattern=taking, Pattern=with, Pattern=that
+	Constrained: 
+Turn ID=29| B | M : Well , it's hard to say .
+	Free: Pattern=to, Pattern=hard, Pattern=it's
+	Constrained: 
+Turn ID=30| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=31| B | M : And , uh
+	Free: Pattern=And ,
+	Constrained: Pattern=And

@@ -1,0 +1,171 @@
+B|0| M: Uh-huh . 
+A|1| A: _And_ _the_ reason _that_ _they're_ inordinately high _is_ because _that_ has , to cover _the_ costs for _the_ indigent people who apparently _don't_ have _the_ money or _the_ wherewithal to do _that_ . 
+B|2| M: Uh-huh . 
+A|3| A: It _would_ seem to spread it out _a_ little better if _the_ employers who _, uh ,_ employ these people , _and_ pay them _, uh ,_ you know , subminimum wages or whatever , were asked to share their fair burden of this too , just as my employer _is_ . 
+B|4| M: Uh-huh . 
+A|5| A: _And_ myself _, _I_ guess_ . 
+B|6| M: [I guess] _, I , I_ can _see_ where [that] [would] , [would] probably _be_ [a] problem . 
+A|7| A: _Well_ _well ,_ who , who else _is_ going to do this , then ? 
+B|8| M: Uh _, well _,_ the _,_ _the_ other_ thing _that _,_ uh , that_ [I] worry _about_ _is [,_ uh] ... 
+A|9| A: [I] mean , _it's_ worked successfully in Europe . 
+B|10| M: Uh-huh . 
+A|11| A: I've heard all these stories [about] [, I] travel extensively _and_ spend [, uh ,] maybe half [a] year in Europe every year , 
+B|12| M: Uh . 
+A|13| A: _and_ [I] find [that] [the] health care programs there [, uh ,] are administered with [, uh ,] at least people [I] talk to , with [, uh ,] [a] _great_ deal of integrity , _and_ [, uh ,] people _don't_ seem to [be] reluctant to use them to any degree . 
+B|14| M: Right . 
+A|15| A: As [a] matter of fact , if I'm injured or have an emergency when I'm , say in Germany or France [, uh , [that] ,] I'm automatically taken care of , 
+B|16| M: Uh-huh . 
+A|17| A: [I] mean _I don't_ even have to pay . 
+B|18| M: Wow _, that's_ [great] . 
+A|19| A: _Well _I [,_ uh_ [,] uh [,] I] know it . 
+B|20| M: [And] [, uh] [I] don t understand why [they're] _not_ doing [the] testing . 
+A|21| A: [I] have [a] solution , you [see] . my solution , even though I'm rapidly approaching [the [,] uh [,] the] age when I'll qualify for Medicare _and_ Medicaid [, _I , I] ,_ my mother _and_ father both [, uh [,] uh [,] well ,] my father's [not] living but my mother [is ,] 
+B|22| M: Uh-huh . 
+A|23| A: _and_ they are , um , of an advanced years , _and_ when [I] [see] [the] money [that's] poured down [the ,] down [the] drain on Medicare _and_ Medicaid [, I] mean [, the ,] absolute uncontrollable situation [that] we find ourselves in , 
+B|24| M: Right . 
+A|25| A: _and_ [the] extraordinary amounts [, I] know [that ,] because those people vote [, I] mean , [they're] [the] ones who get out _and_ vote [, that's] what's robbing [a] poor mother of [the] prenatal care . The young people aren't getting [the] proper care [that] they need , _and_ nutrition [, I] _think_ , 
+B|26| M: _That's right_ . 
+A|27| A: _and_ we're spending on these useless , many times useless _and_ inordinately complex unnecessary tests in hospitals for older people . 
+B|28| M: Uh-huh . Uh-hue . 
+A|29| A: [That's right] [, I] mean , it does , seem like we're , 
+B|30| M: [and] [it's] amazing . 
+A|31| A: now [I] noticed just [the other] day in [the] paper [that [,] that] Medicare will [be] based , payments will [be] based [not] [, uh ,] just on cost , but on cost effectiveness . So [I] 
+B|32| M: That [, that's] [right] . 
+A|33| A: _Well_ [, _I] don't_ know [, uh ,] we'll [see] how [that] goes . 
+B|34| M: Uh-huh . 
+A|35| A: [I] _think_ [that] was just [a] regulation [that] was up for comment , but we'll [see] what happens . 
+B|36| M: [I don't] [think] so . 
+A|37| A: _Well_ , listen [, uh [,] I] [think] I've , I've exhausted my [, uh ,] self on , at least I've blown off steam of [the] way [I] feel [about] it . 
+B|38| M: Uh-huh . 
+A|39| A: Okay ? 
+B|40| M: [Well [I ,] [I ,] uh] 
+A|41| A: See you next time . Bye . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : And the reason that they're inordinately high is because that has , to cover the costs for the indigent people who apparently don't have the money or the wherewithal to do that .
+	Free: Pattern=And, Pattern=they're, Pattern=is, Pattern=the, Pattern=don't, Pattern=that
+	Constrained: 
+Turn ID=2| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : It would seem to spread it out a little better if the employers who , uh , employ these people , and pay them , uh , you know , subminimum wages or whatever , were asked to share their fair burden of this too , just as my employer is .
+	Free: Pattern=a, Pattern=and, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=would
+	Constrained: Pattern=, uh
+Turn ID=4| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : And myself , I guess .
+	Free: Pattern=, I, Pattern=I guess, Pattern=And
+	Constrained: Pattern=I
+Turn ID=6| B | M : I guess , I , I can see where that would , would probably be a problem .
+	Free: Pattern=a, Pattern=, I , I, Pattern=I guess, Pattern=be, Pattern=that, Pattern=would, Pattern=see
+	Constrained: Pattern=, I, Pattern=I
+Turn ID=7| A | A : Well well , who , who else is going to do this , then ?
+	Free: Pattern=well ,, Pattern=is, Pattern=Well
+	Constrained: 
+Turn ID=8| B | M : Uh , well , the , the other thing that , uh , that I worry about is , uh ...
+	Free: Pattern=, uh , that, Pattern=, uh, Pattern=, well ,, Pattern=, the ,, Pattern=I, Pattern=about, Pattern=that ,, Pattern=, the, Pattern=the other, Pattern=is ,
+	Constrained: Pattern=, uh, Pattern=the ,, Pattern=well ,, Pattern=, that, Pattern=is, Pattern=, uh ,, Pattern=the, Pattern=, the, Pattern=that
+Turn ID=9| A | A : I mean , it's worked successfully in Europe .
+	Free: Pattern=I, Pattern=it's
+	Constrained: 
+Turn ID=10| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : I've heard all these stories about , I travel extensively and spend , uh , maybe half a year in Europe every year ,
+	Free: Pattern=and, Pattern=about, Pattern=, uh ,, Pattern=, I, Pattern=a
+	Constrained: Pattern=, uh, Pattern=I
+Turn ID=12| B | M : Uh .
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : and I find that the health care programs there , uh , are administered with , uh , at least people I talk to , with , uh , a great deal of integrity , and , uh , people don't seem to be reluctant to use them to any degree .
+	Free: Pattern=great, Pattern=a, Pattern=and, Pattern=I, Pattern=the, Pattern=don't, Pattern=that, Pattern=, uh ,, Pattern=be
+	Constrained: Pattern=, uh
+Turn ID=14| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : As a matter of fact , if I'm injured or have an emergency when I'm , say in Germany or France , uh , that , I'm automatically taken care of ,
+	Free: Pattern=, uh , that, Pattern=that ,, Pattern=a
+	Constrained: Pattern=that, Pattern=, uh, Pattern=, that, Pattern=, uh ,
+Turn ID=16| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : I mean I don't even have to pay .
+	Free: Pattern=I don't, Pattern=I
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=18| B | M : Wow , that's great .
+	Free: Pattern=, that's, Pattern=great
+	Constrained: Pattern=that's
+Turn ID=19| A | A : Well I , uh , uh , I know it .
+	Free: Pattern=Well I ,, Pattern=I , uh, Pattern=, uh ,, Pattern=, I
+	Constrained: Pattern=Well, Pattern=I, Pattern=, uh
+Turn ID=20| B | M : And , uh I don t understand why they're not doing the testing .
+	Free: Pattern=, uh, Pattern=And, Pattern=I, Pattern=they're, Pattern=the, Pattern=not
+	Constrained: 
+Turn ID=21| A | A : I have a solution , you see . my solution , even though I'm rapidly approaching the , uh , the age when I'll qualify for Medicare and Medicaid , I , I , my mother and father both , uh , uh , well , my father's not living but my mother is ,
+	Free: Pattern=, well ,, Pattern=a, Pattern=I, Pattern=is ,, Pattern=, uh ,, Pattern=see, Pattern=, the, Pattern=not, Pattern=I , I ,, Pattern=, I , I, Pattern=and, Pattern=the ,
+	Constrained: Pattern=, uh, Pattern=, I, Pattern=I, Pattern=well ,, Pattern=is, Pattern=the
+Turn ID=22| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : and they are , um , of an advanced years , and when I see the money that's poured down the , down the drain on Medicare and Medicaid , I mean , the , absolute uncontrollable situation that we find ourselves in ,
+	Free: Pattern=, I, Pattern=I, Pattern=see, Pattern=that, Pattern=and, Pattern=the ,, Pattern=, the ,, Pattern=that's, Pattern=the
+	Constrained: Pattern=the ,, Pattern=, the, Pattern=I, Pattern=the
+Turn ID=24| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : and the extraordinary amounts , I know that , because those people vote , I mean , they're the ones who get out and vote , that's what's robbing a poor mother of the prenatal care . The young people aren't getting the proper care that they need , and nutrition , I think ,
+	Free: Pattern=and, Pattern=they're, Pattern=think, Pattern=the, Pattern=, that's, Pattern=that ,, Pattern=that, Pattern=, I, Pattern=a
+	Constrained: Pattern=that, Pattern=I, Pattern=that's
+Turn ID=26| B | M : That's right .
+	Free: Pattern=That's right
+	Constrained: Pattern=right
+Turn ID=27| A | A : and we're spending on these useless , many times useless and inordinately complex unnecessary tests in hospitals for older people .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=28| B | M : Uh-huh . Uh-hue .
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : That's right , I mean , it does , seem like we're ,
+	Free: Pattern=, I, Pattern=That's right
+	Constrained: Pattern=I, Pattern=right
+Turn ID=30| B | M : and it's amazing .
+	Free: Pattern=and, Pattern=it's
+	Constrained: 
+Turn ID=31| A | A : now I noticed just the other day in the paper that , that Medicare will be based , payments will be based not , uh , just on cost , but on cost effectiveness . So I
+	Free: Pattern=I, Pattern=, that, Pattern=the other, Pattern=the, Pattern=that ,, Pattern=not, Pattern=, uh ,, Pattern=be
+	Constrained: Pattern=that, Pattern=, uh, Pattern=the
+Turn ID=32| B | M : That , that's right .
+	Free: Pattern=, that's, Pattern=right
+	Constrained: Pattern=that's
+Turn ID=33| A | A : Well , I don't know , uh , we'll see how that goes .
+	Free: Pattern=, I, Pattern=I don't, Pattern=Well, Pattern=, uh ,, Pattern=see, Pattern=that
+	Constrained: Pattern=, uh, Pattern=I, Pattern=don't
+Turn ID=34| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : I think that was just a regulation that was up for comment , but we'll see what happens .
+	Free: Pattern=a, Pattern=I, Pattern=think, Pattern=see, Pattern=that
+	Constrained: 
+Turn ID=36| B | M : I don't think so .
+	Free: Pattern=I don't, Pattern=think
+	Constrained: Pattern=don't, Pattern=I
+Turn ID=37| A | A : Well , listen , uh , I think I've , I've exhausted my , uh , self on , at least I've blown off steam of the way I feel about it .
+	Free: Pattern=, I, Pattern=I, Pattern=about, Pattern=think, Pattern=Well, Pattern=, uh ,, Pattern=the
+	Constrained: Pattern=, uh, Pattern=I
+Turn ID=38| B | M : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : Okay ?
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : Well I , I , uh
+	Free: Pattern=I , I ,, Pattern=Well I ,, Pattern=I , uh
+	Constrained: Pattern=Well, Pattern=, I, Pattern=I, Pattern=, uh
+Turn ID=41| A | A : See you next time . Bye .
+	Free: 
+	Constrained: 

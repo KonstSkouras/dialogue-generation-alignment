@@ -1,0 +1,143 @@
+B|0| M: _I_ try _to_ catch _the _,_ you_ mentioned _the_ Sunday paper . 
+A|1| A: Right , _right_ . 
+B|2| M: _and _, uh_ ._ 
+A|3| A: Oh _, yeah_ . Okay . 
+B|4| M: But _, um _,_ you_ , you're [right] _, I_ _, I_ _do_ _, I_ really _do_ _like_ _, uh , I_ _like the_ PEOPLE magazine . 
+A|5| A: You think _that_ _that's_ [, uh ,] pretty adequate coverage [and] [you] _get_ . _Uh-huh ._ It's historic events , huh . 
+B|6| M: Uh-hue . 
+A|7| A: Oh , okay . 
+B|8| M:  !!! % !!!,!! ; !! eting !! Remind me . 
+A|9| A: Yes . 
+B|10| M: _and _, uh_ ._ 
+A|11| A: _Yeah ._ 
+B|12| M: _but , uh_ 
+A|13| A: Um [, I] found _out_ too _, that [,_ uh ,] _quite_ often if [I] see something on television _that_ [I] want more in-depth [, uh ,] understanding or , or _get_ , want [to] _know_ more _about _it_ _,_ that_ [the ,] _the newspaper_ or [, uh , _I] read_ NEWSWEEK , _can_ give [you] a better [and] more thorough coverage _of_ what _I've_ heard on T V _, [but_ [, uh] [,] um [,] I] found _out_ _that_ also on , on T V _that_ _you can_ scan through a whole lot _of_ different things on C N N _and , and_ [like] [you] _said ,_ [the ,] [the] news shows _that_ are _, that_ are happening _, and_ _you can_ _read_ _some_ more _about it_ if [you] want [to] . Um [, I] found _out ,_ though _that ,_ or [I] feel _that_ a lot _of_ [the] stuff on T V _and _the_ newspapers_ _is_ negative . There's _an_ awful lot _of_ negative news or bad news , or , or bad news . And it'd _be_ refreshing once _in_ a while [to] hear _some_ _good_ news . 
+B|14| M: [Uh-huh .] 
+A|15| A: And [, uh .] 
+B|16| M: [Yeah _.] I've_ , [I've] noticed [that [,] um] . 
+A|17| A: Yes _, we_ [do] . 
+B|18| M: [I] mean [, we] _, I don't_ [, I] [, uh] [I] don'r [, I] really _don't_ [read] [the newspapers] _as_ much _as_ [I] used _to [,_ but] [the] last _time_ [I read] [the newspaper] was [in] [the] fall _and , uh_ 
+A|19| A: True , _true ._ 
+B|20| M: But [, uh] 
+A|21| A: [Uh-huh [.] I've] heard _an_ interesting comment also [that [,] uh ,] _with_ budget cuts _and , uh ,_ expenses [the] way _they_ are [that] _it's_ affected [the] news media , whereas before _they_ would _be_ able [to] _have_ a in-depth analysis or [, uh ,] investigative reporting , on certain topics [and] issues [, but] [that] takes [time] _, that_ takes _an_ awful lot _of_ _money_ [and] commitment _, and , and_ _quite_ often _it's_ a lot easier [to] listen [to] [the] police scanners or what _they_ call ambulance chasing 
+B|22| M: Uh [, yeah] , [that's] [true .] That's [true] [, that [,] that] [is] [true .] But [, uh .] 
+A|23| A: [and] go after [, _you] know ,_ _it's_ lot easy [to] go after [and] follow a fire department or a police officer _, _and ,_ uh ,_ find _out_ news from [that] [as] opposed [to] _going_ _out_ [and] finding _good_ things , so . [I don't] _know [,_ I] guess [the] economy [is] , [is] effecting also [the] news media 
+B|24| M: [Yeah .] 
+A|25| A: [and] [we] _have to_ pay [that] price [, [but] [, uh] [, I] don't] _know [,_ I don't] _know_ . It's interesting _, and_ [I] think [that] nowadays _with_ communications [the] way _they_ are also [, that] [we] _can_ see global events happening [as] , [as] _they_ occur all over [the] world , [like [the] ,] 
+B|26| M: Uh [, I] agree [with] [you] . 
+A|27| A: Exactly . We saw , Yes [, _you] know ,_ twenty years ago , thirty years ago [, we] wouldn't _have_ been able [to] _have_ [that] privilege or , or luxury [to ,] [to] view [that] . So . 
+B|28| M: [Yeah .] 
+A|29| A: Oh , yes . 
+B|30| M: [and [, and] , [and] the] earthquake was , [it] was [quite] [an] experience for [, uh] [you know] [the] unprepared for [the] earthquake . 
+A|31| A: [Uh-huh .] 
+B|32| M: [you know ,] [they] just kind [of] stood there [and] still [said ,] you're [right] , we're [going] [to] put [some] [money] [in] [it [,] you] [, [you] can] [get] [in] there [and ,] you'll [get] [out [,] and] [it's] [going] [to] [be] great [, you] [don't] [have to] worry [about it] . 
+A|33| A: Oh [, yeah] . [Yeah .] 
+B|34| M: [and , uh ,] [it] was just really , really [good] . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : I try to catch the , you mentioned the Sunday paper .
+	Free: Pattern=the ,, Pattern=I, Pattern=, you, Pattern=the, Pattern=to
+	Constrained: Pattern=you, Pattern=the
+Turn ID=1| A | A : Right , right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=2| B | M : and , uh .
+	Free: Pattern=, uh ., Pattern=and , uh
+	Constrained: Pattern=and ,, Pattern=, uh, Pattern=and
+Turn ID=3| A | A : Oh , yeah . Okay .
+	Free: Pattern=, yeah
+	Constrained: 
+Turn ID=4| B | M : But , um , you , you're right , I , I do , I really do like , uh , I like the PEOPLE magazine .
+	Free: Pattern=right, Pattern=, you, Pattern=like, Pattern=like the, Pattern=, um ,, Pattern=, uh , I, Pattern=do, Pattern=, I
+	Constrained: Pattern=, um, Pattern=, I, Pattern=I, Pattern=like, Pattern=, uh ,, Pattern=the, Pattern=you, Pattern=, uh
+Turn ID=5| A | A : You think that that's , uh , pretty adequate coverage and you get . Uh-huh . It's historic events , huh .
+	Free: Pattern=you, Pattern=Uh-huh ., Pattern=and, Pattern=, uh ,, Pattern=that's, Pattern=get, Pattern=that
+	Constrained: Pattern=, uh
+Turn ID=6| B | M : Uh-hue .
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : Oh , okay .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M :  !!! % !!!,!! ; !! eting !! Remind me .
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : Yes .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : and , uh .
+	Free: Pattern=, uh ., Pattern=and , uh
+	Constrained: Pattern=and ,, Pattern=, uh, Pattern=and
+Turn ID=11| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=12| B | M : but , uh
+	Free: Pattern=but , uh
+	Constrained: Pattern=, uh
+Turn ID=13| A | A : Um , I found out too , that , uh , quite often if I see something on television that I want more in-depth , uh , understanding or , or get , want to know more about it , that the , the newspaper or , uh , I read NEWSWEEK , can give you a better and more thorough coverage of what I've heard on T V , but , uh , um , I found out that also on , on T V that you can scan through a whole lot of different things on C N N and , and like you said , the , the news shows that are , that are happening , and you can read some more about it if you want to . Um , I found out , though that , or I feel that a lot of the stuff on T V and the newspapers is negative . There's an awful lot of negative news or bad news , or , or bad news . And it'd be refreshing once in a while to hear some good news .
+	Free: Pattern=good, Pattern=, that ,, Pattern=of, Pattern=I've, Pattern=an, Pattern=and the, Pattern=I, Pattern=, that, Pattern=some, Pattern=in, Pattern=know, Pattern=is, Pattern=the, Pattern=read, Pattern=that ,, Pattern=that, Pattern=I read, Pattern=you, Pattern=out, Pattern=, but, Pattern=, um ,, Pattern=, uh , I, Pattern=and , and, Pattern=, I, Pattern=and, Pattern=the ,, Pattern=about it, Pattern=can, Pattern=out ,, Pattern=you can, Pattern=said ,, Pattern=it ,, Pattern=the newspapers, Pattern=like, Pattern=, uh ,, Pattern=quite, Pattern=be, Pattern=the newspaper, Pattern=, and, Pattern=to, Pattern=get, Pattern=but , uh
+	Constrained: Pattern=, um, Pattern=and ,, Pattern=, I, Pattern=I, Pattern=can, Pattern=, that, Pattern=, uh ,, Pattern=the, Pattern=, and, Pattern=read, Pattern=that ,, Pattern=that, Pattern=you, Pattern=out, Pattern=, uh, Pattern=it, Pattern=and
+Turn ID=14| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=15| A | A : And , uh .
+	Free: Pattern=, uh .
+	Constrained: Pattern=, uh
+Turn ID=16| B | M : Yeah . I've , I've noticed that , um .
+	Free: Pattern=Yeah ., Pattern=, um, Pattern=I've, Pattern=. I've, Pattern=that ,
+	Constrained: Pattern=I've, Pattern=that
+Turn ID=17| A | A : Yes , we do .
+	Free: Pattern=, we, Pattern=do
+	Constrained: Pattern=we
+Turn ID=18| B | M : I mean , we , I don't , I , uh I don'r , I really don't read the newspapers as much as I used to , but the last time I read the newspaper was in the fall and , uh
+	Free: Pattern=time, Pattern=as, Pattern=and , uh, Pattern=, I, Pattern=, we, Pattern=I, Pattern=the, Pattern=don't, Pattern=the newspaper, Pattern=read, Pattern=I read, Pattern=, uh, Pattern=, but, Pattern=, I don't, Pattern=in, Pattern=to ,, Pattern=the newspapers
+	Constrained: Pattern=, uh, Pattern=and ,, Pattern=, I, Pattern=and, Pattern=I, Pattern=I don't, Pattern=we, Pattern=the, Pattern=don't, Pattern=to, Pattern=read
+Turn ID=19| A | A : True , true .
+	Free: Pattern=true .
+	Constrained: Pattern=true
+Turn ID=20| B | M : But , uh
+	Free: Pattern=, uh
+	Constrained: 
+Turn ID=21| A | A : Uh-huh . I've heard an interesting comment also that , uh , with budget cuts and , uh , expenses the way they are that it's affected the news media , whereas before they would be able to have a in-depth analysis or , uh , investigative reporting , on certain topics and issues , but that takes time , that takes an awful lot of money and commitment , and , and quite often it's a lot easier to listen to the police scanners or what they call ambulance chasing
+	Free: Pattern=time, Pattern=, but, Pattern=have, Pattern=they, Pattern=Uh-huh ., Pattern=an, Pattern=and, Pattern=, that, Pattern=and , uh ,, Pattern=the, Pattern=. I've, Pattern=to, Pattern=that ,, Pattern=, and , and, Pattern=of, Pattern=money, Pattern=, uh ,, Pattern=quite, Pattern=be, Pattern=with, Pattern=that, Pattern=it's
+	Constrained: Pattern=I've, Pattern=, uh, Pattern=, and ,, Pattern=and ,, Pattern=and , uh, Pattern=and , and, Pattern=and, Pattern=, uh ,, Pattern=, and, Pattern=that
+Turn ID=22| B | M : Uh , yeah , that's true . That's true , that , that is true . But , uh .
+	Free: Pattern=, that ,, Pattern=true ., Pattern=is, Pattern=true, Pattern=, uh ., Pattern=that's, Pattern=, yeah, Pattern=, that
+	Constrained: Pattern=, uh, Pattern=, that, Pattern=true, Pattern=that ,, Pattern=that
+Turn ID=23| A | A : and go after , you know , it's lot easy to go after and follow a fire department or a police officer , and , uh , find out news from that as opposed to going out and finding good things , so . I don't know , I guess the economy is , is effecting also the news media
+	Free: Pattern=good, Pattern=out, Pattern=, I, Pattern=and, Pattern=I don't, Pattern=, you, Pattern=is, Pattern=and , uh ,, Pattern=the, Pattern=to, Pattern=know ,, Pattern=you know ,, Pattern=as, Pattern=going, Pattern=, and ,, Pattern=that, Pattern=it's
+	Constrained: Pattern=know ,, Pattern=and ,, Pattern=and , uh, Pattern=and, Pattern=I, Pattern=know, Pattern=, uh ,, Pattern=don't, Pattern=, and, Pattern=you, Pattern=you know, Pattern=, uh
+Turn ID=24| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=25| A | A : and we have to pay that price , but , uh , I don't know , I don't know . It's interesting , and I think that nowadays with communications the way they are also , that we can see global events happening as , as they occur all over the world , like the ,
+	Free: Pattern=know ,, Pattern=, but, Pattern=as, Pattern=I, Pattern=can, Pattern=, that, Pattern=, I don't, Pattern=know, Pattern=we, Pattern=the, Pattern=have to, Pattern=, and, Pattern=like the, Pattern=but , uh, Pattern=they, Pattern=, uh , I, Pattern=and, Pattern=the ,, Pattern=with, Pattern=that
+	Constrained: Pattern=, uh, Pattern=have, Pattern=, I, Pattern=and, Pattern=I, Pattern=I don't, Pattern=know, Pattern=like, Pattern=, uh ,, Pattern=the, Pattern=don't, Pattern=to, Pattern=that
+Turn ID=26| B | M : Uh , I agree with you .
+	Free: Pattern=, I, Pattern=you, Pattern=with
+	Constrained: Pattern=I
+Turn ID=27| A | A : Exactly . We saw , Yes , you know , twenty years ago , thirty years ago , we wouldn't have been able to have that privilege or , or luxury to , to view that . So .
+	Free: Pattern=you know ,, Pattern=have, Pattern=, we, Pattern=, you, Pattern=to ,, Pattern=to, Pattern=that
+	Constrained: Pattern=know ,, Pattern=know, Pattern=we, Pattern=to, Pattern=you, Pattern=you know
+Turn ID=28| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=29| A | A : Oh , yes .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : and , and , and the earthquake was , it was quite an experience for , uh you know the unprepared for the earthquake .
+	Free: Pattern=and , and, Pattern=an, Pattern=and the, Pattern=it, Pattern=quite, Pattern=the, Pattern=, and , and, Pattern=you know, Pattern=, uh
+	Constrained: Pattern=you, Pattern=, and ,, Pattern=and ,, Pattern=and , and, Pattern=and, Pattern=know, Pattern=the, Pattern=, and
+Turn ID=31| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=32| B | M : you know , they just kind of stood there and still said , you're right , we're going to put some money in it , you , you can get in there and , you'll get out , and it's going to be great , you don't have to worry about it .
+	Free: Pattern=going, Pattern=and ,, Pattern=they, Pattern=and, Pattern=some, Pattern=in, Pattern=, you, Pattern=be, Pattern=get, Pattern=it's, Pattern=right, Pattern=of, Pattern=money, Pattern=you know ,, Pattern=about it, Pattern=out ,, Pattern=you can, Pattern=said ,, Pattern=it ,, Pattern=have to, Pattern=don't, Pattern=, and, Pattern=to
+	Constrained: Pattern=know ,, Pattern=have, Pattern=can, Pattern=know, Pattern=to, Pattern=you, Pattern=out, Pattern=you know, Pattern=it, Pattern=and
+Turn ID=33| A | A : Oh , yeah . Yeah .
+	Free: Pattern=Yeah ., Pattern=, yeah
+	Constrained: 
+Turn ID=34| B | M : and , uh , it was just really , really good .
+	Free: Pattern=and , uh ,, Pattern=it, Pattern=good
+	Constrained: Pattern=, uh, Pattern=and ,, Pattern=and , uh, Pattern=and, Pattern=, uh ,

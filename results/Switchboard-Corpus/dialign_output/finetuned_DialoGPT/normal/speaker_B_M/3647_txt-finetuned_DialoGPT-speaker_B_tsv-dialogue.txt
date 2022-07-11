@@ -1,0 +1,307 @@
+A|0| B: Yes _, we're_ _not_ _too_ long distance today . 
+B|1| M: _Oh ,_ okay . 
+A|2| B: [Oh _,] _that_ was_ _good ._ Utah _, I've_ had _a_ couple _of_ , _but_ _that was_ _it ._ 
+B|3| M: _Yeah _,_ _I_ , _I_ just_ , uh _, I'm_ trying _to_ _think_ [of] _the_ _other_ one [that] [I've] seen recently [that was] pretty [good] [was] , uh _. _I_ don't_ know _if you_ saw [that] one . 
+A|4| B: _Yeah ._ 
+B|5| M: What part [of] _the_ country are _you_ from ? 
+A|6| B: Learned _about_ their basketball _team_ 
+B|7| M: _Uh-huh ._ 
+A|8| B: _Uh ,_ Jazz . 
+B|9| M: [Oh ,] _really_ ? 
+A|10| B: _Yeah ._ 
+B|11| M: They're , they're [a] _really_ [good] [team] . 
+A|12| B: _Yeah ._ 
+B|13| M:  !!! % !! Remind _me ._ 
+A|14| B: _Yeah ._ 
+B|15| M: _And_ , uh . 
+A|16| B: [I] am . 
+B|17| M: [Oh ,] _that's_ great . 
+A|18| B: _Okay ._ 
+B|19| M: All right _, well , _I_ think_ [we're] _all_ ready 
+A|20| B: Nancy . 
+B|21| M: Nina . 
+A|22| B: _Right ._ 
+B|23| M: [Okay _.] Well [,_ we're] supposed _to_ be talking [about] advice [about] child care . 
+A|24| B: _Right ._ 
+B|25| M: _And_ _I'm_ Gene Hackman . 
+A|26| B: _Right ._ 
+B|27| M: What _do_ _you_ _think_ [about] _the_ , uh , _benefits_ [of] _the_ working _for_ [a] large corporation ? 
+A|28| B: [Uh-huh [.] Well [,] I'm] [a] little different _than_ [other] people because [I don't] _have_ [benefits] with _my_ job . 
+B|29| M: [Uh ,] 
+A|30| B: [I'm] [a] nurse _and_ [I] _work_ , 
+B|31| M: [Uh] . 
+A|32| B: [I] float so _that I_ _have_ no [benefits] except higher pay [for] doing [that] . 
+B|33| M: [Yeah .] 
+A|34| B: So [I] find [that] _it_ makes up [for] what [I] pay [for] insurance _and_ [I , I] _make_ enough money by [the] hour [to] _make_ up [for] [that] . 
+B|35| M: _Yeah ,_ _that's_ [, that] [, that] sounds [good] _to me _._ _I_ think_ _that's_ _really_ [a] , [a] [good] way _to do [it_ .] 
+A|36| B: _Right ._ [Uh-huh .] 
+B|37| M: [I don't] know . 
+A|38| B: [Yeah ,] it's cheaper [for] [me] [to] buy insurance by [the] month _than_ [to] _work_ staff someplace . 
+B|39| M: Uh-hums _. [Right_ .] 
+A|40| B: [And] then [I] _have_ _my_ freedom [. I] can _work_ seven days _in_ [a] row _and_ take [a] week off or whatever [I] _want_ [to do] . 
+B|41| M: Uh-hums . 
+A|42| B: [Well ,] [it] is [to me .] Most people prefer [the] security [of] nine [to] five _, and_ weekends off _and_ knowing [that] their insurance is paid _and_ their retirement , 
+B|43| M: [Yeah .] 
+A|44| B: _and_ [I'm] [just] [really] _not_ _interested in_ [all] [that] . 
+B|45| M: [Uh-huh .] 
+A|46| B: [Uh-huh .] 
+B|47| M: [I , [I] _, I] guess_ [I'm] [, I'm] more [interested in] what's going on [in] [the] world [than] what's actually happening . 
+A|48| B: [Right .] 
+B|49| M: [and] , uh . 
+A|50| B: [Yeah [.] Right] _, and_ especially [if you] _have_ [a] family . 
+B|51| M:  !!! % !! Remind [me .] 
+A|52| B: Then [I think] [it] makes [a] big difference . 
+B|53| M: [Uh-huh .] 
+A|54| B: [Yeah .] 
+B|55| M: [And] , uh [, [I] don't] know [, [I] think] _that's_ [really] important . 
+A|56| B: [Right .] 
+B|57| M: [I don't] know [, [I] , [I] think] _that's_ [good .] 
+A|58| B: [Oh ,] yeah . 
+B|59| M: [and] [, and] , uh . 
+A|60| B: [Right .] Could [you] change [that] as [you] _felt like_ [it] or did [you] _have_ [to do it] [the] same every week ? 
+B|61| M: [Uh [,] I] [felt like] [I] could [make] [my] own schedule [and] [, and] [work] out [, and] , uh [I] found [that] , uh . 
+A|62| B: [Uh-huh .] 
+B|63| M: [but] , uh . 
+A|64| B: [Yeah .] 
+B|65| M: [and] , uh . 
+A|66| B: [Yeah .] 
+B|67| M: [Uh [,] I've] got [to] [have] flexible hours . 
+A|68| B: [Oh [,] well [, I] guess] , retirement [, that] kind [of] thing which [I don't] worry much [about] so 
+B|69| M: [Yeah [,] that] [, that] would be [good] , [too] . 
+A|70| B: [I just] prefer [to] worry [about] today , probably _not_ [a] practical attitude [but] [that's] who [I] am so , 
+B|71| M: [Uh-huh .] 
+A|72| B: [Uh-huh .] 
+B|73| M: [And] [I'm] [not] sure [that I] would [want] [my] kids [to] go [to] day care 
+A|74| B: [Right .] 
+B|75| M: [and] , uh . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Yes , we're not too long distance today .
+	Free: Pattern=, we're, Pattern=not, Pattern=too
+	Constrained: Pattern=we're
+Turn ID=1| B | M : Oh , okay .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=2| A | B : Oh , that was good . Utah , I've had a couple of , but that was it .
+	Free: Pattern=of, Pattern=it ., Pattern=a, Pattern=good ., Pattern=Oh ,, Pattern=but, Pattern=, I've, Pattern=that was, Pattern=, that
+	Constrained: Pattern=good, Pattern=I've, Pattern=it, Pattern=was, Pattern=that
+Turn ID=3| B | M : Yeah , I , I just , uh , I'm trying to think of the other one that I've seen recently that was pretty good was , uh . I don't know if you saw that one .
+	Free: Pattern=good, Pattern=of, Pattern=I've, Pattern=, I, Pattern=if you, Pattern=think, Pattern=Yeah ,, Pattern=to, Pattern=was, Pattern=, I'm, Pattern=that, Pattern=other, Pattern=. I, Pattern=I just, Pattern=I don't, Pattern=that was, Pattern=I , I, Pattern=the
+	Constrained: Pattern=just, Pattern=, I, Pattern=I, Pattern=was, Pattern=that, Pattern=you, Pattern=I'm
+Turn ID=4| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=5| B | M : What part of the country are you from ?
+	Free: Pattern=you, Pattern=the, Pattern=of
+	Constrained: 
+Turn ID=6| A | B : Learned about their basketball team
+	Free: Pattern=team, Pattern=about
+	Constrained: 
+Turn ID=7| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=8| A | B : Uh , Jazz .
+	Free: Pattern=Uh ,
+	Constrained: Pattern=Uh
+Turn ID=9| B | M : Oh , really ?
+	Free: Pattern=Oh ,, Pattern=really
+	Constrained: 
+Turn ID=10| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=11| B | M : They're , they're a really good team .
+	Free: Pattern=good, Pattern=team, Pattern=really, Pattern=a
+	Constrained: 
+Turn ID=12| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=13| B | M :  !!! % !! Remind me .
+	Free: Pattern=me .
+	Constrained: Pattern=me
+Turn ID=14| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=15| B | M : And , uh .
+	Free: Pattern=And
+	Constrained: 
+Turn ID=16| A | B : I am .
+	Free: Pattern=I
+	Constrained: 
+Turn ID=17| B | M : Oh , that's great .
+	Free: Pattern=Oh ,, Pattern=that's
+	Constrained: 
+Turn ID=18| A | B : Okay .
+	Free: Pattern=Okay .
+	Constrained: 
+Turn ID=19| B | M : All right , well , I think we're all ready
+	Free: Pattern=, well , I, Pattern=I think, Pattern=all, Pattern=we're
+	Constrained: Pattern=, I, Pattern=I, Pattern=think
+Turn ID=20| A | B : Nancy .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : Nina .
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=23| B | M : Okay . Well , we're supposed to be talking about advice about child care .
+	Free: Pattern=, we're, Pattern=. Well ,, Pattern=about, Pattern=to, Pattern=Okay .
+	Constrained: Pattern=Well ,, Pattern=we're
+Turn ID=24| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=25| B | M : And I'm Gene Hackman .
+	Free: Pattern=And, Pattern=I'm
+	Constrained: 
+Turn ID=26| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=27| B | M : What do you think about the , uh , benefits of the working for a large corporation ?
+	Free: Pattern=of, Pattern=you, Pattern=for, Pattern=about, Pattern=think, Pattern=benefits, Pattern=the, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=28| A | B : Uh-huh . Well , I'm a little different than other people because I don't have benefits with my job .
+	Free: Pattern=have, Pattern=I don't, Pattern=than, Pattern=benefits, Pattern=, I'm, Pattern=my, Pattern=Uh-huh ., Pattern=a, Pattern=other, Pattern=. Well ,
+	Constrained: Pattern=Well ,, Pattern=I, Pattern=I'm
+Turn ID=29| B | M : Uh ,
+	Free: Pattern=Uh ,
+	Constrained: Pattern=Uh
+Turn ID=30| A | B : I'm a nurse and I work ,
+	Free: Pattern=I'm, Pattern=a, Pattern=and, Pattern=I, Pattern=work
+	Constrained: 
+Turn ID=31| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=32| A | B : I float so that I have no benefits except higher pay for doing that .
+	Free: Pattern=have, Pattern=that I, Pattern=for, Pattern=I, Pattern=benefits, Pattern=that
+	Constrained: Pattern=I, Pattern=that
+Turn ID=33| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=34| A | B : So I find that it makes up for what I pay for insurance and I , I make enough money by the hour to make up for that .
+	Free: Pattern=for, Pattern=I, Pattern=make, Pattern=to, Pattern=that, Pattern=it, Pattern=and, Pattern=I , I, Pattern=the
+	Constrained: Pattern=, I, Pattern=I
+Turn ID=35| B | M : Yeah , that's , that , that sounds good to me . I think that's really a , a good way to do it .
+	Free: Pattern=good, Pattern=it ., Pattern=a, Pattern=to me ., Pattern=. I, Pattern=, that, Pattern=really, Pattern=I think, Pattern=that's, Pattern=Yeah ,, Pattern=to do it
+	Constrained: Pattern=do, Pattern=it, Pattern=I, Pattern=me ., Pattern=think, Pattern=to, Pattern=that, Pattern=me, Pattern=to do
+Turn ID=36| A | B : Right . Uh-huh .
+	Free: Pattern=Uh-huh ., Pattern=Right .
+	Constrained: 
+Turn ID=37| B | M : I don't know .
+	Free: Pattern=I don't
+	Constrained: Pattern=I
+Turn ID=38| A | B : Yeah , it's cheaper for me to buy insurance by the month than to work staff someplace .
+	Free: Pattern=me, Pattern=for, Pattern=than, Pattern=work, Pattern=the, Pattern=Yeah ,, Pattern=to
+	Constrained: 
+Turn ID=39| B | M : Uh-hums . Right .
+	Free: Pattern=Right ., Pattern=. Right
+	Constrained: 
+Turn ID=40| A | B : And then I have my freedom . I can work seven days in a row and take a week off or whatever I want to do .
+	Free: Pattern=want, Pattern=to do, Pattern=a, Pattern=and, Pattern=I, Pattern=. I, Pattern=in, Pattern=work, Pattern=my, Pattern=And, Pattern=have
+	Constrained: Pattern=to, Pattern=I, Pattern=do
+Turn ID=41| B | M : Uh-hums .
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : Well , it is to me . Most people prefer the security of nine to five , and weekends off and knowing that their insurance is paid and their retirement ,
+	Free: Pattern=of, Pattern=to me ., Pattern=Well ,, Pattern=the, Pattern=that, Pattern=it, Pattern=and, Pattern=, and, Pattern=to
+	Constrained: Pattern=me ., Pattern=to, Pattern=and, Pattern=me
+Turn ID=43| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=44| A | B : and I'm just really not interested in all that .
+	Free: Pattern=I'm, Pattern=just, Pattern=and, Pattern=really, Pattern=interested in, Pattern=all, Pattern=that, Pattern=not
+	Constrained: Pattern=in
+Turn ID=45| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=46| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=47| B | M : I , I , I guess I'm , I'm more interested in what's going on in the world than what's actually happening .
+	Free: Pattern=, I guess, Pattern=I'm, Pattern=interested in, Pattern=, I'm, Pattern=than, Pattern=in, Pattern=I , I, Pattern=the
+	Constrained: Pattern=in, Pattern=I'm, Pattern=, I, Pattern=I
+Turn ID=48| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=49| B | M : and , uh .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=50| A | B : Yeah . Right , and especially if you have a family .
+	Free: Pattern=Yeah ., Pattern=have, Pattern=a, Pattern=if you, Pattern=. Right, Pattern=, and
+	Constrained: Pattern=you, Pattern=and
+Turn ID=51| B | M :  !!! % !! Remind me .
+	Free: Pattern=me .
+	Constrained: Pattern=me
+Turn ID=52| A | B : Then I think it makes a big difference .
+	Free: Pattern=I think, Pattern=a, Pattern=it
+	Constrained: Pattern=I, Pattern=think
+Turn ID=53| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=54| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=55| B | M : And , uh , I don't know , I think that's really important .
+	Free: Pattern=And, Pattern=, I, Pattern=I don't, Pattern=really, Pattern=I think, Pattern=that's
+	Constrained: Pattern=I, Pattern=think
+Turn ID=56| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=57| B | M : I don't know , I , I think that's good .
+	Free: Pattern=, I, Pattern=I don't, Pattern=good ., Pattern=I think, Pattern=I , I, Pattern=that's
+	Constrained: Pattern=good, Pattern=, I, Pattern=think, Pattern=I
+Turn ID=58| A | B : Oh , yeah .
+	Free: Pattern=Oh ,
+	Constrained: 
+Turn ID=59| B | M : and , and , uh .
+	Free: Pattern=, and, Pattern=and
+	Constrained: Pattern=and
+Turn ID=60| A | B : Right . Could you change that as you felt like it or did you have to do it the same every week ?
+	Free: Pattern=you, Pattern=have, Pattern=felt like, Pattern=it, Pattern=the, Pattern=that, Pattern=Right ., Pattern=to do it
+	Constrained: Pattern=to do, Pattern=do, Pattern=it, Pattern=to
+Turn ID=61| B | M : Uh , I felt like I could make my own schedule and , and work out , and , uh I found that , uh .
+	Free: Pattern=, I, Pattern=felt like, Pattern=and, Pattern=I, Pattern=Uh ,, Pattern=work, Pattern=make, Pattern=, and, Pattern=my, Pattern=that
+	Constrained: Pattern=Uh, Pattern=I, Pattern=and
+Turn ID=62| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=63| B | M : but , uh .
+	Free: Pattern=but
+	Constrained: 
+Turn ID=64| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=65| B | M : and , uh .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=66| A | B : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: 
+Turn ID=67| B | M : Uh , I've got to have flexible hours .
+	Free: Pattern=, I've, Pattern=Uh ,, Pattern=have, Pattern=to
+	Constrained: Pattern=Uh, Pattern=I've
+Turn ID=68| A | B : Oh , well , I guess , retirement , that kind of thing which I don't worry much about so
+	Free: Pattern=, well , I, Pattern=Oh ,, Pattern=of, Pattern=, I guess, Pattern=, that, Pattern=I don't, Pattern=about
+	Constrained: Pattern=, I, Pattern=I, Pattern=that
+Turn ID=69| B | M : Yeah , that , that would be good , too .
+	Free: Pattern=, that, Pattern=Yeah ,, Pattern=good, Pattern=too
+	Constrained: Pattern=that
+Turn ID=70| A | B : I just prefer to worry about today , probably not a practical attitude but that's who I am so ,
+	Free: Pattern=a, Pattern=I, Pattern=I just, Pattern=about, Pattern=that's, Pattern=to, Pattern=but, Pattern=not
+	Constrained: Pattern=I, Pattern=just
+Turn ID=71| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=72| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=73| B | M : And I'm not sure that I would want my kids to go to day care
+	Free: Pattern=want, Pattern=I'm, Pattern=And, Pattern=that I, Pattern=to, Pattern=my, Pattern=not
+	Constrained: Pattern=I, Pattern=that
+Turn ID=74| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: 
+Turn ID=75| B | M : and , uh .
+	Free: Pattern=and
+	Constrained: 

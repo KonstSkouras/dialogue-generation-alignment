@@ -1,0 +1,171 @@
+A|0| B: _Oh ,_ definitely . 
+B|1| M: Uh _, _I_ just_ feel _like_ , you're not _, you_ _don't_ feel _like_ you're getting _what_ _you_ need _, and_ you're paying , you've _got_ _to_ pay for _it _,_ and_ _I_ _, you_ _have_ _to_ pay _the_ bills _, and_ _it's_ _just_ _, I think_ _, I_ really feel _like_ I'm being , I'm not being smart _, and_ not being consistent _, and_ paying _, and_ _so_ _, I_ feel _like_ that's _a_ big , uh ... 
+A|2| B: Right . _Yeah _,_ yeah ._ 
+B|3| M:  !!! % !! Remind me _of that_ [, yeah] , that's _, _that_ is_ _a good_ _one_ . 
+A|4| B: _Yeah_ . _Yeah _,_ yeah ._ 
+B|5| M: _I think_ _, I think_ _that_ , uh . 
+A|6| B: _Yeah , that_ sounds [like] [a good] idea . My only concern [is] [what] happens when [you] turn things over [to] [the] government _, _I don't_ know_ 
+B|7| M: _Uh-huh ._ 
+A|8| B: Do _they_ wind up with more red tape [, and] more problems then ? _Yeah _,_ yeah ._ 
+B|9| M: _Well _,_ it's_ , _it ,_ _it_ seems [like] _it's_ _just_ going [to] take , uh _, a_ lot _of_ _time_ . 
+A|10| B: [Uh-huh .] 
+B|11| M: They _don't have_ [to] worry about spending _the money_ [to] send _people_ there [to] learn _how_ [to] shoot their own weapons . 
+A|12| B: _Oh ._ 
+B|13| M: _and ,_ uh . 
+A|14| B: _Yeah_ . 
+B|15| M: But , uh . 
+A|16| B: Wow . 
+B|17| M: but , uh . 
+A|18| B: _Yeah_ . [Well [,] I think] part [of] [the] , [the] tremendous benefit [of [that] is] [that] _there's_ [so] many [people] who wait now _because _they_ don't have [the_ money] , until [, you] _know _,_ they_ [have] no preventative measures People , um [, you] _know ,_ [just] go on [and] on [and] on . [I] mean , [so] many [people] [don't] even get prenatal care or [, and] [it] [just] extends with if [it ,] [what] would be [a] minor problem [to] deal with if _they_ had [a] _help_ available early on becomes [just] this horrendous [, you] _know ,_ burden on [the] taxpayers . They're saying now [that] [one] out [of] every ten child born _in_ public hospitals [is] addicted [to] crack . 
+B|19| M: [Oh [,] yeah .] 
+A|20| B: [Well [,] you] _know_ 
+B|21| M: And [I think] that's probably [a] big factor . 
+A|22| B: [Uh-huh .] 
+B|23| M: [and] I'm , I'm very _much_ aware [of that] . 
+A|24| B: _Yeah_ . 
+B|25| M: uh [, I think] [that] , uh-hugh _, it's_ _time_ [that] we take steps [to] , [to] correct [it] . 
+A|26| B: _Yeah [,_ yeah .] 
+B|27| M: [because they] [, [they] don't have the] _time_ [to] , [to] look after themselves . 
+A|28| B: [Oh [,] it's] unbelievable [how] [much] [you] go through . When [I just] had [a] problem with my neck [and] [they] ended up doing [a] seven hundred dollar CAT scan [, [and] [,] I] mean [, a] chiropractor [got] [it] _in_ [one] [time] 
+B|29| M: [Oh .] 
+A|30| B: [it] was [just] strange . 
+B|31| M: [I don't [know] [,] [I] just] [, I don't] [think] [there's] [a] day [that] we can do everything [in] [the] world . 
+A|32| B: [Oh ,] well [, that] should _help_ . 
+B|33| M: [Yeah , that] will [help] , uh . 
+A|34| B: [Yeah] 
+B|35| M: [I] [know [,] I] [know] [that] , uh-huh . 
+A|36| B: [Oh] [I] see [Oh ,] gosh . 
+B|37| M: And , uh . 
+A|38| B: Okay , well 
+B|39| M: [Well] [it's] [good] talking [to] _you ._ 
+A|40| B: Okay , thank [you .] Bye-bye 
+B|41| M:  !!! % !! RemindMe !! Auto attacks . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : Oh , definitely .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=1| B | M : Uh , I just feel like , you're not , you don't feel like you're getting what you need , and you're paying , you've got to pay for it , and I , you have to pay the bills , and it's just , I think , I really feel like I'm being , I'm not being smart , and not being consistent , and paying , and so , I feel like that's a big , uh ...
+	Free: Pattern=you, Pattern=what, Pattern=I, Pattern=I just, Pattern=, you, Pattern=, I think, Pattern=the, Pattern=don't, Pattern=got, Pattern=it's, Pattern=so, Pattern=just, Pattern=have, Pattern=, I, Pattern=a, Pattern=it ,, Pattern=like, Pattern=, and, Pattern=to
+	Constrained: Pattern=you, Pattern=just, Pattern=, I, Pattern=I, Pattern=think, Pattern=I think, Pattern=it, Pattern=and
+Turn ID=2| A | B : Right . Yeah , yeah .
+	Free: Pattern=, yeah ., Pattern=Yeah ,
+	Constrained: Pattern=, yeah, Pattern=Yeah
+Turn ID=3| B | M :  !!! % !! Remind me of that , yeah , that's , that is a good one .
+	Free: Pattern=of that, Pattern=a good, Pattern=one, Pattern=that is, Pattern=, yeah, Pattern=, that
+	Constrained: Pattern=good, Pattern=of, Pattern=a, Pattern=is, Pattern=that
+Turn ID=4| A | B : Yeah . Yeah , yeah .
+	Free: Pattern=, yeah ., Pattern=Yeah ,, Pattern=Yeah
+	Constrained: Pattern=, yeah, Pattern=Yeah
+Turn ID=5| B | M : I think , I think that , uh .
+	Free: Pattern=, I think, Pattern=I think, Pattern=that
+	Constrained: Pattern=, I, Pattern=I think, Pattern=I, Pattern=think
+Turn ID=6| A | B : Yeah , that sounds like a good idea . My only concern is what happens when you turn things over to the government , I don't know
+	Free: Pattern=you, Pattern=what, Pattern=a good, Pattern=Yeah , that, Pattern=is, Pattern=like, Pattern=the, Pattern=to, Pattern=, I don't, Pattern=I don't know
+	Constrained: Pattern=good, Pattern=I, Pattern=, that, Pattern=know, Pattern=Yeah, Pattern=that, Pattern=, I, Pattern=a, Pattern=don't, Pattern=Yeah ,
+Turn ID=7| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=8| A | B : Do they wind up with more red tape , and more problems then ? Yeah , yeah .
+	Free: Pattern=, yeah ., Pattern=, and, Pattern=Yeah ,, Pattern=they
+	Constrained: Pattern=, yeah, Pattern=and, Pattern=Yeah
+Turn ID=9| B | M : Well , it's , it , it seems like it's just going to take , uh , a lot of time .
+	Free: Pattern=time, Pattern=of, Pattern=just, Pattern=it, Pattern=, it's, Pattern=Well ,, Pattern=, a, Pattern=to, Pattern=it's, Pattern=it ,, Pattern=like
+	Constrained: Pattern=it's, Pattern=a, Pattern=Well, Pattern=it
+Turn ID=10| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=11| B | M : They don't have to worry about spending the money to send people there to learn how to shoot their own weapons .
+	Free: Pattern=people, Pattern=how, Pattern=the money, Pattern=don't have, Pattern=to
+	Constrained: Pattern=have, Pattern=don't, Pattern=the
+Turn ID=12| A | B : Oh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=13| B | M : and , uh .
+	Free: Pattern=and ,
+	Constrained: Pattern=and
+Turn ID=14| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=15| B | M : But , uh .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : Wow .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : but , uh .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : Yeah . Well , I think part of the , the tremendous benefit of that is that there's so many people who wait now because they don't have the money , until , you know , they have no preventative measures People , um , you know , just go on and on and on . I mean , so many people don't even get prenatal care or , and it just extends with if it , what would be a minor problem to deal with if they had a help available early on becomes just this horrendous , you know , burden on the taxpayers . They're saying now that one out of every ten child born in public hospitals is addicted to crack .
+	Free: Pattern=, they, Pattern=of that, Pattern=a, Pattern=the money, Pattern=there's, Pattern=because they, Pattern=, you, Pattern=is, Pattern=it ,, Pattern=, I think, Pattern=the, Pattern=don't, Pattern=Yeah, Pattern=so, Pattern=of, Pattern=know ,, Pattern=people, Pattern=they don't have the, Pattern=just, Pattern=have, Pattern=what, Pattern=they, Pattern=it, Pattern=and, Pattern=one, Pattern=I, Pattern=Well ,, Pattern=in, Pattern=that is, Pattern=, and, Pattern=to, Pattern=help, Pattern=that
+	Constrained: Pattern=of, Pattern=you, Pattern=have, Pattern=they, Pattern=, I, Pattern=I, Pattern=think, Pattern=know, Pattern=don't have, Pattern=I think, Pattern=the, Pattern=don't, Pattern=that, Pattern=it, Pattern=and, Pattern=Well, Pattern=is
+Turn ID=19| B | M : Oh , yeah .
+	Free: Pattern=, yeah ., Pattern=Oh ,
+	Constrained: Pattern=, yeah, Pattern=Oh
+Turn ID=20| A | B : Well , you know
+	Free: Pattern=, you, Pattern=Well ,, Pattern=know
+	Constrained: Pattern=you, Pattern=Well
+Turn ID=21| B | M : And I think that's probably a big factor .
+	Free: Pattern=I think, Pattern=a
+	Constrained: Pattern=I, Pattern=think
+Turn ID=22| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=23| B | M : and I'm , I'm very much aware of that .
+	Free: Pattern=of that, Pattern=and, Pattern=much
+	Constrained: Pattern=of, Pattern=that
+Turn ID=24| A | B : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=25| B | M : uh , I think that , uh-hugh , it's time that we take steps to , to correct it .
+	Free: Pattern=time, Pattern=it, Pattern=, it's, Pattern=, I think, Pattern=to, Pattern=that
+	Constrained: Pattern=, I, Pattern=I, Pattern=think, Pattern=I think, Pattern=it's
+Turn ID=26| A | B : Yeah , yeah .
+	Free: Pattern=, yeah ., Pattern=Yeah ,
+	Constrained: Pattern=, yeah, Pattern=Yeah
+Turn ID=27| B | M : because they , they don't have the time to , to look after themselves .
+	Free: Pattern=, they, Pattern=time, Pattern=they don't have the, Pattern=because they, Pattern=to
+	Constrained: Pattern=have, Pattern=they, Pattern=don't have, Pattern=the, Pattern=don't
+Turn ID=28| A | B : Oh , it's unbelievable how much you go through . When I just had a problem with my neck and they ended up doing a seven hundred dollar CAT scan , and , I mean , a chiropractor got it in one time
+	Free: Pattern=time, Pattern=you, Pattern=and ,, Pattern=they, Pattern=how, Pattern=one, Pattern=I just, Pattern=, it's, Pattern=in, Pattern=much, Pattern=got, Pattern=, and, Pattern=, I, Pattern=a, Pattern=it, Pattern=and, Pattern=Oh ,, Pattern=, a
+	Constrained: Pattern=just, Pattern=a, Pattern=and, Pattern=I, Pattern=Oh, Pattern=it's
+Turn ID=29| B | M : Oh .
+	Free: Pattern=Oh .
+	Constrained: Pattern=Oh
+Turn ID=30| A | B : it was just strange .
+	Free: Pattern=just, Pattern=it
+	Constrained: 
+Turn ID=31| B | M : I don't know , I just , I don't think there's a day that we can do everything in the world .
+	Free: Pattern=know ,, Pattern=I just, Pattern=there's, Pattern=the, Pattern=that, Pattern=, I, Pattern=a, Pattern=, I don't, Pattern=think, Pattern=I don't know, Pattern=in
+	Constrained: Pattern=just, Pattern=, I, Pattern=I, Pattern=know, Pattern=don't
+Turn ID=32| A | B : Oh , well , that should help .
+	Free: Pattern=, that, Pattern=Oh ,, Pattern=help
+	Constrained: Pattern=Oh, Pattern=that
+Turn ID=33| B | M : Yeah , that will help , uh .
+	Free: Pattern=Yeah , that, Pattern=help
+	Constrained: Pattern=, that, Pattern=Yeah ,, Pattern=Yeah, Pattern=that
+Turn ID=34| A | B : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=35| B | M : I know , I know that , uh-huh .
+	Free: Pattern=know ,, Pattern=, I, Pattern=I, Pattern=know, Pattern=that
+	Constrained: Pattern=know, Pattern=I
+Turn ID=36| A | B : Oh I see Oh , gosh .
+	Free: Pattern=Oh ,, Pattern=Oh, Pattern=I
+	Constrained: Pattern=Oh
+Turn ID=37| B | M : And , uh .
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : Okay , well
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : Well it's good talking to you .
+	Free: Pattern=good, Pattern=you ., Pattern=Well, Pattern=to, Pattern=it's
+	Constrained: Pattern=you
+Turn ID=40| A | B : Okay , thank you . Bye-bye
+	Free: Pattern=you .
+	Constrained: Pattern=you
+Turn ID=41| B | M :  !!! % !! RemindMe !! Auto attacks .
+	Free: 
+	Constrained: 

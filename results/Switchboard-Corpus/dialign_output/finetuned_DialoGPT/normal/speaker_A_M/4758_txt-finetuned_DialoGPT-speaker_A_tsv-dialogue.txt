@@ -1,0 +1,199 @@
+B|0| M: Oh _, I_ haven't heard of _that_ one . 
+A|1| A: _I _like_ that ._ _And_ then _, uh ,_ my husband , he _just _, uh_ ,_ subscribed _to_ _a_ wood , he _just_ started _a_ woodwork _so_ he _just_ sent away _to get_ some woodworking _books_ . 
+B|2| M: _Okay ._ 
+A|3| A: So what kind do _you _,_ uh ,_ _get_ ? 
+B|4| M: _Well_ , we've got [a] , [a] couple of [books] coming _out_ [, uh] . 
+A|5| A: Uh-huh . 
+B|6| M: _and_ _I _, I_ don't_ have _any_ of _those_ _, _so_ I_ have [to get] them _all_ from scratch . 
+A|7| A: Uh-huh . Uh-huh . 
+B|8| M: [And] _I ,_ _I'm_ not sure _if_ I've _read_ enough of _it_ _or_ _if I'm_ [just] not going [to] _read it_ . 
+A|9| A: Is _it ,_ _Yeah [,_ I] used [to] take _that ._ Right . 
+B|10| M:  !!! % 
+A|11| A: _Yeah ._ 
+B|12| M: _so _I_ , I_ have [to] give her [a] little bit of time , _but_ [, uh ,] she's been real good _about_ taking _, you know ,_ _things_ [that] she _can_ _and ,_ _and_ making sure [that] _they're_ there _, [you_ ,] _know , so_ _that _,_ you_ can't [get] junk mail _and_ _things_ [like that .] 
+A|13| A: _Yeah ._ [I don't] _, I ,_ [if] [I [,] you know ,] [if] [I] happen [to] find _it ,_ I'll _go_ ahead [and] [read it] someplace [, you know ,] [if I'm] in [a] doctor's office [or] _something_ [like that] [but] other than [that] [I] never [, I] never liked [that] _really_ . 
+B|14| M: _Well_ _, that's_ , _that ,_ [that] _is_ [a] shame too , because [it _,] [it_ [,] you] can't [read] [, you] [just] can't write . 
+A|15| A: _I read_ my newspaper . [I] [can] hardly wait in _the_ mornings for _the_ newspaper [to get] here [, you know] . 
+B|16| M:  !!! ; !! Remind me . 
+A|17| A: In fact [, it] puts [it] [out] on Tuesdays [and] Thursdays [I] [can] hardly wait [to get] [that] [to get] _the_ local news 
+B|18| M: [Yeah ,] yeah . 
+A|19| A: Huh . Uh-huh , uh-huh . 
+B|20| M: [And] [, uh [,] it] [just [,] I] [just , uh] . 
+A|21| A: Uh-huh , uh-huh . 
+B|22| M: [And] [so] , 
+A|23| A: Uh-huh . 
+B|24| M: _and [,_ uh ,] they [just] run forever . 
+A|25| A: [Yeah ,] right , right . [Yeah _,] well [I_ , I] only [, you know ,] subscribe [to] _the_ [things] [I'm] interested in . [I] used [to] be into coin collecting [so I] used [to get] _the_ coin magazine _, the_ paper actually [is] what [it] was [, you know] . [I] used [to get] [that .] So _now_ [that] [I'm] into _dolls_ [, that's] [about] [all] _I really_ , _really_ want [, you know] . 
+B|26| M: _Well_ , we , we collect collect collect [dolls] too . 
+A|27| A: No , huh-uh . _Uh_ [, _I] think_ [they're] interesting . 
+B|28| M:  !!! % !! Remind me . 
+A|29| A: [Yeah] 
+B|30| M: [I think] it's , it's not worth [the] money [that] [they're] making . 
+A|31| A: Uh-huh . 
+B|32| M: [And] [, uh [,] you know [,] [I] like] [to] [read] [something] new every week . 
+A|33| A: Uh-huh . 
+B|34| M: But , um [, you know [,] [I ,] [I] really] have no problems with [it] . 
+A|35| A: Uh-huh . 
+B|36| M: [and] [they're] saying _that ,_ _that ,_ um [, the] [, the] way [the] law [is] written [now] [, it] seems [like] it's [really] confusing [to] people . 
+A|37| A: Uh-huh . Uh-huh , uh-huh . [Well] [those] travel magazines , are [that ,] more [or] less , show [you] different countries [that] [you] could _go_ [to] [or] , 
+B|38| M: [Yeah .] 
+A|39| A: Uh-huh . Uh-huh . 
+B|40| M: [And] [, uh] . 
+A|41| A: Uh-huh , uh-huh . [Okay .] [Well] [I don't] [know] [any] other magazines [I] could talk [to] [you] [about] . 
+B|42| M: [Well] [, I [,] uh [,] [I] like] [to] [read] [the] [, uh] [the] [, [I] read] [the] NEW YORK TIMES [and] [the] WALL STREET JOURNAL . 
+A|43| A: _Uh_ [, I don't] take anymore than [that] 
+B|44| M: [Uh] . 
+A|45| A: You [know , so] . 
+B|46| M: [Yeah [,] that's] , [that] [is] true . 
+A|47| A: [Well] _I guess_ [that] will be [it] then [and ,] 
+B|48| M: [Okay] [, well [I] guess] we're ready [to] [go] . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : Oh , I haven't heard of that one .
+	Free: Pattern=, I, Pattern=that
+	Constrained: Pattern=I
+Turn ID=1| A | A : I like that . And then , uh , my husband , he just , uh , subscribed to a wood , he just started a woodwork so he just sent away to get some woodworking books .
+	Free: Pattern=a, Pattern=to get, Pattern=just , uh, Pattern=I like, Pattern=, uh ,, Pattern=books, Pattern=to, Pattern=like that ., Pattern=so, Pattern=And, Pattern=just
+	Constrained: Pattern=that ., Pattern=, uh, Pattern=just, Pattern=like that, Pattern=I, Pattern=like, Pattern=to, Pattern=get, Pattern=that, Pattern=just ,
+Turn ID=2| B | M : Okay .
+	Free: Pattern=Okay .
+	Constrained: Pattern=Okay
+Turn ID=3| A | A : So what kind do you , uh , get ?
+	Free: Pattern=, uh ,, Pattern=you ,, Pattern=get
+	Constrained: Pattern=, uh, Pattern=you
+Turn ID=4| B | M : Well , we've got a , a couple of books coming out , uh .
+	Free: Pattern=a, Pattern=Well, Pattern=books, Pattern=out, Pattern=, uh
+	Constrained: 
+Turn ID=5| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : and I , I don't have any of those , so I have to get them all from scratch .
+	Free: Pattern=any, Pattern=, I don't, Pattern=, so, Pattern=those, Pattern=and, Pattern=to get, Pattern=so I, Pattern=I , I, Pattern=all
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=I, Pattern=I don't, Pattern=to, Pattern=get, Pattern=so
+Turn ID=7| A | A : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : And I , I'm not sure if I've read enough of it or if I'm just not going to read it .
+	Free: Pattern=I ,, Pattern=I'm, Pattern=if I'm, Pattern=it, Pattern=if, Pattern=read it, Pattern=or, Pattern=to, Pattern=read, Pattern=And, Pattern=just
+	Constrained: Pattern=I'm, Pattern=it, Pattern=read, Pattern=I, Pattern=if
+Turn ID=9| A | A : Is it , Yeah , I used to take that . Right .
+	Free: Pattern=that ., Pattern=, I, Pattern=it ,, Pattern=Yeah ,, Pattern=to
+	Constrained: Pattern=that, Pattern=Yeah, Pattern=it, Pattern=I
+Turn ID=10| B | M :  !!! %
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=12| B | M : so I , I have to give her a little bit of time , but , uh , she's been real good about taking , you know , things that she can and , and making sure that they're there , you , know , so that , you can't get junk mail and things like that .
+	Free: Pattern=and ,, Pattern=can, Pattern=, you, Pattern=, uh ,, Pattern=I , I, Pattern=to, Pattern=like that ., Pattern=that ,, Pattern=know , so, Pattern=, you know ,, Pattern=a, Pattern=and, Pattern=so I, Pattern=about, Pattern=things, Pattern=they're, Pattern=get, Pattern=you ,, Pattern=that, Pattern=but
+	Constrained: Pattern=I ,, Pattern=that ., Pattern=like that, Pattern=, I, Pattern=and, Pattern=I, Pattern=, you know, Pattern=like, Pattern=, so, Pattern=that, Pattern=so, Pattern=you, Pattern=, uh, Pattern=know, Pattern=, you
+Turn ID=13| A | A : Yeah . I don't , I , if I , you know , if I happen to find it , I'll go ahead and read it someplace , you know , if I'm in a doctor's office or something like that but other than that I never , I never liked that really .
+	Free: Pattern=Yeah ., Pattern=I ,, Pattern=go, Pattern=like that, Pattern=if I'm, Pattern=, I ,, Pattern=and, Pattern=read it, Pattern=I don't, Pattern=or, Pattern=to, Pattern=something, Pattern=, you know ,, Pattern=, I, Pattern=a, Pattern=I, Pattern=if, Pattern=it ,, Pattern=really, Pattern=that, Pattern=but
+	Constrained: Pattern=I ,, Pattern=, I, Pattern=it, Pattern=, you know, Pattern=like, Pattern=that, Pattern=you, Pattern=I'm, Pattern=I, Pattern=if, Pattern=know, Pattern=, you, Pattern=Yeah, Pattern=read
+Turn ID=14| B | M : Well , that's , that , that is a shame too , because it , it , you can't read , you just can't write .
+	Free: Pattern=, it, Pattern=just, Pattern=a, Pattern=, you, Pattern=it ,, Pattern=, that's, Pattern=read, Pattern=that ,, Pattern=that, Pattern=Well, Pattern=is
+	Constrained: Pattern=that, Pattern=you, Pattern=it
+Turn ID=15| A | A : I read my newspaper . I can hardly wait in the mornings for the newspaper to get here , you know .
+	Free: Pattern=to get, Pattern=I, Pattern=the, Pattern=I read, Pattern=can, Pattern=, you know
+	Constrained: Pattern=you, Pattern=I, Pattern=to, Pattern=read, Pattern=get, Pattern=know, Pattern=, you
+Turn ID=16| B | M :  !!! ; !! Remind me .
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : In fact , it puts it out on Tuesdays and Thursdays I can hardly wait to get that to get the local news
+	Free: Pattern=, it, Pattern=out, Pattern=I, Pattern=can, Pattern=the, Pattern=that, Pattern=it, Pattern=and, Pattern=to get
+	Constrained: Pattern=to, Pattern=it, Pattern=get
+Turn ID=18| B | M : Yeah , yeah .
+	Free: Pattern=Yeah ,
+	Constrained: Pattern=Yeah
+Turn ID=19| A | A : Huh . Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=20| B | M : And , uh , it just , I just , uh .
+	Free: Pattern=, it, Pattern=And, Pattern=, I, Pattern=just , uh, Pattern=, uh ,, Pattern=just ,
+	Constrained: Pattern=, uh, Pattern=just, Pattern=it, Pattern=I, Pattern=just ,
+Turn ID=21| A | A : Uh-huh , uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=22| B | M : And so ,
+	Free: Pattern=And, Pattern=so
+	Constrained: 
+Turn ID=23| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=24| B | M : and , uh , they just run forever .
+	Free: Pattern=, uh ,, Pattern=and ,, Pattern=just
+	Constrained: Pattern=, uh, Pattern=and
+Turn ID=25| A | A : Yeah , right , right . Yeah , well I , I only , you know , subscribe to the things I'm interested in . I used to be into coin collecting so I used to get the coin magazine , the paper actually is what it was , you know . I used to get that . So now that I'm into dolls , that's about all I really , really want , you know .
+	Free: Pattern=, well I, Pattern=that ., Pattern=I'm, Pattern=, you know ,, Pattern=I, Pattern=, you know, Pattern=is, Pattern=really, Pattern=Yeah ,, Pattern=, that's, Pattern=to, Pattern=now, Pattern=, the, Pattern=that, Pattern=dolls, Pattern=it, Pattern=to get, Pattern=I really, Pattern=so I, Pattern=about, Pattern=things, Pattern=I , I, Pattern=the, Pattern=all
+	Constrained: Pattern=I ,, Pattern=you, Pattern=, I, Pattern=I, Pattern=, you know, Pattern=really, Pattern=the, Pattern=to, Pattern=Yeah, Pattern=get, Pattern=that, Pattern=so, Pattern=know, Pattern=, you
+Turn ID=26| B | M : Well , we , we collect collect collect dolls too .
+	Free: Pattern=Well, Pattern=dolls
+	Constrained: 
+Turn ID=27| A | A : No , huh-uh . Uh , I think they're interesting .
+	Free: Pattern=I think, Pattern=, I, Pattern=they're, Pattern=Uh
+	Constrained: Pattern=I
+Turn ID=28| B | M :  !!! % !! Remind me .
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : Yeah
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=30| B | M : I think it's , it's not worth the money that they're making .
+	Free: Pattern=I think, Pattern=that, Pattern=the, Pattern=they're
+	Constrained: Pattern=I
+Turn ID=31| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : And , uh , you know , I like to read something new every week .
+	Free: Pattern=And, Pattern=I like, Pattern=, uh ,, Pattern=to, Pattern=read, Pattern=something, Pattern=, you know ,, Pattern=, I
+	Constrained: Pattern=I, Pattern=, you know, Pattern=like, Pattern=you, Pattern=, uh, Pattern=know, Pattern=, you
+Turn ID=33| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : But , um , you know , I , I really have no problems with it .
+	Free: Pattern=, you know ,, Pattern=, I ,, Pattern=I , I, Pattern=it, Pattern=I really
+	Constrained: Pattern=I ,, Pattern=you, Pattern=, I, Pattern=I, Pattern=, you know, Pattern=really, Pattern=know, Pattern=, you
+Turn ID=35| A | A : Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : and they're saying that , that , um , the , the way the law is written now , it seems like it's really confusing to people .
+	Free: Pattern=, it, Pattern=and, Pattern=they're, Pattern=is, Pattern=the, Pattern=to, Pattern=, the, Pattern=really, Pattern=like, Pattern=that ,, Pattern=now
+	Constrained: Pattern=that, Pattern=the, Pattern=it
+Turn ID=37| A | A : Uh-huh . Uh-huh , uh-huh . Well those travel magazines , are that , more or less , show you different countries that you could go to or ,
+	Free: Pattern=you, Pattern=go, Pattern=Well, Pattern=or, Pattern=to, Pattern=that, Pattern=those, Pattern=that ,
+	Constrained: Pattern=that
+Turn ID=38| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=39| A | A : Uh-huh . Uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : And , uh .
+	Free: Pattern=, uh, Pattern=And
+	Constrained: 
+Turn ID=41| A | A : Uh-huh , uh-huh . Okay . Well I don't know any other magazines I could talk to you about .
+	Free: Pattern=you, Pattern=any, Pattern=I, Pattern=know, Pattern=Well, Pattern=to, Pattern=Okay ., Pattern=I don't, Pattern=about
+	Constrained: Pattern=Okay, Pattern=I
+Turn ID=42| B | M : Well , I , uh , I like to read the , uh the , I read the NEW YORK TIMES and the WALL STREET JOURNAL .
+	Free: Pattern=, uh, Pattern=, I, Pattern=, I ,, Pattern=and, Pattern=I like, Pattern=Well, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=read, Pattern=I read
+	Constrained: Pattern=I ,, Pattern=, uh, Pattern=, I, Pattern=I, Pattern=like, Pattern=read
+Turn ID=43| A | A : Uh , I don't take anymore than that
+	Free: Pattern=, I don't, Pattern=that, Pattern=Uh
+	Constrained: Pattern=I don't, Pattern=, I, Pattern=I
+Turn ID=44| B | M : Uh .
+	Free: Pattern=Uh
+	Constrained: 
+Turn ID=45| A | A : You know , so .
+	Free: Pattern=know , so
+	Constrained: Pattern=, so, Pattern=know, Pattern=so
+Turn ID=46| B | M : Yeah , that's , that is true .
+	Free: Pattern=Yeah ,, Pattern=, that's, Pattern=that, Pattern=is
+	Constrained: Pattern=Yeah
+Turn ID=47| A | A : Well I guess that will be it then and ,
+	Free: Pattern=and ,, Pattern=it, Pattern=I guess, Pattern=Well, Pattern=that
+	Constrained: Pattern=I, Pattern=and
+Turn ID=48| B | M : Okay , well I guess we're ready to go .
+	Free: Pattern=, well I, Pattern=go, Pattern=Okay, Pattern=I guess, Pattern=to
+	Constrained: Pattern=I

@@ -1,0 +1,239 @@
+A|0| B: So , social changes aren't _that_ much for me either . 
+B|1| M: _Yeah _,_ that's_ true . 
+A|2| B: Well , yeah , _that_ . 
+B|3| M: _and ,_ uh , 
+A|4| B: _I think_ attitudes _are_ _more_ lax now _than_ _they_ used _to_ _be ._ 
+B|5| M: _Uh-huh ._ 
+A|6| B: [Uh-huh] , relaxed [and] laid back [and] stuff 
+B|7| M: _Yeah_ . 
+A|8| B: [and] . 
+B|9| M: _Yeah ,_ _I've_ seen _a lot_ _of_ change _, I think_ . 
+A|10| B: [I think] so . 
+B|11| M: _Yeah _, I think_ _that's_ ,_ uh , 
+A|12| B: [I think] so _, and_ [a lot] [, I think] people _are ,_ _are_ used _to_ now saying _what's_ , _what's_ on their minds _more_ _more_ up front _than_ _they_ used _to_ _be ._ 
+B|13| M: _Yeah_ . 
+A|14| B: _Right ._ 
+B|15| M:  !!! % !! RemindMe !! ets !! 
+A|16| B: [Yeah , I think] so . [I think] women have come out _more_ _too_ , on , on like child abuse [and _,] and_ the wife beatings , 
+B|17| M: Uh-hue . 
+A|18| B: [and] [and] like _you_ said , pro pro-choice [and] whatnot . 
+B|19| M: [Right .] [Right] [, I] agree _with_ [you] . 
+A|20| B: [I think that's] become _more_ outstanding _than_ it used _to_ _be_ where women [, I think] used _to_ _be_ [a] little bit afraid [of] coming out [and] saying something . 
+B|21| M: [Right .] 
+A|22| B: No , huh-uh . 
+B|23| M: _And_ [, _and] I _think_ that_ [that's] probably _going to_ happen . 
+A|24| B: [Right .] Well [, I] _know_ like when [I] was in high school [and] junior high [and] stuff [and] sitting down [and] having the sex talk [with] mom , [you] _know_ [and] all [that] stuff , 
+B|25| M: _Uh-huh ._ Uh-hue . 
+A|26| B: [and ,] [you] _know_ , we didn't have [to] talk about , well basically her thing was just _don't_ _do_ it , [you] _know_ 
+B|27| M: Uh . 
+A|28| B: _but _,_ I'm_ not _, I'm_ not naive , [to] [think that] my children _are_ not [going to] not _do_ it . 
+B|29| M: [Right .] 
+A|30| B: It wasn't [that] long [that] [I] was [that] young . 
+B|31| M: _Uh-huh ._ 
+A|32| B: [And] [I've] got [a] ten year old [, [and] ,] [you] _know_ , he _thought_ , he knows about condoms [, and] [and] he knows about AIDS , 
+B|33| M: _Uh-huh ._ 
+A|34| B: [and] _it's_ just different _things_ [you] have [to] talk [to] them about now [that] _you would_ never even have dreamt [to] have [to] say anything about . 
+B|35| M: [Right .] 
+A|36| B: [Uh-huh .] 
+B|37| M: [but ,] uh _, it's_ hard [to] [know] _what_ we're doing _because_ _I don't know_ [what's] [going to] happen . 
+A|38| B: No _, I don't_ [, I think that's] stupidity on parents' part . _I mean_ [that's ,] sex is rampant , 
+B|39| M: [Yeah] . 
+A|40| B: [and] it always will _be_ [, and] [and _I think] ,_ _too_ , noticing the kids , [that] the fourth [and] fifth graders , which is [what] my son is [and] stuff , _they_ , they're just , they're _more_ , they're very open . 
+B|41| M: Uh-uh . Uh-hue . 
+A|42| B: _I mean ,_ the boys _are_ very open [because] [that's [,] that's] all [I] have is boys , so [that's] all _I'm_ _around_ basically , is boys , 
+B|43| M: Uh-hues . 
+A|44| B: [but] _they_ talk about _things_ [that] _I ,_ my brother didn't talk about until he was in college [you] [know] , 
+B|45| M: [Right .] 
+A|46| B: [and [,] and] _they_ sit down [and] _they_ look at [you] right in the face [and] _they_ expect [a] truthful answer . 
+B|47| M: [Right .] 
+A|48| B: You can't get them , give them , the , oh , [you] [know] , Cabbage Patch answers [and] stuff . 
+B|49| M: [Right .] 
+A|50| B: They , _they_ , [that] just does not go . 
+B|51| M: _I think , I think_ [they] [are [,] [I] [,] _I don't] know_ . 
+A|52| B: [And] [they] can tell me , basically some _things_ [that] [I don't know] 
+B|53| M: [Uh-huh .] 
+A|54| B: But it [, it's] interesting , listening [to] them . [I think , I think] the social changes in them [, I think] [I] see it _more_ [with] [that] generation _than _I_ do_ [with] like our generation . 
+B|55| M: Uh _, I do too ._ 
+A|56| B: [Yeah [, I] do too .] 
+B|57| M: [I mean [,] I] don tinker [around] [with] [things] , [but] [I'm] [, I'm] [more] [than] likely [to] , you're [more] [than I] [thought] [you would] [be .] 
+A|58| B: [I] [know] , well , my son , the , my fourth grader , he is , 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : So , social changes aren't that much for me either .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=1| B | M : Yeah , that's true .
+	Free: Pattern=, that's, Pattern=Yeah ,
+	Constrained: Pattern=that's, Pattern=Yeah
+Turn ID=2| A | B : Well , yeah , that .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=3| B | M : and , uh ,
+	Free: Pattern=and ,
+	Constrained: Pattern=and
+Turn ID=4| A | B : I think attitudes are more lax now than they used to be .
+	Free: Pattern=more, Pattern=they, Pattern=are, Pattern=than, Pattern=I think, Pattern=be ., Pattern=to
+	Constrained: Pattern=I, Pattern=be
+Turn ID=5| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=6| A | B : Uh-huh , relaxed and laid back and stuff
+	Free: Pattern=Uh-huh, Pattern=and
+	Constrained: 
+Turn ID=7| B | M : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=8| A | B : and .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=9| B | M : Yeah , I've seen a lot of change , I think .
+	Free: Pattern=of, Pattern=I've, Pattern=, I think, Pattern=Yeah ,, Pattern=a lot
+	Constrained: Pattern=I, Pattern=I think, Pattern=Yeah, Pattern=, I, Pattern=a
+Turn ID=10| A | B : I think so .
+	Free: Pattern=I think
+	Constrained: Pattern=I
+Turn ID=11| B | M : Yeah , I think that's , uh ,
+	Free: Pattern=, I think that's, Pattern=Yeah , I think, Pattern=that's ,
+	Constrained: Pattern=, I, Pattern=Yeah , I, Pattern=I, Pattern=that's, Pattern=Yeah ,, Pattern=Yeah, Pattern=I think, Pattern=I think that's, Pattern=, I think
+Turn ID=12| A | B : I think so , and a lot , I think people are , are used to now saying what's , what's on their minds more more up front than they used to be .
+	Free: Pattern=more, Pattern=they, Pattern=are, Pattern=than, Pattern=what's, Pattern=be ., Pattern=are ,, Pattern=I think, Pattern=, I think, Pattern=a lot, Pattern=, and, Pattern=to
+	Constrained: Pattern=and, Pattern=, I, Pattern=a, Pattern=are, Pattern=I, Pattern=I think, Pattern=be
+Turn ID=13| B | M : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=14| A | B : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=15| B | M :  !!! % !! RemindMe !! ets !!
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : Yeah , I think so . I think women have come out more too , on , on like child abuse and , and the wife beatings ,
+	Free: Pattern=more, Pattern=Yeah , I think, Pattern=and ,, Pattern=too, Pattern=I think, Pattern=, and
+	Constrained: Pattern=, I, Pattern=I, Pattern=Yeah ,, Pattern=Yeah, Pattern=and, Pattern=Yeah , I, Pattern=I think, Pattern=, I think
+Turn ID=17| B | M : Uh-hue .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : and and like you said , pro pro-choice and whatnot .
+	Free: Pattern=you, Pattern=and
+	Constrained: 
+Turn ID=19| B | M : Right . Right , I agree with you .
+	Free: Pattern=you, Pattern=, I, Pattern=Right, Pattern=Right ., Pattern=with
+	Constrained: Pattern=I, Pattern=Right
+Turn ID=20| A | B : I think that's become more outstanding than it used to be where women , I think used to be a little bit afraid of coming out and saying something .
+	Free: Pattern=a, Pattern=and, Pattern=than, Pattern=to, Pattern=of, Pattern=more, Pattern=I think that's, Pattern=, I think, Pattern=be
+	Constrained: Pattern=that's, Pattern=, I, Pattern=I, Pattern=I think
+Turn ID=21| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=22| A | B : No , huh-uh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : And , and I think that that's probably going to happen .
+	Free: Pattern=going to, Pattern=And, Pattern=think that, Pattern=and I think, Pattern=that's, Pattern=, and
+	Constrained: Pattern=and, Pattern=I, Pattern=I think, Pattern=to, Pattern=that
+Turn ID=24| A | B : Right . Well , I know like when I was in high school and junior high and stuff and sitting down and having the sex talk with mom , you know and all that stuff ,
+	Free: Pattern=you, Pattern=, I, Pattern=and, Pattern=I, Pattern=know, Pattern=Right ., Pattern=with, Pattern=that
+	Constrained: Pattern=I, Pattern=Right
+Turn ID=25| B | M : Uh-huh . Uh-hue .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=26| A | B : and , you know , we didn't have to talk about , well basically her thing was just don't do it , you know
+	Free: Pattern=you, Pattern=and ,, Pattern=do, Pattern=know, Pattern=don't, Pattern=to
+	Constrained: Pattern=and
+Turn ID=27| B | M : Uh .
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : but , I'm not , I'm not naive , to think that my children are not going to not do it .
+	Free: Pattern=going to, Pattern=but ,, Pattern=do, Pattern=are, Pattern=think that, Pattern=to, Pattern=, I'm
+	Constrained: Pattern=but, Pattern=I'm, Pattern=that, Pattern=to
+Turn ID=29| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=30| A | B : It wasn't that long that I was that young .
+	Free: Pattern=that, Pattern=I
+	Constrained: 
+Turn ID=31| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=32| A | B : And I've got a ten year old , and , you know , he thought , he knows about condoms , and and he knows about AIDS ,
+	Free: Pattern=I've, Pattern=you, Pattern=And, Pattern=and ,, Pattern=a, Pattern=and, Pattern=know, Pattern=, and, Pattern=thought
+	Constrained: Pattern=and
+Turn ID=33| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=34| A | B : and it's just different things you have to talk to them about now that you would never even have dreamt to have to say anything about .
+	Free: Pattern=you, Pattern=and, Pattern=things, Pattern=to, Pattern=you would, Pattern=that, Pattern=it's
+	Constrained: Pattern=you
+Turn ID=35| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=36| A | B : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=37| B | M : but , uh , it's hard to know what we're doing because I don't know what's going to happen .
+	Free: Pattern=going to, Pattern=because, Pattern=, it's, Pattern=I don't know, Pattern=know, Pattern=what's, Pattern=to, Pattern=but ,, Pattern=what
+	Constrained: Pattern=I, Pattern=know, Pattern=don't, Pattern=to, Pattern=it's, Pattern=but
+Turn ID=38| A | B : No , I don't , I think that's stupidity on parents' part . I mean that's , sex is rampant ,
+	Free: Pattern=, I think that's, Pattern=, I don't, Pattern=I mean, Pattern=that's ,
+	Constrained: Pattern=, I, Pattern=I, Pattern=that's, Pattern=don't, Pattern=I think, Pattern=I think that's, Pattern=, I think
+Turn ID=39| B | M : Yeah .
+	Free: Pattern=Yeah
+	Constrained: 
+Turn ID=40| A | B : and it always will be , and and I think , too , noticing the kids , that the fourth and fifth graders , which is what my son is and stuff , they , they're just , they're more , they're very open .
+	Free: Pattern=more, Pattern=I think ,, Pattern=and I think, Pattern=be, Pattern=, and, Pattern=that, Pattern=what, Pattern=they, Pattern=and, Pattern=too
+	Constrained: Pattern=I, Pattern=I think, Pattern=and
+Turn ID=41| B | M : Uh-uh . Uh-hue .
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : I mean , the boys are very open because that's , that's all I have is boys , so that's all I'm around basically , is boys ,
+	Free: Pattern=I'm, Pattern=because, Pattern=around, Pattern=that's ,, Pattern=I mean ,, Pattern=that's, Pattern=, that's, Pattern=are, Pattern=I
+	Constrained: Pattern=that's, Pattern=I mean, Pattern=I
+Turn ID=43| B | M : Uh-hues .
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : but they talk about things that I , my brother didn't talk about until he was in college you know ,
+	Free: Pattern=I ,, Pattern=you, Pattern=they, Pattern=things, Pattern=know, Pattern=that, Pattern=but
+	Constrained: Pattern=I
+Turn ID=45| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=46| A | B : and , and they sit down and they look at you right in the face and they expect a truthful answer .
+	Free: Pattern=you, Pattern=and ,, Pattern=they, Pattern=a, Pattern=and, Pattern=, and
+	Constrained: Pattern=and
+Turn ID=47| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=48| A | B : You can't get them , give them , the , oh , you know , Cabbage Patch answers and stuff .
+	Free: Pattern=you, Pattern=know, Pattern=and
+	Constrained: 
+Turn ID=49| B | M : Right .
+	Free: Pattern=Right .
+	Constrained: Pattern=Right
+Turn ID=50| A | B : They , they , that just does not go .
+	Free: Pattern=that, Pattern=they
+	Constrained: 
+Turn ID=51| B | M : I think , I think they are , I , I don't know .
+	Free: Pattern=I ,, Pattern=they, Pattern=, I, Pattern=are ,, Pattern=I think , I think, Pattern=, I don't, Pattern=I don't know
+	Constrained: Pattern=I think ,, Pattern=, I, Pattern=know, Pattern=don't, Pattern=are, Pattern=I, Pattern=I think, Pattern=, I think
+Turn ID=52| A | B : And they can tell me , basically some things that I don't know
+	Free: Pattern=And, Pattern=they, Pattern=things, Pattern=I don't know, Pattern=that
+	Constrained: Pattern=know, Pattern=I, Pattern=don't
+Turn ID=53| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: Pattern=Uh-huh
+Turn ID=54| A | B : But it , it's interesting , listening to them . I think , I think the social changes in them , I think I see it more with that generation than I do with like our generation .
+	Free: Pattern=more, Pattern=I, Pattern=, it's, Pattern=, I think, Pattern=I do, Pattern=than I, Pattern=I think , I think, Pattern=to, Pattern=with, Pattern=that
+	Constrained: Pattern=I think ,, Pattern=I, Pattern=than, Pattern=it's, Pattern=do, Pattern=, I, Pattern=I think, Pattern=, I think
+Turn ID=55| B | M : Uh , I do too .
+	Free: Pattern=, I do too .
+	Constrained: Pattern=too, Pattern=I, Pattern=I do, Pattern=do, Pattern=, I
+Turn ID=56| A | B : Yeah , I do too .
+	Free: Pattern=, I do too ., Pattern=Yeah , I
+	Constrained: Pattern=too, Pattern=I, Pattern=I do, Pattern=Yeah ,, Pattern=Yeah, Pattern=do, Pattern=, I
+Turn ID=57| B | M : I mean , I don tinker around with things , but I'm , I'm more than likely to , you're more than I thought you would be .
+	Free: Pattern=more, Pattern=I'm, Pattern=, I, Pattern=around, Pattern=than I, Pattern=things, Pattern=than, Pattern=I mean ,, Pattern=be ., Pattern=, I'm, Pattern=you would, Pattern=thought, Pattern=to, Pattern=with, Pattern=but
+	Constrained: Pattern=I, Pattern=than, Pattern=you, Pattern=I'm, Pattern=I mean, Pattern=be
+Turn ID=58| A | B : I know , well , my son , the , my fourth grader , he is ,
+	Free: Pattern=I, Pattern=know
+	Constrained: 

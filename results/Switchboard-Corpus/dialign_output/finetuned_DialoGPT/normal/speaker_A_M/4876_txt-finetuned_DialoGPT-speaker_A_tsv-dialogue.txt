@@ -1,0 +1,195 @@
+B|0| M: _Huh ._ 
+A|1| A: [Huh .] 
+B|2| M: _I mean_ , _we_ had _one_ _child_ _that_ _I_ was going _to_ school with _that_ _I_ had never even met before , _and_ , _and_ he was _the_ best , uh _child care_ provider I've ever had in _my_ life . 
+A|3| A: [Huh .] 
+B|4| M: _But_ , uh 
+A|5| A: _Oh _,_ well_ _that's_ interesting . 
+B|6| M: _Yeah ._ 
+A|7| A: _Oh , my_ God . 
+B|8| M:  !!! % !! Remind me !! ets !! ; !! FUN !! 
+A|9| A: Well _you_ must have _a ,_ _just_ [one] hero ace professional job [to] support something _like_ [that] . 
+B|10| M: _Uh-huh ._ 
+A|11| A: _Oh _,_ well _,_ yeah_ 
+B|12| M: So , uh , 
+A|13| A: [Uh-huh .] 
+B|14| M: _And_ _I_ , _I_ felt _very_ strong about it _. But_ , uh . 
+A|15| A: Well , _not_ , _not_ all _of_ us . You _know_ _what_ [the] kind _of_ things you're supposed [to] look _for_ . _I'm_ an engineer . 
+B|16| M: [Oh ,] okay . 
+A|17| A: _And ,_ 
+B|18| M: _I_ think , _I_ think they're , they're [a] lot better than T _I_ . 
+A|19| A: [Uh-huh .] 
+B|20| M: _and_ , uh _we_ had , uh [a ,] [a] couple [of] dorms [that] were [like] , uh [one] was [a] biology building , [one] was , uh [the] biology building _and_ [one] was [the] nursing building _and_ then [the] science building , 
+A|21| A: [Yeah .] 
+B|22| M: [And ,] uh _and_ then , [of] course , _you know ,_ there's also [the] fact _that ,_ uh . 
+A|23| A: Five hundred _dollars_ _a week_ . For two kids . 
+B|24| M: [And] _they_ _, they_ didn't learn anything . 
+A|25| A: That's incredible . 
+B|26| M: _But_ , uh , _you know ,_ _we_ had , uh [a] friend [of] ours who was teaching [for] [a] while _and_ , uh she was paid [, well ,] actually _I_ think she was twice [a week] 
+A|27| A: [Oh ,] oh . 
+B|28| M: So [, yeah] , _we_ , _we_ were real lucky because , um [, my] husband _and_ _I_ both work _and_ , um . 
+A|29| A: Well . 
+B|30| M: _so_ [I'm] [not] sure [what] _I_ would do without them . 
+A|31| A: [Yeah .] 
+B|32| M: _and_ , 
+A|33| A: You [know [,] they] could , somebody will have [a] job at three hundred [a week] [to] get off welfare [and] [you know ,] _that's_ [a] good starting wage 
+B|34| M: [Yeah] , _I_ [know] . 
+A|35| A: but boy three hundred _dollars_ [a week] doesn't go [very] far on [child care] . 
+B|36| M: Right . 
+A|37| A: [Huh .] 
+B|38| M: [and] _I_ think [that's] probably [a] big problem . 
+A|39| A: [I mean] [we] used [to] pay , pay fifty cents an hour [to] baby-sit [. But] mine are twenty-two , twenty-three [and] twenty-seven [so] [you know ,] [that ,] 
+B|40| M: [Oh , my] goodness . 
+A|41| A: [I] guess baby-sitters now are up at , [what] , _five dollars_ an hour ? 
+B|42| M: [Yeah] , it's [five dollars] . 
+A|43| A: [Oh] [my] . 
+B|44| M: [And] [they] [just] , [you know] . 
+A|45| A: [Uh-huh .] 
+B|46| M: [And ,] uh . 
+A|47| A: [Oh [,] yeah] . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : Huh .
+	Free: Pattern=Huh .
+	Constrained: 
+Turn ID=1| A | A : Huh .
+	Free: Pattern=Huh .
+	Constrained: 
+Turn ID=2| B | M : I mean , we had one child that I was going to school with that I had never even met before , and , and he was the best , uh child care provider I've ever had in my life .
+	Free: Pattern=and, Pattern=we, Pattern=child care, Pattern=I mean, Pattern=the, Pattern=child, Pattern=to, Pattern=my, Pattern=that, Pattern=one, Pattern=I
+	Constrained: Pattern=child, Pattern=I
+Turn ID=3| A | A : Huh .
+	Free: Pattern=Huh .
+	Constrained: 
+Turn ID=4| B | M : But , uh
+	Free: Pattern=But
+	Constrained: 
+Turn ID=5| A | A : Oh , well that's interesting .
+	Free: Pattern=Oh ,, Pattern=, well, Pattern=that's
+	Constrained: Pattern=Oh
+Turn ID=6| B | M : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=7| A | A : Oh , my God .
+	Free: Pattern=Oh , my
+	Constrained: Pattern=Oh ,, Pattern=, my, Pattern=my, Pattern=Oh
+Turn ID=8| B | M :  !!! % !! Remind me !! ets !! ; !! FUN !!
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : Well you must have a , just one hero ace professional job to support something like that .
+	Free: Pattern=a ,, Pattern=you, Pattern=just, Pattern=one, Pattern=like, Pattern=to, Pattern=that
+	Constrained: Pattern=a
+Turn ID=10| B | M : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=11| A | A : Oh , well , yeah
+	Free: Pattern=, well ,, Pattern=Oh ,, Pattern=, yeah
+	Constrained: Pattern=, well, Pattern=Oh
+Turn ID=12| B | M : So , uh ,
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=14| B | M : And I , I felt very strong about it . But , uh .
+	Free: Pattern=. But, Pattern=I, Pattern=And, Pattern=very
+	Constrained: Pattern=But
+Turn ID=15| A | A : Well , not , not all of us . You know what the kind of things you're supposed to look for . I'm an engineer .
+	Free: Pattern=of, Pattern=I'm, Pattern=what, Pattern=for, Pattern=know, Pattern=the, Pattern=to, Pattern=not
+	Constrained: 
+Turn ID=16| B | M : Oh , okay .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=17| A | A : And ,
+	Free: Pattern=And ,
+	Constrained: Pattern=And
+Turn ID=18| B | M : I think , I think they're , they're a lot better than T I .
+	Free: Pattern=I, Pattern=a
+	Constrained: 
+Turn ID=19| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=20| B | M : and , uh we had , uh a , a couple of dorms that were like , uh one was a biology building , one was , uh the biology building and one was the nursing building and then the science building ,
+	Free: Pattern=a ,, Pattern=of, Pattern=a, Pattern=and, Pattern=one, Pattern=the, Pattern=that, Pattern=we, Pattern=like
+	Constrained: Pattern=a
+Turn ID=21| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=22| B | M : And , uh and then , of course , you know , there's also the fact that , uh .
+	Free: Pattern=and, Pattern=the, Pattern=that ,, Pattern=And ,, Pattern=of, Pattern=you know ,
+	Constrained: Pattern=know ,, Pattern=And, Pattern=know, Pattern=that, Pattern=you, Pattern=you know
+Turn ID=23| A | A : Five hundred dollars a week . For two kids .
+	Free: Pattern=a week, Pattern=dollars
+	Constrained: Pattern=a
+Turn ID=24| B | M : And they , they didn't learn anything .
+	Free: Pattern=, they, Pattern=And, Pattern=they
+	Constrained: Pattern=they
+Turn ID=25| A | A : That's incredible .
+	Free: 
+	Constrained: 
+Turn ID=26| B | M : But , uh , you know , we had , uh a friend of ours who was teaching for a while and , uh she was paid , well , actually I think she was twice a week
+	Free: Pattern=, well ,, Pattern=a, Pattern=for, Pattern=and, Pattern=I, Pattern=But, Pattern=we, Pattern=a week, Pattern=of, Pattern=you know ,
+	Constrained: Pattern=, well, Pattern=know ,, Pattern=a, Pattern=know, Pattern=you, Pattern=you know
+Turn ID=27| A | A : Oh , oh .
+	Free: Pattern=Oh ,
+	Constrained: Pattern=Oh
+Turn ID=28| B | M : So , yeah , we , we were real lucky because , um , my husband and I both work and , um .
+	Free: Pattern=and, Pattern=I, Pattern=, yeah, Pattern=we, Pattern=, my
+	Constrained: Pattern=my
+Turn ID=29| A | A : Well .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : so I'm not sure what I would do without them .
+	Free: Pattern=I'm, Pattern=what, Pattern=I, Pattern=so, Pattern=not
+	Constrained: 
+Turn ID=31| A | A : Yeah .
+	Free: Pattern=Yeah .
+	Constrained: Pattern=Yeah
+Turn ID=32| B | M : and ,
+	Free: Pattern=and
+	Constrained: 
+Turn ID=33| A | A : You know , they could , somebody will have a job at three hundred a week to get off welfare and you know , that's a good starting wage
+	Free: Pattern=, they, Pattern=a, Pattern=and, Pattern=that's, Pattern=to, Pattern=a week, Pattern=know ,, Pattern=you know ,
+	Constrained: Pattern=know ,, Pattern=they, Pattern=a, Pattern=know, Pattern=you, Pattern=you know
+Turn ID=34| B | M : Yeah , I know .
+	Free: Pattern=I, Pattern=know, Pattern=Yeah
+	Constrained: 
+Turn ID=35| A | A : but boy three hundred dollars a week doesn't go very far on child care .
+	Free: Pattern=a week, Pattern=child care, Pattern=dollars, Pattern=very
+	Constrained: Pattern=child, Pattern=a
+Turn ID=36| B | M : Right .
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : Huh .
+	Free: Pattern=Huh .
+	Constrained: 
+Turn ID=38| B | M : and I think that's probably a big problem .
+	Free: Pattern=that's, Pattern=I, Pattern=a, Pattern=and
+	Constrained: 
+Turn ID=39| A | A : I mean we used to pay , pay fifty cents an hour to baby-sit . But mine are twenty-two , twenty-three and twenty-seven so you know , that ,
+	Free: Pattern=you know ,, Pattern=. But, Pattern=and, Pattern=we, Pattern=I mean, Pattern=to, Pattern=that ,, Pattern=so
+	Constrained: Pattern=know ,, Pattern=I, Pattern=But, Pattern=know, Pattern=that, Pattern=you, Pattern=you know
+Turn ID=40| B | M : Oh , my goodness .
+	Free: Pattern=Oh , my
+	Constrained: Pattern=Oh ,, Pattern=, my, Pattern=my, Pattern=Oh
+Turn ID=41| A | A : I guess baby-sitters now are up at , what , five dollars an hour ?
+	Free: Pattern=five dollars, Pattern=I, Pattern=what
+	Constrained: Pattern=dollars
+Turn ID=42| B | M : Yeah , it's five dollars .
+	Free: Pattern=five dollars, Pattern=Yeah
+	Constrained: Pattern=dollars
+Turn ID=43| A | A : Oh my .
+	Free: Pattern=my, Pattern=Oh
+	Constrained: 
+Turn ID=44| B | M : And they just , you know .
+	Free: Pattern=you know, Pattern=And, Pattern=they, Pattern=just
+	Constrained: Pattern=know, Pattern=you
+Turn ID=45| A | A : Uh-huh .
+	Free: Pattern=Uh-huh .
+	Constrained: 
+Turn ID=46| B | M : And , uh .
+	Free: Pattern=And ,
+	Constrained: Pattern=And
+Turn ID=47| A | A : Oh , yeah .
+	Free: Pattern=Oh ,, Pattern=, yeah
+	Constrained: Pattern=Oh
