@@ -1,3 +1,4 @@
+import os
 from utilities import create_result_directories, test_all, get_dataset_settings
 from transformers import AutoModelWithLMHead, AutoTokenizer
 
@@ -6,10 +7,10 @@ dataset = "Maptask-Corpus"
 model_type = "base"
 
 models_list = ["DialoGPT"]
-model_res_dict = create_result_directories(models_list, to_local_directory=True, dataset="Maptask-Corpus", model_type="base", speakers=["f", "g"])
 
 # data_dir = './external/Switchboard-Corpus/swda_data/test/'
 test_dir, speakers = get_dataset_settings(dataset)
+model_res_dict = create_result_directories(models_list, to_local_directory=True, dataset=dataset, model_type="base", speakers=speakers)
 
 for model_name in models_list:
   full_model_name = model_type + "_" + model_name
