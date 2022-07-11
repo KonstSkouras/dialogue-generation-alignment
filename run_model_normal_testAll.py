@@ -1,12 +1,24 @@
-from utilities import create_result_directories, test_all
+from utilities import create_result_directories, test_all, get_dataset_settings
 from transformers import AutoModelWithLMHead, AutoTokenizer
 
-tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
-model = AutoModelWithLMHead.from_pretrained("microsoft/DialoGPT-small")
+# dataset = "Switchboard-Corpus"
+dataset = "Maptask-Corpus"
+model_type = "base"
 
 models_list = ["DialoGPT"]
-model_res_dict = create_result_directories(models_list)
+model_res_dict = create_result_directories(models_list, to_local_directory=True, dataset="Maptask-Corpus", model_type="base", speakers=["f", "g"])
 
-data_dir = './external/Switchboard-Corpus/swda_data/test/'
+# data_dir = './external/Switchboard-Corpus/swda_data/test/'
+test_dir, speakers = get_dataset_settings(dataset)
 
-test_all(model, 'DialoGPT', tokenizer, model_res_dict, verbose = False, data_dir = data_dir)
+for model_name in models_list:
+  full_model_name = model_type + "_" + model_name
+  directory_c_csv = model_res_dict[full_model_name]["directory_c_csv"]
+
+  if(len(os.listdir(directory_c_csv)) > 1):
+    print("Output directory:", directory_c_csv)
+    print("Output directory is not empty. Clear the directory before running the experiment.")
+  else:
+    model = AutoModelWithLMHead.from_pretrained("microsoft/DialoGPT-small")
+    tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
+    test_all(model, model_name, model_type, tokenizer, model_res_dict, verbose = False, data_dir = test_dir, speakers=speakers)
