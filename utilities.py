@@ -3,10 +3,11 @@ import os
 from io import StringIO
 import csv
 import pandas as pd
-from collections import namedtuple
+from collections import namedtuple, Counter
 import random
 import itertools
 from datetime import datetime
+import spacy
 
 
 HISTORY_CONTEXT_LENGTH = 5
@@ -21,11 +22,11 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
   if to_local_directory:
     res_directory = "./results/" + dataset + "/experiments/"
     data_directory = "./results/" + dataset + "/data_modified/"
-    stats_directory = "./results/" + dataset + "/statistics/"
+    stats_directory = "./statistics/" + dataset + "/"
   else:
     res_directory = "/content/results/" + dataset + "/experiments/" 
     data_directory = "/content/results/" + dataset + "/data_modified/"
-    stats_directory = "/content/results/" + dataset + "/statistics/"
+    stats_directory = "/content/statistics/" + dataset + "/"
 
 
   create_directory_safe(res_directory)
@@ -37,6 +38,8 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
     res_dict = {}
     full_model_name = model_type + "_" + model_name
     # Create Model directory
+    if (model_name == "human" and model_type == "finetuned"):
+      continue
     model_directory = res_directory + full_model_name + "/"
     model_stats_directory = stats_directory + full_model_name + "/"
 
@@ -569,3 +572,60 @@ def get_dialogue_uttr_dict_from_csv(source_csv_dir):
     d_dict[csv_file] = d_uttr_list
   return d_dict
 
+
+""" ## Expression Evaluation - Output Statistics"""
+def get_responses_list_from_contexed_dir(data_dir):
+  total_pred_list = []
+
+  for csv_file in os.listdir(data_dir):
+    df = pd.read_csv(data_dir+csv_file)
+    df.fillna('', inplace=True)
+    pred_list = df.response.tolist()
+    total_pred_list.append(pred_list)
+    
+  # from: https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-list-of-lists
+  flatten = lambda l: [item for sublist in total_pred_list for item in sublist]
+
+  flatten_list = flatten(total_pred_list)
+  return flatten_list
+
+def create_postags_df(doc):
+  Item = namedtuple('Item', 'id tag count')
+  items = []
+
+  num_pos = doc.count_by(spacy.attrs.POS)
+  for k,v in sorted(num_pos.items()):
+    print(f'{k}. {doc.vocab[k].text:{8}}: {v}')
+    id = k
+    tag = doc.vocab[k].text
+    count = v
+    items.append(Item(id, tag, count))
+
+  df = pd.DataFrame.from_records(items, columns=['ID', 'Tag', 'Count'])
+  return df
+
+def create_word_freq_df(words_list):
+  word_freq = Counter(words_list)
+       
+  word_freq_df = pd.DataFrame.from_dict(word_freq, orient='index').reset_index()
+  word_freq_df.columns = ['Word', 'Count']
+  word_freq_df.sort_values('Count', ascending=False, ignore_index=True, inplace=True)
+
+  return word_freq_df
+
+def create_word_concrete_df(word_df, concrete_df):  
+  df_word_lower = word_df.copy()
+  df_word_lower['Word'] = df_word_lower['Word'].str.lower()
+
+  word_lower_list = df_word_lower['Word'].to_list()
+  concrete_dict = concrete_df.set_index('Word')['Conc.M'].to_dict() 
+  
+  word_concrete_dict = {}
+  for word in word_lower_list:
+    # set default value to 0 if word doesn't exist
+    word_concrete_dict[word] = concrete_dict.get(word,0)
+
+  df = pd.DataFrame.from_dict(word_concrete_dict, orient='index')
+  df.reset_index(inplace=True)
+  df.columns = ['Word', 'Conc.M']
+  return df
