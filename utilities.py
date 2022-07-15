@@ -21,12 +21,16 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
   if to_local_directory:
     res_directory = "./results/" + dataset + "/experiments/"
     data_directory = "./results/" + dataset + "/data_modified/"
+    stats_directory = "./results/" + dataset + "/statistics/"
   else:
     res_directory = "/content/results/" + dataset + "/experiments/" 
-    data_directory = "/content/" + dataset + "/data_modified/"
+    data_directory = "/content/results/" + dataset + "/data_modified/"
+    stats_directory = "/content/results/" + dataset + "/statistics/"
+
 
   create_directory_safe(res_directory)
   create_directory_safe(data_directory)
+  create_directory_safe(stats_directory)
 
   model_res_dict = {}
   for model_name in models_list:
@@ -34,9 +38,13 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
     full_model_name = model_type + "_" + model_name
     # Create Model directory
     model_directory = res_directory + full_model_name + "/"
+    model_stats_directory = stats_directory + full_model_name + "/"
+
     res_dict["model_directory"] = model_directory
+    res_dict["model_stats_directory"] = model_stats_directory
     # directory = "/content/Switchboard-Corpus/results/base_DialoGPT/"
     create_directory_safe(model_directory)
+    create_directory_safe(model_stats_directory)
 
     # Create contexed_csv directorie(s).
     directory_c_csv = model_directory + "contexed_csv/"
@@ -272,6 +280,24 @@ def create_contexted_df(input_df, n=HISTORY_CONTEXT_LENGTH):
   columns = columns + ['context/'+str(i) for i in range(n-1)]
   df = pd.DataFrame.from_records(contexted, columns=columns)
   return df
+
+def create_contexted_csv_all(data_dir, 
+                            output_dirs, 
+                            model_name="human", 
+                            model_type="base", 
+                            n=HISTORY_CONTEXT_LENGTH):
+ 
+  full_model_name = model_type + "_" + model_name
+  directory_c_csv = output_dirs[full_model_name]["directory_c_csv"]
+
+  for txt_file in os.listdir(data_dir):
+    df_test = create_dataframe_from_txt(data_dir+txt_file)
+    df_test_contexted = create_contexted_df(df_test, n)
+    
+    txt_file = txt_file.replace(".", "_")
+    filename = txt_file + '-' + full_model_name + '-contexted_' + str(n) + '.csv'
+    
+    df_test_contexted.to_csv(directory_c_csv + filename)
 
 """Test model (DialogGPT, GPT2 etc) for 5 User inputs. Uncomment to try."""
 
