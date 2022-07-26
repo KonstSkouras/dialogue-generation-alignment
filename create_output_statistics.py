@@ -11,8 +11,8 @@ models_list = ["human", "DialoGPT"]
 model_types_list=["base", "finetuned"]
 
 do_pos_tags = True
-do_word_freq = True
-do_word_conc = True
+do_word_freq = False
+do_word_conc = False
 
 for dataset in dataset_list:
   print("Processing Dataset:", dataset)
@@ -39,6 +39,7 @@ for dataset in dataset_list:
         if do_pos_tags:
           print("1. Creating pos tags..")
           postags_df = create_postags_df(doc)
+          postags_df["Percentage"] = postags_df.Count / postags_df.Count.sum()
           output_name = "responses_postags.csv"
           postags_df.to_csv(stats_directory + output_name)
 
