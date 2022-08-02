@@ -6,9 +6,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	have a	65	M	11, 73, 75
 3	2	i have	35	M	25, 55, 59
 3	2	to the	57	M	11, 41, 67
-2	2	I don't	69	M	5, 73
 2	2	at the	3	M	67, 69
 2	2	go back	33	M	41, 73
+2	2	i don't	69	M	5, 73
+2	2	is it	31	M	39, 69
 2	2	know what	3	M	5, 7
 2	2	of the	39	M	29, 67
 2	2	the caravan	9	M	29, 37
@@ -18,15 +19,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	you can	51	M	17, 67
 19	1	the	87	M	3, 9, 11, 13, 15, 19, 21, 23, 29, 37, 41, 45, 51, 53, 67, 69, 77, 81, 89
 14	1	you	85	M	3, 7, 13, 17, 45, 49, 61, 63, 67, 75, 77, 79, 83, 87
+11	1	i	69	M	5, 7, 9, 25, 27, 37, 43, 55, 59, 63, 73
 9	1	do	79	M	3, 23, 27, 45, 63, 73, 75, 79, 81
-9	1	i	57	M	7, 9, 25, 27, 37, 43, 55, 59, 63
 8	1	a	75	M	11, 47, 51, 67, 73, 75, 77, 85
 8	1	to	71	M	11, 41, 61, 63, 67, 73, 77, 81
 7	1	right	69	M	13, 17, 51, 57, 65, 67, 81
 6	1	it	65	M	17, 39, 51, 59, 69, 81
+5	1	is	65	M	5, 9, 15, 39, 69
 5	1	that	69	M	5, 7, 63, 67, 73
 4	1	are	51	M	21, 49, 53, 71
-4	1	is	65	M	5, 9, 15, 69
 4	1	know	13	M	5, 7, 9, 17
 4	1	what	59	M	5, 7, 61, 63
 3	1	and	55	M	19, 29, 73
@@ -39,6 +40,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	down	49	M	19, 67
 2	1	going	15	M	49, 63
 2	1	gone	35	M	19, 53
+2	1	it's	5	M	47, 51
 2	1	just	31	M	17, 47
 2	1	left	23	M	29, 51
 2	1	map	7	M	45, 51

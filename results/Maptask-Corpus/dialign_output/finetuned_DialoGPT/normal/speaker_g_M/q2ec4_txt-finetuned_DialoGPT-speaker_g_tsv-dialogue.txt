@@ -76,7 +76,7 @@ A|74| M: [uh-huh]
 B|75| g: or _a swamp_ [to] its [left] 
 A|76| M: [well i've] [not] [got [a] swamp] where's [your] [swamp] 
 B|77| g: [to] its [left] [well] that's [a] [a] _stone_ ss 
-A|78| M: " !!! ' !!! ' !! "" !! 2 !! 8 !! 4 !! 7 !! 6 !! 88 !! Slay [the] forked stream [right you've got] [to go] [all] [the way] [down] there" 
+A|78| M: " !!! ' !!! ' !! "" !! 2 !! 8 !! 4 !! 7 !! 6 !! 88 !! slay [the] forked stream [right you've got] [to go] [all] [the way] [down] there" 
 B|79| g: oh [no] aye [yeah] [you] don't [have] _like_ [above the] [the] rapids [to] its _slightly to_ its [right] [you] don't [have] [a] _stone_ creek 
 A|80| M: [no] 
 B|81| g: [no] [well] take [your] line [right] [down] [to] [your] rapids which is [my] _white water_ [and] _just like_ 
@@ -400,7 +400,7 @@ Turn ID=76| A | M : well i've not got a swamp where's your swamp
 Turn ID=77| B | g : to its left well that's a a stone ss
 	Free: Pattern=well, Pattern=a, Pattern=left, Pattern=stone, Pattern=to
 	Constrained: 
-Turn ID=78| A | M : " !!! ' !!! ' !! "" !! 2 !! 8 !! 4 !! 7 !! 6 !! 88 !! Slay the forked stream right you've got to go all the way down there"
+Turn ID=78| A | M : " !!! ' !!! ' !! "" !! 2 !! 8 !! 4 !! 7 !! 6 !! 88 !! slay the forked stream right you've got to go all the way down there"
 	Free: Pattern=right you've got, Pattern=down, Pattern=the way, Pattern=to go, Pattern=the, Pattern=all
 	Constrained: Pattern=right, Pattern=you've, Pattern=the, Pattern=to, Pattern=go, Pattern=you've got
 Turn ID=79| B | g : oh no aye yeah you don't have like above the the rapids to its slightly to its right you don't have a stone creek

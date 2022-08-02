@@ -10,9 +10,9 @@ A|8| M: [right]
 B|9| f: [right] 
 A|10| M: _and_ _then_ [go] up 
 B|11| f: [east] over [the] footbridge 
-A|12| M: " !!!!,!! ' !! "" !! 2018 !! 2019 !! 2020 !! 2017 !! 2018 !! 4 !! 8 !! 6 !! 7 !! 88 !!!.!! 86 !! 886 !! 84 !!,!! 889 !! 888 !! 89 !! " 
+A|12| M: " !!!!!! ' !! "" !! 2018 !! 2019 !! 2020 !! 2017 !! 2018 !! 4 !! 8 !! 6 !! 7 !! 88 !!!.!! 86 !! 886 !! 84 !!!! 889 !! 888 !! 89 !! " 
 B|13| f: [right] 
-A|14| M: " !!! "" !! ' !! Siri !! [okay] !!! ' !! 2 !! " 
+A|14| M: " !!! "" !! ' !! siri !! [okay] !!! ' !! 2 !! " 
 B|15| f: _no_ 
 A|16| M: [no] [okay] _go down_ _about_ an _inch_ _and_ _a_ half 
 B|17| f: _two inches_ [right] 
@@ -32,7 +32,7 @@ A|30| M: [right] you're _going_ [to _go] down_ slightly _from_ that _and_ _then_
 B|31| f: _so_ this is [about] [a] _ten_ [inch] _line from_ [the] _where_ i am _just now_ 
 A|32| M: _uh-huh_ [ten] [about] twelve centimetres 
 B|33| f: [right] _aye_ 
-A|34| M: " !!! ' !! "" !! ': !! 8 !! 4 !! 226 !! 428 !! 424 !! 286 !! 487 !! 92 !! 88 !! 488 !! 688 !! 889 !! 89 !! 886 !! 887 !!!!!!!!!!!!!!!!.!!!!!!!.!!!!!!,!! " 
+A|34| M: " !!! ' !! "" !! ': !! 8 !! 4 !! 226 !! 428 !! 424 !! 286 !! 487 !! 92 !! 88 !! 488 !! 688 !! 889 !! 89 !! 886 !! 887 !!!!!!!!!!!!!!!!.!!!!!!!.!!!!!!!! " 
 B|35| f: _right okay_ 
 A|36| M: _and_ [you] _should_ see an [old] mill on your left-hand side 
 B|37| f: how far [right to] _my_ _my_ _left_ 
@@ -143,13 +143,13 @@ Turn ID=10| A | M : and then go up
 Turn ID=11| B | f : east over the footbridge
 	Free: Pattern=east, Pattern=the
 	Constrained: 
-Turn ID=12| A | M : " !!!!,!! ' !! "" !! 2018 !! 2019 !! 2020 !! 2017 !! 2018 !! 4 !! 8 !! 6 !! 7 !! 88 !!!.!! 86 !! 886 !! 84 !!,!! 889 !! 888 !! 89 !! "
+Turn ID=12| A | M : " !!!!!! ' !! "" !! 2018 !! 2019 !! 2020 !! 2017 !! 2018 !! 4 !! 8 !! 6 !! 7 !! 88 !!!.!! 86 !! 886 !! 84 !!!! 889 !! 888 !! 89 !! "
 	Free: 
 	Constrained: 
 Turn ID=13| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=14| A | M : " !!! "" !! ' !! Siri !! okay !!! ' !! 2 !! "
+Turn ID=14| A | M : " !!! "" !! ' !! siri !! okay !!! ' !! 2 !! "
 	Free: Pattern=okay
 	Constrained: 
 Turn ID=15| B | f : no
@@ -209,7 +209,7 @@ Turn ID=32| A | M : uh-huh ten about twelve centimetres
 Turn ID=33| B | f : right aye
 	Free: Pattern=right, Pattern=aye
 	Constrained: 
-Turn ID=34| A | M : " !!! ' !! "" !! ': !! 8 !! 4 !! 226 !! 428 !! 424 !! 286 !! 487 !! 92 !! 88 !! 488 !! 688 !! 889 !! 89 !! 886 !! 887 !!!!!!!!!!!!!!!!.!!!!!!!.!!!!!!,!! "
+Turn ID=34| A | M : " !!! ' !! "" !! ': !! 8 !! 4 !! 226 !! 428 !! 424 !! 286 !! 487 !! 92 !! 88 !! 488 !! 688 !! 889 !! 89 !! 886 !! 887 !!!!!!!!!!!!!!!!.!!!!!!!.!!!!!!!! "
 	Free: 
 	Constrained: 
 Turn ID=35| B | f : right okay

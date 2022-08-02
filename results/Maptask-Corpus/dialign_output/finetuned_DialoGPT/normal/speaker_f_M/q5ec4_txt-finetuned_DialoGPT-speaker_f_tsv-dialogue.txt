@@ -1,5 +1,5 @@
 B|0| f: on _the the_ bottom _side of_ them pass them on _the_ bottom 
-A|1| M: " !!! Remindme !! Task Force !! Task !!.!! ' !! "" !! 8 !! 4 !! 7 !! " 
+A|1| M: " !!! remindme !! task force !! task !!.!! ' !! "" !! 8 !! 4 !! 7 !! " 
 B|2| f: on _the left_ 
 A|3| M: uh-huh 
 B|4| f: no _i've_ _just_ _got_ nothing _in_ below _the_ cliffs 
@@ -77,7 +77,7 @@ A|75| M: _and then_ _go_ _down_ [in] [a] straight line about an inch _and_ [a] h
 B|76| f: [okay] what's [the] direction 
 A|77| M: follow [the] crane _well_ [the the] outer shore [of [the] [the] the] crane falls 
 B|78| f: _okay right_ 
-A|79| M: " !!! ' !!! ' !! "" !! Rem !! [okay] !! [i] !! r !!,!! u !! 8 !! 4 !! 7 !! 't !! 72 !! 48 !! mm !! 2018 !! 2019 !! " 
+A|79| M: " !!! ' !!! ' !! "" !! rem !! [okay] !! [i] !! r !!!! u !! 8 !! 4 !! 7 !! 't !! 72 !! 48 !! mm !! 2018 !! 2019 !! " 
 B|80| f: yes [but] they're [up _the] top_ 
 A|81| M: [right [okay] right] now _go_ straight [up] about _two_ inches 
 B|82| f: yes [i] [have] [a] rocket _warehouse_ 
@@ -113,14 +113,14 @@ A|111| M: [right so] [i] [just] [go] straight [down]
 B|112| f: [and] [i've] [and then] [where] do [i] [go] after [that] [to the] [old] lighthouse 
 A|113| M: [right] you're [going] [to] [go] [up the] left-hand [side of] [it] 
 B|114| f: [just] [stop] at [the] [old] lighthouse [okay] 
-A|115| M: " !!! "" !! ' !! Rem !!! ' !! 2018 !! 2019 !! 2017 !! 2020 !! 2018 !! 2016 !! " 
+A|115| M: " !!! "" !! ' !! rem !!! ' !! 2018 !! 2019 !! 2017 !! 2020 !! 2018 !! 2016 !! " 
 
 
 TURN DETAILS:
 Turn ID=0| B | f : on the the bottom side of them pass them on the bottom
 	Free: Pattern=the the, Pattern=side of, Pattern=the
 	Constrained: Pattern=of, Pattern=the
-Turn ID=1| A | M : " !!! Remindme !! Task Force !! Task !!.!! ' !! "" !! 8 !! 4 !! 7 !! "
+Turn ID=1| A | M : " !!! remindme !! task force !! task !!.!! ' !! "" !! 8 !! 4 !! 7 !! "
 	Free: 
 	Constrained: 
 Turn ID=2| B | f : on the left
@@ -354,7 +354,7 @@ Turn ID=77| A | M : follow the crane well the the outer shore of the the the cra
 Turn ID=78| B | f : okay right
 	Free: Pattern=okay right
 	Constrained: Pattern=okay, Pattern=right
-Turn ID=79| A | M : " !!! ' !!! ' !! "" !! Rem !! okay !! i !! r !!,!! u !! 8 !! 4 !! 7 !! 't !! 72 !! 48 !! mm !! 2018 !! 2019 !! "
+Turn ID=79| A | M : " !!! ' !!! ' !! "" !! rem !! okay !! i !! r !!!! u !! 8 !! 4 !! 7 !! 't !! 72 !! 48 !! mm !! 2018 !! 2019 !! "
 	Free: Pattern=okay, Pattern=i
 	Constrained: 
 Turn ID=80| B | f : yes but they're up the top
@@ -462,6 +462,6 @@ Turn ID=113| A | M : right you're going to go up the left-hand side of it
 Turn ID=114| B | f : just stop at the old lighthouse okay
 	Free: Pattern=just, Pattern=the, Pattern=old, Pattern=stop, Pattern=okay
 	Constrained: 
-Turn ID=115| A | M : " !!! "" !! ' !! Rem !!! ' !! 2018 !! 2019 !! 2017 !! 2020 !! 2018 !! 2016 !! "
+Turn ID=115| A | M : " !!! "" !! ' !! rem !!! ' !! 2018 !! 2019 !! 2017 !! 2020 !! 2018 !! 2016 !! "
 	Free: 
 	Constrained: 

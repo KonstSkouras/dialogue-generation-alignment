@@ -19,7 +19,7 @@ A|17| M: well _it's_ [a] good _way_ _over_ _to _the_ right-hand side _of the_ pa
 B|18| f: [so] _i_ move [along] [so] [that] i'm _to the left [of_ the] missionary [camp] when _i_ _go down_ 
 A|19| M: _uh-huh_ _that's_ _right_ 
 B|20| f: _okay_ _now_ i'm _at _the_ left-hand [side of_ the] [banana tree] _about_ 
-A|21| M: " !!!!,!! ' !!! ' !! "" !! ': !! 2017 !! 4 !! 8 !! 7 !! " 
+A|21| M: " !!!!!! ' !!! ' !! "" !! ': !! 2017 !! 4 !! 8 !! 7 !! " 
 B|22| f: almost [the] extreme _left [of_ the page] [and] _about four_ _centimetres_ [up] 
 A|23| M: ok 
 B|24| f: _about_ quarter [of _the] way_ [up] 
@@ -203,7 +203,7 @@ Turn ID=19| A | M : uh-huh that's right
 Turn ID=20| B | f : okay now i'm at the left-hand side of the banana tree about
 	Free: Pattern=side of the, Pattern=at the, Pattern=banana tree, Pattern=now, Pattern=okay, Pattern=about, Pattern=the left-hand side of
 	Constrained: Pattern=of, Pattern=at, Pattern=the, Pattern=the left-hand, Pattern=side of, Pattern=of the
-Turn ID=21| A | M : " !!!!,!! ' !!! ' !! "" !! ': !! 2017 !! 4 !! 8 !! 7 !! "
+Turn ID=21| A | M : " !!!!!! ' !!! ' !! "" !! ': !! 2017 !! 4 !! 8 !! 7 !! "
 	Free: 
 	Constrained: 
 Turn ID=22| B | f : almost the extreme left of the page and about four centimetres up

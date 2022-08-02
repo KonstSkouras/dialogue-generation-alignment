@@ -1,43 +1,44 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	6	the other end of the block	3	M	135, 137
-2	4	, I'm in the	61	M	55, 115
 2	4	i think i'm gonna	31	M	125, 155
+2	4	i think you mean	69	M	91, 159
 2	4	on the right hand	125	M	17, 141
 2	4	the one with the	13	M	89, 101
 2	4	the top of the	5	M	67, 71
 3	3	end of the	25	M	113, 135, 137
-2	3	, i was	113	M	21, 133
 2	3	a little more	69	M	57, 125
 2	3	a stone creek	3	M	97, 99
 2	3	do you have	71	M	5, 75
 2	3	down to the	35	M	113, 147
 2	3	i have a	45	M	53, 97
 2	3	i think i	53	M	45, 97
+2	3	i think it's	29	M	109, 137
+2	3	i'm in the	61	M	55, 115
+2	3	i've got a	61	M	7, 67
 2	3	just to the	53	M	85, 137
 2	3	of the rock	19	M	67, 85
 2	3	so you can	3	M	111, 113
 2	3	the rock and	35	M	67, 101
-2	3	think you mean	69	M	91, 159
 2	3	to the bottom	107	M	41, 147
 2	3	to the right	29	M	85, 113
 2	3	to trade ?	59	M	61, 119
 2	3	you can get	95	M	17, 111
 2	3	you have a	53	M	75, 127
+2	3	you know you're	53	M	43, 95
 11	2	of the	147	M	1, 19, 55, 67, 71, 73, 85, 113, 135, 137, 147
 10	2	to the	141	M	7, 17, 41, 81, 85, 91, 93, 113, 137, 147
-6	2	i think	111	M	45, 91, 97, 125, 137, 155
 5	2	on the	125	M	17, 71, 89, 135, 141
 4	2	a stone	43	M	97, 99, 105, 139
 4	2	do you	159	M	5, 61, 75, 163
 4	2	in the	65	M	51, 55, 101, 115
 4	2	the other	65	M	73, 109, 135, 137
 4	2	you can	97	M	17, 93, 111, 113
-3	2	, but	123	M	11, 91, 133
-3	2	, i	135	M	21, 133, 155
 3	2	bar ?	29	M	123, 127, 151
 3	2	going to	97	M	37, 41, 133
 3	2	got a	117	M	7, 67, 123
 3	2	i have	95	M	3, 53, 97
+3	2	i was	113	M	21, 55, 133
+3	2	i've got	61	M	7, 11, 67
 3	2	is the	73	M	79, 139, 151
 3	2	so you	71	M	43, 111, 113
 3	2	the best	61	M	79, 131, 139
@@ -46,9 +47,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	the rock	35	M	67, 85, 101
 3	2	the top	47	M	67, 71, 113
 3	2	to get	95	M	37, 73, 131
+3	2	yeah i	135	M	21, 59, 155
 3	2	you mean	79	M	81, 91, 159
-2	2	, you	105	M	23, 127
-2	2	I think	51	M	109, 159
+3	2	you're not	125	M	37, 39, 161
 2	2	a few	27	M	63, 89
 2	2	and go	69	M	25, 93
 2	2	and the	13	M	89, 101
@@ -61,12 +62,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	go right	3	M	25, 27
 2	2	go to	13	M	17, 29
 2	2	have to	31	M	65, 95
-2	2	i've got	57	M	11, 67
+2	2	i don't	127	M	13, 139
 2	2	it's right	3	M	99, 101
 2	2	it's the	27	M	83, 109
 2	2	its a	87	M	57, 143
 2	2	know what	9	M	13, 21
-2	2	line ,	19	M	95, 113
 2	2	rift valley	3	M	53, 55
 2	2	right ?	15	M	81, 95
 2	2	than that	69	M	57, 125
@@ -74,26 +74,23 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	the ocean	7	M	147, 153
 2	2	the water	17	M	63, 79
 2	2	theres a	25	M	89, 113
-2	2	think it's	29	M	109, 137
 2	2	to do	69	M	65, 133
 2	2	to page	3	M	27, 29
 2	2	try to	83	M	73, 155
 2	2	up to	49	M	45, 93
+2	2	what's the	27	M	105, 131
 2	2	white water	3	M	75, 77
-2	2	yeah i	39	M	21, 59
 2	2	you got	71	M	49, 119
-2	2	you know	53	M	43, 95
-2	2	you're not	125	M	37, 161
 2	2	you're right	23	M	43, 65
 41	1	the	153	M	1, 5, 7, 17, 19, 31, 35, 37, 41, 51, 55, 63, 67, 69, 71, 73, 77, 79, 81, 83, 85, 89, 91, 93, 99, 101, 105, 109, 111, 113, 115, 131, 133, 135, 137, 139, 141, 147, 149, 151, 153
 22	1	to	149	M	7, 17, 27, 29, 37, 41, 45, 61, 65, 73, 81, 85, 91, 93, 95, 113, 119, 131, 133, 137, 147, 155
 22	1	you	163	M	1, 5, 17, 23, 43, 45, 49, 61, 75, 81, 87, 91, 93, 95, 111, 113, 119, 121, 127, 129, 159, 163
 21	1	a	143	M	1, 7, 9, 53, 57, 63, 67, 75, 89, 91, 95, 97, 99, 105, 113, 123, 125, 127, 133, 139, 143
-16	1	i	153	M	3, 21, 29, 33, 45, 47, 53, 59, 91, 93, 97, 125, 133, 137, 139, 155
+20	1	i	157	M	3, 13, 21, 29, 33, 45, 47, 53, 55, 59, 91, 93, 97, 109, 125, 133, 137, 139, 155, 159
 14	1	of	157	M	1, 19, 55, 67, 71, 73, 85, 89, 113, 135, 137, 139, 147, 157
 14	1	right	129	M	17, 19, 25, 27, 43, 65, 81, 85, 95, 99, 101, 113, 141, 145
+12	1	it's	145	M	9, 45, 51, 67, 83, 99, 101, 109, 111, 137, 141, 153
 11	1	have	127	M	3, 5, 35, 45, 53, 65, 75, 95, 97, 127, 129
-11	1	it's	145	M	9, 45, 51, 67, 83, 99, 101, 109, 111, 137, 153
 11	1	that	143	M	21, 33, 57, 65, 67, 69, 91, 95, 113, 125, 163
 9	1	and	87	M	25, 29, 63, 67, 89, 93, 101, 105, 111
 9	1	is	131	M	21, 31, 69, 79, 135, 139, 145, 147, 151
@@ -102,10 +99,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	go	109	M	17, 25, 27, 29, 93, 107, 113, 125
 8	1	it	145	M	11, 17, 45, 93, 99, 131, 145, 155
 7	1	can	121	M	1, 17, 33, 93, 111, 113, 121
+7	1	you're	149	M	13, 37, 39, 43, 65, 95, 161
+6	1	i'm	145	M	11, 41, 55, 115, 125, 155
 6	1	so	115	M	37, 43, 61, 111, 113, 151
 6	1	stone	53	M	97, 99, 105, 135, 139, 149
 6	1	what	77	M	11, 13, 15, 21, 47, 87
-6	1	you're	149	M	13, 37, 43, 65, 95, 161
 5	1	just	117	M	21, 43, 85, 93, 137
 5	1	not	151	M	11, 37, 39, 67, 161
 5	1	ok	53	M	23, 25, 31, 43, 75
@@ -113,18 +111,16 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	up	101	M	31, 45, 93, 99, 131
 5	1	water	85	M	63, 75, 77, 79, 147
 5	1	yeah	135	M	21, 59, 111, 153, 155
-4	1	I	147	M	13, 55, 109, 159
 4	1	but	123	M	11, 45, 91, 133
+4	1	i'll	33	M	65, 73, 77, 97
 4	1	line	53	M	95, 111, 113, 147
 4	1	mean	79	M	81, 91, 93, 159
 4	1	with	37	M	89, 95, 101, 125
-3	1	I'm	75	M	41, 55, 115
 3	1	above	27	M	75, 99, 101
 3	1	corner	87	M	15, 17, 101
 3	1	creek	25	M	75, 97, 99
 3	1	down	45	M	103, 113, 147
 3	1	gonna	61	M	95, 125, 155
-3	1	i'm	145	M	11, 125, 155
 3	1	left	95	M	7, 25, 101
 3	1	me	49	M	1, 39, 49
 3	1	okay	39	M	37, 73, 75
@@ -134,21 +130,17 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	there	65	M	49, 91, 113
 3	1	thing	117	M	17, 89, 133
 3	1	was	113	M	21, 55, 133
+3	1	what's	53	M	105, 131, 157
 3	1	where	83	M	69, 145, 151
 3	1	white	15	M	75, 77, 89
 3	1	your	83	M	75, 135, 157
-2	1	I'll	5	M	73, 77
-2	1	What's	27	M	131, 157
-2	1	Why	29	M	135, 163
 2	1	anything	11	M	119, 129
 2	1	are	19	M	69, 87
 2	1	around	43	M	67, 109
 2	1	be	99	M	23, 121
 2	1	doing	77	M	11, 87
-2	1	don't	127	M	13, 139
 2	1	done	29	M	45, 73
 2	1	fort	7	M	95, 101
-2	1	i'll	33	M	65, 97
 2	1	past	3	M	37, 39
 2	1	should	23	M	23, 45
 2	1	side	123	M	19, 141
@@ -156,5 +148,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	they	69	M	23, 91
 2	1	u	89	M	35, 123
 2	1	way	23	M	109, 131
+2	1	why	29	M	135, 163
 2	1	will	63	M	29, 91
 

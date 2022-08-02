@@ -1,5 +1,5 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	I'm pretty sure that's	49	M	55, 103
+2	4	i'm pretty sure that's	49	M	55, 103
 2	4	the bottom of the	17	M	3, 19
 4	3	to the right	45	M	5, 13, 27, 49
 2	3	the rift valley	51	M	3, 53
@@ -29,7 +29,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	you mean	73	M	23, 95
 30	1	the	105	M	3, 5, 9, 13, 15, 17, 19, 27, 35, 39, 47, 49, 51, 53, 61, 65, 67, 69, 71, 73, 81, 83, 87, 89, 91, 99, 101, 103, 105, 107
 12	1	a	91	M	11, 17, 21, 27, 41, 49, 51, 57, 59, 77, 93, 101
-11	1	i	83	M	3, 11, 13, 31, 35, 49, 65, 77, 79, 83, 85
+12	1	i	83	M	3, 11, 13, 31, 33, 35, 49, 65, 77, 79, 83, 85
 10	1	right	105	M	1, 5, 13, 27, 35, 37, 49, 97, 101, 105
 8	1	just	97	M	3, 5, 13, 15, 35, 79, 91, 99
 8	1	to	87	M	5, 13, 15, 27, 45, 49, 71, 91
@@ -37,9 +37,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	of	99	M	3, 19, 49, 65, 89, 91, 101
 7	1	you	95	M	1, 23, 39, 45, 57, 67, 95
 6	1	and	63	M	29, 47, 51, 75, 81, 91
+6	1	i'm	75	M	29, 39, 47, 55, 97, 103
 6	1	little	93	M	9, 11, 17, 41, 59, 101
 5	1	it's	51	M	19, 27, 41, 51, 69
-4	1	I'm	75	M	29, 39, 55, 103
 4	1	in	47	M	35, 39, 51, 81
 4	1	what	61	M	35, 71, 87, 95
 4	1	yes	59	M	25, 47, 75, 83
@@ -60,7 +60,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	do	25	M	71, 95
 2	1	far	29	M	5, 33
 2	1	get	51	M	29, 79
-2	1	i'm	51	M	47, 97
 2	1	it	33	M	23, 55
 2	1	its	65	M	41, 105
 2	1	know	23	M	13, 35

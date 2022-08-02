@@ -9,23 +9,23 @@ A|7| M: [left] _and_ [right]
 B|8| f: okey-dokey 
 A|9| M: o u 
 B|10| f: [right] 
-A|11| M: Go east 
+A|11| M: _go_ east 
 B|12| f: mm okey-dokey 
-A|13| M: You can't _go_ _north of the_ river , you can only _go_ south . 
+A|13| M: you can't _go_ _north of the_ river you can only _go_ south . 
 B|14| f: [right] 
 A|15| M: now _go_ west _and_ _go_ east 
 B|16| f: _just_ [north of the] [banana tree] [yeah] 
 A|17| M: did you get _to the_ footbridge ? 
 B|18| f: mmhmm 
-A|19| M: [just] east [of the] level , east [of] _a_ level . 
+A|19| M: [just] east [of the] level east [of] _a_ level . 
 B|20| f: mmhmm 
 A|21| M: [yeah] _i_ [just] saw that 
 B|22| f: [no] [not] at all 
 A|23| M: you want _to_ try _a_ bit [of] poison ? 
 B|24| f: [right] 
-A|25| M: _yes_ , you _have_ [the] [right] path 
+A|25| M: _yes_ you _have_ [the] [right] path 
 B|26| f: mmhmm 
-A|27| M: _i_ did , _i_ [just] [left] _and_ came back 
+A|27| M: _i_ did _i_ [just] [left] _and_ came back 
 B|28| f: [yes] 
 A|29| M: _and_ u _have_ _to_ _go_ _to the_ old temple first 
 B|30| f: mmhmm 
@@ -39,23 +39,23 @@ A|37| M: where is [the] road [up] _to the top [of_ _the] mountain_
 B|38| f: [yeah] 
 A|39| M: did you try going [up] ? 
 B|40| f: eh slate [mountain] 
-A|41| M: What's [the] old one ? 
+A|41| M: what's [the] old one ? 
 B|42| f: mmhmm 
 A|43| M: _i_ _have_ [a] tmnt 
 B|44| f: [right] 
 A|45| M: he's going [to the] temple 
 B|46| f: mmhmm 
-A|47| M: _so_ you want [a] nice , long winded , very detailed description [of the] map ? 
+A|47| M: _so_ you want [a] nice long winded very detailed description [of the] map ? 
 B|48| f: _up past _the_ truck_ _and [the_ mountain] 
-A|49| M: [up] [the truck] , [up] [the mountain] , [up past the] tank 
+A|49| M: [up] [the truck] [up] [the mountain] [up past the] tank 
 B|50| f: [right] 
 A|51| M: it's [the truck] 
 B|52| f: [right] 
 A|53| M: [right] . 
 B|54| f: mmhmm 
-A|55| M: I can't wait [to] see this _in_ action 
+A|55| M: _i_ can't wait [to] see this _in_ action 
 B|56| f: [right] 
-A|57| M: Until you're [right] next [to the] 
+A|57| M: [until] you're [right] next [to the] 
 B|58| f: [no] 
 A|59| M: now you _have_ me imagining you being [a] child 
 B|60| f: [yeah] 
@@ -65,13 +65,13 @@ A|63| M: that's [a] little far
 B|64| f: [right] 
 A|65| M: [right] [and] then 
 B|66| f: [yes] uh-huh 
-A|67| M: I'm [not] [a] big fan [of the] word'uh ' . 
+A|67| M: i'm [not] [a] big fan [of the] word'uh ' . 
 B|68| f: mmhmm 
 A|69| M: you can't see [it] 
 B|70| f: [right] 
 A|71| M: [it] is 
 B|72| f: mmhmm 
-A|73| M: Mmm _go_ [up] 
+A|73| M: mmm _go_ [up] 
 B|74| f: [up past the] lemon grove 
 A|75| M: but where is [the mountain] ? 
 B|76| f: [right] 
@@ -85,9 +85,9 @@ A|83| M: _i_ [will] [walk to] [it]
 B|84| f: [right] 
 A|85| M: [and [the] top] is [a] little bit higher 
 B|86| f: okey-dokey 
-A|87| M: I'm _so_ high [right] now 
+A|87| M: i'm _so_ high [right] now 
 B|88| f: [yeah] 
-A|89| M: You can also [just] use [a] rope [and] some rope 
+A|89| M: you can also [just] use [a] rope [and] some rope 
 B|90| f: [no] 
 A|91| M: do you _have_ [the] original map ? 
 B|92| f: directly below [it] 
@@ -107,7 +107,7 @@ A|105| M: [so] [just] [to the] nearest _village_ ?
 B|106| f: [right] 
 A|107| M: about [a] centimeter 
 B|108| f: mmhmm 
-A|109| M: [so] , you want me [to] do [it] then ? 
+A|109| M: [so] you want me [to] do [it] then ? 
 B|110| f: "the ""e"" [in] remote" 
 A|111| M: [in] remote 
 B|112| f: """e"" [in] [village] right" 
@@ -149,13 +149,13 @@ Turn ID=9| A | M : o u
 Turn ID=10| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=11| A | M : Go east
-	Free: 
+Turn ID=11| A | M : go east
+	Free: Pattern=go
 	Constrained: 
 Turn ID=12| B | f : mm okey-dokey
 	Free: 
 	Constrained: 
-Turn ID=13| A | M : You can't go north of the river , you can only go south .
+Turn ID=13| A | M : you can't go north of the river you can only go south .
 	Free: Pattern=north of the, Pattern=go
 	Constrained: Pattern=of the, Pattern=the, Pattern=of
 Turn ID=14| B | f : right
@@ -173,7 +173,7 @@ Turn ID=17| A | M : did you get to the footbridge ?
 Turn ID=18| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=19| A | M : just east of the level , east of a level .
+Turn ID=19| A | M : just east of the level east of a level .
 	Free: Pattern=of the, Pattern=just, Pattern=a, Pattern=of
 	Constrained: Pattern=the, Pattern=of
 Turn ID=20| B | f : mmhmm
@@ -191,13 +191,13 @@ Turn ID=23| A | M : you want to try a bit of poison ?
 Turn ID=24| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=25| A | M : yes , you have the right path
+Turn ID=25| A | M : yes you have the right path
 	Free: Pattern=yes, Pattern=the, Pattern=right, Pattern=have
 	Constrained: 
 Turn ID=26| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=27| A | M : i did , i just left and came back
+Turn ID=27| A | M : i did i just left and came back
 	Free: Pattern=i, Pattern=just, Pattern=left, Pattern=and
 	Constrained: 
 Turn ID=28| B | f : yes
@@ -239,7 +239,7 @@ Turn ID=39| A | M : did you try going up ?
 Turn ID=40| B | f : eh slate mountain
 	Free: Pattern=mountain
 	Constrained: 
-Turn ID=41| A | M : What's the old one ?
+Turn ID=41| A | M : what's the old one ?
 	Free: Pattern=the
 	Constrained: 
 Turn ID=42| B | f : mmhmm
@@ -257,13 +257,13 @@ Turn ID=45| A | M : he's going to the temple
 Turn ID=46| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=47| A | M : so you want a nice , long winded , very detailed description of the map ?
+Turn ID=47| A | M : so you want a nice long winded very detailed description of the map ?
 	Free: Pattern=of the, Pattern=so, Pattern=a
 	Constrained: Pattern=the, Pattern=of
 Turn ID=48| B | f : up past the truck and the mountain
 	Free: Pattern=up past the, Pattern=the truck, Pattern=and the, Pattern=the mountain
 	Constrained: Pattern=up, Pattern=mountain, Pattern=and, Pattern=the
-Turn ID=49| A | M : up the truck , up the mountain , up past the tank
+Turn ID=49| A | M : up the truck up the mountain up past the tank
 	Free: Pattern=up past the, Pattern=the truck, Pattern=the mountain, Pattern=up
 	Constrained: Pattern=up, Pattern=mountain, Pattern=the
 Turn ID=50| B | f : right
@@ -281,14 +281,14 @@ Turn ID=53| A | M : right .
 Turn ID=54| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=55| A | M : I can't wait to see this in action
-	Free: Pattern=to, Pattern=in
+Turn ID=55| A | M : i can't wait to see this in action
+	Free: Pattern=i, Pattern=to, Pattern=in
 	Constrained: 
 Turn ID=56| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=57| A | M : Until you're right next to the
-	Free: Pattern=to the, Pattern=right
+Turn ID=57| A | M : until you're right next to the
+	Free: Pattern=to the, Pattern=until, Pattern=right
 	Constrained: Pattern=to, Pattern=the
 Turn ID=58| B | f : no
 	Free: Pattern=no
@@ -317,7 +317,7 @@ Turn ID=65| A | M : right and then
 Turn ID=66| B | f : yes uh-huh
 	Free: Pattern=yes
 	Constrained: 
-Turn ID=67| A | M : I'm not a big fan of the word'uh ' .
+Turn ID=67| A | M : i'm not a big fan of the word'uh ' .
 	Free: Pattern=of the, Pattern=a, Pattern=not
 	Constrained: Pattern=the, Pattern=of
 Turn ID=68| B | f : mmhmm
@@ -335,7 +335,7 @@ Turn ID=71| A | M : it is
 Turn ID=72| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=73| A | M : Mmm go up
+Turn ID=73| A | M : mmm go up
 	Free: Pattern=go, Pattern=up
 	Constrained: 
 Turn ID=74| B | f : up past the lemon grove
@@ -377,13 +377,13 @@ Turn ID=85| A | M : and the top is a little bit higher
 Turn ID=86| B | f : okey-dokey
 	Free: 
 	Constrained: 
-Turn ID=87| A | M : I'm so high right now
+Turn ID=87| A | M : i'm so high right now
 	Free: Pattern=so, Pattern=right
 	Constrained: 
 Turn ID=88| B | f : yeah
 	Free: Pattern=yeah
 	Constrained: 
-Turn ID=89| A | M : You can also just use a rope and some rope
+Turn ID=89| A | M : you can also just use a rope and some rope
 	Free: Pattern=just, Pattern=a, Pattern=and
 	Constrained: 
 Turn ID=90| B | f : no
@@ -443,7 +443,7 @@ Turn ID=107| A | M : about a centimeter
 Turn ID=108| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=109| A | M : so , you want me to do it then ?
+Turn ID=109| A | M : so you want me to do it then ?
 	Free: Pattern=to, Pattern=it, Pattern=so
 	Constrained: 
 Turn ID=110| B | f : "the ""e"" in remote"

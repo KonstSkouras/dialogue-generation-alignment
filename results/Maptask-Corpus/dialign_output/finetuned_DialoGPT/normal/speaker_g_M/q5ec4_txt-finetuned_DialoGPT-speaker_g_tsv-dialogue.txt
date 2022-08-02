@@ -1,6 +1,6 @@
 A|0| M: _right_ 
 B|1| g: pass them on your their _left_ 
-A|2| M: " !!! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! ' !! 2016 !! 2017 !! "" !! 2016 !! 4 !! 8 !! 52 !! 48 !! 6 !!.!!,!! 72 !! 84 !! 88 !! 146 !! 7 !! " 
+A|2| M: " !!! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! ' !! 2016 !! 2017 !! "" !! 2016 !! 4 !! 8 !! 52 !! 48 !! 6 !!.!!!! 72 !! 84 !! 88 !! 146 !! 7 !! " 
 B|3| g: _uh-huh_ [right] _and_ then have _you_ _got a_ forge underneath _the_ cliffs 
 A|4| M: i've [got a] granite quarry 
 B|5| g: _oh_ have _you_ [got] an _old_ pine tree sort _of_ _down_ diagonally [right] _from the_ cliffs 
@@ -74,7 +74,7 @@ A|72| M: mmhmm
 B|73| g: [right] well [go down] towards [the] coast 
 A|74| M: _right okay_ 
 B|75| g: [right] [and] then follow [the] [crane bay] [round the] coast 
-A|76| M: " !!! Remnant !! 2019 !! 2017 !! 2018 !! 2020 !! 2018 !! ' !! "" !!,!! 8 !! 7 !! 4 !! 8000 !! " 
+A|76| M: " !!! remnant !! 2019 !! 2017 !! 2018 !! 2020 !! 2018 !! ' !! "" !!!! 8 !! 7 !! 4 !! 8000 !! " 
 B|77| g: "to [the] _to the left_ it's towards [the] ""c"" [of] [crane] bay" 
 A|78| M: [oh] _right okay_ 
 B|79| g: [right] [and] eh then it's sort [of] have [you] [got] wheatfields 
@@ -112,7 +112,7 @@ A|110| M: " !!!!.!! ' !! "" !! 2018 !! 2018 !! "
 B|111| g: [okay] then 
 A|112| M: [that's] [it] 
 B|113| g: [just] stop [at [the] old lighthouse] [uh-huh] 
-A|114| M: " !!!!,!! ' !!! ' !! "" !! Rem !! [i] !! [there] !! " 
+A|114| M: " !!!!!! ' !!! ' !! "" !! rem !! [i] !! [there] !! " 
 B|115| g: [right] 
 
 
@@ -123,7 +123,7 @@ Turn ID=0| A | M : right
 Turn ID=1| B | g : pass them on your their left
 	Free: Pattern=left
 	Constrained: 
-Turn ID=2| A | M : " !!! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! ' !! 2016 !! 2017 !! "" !! 2016 !! 4 !! 8 !! 52 !! 48 !! 6 !!.!!,!! 72 !! 84 !! 88 !! 146 !! 7 !! "
+Turn ID=2| A | M : " !!! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! ' !! 2016 !! 2017 !! "" !! 2016 !! 4 !! 8 !! 52 !! 48 !! 6 !!.!!!! 72 !! 84 !! 88 !! 146 !! 7 !! "
 	Free: 
 	Constrained: 
 Turn ID=3| B | g : uh-huh right and then have you got a forge underneath the cliffs
@@ -345,7 +345,7 @@ Turn ID=74| A | M : right okay
 Turn ID=75| B | g : right and then follow the crane bay round the coast
 	Free: Pattern=crane bay, Pattern=right, Pattern=and, Pattern=the, Pattern=round the
 	Constrained: Pattern=crane, Pattern=round, Pattern=the
-Turn ID=76| A | M : " !!! Remnant !! 2019 !! 2017 !! 2018 !! 2020 !! 2018 !! ' !! "" !!,!! 8 !! 7 !! 4 !! 8000 !! "
+Turn ID=76| A | M : " !!! remnant !! 2019 !! 2017 !! 2018 !! 2020 !! 2018 !! ' !! "" !!!! 8 !! 7 !! 4 !! 8000 !! "
 	Free: 
 	Constrained: 
 Turn ID=77| B | g : "to the to the left it's towards the ""c"" of crane bay"
@@ -459,7 +459,7 @@ Turn ID=112| A | M : that's it
 Turn ID=113| B | g : just stop at the old lighthouse uh-huh
 	Free: Pattern=the old lighthouse, Pattern=at the, Pattern=just, Pattern=uh-huh
 	Constrained: Pattern=the old, Pattern=at, Pattern=the, Pattern=old, Pattern=lighthouse
-Turn ID=114| A | M : " !!!!,!! ' !!! ' !! "" !! Rem !! i !! there !! "
+Turn ID=114| A | M : " !!!!!! ' !!! ' !! "" !! rem !! i !! there !! "
 	Free: Pattern=i, Pattern=there
 	Constrained: 
 Turn ID=115| B | g : right

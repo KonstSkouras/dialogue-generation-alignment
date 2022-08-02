@@ -93,7 +93,7 @@ A|91| M: yeah
 B|92| f: [right] 
 A|93| M: [and then] [go up] 
 B|94| f: [well] [i] havenae 
-A|95| M: " !!! ' !!! ' !! Rem !! [right] !!!,!!!.!!,!! "" !! Assad !! [mm] !!.!! _okay_ !! [i] !! r !! u !! s !! 8 !! 7 !! " 
+A|95| M: " !!! ' !!! ' !! rem !! [right] !!!!!!.!!!! "" !! assad !! [mm] !!.!! _okay_ !! [i] !! r !! u !! s !! 8 !! 7 !! " 
 B|96| f: [right okay] 
 A|97| M: [so] you [go] [to the] [right] [and then] you [go] [down] 
 B|98| f: [to the east] or [the] [west] 
@@ -396,7 +396,7 @@ Turn ID=93| A | M : and then go up
 Turn ID=94| B | f : well i havenae
 	Free: Pattern=i, Pattern=well
 	Constrained: 
-Turn ID=95| A | M : " !!! ' !!! ' !! Rem !! right !!!,!!!.!!,!! "" !! Assad !! mm !!.!! okay !! i !! r !! u !! s !! 8 !! 7 !! "
+Turn ID=95| A | M : " !!! ' !!! ' !! rem !! right !!!!!!.!!!! "" !! assad !! mm !!.!! okay !! i !! r !! u !! s !! 8 !! 7 !! "
 	Free: Pattern=i, Pattern=right, Pattern=mm, Pattern=okay
 	Constrained: 
 Turn ID=96| B | f : right okay
