@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+2	0	2	, it's	11	1	2	B	10,11	[[10, 11]]
+2	0	2	in durham	9	5	1	B	4,9	[[4, 9]]
+7	1	1	the	11	21	1	B	6,11,16,19,21,22,27	[[6, 11], [16, 19, 21], [22, 27]]
+6	0	1	it's	9	27	1	B	4,9,10,11,26,31	[[4, 9], [10, 11], [26, 31]]
+2	0	1	yeah	25	5	4	B	20,25	[[20, 25]]
+2	0	1	of	11	5	1	B	6,11	[[6, 11]]
+2	0	1	in	9	5	1	B	4,9	[[4, 9]]
+3	1	1	durham	5	5	1	B	4,5,9	[[4, 5, 9]]
+2	0	1	to	11	3	1	B	8,11	[[8, 11]]
+2	0	1	bad	25	3	2	B	22,25	[[22, 25]]

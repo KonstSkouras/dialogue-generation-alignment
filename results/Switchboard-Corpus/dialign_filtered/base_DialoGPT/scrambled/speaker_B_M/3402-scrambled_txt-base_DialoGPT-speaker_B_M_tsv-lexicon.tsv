@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+2	0	2	have to	5	3	1	B	2,5	[[2, 5]]
+2	0	2	they have	5	1	1	B	4,5	[[4, 5]]
+3	1	1	the	7	5	2	B	2,4,7	[[2, 4, 7], [4, 7]]
+4	0	1	i	7	21	1	B	6,7,24,27	[[6, 7], [24, 27]]
+2	0	1	and	33	5	5	B	28,33	[[28, 33]]
+3	1	1	have	5	3	2	B	2,4,5	[[2, 4, 5], [4, 5]]
+3	1	1	in	11	3	2	B	8,10,11	[[8, 10, 11], [10, 11]]
+4	0	1	you	3	5	1	B	2,3,4,7	[[2, 3, 4, 7]]
+2	0	1	a	3	1	1	B	2,3	[[2, 3]]
+3	1	1	do	5	3	2	B	2,4,5	[[2, 4, 5], [4, 5]]
+3	1	1	to	5	3	2	B	2,4,5	[[2, 4, 5]]
+2	0	1	they	5	1	1	B	4,5	[[4, 5]]

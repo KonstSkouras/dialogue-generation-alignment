@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+2	0	3	do you like	13	3	1	A	10,13	[[10, 13]]
+2	0	2	, but	11	1	1	A	10,11	[[10, 11]]
+5	1	1	the	9	11	1	A	6,9,11,14,17	[[6, 9, 11], [14, 17]]
+3	1	1	like	11	3	1	A	10,11,13	[[10, 11, 13]]
+2	0	1	do	13	3	1	A	10,13	[[10, 13]]
+4	0	1	know	11	21	1	A	10,11,26,31	[[10, 11], [26, 31]]
+3	1	1	so	23	5	2	A	22,23,27	[[22, 23, 27]]
+2	0	1	they	17	3	2	A	14,17	[[14, 17]]
+2	0	1	that	11	1	1	A	10,11	[[10, 11]]

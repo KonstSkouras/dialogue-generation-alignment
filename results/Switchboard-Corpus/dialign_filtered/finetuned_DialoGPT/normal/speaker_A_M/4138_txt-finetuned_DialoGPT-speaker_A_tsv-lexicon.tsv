@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+3	1	2	that ,	23	5	1	A	20,23,25	[[20, 23, 25]]
+3	1	1	and	25	5	1	A	20,22,25	[[20, 22, 25]]
+4	2	1	a	21	5	1	A	20,21,23,25	[[20, 21, 23, 25]]
+3	1	1	that	23	5	2	A	20,23,25	[[20, 23, 25]]
+2	0	1	the	31	1	1	A	30,31	[[30, 31]]
+4	0	1	you	11	15	1	A	8,11,20,23	[[8, 11], [20, 23]]
+2	0	1	don't	23	3	1	A	20,23	[[20, 23]]
+2	0	1	pay	11	1	1	A	10,11	[[10, 11]]
+2	0	1	right	29	5	1	A	24,29	[[24, 29]]
+2	0	1	have	25	5	1	A	20,25	[[20, 25]]
+2	0	1	was	31	1	1	A	30,31	[[30, 31]]

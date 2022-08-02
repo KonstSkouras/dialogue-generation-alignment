@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+2	0	3	you know ,	83	3	7	A	80,83	[[80, 83]]
+2	0	2	uh ,	71	5	5	A	66,71	[[66, 71]]
+2	0	2	yeah .	59	3	6	A	56,59	[[56, 59]]
+2	0	2	you know	83	3	11	A	80,83	[[80, 83]]
+5	1	2	well ,	59	23	1	A	58,59,61,76,81	[[58, 59, 61], [76, 81]]
+4	0	1	you	25	63	1	A	20,25,80,83	[[20, 25], [80, 83]]
+5	1	1	yeah	7	53	1	A	6,7,9,56,59	[[6, 7, 9], [56, 59]]
+6	2	1	well	59	23	1	A	58,59,61,63,76,81	[[58, 59, 61, 63], [76, 81]]
+2	0	1	that	89	5	6	A	84,89	[[84, 89]]

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+4	0	2	, i	5	9	1	B	4,5,12,13	[[4, 5], [12, 13]]
+2	0	2	, and	11	5	2	B	6,11	[[6, 11]]
+2	0	2	and ,	11	5	1	B	6,11	[[6, 11]]
+2	0	2	i grew	5	1	1	B	4,5	[[4, 5]]
+6	2	1	i	5	11	3	B	0,2,4,5,6,11	[[0, 2, 4, 5], [2, 4, 5], [4, 5], [6, 11]]
+3	1	1	and	11	5	5	B	6,8,11	[[6, 8, 11]]
+2	0	1	my	9	3	3	B	6,9	[[6, 9]]
+2	0	1	it	5	5	1	B	0,5	[[0, 5]]
+2	0	1	was	11	5	1	B	6,11	[[6, 11]]
+2	0	1	of	5	3	1	B	2,5	[[2, 5]]

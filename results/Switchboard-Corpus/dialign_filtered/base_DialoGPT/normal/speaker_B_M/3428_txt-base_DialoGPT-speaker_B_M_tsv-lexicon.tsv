@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+2	0	2	, i	15	3	3	B	12,15	[[12, 15]]
+3	1	2	yeah ,	13	3	3	B	10,12,13	[[10, 12, 13]]
+2	0	2	the way	15	1	1	B	14,15	[[14, 15]]
+5	1	1	the	1	15	1	B	0,1,12,14,15	[[0, 1], [12, 14, 15], [14, 15]]
+2	0	1	a	9	5	3	B	4,9	[[4, 9]]
+2	0	1	i	15	3	3	B	12,15	[[12, 15]]
+4	2	1	yeah	13	5	5	B	8,10,12,13	[[8, 10, 12, 13]]
+2	0	1	to	15	3	3	B	12,15	[[12, 15]]
+2	0	1	gun	9	5	2	B	4,9	[[4, 9]]
+3	1	1	way	15	3	2	B	12,14,15	[[12, 14, 15]]

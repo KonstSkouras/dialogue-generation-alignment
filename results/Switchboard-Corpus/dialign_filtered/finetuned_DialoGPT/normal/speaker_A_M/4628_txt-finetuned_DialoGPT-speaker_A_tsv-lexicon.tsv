@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+2	0	2	the ,	33	1	1	A	32,33	[[32, 33]]
+2	0	2	, the	33	1	1	A	32,33	[[32, 33]]
+2	0	2	of the	33	1	1	A	32,33	[[32, 33]]
+6	0	1	of	13	29	3	A	12,13,32,33,38,41	[[12, 13], [32, 33], [38, 41]]
+3	1	1	you	27	5	2	A	22,24,27	[[22, 24, 27]]
+2	0	1	work	41	3	3	A	38,41	[[38, 41]]
+3	1	1	it's	33	5	1	A	28,30,33	[[28, 30, 33]]

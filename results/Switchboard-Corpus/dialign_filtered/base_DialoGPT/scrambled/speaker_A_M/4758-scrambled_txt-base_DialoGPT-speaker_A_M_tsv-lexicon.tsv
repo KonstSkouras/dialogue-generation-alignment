@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+2	0	2	, they	3	3	1	A	0,3	[[0, 3]]
+5	1	1	i	3	19	2	A	0,2,3,18,19	[[0, 2, 3], [2, 3], [18, 19]]
+2	0	1	it's	13	5	1	A	8,13	[[8, 13]]
+3	1	1	to	15	5	2	A	12,15,17	[[12, 15, 17]]
+2	0	1	and	41	3	4	A	38,41	[[38, 41]]
+3	1	1	not	7	5	2	A	6,7,11	[[6, 7, 11]]
+2	0	1	oh	9	5	1	A	4,9	[[4, 9]]
+2	0	1	they	3	3	1	A	0,3	[[0, 3]]
+2	0	1	do	17	3	1	A	14,17	[[14, 17]]
+2	0	1	think	3	3	1	A	0,3	[[0, 3]]

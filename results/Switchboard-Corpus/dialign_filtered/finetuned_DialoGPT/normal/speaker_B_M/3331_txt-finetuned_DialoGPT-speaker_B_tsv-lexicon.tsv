@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns	Span Lists
+2	0	2	yeah .	13	3	2	B	10,13	[[10, 13]]
+2	0	2	yeah ,	21	5	2	B	16,21	[[16, 21]]
+5	1	1	yeah	13	11	2	B	10,13,16,20,21	[[10, 13], [16, 20, 21], [20, 21]]
+2	0	1	you	1	1	1	B	0,1	[[0, 1]]
+2	0	1	in	7	1	1	B	6,7	[[6, 7]]
+2	0	1	oh	37	3	2	B	34,37	[[34, 37]]
+2	0	1	is	25	5	2	B	20,25	[[20, 25]]
+2	0	1	grade	7	1	1	B	6,7	[[6, 7]]
