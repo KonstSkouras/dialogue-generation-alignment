@@ -6,6 +6,7 @@ import pandas as pd
 from collections import namedtuple, Counter
 import random
 import itertools
+from itertools import tee
 from datetime import datetime
 import spacy
 
@@ -181,8 +182,8 @@ def create_dialign_directories(models_list, output_dir_name="dialign_output", to
     if(model_name != "human"):
       dir_init_name = "directory_normal"
       for speaker in speakers:
-        dir_end_name = speaker + "_M"
-        directory_normal_speaker = res_dict["directory_normal"] + "speaker_" + dir_end_name + "/"
+        dir_end_name = "_" + speaker + "_M"
+        directory_normal_speaker = res_dict["directory_normal"] + "speaker" + dir_end_name + "/"
         
         res_dict[dir_init_name + dir_end_name] = directory_normal_speaker
         create_directory_safe(directory_normal_speaker)
@@ -193,8 +194,8 @@ def create_dialign_directories(models_list, output_dir_name="dialign_output", to
     if(model_name != "human"):
       dir_init_name = "directory_scrambled"
       for speaker in speakers:
-        dir_end_name = speaker + "_M"
-        directory_scrambled_speaker = res_dict["directory_scrambled"] + "speaker_" + dir_end_name + "/"
+        dir_end_name = "_" + speaker + "_M"
+        directory_scrambled_speaker = res_dict["directory_scrambled"] + "speaker" + dir_end_name + "/"
         
         res_dict[dir_init_name + dir_end_name] = directory_scrambled_speaker
         create_directory_safe(directory_scrambled_speaker)
@@ -717,6 +718,207 @@ def top_common_content_word_counts(base_h_content_word_freq_df, base_d_content_w
 def create_normalized_tsv(directory_tsv, directory_tsv_normalized):
   for tsv in os.listdir(directory_tsv):
     tsv_df = pd.read_csv(directory_tsv+tsv, sep="\t", names=['Speaker', 'Utterance'])
-    tsv_df["Utterance"] = tsv_df.apply(lambda x: x["Utterance"].replace(',','').lower() if isinstance(x["Utterance"], str) else "",axis=1)
+    # tsv_df["Utterance"] = tsv_df.apply(lambda x: x["Utterance"].replace(',','').lower() if isinstance(x["Utterance"], str) else "",axis=1)
+    tsv_df["Utterance"] = tsv_df.apply(lambda x: x["Utterance"].lower() if isinstance(x["Utterance"], str) else "",axis=1)
 
     tsv_df.to_csv(directory_tsv_normalized+tsv, sep='\t', index=False, header=False)
+
+### Filter expressions ###
+# From https://docs.python.org/3/library/itertools.html#itertools.pairwise
+def pairwise(iterable):
+    # pairwise('ABCDEFG') --> AB BC CD DE EF FG
+    a, b = tee(iterable)
+    next(b, None)
+    return zip(a, b)
+
+def get_spans_list(turns_str, span=6):
+  turns_list = turns_str.split(",")  
+  # Should always have two turns for a repeated expression.
+  if (len(turns_list) < 2):
+    return None
+  
+  valid_span_turns=[]
+  span_lists = []
+  for idx,turn in enumerate(turns_list):
+    for turn_2 in turns_list[idx+1:]:
+      if (int(turn_2) - int(turn)) < span:
+        valid_span_turns.append(int(turn))
+        valid_span_turns.append(int(turn_2))
+      else:
+        if len(valid_span_turns)>0:
+          unique_turns_list = sorted(list(set(valid_span_turns)))
+          span_lists.append(unique_turns_list)
+          valid_span_turns = []
+        # Found the span of this turn
+        break
+  
+  # Final turns could belong in a span.
+  if len(valid_span_turns) > 0:
+    unique_turns_list = sorted(list(set(valid_span_turns)))
+    span_lists.append(unique_turns_list)
+
+  return span_lists
+
+def keep_turns_in_span(turns_str, span=6):  
+  turns_list = turns_str.split(",")  
+  # Should always have two turns for a repeated expression.
+  if (len(turns_list) < 2):
+    return None
+
+  turns_in_span = []
+  for x, y in pairwise(turns_list):
+    if(abs(int(y) - int(x)) < span):
+      turns_in_span.append(int(x))
+      turns_in_span.append(int(y))
+
+  # remove duplicates turns
+  final_turn_list = sorted(list(set(turns_in_span)))
+  if(len(final_turn_list)<2):
+    return None
+  
+  final_turn_str = ','.join(map(str, final_turn_list))
+  return final_turn_str
+
+def filter_by_speaker_initiated(span_lists, first_speaker):  
+  final_valid_spans = []
+  # print(span_lists)
+  for span_list in span_lists:
+    # print(first_speaker)
+    
+    # Find m_turn
+    if first_speaker == "M":
+      # M is always the same as the first turn (odd or even)
+      is_m_turn = int(span_list[0]) % 2
+    else:
+      # M is always the same as the first turn + 1 (odd or even)
+      is_m_turn = int(span_list[0]) % 2 + 1   
+
+    if(span_list[0]%2 == is_m_turn):
+      # Initiated by M.
+      continue
+    
+    # Initiated by speaker, not M.   
+    found_m=False
+    invalid_span_turns = []
+    # Last speaker within the span should be M.
+    for turn in reversed(span_list):
+      if found_m:
+        break
+      if turn%2 != is_m_turn:
+        invalid_span_turns.append(turn)
+      else:
+        found_m = True
+    for invalid_turn in invalid_span_turns:
+      span_list.remove(invalid_turn)
+    if(len(span_list) > 0):
+      final_valid_spans.append(span_list)
+
+  # if len(final_valid_spans)>0:
+  #   merged_turns_list = list(itertools.chain.from_iterable(final_valid_spans))
+  #   return sorted(list(set(merged_turns_list)))
+  if len(final_valid_spans)<1:
+    return None
+  return final_valid_spans
+
+def merge_spanned_turns(span_lists):
+  merged_turns_list = list(itertools.chain.from_iterable(span_lists))
+  final_turn_list = sorted(list(set(merged_turns_list)))
+  final_turn_str = ','.join(map(str, final_turn_list))
+
+  return final_turn_str
+
+def create_establishment_turn(turns_str):
+  turns_list = turns_str.split(",")  
+  # Should always have two turns for a repeated expression.
+  if (len(turns_list) < 2):
+    return None
+  
+  is_first_speaker = int(turns_list[0]) % 2
+
+  establishement_turn = 0
+  for turn in turns_list[1:]:
+    if (int(turn) % 2 != is_first_speaker):
+      establishement_turn = turn
+      break
+  
+  if(establishement_turn):
+    return establishement_turn
+  else:
+    return None
+
+def create_spanning_metric(turns_str):
+  turns_list = turns_str.split(",")  
+  # Should always have two turns for a repeated expression.
+  if (len(turns_list) < 2):
+    return None
+  
+  last_t = len(turns_list) -1
+  return int(turns_list[last_t]) - int(turns_list[0])
+
+def create_free_metric(turns_str):
+  turns_list = turns_str.split(",")  
+  # Should always have two turns for a repeated expression.
+  if (len(turns_list) < 2):
+    return None  
+  return len(turns_list)
+
+def create_free_freq_metric(turns_str):
+  turns_list = turns_str.split(",")  
+  # Should always have two turns for a repeated expression.
+  if (len(turns_list) < 2):
+    return None  
+  
+  free_freq = 0
+  for x, y in pairwise(turns_list):
+    is_a_speaker = int(x) % 2
+    is_b_speaker = int(y) % 2
+
+    # Repeated expression by the speaker
+    if(is_a_speaker == is_b_speaker):
+      free_freq +=1
+
+  return free_freq
+
+def create_filtered_lexicons_csvs(input_data_dir, output_data_dir, filter_speaker=True, span = 6):  
+
+  lexicon_files = [tsv_file for tsv_file in sorted(os.listdir(input_data_dir)) if tsv_file.endswith("lexicon.tsv")]
+  for tsv_file in lexicon_files:
+    print(tsv_file.split("_")[0])
+    
+    # 0. Read Lexicon file
+    expressions_df = pd.read_csv(input_data_dir+tsv_file, sep='\t', quoting=csv.QUOTE_NONE)
+
+    if not expressions_df.empty:
+      # 1. Keep turns with span < 6
+      expressions_df['Turns']=expressions_df.apply(lambda x: keep_turns_in_span(turns_str=x["Turns"], span=span),axis=1)
+      # 2. Drop rows with None turns of span<6
+      expressions_df.dropna(inplace=True)
+    
+    # display(expressions_df)
+    if not expressions_df.empty:
+      # 3. Save span lists
+      expressions_df['Span Lists']=expressions_df.apply(lambda x: get_spans_list(x["Turns"], span=span),axis=1)
+    
+    if filter_speaker:
+      if not expressions_df.empty:
+        # 4. Keep turns where speakers are in the form A,M. Initiated expressions by the Speaker only.
+        expressions_df['Span Lists']=expressions_df.apply(lambda x: filter_by_speaker_initiated(x["Span Lists"], first_speaker=x["First Speaker"]),axis=1)
+        # 5. Drop rows with None turns (not the form A,M)
+        expressions_df.dropna(inplace=True)
+    if not expressions_df.empty:
+      # 6. Recreate turns from spans
+      expressions_df['Turns']=expressions_df.apply(lambda x: merge_spanned_turns(x["Span Lists"]),axis=1)
+      # 7. Set Correct establishment turn
+      expressions_df['Establishment turn']=expressions_df.apply(lambda x: create_establishment_turn(x["Turns"]),axis=1)
+      # 8. Drop rows in no establishment turn
+      expressions_df.dropna(inplace=True)
+    if not expressions_df.empty:
+      # 9. Set Correct spaning
+      expressions_df['Spanning']=expressions_df.apply(lambda x: create_spanning_metric(x["Turns"]),axis=1)
+      # 10. Set Correct Freq.
+      expressions_df['Freq.']=expressions_df.apply(lambda x: create_free_metric(x["Turns"]),axis=1)
+      # 10. Set Correct Free Freq.
+      expressions_df['Free Freq.']=expressions_df.apply(lambda x: create_free_freq_metric(x["Turns"]),axis=1)
+    
+    expressions_df.to_csv(output_data_dir+tsv_file, sep='\t', index=False)
+    # return expressions_df
