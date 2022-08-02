@@ -37,7 +37,7 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
   for model_name in models_list:
     res_dict = {}
     full_model_name = model_type + "_" + model_name
-    # Create Model directory
+    # Don't create finetuned directory for Human
     if (model_name == "human" and model_type == "finetuned"):
       continue
     model_directory = res_directory + full_model_name + "/"
@@ -75,14 +75,23 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
     # directory_tsv = "/content/Switchboard-Corpus/results/base_DialoGPT/tsv/"
     create_directory_safe(directory_tsv)
 
+    directory_tsv_normalized = model_directory + "tsv_normalized/"
+    res_dict["directory_tsv_normalized"] = directory_tsv_normalized
+    # directory_tsv = "/content/Switchboard-Corpus/results/base_DialoGPT/tsv_normalized/"
+    create_directory_safe(directory_tsv_normalized)
+
     if(model_name != "human"):
-      dir_init_name = "directory_tsv_"
       for speaker in speakers:
+        dir_init_name = "directory_tsv_"
         dir_end_name =  speaker + "_M"
-        directory_tsv_speaker = directory_tsv + "speaker_" + dir_end_name + "/"
-        
+        directory_tsv_speaker = directory_tsv + "speaker_" + dir_end_name + "/"        
         res_dict[dir_init_name + dir_end_name] = directory_tsv_speaker
         create_directory_safe(directory_tsv_speaker)
+
+        dir_init_name = "directory_tsv_normalized_"
+        directory_tsv_normalized_speaker = directory_tsv_normalized + "speaker_" + dir_end_name + "/"
+        res_dict[dir_init_name + dir_end_name] = directory_tsv_normalized_speaker
+        create_directory_safe(directory_tsv_normalized_speaker)
     # else:
     #   speaker_1 = speakers[0]
     #   speaker_2 = speakers[1]
@@ -102,14 +111,24 @@ def create_result_directories(models_list, to_local_directory=False, dataset="Sw
     res_dict["directory_scrambled_tsv"] = directory_scrambled_tsv
     create_directory_safe(directory_scrambled_tsv)
 
+    directory_scrambled_tsv_normalized = directory_scrambled + "tsv_normalized/"
+    res_dict["directory_scrambled_tsv_normalized"] = directory_scrambled_tsv_normalized
+    create_directory_safe(directory_scrambled_tsv_normalized)
+
     if(model_name != "human"):
-      dir_init_name = "directory_scrambled_tsv_"
       for speaker in speakers:
+        dir_init_name = "directory_scrambled_tsv_"
         dir_end_name = speaker + "_M"
         directory_scrambled_tsv_speaker = directory_scrambled_tsv + "speaker_" + dir_end_name + "/"
         
         res_dict[dir_init_name + dir_end_name] = directory_scrambled_tsv_speaker
         create_directory_safe(directory_scrambled_tsv_speaker)
+
+        dir_init_name = "directory_scrambled_tsv_normalized_"
+        directory_scrambled_tsv_normalized_speaker = directory_scrambled_tsv_normalized + "speaker_" + dir_end_name + "/"
+        
+        res_dict[dir_init_name + dir_end_name] = directory_scrambled_tsv_normalized_speaker
+        create_directory_safe(directory_scrambled_tsv_normalized_speaker)
 
     directory_scrambled_txt = directory_scrambled + "txt/"
     res_dict["directory_scrambled_txt"] = directory_scrambled_txt
@@ -137,7 +156,50 @@ def get_dataset_settings(dataset="Switchboard-Corpus"):
     speakers=["f", "g"]
   s = DatasetSettings(test_dir, speakers)
   return s
-  
+
+def create_dialign_directories(models_list, output_dir_name="dialign_output", to_local_directory=False, dataset="Switchboard-Corpus", model_type="base", speakers=["A", "B"]):
+  if to_local_directory:
+    res_directory = "./results/" + dataset + "/"+ output_dir_name+ "/"
+  else:
+    res_directory = "/content/results/" + dataset + "/"+ output_dir_name+ "/"
+
+  create_directory_safe(res_directory)
+
+  model_res_dict = {}
+  for model_name in models_list:
+    res_dict = {}
+    full_model_name = model_type + "_" + model_name
+    # Create Model directory
+    if (model_name == "human" and model_type == "finetuned"):
+      continue
+    model_directory = res_directory + full_model_name + "/"
+
+    res_dict["model_directory"] = model_directory
+    
+    res_dict["directory_normal"] = model_directory + "normal/"
+    create_directory_safe(res_dict["directory_normal"])
+    if(model_name != "human"):
+      dir_init_name = "directory_normal"
+      for speaker in speakers:
+        dir_end_name = speaker + "_M"
+        directory_normal_speaker = res_dict["directory_normal"] + "speaker_" + dir_end_name + "/"
+        
+        res_dict[dir_init_name + dir_end_name] = directory_normal_speaker
+        create_directory_safe(directory_normal_speaker)
+
+
+    res_dict["directory_scrambled"] = model_directory + "scrambled/"
+    create_directory_safe(res_dict["directory_scrambled"])
+    if(model_name != "human"):
+      dir_init_name = "directory_scrambled"
+      for speaker in speakers:
+        dir_end_name = speaker + "_M"
+        directory_scrambled_speaker = res_dict["directory_scrambled"] + "speaker_" + dir_end_name + "/"
+        
+        res_dict[dir_init_name + dir_end_name] = directory_scrambled_speaker
+        create_directory_safe(directory_scrambled_speaker)
+    model_res_dict[full_model_name] = res_dict
+  return model_res_dict
 
 """## Experiments Type 1: Alignement in Human - Human Dialogue
 
@@ -629,3 +691,32 @@ def create_word_concrete_df(word_df, concrete_df):
   df.reset_index(inplace=True)
   df.columns = ['Word', 'Conc.M']
   return df
+
+def top_common_content_word_counts(base_h_content_word_freq_df, base_d_content_word_freq_df, finetune_d_content_word_freq_df, top_n=10):
+  base_h_content_list = base_h_content_word_freq_df['Word'].to_list()
+  base_d_content_list = base_d_content_word_freq_df['Word'].str.lower().to_list()
+  finetune_d_content_list = finetune_d_content_word_freq_df['Word'].str.lower().to_list()
+  
+  common_human_models_words = [x for x in base_h_content_list if x.lower() in base_d_content_list and x.lower() in finetune_d_content_list]
+
+  common_top_n = common_human_models_words[:top_n]
+  base_h_content_word_dict = base_h_content_word_freq_df.set_index('Word').to_dict(orient='index')
+  base_d_content_word_dict = base_d_content_word_freq_df.set_index('Word').to_dict(orient='index')
+  finetune_d_content_word_dict = finetune_d_content_word_freq_df.set_index('Word').to_dict(orient='index')
+
+  merge_count_dict = {}
+  for word in common_top_n:
+    merge_count_dict[word] = {}
+    merge_count_dict[word]["Count (Human)"] = base_h_content_word_dict[word]
+    merge_count_dict[word]["Count (Base DialoGPT)"] = base_d_content_word_dict[word]
+    merge_count_dict[word]["Count (Finetuned DialoGPT)"] = finetune_d_content_word_dict[word]
+  return merge_count_dict
+  
+
+
+def create_normalized_tsv(directory_tsv, directory_tsv_normalized):
+  for tsv in os.listdir(directory_tsv):
+    tsv_df = pd.read_csv(directory_tsv+tsv, sep="\t", names=['Speaker', 'Utterance'])
+    tsv_df["Utterance"] = tsv_df.apply(lambda x: x["Utterance"].replace(',','').lower() if isinstance(x["Utterance"], str) else "",axis=1)
+
+    tsv_df.to_csv(directory_tsv_normalized+tsv, sep='\t', index=False, header=False)
