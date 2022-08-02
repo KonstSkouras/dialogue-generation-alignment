@@ -8,11 +8,11 @@ A|6| M: _mmhmm_
 B|7| g: _no_ 
 A|8| M: _you've_ [not] _got_ _you've_ [not] 
 B|9| g: _no_ _you_ _just_ see how 
-A|10| M: " !!!!!! ' !!! ' !! "" !! remind me !! [what] !! [the] !! 2017 !! 2 !! 2018 !! 8 !! 2019 !! 6 !! 2016 !! 4 !! 7 !! " 
+A|10| M: " !!!!,!! ' !!! ' !! "" !! Remind me !! [what] !! [the] !! 2017 !! 2 !! 2018 !! 8 !! 2019 !! 6 !! 2016 !! 4 !! 7 !! " 
 B|11| g: _uh-huh_ _you_ _just_ 
-A|12| M: " !!!!!! ' !! "" !! " 
+A|12| M: " !!!!,!! ' !! "" !! " 
 B|13| g: _uh-huh_ _it's just_ _a_ slight _curve_ 
-A|14| M: " !!! ' !!! ' !! "" !! rem !! [okay] !! [i] !! u !! mm !! s !! r !! " 
+A|14| M: " !!! ' !!! ' !! "" !! Rem !! [okay] !! [i] !! u !! mm !! s !! r !! " 
 B|15| g: _uh-huh_ _and then back_ _to the left_ 
 A|16| M: [right] 
 B|17| g: [okay] _so _you're_ about_ _eh_ _three_ _to_ four inches _below_ start _then_ directly _underneath_ 
@@ -30,7 +30,7 @@ A|28| M: [okay]
 B|29| g: _uh-huh_ [right] do [you] have [the] remote village 
 A|30| M: [eh] yeah 
 B|31| g: [right] _well_ _it_ doesn't doesn't matter 
-A|32| M: " !!!! : !! ' !!! ' !! "" !!!!! 't !! " 
+A|32| M: " !!!! : !! ' !!! ' !! "" !!!,!! 't !! " 
 B|33| g: _uh-huh_ [you] can _go_ _about a_ [centimetre] _above_ [the] [the] ravine [okay] [and then] 
 A|34| M: [right] 
 B|35| g: _uh-huh_ _uh-huh_ 
@@ -124,13 +124,13 @@ A|122| M: mm
 B|123| g: [okay] [now] [right] look [down to the] crane _bay_ [right] 
 A|124| M: mmh [mmhmm] 
 B|125| g: [ehm] [straight] [down] [from] that have [you] [got] [an] actual wee _bay_ [there] [like] curves 
-A|126| M: " !!! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! 2018 !! ' !! "" !! 2016 !! 4 !! 8 !! 52 !! 96 !!!! 2016 !! 2 !! 6 !! 84 !! 7 !! 86 !!.!! 76 !! 88 !! 92 !! " 
+A|126| M: " !!! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! 2018 !! ' !! "" !! 2016 !! 4 !! 8 !! 52 !! 96 !!,!! 2016 !! 2 !! 6 !! 84 !! 7 !! 86 !!.!! 76 !! 88 !! 92 !! " 
 B|127| g: _from where you are_ [at the] moment 
 A|128| M: [mmhmm] 
 B|129| g: [right so] we'll [go straight] [down] [then] [straight] [down] [and] don't hit _the bay_ but but follow that [curve] [in] _the bay_ [so [you're] [going to] [go] straight] [down] south 
 A|130| M: uh 
 B|131| g: [okay] 
-A|132| M: " !!!!!! ' !!! ' !! 2018 !! 2017 !! 2019 !! 2020 !! "" !! 2016 !! 8 !! 88 !! 4 !!!! 488 !!.!! 89 !! " 
+A|132| M: " !!!!,!! ' !!! ' !! 2018 !! 2017 !! 2019 !! 2020 !! "" !! 2016 !! 8 !! 88 !! 4 !!,!! 488 !!.!! 89 !! " 
 B|133| g: have [you] done that [then] 
 A|134| M: [uh-huh] 
 B|135| g: [right] 
@@ -142,13 +142,13 @@ A|140| M: aye
 B|141| g: which is [where] is [it] _on your_ map 
 A|142| M: [ehm] [it's [just] below] pebbles [and] [along [to the] left] 
 B|143| g: [oh] _you've got_ another boat house 
-A|144| M: " !!!!.!! ' !! "" !! rem !! [i] !! [okay] !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !!!! vladimir !! putin !! 8 !! 4 !! " 
+A|144| M: " !!!!.!! ' !! "" !! Rem !! [i] !! [okay] !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !!,!! Vladimir !! Putin !! 8 !! 4 !! " 
 B|145| g: [uh-huh] but [right] have [oh] god [right] [where] [are] [you] [now] again 
 A|146| M: [i'm] [at the bottom] [of the] farmed _land_ 
 B|147| g: [mmhmm] 
 A|148| M: [right okay] 
 B|149| g: [mmhmm] 
-A|150| M: " !!! ' !! "" !! 2018 !! 2017 !! 2019 !! 2020 !! 2018 !! 2017 !! 4 !! 8 !! 88 !! 1111 !! 2016 !! 7 !!!! 2016 !! 6 !! 84 !! 89 !! 96 !! 56 !! 226 !! [oh] !! u !! [i] !! " 
+A|150| M: " !!! ' !! "" !! 2018 !! 2017 !! 2019 !! 2020 !! 2018 !! 2017 !! 4 !! 8 !! 88 !! 1111 !! 2016 !! 7 !!,!! 2016 !! 6 !! 84 !! 89 !! 96 !! 56 !! 226 !! [oh] !! u !! [i] !! " 
 B|151| g: [right] 
 A|152| M: [right _and] _you're going to_ come_ [up] [and] [you've [got] the] old mill [on your] [right-hand] [side] 
 B|153| g: [right] [that's] perfect [right [so] [you're] going to come] [down] [and] follow that wee [curve] 
@@ -158,7 +158,7 @@ A|156| M: [down to the] [sort of] [bottom left-hand corner of [the] bay]
 B|157| g: [to the left] 
 A|158| M: [to] miss hot wells 
 B|159| g: [straight] [down] [and then] [left] 
-A|160| M: " !!!!!! ' !! "" !! " 
+A|160| M: " !!!!,!! ' !! "" !! " 
 B|161| g: "okay [so you're] [you're] [sort of] [on] [on] [the] [corner] [on] [the] bit that juts [out] [now] _above_ [the] ""c"" [of] crane" 
 A|162| M: mm 
 B|163| g: is that [right] 
@@ -196,7 +196,7 @@ A|194| M: " !!! ' !! "" !!! ' !! 4 !! 8 !! 7 !! 6 !! 2 !! 8000 !! 456 !! 48 !! 5
 B|195| g: [right okay] [well [you're] [going to] _curve] round_ them [right] have [you] [got the] flagship 
 A|196| M: uh-uh 
 B|197| g: [and] [the] bit [and] [the] bit [of] [land] that juts [out] [well] [and] [the] bit [that's] 
-A|198| M: " !!!!!!! ' !! ' !!!.!! 2017 !! 2018 !! 2019 !! 2020 !! 2016 !! 2016 !!!! 2017 !! "" !!.!!!!!! 8 !! 88 !! 4 !!!?!! " 
+A|198| M: " !!!!,!!! ' !! ' !!!.!! 2017 !! 2018 !! 2019 !! 2020 !! 2016 !! 2016 !!,!! 2017 !! "" !!.!!!!!! 8 !! 88 !! 4 !!!?!! " 
 B|199| g: [uh-huh] [uh-huh] 
 A|200| M: [right] 
 B|201| g: [right so] [what] [you're going to] is _curve round_ [your] stones [there and] [your] [the] finish is [just ehm] [about a] [centimetre] [from] that black [line] [that's] marking [the] crane [bay] [just] directly across [from the] _ship_ 
@@ -236,19 +236,19 @@ Turn ID=8| A | M : you've not got you've not
 Turn ID=9| B | g : no you just see how
 	Free: Pattern=just, Pattern=no, Pattern=you
 	Constrained: 
-Turn ID=10| A | M : " !!!!!! ' !!! ' !! "" !! remind me !! what !! the !! 2017 !! 2 !! 2018 !! 8 !! 2019 !! 6 !! 2016 !! 4 !! 7 !! "
+Turn ID=10| A | M : " !!!!,!! ' !!! ' !! "" !! Remind me !! what !! the !! 2017 !! 2 !! 2018 !! 8 !! 2019 !! 6 !! 2016 !! 4 !! 7 !! "
 	Free: Pattern=the, Pattern=what
 	Constrained: 
 Turn ID=11| B | g : uh-huh you just
 	Free: Pattern=just, Pattern=uh-huh, Pattern=you
 	Constrained: 
-Turn ID=12| A | M : " !!!!!! ' !! "" !! "
+Turn ID=12| A | M : " !!!!,!! ' !! "" !! "
 	Free: 
 	Constrained: 
 Turn ID=13| B | g : uh-huh it's just a slight curve
 	Free: Pattern=it's just, Pattern=uh-huh, Pattern=curve, Pattern=a
 	Constrained: Pattern=just, Pattern=it's
-Turn ID=14| A | M : " !!! ' !!! ' !! "" !! rem !! okay !! i !! u !! mm !! s !! r !! "
+Turn ID=14| A | M : " !!! ' !!! ' !! "" !! Rem !! okay !! i !! u !! mm !! s !! r !! "
 	Free: Pattern=i, Pattern=okay
 	Constrained: 
 Turn ID=15| B | g : uh-huh and then back to the left
@@ -302,7 +302,7 @@ Turn ID=30| A | M : eh yeah
 Turn ID=31| B | g : right well it doesn't doesn't matter
 	Free: Pattern=well, Pattern=right, Pattern=it
 	Constrained: 
-Turn ID=32| A | M : " !!!! : !! ' !!! ' !! "" !!!!! 't !! "
+Turn ID=32| A | M : " !!!! : !! ' !!! ' !! "" !!!,!! 't !! "
 	Free: 
 	Constrained: 
 Turn ID=33| B | g : uh-huh you can go about a centimetre above the the ravine okay and then
@@ -584,7 +584,7 @@ Turn ID=124| A | M : mmh mmhmm
 Turn ID=125| B | g : ehm straight down from that have you got an actual wee bay there like curves
 	Free: Pattern=you, Pattern=there, Pattern=from, Pattern=ehm, Pattern=like, Pattern=bay, Pattern=got, Pattern=straight, Pattern=an, Pattern=down
 	Constrained: 
-Turn ID=126| A | M : " !!! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! 2018 !! ' !! "" !! 2016 !! 4 !! 8 !! 52 !! 96 !!!! 2016 !! 2 !! 6 !! 84 !! 7 !! 86 !!.!! 76 !! 88 !! 92 !! "
+Turn ID=126| A | M : " !!! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! 2018 !! ' !! "" !! 2016 !! 4 !! 8 !! 52 !! 96 !!,!! 2016 !! 2 !! 6 !! 84 !! 7 !! 86 !!.!! 76 !! 88 !! 92 !! "
 	Free: 
 	Constrained: 
 Turn ID=127| B | g : from where you are at the moment
@@ -602,7 +602,7 @@ Turn ID=130| A | M : uh
 Turn ID=131| B | g : okay
 	Free: Pattern=okay
 	Constrained: 
-Turn ID=132| A | M : " !!!!!! ' !!! ' !! 2018 !! 2017 !! 2019 !! 2020 !! "" !! 2016 !! 8 !! 88 !! 4 !!!! 488 !!.!! 89 !! "
+Turn ID=132| A | M : " !!!!,!! ' !!! ' !! 2018 !! 2017 !! 2019 !! 2020 !! "" !! 2016 !! 8 !! 88 !! 4 !!,!! 488 !!.!! 89 !! "
 	Free: 
 	Constrained: 
 Turn ID=133| B | g : have you done that then
@@ -638,7 +638,7 @@ Turn ID=142| A | M : ehm it's just below pebbles and along to the left
 Turn ID=143| B | g : oh you've got another boat house
 	Free: Pattern=you've got, Pattern=oh
 	Constrained: Pattern=you've, Pattern=got
-Turn ID=144| A | M : " !!!!.!! ' !! "" !! rem !! i !! okay !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !!!! vladimir !! putin !! 8 !! 4 !! "
+Turn ID=144| A | M : " !!!!.!! ' !! "" !! Rem !! i !! okay !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !!,!! Vladimir !! Putin !! 8 !! 4 !! "
 	Free: Pattern=i, Pattern=okay
 	Constrained: 
 Turn ID=145| B | g : uh-huh but right have oh god right where are you now again
@@ -656,7 +656,7 @@ Turn ID=148| A | M : right okay
 Turn ID=149| B | g : mmhmm
 	Free: Pattern=mmhmm
 	Constrained: 
-Turn ID=150| A | M : " !!! ' !! "" !! 2018 !! 2017 !! 2019 !! 2020 !! 2018 !! 2017 !! 4 !! 8 !! 88 !! 1111 !! 2016 !! 7 !!!! 2016 !! 6 !! 84 !! 89 !! 96 !! 56 !! 226 !! oh !! u !! i !! "
+Turn ID=150| A | M : " !!! ' !! "" !! 2018 !! 2017 !! 2019 !! 2020 !! 2018 !! 2017 !! 4 !! 8 !! 88 !! 1111 !! 2016 !! 7 !!,!! 2016 !! 6 !! 84 !! 89 !! 96 !! 56 !! 226 !! oh !! u !! i !! "
 	Free: Pattern=i, Pattern=oh
 	Constrained: 
 Turn ID=151| B | g : right
@@ -686,7 +686,7 @@ Turn ID=158| A | M : to miss hot wells
 Turn ID=159| B | g : straight down and then left
 	Free: Pattern=and then, Pattern=left, Pattern=straight, Pattern=down
 	Constrained: Pattern=then, Pattern=and
-Turn ID=160| A | M : " !!!!!! ' !! "" !! "
+Turn ID=160| A | M : " !!!!,!! ' !! "" !! "
 	Free: 
 	Constrained: 
 Turn ID=161| B | g : "okay so you're you're sort of on on the corner on the bit that juts out now above the ""c"" of crane"
@@ -800,7 +800,7 @@ Turn ID=196| A | M : uh-uh
 Turn ID=197| B | g : and the bit and the bit of land that juts out well and the bit that's
 	Free: Pattern=well, Pattern=out, Pattern=and, Pattern=land, Pattern=of, Pattern=that's, Pattern=the
 	Constrained: 
-Turn ID=198| A | M : " !!!!!!! ' !! ' !!!.!! 2017 !! 2018 !! 2019 !! 2020 !! 2016 !! 2016 !!!! 2017 !! "" !!.!!!!!! 8 !! 88 !! 4 !!!?!! "
+Turn ID=198| A | M : " !!!!,!!! ' !! ' !!!.!! 2017 !! 2018 !! 2019 !! 2020 !! 2016 !! 2016 !!,!! 2017 !! "" !!.!!!!!! 8 !! 88 !! 4 !!!?!! "
 	Free: 
 	Constrained: 
 Turn ID=199| B | g : uh-huh uh-huh

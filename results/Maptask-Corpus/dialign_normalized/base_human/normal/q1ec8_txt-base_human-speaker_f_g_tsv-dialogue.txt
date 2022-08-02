@@ -1,0 +1,463 @@
+B|0| g: _right_ starts _above the_ stony desert 
+A|1| f: _alright_ okay 
+B|2| g: _right_ now turn _to the west_ 
+A|3| f: _mmhmm_ 
+B|4| g: er _go_ forward _and then_ kind _of_ _down south_ 
+A|5| f: [west] [and then] [down south] 
+B|6| g: [mmhmm] until you're _like_ at _the bottom of the_ kind _of_ _level with the bottom of the_ desert 
+A|7| f: [the] _map_ all [right] 
+B|8| g: [right] [then] travel [west] _again_ 
+A|9| f: [mmhmm] 
+B|10| g: [right] _to _the_ very end of_ paper 
+A|11| f: [the very end [of] the] _map_ 
+B|12| g: [map] [right] 
+A|13| f: [mmhmm] 
+B|14| g: [and then] _up_ _north_ 
+A|15| f: [mmhmm] 
+B|16| g: now have you got anything [down] _that_ side 
+A|17| f: not _in_ [that] corner 
+B|18| g: _no_ _well_ have you got _a_ collapsed shelter 
+A|19| f: fssss _over_ [a] bit 
+B|20| g: [right] _go_ straight _up_ _north_ 
+A|21| f: [mmhmm] 
+B|22| g: until you get _to_ [a] kind [of] _level_ _above the_ shelter 
+A|23| f: _alright_ 
+B|24| g: [and] turn _east_ _to_ [and] travel [right] along 
+A|25| f: _alright_ 
+B|26| g: _past the_ [the] shelter that's [over] _the top_ 
+A|27| f: uh-huh 
+B|28| g: [right] _then south_ 
+A|29| f: [then south] 
+B|30| g: _just_ _to_ below [the] shelter below [the] _level_ [of the] shelter 
+A|31| f: [right] 
+B|32| g: [in] [a] kind [of] _east_ [and] have you got [a] savannah 
+A|33| f: [mmhmm] 
+B|34| g: there's [a] savannah [right] you want _to_ travel _east_ until you get _to_ before [the] savannah 
+A|35| f: [mmhmm] 
+B|36| g: [then] turn _north_ _up_ 
+A|37| f: [mmhmm] 
+B|38| g: don't _go_ _round_ about _it_ _just_ _go up_ before _it_ 
+A|39| f: [mmhmm] 
+B|40| g: [right] on my [map] there's [a] slate _mountain_ you're traveling _north_ 
+A|41| f: i'm going [north] 
+B|42| g: [right] now have you got [the] hot wells 
+A|43| f: they're [over] [a] bit 
+B|44| g: _or_ hot springs 
+A|45| f: they're [over] [to the west] [a] bit 
+B|46| g: [right] travel straight _up_ [north] 'til you get _just above the_ hot wells make sure you've cleared [the] [the] height _of it_ 
+A|47| f: [right] 
+B|48| g: [and] turn [to] your [the west] 
+A|49| f: [right] _so_ i'm going _above them_ 
+B|50| g: until you get [to the] hot wells 
+A|51| f: [right] 
+B|52| g: _no_ don't _go_ [over] _the top of_ [them] 
+A|53| f: [right] i'll _go up _to_ them_ 
+B|54| g: [alright] now [and] come [down] below [them] 
+A|55| f: _underneath them_ 
+B|56| g: [mmhmm] until you _just_ get _past_ [them] [then] come [down] [to them] [south] 
+A|57| f: [south] 
+B|58| g: _just_ [a] [a] couple [of] inches [and then] [west] 
+A|59| f: [mmhmm] _underneath_ [the] elephants 
+B|60| g: [mmhmm] [and then] [north] now have you got big white _mountain_ 
+A|61| f: [mmhmm] it's [up] [a] bit 
+B|62| g: [right] you want [to] [go] _right up_ [north] 
+A|63| f: [mmhmm] 
+B|64| g: _past_ _it_ 
+A|65| f: [past [the] top [of] it] 
+B|66| g: _right _up_ above it_ 
+A|67| f: [right] 
+B|68| g: [right] have you got _the lake_ 
+A|69| f: [no] 
+B|70| g: mm-mm 
+A|71| f: [to the] [no] 
+B|72| g: [the] roman baths 
+A|73| f: [no] 
+B|74| g: hmm _antelopes_ 
+A|75| f: mm they're [over] _to the east_ [of the] [mountain] 
+B|76| g: [right] you want [to] [go] sure you don't have [a] _lake_ 
+A|77| f: [no] beside this [no] 
+B|78| g: [no] but [right] [the] way [over] 
+A|79| f: [right] [over] _to the east_ [again] 
+B|80| g: aye [right] [go up to] about [the] [the] _level with the bottom of the lake_ 
+A|81| f: [level with the bottom of the lake] 
+B|82| g: straight [north] [to] [up [to] the] [level with the bottom of the lake] 
+A|83| f: [alright] 
+B|84| g: [and then] [east] 'til you get [to the] front [of the lake] 
+A|85| f: i'm i'm going [to] hit [the] [round] rocks [no] 
+B|86| g: [no] 
+A|87| f: [right] 
+B|88| g: [and] you want [to] [go] _right round_ about [the lake] 
+A|89| f: [up above it] 
+B|90| g: [mmhmm] [and] come back [round] on yourself 'til you get [to] 
+A|91| f: something [like] circle [right round] [it] 
+B|92| g: [mmhmm] [right] got your _antelopes_ 
+A|93| f: uh-huh 
+B|94| g: [right] _just_ [go] [round] enough [so] you're [like] [in] [a] [above them] 
+A|95| f: [right up] [so] i'm sitting [just above _the] antelopes_ 
+B|96| g: [no] [the] height [above them] but [just] below [the lake] but [above the] antelope 
+A|97| f: [right] 
+B|98| g: [right] should be [a] roman baths below [the lake] 
+A|99| f: [well] i havenae 
+B|100| g: [well] on mines there is [and] you come between [the lake] [and] [the] roman baths [so] you'll have [to] avoid [them] 
+A|101| f: [right] okay 
+B|102| g: [and] you want [to] come [south] [and] [round] [the antelopes] 
+A|103| f: _to the east_ [or] [the west] 
+B|104| g: [to the west] [of [the] antelopes] 
+A|105| f: [right] 
+B|106| g: ehm [and] [go] [right] [underneath them] 
+A|107| f: [mmhmm] 
+B|108| g: [then] travel [to the east] _just past the antelopes_ 
+A|109| f: [mmhmm] 
+B|110| g: that's [it] _finished_ 
+A|111| f: [just past the antelopes] it's [finished] 
+B|112| g: [mmhmm] 
+A|113| f: okay 
+B|114| g: that's [it] 
+
+
+TURN DETAILS:
+Turn ID=0| B | g : right starts above the stony desert
+	Free: Pattern=above the, Pattern=right
+	Constrained: Pattern=the
+Turn ID=1| A | f : alright okay
+	Free: Pattern=alright
+	Constrained: 
+Turn ID=2| B | g : right now turn to the west
+	Free: Pattern=to the west, Pattern=right
+	Constrained: Pattern=west, Pattern=the west, Pattern=to the, Pattern=the, Pattern=to
+Turn ID=3| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=4| B | g : er go forward and then kind of down south
+	Free: Pattern=down south, Pattern=and then, Pattern=of, Pattern=go
+	Constrained: Pattern=then, Pattern=down, Pattern=and, Pattern=south
+Turn ID=5| A | f : west and then down south
+	Free: Pattern=down south, Pattern=and then, Pattern=west
+	Constrained: Pattern=then, Pattern=down, Pattern=and, Pattern=south
+Turn ID=6| B | g : mmhmm until you're like at the bottom of the kind of level with the bottom of the desert
+	Free: Pattern=of, Pattern=the bottom of the, Pattern=level with the bottom of the, Pattern=like, Pattern=mmhmm
+	Constrained: Pattern=of, Pattern=the bottom of the, Pattern=level, Pattern=the, Pattern=of the
+Turn ID=7| A | f : the map all right
+	Free: Pattern=map, Pattern=the, Pattern=right
+	Constrained: 
+Turn ID=8| B | g : right then travel west again
+	Free: Pattern=then, Pattern=right, Pattern=again, Pattern=west
+	Constrained: 
+Turn ID=9| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=10| B | g : right to the very end of paper
+	Free: Pattern=the very end of, Pattern=to the, Pattern=right
+	Constrained: Pattern=to, Pattern=of, Pattern=the
+Turn ID=11| A | f : the very end of the map
+	Free: Pattern=the very end of, Pattern=of the, Pattern=map
+	Constrained: Pattern=the, Pattern=of
+Turn ID=12| B | g : map right
+	Free: Pattern=map, Pattern=right
+	Constrained: 
+Turn ID=13| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=14| B | g : and then up north
+	Free: Pattern=and then, Pattern=up, Pattern=north
+	Constrained: Pattern=then, Pattern=and
+Turn ID=15| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=16| B | g : now have you got anything down that side
+	Free: Pattern=down, Pattern=that
+	Constrained: 
+Turn ID=17| A | f : not in that corner
+	Free: Pattern=in, Pattern=that
+	Constrained: 
+Turn ID=18| B | g : no well have you got a collapsed shelter
+	Free: Pattern=no, Pattern=a, Pattern=well
+	Constrained: 
+Turn ID=19| A | f : fssss over a bit
+	Free: Pattern=a, Pattern=over
+	Constrained: 
+Turn ID=20| B | g : right go straight up north
+	Free: Pattern=up, Pattern=go, Pattern=right, Pattern=north
+	Constrained: 
+Turn ID=21| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=22| B | g : until you get to a kind of level above the shelter
+	Free: Pattern=of, Pattern=a, Pattern=level, Pattern=above the, Pattern=to
+	Constrained: Pattern=the
+Turn ID=23| A | f : alright
+	Free: Pattern=alright
+	Constrained: 
+Turn ID=24| B | g : and turn east to and travel right along
+	Free: Pattern=east, Pattern=right, Pattern=to, Pattern=and
+	Constrained: 
+Turn ID=25| A | f : alright
+	Free: Pattern=alright
+	Constrained: 
+Turn ID=26| B | g : past the the shelter that's over the top
+	Free: Pattern=the top, Pattern=past the, Pattern=the, Pattern=over
+	Constrained: Pattern=the, Pattern=past
+Turn ID=27| A | f : uh-huh
+	Free: 
+	Constrained: 
+Turn ID=28| B | g : right then south
+	Free: Pattern=then south, Pattern=right
+	Constrained: Pattern=then, Pattern=south
+Turn ID=29| A | f : then south
+	Free: Pattern=then south
+	Constrained: Pattern=then, Pattern=south
+Turn ID=30| B | g : just to below the shelter below the level of the shelter
+	Free: Pattern=just, Pattern=level, Pattern=the, Pattern=to, Pattern=of the
+	Constrained: Pattern=the, Pattern=of
+Turn ID=31| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=32| B | g : in a kind of east and have you got a savannah
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=in, Pattern=east
+	Constrained: 
+Turn ID=33| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=34| B | g : there's a savannah right you want to travel east until you get to before the savannah
+	Free: Pattern=right, Pattern=a, Pattern=the, Pattern=to, Pattern=east
+	Constrained: 
+Turn ID=35| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=36| B | g : then turn north up
+	Free: Pattern=then, Pattern=up, Pattern=north
+	Constrained: 
+Turn ID=37| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=38| B | g : don't go round about it just go up before it
+	Free: Pattern=just, Pattern=go, Pattern=go up, Pattern=it, Pattern=round
+	Constrained: Pattern=up, Pattern=go
+Turn ID=39| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=40| B | g : right on my map there's a slate mountain you're traveling north
+	Free: Pattern=right, Pattern=a, Pattern=map, Pattern=mountain, Pattern=north
+	Constrained: 
+Turn ID=41| A | f : i'm going north
+	Free: Pattern=north
+	Constrained: 
+Turn ID=42| B | g : right now have you got the hot wells
+	Free: Pattern=the, Pattern=right
+	Constrained: 
+Turn ID=43| A | f : they're over a bit
+	Free: Pattern=a, Pattern=over
+	Constrained: 
+Turn ID=44| B | g : or hot springs
+	Free: Pattern=or
+	Constrained: 
+Turn ID=45| A | f : they're over to the west a bit
+	Free: Pattern=to the west, Pattern=a, Pattern=over
+	Constrained: Pattern=west, Pattern=the west, Pattern=to the, Pattern=the, Pattern=to
+Turn ID=46| B | g : right travel straight up north 'til you get just above the hot wells make sure you've cleared the the height of it
+	Free: Pattern=just above the, Pattern=right, Pattern=north, Pattern=up, Pattern=of it, Pattern=the
+	Constrained: Pattern=of, Pattern=just, Pattern=it, Pattern=above the, Pattern=the
+Turn ID=47| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=48| B | g : and turn to your the west
+	Free: Pattern=the west, Pattern=to, Pattern=and
+	Constrained: Pattern=the, Pattern=west
+Turn ID=49| A | f : right so i'm going above them
+	Free: Pattern=above them, Pattern=right, Pattern=so
+	Constrained: Pattern=them
+Turn ID=50| B | g : until you get to the hot wells
+	Free: Pattern=to the
+	Constrained: Pattern=the, Pattern=to
+Turn ID=51| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=52| B | g : no don't go over the top of them
+	Free: Pattern=the top of, Pattern=go, Pattern=no, Pattern=over, Pattern=them
+	Constrained: Pattern=the top, Pattern=of, Pattern=the
+Turn ID=53| A | f : right i'll go up to them
+	Free: Pattern=go up to, Pattern=to them, Pattern=right
+	Constrained: Pattern=up to, Pattern=go, Pattern=go up, Pattern=them, Pattern=up, Pattern=to
+Turn ID=54| B | g : alright now and come down below them
+	Free: Pattern=down, Pattern=and, Pattern=alright, Pattern=them
+	Constrained: 
+Turn ID=55| A | f : underneath them
+	Free: Pattern=underneath them
+	Constrained: Pattern=underneath, Pattern=them
+Turn ID=56| B | g : mmhmm until you just get past them then come down to them south
+	Free: Pattern=to them, Pattern=just, Pattern=then, Pattern=down, Pattern=mmhmm, Pattern=south, Pattern=them, Pattern=past
+	Constrained: Pattern=to, Pattern=them
+Turn ID=57| A | f : south
+	Free: Pattern=south
+	Constrained: 
+Turn ID=58| B | g : just a a couple of inches and then west
+	Free: Pattern=just, Pattern=a, Pattern=and then, Pattern=west, Pattern=of
+	Constrained: Pattern=then, Pattern=and
+Turn ID=59| A | f : mmhmm underneath the elephants
+	Free: Pattern=the, Pattern=underneath, Pattern=mmhmm
+	Constrained: 
+Turn ID=60| B | g : mmhmm and then north now have you got big white mountain
+	Free: Pattern=and then, Pattern=mountain, Pattern=north, Pattern=mmhmm
+	Constrained: Pattern=then, Pattern=and
+Turn ID=61| A | f : mmhmm it's up a bit
+	Free: Pattern=up, Pattern=a, Pattern=mmhmm
+	Constrained: 
+Turn ID=62| B | g : right you want to go right up north
+	Free: Pattern=right, Pattern=go, Pattern=north, Pattern=to, Pattern=right up
+	Constrained: Pattern=up, Pattern=right
+Turn ID=63| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=64| B | g : past it
+	Free: Pattern=it, Pattern=past
+	Constrained: 
+Turn ID=65| A | f : past the top of it
+	Free: Pattern=the top of, Pattern=of it, Pattern=past the
+	Constrained: Pattern=of, Pattern=it, Pattern=the, Pattern=the top, Pattern=past
+Turn ID=66| B | g : right up above it
+	Free: Pattern=up above it, Pattern=right up
+	Constrained: Pattern=up, Pattern=it, Pattern=right
+Turn ID=67| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=68| B | g : right have you got the lake
+	Free: Pattern=the lake, Pattern=right
+	Constrained: Pattern=the, Pattern=lake
+Turn ID=69| A | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=70| B | g : mm-mm
+	Free: 
+	Constrained: 
+Turn ID=71| A | f : to the no
+	Free: Pattern=to the, Pattern=no
+	Constrained: Pattern=the, Pattern=to
+Turn ID=72| B | g : the roman baths
+	Free: Pattern=the
+	Constrained: 
+Turn ID=73| A | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=74| B | g : hmm antelopes
+	Free: Pattern=antelopes
+	Constrained: 
+Turn ID=75| A | f : mm they're over to the east of the mountain
+	Free: Pattern=to the east, Pattern=of the, Pattern=mountain, Pattern=over
+	Constrained: Pattern=of, Pattern=to the, Pattern=the, Pattern=to, Pattern=east
+Turn ID=76| B | g : right you want to go sure you don't have a lake
+	Free: Pattern=right, Pattern=go, Pattern=a, Pattern=lake, Pattern=to
+	Constrained: 
+Turn ID=77| A | f : no beside this no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=78| B | g : no but right the way over
+	Free: Pattern=no, Pattern=the, Pattern=right, Pattern=over
+	Constrained: 
+Turn ID=79| A | f : right over to the east again
+	Free: Pattern=to the east, Pattern=right, Pattern=again, Pattern=over
+	Constrained: Pattern=to the, Pattern=to, Pattern=east, Pattern=the
+Turn ID=80| B | g : aye right go up to about the the level with the bottom of the lake
+	Free: Pattern=level with the bottom of the lake, Pattern=go up to, Pattern=the, Pattern=right
+	Constrained: Pattern=the bottom of the, Pattern=go up, Pattern=of the lake, Pattern=the, Pattern=lake, Pattern=of the, Pattern=up to, Pattern=of, Pattern=go, Pattern=level with the bottom of the, Pattern=level, Pattern=the lake, Pattern=up, Pattern=to
+Turn ID=81| A | f : level with the bottom of the lake
+	Free: Pattern=level with the bottom of the lake
+	Constrained: Pattern=of, Pattern=the bottom of the, Pattern=level with the bottom of the, Pattern=of the lake, Pattern=the, Pattern=lake, Pattern=of the, Pattern=level, Pattern=the lake
+Turn ID=82| B | g : straight north to up to the level with the bottom of the lake
+	Free: Pattern=up to, Pattern=to the, Pattern=north, Pattern=to, Pattern=level with the bottom of the lake
+	Constrained: Pattern=of, Pattern=the bottom of the, Pattern=level with the bottom of the, Pattern=of the lake, Pattern=the, Pattern=lake, Pattern=of the, Pattern=level, Pattern=the lake, Pattern=up, Pattern=to
+Turn ID=83| A | f : alright
+	Free: Pattern=alright
+	Constrained: 
+Turn ID=84| B | g : and then east 'til you get to the front of the lake
+	Free: Pattern=of the lake, Pattern=and then, Pattern=to the, Pattern=east
+	Constrained: Pattern=of, Pattern=then, Pattern=the lake, Pattern=and, Pattern=the, Pattern=lake, Pattern=to, Pattern=of the
+Turn ID=85| A | f : i'm i'm going to hit the round rocks no
+	Free: Pattern=no, Pattern=the, Pattern=to, Pattern=round
+	Constrained: 
+Turn ID=86| B | g : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=87| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=88| B | g : and you want to go right round about the lake
+	Free: Pattern=go, Pattern=right round, Pattern=the lake, Pattern=and, Pattern=to
+	Constrained: Pattern=the, Pattern=right, Pattern=lake, Pattern=round
+Turn ID=89| A | f : up above it
+	Free: Pattern=up above it
+	Constrained: Pattern=up, Pattern=it
+Turn ID=90| B | g : mmhmm and come back round on yourself 'til you get to
+	Free: Pattern=to, Pattern=and, Pattern=round, Pattern=mmhmm
+	Constrained: 
+Turn ID=91| A | f : something like circle right round it
+	Free: Pattern=right round, Pattern=it, Pattern=like
+	Constrained: Pattern=right, Pattern=round
+Turn ID=92| B | g : mmhmm right got your antelopes
+	Free: Pattern=right, Pattern=antelopes, Pattern=mmhmm
+	Constrained: 
+Turn ID=93| A | f : uh-huh
+	Free: 
+	Constrained: 
+Turn ID=94| B | g : right just go round enough so you're like in a above them
+	Free: Pattern=right, Pattern=just, Pattern=go, Pattern=a, Pattern=so, Pattern=in, Pattern=above them, Pattern=round, Pattern=like
+	Constrained: Pattern=them
+Turn ID=95| A | f : right up so i'm sitting just above the antelopes
+	Free: Pattern=just above the, Pattern=right up, Pattern=the antelopes, Pattern=so
+	Constrained: Pattern=right, Pattern=just, Pattern=antelopes, Pattern=above the, Pattern=the, Pattern=up
+Turn ID=96| B | g : no the height above them but just below the lake but above the antelope
+	Free: Pattern=just, Pattern=no, Pattern=the lake, Pattern=above them, Pattern=above the, Pattern=the
+	Constrained: Pattern=the, Pattern=lake, Pattern=them
+Turn ID=97| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=98| B | g : right should be a roman baths below the lake
+	Free: Pattern=the lake, Pattern=right, Pattern=a
+	Constrained: Pattern=the, Pattern=lake
+Turn ID=99| A | f : well i havenae
+	Free: Pattern=well
+	Constrained: 
+Turn ID=100| B | g : well on mines there is and you come between the lake and the roman baths so you'll have to avoid them
+	Free: Pattern=well, Pattern=the lake, Pattern=and, Pattern=the, Pattern=to, Pattern=them, Pattern=so
+	Constrained: Pattern=the, Pattern=lake
+Turn ID=101| A | f : right okay
+	Free: Pattern=right
+	Constrained: 
+Turn ID=102| B | g : and you want to come south and round the antelopes
+	Free: Pattern=the antelopes, Pattern=and, Pattern=round, Pattern=to, Pattern=south
+	Constrained: Pattern=the, Pattern=antelopes
+Turn ID=103| A | f : to the east or the west
+	Free: Pattern=to the east, Pattern=the west, Pattern=or
+	Constrained: Pattern=west, Pattern=to the, Pattern=the, Pattern=to, Pattern=east
+Turn ID=104| B | g : to the west of the antelopes
+	Free: Pattern=to the west, Pattern=of the, Pattern=the antelopes
+	Constrained: Pattern=the west, Pattern=to the, Pattern=antelopes, Pattern=the, Pattern=to, Pattern=west, Pattern=of
+Turn ID=105| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=106| B | g : ehm and go right underneath them
+	Free: Pattern=underneath them, Pattern=go, Pattern=right, Pattern=and
+	Constrained: Pattern=underneath, Pattern=them
+Turn ID=107| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=108| B | g : then travel to the east just past the antelopes
+	Free: Pattern=just past the antelopes, Pattern=to the east, Pattern=then
+	Constrained: Pattern=just, Pattern=the antelopes, Pattern=to the, Pattern=antelopes, Pattern=the, Pattern=to, Pattern=past the, Pattern=past, Pattern=east
+Turn ID=109| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=110| B | g : that's it finished
+	Free: Pattern=it, Pattern=finished
+	Constrained: 
+Turn ID=111| A | f : just past the antelopes it's finished
+	Free: Pattern=just past the antelopes, Pattern=finished
+	Constrained: Pattern=just, Pattern=the antelopes, Pattern=antelopes, Pattern=the, Pattern=past the, Pattern=past
+Turn ID=112| B | g : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=113| A | f : okay
+	Free: 
+	Constrained: 
+Turn ID=114| B | g : that's it
+	Free: Pattern=it
+	Constrained: 

@@ -14,7 +14,7 @@ A|12| M: [right]
 B|13| g: _no_ _no_ _no_ _no_ 
 A|14| M: [no] 
 B|15| g: _past_ [the diamond] mine not _that_ not _that_ steep a curve like _just_ 
-A|16| M: " !!! ' !!! ' !! "" !! 8 !! 4 !! 84 !! 81 !! 86 !! 88 !! 886 !! 91 !! 226 !! 87 !! 889 !! 89 !! 92 !! 96 !! 888 !! 7 !!.!!!! 85 !!!!!!!!!!!!!!!!!!!!! [you] !! _have_ !! [okay] !! _there_ !! [right] !! [on] !! " 
+A|16| M: " !!! ' !!! ' !! "" !! 8 !! 4 !! 84 !! 81 !! 86 !! 88 !! 886 !! 91 !! 226 !! 87 !! 889 !! 89 !! 92 !! 96 !! 888 !! 7 !!.!!,!! 85 !!!!!!!!!!!!!!!!!!!,!! [you] !! _have_ !! [okay] !! _there_ !! [right] !! [on] !! " 
 B|17| g: _just_ like _just_ more a wee bit more than a [straight] line along _past_ [the diamond] mine 
 A|18| M: [right] 
 B|19| g: i i don't suppose you've got a graveyard [have] [you] 
@@ -36,7 +36,7 @@ A|34| M: mmhmm
 B|35| g: canoes 
 A|36| M: " !!! "" !! ' !!.!! " 
 B|37| g: [no] i've [no] got any canoes 
-A|38| M: " !!! ' !! "" !! siri !! " 
+A|38| M: " !!! ' !! "" !! Siri !! " 
 B|39| g: do [you] see [the] carved wooden pole 
 A|40| M: yes 
 B|41| g: [no] [you] see [the] walled city 
@@ -58,7 +58,7 @@ A|56| M: [no]
 B|57| g: [right] you're _just_ heading along _past that_ [you] see _the flat rocks_ 
 A|58| M: [yeah] i'm [just] [going up] [past that] 
 B|59| g: [no] 
-A|60| M: " !!!!.!! ' !! :' !!! ' !! "" !!.!! 2020 !! 2018 !! 2019 !! 2017 !! 226 !! 8 !! 88 !! 888 !! 81 !!!! 86 !! 84 !! 4 !! 41 !! 147 !! 91 !! 146 !! 286 !! 7 !! 886 !! 428 !! 488 !! 328 !! 458 !! " 
+A|60| M: " !!!!.!! ' !! :' !!! ' !! "" !!.!! 2020 !! 2018 !! 2019 !! 2017 !! 226 !! 8 !! 88 !! 888 !! 81 !!,!! 86 !! 84 !! 4 !! 41 !! 147 !! 91 !! 146 !! 286 !! 7 !! 886 !! 428 !! 488 !! 328 !! 458 !! " 
 B|61| g: great [ehm] [okay] head [up] [ehm] [past] stone creek [you] need [to] be [going] at _about_ [up] curving [up] [to the] [right] at _about_ a forty-five degree angle 
 A|62| M: mmhmm 
 B|63| g: aye 
@@ -78,7 +78,7 @@ A|76| M: [yeah]
 B|77| g: do [you] see a cattle ranch [no] 
 A|78| M: [no] 
 B|79| g: [right] [ehm] [you] see [that] _fort_ 
-A|80| M:  !!! tweet !! ' !! siri !! 
+A|80| M:  !!! Tweet !! ' !! Siri !! 
 B|81| g: away at [the] other [side] [right] you're heading _to go_ _under_ [that] but like [on] your way _about halfway_ between [the] buffalo and _the fort_ there's a wee blip in your line 
 A|82| M: [what] 
 B|83| g: like you're [going] over [the] top something and then coming back [down] and [going] _under the fort_ 
@@ -142,7 +142,7 @@ Turn ID=14| A | M : no
 Turn ID=15| B | g : past the diamond mine not that not that steep a curve like just
 	Free: Pattern=the diamond, Pattern=just, Pattern=past, Pattern=that
 	Constrained: Pattern=the
-Turn ID=16| A | M : " !!! ' !!! ' !! "" !! 8 !! 4 !! 84 !! 81 !! 86 !! 88 !! 886 !! 91 !! 226 !! 87 !! 889 !! 89 !! 92 !! 96 !! 888 !! 7 !!.!!!! 85 !!!!!!!!!!!!!!!!!!!!! you !! have !! okay !! there !! right !! on !! "
+Turn ID=16| A | M : " !!! ' !!! ' !! "" !! 8 !! 4 !! 84 !! 81 !! 86 !! 88 !! 886 !! 91 !! 226 !! 87 !! 889 !! 89 !! 92 !! 96 !! 888 !! 7 !!.!!,!! 85 !!!!!!!!!!!!!!!!!!!,!! you !! have !! okay !! there !! right !! on !! "
 	Free: Pattern=right, Pattern=you, Pattern=have, Pattern=there, Pattern=on, Pattern=okay
 	Constrained: 
 Turn ID=17| B | g : just like just more a wee bit more than a straight line along past the diamond mine
@@ -208,7 +208,7 @@ Turn ID=36| A | M : " !!! "" !! ' !!.!! "
 Turn ID=37| B | g : no i've no got any canoes
 	Free: Pattern=no
 	Constrained: 
-Turn ID=38| A | M : " !!! ' !! "" !! siri !! "
+Turn ID=38| A | M : " !!! ' !! "" !! Siri !! "
 	Free: 
 	Constrained: 
 Turn ID=39| B | g : do you see the carved wooden pole
@@ -274,7 +274,7 @@ Turn ID=58| A | M : yeah i'm just going up past that
 Turn ID=59| B | g : no
 	Free: Pattern=no
 	Constrained: 
-Turn ID=60| A | M : " !!!!.!! ' !! :' !!! ' !! "" !!.!! 2020 !! 2018 !! 2019 !! 2017 !! 226 !! 8 !! 88 !! 888 !! 81 !!!! 86 !! 84 !! 4 !! 41 !! 147 !! 91 !! 146 !! 286 !! 7 !! 886 !! 428 !! 488 !! 328 !! 458 !! "
+Turn ID=60| A | M : " !!!!.!! ' !! :' !!! ' !! "" !!.!! 2020 !! 2018 !! 2019 !! 2017 !! 226 !! 8 !! 88 !! 888 !! 81 !!,!! 86 !! 84 !! 4 !! 41 !! 147 !! 91 !! 146 !! 286 !! 7 !! 886 !! 428 !! 488 !! 328 !! 458 !! "
 	Free: 
 	Constrained: 
 Turn ID=61| B | g : great ehm okay head up ehm past stone creek you need to be going at about up curving up to the right at about a forty-five degree angle
@@ -334,7 +334,7 @@ Turn ID=78| A | M : no
 Turn ID=79| B | g : right ehm you see that fort
 	Free: Pattern=right, Pattern=you, Pattern=ehm, Pattern=fort, Pattern=that
 	Constrained: 
-Turn ID=80| A | M :  !!! tweet !! ' !! siri !!
+Turn ID=80| A | M :  !!! Tweet !! ' !! Siri !!
 	Free: 
 	Constrained: 
 Turn ID=81| B | g : away at the other side right you're heading to go under that but like on your way about halfway between the buffalo and the fort there's a wee blip in your line

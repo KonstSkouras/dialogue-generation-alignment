@@ -109,7 +109,7 @@ A|107| M: _okay_
 B|108| f: [no] 
 A|109| M: [well] if [you] [go] if [you] [just] stay [on the] left-hand [side of _the] map_ for about eh three inches 
 B|110| f: [mmhmm] 
-A|111| M: " !!! ' !! mm !! u !! [a] !! s !! "" !! assad !! [i] !! r !! " 
+A|111| M: " !!! ' !! mm !! u !! [a] !! s !! "" !! Assad !! [i] !! r !! " 
 B|112| f: [mmhmm] 
 A|113| M: [do you] want me [to [go] right] [round] pebbling _shore_ 
 B|114| f: _washed stones_ 
@@ -131,13 +131,13 @@ A|129| M: [right]
 B|130| f: _the right_ as [you] face [the map] 
 A|131| M: uh [right] 
 B|132| f: [well] [what] [side] [then] 
-A|133| M: " !!! ' !!! ' !! ': !! "" !! bolshevik !! bolshe !! 't !! [there] !! [right] !! ok !! 8 !! 7 !! 4 !! " 
+A|133| M: " !!! ' !!! ' !! ': !! "" !! Bolshevik !! Bolshe !! 't !! [there] !! [right] !! ok !! 8 !! 7 !! 4 !! " 
 B|134| f: [uh-huh] 
 A|135| M: [right] you're going [to [go] down] [ehm] [to] [underneath] pebbles [and] [ehm] once [you] get [to the] second peak [of] pebbling stick closely [to it] 
 B|136| f: _to the end_ [of the page] 
 A|137| M: uh [to the end] [the page] [right] 
 B|138| f: [and then] [down] 
-A|139| M: " !!!!!! ' !!! ' !! "" !! assad !! [right] !! [there] !! " 
+A|139| M: " !!!!,!! ' !!! ' !! "" !! Assad !! [right] !! [there] !! " 
 B|140| f: [but] [then] [i've] [got] _washed stones_ [there] 
 A|141| M: " !!!!.!! ' !!! ' !! "" !! " 
 B|142| f: [uh-huh] [so i] [go] [underneath the] beach [the pebbled shore] again 
@@ -145,7 +145,7 @@ A|143| M: [no]
 B|144| f: it's [below] [pebbled shore] [to the] [left] 
 A|145| M: uh [i've] [i've] [washed stones] are they [to the right of] pebbles 
 B|146| f: [to the] [left] [yeah] 
-A|147| M: " !!! ' !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !! 2018 !! 2020 !! until !!!!.!! "" !! " 
+A|147| M: " !!! ' !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !! 2018 !! 2020 !! until !!,!!.!! "" !! " 
 B|148| f: [and then] [that's] [the] finish 
 A|149| M: _okay_ 
 B|150| f: near [the] coast 
@@ -493,7 +493,7 @@ Turn ID=109| A | M : well if you go if you just stay on the left-hand side of th
 Turn ID=110| B | f : mmhmm
 	Free: Pattern=mmhmm
 	Constrained: 
-Turn ID=111| A | M : " !!! ' !! mm !! u !! a !! s !! "" !! assad !! i !! r !! "
+Turn ID=111| A | M : " !!! ' !! mm !! u !! a !! s !! "" !! Assad !! i !! r !! "
 	Free: Pattern=a, Pattern=i
 	Constrained: 
 Turn ID=112| B | f : mmhmm
@@ -559,7 +559,7 @@ Turn ID=131| A | M : uh right
 Turn ID=132| B | f : well what side then
 	Free: Pattern=side, Pattern=what, Pattern=then, Pattern=well
 	Constrained: 
-Turn ID=133| A | M : " !!! ' !!! ' !! ': !! "" !! bolshevik !! bolshe !! 't !! there !! right !! ok !! 8 !! 7 !! 4 !! "
+Turn ID=133| A | M : " !!! ' !!! ' !! ': !! "" !! Bolshevik !! Bolshe !! 't !! there !! right !! ok !! 8 !! 7 !! 4 !! "
 	Free: Pattern=right, Pattern=there
 	Constrained: 
 Turn ID=134| B | f : uh-huh
@@ -577,7 +577,7 @@ Turn ID=137| A | M : uh to the end the page right
 Turn ID=138| B | f : and then down
 	Free: Pattern=and then, Pattern=down
 	Constrained: Pattern=and, Pattern=then
-Turn ID=139| A | M : " !!!!!! ' !!! ' !! "" !! assad !! right !! there !! "
+Turn ID=139| A | M : " !!!!,!! ' !!! ' !! "" !! Assad !! right !! there !! "
 	Free: Pattern=right, Pattern=there
 	Constrained: 
 Turn ID=140| B | f : but then i've got washed stones there
@@ -601,7 +601,7 @@ Turn ID=145| A | M : uh i've i've washed stones are they to the right of pebbles
 Turn ID=146| B | f : to the left yeah
 	Free: Pattern=to the, Pattern=yeah, Pattern=left
 	Constrained: Pattern=the, Pattern=to
-Turn ID=147| A | M : " !!! ' !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !! 2018 !! 2020 !! until !!!!.!! "" !! "
+Turn ID=147| A | M : " !!! ' !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !! 2018 !! 2020 !! until !!,!!.!! "" !! "
 	Free: 
 	Constrained: 
 Turn ID=148| B | f : and then that's the finish

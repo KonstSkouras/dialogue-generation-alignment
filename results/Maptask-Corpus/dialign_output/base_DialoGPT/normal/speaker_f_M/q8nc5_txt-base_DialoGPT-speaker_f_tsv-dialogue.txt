@@ -5,8 +5,8 @@ A|3| M: _left_ _to the left_
 B|4| f: uh-huh 
 A|5| M: [how far] away _do_ _you_ wanna _go_ ? 
 B|6| f: _have_ [you] _not_ _got_ _have_ [you] _not_ _got_ [the] carpenter's cottage 
-A|7| M: _i_ [have] 
-B|8| f: [how] [how far] _below_ [the] burnt forest [do] _i go_ [do] _i go_ _right_ _along_ [the] beneath _it_ before [i] _curve_ 
+A|7| M: I [have] 
+B|8| f: [how] [how far] _below_ [the] burnt forest [do] _i go_ [do] _i go_ _right_ _along_ [the] beneath _it_ before _i_ _curve_ 
 A|9| M: [you] can't [curve] [the] tree _in_ [the] way [you] [curve] [it] 
 B|10| f: _i just_ [go] past [it] 
 A|11| M: [how] [do] _you go_ _about_ [it] ? 
@@ -19,13 +19,13 @@ A|17| M: [right] uhh
 B|18| f: mm mmhmm 
 A|19| M: ummm [and then] [right] 
 B|20| f: uh-huh 
-A|21| M: oh _okay_ i'll try _that_ . 
+A|21| M: Oh _okay_ , I'll try _that_ . 
 B|22| f: _below it_ 
 A|23| M: like this ? 
-B|24| f: _right _so_ _i_ go_ _along_ _to the right_ 
+B|24| f: [right] _so _i_ go_ _along_ _to the right_ 
 A|25| M: _the ravine_ _is_ [a] _bit_ higher _up_ than [the] ravines 
 B|26| f: until _i'm_ [about] _an_ inch _below_ [the ravine] _but_ [to the left] _of it_ 
-A|27| M: [i] think [the] ravines are supposed [to] be _on_ [the [right] so] _you're_ _in_ [the] raven 
+A|27| M: [i] think [the] ravines are supposed [to] be _on_ [the right] , [so] _you're_ _in_ [the] raven 
 B|28| f: [and then] _i _go_ up_ past [the] left-hand _side _of_ it_ 
 A|29| M: _what_ ? [i] dont _know_ _what_ _you mean_ 
 B|30| f: _no_ 
@@ -35,13 +35,13 @@ A|33| M: _okay_ [i'm] [back]
 B|34| f: _still_ [to the left] _of it_ 
 A|35| M: [still] can't [go] _above it_ 
 B|36| f: uh-huh 
-A|37| M: [i] can't [go] _the _bottom_ right_ [you] can't _see_ [the] [back] [of it] . 
+A|37| M: [i] can't [go] _the _bottom_ right_ , [you] can't _see_ [the] [back] [of it] . 
 B|38| f: [have] [you got] _the pine_ _grove_ 
 A|39| M: [the pine] gro vewy 
 B|40| f: mmhmm 
 A|41| M: i'll [go] as close as [i] can [to the] pines [grove] . 
 B|42| f: [right] 
-A|43| M: [i'm] pretty sure [it's] level 1 _but i_ could be wrong 
+A|43| M: I'm pretty sure [it's] level 1 , [but] I could be wrong 
 B|44| f: [okay] 
 A|45| M: ok i'll get _on_ _in a_ sec 
 B|46| f: [okay] mmhmm 
@@ -51,25 +51,25 @@ A|49| M: [i] dont think [so]
 B|50| f: [bottom] left-hand _corner_ 
 A|51| M: [top] [left] [corner] 
 B|52| f: [but] _not_ ehm _touching_ [it] or 
-A|53| M: [i go] _down_ [up] _down_ [right] [left] [left] ... 
+A|53| M: [i go] _down_ , [up] , _down_ , [right] , [left] , [left] ... 
 B|54| f: [right] 
 A|55| M: yes [touching] 
 B|56| f: uh-huh 
-A|57| M: what's [the] joke ? 
+A|57| M: What's [the] joke ? 
 B|58| f: uh-huh _i've got_ _an avalanche_ [above it] though 
 A|59| M: uhh [no] 
 B|60| f: uh-huh 
 A|61| M: ohh [right] [i] [have] [an avalanche] [below it] tho 
 B|62| f: mmhmm 
-A|63| M: [i'm] [not] sure [i just] [have] [the] same one 
+A|63| M: [i'm] [not] sure , [i just] [have] [the] same one 
 B|64| f: _along_ [what] _along_ [the bottom] [of [the] pine] [grove] or _going_ past [it] 
-A|65| M: [i've] been _in_ [the] [back] [of the] line for like [a] week [and] [a] half [now] . 
+A|65| M: I've been _in_ [the] [back] [of the] line for like [a] week [and] [a] half [now] . 
 B|66| f: towards [the] concealed _hideout_ 
 A|67| M: _where_ _is_ [it] ? 
 B|68| f: [where] [do] _i end up_ [in] relation [to the] concealed _hideout_ 
-A|69| M: [i] think we can _all_ agree _that_ we should _all_ [just] get [along] . 
-B|70| f: [but i] _i don't_ [go] [along] [the bottom] [of [the] pine] [grove] 
-A|71| M: [the] hidden [hideout] [in] [the] woods _on_ [the left] [side of the] map 
+A|69| M: I think we can _all_ agree _that_ we should _all_ [just] get [along] . 
+B|70| f: [but] [i] [i] _don't_ [go] [along] [the bottom] [of [the] pine] [grove] 
+A|71| M: The hidden [hideout] [in] [the] woods _on_ [the left] [side of the] map 
 B|72| f: [so] _it's not_ much _of _a_ curve_ 
 A|73| M: [it's] [a] _little_ _bit [of_ a] drop [curve] 
 B|74| f: [right] eh [and] _i end _up_ [to the_ left] [of the] concealed [hideout] 
@@ -80,26 +80,26 @@ B|78| f: [okay]
 A|79| M: i'll try [to] get [a] _good_ picture [of it] 
 B|80| f: mmhmm 
 A|81| M: [it's] _all_ _good_ 
-B|82| f: [no] [but i] haven't _hit anything_ [so] 
+B|82| f: [no] [but] [i] haven't _hit anything_ [so] 
 A|83| M: did [you] [hit anything] ? 
 B|84| f: [i'm] _to the right_ [of the] concealed [hideout] 
 A|85| M: [i] think [i'm] _on_ [the left] 
 B|86| f: uh-huh 
-A|87| M: [i] think _you mean_ [the] boathouse 
+A|87| M: I think _you mean_ [the] boathouse 
 B|88| f: [left] 
 A|89| M: _the boat house is_ [in] [the _bottom] right_ _corner of_ this image 
 B|90| f: [okay] 
-A|91| M: [left] [side] 
+A|91| M: Left [side] 
 B|92| f: uh-huh 
 A|93| M: ok [you] can [have] [it] 
 B|94| f: [and] _to the right_ [of [the] boat house] 
 A|95| M: [up to [the] top [of] the] _crane_ [house] 
 B|96| f: [right] _well_ [the boat house is] sort [of] [on] [crane] _bay_ beside [it] 
-A|97| M: [i don't] think [so] [i'm] pretty sure [it's] [in] [the] middle [of the] water [and] [you] can _see_ [the boat] _from_ _there_ . 
+A|97| M: I [don't] think [so] , I'm pretty sure [it's] [in] [the] middle [of the] water , [and] [you] can _see_ [the boat] _from_ _there_ . 
 B|98| f: uh-huh 
-A|99| M: wrong [house] . 
+A|99| M: Wrong [house] . 
 B|100| f: you've [got] _two_ 
-A|101| M: [well] they're _all_ [right] they're [not] [the] same [boat] 
+A|101| M: [well] they're _all_ [right] , they're [not] [the] same [boat] 
 B|102| f: [well] which which 
 A|103| M: uhhhh ... [what] ? 
 B|104| f: [well] mine's _to the right_ [and] [below it] 
@@ -111,21 +111,21 @@ A|109| M: ok [just] [the] one [and] _the other_ [two]
 B|110| f: [bottom right] 
 A|111| M: [so] whats [the] best place [to] find [a] player ? 
 B|112| f: uh-huh 
-A|113| M: [i _don't] know_ [what] _that_ means 
+A|113| M: I _don't know_ [what] _that_ means 
 B|114| f: mmhmm 
-A|115| M: [i] think [it's] [a] _little_ too late for _that_ . 
+A|115| M: I think [it's] [a] _little_ too late for _that_ . 
 B|116| f: [the left] 
 A|117| M: [the right] 
 B|118| f: towards [the] [you mean] under [the] concealed [hideout] 
 A|119| M: [to the left] ? 
 B|120| f: [right] _i'm going_ [along] under [the] [i'm] [now] at [the bottom] left-hand [corner [of] _the] the_ concealed [hideout] [right] 
-A|121| M: [in] [the] [corner] _where you're_ standing [where] [the top] [right] [corner] [is] 
+A|121| M: [in] [the] [corner] _where you're_ standing , [where] [the top] [right] [corner] [is] 
 B|122| f: [right] 
 A|123| M: [right] [where] ? 
 B|124| f: uh-huh 
 A|125| M: huh look _down_ 
 B|126| f: straight [down] [from] [where] 
-A|127| M: [i] think [you] meant [to] say [up] [from] [the] [curve] 
+A|127| M: I think [you] meant [to] say [up] [from] [the] [curve] 
 B|128| f: uh-huh uh-huh 
 A|129| M: uhuhuh uhuh 
 B|130| f: mmhmm 
@@ -133,17 +133,17 @@ A|131| M: i'll [go] [to _the] bay_
 B|132| f: mmhmm 
 A|133| M: huhuhuhhuhhh 
 B|134| f: eh uh-huh 
-A|135| M: yeah [it's] pretty fun 
+A|135| M: yeah , [it's] pretty fun 
 B|136| f: [well] [i] [mean] [i will] [have] [in a] minute once [i] [see] [where you're] _going_ 
 A|137| M: [it's not] [a] _good_ idea [to] trade with people _that_ [don't] [have] [the] ability [to] trade pokemon with [you] . 
 B|138| f: [no] 
 A|139| M: [do] [you] [have] [a] coconut palm ? 
 B|140| f: uh-huh 
 A|141| M: [i] [have] [the] treecko 
-B|142| f: [it's] [good] [bit] further [down] opposite [the other] _boat house but_ further [down] 
-A|143| M: [where] [is] [it] ? 
+B|142| f: [it's] [good] [bit] further [down] opposite [the other] [boat house] [but] further [down] 
+A|143| M: Where [is] [it] ? 
 B|144| f: ah [you] [still] [i] [still] [don't know] [where] _your_ [boat house is] 
-A|145| M: [i've] been [to] _that_ [boat house but] [i'm] [still] [not] sure . 
+A|145| M: I've been [to] _that_ [boat house] , [but] I'm [still] [not] sure . 
 B|146| f: [i'm] [right] [crane] [bay] there's [two] sort [of] [little] inlets [in] [it] at [the top [of] it] 
 A|147| M: oh [right] [boat house] . [i've got] [to] [go] [now] 
 B|148| f: "above [bay] [and] [above] [the] ""c"" [of] [crane] right" 
@@ -159,7 +159,7 @@ A|157| M: [it's] [a curve]
 B|158| f: [right] 
 A|159| M: [left] 
 B|160| f: mmhmm mmhmm 
-A|161| M: [it's] [the] circle [of] life 
+A|161| M: It's [the] circle [of] life 
 B|162| f: [right] 
 A|163| M: [left] [and] [right] 
 B|164| f: uh-huh 
@@ -171,7 +171,7 @@ A|169| M: [what] time ?
 B|170| f: straight towards [it] 
 A|171| M: [where] are [you] [going] ? 
 B|172| f: mmhmm 
-A|173| M: [i don't] think you'll be able [to] get through [the] fence . 
+A|173| M: I [don't] think you'll be able [to] get through [the] fence . 
 B|174| f: mmhmm 
 A|175| M: [how far] [do] [you] want _me_ [to] [go] ? 
 B|176| f: mmhmm 
@@ -179,9 +179,9 @@ A|177| M: till [then]
 B|178| f: [i'm] [above] [the] pebbled shore [to the left] [of it] 
 A|179| M: i'll be [right] over 
 B|180| f: mmhmm 
-A|181| M: [no] [i'm going] [to the right] 
+A|181| M: [no] , [i'm going] [to the right] 
 B|182| f: [right] [have] [you got] _washed_ stones at [all] 
-A|183| M: yes they are [all] [washed] 
+A|183| M: yes , they are [all] [washed] 
 B|184| f: [okay] am [i] [below] [the] pebbled shore 
 A|185| M: sounds [good] [to] _me_ 
 B|186| f: [to the left] [of it] 
@@ -193,15 +193,15 @@ A|191| M: [what] [is] this [a] reference [to] ?
 B|192| f: [right] 
 A|193| M: [right] [side of] [page] 
 B|194| f: mmhmm [just] [to] [just] beside [me] [just] [to the right] [of] [me] [now] 
-A|195| M: where's [your] stone ? 
+A|195| M: Where's [your] stone ? 
 B|196| f: uh-huh 
-A|197| M: yea u [have] [a] new one u need [to] [curve] [the the] ship [to [the] other] [side] 
+A|197| M: yea , u [have] [a] new one , u need [to] [curve] [the the] ship [to [the] other] [side] , 
 B|198| f: [the] eh [the bay] [bit] [that] [the] flagship's [in] 
 A|199| M: [what] part ? 
 B|200| f: mmhmm 
 A|201| M: uhhuh ? 
 B|202| f: [okay] [okay] [there] [you go] 
-A|203| M: [there] [is] [no] [curve] around [the] base theres [a curve] [in] [the] base 
+A|203| M: [there] [is] [no] [curve] around [the] base , theres [a curve] [in] [the] base 
 B|204| f: aye 
 
 
@@ -211,7 +211,7 @@ Turn ID=0| B | f : to the right
 	Constrained: Pattern=right, Pattern=to the, Pattern=the, Pattern=the right, Pattern=to
 Turn ID=1| A | M : and the left
 	Free: Pattern=the left, Pattern=and
-	Constrained: Pattern=the, Pattern=left
+	Constrained: Pattern=left, Pattern=the
 Turn ID=2| B | f : right how far
 	Free: Pattern=how far, Pattern=right
 	Constrained: Pattern=how
@@ -227,8 +227,8 @@ Turn ID=5| A | M : how far away do you wanna go ?
 Turn ID=6| B | f : have you not got have you not got the carpenter's cottage
 	Free: Pattern=you, Pattern=have, Pattern=the, Pattern=got, Pattern=not
 	Constrained: 
-Turn ID=7| A | M : i have
-	Free: Pattern=have, Pattern=i
+Turn ID=7| A | M : I have
+	Free: Pattern=have
 	Constrained: 
 Turn ID=8| B | f : how how far below the burnt forest do i go do i go right along the beneath it before i curve
 	Free: Pattern=below, Pattern=how far, Pattern=right, Pattern=do, Pattern=how, Pattern=it, Pattern=along, Pattern=i, Pattern=curve, Pattern=the, Pattern=i go
@@ -243,7 +243,7 @@ Turn ID=11| A | M : how do you go about it ?
 	Free: Pattern=how, Pattern=it, Pattern=about, Pattern=do, Pattern=you go
 	Constrained: Pattern=go, Pattern=you
 Turn ID=12| B | f : so it's only a slight curve
-	Free: Pattern=a, Pattern=curve, Pattern=it's, Pattern=so
+	Free: Pattern=a, Pattern=curve, Pattern=so, Pattern=it's
 	Constrained: 
 Turn ID=13| A | M : its just a small radius
 	Free: Pattern=a, Pattern=just
@@ -253,7 +253,7 @@ Turn ID=14| B | f : to the right and then back to the left
 	Constrained: Pattern=right, Pattern=the left, Pattern=then, Pattern=to the, Pattern=and, Pattern=left, Pattern=the, Pattern=the right, Pattern=to
 Turn ID=15| A | M : uhhh and then backwards
 	Free: Pattern=and then
-	Constrained: Pattern=and, Pattern=then
+	Constrained: Pattern=then, Pattern=and
 Turn ID=16| B | f : right uh-huh
 	Free: Pattern=right
 	Constrained: 
@@ -265,21 +265,21 @@ Turn ID=18| B | f : mm mmhmm
 	Constrained: 
 Turn ID=19| A | M : ummm and then right
 	Free: Pattern=and then, Pattern=right
-	Constrained: Pattern=and, Pattern=then
+	Constrained: Pattern=then, Pattern=and
 Turn ID=20| B | f : uh-huh
 	Free: 
 	Constrained: 
-Turn ID=21| A | M : oh okay i'll try that .
+Turn ID=21| A | M : Oh okay , I'll try that .
 	Free: Pattern=that, Pattern=okay
 	Constrained: 
 Turn ID=22| B | f : below it
 	Free: Pattern=below it
-	Constrained: Pattern=it, Pattern=below
+	Constrained: Pattern=below, Pattern=it
 Turn ID=23| A | M : like this ?
 	Free: 
 	Constrained: 
 Turn ID=24| B | f : right so i go along to the right
-	Free: Pattern=right so, Pattern=along, Pattern=so i, Pattern=to the right, Pattern=i go
+	Free: Pattern=right, Pattern=along, Pattern=so i, Pattern=to the right, Pattern=i go
 	Constrained: Pattern=right, Pattern=go, Pattern=to the, Pattern=i, Pattern=the, Pattern=the right, Pattern=to, Pattern=so
 Turn ID=25| A | M : the ravine is a bit higher up than the ravines
 	Free: Pattern=the ravine, Pattern=is, Pattern=the, Pattern=up, Pattern=bit, Pattern=a
@@ -287,15 +287,15 @@ Turn ID=25| A | M : the ravine is a bit higher up than the ravines
 Turn ID=26| B | f : until i'm about an inch below the ravine but to the left of it
 	Free: Pattern=an, Pattern=to the left, Pattern=about, Pattern=i'm, Pattern=of it, Pattern=but, Pattern=the ravine, Pattern=below
 	Constrained: Pattern=of, Pattern=the left, Pattern=to the, Pattern=it, Pattern=left, Pattern=the, Pattern=to
-Turn ID=27| A | M : i think the ravines are supposed to be on the right so you're in the raven
-	Free: Pattern=you're, Pattern=right so, Pattern=in, Pattern=i, Pattern=the right, Pattern=to, Pattern=on, Pattern=the
-	Constrained: Pattern=the, Pattern=right, Pattern=so
+Turn ID=27| A | M : i think the ravines are supposed to be on the right , so you're in the raven
+	Free: Pattern=you're, Pattern=in, Pattern=i, Pattern=the right, Pattern=to, Pattern=so, Pattern=on, Pattern=the
+	Constrained: Pattern=right, Pattern=the
 Turn ID=28| B | f : and then i go up past the left-hand side of it
 	Free: Pattern=go up, Pattern=and then, Pattern=of it, Pattern=the, Pattern=side of, Pattern=i go
 	Constrained: Pattern=of, Pattern=go, Pattern=then, Pattern=side, Pattern=i, Pattern=up, Pattern=it, Pattern=and
 Turn ID=29| A | M : what ? i dont know what you mean
-	Free: Pattern=you mean, Pattern=i, Pattern=know, Pattern=what
-	Constrained: Pattern=mean, Pattern=you
+	Free: Pattern=you mean, Pattern=know, Pattern=what, Pattern=i
+	Constrained: Pattern=you, Pattern=mean
 Turn ID=30| B | f : no
 	Free: Pattern=no
 	Constrained: 
@@ -317,12 +317,12 @@ Turn ID=35| A | M : still can't go above it
 Turn ID=36| B | f : uh-huh
 	Free: 
 	Constrained: 
-Turn ID=37| A | M : i can't go the bottom right you can't see the back of it .
+Turn ID=37| A | M : i can't go the bottom right , you can't see the back of it .
 	Free: Pattern=you, Pattern=go, Pattern=the bottom, Pattern=back, Pattern=i, Pattern=of it, Pattern=the, Pattern=bottom right, Pattern=see
 	Constrained: Pattern=it, Pattern=bottom, Pattern=the, Pattern=right, Pattern=of
 Turn ID=38| B | f : have you got the pine grove
-	Free: Pattern=the pine, Pattern=you got, Pattern=have, Pattern=grove
-	Constrained: Pattern=the, Pattern=got, Pattern=you
+	Free: Pattern=you got, Pattern=the pine, Pattern=have, Pattern=grove
+	Constrained: Pattern=you, Pattern=the, Pattern=got
 Turn ID=39| A | M : the pine gro vewy
 	Free: Pattern=the pine
 	Constrained: Pattern=the
@@ -331,13 +331,13 @@ Turn ID=40| B | f : mmhmm
 	Constrained: 
 Turn ID=41| A | M : i'll go as close as i can to the pines grove .
 	Free: Pattern=to the, Pattern=go, Pattern=i, Pattern=grove
-	Constrained: Pattern=the, Pattern=to
+	Constrained: Pattern=to, Pattern=the
 Turn ID=42| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=43| A | M : i'm pretty sure it's level 1 but i could be wrong
-	Free: Pattern=but i, Pattern=it's, Pattern=i'm
-	Constrained: Pattern=i, Pattern=but
+Turn ID=43| A | M : I'm pretty sure it's level 1 , but I could be wrong
+	Free: Pattern=it's, Pattern=but
+	Constrained: 
 Turn ID=44| B | f : okay
 	Free: Pattern=okay
 	Constrained: 
@@ -349,12 +349,12 @@ Turn ID=46| B | f : okay mmhmm
 	Constrained: 
 Turn ID=47| A | M : i have to stop for a while so i will be back
 	Free: Pattern=have, Pattern=a, Pattern=so i, Pattern=to, Pattern=i will, Pattern=back, Pattern=i
-	Constrained: Pattern=i, Pattern=will, Pattern=so
+	Constrained: Pattern=will, Pattern=so, Pattern=i
 Turn ID=48| B | f : uh-huh
 	Free: 
 	Constrained: 
 Turn ID=49| A | M : i dont think so
-	Free: Pattern=i, Pattern=so
+	Free: Pattern=so, Pattern=i
 	Constrained: 
 Turn ID=50| B | f : bottom left-hand corner
 	Free: Pattern=corner, Pattern=bottom
@@ -363,9 +363,9 @@ Turn ID=51| A | M : top left corner
 	Free: Pattern=top, Pattern=corner, Pattern=left
 	Constrained: 
 Turn ID=52| B | f : but not ehm touching it or
-	Free: Pattern=it, Pattern=touching, Pattern=but, Pattern=not
+	Free: Pattern=not, Pattern=it, Pattern=touching, Pattern=but
 	Constrained: 
-Turn ID=53| A | M : i go down up down right left left ...
+Turn ID=53| A | M : i go down , up , down , right , left , left ...
 	Free: Pattern=right, Pattern=down, Pattern=left, Pattern=up, Pattern=i go
 	Constrained: Pattern=go, Pattern=i
 Turn ID=54| B | f : right
@@ -377,12 +377,12 @@ Turn ID=55| A | M : yes touching
 Turn ID=56| B | f : uh-huh
 	Free: 
 	Constrained: 
-Turn ID=57| A | M : what's the joke ?
+Turn ID=57| A | M : What's the joke ?
 	Free: Pattern=the
 	Constrained: 
 Turn ID=58| B | f : uh-huh i've got an avalanche above it though
 	Free: Pattern=an avalanche, Pattern=above it, Pattern=i've got
-	Constrained: Pattern=above, Pattern=an, Pattern=it, Pattern=i've, Pattern=got
+	Constrained: Pattern=got, Pattern=it, Pattern=above, Pattern=an
 Turn ID=59| A | M : uhh no
 	Free: Pattern=no
 	Constrained: 
@@ -391,43 +391,43 @@ Turn ID=60| B | f : uh-huh
 	Constrained: 
 Turn ID=61| A | M : ohh right i have an avalanche below it tho
 	Free: Pattern=right, Pattern=have, Pattern=below it, Pattern=i, Pattern=an avalanche
-	Constrained: Pattern=it, Pattern=an, Pattern=below
+	Constrained: Pattern=below, Pattern=it, Pattern=an
 Turn ID=62| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=63| A | M : i'm not sure i just have the same one
+Turn ID=63| A | M : i'm not sure , i just have the same one
 	Free: Pattern=have, Pattern=i just, Pattern=i'm, Pattern=the, Pattern=not
 	Constrained: Pattern=i, Pattern=just
 Turn ID=64| B | f : along what along the bottom of the pine grove or going past it
 	Free: Pattern=going, Pattern=what, Pattern=grove, Pattern=it, Pattern=along, Pattern=the pine, Pattern=the bottom, Pattern=of the
-	Constrained: Pattern=of, Pattern=the, Pattern=bottom
-Turn ID=65| A | M : i've been in the back of the line for like a week and a half now .
-	Free: Pattern=a, Pattern=and, Pattern=i've, Pattern=in, Pattern=back, Pattern=the, Pattern=now, Pattern=of the
+	Constrained: Pattern=bottom, Pattern=of, Pattern=the
+Turn ID=65| A | M : I've been in the back of the line for like a week and a half now .
+	Free: Pattern=a, Pattern=and, Pattern=in, Pattern=back, Pattern=the, Pattern=now, Pattern=of the
 	Constrained: Pattern=of, Pattern=the
 Turn ID=66| B | f : towards the concealed hideout
-	Free: Pattern=the, Pattern=hideout
+	Free: Pattern=hideout, Pattern=the
 	Constrained: 
 Turn ID=67| A | M : where is it ?
-	Free: Pattern=it, Pattern=where, Pattern=is
+	Free: Pattern=it, Pattern=is, Pattern=where
 	Constrained: 
 Turn ID=68| B | f : where do i end up in relation to the concealed hideout
 	Free: Pattern=do, Pattern=to the, Pattern=in, Pattern=i end up, Pattern=where, Pattern=hideout
 	Constrained: Pattern=end, Pattern=i, Pattern=the, Pattern=up, Pattern=to
-Turn ID=69| A | M : i think we can all agree that we should all just get along .
-	Free: Pattern=just, Pattern=along, Pattern=i, Pattern=all, Pattern=that
+Turn ID=69| A | M : I think we can all agree that we should all just get along .
+	Free: Pattern=all, Pattern=that, Pattern=just, Pattern=along
 	Constrained: 
 Turn ID=70| B | f : but i i don't go along the bottom of the pine grove
-	Free: Pattern=i don't, Pattern=go, Pattern=but i, Pattern=grove, Pattern=along, Pattern=the pine, Pattern=the bottom, Pattern=of the
-	Constrained: Pattern=of, Pattern=bottom, Pattern=i, Pattern=the, Pattern=don't, Pattern=but
-Turn ID=71| A | M : the hidden hideout in the woods on the left side of the map
+	Free: Pattern=go, Pattern=grove, Pattern=along, Pattern=i, Pattern=the pine, Pattern=don't, Pattern=the bottom, Pattern=of the, Pattern=but
+	Constrained: Pattern=bottom, Pattern=of, Pattern=the
+Turn ID=71| A | M : The hidden hideout in the woods on the left side of the map
 	Free: Pattern=the left, Pattern=side of the, Pattern=in, Pattern=hideout, Pattern=on, Pattern=the
 	Constrained: Pattern=of, Pattern=the, Pattern=left, Pattern=side, Pattern=side of, Pattern=of the
 Turn ID=72| B | f : so it's not much of a curve
-	Free: Pattern=it's not, Pattern=a curve, Pattern=of a, Pattern=so
+	Free: Pattern=a curve, Pattern=of a, Pattern=it's not, Pattern=so
 	Constrained: Pattern=of, Pattern=a, Pattern=curve, Pattern=it's, Pattern=not
 Turn ID=73| A | M : it's a little bit of a drop curve
 	Free: Pattern=little, Pattern=a, Pattern=curve, Pattern=bit of, Pattern=of a, Pattern=it's
-	Constrained: Pattern=a, Pattern=of, Pattern=bit
+	Constrained: Pattern=a, Pattern=bit, Pattern=of
 Turn ID=74| B | f : right eh and i end up to the left of the concealed hideout
 	Free: Pattern=right, Pattern=hideout, Pattern=up to the, Pattern=of the, Pattern=i end up, Pattern=and, Pattern=to the left
 	Constrained: Pattern=of, Pattern=the left, Pattern=to the, Pattern=end, Pattern=left, Pattern=i, Pattern=the, Pattern=up, Pattern=to
@@ -453,23 +453,23 @@ Turn ID=81| A | M : it's all good
 	Free: Pattern=all, Pattern=good, Pattern=it's
 	Constrained: 
 Turn ID=82| B | f : no but i haven't hit anything so
-	Free: Pattern=but i, Pattern=hit anything, Pattern=so, Pattern=no
-	Constrained: Pattern=i, Pattern=but
+	Free: Pattern=hit anything, Pattern=no, Pattern=i, Pattern=but, Pattern=so
+	Constrained: 
 Turn ID=83| A | M : did you hit anything ?
 	Free: Pattern=hit anything, Pattern=you
 	Constrained: 
 Turn ID=84| B | f : i'm to the right of the concealed hideout
-	Free: Pattern=to the right, Pattern=of the, Pattern=i'm, Pattern=hideout
+	Free: Pattern=to the right, Pattern=of the, Pattern=hideout, Pattern=i'm
 	Constrained: Pattern=to the, Pattern=the, Pattern=the right, Pattern=to, Pattern=right, Pattern=of
 Turn ID=85| A | M : i think i'm on the left
-	Free: Pattern=the left, Pattern=on, Pattern=i, Pattern=i'm
-	Constrained: Pattern=the, Pattern=left
+	Free: Pattern=the left, Pattern=i, Pattern=on, Pattern=i'm
+	Constrained: Pattern=left, Pattern=the
 Turn ID=86| B | f : uh-huh
 	Free: 
 	Constrained: 
-Turn ID=87| A | M : i think you mean the boathouse
-	Free: Pattern=you mean, Pattern=the, Pattern=i
-	Constrained: Pattern=mean, Pattern=you
+Turn ID=87| A | M : I think you mean the boathouse
+	Free: Pattern=you mean, Pattern=the
+	Constrained: Pattern=you, Pattern=mean
 Turn ID=88| B | f : left
 	Free: Pattern=left
 	Constrained: 
@@ -479,8 +479,8 @@ Turn ID=89| A | M : the boat house is in the bottom right corner of this image
 Turn ID=90| B | f : okay
 	Free: Pattern=okay
 	Constrained: 
-Turn ID=91| A | M : left side
-	Free: Pattern=side, Pattern=left
+Turn ID=91| A | M : Left side
+	Free: Pattern=side
 	Constrained: 
 Turn ID=92| B | f : uh-huh
 	Free: 
@@ -497,19 +497,19 @@ Turn ID=95| A | M : up to the top of the crane house
 Turn ID=96| B | f : right well the boat house is sort of on crane bay beside it
 	Free: Pattern=well, Pattern=it, Pattern=the boat house is, Pattern=on, Pattern=bay, Pattern=crane, Pattern=right, Pattern=of
 	Constrained: Pattern=house, Pattern=boat house, Pattern=the boat house, Pattern=the, Pattern=boat, Pattern=is, Pattern=boat house is, Pattern=the boat
-Turn ID=97| A | M : i don't think so i'm pretty sure it's in the middle of the water and you can see the boat from there .
-	Free: Pattern=you, Pattern=i don't, Pattern=there, Pattern=and, Pattern=from, Pattern=in, Pattern=i'm, Pattern=the, Pattern=see, Pattern=the boat, Pattern=so, Pattern=of the, Pattern=it's
-	Constrained: Pattern=of, Pattern=the, Pattern=don't, Pattern=boat, Pattern=i
+Turn ID=97| A | M : I don't think so , I'm pretty sure it's in the middle of the water , and you can see the boat from there .
+	Free: Pattern=you, Pattern=there, Pattern=and, Pattern=from, Pattern=in, Pattern=the, Pattern=the boat, Pattern=so, Pattern=see, Pattern=don't, Pattern=of the, Pattern=it's
+	Constrained: Pattern=boat, Pattern=of, Pattern=the
 Turn ID=98| B | f : uh-huh
 	Free: 
 	Constrained: 
-Turn ID=99| A | M : wrong house .
+Turn ID=99| A | M : Wrong house .
 	Free: Pattern=house
 	Constrained: 
 Turn ID=100| B | f : you've got two
-	Free: Pattern=got, Pattern=two
+	Free: Pattern=two, Pattern=got
 	Constrained: 
-Turn ID=101| A | M : well they're all right they're not the same boat
+Turn ID=101| A | M : well they're all right , they're not the same boat
 	Free: Pattern=right, Pattern=well, Pattern=boat, Pattern=not, Pattern=the, Pattern=all
 	Constrained: 
 Turn ID=102| B | f : well which which
@@ -529,7 +529,7 @@ Turn ID=106| B | f : "right so will i do a ""u""-turn"
 	Constrained: 
 Turn ID=107| A | M : what do you mean ?
 	Free: Pattern=you mean, Pattern=do, Pattern=what
-	Constrained: Pattern=mean, Pattern=you
+	Constrained: Pattern=you, Pattern=mean
 Turn ID=108| B | f : okay
 	Free: Pattern=okay
 	Constrained: 
@@ -540,38 +540,38 @@ Turn ID=110| B | f : bottom right
 	Free: Pattern=bottom right
 	Constrained: Pattern=right, Pattern=bottom
 Turn ID=111| A | M : so whats the best place to find a player ?
-	Free: Pattern=a, Pattern=the, Pattern=so, Pattern=to
+	Free: Pattern=a, Pattern=so, Pattern=to, Pattern=the
 	Constrained: 
 Turn ID=112| B | f : uh-huh
 	Free: 
 	Constrained: 
-Turn ID=113| A | M : i don't know what that means
-	Free: Pattern=i don't, Pattern=don't know, Pattern=that, Pattern=what
-	Constrained: Pattern=don't, Pattern=i, Pattern=know
+Turn ID=113| A | M : I don't know what that means
+	Free: Pattern=don't know, Pattern=that, Pattern=what
+	Constrained: Pattern=know, Pattern=don't
 Turn ID=114| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=115| A | M : i think it's a little too late for that .
-	Free: Pattern=little, Pattern=a, Pattern=i, Pattern=that, Pattern=it's
+Turn ID=115| A | M : I think it's a little too late for that .
+	Free: Pattern=that, Pattern=a, Pattern=it's, Pattern=little
 	Constrained: 
 Turn ID=116| B | f : the left
 	Free: Pattern=the left
-	Constrained: Pattern=the, Pattern=left
+	Constrained: Pattern=left, Pattern=the
 Turn ID=117| A | M : the right
 	Free: Pattern=the right
-	Constrained: Pattern=the, Pattern=right
+	Constrained: Pattern=right, Pattern=the
 Turn ID=118| B | f : towards the you mean under the concealed hideout
-	Free: Pattern=you mean, Pattern=the, Pattern=hideout
-	Constrained: Pattern=mean, Pattern=you
+	Free: Pattern=you mean, Pattern=hideout, Pattern=the
+	Constrained: Pattern=you, Pattern=mean
 Turn ID=119| A | M : to the left ?
 	Free: Pattern=to the left
 	Constrained: Pattern=the left, Pattern=to the, Pattern=left, Pattern=the, Pattern=to
 Turn ID=120| B | f : right i'm going along under the i'm now at the bottom left-hand corner of the the concealed hideout right
 	Free: Pattern=corner of, Pattern=right, Pattern=the the, Pattern=along, Pattern=i'm going, Pattern=the, Pattern=the bottom, Pattern=now, Pattern=of the, Pattern=hideout, Pattern=i'm
 	Constrained: Pattern=of, Pattern=going, Pattern=bottom, Pattern=i'm, Pattern=the, Pattern=corner
-Turn ID=121| A | M : in the corner where you're standing where the top right corner is
+Turn ID=121| A | M : in the corner where you're standing , where the top right corner is
 	Free: Pattern=right, Pattern=in, Pattern=where, Pattern=is, Pattern=the, Pattern=where you're, Pattern=corner, Pattern=the top
-	Constrained: Pattern=top, Pattern=the, Pattern=where, Pattern=you're
+	Constrained: Pattern=top, Pattern=you're, Pattern=where, Pattern=the
 Turn ID=122| B | f : right
 	Free: Pattern=right
 	Constrained: 
@@ -585,10 +585,10 @@ Turn ID=125| A | M : huh look down
 	Free: Pattern=down
 	Constrained: 
 Turn ID=126| B | f : straight down from where
-	Free: Pattern=from, Pattern=where, Pattern=down
+	Free: Pattern=from, Pattern=down, Pattern=where
 	Constrained: 
-Turn ID=127| A | M : i think you meant to say up from the curve
-	Free: Pattern=you, Pattern=from, Pattern=i, Pattern=curve, Pattern=the, Pattern=up, Pattern=to
+Turn ID=127| A | M : I think you meant to say up from the curve
+	Free: Pattern=you, Pattern=from, Pattern=curve, Pattern=the, Pattern=up, Pattern=to
 	Constrained: 
 Turn ID=128| B | f : uh-huh uh-huh
 	Free: 
@@ -601,7 +601,7 @@ Turn ID=130| B | f : mmhmm
 	Constrained: 
 Turn ID=131| A | M : i'll go to the bay
 	Free: Pattern=to the, Pattern=the bay, Pattern=go
-	Constrained: Pattern=bay, Pattern=the, Pattern=to
+	Constrained: Pattern=bay, Pattern=to, Pattern=the
 Turn ID=132| B | f : mmhmm
 	Free: 
 	Constrained: 
@@ -611,7 +611,7 @@ Turn ID=133| A | M : huhuhuhhuhhh
 Turn ID=134| B | f : eh uh-huh
 	Free: 
 	Constrained: 
-Turn ID=135| A | M : yeah it's pretty fun
+Turn ID=135| A | M : yeah , it's pretty fun
 	Free: Pattern=it's
 	Constrained: 
 Turn ID=136| B | f : well i mean i will have in a minute once i see where you're going
@@ -619,54 +619,54 @@ Turn ID=136| B | f : well i mean i will have in a minute once i see where you're
 	Constrained: Pattern=you're, Pattern=a, Pattern=will, Pattern=in, Pattern=where, Pattern=i
 Turn ID=137| A | M : it's not a good idea to trade with people that don't have the ability to trade pokemon with you .
 	Free: Pattern=good, Pattern=you, Pattern=have, Pattern=a, Pattern=the, Pattern=don't, Pattern=to, Pattern=it's not, Pattern=that
-	Constrained: Pattern=it's, Pattern=not
+	Constrained: Pattern=not, Pattern=it's
 Turn ID=138| B | f : no
 	Free: Pattern=no
 	Constrained: 
 Turn ID=139| A | M : do you have a coconut palm ?
-	Free: Pattern=a, Pattern=have, Pattern=do, Pattern=you
+	Free: Pattern=do, Pattern=a, Pattern=have, Pattern=you
 	Constrained: 
 Turn ID=140| B | f : uh-huh
 	Free: 
 	Constrained: 
 Turn ID=141| A | M : i have the treecko
-	Free: Pattern=have, Pattern=the, Pattern=i
+	Free: Pattern=have, Pattern=i, Pattern=the
 	Constrained: 
 Turn ID=142| B | f : it's good bit further down opposite the other boat house but further down
-	Free: Pattern=good, Pattern=bit, Pattern=down, Pattern=the other, Pattern=boat house but, Pattern=it's
-	Constrained: Pattern=house, Pattern=boat house, Pattern=boat, Pattern=the, Pattern=but
-Turn ID=143| A | M : where is it ?
-	Free: Pattern=it, Pattern=where, Pattern=is
+	Free: Pattern=good, Pattern=boat house, Pattern=bit, Pattern=down, Pattern=the other, Pattern=it's, Pattern=but
+	Constrained: Pattern=boat, Pattern=the, Pattern=house
+Turn ID=143| A | M : Where is it ?
+	Free: Pattern=it, Pattern=is
 	Constrained: 
 Turn ID=144| B | f : ah you still i still don't know where your boat house is
 	Free: Pattern=you, Pattern=don't know, Pattern=where, Pattern=boat house is, Pattern=still, Pattern=your, Pattern=i
 	Constrained: Pattern=house, Pattern=boat house, Pattern=know, Pattern=don't, Pattern=boat, Pattern=is
-Turn ID=145| A | M : i've been to that boat house but i'm still not sure .
-	Free: Pattern=i've, Pattern=i'm, Pattern=to, Pattern=boat house but, Pattern=that, Pattern=not, Pattern=still
-	Constrained: Pattern=but, Pattern=boat house, Pattern=boat, Pattern=house
+Turn ID=145| A | M : I've been to that boat house , but I'm still not sure .
+	Free: Pattern=boat house, Pattern=to, Pattern=that, Pattern=but, Pattern=not, Pattern=still
+	Constrained: Pattern=boat, Pattern=house
 Turn ID=146| B | f : i'm right crane bay there's two sort of little inlets in it at the top of it
 	Free: Pattern=the top of, Pattern=little, Pattern=it, Pattern=in, Pattern=i'm, Pattern=two, Pattern=of it, Pattern=bay, Pattern=crane, Pattern=right, Pattern=of
 	Constrained: Pattern=of, Pattern=it, Pattern=top, Pattern=the, Pattern=the top
 Turn ID=147| A | M : oh right boat house . i've got to go now
 	Free: Pattern=go, Pattern=i've got, Pattern=to, Pattern=now, Pattern=right, Pattern=boat house
-	Constrained: Pattern=boat, Pattern=i've, Pattern=got, Pattern=house
+	Constrained: Pattern=boat, Pattern=house, Pattern=got
 Turn ID=148| B | f : "above bay and above the ""c"" of crane right"
 	Free: Pattern=of, Pattern=above, Pattern=and, Pattern=the, Pattern=bay, Pattern=crane
 	Constrained: 
 Turn ID=149| A | M : where is the boat house ?
-	Free: Pattern=the boat house, Pattern=where, Pattern=is
+	Free: Pattern=the boat house, Pattern=is, Pattern=where
 	Constrained: Pattern=house, Pattern=boat house, Pattern=boat, Pattern=the, Pattern=the boat
 Turn ID=150| B | f : see where i mean
-	Free: Pattern=mean, Pattern=see, Pattern=i, Pattern=where
+	Free: Pattern=i, Pattern=mean, Pattern=see, Pattern=where
 	Constrained: 
 Turn ID=151| A | M : where's the airlock ?
 	Free: Pattern=the
 	Constrained: 
 Turn ID=152| B | f : and eh i'm just above that bit of land in between there the curved bit of land
 	Free: Pattern=just, Pattern=and, Pattern=in, Pattern=i'm, Pattern=bit of, Pattern=the, Pattern=that, Pattern=above, Pattern=there
-	Constrained: Pattern=of, Pattern=bit
+	Constrained: Pattern=bit, Pattern=of
 Turn ID=153| A | M : there is no ground
-	Free: Pattern=there, Pattern=is, Pattern=no
+	Free: Pattern=no, Pattern=there, Pattern=is
 	Constrained: 
 Turn ID=154| B | f : mmhmm
 	Free: 
@@ -689,8 +689,8 @@ Turn ID=159| A | M : left
 Turn ID=160| B | f : mmhmm mmhmm
 	Free: 
 	Constrained: 
-Turn ID=161| A | M : it's the circle of life
-	Free: Pattern=of, Pattern=the, Pattern=it's
+Turn ID=161| A | M : It's the circle of life
+	Free: Pattern=of, Pattern=the
 	Constrained: 
 Turn ID=162| B | f : right
 	Free: Pattern=right
@@ -703,12 +703,12 @@ Turn ID=164| B | f : uh-huh
 	Constrained: 
 Turn ID=165| A | M : it's not a right
 	Free: Pattern=it's not, Pattern=a, Pattern=right
-	Constrained: Pattern=it's, Pattern=not
+	Constrained: Pattern=not, Pattern=it's
 Turn ID=166| B | f : mmhmm
 	Free: 
 	Constrained: 
 Turn ID=167| A | M : right where you are now
-	Free: Pattern=right, Pattern=now, Pattern=you, Pattern=where
+	Free: Pattern=right, Pattern=you, Pattern=now, Pattern=where
 	Constrained: 
 Turn ID=168| B | f : towards the pebbled shore
 	Free: Pattern=the
@@ -725,9 +725,9 @@ Turn ID=171| A | M : where are you going ?
 Turn ID=172| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=173| A | M : i don't think you'll be able to get through the fence .
-	Free: Pattern=i don't, Pattern=the, Pattern=to
-	Constrained: Pattern=don't, Pattern=i
+Turn ID=173| A | M : I don't think you'll be able to get through the fence .
+	Free: Pattern=don't, Pattern=to, Pattern=the
+	Constrained: 
 Turn ID=174| B | f : mmhmm
 	Free: 
 	Constrained: 
@@ -749,17 +749,17 @@ Turn ID=179| A | M : i'll be right over
 Turn ID=180| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=181| A | M : no i'm going to the right
+Turn ID=181| A | M : no , i'm going to the right
 	Free: Pattern=to the right, Pattern=i'm going, Pattern=no
 	Constrained: Pattern=right, Pattern=going, Pattern=to the, Pattern=i'm, Pattern=the, Pattern=the right, Pattern=to
 Turn ID=182| B | f : right have you got washed stones at all
 	Free: Pattern=right, Pattern=have, Pattern=washed, Pattern=you got, Pattern=all
-	Constrained: Pattern=got, Pattern=you
-Turn ID=183| A | M : yes they are all washed
+	Constrained: Pattern=you, Pattern=got
+Turn ID=183| A | M : yes , they are all washed
 	Free: Pattern=all, Pattern=washed
 	Constrained: 
 Turn ID=184| B | f : okay am i below the pebbled shore
-	Free: Pattern=the, Pattern=i, Pattern=okay, Pattern=below
+	Free: Pattern=below, Pattern=i, Pattern=okay, Pattern=the
 	Constrained: 
 Turn ID=185| A | M : sounds good to me
 	Free: Pattern=me, Pattern=good, Pattern=to
@@ -768,7 +768,7 @@ Turn ID=186| B | f : to the left of it
 	Free: Pattern=to the left, Pattern=of it
 	Constrained: Pattern=of, Pattern=the left, Pattern=to the, Pattern=it, Pattern=left, Pattern=the, Pattern=to
 Turn ID=187| A | M : what where
-	Free: Pattern=where, Pattern=what
+	Free: Pattern=what, Pattern=where
 	Constrained: 
 Turn ID=188| B | f : and eh
 	Free: Pattern=and
@@ -777,7 +777,7 @@ Turn ID=189| A | M : oh oh oh oh
 	Free: 
 	Constrained: 
 Turn ID=190| B | f : beside the left-hand side of the page
-	Free: Pattern=side of the, Pattern=the, Pattern=page
+	Free: Pattern=side of the, Pattern=page, Pattern=the
 	Constrained: Pattern=of, Pattern=side, Pattern=the, Pattern=side of, Pattern=of the
 Turn ID=191| A | M : what is this a reference to ?
 	Free: Pattern=a, Pattern=what, Pattern=is, Pattern=to
@@ -791,15 +791,15 @@ Turn ID=193| A | M : right side of page
 Turn ID=194| B | f : mmhmm just to just beside me just to the right of me now
 	Free: Pattern=of, Pattern=just, Pattern=me, Pattern=to the right, Pattern=to, Pattern=now
 	Constrained: Pattern=right, Pattern=to the, Pattern=the, Pattern=the right, Pattern=to
-Turn ID=195| A | M : where's your stone ?
+Turn ID=195| A | M : Where's your stone ?
 	Free: Pattern=your
 	Constrained: 
 Turn ID=196| B | f : uh-huh
 	Free: 
 	Constrained: 
-Turn ID=197| A | M : yea u have a new one u need to curve the the ship to the other side
+Turn ID=197| A | M : yea , u have a new one , u need to curve the the ship to the other side ,
 	Free: Pattern=a, Pattern=to the, Pattern=the other, Pattern=side, Pattern=curve, Pattern=to, Pattern=the the, Pattern=have
-	Constrained: Pattern=the, Pattern=to
+	Constrained: Pattern=to, Pattern=the
 Turn ID=198| B | f : the eh the bay bit that the flagship's in
 	Free: Pattern=bit, Pattern=in, Pattern=the, Pattern=the bay, Pattern=that
 	Constrained: Pattern=bay, Pattern=the
@@ -815,7 +815,7 @@ Turn ID=201| A | M : uhhuh ?
 Turn ID=202| B | f : okay okay there you go
 	Free: Pattern=you go, Pattern=there, Pattern=okay
 	Constrained: Pattern=go, Pattern=you
-Turn ID=203| A | M : there is no curve around the base theres a curve in the base
+Turn ID=203| A | M : there is no curve around the base , theres a curve in the base
 	Free: Pattern=a curve, Pattern=in, Pattern=is, Pattern=curve, Pattern=the, Pattern=no, Pattern=there
 	Constrained: Pattern=a, Pattern=curve
 Turn ID=204| B | f : aye

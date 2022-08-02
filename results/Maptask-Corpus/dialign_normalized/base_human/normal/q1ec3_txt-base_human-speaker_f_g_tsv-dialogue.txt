@@ -1,0 +1,819 @@
+B|0| g: _okay_ start off _above _the_ diamond mine_ 
+A|1| f: [okay] _yeah_ 
+B|2| g: _right_ _now_ _go_ _south_ _from_ _the diamond mine_ until _you_ are _just_ _above the_ _desert_ 
+A|3| f: _so that's_ _with [the_ diamond mine] _on_ _on_ _your right_ 
+B|4| g: [that's] [that's] correct _uh-huh_ _and go _below the_ diamond mine_ 
+A|5| f: _mmhmm_ 
+B|6| g: _and_ _below the_ _graveyard_ _below the_ _graveyard_ _but_ _above _the_ carved wooden pole_ 
+A|7| f: _oh_ hang _on_ _i _don't have a_ graveyard_ 
+B|8| g: _okay _so_ you_ [don't have a graveyard] do _you _have_ a fast flowing river_ 
+A|9| f: _fast running creek_ 
+B|10| g: ehm _mm_ [don't] _know_ [yeah] _it_ could _be_ could _be_ 
+A|11| f: _is_ _that_ _to _the_ right_ that'll [be] _to_ _my_ [right] _to_ _my_ [right] 
+B|12| g: [to] [your right] _uh-huh_ 
+A|13| f: _right so_ _i_ _continue_ [and go below _the] _fast_ running creek_ 
+B|14| g: _no_ [go] _just_ until _you_ [go] [go _below the] diamond mine_ until _just_ _before_ [the fast] _fast flowing river_ 
+A|15| f: _i don't [have a fast_ flowing river] 
+B|16| g: _you [have_ a fast flowing] [creek] 
+A|17| f: _i've_ [a fast flowing] _running creek_ _which_ _is_ _on_ [the] far right-hand corner 
+B|18| g: [mmhmm] 
+A|19| f: [so [you] have] 
+B|20| g: _well_ do [you have] _an apache camp_ 
+A|21| f: [yeah] _got_ [an apache camp] 
+B|22| g: [okay] 
+A|23| f: [but] [that's] _like_ _at_ forty-five degrees [south] east 
+B|24| g: _right okay_ _then_ [right] you're _going_ _to [go_ _below the] diamond mine_ 
+A|25| f: [right] 
+B|26| g: do [you [have] a graveyard] 
+A|27| f: [no] [no] [graveyard] 
+B|28| g: [don't have a graveyard] 
+A|29| f: [no] 
+B|30| g: do [you [have] _a] desert_ 
+A|31| f: yes _got [a_ desert] _which_ if _i_ _continue_ _straight_ _down_ _past [the_ diamond mine] 
+B|32| g: [no] [don't] [go] [don't] [go] any further than [the] [desert] [don't] [go] onto [the] [desert] 
+A|33| f: [okay so] _i'm_ _still_ [below the diamond mine] 
+B|34| g: [right] [you] _uh-huh_ [below the diamond mine] 
+A|35| f: [right okay] 
+B|36| g: _and then_ [go] [to] [your right] 
+A|37| f: _my_ [right] [right okay] 
+B|38| g: you've [got] neither [a graveyard] nor [a fast flowing river] 
+A|39| f: _i've _got _a_ fast_ running creek_ 
+B|40| g: _okay right_ you've [got [a fast] flowing] [fast running creek] [i don't have [a fast] running creek] 
+A|41| f: _how_ unlucky 
+B|42| g: [so] ehm ehm [i'm] kind _of_ stuck 
+A|43| f: _can_ [i] _just go_ _straight_ _to the_ _saloon bar_ 
+B|44| g: erm mark [no] [just] _wait_ _i know_ you're thirsty [but] [just] _wait_ 'til [you] get [to the] [desert] 
+A|45| f: [right okay] 
+B|46| g: _well_ [okay] _then_ [right] you've [got a] [creek] [i've got a] [river] 
+A|47| f: yes 
+B|48| g: [so] they must [be] linked somehow 
+A|49| f: [yeah] 
+B|50| g: [so] do [you] want [to] [just _go] _along_ to_ [your right] 
+A|51| f: [okay] 
+B|52| g: _and then_ [go] _up_ [and] _over the_ top _of_ where [the] [creek] [is] 
+A|53| f: [right okay] 
+B|54| g: _and then _down_ south_ again 
+A|55| f: [okay] 
+B|56| g: _down south_ again until [just] _above the_ [apache camp] 
+A|57| f: [right okay] 
+B|58| g: [and] _pass_ [that] by [go] [to] [your] _southwest_ _of the_ [apache camp] 
+A|59| f: passing _above it_ 
+B|60| g: _uh-huh_ 
+A|61| f: [but] [to _the] southwest_ 
+B|62| g: _uh-huh_ 
+A|63| f: [okay] 
+B|64| g: [right] take [the southwest] direction 
+A|65| f: passing _above it_ [right] 
+B|66| g: _now_ do [you [have] a] _walled city_ 
+A|67| f: yes 
+B|68| g: [and] do [you [have] [a] desert] 
+A|69| f: yes 
+B|70| g: _well_ _pass_ _from_ _above the_ [apache camp] um [and] _over the_ top _of _the_ walled city_ [but] _between the_ [desert] _and _the_ walled city_ 
+A|71| f: [between] them 
+B|72| g: _uh-huh_ [so that's] _over the_ top _of _the_ walled city_ 
+A|73| f: [right okay] 
+B|74| g: [okay] 
+A|75| f: [but] [i'm] [that's] _not_ _in a_ _straight line_ 
+B|76| g: [oh] [that's] fair enough [right] [just] [just go] [between] those two 
+A|77| f: _right okay [right_ okay] 
+B|78| g: [right] 
+A|79| f: [right] 
+B|80| g: _and then_ 
+A|81| f: [okay] [i'm] [between] 
+B|82| g: [continue] [south] 
+A|83| f: [okay] 
+B|84| g: [right] until do [you] [you] [you have] [no] _carved wooden pole_ [at] _all_ 
+A|85| f: yes 
+B|86| g: [a] totem _pole_ _sort of_ thing 
+A|87| f: yes [uh-huh] 
+B|88| g: [right] 
+A|89| f: [but] _right _at_ the_ _very_ _bottom_ 
+B|90| g: _well_ [okay] do [you have] any _flat rocks_ 
+A|91| f: yes [uh-huh] 
+B|92| g: do [you [have] a] _stone creek_ [in] [that] area 
+A|93| f: yes 
+B|94| g: [right] 
+A|95| f: they're [all] _on_ [a] diagonal 
+B|96| g: [right okay] 
+A|97| f: [carved wooden pole] [stone creek] [flat rocks] 
+B|98| g: [right okay right] _what you_ do _then_ [is] [you] [go] [south] _from_ _the walled city_ 
+A|99| f: [right] 
+B|100| g: [and] [you] follow [a] _sort of_ curve ehm [how] do [you] describe [the] last [south] _sort of_ _from_ [go] [in a] 
+A|101| f: "an ""s""" 
+B|102| g: "sort _of_ ""c"" _shape_ [to] cover _the bottom_ _of_ [a] ""c"" _right from_ when [you] _pass_ [down] [below _the] walled_ city" 
+A|103| f: [right] [i] [right] [wait] 
+B|104| g: "go [in a] ""c""-shaped curve" 
+A|105| f: [right from] 
+B|106| g: [right] _and then_ [go] _between _the_ flat rocks_ _and _the_ stone creek_ [okay] [can] [you] do [that] [you] _pass_ [in a] _pass_ 
+A|107| f: [right] [i] [i'm] _at the walled city_ [right] 
+B|108| g: [oh] you're [at the walled city] 
+A|109| f: [right] 
+B|110| g: you're [just] [above it] [have] [you] _come down_ 
+A|111| f: [i'm] [just] [i'm] [just] [come down] 
+B|112| g: [uh-huh] 
+A|113| f: [so] [i'm] _still_ [at the] parallel _with the base_ 
+B|114| g: [right] 
+A|115| f: [right] 
+B|116| g: [right] 
+A|117| f: [the carved wooden pole] [is] _right at_ _my_ _right [at_ [the] bottom] [i've got a] _ghost town_ [in] _between the walled city and_ 
+B|118| g: [between the walled city and] _what_ 
+A|119| f: [the carved wooden pole] _there's a_ _ghost town_ 
+B|120| g: [right] [oh] _well_ [i don't have] this [on] [my] map [so] ehm do [you have] [flat rocks] 
+A|121| f: yes 
+B|122| g: [in] [line] [with _the] ghost town_ 
+A|123| f: [mm] _more or less_ [yeah] _more or less_ 
+B|124| g: [right] _then_ _pass_ _pass_ [below _the] ghost town_ 
+A|125| f: [right okay] 
+B|126| g: [but] _above [the_ carved wooden pole] [and] _above the stone creek_ 
+A|127| f: [right okay] 
+B|128| g: [right] 
+A|129| f: [so] [between [the] ghost town] [and] [sort of] _like_ [a] forty-five degree [line] _or_ something 
+B|130| g: [so] you're [just] [yeah] _well_ _then_ [just] make sure yous [you] miss [that] [uh-huh] [uh-huh] 
+A|131| f: _right below the_ _go below the wooden pole_ 
+B|132| g: [no] [don't] [go] [don't] [go below the wooden pole] 
+A|133| f: _right so_ [between [the] ghost town] [and [the] wooden pole] 
+B|134| g: [uh-huh] [but] [don't] [go below the] level _of _the_ stone creek_ 
+A|135| f: [right [okay] so] [i'm] passing [above the stone creek] [and] [i'm] [going] [up] [to] [above [the] flat rocks] 
+B|136| g: [right] [no] _below the flat rocks_ 
+A|137| f: [right okay right] [i know] [what you] mean [right] 
+B|138| g: [you] _got to_ you've _got to_ _pass_ _below the flat rocks_ 
+A|139| f: [okay] 
+B|140| g: [right so] you're taking [a] [sort of] _north_ 
+A|141| f: [right okay] [i'm] [below the flat rocks] 
+B|142| g: [right [below the] flat rocks] 
+A|143| f: [yeah] 
+B|144| g: [okay] [you] want [to] veer [to] [your right] curve round [to] [your right] [and go] [in a] [south] [south] direction [and] do [you have] _buffalo_ 
+A|145| f: [yeah] [got _a] saloon bar_ as [well] [above] [that] though 
+B|146| g: [no] you're [not] [going] into [a saloon bar] mark 
+A|147| f: [right] [i know] 
+B|148| g: [right] 
+A|149| f: [not] [just] [now] [right okay] due [south] 
+B|150| g: [right] [go] [south] [past] _buffalo_ 
+A|151| f: [right] [that] means [i've] passed _the bar_ 
+B|152| g: _and then_ [just] [in a] [sort of] virtual [straight line] [past [the] bar] mark 
+A|153| f: [right okay] 
+B|154| g: [okay] 
+A|155| f: [right] 
+B|156| g: [and] [and] do [you [have] _a] cattle ranch_ 
+A|157| f: [no] 
+B|158| g: [okay] erm 
+A|159| f: [no] 
+B|160| g: do [you [have] a] _fort_ 
+A|161| f: yes 
+B|162| g: [right] [well] [go] [past _the] buffalo_ 
+A|163| f: [mmhmm] [below] them 
+B|164| g: [above [the] [right] _below the] buffalo_ _below the buffalo right_ 
+A|165| f: [below the buffalo [right] so] _turn to_ [my] _left_ 
+B|166| g: [that's] [right] [turn to] [your] [left] 
+A|167| f: [below the buffalo] 
+B|168| g: [below the buffalo] 
+A|169| f: [right] 
+B|170| g: [right at] about [at the] level _of the_ top _of _the_ fort_ [right] [in] [line] [with the] top _of _the_ fort_ 
+A|171| f: [okay] _pass straight across_ 
+B|172| g: "no [don't] [pass straight across] [right] [just] curve downwards [in a] _a ""u""_ slight _""u""_ [a] [very] [very] [very] slight curve _and then_ [pass] upwards [in a] [like] [an] upside-down _""u""_ because [you] want [to] avoid [the] _cattle ranch_ [which] lies [between _the] fort_ [and [the] buffalo] _there's a cattle_ _there's a cattle_ ranch" 
+A|173| f: [right] [there's [a cattle] ranch] [between] [your] [buffalo] [and] [your] [fort] 
+B|174| g: [that's] [right] 
+A|175| f: "right [so] [i've [got] [to] [go] along] [and] uh [over] [a ""u""] [shape] right" 
+B|176| g: you've [go] [up] [and] _over the_ [cattle ranch] 
+A|177| f: [and then] [to the] [along [to] [the] fort] 
+B|178| g: _then down_ [uh-huh] [that's] [right] 
+A|179| f: "right hang [on] hang [on] [right] [right] [i'm] doing [my] [""u""] [now] right" 
+B|180| g: [right] _and then down_ underneath [the fort] [sort of] um [to] [your] [left] 
+A|181| f: [right] 
+B|182| g: [mmhmm] _over the_ [cattle ranch] [right] 
+A|183| f: "over [the] [over the] [""u""] [right] [down] [and then down] _to the left_ [and then] south" 
+B|184| g: [and then] travel [south] [and then] 
+A|185| f: [before] [i] _reach the fort_ _or_ [on] [the] other _side_ 
+B|186| g: [before] [you] [reach the fort] 
+A|187| f: [right] 
+B|188| g: [before] [you] [reach the fort] 
+A|189| f: [so] [down south] [right] 
+B|190| g: [go] [down south] [and then] do [you have] anything else [between [the] fort] [and the] [cattle ranch] 
+A|191| f: [no] 
+B|192| g: [you] [don't] [okay] [then] [so] [just go] [south] [and then] [straight] [along] underneath [the fort] 
+A|193| f: [okay] 
+B|194| g: emerging [at the] left-hand [side] _of [the_ fort] [and] you've [to] finish opposite [the base] [more or less] opposite _the base of [the_ carved wooden pole] 
+A|195| f: [i] [have] [to] proceed 
+B|196| g: [but] [still] [to the left] _of [the_ fort] 
+A|197| f: [right so] [i] [just go] _straight up north_ 
+B|198| g: [right] [straight up north] [yeah] [and] finish erm beyond [the fort] 
+A|199| f: [right] 
+B|200| g: [and] [be] [at] this [at] 
+A|201| f: [i'm] [above [the] fort] [at _the] base of the wooden_ 
+B|202| g: [to the left] [of [the] fort] [and] level [with [the base] of [the wooden] pole] [but] [not] actually beside [the wooden pole] 
+A|203| f: [right okay] 
+
+
+TURN DETAILS:
+Turn ID=0| B | g : okay start off above the diamond mine
+	Free: Pattern=the diamond mine, Pattern=above the, Pattern=okay
+	Constrained: Pattern=above, Pattern=the
+Turn ID=1| A | f : okay yeah
+	Free: Pattern=okay, Pattern=yeah
+	Constrained: 
+Turn ID=2| B | g : right now go south from the diamond mine until you are just above the desert
+	Free: Pattern=right, Pattern=just, Pattern=go, Pattern=the diamond mine, Pattern=from, Pattern=above the, Pattern=now, Pattern=south, Pattern=you, Pattern=desert
+	Constrained: Pattern=above, Pattern=the
+Turn ID=3| A | f : so that's with the diamond mine on on your right
+	Free: Pattern=with the, Pattern=on, Pattern=so that's, Pattern=your right, Pattern=the diamond mine
+	Constrained: Pattern=right, Pattern=your, Pattern=so, Pattern=that's, Pattern=the
+Turn ID=4| B | g : that's that's correct uh-huh and go below the diamond mine
+	Free: Pattern=below the diamond mine, Pattern=and go below the, Pattern=that's, Pattern=uh-huh
+	Constrained: Pattern=below, Pattern=go, Pattern=the diamond mine, Pattern=and, Pattern=the, Pattern=go below the, Pattern=and go, Pattern=below the
+Turn ID=5| A | f : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=6| B | g : and below the graveyard below the graveyard but above the carved wooden pole
+	Free: Pattern=and, Pattern=graveyard, Pattern=below the, Pattern=above the, Pattern=the carved wooden pole, Pattern=but
+	Constrained: Pattern=below, Pattern=above, Pattern=carved wooden pole, Pattern=the, Pattern=pole
+Turn ID=7| A | f : oh hang on i don't have a graveyard
+	Free: Pattern=don't have a graveyard, Pattern=i don't have a, Pattern=on, Pattern=oh
+	Constrained: Pattern=have, Pattern=have a, Pattern=a, Pattern=have a graveyard, Pattern=graveyard, Pattern=i, Pattern=a graveyard, Pattern=don't, Pattern=i don't have
+Turn ID=8| B | g : okay so you don't have a graveyard do you have a fast flowing river
+	Free: Pattern=so you, Pattern=you have, Pattern=okay so, Pattern=have a fast flowing river, Pattern=don't have a graveyard
+	Constrained: Pattern=fast flowing river, Pattern=you, Pattern=have, Pattern=have a, Pattern=a, Pattern=have a graveyard, Pattern=graveyard, Pattern=have a fast flowing, Pattern=a graveyard, Pattern=river, Pattern=a fast flowing river, Pattern=so, Pattern=okay, Pattern=a fast flowing, Pattern=don't
+Turn ID=9| A | f : fast running creek
+	Free: Pattern=fast running creek
+	Constrained: Pattern=running creek, Pattern=creek
+Turn ID=10| B | g : ehm mm don't know yeah it could be could be
+	Free: Pattern=mm, Pattern=know, Pattern=be, Pattern=don't, Pattern=it, Pattern=yeah
+	Constrained: 
+Turn ID=11| A | f : is that to the right that'll be to my right to my right
+	Free: Pattern=right, Pattern=to the, Pattern=is, Pattern=be, Pattern=the right, Pattern=to, Pattern=my, Pattern=that
+	Constrained: Pattern=right, Pattern=the, Pattern=to
+Turn ID=12| B | g : to your right uh-huh
+	Free: Pattern=your right, Pattern=uh-huh, Pattern=to
+	Constrained: Pattern=right, Pattern=your
+Turn ID=13| A | f : right so i continue and go below the fast running creek
+	Free: Pattern=right so, Pattern=and go below the, Pattern=the fast, Pattern=fast running creek, Pattern=continue, Pattern=i
+	Constrained: Pattern=below, Pattern=right, Pattern=go, Pattern=and, Pattern=creek, Pattern=the, Pattern=running creek, Pattern=so, Pattern=go below the, Pattern=and go, Pattern=below the
+Turn ID=14| B | g : no go just until you go go below the diamond mine until just before the fast fast flowing river
+	Free: Pattern=fast flowing river, Pattern=you, Pattern=just, Pattern=go, Pattern=no, Pattern=the fast, Pattern=before, Pattern=below the diamond mine, Pattern=go below the
+	Constrained: Pattern=below, Pattern=go, Pattern=the diamond mine, Pattern=below the, Pattern=the, Pattern=river
+Turn ID=15| A | f : i don't have a fast flowing river
+	Free: Pattern=i don't have a fast, Pattern=have a fast flowing river
+	Constrained: Pattern=fast flowing river, Pattern=have, Pattern=have a, Pattern=a, Pattern=have a fast flowing, Pattern=i, Pattern=i don't have a, Pattern=river, Pattern=a fast flowing river, Pattern=i don't have, Pattern=a fast flowing, Pattern=don't
+Turn ID=16| B | g : you have a fast flowing creek
+	Free: Pattern=have a fast flowing, Pattern=you have, Pattern=creek
+	Constrained: Pattern=you, Pattern=have, Pattern=have a, Pattern=a, Pattern=a fast flowing
+Turn ID=17| A | f : i've a fast flowing running creek which is on the far right-hand corner
+	Free: Pattern=i've, Pattern=is, Pattern=a fast flowing, Pattern=running creek, Pattern=which, Pattern=on, Pattern=the
+	Constrained: Pattern=a, Pattern=creek
+Turn ID=18| B | g : mmhmm
+	Free: Pattern=mmhmm
+	Constrained: 
+Turn ID=19| A | f : so you have
+	Free: Pattern=so you, Pattern=you have
+	Constrained: Pattern=you, Pattern=so, Pattern=have
+Turn ID=20| B | g : well do you have an apache camp
+	Free: Pattern=an apache camp, Pattern=you have, Pattern=well
+	Constrained: Pattern=have, Pattern=apache camp, Pattern=you, Pattern=an
+Turn ID=21| A | f : yeah got an apache camp
+	Free: Pattern=an apache camp, Pattern=got, Pattern=yeah
+	Constrained: Pattern=apache camp, Pattern=an
+Turn ID=22| B | g : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=23| A | f : but that's like at forty-five degrees south east
+	Free: Pattern=at, Pattern=like, Pattern=that's, Pattern=south, Pattern=but
+	Constrained: 
+Turn ID=24| B | g : right okay then right you're going to go below the diamond mine
+	Free: Pattern=right, Pattern=going, Pattern=then, Pattern=to go, Pattern=right okay, Pattern=below the diamond mine, Pattern=go below the
+	Constrained: Pattern=below, Pattern=right, Pattern=go, Pattern=the diamond mine, Pattern=below the, Pattern=the, Pattern=to, Pattern=okay
+Turn ID=25| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=26| B | g : do you have a graveyard
+	Free: Pattern=have a graveyard, Pattern=you have
+	Constrained: Pattern=you, Pattern=have, Pattern=have a, Pattern=a, Pattern=graveyard, Pattern=a graveyard
+Turn ID=27| A | f : no no graveyard
+	Free: Pattern=graveyard, Pattern=no
+	Constrained: 
+Turn ID=28| B | g : don't have a graveyard
+	Free: Pattern=don't have a graveyard
+	Constrained: Pattern=have, Pattern=have a, Pattern=a, Pattern=have a graveyard, Pattern=graveyard, Pattern=a graveyard, Pattern=don't
+Turn ID=29| A | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=30| B | g : do you have a desert
+	Free: Pattern=a desert, Pattern=you have, Pattern=have a
+	Constrained: Pattern=a, Pattern=desert, Pattern=you, Pattern=have
+Turn ID=31| A | f : yes got a desert which if i continue straight down past the diamond mine
+	Free: Pattern=the diamond mine, Pattern=down, Pattern=a desert, Pattern=continue, Pattern=i, Pattern=got a, Pattern=which, Pattern=straight, Pattern=past the
+	Constrained: Pattern=desert, Pattern=a, Pattern=the, Pattern=got, Pattern=past
+Turn ID=32| B | g : no don't go don't go any further than the desert don't go onto the desert
+	Free: Pattern=desert, Pattern=go, Pattern=no, Pattern=the, Pattern=don't
+	Constrained: 
+Turn ID=33| A | f : okay so i'm still below the diamond mine
+	Free: Pattern=below the diamond mine, Pattern=okay so, Pattern=still, Pattern=i'm
+	Constrained: Pattern=below, Pattern=the diamond mine, Pattern=below the, Pattern=the, Pattern=so, Pattern=okay
+Turn ID=34| B | g : right you uh-huh below the diamond mine
+	Free: Pattern=below the diamond mine, Pattern=right, Pattern=uh-huh, Pattern=you
+	Constrained: Pattern=the diamond mine, Pattern=below the, Pattern=the, Pattern=below
+Turn ID=35| A | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=36| B | g : and then go to your right
+	Free: Pattern=your right, Pattern=and then, Pattern=go, Pattern=to
+	Constrained: Pattern=right, Pattern=then, Pattern=and, Pattern=your
+Turn ID=37| A | f : my right right okay
+	Free: Pattern=right okay, Pattern=right, Pattern=my
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=38| B | g : you've got neither a graveyard nor a fast flowing river
+	Free: Pattern=a fast flowing river, Pattern=a graveyard, Pattern=got
+	Constrained: Pattern=fast flowing river, Pattern=a, Pattern=graveyard, Pattern=a fast flowing, Pattern=river
+Turn ID=39| A | f : i've got a fast running creek
+	Free: Pattern=a fast running creek, Pattern=got a fast, Pattern=i've got a
+	Constrained: Pattern=i've, Pattern=fast running creek, Pattern=creek, Pattern=got a, Pattern=got, Pattern=running creek, Pattern=i've got, Pattern=a
+Turn ID=40| B | g : okay right you've got a fast flowing fast running creek i don't have a fast running creek
+	Free: Pattern=okay right, Pattern=i don't have a fast, Pattern=fast running creek, Pattern=a fast running creek, Pattern=a fast flowing, Pattern=got a fast
+	Constrained: Pattern=right, Pattern=have, Pattern=have a, Pattern=a, Pattern=fast running creek, Pattern=don't, Pattern=got, Pattern=running creek, Pattern=i don't have, Pattern=okay, Pattern=creek, Pattern=i, Pattern=got a, Pattern=i don't have a
+Turn ID=41| A | f : how unlucky
+	Free: Pattern=how
+	Constrained: 
+Turn ID=42| B | g : so ehm ehm i'm kind of stuck
+	Free: Pattern=of, Pattern=so, Pattern=i'm
+	Constrained: 
+Turn ID=43| A | f : can i just go straight to the saloon bar
+	Free: Pattern=to the, Pattern=can, Pattern=just go, Pattern=straight, Pattern=saloon bar, Pattern=i
+	Constrained: Pattern=just, Pattern=to, Pattern=go, Pattern=the
+Turn ID=44| B | g : erm mark no just wait i know you're thirsty but just wait 'til you get to the desert
+	Free: Pattern=no, Pattern=to the, Pattern=but, Pattern=wait, Pattern=you, Pattern=desert, Pattern=just, Pattern=i know
+	Constrained: Pattern=know, Pattern=i, Pattern=the, Pattern=to
+Turn ID=45| A | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=46| B | g : well okay then right you've got a creek i've got a river
+	Free: Pattern=right, Pattern=well, Pattern=then, Pattern=creek, Pattern=got a, Pattern=okay, Pattern=river, Pattern=i've got a
+	Constrained: Pattern=i've, Pattern=got a, Pattern=got, Pattern=i've got, Pattern=a
+Turn ID=47| A | f : yes
+	Free: 
+	Constrained: 
+Turn ID=48| B | g : so they must be linked somehow
+	Free: Pattern=so, Pattern=be
+	Constrained: 
+Turn ID=49| A | f : yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=50| B | g : so do you want to just go along to your right
+	Free: Pattern=you, Pattern=your right, Pattern=just go, Pattern=go along, Pattern=to, Pattern=along to, Pattern=so
+	Constrained: Pattern=right, Pattern=just, Pattern=go, Pattern=along, Pattern=your, Pattern=to
+Turn ID=51| A | f : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=52| B | g : and then go up and over the top of where the creek is
+	Free: Pattern=of, Pattern=go, Pattern=and, Pattern=and then, Pattern=the, Pattern=up, Pattern=over the, Pattern=creek, Pattern=is
+	Constrained: Pattern=over, Pattern=the, Pattern=then, Pattern=and
+Turn ID=53| A | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=54| B | g : and then down south again
+	Free: Pattern=and then down, Pattern=down south
+	Constrained: Pattern=then, Pattern=down, Pattern=and then, Pattern=south, Pattern=and, Pattern=then down
+Turn ID=55| A | f : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=56| B | g : down south again until just above the apache camp
+	Free: Pattern=above the, Pattern=apache camp, Pattern=down south, Pattern=just
+	Constrained: Pattern=down, Pattern=above, Pattern=south, Pattern=the
+Turn ID=57| A | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=58| B | g : and pass that by go to your southwest of the apache camp
+	Free: Pattern=go, Pattern=and, Pattern=your, Pattern=southwest, Pattern=pass, Pattern=apache camp, Pattern=to, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=the
+Turn ID=59| A | f : passing above it
+	Free: Pattern=above it
+	Constrained: Pattern=above, Pattern=it
+Turn ID=60| B | g : uh-huh
+	Free: Pattern=uh-huh
+	Constrained: 
+Turn ID=61| A | f : but to the southwest
+	Free: Pattern=to the, Pattern=the southwest, Pattern=but
+	Constrained: Pattern=southwest, Pattern=the, Pattern=to
+Turn ID=62| B | g : uh-huh
+	Free: Pattern=uh-huh
+	Constrained: 
+Turn ID=63| A | f : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=64| B | g : right take the southwest direction
+	Free: Pattern=the southwest, Pattern=right
+	Constrained: Pattern=southwest, Pattern=the
+Turn ID=65| A | f : passing above it right
+	Free: Pattern=above it, Pattern=right
+	Constrained: Pattern=above, Pattern=it
+Turn ID=66| B | g : now do you have a walled city
+	Free: Pattern=walled city, Pattern=you have, Pattern=have a, Pattern=now
+	Constrained: Pattern=have, Pattern=a, Pattern=you
+Turn ID=67| A | f : yes
+	Free: 
+	Constrained: 
+Turn ID=68| B | g : and do you have a desert
+	Free: Pattern=a desert, Pattern=you have, Pattern=have a, Pattern=and
+	Constrained: Pattern=a, Pattern=desert, Pattern=you, Pattern=have
+Turn ID=69| A | f : yes
+	Free: 
+	Constrained: 
+Turn ID=70| B | g : well pass from above the apache camp um and over the top of the walled city but between the desert and the walled city
+	Free: Pattern=well, Pattern=and the, Pattern=and, Pattern=from, Pattern=the walled city, Pattern=above the, Pattern=apache camp, Pattern=over the, Pattern=between the, Pattern=pass, Pattern=desert, Pattern=of the, Pattern=but
+	Constrained: Pattern=walled city, Pattern=of, Pattern=above, Pattern=and, Pattern=the walled, Pattern=between, Pattern=over, Pattern=the
+Turn ID=71| A | f : between them
+	Free: Pattern=between
+	Constrained: 
+Turn ID=72| B | g : uh-huh so that's over the top of the walled city
+	Free: Pattern=uh-huh, Pattern=the walled city, Pattern=of the, Pattern=over the, Pattern=so that's
+	Constrained: Pattern=walled city, Pattern=of, Pattern=the walled, Pattern=over, Pattern=so, Pattern=that's, Pattern=the
+Turn ID=73| A | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=74| B | g : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=75| A | f : but i'm that's not in a straight line
+	Free: Pattern=in a, Pattern=straight line, Pattern=i'm, Pattern=that's, Pattern=but, Pattern=not
+	Constrained: Pattern=a, Pattern=straight, Pattern=in, Pattern=line
+Turn ID=76| B | g : oh that's fair enough right just just go between those two
+	Free: Pattern=right, Pattern=just, Pattern=oh, Pattern=between, Pattern=just go, Pattern=that's
+	Constrained: Pattern=go, Pattern=just
+Turn ID=77| A | f : right okay right okay
+	Free: Pattern=right okay right, Pattern=right okay
+	Constrained: Pattern=okay right, Pattern=right okay, Pattern=right, Pattern=okay
+Turn ID=78| B | g : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=79| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=80| B | g : and then
+	Free: Pattern=and then
+	Constrained: Pattern=then, Pattern=and
+Turn ID=81| A | f : okay i'm between
+	Free: Pattern=between, Pattern=okay, Pattern=i'm
+	Constrained: 
+Turn ID=82| B | g : continue south
+	Free: Pattern=south, Pattern=continue
+	Constrained: 
+Turn ID=83| A | f : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=84| B | g : right until do you you you have no carved wooden pole at all
+	Free: Pattern=right, Pattern=you, Pattern=no, Pattern=carved wooden pole, Pattern=at, Pattern=you have, Pattern=all
+	Constrained: Pattern=have, Pattern=you, Pattern=pole
+Turn ID=85| A | f : yes
+	Free: 
+	Constrained: 
+Turn ID=86| B | g : a totem pole sort of thing
+	Free: Pattern=sort of, Pattern=a, Pattern=pole
+	Constrained: Pattern=of
+Turn ID=87| A | f : yes uh-huh
+	Free: Pattern=uh-huh
+	Constrained: 
+Turn ID=88| B | g : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=89| A | f : but right at the very bottom
+	Free: Pattern=bottom, Pattern=very, Pattern=but, Pattern=at the, Pattern=right at
+	Constrained: Pattern=right, Pattern=at, Pattern=the
+Turn ID=90| B | g : well okay do you have any flat rocks
+	Free: Pattern=flat rocks, Pattern=you have, Pattern=okay, Pattern=well
+	Constrained: Pattern=you, Pattern=have
+Turn ID=91| A | f : yes uh-huh
+	Free: Pattern=uh-huh
+	Constrained: 
+Turn ID=92| B | g : do you have a stone creek in that area
+	Free: Pattern=stone creek, Pattern=have a, Pattern=you have, Pattern=in, Pattern=that
+	Constrained: Pattern=a, Pattern=you, Pattern=have, Pattern=creek
+Turn ID=93| A | f : yes
+	Free: 
+	Constrained: 
+Turn ID=94| B | g : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=95| A | f : they're all on a diagonal
+	Free: Pattern=a, Pattern=on, Pattern=all
+	Constrained: 
+Turn ID=96| B | g : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=97| A | f : carved wooden pole stone creek flat rocks
+	Free: Pattern=carved wooden pole, Pattern=flat rocks, Pattern=stone creek
+	Constrained: Pattern=creek, Pattern=pole
+Turn ID=98| B | g : right okay right what you do then is you go south from the walled city
+	Free: Pattern=right okay right, Pattern=you, Pattern=go, Pattern=then, Pattern=from, Pattern=the walled city, Pattern=is, Pattern=south, Pattern=what you
+	Constrained: Pattern=right, Pattern=you, Pattern=what, Pattern=the walled, Pattern=the, Pattern=right okay, Pattern=okay, Pattern=okay right, Pattern=walled city
+Turn ID=99| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=100| B | g : and you follow a sort of curve ehm how do you describe the last south sort of from go in a
+	Free: Pattern=you, Pattern=go, Pattern=a, Pattern=and, Pattern=from, Pattern=the, Pattern=sort of, Pattern=south, Pattern=how, Pattern=in a
+	Constrained: Pattern=a, Pattern=of, Pattern=in
+Turn ID=101| A | f : "an ""s"""
+	Free: 
+	Constrained: 
+Turn ID=102| B | g : "sort of ""c"" shape to cover the bottom of a ""c"" right from when you pass down below the walled city"
+	Free: Pattern=of, Pattern=a, Pattern=down, Pattern=the walled, Pattern=below the, Pattern=right from, Pattern=the bottom, Pattern=to, Pattern=shape, Pattern=you, Pattern=pass
+	Constrained: Pattern=below, Pattern=right, Pattern=from, Pattern=bottom, Pattern=the
+Turn ID=103| A | f : right i right wait
+	Free: Pattern=right, Pattern=i, Pattern=wait
+	Constrained: 
+Turn ID=104| B | g : "go in a ""c""-shaped curve"
+	Free: Pattern=in a
+	Constrained: Pattern=a, Pattern=in
+Turn ID=105| A | f : right from
+	Free: Pattern=right from
+	Constrained: Pattern=right, Pattern=from
+Turn ID=106| B | g : right and then go between the flat rocks and the stone creek okay can you do that you pass in a pass
+	Free: Pattern=right, Pattern=go, Pattern=in a, Pattern=and the, Pattern=that, Pattern=you, Pattern=pass, Pattern=can, Pattern=and then, Pattern=the flat rocks, Pattern=the stone creek, Pattern=okay, Pattern=between the
+	Constrained: Pattern=stone creek, Pattern=and, Pattern=between, Pattern=in, Pattern=flat rocks, Pattern=creek, Pattern=the, Pattern=then, Pattern=a
+Turn ID=107| A | f : right i i'm at the walled city right
+	Free: Pattern=at the walled city, Pattern=right, Pattern=i, Pattern=i'm
+	Constrained: Pattern=walled city, Pattern=at the, Pattern=at, Pattern=the walled, Pattern=the walled city, Pattern=the
+Turn ID=108| B | g : oh you're at the walled city
+	Free: Pattern=at the walled city, Pattern=oh
+	Constrained: Pattern=walled city, Pattern=at the, Pattern=at, Pattern=the walled, Pattern=the walled city, Pattern=the
+Turn ID=109| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=110| B | g : you're just above it have you come down
+	Free: Pattern=you, Pattern=above it, Pattern=come down, Pattern=just, Pattern=have
+	Constrained: Pattern=down, Pattern=above, Pattern=it
+Turn ID=111| A | f : i'm just i'm just come down
+	Free: Pattern=come down, Pattern=just, Pattern=i'm
+	Constrained: Pattern=down
+Turn ID=112| B | g : uh-huh
+	Free: Pattern=uh-huh
+	Constrained: 
+Turn ID=113| A | f : so i'm still at the parallel with the base
+	Free: Pattern=at the, Pattern=i'm, Pattern=with the base, Pattern=so, Pattern=still
+	Constrained: Pattern=the base, Pattern=with the, Pattern=at, Pattern=the
+Turn ID=114| B | g : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=115| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=116| B | g : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=117| A | f : the carved wooden pole is right at my right at the bottom i've got a ghost town in between the walled city and
+	Free: Pattern=ghost town, Pattern=in, Pattern=is, Pattern=the bottom, Pattern=i've got a, Pattern=the carved wooden pole, Pattern=my, Pattern=right at, Pattern=at the, Pattern=between the walled city and
+	Constrained: Pattern=walled city, Pattern=right, Pattern=carved wooden pole, Pattern=and, Pattern=i've, Pattern=at, Pattern=the walled, Pattern=bottom, Pattern=pole, Pattern=got, Pattern=between the, Pattern=i've got, Pattern=a, Pattern=the walled city, Pattern=between, Pattern=got a, Pattern=the
+Turn ID=118| B | g : between the walled city and what
+	Free: Pattern=between the walled city and, Pattern=what
+	Constrained: Pattern=walled city, Pattern=and, Pattern=the walled, Pattern=the, Pattern=between the, Pattern=the walled city, Pattern=between
+Turn ID=119| A | f : the carved wooden pole there's a ghost town
+	Free: Pattern=the carved wooden pole, Pattern=ghost town, Pattern=there's a
+	Constrained: Pattern=pole, Pattern=the, Pattern=carved wooden pole, Pattern=a
+Turn ID=120| B | g : right oh well i don't have this on my map so ehm do you have flat rocks
+	Free: Pattern=right, Pattern=well, Pattern=oh, Pattern=you have, Pattern=flat rocks, Pattern=on, Pattern=my, Pattern=i don't have, Pattern=so
+	Constrained: Pattern=have, Pattern=you, Pattern=don't, Pattern=i
+Turn ID=121| A | f : yes
+	Free: 
+	Constrained: 
+Turn ID=122| B | g : in line with the ghost town
+	Free: Pattern=the ghost town, Pattern=with the, Pattern=in, Pattern=line
+	Constrained: Pattern=ghost town, Pattern=the
+Turn ID=123| A | f : mm more or less yeah more or less
+	Free: Pattern=more or less, Pattern=mm, Pattern=yeah
+	Constrained: Pattern=or
+Turn ID=124| B | g : right then pass pass below the ghost town
+	Free: Pattern=right, Pattern=pass, Pattern=then, Pattern=the ghost town, Pattern=below the
+	Constrained: Pattern=ghost town, Pattern=the, Pattern=below
+Turn ID=125| A | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=126| B | g : but above the carved wooden pole and above the stone creek
+	Free: Pattern=and, Pattern=above the, Pattern=but, Pattern=the carved wooden pole, Pattern=above the stone creek
+	Constrained: Pattern=stone creek, Pattern=above, Pattern=carved wooden pole, Pattern=creek, Pattern=above the, Pattern=the, Pattern=pole, Pattern=the stone creek
+Turn ID=127| A | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=128| B | g : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=129| A | f : so between the ghost town and sort of like a forty-five degree line or something
+	Free: Pattern=line, Pattern=a, Pattern=and, Pattern=the ghost town, Pattern=like, Pattern=or, Pattern=sort of, Pattern=so, Pattern=between the
+	Constrained: Pattern=of, Pattern=between, Pattern=the, Pattern=ghost town
+Turn ID=130| B | g : so you're just yeah well then just make sure yous you miss that uh-huh uh-huh
+	Free: Pattern=well, Pattern=you, Pattern=just, Pattern=uh-huh, Pattern=then, Pattern=yeah, Pattern=that, Pattern=so
+	Constrained: 
+Turn ID=131| A | f : right below the go below the wooden pole
+	Free: Pattern=go below the wooden pole, Pattern=right below the
+	Constrained: Pattern=below, Pattern=right, Pattern=below the, Pattern=the, Pattern=pole, Pattern=go below the, Pattern=go, Pattern=the wooden pole
+Turn ID=132| B | g : no don't go don't go below the wooden pole
+	Free: Pattern=go below the wooden pole, Pattern=don't, Pattern=go, Pattern=no
+	Constrained: Pattern=below, Pattern=below the, Pattern=the, Pattern=pole, Pattern=go below the, Pattern=go, Pattern=the wooden pole
+Turn ID=133| A | f : right so between the ghost town and the wooden pole
+	Free: Pattern=the wooden pole, Pattern=right so, Pattern=and the, Pattern=the ghost town, Pattern=between the
+	Constrained: Pattern=right, Pattern=and, Pattern=the, Pattern=pole, Pattern=so, Pattern=ghost town, Pattern=between
+Turn ID=134| B | g : uh-huh but don't go below the level of the stone creek
+	Free: Pattern=uh-huh, Pattern=don't, Pattern=the stone creek, Pattern=go below the, Pattern=of the, Pattern=but
+	Constrained: Pattern=below, Pattern=stone creek, Pattern=of, Pattern=go, Pattern=below the, Pattern=creek, Pattern=the
+Turn ID=135| A | f : right okay so i'm passing above the stone creek and i'm going up to above the flat rocks
+	Free: Pattern=going, Pattern=and, Pattern=above the, Pattern=right okay, Pattern=i'm, Pattern=okay so, Pattern=up, Pattern=to, Pattern=the flat rocks, Pattern=above the stone creek
+	Constrained: Pattern=stone creek, Pattern=right, Pattern=above, Pattern=flat rocks, Pattern=creek, Pattern=above the, Pattern=the, Pattern=the stone creek, Pattern=so, Pattern=okay
+Turn ID=136| B | g : right no below the flat rocks
+	Free: Pattern=below the flat rocks, Pattern=right, Pattern=no
+	Constrained: Pattern=below, Pattern=below the, Pattern=flat rocks, Pattern=the, Pattern=the flat rocks
+Turn ID=137| A | f : right okay right i know what you mean right
+	Free: Pattern=right okay right, Pattern=i know, Pattern=what you, Pattern=right
+	Constrained: Pattern=okay right, Pattern=right, Pattern=you, Pattern=what, Pattern=know, Pattern=i, Pattern=right okay, Pattern=okay
+Turn ID=138| B | g : you got to you've got to pass below the flat rocks
+	Free: Pattern=below the flat rocks, Pattern=got to, Pattern=pass, Pattern=you
+	Constrained: Pattern=below, Pattern=below the, Pattern=flat rocks, Pattern=the, Pattern=got, Pattern=to, Pattern=the flat rocks
+Turn ID=139| A | f : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=140| B | g : right so you're taking a sort of north
+	Free: Pattern=sort of, Pattern=right so, Pattern=a, Pattern=north
+	Constrained: Pattern=right, Pattern=of, Pattern=so
+Turn ID=141| A | f : right okay i'm below the flat rocks
+	Free: Pattern=below the flat rocks, Pattern=right okay, Pattern=i'm
+	Constrained: Pattern=below, Pattern=right, Pattern=below the, Pattern=flat rocks, Pattern=the, Pattern=the flat rocks, Pattern=okay
+Turn ID=142| B | g : right below the flat rocks
+	Free: Pattern=below the flat rocks, Pattern=right below the
+	Constrained: Pattern=below, Pattern=right, Pattern=below the, Pattern=flat rocks, Pattern=the, Pattern=the flat rocks
+Turn ID=143| A | f : yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=144| B | g : okay you want to veer to your right curve round to your right and go in a south south direction and do you have buffalo
+	Free: Pattern=you, Pattern=your right, Pattern=in a, Pattern=and, Pattern=buffalo, Pattern=you have, Pattern=and go, Pattern=to, Pattern=south, Pattern=okay
+	Constrained: Pattern=right, Pattern=you, Pattern=have, Pattern=go, Pattern=a, Pattern=and, Pattern=in, Pattern=your
+Turn ID=145| A | f : yeah got a saloon bar as well above that though
+	Free: Pattern=well, Pattern=above, Pattern=yeah, Pattern=a saloon bar, Pattern=got a, Pattern=that
+	Constrained: Pattern=saloon bar, Pattern=a, Pattern=got
+Turn ID=146| B | g : no you're not going into a saloon bar mark
+	Free: Pattern=a saloon bar, Pattern=not, Pattern=no, Pattern=going
+	Constrained: Pattern=saloon bar, Pattern=a
+Turn ID=147| A | f : right i know
+	Free: Pattern=i know, Pattern=right
+	Constrained: Pattern=know, Pattern=i
+Turn ID=148| B | g : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=149| A | f : not just now right okay due south
+	Free: Pattern=just, Pattern=now, Pattern=south, Pattern=right okay, Pattern=not
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=150| B | g : right go south past buffalo
+	Free: Pattern=right, Pattern=go, Pattern=buffalo, Pattern=south, Pattern=past
+	Constrained: 
+Turn ID=151| A | f : right that means i've passed the bar
+	Free: Pattern=the bar, Pattern=that, Pattern=i've, Pattern=right
+	Constrained: Pattern=the
+Turn ID=152| B | g : and then just in a sort of virtual straight line past the bar mark
+	Free: Pattern=just, Pattern=in a, Pattern=the bar, Pattern=and then, Pattern=straight line, Pattern=past the, Pattern=sort of
+	Constrained: Pattern=of, Pattern=line, Pattern=and, Pattern=in, Pattern=the, Pattern=straight, Pattern=past, Pattern=then, Pattern=a
+Turn ID=153| A | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay
+Turn ID=154| B | g : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=155| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=156| B | g : and and do you have a cattle ranch
+	Free: Pattern=a cattle ranch, Pattern=you have, Pattern=have a, Pattern=and
+	Constrained: Pattern=cattle ranch, Pattern=have, Pattern=a, Pattern=you
+Turn ID=157| A | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=158| B | g : okay erm
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=159| A | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=160| B | g : do you have a fort
+	Free: Pattern=you have, Pattern=have a, Pattern=fort
+	Constrained: Pattern=a, Pattern=you, Pattern=have
+Turn ID=161| A | f : yes
+	Free: 
+	Constrained: 
+Turn ID=162| B | g : right well go past the buffalo
+	Free: Pattern=right, Pattern=well, Pattern=go, Pattern=the buffalo, Pattern=past the
+	Constrained: Pattern=the, Pattern=past, Pattern=buffalo
+Turn ID=163| A | f : mmhmm below them
+	Free: Pattern=mmhmm, Pattern=below
+	Constrained: 
+Turn ID=164| B | g : above the right below the buffalo below the buffalo right
+	Free: Pattern=above the, Pattern=the right, Pattern=below the buffalo right, Pattern=below the buffalo, Pattern=right below the
+	Constrained: Pattern=below, Pattern=right, Pattern=above, Pattern=buffalo, Pattern=below the buffalo, Pattern=the, Pattern=the buffalo, Pattern=below the
+Turn ID=165| A | f : below the buffalo right so turn to my left
+	Free: Pattern=right so, Pattern=left, Pattern=turn to, Pattern=my, Pattern=below the buffalo right
+	Constrained: Pattern=below, Pattern=right, Pattern=buffalo, Pattern=below the buffalo, Pattern=the, Pattern=to, Pattern=so, Pattern=the buffalo, Pattern=below the
+Turn ID=166| B | g : that's right turn to your left
+	Free: Pattern=right, Pattern=left, Pattern=that's, Pattern=turn to, Pattern=your
+	Constrained: Pattern=to
+Turn ID=167| A | f : below the buffalo
+	Free: Pattern=below the buffalo
+	Constrained: Pattern=below, Pattern=buffalo, Pattern=the, Pattern=the buffalo, Pattern=below the
+Turn ID=168| B | g : below the buffalo
+	Free: Pattern=below the buffalo
+	Constrained: Pattern=below, Pattern=buffalo, Pattern=the, Pattern=the buffalo, Pattern=below the
+Turn ID=169| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=170| B | g : right at about at the level of the top of the fort right in line with the top of the fort
+	Free: Pattern=right, Pattern=in, Pattern=the fort, Pattern=of the, Pattern=with the, Pattern=line, Pattern=at the, Pattern=right at
+	Constrained: Pattern=at, Pattern=the, Pattern=fort, Pattern=right, Pattern=of
+Turn ID=171| A | f : okay pass straight across
+	Free: Pattern=pass straight across, Pattern=okay
+	Constrained: Pattern=straight, Pattern=pass
+Turn ID=172| B | g : "no don't pass straight across right just curve downwards in a a ""u"" slight ""u"" a very very very slight curve and then pass upwards in a like an upside-down ""u"" because you want to avoid the cattle ranch which lies between the fort and the buffalo there's a cattle there's a cattle ranch"
+	Free: Pattern=right, Pattern=just, Pattern=a, Pattern=and the, Pattern=""u"", Pattern=and then, Pattern=there's a cattle, Pattern=the buffalo, Pattern=very, Pattern=like, Pattern=don't, Pattern=to, Pattern=between the, Pattern=you, Pattern=pass, Pattern=an, Pattern=in a, Pattern=cattle ranch, Pattern=the, Pattern=the fort, Pattern=pass straight across, Pattern=which, Pattern=a ""u""
+	Constrained: Pattern=there's a, Pattern=pass, Pattern=and, Pattern=""u"", Pattern=buffalo, Pattern=between, Pattern=in, Pattern=the, Pattern=fort, Pattern=straight, Pattern=then, Pattern=a
+Turn ID=173| A | f : right there's a cattle ranch between your buffalo and your fort
+	Free: Pattern=right, Pattern=and, Pattern=buffalo, Pattern=your, Pattern=a cattle ranch, Pattern=fort, Pattern=there's a cattle, Pattern=between
+	Constrained: Pattern=cattle ranch, Pattern=a, Pattern=there's a
+Turn ID=174| B | g : that's right
+	Free: Pattern=right, Pattern=that's
+	Constrained: 
+Turn ID=175| A | f : "right so i've got to go along and uh over a ""u"" shape right"
+	Free: Pattern=i've got, Pattern=got to, Pattern=and, Pattern=over, Pattern=go along, Pattern=to go, Pattern=so, Pattern=a ""u"", Pattern=shape
+	Constrained: Pattern=go, Pattern=a, Pattern=along, Pattern=got, Pattern=to, Pattern=""u"", Pattern=i've
+Turn ID=176| B | g : you've go up and over the cattle ranch
+	Free: Pattern=go, Pattern=and, Pattern=cattle ranch, Pattern=up, Pattern=over the
+	Constrained: Pattern=over, Pattern=the
+Turn ID=177| A | f : and then to the along to the fort
+	Free: Pattern=the fort, Pattern=and then, Pattern=to the, Pattern=along to
+	Constrained: Pattern=then, Pattern=and, Pattern=along, Pattern=the, Pattern=fort, Pattern=to
+Turn ID=178| B | g : then down uh-huh that's right
+	Free: Pattern=then down, Pattern=right, Pattern=that's, Pattern=uh-huh
+	Constrained: Pattern=down, Pattern=then
+Turn ID=179| A | f : "right hang on hang on right right i'm doing my ""u"" now right"
+	Free: Pattern=right, Pattern=""u"", Pattern=i'm, Pattern=on, Pattern=now, Pattern=my
+	Constrained: 
+Turn ID=180| B | g : right and then down underneath the fort sort of um to your left
+	Free: Pattern=right, Pattern=left, Pattern=your, Pattern=the fort, Pattern=to, Pattern=sort of, Pattern=and then down
+	Constrained: Pattern=of, Pattern=then, Pattern=down, Pattern=and then, Pattern=the, Pattern=fort, Pattern=and, Pattern=then down
+Turn ID=181| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=182| B | g : mmhmm over the cattle ranch right
+	Free: Pattern=cattle ranch, Pattern=over the, Pattern=right, Pattern=mmhmm
+	Constrained: Pattern=over, Pattern=the
+Turn ID=183| A | f : "over the over the ""u"" right down and then down to the left and then south"
+	Free: Pattern=right, Pattern=down, Pattern=to the left, Pattern=""u"", Pattern=and then, Pattern=the, Pattern=over the, Pattern=and then down
+	Constrained: Pattern=then, Pattern=down, Pattern=to the, Pattern=and then, Pattern=over, Pattern=left, Pattern=the, Pattern=to, Pattern=and, Pattern=then down
+Turn ID=184| B | g : and then travel south and then
+	Free: Pattern=and then, Pattern=south
+	Constrained: Pattern=then, Pattern=and
+Turn ID=185| A | f : before i reach the fort or on the other side
+	Free: Pattern=i, Pattern=or, Pattern=before, Pattern=side, Pattern=reach the fort, Pattern=on, Pattern=the
+	Constrained: Pattern=the fort, Pattern=fort, Pattern=the
+Turn ID=186| B | g : before you reach the fort
+	Free: Pattern=reach the fort, Pattern=before, Pattern=you
+	Constrained: Pattern=the fort, Pattern=fort, Pattern=the
+Turn ID=187| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=188| B | g : before you reach the fort
+	Free: Pattern=reach the fort, Pattern=before, Pattern=you
+	Constrained: Pattern=the fort, Pattern=fort, Pattern=the
+Turn ID=189| A | f : so down south right
+	Free: Pattern=down south, Pattern=right, Pattern=so
+	Constrained: Pattern=down, Pattern=south
+Turn ID=190| B | g : go down south and then do you have anything else between the fort and the cattle ranch
+	Free: Pattern=go, Pattern=and the, Pattern=and then, Pattern=you have, Pattern=down south, Pattern=between the, Pattern=the fort, Pattern=cattle ranch
+	Constrained: Pattern=you, Pattern=have, Pattern=then, Pattern=down, Pattern=and, Pattern=between, Pattern=the, Pattern=fort, Pattern=south
+Turn ID=191| A | f : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=192| B | g : you don't okay then so just go south and then straight along underneath the fort
+	Free: Pattern=you, Pattern=then, Pattern=just go, Pattern=the fort, Pattern=don't, Pattern=straight, Pattern=south, Pattern=so, Pattern=okay, Pattern=along, Pattern=and then
+	Constrained: Pattern=just, Pattern=go, Pattern=then, Pattern=and, Pattern=the, Pattern=fort
+Turn ID=193| A | f : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=194| B | g : emerging at the left-hand side of the fort and you've to finish opposite the base more or less opposite the base of the carved wooden pole
+	Free: Pattern=more or less, Pattern=and, Pattern=at the, Pattern=side, Pattern=the fort, Pattern=to, Pattern=the carved wooden pole, Pattern=of the, Pattern=the base, Pattern=the base of the
+	Constrained: Pattern=of, Pattern=carved wooden pole, Pattern=at, Pattern=or, Pattern=the, Pattern=pole, Pattern=fort, Pattern=the base, Pattern=of the
+Turn ID=195| A | f : i have to proceed
+	Free: Pattern=i, Pattern=to, Pattern=have
+	Constrained: 
+Turn ID=196| B | g : but still to the left of the fort
+	Free: Pattern=to the left, Pattern=the fort, Pattern=still, Pattern=of the, Pattern=but
+	Constrained: Pattern=of, Pattern=to the, Pattern=left, Pattern=the, Pattern=fort, Pattern=to
+Turn ID=197| A | f : right so i just go straight up north
+	Free: Pattern=straight up north, Pattern=just go, Pattern=right so, Pattern=i
+	Constrained: Pattern=right, Pattern=just, Pattern=go, Pattern=north, Pattern=up, Pattern=straight, Pattern=so
+Turn ID=198| B | g : right straight up north yeah and finish erm beyond the fort
+	Free: Pattern=the fort, Pattern=right, Pattern=straight up north, Pattern=yeah, Pattern=and
+	Constrained: Pattern=north, Pattern=the, Pattern=fort, Pattern=up, Pattern=straight
+Turn ID=199| A | f : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=200| B | g : and be at this at
+	Free: Pattern=at, Pattern=and, Pattern=be
+	Constrained: 
+Turn ID=201| A | f : i'm above the fort at the base of the wooden
+	Free: Pattern=at the, Pattern=i'm, Pattern=above the, Pattern=the fort, Pattern=the base of the wooden
+	Constrained: Pattern=of, Pattern=above, Pattern=at, Pattern=the, Pattern=fort, Pattern=of the, Pattern=the base, Pattern=the base of the
+Turn ID=202| B | g : to the left of the fort and level with the base of the wooden pole but not actually beside the wooden pole
+	Free: Pattern=the wooden pole, Pattern=the fort, Pattern=not, Pattern=and, Pattern=to the left, Pattern=with the base, Pattern=the base of the wooden, Pattern=of the, Pattern=but
+	Constrained: Pattern=of, Pattern=with the, Pattern=to the, Pattern=left, Pattern=the, Pattern=pole, Pattern=fort, Pattern=to, Pattern=of the, Pattern=the base, Pattern=the base of the
+Turn ID=203| A | f : right okay
+	Free: Pattern=right okay
+	Constrained: Pattern=right, Pattern=okay

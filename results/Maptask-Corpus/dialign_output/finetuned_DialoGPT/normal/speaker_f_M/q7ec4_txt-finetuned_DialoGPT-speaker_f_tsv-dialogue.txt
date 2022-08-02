@@ -7,7 +7,7 @@ A|5| M: " !!! ' !!! ' !! "" !! 2016 !! 4 !! 456 !! 8 !! 56 !! 286 !! 6 !! 7 !! 8
 B|6| f: [right] 
 A|7| M: " !!! ' !!! ' !! 2017 !! 2018 !! 2016 !! 4 !! "" !! 8 !! 7 !! 6 !! 84 !! 88 !! " 
 B|8| f: okey-dokey 
-A|9| M: " !!! ' !!! ' !! "" !! remnant !!!.!!!!.!! 2017 !! 7 !! 8 !! 6 !! 226 !! 147 !! 526 !! 428 !! 4 !! 48 !! 88 !! 248 !! vw !! 288 !! 286 !! 328 !! " 
+A|9| M: " !!! ' !!! ' !! "" !! Remnant !!!.!!,!!.!! 2017 !! 7 !! 8 !! 6 !! 226 !! 147 !! 526 !! 428 !! 4 !! 48 !! 88 !! 248 !! VW !! 288 !! 286 !! 328 !! " 
 B|10| f: [right] 
 A|11| M: _and_ then you _go_ _up_ about three inches 
 B|12| f: _mm_ okey-dokey 
@@ -15,11 +15,11 @@ A|13| M: _right so_ you're going _to_ come down on [the] left-hand side _of the_
 B|14| f: [right] 
 A|15| M: then _go_ _up_ _to the top _of_ the_ west lake 
 B|16| f: [just] _north_ [of [the] banana] tree _yeah_ 
-A|17| M: " !!! ' !!! ' !! 2018 !! 2017 !! 2019 !! 2020 !! 2020 !! _there_ !! you !! "" !!!!.!! rem !! ok !! " 
+A|17| M: " !!! ' !!! ' !! 2018 !! 2017 !! 2019 !! 2020 !! 2020 !! _there_ !! you !! "" !!,!!.!! Rem !! ok !! " 
 B|18| f: mmhmm 
 A|19| M: _and_ then _go_ _up_ [right] _and_ you should _be_ near _to the_ golden beach _at_ _the top of it_ 
 B|20| f: mmhmm 
-A|21| M: " !!! ' !! "" !! 86 !! 84 !! 92 !! 91 !! 8 !! 89 !!!!! 226 !! 88 !! 886 !! 888 !!.!!!!!!!!!! 4 !!!!!! 889 !! " 
+A|21| M: " !!! ' !! "" !! 86 !! 84 !! 92 !! 91 !! 8 !! 89 !!!,!! 226 !! 88 !! 886 !! 888 !!.!!!!!!!!,!! 4 !!!!!! 889 !! " 
 B|22| f: _no_ not [at] all 
 A|23| M: [no] 
 B|24| f: [right] 
@@ -41,7 +41,7 @@ A|39| M: okay
 B|40| f: [eh] slate _mountain_ 
 A|41| M: okay [well] [what] _i_ suggest you do lllll ehm is like [right] there's [a] there's two kind [of] groups [of] pelicans but they're ehm they're they're sort [of] down _and_ [to the] [right] [of the] old mill 
 B|42| f: mmhmm 
-A|43| M: " !!! ' !! "" !! ': !!! -- !! moscow !! [mm] !! bolshevik !! lenin !! assad !! bolshe !! lenin !! 8 !! 7 !! 88 !! 4 !! 428 !! 754 !! 84 !! 286 !! 756 !! 96 !! 886 !! 487 !! 477 !! 46 !! 45 !! 888 !! 424 !! 44 !! 496 !! 448 !! 488 !!!!!!!!!!!!!!!!!!!!.!! === !! 440 !! 423 !! " 
+A|43| M: " !!! ' !! "" !! ': !!! -- !! Moscow !! [mm] !! Bolshevik !! Lenin !! Assad !! Bolshe !! Lenin !! 8 !! 7 !! 88 !! 4 !! 428 !! 754 !! 84 !! 286 !! 756 !! 96 !! 886 !! 487 !! 477 !! 46 !! 45 !! 888 !! 424 !! 44 !! 496 !! 448 !! 488 !!,!!!!!!!!!!!!!!!!!!.!! === !! 440 !! 423 !! " 
 B|44| f: [right] 
 A|45| M: _and_ then _go_ [left] 
 B|46| f: mmhmm 
@@ -75,7 +75,7 @@ A|73| M: then _go_ straight [up] [the] left-hand side [of it]
 B|74| f: [up] [past the] lemon grove 
 A|75| M: [yeah] 
 B|76| f: [right] 
-A|77| M: " !!! ' !! 2 !! level !! 4 !! "" !! 7 !! 8 !! 6 !! 83 !! 92 !! slay [the] lost" 
+A|77| M: " !!! ' !! 2 !! level !! 4 !! "" !! 7 !! 8 !! 6 !! 83 !! 92 !! Slay [the] lost" 
 B|78| f: mmhmm 
 A|79| M: [right] you've got [the] pyramid marked 
 B|80| f: mmhmm 
@@ -143,7 +143,7 @@ Turn ID=7| A | M : " !!! ' !!! ' !! 2017 !! 2018 !! 2016 !! 4 !! "" !! 8 !! 7 !!
 Turn ID=8| B | f : okey-dokey
 	Free: 
 	Constrained: 
-Turn ID=9| A | M : " !!! ' !!! ' !! "" !! remnant !!!.!!!!.!! 2017 !! 7 !! 8 !! 6 !! 226 !! 147 !! 526 !! 428 !! 4 !! 48 !! 88 !! 248 !! vw !! 288 !! 286 !! 328 !! "
+Turn ID=9| A | M : " !!! ' !!! ' !! "" !! Remnant !!!.!!,!!.!! 2017 !! 7 !! 8 !! 6 !! 226 !! 147 !! 526 !! 428 !! 4 !! 48 !! 88 !! 248 !! VW !! 288 !! 286 !! 328 !! "
 	Free: 
 	Constrained: 
 Turn ID=10| B | f : right
@@ -167,7 +167,7 @@ Turn ID=15| A | M : then go up to the top of the west lake
 Turn ID=16| B | f : just north of the banana tree yeah
 	Free: Pattern=just, Pattern=yeah, Pattern=north, Pattern=the banana, Pattern=of the
 	Constrained: Pattern=the, Pattern=of
-Turn ID=17| A | M : " !!! ' !!! ' !! 2018 !! 2017 !! 2019 !! 2020 !! 2020 !! there !! you !! "" !!!!.!! rem !! ok !! "
+Turn ID=17| A | M : " !!! ' !!! ' !! 2018 !! 2017 !! 2019 !! 2020 !! 2020 !! there !! you !! "" !!,!!.!! Rem !! ok !! "
 	Free: Pattern=there
 	Constrained: 
 Turn ID=18| B | f : mmhmm
@@ -179,7 +179,7 @@ Turn ID=19| A | M : and then go up right and you should be near to the golden be
 Turn ID=20| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=21| A | M : " !!! ' !! "" !! 86 !! 84 !! 92 !! 91 !! 8 !! 89 !!!!! 226 !! 88 !! 886 !! 888 !!.!!!!!!!!!! 4 !!!!!! 889 !! "
+Turn ID=21| A | M : " !!! ' !! "" !! 86 !! 84 !! 92 !! 91 !! 8 !! 89 !!!,!! 226 !! 88 !! 886 !! 888 !!.!!!!!!!!,!! 4 !!!!!! 889 !! "
 	Free: 
 	Constrained: 
 Turn ID=22| B | f : no not at all
@@ -245,7 +245,7 @@ Turn ID=41| A | M : okay well what i suggest you do lllll ehm is like right ther
 Turn ID=42| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=43| A | M : " !!! ' !! "" !! ': !!! -- !! moscow !! mm !! bolshevik !! lenin !! assad !! bolshe !! lenin !! 8 !! 7 !! 88 !! 4 !! 428 !! 754 !! 84 !! 286 !! 756 !! 96 !! 886 !! 487 !! 477 !! 46 !! 45 !! 888 !! 424 !! 44 !! 496 !! 448 !! 488 !!!!!!!!!!!!!!!!!!!!.!! === !! 440 !! 423 !! "
+Turn ID=43| A | M : " !!! ' !! "" !! ': !!! -- !! Moscow !! mm !! Bolshevik !! Lenin !! Assad !! Bolshe !! Lenin !! 8 !! 7 !! 88 !! 4 !! 428 !! 754 !! 84 !! 286 !! 756 !! 96 !! 886 !! 487 !! 477 !! 46 !! 45 !! 888 !! 424 !! 44 !! 496 !! 448 !! 488 !!,!!!!!!!!!!!!!!!!!!.!! === !! 440 !! 423 !! "
 	Free: Pattern=mm
 	Constrained: 
 Turn ID=44| B | f : right
@@ -347,7 +347,7 @@ Turn ID=75| A | M : yeah
 Turn ID=76| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=77| A | M : " !!! ' !! 2 !! level !! 4 !! "" !! 7 !! 8 !! 6 !! 83 !! 92 !! slay the lost"
+Turn ID=77| A | M : " !!! ' !! 2 !! level !! 4 !! "" !! 7 !! 8 !! 6 !! 83 !! 92 !! Slay the lost"
 	Free: Pattern=the
 	Constrained: 
 Turn ID=78| B | f : mmhmm

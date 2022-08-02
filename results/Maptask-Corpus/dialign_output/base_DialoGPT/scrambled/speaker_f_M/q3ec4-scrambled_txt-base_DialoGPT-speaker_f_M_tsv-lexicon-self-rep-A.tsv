@@ -1,19 +1,16 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	i have a	23	M	25, 47
 2	3	not in the	19	M	63, 81
 2	3	you can go	67	M	39, 105
 6	2	in the	47	M	37, 57, 63, 67, 81, 83
 4	2	have a	39	M	21, 25, 47, 59
 4	2	of the	69	M	11, 37, 41, 79
-3	2	i think	35	M	47, 73, 81
+3	2	I think	35	M	47, 73, 81
 3	2	you can	69	M	37, 39, 105
+2	2	, and	15	M	37, 51
 2	2	and then	35	M	51, 85
 2	2	do you	51	M	9, 59
-2	2	i don't	21	M	17, 37
-2	2	i'll be	7	M	23, 29
 2	2	is that	63	M	19, 81
 2	2	is the	7	M	55, 61
-2	2	it's the	33	M	69, 101
 2	2	no no	45	M	51, 95
 2	2	on the	45	M	61, 105
 2	2	see the	47	M	37, 83
@@ -23,12 +20,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	then go	53	M	51, 103
 2	2	there .	15	M	23, 37
 2	2	to the	49	M	51, 99
-2	2	what's the	11	M	33, 43
 2	2	you go	3	M	51, 53
 26	1	the	101	M	5, 11, 25, 33, 35, 37, 41, 43, 47, 49, 51, 53, 55, 57, 61, 63, 67, 69, 71, 79, 81, 83, 91, 99, 101, 105
 12	1	you	105	M	1, 9, 13, 19, 37, 39, 41, 51, 53, 59, 83, 105
 9	1	a	85	M	21, 25, 33, 47, 51, 55, 59, 103, 105
-9	1	i	71	M	17, 25, 37, 47, 49, 73, 79, 81, 87
 9	1	is	75	M	19, 45, 47, 55, 57, 61, 63, 81, 93
 8	1	of	91	M	11, 25, 37, 41, 47, 79, 99, 101
 8	1	to	83	M	17, 49, 51, 55, 71, 73, 83, 99
@@ -36,26 +31,28 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	in	53	M	37, 57, 63, 67, 81, 83, 89
 6	1	and	73	M	33, 37, 51, 71, 85, 105
 6	1	that	81	M	9, 15, 19, 63, 81, 89
-5	1	it's	69	M	37, 49, 69, 101, 105
-5	1	no	79	M	17, 31, 51, 69, 95
+5	1	I	45	M	37, 47, 49, 73, 81
 5	1	right	57	M	29, 41, 61, 81, 85
+4	1	i	71	M	17, 25, 79, 87
 4	1	it	73	M	27, 45, 93, 99
+4	1	it's	69	M	37, 49, 69, 105
+4	1	no	79	M	17, 31, 51, 95
 4	1	then	53	M	51, 85, 97, 103
 4	1	think	45	M	37, 47, 73, 81
+3	1	I'm	49	M	15, 37, 63
 3	1	are	81	M	1, 41, 81
 3	1	be	61	M	23, 29, 83
-3	1	i'll	67	M	23, 29, 89
-3	1	i'm	49	M	15, 37, 63
 3	1	not	19	M	63, 67, 81
 3	1	on	45	M	61, 95, 105
 3	1	there	25	M	13, 23, 37
 3	1	water	25	M	35, 37, 59
 3	1	where	29	M	47, 71, 75
 3	1	yes	87	M	7, 87, 93
+2	1	I'll	67	M	23, 89
 2	1	above	33	M	27, 59
 2	1	but	53	M	15, 67
 2	1	do	51	M	9, 59
-2	1	down	29	M	75, 103
+2	1	don't	21	M	17, 37
 2	1	east	19	M	39, 57
 2	1	from	5	M	37, 41
 2	1	how	33	M	9, 41

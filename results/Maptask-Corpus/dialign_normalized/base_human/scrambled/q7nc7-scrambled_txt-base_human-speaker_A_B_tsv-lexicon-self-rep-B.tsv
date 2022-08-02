@@ -1,0 +1,149 @@
+Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+4	4	do you have a	65	g	25, 75, 87, 89
+2	4	a soft furnishings store	65	g	11, 75
+2	4	i want you to	35	g	15, 49
+2	4	if you if you	17	g	15, 31
+2	4	in line with the	49	g	51, 99
+2	4	the edge of the	73	g	41, 113
+2	4	where are you now	29	g	101, 129
+5	3	do you have	97	g	25, 75, 87, 89, 121
+3	3	have you got	55	g	31, 63, 85
+3	3	line with the	75	g	51, 99, 125
+3	3	to the right	19	g	31, 37, 49
+2	3	of draw a	69	g	31, 99
+2	3	of the footbridge	27	g	87, 113
+2	3	right and then	51	g	37, 87
+2	3	side of the	7	g	81, 87
+2	3	the remote village	107	g	15, 121
+2	3	the top of	41	g	33, 73
+2	3	to do is	23	g	15, 37
+2	3	you should be	89	g	29, 117
+2	3	you're going to	23	g	15, 37
+10	2	of the	109	g	7, 35, 41, 59, 73, 81, 87, 99, 113, 115
+8	2	to the	113	g	5, 7, 31, 35, 37, 49, 85, 117
+6	2	and then	95	g	23, 37, 87, 99, 107, 117
+6	2	do you	97	g	25, 75, 87, 89, 91, 121
+5	2	below the	75	g	9, 29, 69, 81, 83
+4	2	have you	69	g	31, 63, 85, 99
+4	2	the right	37	g	13, 31, 37, 49
+3	2	are you	31	g	99, 101, 129
+3	2	at the	43	g	53, 87, 95
+3	2	don't go	67	g	7, 69, 73
+3	2	draw a	69	g	31, 85, 99
+3	2	if you	21	g	11, 15, 31
+3	2	okay so	81	g	37, 101, 117
+3	2	should be	89	g	29, 65, 117
+3	2	the top	63	g	33, 73, 95
+3	2	you just	89	g	31, 47, 119
+3	2	you know	75	g	51, 85, 125
+3	2	you should	89	g	29, 91, 117
+2	2	a line	71	g	15, 85
+2	2	abandoned cottage	53	g	65, 117
+2	2	about three	27	g	11, 37
+2	2	above the	65	g	13, 77
+2	2	beneath the	35	g	51, 85
+2	2	crest falls	5	g	41, 45
+2	2	down towards	55	g	73, 127
+2	2	due south	99	g	15, 113
+2	2	from the	9	g	105, 113
+2	2	go down	69	g	59, 127
+2	2	go to	109	g	7, 115
+2	2	got the	9	g	63, 71
+2	2	just go	15	g	33, 47
+2	2	just to	29	g	49, 77
+2	2	kind of	93	g	31, 123
+2	2	left-hand side	37	g	65, 101
+2	2	past the	37	g	5, 41
+2	2	right you	31	g	95, 125
+2	2	rocket warehouse	13	g	73, 85
+2	2	sort of	27	g	73, 99
+2	2	straight down	63	g	47, 109
+2	2	the map	59	g	7, 65
+2	2	the mountain	71	g	11, 81
+2	2	the rocket	27	g	73, 99
+2	2	the wheatfields	35	g	51, 85
+2	2	then travel	103	g	5, 107
+2	2	three centimetres	49	g	11, 59
+2	2	two inches	29	g	85, 113
+2	2	underneath the	3	g	11, 13
+2	2	up the	17	g	65, 81
+2	2	when you	41	g	37, 77
+2	2	where it	29	g	21, 49
+2	2	you come	73	g	37, 109
+2	2	you see	43	g	49, 91
+40	1	the	123	g	5, 7, 9, 11, 13, 15, 17, 29, 31, 33, 35, 37, 39, 41, 43, 49, 51, 53, 59, 63, 65, 67, 69, 71, 73, 77, 81, 83, 85, 87, 95, 99, 101, 105, 113, 115, 117, 121, 125, 127
+28	1	you	123	g	7, 11, 15, 25, 29, 31, 33, 37, 39, 47, 49, 51, 63, 75, 77, 85, 87, 89, 91, 95, 99, 101, 109, 117, 119, 121, 125, 129
+22	1	right	121	g	9, 13, 31, 37, 43, 47, 49, 61, 63, 73, 81, 83, 87, 93, 95, 109, 113, 117, 121, 125, 127, 129
+15	1	of	117	g	7, 23, 31, 33, 35, 41, 49, 59, 73, 81, 87, 99, 113, 115, 123
+14	1	to	113	g	5, 7, 15, 21, 31, 33, 35, 37, 49, 65, 77, 85, 115, 117
+12	1	a	107	g	11, 15, 23, 25, 31, 75, 85, 87, 89, 91, 99, 117
+12	1	and	99	g	19, 23, 33, 37, 51, 71, 87, 99, 107, 109, 115, 117
+12	1	go	121	g	7, 33, 35, 47, 55, 59, 69, 73, 81, 85, 115, 127
+12	1	just	115	g	5, 19, 23, 31, 33, 41, 45, 47, 49, 51, 77, 119
+12	1	then	125	g	5, 23, 37, 57, 65, 83, 87, 99, 107, 109, 117, 129
+11	1	okay	105	g	21, 29, 31, 37, 49, 51, 75, 91, 101, 117, 125
+8	1	down	117	g	11, 21, 47, 49, 59, 73, 109, 127
+8	1	it	83	g	15, 19, 21, 47, 49, 65, 73, 97
+8	1	yeah	109	g	3, 13, 27, 29, 59, 75, 77, 111
+7	1	that	83	g	33, 37, 49, 89, 93, 99, 115
+6	1	below	75	g	9, 29, 37, 69, 81, 83
+6	1	in	115	g	17, 51, 85, 89, 99, 131
+6	1	is	105	g	13, 15, 19, 37, 93, 117
+6	1	line	111	g	15, 51, 85, 99, 105, 125
+6	1	now	101	g	29, 59, 81, 87, 101, 129
+6	1	well	117	g	11, 13, 51, 57, 103, 127
+6	1	you're	85	g	13, 15, 37, 53, 81, 97
+5	1	about	103	g	11, 37, 81, 99, 113
+5	1	got	55	g	31, 41, 63, 71, 85
+5	1	left	95	g	1, 37, 79, 85, 95
+5	1	or	69	g	31, 49, 59, 85, 99
+5	1	so	87	g	37, 85, 101, 117, 123
+5	1	where	109	g	21, 49, 67, 101, 129
+4	1	be	89	g	29, 37, 65, 117
+4	1	come	77	g	37, 65, 109, 113
+4	1	draw	69	g	31, 51, 85, 99
+4	1	if	21	g	11, 15, 29, 31
+4	1	inches	91	g	23, 37, 85, 113
+4	1	no	99	g	7, 9, 69, 105
+4	1	side	37	g	65, 81, 87, 101
+4	1	start	59	g	37, 43, 73, 95
+4	1	you've	87	g	31, 41, 71, 117
+4	1	your	97	g	19, 29, 65, 115
+3	1	above	85	g	13, 77, 97
+3	1	an	51	g	31, 65, 81
+3	1	but	27	g	51, 73, 77
+3	1	from	101	g	13, 105, 113
+3	1	going	23	g	15, 31, 37
+3	1	mountain	71	g	11, 25, 81
+3	1	on	61	g	65, 101, 125
+3	1	see	49	g	43, 49, 91
+3	1	south	99	g	15, 107, 113
+3	1	straight	67	g	47, 109, 113
+3	1	two	55	g	59, 85, 113
+3	1	uh-huh	95	g	27, 119, 121
+3	1	underneath	37	g	11, 13, 47
+3	1	until	51	g	31, 41, 81
+3	1	up	57	g	25, 65, 81
+3	1	village	117	g	15, 121, 131
+3	1	want	35	g	15, 33, 49
+3	1	wheatfields	55	g	31, 51, 85
+2	1	arc	21	g	31, 51
+2	1	around	45	g	73, 117
+2	1	cross	87	g	19, 105
+2	1	directly	27	g	11, 37
+2	1	done	19	g	99, 117
+2	1	eh	21	g	79, 99
+2	1	for	33	g	81, 113
+2	1	like	77	g	49, 125
+2	1	other	3	g	85, 87
+2	1	pass	33	g	83, 115
+2	1	point	75	g	17, 91
+2	1	pole	57	g	13, 69
+2	1	round	85	g	33, 117
+2	1	stop	27	g	51, 77
+2	1	that's	39	g	19, 57
+2	1	there	69	g	19, 87
+2	1	um	17	g	59, 75
+2	1	west	33	g	23, 55
+2	1	what	81	g	37, 117
+

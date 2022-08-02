@@ -1,27 +1,26 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	do you want me to	31	M	69, 99
+2	4	, you have to	49	M	57, 105
 2	4	on the right side	15	M	9, 23
 3	3	go to the	27	M	31, 53, 57
-2	3	i don't know	3	M	83, 85
-2	3	i'm going to	7	M	45, 51
-2	3	i'm in the	5	M	91, 95
+2	3	I'm in the	5	M	91, 95
 2	3	i'm on the	17	M	9, 25
 2	3	to do it	73	M	11, 83
-2	3	you have to	49	M	57, 105
 6	2	to the	33	M	25, 31, 45, 49, 53, 57
 5	2	on the	89	M	9, 23, 25, 71, 97
 4	2	do you	69	M	31, 49, 69, 99
 3	2	going to	35	M	17, 45, 51
-3	2	i don't	59	M	27, 83, 85
 3	2	in the	9	M	87, 91, 95
 3	2	of the	15	M	49, 51, 63
 3	2	the east	73	M	25, 91, 97
 3	2	to go	19	M	57, 63, 75
 3	2	you want	33	M	69, 99, 101
 2	2	are you	97	M	1, 97
+2	2	don't know	3	M	83, 85
 2	2	go east	51	M	13, 63
 2	2	how to	79	M	5, 83
 2	2	i can	33	M	69, 101
+2	2	i don't	57	M	27, 83
 2	2	i dont	9	M	35, 43
 2	2	i think	11	M	71, 81
 2	2	the way	49	M	25, 73
@@ -35,9 +34,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	you get	19	M	49, 67
 22	1	the	95	M	3, 5, 9, 11, 13, 23, 25, 31, 41, 45, 49, 51, 53, 57, 63, 65, 71, 73, 87, 91, 95, 97
 16	1	to	101	M	5, 11, 17, 25, 31, 45, 49, 51, 53, 57, 63, 69, 75, 83, 99, 105
-13	1	i	85	M	17, 23, 27, 35, 43, 69, 71, 79, 81, 83, 85, 93, 101
-13	1	you	105	M	1, 5, 31, 49, 57, 67, 69, 75, 93, 97, 99, 101, 105
-7	1	i'm	87	M	9, 25, 45, 47, 51, 91, 95
+12	1	i	85	M	17, 23, 27, 35, 43, 69, 71, 79, 81, 83, 93, 101
+12	1	you	105	M	1, 5, 31, 49, 57, 67, 69, 93, 97, 99, 101, 105
 7	1	right	67	M	7, 9, 23, 27, 45, 59, 73
 6	1	do	89	M	11, 31, 49, 69, 83, 99
 6	1	it	91	M	11, 23, 63, 73, 83, 101
@@ -48,6 +46,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	then	91	M	13, 25, 53, 59, 103
 5	1	yeah	63	M	19, 39, 67, 69, 81
 4	1	don't	59	M	27, 75, 83, 85
+4	1	i'm	39	M	9, 25, 45, 47
+3	1	I'm	45	M	51, 91, 95
 3	1	and	91	M	13, 95, 103
 3	1	can	97	M	5, 69, 101
 3	1	have	89	M	17, 57, 105
@@ -58,6 +58,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	side	33	M	9, 23, 41
 3	1	so	47	M	35, 45, 81
 3	1	turn	47	M	15, 37, 61
+2	1	You	31	M	75, 105
 2	1	about	87	M	3, 89
 2	1	back	51	M	19, 69
 2	1	bottom	3	M	29, 31

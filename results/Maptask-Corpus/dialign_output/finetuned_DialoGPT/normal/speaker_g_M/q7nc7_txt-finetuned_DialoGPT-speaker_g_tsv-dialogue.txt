@@ -6,13 +6,13 @@ A|4| M:  !!!!.!! ' !!! ' !! 2017 !! 2018 !! 2020 !! 2019 !! 2017 !! 2018 !!
 B|5| g: [do] _you_ _have_ _a_ _graveyard_ _just_ _along_ from _the diamond mine_ 
 A|6| M: _no_ 
 B|7| g: [no] [no] _just_ ignore _that_ 
-A|8| M: " !!! ' !! "" !!.!! 226 !! 556 !! 286 !! 8 !! 84 !! 86 !! 4 !! 88 !! 424 !! 92 !! 688 !! 96 !! 886 !!!! 888 !! 7 !! 889 !! 89 !! 91 !! 887 !! 423 !! u !!!!!!!!!!!!!!!!!!!!!!!! 987 !! oh !!! -- !! [okay] !! _mm_ !!!.!!! ' !! mh !! 't !! _i_ !! s !! [have] !! [right] !! _there_ !! [that] !! god !! all !! [you] !! _and_ !! now !! q !! got !! am !! can !! o !! ah !! eh !! _up_ !! big !! _this_ !! remote !! [the] !! within !! ukraine !! az !! ken !! _but_ !! fu !! fields !! ak !! tokyo !! kats !! tag !! ex !! are !! _yeah_ !! [do] !! py !! leader !! e !! % !! eva !! ac !! bay !! f !! kab !! unit !! uh !! nato !! field !! __ !! y !! b !! k !! _if_ !! [it] !! sum !! [go] !! [a] !! yu !! kit !! mask !! kob !! _my_ !! uk !! hit !! p !! japan !! bab !! fu !!!!! er !! " 
+A|8| M: " !!! ' !! "" !!.!! 226 !! 556 !! 286 !! 8 !! 84 !! 86 !! 4 !! 88 !! 424 !! 92 !! 688 !! 96 !! 886 !!,!! 888 !! 7 !! 889 !! 89 !! 91 !! 887 !! 423 !! u !!!!!!!!!!!!!!!!!!!!!!!! 987 !! oh !!! -- !! [okay] !! _mm_ !!!.!!! ' !! MH !! 't !! _i_ !! s !! [have] !! [right] !! _there_ !! [that] !! god !! all !! [you] !! _and_ !! now !! q !! got !! am !! can !! o !! ah !! eh !! _up_ !! big !! _this_ !! remote !! [the] !! within !! Ukraine !! az !! ken !! _but_ !! Fu !! fields !! Ak !! Tokyo !! Kats !! Tag !! ex !! are !! _yeah_ !! [do] !! py !! Leader !! e !! % !! Eva !! ac !! bay !! f !! Kab !! Unit !! uh !! Nato !! field !! __ !! y !! b !! k !! _if_ !! [it] !! Sum !! [go] !! [a] !! Yu !! Kit !! Mask !! Kob !! _my_ !! Uk !! hit !! p !! Japan !! bab !! Fu !!!!! er !! " 
 B|9| g: [do] [you] [have] _carved stones_ 
-A|10| M: " !!!! : !! ' !! "" !!!!.!! 4 !! 8 !! 88 !! " 
+A|10| M: " !!!! : !! ' !! "" !!,!!.!! 4 !! 8 !! 88 !! " 
 B|11| g: sorry _no i_ said [a] _graveyard_ 
 A|12| M: [right] _so_ [you] want _to_ [go] _round_ _the carved stones_ _so you're_ _underneath the diamond mine_ 
 B|13| g: _no it's_ _to the_ right-hand _side of [the_ diamond mine] on [my] _map_ there's [a] _graveyard_ [right] beside [it] [okay] 
-A|14| M: " !!! ' !!! ' !! "" !! rem !! _this_ !! [okay] !! _is_ !! u !! [i] !! [you] !! s !! r !! c !! k !! _mm_ !! " 
+A|14| M: " !!! ' !!! ' !! "" !! Rem !! _this_ !! [okay] !! _is_ !! u !! [i] !! [you] !! s !! r !! c !! k !! _mm_ !! " 
 B|15| g: _well_ 
 A|16| M: [i] [have] i've gone _round_ [the] [graveyard] 
 B|17| g: [so] come _along to_ about [mm] about five six inches anyway straight _along _to the_ right_ 
@@ -20,7 +20,7 @@ A|18| M: [to the right] [uh-huh]
 B|19| g: [underneath the diamond mine] 
 A|20| M: _yeah_ 
 B|21| g: _it's_ about an inch or [so] 
-A|22| M: " !!! remindme !! siri !!!!! ' !! "" !! 8 !! 7 !! " 
+A|22| M: " !!! Remindme !! Siri !!!,!! ' !! "" !! 8 !! 7 !! " 
 B|23| g: _no i don't_ [have] [the] ravine 
 A|24| M: oh [right] [i] see [well] [you] [go] _up _and_ then_ turn [right] _and_ _go along _to the_ bottom [of_ the] [map] 
 B|25| g: [do] [you] [have] [carved stones] 
@@ -118,7 +118,7 @@ A|116| M: [right]
 B|117| g: [right] [underneath it] [and then] [just] come back [up] 'til [you're] level with [the] top [of the] plant thing about [a] 
 A|118| M: [right] [okay] 
 B|119| g: at at [the bandit territory] 
-A|120| M: " !!!!!! ' !!! ' !!!.!! "" !!?!!! 4 !! 8 !! 84 !! 86 !! " 
+A|120| M: " !!!!,!! ' !!! ' !!!.!! "" !!?!!! 4 !! 8 !! 84 !! 86 !! " 
 B|121| g: [yeah] [the] cactus 
 A|122| M: [right] [okay] 
 B|123| g: [so you're] about an inch away from [the] edge [of the] sheet [of] paper 
@@ -152,13 +152,13 @@ Turn ID=6| A | M : no
 Turn ID=7| B | g : no no just ignore that
 	Free: Pattern=that, Pattern=no, Pattern=just
 	Constrained: 
-Turn ID=8| A | M : " !!! ' !! "" !!.!! 226 !! 556 !! 286 !! 8 !! 84 !! 86 !! 4 !! 88 !! 424 !! 92 !! 688 !! 96 !! 886 !!!! 888 !! 7 !! 889 !! 89 !! 91 !! 887 !! 423 !! u !!!!!!!!!!!!!!!!!!!!!!!! 987 !! oh !!! -- !! okay !! mm !!!.!!! ' !! mh !! 't !! i !! s !! have !! right !! there !! that !! god !! all !! you !! and !! now !! q !! got !! am !! can !! o !! ah !! eh !! up !! big !! this !! remote !! the !! within !! ukraine !! az !! ken !! but !! fu !! fields !! ak !! tokyo !! kats !! tag !! ex !! are !! yeah !! do !! py !! leader !! e !! % !! eva !! ac !! bay !! f !! kab !! unit !! uh !! nato !! field !! __ !! y !! b !! k !! if !! it !! sum !! go !! a !! yu !! kit !! mask !! kob !! my !! uk !! hit !! p !! japan !! bab !! fu !!!!! er !! "
+Turn ID=8| A | M : " !!! ' !! "" !!.!! 226 !! 556 !! 286 !! 8 !! 84 !! 86 !! 4 !! 88 !! 424 !! 92 !! 688 !! 96 !! 886 !!,!! 888 !! 7 !! 889 !! 89 !! 91 !! 887 !! 423 !! u !!!!!!!!!!!!!!!!!!!!!!!! 987 !! oh !!! -- !! okay !! mm !!!.!!! ' !! MH !! 't !! i !! s !! have !! right !! there !! that !! god !! all !! you !! and !! now !! q !! got !! am !! can !! o !! ah !! eh !! up !! big !! this !! remote !! the !! within !! Ukraine !! az !! ken !! but !! Fu !! fields !! Ak !! Tokyo !! Kats !! Tag !! ex !! are !! yeah !! do !! py !! Leader !! e !! % !! Eva !! ac !! bay !! f !! Kab !! Unit !! uh !! Nato !! field !! __ !! y !! b !! k !! if !! it !! Sum !! go !! a !! Yu !! Kit !! Mask !! Kob !! my !! Uk !! hit !! p !! Japan !! bab !! Fu !!!!! er !! "
 	Free: Pattern=right, Pattern=you, Pattern=have, Pattern=go, Pattern=there, Pattern=mm, Pattern=if, Pattern=i, Pattern=the, Pattern=up, Pattern=okay, Pattern=do, Pattern=a, Pattern=and, Pattern=it, Pattern=yeah, Pattern=my, Pattern=this, Pattern=that, Pattern=but
 	Constrained: 
 Turn ID=9| B | g : do you have carved stones
 	Free: Pattern=carved stones, Pattern=you, Pattern=have, Pattern=do
 	Constrained: 
-Turn ID=10| A | M : " !!!! : !! ' !! "" !!!!.!! 4 !! 8 !! 88 !! "
+Turn ID=10| A | M : " !!!! : !! ' !! "" !!,!!.!! 4 !! 8 !! 88 !! "
 	Free: 
 	Constrained: 
 Turn ID=11| B | g : sorry no i said a graveyard
@@ -170,7 +170,7 @@ Turn ID=12| A | M : right so you want to go round the carved stones so you're un
 Turn ID=13| B | g : no it's to the right-hand side of the diamond mine on my map there's a graveyard right beside it okay
 	Free: Pattern=right, Pattern=side of the, Pattern=the diamond mine, Pattern=a, Pattern=to the, Pattern=it, Pattern=map, Pattern=graveyard, Pattern=okay, Pattern=no it's, Pattern=my
 	Constrained: Pattern=no, Pattern=side, Pattern=the, Pattern=to, Pattern=of, Pattern=mine, Pattern=side of, Pattern=of the, Pattern=it's
-Turn ID=14| A | M : " !!! ' !!! ' !! "" !! rem !! this !! okay !! is !! u !! i !! you !! s !! r !! c !! k !! mm !! "
+Turn ID=14| A | M : " !!! ' !!! ' !! "" !! Rem !! this !! okay !! is !! u !! i !! you !! s !! r !! c !! k !! mm !! "
 	Free: Pattern=you, Pattern=mm, Pattern=this, Pattern=okay, Pattern=is, Pattern=i
 	Constrained: 
 Turn ID=15| B | g : well
@@ -194,7 +194,7 @@ Turn ID=20| A | M : yeah
 Turn ID=21| B | g : it's about an inch or so
 	Free: Pattern=so, Pattern=it's
 	Constrained: 
-Turn ID=22| A | M : " !!! remindme !! siri !!!!! ' !! "" !! 8 !! 7 !! "
+Turn ID=22| A | M : " !!! Remindme !! Siri !!!,!! ' !! "" !! 8 !! 7 !! "
 	Free: 
 	Constrained: 
 Turn ID=23| B | g : no i don't have the ravine
@@ -488,7 +488,7 @@ Turn ID=118| A | M : right okay
 Turn ID=119| B | g : at at the bandit territory
 	Free: Pattern=the bandit territory
 	Constrained: Pattern=the
-Turn ID=120| A | M : " !!!!!! ' !!! ' !!!.!! "" !!?!!! 4 !! 8 !! 84 !! 86 !! "
+Turn ID=120| A | M : " !!!!,!! ' !!! ' !!!.!! "" !!?!!! 4 !! 8 !! 84 !! 86 !! "
 	Free: 
 	Constrained: 
 Turn ID=121| B | g : yeah the cactus

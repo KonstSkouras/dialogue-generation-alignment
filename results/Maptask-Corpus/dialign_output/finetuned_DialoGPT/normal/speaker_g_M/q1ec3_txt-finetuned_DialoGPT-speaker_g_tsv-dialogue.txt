@@ -1,4 +1,4 @@
-A|0| M: " !!! ' !! "" !! 2014 !! 2012 !! 224 !! 424 !! 444 !! 456 !! 88 !! 4 !! 8 !! 888 !! 84 !! 44 !! 86 !! 92 !! 886 !! 889 !! 288 !! 328 !! 248 !! 7 !! 488 !! 428 !! vw !! 148 !!!!!!!!.!! 48 !! " 
+A|0| M: " !!! ' !! "" !! 2014 !! 2012 !! 224 !! 424 !! 444 !! 456 !! 88 !! 4 !! 8 !! 888 !! 84 !! 44 !! 86 !! 92 !! 886 !! 889 !! 288 !! 328 !! 248 !! 7 !! 488 !! 428 !! VW !! 148 !!!!!!!!.!! 48 !! " 
 B|1| g: _and_ _below _the_ graveyard_ _below _the_ graveyard_ but _above the _carved_ wooden pole_ 
 A|2| M: _right_ 
 B|3| g: _okay_ _so you_ _don't_ _have a_ _graveyard_ _do_ _you _have_ _a_ _fast_ flowing_ river 
@@ -22,7 +22,7 @@ A|20| M: [below the diamond]
 B|21| g: _do_ [you _have] a_ [graveyard] 
 A|22| M: [no] _i don't_ 
 B|23| g: [don't] _have a_ [graveyard] 
-A|24| M: " !!! ' !!! ' !! "" !! twitter !!.!!!! 8 !! 4 !! 2 !! 6 !! 7 !! slay [the] dead tree [the] stream _i_ suppose [you] _must_ [have] _is_ _that_ correct" 
+A|24| M: " !!! ' !!! ' !! "" !! Twitter !!.!!,!! 8 !! 4 !! 2 !! 6 !! 7 !! Slay [the] dead tree [the] stream _i_ suppose [you] _must_ [have] _is_ _that_ correct" 
 B|25| g: _do_ [you _have] a_ desert 
 A|26| M: [mmhmm] 
 B|27| g: [no] [don't] [go] [don't] [go] any further than [the] desert [don't] [go] onto [the] desert 
@@ -52,7 +52,7 @@ A|50| M: [right]
 B|51| g: [down] _south_ again _until_ _just above [the_ apache] camp 
 A|52| M: [right] 
 B|53| g: [and] pass [that] by _go to your_ _southwest_ _of [the_ apache] camp 
-A|54| M: " !!!!! ' !! "" !!.!! 92 !! 4 !! 8 !! 7 !! " 
+A|54| M: " !!!,!! ' !! "" !!.!! 92 !! 4 !! 8 !! 7 !! " 
 B|55| g: [uh-huh] 
 A|56| M: " !!! ' !!! ' !! "" !! 2018 !! 2018 !! 8 !! 4 !! 2017 !! 7 !! 2019 !! 6 !! 488 !! 48 !! 328 !! 248 !! 88 !! 888 !! 889 !! 886 !! 887 !! 87 !! 81 !! 84 !! 89 !! 92 !! 91 !! 96 !! 85 !! 86 !! " 
 B|57| g: [uh-huh] 
@@ -100,7 +100,7 @@ A|98| M: [mmhmm]
 B|99| g: "go _in a_ ""c""-shaped curve" 
 A|100| M: [uh-huh] 
 B|101| g: [right _and then] go_ _between _the_ flat_ rocks [and] [the] stone [creek] [okay] can [you] [do] [that] [you] pass _in a_ pass 
-A|102| M: " !!! ' !!!! "" !! " 
+A|102| M: " !!! ' !!,!! "" !! " 
 B|103| g: oh [you're at the] walled city 
 A|104| M: [uh-huh] 
 B|105| g: [you're] [just above] [it] [have you] _come_ [down] 
@@ -176,13 +176,13 @@ A|174| M: [and] [along to your right]
 B|175| g: [right and then] [down] [underneath the fort] [sort of] um [to your left] 
 A|176| M: uh-hope [so] 
 B|177| g: [mmhmm] over [the cattle ranch] [right] 
-A|178| M: " !!!!.!! "" !! ' !! bolshevik !! bolshe !! 't !! lenin !! " 
+A|178| M: " !!!!.!! "" !! ' !! Bolshevik !! Bolshe !! 't !! Lenin !! " 
 B|179| g: [and then] travel [south] [and then] 
-A|180| M: " !!!!.!! 2018 !! 2019 !! 2020 !! 2017 !! 2017 !! 2018 !! ' !! "" !!.!! 2016 !! 4 !! 8 !! 96 !! 84 !! 86 !!!! 88 !! 76 !! " 
+A|180| M: " !!!!.!! 2018 !! 2019 !! 2020 !! 2017 !! 2017 !! 2018 !! ' !! "" !!.!! 2016 !! 4 !! 8 !! 96 !! 84 !! 86 !!,!! 88 !! 76 !! " 
 B|181| g: before [you] reach [the fort] 
 A|182| M: [okay] 
 B|183| g: before [you] reach [the fort] 
-A|184| M: " !!! rem !! siri !! bot !! r !! [okay] !! [right] !! ' !! "" !! " 
+A|184| M: " !!! Rem !! Siri !! Bot !! r !! [okay] !! [right] !! ' !! "" !! " 
 B|185| g: [go down] [south] [and then] [do] [you have] anything else _between [the_ fort] [and] [the cattle ranch] 
 A|186| M: [a fort] [to [the] right] [of the fort] draw [a] [line] [between the] [two] 
 B|187| g: [you] [don't] [okay] [then] [so just] [go] [south] [and then] [straight along] [underneath the fort] 
@@ -200,7 +200,7 @@ A|198| M: [right okay]
 
 
 TURN DETAILS:
-Turn ID=0| A | M : " !!! ' !! "" !! 2014 !! 2012 !! 224 !! 424 !! 444 !! 456 !! 88 !! 4 !! 8 !! 888 !! 84 !! 44 !! 86 !! 92 !! 886 !! 889 !! 288 !! 328 !! 248 !! 7 !! 488 !! 428 !! vw !! 148 !!!!!!!!.!! 48 !! "
+Turn ID=0| A | M : " !!! ' !! "" !! 2014 !! 2012 !! 224 !! 424 !! 444 !! 456 !! 88 !! 4 !! 8 !! 888 !! 84 !! 44 !! 86 !! 92 !! 886 !! 889 !! 288 !! 328 !! 248 !! 7 !! 488 !! 428 !! VW !! 148 !!!!!!!!.!! 48 !! "
 	Free: 
 	Constrained: 
 Turn ID=1| B | g : and below the graveyard below the graveyard but above the carved wooden pole
@@ -272,7 +272,7 @@ Turn ID=22| A | M : no i don't
 Turn ID=23| B | g : don't have a graveyard
 	Free: Pattern=have a, Pattern=don't, Pattern=graveyard
 	Constrained: Pattern=have, Pattern=a
-Turn ID=24| A | M : " !!! ' !!! ' !! "" !! twitter !!.!!!! 8 !! 4 !! 2 !! 6 !! 7 !! slay the dead tree the stream i suppose you must have is that correct"
+Turn ID=24| A | M : " !!! ' !!! ' !! "" !! Twitter !!.!!,!! 8 !! 4 !! 2 !! 6 !! 7 !! Slay the dead tree the stream i suppose you must have is that correct"
 	Free: Pattern=you, Pattern=have, Pattern=the, Pattern=that, Pattern=must, Pattern=is, Pattern=i
 	Constrained: 
 Turn ID=25| B | g : do you have a desert
@@ -362,7 +362,7 @@ Turn ID=52| A | M : right
 Turn ID=53| B | g : and pass that by go to your southwest of the apache camp
 	Free: Pattern=southwest, Pattern=the apache, Pattern=and, Pattern=go to your, Pattern=of the, Pattern=that
 	Constrained: Pattern=of, Pattern=apache, Pattern=go, Pattern=your, Pattern=the, Pattern=to
-Turn ID=54| A | M : " !!!!! ' !! "" !!.!! 92 !! 4 !! 8 !! 7 !! "
+Turn ID=54| A | M : " !!!,!! ' !! "" !!.!! 92 !! 4 !! 8 !! 7 !! "
 	Free: 
 	Constrained: 
 Turn ID=55| B | g : uh-huh
@@ -506,7 +506,7 @@ Turn ID=100| A | M : uh-huh
 Turn ID=101| B | g : right and then go between the flat rocks and the stone creek okay can you do that you pass in a pass
 	Free: Pattern=the flat, Pattern=you, Pattern=do, Pattern=in a, Pattern=and, Pattern=and then go, Pattern=creek, Pattern=the, Pattern=that, Pattern=right and then, Pattern=okay, Pattern=between the
 	Constrained: Pattern=right, Pattern=go, Pattern=and, Pattern=between, Pattern=in, Pattern=the, Pattern=then, Pattern=right and, Pattern=a, Pattern=and then, Pattern=flat
-Turn ID=102| A | M : " !!! ' !!!! "" !! "
+Turn ID=102| A | M : " !!! ' !!,!! "" !! "
 	Free: 
 	Constrained: 
 Turn ID=103| B | g : oh you're at the walled city
@@ -734,13 +734,13 @@ Turn ID=176| A | M : uh-hope so
 Turn ID=177| B | g : mmhmm over the cattle ranch right
 	Free: Pattern=the cattle ranch, Pattern=right, Pattern=mmhmm
 	Constrained: Pattern=cattle ranch, Pattern=the, Pattern=cattle
-Turn ID=178| A | M : " !!!!.!! "" !! ' !! bolshevik !! bolshe !! 't !! lenin !! "
+Turn ID=178| A | M : " !!!!.!! "" !! ' !! Bolshevik !! Bolshe !! 't !! Lenin !! "
 	Free: 
 	Constrained: 
 Turn ID=179| B | g : and then travel south and then
 	Free: Pattern=and then, Pattern=south
 	Constrained: Pattern=and, Pattern=then
-Turn ID=180| A | M : " !!!!.!! 2018 !! 2019 !! 2020 !! 2017 !! 2017 !! 2018 !! ' !! "" !!.!! 2016 !! 4 !! 8 !! 96 !! 84 !! 86 !!!! 88 !! 76 !! "
+Turn ID=180| A | M : " !!!!.!! 2018 !! 2019 !! 2020 !! 2017 !! 2017 !! 2018 !! ' !! "" !!.!! 2016 !! 4 !! 8 !! 96 !! 84 !! 86 !!,!! 88 !! 76 !! "
 	Free: 
 	Constrained: 
 Turn ID=181| B | g : before you reach the fort
@@ -752,7 +752,7 @@ Turn ID=182| A | M : okay
 Turn ID=183| B | g : before you reach the fort
 	Free: Pattern=the fort, Pattern=you
 	Constrained: Pattern=the
-Turn ID=184| A | M : " !!! rem !! siri !! bot !! r !! okay !! right !! ' !! "" !! "
+Turn ID=184| A | M : " !!! Rem !! Siri !! Bot !! r !! okay !! right !! ' !! "" !! "
 	Free: Pattern=right, Pattern=okay
 	Constrained: 
 Turn ID=185| B | g : go down south and then do you have anything else between the fort and the cattle ranch

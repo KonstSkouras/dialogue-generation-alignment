@@ -11,7 +11,7 @@ A|9| M: uh-huh
 B|10| g: _go_ north _and_ _go_ north due north _and_ proceed east over _the_ footbridge _just_ over _it_ stop at _the_ end _of the_ footbridge 
 A|11| M: [okay] 
 B|12| g: [yeah] _just_ stop 
-A|13| M: " !!!!!! ' !! "" !! 2019 !! 2018 !! 2020 !! 2017 !! 2016 !! 2016 !! 4 !! 8 !! 6 !! 7 !! 2 !! 88 !! " 
+A|13| M: " !!!!,!! ' !! "" !! 2019 !! 2018 !! 2020 !! 2017 !! 2016 !! 2016 !! 4 !! 8 !! 6 !! 7 !! 2 !! 88 !! " 
 B|14| g: ah [right] _do_ _you_ have a poisoned stream directly east 
 A|15| M: no 
 B|16| g: [right] come due south from _the_ edge _of the_ footbridge straight south for about _two inches_ 
@@ -43,7 +43,7 @@ A|41| M: [okay]
 B|42| g: now [do] _you_ have baboons 
 A|43| M: no 
 B|44| g: stop after _you_ reach [the] _just_ _just_ [right] after you've gone under _it_ [okay] 
-A|45| M: " !!! ' !!! ' !!!! "" !! 2017 !! 8 !! 7 !! " 
+A|45| M: " !!! ' !!! ' !!,!! "" !! 2017 !! 8 !! 7 !! " 
 B|46| g: oh [yeah] _you_ _you_ _you_ keep _you_ [go] _down_ [and then] _you_ [go] left [right] _you_ _you_ [right] _uh_ [i] don't suppose you've got [the] balloons [the] baboons 
 A|47| M: mmhmm 
 B|48| g: ehm [right] [do] _you_ know where [go] _down_ about _two inches okay_ 
@@ -65,7 +65,7 @@ A|63| M: [right] _okay right_ [okay]
 B|64| g: [right] [do] _you_ have [the] cobbled street 
 A|65| M: [yeah] 
 B|66| g: [do] _you_ have _the remote_ village 
-A|67| M: " !!! ' !!! ' !! "" !! rem !! [you] !! s !! r !!!!!.!!!! " 
+A|67| M: " !!! ' !!! ' !! "" !! Rem !! [you] !! s !! r !!!,!!.!!,!! " 
 B|68| g: _the remote_ village is about 
 A|69| M: [right] [okay] [well] [you] _want_ [to] [go up] [and] [round] [that] [so] [you're] [underneath] [the remote] 
 B|70| g: are [you] _just_ [you] should have gone _just_ [right] under [the] pyramid should 
@@ -146,7 +146,7 @@ Turn ID=11| A | M : okay
 Turn ID=12| B | g : yeah just stop
 	Free: Pattern=yeah, Pattern=just
 	Constrained: 
-Turn ID=13| A | M : " !!!!!! ' !! "" !! 2019 !! 2018 !! 2020 !! 2017 !! 2016 !! 2016 !! 4 !! 8 !! 6 !! 7 !! 2 !! 88 !! "
+Turn ID=13| A | M : " !!!!,!! ' !! "" !! 2019 !! 2018 !! 2020 !! 2017 !! 2016 !! 2016 !! 4 !! 8 !! 6 !! 7 !! 2 !! 88 !! "
 	Free: 
 	Constrained: 
 Turn ID=14| B | g : ah right do you have a poisoned stream directly east
@@ -242,7 +242,7 @@ Turn ID=43| A | M : no
 Turn ID=44| B | g : stop after you reach the just just right after you've gone under it okay
 	Free: Pattern=right, Pattern=you, Pattern=just, Pattern=it, Pattern=the, Pattern=okay
 	Constrained: 
-Turn ID=45| A | M : " !!! ' !!! ' !!!! "" !! 2017 !! 8 !! 7 !! "
+Turn ID=45| A | M : " !!! ' !!! ' !!,!! "" !! 2017 !! 8 !! 7 !! "
 	Free: 
 	Constrained: 
 Turn ID=46| B | g : oh yeah you you you keep you go down and then you go left right you you right uh i don't suppose you've got the balloons the baboons
@@ -308,7 +308,7 @@ Turn ID=65| A | M : yeah
 Turn ID=66| B | g : do you have the remote village
 	Free: Pattern=the remote, Pattern=you, Pattern=do
 	Constrained: Pattern=the
-Turn ID=67| A | M : " !!! ' !!! ' !! "" !! rem !! you !! s !! r !!!!!.!!!! "
+Turn ID=67| A | M : " !!! ' !!! ' !! "" !! Rem !! you !! s !! r !!!,!!.!!,!! "
 	Free: Pattern=you
 	Constrained: 
 Turn ID=68| B | g : the remote village is about

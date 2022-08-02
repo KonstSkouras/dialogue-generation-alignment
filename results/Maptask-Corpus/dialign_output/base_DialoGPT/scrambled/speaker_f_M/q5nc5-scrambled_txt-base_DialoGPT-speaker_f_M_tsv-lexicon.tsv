@@ -1,11 +1,10 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
-3	3	4	i don't have a	73	70	2	f	4, 14, 73
 3	3	3	at the top	67	41	1	f	42, 67, 82
+3	3	3	don't have a	73	70	2	f	4, 14, 73
 2	2	3	it at the	82	14	1	M	69, 82
 2	2	3	the other side	68	58	1	M	11, 68
 6	2	2	at the	68	41	1	f	42, 67, 68, 69, 72, 82
 5	2	2	have a	11	72	1	f	4, 11, 14, 73, 75
-4	1	2	i don't	5	70	1	f	4, 5, 14, 73
 4	4	2	to the	52	57	2	M	11, 41, 52, 67
 3	3	2	and down	19	37	1	f	0, 19, 36
 3	3	2	of the	42	39	1	M	29, 42, 67
@@ -18,8 +17,8 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 22	20	1	right	13	77	1	f	6, 13, 17, 28, 32, 34, 38, 44, 50, 51, 54, 57, 64, 65, 67, 70, 72, 74, 76, 80, 81, 82
 17	17	1	you	40	85	4	M	3, 7, 13, 17, 40, 45, 49, 60, 61, 63, 67, 70, 75, 77, 79, 83, 87
 16	9	1	have	25	80	1	f	4, 11, 14, 25, 40, 45, 46, 55, 59, 60, 70, 73, 75, 77, 79, 83
-16	12	1	i	7	89	1	f	4, 5, 7, 9, 14, 25, 27, 37, 43, 55, 59, 63, 72, 73, 80, 92
 14	9	1	a	47	85	1	f	4, 11, 14, 47, 48, 51, 60, 62, 67, 73, 75, 77, 85, 88
+14	14	1	i	7	89	1	f	4, 7, 9, 14, 25, 27, 37, 43, 55, 59, 63, 72, 80, 92
 12	6	1	to	11	76	1	f	6, 11, 34, 41, 46, 52, 61, 63, 67, 73, 77, 81
 8	5	1	and	22	74	1	f	0, 19, 22, 29, 36, 42, 56, 73
 8	5	1	of	51	54	1	M	29, 42, 51, 62, 67, 68, 76, 82
@@ -29,7 +28,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 6	1	1	at	67	41	1	f	42, 67, 68, 69, 72, 82
 6	6	1	what	52	59	2	M	5, 7, 52, 61, 62, 63
 5	5	1	are	68	51	3	M	21, 49, 53, 68, 71
-5	1	1	don't	61	70	1	f	4, 5, 14, 61, 73
+5	2	1	don't	5	70	1	f	4, 5, 14, 61, 73
 5	3	1	go	41	40	1	f	34, 41, 46, 67, 73
 5	5	1	up	20	52	1	M	19, 20, 34, 56, 70
 4	4	1	but	48	60	1	M	9, 48, 61, 68
@@ -53,7 +52,6 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	1	by	10	4	1	M	7, 10
 2	2	1	carved	76	52	1	M	25, 76
 2	2	1	curve	88	78	1	M	11, 88
-2	2	1	i've	70	52	1	M	19, 70
 2	2	1	line	67	20	1	f	48, 67
 2	2	1	little	82	6	1	M	77, 82
 2	2	1	my	59	54	1	f	6, 59

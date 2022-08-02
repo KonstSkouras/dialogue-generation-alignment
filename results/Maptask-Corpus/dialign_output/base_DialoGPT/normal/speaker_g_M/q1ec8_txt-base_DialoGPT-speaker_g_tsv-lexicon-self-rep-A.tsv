@@ -4,11 +4,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	till you get	35	M	46, 80
 4	2	of the	61	M	36, 78, 82, 96
 3	2	and the	87	M	10, 40, 96
-3	2	i don't	91	M	0, 72, 90
 3	2	in the	29	M	4, 26, 32
 3	2	know what	97	M	8, 72, 104
 3	2	lake ?	31	M	66, 92, 96
 3	2	right where	69	M	6, 64, 74
+2	2	I don't	73	M	0, 72
 2	2	are you	9	M	30, 38
 2	2	do it	39	M	12, 50
 2	2	i am	9	M	92, 100
@@ -17,16 +17,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	on the	43	M	36, 78
 2	2	talking about	43	M	30, 72
 2	2	the antelope	3	M	106, 108
-2	2	the hot	3	M	40, 42
 2	2	the map	29	M	8, 36
 2	2	the north	9	M	36, 44
 2	2	to go	21	M	82, 102
 2	2	you know	91	M	8, 98
 2	2	you want	39	M	64, 102
 18	1	the	105	M	4, 6, 8, 10, 14, 26, 32, 36, 40, 42, 44, 50, 66, 78, 82, 96, 106, 108
-11	1	i	105	M	0, 2, 8, 16, 42, 58, 72, 90, 92, 100, 104
 11	1	you	95	M	8, 18, 30, 38, 46, 64, 66, 68, 80, 98, 102
 9	1	right	89	M	6, 22, 46, 64, 74, 76, 88, 92, 94
+8	1	i	103	M	2, 8, 16, 58, 90, 92, 100, 104
 7	1	to	101	M	2, 4, 16, 50, 82, 96, 102
 7	1	what	99	M	8, 18, 30, 68, 72, 104, 106
 6	1	and	87	M	10, 12, 28, 40, 84, 96
@@ -40,14 +39,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	about	91	M	16, 30, 72, 106
 4	1	go	51	M	52, 76, 82, 102
 4	1	have	89	M	2, 16, 66, 90
-4	1	i'm	99	M	0, 32, 36, 98
 4	1	know	97	M	8, 72, 98, 104
 4	1	so	85	M	12, 58, 92, 96
+3	1	I	73	M	0, 42, 72
+3	1	I'm	37	M	0, 32, 36
 3	1	antelope	19	M	90, 106, 108
 3	1	are	19	M	30, 38, 48
 3	1	but	99	M	8, 36, 106
+3	1	don't	91	M	0, 72, 90
 3	1	east	55	M	28, 32, 82
-3	1	hot	9	M	40, 42, 48
 3	1	is	75	M	8, 36, 82
 3	1	left	77	M	20, 42, 96
 3	1	on	57	M	36, 78, 92
@@ -56,6 +56,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	turn	15	M	20, 22, 34
 2	1	be	21	M	4, 24
 2	1	for	37	M	4, 40
+2	1	hot	9	M	40, 48
 2	1	mmhhmm	5	M	56, 60
 2	1	west	67	M	36, 102
 2	1	yeah	9	M	80, 88

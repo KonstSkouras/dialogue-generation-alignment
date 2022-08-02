@@ -1,6 +1,6 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	10	' !!! ' !! "" !! rem !! okay !!	43	M	0, 42
-3	9	!!! ' !! "" !! rem !! okay !!	69	M	0, 42, 68
+2	10	' !!! ' !! "" !! Rem !! okay !!	43	M	0, 42
+3	9	!!! ' !! "" !! Rem !! okay !!	69	M	0, 42, 68
 2	5	!! s !! r !!	69	M	0, 68
 2	4	just to the right	3	M	54, 56
 2	4	the left-hand side of	115	M	14, 128
@@ -43,12 +43,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	now	117	M	22, 24, 138
 3	1	underneath	7	M	112, 116, 118
 3	1	well	79	M	50, 54, 128
+2	1	Remnant	45	M	34, 78
 2	1	directly	3	M	22, 24
 2	1	fallen	85	M	54, 138
 2	1	have	97	M	42, 138
 2	1	no	25	M	90, 114
 2	1	ok	37	M	30, 66
-2	1	remnant	45	M	34, 78
 2	1	there	9	M	42, 50
 2	1	uh	3	M	54, 56
 2	1	uh-huh	71	M	26, 96

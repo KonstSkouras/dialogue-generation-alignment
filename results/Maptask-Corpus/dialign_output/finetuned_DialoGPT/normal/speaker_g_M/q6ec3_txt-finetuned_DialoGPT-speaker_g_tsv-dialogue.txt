@@ -1,4 +1,4 @@
-A|0| M: " !!!!.!! ' !!! ' !! "" !! rem !! _okay_ !! s !! r !! k !! _i_ !!!!.!!!!! mask !! 8 !! % !! 2017 !! 88 !! 888 !! 889 !! 7 !!!!!!!!!!! === !! nik !! u !! " 
+A|0| M: " !!!!.!! ' !!! ' !! "" !! Rem !! _okay_ !! s !! r !! k !! _i_ !!,!!.!!!,!! Mask !! 8 !! % !! 2017 !! 88 !! 888 !! 889 !! 7 !!!!!!!!!!! === !! Nik !! u !! " 
 B|1| g: roughly _up_ _a_ bit huh 
 A|2| M: " !!! ' !!! ' !! ': !! "" !! 2016 !! 8 !! 7 !! 6 !! 4 !! 2 !! 56 !! 286 !! 86 !! 226 !! 81 !! 84 !! 88 !! 41 !! 146 !! 89 !!.!! 92 !! 889 !! 't !! " 
 B|3| g: _of the map_ 
@@ -32,7 +32,7 @@ A|30| M: ok
 B|31| g: [okay] if [you] [now] come _down_ [a] couple [of] centimetres 
 A|32| M: [mmhmm] 
 B|33| g: [and] _do_ [you] _have_ [a] waterfall 
-A|34| M: " !!! "" !! ' !! remnant !!!! 2017 !! 8 !! q !! " 
+A|34| M: " !!! "" !! ' !! Remnant !!,!! 2017 !! 8 !! q !! " 
 B|35| g: [yeah] if [you] _just_ _mm_ _do_ [you] _have_ [a] _sort [of_ the] water coming _down_ 
 A|36| M: [mmhmm] 
 B|37| g: if [you] _sort of_ head along 
@@ -40,9 +40,9 @@ A|38| M: [so] i'm _going up_ [sort of] [straight up]
 B|39| g: [so] that [you're] _about_ in line with [the] bottom [of the] water 
 A|40| M: [mm] 
 B|41| g: if [you] know what [i] mean 
-A|42| M: " !!! ' !!! ' !! "" !! rem !! [okay] !! [mm] !! [right] !! er !! [you] !! [have] !! [and] !! [i] !! _there_ !! " 
+A|42| M: " !!! ' !!! ' !! "" !! Rem !! [okay] !! [mm] !! [right] !! er !! [you] !! [have] !! [and] !! [i] !! _there_ !! " 
 B|43| g: _and then_ _have you got_ _lost steps_ 
-A|44| M: " !!!!!! ' !!! ' !! "" !! remind me !! [mm] !! remain !! r !!!.!! " 
+A|44| M: " !!!!,!! ' !!! ' !! "" !! Remind me !! [mm] !! Remain !! r !!!.!! " 
 B|45| g: [okay] if [you] _just_ get [to the] waterfall first _and then _you_ want _to go_ straight up_ _to where_ these _lost steps_ _are_ 
 A|46| M: [right] 
 B|47| g: _well_ _have you got_ _fallen_ _pillars_ 
@@ -66,7 +66,7 @@ A|64| M: [right okay]
 B|65| g: [and] that's [you] if [you] [sort of] curve off [to the] left 
 A|66| M: ok 
 B|67| g: you'll miss [the lost steps] 
-A|68| M: " !!! ' !! "" !! rem !! [okay] !! [right] !! [i] !! s !! r !! this !! 8 !! 7 !! 6 !! 4 !! 2 !! " 
+A|68| M: " !!! ' !! "" !! Rem !! [okay] !! [right] !! [i] !! s !! r !! this !! 8 !! 7 !! 6 !! 4 !! 2 !! " 
 B|69| g: um [to] [about just] before [the] middle [of the] page 
 A|70| M: [mmhmm] 
 B|71| g: _and then _you_ want to_ come _down_ in [a] _diagonal_ [so] that you've missed [the fallen] [pillars] [and] _go underneath_ _them_ 
@@ -76,9 +76,9 @@ A|74| M: [right okay]
 B|75| g: [of [the] fallen] [pillars] [yeah] um [now _go] down_ [two] or three centimetres 
 A|76| M: [right] 
 B|77| g: _do_ [you] [have] an obstacle [there] 
-A|78| M: " !!!!.!! "" !! ' !!.!! remnant !!!!?!! 2017 !! 8 !! 4 !! " 
+A|78| M: " !!!!.!! "" !! ' !!.!! Remnant !!,!!?!! 2017 !! 8 !! 4 !! " 
 B|79| g: [well] [uh] [i] think [you're] probably trying [to] avoid that [so] if _you go down_ um _and then_ left in [a] [sort of] curve 
-A|80| M: " !!!!!! ' !! "" !!! ' !! ': !! 2017 !! 8 !! " 
+A|80| M: " !!!!,!! ' !! "" !!! ' !! ': !! 2017 !! 8 !! " 
 B|81| g: [and] [up] again [and] [you're] pretty near [the] [edge of the] page 
 A|82| M: [mmhmm] 
 B|83| g: _then_ _do_ [you] [have] ancient ruins 
@@ -140,7 +140,7 @@ A|138| M: [right] [ehm] [now] [you want to go] [eh] horizontal [have you got] [a
 
 
 TURN DETAILS:
-Turn ID=0| A | M : " !!!!.!! ' !!! ' !! "" !! rem !! okay !! s !! r !! k !! i !!!!.!!!!! mask !! 8 !! % !! 2017 !! 88 !! 888 !! 889 !! 7 !!!!!!!!!!! === !! nik !! u !! "
+Turn ID=0| A | M : " !!!!.!! ' !!! ' !! "" !! Rem !! okay !! s !! r !! k !! i !!,!!.!!!,!! Mask !! 8 !! % !! 2017 !! 88 !! 888 !! 889 !! 7 !!!!!!!!!!! === !! Nik !! u !! "
 	Free: Pattern=i, Pattern=okay
 	Constrained: 
 Turn ID=1| B | g : roughly up a bit huh
@@ -242,7 +242,7 @@ Turn ID=32| A | M : mmhmm
 Turn ID=33| B | g : and do you have a waterfall
 	Free: Pattern=you, Pattern=have, Pattern=and, Pattern=do, Pattern=a
 	Constrained: 
-Turn ID=34| A | M : " !!! "" !! ' !! remnant !!!! 2017 !! 8 !! q !! "
+Turn ID=34| A | M : " !!! "" !! ' !! Remnant !!,!! 2017 !! 8 !! q !! "
 	Free: 
 	Constrained: 
 Turn ID=35| B | g : yeah if you just mm do you have a sort of the water coming down
@@ -266,13 +266,13 @@ Turn ID=40| A | M : mm
 Turn ID=41| B | g : if you know what i mean
 	Free: Pattern=i, Pattern=you
 	Constrained: 
-Turn ID=42| A | M : " !!! ' !!! ' !! "" !! rem !! okay !! mm !! right !! er !! you !! have !! and !! i !! there !! "
+Turn ID=42| A | M : " !!! ' !!! ' !! "" !! Rem !! okay !! mm !! right !! er !! you !! have !! and !! i !! there !! "
 	Free: Pattern=right, Pattern=you, Pattern=have, Pattern=there, Pattern=mm, Pattern=and, Pattern=i, Pattern=okay
 	Constrained: 
 Turn ID=43| B | g : and then have you got lost steps
 	Free: Pattern=have you got, Pattern=and then, Pattern=lost steps
 	Constrained: Pattern=you, Pattern=have, Pattern=then, Pattern=and, Pattern=got
-Turn ID=44| A | M : " !!!!!! ' !!! ' !! "" !! remind me !! mm !! remain !! r !!!.!! "
+Turn ID=44| A | M : " !!!!,!! ' !!! ' !! "" !! Remind me !! mm !! Remain !! r !!!.!! "
 	Free: Pattern=mm
 	Constrained: 
 Turn ID=45| B | g : okay if you just get to the waterfall first and then you want to go straight up to where these lost steps are
@@ -344,7 +344,7 @@ Turn ID=66| A | M : ok
 Turn ID=67| B | g : you'll miss the lost steps
 	Free: Pattern=the lost steps
 	Constrained: Pattern=the lost, Pattern=lost steps, Pattern=the
-Turn ID=68| A | M : " !!! ' !! "" !! rem !! okay !! right !! i !! s !! r !! this !! 8 !! 7 !! 6 !! 4 !! 2 !! "
+Turn ID=68| A | M : " !!! ' !! "" !! Rem !! okay !! right !! i !! s !! r !! this !! 8 !! 7 !! 6 !! 4 !! 2 !! "
 	Free: Pattern=i, Pattern=right, Pattern=okay
 	Constrained: 
 Turn ID=69| B | g : um to about just before the middle of the page
@@ -374,13 +374,13 @@ Turn ID=76| A | M : right
 Turn ID=77| B | g : do you have an obstacle there
 	Free: Pattern=do, Pattern=you, Pattern=have, Pattern=there
 	Constrained: 
-Turn ID=78| A | M : " !!!!.!! "" !! ' !!.!! remnant !!!!?!! 2017 !! 8 !! 4 !! "
+Turn ID=78| A | M : " !!!!.!! "" !! ' !!.!! Remnant !!,!!?!! 2017 !! 8 !! 4 !! "
 	Free: 
 	Constrained: 
 Turn ID=79| B | g : well uh i think you're probably trying to avoid that so if you go down um and then left in a sort of curve
 	Free: Pattern=you're, Pattern=well, Pattern=uh, Pattern=you go down, Pattern=a, Pattern=and then, Pattern=i, Pattern=to, Pattern=sort of, Pattern=so
 	Constrained: Pattern=of, Pattern=you, Pattern=go, Pattern=down, Pattern=and, Pattern=go down, Pattern=then, Pattern=you go
-Turn ID=80| A | M : " !!!!!! ' !! "" !!! ' !! ': !! 2017 !! 8 !! "
+Turn ID=80| A | M : " !!!!,!! ' !! "" !!! ' !! ': !! 2017 !! 8 !! "
 	Free: 
 	Constrained: 
 Turn ID=81| B | g : and up again and you're pretty near the edge of the page

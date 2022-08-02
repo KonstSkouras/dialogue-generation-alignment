@@ -60,7 +60,7 @@ A|58| M: mm
 B|59| g: [past] _it_ 
 A|60| M: uh-huh 
 B|61| g: _right up_ [above] _it_ 
-A|62| M: " !!! ' !!! ' !! ': !! _there_ !! "" !! 112 !! 228 !! 226 !! remarkable !! 8 !! 4 !! 456 !! slay [the] wee man walking along" 
+A|62| M: " !!! ' !!! ' !! ': !! _there_ !! "" !! 112 !! 228 !! 226 !! Remarkable !! 8 !! 4 !! 456 !! Slay [the] wee man walking along" 
 B|63| g: [right] _have you got_ [the] _lake_ 
 A|64| M: uh-huh 
 B|65| g: mm-mm 
@@ -92,13 +92,13 @@ A|90| M: [right]
 B|91| g: [no] [the] height [above] them [but] [just] below [the] [lake] [but above the] antelope 
 A|92| M: [right] okay 
 B|93| g: [right] should be [a] roman baths below [the] [lake] 
-A|94| M: " !!! rem !!!!! ' !!! ' !! "" !! assad !! [right] !! " 
+A|94| M: " !!! Rem !!!,!! ' !!! ' !! "" !! Assad !! [right] !! " 
 B|95| g: [well] [on] mines [there] is [and] _you come_ between [the] [lake] [and] [the] roman baths [so] you'll _have_ [to] avoid them 
 A|96| M: [right] okay 
 B|97| g: [and] [you] want [to] _come_ south [and [round] the] antelopes 
 A|98| M: [mmhmm] 
 B|99| g: [to the] west [of the] antelopes 
-A|100| M: " !!! ' !!! ' !! rem !! okay !!!.!!!! "" !! 2017 !! 7 !! 8 !!.!!!!!?!! 2019 !! 4 !! 2018 !! 6 !! 226 !! 228 !! 234 !! 428 !! 423 !! 147 !! 288 !! 238 !!! : !! 886 !! 88 !!!!!!! === !!! -- !! [until [you] come] [to [the] top [of] the] [white] mountain" 
+A|100| M: " !!! ' !!! ' !! Rem !! okay !!!.!!,!! "" !! 2017 !! 7 !! 8 !!.!!!,!!?!! 2019 !! 4 !! 2018 !! 6 !! 226 !! 228 !! 234 !! 428 !! 423 !! 147 !! 288 !! 238 !!! : !! 886 !! 88 !!!!!!! === !!! -- !! [until [you] come] [to [the] top [of] the] [white] mountain" 
 B|101| g: _ehm_ [and] [go right] underneath them 
 A|102| M: " !!! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! 2018 !! ' !! "" !! 2017 !! 8 !! 4 !! 7 !! 6 !! " 
 B|103| g: [then] travel [to the] east [just] [past the] antelopes 
@@ -106,7 +106,7 @@ A|104| M: mm
 B|105| g: that's [it] finished 
 A|106| M: [right] [ehm] [have you got a] start [at [the] top] 
 B|107| g: [mmhmm] 
-A|108| M: " !!! ' !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! 2017 !! 2018 !! 18 !! "" !!!!.!! 17 !! 23 !! all !! 2015 !! 226 !! 1945 !! 146 !! 286 !! 48 !! " 
+A|108| M: " !!! ' !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! 2017 !! 2018 !! 18 !! "" !!,!!.!! 17 !! 23 !! all !! 2015 !! 226 !! 1945 !! 146 !! 286 !! 48 !! " 
 B|109| g: that's [it] 
 
 
@@ -297,7 +297,7 @@ Turn ID=60| A | M : uh-huh
 Turn ID=61| B | g : right up above it
 	Free: Pattern=right up, Pattern=above, Pattern=it
 	Constrained: Pattern=up, Pattern=right
-Turn ID=62| A | M : " !!! ' !!! ' !! ': !! there !! "" !! 112 !! 228 !! 226 !! remarkable !! 8 !! 4 !! 456 !! slay the wee man walking along"
+Turn ID=62| A | M : " !!! ' !!! ' !! ': !! there !! "" !! 112 !! 228 !! 226 !! Remarkable !! 8 !! 4 !! 456 !! Slay the wee man walking along"
 	Free: Pattern=there, Pattern=the
 	Constrained: 
 Turn ID=63| B | g : right have you got the lake
@@ -393,7 +393,7 @@ Turn ID=92| A | M : right okay
 Turn ID=93| B | g : right should be a roman baths below the lake
 	Free: Pattern=lake, Pattern=right, Pattern=the, Pattern=a
 	Constrained: 
-Turn ID=94| A | M : " !!! rem !!!!! ' !!! ' !! "" !! assad !! right !! "
+Turn ID=94| A | M : " !!! Rem !!!,!! ' !!! ' !! "" !! Assad !! right !! "
 	Free: Pattern=right
 	Constrained: 
 Turn ID=95| B | g : well on mines there is and you come between the lake and the roman baths so you'll have to avoid them
@@ -411,7 +411,7 @@ Turn ID=98| A | M : mmhmm
 Turn ID=99| B | g : to the west of the antelopes
 	Free: Pattern=to the, Pattern=of the
 	Constrained: Pattern=to, Pattern=the, Pattern=of
-Turn ID=100| A | M : " !!! ' !!! ' !! rem !! okay !!!.!!!! "" !! 2017 !! 7 !! 8 !!.!!!!!?!! 2019 !! 4 !! 2018 !! 6 !! 226 !! 228 !! 234 !! 428 !! 423 !! 147 !! 288 !! 238 !!! : !! 886 !! 88 !!!!!!! === !!! -- !! until you come to the top of the white mountain"
+Turn ID=100| A | M : " !!! ' !!! ' !! Rem !! okay !!!.!!,!! "" !! 2017 !! 7 !! 8 !!.!!!,!!?!! 2019 !! 4 !! 2018 !! 6 !! 226 !! 228 !! 234 !! 428 !! 423 !! 147 !! 288 !! 238 !!! : !! 886 !! 88 !!!!!!! === !!! -- !! until you come to the top of the white mountain"
 	Free: Pattern=the top of, Pattern=you come, Pattern=to the, Pattern=until you, Pattern=white, Pattern=of the
 	Constrained: Pattern=of, Pattern=you, Pattern=come, Pattern=the, Pattern=to, Pattern=the top
 Turn ID=101| B | g : ehm and go right underneath them
@@ -435,7 +435,7 @@ Turn ID=106| A | M : right ehm have you got a start at the top
 Turn ID=107| B | g : mmhmm
 	Free: Pattern=mmhmm
 	Constrained: 
-Turn ID=108| A | M : " !!! ' !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! 2017 !! 2018 !! 18 !! "" !!!!.!! 17 !! 23 !! all !! 2015 !! 226 !! 1945 !! 146 !! 286 !! 48 !! "
+Turn ID=108| A | M : " !!! ' !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! 2017 !! 2018 !! 18 !! "" !!,!!.!! 17 !! 23 !! all !! 2015 !! 226 !! 1945 !! 146 !! 286 !! 48 !! "
 	Free: 
 	Constrained: 
 Turn ID=109| B | g : that's it

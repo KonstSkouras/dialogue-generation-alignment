@@ -1,11 +1,11 @@
 B|0| f: it's _above_ _the_ _diamond mine_ 
-A|1| M: " !!! ' !!! ' !! "" !! 8 !! 4 !! 88 !! 2016 !! 2017 !! 2018 !! 2020 !! 2019 !! 2016 !! 18 !! 488 !! 48 !! 248 !! vw !! 7 !! 8000 !! 6 !! 81 !! 84 !! " 
+A|1| M: " !!! ' !!! ' !! "" !! 8 !! 4 !! 88 !! 2016 !! 2017 !! 2018 !! 2020 !! 2019 !! 2016 !! 18 !! 488 !! 48 !! 248 !! VW !! 7 !! 8000 !! 6 !! 81 !! 84 !! " 
 B|2| f: _right_ 
 A|3| M: _and then go_ _down_ about an inch _and_ _a_ half directly _down_ 
 B|4| f: _where_ [down] past _the_ _diamond mine_ 
 A|5| M: _go_ [down] 
 B|6| f: _right_ 
-A|7| M: " !!!!!! ' !!! ' !! "" !! 112 !! 226 !! 228 !! 456 !! 4 !! 424 !! 423 !! 236 !! 8 !! 88 !! 328 !! 288 !! 232 !! 48 !! 36 !! " 
+A|7| M: " !!!!,!! ' !!! ' !! "" !! 112 !! 226 !! 228 !! 456 !! 4 !! 424 !! 423 !! 236 !! 8 !! 88 !! 328 !! 288 !! 232 !! 48 !! 36 !! " 
 B|8| f: _okay_ 
 A|9| M: [right] _i'm_ there 
 B|10| f: [right] _mm_ 
@@ -15,7 +15,7 @@ A|13| M: [yeah]
 B|14| f: _no_ _no_ _no_ _no_ 
 A|15| M: [right] _so i'm going_ [down] towards [the] word [diamond mine] 
 B|16| f: pass _it_ [yeah] _just_ slightly 
-A|17| M: " !!!! ' !! ' !! "" !! siri !! " 
+A|17| M: " !!!! ' !! ' !! "" !! Siri !! " 
 B|18| f: [yeah] _right okay_ [right] 
 A|19| M: [okay] 
 B|20| f: _ehm no_ 
@@ -25,7 +25,7 @@ A|23| M: [no]
 B|24| f: what _round_ _up_ [the] top _of it_ 
 A|25| M: [ehm] sort [of] [up] [and] [round] 
 B|26| f: [right] 
-A|27| M: " !!! ' !! 't !!! ' !! "" !! rem !! [okay] !! _you_ !! 2 !! 8 !! 4 !! 7 !! 6 !! 72 !! 96 !! " 
+A|27| M: " !!! ' !! 't !!! ' !! "" !! Rem !! [okay] !! _you_ !! 2 !! 8 !! 4 !! 7 !! 6 !! 72 !! 96 !! " 
 B|28| f: [the] right-hand _side_ 
 A|29| M: _mmhmm_ 
 B|30| f: [yeah] 
@@ -35,13 +35,13 @@ A|33| M: [right] _go_ [up] [and] [above] them
 B|34| f: [so i'm] bypassing canoes [yeah] 
 A|35| M: [right] _go_ [right] [down] _to_ [the] _side of the apache_ village 
 B|36| f: oh _well_ maybe [you] don't _have_ canoe 
-A|37| M: " !!!!!! 2018 !! 2019 !! 2020 !! 2017 !! 2017 !! ' !! "" !!!! 8 !! 4 !! " 
+A|37| M: " !!!!,!! 2018 !! 2019 !! 2020 !! 2017 !! 2017 !! ' !! "" !!,!! 8 !! 4 !! " 
 B|38| f: _right okay_ left-hand [side of the apache] 
 A|39| M: [right] 
 B|40| f: _ehm no_ don't _have_ one 
 A|41| M: do _i_ _go_ along _to_ [the] left-most page 
 B|42| f: [yeah] 
-A|43| M: " !!! ' !!! ' !! "" !! :' !! rem !! [okay] !! [mm] !! s !! r !! _i_ !! [right] !! there !! [yeah] !! [it] !! " 
+A|43| M: " !!! ' !!! ' !! "" !! :' !! Rem !! [okay] !! [mm] !! s !! r !! _i_ !! [right] !! there !! [yeah] !! [it] !! " 
 B|44| f: over [the] top [okay] 
 A|45| M: _and then_ head [up] towards [the] east lake 
 B|46| f: [mmhmm] _now_ _where_ _which_ _way_ am [i] heading [down] 
@@ -97,7 +97,7 @@ TURN DETAILS:
 Turn ID=0| B | f : it's above the diamond mine
 	Free: Pattern=diamond mine, Pattern=the, Pattern=above
 	Constrained: 
-Turn ID=1| A | M : " !!! ' !!! ' !! "" !! 8 !! 4 !! 88 !! 2016 !! 2017 !! 2018 !! 2020 !! 2019 !! 2016 !! 18 !! 488 !! 48 !! 248 !! vw !! 7 !! 8000 !! 6 !! 81 !! 84 !! "
+Turn ID=1| A | M : " !!! ' !!! ' !! "" !! 8 !! 4 !! 88 !! 2016 !! 2017 !! 2018 !! 2020 !! 2019 !! 2016 !! 18 !! 488 !! 48 !! 248 !! VW !! 7 !! 8000 !! 6 !! 81 !! 84 !! "
 	Free: 
 	Constrained: 
 Turn ID=2| B | f : right
@@ -115,7 +115,7 @@ Turn ID=5| A | M : go down
 Turn ID=6| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=7| A | M : " !!!!!! ' !!! ' !! "" !! 112 !! 226 !! 228 !! 456 !! 4 !! 424 !! 423 !! 236 !! 8 !! 88 !! 328 !! 288 !! 232 !! 48 !! 36 !! "
+Turn ID=7| A | M : " !!!!,!! ' !!! ' !! "" !! 112 !! 226 !! 228 !! 456 !! 4 !! 424 !! 423 !! 236 !! 8 !! 88 !! 328 !! 288 !! 232 !! 48 !! 36 !! "
 	Free: 
 	Constrained: 
 Turn ID=8| B | f : okay
@@ -145,7 +145,7 @@ Turn ID=15| A | M : right so i'm going down towards the word diamond mine
 Turn ID=16| B | f : pass it yeah just slightly
 	Free: Pattern=just, Pattern=yeah, Pattern=it
 	Constrained: 
-Turn ID=17| A | M : " !!!! ' !! ' !! "" !! siri !! "
+Turn ID=17| A | M : " !!!! ' !! ' !! "" !! Siri !! "
 	Free: 
 	Constrained: 
 Turn ID=18| B | f : yeah right okay right
@@ -175,7 +175,7 @@ Turn ID=25| A | M : ehm sort of up and round
 Turn ID=26| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=27| A | M : " !!! ' !! 't !!! ' !! "" !! rem !! okay !! you !! 2 !! 8 !! 4 !! 7 !! 6 !! 72 !! 96 !! "
+Turn ID=27| A | M : " !!! ' !! 't !!! ' !! "" !! Rem !! okay !! you !! 2 !! 8 !! 4 !! 7 !! 6 !! 72 !! 96 !! "
 	Free: Pattern=okay, Pattern=you
 	Constrained: 
 Turn ID=28| B | f : the right-hand side
@@ -205,7 +205,7 @@ Turn ID=35| A | M : right go right down to the side of the apache village
 Turn ID=36| B | f : oh well maybe you don't have canoe
 	Free: Pattern=well, Pattern=you, Pattern=have
 	Constrained: 
-Turn ID=37| A | M : " !!!!!! 2018 !! 2019 !! 2020 !! 2017 !! 2017 !! ' !! "" !!!! 8 !! 4 !! "
+Turn ID=37| A | M : " !!!!,!! 2018 !! 2019 !! 2020 !! 2017 !! 2017 !! ' !! "" !!,!! 8 !! 4 !! "
 	Free: 
 	Constrained: 
 Turn ID=38| B | f : right okay left-hand side of the apache
@@ -223,7 +223,7 @@ Turn ID=41| A | M : do i go along to the left-most page
 Turn ID=42| B | f : yeah
 	Free: Pattern=yeah
 	Constrained: 
-Turn ID=43| A | M : " !!! ' !!! ' !! "" !! :' !! rem !! okay !! mm !! s !! r !! i !! right !! there !! yeah !! it !! "
+Turn ID=43| A | M : " !!! ' !!! ' !! "" !! :' !! Rem !! okay !! mm !! s !! r !! i !! right !! there !! yeah !! it !! "
 	Free: Pattern=right, Pattern=mm, Pattern=i, Pattern=okay, Pattern=it, Pattern=yeah
 	Constrained: 
 Turn ID=44| B | f : over the top okay

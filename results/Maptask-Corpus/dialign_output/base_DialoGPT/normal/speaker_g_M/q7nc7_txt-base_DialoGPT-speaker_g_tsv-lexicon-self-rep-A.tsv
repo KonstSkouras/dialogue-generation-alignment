@@ -3,22 +3,24 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	4	the middle of the	41	M	52, 56, 92
 2	4	how do you get	73	M	4, 76
 3	3	how do you	99	M	4, 76, 102
-3	3	i have a	61	M	18, 44, 78
-2	3	do you have	31	M	80, 110
+2	3	i have a	27	M	18, 44
 7	2	of the	113	M	4, 8, 14, 52, 56, 92, 116
-6	2	do you	115	M	4, 76, 80, 102, 110, 118
+5	2	do you	115	M	4, 76, 102, 110, 118
 5	2	have a	99	M	12, 18, 44, 78, 110
-5	2	i have	61	M	18, 26, 44, 58, 78
 5	2	in the	57	M	36, 42, 52, 70, 92
 4	2	how do	99	M	4, 76, 100, 102
-4	2	i can't	89	M	10, 74, 90, 98
+4	2	i have	41	M	18, 26, 44, 58
 4	2	to the	103	M	4, 46, 56, 106
+3	2	, i	109	M	18, 116, 126
+3	2	I can't	89	M	10, 90, 98
 3	2	a bit	65	M	48, 72, 112
 3	2	but i	17	M	58, 72, 74
-3	2	i just	113	M	14, 98, 126
-3	2	oh yeah	125	M	2, 124, 126
 3	2	the middle	41	M	52, 56, 92
 3	2	the top	117	M	4, 28, 120
+3	2	yeah ,	103	M	24, 64, 126
+2	2	, but	27	M	46, 72
+2	2	, i'm	61	M	56, 116
+2	2	, what	95	M	24, 118
 2	2	a big	73	M	44, 116
 2	2	a little	73	M	40, 112
 2	2	are you	55	M	34, 88
@@ -27,28 +29,30 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	do that	95	M	6, 100
 2	2	found a	55	M	14, 68
 2	2	going to	57	M	0, 56
-2	2	i don't	43	M	10, 52
 2	2	i dont	13	M	6, 18
+2	2	i just	113	M	14, 126
 2	2	i mean	31	M	28, 58
 2	2	i think	7	M	68, 74
 2	2	i would	15	M	58, 72
 2	2	it's a	41	M	72, 112
-2	2	no i	5	M	10, 14
 2	2	not a	77	M	40, 116
+2	2	oh ,	71	M	56, 126
+2	2	oh yeah	123	M	2, 124
 2	2	on the	15	M	14, 28
 2	2	that ?	23	M	96, 118
 2	2	the diamond	13	M	8, 20
+2	2	uhh ,	23	M	96, 118
 2	2	what about	63	M	24, 86
-2	2	yes but	31	M	16, 46
 2	2	you can	9	M	70, 78
+2	2	you have	31	M	80, 110
 2	2	you mean	99	M	20, 118
 21	1	the	119	M	4, 8, 14, 20, 26, 28, 36, 42, 46, 48, 52, 56, 60, 62, 70, 86, 92, 106, 116, 120, 122
-20	1	i	121	M	6, 10, 14, 18, 26, 28, 30, 44, 52, 58, 68, 72, 74, 78, 90, 98, 100, 104, 116, 126
 15	1	a	105	M	12, 14, 18, 40, 44, 48, 52, 68, 72, 78, 92, 110, 112, 114, 116
+15	1	i	121	M	6, 14, 18, 26, 28, 30, 44, 52, 58, 68, 72, 74, 100, 116, 126
 13	1	you	115	M	4, 16, 20, 34, 66, 70, 76, 78, 80, 88, 102, 110, 118
-10	1	do	115	M	4, 6, 12, 30, 76, 80, 100, 102, 110, 118
 10	1	have	111	M	0, 10, 12, 18, 26, 44, 58, 78, 80, 110
 10	1	to	107	M	0, 4, 6, 34, 40, 46, 56, 66, 72, 106
+9	1	do	115	M	4, 6, 12, 30, 76, 100, 102, 110, 118
 9	1	that	127	M	0, 6, 58, 72, 74, 96, 100, 118, 126
 8	1	but	99	M	16, 46, 48, 58, 72, 74, 112, 114
 8	1	how	99	M	4, 6, 22, 54, 76, 84, 100, 102
@@ -57,6 +61,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	in	57	M	36, 42, 50, 52, 70, 92
 6	1	is	69	M	48, 58, 74, 84, 92, 116
 6	1	yeah	125	M	2, 24, 64, 114, 124, 126
+5	1	I	95	M	10, 78, 90, 98, 104
 5	1	it	101	M	16, 24, 72, 74, 116
 5	1	just	113	M	14, 72, 98, 116, 126
 5	1	oh	125	M	2, 14, 56, 124, 126
@@ -64,9 +69,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	you're	109	M	0, 42, 52, 90, 108
 4	1	be	29	M	38, 40, 56, 66
 4	1	bit	73	M	40, 48, 72, 112
+4	1	can't	89	M	10, 74, 90, 98
 4	1	get	73	M	4, 16, 70, 76
 4	1	go	73	M	30, 64, 82, 102
-4	1	it's	75	M	40, 72, 112, 114
 4	1	left	93	M	14, 32, 82, 106
 4	1	not	77	M	40, 46, 90, 116
 3	1	about	63	M	24, 52, 86
@@ -78,9 +83,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	up	41	M	76, 102, 116
 3	1	yes	31	M	16, 26, 46
 2	1	and	25	M	26, 50
+2	1	don't	43	M	10, 52
 2	1	gold	27	M	44, 70
 2	1	goldmine	7	M	62, 68
-2	1	i'm	61	M	56, 116
 2	1	if	25	M	66, 90
 2	1	map	5	M	14, 18
 2	1	me	73	M	0, 72
@@ -90,10 +95,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	or	59	M	32, 90
 2	1	rock	5	M	48, 52
 2	1	stone	27	M	10, 36
-2	1	there	17	M	76, 92
 2	1	this	15	M	84, 98
 2	1	totem	3	M	72, 74
-2	1	uhh	23	M	96, 118
 2	1	uhhh	63	M	0, 62
 2	1	where	45	M	30, 74
 

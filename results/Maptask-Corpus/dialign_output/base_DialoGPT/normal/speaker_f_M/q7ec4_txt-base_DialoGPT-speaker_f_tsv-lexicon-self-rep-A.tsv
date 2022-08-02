@@ -1,12 +1,11 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	you get to the	83	M	17, 99
-2	3	so you want	63	M	47, 109
 2	3	where is the	39	M	37, 75
 2	3	you have the	67	M	25, 91
 7	2	to the	89	M	17, 29, 37, 45, 57, 99, 105
 6	2	of the	87	M	13, 19, 37, 47, 67, 99
+3	2	, you	97	M	13, 25, 109
 3	2	the mountain	39	M	37, 49, 75
-3	2	you can	77	M	13, 31, 89
 3	2	you get	83	M	17, 31, 99
 3	2	you have	67	M	25, 59, 91
 3	2	you want	87	M	23, 47, 109
@@ -14,7 +13,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	a little	23	M	63, 85
 2	2	did you	23	M	17, 39
 2	2	do it	9	M	101, 109
-2	2	go east	5	M	11, 15
 2	2	i just	7	M	21, 27
 2	2	in remote	3	M	111, 113
 2	2	is a	19	M	85, 103
@@ -25,26 +23,27 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	the old	13	M	29, 41
 2	2	the top	49	M	37, 85
 2	2	the truck	3	M	49, 51
-2	2	you can't	57	M	13, 69
+2	2	you can	19	M	13, 31
 20	1	the	93	M	13, 17, 19, 25, 29, 31, 37, 41, 45, 47, 49, 51, 57, 67, 75, 85, 91, 95, 99, 105
-15	1	you	97	M	13, 17, 23, 25, 31, 39, 47, 59, 69, 81, 89, 91, 99, 101, 109
 14	1	a	107	M	1, 19, 23, 31, 43, 47, 59, 63, 67, 85, 89, 93, 103, 107
+14	1	you	97	M	13, 17, 23, 25, 31, 39, 47, 59, 69, 81, 91, 99, 101, 109
 12	1	to	93	M	17, 23, 29, 37, 45, 55, 57, 83, 99, 101, 105, 109
 9	1	right	93	M	7, 25, 33, 53, 57, 65, 79, 87, 99
 8	1	of	87	M	13, 19, 23, 31, 37, 47, 67, 99
 7	1	and	83	M	7, 15, 27, 29, 65, 85, 89
-7	1	i	81	M	21, 27, 43, 55, 83, 93, 101
+6	1	i	81	M	21, 27, 43, 83, 93, 101
 6	1	it	41	M	69, 71, 83, 101, 103, 109
-5	1	go	63	M	11, 13, 15, 29, 73
 5	1	have	67	M	25, 29, 43, 59, 91
 5	1	just	87	M	19, 21, 27, 89, 105
 5	1	so	63	M	47, 81, 87, 105, 109
+4	1	go	61	M	13, 15, 29, 73
 4	1	in	83	M	31, 55, 111, 113
 4	1	up	37	M	37, 39, 49, 73
 4	1	want	87	M	23, 47, 79, 109
 4	1	where	45	M	37, 75, 79, 81
 3	1	bit	85	M	1, 23, 85
 3	1	but	97	M	1, 75, 97
+3	1	can	77	M	13, 31, 89
 3	1	can't	57	M	13, 55, 69
 3	1	did	23	M	17, 27, 39
 3	1	do	19	M	91, 101, 109
@@ -55,8 +54,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	not	73	M	5, 67, 77
 3	1	now	73	M	15, 59, 87
 3	1	yeah	95	M	1, 21, 95
+2	1	I'm	21	M	67, 87
+2	1	You	77	M	13, 89
 2	1	far	63	M	1, 63
-2	1	i'm	21	M	67, 87
 2	1	me	51	M	59, 109
 2	1	one	55	M	41, 95
 2	1	see	15	M	55, 69
@@ -66,7 +66,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	there	33	M	61, 93
 2	1	try	17	M	23, 39
 2	1	u	21	M	9, 29
-2	1	until	43	M	57, 99
 2	1	village	9	M	105, 113
 2	1	you're	21	M	57, 77
 

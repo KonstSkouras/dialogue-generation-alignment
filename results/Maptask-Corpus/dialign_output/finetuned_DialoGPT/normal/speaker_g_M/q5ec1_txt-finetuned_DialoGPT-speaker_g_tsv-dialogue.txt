@@ -110,9 +110,9 @@ A|108| M: [and] [go along] underneath [the abandoned] truck
 B|109| g: i'll keep _it_ english 
 A|110| M: [i] will 
 B|111| g: [okay] 
-A|112| M: " !!! ' !! [you] !! [there] !! [the] !! "" !! [mm] !! [okay] !! [that] !! am !! [and] !! calendar !! 2019 !! 2018 !! " 
+A|112| M: " !!! ' !! [you] !! [there] !! [the] !! "" !! [mm] !! [okay] !! [that] !! am !! [and] !! Calendar !! 2019 !! 2018 !! " 
 B|113| g: [cottage] 
-A|114| M: " !!! ' !! "" !! calendar !! telegram !! " 
+A|114| M: " !!! ' !! "" !! Calendar !! Telegram !! " 
 B|115| g: _now_ [you're going] [along] 
 A|116| M: mmhmm 
 B|117| g: [and then] [you] turn [up] [right] [again] _and you_ keep [going] _until_ [you] find [a] _lake_ 
@@ -120,9 +120,9 @@ A|118| M: mmhmm
 B|119| g: what [you] mean turn [left] 
 A|120| M: [left] 
 B|121| g: [i] cannae see your hands fae here 
-A|122| M: " !!! ' !! "" !! 4 !! 8 !! 6 !! 7 !! 88 !! 84 !! 86 !! 81 !! 91 !! 83 !! 96 !! 886 !! 89 !! 92 !! 87 !! 888 !! 889 !!!?!!.!!!!!!! [there] !! [i] !! r !! [okay] !! [right] !! [and] !! [you] !! [have] !! [mm] !! u !! oke !! o !! k !! god !! _oh_ !! s !! all !! ex !! [yeah] !! [now] !! [uh] !! [ah] !! [go] !! am !! _are_ !! [a] !! [got] !! [the] !! [that] !! [up] !! bay !! this !! py !! [eh] !! [can] !! q !! big !! fu !! [until] !! [but] !! y !!!!!! stop !! f !! ak !! az !! leader !! [it] !! [to] !! within !! ken !! _do_ !! hit !! remote !! p !! kats !! ac !! " 
+A|122| M: " !!! ' !! "" !! 4 !! 8 !! 6 !! 7 !! 88 !! 84 !! 86 !! 81 !! 91 !! 83 !! 96 !! 886 !! 89 !! 92 !! 87 !! 888 !! 889 !!!?!!.!!,!!!,!! [there] !! [i] !! r !! [okay] !! [right] !! [and] !! [you] !! [have] !! [mm] !! u !! oke !! o !! k !! god !! _oh_ !! s !! all !! ex !! [yeah] !! [now] !! [uh] !! [ah] !! [go] !! am !! _are_ !! [a] !! [got] !! [the] !! [that] !! [up] !! bay !! this !! py !! [eh] !! [can] !! q !! big !! Fu !! [until] !! [but] !! y !!!!!! stop !! f !! Ak !! az !! Leader !! [it] !! [to] !! within !! ken !! _do_ !! hit !! remote !! p !! Kats !! ac !! " 
 B|123| g: [uh-huh] [i] know 
-A|124| M: " !!! ' !!! ' !! "" !! 4 !! 8 !! 7 !! 6 !! 754 !! 56 !! 487 !! 456 !! 458 !! 557 !! 88 !! 556 !! 488 !! 428 !! 148 !! 448 !! 889 !!!!!!.!! " 
+A|124| M: " !!! ' !!! ' !! "" !! 4 !! 8 !! 7 !! 6 !! 754 !! 56 !! 487 !! 456 !! 458 !! 557 !! 88 !! 556 !! 488 !! 428 !! 148 !! 448 !! 889 !!!,!!!.!! " 
 B|125| g: which [you] [are] [you] heading _towards_ your left-hand _edge of the_ _map_ 
 A|126| M: " !!! ' !!! ' !! 2017 !! 2018 !! 2019 !! 2020 !! 2020 !! "" !! 2017 !! " 
 B|127| g: yes your [right-hand] _edge_ _my_ left-hand _edge_ 
@@ -142,17 +142,17 @@ A|140| M: [uh-huh]
 B|141| g: [right] you've [come] through [the] [forest] 
 A|142| M: [uh-huh] 
 B|143| g: [you] see [the abandoned _cottage] in_ front [of] [you] 
-A|144| M: " !!! ' !!! ' !! ': !! "" !! 2018 !! 2017 !! 8 !! 2019 !! 4 !! 456 !! 526 !! 88 !!.!!!! 147 !! 488 !! 888 !! 89 !!!.!! 92 !!!!!!!!! 't !! 48 !! 84 !! " 
+A|144| M: " !!! ' !!! ' !! ': !! "" !! 2018 !! 2017 !! 8 !! 2019 !! 4 !! 456 !! 526 !! 88 !!.!!,!! 147 !! 488 !! 888 !! 89 !!!.!! 92 !!!,!!!!!! 't !! 48 !! 84 !! " 
 B|145| g: [you [go] up] [the] _map_ _past [the abandoned_ cottage] turn [left] 
 A|146| M: [right] i'm under [the abandoned] 
 B|147| g: [left] yes 
 A|148| M: [right] [go along] [to _the] edge _of the_ abandoned_ 
 B|149| g: [so] [the abandoned cottage] should [now] be below [you] [on the] _map_ 
-A|150| M: " !!! rem !! 2019 !! 2018 !! 2020 !! 2017 !! 2017 !! 2018 !! ' !! "" !!.!! " 
+A|150| M: " !!! Rem !! 2019 !! 2018 !! 2020 !! 2017 !! 2017 !! 2018 !! ' !! "" !!.!! " 
 B|151| g: yes 
 A|152| M: [right okay] 
 B|153| g: [so] [you] [do] [that] [again] 
-A|154| M: " !!!!.!! ' !! "" !! siri !! [okay] !! [mm] !! r !! [i] !! 4 !! " 
+A|154| M: " !!!!.!! ' !! "" !! Siri !! [okay] !! [mm] !! r !! [i] !! 4 !! " 
 B|155| g: [you] turn [round] [to] [a] [abandoned cottage] [so] always keeping [it] [on] your left-hand [side] 
 A|156| M: [right okay] 
 B|157| g: [okay] [you got] _that much_ 
@@ -174,7 +174,7 @@ A|172| M: [back down the] [right-hand [side] [of the] paper] [right]
 B|173| g: turn [right] [now] [okay] [do] [you] [have] [a fenced] meadow 
 A|174| M: [no] 
 B|175| g: [no] [that's] [right okay now] we turn [right] [again] [okay] [and you [go] up] [the] _map_ [you] should [come] [to] [a] [lake] 
-A|176| M: " !!! ' !! rem !!!!!!.!! "" !! 2018 !! 2017 !! 4 !! 8 !! " 
+A|176| M: " !!! ' !! Rem !!!,!!!.!! "" !! 2018 !! 2017 !! 4 !! 8 !! " 
 B|177| g: [okay] [you got] [the] [lake] 
 A|178| M: mmhmm 
 B|179| g: you've [got a] [lake] [now] [you] skirt around [the] inside [side of the] [lake] [that's] [side of the] [lake] [that] [is] nearest [to the] middle [of the] _map_ 
@@ -184,7 +184,7 @@ A|182| M: [yeah]
 B|183| g: [you] [don't] [have] [a] trig [point] 
 A|184| M: [no] 
 B|185| g: [okay] er [the] [lake] should [have] [a] [a] bulge [in] [it] [just] [at the top] 
-A|186| M: " !!! ' !! rem !! [okay] !!! ' !!!! "" !! 2019 !! 2017 !! 2018 !! 226 !! [there] !! 't !!.!! 2014 !!!!!!!!!!! " 
+A|186| M: " !!! ' !! Rem !! [okay] !!! ' !!,!! "" !! 2019 !! 2017 !! 2018 !! 226 !! [there] !! 't !!.!! 2014 !!!!!!!!!!! " 
 B|187| g: [uh] we turn [right] [there] [at] [that] bulge [okay] since [you] [don't] [have] [a] trig [point] we'll use [that] instead 
 A|188| M: [but] [it's] marked [on] [my] [map] as [well] 
 B|189| g: turn [right] [now go] diagonally [down] [towards] [the] not [a] steep diagonal [towards] [the] middle 
@@ -206,15 +206,15 @@ A|204| M: mmhmm
 B|205| g: [now] [do] [you] see [a] nuclear test site 
 A|206| M: [no] 
 B|207| g: [okay] keep [going] 'til [you] find [a] [lake] 
-A|208| M: " !!! ' !!! ' !! "" !! ': !! 2017 !! 4 !! 8 !! 7 !! 6 !! 72 !! 88 !! 488 !! 48 !! 424 !! slay you" 
+A|208| M: " !!! ' !!! ' !! "" !! ': !! 2017 !! 4 !! 8 !! 7 !! 6 !! 72 !! 88 !! 488 !! 48 !! 424 !! Slay you" 
 B|209| g: [okay] 
-A|210| M: " !!! ' !! "" !! siri !! [okay] !! " 
+A|210| M: " !!! ' !! "" !! Siri !! [okay] !! " 
 B|211| g: [now] [you] turn [left] [towards] [the] middle [of the] page 
 A|212| M: mmhmm 
 B|213| g: [and you] should finish [just] [past the] [the] [lake] 
 A|214| M: [right] 
 B|215| g: yes 
-A|216| M: " !!!!!! ' !!! ' !! "" !! 2016 !! 8 !! 4 !! 84 !! 88 !! 89 !! 86 !! 91 !! 92 !! 886 !! 96 !! #$ !!!!!! 7 !!.!!!! 889 !!?!!!.!!!!!!!!! 2017 !! " 
+A|216| M: " !!!!,!! ' !!! ' !! "" !! 2016 !! 8 !! 4 !! 84 !! 88 !! 89 !! 86 !! 91 !! 92 !! 886 !! 96 !! #$ !!!!!! 7 !!.!!,!! 889 !!?!!!.!!!!!!!!! 2017 !! " 
 B|217| g: [okay] [and] [that's] [you] 
 A|218| M: [right] 
 B|219| g: aye quite why [you] [want to go] [there] [i don't] know [but] 
@@ -560,13 +560,13 @@ Turn ID=110| A | M : i will
 Turn ID=111| B | g : okay
 	Free: Pattern=okay
 	Constrained: 
-Turn ID=112| A | M : " !!! ' !! you !! there !! the !! "" !! mm !! okay !! that !! am !! and !! calendar !! 2019 !! 2018 !! "
+Turn ID=112| A | M : " !!! ' !! you !! there !! the !! "" !! mm !! okay !! that !! am !! and !! Calendar !! 2019 !! 2018 !! "
 	Free: Pattern=you, Pattern=there, Pattern=mm, Pattern=and, Pattern=the, Pattern=that, Pattern=okay
 	Constrained: 
 Turn ID=113| B | g : cottage
 	Free: Pattern=cottage
 	Constrained: 
-Turn ID=114| A | M : " !!! ' !! "" !! calendar !! telegram !! "
+Turn ID=114| A | M : " !!! ' !! "" !! Calendar !! Telegram !! "
 	Free: 
 	Constrained: 
 Turn ID=115| B | g : now you're going along
@@ -590,13 +590,13 @@ Turn ID=120| A | M : left
 Turn ID=121| B | g : i cannae see your hands fae here
 	Free: Pattern=i
 	Constrained: 
-Turn ID=122| A | M : " !!! ' !! "" !! 4 !! 8 !! 6 !! 7 !! 88 !! 84 !! 86 !! 81 !! 91 !! 83 !! 96 !! 886 !! 89 !! 92 !! 87 !! 888 !! 889 !!!?!!.!!!!!!! there !! i !! r !! okay !! right !! and !! you !! have !! mm !! u !! oke !! o !! k !! god !! oh !! s !! all !! ex !! yeah !! now !! uh !! ah !! go !! am !! are !! a !! got !! the !! that !! up !! bay !! this !! py !! eh !! can !! q !! big !! fu !! until !! but !! y !!!!!! stop !! f !! ak !! az !! leader !! it !! to !! within !! ken !! do !! hit !! remote !! p !! kats !! ac !! "
+Turn ID=122| A | M : " !!! ' !! "" !! 4 !! 8 !! 6 !! 7 !! 88 !! 84 !! 86 !! 81 !! 91 !! 83 !! 96 !! 886 !! 89 !! 92 !! 87 !! 888 !! 889 !!!?!!.!!,!!!,!! there !! i !! r !! okay !! right !! and !! you !! have !! mm !! u !! oke !! o !! k !! god !! oh !! s !! all !! ex !! yeah !! now !! uh !! ah !! go !! am !! are !! a !! got !! the !! that !! up !! bay !! this !! py !! eh !! can !! q !! big !! Fu !! until !! but !! y !!!!!! stop !! f !! Ak !! az !! Leader !! it !! to !! within !! ken !! do !! hit !! remote !! p !! Kats !! ac !! "
 	Free: Pattern=right, Pattern=until, Pattern=have, Pattern=go, Pattern=there, Pattern=mm, Pattern=are, Pattern=can, Pattern=ah, Pattern=i, Pattern=eh, Pattern=the, Pattern=got, Pattern=now, Pattern=okay, Pattern=you, Pattern=uh, Pattern=do, Pattern=a, Pattern=and, Pattern=oh, Pattern=it, Pattern=yeah, Pattern=up, Pattern=to, Pattern=that, Pattern=but
 	Constrained: 
 Turn ID=123| B | g : uh-huh i know
 	Free: Pattern=i, Pattern=uh-huh
 	Constrained: 
-Turn ID=124| A | M : " !!! ' !!! ' !! "" !! 4 !! 8 !! 7 !! 6 !! 754 !! 56 !! 487 !! 456 !! 458 !! 557 !! 88 !! 556 !! 488 !! 428 !! 148 !! 448 !! 889 !!!!!!.!! "
+Turn ID=124| A | M : " !!! ' !!! ' !! "" !! 4 !! 8 !! 7 !! 6 !! 754 !! 56 !! 487 !! 456 !! 458 !! 557 !! 88 !! 556 !! 488 !! 428 !! 148 !! 448 !! 889 !!!,!!!.!! "
 	Free: 
 	Constrained: 
 Turn ID=125| B | g : which you are you heading towards your left-hand edge of the map
@@ -656,7 +656,7 @@ Turn ID=142| A | M : uh-huh
 Turn ID=143| B | g : you see the abandoned cottage in front of you
 	Free: Pattern=the abandoned cottage, Pattern=cottage in, Pattern=of, Pattern=you
 	Constrained: Pattern=the abandoned, Pattern=cottage, Pattern=in, Pattern=abandoned cottage, Pattern=the
-Turn ID=144| A | M : " !!! ' !!! ' !! ': !! "" !! 2018 !! 2017 !! 8 !! 2019 !! 4 !! 456 !! 526 !! 88 !!.!!!! 147 !! 488 !! 888 !! 89 !!!.!! 92 !!!!!!!!! 't !! 48 !! 84 !! "
+Turn ID=144| A | M : " !!! ' !!! ' !! ': !! "" !! 2018 !! 2017 !! 8 !! 2019 !! 4 !! 456 !! 526 !! 88 !!.!!,!! 147 !! 488 !! 888 !! 89 !!!.!! 92 !!!,!!!!!! 't !! 48 !! 84 !! "
 	Free: 
 	Constrained: 
 Turn ID=145| B | g : you go up the map past the abandoned cottage turn left
@@ -674,7 +674,7 @@ Turn ID=148| A | M : right go along to the edge of the abandoned
 Turn ID=149| B | g : so the abandoned cottage should now be below you on the map
 	Free: Pattern=you, Pattern=map, Pattern=on the, Pattern=now, Pattern=the abandoned cottage, Pattern=so
 	Constrained: Pattern=the abandoned, Pattern=cottage, Pattern=abandoned cottage, Pattern=on, Pattern=the
-Turn ID=150| A | M : " !!! rem !! 2019 !! 2018 !! 2020 !! 2017 !! 2017 !! 2018 !! ' !! "" !!.!! "
+Turn ID=150| A | M : " !!! Rem !! 2019 !! 2018 !! 2020 !! 2017 !! 2017 !! 2018 !! ' !! "" !!.!! "
 	Free: 
 	Constrained: 
 Turn ID=151| B | g : yes
@@ -686,7 +686,7 @@ Turn ID=152| A | M : right okay
 Turn ID=153| B | g : so you do that again
 	Free: Pattern=you, Pattern=do, Pattern=again, Pattern=that, Pattern=so
 	Constrained: 
-Turn ID=154| A | M : " !!!!.!! ' !! "" !! siri !! okay !! mm !! r !! i !! 4 !! "
+Turn ID=154| A | M : " !!!!.!! ' !! "" !! Siri !! okay !! mm !! r !! i !! 4 !! "
 	Free: Pattern=okay, Pattern=mm, Pattern=i
 	Constrained: 
 Turn ID=155| B | g : you turn round to a abandoned cottage so always keeping it on your left-hand side
@@ -752,7 +752,7 @@ Turn ID=174| A | M : no
 Turn ID=175| B | g : no that's right okay now we turn right again okay and you go up the map you should come to a lake
 	Free: Pattern=right, Pattern=you, Pattern=and you go, Pattern=a, Pattern=come, Pattern=right okay now, Pattern=map, Pattern=to, Pattern=okay, Pattern=no, Pattern=go up, Pattern=that's, Pattern=the, Pattern=lake, Pattern=again
 	Constrained: Pattern=right, Pattern=you, Pattern=go, Pattern=you go, Pattern=and, Pattern=okay now, Pattern=up, Pattern=now, Pattern=okay, Pattern=and you, Pattern=right okay
-Turn ID=176| A | M : " !!! ' !! rem !!!!!!.!! "" !! 2018 !! 2017 !! 4 !! 8 !! "
+Turn ID=176| A | M : " !!! ' !! Rem !!!,!!!.!! "" !! 2018 !! 2017 !! 4 !! 8 !! "
 	Free: 
 	Constrained: 
 Turn ID=177| B | g : okay you got the lake
@@ -782,7 +782,7 @@ Turn ID=184| A | M : no
 Turn ID=185| B | g : okay er the lake should have a a bulge in it just at the top
 	Free: Pattern=a, Pattern=it, Pattern=in, Pattern=the, Pattern=at the top, Pattern=lake, Pattern=okay, Pattern=just, Pattern=have
 	Constrained: Pattern=at the, Pattern=at, Pattern=the
-Turn ID=186| A | M : " !!! ' !! rem !! okay !!! ' !!!! "" !! 2019 !! 2017 !! 2018 !! 226 !! there !! 't !!.!! 2014 !!!!!!!!!!! "
+Turn ID=186| A | M : " !!! ' !! Rem !! okay !!! ' !!,!! "" !! 2019 !! 2017 !! 2018 !! 226 !! there !! 't !!.!! 2014 !!!!!!!!!!! "
 	Free: Pattern=okay, Pattern=there
 	Constrained: 
 Turn ID=187| B | g : uh we turn right there at that bulge okay since you don't have a trig point we'll use that instead
@@ -848,13 +848,13 @@ Turn ID=206| A | M : no
 Turn ID=207| B | g : okay keep going 'til you find a lake
 	Free: Pattern=you, Pattern=going, Pattern=a, Pattern=lake, Pattern=okay
 	Constrained: 
-Turn ID=208| A | M : " !!! ' !!! ' !! "" !! ': !! 2017 !! 4 !! 8 !! 7 !! 6 !! 72 !! 88 !! 488 !! 48 !! 424 !! slay you"
+Turn ID=208| A | M : " !!! ' !!! ' !! "" !! ': !! 2017 !! 4 !! 8 !! 7 !! 6 !! 72 !! 88 !! 488 !! 48 !! 424 !! Slay you"
 	Free: 
 	Constrained: 
 Turn ID=209| B | g : okay
 	Free: Pattern=okay
 	Constrained: 
-Turn ID=210| A | M : " !!! ' !! "" !! siri !! okay !! "
+Turn ID=210| A | M : " !!! ' !! "" !! Siri !! okay !! "
 	Free: Pattern=okay
 	Constrained: 
 Turn ID=211| B | g : now you turn left towards the middle of the page
@@ -872,7 +872,7 @@ Turn ID=214| A | M : right
 Turn ID=215| B | g : yes
 	Free: 
 	Constrained: 
-Turn ID=216| A | M : " !!!!!! ' !!! ' !! "" !! 2016 !! 8 !! 4 !! 84 !! 88 !! 89 !! 86 !! 91 !! 92 !! 886 !! 96 !! #$ !!!!!! 7 !!.!!!! 889 !!?!!!.!!!!!!!!! 2017 !! "
+Turn ID=216| A | M : " !!!!,!! ' !!! ' !! "" !! 2016 !! 8 !! 4 !! 84 !! 88 !! 89 !! 86 !! 91 !! 92 !! 886 !! 96 !! #$ !!!!!! 7 !!.!!,!! 889 !!?!!!.!!!!!!!!! 2017 !! "
 	Free: 
 	Constrained: 
 Turn ID=217| B | g : okay and that's you

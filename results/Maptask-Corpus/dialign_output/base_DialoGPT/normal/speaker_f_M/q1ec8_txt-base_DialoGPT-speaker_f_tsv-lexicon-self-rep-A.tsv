@@ -15,8 +15,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	going to	39	M	43, 81
 2	2	gonna be	29	M	55, 83
 2	2	have to	95	M	9, 103
-2	2	i mean	5	M	83, 87
-2	2	i'll be	61	M	37, 97
 2	2	is over	19	M	23, 41
 2	2	is the	29	M	49, 77
 2	2	it is	91	M	3, 93
@@ -27,7 +25,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 14	1	to	103	M	1, 5, 7, 9, 43, 45, 57, 67, 69, 79, 81, 87, 89, 103
 9	1	a	89	M	7, 15, 17, 19, 41, 55, 65, 73, 95
 9	1	you	71	M	31, 33, 45, 47, 57, 65, 79, 87, 101
-8	1	i	87	M	15, 57, 83, 87, 95, 97, 99, 101
+7	1	i	87	M	15, 57, 83, 95, 97, 99, 101
 7	1	is	91	M	3, 23, 29, 41, 49, 77, 93
 6	1	east	99	M	5, 29, 31, 33, 101, 103
 6	1	of	71	M	3, 7, 43, 49, 57, 73
@@ -40,21 +38,19 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	in	87	M	3, 29, 37, 89
 4	1	it	91	M	3, 63, 89, 93
 4	1	it's	69	M	19, 61, 83, 87
-4	1	right	49	M	43, 63, 75, 91
-4	1	south	27	M	27, 31, 45, 53
 4	1	that	67	M	21, 57, 83, 87
 4	1	then	45	M	11, 25, 27, 55
 3	1	and	13	M	1, 11, 13
 3	1	antelope	15	M	93, 105, 107
 3	1	but	49	M	57, 87, 105
-3	1	i'll	77	M	21, 37, 97
 3	1	mean	19	M	83, 87, 101
+3	1	right	49	M	43, 75, 91
 3	1	shelter	11	M	19, 23, 29
+3	1	south	23	M	31, 45, 53
 3	1	sure	31	M	57, 83, 87
-3	1	you're	39	M	43, 55, 81
+2	1	I'll	17	M	21, 37
 2	1	do	59	M	21, 79
 2	1	get	35	M	47, 81
-2	1	i'm	5	M	83, 87
 2	1	know	11	M	87, 97
 2	1	lake	13	M	65, 77
 2	1	map	3	M	9, 11

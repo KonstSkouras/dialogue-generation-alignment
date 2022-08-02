@@ -19,13 +19,13 @@ A|17| M: [a bit]
 B|18| f: alright 
 A|19| M: _it's_ _just_ [a] shelter 
 B|20| f: alright 
-A|21| M: _i'll_ do [that] . 
+A|21| M: I'll do [that] . 
 B|22| f: uh-huh 
 A|23| M: [the] shelter is [over] _the bottom_ 
 B|24| f: [then] _south_ 
 A|25| M:  ... [then] what ? 
 B|26| f: _right_ 
-A|27| M: [south] [then] 
+A|27| M: South [then] 
 B|28| f: mmhmm 
 A|29| M: [the] shelter is [in] _the east_ 
 B|30| f: mmhmm 
@@ -35,57 +35,57 @@ A|33| M: you can _go_ _east_
 B|34| f: mmhmm 
 A|35| M: _go_ roundabout 
 B|36| f: _i'm_ _going_ _north_ 
-A|37| M: _i'll_ be on [in] about 2 hours 
+A|37| M: I'll be on [in] about 2 hours 
 B|38| f: _they're_ _over [a_ bit] 
 A|39| M: what about [the] hot springs ? 
 B|40| f: _they're_ [over] [to the] west [a bit] 
 A|41| M: [the] whole thing is [over a] lot 
 B|42| f: _right_ 
-A|43| M: _right so_ you're _going to_ be _going [to_ _the] bottom of the_ volcano ? 
-B|44| f: [right so] _i'm_ [going] _above_ them 
+A|43| M: [right] , _so_ you're _going to_ be _going [to_ _the] bottom of the_ volcano ? 
+B|44| f: [right] [so] _i'm_ [going] _above_ them 
 A|45| M: you need [to] turn [the] compass [south] 
 B|46| f: [right] 
-A|47| M: until you get there 
-B|48| f: [right] [i'll] [go] up [to] them 
+A|47| M: Until you get there 
+B|48| f: [right] _i'll_ [go] up [to] them 
 A|49| M: _the bottom_ is _the bottom of the_ line 
 B|50| f: underneath them 
 A|51| M: on _the bottom_ ? 
 B|52| f: [south] 
 A|53| M: [south] _or_ [north] ? 
 B|54| f: mmhmm underneath [the] elephants 
-A|55| M: you're gonna be [a] couple more inches [then] 
+A|55| M: You're gonna be [a] couple more inches [then] 
 B|56| f: mmhmm [it's] up [a bit] 
 A|57| M: _i_ was thinking about [that] but _i_ wanted [to] make sure you were aware [of the] location . 
 B|58| f: mmhmm 
-A|59| M: mmmhmmm 
+A|59| M: Mmmhmmm 
 B|60| f: _past_ [the] top [of] [it] 
 A|61| M: [it's] [down] 
 B|62| f: [right] 
-A|63| M: [right] below [it] 
-B|64| f: _no_ 
+A|63| M: Right below [it] 
+B|64| f: no 
 A|65| M: have you got [a] _lake_ 
-B|66| f: [to the] _no_ 
+B|66| f: [to the] no 
 A|67| M: [to] who 
-B|68| f: _no_ 
+B|68| f: no 
 A|69| M: [to] bath 
 B|70| f: mm _they're_ [over] [to the east] [of the] mountain 
-A|71| M: [no] that's [the] roman empire . 
-B|72| f: [no] beside _this_ [no] 
-A|73| M: yes [they're] [a] couple [of] hundred meters away 
+A|71| M: No , that's [the] Roman Empire . 
+B|72| f: no beside _this_ no 
+A|73| M: yes , [they're] [a] couple [of] hundred meters away 
 B|74| f: [right] [over] [to the east] again 
 A|75| M: [right] meow 
 B|76| f: _level_ with [the bottom of _the] lake_ 
 A|77| M: what [level] is [the lake] ? 
 B|78| f: alright 
 A|79| M: where do you want [to] [go] ? 
-B|80| f: _i'm_ _i'm_ [going to] hit [the] _round_ rocks [no] 
+B|80| f: _i'm_ _i'm_ [going to] hit [the] _round_ rocks no 
 A|81| M: you're [going to] get shot 
 B|82| f: [right] 
 A|83| M: _i_ mean [i'm] pretty sure [it's] [not] gonna be any more than [that] 
 B|84| f: up _above_ [it] 
 A|85| M: [the] rock 
 B|86| f: something [like] circle _right round_ [it] 
-A|87| M: [i'm] [not] sure what [that] means but [it's] nice [to] know [that] you know what _i_ mean . 
+A|87| M: I'm [not] sure what [that] means , but [it's] nice [to] know [that] you know what I mean . 
 B|88| f: uh-huh 
 A|89| M: u want me [to] put [it] [in] [the] [corner] 
 B|90| f: [right] up [so] [i'm] sitting _just above_ [the] antelopes 
@@ -105,7 +105,7 @@ A|103| M: we have [to] [go] [east]
 B|104| f: mmhmm 
 A|105| M: but [the] antelope 
 B|106| f: _just past_ [the] antelopes [it's] finished 
-A|107| M: mhm [just past] antelope 
+A|107| M: mhm , [just past] antelope 
 B|108| f: okay 
 A|109| M: its done 
 
@@ -174,8 +174,8 @@ Turn ID=19| A | M : it's just a shelter
 Turn ID=20| B | f : alright
 	Free: 
 	Constrained: 
-Turn ID=21| A | M : i'll do that .
-	Free: Pattern=i'll, Pattern=that
+Turn ID=21| A | M : I'll do that .
+	Free: Pattern=that
 	Constrained: 
 Turn ID=22| B | f : uh-huh
 	Free: 
@@ -192,8 +192,8 @@ Turn ID=25| A | M :  ... then what ?
 Turn ID=26| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=27| A | M : south then
-	Free: Pattern=south, Pattern=then
+Turn ID=27| A | M : South then
+	Free: Pattern=then
 	Constrained: 
 Turn ID=28| B | f : mmhmm
 	Free: 
@@ -222,8 +222,8 @@ Turn ID=35| A | M : go roundabout
 Turn ID=36| B | f : i'm going north
 	Free: Pattern=i'm, Pattern=north, Pattern=going
 	Constrained: 
-Turn ID=37| A | M : i'll be on in about 2 hours
-	Free: Pattern=in, Pattern=i'll
+Turn ID=37| A | M : I'll be on in about 2 hours
+	Free: Pattern=in
 	Constrained: 
 Turn ID=38| B | f : they're over a bit
 	Free: Pattern=a bit, Pattern=over a, Pattern=they're
@@ -240,23 +240,23 @@ Turn ID=41| A | M : the whole thing is over a lot
 Turn ID=42| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=43| A | M : right so you're going to be going to the bottom of the volcano ?
-	Free: Pattern=the bottom of the, Pattern=to the, Pattern=going to, Pattern=right so
-	Constrained: Pattern=going, Pattern=the, Pattern=the bottom, Pattern=to, Pattern=of the, Pattern=so, Pattern=right, Pattern=of
+Turn ID=43| A | M : right , so you're going to be going to the bottom of the volcano ?
+	Free: Pattern=going to, Pattern=right, Pattern=the bottom of the, Pattern=to the, Pattern=so
+	Constrained: Pattern=of, Pattern=going, Pattern=the, Pattern=the bottom, Pattern=to, Pattern=of the
 Turn ID=44| B | f : right so i'm going above them
-	Free: Pattern=right so, Pattern=i'm, Pattern=above, Pattern=going
-	Constrained: Pattern=so, Pattern=right
+	Free: Pattern=right, Pattern=going, Pattern=above, Pattern=i'm, Pattern=so
+	Constrained: 
 Turn ID=45| A | M : you need to turn the compass south
 	Free: Pattern=south, Pattern=to, Pattern=the
 	Constrained: 
 Turn ID=46| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=47| A | M : until you get there
+Turn ID=47| A | M : Until you get there
 	Free: 
 	Constrained: 
 Turn ID=48| B | f : right i'll go up to them
-	Free: Pattern=i'll, Pattern=go, Pattern=right, Pattern=to
+	Free: Pattern=i'll, Pattern=go, Pattern=to, Pattern=right
 	Constrained: 
 Turn ID=49| A | M : the bottom is the bottom of the line
 	Free: Pattern=the bottom of the, Pattern=the bottom
@@ -276,7 +276,7 @@ Turn ID=53| A | M : south or north ?
 Turn ID=54| B | f : mmhmm underneath the elephants
 	Free: Pattern=the
 	Constrained: 
-Turn ID=55| A | M : you're gonna be a couple more inches then
+Turn ID=55| A | M : You're gonna be a couple more inches then
 	Free: Pattern=a, Pattern=then
 	Constrained: 
 Turn ID=56| B | f : mmhmm it's up a bit
@@ -288,35 +288,35 @@ Turn ID=57| A | M : i was thinking about that but i wanted to make sure you were
 Turn ID=58| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=59| A | M : mmmhmmm
+Turn ID=59| A | M : Mmmhmmm
 	Free: 
 	Constrained: 
 Turn ID=60| B | f : past the top of it
 	Free: Pattern=it, Pattern=past, Pattern=the, Pattern=of
 	Constrained: 
 Turn ID=61| A | M : it's down
-	Free: Pattern=it's, Pattern=down
+	Free: Pattern=down, Pattern=it's
 	Constrained: 
 Turn ID=62| B | f : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=63| A | M : right below it
-	Free: Pattern=it, Pattern=right
+Turn ID=63| A | M : Right below it
+	Free: Pattern=it
 	Constrained: 
 Turn ID=64| B | f : no
-	Free: Pattern=no
+	Free: 
 	Constrained: 
 Turn ID=65| A | M : have you got a lake
 	Free: Pattern=a, Pattern=lake
 	Constrained: 
 Turn ID=66| B | f : to the no
-	Free: Pattern=to the, Pattern=no
+	Free: Pattern=to the
 	Constrained: Pattern=to, Pattern=the
 Turn ID=67| A | M : to who
 	Free: Pattern=to
 	Constrained: 
 Turn ID=68| B | f : no
-	Free: Pattern=no
+	Free: 
 	Constrained: 
 Turn ID=69| A | M : to bath
 	Free: Pattern=to
@@ -324,13 +324,13 @@ Turn ID=69| A | M : to bath
 Turn ID=70| B | f : mm they're over to the east of the mountain
 	Free: Pattern=to the east, Pattern=of the, Pattern=they're, Pattern=over
 	Constrained: Pattern=of, Pattern=to the, Pattern=the, Pattern=to, Pattern=the east, Pattern=east
-Turn ID=71| A | M : no that's the roman empire .
-	Free: Pattern=no, Pattern=the
+Turn ID=71| A | M : No , that's the Roman Empire .
+	Free: Pattern=the
 	Constrained: 
 Turn ID=72| B | f : no beside this no
-	Free: Pattern=this, Pattern=no
+	Free: Pattern=this
 	Constrained: 
-Turn ID=73| A | M : yes they're a couple of hundred meters away
+Turn ID=73| A | M : yes , they're a couple of hundred meters away
 	Free: Pattern=they're, Pattern=a, Pattern=of
 	Constrained: 
 Turn ID=74| B | f : right over to the east again
@@ -352,7 +352,7 @@ Turn ID=79| A | M : where do you want to go ?
 	Free: Pattern=go, Pattern=to
 	Constrained: 
 Turn ID=80| B | f : i'm i'm going to hit the round rocks no
-	Free: Pattern=going to, Pattern=no, Pattern=i'm, Pattern=round, Pattern=the
+	Free: Pattern=going to, Pattern=i'm, Pattern=round, Pattern=the
 	Constrained: Pattern=to, Pattern=going
 Turn ID=81| A | M : you're going to get shot
 	Free: Pattern=going to
@@ -371,9 +371,9 @@ Turn ID=85| A | M : the rock
 	Constrained: 
 Turn ID=86| B | f : something like circle right round it
 	Free: Pattern=right round, Pattern=it, Pattern=like
-	Constrained: Pattern=right, Pattern=round
-Turn ID=87| A | M : i'm not sure what that means but it's nice to know that you know what i mean .
-	Free: Pattern=i'm, Pattern=i, Pattern=to, Pattern=not, Pattern=that, Pattern=it's
+	Constrained: Pattern=round, Pattern=right
+Turn ID=87| A | M : I'm not sure what that means , but it's nice to know that you know what I mean .
+	Free: Pattern=to, Pattern=not, Pattern=it's, Pattern=that
 	Constrained: 
 Turn ID=88| B | f : uh-huh
 	Free: 
@@ -386,7 +386,7 @@ Turn ID=90| B | f : right up so i'm sitting just above the antelopes
 	Constrained: Pattern=above, Pattern=just
 Turn ID=91| A | M : right round
 	Free: Pattern=right round
-	Constrained: Pattern=right, Pattern=round
+	Constrained: Pattern=round, Pattern=right
 Turn ID=92| B | f : right
 	Free: Pattern=right
 	Constrained: 
@@ -397,7 +397,7 @@ Turn ID=94| B | f : well i havenae
 	Free: Pattern=i
 	Constrained: 
 Turn ID=95| A | M : i have a bad feeling about this
-	Free: Pattern=a, Pattern=i, Pattern=this
+	Free: Pattern=a, Pattern=this, Pattern=i
 	Constrained: 
 Turn ID=96| B | f : right okay
 	Free: Pattern=right
@@ -406,7 +406,7 @@ Turn ID=97| A | M : i know i'll be here
 	Free: Pattern=i'll, Pattern=i
 	Constrained: 
 Turn ID=98| B | f : to the east or the west
-	Free: Pattern=to the east, Pattern=the, Pattern=or
+	Free: Pattern=to the east, Pattern=or, Pattern=the
 	Constrained: Pattern=to the, Pattern=the, Pattern=to, Pattern=the east, Pattern=east
 Turn ID=99| A | M : i don't understand
 	Free: Pattern=i
@@ -432,7 +432,7 @@ Turn ID=105| A | M : but the antelope
 Turn ID=106| B | f : just past the antelopes it's finished
 	Free: Pattern=just past, Pattern=it's, Pattern=the
 	Constrained: Pattern=past, Pattern=just
-Turn ID=107| A | M : mhm just past antelope
+Turn ID=107| A | M : mhm , just past antelope
 	Free: Pattern=just past
 	Constrained: Pattern=past, Pattern=just
 Turn ID=108| B | f : okay

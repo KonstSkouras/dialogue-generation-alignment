@@ -2,39 +2,39 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	what do you mean ?	33	M	71, 103
 2	4	a picture of a	71	M	39, 109
 2	4	not sure if i	33	M	77, 109
-3	3	i have a	103	M	11, 99, 113
-3	3	i'm not sure	59	M	19, 75, 77
 3	3	it's not a	69	M	25, 57, 93
 2	3	a way to	3	M	3, 5
 2	3	going to the	75	M	27, 101
+2	3	i have a	15	M	99, 113
 2	3	i'll try that	101	M	7, 107
+2	3	i'm not sure	3	M	75, 77
 2	3	ok i'll try	73	M	7, 79
 2	3	you have a	55	M	3, 57
+5	2	, but	91	M	19, 21, 77, 93, 109
 5	2	do you	101	M	3, 31, 37, 71, 103
-4	2	but i	99	M	13, 69, 109, 111
-4	2	i can	63	M	15, 45, 75, 77
+5	2	have a	111	M	3, 11, 57, 99, 113
 4	2	in the	74	M	41, 47, 73, 114
+4	2	not sure	91	M	19, 75, 77, 109
 4	2	of the	57	M	21, 27, 35, 77
+3	2	but i	97	M	13, 69, 109
 3	2	going to	75	M	27, 29, 101
 3	2	how to	21	M	19, 31, 39
-3	2	i know	57	M	13, 21, 69
+3	2	i can	33	M	45, 75, 77
 3	2	the ravines	35	M	39, 55, 73
 3	2	to get	71	M	5, 19, 75
 3	2	to the	81	M	21, 27, 101
 3	2	what is	67	M	29, 83, 95
 3	2	you mean	33	M	71, 87, 103
+2	2	, and	23	M	77, 99
 2	2	a meadow	7	M	11, 17
 2	2	above the	11	M	47, 57
-2	2	and the	21	M	77, 97
 2	2	but it's	39	M	19, 57
 2	2	coming down	13	M	63, 75
 2	2	do it	41	M	13, 53
 2	2	do that	39	M	37, 75
 2	2	get the	73	M	5, 77
-2	2	i am	87	M	23, 109
 2	2	i can't	57	M	13, 69
-2	2	i did	61	M	51, 111
-2	2	i don't	55	M	57, 111
+2	2	i know	57	M	13, 69
 2	2	in a	33	M	13, 45
 2	2	is that	7	M	95, 101
 2	2	it is	67	M	3, 69
@@ -47,18 +47,19 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	you can	85	M	9, 93
 21	1	the	114	M	1, 5, 19, 21, 27, 33, 35, 39, 41, 43, 47, 55, 57, 65, 73, 77, 85, 87, 97, 101, 114
 17	1	a	111	M	3, 5, 11, 13, 15, 17, 25, 31, 39, 45, 57, 77, 81, 93, 99, 109, 113
-17	1	i	103	M	11, 13, 15, 21, 23, 39, 43, 45, 51, 57, 69, 75, 77, 99, 109, 111, 113
 15	1	to	109	M	3, 5, 15, 17, 19, 21, 27, 29, 31, 39, 75, 79, 101, 109, 111
 15	1	you	107	M	3, 9, 15, 17, 21, 31, 33, 37, 57, 63, 71, 87, 93, 103, 109
+11	1	i	101	M	13, 39, 45, 51, 57, 69, 75, 77, 99, 109, 113
 10	1	but	99	M	13, 19, 21, 57, 69, 77, 93, 101, 109, 111
-8	1	and	89	M	11, 27, 53, 59, 75, 77, 97, 99
 8	1	is	99	M	3, 29, 69, 77, 83, 85, 95, 101
 8	1	it	75	M	3, 13, 19, 29, 39, 53, 69, 77
 8	1	that	101	M	7, 37, 69, 75, 93, 95, 101, 107
+7	1	and	89	M	11, 27, 53, 59, 75, 77, 99
 7	1	can	103	M	9, 15, 45, 75, 77, 93, 111
-7	1	i'm	71	M	19, 27, 35, 75, 77, 81, 89
 7	1	right	83	M	9, 13, 43, 73, 83, 87, 91
+6	1	I	101	M	11, 15, 21, 23, 43, 111
 6	1	down	59	M	33, 43, 55, 63, 75, 91
+6	1	i'm	63	M	27, 35, 75, 77, 81, 89
 6	1	know	81	M	13, 21, 39, 57, 69, 93
 6	1	what	83	M	21, 29, 71, 83, 95, 103
 5	1	going	75	M	27, 29, 75, 93, 101
@@ -76,9 +77,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	don't	55	M	57, 67, 111
 3	1	on	75	M	19, 35, 93
 3	1	there	23	M	79, 89, 101
-3	1	you're	59	M	43, 73, 101
+2	1	am	87	M	23, 109
 2	1	be	45	M	35, 79
 2	1	creek	43	M	57, 99
+2	1	did	61	M	51, 111
 2	1	draw	67	M	43, 109
 2	1	just	53	M	9, 61
 2	1	me	53	M	31, 83
@@ -89,4 +91,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	turn	11	M	49, 59
 2	1	u	17	M	45, 61
 2	1	want	81	M	31, 111
+2	1	you're	29	M	73, 101
 

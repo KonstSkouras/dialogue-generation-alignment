@@ -110,7 +110,7 @@ A|108| M: [no]
 B|109| g: [no] _do you have_ pebbled shore 
 A|110| M: [yeah] 
 B|111| g: [well] [i want you] [to] draw [uh [i've] got] pebbled shore [and] above [that] [i've got] coconut palm 
-A|112| M: " !!! remindme !! ember !! 2017 !! 2018 !! 2019 !! 2020 !! 2018 !! ' !! "" !!!!.!!?!! god !! [there] !! [okay] !! [mm] !! " 
+A|112| M: " !!! Remindme !! EMBER !! 2017 !! 2018 !! 2019 !! 2020 !! 2018 !! ' !! "" !!,!!.!!?!! god !! [there] !! [okay] !! [mm] !! " 
 B|113| g: [right so] imagine _you've got a_ _tree_ [there] [and] [i want you] [to] draw between where [that] _tree_ would [be] where [the] pebbled shore [is] [so] _just_ keep drawing [go] make your line [go down] [a] bit _right and_ _just_ [to] come [to] above pebbled shore [and] _just_ stop [the] end [there] _and then_ ehm [i don't] suppose _you've got_ _finished_ marked on your map [no] [right] _have you got_ anything [below] pebbled shore 
 A|114| M: [i've got] [i've] curved [round] [crane bay] 
 B|115| g: [well] 
@@ -138,7 +138,7 @@ A|136| M: [right okay]
 B|137| g: [mmhmm] [right] quite far [down] 
 A|138| M: [right okay] 
 B|139| g: [and then] 
-A|140| M: " !!! >] !! ' !!! ' !! "" !!!! 8 !! 4 !! 6 !! 7 !! " 
+A|140| M: " !!! >] !! ' !!! ' !! "" !!,!! 8 !! 4 !! 6 !! 7 !! " 
 B|141| g: [well] [i want you] [to] avoid [that] 
 A|142| M: [so] i'm [going] [up] [and then] across 
 B|143| g: [and go] [uh-huh] [no] [well] [i don't] know where's your where's your _washed_ stones 
@@ -146,7 +146,7 @@ A|144| M: [i've] [not] [got] [washed]
 B|145| g: [well] _that's_ [okay] _just_ draw [round] [it] [and] [past it] 
 A|146| M: [right] 
 B|147| g: [yeah] 
-A|148| M: " !!!!!! ' !!! ' !! "" !! rem !! [okay] !! [there] !! " 
+A|148| M: " !!!!,!! ' !!! ' !! "" !! Rem !! [okay] !! [there] !! " 
 B|149| g: [and then] _the finish_ [is] _just_ ehm on [a] horizontal with [the] flagship near [to the] coast [about] [a] centimetre [away] from [the] coast 
 A|150| M: [okay] 
 B|151| g: [mmhmm] 
@@ -496,7 +496,7 @@ Turn ID=110| A | M : yeah
 Turn ID=111| B | g : well i want you to draw uh i've got pebbled shore and above that i've got coconut palm
 	Free: Pattern=well, Pattern=i've got, Pattern=and, Pattern=uh i've, Pattern=i want you, Pattern=to, Pattern=that
 	Constrained: Pattern=you, Pattern=i've, Pattern=i, Pattern=want you, Pattern=got
-Turn ID=112| A | M : " !!! remindme !! ember !! 2017 !! 2018 !! 2019 !! 2020 !! 2018 !! ' !! "" !!!!.!!?!! god !! there !! okay !! mm !! "
+Turn ID=112| A | M : " !!! Remindme !! EMBER !! 2017 !! 2018 !! 2019 !! 2020 !! 2018 !! ' !! "" !!,!!.!!?!! god !! there !! okay !! mm !! "
 	Free: Pattern=there, Pattern=mm, Pattern=okay
 	Constrained: 
 Turn ID=113| B | g : right so imagine you've got a tree there and i want you to draw between where that tree would be where the pebbled shore is so just keep drawing go make your line go down a bit right and just to come to above pebbled shore and just stop the end there and then ehm i don't suppose you've got finished marked on your map no right have you got anything below pebbled shore
@@ -580,7 +580,7 @@ Turn ID=138| A | M : right okay
 Turn ID=139| B | g : and then
 	Free: Pattern=and then
 	Constrained: Pattern=then, Pattern=and
-Turn ID=140| A | M : " !!! >] !! ' !!! ' !! "" !!!! 8 !! 4 !! 6 !! 7 !! "
+Turn ID=140| A | M : " !!! >] !! ' !!! ' !! "" !!,!! 8 !! 4 !! 6 !! 7 !! "
 	Free: 
 	Constrained: 
 Turn ID=141| B | g : well i want you to avoid that
@@ -604,7 +604,7 @@ Turn ID=146| A | M : right
 Turn ID=147| B | g : yeah
 	Free: Pattern=yeah
 	Constrained: 
-Turn ID=148| A | M : " !!!!!! ' !!! ' !! "" !! rem !! okay !! there !! "
+Turn ID=148| A | M : " !!!!,!! ' !!! ' !! "" !! Rem !! okay !! there !! "
 	Free: Pattern=there, Pattern=okay
 	Constrained: 
 Turn ID=149| B | g : and then the finish is just ehm on a horizontal with the flagship near to the coast about a centimetre away from the coast

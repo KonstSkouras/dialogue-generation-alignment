@@ -1,27 +1,27 @@
 A|0| M: _so_ _what_ _you're_ saying _is_ _that_ _the top_ _is_ _my_ house ? 
-B|1| g: _you turn left_ 
+B|1| g: _you_ _turn left_ 
 A|2| M: _so_ _i_ guess i'm _the_ only _one_ _that_ thinks this _is_ _a_ good idea 
 B|3| g: _then_ _left_ _again_ [so] [you're] _coming_ _down _the_ side of _the_ caravan_ park 
-A|4| M: [you turn left] _and then turn right_ _so you_ _get the_ train . 
+A|4| M: You [turn left] _and then turn right_ _so you_ _get the_ train . 
 B|5| g: _keep_ _going_ _down_ 
 A|6| M: _and then_ _the other_ way 
-B|7| g: _then [you_ turn left] _go_ 
+B|7| g: _then you_ [turn left] _go_ 
 A|8| M: _then turn right_ 
 B|9| g: [you're] _coming_ [you're] _coming back_ [you're] _coming_ _down _the_ map_ [so] [you're] turning [left] that's _into_ that's _into _the_ map_ 
 A|10| M: i'm [coming back] 
-B|11| g: _okay you_ _got_ [that] 
+B|11| g: _okay_ [you] _got_ [that] 
 A|12| M: yea _but_ [the] joke _is_ _that _you're_ going_ _to _the_ wrong_ way _up there_ 
 B|13| g: [you're _going] along_ [and] [you're] turning [left] _again_ 
-A|14| M: i'm [going along] with [you] 
+A|14| M: I'm [going along] with [you] 
 B|15| g: _okay_ 
 A|16| M: _it's_ _a_ bot 
 B|17| g: ah _out _the_ top of _the_ caravan_ park 
-A|18| M: _i don't know_ where _it_ _is_ _i_ _just_ _know_ [that] [the caravan] _is_ [out the] _front [of_ the] house 
+A|18| M: _i don't know_ where _it_ _is_ , _i_ _just_ _know_ [that] [the caravan] _is_ [out the] _front [of_ the] house 
 B|19| g: [then] [so] [you're] [coming] _down _the_ side of [the_ caravan] park 
 A|20| M: [left] _come_ _up [the_ side] 
 B|21| g: _not_ _not_ [to the] _if _you_ come_ _have _you_ come down_ _past [the_ caravan] park 
-A|22| M: _i _don't_ have a_ car 
-B|23| g: [you turn left] 
+A|22| M: I _don't have a_ car 
+B|23| g: [you] [turn left] 
 A|24| M: he walks [past the] door [and] gets _in_ 
 B|25| g: _no_ _come down_ [and] [turn left] 
 A|26| M: [you come [down] [the] caravan] 
@@ -36,22 +36,22 @@ A|34| M: _turn right_ _so you_ can't _get_ _in_
 B|35| g: _yeah_ 
 A|36| M: [you] _can_ [go] [into [the] caravan] [and] _go through the_ door _and then_ _go through_ _it again_ 
 B|37| g: [and] [left] _back up_ [into _the] map_ 
-A|38| M: [turn left] _then turn right_ 
-B|39| g: _be_ careful _for _the_ old mill_ _you'll_ _see_ [it] [it] _should_ _be on_ your right-hand [side] 
+A|38| M: [turn left] , _then turn right_ 
+B|39| g: _be_ careful _for _the_ old_ _mill_ _you'll_ _see_ [it] [it] _should_ _be on_ your right-hand [side] 
 A|40| M: _it's_ [on] _my_ [left] 
-B|41| g: _you _go_ up_ [past the] _the old mill_ keeping _the old mill_ [on] your right-hand [side] _okay you_ _got_ eh [you] _at _the_ old mill_ yet 
-A|42| M: i'm _in_ [the old mill] _now_ . 
-B|43| g: [right] [turn] round [the old] [turn] [to _the] right_ after [the old mill] 
-A|44| M: _i think_ [the] new [mill] has _a_ _better_ layout . 
-B|45| g: _yeah_ [to _the] right_ after [the old mill] 
+B|41| g: _you _go_ up_ [past the] _the old_ _mill_ keeping _the old_ _mill_ [on] your right-hand [side] _okay_ [you] _got_ eh [you] _at _the_ old_ _mill_ yet 
+A|42| M: I'm _in_ [the old] Mill _now_ . 
+B|43| g: [right] [turn] round [the old] [turn] [to _the] right_ after [the old] _mill_ 
+A|44| M: I _think_ [the] new [mill] has _a_ _better_ layout . 
+B|45| g: _yeah_ [to _the] right_ after [the old] [mill] 
 A|46| M: _you mean_ [the right] ? 
 B|47| g: that's [you] [going] across [to [the] other] _side of _the_ map_ 
-A|48| M: [okay you] _can_ [go] over [to the] [left] _and then_ [the other] way . 
+A|48| M: [okay] , [you] _can_ [go] over [to the] [left] _and then_ [the other] way . 
 B|49| g: _keep_ [going] 
-A|50| M: [left] [right] [left] [right] 
+A|50| M: [left] , [right] , [left] , [right] 
 B|51| g: [now] _you should_ [come] _to a_ fenced _meadow_ [on] your [right] 
 A|52| M: [you should] [go [to] a] [meadow] 
-B|53| g: well [you turn left] [so] [you're _going] [up_ _the] map_ [again] 
+B|53| g: well [you] [turn left] [so] [you're _going] [up_ _the] map_ [again] 
 A|54| M: [now] i'm [going up] 
 B|55| g: [up _the] map_ _you'll_ [then] [come] [to] an _abandoned_ _cottage_ [it] [should] _be on_ your left-hand [side] 
 A|56| M: i'm [not] sure where [it] _is_ 
@@ -63,24 +63,24 @@ B|61| g: [what]
 A|62| M: i'm [right] handed 
 B|63| g: [is] [there] 
 A|64| M: yea 
-B|65| g: [i think] [you're] [on [the] wrong] [one] 
+B|65| g: [i] [think] [you're] [on [the] wrong] [one] 
 A|66| M: [i] am 
 B|67| g: aye aye 
 A|68| M: [the map] has been drawn 
-B|69| g: _i see_ _you'll have _to_ [go_ through _the] forest_ [then] 
+B|69| g: [i] _see_ _you'll have _to_ [go_ through _the] forest_ [then] 
 A|70| M: [the map] [is] _in_ [a] tree 
 B|71| g: mm 
 A|72| M: yea im fine 
 B|73| g: [can] [you] manage [that] 
 A|74| M: [i] [can] arrange [it] [for] [you] [if _you] want_ 
 B|75| g: [right] [now] [you should] hopefully emerge _at _the_ cottage_ _yeah_ 
-A|76| M: [i] am sorry [i] am [going] [to] bed [now] 
+A|76| M: I am sorry I am [going] [to] bed [now] 
 B|77| g: [that] [should] [be on] your left-hand [side] 
-A|78| M: i've [got] _it [on_ the] [left] _i'll_ [see] [if] [i] [can] _get_ [a] pic [of _it] on_ _my_ [left] [side] 
-B|79| g: [okay _you] _go_ up_ round [the] uh _abandoned_ _cottage_ 
+A|78| M: i've [got] _it [on_ the] [left] , _i'll_ [see] [if] [i] [can] _get_ [a] pic [of _it] on_ _my_ [left] [side] 
+B|79| g: [okay] _you _go_ up_ round [the] uh _abandoned_ _cottage_ 
 A|80| M: ok _i'll_ [be on the] way 
 B|81| g: keeping [it] always [on] your [left] 
-A|82| M: what's [the] deal with [the] blue letters _on the map_ ? 
+A|82| M: What's [the] deal with [the] blue letters _on the map_ ? 
 B|83| g: _no_ your [left] 
 A|84| M: _oh_ [yeah] 
 B|85| g: [okay] [coming] round [you should] [see] [a] fenced [meadow] [in] [front of] [you] 
@@ -90,7 +90,7 @@ A|88| M: _oh_ [okay]
 B|89| g: there's _no_ 
 A|90| M: [there] [is] [no] 
 B|91| g: [you] [no] [got] two fenced meadows 
-A|92| M: [i] _have a_ [meadow] [and] [a] meow [meadow] 
+A|92| M: I _have a_ [meadow] [and] [a] meow [meadow] 
 B|93| g: well [what] _have you_ [got] instead _of a_ fenced [meadow] 
 A|94| M: _i don't_ 
 B|95| g: well you've [just] _told_ me about _the forest_ 
@@ -106,21 +106,21 @@ A|104| M: _oh_ [so] i'm [a hundred] [degrees]
 B|105| g: _cottage_ round _yes_ 
 A|106| M: _are you_ [coming] [up] [to] camp ? 
 B|107| g: [right] 
-A|108| M: [right] [i] am 
-B|109| g: _i'll keep_ [it] english 
-A|110| M: [i'll keep] this [one] . 
+A|108| M: [right] , [i] am 
+B|109| g: [i'll] _keep_ [it] english 
+A|110| M: I'll [keep] this [one] . 
 B|111| g: [okay] 
 A|112| M: [i] [can] _do_ [it] 
 B|113| g: _cottage_ 
-A|114| M: where [is] [it] ? 
+A|114| M: Where [is] [it] ? 
 B|115| g: [now] [you're [going] along] 
 A|116| M: [you] [can] [go along] 
-B|117| g: [and _then] [you_ turn] [up] [right] [again] [and you] [keep] [going] until [you] find [a] _lake_ 
-A|118| M: [you're] welcome . 
+B|117| g: [and _then] you_ [turn] [up] [right] [again] [and you] [keep] [going] until [you] find [a] _lake_ 
+A|118| M: You're welcome . 
 B|119| g: _what you mean_ [turn left] 
 A|120| M: [turn left] 
 B|121| g: [i] cannae [see] your hands fae here 
-A|122| M: [yes] [i] _do_ 
+A|122| M: [yes] , [i] _do_ 
 B|123| g: uh-huh [i] [know] 
 A|124| M: [you] can't 
 B|125| g: which _you [are_ you] heading towards your left-hand _edge_ [of [the] map] 
@@ -135,29 +135,29 @@ B|133| g: [okay] [you're]
 A|134| M: ayy euw 
 B|135| g: _abandoned_ _cottage_ [yes] [yes] 
 A|136| M: i'm [going] [to the abandoned] shack 
-B|137| g: [no] _i told you_ [to] [turn left] _around [the_ old] [abandoned] _cottage [you_ [turn] right] once [you] went round _the cottage_ 
-A|138| M: [i told you] i'd [go to [the] old] house [and] [go] [around [the] side of [the] old] [cottage [you] go] [around to [the] side] 
+B|137| g: [no] [i] _told you_ [to] [turn left] _around [the_ old] [abandoned] _cottage you_ [turn right] once [you] went round _the cottage_ 
+A|138| M: I [told you] I'd [go to [the] old] house [and] [go] [around [the] side of [the] old] [cottage [you] go] [around to [the] side] 
 B|139| g: aye [get the] tippex [out] 
-A|140| M: [i] love _how_ [you] [can] hear [the] sound [of a] man trying [to] hear his own [mind] . 
+A|140| M: I love _how_ [you] [can] hear [the] sound [of a] man trying [to] hear his own [mind] . 
 B|141| g: [right] you've [come] [through [the] forest] 
 A|142| M: [turn] [around] [and] [back up] 
 B|143| g: [you] [see] [the abandoned] [cottage] [in] [front of] [you] 
 A|144| M: he walks [past] [it] 
 B|145| g: [you _go] [up_ [the] map] [past [the] abandoned] [cottage] [turn left] 
-A|146| M: i'm gonna try [and] [get] [there] 
+A|146| M: I'm gonna try [and] [get] [there] 
 B|147| g: [left] [yes] 
 A|148| M: [left] ? 
 B|149| g: [so] [the abandoned] [cottage] [should] [now] [be] below [you] [on the map] 
-A|150| M: _it's_ [not] [in] [the map] anymore _it's_ [in] [the abandoned] cabin 
+A|150| M: _it's_ [not] [in] [the map] anymore , _it's_ [in] [the abandoned] cabin 
 B|151| g: [yes] 
 A|152| M: [you mean] [to the] [left] _of the abandoned_ creeper farm ? 
 B|153| g: [so you] _do that_ [again] 
 A|154| M: _we_ [can] [go] [back] 
-B|155| g: [you turn] round [to a] [abandoned] [cottage] [so] always keeping [it on] your left-hand [side] 
+B|155| g: [you] [turn] round [to a] [abandoned] [cottage] [so] always keeping [it on] your left-hand [side] 
 A|156| M: [what] _do [you_ mean] ? 
-B|157| g: [okay you] [got] [that] much 
-A|158| M: [i] [have] [the] green [one] [i] [can] [do] this [for] [you] . 
-B|159| g: [now] [you turn] [to] your [right] [should] [be] taking [you] towards [the edge] [of _the] paper_ away from [the abandoned] [cottage] 
+B|157| g: [okay] [you] [got] [that] much 
+A|158| M: [i] [have] [the] green [one] , [i] [can] [do] this [for] [you] . 
+B|159| g: [now] [you] [turn] [to] your [right] [should] [be] taking [you] towards [the edge] [of _the] paper_ away from [the abandoned] [cottage] 
 A|160| M: [yes] [i] [do] 
 B|161| g: [no] [it's] [no] _how many_ sides [of the abandoned] [cottage] _have you_ [past] 
 A|162| M: [so] [how many] times [have you] [done] this 
@@ -168,18 +168,18 @@ A|166| M: [you mean] [you] haven't [passed] [it] ?
 B|167| g: aye 
 A|168| M: [is] this [the cottage] ? 
 B|169| g: [oh] _three hundred_ _sixty_ 
-A|170| M: [you're] [wrong] [it's] [three [hundred] and] [sixty] 
+A|170| M: You're [wrong] , [it's] [three [hundred] and] [sixty] 
 B|171| g: ah _yeah back [down_ _the] paper_ 
 A|172| M: [yeah back down] 
 B|173| g: [turn right] [now] [okay] [do _you] have a_ fenced [meadow] 
 A|174| M: [turn left] [now] 
 B|175| g: [no] that's [right] [okay] [now] [we] [turn right] [again] [okay] [and [you] _go] [up_ [the] map] [you should] [come] [to a] _lake_ 
 A|176| M: [oh] [okay] 
-B|177| g: [okay you] [got] _the lake_ 
-A|178| M: [i] [can] help [you] with [that] 
+B|177| g: [okay] [you] [got] _the lake_ 
+A|178| M: I [can] help [you] with [that] 
 B|179| g: you've [got] [a] _lake_ [now] [you] skirt [around the] inside _side of the lake_ that's _side of the lake_ [that] [is] nearest [to the] middle [of [the] map] 
 A|180| M: ok [i'll] [do that] [then] 
-B|181| g: [okay [you] should] [see] [a] trig point [do you] [see] 
+B|181| g: [okay] [you should] [see] [a] trig point [do you] [see] 
 A|182| M: [the lake] 
 B|183| g: _you [don't_ have a] trig point 
 A|184| M: _i don't_ understand [what you mean] 
@@ -190,9 +190,9 @@ A|188| M: i'm gonna [be on the] opposite [side of the lake]
 B|189| g: [turn right] [now] [go] diagonally [down] towards [the] [not] _a steep_ diagonal towards [the] middle 
 A|190| M: [you mean] [a steep] slope ? 
 B|191| g: [edge] [of [the] map] 
-A|192| M: ugh [i] hate [the] way [the map] [is] made . 
+A|192| M: Ugh , I hate [the] way [the map] [is] made . 
 B|193| g: [okay] [now] [should] [come] [to a] [do [you] have _a] monument_ 
-A|194| M: [i] [can] build [a monument] [to] [you] 
+A|194| M: I [can] build [a monument] [to] [you] 
 B|195| g: [go] round [the] [monument] keeping [the] [monument] always [on] your [left] 
 A|196| M: [how] [do you] [get the] statue ? 
 B|197| g: [yes] 
@@ -201,18 +201,18 @@ B|199| g: _go up_ [past the] [monument]
 A|200| M: [you're] [not] allowed [to [go] up] 
 B|201| g: [no] [just] [up] [so] [that you're] [you're] [coming] away from [it] [up] towards [the top of _the] paper_ 
 A|202| M: [do you] [just] roll [around] [on [the] paper] [and] pray [for the] best ? 
-B|203| g: [okay you] [keep] [going [up] there] 
-A|204| M: ok [i'll] [be] [there] 
+B|203| g: [okay] [you] [keep] [going [up] there] 
+A|204| M: ok , I'll [be] [there] 
 B|205| g: [now] [do you] [see] [a] nuclear test site 
-A|206| M: huh [yeah] [i] guess [i] [can] . 
+A|206| M: huh , [yeah] I guess I [can] . 
 B|207| g: [okay] [keep] [going] 'til [you] find [a] [lake] 
 A|208| M: [no] im pretty sure [i] am 
 B|209| g: [okay] 
 A|210| M: ok alright alright 
-B|211| g: [now] [you turn left] towards [the] middle [of the] page 
+B|211| g: [now] [you] [turn left] towards [the] middle [of the] page 
 A|212| M: [now] [it's] [at [the] bottom of the] screen 
 B|213| g: [and [you] should] _finish just_ [past the] [the lake] 
-A|214| M: [i'll] [finish] [the] first thing [i see] [in] [the map] [but] [you'll have to] [finish] [the] second thing first 
+A|214| M: I'll [finish] [the] first thing I [see] [in] [the map] , [but] [you'll have to] [finish] [the] second thing first 
 B|215| g: [yes] 
 A|216| M: [do _you] want to_ [finish just] before [the lake] ? 
 B|217| g: [okay] [and] that's [you] 
@@ -228,26 +228,26 @@ Turn ID=0| A | M : so what you're saying is that the top is my house ?
 	Free: Pattern=you're, Pattern=what, Pattern=is, Pattern=the top, Pattern=my, Pattern=that, Pattern=so
 	Constrained: Pattern=the
 Turn ID=1| B | g : you turn left
-	Free: Pattern=you turn left
-	Constrained: Pattern=you, Pattern=left, Pattern=turn, Pattern=you turn, Pattern=turn left
+	Free: Pattern=turn left, Pattern=you
+	Constrained: Pattern=turn, Pattern=left
 Turn ID=2| A | M : so i guess i'm the only one that thinks this is a good idea
 	Free: Pattern=a, Pattern=one, Pattern=the, Pattern=that, Pattern=so, Pattern=is, Pattern=i
 	Constrained: 
 Turn ID=3| B | g : then left again so you're coming down the side of the caravan park
 	Free: Pattern=you're, Pattern=coming, Pattern=then, Pattern=down the, Pattern=left, Pattern=again, Pattern=the side of the, Pattern=the caravan, Pattern=so
 	Constrained: Pattern=of, Pattern=side of the, Pattern=down, Pattern=side, Pattern=the side, Pattern=the, Pattern=side of, Pattern=of the
-Turn ID=4| A | M : you turn left and then turn right so you get the train .
-	Free: Pattern=and then turn right, Pattern=you turn left, Pattern=so you, Pattern=get the
-	Constrained: Pattern=then turn right, Pattern=right, Pattern=turn right, Pattern=you, Pattern=then, Pattern=and, Pattern=and then, Pattern=left, Pattern=then turn, Pattern=the, Pattern=turn, Pattern=you turn, Pattern=get, Pattern=turn left, Pattern=so
+Turn ID=4| A | M : You turn left and then turn right so you get the train .
+	Free: Pattern=and then turn right, Pattern=turn left, Pattern=so you, Pattern=get the
+	Constrained: Pattern=then turn right, Pattern=right, Pattern=turn right, Pattern=you, Pattern=then, Pattern=and, Pattern=and then, Pattern=left, Pattern=then turn, Pattern=the, Pattern=turn, Pattern=get, Pattern=so
 Turn ID=5| B | g : keep going down
-	Free: Pattern=keep, Pattern=down, Pattern=going
+	Free: Pattern=down, Pattern=going, Pattern=keep
 	Constrained: 
 Turn ID=6| A | M : and then the other way
 	Free: Pattern=and then, Pattern=the other
-	Constrained: Pattern=the, Pattern=and, Pattern=then
+	Constrained: Pattern=the, Pattern=then, Pattern=and
 Turn ID=7| B | g : then you turn left go
-	Free: Pattern=you turn left, Pattern=then you, Pattern=go
-	Constrained: Pattern=you, Pattern=then, Pattern=left, Pattern=turn, Pattern=you turn, Pattern=turn left
+	Free: Pattern=turn left, Pattern=then you, Pattern=go
+	Constrained: Pattern=turn, Pattern=left, Pattern=then, Pattern=you
 Turn ID=8| A | M : then turn right
 	Free: Pattern=then turn right
 	Constrained: Pattern=right, Pattern=turn right, Pattern=then, Pattern=then turn, Pattern=turn
@@ -256,66 +256,66 @@ Turn ID=9| B | g : you're coming you're coming back you're coming down the map s
 	Constrained: Pattern=down, Pattern=back, Pattern=the, Pattern=coming, Pattern=into
 Turn ID=10| A | M : i'm coming back
 	Free: Pattern=coming back
-	Constrained: Pattern=coming, Pattern=back
+	Constrained: Pattern=back, Pattern=coming
 Turn ID=11| B | g : okay you got that
-	Free: Pattern=okay you, Pattern=got, Pattern=that
-	Constrained: Pattern=you, Pattern=okay
+	Free: Pattern=got, Pattern=that, Pattern=okay, Pattern=you
+	Constrained: 
 Turn ID=12| A | M : yea but the joke is that you're going to the wrong way up there
 	Free: Pattern=the wrong, Pattern=to the, Pattern=is, Pattern=the, Pattern=up there, Pattern=you're going, Pattern=that you're, Pattern=but
 	Constrained: Pattern=you're, Pattern=going, Pattern=there, Pattern=wrong, Pattern=the, Pattern=that, Pattern=up, Pattern=to
 Turn ID=13| B | g : you're going along and you're turning left again
 	Free: Pattern=you're, Pattern=and, Pattern=left, Pattern=again, Pattern=going along, Pattern=you're going
-	Constrained: Pattern=you're, Pattern=going
-Turn ID=14| A | M : i'm going along with you
+	Constrained: Pattern=going, Pattern=you're
+Turn ID=14| A | M : I'm going along with you
 	Free: Pattern=going along, Pattern=you
 	Constrained: Pattern=going
 Turn ID=15| B | g : okay
 	Free: Pattern=okay
 	Constrained: 
 Turn ID=16| A | M : it's a bot
-	Free: Pattern=it's, Pattern=a
+	Free: Pattern=a, Pattern=it's
 	Constrained: 
 Turn ID=17| B | g : ah out the top of the caravan park
 	Free: Pattern=the top of the, Pattern=the caravan, Pattern=out the
 	Constrained: Pattern=of, Pattern=out, Pattern=the, Pattern=the top, Pattern=top of, Pattern=of the
-Turn ID=18| A | M : i don't know where it is i just know that the caravan is out the front of the house
+Turn ID=18| A | M : i don't know where it is , i just know that the caravan is out the front of the house
 	Free: Pattern=just, Pattern=it, Pattern=i don't know, Pattern=front of, Pattern=the caravan, Pattern=out the, Pattern=know, Pattern=is, Pattern=i, Pattern=of the, Pattern=that
 	Constrained: Pattern=of, Pattern=out, Pattern=i don't, Pattern=know, Pattern=i, Pattern=the
 Turn ID=19| B | g : then so you're coming down the side of the caravan park
 	Free: Pattern=you're, Pattern=coming, Pattern=then, Pattern=down the, Pattern=the side of the, Pattern=the caravan, Pattern=so
 	Constrained: Pattern=of, Pattern=side of the, Pattern=down, Pattern=side, Pattern=the side, Pattern=the, Pattern=side of, Pattern=of the
 Turn ID=20| A | M : left come up the side
-	Free: Pattern=the side, Pattern=up the, Pattern=come, Pattern=left
-	Constrained: Pattern=the, Pattern=side, Pattern=up
+	Free: Pattern=up the, Pattern=the side, Pattern=come, Pattern=left
+	Constrained: Pattern=side, Pattern=the, Pattern=up
 Turn ID=21| B | g : not not to the if you come have you come down past the caravan park
 	Free: Pattern=you come down, Pattern=you come, Pattern=to the, Pattern=if you, Pattern=have you, Pattern=past the, Pattern=the caravan, Pattern=not
 	Constrained: Pattern=you, Pattern=have, Pattern=you come, Pattern=if, Pattern=the, Pattern=come down, Pattern=to, Pattern=past, Pattern=come, Pattern=down
-Turn ID=22| A | M : i don't have a car
-	Free: Pattern=don't have a, Pattern=i don't
-	Constrained: Pattern=have, Pattern=a, Pattern=have a, Pattern=i
+Turn ID=22| A | M : I don't have a car
+	Free: Pattern=don't have a
+	Constrained: Pattern=have a, Pattern=a, Pattern=have
 Turn ID=23| B | g : you turn left
-	Free: Pattern=you turn left
-	Constrained: Pattern=you, Pattern=left, Pattern=turn, Pattern=you turn, Pattern=turn left
+	Free: Pattern=turn left, Pattern=you
+	Constrained: Pattern=turn, Pattern=left
 Turn ID=24| A | M : he walks past the door and gets in
 	Free: Pattern=past the, Pattern=in, Pattern=and
 	Constrained: Pattern=past, Pattern=the
 Turn ID=25| B | g : no come down and turn left
 	Free: Pattern=turn left, Pattern=come down, Pattern=and, Pattern=no
-	Constrained: Pattern=down, Pattern=come, Pattern=left, Pattern=turn
+	Constrained: Pattern=down, Pattern=come, Pattern=turn, Pattern=left
 Turn ID=26| A | M : you come down the caravan
 	Free: Pattern=you come down, Pattern=the caravan, Pattern=down the
 	Constrained: Pattern=you, Pattern=you come, Pattern=the, Pattern=come down, Pattern=come, Pattern=down
 Turn ID=27| B | g : then you go along
-	Free: Pattern=you go, Pattern=then you, Pattern=go along
-	Constrained: Pattern=you, Pattern=go, Pattern=then
+	Free: Pattern=then you, Pattern=go along, Pattern=you go
+	Constrained: Pattern=then, Pattern=go, Pattern=you
 Turn ID=28| A | M : then turn left !
 	Free: Pattern=turn left, Pattern=then turn
-	Constrained: Pattern=then, Pattern=left, Pattern=turn
+	Constrained: Pattern=turn, Pattern=left, Pattern=then
 Turn ID=29| B | g : turn left again
 	Free: Pattern=turn left, Pattern=again
-	Constrained: Pattern=left, Pattern=turn
+	Constrained: Pattern=turn, Pattern=left
 Turn ID=30| A | M : the left one
-	Free: Pattern=one, Pattern=the, Pattern=left
+	Free: Pattern=one, Pattern=left, Pattern=the
 	Constrained: 
 Turn ID=31| B | g : no you don't go to the bottom of the map
 	Free: Pattern=the bottom of the, Pattern=no, Pattern=the map, Pattern=you don't, Pattern=go to the
@@ -327,8 +327,8 @@ Turn ID=33| B | g : turn left so that's two turns left after you come out the ca
 	Free: Pattern=you come, Pattern=the caravan, Pattern=turn left, Pattern=so, Pattern=out the, Pattern=left
 	Constrained: Pattern=come, Pattern=left, Pattern=the, Pattern=turn, Pattern=you, Pattern=out
 Turn ID=34| A | M : turn right so you can't get in
-	Free: Pattern=turn right, Pattern=so you, Pattern=get, Pattern=in
-	Constrained: Pattern=you, Pattern=right, Pattern=so, Pattern=turn
+	Free: Pattern=turn right, Pattern=so you, Pattern=in, Pattern=get
+	Constrained: Pattern=right, Pattern=so, Pattern=turn, Pattern=you
 Turn ID=35| B | g : yeah
 	Free: Pattern=yeah
 	Constrained: 
@@ -338,54 +338,54 @@ Turn ID=36| A | M : you can go into the caravan and go through the door and then
 Turn ID=37| B | g : and left back up into the map
 	Free: Pattern=back up, Pattern=and, Pattern=into the, Pattern=the map, Pattern=left
 	Constrained: Pattern=up, Pattern=back, Pattern=into, Pattern=the
-Turn ID=38| A | M : turn left then turn right
+Turn ID=38| A | M : turn left , then turn right
 	Free: Pattern=then turn right, Pattern=turn left
 	Constrained: Pattern=right, Pattern=turn right, Pattern=then, Pattern=left, Pattern=then turn, Pattern=turn
 Turn ID=39| B | g : be careful for the old mill you'll see it it should be on your right-hand side
-	Free: Pattern=be on, Pattern=for the, Pattern=should, Pattern=it, Pattern=the old mill, Pattern=be, Pattern=see, Pattern=side, Pattern=you'll
-	Constrained: Pattern=the old, Pattern=for, Pattern=mill, Pattern=be, Pattern=on, Pattern=the
+	Free: Pattern=for the, Pattern=should, Pattern=it, Pattern=mill, Pattern=be, Pattern=see, Pattern=the old, Pattern=be on, Pattern=side, Pattern=you'll
+	Constrained: Pattern=for, Pattern=on, Pattern=be, Pattern=the
 Turn ID=40| A | M : it's on my left
-	Free: Pattern=it's, Pattern=my, Pattern=on, Pattern=left
+	Free: Pattern=on, Pattern=it's, Pattern=left, Pattern=my
 	Constrained: 
 Turn ID=41| B | g : you go up past the the old mill keeping the old mill on your right-hand side okay you got eh you at the old mill yet
-	Free: Pattern=you, Pattern=okay you, Pattern=go up, Pattern=you go, Pattern=at the, Pattern=the old mill, Pattern=side, Pattern=on, Pattern=got, Pattern=past the
-	Constrained: Pattern=the old, Pattern=you, Pattern=go, Pattern=mill, Pattern=at, Pattern=the, Pattern=up, Pattern=past, Pattern=okay
-Turn ID=42| A | M : i'm in the old mill now .
-	Free: Pattern=the old mill, Pattern=in, Pattern=now
-	Constrained: Pattern=mill, Pattern=the, Pattern=the old
+	Free: Pattern=the old, Pattern=you, Pattern=go up, Pattern=you go, Pattern=side, Pattern=on, Pattern=got, Pattern=past the, Pattern=okay, Pattern=mill, Pattern=at the
+	Constrained: Pattern=you, Pattern=go, Pattern=at, Pattern=the, Pattern=up, Pattern=past
+Turn ID=42| A | M : I'm in the old Mill now .
+	Free: Pattern=the old, Pattern=in, Pattern=now
+	Constrained: Pattern=the
 Turn ID=43| B | g : right turn round the old turn to the right after the old mill
-	Free: Pattern=right, Pattern=the old, Pattern=to the, Pattern=the old mill, Pattern=the right, Pattern=turn
-	Constrained: Pattern=right, Pattern=the old, Pattern=mill, Pattern=the, Pattern=to
-Turn ID=44| A | M : i think the new mill has a better layout .
-	Free: Pattern=a, Pattern=mill, Pattern=better, Pattern=the, Pattern=i think
-	Constrained: Pattern=i
+	Free: Pattern=right, Pattern=the old, Pattern=to the, Pattern=mill, Pattern=the right, Pattern=turn
+	Constrained: Pattern=right, Pattern=to, Pattern=the
+Turn ID=44| A | M : I think the new mill has a better layout .
+	Free: Pattern=a, Pattern=mill, Pattern=think, Pattern=better, Pattern=the
+	Constrained: 
 Turn ID=45| B | g : yeah to the right after the old mill
-	Free: Pattern=the old mill, Pattern=the right, Pattern=to the, Pattern=yeah
-	Constrained: Pattern=right, Pattern=the old, Pattern=mill, Pattern=the, Pattern=to
+	Free: Pattern=the old, Pattern=to the, Pattern=yeah, Pattern=mill, Pattern=the right
+	Constrained: Pattern=right, Pattern=to, Pattern=the
 Turn ID=46| A | M : you mean the right ?
-	Free: Pattern=the right, Pattern=you mean
-	Constrained: Pattern=you, Pattern=right, Pattern=the
+	Free: Pattern=you mean, Pattern=the right
+	Constrained: Pattern=right, Pattern=the, Pattern=you
 Turn ID=47| B | g : that's you going across to the other side of the map
 	Free: Pattern=you, Pattern=to the, Pattern=the map, Pattern=the other, Pattern=going, Pattern=side of the
 	Constrained: Pattern=of, Pattern=side, Pattern=the, Pattern=to, Pattern=side of, Pattern=of the
-Turn ID=48| A | M : okay you can go over to the left and then the other way .
-	Free: Pattern=to the, Pattern=the other, Pattern=left, Pattern=go, Pattern=okay you, Pattern=can, Pattern=and then
-	Constrained: Pattern=you, Pattern=then, Pattern=and, Pattern=the, Pattern=to, Pattern=okay
+Turn ID=48| A | M : okay , you can go over to the left and then the other way .
+	Free: Pattern=you, Pattern=go, Pattern=to the, Pattern=the other, Pattern=left, Pattern=okay, Pattern=can, Pattern=and then
+	Constrained: Pattern=to, Pattern=then, Pattern=the, Pattern=and
 Turn ID=49| B | g : keep going
-	Free: Pattern=keep, Pattern=going
+	Free: Pattern=going, Pattern=keep
 	Constrained: 
-Turn ID=50| A | M : left right left right
+Turn ID=50| A | M : left , right , left , right
 	Free: Pattern=right, Pattern=left
 	Constrained: 
 Turn ID=51| B | g : now you should come to a fenced meadow on your right
 	Free: Pattern=right, Pattern=to a, Pattern=come, Pattern=you should, Pattern=on, Pattern=meadow, Pattern=now
-	Constrained: Pattern=you, Pattern=a, Pattern=should, Pattern=to
+	Constrained: Pattern=should, Pattern=a, Pattern=to, Pattern=you
 Turn ID=52| A | M : you should go to a meadow
-	Free: Pattern=to a, Pattern=you should, Pattern=go to, Pattern=meadow
+	Free: Pattern=you should, Pattern=to a, Pattern=go to, Pattern=meadow
 	Constrained: Pattern=you, Pattern=go, Pattern=should, Pattern=a, Pattern=to
 Turn ID=53| B | g : well you turn left so you're going up the map again
-	Free: Pattern=going up, Pattern=the map, Pattern=you turn left, Pattern=again, Pattern=up the, Pattern=so, Pattern=you're going
-	Constrained: Pattern=you're, Pattern=you, Pattern=going, Pattern=left, Pattern=the, Pattern=you turn, Pattern=turn left, Pattern=turn, Pattern=up
+	Free: Pattern=going up, Pattern=you, Pattern=the map, Pattern=again, Pattern=so, Pattern=you're going, Pattern=turn left, Pattern=up the
+	Constrained: Pattern=you're, Pattern=going, Pattern=left, Pattern=the, Pattern=turn, Pattern=up
 Turn ID=54| A | M : now i'm going up
 	Free: Pattern=going up, Pattern=now
 	Constrained: Pattern=going, Pattern=up
@@ -399,10 +399,10 @@ Turn ID=57| B | g : well never mind you should be on the left-hand side of it bu
 	Free: Pattern=be on, Pattern=mind, Pattern=should, Pattern=be on the, Pattern=side, Pattern=of it, Pattern=it, Pattern=you should, Pattern=side of, Pattern=but
 	Constrained: Pattern=of, Pattern=be on, Pattern=you, Pattern=should, Pattern=it, Pattern=side, Pattern=be, Pattern=on the, Pattern=on, Pattern=the
 Turn ID=58| A | M : oh i'm on the right side
-	Free: Pattern=the right, Pattern=on the, Pattern=side, Pattern=oh
-	Constrained: Pattern=right, Pattern=the, Pattern=on
+	Free: Pattern=on the, Pattern=the right, Pattern=side, Pattern=oh
+	Constrained: Pattern=right, Pattern=on, Pattern=the
 Turn ID=59| B | g : is there
-	Free: Pattern=is, Pattern=there
+	Free: Pattern=there, Pattern=is
 	Constrained: 
 Turn ID=60| A | M : just be on top of it
 	Free: Pattern=of it, Pattern=top of, Pattern=be on, Pattern=just
@@ -414,14 +414,14 @@ Turn ID=62| A | M : i'm right handed
 	Free: Pattern=right
 	Constrained: 
 Turn ID=63| B | g : is there
-	Free: Pattern=is, Pattern=there
+	Free: Pattern=there, Pattern=is
 	Constrained: 
 Turn ID=64| A | M : yea
 	Free: 
 	Constrained: 
 Turn ID=65| B | g : i think you're on the wrong one
-	Free: Pattern=you're, Pattern=the wrong, Pattern=one, Pattern=on the, Pattern=i think
-	Constrained: Pattern=wrong, Pattern=i, Pattern=on, Pattern=the
+	Free: Pattern=you're, Pattern=the wrong, Pattern=one, Pattern=think, Pattern=i, Pattern=on the
+	Constrained: Pattern=on, Pattern=wrong, Pattern=the
 Turn ID=66| A | M : i am
 	Free: Pattern=i
 	Constrained: 
@@ -432,8 +432,8 @@ Turn ID=68| A | M : the map has been drawn
 	Free: Pattern=the map
 	Constrained: Pattern=the
 Turn ID=69| B | g : i see you'll have to go through the forest then
-	Free: Pattern=i see, Pattern=then, Pattern=go through the, Pattern=to go, Pattern=you'll have to, Pattern=the forest
-	Constrained: Pattern=go, Pattern=go through, Pattern=you'll, Pattern=i, Pattern=the, Pattern=to, Pattern=through the, Pattern=have, Pattern=see, Pattern=have to
+	Free: Pattern=then, Pattern=go through the, Pattern=i, Pattern=see, Pattern=to go, Pattern=you'll have to, Pattern=the forest
+	Constrained: Pattern=go, Pattern=go through, Pattern=you'll, Pattern=the, Pattern=have to, Pattern=to, Pattern=through the, Pattern=have
 Turn ID=70| A | M : the map is in a tree
 	Free: Pattern=the map, Pattern=a, Pattern=in, Pattern=is
 	Constrained: Pattern=the
@@ -444,82 +444,82 @@ Turn ID=72| A | M : yea im fine
 	Free: 
 	Constrained: 
 Turn ID=73| B | g : can you manage that
-	Free: Pattern=you, Pattern=can, Pattern=that
+	Free: Pattern=can, Pattern=that, Pattern=you
 	Constrained: 
 Turn ID=74| A | M : i can arrange it for you if you want
 	Free: Pattern=you, Pattern=for, Pattern=it, Pattern=can, Pattern=if you, Pattern=i, Pattern=you want
-	Constrained: Pattern=you, Pattern=if
+	Constrained: Pattern=if, Pattern=you
 Turn ID=75| B | g : right now you should hopefully emerge at the cottage yeah
 	Free: Pattern=at the, Pattern=now, Pattern=right, Pattern=the cottage, Pattern=yeah, Pattern=you should
 	Constrained: Pattern=you, Pattern=should, Pattern=at, Pattern=cottage, Pattern=the
-Turn ID=76| A | M : i am sorry i am going to bed now
-	Free: Pattern=to, Pattern=now, Pattern=i, Pattern=going
+Turn ID=76| A | M : I am sorry I am going to bed now
+	Free: Pattern=to, Pattern=going, Pattern=now
 	Constrained: 
 Turn ID=77| B | g : that should be on your left-hand side
 	Free: Pattern=be on, Pattern=should, Pattern=side, Pattern=that
-	Constrained: Pattern=be, Pattern=on
-Turn ID=78| A | M : i've got it on the left i'll see if i can get a pic of it on my left side
+	Constrained: Pattern=on, Pattern=be
+Turn ID=78| A | M : i've got it on the left , i'll see if i can get a pic of it on my left side
 	Free: Pattern=a, Pattern=i'll, Pattern=if, Pattern=can, Pattern=i, Pattern=see, Pattern=got, Pattern=it on, Pattern=left, Pattern=side, Pattern=on the, Pattern=of it, Pattern=get, Pattern=my
-	Constrained: Pattern=it, Pattern=the, Pattern=on, Pattern=of
+	Constrained: Pattern=on, Pattern=the, Pattern=it, Pattern=of
 Turn ID=79| B | g : okay you go up round the uh abandoned cottage
-	Free: Pattern=okay you, Pattern=go up, Pattern=you go, Pattern=cottage, Pattern=the, Pattern=abandoned
-	Constrained: Pattern=you, Pattern=go, Pattern=okay, Pattern=up
+	Free: Pattern=go up, Pattern=you go, Pattern=cottage, Pattern=the, Pattern=abandoned, Pattern=okay
+	Constrained: Pattern=go, Pattern=you, Pattern=up
 Turn ID=80| A | M : ok i'll be on the way
 	Free: Pattern=be on the, Pattern=i'll
 	Constrained: Pattern=be on, Pattern=be, Pattern=on the, Pattern=on, Pattern=the
 Turn ID=81| B | g : keeping it always on your left
-	Free: Pattern=it, Pattern=on, Pattern=left
+	Free: Pattern=on, Pattern=left, Pattern=it
 	Constrained: 
-Turn ID=82| A | M : what's the deal with the blue letters on the map ?
+Turn ID=82| A | M : What's the deal with the blue letters on the map ?
 	Free: Pattern=on the map, Pattern=the
 	Constrained: Pattern=on, Pattern=the map, Pattern=on the, Pattern=the
 Turn ID=83| B | g : no your left
-	Free: Pattern=no, Pattern=left
+	Free: Pattern=left, Pattern=no
 	Constrained: 
 Turn ID=84| A | M : oh yeah
 	Free: Pattern=yeah, Pattern=oh
 	Constrained: 
 Turn ID=85| B | g : okay coming round you should see a fenced meadow in front of you
 	Free: Pattern=you, Pattern=coming, Pattern=a, Pattern=you should, Pattern=in, Pattern=front of, Pattern=okay, Pattern=see, Pattern=meadow
-	Constrained: Pattern=you, Pattern=should, Pattern=of
+	Constrained: Pattern=should, Pattern=you, Pattern=of
 Turn ID=86| A | M : i am in the room
-	Free: Pattern=in, Pattern=the, Pattern=i
+	Free: Pattern=i, Pattern=the, Pattern=in
 	Constrained: 
 Turn ID=87| B | g : yes
 	Free: Pattern=yes
 	Constrained: 
 Turn ID=88| A | M : oh okay
-	Free: Pattern=okay, Pattern=oh
+	Free: Pattern=oh, Pattern=okay
 	Constrained: 
 Turn ID=89| B | g : there's no
 	Free: Pattern=no
 	Constrained: 
 Turn ID=90| A | M : there is no
-	Free: Pattern=is, Pattern=no, Pattern=there
+	Free: Pattern=there, Pattern=no, Pattern=is
 	Constrained: 
 Turn ID=91| B | g : you no got two fenced meadows
-	Free: Pattern=you, Pattern=got, Pattern=no
+	Free: Pattern=got, Pattern=no, Pattern=you
 	Constrained: 
-Turn ID=92| A | M : i have a meadow and a meow meadow
-	Free: Pattern=have a, Pattern=a, Pattern=and, Pattern=i, Pattern=meadow
+Turn ID=92| A | M : I have a meadow and a meow meadow
+	Free: Pattern=have a, Pattern=a, Pattern=and, Pattern=meadow
 	Constrained: Pattern=a, Pattern=have
 Turn ID=93| B | g : well what have you got instead of a fenced meadow
 	Free: Pattern=what, Pattern=have you, Pattern=of a, Pattern=meadow, Pattern=got
-	Constrained: Pattern=you, Pattern=a, Pattern=have, Pattern=of
+	Constrained: Pattern=a, Pattern=have, Pattern=you, Pattern=of
 Turn ID=94| A | M : i don't
 	Free: Pattern=i don't
 	Constrained: Pattern=i
 Turn ID=95| B | g : well you've just told me about the forest
-	Free: Pattern=the forest, Pattern=just, Pattern=told
+	Free: Pattern=the forest, Pattern=told, Pattern=just
 	Constrained: Pattern=the
 Turn ID=96| A | M : i dont know
-	Free: Pattern=know, Pattern=i
+	Free: Pattern=i, Pattern=know
 	Constrained: 
 Turn ID=97| B | g : yes
 	Free: Pattern=yes
 	Constrained: 
 Turn ID=98| A | M : you know the forest ?
-	Free: Pattern=the forest, Pattern=you, Pattern=know
+	Free: Pattern=the forest, Pattern=know, Pattern=you
 	Constrained: Pattern=the
 Turn ID=99| B | g : aye
 	Free: 
@@ -537,10 +537,10 @@ Turn ID=103| B | g : you should be round a hundred and eighty degrees around to 
 	Free: Pattern=you, Pattern=what, Pattern=to the abandoned, Pattern=you should, Pattern=degrees, Pattern=cottage, Pattern=is, Pattern=around to the, Pattern=be, Pattern=done, Pattern=so, Pattern=a hundred, Pattern=and then turn right, Pattern=hundred and, Pattern=okay
 	Constrained: Pattern=then turn right, Pattern=turn right, Pattern=you, Pattern=should, Pattern=and, Pattern=and then, Pattern=then turn, Pattern=the, Pattern=abandoned, Pattern=right, Pattern=the abandoned, Pattern=then, Pattern=a, Pattern=around, Pattern=to the, Pattern=turn, Pattern=to
 Turn ID=104| A | M : oh so i'm a hundred degrees
-	Free: Pattern=a hundred, Pattern=so, Pattern=oh, Pattern=degrees
+	Free: Pattern=a hundred, Pattern=so, Pattern=degrees, Pattern=oh
 	Constrained: Pattern=a
 Turn ID=105| B | g : cottage round yes
-	Free: Pattern=yes, Pattern=cottage
+	Free: Pattern=cottage, Pattern=yes
 	Constrained: 
 Turn ID=106| A | M : are you coming up to camp ?
 	Free: Pattern=are you, Pattern=to, Pattern=coming, Pattern=up
@@ -548,53 +548,53 @@ Turn ID=106| A | M : are you coming up to camp ?
 Turn ID=107| B | g : right
 	Free: Pattern=right
 	Constrained: 
-Turn ID=108| A | M : right i am
+Turn ID=108| A | M : right , i am
 	Free: Pattern=right, Pattern=i
 	Constrained: 
 Turn ID=109| B | g : i'll keep it english
-	Free: Pattern=i'll keep, Pattern=it
-	Constrained: Pattern=keep, Pattern=i'll
-Turn ID=110| A | M : i'll keep this one .
-	Free: Pattern=i'll keep, Pattern=one
-	Constrained: Pattern=keep, Pattern=i'll
+	Free: Pattern=keep, Pattern=i'll, Pattern=it
+	Constrained: 
+Turn ID=110| A | M : I'll keep this one .
+	Free: Pattern=one, Pattern=keep
+	Constrained: 
 Turn ID=111| B | g : okay
 	Free: Pattern=okay
 	Constrained: 
 Turn ID=112| A | M : i can do it
-	Free: Pattern=can, Pattern=it, Pattern=do, Pattern=i
+	Free: Pattern=i, Pattern=can, Pattern=do, Pattern=it
 	Constrained: 
 Turn ID=113| B | g : cottage
 	Free: Pattern=cottage
 	Constrained: 
-Turn ID=114| A | M : where is it ?
+Turn ID=114| A | M : Where is it ?
 	Free: Pattern=it, Pattern=is
 	Constrained: 
 Turn ID=115| B | g : now you're going along
 	Free: Pattern=going along, Pattern=you're going, Pattern=now
-	Constrained: Pattern=you're, Pattern=going
+	Constrained: Pattern=going, Pattern=you're
 Turn ID=116| A | M : you can go along
-	Free: Pattern=go along, Pattern=you, Pattern=can
+	Free: Pattern=go along, Pattern=can, Pattern=you
 	Constrained: Pattern=go
 Turn ID=117| B | g : and then you turn up right again and you keep going until you find a lake
-	Free: Pattern=right, Pattern=you, Pattern=going, Pattern=a, Pattern=keep, Pattern=and then, Pattern=up, Pattern=then you, Pattern=you turn, Pattern=and you, Pattern=lake, Pattern=again
-	Constrained: Pattern=you, Pattern=and, Pattern=then, Pattern=turn
-Turn ID=118| A | M : you're welcome .
-	Free: Pattern=you're
+	Free: Pattern=right, Pattern=you, Pattern=going, Pattern=a, Pattern=keep, Pattern=and then, Pattern=then you, Pattern=and you, Pattern=lake, Pattern=again, Pattern=turn, Pattern=up
+	Constrained: Pattern=then, Pattern=and, Pattern=you
+Turn ID=118| A | M : You're welcome .
+	Free: 
 	Constrained: 
 Turn ID=119| B | g : what you mean turn left
 	Free: Pattern=what you mean, Pattern=turn left
 	Constrained: Pattern=you, Pattern=what, Pattern=you mean, Pattern=left, Pattern=turn
 Turn ID=120| A | M : turn left
 	Free: Pattern=turn left
-	Constrained: Pattern=left, Pattern=turn
+	Constrained: Pattern=turn, Pattern=left
 Turn ID=121| B | g : i cannae see your hands fae here
-	Free: Pattern=see, Pattern=i
+	Free: Pattern=i, Pattern=see
 	Constrained: 
-Turn ID=122| A | M : yes i do
-	Free: Pattern=yes, Pattern=do, Pattern=i
+Turn ID=122| A | M : yes , i do
+	Free: Pattern=i, Pattern=yes, Pattern=do
 	Constrained: 
 Turn ID=123| B | g : uh-huh i know
-	Free: Pattern=know, Pattern=i
+	Free: Pattern=i, Pattern=know
 	Constrained: 
 Turn ID=124| A | M : you can't
 	Free: Pattern=you
@@ -604,9 +604,9 @@ Turn ID=125| B | g : which you are you heading towards your left-hand edge of th
 	Constrained: Pattern=you, Pattern=of, Pattern=the
 Turn ID=126| A | M : you are going to have to leave
 	Free: Pattern=you are, Pattern=have to, Pattern=to, Pattern=going
-	Constrained: Pattern=you, Pattern=to, Pattern=have
+	Constrained: Pattern=to, Pattern=have, Pattern=you
 Turn ID=127| B | g : yes your right-hand edge my left-hand edge
-	Free: Pattern=yes, Pattern=my, Pattern=edge
+	Free: Pattern=edge, Pattern=yes, Pattern=my
 	Constrained: 
 Turn ID=128| A | M : left hand side of the edge
 	Free: Pattern=side of the, Pattern=the edge, Pattern=left
@@ -615,58 +615,58 @@ Turn ID=129| B | g : oh
 	Free: Pattern=oh
 	Constrained: 
 Turn ID=130| A | M : its not that hard
-	Free: Pattern=not, Pattern=that
+	Free: Pattern=that, Pattern=not
 	Constrained: 
 Turn ID=131| B | g : uh-huh
 	Free: 
 	Constrained: 
 Turn ID=132| A | M : left is the left edge
-	Free: Pattern=the, Pattern=edge, Pattern=is, Pattern=left
+	Free: Pattern=left, Pattern=edge, Pattern=the, Pattern=is
 	Constrained: 
 Turn ID=133| B | g : okay you're
-	Free: Pattern=you're, Pattern=okay
+	Free: Pattern=okay, Pattern=you're
 	Constrained: 
 Turn ID=134| A | M : ayy euw
 	Free: 
 	Constrained: 
 Turn ID=135| B | g : abandoned cottage yes yes
-	Free: Pattern=yes, Pattern=cottage, Pattern=abandoned
+	Free: Pattern=abandoned, Pattern=cottage, Pattern=yes
 	Constrained: 
 Turn ID=136| A | M : i'm going to the abandoned shack
 	Free: Pattern=to the abandoned, Pattern=going
 	Constrained: Pattern=the abandoned, Pattern=to the, Pattern=the, Pattern=to, Pattern=abandoned
 Turn ID=137| B | g : no i told you to turn left around the old abandoned cottage you turn right once you went round the cottage
-	Free: Pattern=the cottage, Pattern=you, Pattern=no, Pattern=i told you, Pattern=cottage you, Pattern=around the, Pattern=to, Pattern=abandoned, Pattern=you turn, Pattern=turn left, Pattern=the old, Pattern=turn right
-	Constrained: Pattern=right, Pattern=you, Pattern=around, Pattern=cottage, Pattern=left, Pattern=i, Pattern=the, Pattern=turn, Pattern=told
-Turn ID=138| A | M : i told you i'd go to the old house and go around the side of the old cottage you go around to the side
-	Free: Pattern=the old, Pattern=go, Pattern=you go, Pattern=i told you, Pattern=around the, Pattern=around to the, Pattern=the side, Pattern=go to the, Pattern=the side of the, Pattern=and, Pattern=cottage you
-	Constrained: Pattern=go to, Pattern=of, Pattern=you, Pattern=side of the, Pattern=go, Pattern=cottage, Pattern=side, Pattern=i, Pattern=to, Pattern=told, Pattern=around, Pattern=to the, Pattern=the side, Pattern=the, Pattern=side of, Pattern=of the
+	Free: Pattern=the cottage, Pattern=you, Pattern=no, Pattern=cottage you, Pattern=around the, Pattern=i, Pattern=abandoned, Pattern=turn left, Pattern=the old, Pattern=turn right, Pattern=told you, Pattern=to
+	Constrained: Pattern=right, Pattern=you, Pattern=around, Pattern=cottage, Pattern=left, Pattern=the, Pattern=turn, Pattern=told
+Turn ID=138| A | M : I told you I'd go to the old house and go around the side of the old cottage you go around to the side
+	Free: Pattern=the old, Pattern=go, Pattern=you go, Pattern=around the, Pattern=around to the, Pattern=the side, Pattern=told you, Pattern=go to the, Pattern=the side of the, Pattern=and, Pattern=cottage you
+	Constrained: Pattern=go to, Pattern=of, Pattern=you, Pattern=side of the, Pattern=go, Pattern=cottage, Pattern=side, Pattern=to, Pattern=told, Pattern=around, Pattern=to the, Pattern=the side, Pattern=the, Pattern=side of, Pattern=of the
 Turn ID=139| B | g : aye get the tippex out
 	Free: Pattern=get the, Pattern=out
-	Constrained: Pattern=get, Pattern=the
-Turn ID=140| A | M : i love how you can hear the sound of a man trying to hear his own mind .
-	Free: Pattern=how, Pattern=can, Pattern=i, Pattern=of a, Pattern=the, Pattern=to, Pattern=you, Pattern=mind
+	Constrained: Pattern=the, Pattern=get
+Turn ID=140| A | M : I love how you can hear the sound of a man trying to hear his own mind .
+	Free: Pattern=how, Pattern=can, Pattern=of a, Pattern=the, Pattern=to, Pattern=you, Pattern=mind
 	Constrained: Pattern=a, Pattern=of
 Turn ID=141| B | g : right you've come through the forest
 	Free: Pattern=through the, Pattern=the forest, Pattern=right, Pattern=come
 	Constrained: Pattern=the
 Turn ID=142| A | M : turn around and back up
-	Free: Pattern=back up, Pattern=around, Pattern=and, Pattern=turn
+	Free: Pattern=back up, Pattern=turn, Pattern=around, Pattern=and
 	Constrained: Pattern=back, Pattern=up
 Turn ID=143| B | g : you see the abandoned cottage in front of you
 	Free: Pattern=the abandoned, Pattern=you, Pattern=cottage, Pattern=in, Pattern=see, Pattern=front of
-	Constrained: Pattern=the, Pattern=of, Pattern=abandoned
+	Constrained: Pattern=abandoned, Pattern=the, Pattern=of
 Turn ID=144| A | M : he walks past it
 	Free: Pattern=past, Pattern=it
 	Constrained: 
 Turn ID=145| B | g : you go up the map past the abandoned cottage turn left
 	Free: Pattern=the abandoned, Pattern=go up, Pattern=you go, Pattern=the map, Pattern=cottage, Pattern=past the, Pattern=turn left, Pattern=up the
 	Constrained: Pattern=you, Pattern=go, Pattern=left, Pattern=the, Pattern=abandoned, Pattern=past, Pattern=turn, Pattern=up
-Turn ID=146| A | M : i'm gonna try and get there
-	Free: Pattern=get, Pattern=and, Pattern=there
+Turn ID=146| A | M : I'm gonna try and get there
+	Free: Pattern=there, Pattern=get, Pattern=and
 	Constrained: 
 Turn ID=147| B | g : left yes
-	Free: Pattern=yes, Pattern=left
+	Free: Pattern=left, Pattern=yes
 	Constrained: 
 Turn ID=148| A | M : left ?
 	Free: Pattern=left
@@ -674,56 +674,56 @@ Turn ID=148| A | M : left ?
 Turn ID=149| B | g : so the abandoned cottage should now be below you on the map
 	Free: Pattern=the abandoned, Pattern=you, Pattern=should, Pattern=cottage, Pattern=be, Pattern=now, Pattern=on the map, Pattern=so
 	Constrained: Pattern=the map, Pattern=abandoned, Pattern=on the, Pattern=on, Pattern=the
-Turn ID=150| A | M : it's not in the map anymore it's in the abandoned cabin
+Turn ID=150| A | M : it's not in the map anymore , it's in the abandoned cabin
 	Free: Pattern=the abandoned, Pattern=the map, Pattern=in, Pattern=it's, Pattern=not
-	Constrained: Pattern=the, Pattern=abandoned
+	Constrained: Pattern=abandoned, Pattern=the
 Turn ID=151| B | g : yes
 	Free: Pattern=yes
 	Constrained: 
 Turn ID=152| A | M : you mean to the left of the abandoned creeper farm ?
-	Free: Pattern=of the abandoned, Pattern=to the, Pattern=you mean, Pattern=left
+	Free: Pattern=of the abandoned, Pattern=you mean, Pattern=to the, Pattern=left
 	Constrained: Pattern=you, Pattern=the, Pattern=to, Pattern=abandoned, Pattern=of the, Pattern=the abandoned, Pattern=of
 Turn ID=153| B | g : so you do that again
 	Free: Pattern=do that, Pattern=so you, Pattern=again
-	Constrained: Pattern=you, Pattern=do, Pattern=so, Pattern=that
+	Constrained: Pattern=so, Pattern=that, Pattern=do, Pattern=you
 Turn ID=154| A | M : we can go back
-	Free: Pattern=can, Pattern=go, Pattern=we, Pattern=back
+	Free: Pattern=back, Pattern=can, Pattern=we, Pattern=go
 	Constrained: 
 Turn ID=155| B | g : you turn round to a abandoned cottage so always keeping it on your left-hand side
-	Free: Pattern=to a, Pattern=cottage, Pattern=side, Pattern=it on, Pattern=abandoned, Pattern=you turn, Pattern=so
-	Constrained: Pattern=you, Pattern=a, Pattern=it, Pattern=on, Pattern=turn, Pattern=to
+	Free: Pattern=you, Pattern=to a, Pattern=cottage, Pattern=side, Pattern=abandoned, Pattern=so, Pattern=it on, Pattern=turn
+	Constrained: Pattern=on, Pattern=a, Pattern=to, Pattern=it
 Turn ID=156| A | M : what do you mean ?
 	Free: Pattern=do you, Pattern=you mean, Pattern=what
-	Constrained: Pattern=you, Pattern=do
+	Constrained: Pattern=do, Pattern=you
 Turn ID=157| B | g : okay you got that much
-	Free: Pattern=okay you, Pattern=got, Pattern=that
-	Constrained: Pattern=you, Pattern=okay
-Turn ID=158| A | M : i have the green one i can do this for you .
+	Free: Pattern=got, Pattern=that, Pattern=okay, Pattern=you
+	Constrained: 
+Turn ID=158| A | M : i have the green one , i can do this for you .
 	Free: Pattern=you, Pattern=have, Pattern=do, Pattern=for, Pattern=one, Pattern=can, Pattern=i, Pattern=the
 	Constrained: 
 Turn ID=159| B | g : now you turn to your right should be taking you towards the edge of the paper away from the abandoned cottage
-	Free: Pattern=you, Pattern=should, Pattern=cottage, Pattern=be, Pattern=to, Pattern=of the, Pattern=right, Pattern=the abandoned, Pattern=the edge, Pattern=the paper, Pattern=you turn, Pattern=now
-	Constrained: Pattern=of, Pattern=you, Pattern=the, Pattern=edge, Pattern=turn, Pattern=abandoned
+	Free: Pattern=you, Pattern=should, Pattern=cottage, Pattern=be, Pattern=now, Pattern=of the, Pattern=right, Pattern=the abandoned, Pattern=the edge, Pattern=the paper, Pattern=turn, Pattern=to
+	Constrained: Pattern=abandoned, Pattern=edge, Pattern=of, Pattern=the
 Turn ID=160| A | M : yes i do
-	Free: Pattern=yes, Pattern=do, Pattern=i
+	Free: Pattern=i, Pattern=yes, Pattern=do
 	Constrained: 
 Turn ID=161| B | g : no it's no how many sides of the abandoned cottage have you past
 	Free: Pattern=no, Pattern=how many, Pattern=cottage, Pattern=have you, Pattern=of the abandoned, Pattern=it's, Pattern=past
 	Constrained: Pattern=you, Pattern=have, Pattern=how, Pattern=the, Pattern=abandoned, Pattern=of the, Pattern=the abandoned, Pattern=of
 Turn ID=162| A | M : so how many times have you done this
 	Free: Pattern=how many, Pattern=have you, Pattern=so, Pattern=done
-	Constrained: Pattern=you, Pattern=how, Pattern=have
+	Constrained: Pattern=have, Pattern=how, Pattern=you
 Turn ID=163| B | g : you've passed twice should pass it again on your left
 	Free: Pattern=it again, Pattern=passed, Pattern=should, Pattern=left, Pattern=twice, Pattern=on
-	Constrained: Pattern=it, Pattern=again
+	Constrained: Pattern=again, Pattern=it
 Turn ID=164| A | M : passes it twice on my left
 	Free: Pattern=it, Pattern=left, Pattern=twice, Pattern=on, Pattern=my
 	Constrained: 
 Turn ID=165| B | g : so you've anyway after you've turned around the cottage
-	Free: Pattern=around the, Pattern=the cottage, Pattern=so
-	Constrained: Pattern=the, Pattern=around, Pattern=cottage
+	Free: Pattern=the cottage, Pattern=around the, Pattern=so
+	Constrained: Pattern=around, Pattern=the, Pattern=cottage
 Turn ID=166| A | M : you mean you haven't passed it ?
-	Free: Pattern=you mean, Pattern=you, Pattern=passed, Pattern=it
+	Free: Pattern=you mean, Pattern=passed, Pattern=you, Pattern=it
 	Constrained: Pattern=you
 Turn ID=167| B | g : aye
 	Free: 
@@ -732,44 +732,44 @@ Turn ID=168| A | M : is this the cottage ?
 	Free: Pattern=the cottage, Pattern=is
 	Constrained: Pattern=the, Pattern=cottage
 Turn ID=169| B | g : oh three hundred sixty
-	Free: Pattern=three hundred, Pattern=sixty, Pattern=oh
+	Free: Pattern=three hundred, Pattern=oh, Pattern=sixty
 	Constrained: 
-Turn ID=170| A | M : you're wrong it's three hundred and sixty
-	Free: Pattern=you're, Pattern=three hundred, Pattern=wrong, Pattern=it's, Pattern=sixty, Pattern=hundred and
+Turn ID=170| A | M : You're wrong , it's three hundred and sixty
+	Free: Pattern=three hundred, Pattern=wrong, Pattern=it's, Pattern=sixty, Pattern=hundred and
 	Constrained: Pattern=and
 Turn ID=171| B | g : ah yeah back down the paper
-	Free: Pattern=yeah back down, Pattern=the paper, Pattern=down the
+	Free: Pattern=yeah back down, Pattern=down the, Pattern=the paper
 	Constrained: Pattern=down, Pattern=yeah, Pattern=the, Pattern=back
 Turn ID=172| A | M : yeah back down
 	Free: Pattern=yeah back down
-	Constrained: Pattern=yeah, Pattern=down, Pattern=back
+	Constrained: Pattern=down, Pattern=back, Pattern=yeah
 Turn ID=173| B | g : turn right now okay do you have a fenced meadow
 	Free: Pattern=turn right, Pattern=do you, Pattern=you have a, Pattern=meadow, Pattern=now, Pattern=okay
 	Constrained: Pattern=right, Pattern=you, Pattern=have, Pattern=have a, Pattern=you have, Pattern=turn, Pattern=do, Pattern=a
 Turn ID=174| A | M : turn left now
 	Free: Pattern=turn left, Pattern=now
-	Constrained: Pattern=left, Pattern=turn
+	Constrained: Pattern=turn, Pattern=left
 Turn ID=175| B | g : no that's right okay now we turn right again okay and you go up the map you should come to a lake
 	Free: Pattern=right, Pattern=turn right, Pattern=come, Pattern=you should, Pattern=the map, Pattern=we, Pattern=now, Pattern=okay, Pattern=no, Pattern=go up, Pattern=to a, Pattern=you go, Pattern=lake, Pattern=again, Pattern=and you, Pattern=up the
 	Constrained: Pattern=right, Pattern=you, Pattern=go, Pattern=should, Pattern=a, Pattern=and, Pattern=the, Pattern=to, Pattern=turn, Pattern=up
 Turn ID=176| A | M : oh okay
-	Free: Pattern=okay, Pattern=oh
+	Free: Pattern=oh, Pattern=okay
 	Constrained: 
 Turn ID=177| B | g : okay you got the lake
-	Free: Pattern=okay you, Pattern=the lake, Pattern=got
-	Constrained: Pattern=you, Pattern=okay, Pattern=the, Pattern=lake
-Turn ID=178| A | M : i can help you with that
-	Free: Pattern=you, Pattern=can, Pattern=i, Pattern=that
+	Free: Pattern=the lake, Pattern=got, Pattern=okay, Pattern=you
+	Constrained: Pattern=the, Pattern=lake
+Turn ID=178| A | M : I can help you with that
+	Free: Pattern=can, Pattern=that, Pattern=you
 	Constrained: 
 Turn ID=179| B | g : you've got a lake now you skirt around the inside side of the lake that's side of the lake that is nearest to the middle of the map
 	Free: Pattern=you, Pattern=a, Pattern=to the, Pattern=the map, Pattern=around the, Pattern=is, Pattern=now, Pattern=side of the lake, Pattern=got, Pattern=lake, Pattern=of the, Pattern=that
 	Constrained: Pattern=of, Pattern=side of the, Pattern=side, Pattern=the, Pattern=lake, Pattern=to, Pattern=around, Pattern=the lake, Pattern=side of, Pattern=of the
 Turn ID=180| A | M : ok i'll do that then
-	Free: Pattern=do that, Pattern=then, Pattern=i'll
-	Constrained: Pattern=do, Pattern=that
+	Free: Pattern=do that, Pattern=i'll, Pattern=then
+	Constrained: Pattern=that, Pattern=do
 Turn ID=181| B | g : okay you should see a trig point do you see
-	Free: Pattern=okay you, Pattern=a, Pattern=see, Pattern=you should, Pattern=do you
-	Constrained: Pattern=you, Pattern=should, Pattern=okay, Pattern=do
+	Free: Pattern=a, Pattern=see, Pattern=okay, Pattern=you should, Pattern=do you
+	Constrained: Pattern=should, Pattern=do, Pattern=you
 Turn ID=182| A | M : the lake
 	Free: Pattern=the lake
 	Constrained: Pattern=the, Pattern=lake
@@ -793,40 +793,40 @@ Turn ID=188| A | M : i'm gonna be on the opposite side of the lake
 	Constrained: Pattern=of, Pattern=be on, Pattern=side of the, Pattern=the lake, Pattern=side, Pattern=be, Pattern=lake, Pattern=on the, Pattern=on, Pattern=the, Pattern=side of, Pattern=of the
 Turn ID=189| B | g : turn right now go diagonally down towards the not a steep diagonal towards the middle
 	Free: Pattern=turn right, Pattern=go, Pattern=a steep, Pattern=down, Pattern=the, Pattern=now, Pattern=not
-	Constrained: Pattern=a, Pattern=right, Pattern=turn
+	Constrained: Pattern=right, Pattern=a, Pattern=turn
 Turn ID=190| A | M : you mean a steep slope ?
 	Free: Pattern=you mean, Pattern=a steep
-	Constrained: Pattern=you, Pattern=a
+	Constrained: Pattern=a, Pattern=you
 Turn ID=191| B | g : edge of the map
-	Free: Pattern=the map, Pattern=of the, Pattern=edge
+	Free: Pattern=of the, Pattern=the map, Pattern=edge
 	Constrained: Pattern=the, Pattern=of
-Turn ID=192| A | M : ugh i hate the way the map is made .
-	Free: Pattern=the map, Pattern=the, Pattern=i, Pattern=is
+Turn ID=192| A | M : Ugh , I hate the way the map is made .
+	Free: Pattern=the map, Pattern=the, Pattern=is
 	Constrained: Pattern=the
 Turn ID=193| B | g : okay now should come to a do you have a monument
 	Free: Pattern=should, Pattern=to a, Pattern=come, Pattern=do you, Pattern=you have a, Pattern=a monument, Pattern=now, Pattern=okay
 	Constrained: Pattern=monument, Pattern=you, Pattern=have, Pattern=have a, Pattern=you have, Pattern=to, Pattern=do, Pattern=a
-Turn ID=194| A | M : i can build a monument to you
-	Free: Pattern=you, Pattern=can, Pattern=i, Pattern=a monument, Pattern=to
+Turn ID=194| A | M : I can build a monument to you
+	Free: Pattern=a monument, Pattern=to, Pattern=can, Pattern=you
 	Constrained: Pattern=a, Pattern=monument
 Turn ID=195| B | g : go round the monument keeping the monument always on your left
 	Free: Pattern=monument, Pattern=go, Pattern=left, Pattern=on, Pattern=the
 	Constrained: 
 Turn ID=196| A | M : how do you get the statue ?
 	Free: Pattern=do you, Pattern=get the, Pattern=how
-	Constrained: Pattern=you, Pattern=get, Pattern=the, Pattern=do
+	Constrained: Pattern=the, Pattern=get, Pattern=do, Pattern=you
 Turn ID=197| B | g : yes
 	Free: Pattern=yes
 	Constrained: 
 Turn ID=198| A | M : so you can get to the museum of freedom
 	Free: Pattern=of, Pattern=to the, Pattern=so you, Pattern=can, Pattern=get
-	Constrained: Pattern=you, Pattern=to, Pattern=the, Pattern=so
+	Constrained: Pattern=so, Pattern=to, Pattern=the, Pattern=you
 Turn ID=199| B | g : go up past the monument
 	Free: Pattern=past the, Pattern=go up, Pattern=monument
-	Constrained: Pattern=past, Pattern=go, Pattern=the, Pattern=up
+	Constrained: Pattern=past, Pattern=the, Pattern=go, Pattern=up
 Turn ID=200| A | M : you're not allowed to go up
-	Free: Pattern=to go, Pattern=go up, Pattern=you're, Pattern=not
-	Constrained: Pattern=go, Pattern=to, Pattern=up
+	Free: Pattern=to go, Pattern=go up, Pattern=not, Pattern=you're
+	Constrained: Pattern=to, Pattern=go, Pattern=up
 Turn ID=201| B | g : no just up so that you're you're coming away from it up towards the top of the paper
 	Free: Pattern=you're, Pattern=just, Pattern=it, Pattern=up, Pattern=that you're, Pattern=so, Pattern=coming, Pattern=no, Pattern=the top of the, Pattern=the paper
 	Constrained: Pattern=the, Pattern=the top, Pattern=top of, Pattern=you're, Pattern=of, Pattern=of the, Pattern=that
@@ -834,16 +834,16 @@ Turn ID=202| A | M : do you just roll around on the paper and pray for the best 
 	Free: Pattern=around, Pattern=the paper, Pattern=on the, Pattern=just, Pattern=for the, Pattern=and, Pattern=do you
 	Constrained: Pattern=you, Pattern=do, Pattern=for, Pattern=on, Pattern=the
 Turn ID=203| B | g : okay you keep going up there
-	Free: Pattern=going up, Pattern=up there, Pattern=okay you, Pattern=keep
-	Constrained: Pattern=you, Pattern=going, Pattern=there, Pattern=up, Pattern=okay
-Turn ID=204| A | M : ok i'll be there
-	Free: Pattern=be, Pattern=i'll, Pattern=there
+	Free: Pattern=going up, Pattern=you, Pattern=keep, Pattern=up there, Pattern=okay
+	Constrained: Pattern=going, Pattern=there, Pattern=up
+Turn ID=204| A | M : ok , I'll be there
+	Free: Pattern=there, Pattern=be
 	Constrained: 
 Turn ID=205| B | g : now do you see a nuclear test site
-	Free: Pattern=do you, Pattern=see, Pattern=a, Pattern=now
-	Constrained: Pattern=you, Pattern=do
-Turn ID=206| A | M : huh yeah i guess i can .
-	Free: Pattern=can, Pattern=yeah, Pattern=i
+	Free: Pattern=do you, Pattern=a, Pattern=see, Pattern=now
+	Constrained: Pattern=do, Pattern=you
+Turn ID=206| A | M : huh , yeah I guess I can .
+	Free: Pattern=can, Pattern=yeah
 	Constrained: 
 Turn ID=207| B | g : okay keep going 'til you find a lake
 	Free: Pattern=you, Pattern=going, Pattern=a, Pattern=keep, Pattern=lake, Pattern=okay
@@ -858,17 +858,17 @@ Turn ID=210| A | M : ok alright alright
 	Free: 
 	Constrained: 
 Turn ID=211| B | g : now you turn left towards the middle of the page
-	Free: Pattern=you turn left, Pattern=of the, Pattern=the, Pattern=now
-	Constrained: Pattern=of, Pattern=you, Pattern=left, Pattern=the, Pattern=turn, Pattern=you turn, Pattern=turn left
+	Free: Pattern=you, Pattern=the, Pattern=now, Pattern=of the, Pattern=turn left
+	Constrained: Pattern=turn, Pattern=left, Pattern=the, Pattern=of
 Turn ID=212| A | M : now it's at the bottom of the screen
 	Free: Pattern=the bottom of the, Pattern=at the, Pattern=it's, Pattern=now
 	Constrained: Pattern=of the, Pattern=at, Pattern=of, Pattern=the
 Turn ID=213| B | g : and you should finish just past the the lake
 	Free: Pattern=finish just, Pattern=the lake, Pattern=you should, Pattern=past the, Pattern=and you
 	Constrained: Pattern=finish, Pattern=you, Pattern=just, Pattern=should, Pattern=and, Pattern=the, Pattern=lake, Pattern=past
-Turn ID=214| A | M : i'll finish the first thing i see in the map but you'll have to finish the second thing first
-	Free: Pattern=finish, Pattern=i see, Pattern=i'll, Pattern=you'll have to, Pattern=the map, Pattern=in, Pattern=the, Pattern=but
-	Constrained: Pattern=have, Pattern=you'll, Pattern=i, Pattern=the, Pattern=to, Pattern=see, Pattern=have to
+Turn ID=214| A | M : I'll finish the first thing I see in the map , but you'll have to finish the second thing first
+	Free: Pattern=finish, Pattern=you'll have to, Pattern=the map, Pattern=in, Pattern=the, Pattern=see, Pattern=but
+	Constrained: Pattern=have, Pattern=you'll, Pattern=the, Pattern=have to, Pattern=to
 Turn ID=215| B | g : yes
 	Free: Pattern=yes
 	Constrained: 
@@ -876,7 +876,7 @@ Turn ID=216| A | M : do you want to finish just before the lake ?
 	Free: Pattern=you want to, Pattern=do you, Pattern=finish just, Pattern=the lake
 	Constrained: Pattern=finish, Pattern=you, Pattern=just, Pattern=do, Pattern=the, Pattern=to, Pattern=you want, Pattern=lake
 Turn ID=217| B | g : okay and that's you
-	Free: Pattern=you, Pattern=okay, Pattern=and
+	Free: Pattern=and, Pattern=okay, Pattern=you
 	Constrained: 
 Turn ID=218| A | M : i'll be the guy who goes to the lake and takes the water
 	Free: Pattern=i'll, Pattern=and, Pattern=be, Pattern=the, Pattern=to the, Pattern=the lake
@@ -888,8 +888,8 @@ Turn ID=220| A | M : you don't like it
 	Free: Pattern=you don't, Pattern=it
 	Constrained: Pattern=you
 Turn ID=221| B | g : ah we better score them out then
-	Free: Pattern=better, Pattern=we, Pattern=then, Pattern=out
+	Free: Pattern=better, Pattern=out, Pattern=we, Pattern=then
 	Constrained: 
 Turn ID=222| A | M : you can't do that if you have 2
-	Free: Pattern=do that, Pattern=if you, Pattern=you have, Pattern=you
+	Free: Pattern=do that, Pattern=you have, Pattern=if you, Pattern=you
 	Constrained: Pattern=you, Pattern=have, Pattern=do, Pattern=if, Pattern=that

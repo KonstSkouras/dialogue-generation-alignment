@@ -15,7 +15,7 @@ A|13| M: _yeah_ you're [under the]
 B|14| f: _no_ 
 A|15| M: [right] 
 B|16| f: mmhmm 
-A|17| M: " !!!! ' !! ' !! rem !! _okay_ !! remote !! [right] !! [i] !! s !! r !! "" !!!! 4 !! 8 !! 6 !! 7 !! 754 !! 8000 !!!!!! " 
+A|17| M: " !!!! ' !! ' !! Rem !! _okay_ !! remote !! [right] !! [i] !! s !! r !! "" !!,!! 4 !! 8 !! 6 !! 7 !! 754 !! 8000 !!!!!! " 
 B|18| f: _right okay_ 
 A|19| M: _and_ then you're _going_ _to_ do [a] forty-five degree line _straight down_ _at_ forty-f degrees 
 B|20| f: _uh-huh_ 
@@ -194,7 +194,7 @@ Turn ID=15| A | M : right
 Turn ID=16| B | f : mmhmm
 	Free: 
 	Constrained: 
-Turn ID=17| A | M : " !!!! ' !! ' !! rem !! okay !! remote !! right !! i !! s !! r !! "" !!!! 4 !! 8 !! 6 !! 7 !! 754 !! 8000 !!!!!! "
+Turn ID=17| A | M : " !!!! ' !! ' !! Rem !! okay !! remote !! right !! i !! s !! r !! "" !!,!! 4 !! 8 !! 6 !! 7 !! 754 !! 8000 !!!!!! "
 	Free: Pattern=i, Pattern=right, Pattern=okay
 	Constrained: 
 Turn ID=18| B | f : right okay
