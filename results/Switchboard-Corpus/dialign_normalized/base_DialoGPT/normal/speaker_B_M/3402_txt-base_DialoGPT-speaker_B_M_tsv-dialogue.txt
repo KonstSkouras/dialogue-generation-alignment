@@ -1,0 +1,143 @@
+A|0| B: whatever _i'm_ doing _i_ watch _that ._ _i_ usually watch the _news_ either at _you_ _know_ early evening or at ten o'clock 
+B|1| M: why 
+A|2| B: so _i_ get it from t v a lot . _i_ get time _i read_ time magazine um _that's_ one _i read_ pretty regularly . 
+B|3| M: [i read] 
+A|4| B: and uh . the thing about it _you_ _know_ now _that_ i've found _is_ _that_ we get such good coverage on t v or at least such [i] don't _know_ attempted thoroughness of coverage by the time _you_ get the time magazine there's nothing in it _you_ don't _know_ . 
+B|5| M: no [i'm] there . 
+A|6| B: right . then _you_ can _just_ sort of have pictures to go along with it or something because really i've thought lately there's nothing new in the time magazine . 
+B|7| M:  ... 
+A|8| B: _you_ _know_ it's it's basically you've heard everything 
+B|9| M: [that's] magaz ... 
+A|10| B: and uh _you_ might _you_ might get a little more thorough uh account of something but really um [i] don't _know_ . so [i] get most of mine from television 
+B|11| M: [you] can't . 
+A|12| B: [i] _would say_ . 
+B|13| M: [you] [would say] [that] ? 
+A|14| B: right 
+B|15| M:  
+A|16| B: and [i] [i] think there's an attempt to do _that ._ [you] _know i_ think people there's a mild attempt for [that] but [i] think basically we basically associate _news_ with bad _news_ or or catastrophes or problems or crises or uh [you] _know_ . 
+B|17| M:  ... 
+A|18| B: [i] think our concept of _news_ isn't necessarily events [that] happen . it's more negative like [you] said . 
+B|19| M: _this_ [is] not [news] . 
+A|20| B: but [i] think people try to on on t v [i] think they try to throw in good stuff but it doesn't uh it doesn't sway the vote . 
+B|21| M:  
+A|22| B: uh-huh . 
+B|23| M:  ? 
+A|24| B: uh-huh . 
+B|25| M:  ... 
+A|26| B: right . [you] _know_ the war last winter _was_ certainly a good example of [that] because we saw every single thing practically . 
+B|27| M:  
+A|28| B: [i] mean [you] _know i_ remember well _just_ the things [that] are covered . [i] remember watching the world series during the earthquake and _just_ seeing [that] happen 
+B|29| M: i' 
+A|30| B: [i] mean [you] _know_ [that] _was just_ so phenomenal to see [this] stadium shake and the and the announcers [you] _know_ grabbing 
+B|31| M: [i'm] 
+A|32| B: [i] mean it's like [that] _was just_ something because [that] _was_ like live and real like [you] said 
+B|33| M: [i] [know i] [was just] saying [that .] 
+A|34| B: and then of course one thing [i] think too [is] with 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : whatever i'm doing i watch that . i usually watch the news either at you know early evening or at ten o'clock
+	Free: Pattern=that ., Pattern=you, Pattern=i, Pattern=news, Pattern=know, Pattern=i'm
+	Constrained: Pattern=that
+Turn ID=1| B | M : why
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : so i get it from t v a lot . i get time i read time magazine um that's one i read pretty regularly .
+	Free: Pattern=i read, Pattern=i, Pattern=that's
+	Constrained: Pattern=i
+Turn ID=3| B | M : i read
+	Free: Pattern=i read
+	Constrained: Pattern=i
+Turn ID=4| A | B : and uh . the thing about it you know now that i've found is that we get such good coverage on t v or at least such i don't know attempted thoroughness of coverage by the time you get the time magazine there's nothing in it you don't know .
+	Free: Pattern=you, Pattern=know, Pattern=that, Pattern=is, Pattern=i
+	Constrained: 
+Turn ID=5| B | M : no i'm there .
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=6| A | B : right . then you can just sort of have pictures to go along with it or something because really i've thought lately there's nothing new in the time magazine .
+	Free: Pattern=just, Pattern=you
+	Constrained: 
+Turn ID=7| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : you know it's it's basically you've heard everything
+	Free: Pattern=know, Pattern=you
+	Constrained: 
+Turn ID=9| B | M : that's magaz ...
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=10| A | B : and uh you might you might get a little more thorough uh account of something but really um i don't know . so i get most of mine from television
+	Free: Pattern=know, Pattern=you, Pattern=i
+	Constrained: 
+Turn ID=11| B | M : you can't .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=12| A | B : i would say .
+	Free: Pattern=would say, Pattern=i
+	Constrained: 
+Turn ID=13| B | M : you would say that ?
+	Free: Pattern=would say, Pattern=you, Pattern=that
+	Constrained: 
+Turn ID=14| A | B : right
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : and i i think there's an attempt to do that . you know i think people there's a mild attempt for that but i think basically we basically associate news with bad news or or catastrophes or problems or crises or uh you know .
+	Free: Pattern=that ., Pattern=you, Pattern=know i, Pattern=know, Pattern=i, Pattern=news, Pattern=that
+	Constrained: Pattern=know, Pattern=i, Pattern=that
+Turn ID=17| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : i think our concept of news isn't necessarily events that happen . it's more negative like you said .
+	Free: Pattern=news, Pattern=you, Pattern=i, Pattern=that
+	Constrained: 
+Turn ID=19| B | M : this is not news .
+	Free: Pattern=is, Pattern=news, Pattern=this
+	Constrained: 
+Turn ID=20| A | B : but i think people try to on on t v i think they try to throw in good stuff but it doesn't uh it doesn't sway the vote .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M :  ?
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : right . you know the war last winter was certainly a good example of that because we saw every single thing practically .
+	Free: Pattern=know, Pattern=was, Pattern=you, Pattern=that
+	Constrained: 
+Turn ID=27| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : i mean you know i remember well just the things that are covered . i remember watching the world series during the earthquake and just seeing that happen
+	Free: Pattern=you, Pattern=just, Pattern=know i, Pattern=i, Pattern=that
+	Constrained: Pattern=know, Pattern=i
+Turn ID=29| B | M : i'
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : i mean you know that was just so phenomenal to see this stadium shake and the and the announcers you know grabbing
+	Free: Pattern=you, Pattern=know, Pattern=i, Pattern=was just, Pattern=this, Pattern=that
+	Constrained: Pattern=was, Pattern=just
+Turn ID=31| B | M : i'm
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=32| A | B : i mean it's like that was just something because that was like live and real like you said
+	Free: Pattern=you, Pattern=i, Pattern=was just, Pattern=was, Pattern=that
+	Constrained: Pattern=was, Pattern=just
+Turn ID=33| B | M : i know i was just saying that .
+	Free: Pattern=that ., Pattern=know i, Pattern=was just, Pattern=i
+	Constrained: Pattern=just, Pattern=know, Pattern=i, Pattern=was, Pattern=that
+Turn ID=34| A | B : and then of course one thing i think too is with
+	Free: Pattern=is, Pattern=i
+	Constrained: 

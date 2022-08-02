@@ -1,0 +1,131 @@
+A|0| A: exactly . 
+B|1| M: _they_ were _being_ deported _to_ _the_ philippines _for_ questioning . 
+A|2| A: uh-huh _and_ _it_ just pertained [to] that 
+B|3| M:  
+A|4| A: _i know_ at this _i know_ _i_ feel like _i_ would never _do_ that with my parents either _you_ _know ._ _but_ _i_ _i_ really feel bad [for] [the] people _i_ see _not_ very i'm _not_ really really experienced _but_ like _i_ said _i_ just _have_ that _one_ family _and_ _i_ just really feel bad [for] [the] guy who his whole life _is_ different now _and_ than he thought _it_ would be . _but_ 
+B|5| M: [i [know] .] 
+A|6| A: _but_ _we_ could find _one ._ 
+B|7| M: _what_ ?! no . 
+A|8| A: uh-huh uh-huh . [they] _do_ list um _you_ [know] list [the] fat 
+B|9| M:  ... 
+A|10| A: _yeah_ _. what_ did [they] name him ? 
+B|11| M: it's _too_ late . 
+A|12| A: yep . _and then_ _you_ [know] if _you_ can put your cocoa in with your cornstarch if _you_ wanted [to] . [the] cocoa even seems [to] thicken _it_ even more . 
+B|13| M: [i] bought [it] used [and then] [the] _year_ after [i] bought _a_ _new_ [one .] 
+A|14| A: that's _why_ [i] _have_ _so_ many different levels of p c around at [the] moment . 
+B|15| M: [have] [have] [you] ? 
+A|16| A: _yeah_ . 
+B|17| M:  
+A|18| A: sure . _yeah_ . 
+B|19| M: [not] much [but] [they] [have] _some_ 
+A|20| A: uh-huh uh-huh . 
+B|21| M: [i] don't 
+A|22| A: everybody seems [to] be [you] can tell [some] of [the] newscasters when [they] like [the] heat because they'll talk about [it] [being] _so_ gorgeous on those days when we're melting [and] [you] can tell when [they] talk about beautiful weather [some] mornings when we're it'll be [too] cold [and] they'll say well those are [the] ones that like [the] cold weather . 
+B|23| M: [do] [you] [have] _a_ bridge [to] sell ? 
+A|24| A: [you] [know] besides [what] besides [what] [they] learn uh from from our social environment _is_ uh their education _is_ just amazing . kids are kids are learning uh [you] [know] their math _is_ just every [year] uh algebra goes down [a] grade [you] [know] [and] [and] uh students learn [it] earlier . 
+B|25| M: [yeah] [i] read . 
+A|26| A: upstate [new] york [yeah] . 
+B|27| M: [why] [is] [it] [so] wet ? 
+A|28| A: that's right . 
+B|29| M: [we] [do] ? 
+A|30| A: [and] uh also uh in [one] of my wife's uh companies where she worked they'd had [a] real nice profit sharing plan that that 
+B|31| M: [so] [. what] [do] [you] think ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : exactly .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : they were being deported to the philippines for questioning .
+	Free: Pattern=they, Pattern=for, Pattern=being, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=2| A | A : uh-huh and it just pertained to that
+	Free: Pattern=it, Pattern=to, Pattern=and
+	Constrained: 
+Turn ID=3| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : i know at this i know i feel like i would never do that with my parents either you know . but i i really feel bad for the people i see not very i'm not really really experienced but like i said i just have that one family and i just really feel bad for the guy who his whole life is different now and than he thought it would be . but
+	Free: Pattern=you, Pattern=do, Pattern=for, Pattern=one, Pattern=know ., Pattern=the, Pattern=but, Pattern=not, Pattern=have, Pattern=i know, Pattern=it, Pattern=and, Pattern=is, Pattern=i
+	Constrained: Pattern=know, Pattern=i
+Turn ID=5| B | M : i know .
+	Free: Pattern=know ., Pattern=i know
+	Constrained: Pattern=know, Pattern=i
+Turn ID=6| A | A : but we could find one .
+	Free: Pattern=one ., Pattern=we, Pattern=but
+	Constrained: Pattern=one
+Turn ID=7| B | M : what ?! no .
+	Free: Pattern=what
+	Constrained: 
+Turn ID=8| A | A : uh-huh uh-huh . they do list um you know list the fat
+	Free: Pattern=you, Pattern=they, Pattern=do, Pattern=know, Pattern=the
+	Constrained: 
+Turn ID=9| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : yeah . what did they name him ?
+	Free: Pattern=. what, Pattern=they, Pattern=yeah
+	Constrained: Pattern=what
+Turn ID=11| B | M : it's too late .
+	Free: Pattern=too
+	Constrained: 
+Turn ID=12| A | A : yep . and then you know if you can put your cocoa in with your cornstarch if you wanted to . the cocoa even seems to thicken it even more .
+	Free: Pattern=you, Pattern=it, Pattern=and then, Pattern=know, Pattern=the, Pattern=to
+	Constrained: Pattern=and
+Turn ID=13| B | M : i bought it used and then the year after i bought a new one .
+	Free: Pattern=new, Pattern=a, Pattern=it, Pattern=and then, Pattern=i, Pattern=year, Pattern=one ., Pattern=the
+	Constrained: Pattern=one, Pattern=and
+Turn ID=14| A | A : that's why i have so many different levels of p c around at the moment .
+	Free: Pattern=have, Pattern=i, Pattern=the, Pattern=why, Pattern=so
+	Constrained: 
+Turn ID=15| B | M : have have you ?
+	Free: Pattern=have, Pattern=you
+	Constrained: 
+Turn ID=16| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=17| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : sure . yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=19| B | M : not much but they have some
+	Free: Pattern=have, Pattern=they, Pattern=some, Pattern=but, Pattern=not
+	Constrained: 
+Turn ID=20| A | A : uh-huh uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : i don't
+	Free: Pattern=i
+	Constrained: 
+Turn ID=22| A | A : everybody seems to be you can tell some of the newscasters when they like the heat because they'll talk about it being so gorgeous on those days when we're melting and you can tell when they talk about beautiful weather some mornings when we're it'll be too cold and they'll say well those are the ones that like the cold weather .
+	Free: Pattern=you, Pattern=they, Pattern=being, Pattern=some, Pattern=the, Pattern=to, Pattern=so, Pattern=it, Pattern=and, Pattern=too
+	Constrained: 
+Turn ID=23| B | M : do you have a bridge to sell ?
+	Free: Pattern=you, Pattern=have, Pattern=to, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=24| A | A : you know besides what besides what they learn uh from from our social environment is uh their education is just amazing . kids are kids are learning uh you know their math is just every year uh algebra goes down a grade you know and and uh students learn it earlier .
+	Free: Pattern=you, Pattern=a, Pattern=know, Pattern=is, Pattern=year, Pattern=what, Pattern=they, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=25| B | M : yeah i read .
+	Free: Pattern=i, Pattern=yeah
+	Constrained: 
+Turn ID=26| A | A : upstate new york yeah .
+	Free: Pattern=yeah, Pattern=new
+	Constrained: 
+Turn ID=27| B | M : why is it so wet ?
+	Free: Pattern=it, Pattern=is, Pattern=so, Pattern=why
+	Constrained: 
+Turn ID=28| A | A : that's right .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : we do ?
+	Free: Pattern=we, Pattern=do
+	Constrained: 
+Turn ID=30| A | A : and uh also uh in one of my wife's uh companies where she worked they'd had a real nice profit sharing plan that that
+	Free: Pattern=one, Pattern=a, Pattern=and
+	Constrained: 
+Turn ID=31| B | M : so . what do you think ?
+	Free: Pattern=. what, Pattern=you, Pattern=do, Pattern=so
+	Constrained: Pattern=what

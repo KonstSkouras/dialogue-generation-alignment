@@ -1,0 +1,163 @@
+A|0| A: oh man . 
+B|1| M: _i_ 
+A|2| A: but then _just_ another different set of people come _in_ _and_ most of _the_ people are transients from _out_ outside of _the_ state . 
+B|3| M: _i_ think _you_ mean they're 
+A|4| A: adapt . 
+B|5| M: hahaha _you know_ _i'm_ not sure . 
+A|6| A: um [i] would say [i'm] probably liberal yeah 
+B|7| M:  
+A|8| A: yeah _so_ [i] _just_ wondered [you know] if _the_ whole area _was_ like _that_ or 
+B|9| M: [you] _can't_ _have_ _a golden retriever_ 
+A|10| A: _and_ _that_ is true _in_ many many areas of [you know] _uh_ job titles _and_ professions . 
+B|11| M: uhhhh [i] think . 
+A|12| A: yeah . they did . [i] [i] had never really had [a golden retriever] before . we were going _to_ get [a] shepherd _and_ something mixed because my husband's family had had shepherds _and_ all _the_ other we looked at some of _the_ shepherd mixes _and_ _the_ puppies weren't very _uh_ social _and_ stuff . 
+B|13| M: _it's_ not always [uh] [the] judge [uh] . 
+A|14| A: oh . really ? 
+B|15| M: [i'm] [a] pitcher [so] ... 
+A|16| A: _and_ my eleven year old of course [you know] is pitching . 
+B|17| M: [so] ... do [you] _have_ _any_ local elections ? 
+A|18| A: guns _that_ sort of stuff . 
+B|19| M: _that's_ 
+A|20| A: yeah 
+B|21| M: _he's_ not wrong . 
+A|22| A: [that's] neat . yeah she married _and_ they [have] twelve children . 
+B|23| M: [and] [i] [was] [uh] [uh] 
+A|24| A: [and] lord knows what happened _to_ him . [he's] probably been through all kinds of nightmares . 
+B|25| M: why not [just] go [out] [to] [the] park ? 
+A|26| A: yes yes . [and] then i'll [have] [just] like [uh] department stores . they'll call me up [you know] [and] i'll say look [i] don't want [the] credit card well we're [just] going [to] send _it_ [to] [you] [you know] [you] don't [have] [to] _ever_ use _it_ if [you] don't want [to] . they'll send me [any] credit card [i] tear _it_ up . [i] [just] [can't] see _it_ . 
+B|27| M: [i] mean [the] insurance company [can't] refuse [to] pay [the] money . 
+A|28| A: yeah [that's] true . 
+B|29| M:  ... [that] [that] . 
+A|30| A: [so] _it was_ pretty much [a] physical decision ? 
+B|31| M: [i] 
+A|32| A: yeah . 
+B|33| M: [so] . 
+A|34| A: how far where is clarion county _in_ relation [to] actually because we're considering moving [to] pennsylvania 
+B|35| M: ugh . ugh . [uh] 
+A|36| A: i've got one two three four five six windows _in_ [the] east side on forty-eight feet . [so] [it's] almost all glass . 
+B|37| M: [i] [was] [in] an airforce [it was] [uh] forty ... 
+A|38| A: yeah i've i've heard [that] yeah . 
+B|39| M: no [i] told them [that] [was] [the] funniest cat [ever] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oh man .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=2| A | A : but then just another different set of people come in and most of the people are transients from out outside of the state .
+	Free: Pattern=out, Pattern=just, Pattern=and, Pattern=in, Pattern=the
+	Constrained: 
+Turn ID=3| B | M : i think you mean they're
+	Free: Pattern=i, Pattern=you
+	Constrained: 
+Turn ID=4| A | A : adapt .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : hahaha you know i'm not sure .
+	Free: Pattern=you know, Pattern=i'm
+	Constrained: Pattern=you
+Turn ID=6| A | A : um i would say i'm probably liberal yeah
+	Free: Pattern=i'm, Pattern=i
+	Constrained: 
+Turn ID=7| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : yeah so i just wondered you know if the whole area was like that or
+	Free: Pattern=you know, Pattern=just, Pattern=i, Pattern=the, Pattern=was, Pattern=that, Pattern=so
+	Constrained: Pattern=you
+Turn ID=9| B | M : you can't have a golden retriever
+	Free: Pattern=a golden retriever, Pattern=can't, Pattern=have, Pattern=you
+	Constrained: Pattern=a
+Turn ID=10| A | A : and that is true in many many areas of you know uh job titles and professions .
+	Free: Pattern=and, Pattern=in, Pattern=that, Pattern=uh, Pattern=you know
+	Constrained: Pattern=you
+Turn ID=11| B | M : uhhhh i think .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=12| A | A : yeah . they did . i i had never really had a golden retriever before . we were going to get a shepherd and something mixed because my husband's family had had shepherds and all the other we looked at some of the shepherd mixes and the puppies weren't very uh social and stuff .
+	Free: Pattern=uh, Pattern=a, Pattern=and, Pattern=i, Pattern=the, Pattern=to, Pattern=a golden retriever
+	Constrained: Pattern=a
+Turn ID=13| B | M : it's not always uh the judge uh .
+	Free: Pattern=uh, Pattern=the, Pattern=it's
+	Constrained: 
+Turn ID=14| A | A : oh . really ?
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : i'm a pitcher so ...
+	Free: Pattern=i'm, Pattern=a, Pattern=so
+	Constrained: 
+Turn ID=16| A | A : and my eleven year old of course you know is pitching .
+	Free: Pattern=you know, Pattern=and
+	Constrained: Pattern=you
+Turn ID=17| B | M : so ... do you have any local elections ?
+	Free: Pattern=have, Pattern=any, Pattern=you, Pattern=so
+	Constrained: 
+Turn ID=18| A | A : guns that sort of stuff .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=19| B | M : that's
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=20| A | A : yeah
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : he's not wrong .
+	Free: Pattern=he's
+	Constrained: 
+Turn ID=22| A | A : that's neat . yeah she married and they have twelve children .
+	Free: Pattern=have, Pattern=that's, Pattern=and
+	Constrained: 
+Turn ID=23| B | M : and i was uh uh
+	Free: Pattern=uh, Pattern=was, Pattern=i, Pattern=and
+	Constrained: 
+Turn ID=24| A | A : and lord knows what happened to him . he's probably been through all kinds of nightmares .
+	Free: Pattern=to, Pattern=he's, Pattern=and
+	Constrained: 
+Turn ID=25| B | M : why not just go out to the park ?
+	Free: Pattern=out, Pattern=to, Pattern=just, Pattern=the
+	Constrained: 
+Turn ID=26| A | A : yes yes . and then i'll have just like uh department stores . they'll call me up you know and i'll say look i don't want the credit card well we're just going to send it to you you know you don't have to ever use it if you don't want to . they'll send me any credit card i tear it up . i just can't see it .
+	Free: Pattern=any, Pattern=i, Pattern=the, Pattern=to, Pattern=you, Pattern=uh, Pattern=you know, Pattern=just, Pattern=have, Pattern=it, Pattern=and, Pattern=ever, Pattern=can't
+	Constrained: Pattern=you
+Turn ID=27| B | M : i mean the insurance company can't refuse to pay the money .
+	Free: Pattern=can't, Pattern=to, Pattern=the, Pattern=i
+	Constrained: 
+Turn ID=28| A | A : yeah that's true .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=29| B | M :  ... that that .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=30| A | A : so it was pretty much a physical decision ?
+	Free: Pattern=it was, Pattern=a, Pattern=so
+	Constrained: Pattern=it, Pattern=was
+Turn ID=31| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=32| A | A : yeah .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : so .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=34| A | A : how far where is clarion county in relation to actually because we're considering moving to pennsylvania
+	Free: Pattern=in, Pattern=to
+	Constrained: 
+Turn ID=35| B | M : ugh . ugh . uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=36| A | A : i've got one two three four five six windows in the east side on forty-eight feet . so it's almost all glass .
+	Free: Pattern=in, Pattern=the, Pattern=so, Pattern=it's
+	Constrained: 
+Turn ID=37| B | M : i was in an airforce it was uh forty ...
+	Free: Pattern=it was, Pattern=uh, Pattern=in, Pattern=i, Pattern=was
+	Constrained: Pattern=it, Pattern=was
+Turn ID=38| A | A : yeah i've i've heard that yeah .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=39| B | M : no i told them that was the funniest cat ever .
+	Free: Pattern=i, Pattern=ever, Pattern=the, Pattern=was, Pattern=that
+	Constrained: 

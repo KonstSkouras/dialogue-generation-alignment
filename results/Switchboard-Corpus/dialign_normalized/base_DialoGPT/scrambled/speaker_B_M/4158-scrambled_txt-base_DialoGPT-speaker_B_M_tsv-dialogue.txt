@@ -1,0 +1,179 @@
+A|0| B: that's that's _a lot_ _of_ kids though . 
+B|1| M: _i've got a_ few small things _to_ _do ._ 
+A|2| B: with baseball tickets . 
+B|3| M: he _was_ _the_ best player on _the_ cowboys _for_ [a] long _time_ . 
+A|4| B: _like_ last saturday we went _had_ some errands [to] run _and_ so we took [the] kids _and_ _and_ went by [the] farmers market down _in_ _in_ down there _in_ garland . 
+B|5| M: _i_ don't _know_ why would _you_ recommend _it_ ? 
+A|6| B: _uh_ um um no _not_ _really_ . _in_ _that_ _but_ then again _uh_ _well_ [i] _you know_ _i have_ some aunts _that_ _uh_ [i] [i] [i] [do .] that's about _my_ mother's sisters _you know_ 
+B|7| M: ugh . _uh you_ _got a_ _couple _of_ them_ huh ? 
+A|8| B: [i] [do] [i] [do] microwave _too_ _a lot_ 
+B|9| M: _yeah_ [i] [uh] _think_ you're [you know] gonna 
+A|10| B: so 
+B|11| M: _i'm_ [not] sure _but i_ can find something [that] would look good . 
+A|12| B: um . 
+B|13| M: [i] wouldnt [have] [to] work _just to_ pay [my] own rent [and] food . 
+A|14| B: [and] _a lot_ [of] their parents are totally irresponsible . some [of them] _in the_ penal system . 
+B|15| M: oh [really] ? 
+A|16| B: [but] [it] [it] makes [a] great [i] mean [i've got a] two year old [and] [a] four year old [and] they love [it] . 
+B|17| M: [i] told him [that] he _was_ getting downvotes . 
+A|18| B: uh-huh . 
+B|19| M: oh . _well i'm_ [not] [in] richardson . 
+A|20| B: that's wonderful . there's _a lot_ out there [to] see 
+B|21| M: [i have] [a lot] . [i] don'' [have] any money . 
+A|22| B: [uh [you] know] [and] [and] generally when _i was_ growing up [a lot] [of] those people [the] only [time] [i] ever saw [them] [was] at [the] reunion so [uh] 
+B|23| M: _this_ [uh] reminds 
+A|24| B: uh-huh . 
+B|25| M: _i'm_ [not] sure if [i] should say _yes_ [but] _yeah_ 
+A|26| B: uh-huh . 
+B|27| M: yea _. but_ what if [it] [was] [too] easy ? 
+A|28| B: _right_ . 
+B|29| M:  
+A|30| B: [and] [this] christmas [i] went [to] turkey [. but] basically it's [a] [for] _the past_ [couple of] years [i] since [my] parents are are [well i'm] from argentina [and] [my] parents live down there . so all [the] traveling [i] [do] is alone . 
+B|31| M: [i] [like] [to] _think_ [that] we've [had] [a] group [of] golf courses [in [the] past] [that] [have] been completely unenforceable . 
+A|32| B: [yes] . 
+B|33| M:  ... 
+A|34| B: that's _right_ [yeah] they probably couldn't [do] anything monetary [but i] [think] giving giving some kind [of] college credit 
+B|35| M: you're [right] [i was] _just_ thinking [of] [it] [in] [a] different way . 
+A|36| B: uh-huh that's [right] they pull [the] strings . 
+B|37| M: he sighs . 
+A|38| B: [right] . 
+B|39| M: your middle child has [a] flat stomach because she's [a] pallet . 
+A|40| B: so we'll slowly learn [just to] type here [and] then then put [the] story [in] . 
+B|41| M: ah [well] [you] don't [know] me . 
+A|42| B: [the] only girl . 
+B|43| M: [you] can eat [the] babies 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : that's that's a lot of kids though .
+	Free: Pattern=a lot, Pattern=of
+	Constrained: Pattern=a
+Turn ID=1| B | M : i've got a few small things to do .
+	Free: Pattern=i've got a, Pattern=do ., Pattern=to
+	Constrained: Pattern=got a, Pattern=a, Pattern=do
+Turn ID=2| A | B : with baseball tickets .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : he was the best player on the cowboys for a long time .
+	Free: Pattern=time, Pattern=a, Pattern=for, Pattern=the, Pattern=was
+	Constrained: 
+Turn ID=4| A | B : like last saturday we went had some errands to run and so we took the kids and and went by the farmers market down in in down there in garland .
+	Free: Pattern=and, Pattern=in, Pattern=like, Pattern=had, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=5| B | M : i don't know why would you recommend it ?
+	Free: Pattern=know, Pattern=i, Pattern=you, Pattern=it
+	Constrained: 
+Turn ID=6| A | B : uh um um no not really . in that but then again uh well i you know i have some aunts that uh i i i do . that's about my mother's sisters you know
+	Free: Pattern=well, Pattern=do ., Pattern=in, Pattern=i, Pattern=really, Pattern=my, Pattern=uh, Pattern=you know, Pattern=that, Pattern=but, Pattern=not, Pattern=i have
+	Constrained: Pattern=you, Pattern=have, Pattern=do, Pattern=know, Pattern=i
+Turn ID=7| B | M : ugh . uh you got a couple of them huh ?
+	Free: Pattern=couple of, Pattern=got a, Pattern=of them, Pattern=uh you
+	Constrained: Pattern=of, Pattern=a, Pattern=them, Pattern=you, Pattern=uh
+Turn ID=8| A | B : i do i do microwave too a lot
+	Free: Pattern=a lot, Pattern=too, Pattern=i, Pattern=do
+	Constrained: Pattern=a
+Turn ID=9| B | M : yeah i uh think you're you know gonna
+	Free: Pattern=yeah, Pattern=think, Pattern=i, Pattern=uh, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=10| A | B : so
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : i'm not sure but i can find something that would look good .
+	Free: Pattern=but i, Pattern=not, Pattern=i'm, Pattern=that
+	Constrained: Pattern=but, Pattern=i
+Turn ID=12| A | B : um .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : i wouldnt have to work just to pay my own rent and food .
+	Free: Pattern=have, Pattern=and, Pattern=just to, Pattern=i, Pattern=to, Pattern=my
+	Constrained: Pattern=just, Pattern=to
+Turn ID=14| A | B : and a lot of their parents are totally irresponsible . some of them in the penal system .
+	Free: Pattern=of, Pattern=of them, Pattern=and, Pattern=in the, Pattern=a lot
+	Constrained: Pattern=of, Pattern=a, Pattern=in, Pattern=the, Pattern=them
+Turn ID=15| B | M : oh really ?
+	Free: Pattern=really
+	Constrained: 
+Turn ID=16| A | B : but it it makes a great i mean i've got a two year old and a four year old and they love it .
+	Free: Pattern=a, Pattern=i, Pattern=i've got a, Pattern=but, Pattern=it, Pattern=and
+	Constrained: Pattern=got a, Pattern=a
+Turn ID=17| B | M : i told him that he was getting downvotes .
+	Free: Pattern=was, Pattern=i, Pattern=that
+	Constrained: 
+Turn ID=18| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : oh . well i'm not in richardson .
+	Free: Pattern=well i'm, Pattern=not, Pattern=in
+	Constrained: Pattern=well, Pattern=i'm
+Turn ID=20| A | B : that's wonderful . there's a lot out there to see
+	Free: Pattern=a lot, Pattern=to
+	Constrained: Pattern=a
+Turn ID=21| B | M : i have a lot . i don'' have any money .
+	Free: Pattern=a lot, Pattern=i have, Pattern=i, Pattern=have
+	Constrained: Pattern=a, Pattern=i, Pattern=have
+Turn ID=22| A | B : uh you know and and generally when i was growing up a lot of those people the only time i ever saw them was at the reunion so uh
+	Free: Pattern=of, Pattern=and, Pattern=i, Pattern=the, Pattern=a lot, Pattern=was, Pattern=uh you, Pattern=them, Pattern=time, Pattern=i was, Pattern=uh, Pattern=you know
+	Constrained: Pattern=a, Pattern=know, Pattern=i, Pattern=was, Pattern=you, Pattern=uh
+Turn ID=23| B | M : this uh reminds
+	Free: Pattern=this, Pattern=uh
+	Constrained: 
+Turn ID=24| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : i'm not sure if i should say yes but yeah
+	Free: Pattern=yes, Pattern=yeah, Pattern=i'm, Pattern=i, Pattern=but, Pattern=not
+	Constrained: 
+Turn ID=26| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : yea . but what if it was too easy ?
+	Free: Pattern=. but, Pattern=was, Pattern=too, Pattern=it
+	Constrained: Pattern=but
+Turn ID=28| A | B : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=29| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : and this christmas i went to turkey . but basically it's a for the past couple of years i since my parents are are well i'm from argentina and my parents live down there . so all the traveling i do is alone .
+	Free: Pattern=for, Pattern=. but, Pattern=the, Pattern=to, Pattern=the past, Pattern=do, Pattern=a, Pattern=and, Pattern=well i'm, Pattern=couple of, Pattern=i, Pattern=my, Pattern=this
+	Constrained: Pattern=of, Pattern=well, Pattern=i'm, Pattern=the, Pattern=but
+Turn ID=31| B | M : i like to think that we've had a group of golf courses in the past that have been completely unenforceable .
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=in the, Pattern=think, Pattern=i, Pattern=like, Pattern=had, Pattern=to, Pattern=the past, Pattern=that
+	Constrained: Pattern=the, Pattern=in
+Turn ID=32| A | B : yes .
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=33| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : that's right yeah they probably couldn't do anything monetary but i think giving giving some kind of college credit
+	Free: Pattern=but i, Pattern=do, Pattern=yeah, Pattern=think, Pattern=right, Pattern=of
+	Constrained: Pattern=but, Pattern=i
+Turn ID=35| B | M : you're right i was just thinking of it in a different way .
+	Free: Pattern=i was, Pattern=just, Pattern=a, Pattern=it, Pattern=in, Pattern=right, Pattern=of
+	Constrained: Pattern=was, Pattern=i
+Turn ID=36| A | B : uh-huh that's right they pull the strings .
+	Free: Pattern=the, Pattern=right
+	Constrained: 
+Turn ID=37| B | M : he sighs .
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=39| B | M : your middle child has a flat stomach because she's a pallet .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=40| A | B : so we'll slowly learn just to type here and then then put the story in .
+	Free: Pattern=just to, Pattern=the, Pattern=and, Pattern=in
+	Constrained: Pattern=just, Pattern=to
+Turn ID=41| B | M : ah well you don't know me .
+	Free: Pattern=well, Pattern=know, Pattern=you
+	Constrained: 
+Turn ID=42| A | B : the only girl .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=43| B | M : you can eat the babies
+	Free: Pattern=you, Pattern=the
+	Constrained: 

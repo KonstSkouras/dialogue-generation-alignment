@@ -1,0 +1,271 @@
+B|0| M: _yes_ _uh-huh ._ 
+A|1| A: [yes] _that's_ similar _to_ georgia . 
+B|2| M: _uh-huh ._ 
+A|3| A: _that's_ probably _true_ considering [yes] . [yes] _uh i_ guess _in a_ _way that_ _it_ _it_ kind _of_ defeats _the_ purpose _of_ having capital punishment _if_ 
+B|4| M: _yeah_ _yeah ._ 
+A|5| A: [yes] _. right_ _that_ would _be the_ intent _of_ _it ._ 
+B|6| M:  !!! % !! ; !! remind me . 
+A|7| A: _well i think_ _it_ would _be_ _more_ successful _if it was_ applied _in a_ _more_ expedient manner _if_ there weren't so many appeals . 
+B|8| M: [right] . 
+A|9| A: [yeah] _if_ _if_ _the_ person who's going _to_ commit _the_ _crime_ knew _that_ _they_ were going _to be_ punished severely possibly capital punishment 
+B|10| M: [right] . 
+A|11| A: _uh_ _i'm_ _a_ research engineer _i_ _work_ _uh_ _with_ georgia tech . 
+B|12| M: _oh_ _you_ do [work] [with] uh-homing . 
+A|13| A: um . 
+B|14| M: and [uh] . 
+A|15| A: [yes] . 
+B|16| M: and [uh] . 
+A|17| A: um . 
+B|18| M: and [uh _i] don't_ know _it's_ [it] just [i think] _it's_ [a] problem [that] we've got [to] address . 
+A|19| A: [uh-huh .] 
+B|20| M: _but_ _you_ know [i] _i don't_ _see_ [the] problem [with] [it .] 
+A|21| A: um _that's_ probably _true_ _but i_ guess _there's_ other factors [that] 
+B|22| M: [well i think] [the] [the] most significant factor _is_ [that] we're _not_ spending enough . 
+A|23| A: [but] pumping _more_ _money_ into _the school_ system _is a good_ thing 
+B|24| M: uh-uh [. right] . 
+A|25| A: _but it's not_ going [to] [oh] [i] [see] . 
+B|26| M: [it's not] just [the school] systems [i] mean [there's] been things done [to] try [to] [to] slow down [the] rate [of] [crime] and _i'm sure_ [that] [that] has [not] been 
+A|27| A: [uh-huh .] 
+B|28| M: and [uh] [they] just [they] just seem [to] fit [right] [in] [with] [the] society and and _i don't_ know what [they] can do [to] fix [it .] 
+A|29| A: um . 
+B|30| M: and [uh] . 
+A|31| A: so _that's a_ difficult _situation_ . 
+B|32| M: uh-uh . uh-uh _yeah ._ 
+A|33| A: um . 
+B|34| M: and [i think] they're _a lot_ [more] hardened and they're they're [more] [uh] they've done [more] 
+A|35| A: [uh-huh .] 
+B|36| M: [but] [uh i] [i think] [that] [that] we're [in a] [in a] [situation] where we need [to] change [the] [way that] people [think] _about_ [it .] 
+A|37| A: [uh-huh .] 
+B|38| M: we're supposed [to [be] the] masters [of] [the] social [uh] 
+A|39| A: _well that's_ probably _true ._ 
+B|40| M: [yeah] [but] [uh] . 
+A|41| A: um _yeah i_ guess _that's_ [not] an easy solution . [there's] [there's] _no_ easy solution _for_ _that ._ 
+B|42| M: [no] . 
+A|43| A: [uh-huh .] 
+B|44| M: or _you_ could just hire people [that] are trained [to] do [that .] [i] mean [they] could _you_ know train them [to] do [it] [but] [uh] _you_ can't just hire them and then _you_ _you_ _have_ [to] train them . _you_ _have_ [to be] able [to] train [the] people [that] do [it .] 
+A|45| A: [i'm sure] [it] [is] [yeah .] 
+B|46| M: [but i] don t remember [if] [it's] [if it was] just [if] [they] gave him [a] scholarship [if] he'd [be] [in] [good] standing and _you_ know he'd get some [money] [for] [it] [but it's not] like [they] can just send him [to] anybody else . 
+A|47| A: um _yeah [i_ don't] [i don't] certainly capital punishment isn't going [to] solve [a lot] [of] problems 
+B|48| M: uh-uh . uh-uh [i think] [that] [uh] 
+A|49| A: [but] 
+B|50| M: [i don't] know . 
+A|51| A: [uh] 
+B|52| M: [uh] . 
+A|53| A: [i] guess [i] am [for] certain 
+B|54| M: [yeah .] 
+A|55| A: [yeah] [in] certain crimes . 
+B|56| M: [yeah [i] think] [that's] [true .] 
+A|57| A: [uh] premeditated murder . crimes _of that_ nature [i think] should definitely 
+B|58| M: [uh-huh .] 
+A|59| A: any mass murderer type individual . 
+B|60| M: [uh] . 
+A|61| A: um . [uh-huh .] [well] [you] always [have] castration 
+B|62| M: [yeah i] know . 
+A|63| A: [yes] [i] read [about] [that] 
+B|64| M: [well that's] [that's a] [that] [that] [is a good] point . [i] hadn't thought [of [that] .] 
+A|65| A: [uh-huh .] 
+B|66| M: and [uh] [that's] what [they] said [in] [the] paper [they] said [that] [uh] [that] [the] [uh] [they] said [the] [the] [they] [uh] [the] civil [uh] rights program [uh] [that] [that] [the] judges [have] [to be] unanimous on [is] [not] [a good] [uh] ... 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : yes uh-huh .
+	Free: Pattern=uh-huh ., Pattern=yes
+	Constrained: 
+Turn ID=1| A | A : yes that's similar to georgia .
+	Free: Pattern=yes, Pattern=that's, Pattern=to
+	Constrained: 
+Turn ID=2| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=3| A | A : that's probably true considering yes . yes uh i guess in a way that it it kind of defeats the purpose of having capital punishment if
+	Free: Pattern=way that, Pattern=of, Pattern=yes, Pattern=in a, Pattern=it, Pattern=if, Pattern=true, Pattern=uh i, Pattern=that's, Pattern=the
+	Constrained: Pattern=uh, Pattern=a, Pattern=in, Pattern=i, Pattern=that
+Turn ID=4| B | M : yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=5| A | A : yes . right that would be the intent of it .
+	Free: Pattern=of, Pattern=. right, Pattern=be the, Pattern=that, Pattern=it ., Pattern=yes
+	Constrained: Pattern=the, Pattern=right, Pattern=it, Pattern=be
+Turn ID=6| B | M :  !!! % !! ; !! remind me .
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : well i think it would be more successful if it was applied in a more expedient manner if there weren't so many appeals .
+	Free: Pattern=it, Pattern=if, Pattern=be, Pattern=if it was, Pattern=more, Pattern=in a, Pattern=well i think
+	Constrained: Pattern=well, Pattern=a, Pattern=it, Pattern=if, Pattern=i, Pattern=i think, Pattern=think, Pattern=in
+Turn ID=8| B | M : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=9| A | A : yeah if if the person who's going to commit the crime knew that they were going to be punished severely possibly capital punishment
+	Free: Pattern=they, Pattern=yeah, Pattern=if, Pattern=crime, Pattern=the, Pattern=to, Pattern=to be, Pattern=that
+	Constrained: Pattern=to, Pattern=be
+Turn ID=10| B | M : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=11| A | A : uh i'm a research engineer i work uh with georgia tech .
+	Free: Pattern=uh, Pattern=a, Pattern=i, Pattern=with, Pattern=i'm, Pattern=work
+	Constrained: 
+Turn ID=12| B | M : oh you do work with uh-homing .
+	Free: Pattern=with, Pattern=you, Pattern=oh, Pattern=work
+	Constrained: 
+Turn ID=13| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : and uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=15| A | A : yes .
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=16| B | M : and uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=17| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : and uh i don't know it's it just i think it's a problem that we've got to address .
+	Free: Pattern=i don't, Pattern=a, Pattern=it, Pattern=i think, Pattern=uh i, Pattern=to, Pattern=that, Pattern=it's
+	Constrained: Pattern=think, Pattern=uh, Pattern=i
+Turn ID=19| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=20| B | M : but you know i i don't see the problem with it .
+	Free: Pattern=i don't, Pattern=i, Pattern=the, Pattern=see, Pattern=you, Pattern=it ., Pattern=with, Pattern=but
+	Constrained: Pattern=it, Pattern=i
+Turn ID=21| A | A : um that's probably true but i guess there's other factors that
+	Free: Pattern=but i, Pattern=there's, Pattern=true, Pattern=that's, Pattern=that
+	Constrained: Pattern=i, Pattern=but
+Turn ID=22| B | M : well i think the the most significant factor is that we're not spending enough .
+	Free: Pattern=well i think, Pattern=is, Pattern=the, Pattern=that, Pattern=not
+	Constrained: Pattern=i think, Pattern=well, Pattern=think, Pattern=i
+Turn ID=23| A | A : but pumping more money into the school system is a good thing
+	Free: Pattern=is a good, Pattern=but, Pattern=the school, Pattern=money, Pattern=more
+	Constrained: Pattern=good, Pattern=a, Pattern=a good, Pattern=is, Pattern=the
+Turn ID=24| B | M : uh-uh . right .
+	Free: Pattern=. right
+	Constrained: Pattern=right
+Turn ID=25| A | A : but it's not going to oh i see .
+	Free: Pattern=i, Pattern=see, Pattern=to, Pattern=oh, Pattern=but it's not
+	Constrained: Pattern=it's not, Pattern=not, Pattern=it's, Pattern=but
+Turn ID=26| B | M : it's not just the school systems i mean there's been things done to try to to slow down the rate of crime and i'm sure that that has not been
+	Free: Pattern=of, Pattern=there's, Pattern=i, Pattern=crime, Pattern=the, Pattern=it's not, Pattern=that, Pattern=i'm sure, Pattern=to, Pattern=the school, Pattern=not
+	Constrained: Pattern=it's, Pattern=not, Pattern=i'm, Pattern=the
+Turn ID=27| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=28| B | M : and uh they just they just seem to fit right in with the society and and i don't know what they can do to fix it .
+	Free: Pattern=right, Pattern=i don't, Pattern=they, Pattern=in, Pattern=the, Pattern=to, Pattern=with, Pattern=uh, Pattern=it .
+	Constrained: Pattern=it, Pattern=i
+Turn ID=29| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : and uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=31| A | A : so that's a difficult situation .
+	Free: Pattern=that's a, Pattern=situation
+	Constrained: Pattern=that's, Pattern=a
+Turn ID=32| B | M : uh-uh . uh-uh yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=33| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=34| B | M : and i think they're a lot more hardened and they're they're more uh they've done more
+	Free: Pattern=a lot, Pattern=i think, Pattern=uh, Pattern=more
+	Constrained: Pattern=think, Pattern=i, Pattern=a
+Turn ID=35| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=36| B | M : but uh i i think that that we're in a in a situation where we need to change the way that people think about it .
+	Free: Pattern=way that, Pattern=it ., Pattern=in a, Pattern=about, Pattern=think, Pattern=situation, Pattern=the, Pattern=i think, Pattern=uh i, Pattern=to, Pattern=that, Pattern=but
+	Constrained: Pattern=uh, Pattern=a, Pattern=it, Pattern=i, Pattern=that, Pattern=think, Pattern=in
+Turn ID=37| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=38| B | M : we're supposed to be the masters of the social uh
+	Free: Pattern=of, Pattern=uh, Pattern=the, Pattern=be the, Pattern=to be
+	Constrained: Pattern=the, Pattern=to, Pattern=be
+Turn ID=39| A | A : well that's probably true .
+	Free: Pattern=true ., Pattern=well that's
+	Constrained: Pattern=well, Pattern=true, Pattern=that's
+Turn ID=40| B | M : yeah but uh .
+	Free: Pattern=uh, Pattern=yeah, Pattern=but
+	Constrained: 
+Turn ID=41| A | A : um yeah i guess that's not an easy solution . there's there's no easy solution for that .
+	Free: Pattern=that ., Pattern=no, Pattern=yeah i, Pattern=for, Pattern=there's, Pattern=that's, Pattern=not
+	Constrained: Pattern=yeah, Pattern=i, Pattern=that
+Turn ID=42| B | M : no .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=43| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=44| B | M : or you could just hire people that are trained to do that . i mean they could you know train them to do it but uh you can't just hire them and then you you have to train them . you have to be able to train the people that do it .
+	Free: Pattern=that ., Pattern=have, Pattern=they, Pattern=it, Pattern=i, Pattern=the, Pattern=to, Pattern=to be, Pattern=you, Pattern=uh, Pattern=it ., Pattern=that, Pattern=but
+	Constrained: Pattern=to, Pattern=it, Pattern=be, Pattern=that
+Turn ID=45| A | A : i'm sure it is yeah .
+	Free: Pattern=yeah ., Pattern=i'm sure, Pattern=it, Pattern=is
+	Constrained: Pattern=yeah, Pattern=i'm
+Turn ID=46| B | M : but i don t remember if it's if it was just if they gave him a scholarship if he'd be in good standing and you know he'd get some money for it but it's not like they can just send him to anybody else .
+	Free: Pattern=good, Pattern=you, Pattern=a, Pattern=for, Pattern=if, Pattern=in, Pattern=be, Pattern=to, Pattern=it's, Pattern=if it was, Pattern=money, Pattern=they, Pattern=but i, Pattern=it, Pattern=but it's not
+	Constrained: Pattern=it, Pattern=if, Pattern=i, Pattern=it's not, Pattern=not, Pattern=it's, Pattern=but
+Turn ID=47| A | A : um yeah i don't i don't certainly capital punishment isn't going to solve a lot of problems
+	Free: Pattern=of, Pattern=i don't, Pattern=yeah i, Pattern=a lot, Pattern=to
+	Constrained: Pattern=a, Pattern=yeah, Pattern=i
+Turn ID=48| B | M : uh-uh . uh-uh i think that uh
+	Free: Pattern=i think, Pattern=uh, Pattern=that
+	Constrained: Pattern=think, Pattern=i
+Turn ID=49| A | A : but
+	Free: Pattern=but
+	Constrained: 
+Turn ID=50| B | M : i don't know .
+	Free: Pattern=i don't
+	Constrained: Pattern=i
+Turn ID=51| A | A : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=52| B | M : uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=53| A | A : i guess i am for certain
+	Free: Pattern=i, Pattern=for
+	Constrained: 
+Turn ID=54| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=55| A | A : yeah in certain crimes .
+	Free: Pattern=yeah, Pattern=in
+	Constrained: 
+Turn ID=56| B | M : yeah i think that's true .
+	Free: Pattern=true ., Pattern=i think, Pattern=yeah i, Pattern=that's
+	Constrained: Pattern=true, Pattern=think, Pattern=yeah, Pattern=i
+Turn ID=57| A | A : uh premeditated murder . crimes of that nature i think should definitely
+	Free: Pattern=of that, Pattern=i think, Pattern=uh
+	Constrained: Pattern=think, Pattern=i, Pattern=of, Pattern=that
+Turn ID=58| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=59| A | A : any mass murderer type individual .
+	Free: 
+	Constrained: 
+Turn ID=60| B | M : uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=61| A | A : um . uh-huh . well you always have castration
+	Free: Pattern=uh-huh ., Pattern=well, Pattern=you, Pattern=have
+	Constrained: 
+Turn ID=62| B | M : yeah i know .
+	Free: Pattern=yeah i
+	Constrained: Pattern=yeah, Pattern=i
+Turn ID=63| A | A : yes i read about that
+	Free: Pattern=about, Pattern=yes, Pattern=i, Pattern=that
+	Constrained: 
+Turn ID=64| B | M : well that's that's a that that is a good point . i hadn't thought of that .
+	Free: Pattern=that ., Pattern=of that, Pattern=is a good, Pattern=i, Pattern=that's a, Pattern=well that's, Pattern=that
+	Constrained: Pattern=good, Pattern=of, Pattern=well, Pattern=a, Pattern=a good, Pattern=is, Pattern=that's, Pattern=that
+Turn ID=65| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=66| B | M : and uh that's what they said in the paper they said that uh that the uh they said the the they uh the civil uh rights program uh that that the judges have to be unanimous on is not a good uh ...
+	Free: Pattern=uh, Pattern=have, Pattern=they, Pattern=a good, Pattern=in, Pattern=is, Pattern=to be, Pattern=that, Pattern=not, Pattern=that's, Pattern=the
+	Constrained: Pattern=to, Pattern=good, Pattern=be, Pattern=a

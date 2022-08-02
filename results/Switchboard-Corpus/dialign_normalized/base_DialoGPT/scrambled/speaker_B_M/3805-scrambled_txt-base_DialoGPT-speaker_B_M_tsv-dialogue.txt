@@ -1,0 +1,163 @@
+A|0| B: _and_ uh uh also _that_ _that_ it _my_ subconscious is working on things while _i'm_ working _and_ _i_ _i_ go back _and_ i've got new ideas but still . 
+B|1| M: _no_ time . 
+A|2| B: uh-huh . 
+B|3| M: lol 
+A|4| B: yes . 
+B|5| M: [and] _it's_ _not_ _like_ they're _the_ fastest 
+A|6| B: _you_ too . 
+B|7| M:  
+A|8| B: oh oh excuse me ? 
+B|9| M: _you don't_ _know_ ? 
+A|10| B: but 
+B|11| M: [my] husband works _for_ _the_ texas instruments company . 
+A|12| B: _i_ [know] there's _you know_ when [you] adjust your income [for] _what_ [you] put out [for] day-care _you know_ _you're_ only making [like] five . 
+B|13| M: [i'm] _a_ freshman . 
+A|14| B: um . now _that_ would be _good_ . 
+B|15| M: _that's_ _not_ _the_ point _of the_ post 
+A|16| B: uh-huh . yeah certainly . 
+B|17| M: [what] ? [you] mean _the_ _ones_ [that] _were_ _there_ before _you ?_ 
+A|18| B: twelve children ? 
+B|19| M: [i'm] _in_ houston _so_ [i] can't even get _the_ car . 
+A|20| B: anyway [i] _have_ another uh recycling method [i] use . 
+B|21| M: i'll 
+A|22| B: [no] [i] [not] [that] [i'm] aware [of] . 
+B|23| M: well _i'm glad_ [you're] here [i] guess . 
+A|24| B: they certainly enjoy [that] part [of] it [it's] just trying to keep anything . [i] planted bulbs last uh fall on [the] side guard [and] when [i] went out [there] [in] [the] spring [and] [the] first day they came out [the] little one went [and] pulled all [the] flowers off [and] [the] flower petals [were] scattered all over [the] walk 
+B|25| M:  
+A|26| B: [the] other one is uh uh has _you know_ needs more work done . [it's] twenty years old [i] think . 
+B|27| M: [you] mean'' why'' ? 
+A|28| B: okay . 
+B|29| M: _are you_ serious ? 
+A|30| B: [are [you] ?] where [are] [a] student ? 
+B|31| M: well [you're] [a] doctor 
+A|32| B: yeah [so] see [there] [there] they would _have_ [a] doubt about [you] [that] _you know_ 
+B|33| M: [it's] [a] [good] _thing_ . 
+A|34| B: [i'm glad] [you] told me [that] because [i] use those at work where [i] work [and] uh but [i] can just forget [that] from now on . [i'm] going [i'm] going to switch to [the] white [ones] . 
+B|35| M: well [it's] [a] _thing_ [you know] . 
+A|36| B: [i] believe [that's] true yes . 
+B|37| M: [i] _don't_ [know] . 
+A|38| B: [and] [and] it _was_ [a] real positive [thing] but on [the] other hand [you don't] want to you'd be one [of] these people [that] dumps [the] kittens off on [the] side [of the] road [you know] 
+B|39| M: he [was] [in] jail he didn't [have] any 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and uh uh also that that it my subconscious is working on things while i'm working and i i go back and i've got new ideas but still .
+	Free: Pattern=and, Pattern=i'm, Pattern=i, Pattern=my, Pattern=that
+	Constrained: 
+Turn ID=1| B | M : no time .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=2| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : lol
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : yes .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : and it's not like they're the fastest
+	Free: Pattern=and, Pattern=like, Pattern=the, Pattern=it's, Pattern=not
+	Constrained: 
+Turn ID=6| A | B : you too .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=7| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : oh oh excuse me ?
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : you don't know ?
+	Free: Pattern=you don't, Pattern=know
+	Constrained: Pattern=you, Pattern=don't
+Turn ID=10| A | B : but
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : my husband works for the texas instruments company .
+	Free: Pattern=my, Pattern=for, Pattern=the
+	Constrained: 
+Turn ID=12| A | B : i know there's you know when you adjust your income for what you put out for day-care you know you're only making like five .
+	Free: Pattern=you're, Pattern=what, Pattern=for, Pattern=know, Pattern=i, Pattern=like, Pattern=you, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=13| B | M : i'm a freshman .
+	Free: Pattern=i'm, Pattern=a
+	Constrained: 
+Turn ID=14| A | B : um . now that would be good .
+	Free: Pattern=that, Pattern=good
+	Constrained: 
+Turn ID=15| B | M : that's not the point of the post
+	Free: Pattern=of the, Pattern=that's, Pattern=the, Pattern=not
+	Constrained: Pattern=the, Pattern=of
+Turn ID=16| A | B : uh-huh . yeah certainly .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : what ? you mean the ones that were there before you ?
+	Free: Pattern=you, Pattern=ones, Pattern=you ?, Pattern=the, Pattern=were, Pattern=that, Pattern=what, Pattern=there
+	Constrained: Pattern=you
+Turn ID=18| A | B : twelve children ?
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : i'm in houston so i can't even get the car .
+	Free: Pattern=in, Pattern=i'm, Pattern=i, Pattern=the, Pattern=so
+	Constrained: 
+Turn ID=20| A | B : anyway i have another uh recycling method i use .
+	Free: Pattern=have, Pattern=i
+	Constrained: 
+Turn ID=21| B | M : i'll
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : no i not that i'm aware of .
+	Free: Pattern=of, Pattern=no, Pattern=i'm, Pattern=i, Pattern=that, Pattern=not
+	Constrained: 
+Turn ID=23| B | M : well i'm glad you're here i guess .
+	Free: Pattern=i'm glad, Pattern=you're, Pattern=i
+	Constrained: Pattern=i'm
+Turn ID=24| A | B : they certainly enjoy that part of it it's just trying to keep anything . i planted bulbs last uh fall on the side guard and when i went out there in the spring and the first day they came out the little one went and pulled all the flowers off and the flower petals were scattered all over the walk
+	Free: Pattern=of, Pattern=there, Pattern=and, Pattern=in, Pattern=i, Pattern=the, Pattern=were, Pattern=that, Pattern=it's
+	Constrained: 
+Turn ID=25| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : the other one is uh uh has you know needs more work done . it's twenty years old i think .
+	Free: Pattern=you know, Pattern=it's, Pattern=the, Pattern=i
+	Constrained: Pattern=know, Pattern=you
+Turn ID=27| B | M : you mean'' why'' ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=28| A | B : okay .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : are you serious ?
+	Free: Pattern=are you
+	Constrained: Pattern=are, Pattern=you
+Turn ID=30| A | B : are you ? where are a student ?
+	Free: Pattern=you ?, Pattern=are you, Pattern=are, Pattern=a
+	Constrained: Pattern=are, Pattern=you
+Turn ID=31| B | M : well you're a doctor
+	Free: Pattern=you're, Pattern=a
+	Constrained: 
+Turn ID=32| A | B : yeah so see there there they would have a doubt about you that you know
+	Free: Pattern=have, Pattern=there, Pattern=a, Pattern=that, Pattern=so, Pattern=you, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=33| B | M : it's a good thing .
+	Free: Pattern=it's, Pattern=thing, Pattern=good, Pattern=a
+	Constrained: 
+Turn ID=34| A | B : i'm glad you told me that because i use those at work where i work and uh but i can just forget that from now on . i'm going i'm going to switch to the white ones .
+	Free: Pattern=i'm glad, Pattern=you, Pattern=ones, Pattern=and, Pattern=i'm, Pattern=i, Pattern=the, Pattern=that
+	Constrained: Pattern=i'm
+Turn ID=35| B | M : well it's a thing you know .
+	Free: Pattern=you know, Pattern=it's, Pattern=thing, Pattern=a
+	Constrained: Pattern=know, Pattern=you
+Turn ID=36| A | B : i believe that's true yes .
+	Free: Pattern=that's, Pattern=i
+	Constrained: 
+Turn ID=37| B | M : i don't know .
+	Free: Pattern=know, Pattern=i, Pattern=don't
+	Constrained: 
+Turn ID=38| A | B : and and it was a real positive thing but on the other hand you don't want to you'd be one of these people that dumps the kittens off on the side of the road you know
+	Free: Pattern=of, Pattern=you know, Pattern=a, Pattern=and, Pattern=you don't, Pattern=was, Pattern=thing, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=you, Pattern=know, Pattern=the, Pattern=don't
+Turn ID=39| B | M : he was in jail he didn't have any
+	Free: Pattern=have, Pattern=in, Pattern=was
+	Constrained: 

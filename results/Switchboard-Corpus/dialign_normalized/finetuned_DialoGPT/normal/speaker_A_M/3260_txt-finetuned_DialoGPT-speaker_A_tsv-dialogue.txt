@@ -1,0 +1,275 @@
+B|0| M: _yeah ._ 
+A|1| A: _and_ _i_ spend most _of_ my _time_ carpooling 
+B|2| M: _uh-huh ._ 
+A|3| A: _the_ story _of_ my life 
+B|4| M: _uh-huh ._ 
+A|5| A: my _kids_ _are_ involved in sports . my daughter has played basketball _for_ six years _and_ my son plays football . _i_ my rule _is _that_ they_ can't play _a_ sport _the_ same _time_ _of_ _the_ year _because_ there's _just_ not enough _of_ me _to_ drive them around everywhere . 
+B|6| M: _uh-huh ._ 
+A|7| A: yes . _i know_ _i know ._ _the_ insurance . 
+B|8| M: _and uh_ . 
+A|9| A: yes . my son _is_ in both band [and] scouts _too_ . 
+B|10| M: _yeah ._ 
+A|11| A: _oh_ gee . 
+B|12| M: _so uh_ 
+A|13| A: right . 
+B|14| M: _so ._ 
+A|15| A: [uh-huh .] 
+B|16| M: _and uh we_ were trying [to] _do_ _things like_ _uh_ _you know_ _work_ _out_ _and _and_ things like that_ . 
+A|17| A: [yeah .] 
+B|18| M: _and uh_ . 
+A|19| A: [we] found this oriental tile game called mah-jongg . 
+B|20| M: [oh] [i know .] 
+A|21| A: _have_ [you] ? 
+B|22| M: [yeah _.] _and_ uh_ 
+A|23| A: _well_ _it's_ really fun . um one _of_ my neighbors moved here from memphis [and] _a lot_ _of_ them played _it_ [and] she started _a_ group going in _the_ neighborhood [and] my _kids_ wanted [to] learn how [to] play _it_ [and] _it's_ more fun _with_ four people . 
+B|24| M: [uh-huh .] 
+A|25| A: [and] _it's_ _a_ game [that] none _of_ their friends [know] how [to] play _and they_ both enjoy _it_ . [so] if _they want to_ play _they _have_ to_ play _with_ mom [and] dad . 
+B|26| M: _that's_ true . 
+A|27| A: [so [uh] we] play [that] _a lot_ _of_ them [and uh we] [like] [to] go miniature golfing [and] [to] movies . 
+B|28| M: [uh-huh .] 
+A|29| A: [we] _have_ family [that] lives outside _of_ _the_ state [so] [we] go visit both sets _of_ grandparents [and and] take car trips . 
+B|30| M: [uh-huh .] 
+A|31| A: [so] [that] [and] my husband [and] son go camping _with_ scouts mostly . 
+B|32| M: [uh-huh .] 
+A|33| A: my daughter [and and] [i] hate camping [so] [we] go shopping . [so] [that] _just_ kind _of_ works [out] real _well_ . 
+B|34| M: [oh] [yeah .] 
+A|35| A: [and] um _i'm_ _a_ writer by profession [and] my daughter enjoys writing _too_ [so] _a lot_ _of_ times she [and] [i] will travel [to] writers conferences together . 
+B|36| M: [uh-huh .] 
+A|37| A: [yeah .] [yeah .] 
+B|38| M: _that's_ _a lot ._ 
+A|39| A: [so] [that] _gives us_ special _time_ together _too_ . 
+B|40| M: [well] [it] _does_ [it] [gives us] [time] [to] think _you know_ 
+A|41| A: [and] she's on _the_ yearbook staff [and things like that] [so] [i] can help her _with_ [that] [and] she [gives] me ideas _for_ my writing _too_ [so .] 
+B|42| M: [oh] [yeah .] 
+A|43| A: yep . 
+B|44| M: [well] [i] think _that's_ neat . 
+A|45| A: [yeah .] 
+B|46| M: [and uh] [i] think [it's] important [that they] [uh] [they have] some basic values [of] [uh] _you know ._ 
+A|47| A: right . 
+B|48| M: [they want to] see [the] world [and [they] want to] participate . 
+A|49| A: my husband has taken [us] [to] [work] _with_ him [and] [we] still _don't_ [know] what _he_ [does] . 
+B|50| M: [yeah .] [well] _that's_ [that] [that] [is that] was [a] _big_ part [of] [it] [too] was [the] [uh] . 
+A|51| A: [so] [we] _just_ say _he_ travels [a lot .] [so] [that] kind [of] covers [it] . 
+B|52| M: [well] [it] sounds [like] [you] guys [are] [uh] ... 
+A|53| A: yes . [yeah .] 
+B|54| M: [i] [i] think [he] [is] [you] [don't] [want to] get into [that] [too] much [because] _you _just_ you_ [have to] find [time] [for] yourself . 
+A|55| A: he's been on temporary duties where he's been gone nine months . 
+B|56| M: [uh-huh .] 
+A|57| A: yes . 
+B|58| M: [well] _that's_ great . 
+A|59| A: [so] those [are] [the] real killers . if he's [just] gone 
+B|60| M: [yeah] _that's_ true . 
+A|61| A: he's gone three weeks right now [and] [that's] [that's] mild compare [to] [the] [big] ones 
+B|62| M: [yeah] [yeah .] 
+A|63| A: [so] [we] [just [you] know .] [i] [just] [do] [the] carpooling [and and] handle whatever needs [to] be done [. and] something major always needs [to] be done . 
+B|64| M: [yeah] [i'm] [with] [the] [kids] all [the] [time] [so] 
+A|65| A: [so] [you just] [have to] [to] handle [it] until [he] gets home 
+B|66| M: [yeah] [i know .] 
+A|67| A: [and] hopefully [he] won't [have] [too] many surprises when [he] gets home . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=1| A | A : and i spend most of my time carpooling
+	Free: Pattern=and, Pattern=of, Pattern=i, Pattern=time
+	Constrained: 
+Turn ID=2| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=3| A | A : the story of my life
+	Free: Pattern=of, Pattern=the
+	Constrained: 
+Turn ID=4| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=5| A | A : my kids are involved in sports . my daughter has played basketball for six years and my son plays football . i my rule is that they can't play a sport the same time of the year because there's just not enough of me to drive them around everywhere .
+	Free: Pattern=time, Pattern=of, Pattern=just, Pattern=for, Pattern=and, Pattern=i, Pattern=is that, Pattern=the, Pattern=to, Pattern=that they, Pattern=a, Pattern=because, Pattern=are, Pattern=kids
+	Constrained: Pattern=is, Pattern=that
+Turn ID=6| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=7| A | A : yes . i know i know . the insurance .
+	Free: Pattern=i know ., Pattern=i know, Pattern=the
+	Constrained: Pattern=i know, Pattern=know, Pattern=i
+Turn ID=8| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=and, Pattern=uh
+Turn ID=9| A | A : yes . my son is in both band and scouts too .
+	Free: Pattern=and, Pattern=too, Pattern=is
+	Constrained: 
+Turn ID=10| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=11| A | A : oh gee .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=12| B | M : so uh
+	Free: Pattern=so uh
+	Constrained: Pattern=so, Pattern=uh
+Turn ID=13| A | A : right .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : so .
+	Free: Pattern=so .
+	Constrained: Pattern=so
+Turn ID=15| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=16| B | M : and uh we were trying to do things like uh you know work out and and things like that .
+	Free: Pattern=and and, Pattern=do, Pattern=work, Pattern=and uh we, Pattern=and things like that, Pattern=uh, Pattern=out, Pattern=you know, Pattern=to, Pattern=things like
+	Constrained: Pattern=and, Pattern=know, Pattern=uh we, Pattern=that, Pattern=you, Pattern=uh, Pattern=we, Pattern=like, Pattern=and uh, Pattern=things like
+Turn ID=17| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=18| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=and, Pattern=uh
+Turn ID=19| A | A : we found this oriental tile game called mah-jongg .
+	Free: Pattern=we
+	Constrained: 
+Turn ID=20| B | M : oh i know .
+	Free: Pattern=i know ., Pattern=oh
+	Constrained: Pattern=i know, Pattern=know, Pattern=i
+Turn ID=21| A | A : have you ?
+	Free: Pattern=you, Pattern=have
+	Constrained: 
+Turn ID=22| B | M : yeah . and uh
+	Free: Pattern=and uh, Pattern=yeah ., Pattern=. and
+	Constrained: Pattern=and, Pattern=yeah, Pattern=uh
+Turn ID=23| A | A : well it's really fun . um one of my neighbors moved here from memphis and a lot of them played it and she started a group going in the neighborhood and my kids wanted to learn how to play it and it's more fun with four people .
+	Free: Pattern=of, Pattern=well, Pattern=a, Pattern=kids, Pattern=the, Pattern=it, Pattern=and, Pattern=a lot, Pattern=to, Pattern=with, Pattern=it's
+	Constrained: Pattern=a
+Turn ID=24| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=25| A | A : and it's a game that none of their friends know how to play and they both enjoy it . so if they want to play they have to play with mom and dad .
+	Free: Pattern=of, Pattern=they have, Pattern=a, Pattern=they want to, Pattern=know, Pattern=have to, Pattern=and they, Pattern=to, Pattern=so, Pattern=it, Pattern=and, Pattern=with, Pattern=that, Pattern=it's
+	Constrained: Pattern=want to, Pattern=have, Pattern=to, Pattern=and
+Turn ID=26| B | M : that's true .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=27| A | A : so uh we play that a lot of them and uh we like to go miniature golfing and to movies .
+	Free: Pattern=of, Pattern=so uh, Pattern=and, Pattern=like, Pattern=that, Pattern=a lot, Pattern=to, Pattern=and uh we, Pattern=uh we
+	Constrained: Pattern=uh, Pattern=a, Pattern=and, Pattern=we, Pattern=and uh, Pattern=uh we, Pattern=so
+Turn ID=28| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=29| A | A : we have family that lives outside of the state so we go visit both sets of grandparents and and take car trips .
+	Free: Pattern=of, Pattern=we, Pattern=the, Pattern=that, Pattern=so, Pattern=have, Pattern=and and
+	Constrained: Pattern=and
+Turn ID=30| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=31| A | A : so that and my husband and son go camping with scouts mostly .
+	Free: Pattern=so, Pattern=and, Pattern=that, Pattern=with
+	Constrained: 
+Turn ID=32| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=33| A | A : my daughter and and i hate camping so we go shopping . so that just kind of works out real well .
+	Free: Pattern=of, Pattern=well, Pattern=out, Pattern=i, Pattern=we, Pattern=that, Pattern=so, Pattern=just, Pattern=and and
+	Constrained: Pattern=and
+Turn ID=34| B | M : oh yeah .
+	Free: Pattern=yeah ., Pattern=oh
+	Constrained: Pattern=yeah
+Turn ID=35| A | A : and um i'm a writer by profession and my daughter enjoys writing too so a lot of times she and i will travel to writers conferences together .
+	Free: Pattern=of, Pattern=a, Pattern=i'm, Pattern=i, Pattern=so, Pattern=and, Pattern=too, Pattern=a lot, Pattern=to
+	Constrained: Pattern=a
+Turn ID=36| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=37| A | A : yeah . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=38| B | M : that's a lot .
+	Free: Pattern=a lot ., Pattern=that's
+	Constrained: Pattern=a lot, Pattern=a
+Turn ID=39| A | A : so that gives us special time together too .
+	Free: Pattern=time, Pattern=too, Pattern=gives us, Pattern=that, Pattern=so
+	Constrained: Pattern=gives, Pattern=us
+Turn ID=40| B | M : well it does it gives us time to think you know
+	Free: Pattern=time, Pattern=well, Pattern=you know, Pattern=it, Pattern=does, Pattern=gives us, Pattern=to
+	Constrained: Pattern=know, Pattern=you, Pattern=gives, Pattern=us
+Turn ID=41| A | A : and she's on the yearbook staff and things like that so i can help her with that and she gives me ideas for my writing too so .
+	Free: Pattern=for, Pattern=i, Pattern=the, Pattern=gives, Pattern=so ., Pattern=and, Pattern=too, Pattern=with, Pattern=that, Pattern=so, Pattern=and things like that
+	Constrained: Pattern=and, Pattern=like, Pattern=things like, Pattern=that, Pattern=so
+Turn ID=42| B | M : oh yeah .
+	Free: Pattern=yeah ., Pattern=oh
+	Constrained: Pattern=yeah
+Turn ID=43| A | A : yep .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : well i think that's neat .
+	Free: Pattern=that's, Pattern=i, Pattern=well
+	Constrained: 
+Turn ID=45| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=46| B | M : and uh i think it's important that they uh they have some basic values of uh you know .
+	Free: Pattern=of, Pattern=you know ., Pattern=uh, Pattern=they have, Pattern=i, Pattern=and uh, Pattern=it's, Pattern=that they
+	Constrained: Pattern=have, Pattern=and, Pattern=know, Pattern=that, Pattern=you, Pattern=uh, Pattern=you know
+Turn ID=47| A | A : right .
+	Free: 
+	Constrained: 
+Turn ID=48| B | M : they want to see the world and they want to participate .
+	Free: Pattern=they want to, Pattern=and they, Pattern=the
+	Constrained: Pattern=want to, Pattern=and, Pattern=to
+Turn ID=49| A | A : my husband has taken us to work with him and we still don't know what he does .
+	Free: Pattern=and, Pattern=does, Pattern=we, Pattern=don't, Pattern=to, Pattern=with, Pattern=he, Pattern=us, Pattern=know, Pattern=work
+	Constrained: 
+Turn ID=50| B | M : yeah . well that's that that is that was a big part of it too was the uh .
+	Free: Pattern=of, Pattern=well, Pattern=uh, Pattern=a, Pattern=yeah ., Pattern=is that, Pattern=that, Pattern=it, Pattern=too, Pattern=that's, Pattern=big, Pattern=the
+	Constrained: Pattern=yeah, Pattern=is, Pattern=that
+Turn ID=51| A | A : so we just say he travels a lot . so that kind of covers it .
+	Free: Pattern=of, Pattern=just, Pattern=it, Pattern=we, Pattern=that, Pattern=so, Pattern=he, Pattern=a lot .
+	Constrained: Pattern=a lot, Pattern=a
+Turn ID=52| B | M : well it sounds like you guys are uh ...
+	Free: Pattern=well, Pattern=it, Pattern=are, Pattern=like, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=53| A | A : yes . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=54| B | M : i i think he is you don't want to get into that too much because you just you have to find time for yourself .
+	Free: Pattern=time, Pattern=you, Pattern=because, Pattern=for, Pattern=too, Pattern=he, Pattern=you just, Pattern=that, Pattern=want to, Pattern=just you, Pattern=is, Pattern=i, Pattern=have to, Pattern=don't
+	Constrained: Pattern=just, Pattern=to, Pattern=you, Pattern=have
+Turn ID=55| A | A : he's been on temporary duties where he's been gone nine months .
+	Free: 
+	Constrained: 
+Turn ID=56| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=57| A | A : yes .
+	Free: 
+	Constrained: 
+Turn ID=58| B | M : well that's great .
+	Free: Pattern=that's, Pattern=well
+	Constrained: 
+Turn ID=59| A | A : so those are the real killers . if he's just gone
+	Free: Pattern=just, Pattern=so, Pattern=are, Pattern=the
+	Constrained: 
+Turn ID=60| B | M : yeah that's true .
+	Free: Pattern=that's, Pattern=yeah
+	Constrained: 
+Turn ID=61| A | A : he's gone three weeks right now and that's that's mild compare to the big ones
+	Free: Pattern=and, Pattern=to, Pattern=that's, Pattern=big, Pattern=the
+	Constrained: 
+Turn ID=62| B | M : yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=63| A | A : so we just you know . i just do the carpooling and and handle whatever needs to be done . and something major always needs to be done .
+	Free: Pattern=you know ., Pattern=do, Pattern=just you, Pattern=i, Pattern=we, Pattern=the, Pattern=to, Pattern=. and, Pattern=so, Pattern=just, Pattern=and and
+	Constrained: Pattern=just, Pattern=and, Pattern=know, Pattern=you, Pattern=you know
+Turn ID=64| B | M : yeah i'm with the kids all the time so
+	Free: Pattern=time, Pattern=yeah, Pattern=kids, Pattern=i'm, Pattern=the, Pattern=with, Pattern=so
+	Constrained: 
+Turn ID=65| A | A : so you just have to to handle it until he gets home
+	Free: Pattern=it, Pattern=he, Pattern=have to, Pattern=to, Pattern=you just, Pattern=so
+	Constrained: Pattern=just, Pattern=to, Pattern=you, Pattern=have
+Turn ID=66| B | M : yeah i know .
+	Free: Pattern=i know ., Pattern=yeah
+	Constrained: Pattern=i know, Pattern=know, Pattern=i
+Turn ID=67| A | A : and hopefully he won't have too many surprises when he gets home .
+	Free: Pattern=and, Pattern=he, Pattern=too, Pattern=have
+	Constrained: 

@@ -1,0 +1,259 @@
+A|0| B: uh-huh . 
+B|1| M: yes uhhhhh 
+A|2| B: _yeah ._ 
+B|3| M: you're _a good_ person . 
+A|4| B: uh-huh . 
+B|5| M: _well_ _i_ _got_ _out_ _of_ _the_ gym _and_ ran _a_ lot _and i_ felt _good ._ 
+A|6| B: [well] now _that is_ _that_ _uh_ _that's_ related _to the_ [the] _aerobic_ _uh_ 
+B|7| M: _you_ ? 
+A|8| B: okay . 
+B|9| M: _i've_ never heard _of_ [that] . 
+A|10| B: _yeah_ _yeah ._ 
+B|11| M: _i'm_ pretty sure _it's_ called [aerobic] exercise . 
+A|12| B: _yeah ._ 
+B|13| M: _i'm_ _not_ going [to] . _i'm_ gonna dance . 
+A|14| B: [well] _uh_ okay . now _that's_ inside _again_ _right_ ? 
+B|15| M: _i'm_ pretty _good_ 
+A|16| B: but 
+B|17| M: _i_ guess you're _right ._ 
+A|18| B: _do_ _do you_ _like to_ _do_ _it_ _with_ other people _. _i_ _mean_ like_ [the] [the] jazzercise would _be_ ? 
+B|19| M: [i] [like to] _go_ outside 
+A|20| B: _yeah ._ _yeah ._ 
+B|21| M: _i'm_ _a_ 13 year old girl [. i] [do] _the same thing ._ 
+A|22| B: [right .] 
+B|23| M: _you know_ [that's] kind _of_ how _i've_ been 
+A|24| B: but 
+B|25| M: _i've_ seen [it] . 
+A|26| B: _yeah_ [right .] [right .] but still there are there are other people there doing [the] doing [the same thing .] 
+B|27| M: _so_ who [do you] [mean] ? 
+A|28| B: in terms [of] motivation [and] incentive _yeah ._ 
+B|29| M: _you know_ if [i] had [to] choose between [the] two i'd _go_ _with the_ latter . 
+A|30| B: _yeah ._ 
+B|31| M: wouldn't [it] [be] easier [to] _just_ make [it] at your own house . lol 
+A|32| B: _yeah_ _uh_ [that] makes [a] difference doesn't [it] ? 
+B|33| M: _i'm_ pretty sure [that's] [the] case _for_ most [of] [the] stuff _i've_ tried . 
+A|34| B: [i] [i've] _one_ [thing] when when [i] _have_ run [and] jogged _uh_ [i've] always enjoyed doing [it] by myself [and] [and] [not] [with the] sense [that] [it] was _uh_ _uh_ chore or something [that] [i] was having [to] [do] [i] [i've] really enjoyed [just] [the] activity [and] _uh_ [i] write software _uh_ as far as [the] job [and] [so] getting [out] [and] being active _uh_ _is_ _uh_ _uh_ helps [out] _. the_ [it's] 
+B|35| M: [i] 
+A|36| B: [the] [the] [the] change [of] pace [and] [just] getting [out] [and] around 
+B|37| M: [i] [like] [you] . 
+A|38| B: [and i] find [that] [i] can often [you know] often _uh_ when [i] _get_ around [to] doing [it] then _i i feel_ better when [i] _get_ back [to] work 
+B|39| M: _i think_ [that is] ... 
+A|40| B: [and] _uh_ _uh_ also [that] [that] [it] my subconscious [is] working on things while [i'm] working [and _i] i_ [go] back [and] [i've] [got] new ideas but still . 
+B|41| M: [uh] [yeah .] 
+A|42| B: [yeah .] 
+B|43| M: [you] [feel] [i i feel] . 
+A|44| B: [yeah .] 
+B|45| M: [that's] _good ._ 
+A|46| B: [yeah .] 
+B|47| M: he nods [you] [do] . [it] . [again] . maby . [you] . _did_ . [get] . [one] . _done_ . _for_ [. i] . [and] [. the] . [same] . [again] 
+A|48| B: [yeah .] 
+B|49| M: _i think_ [it] [is] _good ._ _for_ [you] 
+A|50| B: [yeah] [i think] [that's] [uh] [i think] [that's] [a good] term _demanding the_ _time_ [for] yourself . [that] you've [just] [got] [to] you've [just] [got] [to] 
+B|51| M: [i think] [it] [is] [just] [uh] 
+A|52| B: [right .] 
+B|53| M: [you] [mean like] [demanding the] [right] [time] ? 
+A|54| B: [yeah .] 
+B|55| M: [you know] [i] [just] [i] don'know . 
+A|56| B: [well] [good] [well] [good .] [well] [uh] [uh] _have_ _you have_ [you] [done] _any_ jogging ? [i] tell [you] [you] said [you] [did] on [the] bike [and] on [the] treadmill in in [the] [uh] club . 
+B|57| M: [i'm] [a] student . [i've] been [to the] gym [and] [the] gym . 
+A|58| B: uh-huh . 
+B|59| M: uhh [. i] don't [think] [so] . [you have] [any] friends ? 
+A|60| B: [yeah .] 
+B|61| M: [i] [know] . 
+A|62| B: [yeah] [yeah .] 
+B|63| M: [i mean] [uh] [yeah .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : yes uhhhhh
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=3| B | M : you're a good person .
+	Free: Pattern=a good
+	Constrained: Pattern=good, Pattern=a
+Turn ID=4| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : well i got out of the gym and ran a lot and i felt good .
+	Free: Pattern=and i, Pattern=of, Pattern=well, Pattern=out, Pattern=a, Pattern=and, Pattern=good ., Pattern=i, Pattern=the, Pattern=got
+	Constrained: Pattern=good, Pattern=i, Pattern=and
+Turn ID=6| A | B : well now that is that uh that's related to the the aerobic uh
+	Free: Pattern=well, Pattern=uh, Pattern=that is, Pattern=that, Pattern=aerobic, Pattern=to the, Pattern=that's, Pattern=the
+	Constrained: Pattern=to, Pattern=the, Pattern=is, Pattern=that
+Turn ID=7| B | M : you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=8| A | B : okay .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : i've never heard of that .
+	Free: Pattern=i've, Pattern=of, Pattern=that
+	Constrained: 
+Turn ID=10| A | B : yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=11| B | M : i'm pretty sure it's called aerobic exercise .
+	Free: Pattern=it's, Pattern=aerobic, Pattern=i'm
+	Constrained: 
+Turn ID=12| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=13| B | M : i'm not going to . i'm gonna dance .
+	Free: Pattern=not, Pattern=to, Pattern=i'm
+	Constrained: 
+Turn ID=14| A | B : well uh okay . now that's inside again right ?
+	Free: Pattern=right, Pattern=well, Pattern=uh, Pattern=that's, Pattern=again
+	Constrained: 
+Turn ID=15| B | M : i'm pretty good
+	Free: Pattern=good, Pattern=i'm
+	Constrained: 
+Turn ID=16| A | B : but
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : i guess you're right .
+	Free: Pattern=right ., Pattern=i
+	Constrained: Pattern=right
+Turn ID=18| A | B : do do you like to do it with other people . i mean like the the jazzercise would be ?
+	Free: Pattern=. i, Pattern=i mean, Pattern=be, Pattern=with, Pattern=do, Pattern=mean like, Pattern=it, Pattern=do you, Pattern=like to, Pattern=the
+	Constrained: Pattern=you, Pattern=mean, Pattern=do, Pattern=i, Pattern=like, Pattern=to
+Turn ID=19| B | M : i like to go outside
+	Free: Pattern=like to, Pattern=go, Pattern=i
+	Constrained: Pattern=to, Pattern=like
+Turn ID=20| A | B : yeah . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=21| B | M : i'm a 13 year old girl . i do the same thing .
+	Free: Pattern=the same thing ., Pattern=. i, Pattern=i'm, Pattern=do, Pattern=a
+	Constrained: Pattern=thing, Pattern=i, Pattern=same, Pattern=the
+Turn ID=22| A | B : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=23| B | M : you know that's kind of how i've been
+	Free: Pattern=you know, Pattern=that's, Pattern=i've, Pattern=of
+	Constrained: Pattern=know, Pattern=you
+Turn ID=24| A | B : but
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : i've seen it .
+	Free: Pattern=i've, Pattern=it
+	Constrained: 
+Turn ID=26| A | B : yeah right . right . but still there are there are other people there doing the doing the same thing .
+	Free: Pattern=the same thing ., Pattern=right ., Pattern=the, Pattern=yeah
+	Constrained: Pattern=thing, Pattern=same, Pattern=right, Pattern=the
+Turn ID=27| B | M : so who do you mean ?
+	Free: Pattern=do you, Pattern=so, Pattern=mean
+	Constrained: Pattern=do, Pattern=you
+Turn ID=28| A | B : in terms of motivation and incentive yeah .
+	Free: Pattern=yeah ., Pattern=and, Pattern=of
+	Constrained: Pattern=yeah
+Turn ID=29| B | M : you know if i had to choose between the two i'd go with the latter .
+	Free: Pattern=you know, Pattern=with the, Pattern=go, Pattern=i, Pattern=the, Pattern=to
+	Constrained: Pattern=with, Pattern=know, Pattern=the, Pattern=you
+Turn ID=30| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=31| B | M : wouldn't it be easier to just make it at your own house . lol
+	Free: Pattern=just, Pattern=be, Pattern=it, Pattern=to
+	Constrained: 
+Turn ID=32| A | B : yeah uh that makes a difference doesn't it ?
+	Free: Pattern=uh, Pattern=a, Pattern=that, Pattern=it, Pattern=yeah
+	Constrained: 
+Turn ID=33| B | M : i'm pretty sure that's the case for most of the stuff i've tried .
+	Free: Pattern=of, Pattern=for, Pattern=i've, Pattern=i'm, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=34| A | B : i i've one thing when when i have run and jogged uh i've always enjoyed doing it by myself and and not with the sense that it was uh uh chore or something that i was having to do i i've really enjoyed just the activity and uh i write software uh as far as the job and so getting out and being active uh is uh uh helps out . the it's
+	Free: Pattern=do, Pattern=to, Pattern=not, Pattern=uh, Pattern=out, Pattern=with the, Pattern=just, Pattern=have, Pattern=it, Pattern=and, Pattern=one, Pattern=i've, Pattern=is, Pattern=i, Pattern=thing, Pattern=the, Pattern=that, Pattern=it's, Pattern=so, Pattern=. the
+	Constrained: Pattern=with, Pattern=the
+Turn ID=35| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=36| A | B : the the the change of pace and just getting out and around
+	Free: Pattern=of, Pattern=out, Pattern=just, Pattern=and, Pattern=the
+	Constrained: 
+Turn ID=37| B | M : i like you .
+	Free: Pattern=i, Pattern=you, Pattern=like
+	Constrained: 
+Turn ID=38| A | B : and i find that i can often you know often uh when i get around to doing it then i i feel better when i get back to work
+	Free: Pattern=and i, Pattern=it, Pattern=i, Pattern=i i feel, Pattern=to, Pattern=get, Pattern=that, Pattern=uh, Pattern=you know
+	Constrained: Pattern=you, Pattern=and, Pattern=know, Pattern=i, Pattern=feel, Pattern=i i
+Turn ID=39| B | M : i think that is ...
+	Free: Pattern=i think, Pattern=that is
+	Constrained: Pattern=i, Pattern=think, Pattern=is, Pattern=that
+Turn ID=40| A | B : and uh uh also that that it my subconscious is working on things while i'm working and i i go back and i've got new ideas but still .
+	Free: Pattern=and i, Pattern=uh, Pattern=go, Pattern=i've, Pattern=i'm, Pattern=is, Pattern=got, Pattern=it, Pattern=and, Pattern=that, Pattern=i i
+	Constrained: Pattern=i, Pattern=and
+Turn ID=41| B | M : uh yeah .
+	Free: Pattern=yeah ., Pattern=uh
+	Constrained: Pattern=yeah
+Turn ID=42| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=43| B | M : you feel i i feel .
+	Free: Pattern=i i feel, Pattern=you, Pattern=feel
+	Constrained: Pattern=i i, Pattern=i, Pattern=feel
+Turn ID=44| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=45| B | M : that's good .
+	Free: Pattern=good ., Pattern=that's
+	Constrained: Pattern=good
+Turn ID=46| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=47| B | M : he nods you do . it . again . maby . you . did . get . one . done . for . i . and . the . same . again
+	Free: Pattern=you, Pattern=for, Pattern=one, Pattern=. i, Pattern=same, Pattern=again, Pattern=get, Pattern=done, Pattern=. the, Pattern=do, Pattern=did, Pattern=it, Pattern=and
+	Constrained: Pattern=i, Pattern=the
+Turn ID=48| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=49| B | M : i think it is good . for you
+	Free: Pattern=you, Pattern=for, Pattern=it, Pattern=good ., Pattern=is, Pattern=i think
+	Constrained: Pattern=good, Pattern=i, Pattern=think
+Turn ID=50| A | B : yeah i think that's uh i think that's a good term demanding the time for yourself . that you've just got to you've just got to
+	Free: Pattern=time, Pattern=uh, Pattern=just, Pattern=a good, Pattern=for, Pattern=yeah, Pattern=demanding the, Pattern=that's, Pattern=got, Pattern=to, Pattern=that, Pattern=i think
+	Constrained: Pattern=good, Pattern=a, Pattern=think, Pattern=i, Pattern=the
+Turn ID=51| B | M : i think it is just uh
+	Free: Pattern=uh, Pattern=just, Pattern=it, Pattern=is, Pattern=i think
+	Constrained: Pattern=i, Pattern=think
+Turn ID=52| A | B : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=53| B | M : you mean like demanding the right time ?
+	Free: Pattern=time, Pattern=right, Pattern=you, Pattern=mean like, Pattern=demanding the
+	Constrained: Pattern=the, Pattern=mean, Pattern=like
+Turn ID=54| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=55| B | M : you know i just i don'know .
+	Free: Pattern=you know, Pattern=just, Pattern=i
+	Constrained: Pattern=know, Pattern=you
+Turn ID=56| A | B : well good well good . well uh uh have you have you done any jogging ? i tell you you said you did on the bike and on the treadmill in in the uh club .
+	Free: Pattern=good, Pattern=well, Pattern=have, Pattern=did, Pattern=any, Pattern=and, Pattern=i, Pattern=the, Pattern=done, Pattern=you, Pattern=uh, Pattern=good ., Pattern=you have
+	Constrained: Pattern=good, Pattern=you, Pattern=have
+Turn ID=57| B | M : i'm a student . i've been to the gym and the gym .
+	Free: Pattern=a, Pattern=to the, Pattern=and, Pattern=i've, Pattern=i'm, Pattern=the
+	Constrained: Pattern=to, Pattern=the
+Turn ID=58| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=59| B | M : uhh . i don't think so . you have any friends ?
+	Free: Pattern=any, Pattern=. i, Pattern=you have, Pattern=think, Pattern=so
+	Constrained: Pattern=i, Pattern=you, Pattern=have
+Turn ID=60| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=61| B | M : i know .
+	Free: Pattern=know, Pattern=i
+	Constrained: 
+Turn ID=62| A | B : yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=63| B | M : i mean uh yeah .
+	Free: Pattern=yeah ., Pattern=i mean, Pattern=uh
+	Constrained: Pattern=i, Pattern=yeah, Pattern=mean

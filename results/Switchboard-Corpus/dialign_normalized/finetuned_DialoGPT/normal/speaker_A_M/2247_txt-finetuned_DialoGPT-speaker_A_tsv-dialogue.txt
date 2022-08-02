@@ -1,0 +1,231 @@
+B|0| M: _oh okay ._ 
+A|1| A: _uh i_ think _that's_ about _where_ _it is ._ 
+B|2| M: _oh okay ._ 
+A|3| A: _uh_ _yeah_ _i_ do _that _i_ i_ do _uh_ some lotus _on_ _it_ . _uh_ do some _uh_ samna some _uh p_ f m _uh_ nothing extremely complex . 
+B|4| M: _yeah ._ 
+A|5| A: _uh-huh ._ 
+B|6| M: [i] _have a_ [p] c at home _and_ _a_ terminal at work [that i] use all _the_ time . 
+A|7| A: yep . 
+B|8| M: _so i_ _have a_ mix _of_ [uh] [uh] _a_ mix [uh] _of_ _of_ _you_ _know_ _a_ [p] c [uh] _and_ _a_ [p] s one _and_ _a_ [uh p] s _two_ . 
+A|9| A: [oh] _yeah . i_ bet _that's_ [a] pretty nice setup . 
+B|10| M: [yeah .] [it is .] 
+A|11| A: yep . 
+B|12| M: _but_ [uh i] _have_ got [uh] [a] [a] [uh] an eighty-seven aries which [is] [uh] 
+A|13| A: wow . 
+B|14| M: _and_ _so_ _i'm_ trying _to_ figure _up_ how _much_ [is] being spent _on _that_ ._ 
+A|15| A: yep . 
+B|16| M: _and_ [uh] [it] _just_ kept giving me errors _and_ [i] _just_ decided _that that_ _was_ _the_ time _to_ buy . 
+A|17| A: wow . 
+B|18| M: [i] mean [it] _was_ [it] _was_ [a] huge engine . 
+A|19| A: _uh-huh ._ 
+B|20| M: _i'm_ [a] student . 
+A|21| A: _uh-huh ._ 
+B|22| M: _it's it's_ _really_ [a] great machine . 
+A|23| A: sure . _uh-huh ._ 
+B|24| M: _so_ _i'm_ very _much_ _for_ _that ._ 
+A|25| A: [yeah .] [yeah .] 
+B|26| M: _have_ _you_ tried using _the_ free _software_ [that] _they_ _have_ ? 
+A|27| A: _right_ . 
+B|28| M: i've gotten _to_ [where] i've bought most _of_ my equipment at garage sales . 
+A|29| A: _well_ _um_ [i] seem [to] always be _in the_ [the] next _to the_ last generation [of] word processing [software] . when everyone [was] _in_ samna _i was_ still _in_ [p] f m [and] now [that i] finally become proficient _in_ samna everybody's going [to] wordperfect . [so i] _can_ never quite stay current _with [that_ .] 
+B|30| M: [uh-huh .] 
+A|31| A: [uh-huh .] 
+B|32| M: [i] don't _know_ if _you're_ familiar [with that] _but_ _you_ _just_ _you_ start [with] [a] [a] [uh] [a] small file _you_ _know_ _you_ [can] go [right] down [to the] main frame _you_ don't _have_ [to] go through [a] whole lot [of] extra work . 
+A|33| A: [oh] . huh _. i_ [can] [i] [can] believe [that .] 
+B|34| M: _but_ [uh] . 
+A|35| A: no not [really] . [i'm] not [that] [up] be [on that] sort [of] thing . 
+B|36| M: [well] [that's] _interesting ._ 
+A|37| A: [oh okay .] [oh okay .] [okay .] [oh] [well] [it] sounds like [you're] pretty [much] into computers . 
+B|38| M: [yeah . [i] i] _have a_ [a] computer at home . 
+A|39| A: [i] [can] believe [that .] [well] [it's it's] _been_ [interesting .] 
+B|40| M: [yeah] [it] has [been] . 
+A|41| A: [yeah] [of] course needs [and] wants aren't necessarily [the] same thing . 
+B|42| M: [uh-huh .] 
+A|43| A: [i] [is] [is] [that] [the] newest thing now [the] four eighty-six ? 
+B|44| M: [yeah .] 
+A|45| A: [that that] must be [a] fairly recent release . 
+B|46| M: [i] don't _know_ [i i] don't remember seeing [that .] 
+A|47| A: [okay] [okay .] because [i i] had done capital packages [for] [two] eighty-sixes [and] three eighty-sixes [but] [i] didn't [know] [they] had [a] four eighty-six [just] yet . 
+B|48| M: [um] . 
+A|49| A: [uh-huh .] [yeah .] 
+B|50| M: [i] mean [i] _you_ [know] i've [i was] [i] _have_ worked [in the] [in the] auto building uh-hired people [uh] 
+A|51| A: sure . [yeah .] 
+B|52| M: [and] [uh] 
+A|53| A: [i] did _too_ [and] [you] [have a] good day . 
+B|54| M: [you] [too] . 
+A|55| A: bye-bye . 
+B|56| M:  !!! % !! remindme !! auto attack . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : oh okay .
+	Free: Pattern=oh okay .
+	Constrained: Pattern=okay ., Pattern=okay, Pattern=oh
+Turn ID=1| A | A : uh i think that's about where it is .
+	Free: Pattern=it is ., Pattern=uh i, Pattern=where, Pattern=that's
+	Constrained: Pattern=is, Pattern=it, Pattern=uh, Pattern=i
+Turn ID=2| B | M : oh okay .
+	Free: Pattern=oh okay .
+	Constrained: Pattern=okay ., Pattern=okay, Pattern=oh
+Turn ID=3| A | A : uh yeah i do that i i do uh some lotus on it . uh do some uh samna some uh p f m uh nothing extremely complex .
+	Free: Pattern=uh, Pattern=i, Pattern=uh p, Pattern=on, Pattern=that i, Pattern=i i, Pattern=it, Pattern=yeah
+	Constrained: Pattern=i, Pattern=uh, Pattern=p, Pattern=that
+Turn ID=4| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=5| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=6| B | M : i have a p c at home and a terminal at work that i use all the time .
+	Free: Pattern=p, Pattern=have a, Pattern=a, Pattern=and, Pattern=i, Pattern=the, Pattern=that i
+	Constrained: Pattern=i, Pattern=have, Pattern=that, Pattern=a
+Turn ID=7| A | A : yep .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : so i have a mix of uh uh a mix uh of of you know a p c uh and a p s one and a uh p s two .
+	Free: Pattern=of, Pattern=p, Pattern=have a, Pattern=a, Pattern=and, Pattern=so i, Pattern=know, Pattern=two, Pattern=uh p, Pattern=you, Pattern=uh
+	Constrained: Pattern=uh, Pattern=have, Pattern=p, Pattern=a, Pattern=i, Pattern=so
+Turn ID=9| A | A : oh yeah . i bet that's a pretty nice setup .
+	Free: Pattern=yeah . i, Pattern=oh, Pattern=a, Pattern=that's
+	Constrained: Pattern=yeah ., Pattern=. i, Pattern=i, Pattern=yeah
+Turn ID=10| B | M : yeah . it is .
+	Free: Pattern=it is ., Pattern=yeah .
+	Constrained: Pattern=is, Pattern=yeah, Pattern=it
+Turn ID=11| A | A : yep .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : but uh i have got uh a a uh an eighty-seven aries which is uh
+	Free: Pattern=uh, Pattern=have, Pattern=a, Pattern=is, Pattern=uh i, Pattern=but
+	Constrained: Pattern=i, Pattern=uh
+Turn ID=13| A | A : wow .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : and so i'm trying to figure up how much is being spent on that .
+	Free: Pattern=that ., Pattern=on that, Pattern=and, Pattern=i'm, Pattern=is, Pattern=much, Pattern=so, Pattern=up, Pattern=to
+	Constrained: Pattern=that, Pattern=on
+Turn ID=15| A | A : yep .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : and uh it just kept giving me errors and i just decided that that was the time to buy .
+	Free: Pattern=uh, Pattern=just, Pattern=that that, Pattern=i, Pattern=the, Pattern=to, Pattern=was, Pattern=it, Pattern=and
+	Constrained: Pattern=that
+Turn ID=17| A | A : wow .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : i mean it was it was a huge engine .
+	Free: Pattern=was, Pattern=i, Pattern=a, Pattern=it
+	Constrained: 
+Turn ID=19| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=20| B | M : i'm a student .
+	Free: Pattern=i'm, Pattern=a
+	Constrained: 
+Turn ID=21| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=22| B | M : it's it's really a great machine .
+	Free: Pattern=it's it's, Pattern=really, Pattern=a
+	Constrained: 
+Turn ID=23| A | A : sure . uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=24| B | M : so i'm very much for that .
+	Free: Pattern=that ., Pattern=for, Pattern=i'm, Pattern=much, Pattern=so
+	Constrained: Pattern=that
+Turn ID=25| A | A : yeah . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=26| B | M : have you tried using the free software that they have ?
+	Free: Pattern=you, Pattern=have, Pattern=they, Pattern=software, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=27| A | A : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=28| B | M : i've gotten to where i've bought most of my equipment at garage sales .
+	Free: Pattern=where, Pattern=to, Pattern=of
+	Constrained: 
+Turn ID=29| A | A : well um i seem to always be in the the next to the last generation of word processing software . when everyone was in samna i was still in p f m and now that i finally become proficient in samna everybody's going to wordperfect . so i can never quite stay current with that .
+	Free: Pattern=i was, Pattern=well, Pattern=p, Pattern=um, Pattern=to the, Pattern=and, Pattern=in the, Pattern=in, Pattern=i, Pattern=the, Pattern=that i, Pattern=to, Pattern=was, Pattern=of, Pattern=that ., Pattern=can, Pattern=with that, Pattern=software, Pattern=so i
+	Constrained: Pattern=in, Pattern=i, Pattern=the, Pattern=to, Pattern=was, Pattern=so, Pattern=with, Pattern=that
+Turn ID=30| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=31| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=32| B | M : i don't know if you're familiar with that but you just you start with a a uh a small file you know you can go right down to the main frame you don't have to go through a whole lot of extra work .
+	Free: Pattern=a, Pattern=to the, Pattern=know, Pattern=i, Pattern=to, Pattern=right, Pattern=you're, Pattern=of, Pattern=you, Pattern=uh, Pattern=just, Pattern=have, Pattern=can, Pattern=with that, Pattern=with, Pattern=but
+	Constrained: Pattern=to, Pattern=the, Pattern=with, Pattern=that
+Turn ID=33| A | A : oh . huh . i can i can believe that .
+	Free: Pattern=that ., Pattern=oh, Pattern=can, Pattern=. i, Pattern=i
+	Constrained: Pattern=i, Pattern=that
+Turn ID=34| B | M : but uh .
+	Free: Pattern=uh, Pattern=but
+	Constrained: 
+Turn ID=35| A | A : no not really . i'm not that up be on that sort of thing .
+	Free: Pattern=of, Pattern=on that, Pattern=i'm, Pattern=really, Pattern=up, Pattern=that
+	Constrained: Pattern=that, Pattern=on
+Turn ID=36| B | M : well that's interesting .
+	Free: Pattern=interesting ., Pattern=well, Pattern=that's
+	Constrained: 
+Turn ID=37| A | A : oh okay . oh okay . okay . oh well it sounds like you're pretty much into computers .
+	Free: Pattern=okay ., Pattern=you're, Pattern=well, Pattern=much, Pattern=oh okay ., Pattern=it, Pattern=oh
+	Constrained: Pattern=okay ., Pattern=okay, Pattern=oh
+Turn ID=38| B | M : yeah . i i have a a computer at home .
+	Free: Pattern=yeah . i, Pattern=i i, Pattern=have a, Pattern=a
+	Constrained: Pattern=have, Pattern=a, Pattern=yeah ., Pattern=yeah, Pattern=. i, Pattern=i
+Turn ID=39| A | A : i can believe that . well it's it's been interesting .
+	Free: Pattern=that ., Pattern=well, Pattern=interesting ., Pattern=can, Pattern=i, Pattern=been, Pattern=it's it's
+	Constrained: Pattern=that
+Turn ID=40| B | M : yeah it has been .
+	Free: Pattern=been, Pattern=yeah, Pattern=it
+	Constrained: 
+Turn ID=41| A | A : yeah of course needs and wants aren't necessarily the same thing .
+	Free: Pattern=the, Pattern=yeah, Pattern=and, Pattern=of
+	Constrained: 
+Turn ID=42| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=43| A | A : i is is that the newest thing now the four eighty-six ?
+	Free: Pattern=is, Pattern=the, Pattern=i, Pattern=that
+	Constrained: 
+Turn ID=44| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=45| A | A : that that must be a fairly recent release .
+	Free: Pattern=that that, Pattern=a
+	Constrained: Pattern=that
+Turn ID=46| B | M : i don't know i i don't remember seeing that .
+	Free: Pattern=i i, Pattern=that ., Pattern=i, Pattern=know
+	Constrained: Pattern=i, Pattern=that
+Turn ID=47| A | A : okay okay . because i i had done capital packages for two eighty-sixes and three eighty-sixes but i didn't know they had a four eighty-six just yet .
+	Free: Pattern=okay ., Pattern=just, Pattern=they, Pattern=a, Pattern=for, Pattern=and, Pattern=know, Pattern=okay, Pattern=two, Pattern=i, Pattern=i i, Pattern=but
+	Constrained: Pattern=okay, Pattern=i
+Turn ID=48| B | M : um .
+	Free: Pattern=um
+	Constrained: 
+Turn ID=49| A | A : uh-huh . yeah .
+	Free: Pattern=yeah ., Pattern=uh-huh .
+	Constrained: Pattern=yeah
+Turn ID=50| B | M : i mean i you know i've i was i have worked in the in the auto building uh-hired people uh
+	Free: Pattern=i was, Pattern=have, Pattern=in the, Pattern=know, Pattern=i, Pattern=you, Pattern=uh
+	Constrained: Pattern=in, Pattern=the, Pattern=was, Pattern=i
+Turn ID=51| A | A : sure . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=52| B | M : and uh
+	Free: Pattern=uh, Pattern=and
+	Constrained: 
+Turn ID=53| A | A : i did too and you have a good day .
+	Free: Pattern=you, Pattern=have a, Pattern=i, Pattern=and, Pattern=too
+	Constrained: Pattern=have, Pattern=a
+Turn ID=54| B | M : you too .
+	Free: Pattern=too, Pattern=you
+	Constrained: 
+Turn ID=55| A | A : bye-bye .
+	Free: 
+	Constrained: 
+Turn ID=56| B | M :  !!! % !! remindme !! auto attack .
+	Free: 
+	Constrained: 

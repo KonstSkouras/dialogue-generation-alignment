@@ -1,0 +1,195 @@
+A|0| A: so _i_ would _have to_ say _that_ camping _and_ hiking _and_ canoeing _and_ _boy_ scouts is my hobby . 
+B|1| M: i'll [have to] pass _on_ [that] _but_ i'll _be_ getting _it_ back . 
+A|2| A: _i_ can't remember _a_ year when we didn't [have] one _of_ some kind . 
+B|3| M: _it's_ _not_ [a] connection . _it's_ [a] city 
+A|4| A: _that's_ _the_ problem _i have_ with [it] in texas they _think_ [it's] _and_ all _and_ [be] all they _think_ [that] _if_ they electrocute or slip or _do_ something or gas somebody _uh_ [that] they're [not] going [to] [have] _the_ crimes [that] they _do_ [have] _and_ we happen [to] live in dallas which is extremely crime ridden 
+B|5| M: _i think_ _he_ was joking 
+A|6| A: uh-huh . 
+B|7| M: _yes ._ 
+A|8| A: [a] junk room _yeah_ [i] understand we [have] [that] too . _that's_ _that's_ large _if_ your children aren't at home any more . 
+B|9| M: [i] [and] 
+A|10| A: _you_ _know_ my husband's always got [it] [on] . 
+B|11| M: [that's] [not] [it] [that's] _just_ [a] reference [to] [the] episode . 
+A|12| A: [i] did [a] lot _of_ [just] going out by myself [and] riding [on] [the] subway [and] watching _people_ . 
+B|13| M:  
+A|14| A: [but] [just] _you_ _know_ [to] receive [a] letter in [the] mail [that] says _you_ _know_ _you_ need [to] report somewhere by next monday _you_ _know_ _you_ need [to] report somewhere by next monday _you_ _know_ . _i'm not sure_ [that] would [be] [a] terrifically good idea . 
+B|15| M: _you're_ welcome 
+A|16| A: _oh ._ 
+B|17| M:  ... _are_ [you] _okay_ ? 
+A|18| A: right right . 
+B|19| M: uhh where's [the] rest [of] [the] world ? 
+A|20| A: [but] [it's] nice having [a] dog here _uh_ [the] 
+B|21| M: [it's] [not] [a] bad _thing_ . because [uh] because [of] [uh] ... 
+A|22| A: _well_ good _well_ then [have] [a] good day . 
+B|23| M: [i] see . 
+A|24| A: um [it's] really nice . 
+B|25| M: [yeah] [but] [the] government can [do] [that] . 
+A|26| A: [yes .] _i know_ _i know_ . [the] insurance . 
+B|27| M: [oh .] [well] . 
+A|28| A: uh-huh . [yeah] . 
+B|29| M: [oh .] uhh 
+A|30| A: [okay] . 
+B|31| M: [i'm not sure] . 
+A|32| A: [oh] [that's] wow . [yeah] . 
+B|33| M: [i'm] gonna cry . 
+A|34| A: [yeah] i've done [that] once or twice . [i] didn't look at [the] clock when we started talking so [i] guess we should talk about football [a] little bit longer [just] [to] [be] [sure] we got five minutes in . 
+B|35| M: [you] don't . 
+A|36| A: [oh] uh-huh . [yeah] . 
+B|37| M: [well] [i'm] [a] [boy] scout . 
+A|38| A: [and] she she turned out [to] [be] [a] great dog [and] we had her for six years until she [just] passed away recently [and] again dad went through [the] whole [thing] [but] mom went an 
+B|39| M: [but] [i] don't . 
+A|40| A: [but] then [it] depends [on] who [you] [are] calling [on] . who [you're] [you] like your minister standing up in front [of] [you] with no tie [you] [just] [uh] [he] would [be] missing something . 
+B|41| M: [i have] . 
+A|42| A: uh-huh . 
+B|43| M: new york yankees . 
+A|44| A: [okay] . 
+B|45| M: sends 
+A|46| A: no no [i think] [the] um sometimes [i] guess what did [i] read recently [the] um [the] [uh] christian [uh] point is is always [the] point [of] [well] [it's] at conception [but] then um [a] friend [of] mine's [a] doctor [and] argues with others [that] conception is [a] biblical term . [and] there's no concept [of] conception in medicine or biology . 
+B|47| M: [i know] [the] majority [of] [people] don't [but] i'd [be] willing [to] drive [a] stick shift car [if] [it] meant driving manual . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : so i would have to say that camping and hiking and canoeing and boy scouts is my hobby .
+	Free: Pattern=and, Pattern=i, Pattern=have to, Pattern=boy, Pattern=that
+	Constrained: Pattern=have, Pattern=to
+Turn ID=1| B | M : i'll have to pass on that but i'll be getting it back .
+	Free: Pattern=it, Pattern=be, Pattern=on, Pattern=have to, Pattern=that, Pattern=but
+	Constrained: Pattern=have, Pattern=to
+Turn ID=2| A | A : i can't remember a year when we didn't have one of some kind .
+	Free: Pattern=have, Pattern=i, Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=3| B | M : it's not a connection . it's a city
+	Free: Pattern=not, Pattern=a, Pattern=it's
+	Constrained: 
+Turn ID=4| A | A : that's the problem i have with it in texas they think it's and all and be all they think that if they electrocute or slip or do something or gas somebody uh that they're not going to have the crimes that they do have and we happen to live in dallas which is extremely crime ridden
+	Free: Pattern=uh, Pattern=have, Pattern=do, Pattern=if, Pattern=think, Pattern=be, Pattern=to, Pattern=it, Pattern=and, Pattern=that's, Pattern=the, Pattern=that, Pattern=it's, Pattern=not, Pattern=i have
+	Constrained: Pattern=have, Pattern=i
+Turn ID=5| B | M : i think he was joking
+	Free: Pattern=i think, Pattern=he
+	Constrained: Pattern=i, Pattern=think
+Turn ID=6| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : yes .
+	Free: Pattern=yes .
+	Constrained: 
+Turn ID=8| A | A : a junk room yeah i understand we have that too . that's that's large if your children aren't at home any more .
+	Free: Pattern=have, Pattern=a, Pattern=yeah, Pattern=if, Pattern=i, Pattern=that's, Pattern=that
+	Constrained: 
+Turn ID=9| B | M : i and
+	Free: Pattern=i, Pattern=and
+	Constrained: 
+Turn ID=10| A | A : you know my husband's always got it on .
+	Free: Pattern=it, Pattern=know, Pattern=you, Pattern=on
+	Constrained: 
+Turn ID=11| B | M : that's not it that's just a reference to the episode .
+	Free: Pattern=just, Pattern=a, Pattern=it, Pattern=to, Pattern=not, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=12| A | A : i did a lot of just going out by myself and riding on the subway and watching people .
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=i, Pattern=people, Pattern=just, Pattern=on, Pattern=the
+	Constrained: 
+Turn ID=13| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : but just you know to receive a letter in the mail that says you know you need to report somewhere by next monday you know you need to report somewhere by next monday you know . i'm not sure that would be a terrifically good idea .
+	Free: Pattern=you, Pattern=just, Pattern=a, Pattern=know, Pattern=be, Pattern=the, Pattern=i'm not sure, Pattern=to, Pattern=that, Pattern=but
+	Constrained: Pattern=i'm, Pattern=not, Pattern=sure
+Turn ID=15| B | M : you're welcome
+	Free: Pattern=you're
+	Constrained: 
+Turn ID=16| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=17| B | M :  ... are you okay ?
+	Free: Pattern=okay, Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=18| A | A : right right .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : uhh where's the rest of the world ?
+	Free: Pattern=the, Pattern=of
+	Constrained: 
+Turn ID=20| A | A : but it's nice having a dog here uh the
+	Free: Pattern=uh, Pattern=a, Pattern=the, Pattern=it's, Pattern=but
+	Constrained: 
+Turn ID=21| B | M : it's not a bad thing . because uh because of uh ...
+	Free: Pattern=of, Pattern=uh, Pattern=a, Pattern=thing, Pattern=it's, Pattern=not
+	Constrained: 
+Turn ID=22| A | A : well good well then have a good day .
+	Free: Pattern=have, Pattern=well, Pattern=a
+	Constrained: 
+Turn ID=23| B | M : i see .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=24| A | A : um it's really nice .
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=25| B | M : yeah but the government can do that .
+	Free: Pattern=do, Pattern=yeah, Pattern=the, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=26| A | A : yes . i know i know . the insurance .
+	Free: Pattern=i know, Pattern=yes ., Pattern=the
+	Constrained: Pattern=know, Pattern=i
+Turn ID=27| B | M : oh . well .
+	Free: Pattern=oh ., Pattern=well
+	Constrained: Pattern=oh
+Turn ID=28| A | A : uh-huh . yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=29| B | M : oh . uhh
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=30| A | A : okay .
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=31| B | M : i'm not sure .
+	Free: Pattern=i'm not sure
+	Constrained: Pattern=i'm, Pattern=not, Pattern=sure
+Turn ID=32| A | A : oh that's wow . yeah .
+	Free: Pattern=yeah, Pattern=oh, Pattern=that's
+	Constrained: 
+Turn ID=33| B | M : i'm gonna cry .
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=34| A | A : yeah i've done that once or twice . i didn't look at the clock when we started talking so i guess we should talk about football a little bit longer just to be sure we got five minutes in .
+	Free: Pattern=just, Pattern=a, Pattern=yeah, Pattern=i, Pattern=the, Pattern=to, Pattern=that, Pattern=sure, Pattern=be
+	Constrained: 
+Turn ID=35| B | M : you don't .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=36| A | A : oh uh-huh . yeah .
+	Free: Pattern=yeah, Pattern=oh
+	Constrained: 
+Turn ID=37| B | M : well i'm a boy scout .
+	Free: Pattern=i'm, Pattern=well, Pattern=a, Pattern=boy
+	Constrained: 
+Turn ID=38| A | A : and she she turned out to be a great dog and we had her for six years until she just passed away recently and again dad went through the whole thing but mom went an
+	Free: Pattern=just, Pattern=a, Pattern=and, Pattern=be, Pattern=to, Pattern=but, Pattern=thing, Pattern=the
+	Constrained: 
+Turn ID=39| B | M : but i don't .
+	Free: Pattern=but, Pattern=i
+	Constrained: 
+Turn ID=40| A | A : but then it depends on who you are calling on . who you're you like your minister standing up in front of you with no tie you just uh he would be missing something .
+	Free: Pattern=just, Pattern=it, Pattern=are, Pattern=he, Pattern=be, Pattern=on, Pattern=but, Pattern=you're, Pattern=of, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=41| B | M : i have .
+	Free: Pattern=i have
+	Constrained: Pattern=have, Pattern=i
+Turn ID=42| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : new york yankees .
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : okay .
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=45| B | M : sends
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : no no i think the um sometimes i guess what did i read recently the um the uh christian uh point is is always the point of well it's at conception but then um a friend of mine's a doctor and argues with others that conception is a biblical term . and there's no concept of conception in medicine or biology .
+	Free: Pattern=of, Pattern=well, Pattern=uh, Pattern=a, Pattern=and, Pattern=i, Pattern=the, Pattern=i think, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=i, Pattern=think
+Turn ID=47| B | M : i know the majority of people don't but i'd be willing to drive a stick shift car if it meant driving manual .
+	Free: Pattern=of, Pattern=a, Pattern=it, Pattern=if, Pattern=be, Pattern=the, Pattern=to, Pattern=but, Pattern=people, Pattern=i know
+	Constrained: Pattern=know, Pattern=i

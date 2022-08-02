@@ -1,0 +1,199 @@
+B|0| M: _and_ _uh_ . 
+A|1| A: andrews ? 
+B|2| M: _uh_ _yeah ._ 
+A|3| A: _well_ _for the_ past _week_ or two _it's been_ cold [and] wet 
+B|4| M: uh-oh . 
+A|5| A: _but_ _before_ _that_ _for_ most _of_ _the_ year _it's been_ _hot and_ _dry ._ 
+B|6| M: _uh_ _i_ haven't _had_ [that] problem either . 
+A|7| A: um september _really_ _was_ _i'm not_ _sure_ _about_ october _. i_ think _for_ _about_ twelve months through september _the_ _the_ average temperature has _been_ higher than normal each month . um lots _of_ ninety degree days during _the_ summer . 
+B|8| M: _uh_ _oh_ [really] ? 
+A|9| A: _uh-huh ._ 
+B|10| M: _we've_ _had_ some [really] nice weather . 
+A|11| A: _uh-huh ._ 
+B|12| M: [and] [it's been] so [hot and] [and] [it's] just [been] so [dry .] 
+A|13| A: _uh-huh ._ 
+B|14| M: _we had_ _a_ lot [of] _flooding_ 
+A|15| A: [oh] if you [had] _it_ early . 
+B|16| M: _yeah_ _it was_ . _it was_ _uh_ 
+A|17| A: [yeah] [i] think [we] usually have [a] frost _in_ october . 
+B|18| M: uh-oh . 
+A|19| A: [uh] _but_ you _know ._ [we] [really] need _the_ rain [that] [we've] [been] getting _and it_ has _not_ today _but_ _the last_ few days [it's been] [been] pouring most [of] _the_ day . 
+B|20| M:  !!! % [well] [i] [know] [i] _i've_ [been] [in] texas [for [the] last] three years [and] [i] [know] [that] _we had_ [uh] _a freeze_ down _to_ [about] forty-two degrees . 
+A|21| A: [flooding] anywhere _. i_ have _not_ heard [of] [it] any problems [of] [it] [flooding] anywhere [i] mean _that's_ occurred certainly at times [in] [the] past _but uh_ no [i've] _not_ heard [of] any particular problems this time . 
+B|22| M:  !!! ; !! % !! remind me [of] [that] happening _because_ [i] [know] [we've] [had] some [uh] . 
+A|23| A: _yes ._ 
+B|24| M: _and then_ [we] went out _to_ dinner _on_ [a] saturday morning [and] _we had_ [a] ball . 
+A|25| A: _yes_ [yeah] [we had] summer lasting long [and then] [it] [then] [it] [then] [it] became winter like [uh] today [it's] today [it's] sort [of] change [to] warmer [to] sort [of] more typical autumn day . 
+B|26| M: [uh-huh .] 
+A|27| A: [yeah .] 
+B|28| M: [but uh] . 
+A|29| A: _i don't know ._ [yeah] our leaves are are all [on] [on] [the] ground now _. i_ think [it was] an especially good winter [for] fall colors . 
+B|30| M: [uh-huh .] 
+A|31| A: [oh] [yeah] [yeah .] 
+B|32| M: [well] [that's] interesting . 
+A|33| A: [yeah] [we] [we] did [for] [a] time . 
+B|34| M: [yeah .] 
+A|35| A: [uh-huh .] 
+B|36| M: [uh] 
+A|37| A: [uh-huh .] 
+B|38| M: [but uh] [i've] never [had] [to] drive [in] texas . 
+A|39| A: [been] [that] this year [for the] _trees_ [for the] leaves . 
+B|40| M: [yes .] 
+A|41| A: um . 
+B|42| M: [and] [uh] [we] were down [in] texas [and [it] was] [about] [a] [week] [before] christmas [and] so [we] were [it was] [it] [had] [been] probably [about] three weeks [before] christmas [we had] [to] cut some [trees] down . 
+A|43| A: [yeah] [that's] [because] [it] [it] can't tolerate [a freeze] this early . _is_ [that] right ? 
+B|44| M: [yeah] [it's] [really] funny . 
+A|45| A: if [it] would came later [it] would be all right ? 
+B|46| M: [i don't know] [i'm not] [really] [sure] what [the] answer [is] . 
+A|47| A: um . 
+B|48| M: [i] [i] [i don't know [.] i] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : and uh .
+	Free: Pattern=uh, Pattern=and
+	Constrained: 
+Turn ID=1| A | A : andrews ?
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : uh yeah .
+	Free: Pattern=yeah ., Pattern=uh
+	Constrained: Pattern=yeah
+Turn ID=3| A | A : well for the past week or two it's been cold and wet
+	Free: Pattern=well, Pattern=for the, Pattern=week, Pattern=it's been, Pattern=and
+	Constrained: Pattern=for, Pattern=it's, Pattern=the, Pattern=been
+Turn ID=4| B | M : uh-oh .
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : but before that for most of the year it's been hot and dry .
+	Free: Pattern=of, Pattern=it's been, Pattern=hot and, Pattern=the, Pattern=before, Pattern=for, Pattern=dry ., Pattern=that, Pattern=but
+	Constrained: Pattern=it's, Pattern=been, Pattern=and
+Turn ID=6| B | M : uh i haven't had that problem either .
+	Free: Pattern=i, Pattern=had, Pattern=that, Pattern=uh
+	Constrained: 
+Turn ID=7| A | A : um september really was i'm not sure about october . i think for about twelve months through september the the average temperature has been higher than normal each month . um lots of ninety degree days during the summer .
+	Free: Pattern=of, Pattern=for, Pattern=i'm not, Pattern=really, Pattern=sure, Pattern=the, Pattern=about, Pattern=. i, Pattern=been, Pattern=was
+	Constrained: Pattern=not, Pattern=i
+Turn ID=8| B | M : uh oh really ?
+	Free: Pattern=uh, Pattern=oh, Pattern=really
+	Constrained: 
+Turn ID=9| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=10| B | M : we've had some really nice weather .
+	Free: Pattern=had, Pattern=we've, Pattern=really
+	Constrained: 
+Turn ID=11| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=12| B | M : and it's been so hot and and it's just been so dry .
+	Free: Pattern=it's been, Pattern=dry ., Pattern=and, Pattern=hot and, Pattern=been, Pattern=it's
+	Constrained: Pattern=it's, Pattern=been, Pattern=and
+Turn ID=13| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=14| B | M : we had a lot of flooding
+	Free: Pattern=we had, Pattern=a, Pattern=flooding, Pattern=of
+	Constrained: Pattern=we, Pattern=had
+Turn ID=15| A | A : oh if you had it early .
+	Free: Pattern=had, Pattern=oh, Pattern=it
+	Constrained: 
+Turn ID=16| B | M : yeah it was . it was uh
+	Free: Pattern=it was, Pattern=yeah, Pattern=uh
+	Constrained: Pattern=was, Pattern=it
+Turn ID=17| A | A : yeah i think we usually have a frost in october .
+	Free: Pattern=a, Pattern=yeah, Pattern=in, Pattern=i, Pattern=we
+	Constrained: 
+Turn ID=18| B | M : uh-oh .
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : uh but you know . we really need the rain that we've been getting and it has not today but the last few days it's been been pouring most of the day .
+	Free: Pattern=of, Pattern=uh, Pattern=it's been, Pattern=the last, Pattern=and it, Pattern=know ., Pattern=been, Pattern=not, Pattern=we, Pattern=really, Pattern=we've, Pattern=the, Pattern=that, Pattern=but
+	Constrained: Pattern=know, Pattern=the, Pattern=been, Pattern=it's, Pattern=it, Pattern=and
+Turn ID=20| B | M :  !!! % well i know i i've been in texas for the last three years and i know that we had uh a freeze down to about forty-two degrees .
+	Free: Pattern=well, Pattern=uh, Pattern=for the, Pattern=the last, Pattern=and, Pattern=i've, Pattern=about, Pattern=in, Pattern=know, Pattern=i, Pattern=to, Pattern=been, Pattern=a freeze, Pattern=that, Pattern=we had
+	Constrained: Pattern=a, Pattern=for, Pattern=we, Pattern=had, Pattern=the
+Turn ID=21| A | A : flooding anywhere . i have not heard of it any problems of it flooding anywhere i mean that's occurred certainly at times in the past but uh no i've not heard of any particular problems this time .
+	Free: Pattern=of, Pattern=flooding, Pattern=it, Pattern=i've, Pattern=. i, Pattern=but uh, Pattern=in, Pattern=i, Pattern=not, Pattern=that's, Pattern=the
+	Constrained: Pattern=i, Pattern=but, Pattern=uh
+Turn ID=22| B | M :  !!! ; !! % !! remind me of that happening because i know we've had some uh .
+	Free: Pattern=of, Pattern=uh, Pattern=because, Pattern=know, Pattern=i, Pattern=had, Pattern=we've, Pattern=that
+	Constrained: 
+Turn ID=23| A | A : yes .
+	Free: Pattern=yes .
+	Constrained: Pattern=yes
+Turn ID=24| B | M : and then we went out to dinner on a saturday morning and we had a ball .
+	Free: Pattern=a, Pattern=and, Pattern=and then, Pattern=we, Pattern=on, Pattern=to, Pattern=we had
+	Constrained: Pattern=we, Pattern=had, Pattern=then, Pattern=and
+Turn ID=25| A | A : yes yeah we had summer lasting long and then it then it then it became winter like uh today it's today it's sort of change to warmer to sort of more typical autumn day .
+	Free: Pattern=of, Pattern=then, Pattern=and then, Pattern=to, Pattern=uh, Pattern=yes, Pattern=it, Pattern=yeah, Pattern=it's, Pattern=we had
+	Constrained: Pattern=we, Pattern=had, Pattern=then, Pattern=and
+Turn ID=26| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=27| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=28| B | M : but uh .
+	Free: Pattern=but uh
+	Constrained: Pattern=but, Pattern=uh
+Turn ID=29| A | A : i don't know . yeah our leaves are are all on on the ground now . i think it was an especially good winter for fall colors .
+	Free: Pattern=it was, Pattern=i don't know ., Pattern=for, Pattern=yeah, Pattern=. i, Pattern=on, Pattern=the
+	Constrained: Pattern=it, Pattern=know, Pattern=i, Pattern=know ., Pattern=i don't know, Pattern=was
+Turn ID=30| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=31| A | A : oh yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah, Pattern=oh
+	Constrained: Pattern=yeah
+Turn ID=32| B | M : well that's interesting .
+	Free: Pattern=well, Pattern=that's
+	Constrained: 
+Turn ID=33| A | A : yeah we we did for a time .
+	Free: Pattern=we, Pattern=a, Pattern=for, Pattern=yeah
+	Constrained: 
+Turn ID=34| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=35| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=36| B | M : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=37| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=38| B | M : but uh i've never had to drive in texas .
+	Free: Pattern=i've, Pattern=but uh, Pattern=in, Pattern=had, Pattern=to
+	Constrained: Pattern=but, Pattern=uh
+Turn ID=39| A | A : been that this year for the trees for the leaves .
+	Free: Pattern=for the, Pattern=trees, Pattern=been, Pattern=that
+	Constrained: Pattern=for, Pattern=the
+Turn ID=40| B | M : yes .
+	Free: Pattern=yes .
+	Constrained: Pattern=yes
+Turn ID=41| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : and uh we were down in texas and it was about a week before christmas and so we were it was it had been probably about three weeks before christmas we had to cut some trees down .
+	Free: Pattern=it was, Pattern=uh, Pattern=week, Pattern=a, Pattern=about, Pattern=and it, Pattern=in, Pattern=we, Pattern=had, Pattern=trees, Pattern=been, Pattern=we had, Pattern=it, Pattern=and, Pattern=before, Pattern=to
+	Constrained: Pattern=we, Pattern=had, Pattern=was, Pattern=it, Pattern=and
+Turn ID=43| A | A : yeah that's because it it can't tolerate a freeze this early . is that right ?
+	Free: Pattern=because, Pattern=is, Pattern=that's, Pattern=a freeze, Pattern=that, Pattern=it, Pattern=yeah
+	Constrained: Pattern=a
+Turn ID=44| B | M : yeah it's really funny .
+	Free: Pattern=it's, Pattern=yeah, Pattern=really
+	Constrained: 
+Turn ID=45| A | A : if it would came later it would be all right ?
+	Free: Pattern=it
+	Constrained: 
+Turn ID=46| B | M : i don't know i'm not really sure what the answer is .
+	Free: Pattern=i'm not, Pattern=is, Pattern=really, Pattern=sure, Pattern=the, Pattern=i don't know
+	Constrained: Pattern=not, Pattern=i, Pattern=know
+Turn ID=47| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=48| B | M : i i i don't know . i
+	Free: Pattern=i don't know ., Pattern=. i, Pattern=i
+	Constrained: Pattern=know ., Pattern=know, Pattern=i, Pattern=i don't know

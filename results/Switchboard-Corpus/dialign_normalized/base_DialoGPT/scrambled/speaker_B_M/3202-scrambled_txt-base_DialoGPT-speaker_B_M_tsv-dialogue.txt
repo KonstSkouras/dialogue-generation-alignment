@@ -1,0 +1,59 @@
+A|0| B: huh-uh . 
+B|1| M: _they_ compete _in_ all sports _and_ compete with each other . 
+A|2| B: kind _of_ radical _i_ _know_ but 
+B|3| M: snowing . 
+A|4| B: uh-huh . 
+B|5| M: that's not _the_ point . 
+A|6| B: [and] it's like _you know_ um [they] live back [in] where we came from two hundred years ago . 
+B|7| M: [i] 
+A|8| B: [and] it's _a_ fairly large one _to_ heave it up into [the] back _of_ [the] van bring it home [and] check it back [and] just grab it _you know_ if [i] just go _to_ my garage [and] grab it . 
+B|9| M: [i] don't think [you know] what that means . 
+A|10| B: right . 
+B|11| M: [you know] i've been [to] [a] lot [of] shows . 
+A|12| B: uh-huh . yeah yeah . 
+B|13| M: [i] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : huh-uh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : they compete in all sports and compete with each other .
+	Free: Pattern=and, Pattern=in, Pattern=they
+	Constrained: 
+Turn ID=2| A | B : kind of radical i know but
+	Free: Pattern=i, Pattern=of, Pattern=know
+	Constrained: 
+Turn ID=3| B | M : snowing .
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : that's not the point .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=6| A | B : and it's like you know um they live back in where we came from two hundred years ago .
+	Free: Pattern=you know, Pattern=and, Pattern=in, Pattern=they
+	Constrained: Pattern=know
+Turn ID=7| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=8| A | B : and it's a fairly large one to heave it up into the back of the van bring it home and check it back and just grab it you know if i just go to my garage and grab it .
+	Free: Pattern=of, Pattern=you know, Pattern=a, Pattern=and, Pattern=i, Pattern=the, Pattern=to
+	Constrained: Pattern=know
+Turn ID=9| B | M : i don't think you know what that means .
+	Free: Pattern=you know, Pattern=i
+	Constrained: Pattern=know
+Turn ID=10| A | B : right .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : you know i've been to a lot of shows .
+	Free: Pattern=you know, Pattern=to, Pattern=a, Pattern=of
+	Constrained: Pattern=know
+Turn ID=12| A | B : uh-huh . yeah yeah .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : i
+	Free: Pattern=i
+	Constrained: 

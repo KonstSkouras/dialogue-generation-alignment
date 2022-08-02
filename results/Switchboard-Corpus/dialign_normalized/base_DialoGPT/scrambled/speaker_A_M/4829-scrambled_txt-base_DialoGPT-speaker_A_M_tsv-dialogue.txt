@@ -1,0 +1,183 @@
+A|0| A: _and_ _uh_ _i think_ _that's_ _a_ national problem though . 
+B|1| M: _so_ _but_ 
+A|2| A: [but] _i_ _know_ _that_ last year we _did_ go _to_ _a_ baseball game last year . we got free tickets because someone at our church one _of_ _the_ deacons at church um parks cars at _the_ mansion at turtle creek which is _like_ one _of_ _the_ _uh_ _the_ places _and_ stuff . 
+B|3| M: _it's_ 
+A|4| A: _well_ _i_ _uh uh_ _i_ _know_ _it ._ 
+B|5| M: what ? 
+A|6| A: _i mean_ _it_ would probably be _like_ _your_ house on _uh _you_ know_ _a_ half _a_ city block _in_ pittsburgh or something . 
+B|7| M: [i think] [i think] _about_ [that] [and] 
+A|8| A: uh-huh [and] _the_ skunk . 
+B|9| M: _i'm_ _so_ _he_ ... 
+A|10| A: um . 
+B|11| M: [i] love [it] 
+A|12| A: _yeah ._ [it's] [it's] _not_ _they're not_ withholding information 
+B|13| M:  
+A|14| A: [and] _you know_ [he] [and] his wife _just_ went off _to_ visit her [and] _you know_ [i] _know_ [i] could never afford _to_ go visit _a_ kid _in_ guatemala . 
+B|15| M:  
+A|16| A: everything has sugar _in_ _it _._ i mean_ if _you_ go _your_ ketchup has sugar _in_ _it ._ 
+B|17| M: [that's] what _they_ want [you] _to think_ . 
+A|18| A: uh-huh . 
+B|19| M: why _do you_ say [that] ? 
+A|20| A: _yeah ._ 
+B|21| M: [you know] [uh [uh] you] [did] [uh uh] 
+A|22| A: [so] [you] _said_ [you] work [uh] _in the_ gardens too . _do you have_ [uh] _a_ special flowers ? 
+B|23| M: no _i just_ [like] . 
+A|24| A: because even if [you] _said_ okay [you know] armed forces could _have_ _them_ some idiot would come out [and] sell [it] [to] somebody on _the_ street [to] make _a_ quick buck . 
+B|25| M: no 
+A|26| A: [you know] _the_ 
+B|27| M:  
+A|28| A: [and] [and] [i just] sort _of_ [think] [that's] ridiculous . 
+B|29| M: [they're not] _going to_ let [you] [do] [that] [but] [it's] _good_ [to] [know] . 
+A|30| A: [it] was nice talking [to] [you] too . bye-bye . 
+B|31| M: _i'm_ sure [it's] [just] [a] matter [of] time 
+A|32| A: visit . 
+B|33| M: [you] can't . 
+A|34| A: _yeah ._ _yeah_ you're probably _right_ two years might be [a] little too long . 
+B|35| M: [i] find great disdain for [them] [in] their [in the] self centeredness [in] [them] self centered [in] themselves . 
+A|36| A: help [a] lot . _yeah ._ see around around here [it's] [like] [uh] we _pretty much_ work from project [to] project on _well_ [you know] with different sponsors . 
+B|37| M: how old _are_ [your] kids ? 
+A|38| A: _yeah ._ [uh] very 
+B|39| M: [he] [said] he'd get [it] back . 
+A|40| A: yes _. i_ [it] [just] [just] doesn't make sense 
+B|41| M: [well] [yeah [.] i mean] [it's] [pretty much] [a] [right] . 
+A|42| A: [yeah .] [yeah] [that] would be [a] real [good] _idea_ . [i'm] trying [to think] if there's anything else [i] could [think] [of] . [they] [are] talking [about] [going to] curbside pickup [in] our [in] our city . 
+B|43| M: [i] [like] [the] [idea] [of] [it .] 
+B|44| M: how many teeth [do you have] ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : and uh i think that's a national problem though .
+	Free: Pattern=uh, Pattern=a, Pattern=and, Pattern=that's, Pattern=i think
+	Constrained: Pattern=think, Pattern=i
+Turn ID=1| B | M : so but
+	Free: Pattern=so, Pattern=but
+	Constrained: 
+Turn ID=2| A | A : but i know that last year we did go to a baseball game last year . we got free tickets because someone at our church one of the deacons at church um parks cars at the mansion at turtle creek which is like one of the uh the places and stuff .
+	Free: Pattern=of, Pattern=uh, Pattern=and, Pattern=know, Pattern=i, Pattern=like, Pattern=the, Pattern=to, Pattern=did, Pattern=a, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=3| B | M : it's
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=4| A | A : well i uh uh i know it .
+	Free: Pattern=well, Pattern=it ., Pattern=know, Pattern=i, Pattern=uh uh
+	Constrained: Pattern=uh, Pattern=it
+Turn ID=5| B | M : what ?
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : i mean it would probably be like your house on uh you know a half a city block in pittsburgh or something .
+	Free: Pattern=you know, Pattern=a, Pattern=it, Pattern=in, Pattern=like, Pattern=uh you, Pattern=your, Pattern=i mean
+	Constrained: Pattern=uh, Pattern=i, Pattern=you, Pattern=know
+Turn ID=7| B | M : i think i think about that and
+	Free: Pattern=i think, Pattern=about, Pattern=that, Pattern=and
+	Constrained: Pattern=think, Pattern=i
+Turn ID=8| A | A : uh-huh and the skunk .
+	Free: Pattern=and, Pattern=the
+	Constrained: 
+Turn ID=9| B | M : i'm so he ...
+	Free: Pattern=so, Pattern=he, Pattern=i'm
+	Constrained: 
+Turn ID=10| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : i love it
+	Free: Pattern=i, Pattern=it
+	Constrained: 
+Turn ID=12| A | A : yeah . it's it's not they're not withholding information
+	Free: Pattern=they're not, Pattern=yeah ., Pattern=not, Pattern=it's
+	Constrained: Pattern=not, Pattern=yeah
+Turn ID=13| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : and you know he and his wife just went off to visit her and you know i know i could never afford to go visit a kid in guatemala .
+	Free: Pattern=you know, Pattern=just, Pattern=a, Pattern=and, Pattern=he, Pattern=in, Pattern=know, Pattern=i, Pattern=to
+	Constrained: Pattern=know, Pattern=you
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : everything has sugar in it . i mean if you go your ketchup has sugar in it .
+	Free: Pattern=in, Pattern=your, Pattern=. i mean, Pattern=you, Pattern=it .
+	Constrained: Pattern=i mean, Pattern=it, Pattern=. i, Pattern=i
+Turn ID=17| B | M : that's what they want you to think .
+	Free: Pattern=to think, Pattern=that's, Pattern=you, Pattern=they
+	Constrained: Pattern=think, Pattern=to
+Turn ID=18| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : why do you say that ?
+	Free: Pattern=do you, Pattern=that
+	Constrained: Pattern=do, Pattern=you
+Turn ID=20| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=21| B | M : you know uh uh you did uh uh
+	Free: Pattern=uh uh, Pattern=uh you, Pattern=you know, Pattern=did
+	Constrained: Pattern=know, Pattern=uh, Pattern=you
+Turn ID=22| A | A : so you said you work uh in the gardens too . do you have uh a special flowers ?
+	Free: Pattern=said, Pattern=a, Pattern=in the, Pattern=do you have, Pattern=so, Pattern=you, Pattern=uh
+	Constrained: Pattern=you, Pattern=have, Pattern=do, Pattern=do you, Pattern=in, Pattern=the
+Turn ID=23| B | M : no i just like .
+	Free: Pattern=i just, Pattern=like
+	Constrained: Pattern=just, Pattern=i
+Turn ID=24| A | A : because even if you said okay you know armed forces could have them some idiot would come out and sell it to somebody on the street to make a quick buck .
+	Free: Pattern=have, Pattern=said, Pattern=a, Pattern=the, Pattern=to, Pattern=them, Pattern=you, Pattern=you know, Pattern=it, Pattern=and
+	Constrained: Pattern=know, Pattern=you
+Turn ID=25| B | M : no
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : you know the
+	Free: Pattern=you know, Pattern=the
+	Constrained: Pattern=know, Pattern=you
+Turn ID=27| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : and and i just sort of think that's ridiculous .
+	Free: Pattern=of, Pattern=i just, Pattern=and, Pattern=think, Pattern=that's
+	Constrained: Pattern=just, Pattern=i
+Turn ID=29| B | M : they're not going to let you do that but it's good to know .
+	Free: Pattern=you, Pattern=do, Pattern=they're not, Pattern=know, Pattern=to, Pattern=going to, Pattern=good, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=not, Pattern=to
+Turn ID=30| A | A : it was nice talking to you too . bye-bye .
+	Free: Pattern=to, Pattern=you, Pattern=it
+	Constrained: 
+Turn ID=31| B | M : i'm sure it's just a matter of time
+	Free: Pattern=of, Pattern=just, Pattern=a, Pattern=i'm, Pattern=it's
+	Constrained: 
+Turn ID=32| A | A : visit .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : you can't .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=34| A | A : yeah . yeah you're probably right two years might be a little too long .
+	Free: Pattern=yeah ., Pattern=a, Pattern=yeah, Pattern=right
+	Constrained: Pattern=yeah
+Turn ID=35| B | M : i find great disdain for them in their in the self centeredness in them self centered in themselves .
+	Free: Pattern=in the, Pattern=i, Pattern=in, Pattern=them
+	Constrained: Pattern=in, Pattern=the
+Turn ID=36| A | A : help a lot . yeah . see around around here it's like uh we pretty much work from project to project on well you know with different sponsors .
+	Free: Pattern=well, Pattern=a, Pattern=yeah ., Pattern=like, Pattern=to, Pattern=it's, Pattern=uh, Pattern=you know, Pattern=pretty much
+	Constrained: Pattern=know, Pattern=you, Pattern=yeah
+Turn ID=37| B | M : how old are your kids ?
+	Free: Pattern=are, Pattern=your
+	Constrained: 
+Turn ID=38| A | A : yeah . uh very
+	Free: Pattern=yeah ., Pattern=uh
+	Constrained: Pattern=yeah
+Turn ID=39| B | M : he said he'd get it back .
+	Free: Pattern=he, Pattern=it, Pattern=said
+	Constrained: 
+Turn ID=40| A | A : yes . i it just just doesn't make sense
+	Free: Pattern=. i, Pattern=just, Pattern=it
+	Constrained: Pattern=i
+Turn ID=41| B | M : well yeah . i mean it's pretty much a right .
+	Free: Pattern=right, Pattern=well, Pattern=pretty much, Pattern=a, Pattern=yeah ., Pattern=. i mean, Pattern=it's
+	Constrained: Pattern=i mean, Pattern=. i, Pattern=i, Pattern=yeah
+Turn ID=42| A | A : yeah . yeah that would be a real good idea . i'm trying to think if there's anything else i could think of . they are talking about going to curbside pickup in our in our city .
+	Free: Pattern=of, Pattern=idea, Pattern=they, Pattern=a, Pattern=yeah ., Pattern=yeah, Pattern=are, Pattern=about, Pattern=i'm, Pattern=i, Pattern=to think, Pattern=that, Pattern=going to, Pattern=good, Pattern=think, Pattern=in
+	Constrained: Pattern=think, Pattern=to, Pattern=yeah
+Turn ID=43| B | M : i like the idea of it .
+	Free: Pattern=of, Pattern=idea, Pattern=it ., Pattern=i, Pattern=like, Pattern=the
+	Constrained: Pattern=it
+Turn ID=44| B | M : how many teeth do you have ?
+	Free: Pattern=do you have
+	Constrained: Pattern=have, Pattern=do you, Pattern=do, Pattern=you

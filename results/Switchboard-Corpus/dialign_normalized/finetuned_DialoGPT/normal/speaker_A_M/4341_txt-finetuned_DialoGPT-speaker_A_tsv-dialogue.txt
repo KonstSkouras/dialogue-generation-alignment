@@ -1,0 +1,151 @@
+B|0| M: _i i_ _agree with you_ . 
+A|1| A: uh-huh . 
+B|2| M: _and_ _and_ he's he's _going _to_ be_ out _in_ two years . 
+A|3| A: so you're [in] you're _in favor_ _of_ capital punishment _then_ . 
+B|4| M: well _i_ _think_ _i_ mean _i_ _think_ _it's a_ good thing _but i_ _think _that_ it's_ _i don't know_ _it's_ _something_ _that_ _needs to be_ taken care [of] . 
+A|5| A: _right ._ 
+B|6| M: _but uh_ _i _i don't_ know_ _. _i_ guess_ i'd _have to_ say _that_ _i'm not_ [in favor] _. uh_ _i_ _think_ _it's a_ pretty good idea . 
+A|7| A: uh-huh . uh-huh . [needs to be] punished _or_ [uh] eliminated from _society_ . 
+B|8| M: yeah . 
+A|9| A: _right ._ _and then_ do _it_ all over _again ._ uh-huh . 
+B|10| M: yeah . 
+A|11| A: _right ._ [have to] [agree with you] [and] [i'm] kind [of] [in favor] [of] capital punishment also [. i] _just_ [don't] [think that] _it_ acts much as [a] deterrent [to] these _people_ _because_ [uh] [you] still _see them_ committing _the_ same crimes [but i] tend [to] [agree with you] [that] [uh] we should [have] _it_ [i] _just_ [i don't _know] [that_ it's] always effective [but [i] guess] we [uh] we're kind [of] stuck [with] _it_ . [it's] [it's a] difficult [uh] problem isn't _it_ [to] determine how you're [going to] punish somebody _for a_ particular crime [uh] 
+B|12| M: [right] [right .] 
+A|13| A: uh-huh . uh-huh . [right] uh-huh . 
+B|14| M: [and _then] you_ [see _them] in jail_ [for a] year [or] two [and] _they're_ out doing [it] [again .] 
+A|15| A: uh-huh huh . do [you] [think] they should [be] punished at all [or] [uh] like go [to] prison [uh] _because_ [they're] [not] really _a danger_ [to] _society_ . [it] was almost really self defense isn't [it] [in] [a] case like [that] . 
+B|16| M: yeah [. _i] i_ [you] [you] can't say [that] [they're] _they're a danger_ [but i] [uh] . 
+A|17| A: uh-huh . 
+B|18| M: _but uh_ . 
+A|19| A: _i know_ they put [uh] put [them in jail] sometimes [i guess] [. uh] 
+B|20| M: [uh] well 
+A|21| A: uh-huh . uh-huh . um . uh-huh . [you] [know] now [i] wonder what [you] [think] about this [and] [uh] unfortunately we we [don't] get [to] do [it] [but uh] [it] used [to be] [a] long time ago [i guess] [in] biblical times when they had punishment if somebody did [something] [for] example [to] your family [then you] had _the_ [right] [to] administer _the_ punishment . so if somebody killed somebody [in] your family [then you] had _the_ [right] [to] [uh] if [that] person was caught [and] found guilty [you] had _the_ [right] [to] [uh] execute [that] person . [and] _i know that_ [uh] if somebody had done [something] [to] my family [i] _would_ feel [that] [i] had _the_ [right] [to] [to] get revenge on [them] [and] [uh] [but [i] i don't] [think] _that's_ done much anywhere _that's_ kind [of] drastic punishment . 
+B|22| M: well [i know] [uh] 
+A|23| A: [right .] 
+B|24| M: [but uh] . 
+A|25| A: might make [you] feel better [but] 
+B|26| M: well [i] 
+A|27| A: uh-huh . [right .] 
+B|28| M: [because] [i know that] there _are_ _a lot of_ [people] who [would] [be] willing [to] give up their american citizenship [just] [for] [that] _very_ reason . 
+A|29| A: uh-huh . [right .] uh-huh . [right] [because] [they're a danger] [to] everybody else . huh _that's_ interesting [. i] [have to] [uh] [agree with] [that] . 
+B|30| M:  !!!!!! [that's] [right .] 
+A|31| A: _there's [a_ lot of] folks probably [that] [are] [in] prison [that] [uh] [that] aren't really [a danger] [to] _society_ huh [and] [uh] 
+B|32| M: yeah yeah [i] [think that] [that] [there's a] [a lot] [a] big part [of] [it] is [uh] [uh] [the] [the] [society] doesn't understand [uh] . 
+A|33| A: [right .] [right] probably more [of] [them] [then] [the] other way around interesting [. [i] don't] [i don't] [not] sure [i] [i'm] [in] washington d c [or] at least [very] close [to] [it] . [i'm not] sure what kind [of] [uh] capital punishment we [have] here . 
+B|34| M: uh-uh . 
+A|35| A: uh-huh . 
+B|36| M: [but uh] . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : i i agree with you .
+	Free: Pattern=agree with you, Pattern=i i
+	Constrained: Pattern=agree with, Pattern=i, Pattern=you, Pattern=with
+Turn ID=1| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : and and he's he's going to be out in two years .
+	Free: Pattern=to be, Pattern=going to, Pattern=and, Pattern=in
+	Constrained: Pattern=to, Pattern=be
+Turn ID=3| A | A : so you're in you're in favor of capital punishment then .
+	Free: Pattern=in favor, Pattern=of, Pattern=then, Pattern=in
+	Constrained: Pattern=in
+Turn ID=4| B | M : well i think i mean i think it's a good thing but i think that it's i don't know it's something that needs to be taken care of .
+	Free: Pattern=that it's, Pattern=but i, Pattern=needs to be, Pattern=think, Pattern=think that, Pattern=i, Pattern=i don't know, Pattern=something, Pattern=of, Pattern=it's a, Pattern=that, Pattern=it's
+	Constrained: Pattern=i don't, Pattern=a, Pattern=think, Pattern=know, Pattern=i, Pattern=be, Pattern=don't, Pattern=to, Pattern=to be, Pattern=that, Pattern=it's, Pattern=but
+Turn ID=5| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=6| B | M : but uh i i don't know . i guess i'd have to say that i'm not in favor . uh i think it's a pretty good idea .
+	Free: Pattern=i i don't, Pattern=i'm not, Pattern=. i, Pattern=but uh, Pattern=think, Pattern=i, Pattern=i guess, Pattern=in favor, Pattern=have to, Pattern=i don't know, Pattern=that, Pattern=it's a, Pattern=. uh
+	Constrained: Pattern=uh, Pattern=a, Pattern=in, Pattern=i, Pattern=don't, Pattern=to, Pattern=not, Pattern=i don't, Pattern=have, Pattern=know, Pattern=i'm, Pattern=but, Pattern=i i, Pattern=it's
+Turn ID=7| A | A : uh-huh . uh-huh . needs to be punished or uh eliminated from society .
+	Free: Pattern=needs to be, Pattern=uh, Pattern=or, Pattern=society
+	Constrained: Pattern=to be, Pattern=to, Pattern=be
+Turn ID=8| B | M : yeah .
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : right . and then do it all over again . uh-huh .
+	Free: Pattern=right ., Pattern=and then, Pattern=again ., Pattern=it
+	Constrained: Pattern=then, Pattern=and, Pattern=right
+Turn ID=10| B | M : yeah .
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : right . have to agree with you and i'm kind of in favor of capital punishment also . i just don't think that it acts much as a deterrent to these people because uh you still see them committing the same crimes but i tend to agree with you that uh we should have it i just i don't know that it's always effective but i guess we uh we're kind of stuck with it . it's it's a difficult uh problem isn't it to determine how you're going to punish somebody for a particular crime uh
+	Free: Pattern=but i, Pattern=. i, Pattern=see them, Pattern=i, Pattern=i guess, Pattern=in favor, Pattern=the, Pattern=i don't know, Pattern=to, Pattern=for a, Pattern=agree with you, Pattern=know that, Pattern=going to, Pattern=that it's, Pattern=of, Pattern=it's a, Pattern=you, Pattern=uh, Pattern=people, Pattern=just, Pattern=have, Pattern=a, Pattern=because, Pattern=it, Pattern=and, Pattern=i'm, Pattern=think that, Pattern=right ., Pattern=have to, Pattern=don't, Pattern=with, Pattern=that, Pattern=it's
+	Constrained: Pattern=right, Pattern=you, Pattern=a, Pattern=for, Pattern=agree with, Pattern=know, Pattern=i, Pattern=don't, Pattern=to, Pattern=i don't, Pattern=have, Pattern=think, Pattern=in, Pattern=with, Pattern=it's, Pattern=but, Pattern=them, Pattern=that
+Turn ID=12| B | M : right right .
+	Free: Pattern=right ., Pattern=right
+	Constrained: Pattern=right
+Turn ID=13| A | A : uh-huh . uh-huh . right uh-huh .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=14| B | M : and then you see them in jail for a year or two and they're out doing it again .
+	Free: Pattern=and then, Pattern=they're, Pattern=see them, Pattern=or, Pattern=them in jail, Pattern=again ., Pattern=it, Pattern=and, Pattern=then you, Pattern=for a
+	Constrained: Pattern=you, Pattern=for, Pattern=and, Pattern=in, Pattern=them, Pattern=then, Pattern=a
+Turn ID=15| A | A : uh-huh huh . do you think they should be punished at all or uh like go to prison uh because they're not really a danger to society . it was almost really self defense isn't it in a case like that .
+	Free: Pattern=it, Pattern=they're, Pattern=be, Pattern=to, Pattern=a danger, Pattern=that, Pattern=not, Pattern=you, Pattern=uh, Pattern=a, Pattern=because, Pattern=think, Pattern=in, Pattern=or, Pattern=society
+	Constrained: Pattern=a
+Turn ID=16| B | M : yeah . i i you you can't say that they're they're a danger but i uh .
+	Free: Pattern=but i, Pattern=they're a danger, Pattern=you, Pattern=uh, Pattern=. i, Pattern=they're, Pattern=that, Pattern=i i
+	Constrained: Pattern=a, Pattern=they're, Pattern=i, Pattern=a danger, Pattern=but
+Turn ID=17| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : but uh .
+	Free: Pattern=but uh
+	Constrained: Pattern=uh, Pattern=but
+Turn ID=19| A | A : i know they put uh put them in jail sometimes i guess . uh
+	Free: Pattern=. uh, Pattern=uh, Pattern=i know, Pattern=i guess, Pattern=them in jail
+	Constrained: Pattern=uh, Pattern=in, Pattern=know, Pattern=i, Pattern=them
+Turn ID=20| B | M : uh well
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=21| A | A : uh-huh . uh-huh . um . uh-huh . you know now i wonder what you think about this and uh unfortunately we we don't get to do it but uh it used to be a long time ago i guess in biblical times when they had punishment if somebody did something for example to your family then you had the right to administer the punishment . so if somebody killed somebody in your family then you had the right to uh if that person was caught and found guilty you had the right to uh execute that person . and i know that uh if somebody had done something to my family i would feel that i had the right to to get revenge on them and uh but i i don't think that's done much anywhere that's kind of drastic punishment .
+	Free: Pattern=a, Pattern=for, Pattern=but uh, Pattern=know, Pattern=i, Pattern=i guess, Pattern=to, Pattern=then you, Pattern=to be, Pattern=something, Pattern=right, Pattern=of, Pattern=you, Pattern=uh, Pattern=i i don't, Pattern=but i, Pattern=it, Pattern=and, Pattern=i know that, Pattern=think, Pattern=in, Pattern=that's, Pattern=the, Pattern=would, Pattern=don't, Pattern=them, Pattern=that
+	Constrained: Pattern=then, Pattern=know, Pattern=i, Pattern=be, Pattern=don't, Pattern=to, Pattern=know that, Pattern=you, Pattern=uh, Pattern=i don't, Pattern=i know, Pattern=that, Pattern=i i, Pattern=but
+Turn ID=22| B | M : well i know uh
+	Free: Pattern=i know, Pattern=uh
+	Constrained: Pattern=i, Pattern=know
+Turn ID=23| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=24| B | M : but uh .
+	Free: Pattern=but uh
+	Constrained: Pattern=uh, Pattern=but
+Turn ID=25| A | A : might make you feel better but
+	Free: Pattern=but, Pattern=you
+	Constrained: 
+Turn ID=26| B | M : well i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=27| A | A : uh-huh . right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=28| B | M : because i know that there are a lot of people who would be willing to give up their american citizenship just for that very reason .
+	Free: Pattern=a lot of, Pattern=because, Pattern=for, Pattern=i know that, Pattern=are, Pattern=very, Pattern=be, Pattern=would, Pattern=to, Pattern=that, Pattern=people, Pattern=just
+	Constrained: Pattern=of, Pattern=i know, Pattern=a, Pattern=know, Pattern=i, Pattern=a lot, Pattern=that, Pattern=know that
+Turn ID=29| A | A : uh-huh . right . uh-huh . right because they're a danger to everybody else . huh that's interesting . i have to uh agree with that .
+	Free: Pattern=right, Pattern=uh, Pattern=because, Pattern=right ., Pattern=they're a danger, Pattern=that's, Pattern=have to, Pattern=to, Pattern=that, Pattern=. i, Pattern=agree with
+	Constrained: Pattern=right, Pattern=have, Pattern=a, Pattern=they're, Pattern=i, Pattern=to, Pattern=a danger, Pattern=with
+Turn ID=30| B | M :  !!!!!! that's right .
+	Free: Pattern=right ., Pattern=that's
+	Constrained: Pattern=right
+Turn ID=31| A | A : there's a lot of folks probably that are in prison that uh that aren't really a danger to society huh and uh
+	Free: Pattern=a lot of, Pattern=there's a, Pattern=uh, Pattern=and, Pattern=are, Pattern=in, Pattern=society, Pattern=to, Pattern=a danger, Pattern=that
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=32| B | M : yeah yeah i think that that there's a a lot a big part of it is uh uh the the society doesn't understand uh .
+	Free: Pattern=of, Pattern=there's a, Pattern=uh, Pattern=a, Pattern=it, Pattern=think that, Pattern=i, Pattern=society, Pattern=the, Pattern=a lot, Pattern=that
+	Constrained: Pattern=that, Pattern=think, Pattern=a
+Turn ID=33| A | A : right . right probably more of them then the other way around interesting . i don't i don't not sure i i'm in washington d c or at least very close to it . i'm not sure what kind of uh capital punishment we have here .
+	Free: Pattern=uh, Pattern=then, Pattern=. i, Pattern=in, Pattern=or, Pattern=the, Pattern=to, Pattern=them, Pattern=not, Pattern=right, Pattern=of, Pattern=i don't, Pattern=have, Pattern=it, Pattern=i'm not, Pattern=i'm, Pattern=right ., Pattern=very, Pattern=i
+	Constrained: Pattern=right, Pattern=i'm, Pattern=i, Pattern=don't, Pattern=not
+Turn ID=34| B | M : uh-uh .
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : but uh .
+	Free: Pattern=but uh
+	Constrained: Pattern=uh, Pattern=but

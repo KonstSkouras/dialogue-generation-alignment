@@ -1,0 +1,175 @@
+A|0| B: _i_ can't _remember_ which . _i_ was on _a_ _jury_ trial last year only _i_ got kicked _out_ as uh _the_ last selection _that_ _the_ uh defense got . 
+B|1| M: _you_ can _get_ [out] _of_ [jury] 
+A|2| B: um . 
+B|3| M: perem's _not_ [that] _bad_ 
+A|4| B: [that] uh 
+B|5| M: _i don't_ [remember] . 
+A|6| B: _right_ _but_ _it_ still has _to_ _be_ _a _group_ of_ your _peers ._ 
+B|7| M: [but] _it's_ _not_ [a group] _it's [a_ group] . 
+A|8| B: see . 
+B|9| M: _i think_ _you_ mean [the] [group of] [peers .] 
+A|10| B: so if [it's] your [peers] and you're [not] educated then 
+B|11| M: _i'm_ _in the_ _process_ [of] getting my education . 
+A|12| B: [you] _want_ [you] _want_ [a] nincompoop [jury] because they'll sympathize _with_ [you] [a] bit as well as hopefully being honest people and _do_ their best _to_ comply _with_ [the] facts as _they_ were presented _to_ them . 
+B|13| M: _i don't _know_ what_ [i] [want] _to do with_ my life . 
+A|14| B: so _that's_ why [the] defense is there picking through them whereas at [the] same time [the] uh [the] prosecutor sitting there picking through them because he wants somebody who will give him uh [a] _guilty_ verdict if [the] facts warrant . 
+B|15| M: yes 
+A|16| B: so uh [i _think] the_ [jury] selection [process] is pretty neat [but] [i don't] [think] [that] [the] [jury] ought [to] _be_ [the] ones picking [the] punishment afterwards . 
+B|17| M: pick ? 
+A|18| B: [i think] [that] _should be_ left up [to] people who have some knowledge [in the] subject and more knowledge than [a] [jury] would have . you're talking about [the] person's already been found _guilty_ _right_ 
+B|19| M:  ... [guilty] . 
+A|20| B: and many times i've seen on trials _they_ have on t v [the] [jury] will make [a] recommendation as [to] leniency or as [to] [the] death penalty or whatever [but] [i think] [that] _it_ _should be_ up [to] [the] judge and [the] uh lawyers [to] make [the] decision as [to] [what] [the] actual penalty will _be ._ 
+B|21| M:  
+A|22| B: maybe just [the] judge because they're [the] people who [know what] [the] system is and [what] [it's] all about and believe [in the] system . 
+B|23| M: [i] agree . 
+A|24| B: uh and [i think] [that] would provide [a] more fair sentencing procedure . as opposed [to] an emotional sentencing procedure . also may _be_ [a] more consistent sentencing procedure . 
+B|25| M: uhhuh 
+A|26| B: well preceding criminal record according [to] [the] judicial [process] has nothing [to do with] [the] current crime . [but] when _it_ comes [to] uh sentencing for punishment [of] course if [the] person's never done anything [bad] before according [to] [the] judicial system then they're _going_ [to] lean towards [a] slightly more lenient side and [the] jury's supposed [to] _be_ notified [of] criminal records when _it_ comes [to] sentencing by [jury] . 
+B|27| M:  
+A|28| B: at least [in] california they're supposed [to] _be ._ [not] during [the] trial during [the] trial as [to] whether they're [guilty] or [not] has nothing [to do with] their background . 
+B|29| M:  
+A|30| B: [but] when _it_ comes [to] [what] kind [of] sentence you're _going_ [to] lay down [i think] [that] uh [that] _they should_ . 
+B|31| M: _i'm_ [going] ? 
+A|32| B: [i don't] [i don't know] [that] _they_ always have because [i] never sat all [the] way through [a] [jury] trial . _they_ [get] too boring . 
+B|33| M: [you] [know] [that's] [a] lie [right] ? 
+A|34| B: well if [it's a] second offense [the] punishment _should_ certainly _be_ more severe than [a] first offense because obviously [the] rehabilitation [process] did [not] work [the] first time . 
+B|35| M: [you] 
+A|36| B: so [you] got [to] give them either more time [in the] system or [a] different [process] [that] will hopefully work better . when _it_ comes down [to] things like alternative sentencing [i'm] all for [that] for uh small crimes infractions and misdemeanors or parking tickets or traffic tickets [that] have gone [to] warrant [you] give them [the] option [of] working off their time doing civil service sort [of] things . 
+B|37| M: [it] 
+A|38| B: [i think] those ought [to] _be_ punished [a] whole lot worse than _they_ are . 
+B|39| M: [they [should] [be] .] 
+A|40| B: yeah . 
+B|41| M: [do] [you] [think the] police [should] 
+A|42| B: well uh say embezzlement [right] . [you] [get] [a] guy down [the] street who comes up uh carrying [a] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : i can't remember which . i was on a jury trial last year only i got kicked out as uh the last selection that the uh defense got .
+	Free: Pattern=remember, Pattern=out, Pattern=a, Pattern=the, Pattern=that, Pattern=jury, Pattern=i
+	Constrained: 
+Turn ID=1| B | M : you can get out of jury
+	Free: Pattern=of, Pattern=jury, Pattern=get, Pattern=you, Pattern=out
+	Constrained: 
+Turn ID=2| A | B : um .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : perem's not that bad
+	Free: Pattern=not, Pattern=bad, Pattern=that
+	Constrained: 
+Turn ID=4| A | B : that uh
+	Free: Pattern=that
+	Constrained: 
+Turn ID=5| B | M : i don't remember .
+	Free: Pattern=i don't, Pattern=remember
+	Constrained: Pattern=i
+Turn ID=6| A | B : right but it still has to be a group of your peers .
+	Free: Pattern=right, Pattern=group of, Pattern=peers ., Pattern=it, Pattern=be, Pattern=to, Pattern=a group, Pattern=but
+	Constrained: Pattern=peers, Pattern=a, Pattern=of
+Turn ID=7| B | M : but it's not a group it's a group .
+	Free: Pattern=it's a, Pattern=a group, Pattern=not, Pattern=it's, Pattern=but
+	Constrained: Pattern=a, Pattern=it's
+Turn ID=8| A | B : see .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : i think you mean the group of peers .
+	Free: Pattern=you, Pattern=group of, Pattern=peers ., Pattern=the, Pattern=i think
+	Constrained: Pattern=i, Pattern=think, Pattern=peers, Pattern=of
+Turn ID=10| A | B : so if it's your peers and you're not educated then
+	Free: Pattern=peers, Pattern=not, Pattern=it's
+	Constrained: 
+Turn ID=11| B | M : i'm in the process of getting my education .
+	Free: Pattern=in the, Pattern=process, Pattern=of, Pattern=i'm
+	Constrained: Pattern=the, Pattern=in
+Turn ID=12| A | B : you want you want a nincompoop jury because they'll sympathize with you a bit as well as hopefully being honest people and do their best to comply with the facts as they were presented to them .
+	Free: Pattern=want, Pattern=you, Pattern=they, Pattern=jury, Pattern=the, Pattern=to, Pattern=with, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=13| B | M : i don't know what i want to do with my life .
+	Free: Pattern=want, Pattern=know what, Pattern=i, Pattern=to do with, Pattern=i don't know
+	Constrained: Pattern=i don't, Pattern=what, Pattern=do, Pattern=know, Pattern=i, Pattern=to, Pattern=with
+Turn ID=14| A | B : so that's why the defense is there picking through them whereas at the same time the uh the prosecutor sitting there picking through them because he wants somebody who will give him uh a guilty verdict if the facts warrant .
+	Free: Pattern=that's, Pattern=guilty, Pattern=a, Pattern=the
+	Constrained: 
+Turn ID=15| B | M : yes
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : so uh i think the jury selection process is pretty neat but i don't think that the jury ought to be the ones picking the punishment afterwards .
+	Free: Pattern=i don't, Pattern=think, Pattern=be, Pattern=the, Pattern=to, Pattern=i think, Pattern=jury, Pattern=think the, Pattern=process, Pattern=that, Pattern=but
+	Constrained: Pattern=think, Pattern=the, Pattern=i
+Turn ID=17| B | M : pick ?
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : i think that should be left up to people who have some knowledge in the subject and more knowledge than a jury would have . you're talking about the person's already been found guilty right
+	Free: Pattern=right, Pattern=should be, Pattern=a, Pattern=in the, Pattern=jury, Pattern=the, Pattern=that, Pattern=i think, Pattern=guilty, Pattern=to
+	Constrained: Pattern=should, Pattern=i, Pattern=be, Pattern=the, Pattern=think, Pattern=in
+Turn ID=19| B | M :  ... guilty .
+	Free: Pattern=guilty
+	Constrained: 
+Turn ID=20| A | B : and many times i've seen on trials they have on t v the jury will make a recommendation as to leniency or as to the death penalty or whatever but i think that it should be up to the judge and the uh lawyers to make the decision as to what the actual penalty will be .
+	Free: Pattern=a, Pattern=it, Pattern=jury, Pattern=to, Pattern=i think, Pattern=they, Pattern=what, Pattern=should be, Pattern=be ., Pattern=the, Pattern=that, Pattern=but
+	Constrained: Pattern=be, Pattern=think, Pattern=i, Pattern=should
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : maybe just the judge because they're the people who know what the system is and what it's all about and believe in the system .
+	Free: Pattern=what, Pattern=in the, Pattern=know what, Pattern=the, Pattern=it's
+	Constrained: Pattern=what, Pattern=know, Pattern=the, Pattern=in
+Turn ID=23| B | M : i agree .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=24| A | B : uh and i think that would provide a more fair sentencing procedure . as opposed to an emotional sentencing procedure . also may be a more consistent sentencing procedure .
+	Free: Pattern=a, Pattern=be, Pattern=to, Pattern=that, Pattern=i think
+	Constrained: Pattern=think, Pattern=i
+Turn ID=25| B | M : uhhuh
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : well preceding criminal record according to the judicial process has nothing to do with the current crime . but when it comes to uh sentencing for punishment of course if the person's never done anything bad before according to the judicial system then they're going to lean towards a slightly more lenient side and the jury's supposed to be notified of criminal records when it comes to sentencing by jury .
+	Free: Pattern=bad, Pattern=of, Pattern=going, Pattern=a, Pattern=it, Pattern=jury, Pattern=be, Pattern=the, Pattern=to do with, Pattern=to, Pattern=process, Pattern=but
+	Constrained: Pattern=with, Pattern=do, Pattern=to
+Turn ID=27| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : at least in california they're supposed to be . not during the trial during the trial as to whether they're guilty or not has nothing to do with their background .
+	Free: Pattern=in, Pattern=to do with, Pattern=not, Pattern=be ., Pattern=the, Pattern=guilty, Pattern=to
+	Constrained: Pattern=do, Pattern=to, Pattern=with, Pattern=be
+Turn ID=29| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : but when it comes to what kind of sentence you're going to lay down i think that uh that they should .
+	Free: Pattern=of, Pattern=they should, Pattern=going, Pattern=what, Pattern=it, Pattern=to, Pattern=i think, Pattern=that, Pattern=but
+	Constrained: Pattern=think, Pattern=i, Pattern=they, Pattern=should
+Turn ID=31| B | M : i'm going ?
+	Free: Pattern=going, Pattern=i'm
+	Constrained: 
+Turn ID=32| A | B : i don't i don't know that they always have because i never sat all the way through a jury trial . they get too boring .
+	Free: Pattern=i don't, Pattern=they, Pattern=a, Pattern=the, Pattern=i don't know, Pattern=get, Pattern=that, Pattern=jury, Pattern=i
+	Constrained: Pattern=know, Pattern=i don't, Pattern=i
+Turn ID=33| B | M : you know that's a lie right ?
+	Free: Pattern=right, Pattern=you, Pattern=a, Pattern=know, Pattern=that's
+	Constrained: 
+Turn ID=34| A | B : well if it's a second offense the punishment should certainly be more severe than a first offense because obviously the rehabilitation process did not work the first time .
+	Free: Pattern=it's a, Pattern=should, Pattern=a, Pattern=be, Pattern=the, Pattern=process, Pattern=not
+	Constrained: Pattern=a, Pattern=it's
+Turn ID=35| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=36| A | B : so you got to give them either more time in the system or a different process that will hopefully work better . when it comes down to things like alternative sentencing i'm all for that for uh small crimes infractions and misdemeanors or parking tickets or traffic tickets that have gone to warrant you give them the option of working off their time doing civil service sort of things .
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=it, Pattern=in the, Pattern=i'm, Pattern=the, Pattern=to, Pattern=process, Pattern=that
+	Constrained: Pattern=the, Pattern=in
+Turn ID=37| B | M : it
+	Free: Pattern=it
+	Constrained: 
+Turn ID=38| A | B : i think those ought to be punished a whole lot worse than they are .
+	Free: Pattern=they, Pattern=a, Pattern=be, Pattern=to, Pattern=i think
+	Constrained: Pattern=think, Pattern=i
+Turn ID=39| B | M : they should be .
+	Free: Pattern=be ., Pattern=should be, Pattern=they should
+	Constrained: Pattern=be, Pattern=they, Pattern=should
+Turn ID=40| A | B : yeah .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : do you think the police should
+	Free: Pattern=think the, Pattern=do, Pattern=you, Pattern=should
+	Constrained: Pattern=think, Pattern=the
+Turn ID=42| A | B : well uh say embezzlement right . you get a guy down the street who comes up uh carrying a
+	Free: Pattern=right, Pattern=you, Pattern=a, Pattern=the, Pattern=get
+	Constrained: 

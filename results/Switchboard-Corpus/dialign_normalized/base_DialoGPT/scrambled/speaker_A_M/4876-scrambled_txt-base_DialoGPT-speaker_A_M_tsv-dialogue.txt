@@ -1,0 +1,195 @@
+A|0| A: _the_ economy _is_ lousy 
+B|1| M: _so_ ? _it's_ _just_ _a_ title . 
+A|2| A: _yeah ._ _and_ _that_ does make [a] [a] person want _to_ stay 
+B|3| M: we _used _to_ do_ _that ._ 
+A|4| A: well _i_ suppose _you_ may _be_ _right_ on [that .] matter _of_ fact i've heard [that] i've heard [that] some _of_ _the_ information _uh_ _is_ prevented from reaching _the_ jury like _uh_ mitigating circumstances or or preceding _uh_ criminal record or things _of_ this nature [that] 
+B|5| M: cooked chocolate [is] _so_ _good_ 
+A|6| A: [so] um _i think_ [that] [that] would _be_ [a] real [a] real _uh_ advantage [to] [to] her [to] _have_ [that] _and_ _uh_ [do] it early 
+B|7| M: _it's_ funny . 
+A|8| A: _right ._ 
+B|9| M: [i] got [a] generic three eight 
+A|10| A: oh [i] wouldn't either . there'd _be_ no way . 
+B|11| M: u . 
+A|12| A: _right ._ _right ._ 
+B|13| M: _you know_ _i'm_ _not_ [a] big fan [of] the'' . 
+A|14| A: _uh_ guy _was_ _in_ [a] _uh_ _in_ [a] hunting club 
+B|15| M: _i mean_ [uh] _i'm_ _not_ _really_ [a] big fan [of] _them_ _but_ [uh] _yeah [yeah_ .] 
+A|16| A: [so] sometimes [it's] hard [to] [to] [know] exactly when [but] [i] don't [know] if she acts like she wants [to] or says she wants [to] maybe [you] could _have_ her take some for [a] while _and_ see how she likes it . 
+B|17| M: _yeah that's_ [the] thing 
+A|18| A: [so] [that] gives _us_ special time together too . 
+B|19| M: _you know_ _what_ _that's_ [a] _good_ _point_ . 
+A|20| A: [but] 
+B|21| M: [and] we did _they_ [have] _kids_ ? 
+A|22| A: [i] enjoyed having [a] lawn service [but] now _i have_ [the] time [and] [i] [really] can't [i] [really] [you know] don't want [to] spend [the] money for it . 
+B|23| M: _what_ [do] [you] _mean_ ? 
+A|24| A: uh-huh kind [of] your getaway place . 
+B|25| M: what's [the] worst ? 
+A|26| A: well [not] being [a] drug user [i] don't _have a_ problem with [that] personally 
+B|27| M: [it's] [a] very big city [in] [the] [us] . 
+A|28| A: [so] [i mean] [i'm] [used] [i'm] [used to] having cats _around_ [i] like [them] . 
+B|29| M: [i [have] a] potato 
+A|30| A: let's face it . [yeah yeah] [but] it it b m w [good] for [that .] [what] kind [of] driving [just] like commuting you'd want [to do] it use it for ? 
+B|31| M: _that's_ [what] [i] [was] saying . _they_ get off . 
+A|32| A: wow . [yeah .] 
+B|33| M: [i'm] gonna . _go_ 
+A|34| A: it wasn't too much [of] [a] job [really] . 
+B|35| M: [it's] [a] pretty [good] game [i think] 
+A|36| A: [yeah that's] . [but] 
+B|37| M: japan 
+A|38| A: [and] [and] [they] [do] group things . [and] then if health or or mental capacity deteriorates they're able [to] take [the] next steps without [so] much change [and] oh [i] wish everybody could [go] [that] direction rather than [just] all [of] [a] sudden moving out [of] [the] home they've always been [in] . [it's] [really] kind [of] difficult . 
+B|39| M: [what] did [they] _say_ ? 
+A|40| A: exactly . [i think] our community [is] [a] lot more conscious now though too [and] [and] [that's] [good] too . 
+B|41| M: [the] year before ? 
+A|42| A: uh-huh . [uh] [so] [i] most [of] [the] [kids] here [i] [you know] like [you know] [just] from dorm mates [and] stuff they'll [say] [that] [they] don't believe [in] it [but] then after [i] would [say] my [point] [of] view then they'll [say] well [yeah] [you know] [you know] . 
+B|43| M: [i'm] [not] [really] [i'm] 
+A|44| A: uh-huh . 
+B|45| M: i'll [be] [around] . 
+A|46| A: well [i mean] [but] [you] didn't [have] oboe or something with it ? 
+B|47| M: [you know] [what] you're [right .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : the economy is lousy
+	Free: Pattern=is, Pattern=the
+	Constrained: 
+Turn ID=1| B | M : so ? it's just a title .
+	Free: Pattern=just, Pattern=so, Pattern=a, Pattern=it's
+	Constrained: 
+Turn ID=2| A | A : yeah . and that does make a a person want to stay
+	Free: Pattern=a, Pattern=yeah ., Pattern=and, Pattern=to, Pattern=that
+	Constrained: Pattern=yeah
+Turn ID=3| B | M : we used to do that .
+	Free: Pattern=to do, Pattern=used to, Pattern=that .
+	Constrained: Pattern=used, Pattern=do, Pattern=that, Pattern=to
+Turn ID=4| A | A : well i suppose you may be right on that . matter of fact i've heard that i've heard that some of the information uh is prevented from reaching the jury like uh mitigating circumstances or or preceding uh criminal record or things of this nature that
+	Free: Pattern=be, Pattern=the, Pattern=that, Pattern=right, Pattern=of, Pattern=that ., Pattern=you, Pattern=uh, Pattern=is, Pattern=i
+	Constrained: Pattern=that
+Turn ID=5| B | M : cooked chocolate is so good
+	Free: Pattern=is, Pattern=good, Pattern=so
+	Constrained: 
+Turn ID=6| A | A : so um i think that that would be a real a real uh advantage to to her to have that and uh do it early
+	Free: Pattern=uh, Pattern=have, Pattern=and, Pattern=be, Pattern=to, Pattern=that, Pattern=do, Pattern=a, Pattern=so, Pattern=i think
+	Constrained: Pattern=i
+Turn ID=7| B | M : it's funny .
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=8| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=9| B | M : i got a generic three eight
+	Free: Pattern=i, Pattern=a
+	Constrained: 
+Turn ID=10| A | A : oh i wouldn't either . there'd be no way .
+	Free: Pattern=be, Pattern=i
+	Constrained: 
+Turn ID=11| B | M : u .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : right . right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=13| B | M : you know i'm not a big fan of the'' .
+	Free: Pattern=of, Pattern=you know, Pattern=a, Pattern=i'm, Pattern=not
+	Constrained: Pattern=know, Pattern=you
+Turn ID=14| A | A : uh guy was in a uh in a hunting club
+	Free: Pattern=in, Pattern=was, Pattern=uh, Pattern=a
+	Constrained: 
+Turn ID=15| B | M : i mean uh i'm not really a big fan of them but uh yeah yeah .
+	Free: Pattern=of, Pattern=uh, Pattern=a, Pattern=yeah ., Pattern=i'm, Pattern=i mean, Pattern=really, Pattern=yeah yeah, Pattern=not, Pattern=them, Pattern=but
+	Constrained: Pattern=yeah, Pattern=i, Pattern=mean
+Turn ID=16| A | A : so sometimes it's hard to to know exactly when but i don't know if she acts like she wants to or says she wants to maybe you could have her take some for a while and see how she likes it .
+	Free: Pattern=you, Pattern=have, Pattern=a, Pattern=and, Pattern=know, Pattern=i, Pattern=to, Pattern=so, Pattern=it's, Pattern=but
+	Constrained: 
+Turn ID=17| B | M : yeah that's the thing
+	Free: Pattern=yeah that's, Pattern=the
+	Constrained: Pattern=that's, Pattern=yeah
+Turn ID=18| A | A : so that gives us special time together too .
+	Free: Pattern=us, Pattern=so, Pattern=that
+	Constrained: 
+Turn ID=19| B | M : you know what that's a good point .
+	Free: Pattern=good, Pattern=you know, Pattern=what, Pattern=a, Pattern=point, Pattern=that's
+	Constrained: Pattern=know, Pattern=you
+Turn ID=20| A | A : but
+	Free: Pattern=but
+	Constrained: 
+Turn ID=21| B | M : and we did they have kids ?
+	Free: Pattern=have, Pattern=kids, Pattern=and, Pattern=they
+	Constrained: 
+Turn ID=22| A | A : i enjoyed having a lawn service but now i have the time and i really can't i really you know don't want to spend the money for it .
+	Free: Pattern=you know, Pattern=a, Pattern=and, Pattern=i, Pattern=really, Pattern=the, Pattern=to, Pattern=but, Pattern=i have
+	Constrained: Pattern=have, Pattern=know, Pattern=i, Pattern=you
+Turn ID=23| B | M : what do you mean ?
+	Free: Pattern=what, Pattern=do, Pattern=you, Pattern=mean
+	Constrained: 
+Turn ID=24| A | A : uh-huh kind of your getaway place .
+	Free: Pattern=of
+	Constrained: 
+Turn ID=25| B | M : what's the worst ?
+	Free: Pattern=the
+	Constrained: 
+Turn ID=26| A | A : well not being a drug user i don't have a problem with that personally
+	Free: Pattern=have a, Pattern=a, Pattern=i, Pattern=that, Pattern=not
+	Constrained: Pattern=have, Pattern=a
+Turn ID=27| B | M : it's a very big city in the us .
+	Free: Pattern=a, Pattern=us, Pattern=in, Pattern=the, Pattern=it's
+	Constrained: 
+Turn ID=28| A | A : so i mean i'm used i'm used to having cats around i like them .
+	Free: Pattern=used to, Pattern=around, Pattern=i'm, Pattern=used, Pattern=them, Pattern=so, Pattern=i mean, Pattern=i
+	Constrained: Pattern=used, Pattern=i, Pattern=mean, Pattern=to
+Turn ID=29| B | M : i have a potato
+	Free: Pattern=i have, Pattern=have a
+	Constrained: Pattern=have, Pattern=i, Pattern=a
+Turn ID=30| A | A : let's face it . yeah yeah but it it b m w good for that . what kind of driving just like commuting you'd want to do it use it for ?
+	Free: Pattern=good, Pattern=just, Pattern=to do, Pattern=what, Pattern=but, Pattern=yeah yeah, Pattern=of, Pattern=that .
+	Constrained: Pattern=do, Pattern=yeah, Pattern=that, Pattern=to
+Turn ID=31| B | M : that's what i was saying . they get off .
+	Free: Pattern=i, Pattern=that's, Pattern=was, Pattern=what, Pattern=they
+	Constrained: 
+Turn ID=32| A | A : wow . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=33| B | M : i'm gonna . go
+	Free: Pattern=i'm, Pattern=go
+	Constrained: 
+Turn ID=34| A | A : it wasn't too much of a job really .
+	Free: Pattern=really, Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=35| B | M : it's a pretty good game i think
+	Free: Pattern=i think, Pattern=good, Pattern=a, Pattern=it's
+	Constrained: Pattern=i
+Turn ID=36| A | A : yeah that's . but
+	Free: Pattern=yeah that's, Pattern=but
+	Constrained: Pattern=that's, Pattern=yeah
+Turn ID=37| B | M : japan
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : and and they do group things . and then if health or or mental capacity deteriorates they're able to take the next steps without so much change and oh i wish everybody could go that direction rather than just all of a sudden moving out of the home they've always been in . it's really kind of difficult .
+	Free: Pattern=of, Pattern=just, Pattern=go, Pattern=they, Pattern=and, Pattern=in, Pattern=i, Pattern=really, Pattern=the, Pattern=to, Pattern=so, Pattern=do, Pattern=a, Pattern=that, Pattern=it's
+	Constrained: 
+Turn ID=39| B | M : what did they say ?
+	Free: Pattern=what, Pattern=they, Pattern=say
+	Constrained: 
+Turn ID=40| A | A : exactly . i think our community is a lot more conscious now though too and and that's good too .
+	Free: Pattern=good, Pattern=a, Pattern=and, Pattern=is, Pattern=that's, Pattern=i think
+	Constrained: Pattern=i
+Turn ID=41| B | M : the year before ?
+	Free: Pattern=the
+	Constrained: 
+Turn ID=42| A | A : uh-huh . uh so i most of the kids here i you know like you know just from dorm mates and stuff they'll say that they don't believe in it but then after i would say my point of view then they'll say well yeah you know you know .
+	Free: Pattern=of, Pattern=just, Pattern=they, Pattern=kids, Pattern=in, Pattern=say, Pattern=i, Pattern=point, Pattern=the, Pattern=so, Pattern=uh, Pattern=you know, Pattern=yeah, Pattern=and, Pattern=that, Pattern=but
+	Constrained: Pattern=know, Pattern=you
+Turn ID=43| B | M : i'm not really i'm
+	Free: Pattern=i'm, Pattern=not, Pattern=really
+	Constrained: 
+Turn ID=44| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : i'll be around .
+	Free: Pattern=be, Pattern=around
+	Constrained: 
+Turn ID=46| A | A : well i mean but you didn't have oboe or something with it ?
+	Free: Pattern=i mean, Pattern=have, Pattern=but, Pattern=you
+	Constrained: Pattern=i, Pattern=mean
+Turn ID=47| B | M : you know what you're right .
+	Free: Pattern=right ., Pattern=you know, Pattern=what
+	Constrained: Pattern=know, Pattern=right, Pattern=you

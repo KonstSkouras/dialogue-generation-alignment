@@ -1,0 +1,59 @@
+B|0| M: and uh and she _was the_ one who said _that_ there _was_ no such thing as contraceptives anymore . 
+A|1| B: uh-huh . 
+B|2| M: and uh . 
+A|3| B: _yeah_ i i _yeah_ i i i truly believe [that] [that] before [that] [that] we have to address [the] racial racial issues in [the] united states before we can go anywhere . 
+B|4| M: [yeah] . 
+A|5| B: um because it is so you know it's 
+B|6| M: right . 
+A|7| B: hello . 
+B|8| M: hi . 
+A|9| B: [yeah] _well_ it wasn't [the] matter of wealth it [was the] matter [that] they were not wealthy [that] made them equal . 
+B|10| M:  !!! % [well] that's true [that] [was] true . 
+A|11| B: [well] i'll talk to you later 
+B|12| M: _okay_ thanks . 
+A|13| B: [okay] . bye-bye . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : and uh and she was the one who said that there was no such thing as contraceptives anymore .
+	Free: Pattern=was the, Pattern=that, Pattern=was
+	Constrained: Pattern=the, Pattern=was
+Turn ID=1| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : and uh .
+	Free: 
+	Constrained: 
+Turn ID=3| A | B : yeah i i yeah i i i truly believe that that before that that we have to address the racial racial issues in the united states before we can go anywhere .
+	Free: Pattern=the, Pattern=that, Pattern=yeah
+	Constrained: 
+Turn ID=4| B | M : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=5| A | B : um because it is so you know it's
+	Free: 
+	Constrained: 
+Turn ID=6| B | M : right .
+	Free: 
+	Constrained: 
+Turn ID=7| A | B : hello .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : hi .
+	Free: 
+	Constrained: 
+Turn ID=9| A | B : yeah well it wasn't the matter of wealth it was the matter that they were not wealthy that made them equal .
+	Free: Pattern=well, Pattern=yeah, Pattern=was the, Pattern=the, Pattern=that
+	Constrained: Pattern=the, Pattern=was
+Turn ID=10| B | M :  !!! % well that's true that was true .
+	Free: Pattern=well, Pattern=that, Pattern=was
+	Constrained: 
+Turn ID=11| A | B : well i'll talk to you later
+	Free: Pattern=well
+	Constrained: 
+Turn ID=12| B | M : okay thanks .
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=13| A | B : okay . bye-bye .
+	Free: Pattern=okay
+	Constrained: 

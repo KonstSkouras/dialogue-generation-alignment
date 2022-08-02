@@ -1,0 +1,131 @@
+B|0| M: no i'm _not_ you're _not_ _a_ real threat _to_ _me_ . 
+A|1| A: okay 
+B|2| M: no i'm _not_ . 
+A|3| A: pardon [me] ? 
+B|4| M: he walks _over_ _to_ _you_ 
+A|5| A: okay _well_ there's uh it's kind of an interesting topic and one _that_ _i_ _think_ _is_ quite fascinating because uh couple of years ago _i_ guess uh [not] very [not] very long ago seemed like _the_ whole world [not] just _the_ united states _but_ _the_ whole world was kind of in [a] standstill where everyone was basically in uh [you] know [a] very comfortable position so _to say_ even though _the_ _the_ cold war was was in full swing . [you] know [you] had _the_ _the_ russians against _the_ americans _the_ communists against _the_ free world and in _the_ last couple of years things _have_ changed dramatically [not] only on _the_ political front _but_ also on _the_ economic front where uh couple of years ago we had uh america was one of _the_ leading powers and one of _the_ strongest nations in _the_ world as far as economics were concerned and now we're having [a] very tough time in [a] recessionary period . we're also _have_ [a] very humongous trade deficit and uh and that's kind of frightening . also [you] know [a] couple of years ago ten fifteen ten fifteen years ago an individual _going_ into [a] career could expect [to] _have_ _that_ career basically throughout their whole life and thirty years ago _that_ was _that_ was basically it whereas now we're expected [to] _have_ [a] career change every [you] know every couple of years and possibly four [to] five career changes throughout our lifetime and so _i_ _think_ uh [you] know things there's been an awful lot of social change lately and and uh . 
+B|6| M: citiz 
+A|7| A: uh-huh . uh-huh . 
+B|8| M: helicoptering 
+A|9| A: true . 
+B|10| M:  
+A|11| A: uh-huh . 
+B|12| M: what about [the] other 
+A|13| A: yes yes . 
+B|14| M: oh [is] [that] what _you think_ ? 
+A|15| A: true true . 
+B|16| M: heh [i] see what [you] did _there_ . 
+A|17| A: uh-huh _. well_ do do [you think] that's _good_ or bad ? 
+B|18| M: i'm sorry [but] i'm [not] [going] [to say] . 
+A|19| A: [you think] that's great . 
+B|20| M: oh [. well] [i] don't [have] any [good] ideas . 
+A|21| A: that's some yeah because [a] lot of people seem [to] stagnate once they get into position they they're very comfortable they lose [the] ability [to] learn and they in [a] sense become unteachable . they [think] they know all [there] [is] [to] know in [the] area set path and [you] know come in and put my time in from nine [to] five and when that's [over] with that's that's it without even giving [a] second thought [to] advancing their education or getting extracurricular um education and and [i] [think] that's an excellent opportunity for us [to] expand ourselves also . 
+B|22| M:  
+A|23| A: uh-huh . right . [i] agree with [that] [i] agree with [that] . [but] [i] believe [that] uh an individual should really learn how [to] [to] learn 
+B|24| M: [you] [you] 
+A|25| A: learn how [to] adapt learn how [to] grow in [the] in their college or whatever education they might take [. well] [that] that's [good] that's [good] . 
+B|26| M:  
+A|27| A: uh-huh . 
+B|28| M: [you] . 
+A|29| A: yeah [i] [i] read [a] few articles off in [the] newspaper and some publications where stress uh for those people [that] are laid off and also for those people [that] are [not] laid off [but] were threatened with [a] layoff and threatened with [a] reduction in their company [is] extremely high right now . 
+B|30| M: [i] 
+A|31| A: [that] stress [is] [a] very prominent factor in [the] work place and it affects 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : no i'm not you're not a real threat to me .
+	Free: Pattern=not, Pattern=a, Pattern=to, Pattern=me
+	Constrained: 
+Turn ID=1| A | A : okay
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : no i'm not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=3| A | A : pardon me ?
+	Free: Pattern=me
+	Constrained: 
+Turn ID=4| B | M : he walks over to you
+	Free: Pattern=over, Pattern=to, Pattern=you
+	Constrained: 
+Turn ID=5| A | A : okay well there's uh it's kind of an interesting topic and one that i think is quite fascinating because uh couple of years ago i guess uh not very not very long ago seemed like the whole world not just the united states but the whole world was kind of in a standstill where everyone was basically in uh you know a very comfortable position so to say even though the the cold war was was in full swing . you know you had the the russians against the americans the communists against the free world and in the last couple of years things have changed dramatically not only on the political front but also on the economic front where uh couple of years ago we had uh america was one of the leading powers and one of the strongest nations in the world as far as economics were concerned and now we're having a very tough time in a recessionary period . we're also have a very humongous trade deficit and uh and that's kind of frightening . also you know a couple of years ago ten fifteen ten fifteen years ago an individual going into a career could expect to have that career basically throughout their whole life and thirty years ago that was that was basically it whereas now we're expected to have a career change every you know every couple of years and possibly four to five career changes throughout our lifetime and so i think uh you know things there's been an awful lot of social change lately and and uh .
+	Free: Pattern=well, Pattern=you, Pattern=a, Pattern=to say, Pattern=think, Pattern=the, Pattern=to, Pattern=not, Pattern=going, Pattern=have, Pattern=is, Pattern=i, Pattern=that, Pattern=but
+	Constrained: Pattern=to
+Turn ID=6| B | M : citiz
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : helicoptering
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : true .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M : what about the other
+	Free: Pattern=the
+	Constrained: 
+Turn ID=13| A | A : yes yes .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : oh is that what you think ?
+	Free: Pattern=you think, Pattern=that, Pattern=is
+	Constrained: Pattern=think, Pattern=you
+Turn ID=15| A | A : true true .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : heh i see what you did there .
+	Free: Pattern=there, Pattern=i, Pattern=you
+	Constrained: 
+Turn ID=17| A | A : uh-huh . well do do you think that's good or bad ?
+	Free: Pattern=you think, Pattern=. well, Pattern=good
+	Constrained: Pattern=well, Pattern=think, Pattern=you
+Turn ID=18| B | M : i'm sorry but i'm not going to say .
+	Free: Pattern=to say, Pattern=not, Pattern=but, Pattern=going
+	Constrained: Pattern=to
+Turn ID=19| A | A : you think that's great .
+	Free: Pattern=you think
+	Constrained: Pattern=think, Pattern=you
+Turn ID=20| B | M : oh . well i don't have any good ideas .
+	Free: Pattern=. well, Pattern=have, Pattern=good, Pattern=i
+	Constrained: Pattern=well
+Turn ID=21| A | A : that's some yeah because a lot of people seem to stagnate once they get into position they they're very comfortable they lose the ability to learn and they in a sense become unteachable . they think they know all there is to know in the area set path and you know come in and put my time in from nine to five and when that's over with that's that's it without even giving a second thought to advancing their education or getting extracurricular um education and and i think that's an excellent opportunity for us to expand ourselves also .
+	Free: Pattern=you, Pattern=there, Pattern=a, Pattern=the, Pattern=to, Pattern=think, Pattern=over, Pattern=is, Pattern=i
+	Constrained: 
+Turn ID=22| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : uh-huh . right . i agree with that i agree with that . but i believe that uh an individual should really learn how to to learn
+	Free: Pattern=that, Pattern=but, Pattern=to, Pattern=i
+	Constrained: 
+Turn ID=24| B | M : you you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=25| A | A : learn how to adapt learn how to grow in the in their college or whatever education they might take . well that that's good that's good .
+	Free: Pattern=good, Pattern=the, Pattern=. well, Pattern=to, Pattern=that
+	Constrained: Pattern=well
+Turn ID=26| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=28| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=29| A | A : yeah i i read a few articles off in the newspaper and some publications where stress uh for those people that are laid off and also for those people that are not laid off but were threatened with a layoff and threatened with a reduction in their company is extremely high right now .
+	Free: Pattern=a, Pattern=the, Pattern=not, Pattern=is, Pattern=i, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=30| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=31| A | A : that stress is a very prominent factor in the work place and it affects
+	Free: Pattern=that, Pattern=is, Pattern=a, Pattern=the
+	Constrained: 

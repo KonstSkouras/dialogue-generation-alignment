@@ -1,0 +1,163 @@
+A|0| B: _well_ how does _this_ grab _you_ ? how did _this_ grab _you_ ? _uh_ _this_ _i_ _i_ mean _i'm_ _i'm_ _a_ lady _but_ _this_ _i_ heard _this_ on _a_ christian program _and it_ was _uh_ about _the_ n e _a_ _and_ _that's_ _the_ national endowment for arts _and they_ fund _they_ funded _this_ thing _this_ act on _a_ stage _and_ did _a_ study on _it_ between two lesbians _and_ two homosexuals _and_ wrote _a_ report about _that_ _with_ our money . 
+B|1| M: _uh-huh ._ 
+A|2| B: _and_ then _it_ just frosts me terribly . 
+B|3| M: _uh-huh ._ 
+A|4| B: absolutely . 
+B|5| M: [and] [that] [that] [uh] 
+A|6| B: _i_ believe _that's_ _true_ yes . 
+B|7| M: [and] [i] think [that] [uh] ... 
+A|8| B: _that's_ correct . 
+B|9| M: _you know_ [and] [i] think [that's] _going_ _to_ lead _to_ [a] lot _of_ problems . 
+A|10| B: heavy involvement from _the_ public . 
+B|11| M: _right_ . 
+A|12| B: [uh-huh .] _yeah_ heavy involvement from _the_ public . 
+B|13| M: _right_ _right_ . 
+A|14| B: _yeah_ . 
+B|15| M: [i] don't _know_ . 
+A|16| B: absolutely . 
+B|17| M: [and] [uh] . 
+A|18| B: no _it_ is _not_ . _it's_ lopsided very _much_ _so_ . 
+B|19| M: [and] [i] think [that] [uh] . 
+A|20| B: [uh-huh] _that's right_ _they_ pull _the_ strings . 
+B|21| M: [right] . 
+A|22| B: [right] _the_ _yeah_ 
+B|23| M: [and they] can be used _to_ _you know_ _to_ great effect . 
+A|24| B: [uh-huh .] 
+B|25| M: [and] [uh] [and it] _will_ [uh] 
+A|26| B: _i'm_ _sure_ [they] [will] . 
+B|27| M: [yeah] [and] [uh] . 
+A|28| B: [uh-huh .] [uh-huh .] 
+B|29| M: [but] [it's] [it's] hard _to_ imagine [that] [uh] one person controlling all _of_ [this] _would_ have any affect at all . 
+A|30| B: yes [i] understand [that] [but] hopefully _that the_ people [that] are listening [to] what our comments are take some action on [it] . 
+B|31| M: [well] [i] don tinker around [with] [it] too [much] . 
+A|32| B: oh absolutely . 
+B|33| M: [and] [uh] [i'm] [not] [sure] [that] we're we're _going_ [to] [uh] . 
+A|34| B: [right] absolutely . 
+B|35| M: [but] [i] think [that the] [the] media [you] hear _so much_ [you] get [so] fed up [with] [it] [that] [you] want [to] turn [it] off . 
+A|36| B: we only see [the] tip [of] [the] iceberg only . 
+B|37| M: [that's right] . 
+A|38| B: [you know] there's [so much] [of] [it] [going] on [that] [it] [would] really [you know] [uh] set us into [a] deeper depression if we knew [the] whole picture . 
+B|39| M: [yeah] [it's] [true] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : well how does this grab you ? how did this grab you ? uh this i i mean i'm i'm a lady but this i heard this on a christian program and it was uh about the n e a and that's the national endowment for arts and they fund they funded this thing this act on a stage and did a study on it between two lesbians and two homosexuals and wrote a report about that with our money .
+	Free: Pattern=well, Pattern=they, Pattern=a, Pattern=and it, Pattern=i'm, Pattern=i, Pattern=and they, Pattern=this, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=that's, Pattern=the, Pattern=with, Pattern=that, Pattern=but
+	Constrained: Pattern=and, Pattern=they, Pattern=it
+Turn ID=1| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=2| A | B : and then it just frosts me terribly .
+	Free: Pattern=and, Pattern=it
+	Constrained: 
+Turn ID=3| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=4| A | B : absolutely .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : and that that uh
+	Free: Pattern=and, Pattern=uh, Pattern=that
+	Constrained: 
+Turn ID=6| A | B : i believe that's true yes .
+	Free: Pattern=i, Pattern=that's, Pattern=true
+	Constrained: 
+Turn ID=7| B | M : and i think that uh ...
+	Free: Pattern=and, Pattern=i, Pattern=uh, Pattern=that
+	Constrained: 
+Turn ID=8| A | B : that's correct .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=9| B | M : you know and i think that's going to lead to a lot of problems .
+	Free: Pattern=of, Pattern=you know, Pattern=going, Pattern=a, Pattern=and, Pattern=i, Pattern=that's, Pattern=to
+	Constrained: Pattern=know, Pattern=you
+Turn ID=10| A | B : heavy involvement from the public .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=11| B | M : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=12| A | B : uh-huh . yeah heavy involvement from the public .
+	Free: Pattern=uh-huh ., Pattern=yeah, Pattern=the
+	Constrained: Pattern=uh-huh
+Turn ID=13| B | M : right right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=14| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=15| B | M : i don't know .
+	Free: Pattern=i, Pattern=know
+	Constrained: 
+Turn ID=16| A | B : absolutely .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : and uh .
+	Free: Pattern=and, Pattern=uh
+	Constrained: 
+Turn ID=18| A | B : no it is not . it's lopsided very much so .
+	Free: Pattern=it, Pattern=much, Pattern=it's, Pattern=so, Pattern=not
+	Constrained: 
+Turn ID=19| B | M : and i think that uh .
+	Free: Pattern=and, Pattern=i, Pattern=uh, Pattern=that
+	Constrained: 
+Turn ID=20| A | B : uh-huh that's right they pull the strings .
+	Free: Pattern=that's right, Pattern=uh-huh, Pattern=they, Pattern=the
+	Constrained: Pattern=that's, Pattern=right
+Turn ID=21| B | M : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=22| A | B : right the yeah
+	Free: Pattern=right, Pattern=yeah, Pattern=the
+	Constrained: 
+Turn ID=23| B | M : and they can be used to you know to great effect .
+	Free: Pattern=you know, Pattern=and they, Pattern=to
+	Constrained: Pattern=and, Pattern=know, Pattern=you, Pattern=they
+Turn ID=24| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=25| B | M : and uh and it will uh
+	Free: Pattern=and it, Pattern=and, Pattern=uh, Pattern=will
+	Constrained: Pattern=and, Pattern=it
+Turn ID=26| A | B : i'm sure they will .
+	Free: Pattern=sure, Pattern=i'm, Pattern=they, Pattern=will
+	Constrained: 
+Turn ID=27| B | M : yeah and uh .
+	Free: Pattern=and, Pattern=uh, Pattern=yeah
+	Constrained: 
+Turn ID=28| A | B : uh-huh . uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=29| B | M : but it's it's hard to imagine that uh one person controlling all of this would have any affect at all .
+	Free: Pattern=of, Pattern=uh, Pattern=would, Pattern=to, Pattern=this, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: 
+Turn ID=30| A | B : yes i understand that but hopefully that the people that are listening to what our comments are take some action on it .
+	Free: Pattern=it, Pattern=i, Pattern=to, Pattern=that the, Pattern=that, Pattern=but
+	Constrained: Pattern=that, Pattern=the
+Turn ID=31| B | M : well i don tinker around with it too much .
+	Free: Pattern=well, Pattern=it, Pattern=i, Pattern=much, Pattern=with
+	Constrained: 
+Turn ID=32| A | B : oh absolutely .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : and uh i'm not sure that we're we're going to uh .
+	Free: Pattern=uh, Pattern=going, Pattern=and, Pattern=i'm, Pattern=sure, Pattern=to, Pattern=that, Pattern=not
+	Constrained: 
+Turn ID=34| A | B : right absolutely .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=35| B | M : but i think that the the media you hear so much you get so fed up with it that you want to turn it off .
+	Free: Pattern=you, Pattern=it, Pattern=so much, Pattern=i, Pattern=the, Pattern=to, Pattern=with, Pattern=that, Pattern=but, Pattern=so, Pattern=that the
+	Constrained: Pattern=that, Pattern=so, Pattern=much, Pattern=the
+Turn ID=36| A | B : we only see the tip of the iceberg only .
+	Free: Pattern=of, Pattern=the
+	Constrained: 
+Turn ID=37| B | M : that's right .
+	Free: Pattern=that's right
+	Constrained: Pattern=that's, Pattern=right
+Turn ID=38| A | B : you know there's so much of it going on that it would really you know uh set us into a deeper depression if we knew the whole picture .
+	Free: Pattern=of, Pattern=going, Pattern=a, Pattern=it, Pattern=so much, Pattern=the, Pattern=would, Pattern=that, Pattern=uh, Pattern=you know
+	Constrained: Pattern=know, Pattern=you, Pattern=so, Pattern=much
+Turn ID=39| B | M : yeah it's true .
+	Free: Pattern=true, Pattern=it's, Pattern=yeah
+	Constrained: 

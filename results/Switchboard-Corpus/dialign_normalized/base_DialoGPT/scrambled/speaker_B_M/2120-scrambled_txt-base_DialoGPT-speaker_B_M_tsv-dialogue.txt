@@ -1,0 +1,59 @@
+A|0| B: _i_ see . 
+B|1| M: no . it's _a_ plastic recycler . 
+A|2| B: yeah . this cave that we used _to_ go in was little it was small it was more it was just big enough for [a] couple of people _to_ sack out . 
+B|3| M:  ... 
+A|4| B: and we had all this rain and it really is _not_ [a] bad summer at all really cool . but all of [a] sudden in in uh in october uh september october it got real hot and dry and just stayed that way for [a] long time . and uh then the end of october it started rain almost [a] week without stopping just pouring down _you_ _know ._ there were flash floods everywhere that kind of deal and then uh into of november the first like the second week uh _you_ _know_ the first week actually we had we had [a] freeze 
+B|5| M: are [you] guys [not] going [to] stop ? 
+A|6| B: uh-huh . 
+B|7| M: [i] [know .] 
+A|8| B: they _have_ some nice stuff down there . [i] miss it 
+B|9| M: what do [you] mean ? 
+A|10| B: uh-huh . so [you] like [a] [a] variety . 
+B|11| M: how does he what do [you] do ? 
+A|12| B: uh-huh . yeah yeah and [you] don't want [to] stay in the very very very exclusive because [you] don't really even get [a] flavor of the country if you're 
+B|13| M: [you] [have] [to] tell me about what [you] [have] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : i see .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=1| B | M : no . it's a plastic recycler .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=2| A | B : yeah . this cave that we used to go in was little it was small it was more it was just big enough for a couple of people to sack out .
+	Free: Pattern=a, Pattern=to
+	Constrained: 
+Turn ID=3| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : and we had all this rain and it really is not a bad summer at all really cool . but all of a sudden in in uh in october uh september october it got real hot and dry and just stayed that way for a long time . and uh then the end of october it started rain almost a week without stopping just pouring down you know . there were flash floods everywhere that kind of deal and then uh into of november the first like the second week uh you know the first week actually we had we had a freeze
+	Free: Pattern=you, Pattern=a, Pattern=know, Pattern=know ., Pattern=not
+	Constrained: Pattern=know
+Turn ID=5| B | M : are you guys not going to stop ?
+	Free: Pattern=not, Pattern=to, Pattern=you
+	Constrained: 
+Turn ID=6| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : i know .
+	Free: Pattern=know ., Pattern=i
+	Constrained: Pattern=know
+Turn ID=8| A | B : they have some nice stuff down there . i miss it
+	Free: Pattern=i, Pattern=have
+	Constrained: 
+Turn ID=9| B | M : what do you mean ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=10| A | B : uh-huh . so you like a a variety .
+	Free: Pattern=a, Pattern=you
+	Constrained: 
+Turn ID=11| B | M : how does he what do you do ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=12| A | B : uh-huh . yeah yeah and you don't want to stay in the very very very exclusive because you don't really even get a flavor of the country if you're
+	Free: Pattern=a, Pattern=to, Pattern=you
+	Constrained: 
+Turn ID=13| B | M : you have to tell me about what you have .
+	Free: Pattern=to, Pattern=you, Pattern=have
+	Constrained: 

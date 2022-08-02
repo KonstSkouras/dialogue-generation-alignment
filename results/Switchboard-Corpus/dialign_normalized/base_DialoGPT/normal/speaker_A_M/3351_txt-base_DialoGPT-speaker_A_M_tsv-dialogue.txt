@@ -1,0 +1,303 @@
+B|0| M: _he_ smiles _and_ smiles _back_ 
+A|1| A: which is _the dog_ [and] which is _the _cat_ ?_ 
+B|2| M: _that's_ [the dog] . 
+A|3| A: _uh_ wife [and] _i_ _we have_ _we have_ two cats . 
+B|4| M: wait _what_ ? 
+A|5| A: _uh_ one's real nice _but the_ other _one_ is _a_ _well_ _she's_ pretty wild . 
+B|6| M: what's _a dog_ ? 
+A|7| A: _yeah_ are they um _just_ house pets ? 
+B|8| M: [i] love _you_ _too_ 
+A|9| A: _yeah_ [that's] [that's] [what] ours are _too ._ 
+B|10| M: [i] love _you_ [too .] 
+A|11| A: _oh_ _really_ . _oh_ _well_ [that's] [a] nice nice story . um . 
+B|12| M: my [cat] . [she's] [a] _big_ _one ._ 
+A|13| A: sure sure . 
+B|14| M: _so_ _you_ want me _to_ tell _you_ about my [dog] ? 
+A|15| A: _yeah_ . 
+B|16| M: yes [but] _you_ can't [have] [a] skunky . 
+A|17| A: wow . 
+B|18| M: [we have] _a cat_ . 
+A|19| A: uh-huh . 
+B|20| M: it's [a] bit different . 
+A|21| A: wow . um _do_ [the] skunk _uh_ _was_ _it_ kind of _like [a_ cat] [to] [have] around [the] house ? 
+B|22| M: _it was an_ [uh] snake . 
+A|23| A: _yeah_ . 
+B|24| M: _i think_ _you_ mean [uh] ? 
+A|25| A: _yeah_ . 
+B|26| M: did _you_ [have] [a [cat] ?] 
+A|27| A: uh-huh . 
+B|28| M: hehe . _it was_ [a] good day . 
+A|29| A: _right ._ 
+B|30| M: _it was_ very very aggressive . 
+A|31| A: uh-huh [and] [the] skunk . 
+B|32| M: _you know_ [what] you're [right .] 
+A|33| A: _oh yeah_ . um . 
+B|34| M: [the dog] [was] _never_ [the] same _after_ [the dog] incident . 
+A|35| A: _oh . uh_ [i] _had_ [i] _had [a_ dog] [one] _time_ [and] [uh] [he] chased [after] [a] [after] [a] skunk [and] got sprayed 
+B|36| M: [oh . uh] . [he] [was] there . 
+A|37| A: [so] _we had to_ _we had to_ give him [a] tomato tomato juice bath [and] [uh] get him cleaned up 
+B|38| M: [oh yeah] [i] _know_ . 
+A|39| A: uh-huh . 
+B|40| M: [yeah] [we] did _uh [we_ had] [uh] ... 
+A|41| A: [right] [but] [i] suppose [it was] still _in the_ instinct of them [to] [to] [back] up [and] get ready . 
+B|42| M: [we had to] [do] [it] [in the] lab [but [the] cat] [was] always home [so] [it was] always [a] lab . 
+A|43| A: [yeah] why [i] don't [know] [i] [i think] they're kind of nice [to] [have] they're kind of [you know] _just_ relaxing [to] [i] don't [know] [to] pet [and] [to] [i] don't [know] when they _like_ sit up on your lap [and] stuff _like_ _that_ _just_ kind of enjoyable [to] [you know] [have] _like_ [i] don't [know] something giving [you] some affection as _well_ . 
+B|44| M: [that's] [really] cute . 
+A|45| A: [what] _what do you_ [think] ? [oh yeah] . [yeah] . 
+B|46| M: [i] [like] . 
+A|47| A: [yeah] . um _do you_ [like] [big] dogs or or little dogs ? 
+B|48| M: [what do you] mean [i] mean 
+A|49| A: uh-huh . 
+B|50| M: [he] has dysplastic 
+A|51| A: [really] . 
+B|52| M: [he] [had] [it] . 
+A|53| A: [yeah] . 
+B|54| M: [i think] [it was] because [he] [was] dead . 
+A|55| A: uh-huh _almost_ cruel for him [to] [to] walk . 
+B|56| M: [well] [he] [was] [almost] twelve years old . 
+A|57| A: wow [yeah] . 
+B|58| M: [he] [was] [like a] hundred years old . 
+A|59| A: sure . [yeah] . 
+B|60| M: [i think] [he] [was] [just] saying [that] if [he] _didn't_ [do] [it] [he] wouldn't [have] . 
+A|61| A: [yeah] we've got [a] calico [cat] [too .] 
+B|62| M: i've [had [a] cat] . 
+A|63| A: [yeah] [yeah] [she's] [the] [she's] [the] nice [one .] [we] [uh we] used [to] live [in] [an] apartment [and] [like] our cats [never] went outside [but] um [the] neighbors used [to] let their dogs out [and] our neighbors were [i] don't [know] kind of slimy [and] [uh] our cats wound up getting fleas [uh] from [the] apartment [that] [we] were [in] 
+B|64| M: [you] 
+A|65| A: [so] [we had to] [we had to] flea bath them [and] [it was] [uh] [it was an] experience [that] they [didn't] enjoy at all . 
+B|66| M: heheelong 
+A|67| A: [yeah] . 
+B|68| M: [oh] she [was] ... [i] [was] 
+A|69| A: [really] . 
+B|70| M: [i] am 
+A|71| A: [really] . 
+B|72| M: [we had] such [an] amazing [time] . 
+A|73| A: [oh .] 
+B|74| M: [he] said [it was] [a] different person . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : he smiles and smiles back
+	Free: Pattern=back, Pattern=and, Pattern=he
+	Constrained: 
+Turn ID=1| A | A : which is the dog and which is the cat ?
+	Free: Pattern=cat ?, Pattern=the cat, Pattern=the dog, Pattern=and
+	Constrained: Pattern=cat, Pattern=the, Pattern=dog
+Turn ID=2| B | M : that's the dog .
+	Free: Pattern=the dog, Pattern=that's
+	Constrained: Pattern=the, Pattern=dog
+Turn ID=3| A | A : uh wife and i we have we have two cats .
+	Free: Pattern=we have, Pattern=uh, Pattern=i, Pattern=and
+	Constrained: Pattern=we, Pattern=have
+Turn ID=4| B | M : wait what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=5| A | A : uh one's real nice but the other one is a well she's pretty wild .
+	Free: Pattern=well, Pattern=uh, Pattern=a, Pattern=one, Pattern=she's, Pattern=but the
+	Constrained: Pattern=the, Pattern=but
+Turn ID=6| B | M : what's a dog ?
+	Free: Pattern=a dog
+	Constrained: Pattern=a, Pattern=dog
+Turn ID=7| A | A : yeah are they um just house pets ?
+	Free: Pattern=just, Pattern=yeah
+	Constrained: 
+Turn ID=8| B | M : i love you too
+	Free: Pattern=you, Pattern=i, Pattern=too
+	Constrained: 
+Turn ID=9| A | A : yeah that's that's what ours are too .
+	Free: Pattern=too ., Pattern=what, Pattern=that's, Pattern=yeah
+	Constrained: Pattern=too
+Turn ID=10| B | M : i love you too .
+	Free: Pattern=too ., Pattern=you, Pattern=i
+	Constrained: Pattern=too
+Turn ID=11| A | A : oh really . oh well that's a nice nice story . um .
+	Free: Pattern=well, Pattern=a, Pattern=oh, Pattern=really, Pattern=that's
+	Constrained: 
+Turn ID=12| B | M : my cat . she's a big one .
+	Free: Pattern=she's, Pattern=cat, Pattern=a, Pattern=one ., Pattern=big
+	Constrained: Pattern=one
+Turn ID=13| A | A : sure sure .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : so you want me to tell you about my dog ?
+	Free: Pattern=to, Pattern=you, Pattern=dog, Pattern=so
+	Constrained: 
+Turn ID=15| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=16| B | M : yes but you can't have a skunky .
+	Free: Pattern=you, Pattern=but, Pattern=a, Pattern=have
+	Constrained: 
+Turn ID=17| A | A : wow .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : we have a cat .
+	Free: Pattern=a cat, Pattern=we have
+	Constrained: Pattern=cat, Pattern=we, Pattern=a, Pattern=have
+Turn ID=19| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=20| B | M : it's a bit different .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=21| A | A : wow . um do the skunk uh was it kind of like a cat to have around the house ?
+	Free: Pattern=like a, Pattern=uh, Pattern=do, Pattern=it, Pattern=the, Pattern=to, Pattern=was, Pattern=a cat, Pattern=have
+	Constrained: Pattern=cat, Pattern=a, Pattern=like
+Turn ID=22| B | M : it was an uh snake .
+	Free: Pattern=it was an, Pattern=uh
+	Constrained: Pattern=it, Pattern=was, Pattern=it was, Pattern=an
+Turn ID=23| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=24| B | M : i think you mean uh ?
+	Free: Pattern=i think, Pattern=you, Pattern=uh
+	Constrained: Pattern=i, Pattern=think
+Turn ID=25| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=26| B | M : did you have a cat ?
+	Free: Pattern=cat ?, Pattern=a cat, Pattern=you, Pattern=have
+	Constrained: Pattern=cat, Pattern=a
+Turn ID=27| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=28| B | M : hehe . it was a good day .
+	Free: Pattern=it was, Pattern=a
+	Constrained: Pattern=was, Pattern=it
+Turn ID=29| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=30| B | M : it was very very aggressive .
+	Free: Pattern=it was
+	Constrained: Pattern=was, Pattern=it
+Turn ID=31| A | A : uh-huh and the skunk .
+	Free: Pattern=the, Pattern=and
+	Constrained: 
+Turn ID=32| B | M : you know what you're right .
+	Free: Pattern=right ., Pattern=you know, Pattern=what
+	Constrained: Pattern=you, Pattern=right, Pattern=know
+Turn ID=33| A | A : oh yeah . um .
+	Free: Pattern=oh yeah
+	Constrained: Pattern=yeah, Pattern=oh
+Turn ID=34| B | M : the dog was never the same after the dog incident .
+	Free: Pattern=never, Pattern=the, Pattern=was, Pattern=the dog, Pattern=after
+	Constrained: Pattern=the, Pattern=dog
+Turn ID=35| A | A : oh . uh i had i had a dog one time and uh he chased after a after a skunk and got sprayed
+	Free: Pattern=had a, Pattern=time, Pattern=a dog, Pattern=a, Pattern=and, Pattern=one, Pattern=he, Pattern=after, Pattern=i, Pattern=had, Pattern=uh, Pattern=oh . uh
+	Constrained: Pattern=uh, Pattern=oh, Pattern=had, Pattern=oh ., Pattern=dog, Pattern=a
+Turn ID=36| B | M : oh . uh . he was there .
+	Free: Pattern=oh . uh, Pattern=was, Pattern=he
+	Constrained: Pattern=oh ., Pattern=uh, Pattern=oh
+Turn ID=37| A | A : so we had to we had to give him a tomato tomato juice bath and uh get him cleaned up
+	Free: Pattern=uh, Pattern=a, Pattern=and, Pattern=we had to, Pattern=so
+	Constrained: Pattern=we had, Pattern=had, Pattern=to, Pattern=we
+Turn ID=38| B | M : oh yeah i know .
+	Free: Pattern=oh yeah, Pattern=i, Pattern=know
+	Constrained: Pattern=yeah, Pattern=oh
+Turn ID=39| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=40| B | M : yeah we did uh we had uh ...
+	Free: Pattern=uh, Pattern=yeah, Pattern=we, Pattern=uh we, Pattern=we had
+	Constrained: Pattern=we, Pattern=uh, Pattern=had
+Turn ID=41| A | A : right but i suppose it was still in the instinct of them to to back up and get ready .
+	Free: Pattern=it was, Pattern=right, Pattern=and, Pattern=in the, Pattern=to, Pattern=but, Pattern=back, Pattern=i
+	Constrained: Pattern=was, Pattern=the, Pattern=in, Pattern=it
+Turn ID=42| B | M : we had to do it in the lab but the cat was always home so it was always a lab .
+	Free: Pattern=it was, Pattern=it, Pattern=in the, Pattern=we had to, Pattern=the cat, Pattern=so, Pattern=do, Pattern=a, Pattern=was, Pattern=but the
+	Constrained: Pattern=cat, Pattern=it, Pattern=in, Pattern=we, Pattern=had, Pattern=the, Pattern=to, Pattern=was, Pattern=we had, Pattern=but
+Turn ID=43| A | A : yeah why i don't know i i think they're kind of nice to have they're kind of you know just relaxing to i don't know to pet and to i don't know when they like sit up on your lap and stuff like that just kind of enjoyable to you know have like i don't know something giving you some affection as well .
+	Free: Pattern=well, Pattern=know, Pattern=i, Pattern=like, Pattern=to, Pattern=that, Pattern=i think, Pattern=you, Pattern=you know, Pattern=just, Pattern=have, Pattern=yeah, Pattern=and
+	Constrained: Pattern=you, Pattern=i, Pattern=think, Pattern=know
+Turn ID=44| B | M : that's really cute .
+	Free: Pattern=really, Pattern=that's
+	Constrained: 
+Turn ID=45| A | A : what what do you think ? oh yeah . yeah .
+	Free: Pattern=what, Pattern=yeah, Pattern=oh yeah, Pattern=what do you, Pattern=think
+	Constrained: Pattern=you, Pattern=what, Pattern=do, Pattern=yeah, Pattern=oh, Pattern=do you
+Turn ID=46| B | M : i like .
+	Free: Pattern=i, Pattern=like
+	Constrained: 
+Turn ID=47| A | A : yeah . um do you like big dogs or or little dogs ?
+	Free: Pattern=do you, Pattern=big, Pattern=yeah, Pattern=like
+	Constrained: Pattern=you, Pattern=do
+Turn ID=48| B | M : what do you mean i mean
+	Free: Pattern=what do you, Pattern=i
+	Constrained: Pattern=do you, Pattern=what, Pattern=you, Pattern=do
+Turn ID=49| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=50| B | M : he has dysplastic
+	Free: Pattern=he
+	Constrained: 
+Turn ID=51| A | A : really .
+	Free: Pattern=really
+	Constrained: 
+Turn ID=52| B | M : he had it .
+	Free: Pattern=he, Pattern=it, Pattern=had
+	Constrained: 
+Turn ID=53| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=54| B | M : i think it was because he was dead .
+	Free: Pattern=it was, Pattern=i think, Pattern=was, Pattern=he
+	Constrained: Pattern=was, Pattern=i, Pattern=think, Pattern=it
+Turn ID=55| A | A : uh-huh almost cruel for him to to walk .
+	Free: Pattern=to, Pattern=almost
+	Constrained: 
+Turn ID=56| B | M : well he was almost twelve years old .
+	Free: Pattern=was, Pattern=almost, Pattern=he, Pattern=well
+	Constrained: 
+Turn ID=57| A | A : wow yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=58| B | M : he was like a hundred years old .
+	Free: Pattern=like a, Pattern=was, Pattern=he
+	Constrained: Pattern=a, Pattern=like
+Turn ID=59| A | A : sure . yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=60| B | M : i think he was just saying that if he didn't do it he wouldn't have .
+	Free: Pattern=do, Pattern=it, Pattern=was, Pattern=that, Pattern=i think, Pattern=just, Pattern=have, Pattern=he, Pattern=didn't
+	Constrained: Pattern=i, Pattern=think
+Turn ID=61| A | A : yeah we've got a calico cat too .
+	Free: Pattern=too ., Pattern=cat, Pattern=yeah, Pattern=a
+	Constrained: Pattern=too
+Turn ID=62| B | M : i've had a cat .
+	Free: Pattern=a cat, Pattern=had a
+	Constrained: Pattern=cat, Pattern=a, Pattern=had
+Turn ID=63| A | A : yeah yeah she's the she's the nice one . we uh we used to live in an apartment and like our cats never went outside but um the neighbors used to let their dogs out and our neighbors were i don't know kind of slimy and uh our cats wound up getting fleas uh from the apartment that we were in
+	Free: Pattern=uh, Pattern=an, Pattern=in, Pattern=know, Pattern=to, Pattern=uh we, Pattern=yeah, Pattern=and, Pattern=never, Pattern=she's, Pattern=i, Pattern=we, Pattern=like, Pattern=one ., Pattern=the, Pattern=that, Pattern=but
+	Constrained: Pattern=we, Pattern=uh, Pattern=one
+Turn ID=64| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=65| A | A : so we had to we had to flea bath them and it was uh it was an experience that they didn't enjoy at all .
+	Free: Pattern=it was, Pattern=uh, Pattern=and, Pattern=didn't, Pattern=we had to, Pattern=it was an, Pattern=that, Pattern=so
+	Constrained: Pattern=it was, Pattern=an, Pattern=it, Pattern=we, Pattern=had, Pattern=to, Pattern=was, Pattern=we had
+Turn ID=66| B | M : heheelong
+	Free: 
+	Constrained: 
+Turn ID=67| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=68| B | M : oh she was ... i was
+	Free: Pattern=was, Pattern=i, Pattern=oh
+	Constrained: 
+Turn ID=69| A | A : really .
+	Free: Pattern=really
+	Constrained: 
+Turn ID=70| B | M : i am
+	Free: Pattern=i
+	Constrained: 
+Turn ID=71| A | A : really .
+	Free: Pattern=really
+	Constrained: 
+Turn ID=72| B | M : we had such an amazing time .
+	Free: Pattern=we had, Pattern=an, Pattern=time
+	Constrained: Pattern=we, Pattern=had
+Turn ID=73| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=74| B | M : he said it was a different person .
+	Free: Pattern=it was, Pattern=a, Pattern=he
+	Constrained: Pattern=was, Pattern=it

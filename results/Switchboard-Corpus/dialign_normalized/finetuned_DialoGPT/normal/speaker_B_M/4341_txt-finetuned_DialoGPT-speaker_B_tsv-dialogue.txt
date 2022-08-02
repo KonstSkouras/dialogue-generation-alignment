@@ -1,0 +1,151 @@
+A|0| B: _i mean _i_ mean i'm_ thinking _of_ an extreme case like _a_ serial murderer 
+B|1| M: _uh_ yeah . 
+A|2| B: or 
+B|3| M: yeah [i] don [i mean i] don t even _know_ _what_ _the_ guy's name _is_ . 
+A|4| B: well for _some_ things . 
+B|5| M: yeah . 
+A|6| B: _i think_ for serial murder _it_ [is] warranted because _if_ _a_ person who _would_ do something like _that_ _in_ cold blood 
+B|7| M: right right . 
+A|8| B: [i mean] _you_ can't guarantee _that_ _they_ wouldn't escape from prison and do _it_ again . 
+B|9| M:  !!! % !! ; !! remind me [of] [that] . 
+A|10| B: and [i] don't _think _that_ that_ rehabilitation [is] effective . 
+B|11| M: _no_ . 
+A|12| B: but then _you know_ _i think _that_ that_ _some_ murderers don't really warrant capital punishment _. _you_ know_ just like for example _uh you know_ _you_ hear _about_ cases where women _have_ killed their husbands who abused _them_ 
+B|13| M: uh-hue . 
+A|14| B: and [i] don't _think that_ _would_ really warrant capital punishment . 
+B|15| M: [uh] [i mean i] [i] [would] _think that if_ [they] had [if] [they] [you] had _a lot of_ violent crimes [uh you know] you'd you'd want _to_ look at [that] [you] see how many [uh] [of] [them] _are_ still doing violent crimes . 
+A|16| B: [uh] _it_ [is] [to] [a] certain extent 
+B|17| M: [uh] 
+A|18| B: but _i think i_ don't [know] because 
+B|19| M: right . 
+A|20| B: _i think_ _in_ and _it_ just [would] depend upon [the] circumstances and and [the] extent [of] [the] abuse and and [if] another alternative was available . 
+B|21| M: [uh] uh-hue 
+A|22| B: well _i think that_ _would be_ kind [of] drastic punishment . 
+B|23| M: yeah [i] agree . [i think] so . [i] [uh] . 
+A|24| B: and 
+B|25| M: [i] [i] agree with [you] . [i think [i] mean i'm] i've seen [some] _people_ get [uh] . 
+A|26| B: but one thing _i [think that_ if] there [is] [a] chance for rehabilitation then [that] chance should _be_ investigated . 
+B|27| M: uh-huh . 
+A|28| B: but like [i] said [if] [if] someone [is] [is] just pathologically going [to] murder [people] [no] matter [what] then [i think] [they] should _be_ eliminated from society . 
+B|29| M: right . 
+A|30| B: but 
+B|31| M: [i think that] [uh you know] [that that] [you] you're [you] [have] [to] [think] [about] [it] more than once though [. you] [have] [to] wonder [if] [they] [would be] willing [to] pay [a] little more [to] keep somebody else [in] line . 
+A|32| B: and [a lot of] [people] [that] [are] [a] danger [to] society [that] aren't [in] prison . 
+B|33| M: right . 
+A|34| B: well [i] [know] [in] north carolina we do [have] capital punishment . 
+B|35| M: huh-uh . 
+A|36| B: and [i'm] [i'm] from south carolina . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : i mean i mean i'm thinking of an extreme case like a serial murderer
+	Free: Pattern=i mean i, Pattern=i mean i'm, Pattern=a, Pattern=of
+	Constrained: Pattern=i mean, Pattern=i, Pattern=i'm
+Turn ID=1| B | M : uh yeah .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=2| A | B : or
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : yeah i don i mean i don t even know what the guy's name is .
+	Free: Pattern=what, Pattern=know, Pattern=the, Pattern=i mean i, Pattern=is, Pattern=i
+	Constrained: Pattern=i mean, Pattern=i
+Turn ID=4| A | B : well for some things .
+	Free: Pattern=some
+	Constrained: 
+Turn ID=5| B | M : yeah .
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : i think for serial murder it is warranted because if a person who would do something like that in cold blood
+	Free: Pattern=a, Pattern=it, Pattern=if, Pattern=in, Pattern=is, Pattern=would, Pattern=that, Pattern=i think
+	Constrained: Pattern=i, Pattern=think
+Turn ID=7| B | M : right right .
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : i mean you can't guarantee that they wouldn't escape from prison and do it again .
+	Free: Pattern=you, Pattern=they, Pattern=it, Pattern=i mean, Pattern=that
+	Constrained: Pattern=i
+Turn ID=9| B | M :  !!! % !! ; !! remind me of that .
+	Free: Pattern=that, Pattern=of
+	Constrained: 
+Turn ID=10| A | B : and i don't think that that rehabilitation is effective .
+	Free: Pattern=that that, Pattern=think that, Pattern=is, Pattern=i
+	Constrained: Pattern=that, Pattern=think
+Turn ID=11| B | M : no .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=12| A | B : but then you know i think that that some murderers don't really warrant capital punishment . you know just like for example uh you know you hear about cases where women have killed their husbands who abused them
+	Free: Pattern=have, Pattern=about, Pattern=some, Pattern=. you, Pattern=i think that, Pattern=them, Pattern=you, Pattern=you know, Pattern=uh you know, Pattern=that that
+	Constrained: Pattern=think, Pattern=i, Pattern=that, Pattern=i think, Pattern=you, Pattern=uh, Pattern=you know, Pattern=know, Pattern=think that
+Turn ID=13| B | M : uh-hue .
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : and i don't think that would really warrant capital punishment .
+	Free: Pattern=think that, Pattern=would, Pattern=i
+	Constrained: Pattern=that, Pattern=think
+Turn ID=15| B | M : uh i mean i i would think that if they had if they you had a lot of violent crimes uh you know you'd you'd want to look at that you see how many uh of them are still doing violent crimes .
+	Free: Pattern=i, Pattern=would, Pattern=to, Pattern=i mean i, Pattern=a lot of, Pattern=of, Pattern=you, Pattern=uh, Pattern=they, Pattern=think that if, Pattern=are, Pattern=uh you know, Pattern=if, Pattern=them, Pattern=that
+	Constrained: Pattern=of, Pattern=a, Pattern=if, Pattern=think, Pattern=that, Pattern=you, Pattern=uh, Pattern=you know, Pattern=know, Pattern=think that, Pattern=i mean, Pattern=i
+Turn ID=16| A | B : uh it is to a certain extent
+	Free: Pattern=uh, Pattern=a, Pattern=it, Pattern=is, Pattern=to
+	Constrained: 
+Turn ID=17| B | M : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=18| A | B : but i think i don't know because
+	Free: Pattern=i think i, Pattern=know
+	Constrained: Pattern=i think, Pattern=i, Pattern=think
+Turn ID=19| B | M : right .
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : i think in and it just would depend upon the circumstances and and the extent of the abuse and and if another alternative was available .
+	Free: Pattern=of, Pattern=it, Pattern=if, Pattern=in, Pattern=the, Pattern=would, Pattern=i think
+	Constrained: Pattern=i, Pattern=think
+Turn ID=21| B | M : uh uh-hue
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=22| A | B : well i think that would be kind of drastic punishment .
+	Free: Pattern=i think that, Pattern=would be, Pattern=of
+	Constrained: Pattern=think, Pattern=think that, Pattern=i, Pattern=be, Pattern=would, Pattern=that, Pattern=i think
+Turn ID=23| B | M : yeah i agree . i think so . i uh .
+	Free: Pattern=i think, Pattern=uh, Pattern=i
+	Constrained: Pattern=i, Pattern=think
+Turn ID=24| A | B : and
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : i i agree with you . i think i mean i'm i've seen some people get uh .
+	Free: Pattern=people, Pattern=i mean i'm, Pattern=some, Pattern=i, Pattern=i think i, Pattern=you, Pattern=uh
+	Constrained: Pattern=think, Pattern=i'm, Pattern=i think, Pattern=i mean, Pattern=i
+Turn ID=26| A | B : but one thing i think that if there is a chance for rehabilitation then that chance should be investigated .
+	Free: Pattern=think that if, Pattern=a, Pattern=is, Pattern=be, Pattern=i think that, Pattern=that
+	Constrained: Pattern=if, Pattern=think, Pattern=think that, Pattern=i, Pattern=that, Pattern=i think
+Turn ID=27| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : but like i said if if someone is is just pathologically going to murder people no matter what then i think they should be eliminated from society .
+	Free: Pattern=people, Pattern=if, Pattern=be, Pattern=to, Pattern=i think, Pattern=no, Pattern=what, Pattern=they, Pattern=is, Pattern=i
+	Constrained: Pattern=i, Pattern=think
+Turn ID=29| B | M : right .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : but
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : i think that uh you know that that you you're you have to think about it more than once though . you have to wonder if they would be willing to pay a little more to keep somebody else in line .
+	Free: Pattern=you, Pattern=have, Pattern=they, Pattern=a, Pattern=it, Pattern=about, Pattern=. you, Pattern=to, Pattern=i think that, Pattern=would be, Pattern=uh you know, Pattern=that that, Pattern=if, Pattern=think, Pattern=in
+	Constrained: Pattern=think, Pattern=i, Pattern=be, Pattern=would, Pattern=that, Pattern=i think, Pattern=you, Pattern=uh, Pattern=you know, Pattern=know, Pattern=think that
+Turn ID=32| A | B : and a lot of people that are a danger to society that aren't in prison .
+	Free: Pattern=a lot of, Pattern=people, Pattern=a, Pattern=are, Pattern=in, Pattern=to, Pattern=that
+	Constrained: Pattern=a, Pattern=of
+Turn ID=33| B | M : right .
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : well i know in north carolina we do have capital punishment .
+	Free: Pattern=i, Pattern=in, Pattern=have, Pattern=know
+	Constrained: 
+Turn ID=35| B | M : huh-uh .
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : and i'm i'm from south carolina .
+	Free: Pattern=i'm
+	Constrained: 

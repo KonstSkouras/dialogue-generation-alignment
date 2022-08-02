@@ -1,0 +1,163 @@
+A|0| B: _well_ how does _this_ grab _you_ ? how _did_ _this_ grab _you_ ? uh _this_ _i_ _i_ mean _i'm_ _i'm_ _a_ lady _but_ _this_ _i_ heard _this_ on _a_ christian program _and_ it _was_ uh about _the_ n e _a_ _and_ that's _the_ national endowment _for_ arts _and_ _they_ fund _they_ funded _this_ thing _this_ act on _a_ stage _and_ _did_ _a_ study on it _between_ _two_ lesbians _and_ _two_ homosexuals _and_ wrote _a_ report about that with our money . 
+B|1| M: [i] 
+A|2| B: _and_ _then_ it _just_ frosts me terribly . 
+B|3| M: [you] 
+A|4| B: absolutely . 
+B|5| M: [i'm] [the] . 
+A|6| B: [i] believe that's true yes . 
+B|7| M: do [you] think [the] government _is_ more responsible [for] [the] poor than [the] poor ? 
+A|8| B: that's correct . 
+B|9| M: _we_ should stop being part _of the_ problem [and] start building [a] solution . 
+A|10| B: _heavy involvement_ from _the public ._ 
+B|11| M: what's [the] difference [between] [the] [two] ? 
+A|12| B: uh-huh . yeah _heavy involvement_ from _the public ._ 
+B|13| M: _oh_ [well] [i'm] _not_ _sure_ [i] [was] thinking _of the_ same _people_ who _are_ now in charge _of the_ new map . 
+A|14| B: yeah . 
+B|15| M: [heavy involvement] by [the public .] 
+A|16| B: absolutely . 
+B|17| M: [well] _there's_ plenty _of_ full employment in [the] _us_ . 
+A|18| B: no it [is] [not] . it's lopsided very much _so_ . 
+B|19| M:  ... 
+A|20| B: uh-huh that's _right_ _they_ pull _the strings_ . 
+B|21| M: i'm'uh [the] government 
+A|22| B: _right_ [the] yeah 
+B|23| M: [so] _the people_ who _are_ pulling [the strings] _are_ [the] ones who _are_ being manipulated [right] ? 
+A|24| B: uh-huh . 
+B|25| M:  
+A|26| B: [i'm] [sure] _they_ will . 
+B|27| M: [just] stop . 
+A|28| B: uh-huh . uh-huh . 
+B|29| M: ohhh ... [well] [then] . 
+A|30| B: yes [i] understand that _but_ hopefully that [the people] that [are] listening _to_ what our comments [are] take some action on it . 
+B|31| M:  
+A|32| B: [oh] absolutely . 
+B|33| M:  
+A|34| B: [right] absolutely . 
+B|35| M: i'd . [the] _us_ [is] [a] country . 
+A|36| B: [we] only _see_ [the] tip [of the] iceberg only . 
+B|37| M: [they] [did] . 
+A|38| B: [you] know [there's] [so] much [of] it going on that it would really [you] know uh set [us] into [a] deeper depression if [we] knew [the] whole picture . 
+B|39| M: [i'm] sorry [but] [i] don't think [i] can [see] any other reason [to] go through [this] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : well how does this grab you ? how did this grab you ? uh this i i mean i'm i'm a lady but this i heard this on a christian program and it was uh about the n e a and that's the national endowment for arts and they fund they funded this thing this act on a stage and did a study on it between two lesbians and two homosexuals and wrote a report about that with our money .
+	Free: Pattern=well, Pattern=you, Pattern=they, Pattern=for, Pattern=and, Pattern=between, Pattern=i'm, Pattern=the, Pattern=was, Pattern=this, Pattern=but, Pattern=did, Pattern=a, Pattern=two, Pattern=i
+	Constrained: 
+Turn ID=1| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=2| A | B : and then it just frosts me terribly .
+	Free: Pattern=just, Pattern=and, Pattern=then
+	Constrained: 
+Turn ID=3| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=4| A | B : absolutely .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : i'm the .
+	Free: Pattern=i'm, Pattern=the
+	Constrained: 
+Turn ID=6| A | B : i believe that's true yes .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=7| B | M : do you think the government is more responsible for the poor than the poor ?
+	Free: Pattern=is, Pattern=for, Pattern=the, Pattern=you
+	Constrained: 
+Turn ID=8| A | B : that's correct .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : we should stop being part of the problem and start building a solution .
+	Free: Pattern=of the, Pattern=we, Pattern=a, Pattern=and
+	Constrained: Pattern=the, Pattern=of
+Turn ID=10| A | B : heavy involvement from the public .
+	Free: Pattern=the public ., Pattern=heavy involvement
+	Constrained: Pattern=the
+Turn ID=11| B | M : what's the difference between the two ?
+	Free: Pattern=between, Pattern=the, Pattern=two
+	Constrained: 
+Turn ID=12| A | B : uh-huh . yeah heavy involvement from the public .
+	Free: Pattern=the public ., Pattern=heavy involvement
+	Constrained: Pattern=the
+Turn ID=13| B | M : oh well i'm not sure i was thinking of the same people who are now in charge of the new map .
+	Free: Pattern=well, Pattern=people, Pattern=oh, Pattern=are, Pattern=i'm, Pattern=i, Pattern=sure, Pattern=was, Pattern=of the, Pattern=not
+	Constrained: Pattern=the, Pattern=of
+Turn ID=14| A | B : yeah .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : heavy involvement by the public .
+	Free: Pattern=the public ., Pattern=heavy involvement
+	Constrained: Pattern=the
+Turn ID=16| A | B : absolutely .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : well there's plenty of full employment in the us .
+	Free: Pattern=of, Pattern=well, Pattern=us, Pattern=there's, Pattern=the
+	Constrained: 
+Turn ID=18| A | B : no it is not . it's lopsided very much so .
+	Free: Pattern=is, Pattern=not, Pattern=so
+	Constrained: 
+Turn ID=19| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : uh-huh that's right they pull the strings .
+	Free: Pattern=the strings, Pattern=they, Pattern=right
+	Constrained: Pattern=the
+Turn ID=21| B | M : i'm'uh the government
+	Free: Pattern=the
+	Constrained: 
+Turn ID=22| A | B : right the yeah
+	Free: Pattern=the, Pattern=right
+	Constrained: 
+Turn ID=23| B | M : so the people who are pulling the strings are the ones who are being manipulated right ?
+	Free: Pattern=right, Pattern=the people, Pattern=are, Pattern=so, Pattern=the strings, Pattern=the
+	Constrained: Pattern=the, Pattern=people
+Turn ID=24| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : i'm sure they will .
+	Free: Pattern=i'm, Pattern=they, Pattern=sure
+	Constrained: 
+Turn ID=27| B | M : just stop .
+	Free: Pattern=just
+	Constrained: 
+Turn ID=28| A | B : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : ohhh ... well then .
+	Free: Pattern=well, Pattern=then
+	Constrained: 
+Turn ID=30| A | B : yes i understand that but hopefully that the people that are listening to what our comments are take some action on it .
+	Free: Pattern=the people, Pattern=are, Pattern=i, Pattern=to, Pattern=but
+	Constrained: Pattern=the, Pattern=people
+Turn ID=31| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : oh absolutely .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=33| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : right absolutely .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=35| B | M : i'd . the us is a country .
+	Free: Pattern=is, Pattern=us, Pattern=the, Pattern=a
+	Constrained: 
+Turn ID=36| A | B : we only see the tip of the iceberg only .
+	Free: Pattern=of the, Pattern=we, Pattern=the, Pattern=see
+	Constrained: Pattern=the, Pattern=of
+Turn ID=37| B | M : they did .
+	Free: Pattern=they, Pattern=did
+	Constrained: 
+Turn ID=38| A | B : you know there's so much of it going on that it would really you know uh set us into a deeper depression if we knew the whole picture .
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=us, Pattern=there's, Pattern=we, Pattern=the, Pattern=so
+	Constrained: 
+Turn ID=39| B | M : i'm sorry but i don't think i can see any other reason to go through this .
+	Free: Pattern=i'm, Pattern=i, Pattern=see, Pattern=to, Pattern=this, Pattern=but
+	Constrained: 

@@ -1,0 +1,143 @@
+A|0| B: whatever i'm doing _i watch_ _that ._ _i_ usually _watch_ _the news_ either at _you know_ early evening or at ten o'clock 
+B|1| M:  !!! ; !! remind me _of [that_ .] 
+A|2| B: so _i_ get _it_ from t v a lot . _i_ get time _i_ _read_ time magazine um that's _one_ _i_ _read_ pretty regularly . 
+B|3| M: _uh_ _well_ [that] [that] _is_ [one] _of_ my favorites _too_ . 
+A|4| B: _and_ _uh ._ _the_ _thing_ _about_ _it_ _you know_ now [that] i've found [is] [that] we get such good coverage on t v or at least such _i_ _don't_ _know_ attempted thoroughness [of] coverage by _the_ time _you_ get _the_ time magazine there's nothing _in_ _it_ _you don't_ _know ._ 
+B|5| M: yeah . 
+A|6| B: _right ._ _then_ _you can_ _just_ sort [of] have pictures _to_ go along with _it_ or something because really i've thought lately there's nothing new _in_ _the_ time magazine . 
+B|7| M: uh-hau yeah there there [is] _but_ _it's it's_ [just] [that] _uh you know ._ [it] [it] [it] [just] seems _like [you_ can] [uh] _see_ [the] same [thing] [in] [just] [about] [uh] 
+A|8| B: [you know] [it's it's] basically you've heard everything 
+B|9| M: yeah . 
+A|10| B: _and_ [uh you] might [you] might get a little more thorough [uh] account [of] something [but] really um _i_ _don't_ [know .] so _i_ get most [of] mine from television 
+B|11| M: yeah . 
+A|12| B: _i_ would say . 
+B|13| M: yeah [i watch] _for_ [the news] _and then_ i'll [watch] _for_ _for_ _for_ [the] commercials . 
+A|14| B: _right_ 
+B|15| M: _i i_ _like_ [to] [read] [the] washington post . 
+A|16| B: _and [i_ i] think there's an attempt [to] do [that .] [you know] [i] think people there's a mild attempt [for] [that] [but] [i] think basically we basically associate [news] with bad [news] or or catastrophes or problems or crises or [uh you know .] 
+B|17| M: _uh-huh ._ 
+A|18| B: [i] think our concept [of] [news] isn't necessarily events [that] happen . [it's] more negative [like you] said . 
+B|19| M: _uh-huh ._ 
+A|20| B: [but] [i] think people try [to] on on t v [i] think they try [to] throw [in] good stuff [but] [it] doesn't [uh] [it] doesn't sway [the] vote . 
+B|21| M: [right .] 
+A|22| B: [uh-huh .] 
+B|23| M: [and] [you don't] hear [the news] very often . 
+A|24| B: [uh-huh .] 
+B|25| M: [uh] [and i] guess [uh .] 
+A|26| B: [right .] [you know] [the] war last winter was certainly a good example [of that] because we saw every single [thing] practically . 
+B|27| M: [uh] yeah yeah . 
+A|28| B: [i] mean [you know] [i] remember [well] [just] [the] things [that] are covered . [i] remember watching [the] world series during [the] earthquake [and] [just] seeing [that] happen 
+B|29| M: yeah . 
+A|30| B: [i] mean [you know] [that] was [just] so phenomenal [to] [see] this stadium shake [and] [the] [and] [the] announcers [you know] grabbing 
+B|31| M: oh . 
+A|32| B: [i] mean [it's] [like] [that] was [just] something because [that] was [like] live [and] real [like you] said 
+B|33| M: yeah . 
+A|34| B: [and then] [of] course [one] [thing] [i] think [too] [is] with 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : whatever i'm doing i watch that . i usually watch the news either at you know early evening or at ten o'clock
+	Free: Pattern=that ., Pattern=you know, Pattern=the news, Pattern=i, Pattern=i watch, Pattern=watch
+	Constrained: Pattern=you, Pattern=know, Pattern=i, Pattern=the, Pattern=news, Pattern=that, Pattern=watch
+Turn ID=1| B | M :  !!! ; !! remind me of that .
+	Free: Pattern=that ., Pattern=of that
+	Constrained: Pattern=that, Pattern=of
+Turn ID=2| A | B : so i get it from t v a lot . i get time i read time magazine um that's one i read pretty regularly .
+	Free: Pattern=i, Pattern=one, Pattern=it, Pattern=read
+	Constrained: 
+Turn ID=3| B | M : uh well that that is one of my favorites too .
+	Free: Pattern=of, Pattern=well, Pattern=uh, Pattern=too, Pattern=one, Pattern=is, Pattern=that
+	Constrained: 
+Turn ID=4| A | B : and uh . the thing about it you know now that i've found is that we get such good coverage on t v or at least such i don't know attempted thoroughness of coverage by the time you get the time magazine there's nothing in it you don't know .
+	Free: Pattern=of, Pattern=uh ., Pattern=about, Pattern=in, Pattern=know, Pattern=know ., Pattern=that, Pattern=you, Pattern=you know, Pattern=it, Pattern=and, Pattern=is, Pattern=i, Pattern=thing, Pattern=the, Pattern=don't, Pattern=you don't
+	Constrained: Pattern=know, Pattern=you, Pattern=uh, Pattern=don't
+Turn ID=5| B | M : yeah .
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : right . then you can just sort of have pictures to go along with it or something because really i've thought lately there's nothing new in the time magazine .
+	Free: Pattern=of, Pattern=just, Pattern=then, Pattern=it, Pattern=you can, Pattern=in, Pattern=right ., Pattern=the, Pattern=to
+	Constrained: Pattern=you, Pattern=right
+Turn ID=7| B | M : uh-hau yeah there there is but it's it's just that uh you know . it it it just seems like you can uh see the same thing in just about uh
+	Free: Pattern=uh, Pattern=just, Pattern=it, Pattern=you can, Pattern=about, Pattern=in, Pattern=is, Pattern=see, Pattern=uh you know ., Pattern=it's it's, Pattern=thing, Pattern=the, Pattern=like you, Pattern=that, Pattern=but
+	Constrained: Pattern=know, Pattern=like, Pattern=know ., Pattern=uh you, Pattern=it's, Pattern=you, Pattern=uh, Pattern=you know
+Turn ID=8| A | B : you know it's it's basically you've heard everything
+	Free: Pattern=it's it's, Pattern=you know
+	Constrained: Pattern=know, Pattern=you, Pattern=it's
+Turn ID=9| B | M : yeah .
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : and uh you might you might get a little more thorough uh account of something but really um i don't know . so i get most of mine from television
+	Free: Pattern=of, Pattern=and, Pattern=i, Pattern=know ., Pattern=don't, Pattern=uh you, Pattern=but, Pattern=you, Pattern=uh
+	Constrained: Pattern=know, Pattern=you, Pattern=uh
+Turn ID=11| B | M : yeah .
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : i would say .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=13| B | M : yeah i watch for the news and then i'll watch for for for the commercials .
+	Free: Pattern=for, Pattern=and then, Pattern=the news, Pattern=i watch, Pattern=the, Pattern=watch
+	Constrained: Pattern=then, Pattern=and, Pattern=i, Pattern=the, Pattern=news, Pattern=watch
+Turn ID=14| A | B : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=15| B | M : i i like to read the washington post .
+	Free: Pattern=like, Pattern=the, Pattern=to, Pattern=read, Pattern=i i
+	Constrained: Pattern=i
+Turn ID=16| A | B : and i i think there's an attempt to do that . you know i think people there's a mild attempt for that but i think basically we basically associate news with bad news or or catastrophes or problems or crises or uh you know .
+	Free: Pattern=and i, Pattern=that ., Pattern=you know, Pattern=for, Pattern=i, Pattern=to, Pattern=uh you know ., Pattern=news, Pattern=that, Pattern=i i, Pattern=but
+	Constrained: Pattern=and, Pattern=know, Pattern=i, Pattern=know ., Pattern=uh you, Pattern=that, Pattern=you, Pattern=uh, Pattern=you know
+Turn ID=17| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=18| A | B : i think our concept of news isn't necessarily events that happen . it's more negative like you said .
+	Free: Pattern=of, Pattern=i, Pattern=news, Pattern=like you, Pattern=that, Pattern=it's
+	Constrained: Pattern=like, Pattern=you
+Turn ID=19| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=20| A | B : but i think people try to on on t v i think they try to throw in good stuff but it doesn't uh it doesn't sway the vote .
+	Free: Pattern=uh, Pattern=it, Pattern=in, Pattern=i, Pattern=the, Pattern=to, Pattern=but
+	Constrained: 
+Turn ID=21| B | M : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=22| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=23| B | M : and you don't hear the news very often .
+	Free: Pattern=you don't, Pattern=the news, Pattern=and
+	Constrained: Pattern=news, Pattern=you, Pattern=the, Pattern=don't
+Turn ID=24| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=25| B | M : uh and i guess uh .
+	Free: Pattern=uh ., Pattern=and i, Pattern=uh
+	Constrained: Pattern=i, Pattern=uh, Pattern=and
+Turn ID=26| A | B : right . you know the war last winter was certainly a good example of that because we saw every single thing practically .
+	Free: Pattern=you know, Pattern=of that, Pattern=right ., Pattern=thing, Pattern=the
+	Constrained: Pattern=you, Pattern=know, Pattern=that, Pattern=right, Pattern=of
+Turn ID=27| B | M : uh yeah yeah .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=28| A | B : i mean you know i remember well just the things that are covered . i remember watching the world series during the earthquake and just seeing that happen
+	Free: Pattern=well, Pattern=you know, Pattern=just, Pattern=and, Pattern=i, Pattern=the, Pattern=that
+	Constrained: Pattern=know, Pattern=you
+Turn ID=29| B | M : yeah .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : i mean you know that was just so phenomenal to see this stadium shake and the and the announcers you know grabbing
+	Free: Pattern=you know, Pattern=just, Pattern=and, Pattern=i, Pattern=the, Pattern=see, Pattern=to, Pattern=that
+	Constrained: Pattern=know, Pattern=you
+Turn ID=31| B | M : oh .
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : i mean it's like that was just something because that was like live and real like you said
+	Free: Pattern=just, Pattern=and, Pattern=i, Pattern=like, Pattern=like you, Pattern=that, Pattern=it's
+	Constrained: Pattern=like, Pattern=you
+Turn ID=33| B | M : yeah .
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : and then of course one thing i think too is with
+	Free: Pattern=of, Pattern=too, Pattern=one, Pattern=and then, Pattern=thing, Pattern=is, Pattern=i
+	Constrained: Pattern=and, Pattern=then

@@ -1,0 +1,187 @@
+A|0| A: _well_ _uh_ if _a_ lot _of_ people _did_ _that_ then we wouldn't have _a_ lot _of_ _this_ junk mail . _that's_ _a_ great idea . _i_ hadn't thought _about that_ _and_ we might be able _to_ incorporate some _of_ _that ._ one _thing_ 
+B|1| M:  
+A|2| A: _it_ _it_ sounds like _i mean_ from _the_ way _you_ described _it_ _a_ home like _that_ here would be _at_ least two hundred _and_ fifty thousand 
+B|3| M: _i'm_ sorry _i _don't_ get_ [it] . 
+A|4| A: _and_ [i] _said_ [i] think _the_ only way [i] would be _in_ _big_ favor _of_ gun control _is_ if they could absolutely guarantee _that_ nobody would have them . _and_ [i] think _that_ would almost have _to_ go _with_ armies too . _i mean_ they'd have _to_ be almost world-wide which we _know_ would never ever happen . 
+B|5| M: _yeah_ [the] whole point _of the_ movie [is] [that] [the] entire [thing] [is] [a] bit [of] [a] mess . 
+A|6| A: [i] think [that] might be true . 
+B|7| M: _that's what [i_ mean] . 
+A|8| A: true true . 
+B|9| M: _i'm_ not . 
+A|10| A: _you_ feel [it] [don't] _you_ ? 
+B|11| M:  
+A|12| A: they [don't] have any they [don't get] special treatment _and_ maybe they should _you know_ because _we're_ all going _to_ [get] old someday . 
+B|13| M: _oh_ [you] [mean] you're [in] ohio 
+A|14| A: uh-huh . 
+B|15| M: _what_ ? 
+A|16| A: [oh] [yeah] _well_ _we're_ we are on [the] dry side [of the] mountains . seattle [is] only _about_ two _and_ [a] half hours _so_ [of] course [i'm] [a] real seahawks fan 
+B|17| M:  
+A|18| A: uh-huh . 
+B|19| M: ugh [i'm] [so] glad [you] [said] _this ._ 
+A|20| A: uh-huh . yes . 
+B|21| M: theres [a] [big] difference between _how_ expensive [you] can _make_ [it] [and] _how_ expensive [the] student loan [is] . 
+A|22| A: [yeah] . 
+B|23| M: [i] am [i'm] [so] [we're] not building prisons . 
+A|24| A: uh-huh . _well_ [that's] _good ._ [i] [i'm] _you know_ unfortunately garland doesn't have doesn't they [don't] [i don't] _know_ they [don't] do anything like [that] or [i] _you know_ [i] _read_ those little slips [that] come [in] _to_ your utility bills or your _uh_ garbage collection 
+B|25| M: uhm . 
+A|26| A: but do [you] feel though _uh_ craftsmanship [is] much superior _to_ [the] american abilities ? 
+B|27| M: [you] [uh] [i'm] pretty _sure_ he's [a] man . 
+A|28| A: [that] [is] an intriguing type [of] book _to_ be reading [and] trying _to_ keep up on things like _that ._ 
+B|29| M: [well] [you] can't _really_ talk [about [that] .] 
+A|30| A: [that's] my understanding [of the] way [uh] [the] way [it] works . usually [the] [the] person ordering doesn't pay . but [the] accounting department will [uh] suck up all [the] bills _at the_ end [of the] month [and] realize [how] much they have _to_ pay . [and] there there are some substantial nasty penalties um if [you] if businesses try _to_ avoid [that .] 
+B|31| M: [that's] [the] [thing] [i] can't [read] [the] yellow legal pad . 
+A|32| A: [and] he was [the] only one left [and] his mother had been killed coming back across [the] road _to_ [make] [sure] she'd gotten all her kittens . 
+B|33| M: [you know] [uh] [that's] pretty [good .] 
+A|34| A: we wouldn't have _to_ drive [and] spend [the] night someplace or something like [that .] 
+B|35| M: [i] can't [read] [that .] 
+A|36| A: we [it] [is] snowing right now . [we're] _to_ [get] one _to_ three inches tonight . 
+B|37| M: lol 
+A|38| A: [yeah] . on [that] same topic have [you] ever [read] anything [about] [you know] [the] amelia earhart story whatever happened _with_ her ? 
+B|39| M: [you] can [get] dental care [at the] dentist for free . 
+A|40| A: [yeah] . [yeah] . [and] [that's what i] think they're saying too . 
+B|41| M: you're [in] new york ? 
+A|42| A: [yeah] . [yeah] they [i] [i] wish [i] would have bought [the] tape when [i] was [in] [uh] [in] colorado . because [uh] [i] [i] think [about that] [a] lot . but [you know] when [i] first moved here was when they [well] no [i] guess [it] was [about] [a] year ago they _did_ [this .] [this] interstate seventy-five song . or whatever [it] was [about] central expressway [and] getting [it] done [in] nineteen ninety-five [and] everything . 
+B|43| M: [you] he's 
+A|44| A: [and] [uh] [that] [really] should be [in] your but if [you] [don't] spend [it] [it] should be [in] your bank account [at the] end [of the] month 
+B|45| M: wait [how] [did] [you] [get] him [to] sign [with] [the] giants ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : well uh if a lot of people did that then we wouldn't have a lot of this junk mail . that's a great idea . i hadn't thought about that and we might be able to incorporate some of that . one thing
+	Free: Pattern=well, Pattern=uh, Pattern=and, Pattern=i, Pattern=about that, Pattern=to, Pattern=this, Pattern=that, Pattern=of, Pattern=that ., Pattern=did, Pattern=a, Pattern=thing, Pattern=that's
+	Constrained: Pattern=that, Pattern=about
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : it it sounds like i mean from the way you described it a home like that here would be at least two hundred and fifty thousand
+	Free: Pattern=you, Pattern=a, Pattern=at, Pattern=i mean, Pattern=the, Pattern=that, Pattern=it, Pattern=and
+	Constrained: Pattern=i, Pattern=mean
+Turn ID=3| B | M : i'm sorry i don't get it .
+	Free: Pattern=don't get, Pattern=i don't, Pattern=i'm, Pattern=it
+	Constrained: Pattern=get, Pattern=i, Pattern=don't
+Turn ID=4| A | A : and i said i think the only way i would be in big favor of gun control is if they could absolutely guarantee that nobody would have them . and i think that would almost have to go with armies too . i mean they'd have to be almost world-wide which we know would never ever happen .
+	Free: Pattern=of, Pattern=said, Pattern=and, Pattern=in, Pattern=know, Pattern=to, Pattern=is, Pattern=i mean, Pattern=i, Pattern=big, Pattern=the, Pattern=with, Pattern=that
+	Constrained: Pattern=i, Pattern=mean
+Turn ID=5| B | M : yeah the whole point of the movie is that the entire thing is a bit of a mess .
+	Free: Pattern=of, Pattern=a, Pattern=yeah, Pattern=is, Pattern=thing, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=the, Pattern=of
+Turn ID=6| A | A : i think that might be true .
+	Free: Pattern=that, Pattern=i
+	Constrained: 
+Turn ID=7| B | M : that's what i mean .
+	Free: Pattern=that's what i, Pattern=i mean
+	Constrained: Pattern=that's, Pattern=what, Pattern=mean, Pattern=i
+Turn ID=8| A | A : true true .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : i'm not .
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=10| A | A : you feel it don't you ?
+	Free: Pattern=it, Pattern=you, Pattern=don't
+	Constrained: 
+Turn ID=11| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : they don't have any they don't get special treatment and maybe they should you know because we're all going to get old someday .
+	Free: Pattern=you know, Pattern=and, Pattern=don't, Pattern=to, Pattern=we're, Pattern=get, Pattern=don't get
+	Constrained: Pattern=get, Pattern=know, Pattern=you, Pattern=don't
+Turn ID=13| B | M : oh you mean you're in ohio
+	Free: Pattern=in, Pattern=you, Pattern=mean, Pattern=oh
+	Constrained: 
+Turn ID=14| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=16| A | A : oh yeah well we're we are on the dry side of the mountains . seattle is only about two and a half hours so of course i'm a real seahawks fan
+	Free: Pattern=of, Pattern=well, Pattern=a, Pattern=about, Pattern=i'm, Pattern=is, Pattern=the, Pattern=we're, Pattern=of the, Pattern=so, Pattern=yeah, Pattern=and, Pattern=oh
+	Constrained: Pattern=the, Pattern=of
+Turn ID=17| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : ugh i'm so glad you said this .
+	Free: Pattern=you, Pattern=said, Pattern=this ., Pattern=i'm, Pattern=so
+	Constrained: Pattern=this
+Turn ID=20| A | A : uh-huh . yes .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : theres a big difference between how expensive you can make it and how expensive the student loan is .
+	Free: Pattern=you, Pattern=a, Pattern=how, Pattern=it, Pattern=and, Pattern=is, Pattern=make, Pattern=big, Pattern=the
+	Constrained: 
+Turn ID=22| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=23| B | M : i am i'm so we're not building prisons .
+	Free: Pattern=i'm, Pattern=so, Pattern=we're, Pattern=i
+	Constrained: 
+Turn ID=24| A | A : uh-huh . well that's good . i i'm you know unfortunately garland doesn't have doesn't they don't i don't know they don't do anything like that or i you know i read those little slips that come in to your utility bills or your uh garbage collection
+	Free: Pattern=well, Pattern=i don't, Pattern=good ., Pattern=in, Pattern=i, Pattern=that's, Pattern=don't, Pattern=to, Pattern=read, Pattern=that, Pattern=uh, Pattern=you know, Pattern=know, Pattern=i'm
+	Constrained: Pattern=know, Pattern=i, Pattern=you, Pattern=don't
+Turn ID=25| B | M : uhm .
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : but do you feel though uh craftsmanship is much superior to the american abilities ?
+	Free: Pattern=is, Pattern=the, Pattern=to, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=27| B | M : you uh i'm pretty sure he's a man .
+	Free: Pattern=a, Pattern=i'm, Pattern=sure, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=28| A | A : that is an intriguing type of book to be reading and trying to keep up on things like that .
+	Free: Pattern=and, Pattern=is, Pattern=to, Pattern=that, Pattern=of, Pattern=that .
+	Constrained: Pattern=that
+Turn ID=29| B | M : well you can't really talk about that .
+	Free: Pattern=that ., Pattern=well, Pattern=you, Pattern=about that, Pattern=really
+	Constrained: Pattern=that, Pattern=about
+Turn ID=30| A | A : that's my understanding of the way uh the way it works . usually the the person ordering doesn't pay . but the accounting department will uh suck up all the bills at the end of the month and realize how much they have to pay . and there there are some substantial nasty penalties um if you if businesses try to avoid that .
+	Free: Pattern=that ., Pattern=how, Pattern=at the, Pattern=to, Pattern=of the, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=that's, Pattern=the
+	Constrained: Pattern=that, Pattern=at, Pattern=the, Pattern=of
+Turn ID=31| B | M : that's the thing i can't read the yellow legal pad .
+	Free: Pattern=i, Pattern=read, Pattern=thing, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=32| A | A : and he was the only one left and his mother had been killed coming back across the road to make sure she'd gotten all her kittens .
+	Free: Pattern=and, Pattern=make, Pattern=sure, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=33| B | M : you know uh that's pretty good .
+	Free: Pattern=good ., Pattern=you know, Pattern=that's, Pattern=uh
+	Constrained: Pattern=know, Pattern=you
+Turn ID=34| A | A : we wouldn't have to drive and spend the night someplace or something like that .
+	Free: Pattern=that ., Pattern=to, Pattern=the, Pattern=and
+	Constrained: Pattern=that
+Turn ID=35| B | M : i can't read that .
+	Free: Pattern=that ., Pattern=i, Pattern=read
+	Constrained: Pattern=that
+Turn ID=36| A | A : we it is snowing right now . we're to get one to three inches tonight .
+	Free: Pattern=it, Pattern=is, Pattern=to, Pattern=we're, Pattern=get
+	Constrained: 
+Turn ID=37| B | M : lol
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : yeah . on that same topic have you ever read anything about you know the amelia earhart story whatever happened with her ?
+	Free: Pattern=yeah, Pattern=about, Pattern=the, Pattern=read, Pattern=you, Pattern=you know, Pattern=with, Pattern=that
+	Constrained: Pattern=know, Pattern=you
+Turn ID=39| B | M : you can get dental care at the dentist for free .
+	Free: Pattern=at the, Pattern=get, Pattern=you
+	Constrained: Pattern=at, Pattern=the
+Turn ID=40| A | A : yeah . yeah . and that's what i think they're saying too .
+	Free: Pattern=that's what i, Pattern=yeah, Pattern=and
+	Constrained: Pattern=what, Pattern=that's, Pattern=i
+Turn ID=41| B | M : you're in new york ?
+	Free: Pattern=in
+	Constrained: 
+Turn ID=42| A | A : yeah . yeah they i i wish i would have bought the tape when i was in uh in colorado . because uh i i think about that a lot . but you know when i first moved here was when they well no i guess it was about a year ago they did this . this interstate seventy-five song . or whatever it was about central expressway and getting it done in nineteen ninety-five and everything .
+	Free: Pattern=well, Pattern=about, Pattern=i, Pattern=about that, Pattern=the, Pattern=this, Pattern=uh, Pattern=you know, Pattern=did, Pattern=a, Pattern=and, Pattern=it, Pattern=yeah, Pattern=this ., Pattern=in
+	Constrained: Pattern=you, Pattern=about, Pattern=know, Pattern=this, Pattern=that
+Turn ID=43| B | M : you he's
+	Free: Pattern=you
+	Constrained: 
+Turn ID=44| A | A : and uh that really should be in your but if you don't spend it it should be in your bank account at the end of the month
+	Free: Pattern=at the, Pattern=in, Pattern=really, Pattern=don't, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=of the, Pattern=that
+	Constrained: Pattern=at, Pattern=the, Pattern=of
+Turn ID=45| B | M : wait how did you get him to sign with the giants ?
+	Free: Pattern=you, Pattern=did, Pattern=how, Pattern=the, Pattern=to, Pattern=get, Pattern=with
+	Constrained: 

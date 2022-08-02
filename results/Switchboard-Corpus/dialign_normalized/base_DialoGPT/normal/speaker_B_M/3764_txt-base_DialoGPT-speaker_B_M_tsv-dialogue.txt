@@ -1,0 +1,247 @@
+A|0| B: _well_ _uh_ _uh_ about _the_ same _i_ _dress_ _for school_ _. i_ _uh _i_ am_ _a_ graduate student _so_ _i_ _don't_ _have_ _to_ worry too much about _uh_ _what_ _i_ _wear_ too much _of_ _the_ time . which _is_ nice . 
+B|1| M: _you wear _a_ lot of_ _clothes_ . _how_ _are_ _you_ dressing [for school] ? 
+A|2| B: _uh_ _uh_ _uh_ although _i_ _do_ _uh_ [a lot of] 
+B|3| M: [uh] huh [uh] huh 
+A|4| B: _i am_ [a] speech pathology major _and_ _so_ _i_ _do_ [a lot of] clinical work _and_ when _i_ _do_ clinic work then _i_ _have_ _to_ [uh] [uh] look my best . 
+B|5| M: [what] _do you_ [do] ? 
+A|6| B: yeah . unfortunately . 
+B|7| M: _do you_ [have] [a] good job ? 
+A|8| B: uh-huh . 
+B|9| M: _you're_ _not_ [i am] . 
+A|10| B: yeah _sure ._ uh-huh . yeah . yeah _. uh_ [uh] [do you] find _that_ [uh] _on the_ average [do] _people_ give [uh] more _credibility_ or less _credibility_ _to_ [a] professional [uh] _to_ professionally dressed individual . 
+B|11| M: _i'm_ sorry 
+A|12| B: uh-huh . 
+B|13| M: it's _not_ [a] matter [of] [credibility] it's [a] matter [on the] level [of] [credibility] 
+A|14| B: uh-huh . 
+B|15| M: uhhh 
+A|16| B: uh-huh . 
+B|17| M: uhh ... um ... [i] mean [uh i] think we're gonna need _some_ [of] [that] . 
+A|18| B: uh-huh . 
+B|19| M: uuhh [. i] wouldn't call myself [a] farmer . 
+A|20| B: uh-huh . 
+B|21| M: ugh _no_ . 
+A|22| B: oh really ? 
+B|23| M: [i] did . 
+A|24| B: even [the] farmers . 
+B|25| M: it's [a] _bit ._ 
+A|26| B: oh wow . 
+B|27| M: _i'm_ _pretty_ [sure] [the] farmer was [a] female . 
+A|28| B: uh-huh . 
+B|29| M: [i] mean [you] _are_ [a] beautiful woman [and] _your_ [dress] [is] [so] _pretty_ ... 
+A|30| B: uh-huh . yeah certainly . 
+B|31| M: ohh [well] _i'm_ [a] very _pretty_ girl . 
+A|32| B: uh-huh . 
+B|33| M:  ... [so] [uh] business ? 
+A|34| B: yeah _it_ depends . _sure _._ uh_ [so] [you] _don't_ [uh] _if you_ had [the] choice would [you wear a] tie or [not] ? 
+B|35| M: [is] [it] ? 
+A|36| B: uh-huh . uh-huh . 
+B|37| M: yup [. uh] [sure .] 
+A|38| B: uh-huh . 
+B|39| M:  ... [uh] huh . 
+A|40| B: _right_ _right_ . 
+B|41| M: [i] think he should be evaluated . 
+A|42| B: uh-huh . yeah [that] [uh] _if_ _if you_ wanted _to_ [uh] [uh] really get into [a] hot issue [uh] [well] at least _in_ [some] _in_ [some] beliefs [uh] [how] _people_ [dress] when they go _to_ church [is] [uh] [is] [uh] sometimes [a] [pretty] [pretty] hot topic . 
+B|43| M: ah _i see_ . 
+A|44| B: uh-huh [uh] yeah . [i'm] [i am] [uh i] go _to_ [the] church [of] christ [. i] [have] been raised _in the_ church [of] christ [and] [uh] _but_ [uh i] [uh] too many times [you] hear [you] hear [a lot] about [what] [what] [you're] [uh] supposed [you're] supposed _to_ look [your] sunday best [uh] [uh] [and] [dress] [and] proper attire 
+B|45| M:  
+A|46| B: [and] [uh] [and] sometimes [that] really disappoints me [uh] _in_ [uh] when [i see] _in_ other economic areas like _in_ kentucky . 
+B|47| M:  
+A|48| B: [you] _know_ _people_ just _don't_ [have] [that] [and] they [are] afraid _to_ go _to_ church or afraid _to_ go simply because they _don't_ [have] [the] [clothes] _to_ [wear] . 
+B|49| M: [are] [you] ? 
+A|50| B: uh-huh . 
+B|51| M: there's [a lot of] [people] who [don't] believe [in] god . 
+A|52| B: yeah . 
+B|53| M: [i'm] from [the] west . it's [a] very good point . 
+A|54| B: certainly . 
+B|55| M: yes . [but] [you] should . [the] book [is] [a] great read . 
+A|56| B: uh-huh . 
+B|57| M: [well] [if you] want [to] be an expert [in the] field i'd say [you're] [in the] [right] place . 
+A|58| B: uh-huh . 
+B|59| M: [i] [know] . 
+A|60| B: [uh] yeah [a] little [bit [.] uh] [uh] [of] course [in the] summer [if] [i] can get away with [it] [i] [wear] [uh] [uh] [a] pair [of] shorts [and] that's [it] . run around barefoot [no] shirt or anything [but] [uh] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : well uh uh about the same i dress for school . i uh i am a graduate student so i don't have to worry too much about uh what i wear too much of the time . which is nice .
+	Free: Pattern=dress, Pattern=of, Pattern=well, Pattern=uh, Pattern=have, Pattern=what, Pattern=a, Pattern=. i, Pattern=the, Pattern=don't, Pattern=so, Pattern=wear, Pattern=i am, Pattern=for school, Pattern=is, Pattern=i, Pattern=uh i, Pattern=to
+	Constrained: Pattern=uh, Pattern=i
+Turn ID=1| B | M : you wear a lot of clothes . how are you dressing for school ?
+	Free: Pattern=a lot of, Pattern=you, Pattern=how, Pattern=are, Pattern=for school, Pattern=clothes, Pattern=you wear a
+	Constrained: Pattern=of, Pattern=you, Pattern=a, Pattern=wear, Pattern=a lot
+Turn ID=2| A | B : uh uh uh although i do uh a lot of
+	Free: Pattern=a lot of, Pattern=uh, Pattern=do, Pattern=i
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=3| B | M : uh huh uh huh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=4| A | B : i am a speech pathology major and so i do a lot of clinical work and when i do clinic work then i have to uh uh look my best .
+	Free: Pattern=a lot of, Pattern=uh, Pattern=have, Pattern=and, Pattern=i am, Pattern=i, Pattern=to, Pattern=so, Pattern=do, Pattern=a
+	Constrained: Pattern=a, Pattern=i, Pattern=a lot, Pattern=of
+Turn ID=5| B | M : what do you do ?
+	Free: Pattern=do you, Pattern=what, Pattern=do
+	Constrained: Pattern=do, Pattern=you
+Turn ID=6| A | B : yeah . unfortunately .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : do you have a good job ?
+	Free: Pattern=do you, Pattern=a, Pattern=have
+	Constrained: Pattern=do, Pattern=you
+Turn ID=8| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : you're not i am .
+	Free: Pattern=i am, Pattern=you're, Pattern=not
+	Constrained: Pattern=i
+Turn ID=10| A | B : yeah sure . uh-huh . yeah . yeah . uh uh do you find that uh on the average do people give uh more credibility or less credibility to a professional uh to professionally dressed individual .
+	Free: Pattern=. uh, Pattern=people, Pattern=on the, Pattern=to, Pattern=that, Pattern=uh, Pattern=credibility, Pattern=do, Pattern=a, Pattern=do you, Pattern=sure .
+	Constrained: Pattern=do, Pattern=sure, Pattern=the, Pattern=you, Pattern=uh
+Turn ID=11| B | M : i'm sorry
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=12| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : it's not a matter of credibility it's a matter on the level of credibility
+	Free: Pattern=of, Pattern=credibility, Pattern=a, Pattern=on the, Pattern=not
+	Constrained: Pattern=the
+Turn ID=14| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : uhhh
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : uhh ... um ... i mean uh i think we're gonna need some of that .
+	Free: Pattern=of, Pattern=some, Pattern=i, Pattern=uh i, Pattern=that
+	Constrained: Pattern=uh, Pattern=i
+Turn ID=18| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : uuhh . i wouldn't call myself a farmer .
+	Free: Pattern=. i, Pattern=a
+	Constrained: Pattern=i
+Turn ID=20| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : ugh no .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=22| A | B : oh really ?
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : i did .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=24| A | B : even the farmers .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=25| B | M : it's a bit .
+	Free: Pattern=bit ., Pattern=a
+	Constrained: 
+Turn ID=26| A | B : oh wow .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : i'm pretty sure the farmer was a female .
+	Free: Pattern=a, Pattern=i'm, Pattern=pretty, Pattern=sure, Pattern=the
+	Constrained: 
+Turn ID=28| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : i mean you are a beautiful woman and your dress is so pretty ...
+	Free: Pattern=dress, Pattern=you, Pattern=a, Pattern=and, Pattern=are, Pattern=pretty, Pattern=so, Pattern=is, Pattern=your, Pattern=i
+	Constrained: 
+Turn ID=30| A | B : uh-huh . yeah certainly .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : ohh well i'm a very pretty girl .
+	Free: Pattern=well, Pattern=i'm, Pattern=a, Pattern=pretty
+	Constrained: 
+Turn ID=32| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M :  ... so uh business ?
+	Free: Pattern=uh, Pattern=so
+	Constrained: 
+Turn ID=34| A | B : yeah it depends . sure . uh so you don't uh if you had the choice would you wear a tie or not ?
+	Free: Pattern=. uh, Pattern=if you, Pattern=the, Pattern=don't, Pattern=you wear a, Pattern=so, Pattern=not, Pattern=you, Pattern=uh, Pattern=it, Pattern=sure .
+	Constrained: Pattern=a, Pattern=if, Pattern=wear, Pattern=sure, Pattern=you, Pattern=uh
+Turn ID=35| B | M : is it ?
+	Free: Pattern=is, Pattern=it
+	Constrained: 
+Turn ID=36| A | B : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : yup . uh sure .
+	Free: Pattern=. uh, Pattern=sure .
+	Constrained: Pattern=uh, Pattern=sure
+Turn ID=38| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M :  ... uh huh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=40| A | B : right right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=41| B | M : i think he should be evaluated .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=42| A | B : uh-huh . yeah that uh if if you wanted to uh uh really get into a hot issue uh well at least in some in some beliefs uh how people dress when they go to church is uh is uh sometimes a pretty pretty hot topic .
+	Free: Pattern=dress, Pattern=well, Pattern=uh, Pattern=people, Pattern=a, Pattern=how, Pattern=if, Pattern=in, Pattern=is, Pattern=pretty, Pattern=to, Pattern=that, Pattern=if you, Pattern=some
+	Constrained: Pattern=if, Pattern=you
+Turn ID=43| B | M : ah i see .
+	Free: Pattern=i see
+	Constrained: Pattern=i
+Turn ID=44| A | B : uh-huh uh yeah . i'm i am uh i go to the church of christ . i have been raised in the church of christ and uh but uh i uh too many times you hear you hear a lot about what what you're uh supposed you're supposed to look your sunday best uh uh and dress and proper attire
+	Free: Pattern=dress, Pattern=have, Pattern=what, Pattern=and, Pattern=in the, Pattern=. i, Pattern=i am, Pattern=i'm, Pattern=your, Pattern=the, Pattern=but, Pattern=you're, Pattern=of, Pattern=you, Pattern=uh, Pattern=a lot, Pattern=uh i, Pattern=to
+	Constrained: Pattern=uh, Pattern=a, Pattern=in, Pattern=i, Pattern=the
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : and uh and sometimes that really disappoints me uh in uh when i see in other economic areas like in kentucky .
+	Free: Pattern=i see, Pattern=uh, Pattern=and, Pattern=in, Pattern=that
+	Constrained: Pattern=i
+Turn ID=47| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : you know people just don't have that and they are afraid to go to church or afraid to go simply because they don't have the clothes to wear .
+	Free: Pattern=you, Pattern=and, Pattern=are, Pattern=wear, Pattern=know, Pattern=the, Pattern=don't, Pattern=clothes, Pattern=to, Pattern=that, Pattern=people, Pattern=have
+	Constrained: 
+Turn ID=49| B | M : are you ?
+	Free: Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=50| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=51| B | M : there's a lot of people who don't believe in god .
+	Free: Pattern=a lot of, Pattern=in, Pattern=don't, Pattern=people
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=52| A | B : yeah .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : i'm from the west . it's a very good point .
+	Free: Pattern=i'm, Pattern=a, Pattern=the
+	Constrained: 
+Turn ID=54| A | B : certainly .
+	Free: 
+	Constrained: 
+Turn ID=55| B | M : yes . but you should . the book is a great read .
+	Free: Pattern=you, Pattern=a, Pattern=is, Pattern=the, Pattern=but
+	Constrained: 
+Turn ID=56| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : well if you want to be an expert in the field i'd say you're in the right place .
+	Free: Pattern=well, Pattern=in the, Pattern=if you, Pattern=to, Pattern=right, Pattern=you're
+	Constrained: Pattern=in, Pattern=if, Pattern=the, Pattern=you
+Turn ID=58| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=59| B | M : i know .
+	Free: Pattern=know, Pattern=i
+	Constrained: 
+Turn ID=60| A | B : uh yeah a little bit . uh uh of course in the summer if i can get away with it i wear uh uh a pair of shorts and that's it . run around barefoot no shirt or anything but uh
+	Free: Pattern=uh, Pattern=no, Pattern=a, Pattern=wear, Pattern=i, Pattern=bit ., Pattern=but, Pattern=of, Pattern=. uh, Pattern=it, Pattern=and, Pattern=in the, Pattern=if
+	Constrained: Pattern=in, Pattern=uh, Pattern=the

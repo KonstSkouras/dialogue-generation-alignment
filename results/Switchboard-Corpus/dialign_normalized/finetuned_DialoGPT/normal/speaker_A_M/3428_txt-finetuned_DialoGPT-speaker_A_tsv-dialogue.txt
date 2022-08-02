@@ -1,0 +1,79 @@
+B|0| M: _and_ _uh_ 
+A|1| A: _yeah_ _i_ can _i_ can understand _that . i_ was raised _in_ oklahoma [and] of course being oklahoman [and] texan [uh] _yeah_ the hunting [and] everything [and] _i_ used _to_ things _in_ my father [and] my husband having guns [and] all [and] _i i_ did used _to_ be all _in_ favor of _it_ but _it's_ all of _a_ sudden _it's_ starting _to_ get really scary with these gangs . yet _i think_ _i_ would vote _a_ one if _i_ thought _that_ _it_ would be nation wide [and] they can guarantee no one would _have_ _a gun_ no crooks nothing . but because _i_ _know_ _that's_ not going _to_ happen then _i_ _have to_ probably _right_ up there _about_ an eight 
+B|2| M: [right] [right] . 
+A|3| A: _well_ _it_ _just_ seems like _in_ the past three or four years _it_ has _just_ gotten _so_ _much_ worse than _it_ was . there's always _been a_ certain amount of crime _in your_ _you know_ _your_ urban areas [and] _i_ _know_ we lived _in_ chicago _for_ seven years [and] of course _it_ was definitely there . _so_ when we first moved here _it_ wasn't as bad as this . _it's_ _you know_ _it's_ _just_ getting all of _a_ sudden _so_ _much_ worse _. i_ _don't_ _know_ whether _it's_ due _to_ the drugs [and] the [uh] drug kings _that_ are here [and] jamaican drug kings coming _in_ _. i_ _don't_ _know_ whether _that's_ _it_ or street gangs _. i_ _don't_ _know_ what the answer is _. i_ _know_ _that_ _it's_ scary [and] yet _i_ hate the government constantly telling me what _i_ can do [and] what _i_ can't do [and] _that's_ basically what the _gun_ control would end up being . 
+B|4| M: uh-huh . 
+A|5| A: _well_ _it's_ very true . 
+B|6| M: [uh] [i] [you] [you] [you know] [i think] [it's] [so] [you] [don't] [have to] worry [about] [it] _too_ [much] _. uh_ i've [i] live [in] [a] small town [in] [a] town [in] mesquite 
+A|7| A: [it's] not the law abiding citizen _that_ [you know] is is dangerous with the _gun_ [it's] the ones _that_ are going out [and] stealing [it] . 
+B|8| M: [right] . 
+A|9| A: [and] [i] said [i think] the only way [i] would be [in] big favor of _gun_ control is if they could absolutely guarantee _that_ nobody would [have] _them_ . [and] [i think] _that_ would almost [have _to] go_ with armies [too] _. i_ mean they'd [have to] be almost world-wide which we [know] would never ever happen . 
+B|10| M: [right] . 
+A|11| A: because _even_ if [you] said okay [you know] armed forces could [have] _them_ some idiot would come out [and] sell [it] [to] somebody on the street [to] make [a] quick buck . 
+B|12| M: [right] . 
+A|13| A: _that's_ very true very true . who knows we maybe want [to] overthrow the government 
+B|14| M: [yeah] . 
+A|15| A: [i] [know] if somebody doesn't do something [. uh] what [about] [uh] what do [you] [think] of this this [uh] law _that_ they're putting into effect _that_ [you] [have to] wait x number of days before [you] can [uh] carry the _gun_ or buy [you know] actually purchase the _gun_ ? 
+B|16| M: [well] [that's] [a] good question [. [i] [i] think] [it's] [it's] [been a] while since i've [even] talked [to] [a] person [about] [that . [i] think] they've [just] [uh] 
+A|17| A: yes . 
+B|18| M: [and] [you] had [to] [have] [your] [gun] [in your] name . [you] had [to go] [to] [a gun] show [and] ask [them] [for] [a] driver's license . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : and uh
+	Free: Pattern=uh, Pattern=and
+	Constrained: 
+Turn ID=1| A | A : yeah i can i can understand that . i was raised in oklahoma and of course being oklahoman and texan uh yeah the hunting and everything and i used to things in my father and my husband having guns and all and i i did used to be all in favor of it but it's all of a sudden it's starting to get really scary with these gangs . yet i think i would vote a one if i thought that it would be nation wide and they can guarantee no one would have a gun no crooks nothing . but because i know that's not going to happen then i have to probably right up there about an eight
+	Free: Pattern=right, Pattern=uh, Pattern=have, Pattern=a, Pattern=about, Pattern=in, Pattern=i, Pattern=that . i, Pattern=that's, Pattern=have to, Pattern=to, Pattern=i think, Pattern=and, Pattern=it, Pattern=yeah, Pattern=know, Pattern=a gun, Pattern=that, Pattern=i i, Pattern=it's
+	Constrained: Pattern=have, Pattern=a, Pattern=gun, Pattern=. i, Pattern=think, Pattern=i, Pattern=to, Pattern=that
+Turn ID=2| B | M : right right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=3| A | A : well it just seems like in the past three or four years it has just gotten so much worse than it was . there's always been a certain amount of crime in your you know your urban areas and i know we lived in chicago for seven years and of course it was definitely there . so when we first moved here it wasn't as bad as this . it's you know it's just getting all of a sudden so much worse . i don't know whether it's due to the drugs and the uh drug kings that are here and jamaican drug kings coming in . i don't know whether that's it or street gangs . i don't know what the answer is . i know that it's scary and yet i hate the government constantly telling me what i can do and what i can't do and that's basically what the gun control would end up being .
+	Free: Pattern=well, Pattern=just, Pattern=a, Pattern=. i, Pattern=in, Pattern=know, Pattern=that's, Pattern=don't, Pattern=to, Pattern=so, Pattern=uh, Pattern=you know, Pattern=gun, Pattern=for, Pattern=it, Pattern=and, Pattern=your, Pattern=i, Pattern=been a, Pattern=much, Pattern=that, Pattern=it's, Pattern=in your
+	Constrained: Pattern=you, Pattern=a, Pattern=in, Pattern=know, Pattern=your, Pattern=i
+Turn ID=4| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : well it's very true .
+	Free: Pattern=well, Pattern=it's
+	Constrained: 
+Turn ID=6| B | M : uh i you you you know i think it's so you don't have to worry about it too much . uh i've i live in a small town in a town in mesquite
+	Free: Pattern=. uh, Pattern=a, Pattern=about, Pattern=in, Pattern=i, Pattern=much, Pattern=it's, Pattern=you, Pattern=uh, Pattern=you know, Pattern=it, Pattern=too, Pattern=have to, Pattern=don't, Pattern=so, Pattern=i think
+	Constrained: Pattern=have, Pattern=think, Pattern=know, Pattern=i, Pattern=to, Pattern=you, Pattern=uh
+Turn ID=7| A | A : it's not the law abiding citizen that you know is is dangerous with the gun it's the ones that are going out and stealing it .
+	Free: Pattern=you know, Pattern=gun, Pattern=it, Pattern=and, Pattern=that, Pattern=it's
+	Constrained: Pattern=know, Pattern=you
+Turn ID=8| B | M : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=9| A | A : and i said i think the only way i would be in big favor of gun control is if they could absolutely guarantee that nobody would have them . and i think that would almost have to go with armies too . i mean they'd have to be almost world-wide which we know would never ever happen .
+	Free: Pattern=have, Pattern=gun, Pattern=. i, Pattern=in, Pattern=know, Pattern=i, Pattern=have to, Pattern=to go, Pattern=i think, Pattern=and, Pattern=too, Pattern=them, Pattern=that
+	Constrained: Pattern=have, Pattern=i, Pattern=to, Pattern=think
+Turn ID=10| B | M : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=11| A | A : because even if you said okay you know armed forces could have them some idiot would come out and sell it to somebody on the street to make a quick buck .
+	Free: Pattern=have, Pattern=even, Pattern=a, Pattern=to, Pattern=them, Pattern=you, Pattern=you know, Pattern=it, Pattern=and
+	Constrained: Pattern=know, Pattern=you
+Turn ID=12| B | M : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=13| A | A : that's very true very true . who knows we maybe want to overthrow the government
+	Free: Pattern=that's, Pattern=to
+	Constrained: 
+Turn ID=14| B | M : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=15| A | A : i know if somebody doesn't do something . uh what about uh what do you think of this this uh law that they're putting into effect that you have to wait x number of days before you can uh carry the gun or buy you know actually purchase the gun ?
+	Free: Pattern=. uh, Pattern=gun, Pattern=about, Pattern=think, Pattern=know, Pattern=i, Pattern=have to, Pattern=that, Pattern=you, Pattern=uh, Pattern=you know
+	Constrained: Pattern=have, Pattern=know, Pattern=to, Pattern=you, Pattern=uh
+Turn ID=16| B | M : well that's a good question . i i think it's it's been a while since i've even talked to a person about that . i think they've just uh
+	Free: Pattern=well, Pattern=uh, Pattern=just, Pattern=even, Pattern=a, Pattern=that's, Pattern=to, Pattern=i think, Pattern=about, Pattern=. i, Pattern=been a, Pattern=that . i, Pattern=i i, Pattern=it's
+	Constrained: Pattern=a, Pattern=. i, Pattern=think, Pattern=i, Pattern=that
+Turn ID=17| A | A : yes .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : and you had to have your gun in your name . you had to go to a gun show and ask them for a driver's license .
+	Free: Pattern=you, Pattern=have, Pattern=a, Pattern=and, Pattern=a gun, Pattern=your, Pattern=to go, Pattern=to, Pattern=gun, Pattern=for, Pattern=them, Pattern=in your
+	Constrained: Pattern=a, Pattern=gun, Pattern=in, Pattern=your, Pattern=to

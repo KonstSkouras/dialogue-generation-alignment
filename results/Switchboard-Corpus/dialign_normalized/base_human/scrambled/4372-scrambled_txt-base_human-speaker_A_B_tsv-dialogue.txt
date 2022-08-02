@@ -1,0 +1,83 @@
+A|0| A: what about _you_ ? 
+B|1| B: no _i don't think_ _it's_ _a_ monetary thing . 
+A|2| A: _for_ music ? 
+B|3| B: _it_ should be _i_ _think_ _a_ flat percentage and _uh_ _that_ percentage ought _to_ be an equitable amount . 
+A|4| A: that's where _the_ speed helps _out_ . 
+B|5| B: no . 
+A|6| A: [it] really is . 
+B|7| B: _right_ 
+A|8| A: uh-huh . 
+B|9| B: yellow peppers huh . 
+A|10| A: she put them in _like_ _two_ months ago _cause_ _they_ are winter plants . 
+B|11| B: because [they] were looking [for] this disposition . and nowadays [you] you'll get you'll get _a_ dog trainer _to_ recommend _a_ specific _you know_ breeder handler . [they] will recommend their shepherds as _a_ children's dog . 
+A|12| A: do [it] if somebody in my family or if [it] happened [it] me [you know] 
+B|13| B: and [the] _uh_ unfortunately [it] still contributes _to_ global warming [cause] [you] _have_ _to_ [you know] wipe [out] forests _to_ grow corn and things [like] _that_ . 
+A|14| A: oh . 
+B|15| B: even [the] farmers . 
+A|16| A: very badly . i've got [a] piano 
+B|17| B: yeah 
+A|18| A: [i] agree there too . [i] agree with [you] there too . [i] [i] [the] um [i] [i] [it's] [i] find [it] [you know] personally disgusting but [i don't think] [that] [i don't think] [that] [uh] we [have] [a] [right] [to] stop somebody from [that] [you know] 
+B|19| B: [two] cats . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : what about you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=1| B | B : no i don't think it's a monetary thing .
+	Free: Pattern=i don't think, Pattern=it's, Pattern=a
+	Constrained: Pattern=i, Pattern=think
+Turn ID=2| A | A : for music ?
+	Free: Pattern=for
+	Constrained: 
+Turn ID=3| B | B : it should be i think a flat percentage and uh that percentage ought to be an equitable amount .
+	Free: Pattern=uh, Pattern=a, Pattern=it, Pattern=think, Pattern=i, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=4| A | A : that's where the speed helps out .
+	Free: Pattern=the, Pattern=out
+	Constrained: 
+Turn ID=5| B | B : no .
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : it really is .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=7| B | B : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=8| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : yellow peppers huh .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : she put them in like two months ago cause they are winter plants .
+	Free: Pattern=like, Pattern=two, Pattern=cause, Pattern=they
+	Constrained: 
+Turn ID=11| B | B : because they were looking for this disposition . and nowadays you you'll get you'll get a dog trainer to recommend a specific you know breeder handler . they will recommend their shepherds as a children's dog .
+	Free: Pattern=they, Pattern=a, Pattern=for, Pattern=to, Pattern=you, Pattern=you know
+	Constrained: Pattern=you
+Turn ID=12| A | A : do it if somebody in my family or if it happened it me you know
+	Free: Pattern=you know, Pattern=it
+	Constrained: Pattern=you
+Turn ID=13| B | B : and the uh unfortunately it still contributes to global warming cause you have to you know wipe out forests to grow corn and things like that .
+	Free: Pattern=have, Pattern=cause, Pattern=it, Pattern=like, Pattern=the, Pattern=to, Pattern=that, Pattern=you, Pattern=uh, Pattern=out, Pattern=you know
+	Constrained: Pattern=you
+Turn ID=14| A | A : oh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : even the farmers .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=16| A | A : very badly . i've got a piano
+	Free: Pattern=a
+	Constrained: 
+Turn ID=17| B | B : yeah
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : i agree there too . i agree with you there too . i i the um i i it's i find it you know personally disgusting but i don't think that i don't think that uh we have a right to stop somebody from that you know
+	Free: Pattern=right, Pattern=have, Pattern=i don't think, Pattern=a, Pattern=it, Pattern=i, Pattern=the, Pattern=to, Pattern=you, Pattern=uh, Pattern=you know, Pattern=that, Pattern=it's
+	Constrained: Pattern=i, Pattern=think, Pattern=you
+Turn ID=19| B | B : two cats .
+	Free: Pattern=two
+	Constrained: 

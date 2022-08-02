@@ -1,0 +1,195 @@
+A|0| A: _right_ as _a_ matter _of_ fact _i was_ thinking _that_ same _thing_ unconditional love . _they_ _just_ give _it_ _and_ _don't_ expect too _much_ . 
+B|1| M: uh-huh . 
+A|2| A: anyway _do_ _you_ _have_ _a_ _pet_ ? 
+B|3| M: yes [i] [do] . 
+A|4| A: oh ! _like_ _a_ 
+B|5| M: _uh_ _it was_ [a] _cat_ [and] _it was_ _it it_ hit _the_ car [right] in _the_ middle [of] _me_ _and i_ [just] couldn't believe [it] . 
+A|6| A: oh i'm _so_ sorry . but _that's_ good _that_ you're _going to_ get another _one_ . 
+B|7| M: _well_ _it was_ [it] _really_ [was] . 
+A|8| A: [i] _know_ some [of] my friends who _have_ pets [uh] [and] _they_ [just] are [really] _you_ _know_ [the] ones _that_ _have_ dogs are very [uh] protective [of] _them_ [and _i] think_ _that's_ _one_ reason _they_ _have_ _them_ especially older people _that i_ _know_ _that_ _have_ pets . but _they_ [just] um [really] _take_ care [of] _them_ or [uh] are protective [of] _them_ . 
+B|9| M: uh-huh . 
+A|10| A: _yeah_ an [and] my my kids 
+B|11| M: [so] [that's] _kind_ 
+A|12| A: um _they_ [really] want [a] dog badly [and] they've been _looking_ [and] _looking_ [and] want _you_ _know_ they'd _take_ anything _i think_ 
+B|13| M: uh-huh . 
+A|14| A: but um _i don't know_ [do] _you_ _like_ [i] guess your [cat] [was] an indoor [cat] . 
+B|15| M: [uh] [yeah] 
+A|16| A: [it] _kind of_ traveled around travel . 
+B|17| M: uh-huh . 
+A|18| A: [yeah] _when i_ had [a] cocker spaniel [it [it] was] an outdoor dog [and] [uh] _i think_ [i] liked _that_ better . 
+B|19| M: uh-huh . 
+A|20| A: _yeah that's_ true . 
+B|21| M: [i] mean [i] mean _they're_ [they] [they] [take] up [so] [much] space in [the] house [and i] 
+A|22| A: _yeah that's_ true . [take] _them_ _for_ walks [right] . [yeah] [i] see all [the] people on on sunday _going_ _for_ [a] walk _with_ their dogs [and] [and i] i'm _kind of_ skeptical _with_ my son getting [a] dog i'm _like_ [i] _know_ [it] will _be_ fun [the] first week maybe 
+B|23| M: _yeah ._ 
+A|24| A: [and] then mom gets _to_ [take] care _of it_ or _something_ . _so i_ 
+B|25| M: [yeah that's] _that that_ would [be] nice . 
+A|26| A: oh [that's] exciting . [yeah .] 
+B|27| M: [so [i] was] [kind of] [looking] [for] [something] [a] little _more_ [uh] challenging 
+A|28| A: [yeah] _i think it's_ [really] important _to_ [that that] if _you_ get [a] _pet_ [that] [they're] either spayed or neutered [so] [that] _you_ _know_ we're not [just] _going_ on _with_ this _pet_ population [and] having _to_ [just] get rid [of] _them_ . 
+B|29| M: _well_ [that] [uh] [that's] [a] big part [of it] . 
+A|30| A: [that that] [kind of] gripes on [me] some but but _i don't know_ . 
+B|31| M: [i think] [uh] . 
+A|32| A: [more] [and] [more] people are [right] [right] . 
+B|33| M: _and that's_ [a] [that's] [the] way [it's] [going to] [be] . 
+A|34| A: but [uh] 
+B|35| M: [i think it's] [a] wonderful [thing] _though_ . 
+A|36| A: [i think] [that's] [really] true . 
+B|37| M: [i] [i think] [that] [was] [one] [of] [the] things [that i] [i was] [really] interested in [when [i] was] younger [was] in [pet] raising . 
+A|38| A: [yeah .] 
+B|39| M: [you] [don't] _have to_ worry about [them] being thrown in [the] dumpster [you] [just] _have to_ deal [with] [it] . 
+A|40| A: [yeah] exactly . 
+B|41| M: [so [i] don't know] [it's] [it] seems [like] there's _a lot_ [of] things [that] need [to] [be] done about [uh] recycling . 
+A|42| A: exactly . [i think] our community is [a lot] [more] conscious now [though] too [and] [and that's] good too . 
+B|43| M: uh-huh . 
+A|44| A: [well] [i think] [that's] all [i] [have to] say . 
+B|45| M: _okay_ [well] thank [you] . 
+A|46| A: [okay] [have] [a] good night . all [right] bye-bye . 
+B|47| M:  !!! % !! remind [me] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : right as a matter of fact i was thinking that same thing unconditional love . they just give it and don't expect too much .
+	Free: Pattern=i was, Pattern=just, Pattern=they, Pattern=a, Pattern=much, Pattern=thing, Pattern=don't, Pattern=that, Pattern=right, Pattern=of, Pattern=it, Pattern=and
+	Constrained: Pattern=i, Pattern=was
+Turn ID=1| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : anyway do you have a pet ?
+	Free: Pattern=you, Pattern=have, Pattern=pet, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=3| B | M : yes i do .
+	Free: Pattern=i, Pattern=do
+	Constrained: 
+Turn ID=4| A | A : oh ! like a
+	Free: Pattern=a, Pattern=like
+	Constrained: 
+Turn ID=5| B | M : uh it was a cat and it was it it hit the car right in the middle of me and i just couldn't believe it .
+	Free: Pattern=it was, Pattern=and i, Pattern=uh, Pattern=just, Pattern=me, Pattern=the, Pattern=right, Pattern=of, Pattern=cat, Pattern=it it, Pattern=a, Pattern=it, Pattern=and
+	Constrained: Pattern=i, Pattern=it, Pattern=was, Pattern=and
+Turn ID=6| A | A : oh i'm so sorry . but that's good that you're going to get another one .
+	Free: Pattern=going to, Pattern=one, Pattern=that's, Pattern=that, Pattern=so
+	Constrained: Pattern=going, Pattern=to
+Turn ID=7| B | M : well it was it really was .
+	Free: Pattern=it was, Pattern=well, Pattern=it, Pattern=really, Pattern=was
+	Constrained: Pattern=it, Pattern=was
+Turn ID=8| A | A : i know some of my friends who have pets uh and they just are really you know the ones that have dogs are very uh protective of them and i think that's one reason they have them especially older people that i know that have pets . but they just um really take care of them or uh are protective of them .
+	Free: Pattern=and i, Pattern=of, Pattern=they, Pattern=and, Pattern=one, Pattern=know, Pattern=i, Pattern=really, Pattern=that i, Pattern=i think, Pattern=you, Pattern=uh, Pattern=just, Pattern=have, Pattern=that's, Pattern=take, Pattern=the, Pattern=them, Pattern=that
+	Constrained: Pattern=i, Pattern=that, Pattern=and
+Turn ID=9| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : yeah an and my my kids
+	Free: Pattern=yeah, Pattern=and
+	Constrained: 
+Turn ID=11| B | M : so that's kind
+	Free: Pattern=that's, Pattern=so, Pattern=kind
+	Constrained: 
+Turn ID=12| A | A : um they really want a dog badly and they've been looking and looking and want you know they'd take anything i think
+	Free: Pattern=you, Pattern=they, Pattern=a, Pattern=looking, Pattern=and, Pattern=know, Pattern=really, Pattern=take, Pattern=i think
+	Constrained: Pattern=i
+Turn ID=13| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : but um i don't know do you like i guess your cat was an indoor cat .
+	Free: Pattern=you, Pattern=i, Pattern=like, Pattern=i don't know, Pattern=was, Pattern=do, Pattern=cat
+	Constrained: Pattern=i, Pattern=know, Pattern=don't
+Turn ID=15| B | M : uh yeah
+	Free: Pattern=uh, Pattern=yeah
+	Constrained: 
+Turn ID=16| A | A : it kind of traveled around travel .
+	Free: Pattern=kind of, Pattern=it
+	Constrained: Pattern=of, Pattern=kind
+Turn ID=17| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : yeah when i had a cocker spaniel it it was an outdoor dog and uh i think i liked that better .
+	Free: Pattern=it was, Pattern=uh, Pattern=when i, Pattern=i, Pattern=that, Pattern=i think, Pattern=it it, Pattern=a, Pattern=yeah, Pattern=and
+	Constrained: Pattern=i, Pattern=it, Pattern=was
+Turn ID=19| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : yeah that's true .
+	Free: Pattern=yeah that's
+	Constrained: Pattern=that's, Pattern=yeah
+Turn ID=21| B | M : i mean i mean they're they they take up so much space in the house and i
+	Free: Pattern=and i, Pattern=they, Pattern=they're, Pattern=i, Pattern=much, Pattern=so, Pattern=take, Pattern=the
+	Constrained: Pattern=i, Pattern=and
+Turn ID=22| A | A : yeah that's true . take them for walks right . yeah i see all the people on on sunday going for a walk with their dogs and and i i'm kind of skeptical with my son getting a dog i'm like i know it will be fun the first week maybe
+	Free: Pattern=and i, Pattern=right, Pattern=kind of, Pattern=going, Pattern=a, Pattern=for, Pattern=know, Pattern=i, Pattern=like, Pattern=be, Pattern=yeah that's, Pattern=and, Pattern=it, Pattern=yeah, Pattern=take, Pattern=the, Pattern=with, Pattern=them
+	Constrained: Pattern=kind, Pattern=of, Pattern=i, Pattern=that's, Pattern=yeah, Pattern=and
+Turn ID=23| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=24| A | A : and then mom gets to take care of it or something . so i
+	Free: Pattern=and, Pattern=so i, Pattern=to, Pattern=something, Pattern=take, Pattern=of it
+	Constrained: Pattern=i, Pattern=it, Pattern=so, Pattern=of
+Turn ID=25| B | M : yeah that's that that would be nice .
+	Free: Pattern=yeah that's, Pattern=that that, Pattern=be
+	Constrained: Pattern=that's, Pattern=yeah, Pattern=that
+Turn ID=26| A | A : oh that's exciting . yeah .
+	Free: Pattern=yeah ., Pattern=that's
+	Constrained: Pattern=yeah
+Turn ID=27| B | M : so i was kind of looking for something a little more uh challenging
+	Free: Pattern=i was, Pattern=more, Pattern=kind of, Pattern=uh, Pattern=a, Pattern=so i, Pattern=something, Pattern=for, Pattern=looking
+	Constrained: Pattern=kind, Pattern=of, Pattern=i, Pattern=was, Pattern=so
+Turn ID=28| A | A : yeah i think it's really important to that that if you get a pet that they're either spayed or neutered so that you know we're not just going on with this pet population and having to just get rid of them .
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=that that, Pattern=they're, Pattern=know, Pattern=really, Pattern=pet, Pattern=i think it's, Pattern=to, Pattern=so, Pattern=going, Pattern=just, Pattern=yeah, Pattern=and, Pattern=with, Pattern=them, Pattern=that
+	Constrained: Pattern=it's, Pattern=i think, Pattern=i, Pattern=that
+Turn ID=29| B | M : well that uh that's a big part of it .
+	Free: Pattern=well, Pattern=uh, Pattern=a, Pattern=that, Pattern=that's, Pattern=of it
+	Constrained: Pattern=it, Pattern=of
+Turn ID=30| A | A : that that kind of gripes on me some but but i don't know .
+	Free: Pattern=i don't know, Pattern=that that, Pattern=kind of, Pattern=me
+	Constrained: Pattern=kind, Pattern=of, Pattern=know, Pattern=i, Pattern=don't, Pattern=that
+Turn ID=31| B | M : i think uh .
+	Free: Pattern=i think, Pattern=uh
+	Constrained: Pattern=i
+Turn ID=32| A | A : more and more people are right right .
+	Free: Pattern=right, Pattern=and, Pattern=more
+	Constrained: 
+Turn ID=33| B | M : and that's a that's the way it's going to be .
+	Free: Pattern=going to, Pattern=a, Pattern=and that's, Pattern=be, Pattern=it's, Pattern=that's, Pattern=the
+	Constrained: Pattern=that's, Pattern=going, Pattern=to, Pattern=and
+Turn ID=34| A | A : but uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=35| B | M : i think it's a wonderful thing though .
+	Free: Pattern=i think it's, Pattern=though, Pattern=thing, Pattern=a
+	Constrained: Pattern=it's, Pattern=i, Pattern=i think
+Turn ID=36| A | A : i think that's really true .
+	Free: Pattern=i think, Pattern=that's, Pattern=really
+	Constrained: Pattern=i
+Turn ID=37| B | M : i i think that was one of the things that i i was really interested in when i was younger was in pet raising .
+	Free: Pattern=i was, Pattern=of, Pattern=one, Pattern=when i, Pattern=i, Pattern=really, Pattern=pet, Pattern=the, Pattern=that i, Pattern=was, Pattern=that, Pattern=i think
+	Constrained: Pattern=i, Pattern=was, Pattern=that
+Turn ID=38| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=39| B | M : you don't have to worry about them being thrown in the dumpster you just have to deal with it .
+	Free: Pattern=you, Pattern=just, Pattern=it, Pattern=the, Pattern=have to, Pattern=don't, Pattern=with, Pattern=them
+	Constrained: Pattern=have, Pattern=to
+Turn ID=40| A | A : yeah exactly .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=41| B | M : so i don't know it's it seems like there's a lot of things that need to be done about uh recycling .
+	Free: Pattern=of, Pattern=uh, Pattern=it, Pattern=so i, Pattern=like, Pattern=be, Pattern=i don't know, Pattern=a lot, Pattern=to, Pattern=that, Pattern=it's
+	Constrained: Pattern=a, Pattern=know, Pattern=i, Pattern=don't, Pattern=so
+Turn ID=42| A | A : exactly . i think our community is a lot more conscious now though too and and that's good too .
+	Free: Pattern=more, Pattern=though, Pattern=and, Pattern=and that's, Pattern=a lot, Pattern=i think
+	Constrained: Pattern=that's, Pattern=a, Pattern=i, Pattern=and
+Turn ID=43| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : well i think that's all i have to say .
+	Free: Pattern=well, Pattern=i, Pattern=that's, Pattern=have to, Pattern=i think
+	Constrained: Pattern=i, Pattern=have, Pattern=to
+Turn ID=45| B | M : okay well thank you .
+	Free: Pattern=okay, Pattern=well, Pattern=you
+	Constrained: 
+Turn ID=46| A | A : okay have a good night . all right bye-bye .
+	Free: Pattern=okay, Pattern=right, Pattern=a, Pattern=have
+	Constrained: 
+Turn ID=47| B | M :  !!! % !! remind me .
+	Free: Pattern=me
+	Constrained: 

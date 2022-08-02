@@ -1,0 +1,235 @@
+A|0| B: uh-huh . 
+B|1| M:  ... 
+A|2| B: uh-huh . 
+B|3| M: _they_ _are_ _the_ best ! 
+A|4| B: uh-huh . 
+B|5| M: _i_ think _that is_ _the_ _night_ . 
+A|6| B: _yeah ._ 
+B|7| M: _i_ think _you mean_ ... _i don't_ know . 
+A|8| B: monday night's pretty good with murphy brown _and_ designing women . 
+B|9| M: _what_ _are_ your favorite mondays ? 
+A|10| B: uh-huh . 
+B|11| M: _he's not_ . 
+A|12| B: uh-huh . _we_ had watched _it_ _uh_ [i] guess sunday [night] _and_ monday [night] _but_ _we_ didn't get to _watch_ _it_ tonight . 
+B|13| M: uhh ... [yeah .] 
+A|14| B: uh-huh . uh-huh . 
+B|15| M: that's _not_ how _it's_ pronounced . 
+A|16| B: [the] only [night] _we_ tend to _watch_ some _of_ [that is] _on_ sunday nights starting fairly late _like_ _i'm_ talking ten o'clock _and_ maybe toward midnight . [they] have some british comedy [that] we've we've really liked 
+B|17| M: u [uh] 
+A|18| B: _and_ there's _a_ variety . some _of_ _them_ [is] [uh] black adder or good neighbors or _yes_ prime minister _and_ _are you_ being served ? [they] [they] rotate _those_ around _and_ _um_ _we_ _like_ [that] british comedy . british comedy [is] very fast [you] really have to listen 
+B|19| M: [we] 
+A|20| B: _but_ . 
+B|21| M: [yes] [it] [is] . 
+A|22| B: they're real good _but_ [they] do come _on_ kind _of_ late _but_ [we] really do enjoy _those ._ sometimes [we] get to _watching_ some stuff _on_ [the] discovery channel . 
+B|23| M: why [are you] [watching] [them] ? 
+A|24| B: _and_ _i'm_ amazed sometimes [what] [i] _see_ _on_ there . _but_ _i'm_ very intrigued . [i] one time [i] was [watching] an operation _and_ [i] thought gee [i don't] believe _i'm_ [watching] . 
+B|25| M: _it's_ [on] youtube . 
+A|26| B: [yeah .] 
+B|27| M: [i] . 
+A|28| B: [yeah] right right 
+B|29| M: [i] think i'll [see] ya . 
+A|30| B: uh-huh . uh-huh . 
+B|31| M: [uh] huh . 
+A|32| B: uh-huh . 
+B|33| M: [and] [they] just [watch] [uh] movies 
+A|34| B: uh-huh . uh-huh . 
+B|35| M: uhuhuh uhuhuh 
+A|36| B: uh-huh . 
+B|37| M: uhuhuh . uhuhuh uhuhuh 
+A|38| B: oh . 
+B|39| M: [uh] _um ._ 
+A|40| B: right . [yeah] _i'm not_ into [watching] sports . now my husband likes to [watch] football [he's not] really into [uh] baseball or basketball too much _but_ [uh] football soon as [it's] fall then he likes to [watch] college [on] saturday [and] then _of_ course cowboys [on] sunday . 
+B|41| M: [i don't] know uhh [what] ? 
+A|42| B: [yeah .] 
+B|43| M:  ... 
+A|44| B: [um .] 
+B|45| M: [it] . 
+A|46| B: uh-huh . 
+B|47| M: [i don't] [uh] know [what] [uh] 
+A|48| B: oh . 
+B|49| M: [i] am [a] father [you] know . 
+A|50| B: [um .] 
+B|51| M: [i] 
+A|52| B: [yeah] [the] [you mean] talking about [the] funny home videos [and] stuff 
+B|53| M: [i'm not] sure [what] [you mean] by [that] [but] [i don't] think i've ever seen any [of] [those .] 
+A|54| B: [yeah] [those] [are] pretty good [but] _true_ to life 
+B|55| M: [yeah] [true] 
+A|56| B: [i] [mean] some [of] [the] 
+B|57| M: [i] [i] [like] [the] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : they are the best !
+	Free: Pattern=are, Pattern=the, Pattern=they
+	Constrained: 
+Turn ID=4| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : i think that is the night .
+	Free: Pattern=that is, Pattern=i, Pattern=the, Pattern=night
+	Constrained: Pattern=that, Pattern=is
+Turn ID=6| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=7| B | M : i think you mean ... i don't know .
+	Free: Pattern=you mean, Pattern=i don't, Pattern=i
+	Constrained: Pattern=i, Pattern=you, Pattern=mean
+Turn ID=8| A | B : monday night's pretty good with murphy brown and designing women .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=9| B | M : what are your favorite mondays ?
+	Free: Pattern=what, Pattern=are
+	Constrained: 
+Turn ID=10| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : he's not .
+	Free: Pattern=he's not
+	Constrained: Pattern=not
+Turn ID=12| A | B : uh-huh . we had watched it uh i guess sunday night and monday night but we didn't get to watch it tonight .
+	Free: Pattern=uh, Pattern=night, Pattern=i, Pattern=we, Pattern=but, Pattern=watch, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=13| B | M : uhh ... yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=14| A | B : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : that's not how it's pronounced .
+	Free: Pattern=not, Pattern=it's
+	Constrained: 
+Turn ID=16| A | B : the only night we tend to watch some of that is on sunday nights starting fairly late like i'm talking ten o'clock and maybe toward midnight . they have some british comedy that we've we've really liked
+	Free: Pattern=of, Pattern=they, Pattern=and, Pattern=night, Pattern=i'm, Pattern=that is, Pattern=that, Pattern=watch, Pattern=we, Pattern=like, Pattern=on, Pattern=the
+	Constrained: Pattern=that, Pattern=is
+Turn ID=17| B | M : u uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=18| A | B : and there's a variety . some of them is uh black adder or good neighbors or yes prime minister and are you being served ? they they rotate those around and um we like that british comedy . british comedy is very fast you really have to listen
+	Free: Pattern=of, Pattern=they, Pattern=and, Pattern=those, Pattern=you, Pattern=uh, Pattern=yes, Pattern=um, Pattern=a, Pattern=are you, Pattern=is, Pattern=we, Pattern=like, Pattern=them, Pattern=that
+	Constrained: Pattern=are, Pattern=you
+Turn ID=19| B | M : we
+	Free: Pattern=we
+	Constrained: 
+Turn ID=20| A | B : but .
+	Free: Pattern=but
+	Constrained: 
+Turn ID=21| B | M : yes it is .
+	Free: Pattern=it, Pattern=is, Pattern=yes
+	Constrained: 
+Turn ID=22| A | B : they're real good but they do come on kind of late but we really do enjoy those . sometimes we get to watching some stuff on the discovery channel .
+	Free: Pattern=of, Pattern=watching, Pattern=they, Pattern=we, Pattern=those ., Pattern=but, Pattern=on, Pattern=the
+	Constrained: Pattern=those
+Turn ID=23| B | M : why are you watching them ?
+	Free: Pattern=are you, Pattern=watching, Pattern=them
+	Constrained: Pattern=are, Pattern=you
+Turn ID=24| A | B : and i'm amazed sometimes what i see on there . but i'm very intrigued . i one time i was watching an operation and i thought gee i don't believe i'm watching .
+	Free: Pattern=what, Pattern=and, Pattern=i'm, Pattern=i, Pattern=on, Pattern=see, Pattern=but, Pattern=watching, Pattern=i don't
+	Constrained: Pattern=i
+Turn ID=25| B | M : it's on youtube .
+	Free: Pattern=on, Pattern=it's
+	Constrained: 
+Turn ID=26| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=27| B | M : i .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=28| A | B : yeah right right
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=29| B | M : i think i'll see ya .
+	Free: Pattern=i, Pattern=see
+	Constrained: 
+Turn ID=30| A | B : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : uh huh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=32| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : and they just watch uh movies
+	Free: Pattern=watch, Pattern=uh, Pattern=they, Pattern=and
+	Constrained: 
+Turn ID=34| A | B : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : uhuhuh uhuhuh
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : uhuhuh . uhuhuh uhuhuh
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : oh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : uh um .
+	Free: Pattern=um ., Pattern=uh
+	Constrained: Pattern=um
+Turn ID=40| A | B : right . yeah i'm not into watching sports . now my husband likes to watch football he's not really into uh baseball or basketball too much but uh football soon as it's fall then he likes to watch college on saturday and then of course cowboys on sunday .
+	Free: Pattern=of, Pattern=uh, Pattern=watching, Pattern=he's not, Pattern=on, Pattern=watch, Pattern=yeah, Pattern=and, Pattern=i'm not, Pattern=it's, Pattern=but
+	Constrained: Pattern=i'm, Pattern=not
+Turn ID=41| B | M : i don't know uhh what ?
+	Free: Pattern=i don't, Pattern=what
+	Constrained: Pattern=i
+Turn ID=42| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=43| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : um .
+	Free: Pattern=um .
+	Constrained: Pattern=um
+Turn ID=45| B | M : it .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=46| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : i don't uh know what uh
+	Free: Pattern=i don't, Pattern=what, Pattern=uh
+	Constrained: Pattern=i
+Turn ID=48| A | B : oh .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : i am a father you know .
+	Free: Pattern=i, Pattern=you, Pattern=a
+	Constrained: 
+Turn ID=50| A | B : um .
+	Free: Pattern=um .
+	Constrained: Pattern=um
+Turn ID=51| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=52| A | B : yeah the you mean talking about the funny home videos and stuff
+	Free: Pattern=you mean, Pattern=yeah, Pattern=the, Pattern=and
+	Constrained: Pattern=you, Pattern=mean
+Turn ID=53| B | M : i'm not sure what you mean by that but i don't think i've ever seen any of those .
+	Free: Pattern=of, Pattern=i don't, Pattern=what, Pattern=i'm not, Pattern=you mean, Pattern=those ., Pattern=that, Pattern=but
+	Constrained: Pattern=you, Pattern=mean, Pattern=i'm, Pattern=i, Pattern=those, Pattern=not
+Turn ID=54| A | B : yeah those are pretty good but true to life
+	Free: Pattern=yeah, Pattern=are, Pattern=true, Pattern=those, Pattern=but
+	Constrained: 
+Turn ID=55| B | M : yeah true
+	Free: Pattern=yeah, Pattern=true
+	Constrained: 
+Turn ID=56| A | B : i mean some of the
+	Free: Pattern=i, Pattern=the, Pattern=of, Pattern=mean
+	Constrained: 
+Turn ID=57| B | M : i i like the
+	Free: Pattern=i, Pattern=the, Pattern=like
+	Constrained: 

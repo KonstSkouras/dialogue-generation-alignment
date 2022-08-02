@@ -1,0 +1,303 @@
+A|0| B: _is that_ _right_ ? 
+B|1| M: _we're_ always here you're _just_ _not ._ 
+A|2| B: _that's_ _right_ 
+B|3| M: _i'm not_ _really_ sure . _i_ eat fish . _i'm not_ sure _if_ _i_ eat _a_ ton _of_ fish . 
+A|4| B: _right ._ okay . 
+B|5| M: ahh [that's] _interesting_ . _my_ son _and _i_ do_ _the_ mow _the_ grass . 
+A|6| B: oh _no ._ 
+B|7| M: _i've_ been _to_ morocco . 
+A|8| B: _in_ terms [of] motivation [and] incentive _yeah_ . 
+B|9| M: why _not_ ? 
+A|10| B: [and] uh _it's_ about [a] five _year old_ _house_ _now ._ 
+B|11| M: _you_ _have_ [a] [house] [in] [a] nice neighborhood [and] _you_ live [in] [a] city . _i_ don't _think_ _it_ matters . 
+A|12| B: _they have_ um [the] bags behind them _but_ [i] [think] they're actually supposed [to] keep them _yeah_ keep them clean 
+B|13| M: [it's] [a] conference . 
+A|14| B: uh-huh . 
+B|15| M: 100 . 
+A|16| B: _no ._ 
+B|17| M: _well_ [they] don t like _it_ here [but] [they] don't like [to] eat . 
+A|18| B: _yes_ . 
+B|19| M: [i] like [to] go outside 
+A|20| B: uh-huh . uh-huh . 
+B|21| M: [i] don't [think] [it's] _bad_ . [it's] [a] plant _so_ [it's] [a] tree . 
+A|22| B: _yes_ _what_ [a] coincidence . 
+B|23| M: _i'm_ [the] . 
+A|24| B: okay . _yes_ [i do] 
+B|25| M: [is that] _a thing_ ? 
+A|26| B: [and] [if] [if] [they] _know_ some practice [is] wrong _you know_ [i'm not] talking about your isolated occurrences [i'm] talking more about [the] _you know_ [the] [thing] [that] [they] _know_ maybe they're willfully manufacturing something [that] [they] _know_ [is] hurting people out there [and] [they] continue [to] [do] [it] _even_ after [they] become aware [of] [that] . 
+B|27| M: _where_ [do] [you] live ? 
+A|28| B: uh-huh . 
+B|29| M: [that's] _neat ._ 
+A|30| B: [a] lot [of] our words _are_ [the] same 
+B|31| M: [it's] from [the] minnesota minnesota 
+A|32| B: [i] [think] [so] . 
+B|33| M: _we_ don't [have] any objections . 
+A|34| B: [and] [the] people i'd most likely want [to] sentence [to] death _are_ [the] people [that] [just] show [a] [really] low regard for human life . [that] _you know_ [you] never _know_ _when_ they're going [to] turn or hurt [the] next person _because_ [it] doesn't [really] matter [to] them whether someone else gets hurt or [not .] 
+B|35| M: why ? 
+A|36| B: _yeah_ [well] [my] [my] oldest [is] only nine . 
+B|37| M: north america 
+A|38| B: wow . 
+B|39| M: [yes] ... 
+A|40| B: [and i] [i] [really] [think] [that] [we're] [we're] falling by [the] wayside with [not] incarcerating these people . 
+B|41| M: hehehe did [it] again ! 
+A|42| B: [it] _was_ [so] funny [to] see [it] _was_ [a] [really] cute little kid too . 
+B|43| M: she [was] almost [a] [year old] [when] _we_ rescued her . 
+A|44| B: [so] [that's] [not] [so] [bad] _you know_ . 
+B|45| M: [yeah] [but] she didn't get [the] credit 
+A|46| B: [yeah] . 
+B|47| M: why [do] [you] ask ? 
+A|48| B: anyway [i] dealt with two or three kids today [that] _are_ going [to] end up [where] somebody has making [a] decision _what_ [to] [do] with them . 
+B|49| M: [i] 
+A|50| B: [yeah] . uh-huh . 
+B|51| M: [i] can't [even] speak english _right [now_ .] 
+A|52| B: [not] [a thing] goodness gracious . 
+B|53| M: [it's] [a] joke [because] [the] united states [is] _in the_ middle [of] [the] list . 
+A|54| B: [i've] had [a] skunk 
+B|55| M: [i] [know] who [you] [are] . 
+A|56| B: huh . 
+B|57| M: [i] [know] [right .] [i] like [to] fiddle around [in] [my] garage . 
+A|58| B: [so] [right now] [we're] [just] 
+B|59| M: she 
+A|60| B: [yeah] . 
+B|61| M: [i] 
+A|62| B: oh how [neat .] 
+B|63| M: [what] [do] [you] mean ? 
+A|64| B: there's _no_ question [i] [think] [that's] [really] [the] best . [if] [if] [a] woman [is] happy doing [that] 
+B|65| M: [i] don't [think] . 
+A|66| B: [yeah] 
+B|67| M: she says [but] she says [no .] 
+A|68| B: [so] at one point [i] had [a] snake skunk dog [and] cat running loose [in _the] house_ . 
+B|69| M: [that's] [it] . 
+A|70| B: [yeah] . 
+B|71| M: why [because] [you know] [they have] all [of] their stuff [of] their selves . 
+A|72| B: [and] uh [we] [i do] some [interesting] recycling things . 
+B|73| M: [i'm] [just] trying [to] make [the house] fit [in] . 
+A|74| B: [yeah] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : is that right ?
+	Free: Pattern=is that, Pattern=right
+	Constrained: Pattern=is, Pattern=that
+Turn ID=1| B | M : we're always here you're just not .
+	Free: Pattern=not ., Pattern=just, Pattern=we're
+	Constrained: Pattern=not
+Turn ID=2| A | B : that's right
+	Free: Pattern=right, Pattern=that's
+	Constrained: 
+Turn ID=3| B | M : i'm not really sure . i eat fish . i'm not sure if i eat a ton of fish .
+	Free: Pattern=of, Pattern=a, Pattern=i'm not, Pattern=if, Pattern=i, Pattern=really
+	Constrained: Pattern=not, Pattern=i'm
+Turn ID=4| A | B : right . okay .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=5| B | M : ahh that's interesting . my son and i do the mow the grass .
+	Free: Pattern=and i, Pattern=i do, Pattern=interesting, Pattern=my, Pattern=that's, Pattern=the
+	Constrained: Pattern=i, Pattern=do, Pattern=and
+Turn ID=6| A | B : oh no .
+	Free: Pattern=no .
+	Constrained: Pattern=no
+Turn ID=7| B | M : i've been to morocco .
+	Free: Pattern=i've, Pattern=to
+	Constrained: 
+Turn ID=8| A | B : in terms of motivation and incentive yeah .
+	Free: Pattern=in, Pattern=of, Pattern=yeah, Pattern=and
+	Constrained: 
+Turn ID=9| B | M : why not ?
+	Free: Pattern=not
+	Constrained: 
+Turn ID=10| A | B : and uh it's about a five year old house now .
+	Free: Pattern=house, Pattern=a, Pattern=now ., Pattern=and, Pattern=year old, Pattern=it's
+	Constrained: 
+Turn ID=11| B | M : you have a house in a nice neighborhood and you live in a city . i don't think it matters .
+	Free: Pattern=house, Pattern=you, Pattern=have, Pattern=a, Pattern=i, Pattern=it, Pattern=and, Pattern=think, Pattern=in
+	Constrained: 
+Turn ID=12| A | B : they have um the bags behind them but i think they're actually supposed to keep them yeah keep them clean
+	Free: Pattern=they have, Pattern=yeah, Pattern=think, Pattern=i, Pattern=the, Pattern=to, Pattern=but
+	Constrained: Pattern=they, Pattern=have
+Turn ID=13| B | M : it's a conference .
+	Free: Pattern=a, Pattern=it's
+	Constrained: 
+Turn ID=14| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : 100 .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : no .
+	Free: Pattern=no .
+	Constrained: Pattern=no
+Turn ID=17| B | M : well they don t like it here but they don't like to eat .
+	Free: Pattern=well, Pattern=they, Pattern=it, Pattern=to, Pattern=but
+	Constrained: 
+Turn ID=18| A | B : yes .
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=19| B | M : i like to go outside
+	Free: Pattern=i, Pattern=to
+	Constrained: 
+Turn ID=20| A | B : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : i don't think it's bad . it's a plant so it's a tree .
+	Free: Pattern=bad, Pattern=a, Pattern=think, Pattern=i, Pattern=it's, Pattern=so
+	Constrained: 
+Turn ID=22| A | B : yes what a coincidence .
+	Free: Pattern=what, Pattern=yes, Pattern=a
+	Constrained: 
+Turn ID=23| B | M : i'm the .
+	Free: Pattern=the, Pattern=i'm
+	Constrained: 
+Turn ID=24| A | B : okay . yes i do
+	Free: Pattern=i do, Pattern=yes
+	Constrained: Pattern=i, Pattern=do
+Turn ID=25| B | M : is that a thing ?
+	Free: Pattern=a thing, Pattern=is that
+	Constrained: Pattern=is, Pattern=a, Pattern=thing, Pattern=that
+Turn ID=26| A | B : and if if they know some practice is wrong you know i'm not talking about your isolated occurrences i'm talking more about the you know the thing that they know maybe they're willfully manufacturing something that they know is hurting people out there and they continue to do it even after they become aware of that .
+	Free: Pattern=of, Pattern=you know, Pattern=do, Pattern=if, Pattern=is, Pattern=to, Pattern=that, Pattern=even, Pattern=they, Pattern=it, Pattern=and, Pattern=i'm not, Pattern=know, Pattern=i'm, Pattern=thing, Pattern=the
+	Constrained: Pattern=not, Pattern=you, Pattern=know, Pattern=i'm
+Turn ID=27| B | M : where do you live ?
+	Free: Pattern=do, Pattern=you, Pattern=where
+	Constrained: 
+Turn ID=28| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : that's neat .
+	Free: Pattern=neat ., Pattern=that's
+	Constrained: 
+Turn ID=30| A | B : a lot of our words are the same
+	Free: Pattern=the, Pattern=a, Pattern=are, Pattern=of
+	Constrained: 
+Turn ID=31| B | M : it's from the minnesota minnesota
+	Free: Pattern=the, Pattern=it's
+	Constrained: 
+Turn ID=32| A | B : i think so .
+	Free: Pattern=i, Pattern=think, Pattern=so
+	Constrained: 
+Turn ID=33| B | M : we don't have any objections .
+	Free: Pattern=we, Pattern=have
+	Constrained: 
+Turn ID=34| A | B : and the people i'd most likely want to sentence to death are the people that just show a really low regard for human life . that you know you never know when they're going to turn or hurt the next person because it doesn't really matter to them whether someone else gets hurt or not .
+	Free: Pattern=just, Pattern=are, Pattern=know, Pattern=really, Pattern=not ., Pattern=the, Pattern=when, Pattern=to, Pattern=that, Pattern=you, Pattern=you know, Pattern=a, Pattern=because, Pattern=it, Pattern=and
+	Constrained: Pattern=not, Pattern=you, Pattern=know
+Turn ID=35| B | M : why ?
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : yeah well my my oldest is only nine .
+	Free: Pattern=is, Pattern=well, Pattern=yeah, Pattern=my
+	Constrained: 
+Turn ID=37| B | M : north america
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : wow .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : yes ...
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=40| A | B : and i i really think that we're we're falling by the wayside with not incarcerating these people .
+	Free: Pattern=and i, Pattern=think, Pattern=i, Pattern=really, Pattern=the, Pattern=we're, Pattern=that, Pattern=not
+	Constrained: Pattern=i, Pattern=and
+Turn ID=41| B | M : hehehe did it again !
+	Free: Pattern=it
+	Constrained: 
+Turn ID=42| A | B : it was so funny to see it was a really cute little kid too .
+	Free: Pattern=a, Pattern=it, Pattern=really, Pattern=to, Pattern=was, Pattern=so
+	Constrained: 
+Turn ID=43| B | M : she was almost a year old when we rescued her .
+	Free: Pattern=a, Pattern=we, Pattern=when, Pattern=was, Pattern=year old
+	Constrained: 
+Turn ID=44| A | B : so that's not so bad you know .
+	Free: Pattern=bad, Pattern=you know, Pattern=that's, Pattern=so, Pattern=not
+	Constrained: Pattern=you, Pattern=know
+Turn ID=45| B | M : yeah but she didn't get the credit
+	Free: Pattern=the, Pattern=but, Pattern=yeah
+	Constrained: 
+Turn ID=46| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=47| B | M : why do you ask ?
+	Free: Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=48| A | B : anyway i dealt with two or three kids today that are going to end up where somebody has making a decision what to do with them .
+	Free: Pattern=what, Pattern=are, Pattern=where, Pattern=i, Pattern=to, Pattern=that, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=49| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=50| A | B : yeah . uh-huh .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=51| B | M : i can't even speak english right now .
+	Free: Pattern=now ., Pattern=right now, Pattern=i, Pattern=even
+	Constrained: Pattern=right
+Turn ID=52| A | B : not a thing goodness gracious .
+	Free: Pattern=a thing, Pattern=not
+	Constrained: Pattern=a, Pattern=thing
+Turn ID=53| B | M : it's a joke because the united states is in the middle of the list .
+	Free: Pattern=of, Pattern=in the, Pattern=is, Pattern=the, Pattern=it's, Pattern=a, Pattern=because
+	Constrained: Pattern=the, Pattern=in
+Turn ID=54| A | B : i've had a skunk
+	Free: Pattern=i've, Pattern=a
+	Constrained: 
+Turn ID=55| B | M : i know who you are .
+	Free: Pattern=i, Pattern=you, Pattern=are, Pattern=know
+	Constrained: 
+Turn ID=56| A | B : huh .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : i know right . i like to fiddle around in my garage .
+	Free: Pattern=in, Pattern=i, Pattern=to, Pattern=my, Pattern=know, Pattern=right .
+	Constrained: Pattern=right
+Turn ID=58| A | B : so right now we're just
+	Free: Pattern=right now, Pattern=just, Pattern=so, Pattern=we're
+	Constrained: Pattern=right
+Turn ID=59| B | M : she
+	Free: 
+	Constrained: 
+Turn ID=60| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=61| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=62| A | B : oh how neat .
+	Free: Pattern=neat .
+	Constrained: 
+Turn ID=63| B | M : what do you mean ?
+	Free: Pattern=what, Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=64| A | B : there's no question i think that's really the best . if if a woman is happy doing that
+	Free: Pattern=no, Pattern=a, Pattern=if, Pattern=think, Pattern=really, Pattern=that, Pattern=is, Pattern=i, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=65| B | M : i don't think .
+	Free: Pattern=i, Pattern=think
+	Constrained: 
+Turn ID=66| A | B : yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=67| B | M : she says but she says no .
+	Free: Pattern=no ., Pattern=but
+	Constrained: Pattern=no
+Turn ID=68| A | B : so at one point i had a snake skunk dog and cat running loose in the house .
+	Free: Pattern=the house, Pattern=a, Pattern=and, Pattern=in the, Pattern=i, Pattern=so
+	Constrained: Pattern=the, Pattern=in, Pattern=house
+Turn ID=69| B | M : that's it .
+	Free: Pattern=it, Pattern=that's
+	Constrained: 
+Turn ID=70| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=71| B | M : why because you know they have all of their stuff of their selves .
+	Free: Pattern=they have, Pattern=you know, Pattern=of, Pattern=because
+	Constrained: Pattern=you, Pattern=know, Pattern=they, Pattern=have
+Turn ID=72| A | B : and uh we i do some interesting recycling things .
+	Free: Pattern=i do, Pattern=we, Pattern=interesting, Pattern=and
+	Constrained: Pattern=i, Pattern=do
+Turn ID=73| B | M : i'm just trying to make the house fit in .
+	Free: Pattern=the house, Pattern=just, Pattern=in, Pattern=i'm, Pattern=to
+	Constrained: Pattern=the, Pattern=house
+Turn ID=74| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 

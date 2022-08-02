@@ -1,0 +1,135 @@
+A|0| A: _uh-huh ._ 
+B|1| B: _well_ _it's_ good _to_ _get_ out _and_ smell _some_ fresh air _too ._ 
+A|2| A: _uh-huh ._ 
+B|3| B: _right ._ 
+A|4| A: _so_ _i don't_ _know_ if _i_ _wasn't_ drug tested based _on_ _that_ or because _the_ man who hired _me_ didn't request _the_ drug test because _i_ _know_ _that_ _my_ company _does_ drug testing _on_ occasion . 
+B|5| B: oh _yeah ._ 
+A|6| A: _uh-huh ._ 
+B|7| B: [uh-huh .] 
+A|8| A: [uh-huh .] [uh-huh .] 
+B|9| B: _right ._ peas 
+A|10| A: [well] _that's_ pretty . 
+B|11| B: oh [i] love home grown tomatos . 
+A|12| A: _that's_ [right .] [yeah .] 
+B|13| B: just let [me] see _what_ [i] got [i] got [the] peas _and_ i've got _some_ broccoli _uh_ onions _some_ _some_ radishes _and uh_ _uh_ beets . 
+A|14| A: [uh-huh .] 
+B|15| B: _you_ _live_ _in_ pennsylvania ? 
+A|16| A: _but_ [uh] no [i] didn't [get] _to the_ great barrier reef _. i_ drove _from_ sidney down [to] melbourne [and] over [to] adelaide . 
+B|17| B: gives _you_ sympathy for [the] vigilantes . 
+A|18| A: [yeah] [i] find _it_ surprising . because _a_ lot _of_ times _it_ here _you know_ i'll talk [to] [some] _people_ here [and] i'll mention someone's [some] talk host [and] i'll expect them [to] _have_ an opinion _on why_ _i don't_ _like_ him [and] _don't_ listen _they_ _don't_ even _know_ _you know_ [what] [the] guys name _is_ [uh] . bruce williams who _does_ financial work _all_ over [the] united states . most _people_ haven't heard _of_ bruce williams . [you] probably haven't either unless you're _a_ radio buff . 
+B|19| B: [yeah .] 
+A|20| A: [what] did [you] _do_ put _it_ _together_ ? 
+B|21| B: [and] [so] [that's] [that] whole thing [that] he'll say _when_ [like] [like] i've seen [my] uncle [and] his family [you know] [does] everything [together] _and you know_ his kids are [you know] _when_ his little girl was five years old [and] everything [they] [uh] [they] _would go_ [to the] beach [and] she _could_ _go_ [to] sleep at two _in_ [the] morning [you know] 
+A|22| A: yes [it's] really kind _of_ sad [and] [that] _we_ [would go] _all_ [the] way [to] iraq [and] [that] _we_ [would] be very concerned with [the] situation between jerusalem [and uh] israel [and] [the] middle east arab countries _and and_ [when] _we_ _have_ [when] _we_ _have_ _a_ lot _of_ problems [right] [in] our own _back_ door . 
+B|23| B: are there are there any theories [on why] _this is_ happening ? 
+A|24| A: [this is] not these aren't cats [you know] 
+B|25| B: [and] we've had [it] for [a] while [but] [all] [of] [a] sudden [it] just [wasn't] working [and] [it] looks [like] there's [a] part missing [from] [it] . [my] husband opened [it] up [and] whatever [and] [of] _course_ [we] [don't] [have] [the] receipt any more [so] [we] can't take [it] [back] 
+A|26| A: [yeah .] 
+B|27| B: [right .] 
+A|28| A: [well] [i] guess [i] [could] use [a] card [too _.] i_ [live] [uh] very near [uh] very close [to the] firewheel golf [course] . 
+B|29| B: [yeah [.] i] just [know] one person [that's] [in] [the] peace corps [and] [i] mean she's [a] teacher [and and] just wanted [to] [do] [it] . she'd been [a] teacher for [a] while . just decided she wanted [to] [do] [it] [so] [. i] mean i'm grateful for [people] [like] [that] [but] [i don't] see how [they] can just [yeah] 
+A|30| A: [right .] 
+B|31| B: [you] 
+A|32| A: [i] [know] [it] [and you know] [what] ... 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=1| B | B : well it's good to get out and smell some fresh air too .
+	Free: Pattern=well, Pattern=and, Pattern=too ., Pattern=some, Pattern=to, Pattern=get, Pattern=it's
+	Constrained: 
+Turn ID=2| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=3| B | B : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=4| A | A : so i don't know if i wasn't drug tested based on that or because the man who hired me didn't request the drug test because i know that my company does drug testing on occasion .
+	Free: Pattern=i don't, Pattern=me, Pattern=wasn't, Pattern=does, Pattern=know, Pattern=i, Pattern=my, Pattern=that, Pattern=so, Pattern=on, Pattern=the
+	Constrained: Pattern=don't, Pattern=i
+Turn ID=5| B | B : oh yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=6| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=7| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=8| A | A : uh-huh . uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=9| B | B : right . peas
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=10| A | A : well that's pretty .
+	Free: Pattern=well, Pattern=that's
+	Constrained: 
+Turn ID=11| B | B : oh i love home grown tomatos .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=12| A | A : that's right . yeah .
+	Free: Pattern=right ., Pattern=yeah ., Pattern=that's
+	Constrained: Pattern=right, Pattern=yeah
+Turn ID=13| B | B : just let me see what i got i got the peas and i've got some broccoli uh onions some some radishes and uh uh beets .
+	Free: Pattern=uh, Pattern=me, Pattern=what, Pattern=and, Pattern=some, Pattern=i, Pattern=the, Pattern=and uh
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=14| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=15| B | B : you live in pennsylvania ?
+	Free: Pattern=in, Pattern=live, Pattern=you
+	Constrained: 
+Turn ID=16| A | A : but uh no i didn't get to the great barrier reef . i drove from sidney down to melbourne and over to adelaide .
+	Free: Pattern=uh, Pattern=to the, Pattern=and, Pattern=from, Pattern=. i, Pattern=i, Pattern=to, Pattern=get, Pattern=but
+	Constrained: Pattern=the, Pattern=to, Pattern=i
+Turn ID=17| B | B : gives you sympathy for the vigilantes .
+	Free: Pattern=the, Pattern=you
+	Constrained: 
+Turn ID=18| A | A : yeah i find it surprising . because a lot of times it here you know i'll talk to some people here and i'll mention someone's some talk host and i'll expect them to have an opinion on why i don't like him and don't listen they don't even know you know what the guys name is uh . bruce williams who does financial work all over the united states . most people haven't heard of bruce williams . you probably haven't either unless you're a radio buff .
+	Free: Pattern=of, Pattern=a, Pattern=on why, Pattern=know, Pattern=like, Pattern=don't, Pattern=to, Pattern=you, Pattern=uh, Pattern=you know, Pattern=people, Pattern=i don't, Pattern=have, Pattern=what, Pattern=they, Pattern=and, Pattern=it, Pattern=yeah, Pattern=does, Pattern=some, Pattern=is, Pattern=i, Pattern=the, Pattern=all
+	Constrained: Pattern=you, Pattern=know, Pattern=i, Pattern=on, Pattern=don't
+Turn ID=19| B | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=20| A | A : what did you do put it together ?
+	Free: Pattern=you, Pattern=what, Pattern=do, Pattern=it, Pattern=together
+	Constrained: 
+Turn ID=21| B | B : and so that's that whole thing that he'll say when like like i've seen my uncle and his family you know does everything together and you know his kids are you know when his little girl was five years old and everything they uh they would go to the beach and she could go to sleep at two in the morning you know
+	Free: Pattern=go, Pattern=they, Pattern=to the, Pattern=and, Pattern=does, Pattern=in, Pattern=like, Pattern=to, Pattern=could, Pattern=my, Pattern=that, Pattern=so, Pattern=would go, Pattern=and you know, Pattern=uh, Pattern=you know, Pattern=that's, Pattern=the, Pattern=when, Pattern=together
+	Constrained: Pattern=go, Pattern=and, Pattern=know, Pattern=the, Pattern=would, Pattern=to, Pattern=you, Pattern=you know
+Turn ID=22| A | A : yes it's really kind of sad and that we would go all the way to iraq and that we would be very concerned with the situation between jerusalem and uh israel and the middle east arab countries and and when we have when we have a lot of problems right in our own back door .
+	Free: Pattern=would go, Pattern=a, Pattern=and, Pattern=in, Pattern=back, Pattern=we, Pattern=would, Pattern=when, Pattern=right, Pattern=of, Pattern=have, Pattern=and and, Pattern=the, Pattern=all, Pattern=and uh, Pattern=to, Pattern=that, Pattern=it's
+	Constrained: Pattern=go, Pattern=uh, Pattern=would, Pattern=and
+Turn ID=23| B | B : are there are there any theories on why this is happening ?
+	Free: Pattern=this is, Pattern=on why
+	Constrained: Pattern=is, Pattern=on
+Turn ID=24| A | A : this is not these aren't cats you know
+	Free: Pattern=you know, Pattern=this is
+	Constrained: Pattern=is, Pattern=you, Pattern=know
+Turn ID=25| B | B : and we've had it for a while but all of a sudden it just wasn't working and it looks like there's a part missing from it . my husband opened it up and whatever and of course we don't have the receipt any more so we can't take it back
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=wasn't, Pattern=from, Pattern=don't, Pattern=my, Pattern=but, Pattern=so, Pattern=it, Pattern=and, Pattern=course, Pattern=back, Pattern=we, Pattern=like, Pattern=the, Pattern=all
+	Constrained: 
+Turn ID=26| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=27| B | B : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=28| A | A : well i guess i could use a card too . i live uh very near uh very close to the firewheel golf course .
+	Free: Pattern=well, Pattern=uh, Pattern=a, Pattern=to the, Pattern=. i, Pattern=could, Pattern=live, Pattern=too ., Pattern=course, Pattern=i
+	Constrained: Pattern=the, Pattern=to, Pattern=i
+Turn ID=29| B | B : yeah . i just know one person that's in the peace corps and i mean she's a teacher and and just wanted to do it . she'd been a teacher for a while . just decided she wanted to do it so . i mean i'm grateful for people like that but i don't see how they can just yeah
+	Free: Pattern=they, Pattern=yeah ., Pattern=. i, Pattern=in, Pattern=know, Pattern=i, Pattern=like, Pattern=to, Pattern=so, Pattern=people, Pattern=i don't, Pattern=and and, Pattern=do, Pattern=a, Pattern=and, Pattern=it, Pattern=yeah, Pattern=that's, Pattern=the, Pattern=that, Pattern=but
+	Constrained: Pattern=and, Pattern=don't, Pattern=yeah, Pattern=i
+Turn ID=30| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=31| B | B : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=32| A | A : i know it and you know what ...
+	Free: Pattern=and you know, Pattern=what, Pattern=it, Pattern=know, Pattern=i
+	Constrained: Pattern=you know, Pattern=you, Pattern=know, Pattern=and

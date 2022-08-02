@@ -1,0 +1,187 @@
+A|0| A: _well_ good _to_ hear . _i_ was just talking _to_ someone _the_ other day _from_ pennsylvania . 
+B|1| M:  
+A|2| A: _my_ _uh_ girlfriends _do_ catering and _they_ _always_ _about_ every party _they_ _do_ _is_ _they have a_ vegetable tray . _i think_ _they_ try and suggest _it ._ 
+B|3| M: yes _it's_ 
+A|4| A: but we talked _a_ lot _about_ _the_ _the_ rituals 
+B|5| M: [they have a] law [to] prevent [it] [from] _happening_ . 
+A|6| A: _i_ _know i_ _really_ will _do_ _that_ _the_ next time _i_ buy [it] _too_ . 
+B|7| M: yes [they] _are_ . 
+A|8| A: uh-huh . 
+B|9| M: you're not [the] _one_ _who_ needs [to] study . 
+A|10| A: _well_ _that's_ [the] good _thing_ _about_ _what_ _is_ [happening] because _i think_ more and more [the] news media which takes [a] heck of [a] beating and and deserves some of [it] _is_ telling us _you know_ _about_ [the] problems . _so_ [the] more we communicate hey look we want [a] change here because _you know_ as [it] turns out we've wasted [a] tremendous amount of money on our defense spending in this country . 
+B|11| M:  ... [i] guess . 
+A|12| A: and _then_ 
+B|13| M: i'm not [too] _sure ._ 
+A|14| A: uh-huh and _that_ costs money _yeah ._ 
+B|15| M: [so] [what] [do] [you] [think] [is] [the] ideal outcome ? 
+A|16| A: uh-huh . 
+B|17| M: [you] could [always] cheer _for_ [the] cowboys 
+A|18| A: [sure _.] yeah ._ 
+B|19| M: [that's] [a] pretty cool _family_ tree 
+A|20| A: [it] [is] [it's] aerobics but [it's] with dance steps . 
+B|21| M: _oh_ [is] [that] [what] [you] [think] ? 
+A|22| A: uh-huh . right . 
+B|23| M: [it's] . [about] . [a] . [about] . ''s . 
+A|24| A: [oh] _yeah ._ [i] had [a] _uh_ last year [i] had [i] had another german shepherd now this [one] was purebred and _uh_ he when he was [about] seven months old got [a] gastrointestinal virus and was just [about] on death's door but _uh_ managed [to] get him [to] [a] veterinarian in time 
+B|25| M: [i] . 
+A|26| A: _well_ no [that's] _my_ other phone . 
+B|27| M: [i] _don't_ [know [i] think] [it's] pretty cool . 
+A|28| A: no in fact some of [the] days we froze . [it] was 
+B|29| M: you're [a] great great wonderful person . 
+A|30| A: horses ? 
+B|31| M: how [then] . 
+A|32| A: _yeah _. yeah_ ._ [that's] kind of [a] let down . 
+B|33| M: yes [. [yeah .] yeah] 
+A|34| A: right . 
+B|35| M:  
+A|36| A: [it] was [it] was an interesting theory . she talked [about] [the] _uh_ [the] catholics all [it's] [a] home centered _you know_ [it's] all [family] centered anyway [so] [you] usually [are] living where your parents live and [it's] all your [you] [don't] [have] [to] come home [so] [the] catholics would make [a] pilgrimage in older europe but when [the] protestant ethic happened in america _there_ were people [who] ever went out and _you know_ went away [from] [the] [family] [to] seek their fortune and [then] had [to] come back home [for] their reunion [so] [that] became their version of [the] pilgrimage . 
+B|37| M: [it's] [really] um nice [to] see [you] again . 
+A|38| A: instead of being carried 
+B|39| M: [it .] 
+A|40| A: _well_ thank [you] very much . bye-bye . 
+B|41| M: uhh [uh] [uh] 
+A|42| A: we just got our last tomatoes . 
+B|43| M: [oh] [uh] [well] [you know] [that's] not [a] bad [thing] . 
+A|44| A: [yeah .] 
+B|45| M: i'll be [there] [for] [my] kids [to] see them 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : well good to hear . i was just talking to someone the other day from pennsylvania .
+	Free: Pattern=well, Pattern=from, Pattern=i, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : my uh girlfriends do catering and they always about every party they do is they have a vegetable tray . i think they try and suggest it .
+	Free: Pattern=always, Pattern=they, Pattern=do, Pattern=about, Pattern=they have a, Pattern=is, Pattern=my, Pattern=i think, Pattern=uh, Pattern=it .
+	Constrained: Pattern=have, Pattern=they, Pattern=a, Pattern=it, Pattern=think, Pattern=i
+Turn ID=3| B | M : yes it's
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=4| A | A : but we talked a lot about the the rituals
+	Free: Pattern=the, Pattern=about, Pattern=a
+	Constrained: 
+Turn ID=5| B | M : they have a law to prevent it from happening .
+	Free: Pattern=it, Pattern=from, Pattern=they have a, Pattern=to, Pattern=happening
+	Constrained: Pattern=a, Pattern=they, Pattern=have
+Turn ID=6| A | A : i know i really will do that the next time i buy it too .
+	Free: Pattern=do, Pattern=i, Pattern=really, Pattern=the, Pattern=that, Pattern=it, Pattern=too, Pattern=know i
+	Constrained: Pattern=i
+Turn ID=7| B | M : yes they are .
+	Free: Pattern=are, Pattern=they
+	Constrained: 
+Turn ID=8| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : you're not the one who needs to study .
+	Free: Pattern=to, Pattern=the, Pattern=one, Pattern=who
+	Constrained: 
+Turn ID=10| A | A : well that's the good thing about what is happening because i think more and more the news media which takes a heck of a beating and and deserves some of it is telling us you know about the problems . so the more we communicate hey look we want a change here because you know as it turns out we've wasted a tremendous amount of money on our defense spending in this country .
+	Free: Pattern=well, Pattern=you know, Pattern=what, Pattern=a, Pattern=it, Pattern=about, Pattern=is, Pattern=happening, Pattern=thing, Pattern=that's, Pattern=the, Pattern=so, Pattern=i think
+	Constrained: Pattern=think, Pattern=you, Pattern=i
+Turn ID=11| B | M :  ... i guess .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=12| A | A : and then
+	Free: Pattern=then
+	Constrained: 
+Turn ID=13| B | M : i'm not too sure .
+	Free: Pattern=sure ., Pattern=too
+	Constrained: 
+Turn ID=14| A | A : uh-huh and that costs money yeah .
+	Free: Pattern=yeah ., Pattern=that
+	Constrained: 
+Turn ID=15| B | M : so what do you think is the ideal outcome ?
+	Free: Pattern=you, Pattern=what, Pattern=do, Pattern=think, Pattern=is, Pattern=the, Pattern=so
+	Constrained: 
+Turn ID=16| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : you could always cheer for the cowboys
+	Free: Pattern=for, Pattern=the, Pattern=you, Pattern=always
+	Constrained: 
+Turn ID=18| A | A : sure . yeah .
+	Free: Pattern=. yeah ., Pattern=sure .
+	Constrained: Pattern=yeah .
+Turn ID=19| B | M : that's a pretty cool family tree
+	Free: Pattern=family, Pattern=that's, Pattern=a
+	Constrained: 
+Turn ID=20| A | A : it is it's aerobics but it's with dance steps .
+	Free: Pattern=it, Pattern=is, Pattern=it's
+	Constrained: 
+Turn ID=21| B | M : oh is that what you think ?
+	Free: Pattern=you, Pattern=what, Pattern=oh, Pattern=think, Pattern=is, Pattern=that
+	Constrained: 
+Turn ID=22| A | A : uh-huh . right .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : it's . about . a . about . ''s .
+	Free: Pattern=about, Pattern=a, Pattern=it's
+	Constrained: 
+Turn ID=24| A | A : oh yeah . i had a uh last year i had i had another german shepherd now this one was purebred and uh he when he was about seven months old got a gastrointestinal virus and was just about on death's door but uh managed to get him to a veterinarian in time
+	Free: Pattern=uh, Pattern=a, Pattern=yeah ., Pattern=oh, Pattern=one, Pattern=about, Pattern=i, Pattern=to
+	Constrained: 
+Turn ID=25| B | M : i .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=26| A | A : well no that's my other phone .
+	Free: Pattern=well, Pattern=that's, Pattern=my
+	Constrained: 
+Turn ID=27| B | M : i don't know i think it's pretty cool .
+	Free: Pattern=know i, Pattern=i, Pattern=don't, Pattern=it's, Pattern=i think
+	Constrained: Pattern=think, Pattern=i
+Turn ID=28| A | A : no in fact some of the days we froze . it was
+	Free: Pattern=it, Pattern=the
+	Constrained: 
+Turn ID=29| B | M : you're a great great wonderful person .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=30| A | A : horses ?
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : how then .
+	Free: Pattern=then
+	Constrained: 
+Turn ID=32| A | A : yeah . yeah . that's kind of a let down .
+	Free: Pattern=yeah . yeah, Pattern=. yeah ., Pattern=that's, Pattern=a
+	Constrained: Pattern=yeah .
+Turn ID=33| B | M : yes . yeah . yeah
+	Free: Pattern=yeah . yeah, Pattern=. yeah .
+	Constrained: Pattern=yeah .
+Turn ID=34| A | A : right .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : it was it was an interesting theory . she talked about the uh the catholics all it's a home centered you know it's all family centered anyway so you usually are living where your parents live and it's all your you don't have to come home so the catholics would make a pilgrimage in older europe but when the protestant ethic happened in america there were people who ever went out and you know went away from the family to seek their fortune and then had to come back home for their reunion so that became their version of the pilgrimage .
+	Free: Pattern=have, Pattern=there, Pattern=for, Pattern=it, Pattern=are, Pattern=from, Pattern=the, Pattern=don't, Pattern=to, Pattern=so, Pattern=you, Pattern=uh, Pattern=you know, Pattern=then, Pattern=who, Pattern=a, Pattern=about, Pattern=family, Pattern=that, Pattern=it's
+	Constrained: Pattern=you
+Turn ID=37| B | M : it's really um nice to see you again .
+	Free: Pattern=to, Pattern=you, Pattern=it's, Pattern=really
+	Constrained: 
+Turn ID=38| A | A : instead of being carried
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : it .
+	Free: Pattern=it .
+	Constrained: Pattern=it
+Turn ID=40| A | A : well thank you very much . bye-bye .
+	Free: Pattern=well, Pattern=you
+	Constrained: 
+Turn ID=41| B | M : uhh uh uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=42| A | A : we just got our last tomatoes .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : oh uh well you know that's not a bad thing .
+	Free: Pattern=well, Pattern=a, Pattern=oh, Pattern=uh, Pattern=you know, Pattern=thing, Pattern=that's
+	Constrained: Pattern=you
+Turn ID=44| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: 
+Turn ID=45| B | M : i'll be there for my kids to see them
+	Free: Pattern=there, Pattern=for, Pattern=to, Pattern=my
+	Constrained: 

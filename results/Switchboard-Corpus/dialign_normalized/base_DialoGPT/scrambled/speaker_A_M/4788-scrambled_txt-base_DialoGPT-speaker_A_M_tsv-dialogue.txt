@@ -1,0 +1,115 @@
+A|0| A: yes . 
+B|1| M: alright bye . 
+A|2| A: see _you_ _don't_ necessarily _have_ _to_ dip this stuff . _and_ um _i_ was _going to_ _have_ broccoli _and_ cauliflower _for a_ _a_ vegetable . 
+B|3| M: oh [you] mean _that_ 
+A|4| A: _well_ _it's_ _to_ protect _the_ _the_ banks from guys [that] say _yeah_ _i_ want _to_ build my own house _and_ go out _a_ build _a_ spec home 
+B|5| M: [i] think i'm [going to] sleep what's [going] on ? 
+A|6| A: that's right . _yeah_ . that's _a_ real waste too . _it_ really _is_ . 
+B|7| M: no [i] [don't] think _so_ 
+A|8| A: uh-huh . 
+B|9| M: [yeah] [and] ... 
+A|10| A: this guy had supposedly _uh_ strangled this woman [and] stuffed cotton toweling down her throat [and] up her nose anyway this _is_ happened _in_ nineteen eighty-three . 
+B|11| M: [it's] _been_ like [that] [for a] while 
+A|12| A: uh-huh . 
+B|13| M: [you] like ketchup ? 
+A|14| A: um there's [been] tremendous amounts of of _uh_ layoffs [so] really housing _is_ real bad . _the_ economy itself around here _is_ _not_ too terribly bad but housing _is still_ real bad 
+B|15| M: uhh [uh] [it's] uhh uhhh [have] [been] [in] [the] 
+A|16| A: they've [been] released [you] _know_ several times which _is_ another [uh] deal [i] hate [to] see . 
+B|17| M: english ? 
+A|18| A: uh-huh . 
+B|19| M: [well] [the] us [is still] [a] country [so] [it's] [not] like they would be able [to] do anything with [it] . 
+A|20| A: uh-huh . right right . 
+B|21| M: [i] [know] 
+A|22| A: right . 
+B|23| M: [and] they're they're 
+A|24| A: uh-huh . 
+B|25| M: [and] [uh] [and] [uh] 
+A|26| A: very badly . i've got [a] piano 
+B|27| M: i'm [in] [the] us . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : yes .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : alright bye .
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : see you don't necessarily have to dip this stuff . and um i was going to have broccoli and cauliflower for a a vegetable .
+	Free: Pattern=going to, Pattern=you, Pattern=have, Pattern=a, Pattern=and, Pattern=i, Pattern=don't, Pattern=to, Pattern=for a
+	Constrained: Pattern=to, Pattern=a, Pattern=going
+Turn ID=3| B | M : oh you mean that
+	Free: Pattern=that, Pattern=you
+	Constrained: 
+Turn ID=4| A | A : well it's to protect the the banks from guys that say yeah i want to build my own house and go out a build a spec home
+	Free: Pattern=well, Pattern=a, Pattern=i, Pattern=the, Pattern=to, Pattern=yeah, Pattern=and, Pattern=that, Pattern=it's
+	Constrained: 
+Turn ID=5| B | M : i think i'm going to sleep what's going on ?
+	Free: Pattern=going to, Pattern=i, Pattern=going
+	Constrained: Pattern=to, Pattern=going
+Turn ID=6| A | A : that's right . yeah . that's a real waste too . it really is .
+	Free: Pattern=it, Pattern=a, Pattern=is, Pattern=yeah
+	Constrained: 
+Turn ID=7| B | M : no i don't think so
+	Free: Pattern=i, Pattern=so, Pattern=don't
+	Constrained: 
+Turn ID=8| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : yeah and ...
+	Free: Pattern=yeah, Pattern=and
+	Constrained: 
+Turn ID=10| A | A : this guy had supposedly uh strangled this woman and stuffed cotton toweling down her throat and up her nose anyway this is happened in nineteen eighty-three .
+	Free: Pattern=uh, Pattern=is, Pattern=in, Pattern=and
+	Constrained: 
+Turn ID=11| B | M : it's been like that for a while
+	Free: Pattern=for a, Pattern=it's, Pattern=that, Pattern=been
+	Constrained: Pattern=a
+Turn ID=12| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : you like ketchup ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=14| A | A : um there's been tremendous amounts of of uh layoffs so really housing is real bad . the economy itself around here is not too terribly bad but housing is still real bad
+	Free: Pattern=uh, Pattern=is, Pattern=the, Pattern=been, Pattern=so, Pattern=not, Pattern=is still
+	Constrained: Pattern=is
+Turn ID=15| B | M : uhh uh it's uhh uhhh have been in the
+	Free: Pattern=uh, Pattern=have, Pattern=in, Pattern=the, Pattern=been, Pattern=it's
+	Constrained: 
+Turn ID=16| A | A : they've been released you know several times which is another uh deal i hate to see .
+	Free: Pattern=know, Pattern=to, Pattern=been, Pattern=you, Pattern=uh, Pattern=is, Pattern=i
+	Constrained: 
+Turn ID=17| B | M : english ?
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : well the us is still a country so it's not like they would be able to do anything with it .
+	Free: Pattern=well, Pattern=a, Pattern=it, Pattern=the, Pattern=to, Pattern=it's, Pattern=so, Pattern=not, Pattern=is still
+	Constrained: Pattern=is
+Turn ID=20| A | A : uh-huh . right right .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : i know
+	Free: Pattern=know, Pattern=i
+	Constrained: 
+Turn ID=22| A | A : right .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : and they're they're
+	Free: Pattern=and
+	Constrained: 
+Turn ID=24| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : and uh and uh
+	Free: Pattern=uh, Pattern=and
+	Constrained: 
+Turn ID=26| A | A : very badly . i've got a piano
+	Free: Pattern=a
+	Constrained: 
+Turn ID=27| B | M : i'm in the us .
+	Free: Pattern=the, Pattern=in
+	Constrained: 

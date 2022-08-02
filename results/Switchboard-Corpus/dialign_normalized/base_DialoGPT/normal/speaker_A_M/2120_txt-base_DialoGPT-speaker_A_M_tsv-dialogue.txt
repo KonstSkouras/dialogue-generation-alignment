@@ -1,0 +1,59 @@
+A|0| A: so _many_ _uh_ women _are_ heads _of_ state and i _you_ know we we keep saying oh yes we feel some day _a_ woman will be president . but _uh_ i _have_ some question whether or _not_ they will ever really get around _to_ that . i think we'll _have_ _a_ black president before we _have_ _a_ women president . 
+B|1| M: [not] yet . 
+A|2| A: and _uh_ i don't know whether that's bad or good _it's_ just _a_ point that i _have_ observed that we 
+B|3| M: uhh [uh] [it's] uhh uhhh [have] been in the 
+A|4| A: yes . right . 
+B|5| M: _we're_ 
+A|6| A: [uh] oh . 
+B|7| M: because [it's] 
+A|8| A: [uh] oh i think [we're] [we're] supposed _to_ hang up . 
+B|9| M: uhhh hi . 
+A|10| A: yes . 
+B|11| M: [are] [you] referring [to] wealth disparity ? 
+A|12| A: all right . thank [you] . bye bye . 
+B|13| M: i'm [a] man [of] [many] talents . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : so many uh women are heads of state and i you know we we keep saying oh yes we feel some day a woman will be president . but uh i have some question whether or not they will ever really get around to that . i think we'll have a black president before we have a women president .
+	Free: Pattern=of, Pattern=have, Pattern=many, Pattern=a, Pattern=are, Pattern=to, Pattern=not, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=1| B | M : not yet .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=2| A | A : and uh i don't know whether that's bad or good it's just a point that i have observed that we
+	Free: Pattern=uh, Pattern=a, Pattern=have, Pattern=it's
+	Constrained: 
+Turn ID=3| B | M : uhh uh it's uhh uhhh have been in the
+	Free: Pattern=uh, Pattern=have, Pattern=it's
+	Constrained: 
+Turn ID=4| A | A : yes . right .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : we're
+	Free: Pattern=we're
+	Constrained: 
+Turn ID=6| A | A : uh oh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=7| B | M : because it's
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=8| A | A : uh oh i think we're we're supposed to hang up .
+	Free: Pattern=uh, Pattern=to, Pattern=we're
+	Constrained: 
+Turn ID=9| B | M : uhhh hi .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : yes .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : are you referring to wealth disparity ?
+	Free: Pattern=to, Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=12| A | A : all right . thank you . bye bye .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=13| B | M : i'm a man of many talents .
+	Free: Pattern=many, Pattern=a, Pattern=of
+	Constrained: 

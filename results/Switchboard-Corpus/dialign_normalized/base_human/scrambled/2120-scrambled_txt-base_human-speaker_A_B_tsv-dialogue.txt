@@ -1,0 +1,79 @@
+A|0| A: _yeah ._ 
+B|1| B: [yeah] _the_ only consolation is so many _of_ _the_ murders are _you know_ _the_ _the_ violent people going against _each_ other _and_ so they _you know_ society's _not_ going _to_ put them _to_ death well at least maybe _the_ guy they cross _next_ time is going _to_ . _uh_ _i_ think _i_ think capital punishment is an appropriate punishment _for_ _the_ kind _of_ people where we say _you know_ this sort _of_ person is just _not_ acceptable _to_ our society _and_ we are there by going _to_ remove them from society _not_ temporarily _but_ permanently . 
+A|2| A: oh 
+B|3| B: _uh-huh ._ 
+A|4| A: [uh-huh .] 
+B|5| B: she doesn't have a brown nose _and_ her she's sort _of_ unicolor _you know_ eyes are _the_ same color _and_ everything 
+A|6| A: [i] voted _in the_ last national one . [yeah] i'm [not] sure *slash error; one utt with [next] if [i] _got the_ last local one . 
+B|7| B: _and_ so he has a big landing area _that's_ between where [the] cars are [in the] garage _and_ where [the] house starts _that_ he can work _on_ . 
+A|8| A: [that] still does it [that's] right . 
+B|9| B: _and_ we had such a time _and_ never [got the] cat back . 
+A|10| A: _yeah ._ 
+B|11| B: _and_ [not] being cared _for_ . 
+A|12| A: _yeah ._ [but] then when you're when you're picked see [i] was picked [for] another murder trial before 
+B|13| B: we were there [for] ten days . 
+A|14| A: [and] [uh] we're [in the] process [of] [of] planting 
+B|15| B: [uh] a lot [of] [the] [the] [the] other violent crimes [i] don't really feel [that] strongly about . although _you know_ stiffer sentences [and] lessening [the] effects [of] parole 
+A|16| A: _yeah ._ it's like [you] said [you know] [to] [each] his own . [and] we're planning [on] having my wife stay home . [and] [but] 
+B|17| B: um . 
+B|18| B: [yeah .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=1| B | B : yeah the only consolation is so many of the murders are you know the the violent people going against each other and so they you know society's not going to put them to death well at least maybe the guy they cross next time is going to . uh i think i think capital punishment is an appropriate punishment for the kind of people where we say you know this sort of person is just not acceptable to our society and we are there by going to remove them from society not temporarily but permanently .
+	Free: Pattern=each, Pattern=for, Pattern=i, Pattern=the, Pattern=to, Pattern=but, Pattern=not, Pattern=next, Pattern=of, Pattern=uh, Pattern=you know, Pattern=yeah, Pattern=and
+	Constrained: Pattern=you
+Turn ID=2| A | A : oh
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=4| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=5| B | B : she doesn't have a brown nose and her she's sort of unicolor you know eyes are the same color and everything
+	Free: Pattern=you know, Pattern=the, Pattern=of, Pattern=and
+	Constrained: Pattern=you
+Turn ID=6| A | A : i voted in the last national one . yeah i'm not sure *slash error; one utt with next if i got the last local one .
+	Free: Pattern=next, Pattern=got the, Pattern=yeah, Pattern=in the, Pattern=i, Pattern=not
+	Constrained: Pattern=the
+Turn ID=7| B | B : and so he has a big landing area that's between where the cars are in the garage and where the house starts that he can work on .
+	Free: Pattern=and, Pattern=in the, Pattern=that, Pattern=on, Pattern=that's, Pattern=the
+	Constrained: Pattern=the
+Turn ID=8| A | A : that still does it that's right .
+	Free: Pattern=that's, Pattern=that
+	Constrained: 
+Turn ID=9| B | B : and we had such a time and never got the cat back .
+	Free: Pattern=got the, Pattern=and
+	Constrained: Pattern=the
+Turn ID=10| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=11| B | B : and not being cared for .
+	Free: Pattern=for, Pattern=not, Pattern=and
+	Constrained: 
+Turn ID=12| A | A : yeah . but then when you're when you're picked see i was picked for another murder trial before
+	Free: Pattern=yeah ., Pattern=for, Pattern=i, Pattern=but
+	Constrained: Pattern=yeah
+Turn ID=13| B | B : we were there for ten days .
+	Free: Pattern=for
+	Constrained: 
+Turn ID=14| A | A : and uh we're in the process of of planting
+	Free: Pattern=in the, Pattern=uh, Pattern=of, Pattern=and
+	Constrained: Pattern=the
+Turn ID=15| B | B : uh a lot of the the the other violent crimes i don't really feel that strongly about . although you know stiffer sentences and lessening the effects of parole
+	Free: Pattern=of, Pattern=and, Pattern=i, Pattern=the, Pattern=that, Pattern=uh, Pattern=you know
+	Constrained: Pattern=you
+Turn ID=16| A | A : yeah . it's like you said you know to each his own . and we're planning on having my wife stay home . and but
+	Free: Pattern=each, Pattern=yeah ., Pattern=and, Pattern=on, Pattern=to, Pattern=but, Pattern=you, Pattern=you know
+	Constrained: Pattern=you, Pattern=yeah
+Turn ID=17| B | B : um .
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah

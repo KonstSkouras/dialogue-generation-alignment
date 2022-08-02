@@ -1,0 +1,183 @@
+B|0| M: _but_ _uh_ . 
+A|1| B: _it_ _it_ it's pretty bad here too . 
+B|2| M: uh-uh . _well_ _we_ _have_ _uh_ 
+A|3| B: we've had _a lot of_ murders drug related _and_ stuff . in durham which is right next _to_ raleigh . 
+B|4| M: uh-huh . 
+A|5| B: _yeah_ _that_ _that_ durham raleigh _and_ chapel hill is _the_ triangle . 
+B|6| M: oh okay . 
+A|7| B: right . 
+B|8| M: [and] _uh i_ think _uh_ 
+A|9| B: _yeah_ it's it's _really_ it's [and] _i've_ seen in _more_ in durham than [i] [have] in raleigh or or or chapel hill . 
+B|10| M: uh-huh . 
+A|11| B: chapel hill is kind _of_ _a_ _a_ ritzy city or whatever _. _i_ mean_ it's kind _of_ i'm i'm sure there is problems with _it_ [but] _it_ has _a_ pretty low crime rate . compare compared _to_ _to_ durham has probably got _the_ worst . they've had _like_ forty-eight murders since _the_ beginning _of the_ year . 
+B|12| M: uh-huh . 
+A|13| B: [and] over half _of it_ has been drug related . 
+B|14| M: oh [really] ? 
+A|15| B: _yeah ._ 
+B|16| M: [i mean] [i mean] [i] _uh_ . 
+A|17| B: _yeah ._ 
+B|18| M: _you know_ _people_ _people_ get older [and] _they_ _they_ get _out_ [of it] . 
+A|19| B: [well] _that_ [and] _the_ [and] _the_ economy is _so_ bad [and] [and] _so_ many [people] [have] been laid off [and] stuff . 
+B|20| M: oh [yeah .] 
+A|21| B: they've _done_ special _stories_ on _the_ news local news here . 
+B|22| M:  !!! % [well] [i've] heard [stories] . 
+A|23| B: [we] had _a lot of_ bank robberies [and] different _lot of_ break ins [and] stuff _. i_ [know] _like_ _a_ week or _so_ ago [i] live in _a_ in _a_ town house which is [you know] it's _a_ pretty nice neighborhood [and] this lady was _going to_ work she came home [and] everything in her house was total gone light fixtures everything . [and] nobody thought any different [they] _just_ thought she was moving . [it] was _a_ moving man pulled right up _to_ her house broke in [and] stole everything she owned 
+B|24| M: _uh_ 
+A|25| B: [well] [yeah] it's it's it's pretty bad 
+B|26| M: [well] what else do [we] [like] [to] [have] ? 
+A|27| B: [uh i] would say _so_ for _the_ majority in in our in my little section _of the_ neighborhood because there is always somebody at home 
+B|28| M: uh-huh . 
+A|29| B: _and we_ all [know] _one_ another [and] [and] on our _one_ little section _of the_ street [we] all [know] _one_ another [and] [know] _that_ we're not moving [and] different things [like] _that_ . 
+B|30| M: [uh] . 
+A|31| B: it's [i] i'm i'm probably _the_ _one of the_ youngest [people] _that_ live over here . 
+B|32| M: oh _are_ [you] [really] ? 
+A|33| B: most [people] [are] [are] retired or or or [you know] they're they're in their forties or or whatever . _so_ [and] i'm in my twenties _so i_ i'm i'm [out] _more_ than [they] [are] [but] they're at home at night 
+B|34| M: uh-huh . 
+A|35| B: _so i_ [really] _don't_ worry _about_ anything . 
+B|36| M: uh-huh . 
+A|37| B: [yeah .] 
+B|38| M: [and] [i] [and] [i] [don't] think [that] [uh] there's much [that] can be [done] [about] [it] . 
+A|39| B: [yeah] see _that's_ _the_ same thing here . 
+B|40| M: [and] [i] think [that's] [going to] be [one of the] major changes [. i] think [i] [i] [don't] [know] [i] do feel [like] [uh] . 
+A|41| B: [yeah .] 
+B|42| M: [and we] [have] [a lot of] [uh] [a lot] [more] single family homes [and] [a lot] fewer single family families . 
+A|43| B: [yeah .] 
+B|44| M: [so i] [don't] [know] [i] [just] [i] guess [i] [just] feel [like] there's [a] need [to] be [more] [of] [that] sort [of] [uh] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : but uh .
+	Free: Pattern=uh, Pattern=but
+	Constrained: 
+Turn ID=1| A | B : it it it's pretty bad here too .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=2| B | M : uh-uh . well we have uh
+	Free: Pattern=well, Pattern=we, Pattern=uh, Pattern=have
+	Constrained: 
+Turn ID=3| A | B : we've had a lot of murders drug related and stuff . in durham which is right next to raleigh .
+	Free: Pattern=a lot of, Pattern=to, Pattern=and
+	Constrained: Pattern=a, Pattern=lot of, Pattern=a lot, Pattern=of
+Turn ID=4| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| A | B : yeah that that durham raleigh and chapel hill is the triangle .
+	Free: Pattern=yeah, Pattern=the, Pattern=that, Pattern=and
+	Constrained: 
+Turn ID=6| B | M : oh okay .
+	Free: 
+	Constrained: 
+Turn ID=7| A | B : right .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : and uh i think uh
+	Free: Pattern=uh i, Pattern=uh, Pattern=and
+	Constrained: Pattern=uh, Pattern=i
+Turn ID=9| A | B : yeah it's it's really it's and i've seen in more in durham than i have in raleigh or or or chapel hill .
+	Free: Pattern=more, Pattern=have, Pattern=i've, Pattern=i, Pattern=really, Pattern=yeah, Pattern=and
+	Constrained: 
+Turn ID=10| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| A | B : chapel hill is kind of a a ritzy city or whatever . i mean it's kind of i'm i'm sure there is problems with it but it has a pretty low crime rate . compare compared to to durham has probably got the worst . they've had like forty-eight murders since the beginning of the year .
+	Free: Pattern=of, Pattern=a, Pattern=it, Pattern=. i, Pattern=i mean, Pattern=like, Pattern=the, Pattern=to, Pattern=of the, Pattern=but
+	Constrained: Pattern=of, Pattern=i, Pattern=the
+Turn ID=12| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| A | B : and over half of it has been drug related .
+	Free: Pattern=of it, Pattern=and
+	Constrained: Pattern=it, Pattern=of
+Turn ID=14| B | M : oh really ?
+	Free: Pattern=really
+	Constrained: 
+Turn ID=15| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=16| B | M : i mean i mean i uh .
+	Free: Pattern=i mean, Pattern=uh, Pattern=i
+	Constrained: Pattern=i
+Turn ID=17| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=18| B | M : you know people people get older and they they get out of it .
+	Free: Pattern=people, Pattern=they, Pattern=and, Pattern=of it, Pattern=out, Pattern=you know
+	Constrained: Pattern=it, Pattern=know, Pattern=of, Pattern=you
+Turn ID=19| A | B : well that and the and the economy is so bad and and so many people have been laid off and stuff .
+	Free: Pattern=well, Pattern=and, Pattern=the, Pattern=that, Pattern=so, Pattern=people, Pattern=have
+	Constrained: 
+Turn ID=20| B | M : oh yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=21| A | B : they've done special stories on the news local news here .
+	Free: Pattern=the, Pattern=stories, Pattern=done
+	Constrained: 
+Turn ID=22| B | M :  !!! % well i've heard stories .
+	Free: Pattern=well, Pattern=i've, Pattern=stories
+	Constrained: 
+Turn ID=23| A | B : we had a lot of bank robberies and different lot of break ins and stuff . i know like a week or so ago i live in a in a town house which is you know it's a pretty nice neighborhood and this lady was going to work she came home and everything in her house was total gone light fixtures everything . and nobody thought any different they just thought she was moving . it was a moving man pulled right up to her house broke in and stole everything she owned
+	Free: Pattern=going to, Pattern=a lot of, Pattern=you know, Pattern=just, Pattern=they, Pattern=a, Pattern=. i, Pattern=know, Pattern=i, Pattern=to, Pattern=so, Pattern=it, Pattern=and, Pattern=lot of, Pattern=we, Pattern=like
+	Constrained: Pattern=of, Pattern=you, Pattern=a, Pattern=lot of, Pattern=know, Pattern=i, Pattern=a lot, Pattern=to
+Turn ID=24| B | M : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=25| A | B : well yeah it's it's it's pretty bad
+	Free: Pattern=well, Pattern=yeah
+	Constrained: 
+Turn ID=26| B | M : well what else do we like to have ?
+	Free: Pattern=well, Pattern=have, Pattern=to, Pattern=we, Pattern=like
+	Constrained: 
+Turn ID=27| A | B : uh i would say so for the majority in in our in my little section of the neighborhood because there is always somebody at home
+	Free: Pattern=of the, Pattern=uh i, Pattern=so, Pattern=the
+	Constrained: Pattern=uh, Pattern=of, Pattern=i, Pattern=the
+Turn ID=28| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| A | B : and we all know one another and and on our one little section of the street we all know one another and know that we're not moving and different things like that .
+	Free: Pattern=and, Pattern=one, Pattern=know, Pattern=we, Pattern=like, Pattern=and we, Pattern=of the, Pattern=that
+	Constrained: Pattern=we, Pattern=of, Pattern=the, Pattern=and
+Turn ID=30| B | M : uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=31| A | B : it's i i'm i'm probably the one of the youngest people that live over here .
+	Free: Pattern=people, Pattern=one of the, Pattern=i, Pattern=the, Pattern=that
+	Constrained: Pattern=of the, Pattern=one, Pattern=of, Pattern=the
+Turn ID=32| B | M : oh are you really ?
+	Free: Pattern=you, Pattern=really, Pattern=are
+	Constrained: 
+Turn ID=33| A | B : most people are are retired or or or you know they're they're in their forties or or whatever . so and i'm in my twenties so i i'm i'm out more than they are but they're at home at night
+	Free: Pattern=more, Pattern=people, Pattern=they, Pattern=and, Pattern=are, Pattern=so i, Pattern=but, Pattern=so, Pattern=out, Pattern=you know
+	Constrained: Pattern=know, Pattern=you, Pattern=i, Pattern=so
+Turn ID=34| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| A | B : so i really don't worry about anything .
+	Free: Pattern=so i, Pattern=don't, Pattern=about, Pattern=really
+	Constrained: Pattern=i, Pattern=so
+Turn ID=36| B | M : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=38| B | M : and i and i don't think that uh there's much that can be done about it .
+	Free: Pattern=uh, Pattern=about, Pattern=i, Pattern=don't, Pattern=it, Pattern=and, Pattern=done, Pattern=that
+	Constrained: 
+Turn ID=39| A | B : yeah see that's the same thing here .
+	Free: Pattern=that's, Pattern=yeah, Pattern=the
+	Constrained: 
+Turn ID=40| B | M : and i think that's going to be one of the major changes . i think i i don't know i do feel like uh .
+	Free: Pattern=going to, Pattern=uh, Pattern=. i, Pattern=know, Pattern=i, Pattern=like, Pattern=that's, Pattern=don't, Pattern=and, Pattern=one of the
+	Constrained: Pattern=of, Pattern=one, Pattern=i, Pattern=the, Pattern=to, Pattern=of the
+Turn ID=41| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=42| B | M : and we have a lot of uh a lot more single family homes and a lot fewer single family families .
+	Free: Pattern=uh, Pattern=have, Pattern=and, Pattern=a lot, Pattern=and we, Pattern=a lot of, Pattern=more
+	Constrained: Pattern=of, Pattern=a, Pattern=we, Pattern=a lot, Pattern=and, Pattern=lot of
+Turn ID=43| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=44| B | M : so i don't know i just i guess i just feel like there's a need to be more of that sort of uh
+	Free: Pattern=uh, Pattern=just, Pattern=a, Pattern=so i, Pattern=know, Pattern=i, Pattern=like, Pattern=don't, Pattern=to, Pattern=that, Pattern=of, Pattern=more
+	Constrained: Pattern=i, Pattern=so

@@ -1,0 +1,187 @@
+B|0| M: _so_ _it's_ _the_ us ? 
+A|1| A: there's _uh_ maybe _some_ short-term _things that_ _they_ can do _and_ it hurts everybody's pocket _of course_ but um _i_ _know_ _that_ state _has_ _uh_ cutback _uh_ raises _for a_ year _to_ help _uh_ [the] _uh_ state financial or whatever _you_ might want _to_ say _to_ get _better_ _in_ _a_ _better_ condition . 
+B|2| M: weird . what's your _point_ ? 
+A|3| A: _that_ 
+B|4| M: [i] [uh] [i] [uh] ... _i don't know ._ 
+A|5| A: [uh] state _of_ minnesota . 
+B|6| M: _where_ _are_ [you] from ? 
+A|7| A: [so] there's [the] potential _that_ perhaps _you know_ _the u_ _s_ budget might want _to_ take _a_ look at [it's] [uh] federal employees or _and_ take _a_ look at saying _well_ let's freeze wages . [i] mean everybody's doing it [so] it isn't _like_ [uh] private business _has_ had _to_ do it 
+B|8| M: _i'm_ pretty _sure_ _they're_ _just_ _looking_ [for a] way [to] make _money ._ 
+A|9| A: [so] it might _have_ [to] be something _that_ _they_ might consider doing as [a] _that's_ got [to] be very short term . 
+B|10| M: [the u] . [s] . _government_ _is_ _not_ [the] _one_ [that] [has] [to] deal _with [the_ u] . 
+A|11| A: _and_ [the] only other avenue [that] [i] can _think_ _of_ [is] [uh] [looking] at [where] [they're] _spending_ [the] [money] _and_ [not] [so] much as saying _well_ we're _spending_ too much _in_ [that] area as perhaps [looking] at _what_ [is] costing them [the] [money .] as [for] [for] instance _i think you_ probably remember _the military_ getting _caught_ um [with] toilet seats [that] cost them four hundred five hundred dollars . 
+B|12| M:  
+A|13| A: _and_ it _was_ [just] [i] mean [you] can _go to_ k-mart _and_ buy them [for] [uh] eight dollars or _i think_ six dollars or whatever [for] toilet seats 
+B|14| M: [you _know] ._ 
+A|15| A: [so] . [so] it gives [you] _idea_ [that] 
+B|16| M: [i think [you] know] ? 
+A|17| A: [sure] [sure] . [so] 
+B|18| M: [i think you] need [to] [go to] [a] school [to] learn [the military] [and] [military] research [is] [not] _done_ [in] school . 
+A|19| A: uh-huh . uh-huh . 
+B|20| M: [you know] _there_ _are_ [some] _things that are_ [better] _than_ _this_ [like] [the] way _the government_ works . 
+A|21| A: [than] we [think] . [sure] . [sure] . 
+B|22| M: [so] what's your _point_ ? 
+A|23| A: uh-huh . it [sure] [is] . [the] [you know] as _far_ as [i think] [there] _was_ something [with [the] government] official [that] went on conferences [for] two days [and] actually [uh] [the] conferences were nothing but [uh] [you know] [they're] getting paid [for] [this] [and] it _was_ something more [than] [just] [the] conferences . _they_ were using it as eating out _uh when_ [you] [think] _about_ _people_ [uh] taking vacations these big [government] officials taking descendants [in] congress . 
+B|24| M: [you] . 
+A|25| A: [the] rest _of_ them taking these vacations [and] using [the] taxpayers' _money for_ [that] . 
+B|26| M: [i] love how [is] [the] [idea] [of course] [they] _have a_ bunch [of] [the military] [spending] [military] _spending [money_ .] 
+A|27| A: [and] [it's] [a] real big crunch [uh] 
+B|28| M: [the] . 
+A|29| A: [of course] _when they_ get _caught_ then [they're] [you know] [they're] guilty [of course] but [uh] during [that] time [i'm] [sure] there's hundreds [of] [uh] thousands _of people_ [that are] [uh] [spending money] [that] does [not] belong [to] them . [so] 
+B|30| M: [what] [about] [the] millions [of people] who [have] never been [caught] ? 
+A|31| A: uh-huh . 
+B|32| M: [uh] [uh [when] they] catch [you] uh'uh 
+A|33| A: [sure] . 
+B|34| M: [well] [uh] [uh] huh . 
+A|35| A: uh-huh . exactly . [and] [i don't] [think] [uh] [it's] ended up _being_ [i] mean it gave [people] jobs 
+B|36| M: [that's] _a lot of_ [money [for] a] country [that] [was] [so] [far] away from [being] [the] most powerful nation [in] [the] world . 
+A|37| A: but [i think] it also cost um quite [a] bit as [far] as because after [they're] [done] [with the] war [a lot of] [things] were no longer put [to] use . [i] mean it [was] kind [of] [like] okay we'll do [this] during [this] [point] [and] time but after [that] [that's] [you know] [uh] [they] didn't want [to] do it anymore . 
+B|38| M: yeah 
+A|39| A: [so] [a lot of] [things that are] saying [that] [they're] no longer going [to] be doing [for] next wars [that are] coming up [that] [they] did [for] [this] [one] [in] getting rid [of] [a lot of] [things] . [so] [i don't know .] 
+B|40| M: [they] [are] [done] 
+A|41| A: okay [well] it [was] good talking [to] [you] [and] [have a] good evening . 
+B|42| M: [you know] 
+A|43| A: uh-huh thanks . 
+B|44| M: [that's] [what] [i] said . 
+A|45| A: bye now . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : so it's the us ?
+	Free: Pattern=so, Pattern=the, Pattern=it's
+	Constrained: 
+Turn ID=1| A | A : there's uh maybe some short-term things that they can do and it hurts everybody's pocket of course but um i know that state has uh cutback uh raises for a year to help uh the uh state financial or whatever you might want to say to get better in a better condition .
+	Free: Pattern=a, Pattern=some, Pattern=in, Pattern=know, Pattern=i, Pattern=better, Pattern=the, Pattern=to, Pattern=for a, Pattern=that, Pattern=of course, Pattern=you, Pattern=uh, Pattern=things that, Pattern=they, Pattern=and, Pattern=has
+	Constrained: Pattern=of, Pattern=a, Pattern=for, Pattern=things, Pattern=that
+Turn ID=2| B | M : weird . what's your point ?
+	Free: Pattern=point
+	Constrained: 
+Turn ID=3| A | A : that
+	Free: Pattern=that
+	Constrained: 
+Turn ID=4| B | M : i uh i uh ... i don't know .
+	Free: Pattern=i don't know ., Pattern=i, Pattern=uh
+	Constrained: Pattern=know ., Pattern=know, Pattern=i don't, Pattern=i
+Turn ID=5| A | A : uh state of minnesota .
+	Free: Pattern=of, Pattern=uh
+	Constrained: 
+Turn ID=6| B | M : where are you from ?
+	Free: Pattern=are, Pattern=you, Pattern=where
+	Constrained: 
+Turn ID=7| A | A : so there's the potential that perhaps you know the u s budget might want to take a look at it's uh federal employees or and take a look at saying well let's freeze wages . i mean everybody's doing it so it isn't like uh private business has had to do it
+	Free: Pattern=well, Pattern=the u, Pattern=a, Pattern=i, Pattern=like, Pattern=the, Pattern=to, Pattern=s, Pattern=so, Pattern=uh, Pattern=you know, Pattern=and, Pattern=has, Pattern=that, Pattern=it's
+	Constrained: Pattern=know, Pattern=you, Pattern=the
+Turn ID=8| B | M : i'm pretty sure they're just looking for a way to make money .
+	Free: Pattern=just, Pattern=looking, Pattern=they're, Pattern=i'm, Pattern=sure, Pattern=to, Pattern=for a, Pattern=money .
+	Constrained: Pattern=money, Pattern=for, Pattern=a
+Turn ID=9| A | A : so it might have to be something that they might consider doing as a that's got to be very short term .
+	Free: Pattern=have, Pattern=they, Pattern=a, Pattern=that's, Pattern=to, Pattern=that, Pattern=so
+	Constrained: 
+Turn ID=10| B | M : the u . s . government is not the one that has to deal with the u .
+	Free: Pattern=with the, Pattern=the u, Pattern=has, Pattern=one, Pattern=government, Pattern=is, Pattern=the, Pattern=to, Pattern=s, Pattern=that, Pattern=not
+	Constrained: Pattern=with, Pattern=the
+Turn ID=11| A | A : and the only other avenue that i can think of is uh looking at where they're spending the money and not so much as saying well we're spending too much in that area as perhaps looking at what is costing them the money . as for for instance i think you probably remember the military getting caught um with toilet seats that cost them four hundred five hundred dollars .
+	Free: Pattern=caught, Pattern=well, Pattern=what, Pattern=and, Pattern=they're, Pattern=where, Pattern=the, Pattern=i think you, Pattern=money ., Pattern=so, Pattern=of, Pattern=money, Pattern=uh, Pattern=spending, Pattern=for, Pattern=looking, Pattern=think, Pattern=in, Pattern=is, Pattern=i, Pattern=with, Pattern=that, Pattern=the military, Pattern=not
+	Constrained: Pattern=money, Pattern=you, Pattern=military, Pattern=think, Pattern=i, Pattern=the, Pattern=i think
+Turn ID=12| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : and it was just i mean you can go to k-mart and buy them for uh eight dollars or i think six dollars or whatever for toilet seats
+	Free: Pattern=go to, Pattern=just, Pattern=for, Pattern=and, Pattern=i, Pattern=was, Pattern=i think, Pattern=you, Pattern=uh
+	Constrained: Pattern=i, Pattern=think, Pattern=to
+Turn ID=14| B | M : you know .
+	Free: Pattern=know ., Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=15| A | A : so . so it gives you idea that
+	Free: Pattern=so, Pattern=idea, Pattern=that, Pattern=you
+	Constrained: 
+Turn ID=16| B | M : i think you know ?
+	Free: Pattern=i think you, Pattern=you know
+	Constrained: Pattern=you, Pattern=think, Pattern=know, Pattern=i, Pattern=i think
+Turn ID=17| A | A : sure sure . so
+	Free: Pattern=so, Pattern=sure
+	Constrained: 
+Turn ID=18| B | M : i think you need to go to a school to learn the military and military research is not done in school .
+	Free: Pattern=go to, Pattern=a, Pattern=and, Pattern=military, Pattern=in, Pattern=is, Pattern=to, Pattern=i think you, Pattern=done, Pattern=the military, Pattern=not
+	Constrained: Pattern=you, Pattern=military, Pattern=think, Pattern=i, Pattern=the, Pattern=to, Pattern=i think
+Turn ID=19| A | A : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=20| B | M : you know there are some things that are better than this like the way the government works .
+	Free: Pattern=things that are, Pattern=you know, Pattern=the government, Pattern=there, Pattern=are, Pattern=some, Pattern=than, Pattern=like, Pattern=better, Pattern=the, Pattern=this
+	Constrained: Pattern=you, Pattern=things that, Pattern=are, Pattern=things, Pattern=that, Pattern=know, Pattern=government, Pattern=that are, Pattern=the
+Turn ID=21| A | A : than we think . sure . sure .
+	Free: Pattern=sure, Pattern=think, Pattern=than
+	Constrained: 
+Turn ID=22| B | M : so what's your point ?
+	Free: Pattern=so, Pattern=point
+	Constrained: 
+Turn ID=23| A | A : uh-huh . it sure is . the you know as far as i think there was something with the government official that went on conferences for two days and actually uh the conferences were nothing but uh you know they're getting paid for this and it was something more than just the conferences . they were using it as eating out uh when you think about people uh taking vacations these big government officials taking descendants in congress .
+	Free: Pattern=far, Pattern=the government, Pattern=for, Pattern=and, Pattern=government, Pattern=is, Pattern=sure, Pattern=the, Pattern=was, Pattern=this, Pattern=that, Pattern=i think, Pattern=you, Pattern=uh, Pattern=you know, Pattern=with the, Pattern=people, Pattern=just, Pattern=they, Pattern=there, Pattern=about, Pattern=they're, Pattern=than, Pattern=uh when, Pattern=think, Pattern=in
+	Constrained: Pattern=think, Pattern=i, Pattern=the, Pattern=with, Pattern=you, Pattern=uh, Pattern=know, Pattern=government
+Turn ID=24| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=25| A | A : the rest of them taking these vacations and using the taxpayers' money for that .
+	Free: Pattern=money for, Pattern=of, Pattern=and, Pattern=the, Pattern=that
+	Constrained: Pattern=money, Pattern=for
+Turn ID=26| B | M : i love how is the idea of course they have a bunch of the military spending military spending money .
+	Free: Pattern=of, Pattern=idea, Pattern=spending, Pattern=military, Pattern=spending money, Pattern=the, Pattern=money ., Pattern=they, Pattern=have a, Pattern=is, Pattern=i, Pattern=of course, Pattern=the military
+	Constrained: Pattern=spending, Pattern=have, Pattern=a, Pattern=military, Pattern=the, Pattern=of, Pattern=money
+Turn ID=27| A | A : and it's a real big crunch uh
+	Free: Pattern=uh, Pattern=a, Pattern=it's, Pattern=and
+	Constrained: 
+Turn ID=28| B | M : the .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=29| A | A : of course when they get caught then they're you know they're guilty of course but uh during that time i'm sure there's hundreds of uh thousands of people that are uh spending money that does not belong to them . so
+	Free: Pattern=caught, Pattern=of, Pattern=they're, Pattern=i'm, Pattern=spending money, Pattern=of people, Pattern=sure, Pattern=that are, Pattern=to, Pattern=that, Pattern=so, Pattern=when they, Pattern=uh, Pattern=you know, Pattern=of course, Pattern=not
+	Constrained: Pattern=people, Pattern=they, Pattern=are, Pattern=know, Pattern=that, Pattern=of, Pattern=money, Pattern=you, Pattern=spending
+Turn ID=30| B | M : what about the millions of people who have never been caught ?
+	Free: Pattern=caught, Pattern=have, Pattern=what, Pattern=about, Pattern=of people, Pattern=the
+	Constrained: Pattern=people, Pattern=of
+Turn ID=31| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : uh uh when they catch you uh'uh
+	Free: Pattern=uh when, Pattern=when they, Pattern=you, Pattern=uh
+	Constrained: Pattern=uh, Pattern=they
+Turn ID=33| A | A : sure .
+	Free: Pattern=sure
+	Constrained: 
+Turn ID=34| B | M : well uh uh huh .
+	Free: Pattern=uh, Pattern=well
+	Constrained: 
+Turn ID=35| A | A : uh-huh . exactly . and i don't think uh it's ended up being i mean it gave people jobs
+	Free: Pattern=uh, Pattern=and, Pattern=being, Pattern=think, Pattern=i, Pattern=it's, Pattern=people, Pattern=i don't
+	Constrained: Pattern=i
+Turn ID=36| B | M : that's a lot of money for a country that was so far away from being the most powerful nation in the world .
+	Free: Pattern=money for, Pattern=being, Pattern=in, Pattern=that, Pattern=so, Pattern=far, Pattern=a lot of, Pattern=that's, Pattern=the, Pattern=for a, Pattern=was
+	Constrained: Pattern=for, Pattern=a, Pattern=money, Pattern=of
+Turn ID=37| A | A : but i think it also cost um quite a bit as far as because after they're done with the war a lot of things were no longer put to use . i mean it was kind of like okay we'll do this during this point and time but after that that's you know uh they didn't want to do it anymore .
+	Free: Pattern=with the, Pattern=they, Pattern=a, Pattern=and, Pattern=i, Pattern=like, Pattern=point, Pattern=that's, Pattern=to, Pattern=was, Pattern=this, Pattern=i think, Pattern=far, Pattern=a lot of, Pattern=of, Pattern=uh, Pattern=you know, Pattern=things, Pattern=they're, Pattern=done, Pattern=that
+	Constrained: Pattern=of, Pattern=you, Pattern=a, Pattern=think, Pattern=know, Pattern=i, Pattern=the, Pattern=with
+Turn ID=38| B | M : yeah
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : so a lot of things that are saying that they're no longer going to be doing for next wars that are coming up that they did for this one in getting rid of a lot of things . so i don't know .
+	Free: Pattern=they, Pattern=i don't know ., Pattern=for, Pattern=one, Pattern=in, Pattern=that are, Pattern=to, Pattern=this, Pattern=that, Pattern=so, Pattern=a lot of, Pattern=of, Pattern=things that are, Pattern=things, Pattern=they're
+	Constrained: Pattern=of, Pattern=i don't, Pattern=things that, Pattern=a, Pattern=are, Pattern=things, Pattern=know, Pattern=i, Pattern=know ., Pattern=that are, Pattern=that
+Turn ID=40| B | M : they are done
+	Free: Pattern=are, Pattern=done, Pattern=they
+	Constrained: 
+Turn ID=41| A | A : okay well it was good talking to you and have a good evening .
+	Free: Pattern=well, Pattern=you, Pattern=have a, Pattern=and, Pattern=to, Pattern=was
+	Constrained: Pattern=a, Pattern=have
+Turn ID=42| B | M : you know
+	Free: Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=43| A | A : uh-huh thanks .
+	Free: 
+	Constrained: 
+Turn ID=44| B | M : that's what i said .
+	Free: Pattern=what, Pattern=that's, Pattern=i
+	Constrained: 
+Turn ID=45| A | A : bye now .
+	Free: 
+	Constrained: 

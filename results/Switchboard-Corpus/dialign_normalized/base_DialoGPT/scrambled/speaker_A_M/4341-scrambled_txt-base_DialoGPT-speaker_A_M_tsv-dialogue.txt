@@ -1,0 +1,151 @@
+A|0| A: _yeah_ _he_ _i_ asked _the_ vet _why he_ _did_ _that_ _and_ _he_ said _he_ was probably weaned too young which _he_ was because _his_ mom was killed so . 
+B|1| M: [i] live in [the] middle _of_ nowhere _uh_ [and] _uh_ i'm _not_ even _uh_ 
+A|2| A: [uh] [i] personally know nothing about [the] peace corps _though_ . 
+B|3| M: [and] _that's_ [why] _we're_ in [the] market for houses huh ? 
+A|4| A: uh-huh . well [i] bet _you_ uh-huh . 
+B|5| M: [you] 
+A|6| A: um . uh-huh . uh-huh . right lots [of] their picture [and] life story [and] everything . 
+B|7| M:  ... _we_ . 
+A|8| A: but . anyway well it's [uh] nice talking _to_ [you] . think we've [uh] covered all [the] subject . 
+B|9| M: [did] [you] have a dad ? 
+A|10| A: uh-huh . 
+B|11| M: no . 
+A|12| A: _yeah_ _yeah_ . 
+B|13| M: [yeah] [though] 
+A|14| A: [yeah] [yeah] . 
+B|15| M: [i] wonder what [the] name [of] [the] car would be ? 
+A|16| A: uh-huh . 
+B|17| M: i'm pretty sure _that's_ [why he] left [he] didn't want [to] be [the] only one . 
+A|18| A: if it finally gets [to] _that_ point . 
+B|19| M: [you] mean [the] great barrier reef ? 
+A|20| A: yep . 
+B|21| M: [his] descendants 
+A|22| A: [yeah] . 
+B|23| M:  
+A|24| A: uh-huh . 
+B|25| M: [you] see [that] ? 
+A|26| A: [you] can [you] know [you] can get some [of] us 
+B|27| M: _oh ._ i'm _not_ sure . 
+A|28| A: [oh .] 
+B|29| M: summer . 
+A|30| A: both . if [we're] [not] doing sports [we] go somewhere . 
+B|31| M: do [you] ? 
+A|32| A: wow wow [that's] 
+B|33| M: you're _just_ sooo far away from me . 
+A|34| A: _he's_ [just] there [to] serve [his] time [and] get back out on [the] street . 
+B|35| M: [he's] gone . 
+B|36| M: [yeah] uhuh . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : yeah he i asked the vet why he did that and he said he was probably weaned too young which he was because his mom was killed so .
+	Free: Pattern=his, Pattern=did, Pattern=he, Pattern=i, Pattern=the, Pattern=why he, Pattern=that, Pattern=yeah, Pattern=and
+	Constrained: Pattern=why, Pattern=he
+Turn ID=1| B | M : i live in the middle of nowhere uh and uh i'm not even uh
+	Free: Pattern=of, Pattern=uh, Pattern=and, Pattern=i, Pattern=the, Pattern=not
+	Constrained: 
+Turn ID=2| A | A : uh i personally know nothing about the peace corps though .
+	Free: Pattern=uh, Pattern=i, Pattern=though, Pattern=the
+	Constrained: 
+Turn ID=3| B | M : and that's why we're in the market for houses huh ?
+	Free: Pattern=and, Pattern=why, Pattern=we're, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=4| A | A : uh-huh . well i bet you uh-huh .
+	Free: Pattern=i, Pattern=you
+	Constrained: 
+Turn ID=5| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=6| A | A : um . uh-huh . uh-huh . right lots of their picture and life story and everything .
+	Free: Pattern=of, Pattern=and
+	Constrained: 
+Turn ID=7| B | M :  ... we .
+	Free: Pattern=we
+	Constrained: 
+Turn ID=8| A | A : but . anyway well it's uh nice talking to you . think we've uh covered all the subject .
+	Free: Pattern=uh, Pattern=to, Pattern=the, Pattern=you
+	Constrained: 
+Turn ID=9| B | M : did you have a dad ?
+	Free: Pattern=did, Pattern=you
+	Constrained: 
+Turn ID=10| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : no .
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : yeah yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=13| B | M : yeah though
+	Free: Pattern=though, Pattern=yeah
+	Constrained: 
+Turn ID=14| A | A : yeah yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=15| B | M : i wonder what the name of the car would be ?
+	Free: Pattern=of, Pattern=i, Pattern=the
+	Constrained: 
+Turn ID=16| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : i'm pretty sure that's why he left he didn't want to be the only one .
+	Free: Pattern=he, Pattern=to, Pattern=why he, Pattern=that's, Pattern=the
+	Constrained: Pattern=why, Pattern=he
+Turn ID=18| A | A : if it finally gets to that point .
+	Free: Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=19| B | M : you mean the great barrier reef ?
+	Free: Pattern=the, Pattern=you
+	Constrained: 
+Turn ID=20| A | A : yep .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : his descendants
+	Free: Pattern=his
+	Constrained: 
+Turn ID=22| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=23| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : you see that ?
+	Free: Pattern=that, Pattern=you
+	Constrained: 
+Turn ID=26| A | A : you can you know you can get some of us
+	Free: Pattern=of, Pattern=you
+	Constrained: 
+Turn ID=27| B | M : oh . i'm not sure .
+	Free: Pattern=oh ., Pattern=not
+	Constrained: 
+Turn ID=28| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: 
+Turn ID=29| B | M : summer .
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : both . if we're not doing sports we go somewhere .
+	Free: Pattern=not, Pattern=we, Pattern=we're
+	Constrained: 
+Turn ID=31| B | M : do you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=32| A | A : wow wow that's
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=33| B | M : you're just sooo far away from me .
+	Free: Pattern=just
+	Constrained: 
+Turn ID=34| A | A : he's just there to serve his time and get back out on the street .
+	Free: Pattern=his, Pattern=just, Pattern=and, Pattern=he's, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=35| B | M : he's gone .
+	Free: Pattern=he's
+	Constrained: 
+Turn ID=36| B | M : yeah uhuh .
+	Free: Pattern=yeah
+	Constrained: 

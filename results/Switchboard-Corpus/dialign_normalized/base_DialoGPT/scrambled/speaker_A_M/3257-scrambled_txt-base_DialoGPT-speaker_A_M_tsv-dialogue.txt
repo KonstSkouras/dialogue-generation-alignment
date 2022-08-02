@@ -1,0 +1,235 @@
+A|0| A: _i_ i'm _a_ diver _and_ _so_ _that's_ _that's_ actually _been_ another _of_ my favorite vacations has _been_ taking little diving trips 
+B|1| M: [i] was _the_ _first_ person _to_ ask about _the_ team . 
+A|2| A: _right ._ _well_ _we_ just moved down here . _we_ used [to] live up _in_ seattle for _a couple of_ years . 
+B|3| M: [well] _the problem_ _is_ _that_ _they_ _don't_ _know what_ _to do with_ _them_ . 
+A|4| A: _yeah ._ 
+B|5| M: _you_ . 
+A|6| A: _yeah ._ 
+B|7| M: _how_ _long_ _have_ u [been] [in] _the_ church ? 
+A|8| A: [with] [the] company than than having [to] go _that's_ _that's_ _right _._ yes_ [i] agree [with] [that] . 
+B|9| M: _i _have_ a_ goldendoodle . 
+A|10| A: he's [been] on temporary duties where he's [been] gone nine months . 
+B|11| M: _it's_ _and we're_ [and] [a] dog [and] she _is_ . 
+A|12| A: deer spaghetti [is] real good . 
+B|13| M: _this is_ _an_ inconvenient fact 
+A|14| A: [and] i've thought for years _it_ would make [a] lot _of_ sense [to] create [an] eight hundred number for voters [to] call [and] [and] vent their frustration [with] government . _like_ one eight hundred capitol or _something_ _like_ [that] . _you know_ just [a] number [you] could call from anywhere anytime . 
+B|15| M:  
+A|16| A: but [i have] _fun_ doing _it_ some _uh_ _you know [i_ have] some good shots [and] some bad shots . 
+B|17| M: _yes [._ _yes] ._ no . no 
+A|18| A: [and] [i] looked at my husband [and] [i] said _you [know_ what] kyle [this is] [the] mansion at turtle creek [a] tip [i] bet these are really good seats [and] _so_ _we_ ended up on [first] base _right_ down there on [the] floor 
+B|19| M:  ... 
+A|20| A: [i] _i don't_ understand _it_ [they] consider _it_ violent _. [i_ have] _so_ ever [i have] seen _it_ on where _we_ are [i] live [in] _uh_ rochester new york [and] [i] think [a] 
+B|21| M: electric cars . 
+A|22| A: _we_ found [this] one area [that] doesn't [have] mosquitoes . [they] just [don't] [have] [them] [and] [it's] just wonderful not [to] be bugged all night [long] [with] [a] humming mosquito at your ear 
+B|23| M: [yeah [.] i] [know what] _it is_ . 
+A|24| A: _okay ._ bye-bye 
+B|25| M: [this is] _how_ [it] works . _if_ [you] [have] enough money [you] _have the_ money [to] buy _something ._ 
+A|26| A: uh-huh . isn't 
+B|27| M: [a] hand whisk ? 
+A|28| A: [i] agree there too [. i] agree [with] [you] there too [. i] [i] [the] um [i] [i] [it's] [i] find [it] _you know_ personally disgusting but _i don't_ think [that] _i don't_ think [that] _uh_ _we [have_ a] _right_ [to] stop somebody from [that] _you know_ 
+B|29| M: [i] see . [so] [you] [like] playing [with] other people ? 
+A|30| A: [yes [.] i] [do] not [like] [the] 
+B|31| M: when did he die ? 
+A|32| A: uh-huh . 
+B|33| M:  
+A|34| A: _okay ._ 
+B|35| M: _oh _._ [right_ .] 
+A|36| A: [and] _we_ start out [with] evening shade [and] major dad 
+B|37| M: _oh_ [okay .] 
+A|38| A: [well] good luck [to] [you] too . 
+B|39| M: [we have] [an] anime page 
+A|40| A: [so] [i] i'm wondering [if] [the] peace corps [is] really [an] effective tool . 
+B|41| M: most [of] [it] ? 
+A|42| A: probably [. right] [i] can imagine [that] . 
+B|43| M: [they] had [a] [fun] time running around [and] playing . 
+A|44| A: [and] were officially [yeah] [and we're] officially [in] [a] state [of] emergency . funny thing [is] [the] news [the] national news [how] [they] covered [it] . _uh_ 
+B|45| M: [i] 
+A|46| A: [if] [i] eat very much sugar boy just does [something .] 
+B|47| M: [you] tape [it] 
+A|48| A: _uh_ [oh .] 
+B|49| M: what's [a] lasagna ? 
+A|50| A: [it is] because [they] 
+B|51| M: [i [have] [a] couple of] yellow peppers . 
+A|52| A: uh-huh . 
+B|53| M: [oh .] [that's] unfortunate . 
+A|54| A: [well] i'll keep [that] one [in] mind . 
+B|55| M: [you know i] love [uh] 
+A|56| A: [and] from [that] point on [uh] at [the] n c double [a] does [have] [something] [to do with] [it] but [it's] almost discretionary on [the] coach's part [of] each individual institution [to] identify [the] ones [that] [have [the] problem] . 
+B|57| M: [i don't] [know] maybe . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : i i'm a diver and so that's that's actually been another of my favorite vacations has been taking little diving trips
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=i, Pattern=that's, Pattern=been, Pattern=so
+	Constrained: 
+Turn ID=1| B | M : i was the first person to ask about the team .
+	Free: Pattern=the, Pattern=first, Pattern=i, Pattern=to
+	Constrained: 
+Turn ID=2| A | A : right . well we just moved down here . we used to live up in seattle for a couple of years .
+	Free: Pattern=a couple of, Pattern=well, Pattern=in, Pattern=right ., Pattern=we, Pattern=to
+	Constrained: Pattern=a, Pattern=right, Pattern=of
+Turn ID=3| B | M : well the problem is that they don't know what to do with them .
+	Free: Pattern=well, Pattern=they, Pattern=know what, Pattern=is, Pattern=the problem, Pattern=don't, Pattern=to do with, Pattern=them, Pattern=that
+	Constrained: Pattern=do, Pattern=know, Pattern=the, Pattern=to, Pattern=with
+Turn ID=4| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=5| B | M : you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=6| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=7| B | M : how long have u been in the church ?
+	Free: Pattern=have, Pattern=long, Pattern=how, Pattern=in, Pattern=the, Pattern=been
+	Constrained: 
+Turn ID=8| A | A : with the company than than having to go that's that's right . yes i agree with that .
+	Free: Pattern=. yes, Pattern=right ., Pattern=i, Pattern=to, Pattern=that's, Pattern=the, Pattern=with, Pattern=that
+	Constrained: Pattern=right
+Turn ID=9| B | M : i have a goldendoodle .
+	Free: Pattern=i have, Pattern=have a
+	Constrained: Pattern=a, Pattern=have, Pattern=i
+Turn ID=10| A | A : he's been on temporary duties where he's been gone nine months .
+	Free: Pattern=been
+	Constrained: 
+Turn ID=11| B | M : it's and we're and a dog and she is .
+	Free: Pattern=a, Pattern=and, Pattern=and we're, Pattern=is, Pattern=it's
+	Constrained: Pattern=and
+Turn ID=12| A | A : deer spaghetti is real good .
+	Free: Pattern=is
+	Constrained: 
+Turn ID=13| B | M : this is an inconvenient fact
+	Free: Pattern=this is, Pattern=an
+	Constrained: Pattern=this, Pattern=is
+Turn ID=14| A | A : and i've thought for years it would make a lot of sense to create an eight hundred number for voters to call and and vent their frustration with government . like one eight hundred capitol or something like that . you know just a number you could call from anywhere anytime .
+	Free: Pattern=of, Pattern=a, Pattern=an, Pattern=like, Pattern=to, Pattern=something, Pattern=you, Pattern=you know, Pattern=it, Pattern=and, Pattern=with, Pattern=that
+	Constrained: Pattern=know, Pattern=you
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : but i have fun doing it some uh you know i have some good shots and some bad shots .
+	Free: Pattern=fun, Pattern=uh, Pattern=you know i, Pattern=i have, Pattern=it, Pattern=and
+	Constrained: Pattern=have, Pattern=know, Pattern=i, Pattern=you, Pattern=you know
+Turn ID=17| B | M : yes . yes . no . no
+	Free: Pattern=yes ., Pattern=. yes
+	Constrained: 
+Turn ID=18| A | A : and i looked at my husband and i said you know what kyle this is the mansion at turtle creek a tip i bet these are really good seats and so we ended up on first base right down there on the floor
+	Free: Pattern=right, Pattern=you know, Pattern=and, Pattern=know what, Pattern=i, Pattern=we, Pattern=the, Pattern=first, Pattern=so, Pattern=a, Pattern=this is
+	Constrained: Pattern=this, Pattern=is, Pattern=you, Pattern=know
+Turn ID=19| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : i i don't understand it they consider it violent . i have so ever i have seen it on where we are i live in uh rochester new york and i think a
+	Free: Pattern=uh, Pattern=i don't, Pattern=they, Pattern=a, Pattern=. i, Pattern=in, Pattern=i, Pattern=we, Pattern=so, Pattern=i have, Pattern=it, Pattern=and
+	Constrained: Pattern=don't, Pattern=have, Pattern=i
+Turn ID=21| B | M : electric cars .
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : we found this one area that doesn't have mosquitoes . they just don't have them and it's just wonderful not to be bugged all night long with a humming mosquito at your ear
+	Free: Pattern=have, Pattern=long, Pattern=they, Pattern=a, Pattern=and, Pattern=we, Pattern=don't, Pattern=to, Pattern=this, Pattern=with, Pattern=it's, Pattern=them, Pattern=that
+	Constrained: 
+Turn ID=23| B | M : yeah . i know what it is .
+	Free: Pattern=know what, Pattern=it is, Pattern=yeah ., Pattern=. i
+	Constrained: Pattern=know, Pattern=it, Pattern=yeah, Pattern=is, Pattern=i
+Turn ID=24| A | A : okay . bye-bye
+	Free: Pattern=okay .
+	Constrained: 
+Turn ID=25| B | M : this is how it works . if you have enough money you have the money to buy something .
+	Free: Pattern=have, Pattern=this is, Pattern=how, Pattern=it, Pattern=if, Pattern=something ., Pattern=to, Pattern=you, Pattern=have the
+	Constrained: Pattern=have, Pattern=is, Pattern=the, Pattern=this, Pattern=something
+Turn ID=26| A | A : uh-huh . isn't
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : a hand whisk ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=28| A | A : i agree there too . i agree with you there too . i i the um i i it's i find it you know personally disgusting but i don't think that i don't think that uh we have a right to stop somebody from that you know
+	Free: Pattern=right, Pattern=i don't, Pattern=have a, Pattern=it, Pattern=we have, Pattern=. i, Pattern=i, Pattern=the, Pattern=to, Pattern=you, Pattern=uh, Pattern=you know, Pattern=with, Pattern=that, Pattern=it's
+	Constrained: Pattern=you, Pattern=have, Pattern=a, Pattern=know, Pattern=i, Pattern=we, Pattern=don't
+Turn ID=29| B | M : i see . so you like playing with other people ?
+	Free: Pattern=you, Pattern=i, Pattern=like, Pattern=with, Pattern=so
+	Constrained: 
+Turn ID=30| A | A : yes . i do not like the
+	Free: Pattern=do, Pattern=yes ., Pattern=. i, Pattern=like, Pattern=the
+	Constrained: Pattern=i
+Turn ID=31| B | M : when did he die ?
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: 
+Turn ID=35| B | M : oh . right .
+	Free: Pattern=oh ., Pattern=right ., Pattern=. right
+	Constrained: Pattern=right, Pattern=oh
+Turn ID=36| A | A : and we start out with evening shade and major dad
+	Free: Pattern=we, Pattern=and, Pattern=with
+	Constrained: 
+Turn ID=37| B | M : oh okay .
+	Free: Pattern=okay ., Pattern=oh
+	Constrained: 
+Turn ID=38| A | A : well good luck to you too .
+	Free: Pattern=well, Pattern=you, Pattern=to
+	Constrained: 
+Turn ID=39| B | M : we have an anime page
+	Free: Pattern=we have, Pattern=an
+	Constrained: Pattern=we, Pattern=have
+Turn ID=40| A | A : so i i'm wondering if the peace corps is really an effective tool .
+	Free: Pattern=an, Pattern=if, Pattern=the, Pattern=so, Pattern=is, Pattern=i
+	Constrained: 
+Turn ID=41| B | M : most of it ?
+	Free: Pattern=it, Pattern=of
+	Constrained: 
+Turn ID=42| A | A : probably . right i can imagine that .
+	Free: Pattern=. right, Pattern=that, Pattern=i
+	Constrained: Pattern=right
+Turn ID=43| B | M : they had a fun time running around and playing .
+	Free: Pattern=a, Pattern=they, Pattern=and, Pattern=fun
+	Constrained: 
+Turn ID=44| A | A : and were officially yeah and we're officially in a state of emergency . funny thing is the news the national news how they covered it . uh
+	Free: Pattern=of, Pattern=uh, Pattern=they, Pattern=a, Pattern=how, Pattern=and we're, Pattern=in, Pattern=is, Pattern=the, Pattern=and, Pattern=it, Pattern=yeah
+	Constrained: Pattern=and
+Turn ID=45| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=46| A | A : if i eat very much sugar boy just does something .
+	Free: Pattern=something ., Pattern=if, Pattern=i
+	Constrained: Pattern=something
+Turn ID=47| B | M : you tape it
+	Free: Pattern=it, Pattern=you
+	Constrained: 
+Turn ID=48| A | A : uh oh .
+	Free: Pattern=oh ., Pattern=uh
+	Constrained: Pattern=oh
+Turn ID=49| B | M : what's a lasagna ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=50| A | A : it is because they
+	Free: Pattern=it is, Pattern=they
+	Constrained: Pattern=it, Pattern=is
+Turn ID=51| B | M : i have a couple of yellow peppers .
+	Free: Pattern=a couple of, Pattern=i have, Pattern=have a
+	Constrained: Pattern=a, Pattern=i, Pattern=of, Pattern=have
+Turn ID=52| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : oh . that's unfortunate .
+	Free: Pattern=oh ., Pattern=that's
+	Constrained: Pattern=oh
+Turn ID=54| A | A : well i'll keep that one in mind .
+	Free: Pattern=well, Pattern=that, Pattern=in
+	Constrained: 
+Turn ID=55| B | M : you know i love uh
+	Free: Pattern=you know i, Pattern=uh
+	Constrained: Pattern=you know, Pattern=i, Pattern=you, Pattern=know
+Turn ID=56| A | A : and from that point on uh at the n c double a does have something to do with it but it's almost discretionary on the coach's part of each individual institution to identify the ones that have the problem .
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=to do with, Pattern=to, Pattern=something, Pattern=uh, Pattern=have the, Pattern=it, Pattern=and, Pattern=the problem, Pattern=the, Pattern=that, Pattern=it's
+	Constrained: Pattern=have, Pattern=do, Pattern=the, Pattern=to, Pattern=with
+Turn ID=57| B | M : i don't know maybe .
+	Free: Pattern=i don't, Pattern=know
+	Constrained: Pattern=don't, Pattern=i

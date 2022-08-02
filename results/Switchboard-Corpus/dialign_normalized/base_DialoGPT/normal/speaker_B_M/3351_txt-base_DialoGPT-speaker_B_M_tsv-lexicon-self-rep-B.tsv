@@ -1,0 +1,55 @@
+Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	a dog and a cat .	29	M	5, 33
+2	6	have a dog and a cat	39	M	5, 43
+2	3	a dog .	29	M	9, 37
+2	3	a little bit	15	M	49, 63
+2	3	he had a	23	M	35, 57
+2	3	was a dog	5	M	33, 37
+6	2	a dog	53	M	5, 9, 33, 37, 43, 57
+4	2	a cat	39	M	5, 23, 33, 43
+4	2	dog .	49	M	3, 9, 37, 51
+4	2	have a	39	M	5, 13, 23, 43
+4	2	i was	35	M	37, 61, 69, 71
+3	2	cat .	29	M	5, 11, 33
+3	2	had a	41	M	17, 35, 57
+2	2	a snake	9	M	17, 25
+2	2	i'm just	51	M	9, 59
+2	2	i'm not	15	M	45, 59
+2	2	i'm sorry	9	M	45, 53
+2	2	in the	33	M	37, 69
+2	2	right ?	21	M	43, 63
+2	2	say it	3	M	59, 61
+2	2	they have	35	M	5, 39
+2	2	you have	7	M	17, 23
+18	1	a	59	M	5, 9, 11, 13, 17, 23, 25, 27, 33, 35, 37, 43, 49, 51, 55, 57, 59, 63
+10	1	i	63	M	9, 13, 15, 37, 47, 61, 63, 67, 69, 71
+7	1	was	39	M	33, 37, 41, 55, 61, 69, 71
+6	1	and	65	M	3, 5, 33, 37, 43, 67
+6	1	cat	67	M	5, 11, 23, 33, 43, 71
+6	1	it	37	M	25, 27, 33, 35, 59, 61
+5	1	the	67	M	3, 29, 37, 61, 69
+5	1	you	53	M	17, 23, 37, 67, 69
+4	1	had	41	M	17, 27, 35, 57
+4	1	he	23	M	35, 41, 49, 57
+4	1	not	39	M	21, 29, 45, 59
+4	1	we	33	M	27, 43, 55, 59
+3	1	is	47	M	3, 25, 49
+3	1	just	61	M	9, 59, 69
+3	1	know	55	M	9, 37, 63
+3	1	right	33	M	31, 43, 63
+3	1	they	39	M	1, 5, 39
+3	1	you're	21	M	11, 21, 31
+2	1	are	7	M	1, 7
+2	1	do	17	M	23, 39
+2	1	for	27	M	27, 53
+2	1	it's	5	M	59, 63
+2	1	like	23	M	45, 67
+2	1	of	23	M	37, 59
+2	1	old	5	M	51, 55
+2	1	only	23	M	29, 51
+2	1	so	25	M	43, 67
+2	1	this	31	M	39, 69
+2	1	to	7	M	39, 45
+2	1	very	11	M	41, 51
+2	1	your	35	M	19, 53
+

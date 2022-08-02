@@ -1,0 +1,131 @@
+A|0| A: but um _i_ personally am for _the_ trying _it_ at _home_ caretaker part before _i think_ i'd ever 
+B|1| M:  ... [i] _don't_ _know_ . 
+A|2| A: wow . 
+B|3| M: _you_ can't _or_ _we_ _know_ 
+A|4| A: so that and my husband and son go camping with scouts mostly . 
+B|5| M: what's _a_ house ? 
+A|6| A: because my wife will be doing her internship that semester . 
+B|7| M: it's _a_ bit different . 
+A|8| A: but _i think_ that might be [a] violation _of_ someone's rights . if someone's having personal problems for some reason _that's_ causing them _to_ behave differently 
+B|9| M: this 
+A|10| A: _uh_ 
+B|11| M: _we_ _have_ mosquit . 
+A|12| A: that is for sure . 
+B|13| M: _you know_ [i think] i've heard [of] [a] guy ... 
+A|14| A: they _do_ . _well_ _it_ was very good _it_ just takes up [you know] like [you] say [a] lot [of] your garden area . 
+B|15| M: [you] should _have_ bought [it] 
+A|16| A: uh-huh . 
+B|17| M: _oh_ [uh] there's [uh] no . 
+A|18| A: right . and actually in in summer [i] like _to_ swim . [we] [don't] [have] facilities for swimming in winter but um and and _that's_ true when [i] go _home_ _from_ work at _the_ end [of] _the_ day if [i] go up for an hour in _the_ pool i'm much much _more_ awake i'm ready _to_ work in _the_ garden [or] whatever in _the_ evening . 
+B|19| M: [well] [i think] there's [more] [to] [it] . 
+A|20| A: so we're just starting into hunting for child care . 
+B|21| M: she's [a] dog . 
+A|22| A: yeah . 
+B|23| M: [well] [that's] read . 
+A|24| A: [i] would imagine [it] is . 
+B|25| M: [well] [i] [don't] [know] . 
+A|26| A: but [i] [know] they let [you] they'll let [you] decrease _how_ many hours [you] work by kind [of] percentage . [you know] they'll let [you] work halftime if [you] want [to] if [you] want [to] finish 
+B|27| M: hmmm . hm . hm . [how] did [you] [do] [it] ? 
+A|28| A: [oh] [that's] great . 
+B|29| M: you're [from] [the] south . 
+A|30| A: [well] [oh] hobbies gee whiz [i] guess [i] got too many hobbies so [i] never [have] time [to] deal with them . 
+B|31| M: take [home] baked bread 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : but um i personally am for the trying it at home caretaker part before i think i'd ever
+	Free: Pattern=it, Pattern=i, Pattern=the, Pattern=home, Pattern=i think
+	Constrained: Pattern=i
+Turn ID=1| B | M :  ... i don't know .
+	Free: Pattern=know, Pattern=i, Pattern=don't
+	Constrained: 
+Turn ID=2| A | A : wow .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : you can't or we know
+	Free: Pattern=we, Pattern=know, Pattern=you, Pattern=or
+	Constrained: 
+Turn ID=4| A | A : so that and my husband and son go camping with scouts mostly .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : what's a house ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=6| A | A : because my wife will be doing her internship that semester .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : it's a bit different .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=8| A | A : but i think that might be a violation of someone's rights . if someone's having personal problems for some reason that's causing them to behave differently
+	Free: Pattern=of, Pattern=a, Pattern=that's, Pattern=to, Pattern=i think
+	Constrained: Pattern=i
+Turn ID=9| B | M : this
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=11| B | M : we have mosquit .
+	Free: Pattern=have, Pattern=we
+	Constrained: 
+Turn ID=12| A | A : that is for sure .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : you know i think i've heard of a guy ...
+	Free: Pattern=you know, Pattern=i think, Pattern=of, Pattern=a
+	Constrained: Pattern=know, Pattern=i, Pattern=you
+Turn ID=14| A | A : they do . well it was very good it just takes up you know like you say a lot of your garden area .
+	Free: Pattern=of, Pattern=well, Pattern=it, Pattern=you, Pattern=you know, Pattern=do, Pattern=a
+	Constrained: Pattern=know, Pattern=you
+Turn ID=15| B | M : you should have bought it
+	Free: Pattern=have, Pattern=it, Pattern=you
+	Constrained: 
+Turn ID=16| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : oh uh there's uh no .
+	Free: Pattern=oh, Pattern=uh
+	Constrained: 
+Turn ID=18| A | A : right . and actually in in summer i like to swim . we don't have facilities for swimming in winter but um and and that's true when i go home from work at the end of the day if i go up for an hour in the pool i'm much much more awake i'm ready to work in the garden or whatever in the evening .
+	Free: Pattern=have, Pattern=from, Pattern=i, Pattern=we, Pattern=or, Pattern=don't, Pattern=to, Pattern=home, Pattern=of, Pattern=more, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=19| B | M : well i think there's more to it .
+	Free: Pattern=more, Pattern=well, Pattern=it, Pattern=to, Pattern=i think
+	Constrained: Pattern=i
+Turn ID=20| A | A : so we're just starting into hunting for child care .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : she's a dog .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=22| A | A : yeah .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : well that's read .
+	Free: Pattern=well, Pattern=that's
+	Constrained: 
+Turn ID=24| A | A : i would imagine it is .
+	Free: Pattern=it, Pattern=i
+	Constrained: 
+Turn ID=25| B | M : well i don't know .
+	Free: Pattern=well, Pattern=know, Pattern=i, Pattern=don't
+	Constrained: 
+Turn ID=26| A | A : but i know they let you they'll let you decrease how many hours you work by kind of percentage . you know they'll let you work halftime if you want to if you want to finish
+	Free: Pattern=of, Pattern=how, Pattern=know, Pattern=i, Pattern=to, Pattern=you, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=27| B | M : hmmm . hm . hm . how did you do it ?
+	Free: Pattern=it, Pattern=do, Pattern=how, Pattern=you
+	Constrained: 
+Turn ID=28| A | A : oh that's great .
+	Free: Pattern=oh, Pattern=that's
+	Constrained: 
+Turn ID=29| B | M : you're from the south .
+	Free: Pattern=from, Pattern=the
+	Constrained: 
+Turn ID=30| A | A : well oh hobbies gee whiz i guess i got too many hobbies so i never have time to deal with them .
+	Free: Pattern=well, Pattern=have, Pattern=oh, Pattern=i, Pattern=to
+	Constrained: 
+Turn ID=31| B | M : take home baked bread
+	Free: Pattern=home
+	Constrained: 

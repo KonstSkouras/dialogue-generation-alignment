@@ -1,0 +1,143 @@
+A|0| B: _so_ . 
+B|1| M:  ... 
+A|2| B: _and_ uh _if_ _you have_ _a_ new high efficiency system that uses _the_ new type of freons that _do_ _not_ release as many c f c into _the_ atmosphere it doesn't cost as much _so_ eventually people _are_ going _to_ _have to_ go _to_ newer systems _you_ know 
+B|3| M: [you] could use [a] yard sale _or_ something . 
+A|4| B: _right ._ well does your _the_ company say for instance does _the_ company [you] worked for before _have_ _the_ _right_ [or] _do_ _they have_ _the_ ability _to_ say hey we've already drug tested her _and_ she came up negative . 
+B|5| M: _did_ [they [have] to] [do] this ? 
+A|6| B: _so_ _i_ hope _so_ . 
+B|7| M: _i think_ [you] mean [the] cowboys . 
+A|8| B: uh _i do_ too _in_ fact 
+B|9| M: no it's just [a] bad solution . 
+A|10| B: uh one man can never be one man one woman can never be objectionable _in_ every case . 
+B|11| M: _they're_ still _in the_ news . 
+A|12| B: [i think] those should be uninsurable . [i think] those should [have to] be paid by [the] corporation itself that that [did] [the] damage . 
+B|13| M:  
+A|14| B: actually it was more fun than [you] would [think] . _yeah_ starting from [the] beginning but um _yeah_ we live also live [in the] city _now_ actually [in] manhattan . 
+B|15| M: hahaha . that's great . 
+A|16| B: unsweetened ? 
+B|17| M: sheroflip . 
+A|18| B: _and_ it isn't because of [the] well there has been [a] lot of speculative building . uh [i] don't know perhaps _not_ [in] dallas 
+B|19| M: huh 
+A|20| B: _and_ 
+B|21| M: [so] [you have] two cars ? 
+A|22| B: yes . yes . 
+B|23| M: haha . 
+A|24| B: [i] [have] one brother [so] . 
+B|25| M: no . no it's [not] . 
+A|26| B: uh-huh . 
+B|27| M: [i do] ! 
+A|28| B: _and_ uh [they're] going [to] [the] big cities . it makes it very difficult . 
+B|29| M: [yeah] . [right .] 
+A|30| B: bye . 
+B|31| M: [if] [they] [are] [not] convicted then [they] [are] considered guilty . 
+A|32| B: [the] thing [the] other thing is [the] [i] don't like [the] rain either . 
+B|33| M: [and] [now] i'm [in] [a] good mood 
+A|34| B: [right .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : so .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=1| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=2| A | B : and uh if you have a new high efficiency system that uses the new type of freons that do not release as many c f c into the atmosphere it doesn't cost as much so eventually people are going to have to go to newer systems you know
+	Free: Pattern=you, Pattern=and, Pattern=you have, Pattern=the, Pattern=have to, Pattern=to, Pattern=so, Pattern=not, Pattern=do, Pattern=a, Pattern=are, Pattern=if
+	Constrained: Pattern=to, Pattern=you, Pattern=have
+Turn ID=3| B | M : you could use a yard sale or something .
+	Free: Pattern=you, Pattern=a, Pattern=or
+	Constrained: 
+Turn ID=4| A | B : right . well does your the company say for instance does the company you worked for before have the right or do they have the ability to say hey we've already drug tested her and she came up negative .
+	Free: Pattern=right, Pattern=you, Pattern=do, Pattern=and, Pattern=right ., Pattern=or, Pattern=the, Pattern=to, Pattern=they have, Pattern=have
+	Constrained: Pattern=right, Pattern=have, Pattern=they
+Turn ID=5| B | M : did they have to do this ?
+	Free: Pattern=they have, Pattern=have to, Pattern=do, Pattern=did
+	Constrained: Pattern=to, Pattern=have, Pattern=they
+Turn ID=6| A | B : so i hope so .
+	Free: Pattern=so, Pattern=i
+	Constrained: 
+Turn ID=7| B | M : i think you mean the cowboys .
+	Free: Pattern=i think, Pattern=the, Pattern=you
+	Constrained: Pattern=i, Pattern=think
+Turn ID=8| A | B : uh i do too in fact
+	Free: Pattern=i do, Pattern=in
+	Constrained: Pattern=do, Pattern=i
+Turn ID=9| B | M : no it's just a bad solution .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=10| A | B : uh one man can never be one man one woman can never be objectionable in every case .
+	Free: Pattern=in
+	Constrained: 
+Turn ID=11| B | M : they're still in the news .
+	Free: Pattern=in the, Pattern=they're
+	Constrained: Pattern=the, Pattern=in
+Turn ID=12| A | B : i think those should be uninsurable . i think those should have to be paid by the corporation itself that that did the damage .
+	Free: Pattern=i think, Pattern=have to, Pattern=did, Pattern=the
+	Constrained: Pattern=to, Pattern=i, Pattern=think, Pattern=have
+Turn ID=13| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : actually it was more fun than you would think . yeah starting from the beginning but um yeah we live also live in the city now actually in manhattan .
+	Free: Pattern=you, Pattern=yeah, Pattern=in the, Pattern=the, Pattern=now, Pattern=think, Pattern=in
+	Constrained: Pattern=the, Pattern=in
+Turn ID=15| B | M : hahaha . that's great .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : unsweetened ?
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : sheroflip .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : and it isn't because of the well there has been a lot of speculative building . uh i don't know perhaps not in dallas
+	Free: Pattern=a, Pattern=and, Pattern=in, Pattern=i, Pattern=the, Pattern=not
+	Constrained: 
+Turn ID=19| B | M : huh
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : and
+	Free: Pattern=and
+	Constrained: 
+Turn ID=21| B | M : so you have two cars ?
+	Free: Pattern=you have, Pattern=so
+	Constrained: Pattern=you, Pattern=have
+Turn ID=22| A | B : yes . yes .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : haha .
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : i have one brother so .
+	Free: Pattern=so, Pattern=i, Pattern=have
+	Constrained: 
+Turn ID=25| B | M : no . no it's not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=26| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : i do !
+	Free: Pattern=i do
+	Constrained: Pattern=do, Pattern=i
+Turn ID=28| A | B : and uh they're going to the big cities . it makes it very difficult .
+	Free: Pattern=they're, Pattern=to, Pattern=the, Pattern=and
+	Constrained: 
+Turn ID=29| B | M : yeah . right .
+	Free: Pattern=right ., Pattern=yeah
+	Constrained: Pattern=right
+Turn ID=30| A | B : bye .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : if they are not convicted then they are considered guilty .
+	Free: Pattern=if, Pattern=not, Pattern=are, Pattern=they
+	Constrained: 
+Turn ID=32| A | B : the thing the other thing is the i don't like the rain either .
+	Free: Pattern=the, Pattern=i
+	Constrained: 
+Turn ID=33| B | M : and now i'm in a good mood
+	Free: Pattern=now, Pattern=a, Pattern=in, Pattern=and
+	Constrained: 
+Turn ID=34| A | B : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right

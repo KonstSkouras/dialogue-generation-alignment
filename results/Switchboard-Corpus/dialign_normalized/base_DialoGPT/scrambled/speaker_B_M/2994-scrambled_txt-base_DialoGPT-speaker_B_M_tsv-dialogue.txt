@@ -1,0 +1,231 @@
+A|0| B: yes _uh_ maybe you'll play around some _and_ figure out _how_ _they_ can help _you_ _do_ _different_ things . _i think_ that's when _you_ _you_ start deciding that _you_ really need greater assets than _you_ already have . when _you_ start seeing _what_ all _they_ can _do_ for _you_ . 
+B|1| M: so camping [and] canoe ? 
+A|2| B: have _you_ been _uh_ struggling along those lines ? 
+B|3| M: this _is_ why [i] _always_ go _to_ _the_ bathroom _in the_ morning . 
+A|4| B: but _his_ _what_ _he_ does [is] when _he_ gets home _he_ separates _his_ work from _his_ house . 
+B|5| M: [they] [do] _it_ 
+A|6| B: right . _yeah_ _yeah_ . 
+B|7| M: _are_ [you] serious ? 
+A|8| B: _oh_ that's right . [i] work for _a_ law firm 
+B|9| M: uhh [uh] [uh] . [uh] [uh] 
+A|10| B: _oh_ _well_ _it's not_ that long ago . [it] was _oh_ twelve times of [the] year . 
+B|11| M: [what] happened _to_ _it ?_ 
+A|12| B: okay . 
+B|13| M: _we_ _are_ . 
+A|14| B: _yeah_ . 
+B|15| M: _we_ _like_ eat [uh] food . 
+A|16| B: that's exactly where both of [the] wives came from _i think_ . 
+B|17| M:  
+A|18| B: _yeah_ 
+B|19| M: i'm [not] sure . 
+A|20| B: [what] about utah ? 
+B|21| M: [well] we're _also_ gonna be [a] bit [different] . 
+A|22| B: _yeah_ . [i] i've [always] liked that . [the] _you know i_ [we] _don't_ have much yard but [i] built [a] small deck [in the] back . 
+B|23| M: i'm guessing [he] has an [i] m [in] [his] computer . 
+A|24| B: [uh] other than that [it] was [a] at best . 
+B|25| M: [well] [uh] [uh] 
+A|26| B: okay . 
+B|27| M: [i] felt . 
+A|28| B: of [the] vanity 
+B|29| M:  
+A|30| B: [uh] copperheads mostly 
+B|31| M: uhh [uh] [i think] [you] mean [a] wood stove . 
+A|32| B: uh-huh . 
+B|33| M: [it's not] . 
+A|34| B: right . 
+B|35| M: [yeah] [uh] [i think] you've got [it] . 
+A|36| B: um . 
+B|37| M: [i] [don't] i'm [a] woman . 
+A|38| B: right . [yeah] [and] [it's] [also] right now [it's] [uh] [the] [like] everywhere else [uh] here [in] pittsburgh [the] health care [uh] rates [are] [are] going up pretty quickly . 
+B|39| M: i'm [not] [a] piano player . 
+A|40| B: but then [uh] [we] [also] didn't [do] spend [uh] time with them trying [to] trying [to] [uh] _you know_ _just_ family time . 
+B|41| M: [you know i] [just] [don't] [like] tacos . 
+A|42| B: [yeah] . 
+B|43| M: hehehe . no 
+A|44| B: i'll say . 
+B|45| M: [well] [i] [don't] [think] [they] [do] . 
+A|46| B: [well] [not] necessarily 
+B|47| M: [oh] . [well] [how] old [are] [you] ? 
+A|48| B: [and] he's [like] glued at [the] t v . 
+B|49| M: [they] [are] my parents'rooms . 
+A|50| B: [how] long [do] [you] have [to] bake [it ?] 
+B|51| M: i'm [a] 
+A|52| B: [and] [they] get [a] slap on [the] wrist . [they] get thirty days [in] jail 
+B|53| M:  
+A|54| B: [yeah] . 
+B|55| M: [you] [it's not] [like] [the] factory [is] expensive . 
+A|56| B: right . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : yes uh maybe you'll play around some and figure out how they can help you do different things . i think that's when you you start deciding that you really need greater assets than you already have . when you start seeing what all they can do for you .
+	Free: Pattern=different, Pattern=do, Pattern=how, Pattern=and, Pattern=i think, Pattern=you, Pattern=uh, Pattern=what, Pattern=they
+	Constrained: Pattern=i, Pattern=think
+Turn ID=1| B | M : so camping and canoe ?
+	Free: Pattern=and
+	Constrained: 
+Turn ID=2| A | B : have you been uh struggling along those lines ?
+	Free: Pattern=uh, Pattern=you
+	Constrained: 
+Turn ID=3| B | M : this is why i always go to the bathroom in the morning .
+	Free: Pattern=always, Pattern=in the, Pattern=the, Pattern=to, Pattern=is, Pattern=i
+	Constrained: Pattern=the, Pattern=in
+Turn ID=4| A | B : but his what he does is when he gets home he separates his work from his house .
+	Free: Pattern=his, Pattern=is, Pattern=he, Pattern=what
+	Constrained: 
+Turn ID=5| B | M : they do it
+	Free: Pattern=it, Pattern=do, Pattern=they
+	Constrained: 
+Turn ID=6| A | B : right . yeah yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=7| B | M : are you serious ?
+	Free: Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=8| A | B : oh that's right . i work for a law firm
+	Free: Pattern=a, Pattern=i, Pattern=oh
+	Constrained: 
+Turn ID=9| B | M : uhh uh uh . uh uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=10| A | B : oh well it's not that long ago . it was oh twelve times of the year .
+	Free: Pattern=well, Pattern=the, Pattern=it's not, Pattern=it, Pattern=oh
+	Constrained: Pattern=not, Pattern=it's
+Turn ID=11| B | M : what happened to it ?
+	Free: Pattern=it ?, Pattern=to, Pattern=what
+	Constrained: Pattern=it
+Turn ID=12| A | B : okay .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : we are .
+	Free: Pattern=we, Pattern=are
+	Constrained: 
+Turn ID=14| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=15| B | M : we like eat uh food .
+	Free: Pattern=we, Pattern=uh, Pattern=like
+	Constrained: 
+Turn ID=16| A | B : that's exactly where both of the wives came from i think .
+	Free: Pattern=i think, Pattern=the
+	Constrained: Pattern=i, Pattern=think
+Turn ID=17| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=19| B | M : i'm not sure .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=20| A | B : what about utah ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=21| B | M : well we're also gonna be a bit different .
+	Free: Pattern=different, Pattern=well, Pattern=a, Pattern=also
+	Constrained: 
+Turn ID=22| A | B : yeah . i i've always liked that . the you know i we don't have much yard but i built a small deck in the back .
+	Free: Pattern=always, Pattern=a, Pattern=yeah, Pattern=in the, Pattern=i, Pattern=we, Pattern=the, Pattern=don't, Pattern=you know i
+	Constrained: Pattern=in, Pattern=i, Pattern=the, Pattern=you, Pattern=you know
+Turn ID=23| B | M : i'm guessing he has an i m in his computer .
+	Free: Pattern=his, Pattern=in, Pattern=he, Pattern=i
+	Constrained: 
+Turn ID=24| A | B : uh other than that it was a at best .
+	Free: Pattern=it, Pattern=a, Pattern=uh
+	Constrained: 
+Turn ID=25| B | M : well uh uh
+	Free: Pattern=well, Pattern=uh
+	Constrained: 
+Turn ID=26| A | B : okay .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : i felt .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=28| A | B : of the vanity
+	Free: Pattern=the
+	Constrained: 
+Turn ID=29| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : uh copperheads mostly
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=31| B | M : uhh uh i think you mean a wood stove .
+	Free: Pattern=i think, Pattern=a, Pattern=uh, Pattern=you
+	Constrained: Pattern=i, Pattern=think
+Turn ID=32| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : it's not .
+	Free: Pattern=it's not
+	Constrained: Pattern=not, Pattern=it's
+Turn ID=34| A | B : right .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : yeah uh i think you've got it .
+	Free: Pattern=i think, Pattern=it, Pattern=uh, Pattern=yeah
+	Constrained: Pattern=i, Pattern=think
+Turn ID=36| A | B : um .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : i don't i'm a woman .
+	Free: Pattern=a, Pattern=i, Pattern=don't
+	Constrained: 
+Turn ID=38| A | B : right . yeah and it's also right now it's uh the like everywhere else uh here in pittsburgh the health care uh rates are are going up pretty quickly .
+	Free: Pattern=uh, Pattern=are, Pattern=in, Pattern=the, Pattern=it's, Pattern=yeah, Pattern=and, Pattern=also, Pattern=like
+	Constrained: 
+Turn ID=39| B | M : i'm not a piano player .
+	Free: Pattern=not, Pattern=a
+	Constrained: 
+Turn ID=40| A | B : but then uh we also didn't do spend uh time with them trying to trying to uh you know just family time .
+	Free: Pattern=just, Pattern=do, Pattern=to, Pattern=uh, Pattern=you know, Pattern=also, Pattern=we
+	Constrained: Pattern=you
+Turn ID=41| B | M : you know i just don't like tacos .
+	Free: Pattern=you know i, Pattern=just, Pattern=don't, Pattern=like
+	Constrained: Pattern=you know, Pattern=i, Pattern=you
+Turn ID=42| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=43| B | M : hehehe . no
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : i'll say .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : well i don't think they do .
+	Free: Pattern=well, Pattern=they, Pattern=do, Pattern=think, Pattern=i, Pattern=don't
+	Constrained: 
+Turn ID=46| A | B : well not necessarily
+	Free: Pattern=well, Pattern=not
+	Constrained: 
+Turn ID=47| B | M : oh . well how old are you ?
+	Free: Pattern=well, Pattern=you, Pattern=how, Pattern=oh, Pattern=are
+	Constrained: 
+Turn ID=48| A | B : and he's like glued at the t v .
+	Free: Pattern=the, Pattern=like, Pattern=and
+	Constrained: 
+Turn ID=49| B | M : they are my parents'rooms .
+	Free: Pattern=are, Pattern=they
+	Constrained: 
+Turn ID=50| A | B : how long do you have to bake it ?
+	Free: Pattern=you, Pattern=it ?, Pattern=do, Pattern=how, Pattern=to
+	Constrained: Pattern=it
+Turn ID=51| B | M : i'm a
+	Free: Pattern=a
+	Constrained: 
+Turn ID=52| A | B : and they get a slap on the wrist . they get thirty days in jail
+	Free: Pattern=they, Pattern=a, Pattern=and, Pattern=in, Pattern=the
+	Constrained: 
+Turn ID=53| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=54| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=55| B | M : you it's not like the factory is expensive .
+	Free: Pattern=you, Pattern=is, Pattern=like, Pattern=the, Pattern=it's not
+	Constrained: Pattern=not, Pattern=it's
+Turn ID=56| A | B : right .
+	Free: 
+	Constrained: 

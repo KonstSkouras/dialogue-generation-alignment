@@ -1,0 +1,191 @@
+A|0| B: _uh-huh ._ _well_ _that's_ 
+B|1| M: _but_ _i don't know_ _. i_ think _uh_ . 
+A|2| B: _uh-huh ._ 
+B|3| M: _but_ _i don't know_ _i_ _there's a lot of_ things _that_ could _be_ done about _it_ _. i_ mean _i_ don tinker around _with_ _it_ _too_ _much_ . 
+A|4| B: _uh-huh_ _uh-huh [._ _i] i_ agree _we're_ _the_ largest munitions producer _in the_ world _and_ _so_ [uh] [there's a lot of] money _to_ [be] made there _and_ _it's_ _uh be_ very difficult _to_ _to_ cut [it] back _to_ _a a_ level _where_ [it] _should_ [be] . 
+B|5| M: [uh] [i] [uh] [i] think [uh] [uh] _we_ _we_ _have to_ do something . _we_ _have to_ [uh] . 
+A|6| B: _and_ _and uh_ [it] will come back [to] haunt us [it] seems [to] come _in_ cycles . 
+B|7| M: _yeah_ [that's] true . 
+A|8| B: _uh-huh ._ 
+B|9| M: [and uh] . 
+A|10| B: _right ._ 
+B|11| M: [and] _then we_ _have_ [a a] [uh] [a] real _resentment_ _of the_ united states toward _mexico_ [and] [i] think [that's] [uh] . 
+A|12| B: _right_ [and] [the] _probably_ [the] biggest _problem_ down there _is_ [that's] _where_ [the] [that's] [the] drug entry points 
+B|13| M: uh-uh . uh-hue . 
+A|14| B: [and] _their_ economy _is_ [of] several [of the] countries especially columbia _is_ _so_ built _on_ [the] _on_ _on_ [the] drugs _that uh_ our our little war _on_ drugs has _really_ been laughable . _it's_ _just_ [a] _you know_ such [a] small amount [and] _it it_ _just_ [it] [uh] cuts off _just_ [a] trickle [and uh] if if [we] can't get [a] handle _on_ [that] through _some_ through _some_ [uh] method [i don't know] _where_ [that] will [be] another big _problem ._ 
+B|15| M: _yeah ._ 
+A|16| B: _right_ _right ._ 
+B|17| M: [so] [it's] [it] [is] [it] [really] [is] [and] [i i] [you] [you] _can_ see [it] [in] [some] [of the] [in] [some] [in the] [uh] [in] [some] areas [of the] country [where] _they_ _have to_ pay for [their] _own_ land _but_ [you] [don't] see [it] you're [right] [it] doesn't [it] isn't [really] [a] government thing . 
+A|18| B: [and] as long as _we're_ [the] largest [uh] consumer [then] [uh] this [is] _the market_ . 
+B|19| M:  !!! % !! remind me [of] [that] oh _yeah_ [i i] used [to] think [that] was [the market] _but_ [uh] . 
+A|20| B: if [we] [can] cut back [the] usage [then] [uh] maybe [it] will [have to] _go_ someplace else . 
+B|21| M: _yeah ._ 
+A|22| B: _uh-huh ._ _uh-huh_ [yeah .] 
+B|23| M: [you know] [it's] [it it] [really] [is] [a a] change . 
+A|24| B: _we're_ _just_ [so] [much] wealthier [and uh] [and uh] there has [to] [be] [resentment] built up 
+B|25| M: [right .] 
+A|26| B: [and] [that's] [where] [uh] leaders [can] use [uh] use [that] whenever [the] opportune moment arises . 
+B|27| M: [uh] uh-hue [uh] . 
+A|28| B: [yeah .] [that's] [right .] our [own] hemisphere [but] we've [that's] been [uh] [that's] been [the] way [it's] always been . 
+B|29| M: [uh] [yeah .] 
+A|30| B: [so] [uh] 
+B|31| M: [well] [i] think [that uh] 
+A|32| B: very [much] [so] except when _we need_ _them_ . [you know] when [they] found oil [in] [mexico] [then we] got very friendly [with] _them_ again . 
+B|33| M: [uh-huh .] 
+A|34| B: [yeah .] 
+B|35| M: [and uh] . 
+A|36| B: _um_ . 
+B|37| M: [and uh] [i] guess [uh] [we're] [probably] going [to] see [a lot] more [of] [that] . 
+A|38| B: _okay_ . 
+B|39| M: [okay] [well] [i] think [that] [um] [i [i] don't know] [i] [just] [i] feel [that] [that] [you know] [that] [the] [the] police [should] [uh be] more involved [in] [their] handling [of the] [problem .] 
+A|40| B: sure did . 
+B|41| M: [and] [i i] [just] felt [that] [it] was [it] was important [to] me [to] [have] [some] background knowledge [on] what was going [on] . 
+A|42| B: always yes ma'am . 
+B|43| M: [and uh] [i [i] don't know] [i] think [that] [that uh] [you know] [we need] [to] [just] [uh] [uh] [go] ahead [and] let these people [go] [and] let [them] [go] . 
+A|44| B: [you] [too] dear . 
+B|45| M: thank [you] . 
+A|46| B: bye . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : uh-huh . well that's
+	Free: Pattern=uh-huh ., Pattern=well, Pattern=that's
+	Constrained: Pattern=uh-huh
+Turn ID=1| B | M : but i don't know . i think uh .
+	Free: Pattern=i don't know, Pattern=. i, Pattern=but, Pattern=uh
+	Constrained: Pattern=don't, Pattern=i
+Turn ID=2| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=3| B | M : but i don't know i there's a lot of things that could be done about it . i mean i don tinker around with it too much .
+	Free: Pattern=. i, Pattern=i, Pattern=much, Pattern=be, Pattern=i don't know, Pattern=it, Pattern=too, Pattern=there's a lot of, Pattern=with, Pattern=that, Pattern=but
+	Constrained: Pattern=of, Pattern=a, Pattern=i, Pattern=don't, Pattern=a lot
+Turn ID=4| A | B : uh-huh uh-huh . i i agree we're the largest munitions producer in the world and so uh there's a lot of money to be made there and it's uh be very difficult to to cut it back to a a level where it should be .
+	Free: Pattern=uh, Pattern=in the, Pattern=. i, Pattern=where, Pattern=be, Pattern=the, Pattern=we're, Pattern=a a, Pattern=should, Pattern=uh-huh, Pattern=it, Pattern=and, Pattern=uh-huh ., Pattern=to, Pattern=there's a lot of, Pattern=i i, Pattern=it's, Pattern=so, Pattern=uh be
+	Constrained: Pattern=of, Pattern=uh, Pattern=uh-huh, Pattern=a, Pattern=in, Pattern=i, Pattern=be, Pattern=the, Pattern=a lot
+Turn ID=5| B | M : uh i uh i think uh uh we we have to do something . we have to uh .
+	Free: Pattern=have to, Pattern=we, Pattern=i, Pattern=uh
+	Constrained: Pattern=have, Pattern=to
+Turn ID=6| A | B : and and uh it will come back to haunt us it seems to come in cycles .
+	Free: Pattern=in, Pattern=it, Pattern=and, Pattern=and uh, Pattern=to
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=7| B | M : yeah that's true .
+	Free: Pattern=yeah, Pattern=that's
+	Constrained: 
+Turn ID=8| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=9| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=10| A | B : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=11| B | M : and then we have a a uh a real resentment of the united states toward mexico and i think that's uh .
+	Free: Pattern=then we, Pattern=uh, Pattern=have, Pattern=mexico, Pattern=and, Pattern=i, Pattern=that's, Pattern=a a, Pattern=of the, Pattern=resentment, Pattern=a
+	Constrained: Pattern=of, Pattern=we, Pattern=the, Pattern=then, Pattern=a
+Turn ID=12| A | B : right and the probably the biggest problem down there is that's where the that's the drug entry points
+	Free: Pattern=and, Pattern=probably, Pattern=where, Pattern=is, Pattern=right, Pattern=problem, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=13| B | M : uh-uh . uh-hue .
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : and their economy is of several of the countries especially columbia is so built on the on on the drugs that uh our our little war on drugs has really been laughable . it's just a you know such a small amount and it it just it uh cuts off just a trickle and uh if if we can't get a handle on that through some through some uh method i don't know where that will be another big problem .
+	Free: Pattern=their, Pattern=of, Pattern=just, Pattern=some, Pattern=where, Pattern=is, Pattern=be, Pattern=and uh, Pattern=so, Pattern=uh, Pattern=you know, Pattern=problem ., Pattern=it it, Pattern=a, Pattern=it, Pattern=and, Pattern=we, Pattern=really, Pattern=on, Pattern=the, Pattern=i don't know, Pattern=that uh, Pattern=of the, Pattern=that, Pattern=it's
+	Constrained: Pattern=i, Pattern=the, Pattern=don't, Pattern=that, Pattern=problem, Pattern=of, Pattern=you, Pattern=uh, Pattern=it, Pattern=and
+Turn ID=15| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=16| A | B : right right .
+	Free: Pattern=right ., Pattern=right
+	Constrained: Pattern=right
+Turn ID=17| B | M : so it's it is it really is and i i you you can see it in some of the in some in the uh in some areas of the country where they have to pay for their own land but you don't see it you're right it doesn't it isn't really a government thing .
+	Free: Pattern=their, Pattern=right, Pattern=own, Pattern=they, Pattern=a, Pattern=in the, Pattern=can, Pattern=some, Pattern=in, Pattern=where, Pattern=is, Pattern=really, Pattern=so, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=have to, Pattern=don't, Pattern=of the, Pattern=but, Pattern=i i, Pattern=it's
+	Constrained: Pattern=of, Pattern=have, Pattern=in, Pattern=i, Pattern=the, Pattern=to
+Turn ID=18| A | B : and as long as we're the largest uh consumer then uh this is the market .
+	Free: Pattern=uh, Pattern=then, Pattern=and, Pattern=is, Pattern=the, Pattern=we're, Pattern=the market
+	Constrained: Pattern=the
+Turn ID=19| B | M :  !!! % !! remind me of that oh yeah i i used to think that was the market but uh .
+	Free: Pattern=of, Pattern=uh, Pattern=yeah, Pattern=to, Pattern=the market, Pattern=that, Pattern=i i, Pattern=but
+	Constrained: Pattern=the, Pattern=i
+Turn ID=20| A | B : if we can cut back the usage then uh maybe it will have to go someplace else .
+	Free: Pattern=uh, Pattern=go, Pattern=then, Pattern=it, Pattern=can, Pattern=we, Pattern=the, Pattern=have to
+	Constrained: Pattern=have, Pattern=to
+Turn ID=21| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=22| A | B : uh-huh . uh-huh yeah .
+	Free: Pattern=uh-huh ., Pattern=yeah ., Pattern=uh-huh
+	Constrained: Pattern=yeah, Pattern=uh-huh
+Turn ID=23| B | M : you know it's it it really is a a change .
+	Free: Pattern=you know, Pattern=it it, Pattern=is, Pattern=really, Pattern=a a, Pattern=it's
+	Constrained: Pattern=it, Pattern=a, Pattern=you
+Turn ID=24| A | B : we're just so much wealthier and uh and uh there has to be resentment built up
+	Free: Pattern=just, Pattern=resentment, Pattern=much, Pattern=be, Pattern=we're, Pattern=so, Pattern=and uh, Pattern=to
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=25| B | M : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=26| A | B : and that's where uh leaders can use uh use that whenever the opportune moment arises .
+	Free: Pattern=uh, Pattern=and, Pattern=can, Pattern=where, Pattern=that, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=27| B | M : uh uh-hue uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=28| A | B : yeah . that's right . our own hemisphere but we've that's been uh that's been the way it's always been .
+	Free: Pattern=own, Pattern=uh, Pattern=yeah ., Pattern=right ., Pattern=that's, Pattern=the, Pattern=it's, Pattern=but
+	Constrained: Pattern=right, Pattern=yeah
+Turn ID=29| B | M : uh yeah .
+	Free: Pattern=yeah ., Pattern=uh
+	Constrained: Pattern=yeah
+Turn ID=30| A | B : so uh
+	Free: Pattern=so, Pattern=uh
+	Constrained: 
+Turn ID=31| B | M : well i think that uh
+	Free: Pattern=that uh, Pattern=well, Pattern=i
+	Constrained: Pattern=that, Pattern=uh
+Turn ID=32| A | B : very much so except when we need them . you know when they found oil in mexico then we got very friendly with them again .
+	Free: Pattern=then we, Pattern=you know, Pattern=in, Pattern=much, Pattern=we need, Pattern=so, Pattern=they, Pattern=mexico, Pattern=with, Pattern=them
+	Constrained: Pattern=then, Pattern=we, Pattern=you
+Turn ID=33| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=34| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=35| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=36| A | B : um .
+	Free: Pattern=um
+	Constrained: 
+Turn ID=37| B | M : and uh i guess uh we're probably going to see a lot more of that .
+	Free: Pattern=of, Pattern=uh, Pattern=probably, Pattern=i, Pattern=we're, Pattern=that, Pattern=a lot, Pattern=and uh, Pattern=to
+	Constrained: Pattern=a, Pattern=uh, Pattern=and
+Turn ID=38| A | B : okay .
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=39| B | M : okay well i think that um i i don't know i just i feel that that you know that the the police should uh be more involved in their handling of the problem .
+	Free: Pattern=their, Pattern=well, Pattern=just, Pattern=should, Pattern=um, Pattern=in, Pattern=i, Pattern=the, Pattern=i don't know, Pattern=uh be, Pattern=okay, Pattern=you know, Pattern=problem ., Pattern=of the, Pattern=that, Pattern=i i
+	Constrained: Pattern=i, Pattern=be, Pattern=the, Pattern=don't, Pattern=problem, Pattern=of, Pattern=you, Pattern=uh
+Turn ID=40| A | B : sure did .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : and i i just felt that it was it was important to me to have some background knowledge on what was going on .
+	Free: Pattern=some, Pattern=on, Pattern=to, Pattern=just, Pattern=have, Pattern=it, Pattern=and, Pattern=that, Pattern=i i
+	Constrained: Pattern=i
+Turn ID=42| A | B : always yes ma'am .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : and uh i i don't know i think that that uh you know we need to just uh uh go ahead and let these people go and let them go .
+	Free: Pattern=just, Pattern=go, Pattern=and, Pattern=i, Pattern=we need, Pattern=uh, Pattern=you know, Pattern=i don't know, Pattern=that uh, Pattern=and uh, Pattern=to, Pattern=i i, Pattern=them, Pattern=that
+	Constrained: Pattern=and, Pattern=i, Pattern=we, Pattern=don't, Pattern=that, Pattern=you, Pattern=uh
+Turn ID=44| A | B : you too dear .
+	Free: Pattern=you, Pattern=too
+	Constrained: 
+Turn ID=45| B | M : thank you .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=46| A | B : bye .
+	Free: 
+	Constrained: 

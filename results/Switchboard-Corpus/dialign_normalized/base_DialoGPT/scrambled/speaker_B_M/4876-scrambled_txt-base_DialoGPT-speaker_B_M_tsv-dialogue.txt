@@ -1,0 +1,195 @@
+A|0| B: _and_ _uh_ whether those diseases can some difference could be made if _you_ did pour _more_ money _in_ _like_ diabetes research 
+B|1| M: there's _a_ t _i_ clone [in] _the_ box that's _the same_ _thing ._ 
+A|2| B: oh uh-huh . _yeah ._ 
+B|3| M:  ... 
+A|4| B: oh no [i] understand we _uh_ we've gone through [the same] things with ours we've had _you know_ they've been ill [i] _mean_ [i] take off work _to_ take care _of_ my cats _you know_ 
+B|5| M: _yeah . _i_ was_ _really_ surprised _when_ [i] saw _a_ lot [more] people . 
+A|6| B: because _uh_ _well_ _like_ _i say_ we live [a] way _and_ [when] _you_ throw trash away _you_ throw _it_ [in] my yard . 
+B|7| M: it's _hard to_ [say] . 
+A|8| B: uh-huh 
+B|9| M: [i] think it's precious [and] raoula . 
+A|10| B: _do_ _you know what_ _that_ _is_ ? 
+B|11| M:  
+A|12| B: [and] 
+B|13| M: i'm sorry i'm sorry 
+A|14| B: yes . yes . 
+B|15| M: [you] [mean] [like] [the] children ? 
+A|16| B: [yeah .] 
+B|17| M: [i] love [the] smell [of] old people [in] [the] morning . 
+A|18| B: _that_ [was] _uh_ _that_ [was] _it_ _came_ out [a] couple [of] years ago [and] [i] _have_ _just_ now gotten around [to] reading _it [._ i] _have_ had _it_ [a] couple years but _uh_ 
+B|19| M: [i say] 
+A|20| B: _well the_ german shepherd _that_ [i] had before we we had _a little_ pool 
+B|21| M: hmmm ... that's [what] [i] thought . 
+A|22| B: [and] then 
+B|23| M: there's [a] win . 
+A|24| B: [yeah] they down here they they stopped for awhile or they [really] made _it_ [hard to] hunt them . 
+B|25| M: i'm pretty much . 
+A|26| B: uh-huh . right . 
+B|27| M: there's [a] lot [of] people who don't believe [in] _god_ . 
+A|28| B: right but _it_ still has [to] be [a] group [of] _your_ peers . 
+B|29| M: they're both . 
+A|30| B: right . 
+B|31| M: [you] [have] [uh] [a] twelve inch machine [in] [your] bedroom . 
+A|32| B: so [uh] [and] [uh] [i was] thinking _you know_ [like] oh my [god] _you know_ [i] go back there [and] then [and] [i] get married there [and] now [i] [have] kids there [and] then i'll never leave [the] place _you know_ . 
+B|33| M: [i] [like] [it .] 
+A|34| B: uh-huh . 
+B|35| M: [i] [do] i'm [the] daughter [of] [a] writer . 
+A|36| B: [yeah . i] [have] two plots one's ten by ten [and] one's [like] fifteen by four . 
+B|37| M: [well the] winter produce [came] from south american . 
+A|38| B: [you] can give me seventies 
+B|39| M: he [is] [a little] bit crazy . 
+A|40| B: [and] [what] we used [to] [do] [was] _just_ put um newspaper on [the] bottom [and] then put cat litter [and] then [i] would _just_ take [the] whole [thing] [to] [the] garbage can [and] dump [the] whole [thing .] 
+B|41| M: [i was] . 
+A|42| B: [yeah .] 
+B|43| M: [the] military [uh] finds 
+A|44| B: but [uh] let's see _that_ would make them grandfather great grandfather great great grandfather okay so [it] would be [the] second great grandchild . [and] so they 
+B|45| M: [you know what] it's [just] [a] joke . 
+A|46| B: _that_ way _that_ [you know] one person wouldn't get one big blunt blow at one time . 
+B|47| M: [i] don't think i've ever seen someone [in] [the] us [say] anything [like] [that] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and uh whether those diseases can some difference could be made if you did pour more money in like diabetes research
+	Free: Pattern=more, Pattern=and, Pattern=in, Pattern=like, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=1| B | M : there's a t i clone in the box that's the same thing .
+	Free: Pattern=a, Pattern=thing ., Pattern=in, Pattern=i, Pattern=the, Pattern=the same
+	Constrained: Pattern=the, Pattern=thing
+Turn ID=2| A | B : oh uh-huh . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=3| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : oh no i understand we uh we've gone through the same things with ours we've had you know they've been ill i mean i take off work to take care of my cats you know
+	Free: Pattern=of, Pattern=mean, Pattern=i, Pattern=to, Pattern=the same, Pattern=uh, Pattern=you know
+	Constrained: Pattern=the, Pattern=you
+Turn ID=5| B | M : yeah . i was really surprised when i saw a lot more people .
+	Free: Pattern=more, Pattern=a, Pattern=i, Pattern=really, Pattern=when, Pattern=yeah . i, Pattern=i was
+	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=. i, Pattern=i, Pattern=was
+Turn ID=6| A | B : because uh well like i say we live a way and when you throw trash away you throw it in my yard .
+	Free: Pattern=well, Pattern=a, Pattern=in, Pattern=like, Pattern=when, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=i say
+	Constrained: Pattern=i, Pattern=say
+Turn ID=7| B | M : it's hard to say .
+	Free: Pattern=hard to, Pattern=say
+	Constrained: Pattern=to
+Turn ID=8| A | B : uh-huh
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : i think it's precious and raoula .
+	Free: Pattern=i, Pattern=and
+	Constrained: 
+Turn ID=10| A | B : do you know what that is ?
+	Free: Pattern=you know what, Pattern=do, Pattern=that, Pattern=is
+	Constrained: Pattern=what, Pattern=you know, Pattern=you
+Turn ID=11| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : and
+	Free: Pattern=and
+	Constrained: 
+Turn ID=13| B | M : i'm sorry i'm sorry
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : yes . yes .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : you mean like the children ?
+	Free: Pattern=the, Pattern=mean, Pattern=you, Pattern=like
+	Constrained: 
+Turn ID=16| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=17| B | M : i love the smell of old people in the morning .
+	Free: Pattern=the, Pattern=i, Pattern=of, Pattern=in
+	Constrained: 
+Turn ID=18| A | B : that was uh that was it came out a couple of years ago and i have just now gotten around to reading it . i have had it a couple years but uh
+	Free: Pattern=a, Pattern=. i, Pattern=i, Pattern=to, Pattern=was, Pattern=that, Pattern=came, Pattern=of, Pattern=uh, Pattern=it ., Pattern=just, Pattern=have, Pattern=it, Pattern=and
+	Constrained: Pattern=i, Pattern=it
+Turn ID=19| B | M : i say
+	Free: Pattern=i say
+	Constrained: Pattern=i, Pattern=say
+Turn ID=20| A | B : well the german shepherd that i had before we we had a little pool
+	Free: Pattern=well the, Pattern=a little, Pattern=i, Pattern=that
+	Constrained: Pattern=the, Pattern=well, Pattern=a
+Turn ID=21| B | M : hmmm ... that's what i thought .
+	Free: Pattern=what, Pattern=i
+	Constrained: 
+Turn ID=22| A | B : and then
+	Free: Pattern=and
+	Constrained: 
+Turn ID=23| B | M : there's a win .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=24| A | B : yeah they down here they they stopped for awhile or they really made it hard to hunt them .
+	Free: Pattern=hard to, Pattern=yeah, Pattern=it, Pattern=really
+	Constrained: Pattern=to
+Turn ID=25| B | M : i'm pretty much .
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : uh-huh . right .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : there's a lot of people who don't believe in god .
+	Free: Pattern=god, Pattern=a, Pattern=of, Pattern=in
+	Constrained: 
+Turn ID=28| A | B : right but it still has to be a group of your peers .
+	Free: Pattern=of, Pattern=a, Pattern=it, Pattern=your, Pattern=to
+	Constrained: 
+Turn ID=29| B | M : they're both .
+	Free: 
+	Constrained: 
+Turn ID=30| A | B : right .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : you have uh a twelve inch machine in your bedroom .
+	Free: Pattern=have, Pattern=a, Pattern=in, Pattern=your, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=32| A | B : so uh and uh i was thinking you know like oh my god you know i go back there and then and i get married there and now i have kids there and then i'll never leave the place you know .
+	Free: Pattern=i was, Pattern=have, Pattern=and, Pattern=god, Pattern=i, Pattern=like, Pattern=the, Pattern=uh, Pattern=you know
+	Constrained: Pattern=was, Pattern=i, Pattern=you
+Turn ID=33| B | M : i like it .
+	Free: Pattern=it ., Pattern=i, Pattern=like
+	Constrained: Pattern=it
+Turn ID=34| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : i do i'm the daughter of a writer .
+	Free: Pattern=of, Pattern=i, Pattern=the, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=36| A | B : yeah . i have two plots one's ten by ten and one's like fifteen by four .
+	Free: Pattern=yeah . i, Pattern=have, Pattern=and, Pattern=like
+	Constrained: Pattern=. i, Pattern=yeah ., Pattern=i, Pattern=yeah
+Turn ID=37| B | M : well the winter produce came from south american .
+	Free: Pattern=well the, Pattern=came
+	Constrained: Pattern=the, Pattern=well
+Turn ID=38| A | B : you can give me seventies
+	Free: Pattern=you
+	Constrained: 
+Turn ID=39| B | M : he is a little bit crazy .
+	Free: Pattern=a little, Pattern=is
+	Constrained: Pattern=a
+Turn ID=40| A | B : and what we used to do was just put um newspaper on the bottom and then put cat litter and then i would just take the whole thing to the garbage can and dump the whole thing .
+	Free: Pattern=just, Pattern=what, Pattern=do, Pattern=and, Pattern=thing ., Pattern=i, Pattern=to, Pattern=was, Pattern=thing, Pattern=the
+	Constrained: Pattern=thing
+Turn ID=41| B | M : i was .
+	Free: Pattern=i was
+	Constrained: Pattern=was, Pattern=i
+Turn ID=42| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=43| B | M : the military uh finds
+	Free: Pattern=the, Pattern=uh
+	Constrained: 
+Turn ID=44| A | B : but uh let's see that would make them grandfather great grandfather great great grandfather okay so it would be the second great grandchild . and so they
+	Free: Pattern=uh, Pattern=the, Pattern=that, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=45| B | M : you know what it's just a joke .
+	Free: Pattern=you know what, Pattern=just, Pattern=a
+	Constrained: Pattern=what, Pattern=you know, Pattern=you
+Turn ID=46| A | B : that way that you know one person wouldn't get one big blunt blow at one time .
+	Free: Pattern=you know, Pattern=that
+	Constrained: Pattern=you
+Turn ID=47| B | M : i don't think i've ever seen someone in the us say anything like that .
+	Free: Pattern=in, Pattern=say, Pattern=i, Pattern=like, Pattern=the, Pattern=that
+	Constrained: 

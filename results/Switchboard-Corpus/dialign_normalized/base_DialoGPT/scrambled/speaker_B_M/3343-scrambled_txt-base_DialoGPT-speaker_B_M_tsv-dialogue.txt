@@ -1,0 +1,199 @@
+A|0| B: uh-huh . 
+B|1| M: what's _a_ coincidence ? 
+A|2| B: _so_ see _it's_ really strange . 
+B|3| M: _i_ . 
+A|4| B: uh-huh . 
+B|5| M: what's _a_ baseball team ? 
+A|6| B: but that's just _how_ _it_ _is_ . my mother was complaining last year _about_ _you know_ _it's_ dwindling down every year _you know_ that's just _i think_ that's just 
+B|7| M: _well_ _i'm_ _sure_ _there_ _are_ other cases _like_ this . 
+A|8| B: _and_ _i think_ _that_ would be wonderful too . 
+B|9| M: [you] _mean_ _to_ _tell_ _me_ [that] [you] _have_ ? 
+A|10| B: _uh_ _uh_ . 
+B|11| M: _oh_ . _well_ [i think] [i] _heard_ _something_ [about] [it] being _on the_ website . 
+A|12| B: lasts [a] long time . that's mainly _what_ [i'm] looking for . 
+B|13| M: [a] . [a] . b . c . d . [a] . [a] . d . [a] . d . 
+A|14| B: [well] _you know_ they introduced some gun control back when [i] was [a] teenager [i] believe in terms of _uh_ every gun [you] bought had [to] be licensed [i] believe . 
+B|15| M: [you know] [uh] _yeah ._ 
+A|16| B: [you know] _how_ many _people_ [are] in simply red stuart [to] someone else in [the] he can't hear [me] _. i_ [i] don't remember _how_ many _people_ but _it's_ _it's_ got men _and_ women _and_ _it's_ not _it's_ _it's_ nice [i] [mean] _it's_ pleasant [you know] music . _it's_ not where _it's_ [it] hurts your ears [to] hear _it ._ but _it's_ not _as_ _it's_ not [like] [uh] chicago where _it's_ got [that] much instrument [to] _it ._ [you know] [it] doesn't [have] [like] all [the] brass _and_ everything . 
+B|17| M: [you] [mean] [the] construction _on_ fox amp jacobs ? 
+A|18| B: _uh [i_ think] [well] [something] [on the] order of [a] three series _it's_ probably different . once _you get_ up in [the] five series _and_ higher then all your repair costs _go_ up significantly 
+B|19| M: _they're_ illegal . 
+A|20| B: [i] don't [know] if any of mine will be interested in [it] or ... 
+B|21| M: [i] [uh i] _do_ 
+A|22| B: [yeah .] 
+B|23| M: [it's] [the] same _as the_ mercedes . 
+A|24| B: [oh] [i] see . _yeah . i_ see . 
+B|25| M: this [is] [how] [you get] [a] million [people] [to] download [it .] 
+A|26| B: [yeah .] no that's true . course they [have] [a] requirement [that] [uh] [that] every single appeal must be permitted . 
+B|27| M: [i] am _so sorry ._ 
+A|28| B: [well] _what_ _do you think_ can be done [to] reduce [that] sort of crime ? 
+B|29| M: [yeah] [and] there's also [the] whole'you _and there_ ' . 
+A|30| B: [oh] my [you] [you] [do] when [you] when we first got married [uh] my husband works for [the] state [and] we moved once [a] year usually 
+B|31| M: uhhh [you know] [the] flag isnt [the] 
+A|32| B: [and] if we had [something] [to] [do] before they [get] [to] be full-blown adult criminals [and] [i'm] not talking [about] necessarily in [the] school system [i'm] not [sure] [that] [the] school system should be [the] agent of all [the] social action . 
+B|33| M: [yeah . i] guess . 
+A|34| B: [and] we choose [to] bring congealed salad . [you] can bring [a] congealed vegetable salad [as] opposed [to] potato salad . 
+B|35| M: [you] [mean] [the] best place [to] [go] [and] [you know] [what] ? 
+A|36| B: [yeah . i] haven't [heard] [a] thing . 
+B|37| M: i'll [do you think] [about] [it .] 
+A|38| B: he was going [to] keep him [as the] coach somehow but [uh i] don't [know] i'd [like] [to] see [the] vikings [get] revamped somehow . 
+B|39| M: [i'm] a'there's . 
+A|40| B: [i] [i] give [me] cyanide [. i] [mean] [is] [it] )) 
+B|41| M: [what] [is] this ? 
+A|42| B: you're kidding . 
+B|43| M: this [is] [a] great point . 
+A|44| B: [they're] cute . they look [like] an air headed let [me] [tell] [you] . [they're] calm [they're] not yuppie [they're] trainable [they're] [uh] very personable in [a] different way [that] [a] golden retriever [is] . [they're] not dignified [like] [a] retriever can be . 
+B|45| M: [i think] [it] does . 
+A|46| B: [i'm] [so sorry .] 
+B|47| M: yup . [uh] [sure] . 
+A|48| B: [and] they liked [that] . [and] then [on the] way home we drove by [the] local high school [and there] happened [to] be an f [a] f [a] [a] future f [a] future farmers of america f f [a] going [on] [there] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : what's a coincidence ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=2| A | B : so see it's really strange .
+	Free: Pattern=it's, Pattern=so
+	Constrained: 
+Turn ID=3| B | M : i .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=4| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : what's a baseball team ?
+	Free: Pattern=a
+	Constrained: 
+Turn ID=6| A | B : but that's just how it is . my mother was complaining last year about you know it's dwindling down every year you know that's just i think that's just
+	Free: Pattern=you know, Pattern=how, Pattern=it, Pattern=about, Pattern=is, Pattern=it's, Pattern=i think
+	Constrained: Pattern=know, Pattern=i, Pattern=you
+Turn ID=7| B | M : well i'm sure there are other cases like this .
+	Free: Pattern=well, Pattern=there, Pattern=are, Pattern=i'm, Pattern=like, Pattern=sure
+	Constrained: 
+Turn ID=8| A | B : and i think that would be wonderful too .
+	Free: Pattern=i think, Pattern=that, Pattern=and
+	Constrained: Pattern=i
+Turn ID=9| B | M : you mean to tell me that you have ?
+	Free: Pattern=you, Pattern=me, Pattern=tell, Pattern=to, Pattern=that, Pattern=have, Pattern=mean
+	Constrained: 
+Turn ID=10| A | B : uh uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=11| B | M : oh . well i think i heard something about it being on the website .
+	Free: Pattern=heard, Pattern=well, Pattern=about, Pattern=i, Pattern=on the, Pattern=i think, Pattern=something, Pattern=it, Pattern=oh
+	Constrained: Pattern=the, Pattern=i, Pattern=on
+Turn ID=12| A | B : lasts a long time . that's mainly what i'm looking for .
+	Free: Pattern=i'm, Pattern=what, Pattern=a
+	Constrained: 
+Turn ID=13| B | M : a . a . b . c . d . a . a . d . a . d .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=14| A | B : well you know they introduced some gun control back when i was a teenager i believe in terms of uh every gun you bought had to be licensed i believe .
+	Free: Pattern=well, Pattern=a, Pattern=i, Pattern=to, Pattern=you, Pattern=uh, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=15| B | M : you know uh yeah .
+	Free: Pattern=yeah ., Pattern=you know, Pattern=uh
+	Constrained: Pattern=know, Pattern=yeah, Pattern=you
+Turn ID=16| A | B : you know how many people are in simply red stuart to someone else in the he can't hear me . i i don't remember how many people but it's it's got men and women and it's not it's it's nice i mean it's pleasant you know music . it's not where it's it hurts your ears to hear it . but it's not as it's not like uh chicago where it's got that much instrument to it . you know it doesn't have like all the brass and everything .
+	Free: Pattern=me, Pattern=how, Pattern=are, Pattern=. i, Pattern=i, Pattern=like, Pattern=the, Pattern=to, Pattern=uh, Pattern=you know, Pattern=it ., Pattern=as, Pattern=people, Pattern=have, Pattern=mean, Pattern=it, Pattern=and, Pattern=that, Pattern=it's
+	Constrained: Pattern=it, Pattern=know, Pattern=i, Pattern=you
+Turn ID=17| B | M : you mean the construction on fox amp jacobs ?
+	Free: Pattern=the, Pattern=you, Pattern=on, Pattern=mean
+	Constrained: 
+Turn ID=18| A | B : uh i think well something on the order of a three series it's probably different . once you get up in the five series and higher then all your repair costs go up significantly
+	Free: Pattern=well, Pattern=go, Pattern=a, Pattern=and, Pattern=uh i, Pattern=it's, Pattern=i think, Pattern=something, Pattern=on the, Pattern=you get, Pattern=the
+	Constrained: Pattern=i, Pattern=get, Pattern=you, Pattern=uh, Pattern=on, Pattern=the
+Turn ID=19| B | M : they're illegal .
+	Free: Pattern=they're
+	Constrained: 
+Turn ID=20| A | B : i don't know if any of mine will be interested in it or ...
+	Free: Pattern=it, Pattern=know, Pattern=i
+	Constrained: 
+Turn ID=21| B | M : i uh i do
+	Free: Pattern=uh i, Pattern=do, Pattern=i
+	Constrained: Pattern=uh, Pattern=i
+Turn ID=22| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=23| B | M : it's the same as the mercedes .
+	Free: Pattern=as the, Pattern=it's, Pattern=the
+	Constrained: Pattern=as, Pattern=the
+Turn ID=24| A | B : oh i see . yeah . i see .
+	Free: Pattern=yeah . i, Pattern=i, Pattern=oh
+	Constrained: Pattern=yeah ., Pattern=. i, Pattern=i, Pattern=yeah
+Turn ID=25| B | M : this is how you get a million people to download it .
+	Free: Pattern=it ., Pattern=people, Pattern=a, Pattern=how, Pattern=is, Pattern=you get, Pattern=to
+	Constrained: Pattern=it, Pattern=you, Pattern=get
+Turn ID=26| A | B : yeah . no that's true . course they have a requirement that uh that every single appeal must be permitted .
+	Free: Pattern=uh, Pattern=have, Pattern=a, Pattern=yeah ., Pattern=that
+	Constrained: Pattern=yeah
+Turn ID=27| B | M : i am so sorry .
+	Free: Pattern=so sorry ., Pattern=i
+	Constrained: Pattern=so
+Turn ID=28| A | B : well what do you think can be done to reduce that sort of crime ?
+	Free: Pattern=well, Pattern=what, Pattern=do you think, Pattern=to, Pattern=that
+	Constrained: Pattern=do, Pattern=you
+Turn ID=29| B | M : yeah and there's also the whole'you and there ' .
+	Free: Pattern=and there, Pattern=the, Pattern=yeah, Pattern=and
+	Constrained: Pattern=there, Pattern=and
+Turn ID=30| A | B : oh my you you do when you when we first got married uh my husband works for the state and we moved once a year usually
+	Free: Pattern=the, Pattern=you, Pattern=uh, Pattern=do, Pattern=a, Pattern=and, Pattern=oh
+	Constrained: 
+Turn ID=31| B | M : uhhh you know the flag isnt the
+	Free: Pattern=you know, Pattern=the
+	Constrained: Pattern=know, Pattern=you
+Turn ID=32| A | B : and if we had something to do before they get to be full-blown adult criminals and i'm not talking about necessarily in the school system i'm not sure that the school system should be the agent of all the social action .
+	Free: Pattern=do, Pattern=and, Pattern=about, Pattern=i'm, Pattern=sure, Pattern=the, Pattern=to, Pattern=get, Pattern=that, Pattern=something
+	Constrained: 
+Turn ID=33| B | M : yeah . i guess .
+	Free: Pattern=yeah . i
+	Constrained: Pattern=yeah ., Pattern=. i, Pattern=i, Pattern=yeah
+Turn ID=34| A | B : and we choose to bring congealed salad . you can bring a congealed vegetable salad as opposed to potato salad .
+	Free: Pattern=you, Pattern=as, Pattern=a, Pattern=and, Pattern=to
+	Constrained: 
+Turn ID=35| B | M : you mean the best place to go and you know what ?
+	Free: Pattern=mean, Pattern=go, Pattern=what, Pattern=and, Pattern=the, Pattern=to, Pattern=you, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=36| A | B : yeah . i haven't heard a thing .
+	Free: Pattern=yeah . i, Pattern=a, Pattern=heard
+	Constrained: Pattern=yeah ., Pattern=. i, Pattern=i, Pattern=yeah
+Turn ID=37| B | M : i'll do you think about it .
+	Free: Pattern=do you think, Pattern=it ., Pattern=about
+	Constrained: Pattern=do, Pattern=you, Pattern=it
+Turn ID=38| A | B : he was going to keep him as the coach somehow but uh i don't know i'd like to see the vikings get revamped somehow .
+	Free: Pattern=as the, Pattern=know, Pattern=like, Pattern=the, Pattern=get, Pattern=uh i, Pattern=to
+	Constrained: Pattern=uh, Pattern=as, Pattern=the, Pattern=i
+Turn ID=39| B | M : i'm a'there's .
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=40| A | B : i i give me cyanide . i mean is it ))
+	Free: Pattern=mean, Pattern=me, Pattern=it, Pattern=. i, Pattern=is, Pattern=i
+	Constrained: Pattern=i
+Turn ID=41| B | M : what is this ?
+	Free: Pattern=is, Pattern=what
+	Constrained: 
+Turn ID=42| A | B : you're kidding .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : this is a great point .
+	Free: Pattern=is, Pattern=a
+	Constrained: 
+Turn ID=44| A | B : they're cute . they look like an air headed let me tell you . they're calm they're not yuppie they're trainable they're uh very personable in a different way that a golden retriever is . they're not dignified like a retriever can be .
+	Free: Pattern=me, Pattern=a, Pattern=they're, Pattern=tell, Pattern=is, Pattern=like, Pattern=that, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=45| B | M : i think it does .
+	Free: Pattern=i think, Pattern=it
+	Constrained: Pattern=i
+Turn ID=46| A | B : i'm so sorry .
+	Free: Pattern=so sorry ., Pattern=i'm
+	Constrained: Pattern=so
+Turn ID=47| B | M : yup . uh sure .
+	Free: Pattern=uh, Pattern=sure
+	Constrained: 
+Turn ID=48| A | B : and they liked that . and then on the way home we drove by the local high school and there happened to be an f a f a a future f a future farmers of america f f a going on there
+	Free: Pattern=and there, Pattern=there, Pattern=a, Pattern=and, Pattern=to, Pattern=that, Pattern=on the, Pattern=on, Pattern=the
+	Constrained: Pattern=there, Pattern=the, Pattern=on, Pattern=and

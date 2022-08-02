@@ -1,0 +1,199 @@
+B|0| M: _and and_ she's got _a new_ computer _at_ home _and_ _i_ _have_ _to_ type _all_ _the_ _things_ _back and_ forth . 
+A|1| A: _uh-huh ._ 
+B|2| M: _and uh_ . 
+A|3| A: _right ._ 
+B|4| M: _and_ _i_ _usually_ try _to get_ everything _that_ _i_ can _you_ _i_ _usually_ go _to_ _a_ flea market _and_ _buy_ _like_ _uh_ clothes _from_ _there_ _you_ can _usually_ find _some_ _that_ are similar _to_ _what_ you're looking _for ._ 
+A|5| A: _uh-huh ._ 
+B|6| M: _it's_ _it's_ _really_ _it was_ _really good_ _. we_ _i_ guess _we_ both sort _of_ sort _of_ liked different _things_ _about_ each _of_ _them_ . 
+A|7| A: [of] course _uh-huh ._ 
+B|8| M: _so we_ _just_ _you know_ left _it_ out [of] _the_ way 
+A|9| A: _right_ 
+B|10| M: _and uh_ _it's_ _uh_ _it's_ _a_ big problem 
+A|11| A: _right_ [just] [to get] [you] by five years _and then_ you'll throw [it] away rather than [have] [it] fixed 
+B|12| M: _yeah ._ 
+A|13| A: we're we're [a] wasteful society [for] sure . 
+B|14| M: [uh-huh .] 
+A|15| A: _right ._ _right ._ _and you_ [usually] [get] [what] [you] pay [for [.] we] bought [some] walkie-talkies [a] couple [of] years ago [for] christmas [and] they were [like] ten dollars [and] [we] expected [them] [to] work nice [for] [the] little kids [and] they didn't work worth anything 
+B|16| M: [right] [right .] 
+A|17| A: [so we] took _those_ [back and] _that's_ [about] [that] [all] [that] were taken [back] in ages . 
+B|18| M:  !!! % !! remind me [of] [that] now . 
+A|19| A: [yeah .] 
+B|20| M: [and you] can [get] [them] [for] [like] twenty _or_ thirty cents _more_ [and then] [you] can actually [get] [a] real _good_ deal _if_ [you] _if_ [the] _if_ _if they're_ real _good_ [about] telling [you] [what] brand [it] _is_ . 
+A|21| A: [right .] 
+B|22| M: _it's_ [like] _uh_ . 
+A|23| A: [right .] 
+B|24| M: _but_ _uh_ . 
+A|25| A: _oh_ [really] . [it's] hard . 
+B|26| M: [yeah] [it] _is_ . 
+A|27| A: _oh_ wow . 
+B|28| M: [and you] could tell _you know_ _it was_ [just] [a] terrible car . 
+A|29| A: [uh-huh] _and it just_ pertained [to] [that] 
+B|30| M: [and it just] [and] _i i_ [you] [you] [really] [have] [to] _think_ [that] _it was_ [just] _one_ [of] [those] _things_ [you] [have] [to] wonder you've got [to] wonder _if_ _it was_ [a] accident _or_ [you] got lucky [and you] got [the] guy who shot [that] guy lucky enough [to get] [it] out . 
+A|31| A: [i] [at] first [i] _thought_ [of] food [you know] because _that's_ [what] mainly [what] [i] [buy] [it] seems [like] [and uh] [you know] [i] still don't [have] any anything [to] do [there] [but] [but] [i _i] think_ too [a] lot [of] people don't [buy] their warranties either because they [know] [that] when [it's] [that] old [they're] going [to] [buy] [a new] [one] 
+B|32| M: [yeah .] 
+A|33| A: [so] . 
+B|34| M: _well_ [that's] [that] [that] _is_ [that] _was_ part [of] _my_ [thought] also . 
+A|35| A: [yeah] [my] husband [is] [really good] [at] fixing [things] too [so] he [usually] be able [to] fix anything [that's] minor [and and] [that] has saved us thousands [of] dollars [you know] [from] [to] mechanic [to] anything [like] [that] 
+B|36| M: [yeah .] 
+A|37| A: [but] [but] [it was] interesting [to] [i] don't [know] [if they're] making [them] better [or] _not_ [i] [it's] hard [to] say . [some] _i think_ they [more] [of] their parts plastic which [you know] makes [things] break easier [but] _i think_ [the] technology [is] better . 
+B|38| M: [oh] [yeah .] 
+A|39| A: [about] quality . 
+B|40| M:  !!! % !! remind me [of] [that] [one] . 
+A|41| A: [right .] 
+B|42| M: [they're] [just] [not] made as _well_ . 
+A|43| A: [yeah] [yeah .] 
+B|44| M: [and] [i think] [that's] what's [so] sad . 
+A|45| A: [right .] [well] people aren't willing [to] pay [those] prices very often [so] [you know] [for] [a] handcrafted something [so] 
+B|46| M: [right] [yeah] 
+A|47| A: [so] . [so] [if] [we] [get] [what] [we] [what] [we] deserve 
+B|48| M: [yeah .] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : and and she's got a new computer at home and i have to type all the things back and forth .
+	Free: Pattern=a new, Pattern=and, Pattern=at, Pattern=things, Pattern=i, Pattern=back and, Pattern=to, Pattern=have, Pattern=and and, Pattern=the, Pattern=all
+	Constrained: Pattern=a, Pattern=back, Pattern=and
+Turn ID=1| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=2| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=3| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=4| B | M : and i usually try to get everything that i can you i usually go to a flea market and buy like uh clothes from there you can usually find some that are similar to what you're looking for .
+	Free: Pattern=usually, Pattern=a, Pattern=buy, Pattern=some, Pattern=i, Pattern=like, Pattern=to, Pattern=that, Pattern=you, Pattern=uh, Pattern=what, Pattern=there, Pattern=and, Pattern=to get, Pattern=from, Pattern=for .
+	Constrained: Pattern=get, Pattern=to, Pattern=for
+Turn ID=5| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=6| B | M : it's it's really it was really good . we i guess we both sort of sort of liked different things about each of them .
+	Free: Pattern=it was, Pattern=of, Pattern=. we, Pattern=i, Pattern=really good, Pattern=about, Pattern=things, Pattern=we, Pattern=really, Pattern=them, Pattern=it's
+	Constrained: Pattern=good, Pattern=it, Pattern=was, Pattern=we, Pattern=really
+Turn ID=7| A | A : of course uh-huh .
+	Free: Pattern=uh-huh ., Pattern=of
+	Constrained: Pattern=uh-huh
+Turn ID=8| B | M : so we just you know left it out of the way
+	Free: Pattern=so we, Pattern=of, Pattern=you know, Pattern=just, Pattern=it, Pattern=the
+	Constrained: Pattern=we, Pattern=know, Pattern=so, Pattern=you
+Turn ID=9| A | A : right
+	Free: Pattern=right
+	Constrained: 
+Turn ID=10| B | M : and uh it's uh it's a big problem
+	Free: Pattern=and uh, Pattern=uh, Pattern=a, Pattern=it's
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=11| A | A : right just to get you by five years and then you'll throw it away rather than have it fixed
+	Free: Pattern=right, Pattern=you, Pattern=and then, Pattern=just, Pattern=have, Pattern=it, Pattern=to get
+	Constrained: Pattern=get, Pattern=to, Pattern=and
+Turn ID=12| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=13| A | A : we're we're a wasteful society for sure .
+	Free: Pattern=a, Pattern=for
+	Constrained: 
+Turn ID=14| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=15| A | A : right . right . and you usually get what you pay for . we bought some walkie-talkies a couple of years ago for christmas and they were like ten dollars and we expected them to work nice for the little kids and they didn't work worth anything
+	Free: Pattern=you, Pattern=what, Pattern=a, Pattern=for, Pattern=and, Pattern=some, Pattern=right ., Pattern=the, Pattern=to, Pattern=get, Pattern=of, Pattern=usually, Pattern=. we, Pattern=for ., Pattern=we, Pattern=like, Pattern=and you, Pattern=them
+	Constrained: Pattern=right, Pattern=you, Pattern=for, Pattern=and, Pattern=we
+Turn ID=16| B | M : right right .
+	Free: Pattern=right ., Pattern=right
+	Constrained: Pattern=right
+Turn ID=17| A | A : so we took those back and that's about that all that were taken back in ages .
+	Free: Pattern=so we, Pattern=about, Pattern=back, Pattern=back and, Pattern=those, Pattern=that, Pattern=that's, Pattern=all
+	Constrained: Pattern=we, Pattern=back, Pattern=so, Pattern=and
+Turn ID=18| B | M :  !!! % !! remind me of that now .
+	Free: Pattern=of, Pattern=that
+	Constrained: 
+Turn ID=19| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=20| B | M : and you can get them for like twenty or thirty cents more and then you can actually get a real good deal if you if the if if they're real good about telling you what brand it is .
+	Free: Pattern=good, Pattern=more, Pattern=you, Pattern=what, Pattern=a, Pattern=for, Pattern=it, Pattern=if, Pattern=and then, Pattern=about, Pattern=is, Pattern=like, Pattern=or, Pattern=the, Pattern=if they're, Pattern=get, Pattern=and you, Pattern=them
+	Constrained: Pattern=if, Pattern=you, Pattern=they're, Pattern=and
+Turn ID=21| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=22| B | M : it's like uh .
+	Free: Pattern=uh, Pattern=it's, Pattern=like
+	Constrained: 
+Turn ID=23| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=24| B | M : but uh .
+	Free: Pattern=but, Pattern=uh
+	Constrained: 
+Turn ID=25| A | A : oh really . it's hard .
+	Free: Pattern=oh, Pattern=really, Pattern=it's
+	Constrained: 
+Turn ID=26| B | M : yeah it is .
+	Free: Pattern=it, Pattern=is, Pattern=yeah
+	Constrained: 
+Turn ID=27| A | A : oh wow .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=28| B | M : and you could tell you know it was just a terrible car .
+	Free: Pattern=it was, Pattern=you know, Pattern=just, Pattern=a, Pattern=and you
+	Constrained: Pattern=you, Pattern=know, Pattern=was, Pattern=it, Pattern=and
+Turn ID=29| A | A : uh-huh and it just pertained to that
+	Free: Pattern=and it just, Pattern=to, Pattern=that, Pattern=uh-huh
+	Constrained: Pattern=it, Pattern=just, Pattern=and
+Turn ID=30| B | M : and it just and i i you you really have to think that it was just one of those things you have to wonder you've got to wonder if it was a accident or you got lucky and you got the guy who shot that guy lucky enough to get it out .
+	Free: Pattern=it was, Pattern=of, Pattern=and it just, Pattern=you, Pattern=a, Pattern=things, Pattern=think, Pattern=really, Pattern=or, Pattern=the, Pattern=to, Pattern=those, Pattern=just, Pattern=have, Pattern=it, Pattern=and, Pattern=to get, Pattern=one, Pattern=if, Pattern=and you, Pattern=that, Pattern=i i
+	Constrained: Pattern=you, Pattern=just, Pattern=i, Pattern=to, Pattern=was, Pattern=get, Pattern=it, Pattern=and
+Turn ID=31| A | A : i at first i thought of food you know because that's what mainly what i buy it seems like and uh you know i still don't have any anything to do there but but i i think too a lot of people don't buy their warranties either because they know that when it's that old they're going to buy a new one
+	Free: Pattern=a new, Pattern=of, Pattern=you know, Pattern=have, Pattern=a, Pattern=buy, Pattern=it, Pattern=one, Pattern=at, Pattern=they're, Pattern=know, Pattern=i, Pattern=like, Pattern=that's, Pattern=i think, Pattern=what, Pattern=there, Pattern=and uh, Pattern=thought, Pattern=to, Pattern=that, Pattern=but, Pattern=i i, Pattern=it's
+	Constrained: Pattern=a, Pattern=and, Pattern=think, Pattern=know, Pattern=i, Pattern=you, Pattern=uh
+Turn ID=32| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=33| A | A : so .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=34| B | M : well that's that that is that was part of my thought also .
+	Free: Pattern=of, Pattern=well, Pattern=is, Pattern=that's, Pattern=thought, Pattern=was, Pattern=my, Pattern=that
+	Constrained: 
+Turn ID=35| A | A : yeah my husband is really good at fixing things too so he usually be able to fix anything that's minor and and that has saved us thousands of dollars you know from to mechanic to anything like that
+	Free: Pattern=you know, Pattern=and and, Pattern=yeah, Pattern=things, Pattern=is, Pattern=like, Pattern=that's, Pattern=to, Pattern=that, Pattern=so, Pattern=of, Pattern=usually, Pattern=at, Pattern=from, Pattern=really good, Pattern=my
+	Constrained: Pattern=good, Pattern=you, Pattern=and, Pattern=know, Pattern=really
+Turn ID=36| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=37| A | A : but but it was interesting to i don't know if they're making them better or not i it's hard to say . some i think they more of their parts plastic which you know makes things break easier but i think the technology is better .
+	Free: Pattern=it was, Pattern=you know, Pattern=things, Pattern=some, Pattern=know, Pattern=or, Pattern=the, Pattern=if they're, Pattern=to, Pattern=i think, Pattern=not, Pattern=of, Pattern=more, Pattern=is, Pattern=i, Pattern=them, Pattern=it's, Pattern=but
+	Constrained: Pattern=you, Pattern=it, Pattern=if, Pattern=they're, Pattern=think, Pattern=know, Pattern=i, Pattern=was
+Turn ID=38| B | M : oh yeah .
+	Free: Pattern=yeah ., Pattern=oh
+	Constrained: Pattern=yeah
+Turn ID=39| A | A : about quality .
+	Free: Pattern=about
+	Constrained: 
+Turn ID=40| B | M :  !!! % !! remind me of that one .
+	Free: Pattern=of, Pattern=one, Pattern=that
+	Constrained: 
+Turn ID=41| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=42| B | M : they're just not made as well .
+	Free: Pattern=well, Pattern=they're, Pattern=just, Pattern=not
+	Constrained: 
+Turn ID=43| A | A : yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=44| B | M : and i think that's what's so sad .
+	Free: Pattern=i think, Pattern=that's, Pattern=so, Pattern=and
+	Constrained: Pattern=i, Pattern=think
+Turn ID=45| A | A : right . well people aren't willing to pay those prices very often so you know for a handcrafted something so
+	Free: Pattern=well, Pattern=you know, Pattern=a, Pattern=for, Pattern=right ., Pattern=to, Pattern=those, Pattern=so
+	Constrained: Pattern=know, Pattern=right, Pattern=you
+Turn ID=46| B | M : right yeah
+	Free: Pattern=yeah, Pattern=right
+	Constrained: 
+Turn ID=47| A | A : so . so if we get what we what we deserve
+	Free: Pattern=what, Pattern=if, Pattern=we, Pattern=get, Pattern=so
+	Constrained: 
+Turn ID=48| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah

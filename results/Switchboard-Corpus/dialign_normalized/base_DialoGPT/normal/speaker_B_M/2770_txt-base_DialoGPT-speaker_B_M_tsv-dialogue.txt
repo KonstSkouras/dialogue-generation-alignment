@@ -1,0 +1,195 @@
+B|0| M: _i_ love _cats _and_ i_ love _my_ _cats_ _but i_ can't _have_ any . 
+A|1| B: _yeah_ . 
+B|2| M: _they're_ _not_ married . 
+A|3| B: [i] had _a cat_ i've had several [cats] . [my] _pet_ uh _was_ hit by _a_ car new year's eve [but] uh 
+B|4| M: _i think _you_ have _to have_ [a_ cat] _to have_ any pets . 
+A|5| B: _i'm_ _going to_ get another one as soon as [i] get back in town . _i'm_ _going_ out of town this weekend when [i] get back _i'm_ _going to_ find [a cat] . _so_ 
+B|6| M: she nods . 
+A|7| B: _yeah_ . 
+B|8| M: oh [i'm] sorry [i] thought _you_ were [going to] say something . 
+A|9| B: [i] _work_ [and] go [to] school [and] it's kind of nice [you] come home your your pet's there for [you] [and] wants [a] little food [a] little attention . 
+B|10| M: [work] 
+A|11| B: [and] that's it's kind of fun . 
+B|12| M:  ... 
+A|13| B: _yeah_ . 
+B|14| M: _and _they_ want_ [a cat] badly . 
+A|15| B: no _it was_ an kind of indoor outdoor _it_ _it was_ 
+B|16| M: _i don't_ _think you know_ what _that_ means . 
+A|17| B: well _yeah [i_ don't] [i don't] care for _the_ smell of _the_ litter box _so_ [my] [cat] _was_ trained [to] go _outside_ other than [that] _it was_ inside when _it_ wanted [to] be _it was outside_ when . 
+B|18| M: [it was outside] . 
+A|19| B: _yeah i_ _i think you know_ [i] like dogs [but [i] think] [that] uh [i'm] kind of like big big dogs [and] [you have to have] room for them . 
+B|20| M: i' 
+A|21| B: [and] dogs take [a] lot of [a] lot more care than [cats] do . [cats] _are_ pretty independent [you know] [you] feed them [and they] keep themselves clean [and] if [you] if [you] raise them right [you know] [you] [don't] [have to] worry _about_ _the_ litter box thing where with dogs [you] really do [have to] let them out [and] take them for walks [and] things like [that] . 
+B|22| M: [but] 
+A|23| B: _yeah_ . 
+B|24| M: [i] . 
+A|25| B: _yeah i_ got [to] take care of [a] friend of mine's dog . he's _just_ got [a] puppy [and] _he_ [was] out of town last weekend [and] of course _the_ dog _is_ [not] trained for anything yet _so_ [it was] go over there [and] clean up after _the_ dog 
+B|26| M: [that] 
+A|27| B: [and] uh _kids_ kind of [they want] _the_ [they want] _the_ fun part [and] [not] _the_ [not] _the_ [work] . 
+B|28| M: [so] what [are] [the] [kids] ? 
+A|29| B: _yeah_ . 
+B|30| M: [pet] 
+A|31| B: well if you're if you're [going [to] have a] [pet] [and] [not] [have] [it] neutered or spayed [you] need [to] be willing [to] [you know] deal with [the] consequences take care of [the] offspring 
+B|32| M: [i'm] 
+A|33| B: [and] _and i think you know_ 
+B|34| M: [and i think you know] 
+A|35| B: when _i was_ growing up _we_ had [cats and] [you know] _just_ seeing [the] [cats] [you know] [the] [the] miracle of birth [you know] put [that] in quotes _is_ that's [a] that's [a] neat thing [to] [to] experience as [a] kid [and] understand 
+B|36| M:  
+A|37| B: [and] [and] [it was] [a] real positive thing [but] on [the] other hand [you] [don't] [want] [to] you'd be one of these people [that] dumps [the] kittens off on [the] side of [the] road [you know] 
+B|38| M:  ... [and] 
+A|39| B: [they're] [they're] getting _old_ now [and] it's time [to] get rid of them . 
+B|40| M: [you know] 
+A|41| B: [so] . 
+B|42| M: [he] [is] [so] [so] [old] . 
+A|43| B: _yeah_ . 
+B|44| M: [are] [you] kidding ? 
+A|45| B: okay 
+B|46| M: [yeah [i] was] [just] making [a] joke [about] how [we] [are] [a] small community . 
+A|47| B: bye . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : i love cats and i love my cats but i can't have any .
+	Free: Pattern=and i, Pattern=have, Pattern=but i, Pattern=i, Pattern=cats, Pattern=cats and, Pattern=my
+	Constrained: Pattern=but, Pattern=i, Pattern=cats, Pattern=and
+Turn ID=1| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=2| B | M : they're not married .
+	Free: Pattern=not, Pattern=they're
+	Constrained: 
+Turn ID=3| A | B : i had a cat i've had several cats . my pet uh was hit by a car new year's eve but uh
+	Free: Pattern=a cat, Pattern=a, Pattern=i, Pattern=pet, Pattern=cats, Pattern=was, Pattern=my, Pattern=but
+	Constrained: Pattern=cat, Pattern=a
+Turn ID=4| B | M : i think you have to have a cat to have any pets .
+	Free: Pattern=a cat, Pattern=to have, Pattern=you have to have, Pattern=to have a, Pattern=i think you
+	Constrained: Pattern=you, Pattern=have, Pattern=to have, Pattern=i, Pattern=have to, Pattern=to, Pattern=i think, Pattern=cat, Pattern=a
+Turn ID=5| A | B : i'm going to get another one as soon as i get back in town . i'm going out of town this weekend when i get back i'm going to find a cat . so
+	Free: Pattern=going to, Pattern=i'm, Pattern=i, Pattern=so, Pattern=a cat, Pattern=going
+	Constrained: Pattern=cat, Pattern=a, Pattern=going, Pattern=to
+Turn ID=6| B | M : she nods .
+	Free: 
+	Constrained: 
+Turn ID=7| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=8| B | M : oh i'm sorry i thought you were going to say something .
+	Free: Pattern=going to, Pattern=i, Pattern=you, Pattern=i'm
+	Constrained: Pattern=going, Pattern=to
+Turn ID=9| A | B : i work and go to school and it's kind of nice you come home your your pet's there for you and wants a little food a little attention .
+	Free: Pattern=you, Pattern=a, Pattern=and, Pattern=work, Pattern=i, Pattern=to
+	Constrained: 
+Turn ID=10| B | M : work
+	Free: Pattern=work
+	Constrained: 
+Turn ID=11| A | B : and that's it's kind of fun .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=12| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=13| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=14| B | M : and they want a cat badly .
+	Free: Pattern=a cat, Pattern=they want, Pattern=and they
+	Constrained: Pattern=want, Pattern=a, Pattern=cat, Pattern=and
+Turn ID=15| A | B : no it was an kind of indoor outdoor it it was
+	Free: Pattern=it was, Pattern=it
+	Constrained: Pattern=it, Pattern=was
+Turn ID=16| B | M : i don't think you know what that means .
+	Free: Pattern=think you know, Pattern=i don't, Pattern=that
+	Constrained: Pattern=you know, Pattern=don't, Pattern=i, Pattern=you
+Turn ID=17| A | B : well yeah i don't i don't care for the smell of the litter box so my cat was trained to go outside other than that it was inside when it wanted to be it was outside when .
+	Free: Pattern=it was, Pattern=i don't, Pattern=cat, Pattern=yeah i, Pattern=it, Pattern=the, Pattern=to, Pattern=was, Pattern=my, Pattern=that, Pattern=so, Pattern=it was outside, Pattern=outside
+	Constrained: Pattern=it was, Pattern=don't, Pattern=was, Pattern=it, Pattern=yeah, Pattern=outside, Pattern=i
+Turn ID=18| B | M : it was outside .
+	Free: Pattern=it was outside
+	Constrained: Pattern=it was, Pattern=outside, Pattern=it, Pattern=was
+Turn ID=19| A | B : yeah i i think you know i like dogs but i think that uh i'm kind of like big big dogs and you have to have room for them .
+	Free: Pattern=but i, Pattern=yeah i, Pattern=and, Pattern=you have to have, Pattern=i'm, Pattern=i, Pattern=that, Pattern=i think, Pattern=i think you know
+	Constrained: Pattern=have, Pattern=yeah, Pattern=to have, Pattern=i, Pattern=think you know, Pattern=have to, Pattern=to, Pattern=i think you, Pattern=but, Pattern=i think, Pattern=you, Pattern=you know
+Turn ID=20| B | M : i'
+	Free: 
+	Constrained: 
+Turn ID=21| A | B : and dogs take a lot of a lot more care than cats do . cats are pretty independent you know you feed them and they keep themselves clean and if you if you raise them right you know you don't have to worry about the litter box thing where with dogs you really do have to let them out and take them for walks and things like that .
+	Free: Pattern=a, Pattern=and, Pattern=are, Pattern=about, Pattern=the, Pattern=that, Pattern=you, Pattern=you know, Pattern=have to, Pattern=don't, Pattern=cats, Pattern=and they
+	Constrained: Pattern=have, Pattern=and, Pattern=to, Pattern=you
+Turn ID=22| B | M : but
+	Free: Pattern=but
+	Constrained: 
+Turn ID=23| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=24| B | M : i .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=25| A | B : yeah i got to take care of a friend of mine's dog . he's just got a puppy and he was out of town last weekend and of course the dog is not trained for anything yet so it was go over there and clean up after the dog
+	Free: Pattern=it was, Pattern=just, Pattern=a, Pattern=yeah i, Pattern=and, Pattern=he, Pattern=is, Pattern=the, Pattern=to, Pattern=was, Pattern=so, Pattern=not
+	Constrained: Pattern=it, Pattern=yeah, Pattern=i, Pattern=was
+Turn ID=26| B | M : that
+	Free: Pattern=that
+	Constrained: 
+Turn ID=27| A | B : and uh kids kind of they want the they want the fun part and not the not the work .
+	Free: Pattern=and, Pattern=kids, Pattern=work, Pattern=the, Pattern=they want, Pattern=not
+	Constrained: Pattern=want
+Turn ID=28| B | M : so what are the kids ?
+	Free: Pattern=kids, Pattern=are, Pattern=the, Pattern=so
+	Constrained: 
+Turn ID=29| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=30| B | M : pet
+	Free: Pattern=pet
+	Constrained: 
+Turn ID=31| A | B : well if you're if you're going to have a pet and not have it neutered or spayed you need to be willing to you know deal with the consequences take care of the offspring
+	Free: Pattern=going to, Pattern=have, Pattern=the, Pattern=to, Pattern=not, Pattern=you, Pattern=you know, Pattern=it, Pattern=and, Pattern=pet, Pattern=to have a
+	Constrained: Pattern=you, Pattern=a, Pattern=to have, Pattern=to, Pattern=going, Pattern=have
+Turn ID=32| B | M : i'm
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=33| A | B : and and i think you know
+	Free: Pattern=and i think you know, Pattern=and
+	Constrained: Pattern=and i, Pattern=and, Pattern=i, Pattern=think you know, Pattern=i think you, Pattern=you, Pattern=you know, Pattern=i think, Pattern=i think you know
+Turn ID=34| B | M : and i think you know
+	Free: Pattern=and i think you know
+	Constrained: Pattern=and i, Pattern=and, Pattern=i, Pattern=think you know, Pattern=i think you, Pattern=you, Pattern=you know, Pattern=i think, Pattern=i think you know
+Turn ID=35| A | B : when i was growing up we had cats and you know just seeing the cats you know the the miracle of birth you know put that in quotes is that's a that's a neat thing to to experience as a kid and understand
+	Free: Pattern=i was, Pattern=you know, Pattern=just, Pattern=a, Pattern=and, Pattern=is, Pattern=we, Pattern=the, Pattern=cats, Pattern=to, Pattern=cats and, Pattern=that
+	Constrained: Pattern=you, Pattern=and, Pattern=i, Pattern=cats, Pattern=was
+Turn ID=36| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=37| A | B : and and it was a real positive thing but on the other hand you don't want to you'd be one of these people that dumps the kittens off on the side of the road you know
+	Free: Pattern=it was, Pattern=want, Pattern=a, Pattern=and, Pattern=the, Pattern=don't, Pattern=to, Pattern=you, Pattern=you know, Pattern=that, Pattern=but
+	Constrained: Pattern=it, Pattern=you, Pattern=was
+Turn ID=38| B | M :  ... and
+	Free: Pattern=and
+	Constrained: 
+Turn ID=39| A | B : they're they're getting old now and it's time to get rid of them .
+	Free: Pattern=old, Pattern=to, Pattern=they're, Pattern=and
+	Constrained: 
+Turn ID=40| B | M : you know
+	Free: Pattern=you know
+	Constrained: Pattern=you
+Turn ID=41| A | B : so .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=42| B | M : he is so so old .
+	Free: Pattern=he, Pattern=old, Pattern=so, Pattern=is
+	Constrained: 
+Turn ID=43| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=44| B | M : are you kidding ?
+	Free: Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=45| A | B : okay
+	Free: 
+	Constrained: 
+Turn ID=46| B | M : yeah i was just making a joke about how we are a small community .
+	Free: Pattern=i was, Pattern=just, Pattern=a, Pattern=yeah i, Pattern=are, Pattern=about, Pattern=we
+	Constrained: Pattern=yeah, Pattern=i, Pattern=was
+Turn ID=47| A | B : bye .
+	Free: 
+	Constrained: 

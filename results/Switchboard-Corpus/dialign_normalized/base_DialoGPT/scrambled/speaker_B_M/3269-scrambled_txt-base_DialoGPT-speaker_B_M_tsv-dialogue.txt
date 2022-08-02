@@ -1,0 +1,235 @@
+A|0| B: _but_ _uh_ if everyone _would_ take _it_ _i think_ if everyone took _it_ seriously 
+B|1| M: [i think] it's funny _that_ _they're_ _doing_ [it] _because_ _they're_ _the_ media _not_ _the_ 
+A|2| B: _and_ _i mean_ [i think] [that] _what_ this _is_ going _to_ lead _to_ _is_ people will take things into their own hands . _and_ [that] innocent people 
+B|3| M: _yeah_ [but] it's _not_ _a_ problem 
+A|4| B: uh-huh . 
+B|5| M: _how_ did he get _out_ _of_ [that] fish ? 
+A|6| B: _and_ um [i] _know_ _i was_ reading _in the_ _paper_ [i] believe yesterday [that] um [they're] talking or maybe [it] _was_ on [the] 
+B|7| M: he shrugs . i've _been_ _around_ _for a long _time_ ._ 
+A|8| B: [yeah] my name's bill . _well_ 
+B|9| M: [what] 
+A|10| B: [yeah] . [it] _was a_ landmark _is the_ one who built _it ._ 
+B|11| M: why [is the] news _so_ bad ? 
+A|12| B: yes . 
+B|13| M: _how_ [would] _you know_ ? 
+A|14| B: [how] _about_ yourself ? 
+B|15| M: [and] dogs 
+A|16| B: _right_ . 
+B|17| M: _i do_ . [but] [i] don'' [know] [what] _they are_ . 
+A|18| B: uh-huh . 
+B|19| M: [and] now _i'm_ sad 
+A|20| B: [i think] technology [is] better [i'm] [i'm] [not] sure . [i think] you've got [a] _good_ _point_ with [the] plastic [and] [that] . 
+B|21| M: did _you know_ ?? 
+A|22| B: [yeah] [i think] [it] _was_ november [and] [i] don't [do] anything _to_ mine water _them_ or anything [and] [they] just _they do_ really _good_ [and] [i] even had _uh_ [i] guess [it] _was_ last year or [the] year before [i] had some [out] [and] [it] froze [and] [the] pansies looked terrible [but] [they] came _back_ later . [i] didn't [do] anything _to_ _them_ [so] [they are] _uh_ [they are] _good_ _to_ plant _in the_ winter [time .] [they] last [for a long time] then . [so] if [you] start putting _them_ [you know] [you] can put _them_ [out] _in the_ spring too [but] once [it] starts getting real hot then [it] just kills _them_ cause [they] can't stand [the] hot weather . 
+B|23| M: er [uh] 
+A|24| B: oh my . 
+B|25| M: [well] [i mean] [they do] _have_ [paper] bags [in] [them] . 
+A|26| B: [yeah] . 
+B|27| M:  
+A|28| B: uh-huh . 
+B|29| M: [what] [is] [it] ? 
+A|30| B: people running up saying oh _what's_ [the] score _what's_ [the] score ? 
+B|31| M: [i was] thinking [about] [it .] 
+A|32| B: [uh] [and] [because] [the] cost [of] living [around] here [is] [so] high 
+B|33| M: [i'm] gonna build aint 
+A|34| B: [well] [you] learn [a] lot [of] um skills too [and] [i think] _you're_ more receptive when _you're_ younger than when _you're_ older _to_ learn new skills 
+B|35| M:  
+A|36| B: [i think] [that] should be left up _to_ people who [have] some knowledge _in the_ subject [and] more knowledge than [a] jury [would] [have] . _you're_ talking [about] [the] person's already [been] found guilty _right_ 
+B|37| M: [the] 
+A|38| B: [yeah] if [you] can afford [that] kind _of a_ toy then [i] guess [uh] 
+B|39| M:  
+A|40| B: [they] wouldn't [have] _to_ spend money advertising [and] things like [that] . 
+B|41| M: [have] [you] seen [the] movie ? 
+A|42| B: [i'm] [a] viking fan . 
+B|43| M: [what's] _your_ [point] ? 
+A|44| B: [and] [and] [i think] [you know] 
+B|45| M: _you know the_ other day [i was] [in the] [back] [of a] house [and] _there_ [was a] dog . 
+A|46| B: [you know the] _good_ ones [do] cost maybe sixty dollars [a] week since . 
+B|47| M: [you're] [right] tomatoes [are] [a] thing . 
+A|48| B: morocco . really . 
+B|49| M: i've never [been] [to] an irish pub . 
+A|50| B: [i] [you] [i think] there's [there] can be [a] lemon [in] anything [but] [uh] [i think] more often than [not] 
+B|51| M: [uh] 
+A|52| B: [uh] those 
+B|53| M: did [you] ever talk [to] [the] middle east [about] [it] ? 
+A|54| B: [your] [right] [i do] too [i think] [they] start [out] young like [in] [uh] girl scouts [and] boy scouts [a] video [doing] 
+B|55| M: [you're] supposed [to] inhale [it .] 
+A|56| B: [yeah] . [yeah] [yeah] . 
+B|57| M: she's [good] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : but uh if everyone would take it i think if everyone took it seriously
+	Free: Pattern=uh, Pattern=it, Pattern=would, Pattern=but, Pattern=i think
+	Constrained: Pattern=i
+Turn ID=1| B | M : i think it's funny that they're doing it because they're the media not the
+	Free: Pattern=because, Pattern=doing, Pattern=it, Pattern=they're, Pattern=the, Pattern=that, Pattern=i think, Pattern=not
+	Constrained: Pattern=i
+Turn ID=2| A | B : and i mean i think that what this is going to lead to is people will take things into their own hands . and that innocent people
+	Free: Pattern=what, Pattern=and, Pattern=to, Pattern=that, Pattern=i think, Pattern=is, Pattern=i mean
+	Constrained: Pattern=i
+Turn ID=3| B | M : yeah but it's not a problem
+	Free: Pattern=not, Pattern=but, Pattern=a, Pattern=yeah
+	Constrained: 
+Turn ID=4| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : how did he get out of that fish ?
+	Free: Pattern=how, Pattern=out, Pattern=that, Pattern=of
+	Constrained: 
+Turn ID=6| A | B : and um i know i was reading in the paper i believe yesterday that um they're talking or maybe it was on the
+	Free: Pattern=i was, Pattern=in the, Pattern=they're, Pattern=know, Pattern=i, Pattern=the, Pattern=that, Pattern=it, Pattern=and, Pattern=was, Pattern=paper
+	Constrained: Pattern=was, Pattern=the, Pattern=i, Pattern=in
+Turn ID=7| B | M : he shrugs . i've been around for a long time .
+	Free: Pattern=for a long time, Pattern=time ., Pattern=been, Pattern=around
+	Constrained: Pattern=a
+Turn ID=8| A | B : yeah my name's bill . well
+	Free: Pattern=well, Pattern=yeah
+	Constrained: 
+Turn ID=9| B | M : what
+	Free: Pattern=what
+	Constrained: 
+Turn ID=10| A | B : yeah . it was a landmark is the one who built it .
+	Free: Pattern=it ., Pattern=was a, Pattern=is the, Pattern=it, Pattern=yeah
+	Constrained: Pattern=a, Pattern=it, Pattern=is, Pattern=the, Pattern=was
+Turn ID=11| B | M : why is the news so bad ?
+	Free: Pattern=is the, Pattern=so
+	Constrained: Pattern=the, Pattern=is
+Turn ID=12| A | B : yes .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : how would you know ?
+	Free: Pattern=you know, Pattern=would, Pattern=how
+	Constrained: Pattern=know, Pattern=you
+Turn ID=14| A | B : how about yourself ?
+	Free: Pattern=how, Pattern=about
+	Constrained: 
+Turn ID=15| B | M : and dogs
+	Free: Pattern=and
+	Constrained: 
+Turn ID=16| A | B : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=17| B | M : i do . but i don'' know what they are .
+	Free: Pattern=i do, Pattern=what, Pattern=they are, Pattern=know, Pattern=i, Pattern=but
+	Constrained: Pattern=are, Pattern=do, Pattern=they, Pattern=i
+Turn ID=18| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : and now i'm sad
+	Free: Pattern=i'm, Pattern=and
+	Constrained: 
+Turn ID=20| A | B : i think technology is better i'm i'm not sure . i think you've got a good point with the plastic and that .
+	Free: Pattern=good, Pattern=a, Pattern=and, Pattern=i'm, Pattern=is, Pattern=point, Pattern=the, Pattern=that, Pattern=i think, Pattern=not
+	Constrained: Pattern=i
+Turn ID=21| B | M : did you know ??
+	Free: Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=22| A | B : yeah i think it was november and i don't do anything to mine water them or anything and they just they do really good and i even had uh i guess it was last year or the year before i had some out and it froze and the pansies looked terrible but they came back later . i didn't do anything to them so they are uh they are good to plant in the winter time . they last for a long time then . so if you start putting them you know you can put them out in the spring too but once it starts getting real hot then it just kills them cause they can't stand the hot weather .
+	Free: Pattern=good, Pattern=time ., Pattern=they, Pattern=do, Pattern=in the, Pattern=they are, Pattern=they do, Pattern=the, Pattern=was, Pattern=you, Pattern=uh, Pattern=out, Pattern=you know, Pattern=and, Pattern=it, Pattern=yeah, Pattern=back, Pattern=i, Pattern=for a long time, Pattern=to, Pattern=them, Pattern=but, Pattern=so, Pattern=i think
+	Constrained: Pattern=you, Pattern=they, Pattern=are, Pattern=in, Pattern=know, Pattern=i, Pattern=the, Pattern=do, Pattern=a
+Turn ID=23| B | M : er uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=24| A | B : oh my .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : well i mean they do have paper bags in them .
+	Free: Pattern=well, Pattern=have, Pattern=i mean, Pattern=paper, Pattern=them, Pattern=they do, Pattern=in
+	Constrained: Pattern=do, Pattern=they, Pattern=i
+Turn ID=26| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=27| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : what is it ?
+	Free: Pattern=what, Pattern=it, Pattern=is
+	Constrained: 
+Turn ID=30| A | B : people running up saying oh what's the score what's the score ?
+	Free: Pattern=the, Pattern=what's
+	Constrained: 
+Turn ID=31| B | M : i was thinking about it .
+	Free: Pattern=i was, Pattern=it ., Pattern=about
+	Constrained: Pattern=was, Pattern=it, Pattern=i
+Turn ID=32| A | B : uh and because the cost of living around here is so high
+	Free: Pattern=of, Pattern=uh, Pattern=because, Pattern=around, Pattern=and, Pattern=is, Pattern=the, Pattern=so
+	Constrained: 
+Turn ID=33| B | M : i'm gonna build aint
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=34| A | B : well you learn a lot of um skills too and i think you're more receptive when you're younger than when you're older to learn new skills
+	Free: Pattern=well, Pattern=you, Pattern=a, Pattern=and, Pattern=to, Pattern=i think, Pattern=you're, Pattern=of
+	Constrained: Pattern=i
+Turn ID=35| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : i think that should be left up to people who have some knowledge in the subject and more knowledge than a jury would have . you're talking about the person's already been found guilty right
+	Free: Pattern=have, Pattern=a, Pattern=and, Pattern=in the, Pattern=about, Pattern=the, Pattern=would, Pattern=to, Pattern=been, Pattern=that, Pattern=i think, Pattern=right, Pattern=you're
+	Constrained: Pattern=the, Pattern=i, Pattern=in
+Turn ID=37| B | M : the
+	Free: Pattern=the
+	Constrained: 
+Turn ID=38| A | B : yeah if you can afford that kind of a toy then i guess uh
+	Free: Pattern=yeah, Pattern=i, Pattern=of a, Pattern=that, Pattern=you, Pattern=uh
+	Constrained: Pattern=a, Pattern=of
+Turn ID=39| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : they wouldn't have to spend money advertising and things like that .
+	Free: Pattern=have, Pattern=they, Pattern=and, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=41| B | M : have you seen the movie ?
+	Free: Pattern=the, Pattern=you, Pattern=have
+	Constrained: 
+Turn ID=42| A | B : i'm a viking fan .
+	Free: Pattern=a, Pattern=i'm
+	Constrained: 
+Turn ID=43| B | M : what's your point ?
+	Free: Pattern=your, Pattern=what's, Pattern=point
+	Constrained: 
+Turn ID=44| A | B : and and i think you know
+	Free: Pattern=you know, Pattern=i think, Pattern=and
+	Constrained: Pattern=know, Pattern=i, Pattern=you
+Turn ID=45| B | M : you know the other day i was in the back of a house and there was a dog .
+	Free: Pattern=i was, Pattern=there, Pattern=and, Pattern=in the, Pattern=was a, Pattern=back, Pattern=of a, Pattern=you know the
+	Constrained: Pattern=of, Pattern=a, Pattern=in, Pattern=know, Pattern=i, Pattern=the, Pattern=was, Pattern=you, Pattern=you know
+Turn ID=46| A | B : you know the good ones do cost maybe sixty dollars a week since .
+	Free: Pattern=you know the, Pattern=do, Pattern=a, Pattern=good
+	Constrained: Pattern=you know, Pattern=the, Pattern=you, Pattern=know
+Turn ID=47| B | M : you're right tomatoes are a thing .
+	Free: Pattern=you're, Pattern=are, Pattern=right, Pattern=a
+	Constrained: 
+Turn ID=48| A | B : morocco . really .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : i've never been to an irish pub .
+	Free: Pattern=to, Pattern=been
+	Constrained: 
+Turn ID=50| A | B : i you i think there's there can be a lemon in anything but uh i think more often than not
+	Free: Pattern=there, Pattern=a, Pattern=in, Pattern=i, Pattern=but, Pattern=i think, Pattern=not, Pattern=you, Pattern=uh
+	Constrained: Pattern=i
+Turn ID=51| B | M : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=52| A | B : uh those
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=53| B | M : did you ever talk to the middle east about it ?
+	Free: Pattern=you, Pattern=it, Pattern=about, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=54| A | B : your right i do too i think they start out young like in uh girl scouts and boy scouts a video doing
+	Free: Pattern=right, Pattern=i do, Pattern=they, Pattern=a, Pattern=doing, Pattern=and, Pattern=in, Pattern=your, Pattern=i think, Pattern=uh, Pattern=out
+	Constrained: Pattern=do, Pattern=i
+Turn ID=55| B | M : you're supposed to inhale it .
+	Free: Pattern=it ., Pattern=you're, Pattern=to
+	Constrained: Pattern=it
+Turn ID=56| A | B : yeah . yeah yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=57| B | M : she's good .
+	Free: Pattern=good
+	Constrained: 

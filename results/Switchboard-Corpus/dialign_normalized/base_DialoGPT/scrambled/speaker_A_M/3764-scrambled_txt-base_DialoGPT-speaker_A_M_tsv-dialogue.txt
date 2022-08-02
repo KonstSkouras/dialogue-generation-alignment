@@ -1,0 +1,247 @@
+A|0| A: we got lucky . we had _no_ damage _to_ our house _or_ anything _so_ _the_ rest will just have _to_ come with time . 
+B|1| M: _it_ _is_ . 
+A|2| A: oh my . 
+B|3| M: _it's_ _not_ _like_ they're dangerous . 
+A|4| A: _that's_ _kind of_ [like] where we're 
+B|5| M: _well_ _it's_ been _a_ while . 
+A|6| A: _that's_ still fairly _new_ . 
+B|7| M: _um_ yes . 
+A|8| A: oh . 
+B|9| M: _you_ _do_ realize [that's] _how_ [the] death sentence works _right_ ? 
+A|10| A: _yeah_ . 
+B|11| M: [that's] [the] [kind of] stuff _i_ would never sell . 
+A|12| A: uh-huh . 
+B|13| M:  
+A|14| A: _in_ santa barbara . 
+B|15| M: _i_ _think_ _i'm_ _going to be_ out . 
+A|16| A: _yeah_ [of] course needs and wants aren't necessarily [the] same thing . 
+B|17| M: you're [like] _but_ 
+A|18| A: uh-huh . [well] [i] [do] . [i] just [i] love [it] . [it's] such [i] just _think it's_ such [a] fun sport . and _uh_ [i'm] just hoping _that_ [the] broncos _can_ get back on their feet . we're [not] convinced _that_ we're [going to be] cowboy fans yet . [but] _uh_ 
+B|19| M: what _do you_ [think] ? 
+A|20| A: my daughter graduated with her from arlington high school . 
+B|21| M: [i] [think it's] because they're sooo cute 
+A|22| A: _if_ [i] have _people_ over for dinner [i] [like] [it] [to be] nice and relaxed . 
+B|23| M: [no] you're [the] one 
+A|24| A: _yeah_ . 
+B|25| M: _see_ _you_ _around_ then . 
+A|26| A: [like] [i] remember [a] friend [of] mine at work telling me _that_ at his frat _in_ college _that_ they had [a] tank [of] piranha and _uh_ _you know_ used [to] drop mice _in_ 
+B|27| M: uhm ... what's [the] point ? 
+A|28| A: [um] hobbies [i] [like] messing [around] _in_ your house building things and _you know_ putting cabinets up and those [kind of] things [um] 
+B|29| M: [no] [it's] [not] . 
+A|30| A: _sure_ . 
+B|31| M: [i] can't even ... 
+A|32| A: _so_ [you] [see] 
+B|33| M: hey are [you] [in] [new] york ? 
+A|34| A: [well] now [do you] find _that_ security [is] very good [in] [in] [a] [in] [a] town home ? 
+B|35| M: [no] . 
+A|36| A: _yeah_ . 
+B|37| M: ford [the] american car company . 
+A|38| A: _that_ _that_ must [be] [a] fairly recent release . 
+B|39| M:  ... [so] [it's] basically [a] meatball ? 
+A|40| A: _yeah_ . 
+B|41| M: [i'm] guessing you're [a] roofer _right_ ? 
+A|42| A: uh-huh _. right ._ 
+B|43| M: [i'm] [a] ninj 
+A|44| A: _right ._ 
+B|45| M:  ? 
+A|46| A: _right ._ 
+B|47| M: [you] 
+A|48| A: and _uh_ 
+B|49| M: [i] live [in] [the] us . 
+A|50| A: [it's] amazing [how] _uh_ [how] much _uh_ [it] changes and [i] weigh probably about [the] same [i] weighed for oh _i don't_ _know_ [how] many years [but] _uh_ [it's] changed places and things _don't_ fit just quite exactly fit [the] same . 
+B|51| M: [i'm] [not] [sure] [if] [it's] hard [or] [not] . 
+A|52| A: [um] . 
+B|53| M: [how] [do [you] know] [that] ? 
+A|54| A: _yeah_ . 
+B|55| M: [well] [that's] [how] [it's] supposed [to be] . 
+A|56| A: uh-huh . 
+B|57| M: [i don't] [think] [you] [can] afford [that] 
+A|58| A: uh-huh . 
+B|59| M: [yeah] [i'm] [a] bit [of] [a] little . 
+B|60| M: [people] are more open minded than ever [. right .] [uh] [. right .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : we got lucky . we had no damage to our house or anything so the rest will just have to come with time .
+	Free: Pattern=no, Pattern=or, Pattern=the, Pattern=to, Pattern=so
+	Constrained: 
+Turn ID=1| B | M : it is .
+	Free: Pattern=it, Pattern=is
+	Constrained: 
+Turn ID=2| A | A : oh my .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : it's not like they're dangerous .
+	Free: Pattern=not, Pattern=it's, Pattern=like
+	Constrained: 
+Turn ID=4| A | A : that's kind of like where we're
+	Free: Pattern=kind of, Pattern=that's, Pattern=like
+	Constrained: Pattern=of
+Turn ID=5| B | M : well it's been a while .
+	Free: Pattern=well, Pattern=a, Pattern=it's
+	Constrained: 
+Turn ID=6| A | A : that's still fairly new .
+	Free: Pattern=new, Pattern=that's
+	Constrained: 
+Turn ID=7| B | M : um yes .
+	Free: Pattern=um
+	Constrained: 
+Turn ID=8| A | A : oh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : you do realize that's how the death sentence works right ?
+	Free: Pattern=right, Pattern=you, Pattern=do, Pattern=how, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=10| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=11| B | M : that's the kind of stuff i would never sell .
+	Free: Pattern=kind of, Pattern=that's, Pattern=i, Pattern=the
+	Constrained: Pattern=of
+Turn ID=12| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : in santa barbara .
+	Free: Pattern=in
+	Constrained: 
+Turn ID=15| B | M : i think i'm going to be out .
+	Free: Pattern=going to be, Pattern=i'm, Pattern=i, Pattern=think
+	Constrained: Pattern=to be, Pattern=to, Pattern=be
+Turn ID=16| A | A : yeah of course needs and wants aren't necessarily the same thing .
+	Free: Pattern=the, Pattern=yeah, Pattern=of
+	Constrained: 
+Turn ID=17| B | M : you're like but
+	Free: Pattern=but, Pattern=like
+	Constrained: 
+Turn ID=18| A | A : uh-huh . well i do . i just i love it . it's such i just think it's such a fun sport . and uh i'm just hoping that the broncos can get back on their feet . we're not convinced that we're going to be cowboy fans yet . but uh
+	Free: Pattern=well, Pattern=uh, Pattern=it, Pattern=can, Pattern=i'm, Pattern=i, Pattern=not, Pattern=do, Pattern=a, Pattern=think it's, Pattern=going to be, Pattern=the, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=think, Pattern=be, Pattern=to, Pattern=to be, Pattern=it's
+Turn ID=19| B | M : what do you think ?
+	Free: Pattern=do you, Pattern=think
+	Constrained: Pattern=do, Pattern=you
+Turn ID=20| A | A : my daughter graduated with her from arlington high school .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : i think it's because they're sooo cute
+	Free: Pattern=think it's, Pattern=i
+	Constrained: Pattern=think, Pattern=it's
+Turn ID=22| A | A : if i have people over for dinner i like it to be nice and relaxed .
+	Free: Pattern=people, Pattern=it, Pattern=if, Pattern=i, Pattern=like, Pattern=to be
+	Constrained: Pattern=to, Pattern=be
+Turn ID=23| B | M : no you're the one
+	Free: Pattern=the, Pattern=no
+	Constrained: 
+Turn ID=24| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=25| B | M : see you around then .
+	Free: Pattern=see, Pattern=you, Pattern=around
+	Constrained: 
+Turn ID=26| A | A : like i remember a friend of mine at work telling me that at his frat in college that they had a tank of piranha and uh you know used to drop mice in
+	Free: Pattern=of, Pattern=a, Pattern=in, Pattern=i, Pattern=like, Pattern=to, Pattern=that, Pattern=uh, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=27| B | M : uhm ... what's the point ?
+	Free: Pattern=the
+	Constrained: 
+Turn ID=28| A | A : um hobbies i like messing around in your house building things and you know putting cabinets up and those kind of things um
+	Free: Pattern=kind of, Pattern=you know, Pattern=um, Pattern=around, Pattern=in, Pattern=i, Pattern=like
+	Constrained: Pattern=know, Pattern=you, Pattern=of
+Turn ID=29| B | M : no it's not .
+	Free: Pattern=not, Pattern=it's, Pattern=no
+	Constrained: 
+Turn ID=30| A | A : sure .
+	Free: Pattern=sure
+	Constrained: 
+Turn ID=31| B | M : i can't even ...
+	Free: Pattern=i
+	Constrained: 
+Turn ID=32| A | A : so you see
+	Free: Pattern=so, Pattern=see, Pattern=you
+	Constrained: 
+Turn ID=33| B | M : hey are you in new york ?
+	Free: Pattern=new, Pattern=in, Pattern=you
+	Constrained: 
+Turn ID=34| A | A : well now do you find that security is very good in in a in a town home ?
+	Free: Pattern=well, Pattern=a, Pattern=do you, Pattern=in, Pattern=is, Pattern=that
+	Constrained: Pattern=do, Pattern=you
+Turn ID=35| B | M : no .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=36| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=37| B | M : ford the american car company .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=38| A | A : that that must be a fairly recent release .
+	Free: Pattern=that, Pattern=a, Pattern=be
+	Constrained: 
+Turn ID=39| B | M :  ... so it's basically a meatball ?
+	Free: Pattern=a, Pattern=so, Pattern=it's
+	Constrained: 
+Turn ID=40| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=41| B | M : i'm guessing you're a roofer right ?
+	Free: Pattern=i'm, Pattern=a, Pattern=right
+	Constrained: 
+Turn ID=42| A | A : uh-huh . right .
+	Free: Pattern=. right .
+	Constrained: Pattern=right ., Pattern=right
+Turn ID=43| B | M : i'm a ninj
+	Free: Pattern=i'm, Pattern=a
+	Constrained: 
+Turn ID=44| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=45| B | M :  ?
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=47| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=48| A | A : and uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=49| B | M : i live in the us .
+	Free: Pattern=in, Pattern=i, Pattern=the
+	Constrained: 
+Turn ID=50| A | A : it's amazing how uh how much uh it changes and i weigh probably about the same i weighed for oh i don't know how many years but uh it's changed places and things don't fit just quite exactly fit the same .
+	Free: Pattern=uh, Pattern=i don't, Pattern=how, Pattern=it, Pattern=know, Pattern=i, Pattern=the, Pattern=don't, Pattern=it's, Pattern=but
+	Constrained: Pattern=i, Pattern=don't
+Turn ID=51| B | M : i'm not sure if it's hard or not .
+	Free: Pattern=if, Pattern=i'm, Pattern=or, Pattern=sure, Pattern=it's, Pattern=not
+	Constrained: 
+Turn ID=52| A | A : um .
+	Free: Pattern=um
+	Constrained: 
+Turn ID=53| B | M : how do you know that ?
+	Free: Pattern=do you, Pattern=you know, Pattern=that, Pattern=how
+	Constrained: Pattern=know, Pattern=do, Pattern=you
+Turn ID=54| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=55| B | M : well that's how it's supposed to be .
+	Free: Pattern=well, Pattern=how, Pattern=that's, Pattern=to be, Pattern=it's
+	Constrained: Pattern=to, Pattern=be
+Turn ID=56| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : i don't think you can afford that
+	Free: Pattern=you, Pattern=i don't, Pattern=can, Pattern=think, Pattern=that
+	Constrained: Pattern=i, Pattern=don't
+Turn ID=58| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=59| B | M : yeah i'm a bit of a little .
+	Free: Pattern=i'm, Pattern=a, Pattern=yeah, Pattern=of
+	Constrained: 
+Turn ID=60| B | M : people are more open minded than ever . right . uh . right .
+	Free: Pattern=. right ., Pattern=uh, Pattern=people
+	Constrained: Pattern=right ., Pattern=right

@@ -1,0 +1,199 @@
+A|0| B: _oh_ on one hand _i_ see that _and_ on _the_ other hand _uh_ my older sister remembers when _uh_ at one point _they_ were taking radioactive wastes _and_ storing them in tin barrels which _i_ guess had _a_ half-life _of_ _oh_ five years _if they_ sit empty on dry land . 
+B|1| M: [oh] _you_ _have_ _money_ 
+A|2| B: _and_ _they_ final get up _to_ where _they_ kill somebody else _and_ _they_ go through fourteen appeals _and_ _how_ many hundreds _of_ thousands _of_ taxpayer dollars . 
+B|3| M: [they] _don't_ really . 
+A|4| B: _the_ worst one for smog _is_ mexico city . 
+B|5| M: no . no . no . no 
+A|6| B: _but_ that was that was _the_ only time she wanted _to_ get wet _and_ she didn't want [you] getting her wet 
+B|7| M: _what_ breed [is] your dog ? 
+A|8| B: [oh] well _i_ guess retirement that kind _of_ thing which _i_ [don't] worry much _about_ _so_ 
+B|9| M: _you know_ i'm _not_ too sure [about] this place . 
+A|10| B: uh-huh . 
+B|11| M: [the] plants . 
+A|12| B: right . 
+B|13| M: yes . yes . [and] [if they] dont _know_ [they] are _just_ _as_ bad _as_ _me_ . 
+A|14| B: uh-huh . uh-huh . right . 
+B|15| M: _we_ _do_ [but] _we_ [don't] _have_ [a] roof . 
+A|16| B: because _i_ since _i_ came from my father has _uh_ five sisters [and] two brothers [and] my mother has four brothers [and] two sisters . _so_ _i_ both _of_ my parents had big families [and] [we] always [we] always got together [just] always . now _it's_ different because _i_ live here [and] _i_ [you know] when _i_ go home _i_ try _to_ see [the] families [as] much _of_ [the] family [as] _i can_ [but] _it's_ real different . 
+B|17| M: hahaha ! i'll _be_ _there_ all week 
+A|18| B: uh-huh . 
+B|19| M: uhh [and] ? 
+A|20| B: we're [just] _so_ much wealthier [and] _uh_ [and] _uh_ [there] has _to_ [be] resentment built up 
+B|21| M: [it's] [a] nice place [to] recycle . 
+A|22| B: [it's] that was one _of_ [the] first things _i_ made for my husband because _i_ was like um yeah 
+B|23| M:  ... 
+A|24| B: [oh] absolutely . 
+B|25| M: i' 
+A|26| B: yeah right right 
+B|27| M: [so] . 
+A|28| B: yeah . 
+B|29| M: [there] [is] no [of] course . 
+A|30| B: well _i_ thought i'd [you know] i'd use it [as] [a] an escapement type thing . _i_ [don't] [know] [if] you're familiar with that operation [but] [what] [you] [do] [is] [you] [just] build up [the] pressure 
+B|31| M: [do] [you know] [what] i'm talking [about] ? 
+A|32| B: [but] whether or [not] it would [be] _uh_ our [money] would [be] better spent _uh_ teaching [you know] working on [the] drug problems [and] [the] [and] [the] sex problems _uh_ rather than trying [to] cure [the] people that already [have] it . 
+B|33| M: yes [they] [do] . 
+A|34| B: [don't] [you] want [to] [be] close [to] [me] ? _i_ mean [you know] [be] with other people . 
+B|35| M: uhh i've never been [there] . 
+A|36| B: _i_ guess that's _how_ it gets passed on . [you know] when one person [you] hear from another person 
+B|37| M: [how] [do] [you know] this ? 
+A|38| B: right . that's right . 
+B|39| M: [i] . 
+A|40| B: uh-huh . 
+B|41| M: i'm sure [i can] find some 
+A|42| B: [but] 
+B|43| M: [uh] [you know] [we] [have] [the] technology 
+A|44| B: yeah . 
+B|45| M: yes . [we] did . 
+A|46| B: [i] saw [the] movie [and] [uh] 
+B|47| M: work 
+A|48| B: [oh] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : oh on one hand i see that and on the other hand uh my older sister remembers when uh at one point they were taking radioactive wastes and storing them in tin barrels which i guess had a half-life of oh five years if they sit empty on dry land .
+	Free: Pattern=of, Pattern=uh, Pattern=they, Pattern=a, Pattern=i, Pattern=if they, Pattern=the, Pattern=and, Pattern=oh
+	Constrained: Pattern=if, Pattern=they
+Turn ID=1| B | M : oh you have money
+	Free: Pattern=have, Pattern=money, Pattern=you, Pattern=oh
+	Constrained: 
+Turn ID=2| A | B : and they final get up to where they kill somebody else and they go through fourteen appeals and how many hundreds of thousands of taxpayer dollars .
+	Free: Pattern=of, Pattern=they, Pattern=how, Pattern=and, Pattern=to
+	Constrained: 
+Turn ID=3| B | M : they don't really .
+	Free: Pattern=they, Pattern=don't
+	Constrained: 
+Turn ID=4| A | B : the worst one for smog is mexico city .
+	Free: Pattern=is, Pattern=the
+	Constrained: 
+Turn ID=5| B | M : no . no . no . no
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : but that was that was the only time she wanted to get wet and she didn't want you getting her wet
+	Free: Pattern=you, Pattern=and, Pattern=the, Pattern=to, Pattern=but
+	Constrained: 
+Turn ID=7| B | M : what breed is your dog ?
+	Free: Pattern=is, Pattern=what
+	Constrained: 
+Turn ID=8| A | B : oh well i guess retirement that kind of thing which i don't worry much about so
+	Free: Pattern=of, Pattern=oh, Pattern=about, Pattern=i, Pattern=don't, Pattern=so
+	Constrained: 
+Turn ID=9| B | M : you know i'm not too sure about this place .
+	Free: Pattern=you know, Pattern=not, Pattern=about
+	Constrained: Pattern=know, Pattern=you
+Turn ID=10| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : the plants .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=12| A | B : right .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : yes . yes . and if they dont know they are just as bad as me .
+	Free: Pattern=me, Pattern=they, Pattern=and, Pattern=know, Pattern=if they, Pattern=as, Pattern=just
+	Constrained: Pattern=if, Pattern=they
+Turn ID=14| A | B : uh-huh . uh-huh . right .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : we do but we don't have a roof .
+	Free: Pattern=have, Pattern=we, Pattern=don't, Pattern=but, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=16| A | B : because i since i came from my father has uh five sisters and two brothers and my mother has four brothers and two sisters . so i both of my parents had big families and we always we always got together just always . now it's different because i live here and i you know when i go home i try to see the families as much of the family as i can but it's real different .
+	Free: Pattern=of, Pattern=and, Pattern=i, Pattern=we, Pattern=the, Pattern=to, Pattern=i can, Pattern=so, Pattern=uh, Pattern=you know, Pattern=as, Pattern=just, Pattern=it's, Pattern=but
+	Constrained: Pattern=know, Pattern=you, Pattern=i
+Turn ID=17| B | M : hahaha ! i'll be there all week
+	Free: Pattern=there, Pattern=be
+	Constrained: 
+Turn ID=18| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : uhh and ?
+	Free: Pattern=and
+	Constrained: 
+Turn ID=20| A | B : we're just so much wealthier and uh and uh there has to be resentment built up
+	Free: Pattern=uh, Pattern=just, Pattern=there, Pattern=and, Pattern=be, Pattern=to, Pattern=so
+	Constrained: 
+Turn ID=21| B | M : it's a nice place to recycle .
+	Free: Pattern=it's, Pattern=to, Pattern=a
+	Constrained: 
+Turn ID=22| A | B : it's that was one of the first things i made for my husband because i was like um yeah
+	Free: Pattern=it's, Pattern=the, Pattern=i, Pattern=of
+	Constrained: 
+Turn ID=23| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : oh absolutely .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=25| B | M : i'
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : yeah right right
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : so .
+	Free: Pattern=so
+	Constrained: 
+Turn ID=28| A | B : yeah .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : there is no of course .
+	Free: Pattern=is, Pattern=there, Pattern=of
+	Constrained: 
+Turn ID=30| A | B : well i thought i'd you know i'd use it as a an escapement type thing . i don't know if you're familiar with that operation but what you do is you just build up the pressure
+	Free: Pattern=what, Pattern=if, Pattern=know, Pattern=the, Pattern=don't, Pattern=but, Pattern=you, Pattern=you know, Pattern=as, Pattern=just, Pattern=do, Pattern=a, Pattern=is, Pattern=i
+	Constrained: Pattern=know, Pattern=you
+Turn ID=31| B | M : do you know what i'm talking about ?
+	Free: Pattern=you know, Pattern=what, Pattern=do, Pattern=about
+	Constrained: Pattern=know, Pattern=you
+Turn ID=32| A | B : but whether or not it would be uh our money would be better spent uh teaching you know working on the drug problems and the and the sex problems uh rather than trying to cure the people that already have it .
+	Free: Pattern=money, Pattern=have, Pattern=and, Pattern=be, Pattern=the, Pattern=to, Pattern=but, Pattern=not, Pattern=uh, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=33| B | M : yes they do .
+	Free: Pattern=do, Pattern=they
+	Constrained: 
+Turn ID=34| A | B : don't you want to be close to me ? i mean you know be with other people .
+	Free: Pattern=me, Pattern=i, Pattern=be, Pattern=don't, Pattern=to, Pattern=you, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=35| B | M : uhh i've never been there .
+	Free: Pattern=there
+	Constrained: 
+Turn ID=36| A | B : i guess that's how it gets passed on . you know when one person you hear from another person
+	Free: Pattern=you know, Pattern=you, Pattern=i, Pattern=how
+	Constrained: Pattern=know, Pattern=you
+Turn ID=37| B | M : how do you know this ?
+	Free: Pattern=you know, Pattern=do, Pattern=how
+	Constrained: Pattern=know, Pattern=you
+Turn ID=38| A | B : right . that's right .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : i .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=40| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : i'm sure i can find some
+	Free: Pattern=i can
+	Constrained: Pattern=i
+Turn ID=42| A | B : but
+	Free: Pattern=but
+	Constrained: 
+Turn ID=43| B | M : uh you know we have the technology
+	Free: Pattern=have, Pattern=we, Pattern=the, Pattern=uh, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=44| A | B : yeah .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : yes . we did .
+	Free: Pattern=we
+	Constrained: 
+Turn ID=46| A | B : i saw the movie and uh
+	Free: Pattern=and, Pattern=the, Pattern=uh, Pattern=i
+	Constrained: 
+Turn ID=47| B | M : work
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : oh .
+	Free: Pattern=oh
+	Constrained: 

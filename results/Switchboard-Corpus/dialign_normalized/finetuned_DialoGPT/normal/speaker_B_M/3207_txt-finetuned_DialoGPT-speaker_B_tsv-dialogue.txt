@@ -1,0 +1,191 @@
+A|0| B: _yeah ._ _it's_ 
+B|1| M: _and_ _uh_ 
+A|2| B: _uh-huh ._ 
+B|3| M: _and_ _uh_ _so _it's_ it_ _i_ _think_ [it's] real important _that_ _uh_ _you_ _know_ _you_ _do it_ _right_ _because_ _it_ builds character . 
+A|4| B: oh _really_ ? 
+B|5| M: [yeah .] 
+A|6| B: _uh-huh ._ 
+B|7| M: _and_ _uh_ they _do_ _a_ lot _of uh_ they _do_ _uh_ _you_ _know_ watching the t v _and_ stuff . 
+A|8| B: [right] . 
+B|9| M: _but_ _uh_ 
+A|10| B: _to_ put her _in a_ rest home ? 
+B|11| M: [right] [yeah .] 
+A|12| B: _um_ _well_ see [it's] more _my_ grandma [that] feels [that] _way_ . 
+B|13| M: [uh-huh .] 
+A|14| B: she says [that] when her husband died [that] he said oh [that] _my_ uncle had said [that] he would never put her _in a_ rest home . [so it's] kind [of _uh] _i_ don't_ [know] . _i mean_ _i don't_ _i don't think_ _my_ parents would [but] she _is_ getting pretty bad _like_ she has _to have_ _like_ [a] little toilet [right] _by_ her bed [and] [it's] 
+B|15| M: [uh] _how_ old [is] your granddaughter ? 
+A|16| B: _and my_ mom has _to_ take care [of] her pretty much [so] [it] gets _i don't_ [know] . [it's] [it's] [a] hard decision [but] _i don't _think_ i_ would [do it] _to_ _my_ parents personally 
+B|17| M: [uh] 
+A|18| B: when he retired ? 
+B|19| M: [uh] about _three months_ ago . 
+A|20| B: [yeah] [it's] _like_ [that] good _for_ us _just_ [because] _my_ uncle _and my_ _and my_ mom switch off _like_ we _have_ her _for_ [three months] [and] then he has her _for_ [three months] . 
+B|21| M: [uh-huh .] 
+A|22| B: [so] [that] [that] works _out_ good . 
+B|23| M: [yeah .] 
+A|24| B: [uh-huh .] 
+B|25| M: [but] [uh] _you_ [know] _i'm_ [i] [have] two girls [and] [and] [uh] _i'm_ going [to have] [to] quit [because] [i] [just] [i] [just] [don't] want [to] work . 
+A|26| B: _really_ ? 
+B|27| M: [and] _i'm_ sure [that] they'll be at least somewhat better . 
+A|28| B: [uh-huh .] 
+B|29| M: we're going either we're both going [to] live [in a] big house or we're _not_ going [to] [do] anything . 
+A|30| B: [uh-huh .] 
+B|31| M: [and] you're _not_ going [to] feel [like] you're [out] [of] the house . 
+A|32| B: [you] [think] ? [i] [i] [i'm] [not] _really_ familiar with [how] other countries 
+B|33| M: [well] [i] [think i] _um i'm_ from the [i] was raised [in] the south [and] [uh i] lived [in] the [uh] texas area [for] [a] while [and] [and my] mother [and] father were both from [that] area [and] they were [uh] they were very similar people . 
+A|34| B: _they're_ seen as senile 
+B|35| M: [and] [and] [uh] [and] that's that's the [way] [they're] perceived [i] guess [by] people [in] the country . [but] [um] . 
+A|36| B: [right] . 
+B|37| M: [i don't think] people [really] respect the the [uh] the social changes [that] [have] occurred 
+A|38| B: [uh-huh .] 
+B|39| M: [and] [uh] [so _it's] it_ [it] [is] _it really is_ [a] problem . 
+A|40| B: [right] . 
+B|41| M: [i mean] [they're] [you] [know] they they've got [to have] [that] . 
+A|42| B: [uh-huh .] [i] [know] . 
+B|43| M: [but] [uh] 
+A|44| B: [um i'm] twenty . 
+B|45| M: twenty-two . 
+A|46| B: [yeah] [it's [it] really is] [but] [and] she she drives us 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : yeah . it's
+	Free: Pattern=yeah ., Pattern=it's
+	Constrained: Pattern=yeah
+Turn ID=1| B | M : and uh
+	Free: Pattern=uh, Pattern=and
+	Constrained: 
+Turn ID=2| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=3| B | M : and uh so it's it i think it's real important that uh you know you do it right because it builds character .
+	Free: Pattern=right, Pattern=so it's, Pattern=because, Pattern=think, Pattern=know, Pattern=i, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=do it, Pattern=it's it, Pattern=that, Pattern=it's
+	Constrained: Pattern=it, Pattern=do, Pattern=so, Pattern=it's
+Turn ID=4| A | B : oh really ?
+	Free: Pattern=really
+	Constrained: 
+Turn ID=5| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=6| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=7| B | M : and uh they do a lot of uh they do uh you know watching the t v and stuff .
+	Free: Pattern=of uh, Pattern=and, Pattern=know, Pattern=you, Pattern=uh, Pattern=do, Pattern=a
+	Constrained: Pattern=uh, Pattern=of
+Turn ID=8| A | B : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=9| B | M : but uh
+	Free: Pattern=uh, Pattern=but
+	Constrained: 
+Turn ID=10| A | B : to put her in a rest home ?
+	Free: Pattern=in a, Pattern=to
+	Constrained: Pattern=in, Pattern=a
+Turn ID=11| B | M : right yeah .
+	Free: Pattern=yeah ., Pattern=right
+	Constrained: Pattern=yeah
+Turn ID=12| A | B : um well see it's more my grandma that feels that way .
+	Free: Pattern=well, Pattern=um, Pattern=my, Pattern=that, Pattern=it's, Pattern=way
+	Constrained: 
+Turn ID=13| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=14| A | B : she says that when her husband died that he said oh that my uncle had said that he would never put her in a rest home . so it's kind of uh i don't know . i mean i don't i don't think my parents would but she is getting pretty bad like she has to have like a little toilet right by her bed and it's
+	Free: Pattern=right, Pattern=of uh, Pattern=i don't, Pattern=a, Pattern=in a, Pattern=and, Pattern=to have, Pattern=know, Pattern=like, Pattern=uh i, Pattern=by, Pattern=my, Pattern=so it's, Pattern=i don't think, Pattern=is, Pattern=i mean, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=of, Pattern=uh, Pattern=a, Pattern=i, Pattern=don't, Pattern=to, Pattern=it's, Pattern=so, Pattern=i don't, Pattern=have, Pattern=think, Pattern=in
+Turn ID=15| B | M : uh how old is your granddaughter ?
+	Free: Pattern=is, Pattern=uh, Pattern=how
+	Constrained: 
+Turn ID=16| A | B : and my mom has to take care of her pretty much so it gets i don't know . it's it's a hard decision but i don't think i would do it to my parents personally
+	Free: Pattern=of, Pattern=i don't, Pattern=i don't think, Pattern=a, Pattern=it, Pattern=know, Pattern=do it, Pattern=think i, Pattern=and my, Pattern=to, Pattern=my, Pattern=so, Pattern=it's, Pattern=but
+	Constrained: Pattern=i don't, Pattern=do, Pattern=think, Pattern=i, Pattern=don't, Pattern=my, Pattern=it, Pattern=and
+Turn ID=17| B | M : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=18| A | B : when he retired ?
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : uh about three months ago .
+	Free: Pattern=three months, Pattern=uh
+	Constrained: 
+Turn ID=20| A | B : yeah it's like that good for us just because my uncle and my and my mom switch off like we have her for three months and then he has her for three months .
+	Free: Pattern=because, Pattern=for, Pattern=and my, Pattern=my, Pattern=just, Pattern=have, Pattern=yeah, Pattern=and, Pattern=three months, Pattern=like, Pattern=that, Pattern=it's
+	Constrained: Pattern=and, Pattern=my
+Turn ID=21| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=22| A | B : so that that works out good .
+	Free: Pattern=so, Pattern=out, Pattern=that
+	Constrained: 
+Turn ID=23| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=24| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=25| B | M : but uh you know i'm i have two girls and and uh i'm going to have to quit because i just i just don't want to work .
+	Free: Pattern=because, Pattern=and, Pattern=to have, Pattern=i, Pattern=don't, Pattern=to, Pattern=but, Pattern=you, Pattern=uh, Pattern=just, Pattern=have, Pattern=know, Pattern=i'm
+	Constrained: Pattern=to, Pattern=have
+Turn ID=26| A | B : really ?
+	Free: Pattern=really
+	Constrained: 
+Turn ID=27| B | M : and i'm sure that they'll be at least somewhat better .
+	Free: Pattern=that, Pattern=and, Pattern=i'm
+	Constrained: 
+Turn ID=28| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=29| B | M : we're going either we're both going to live in a big house or we're not going to do anything .
+	Free: Pattern=in a, Pattern=not, Pattern=do, Pattern=to
+	Constrained: Pattern=in, Pattern=a
+Turn ID=30| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=31| B | M : and you're not going to feel like you're out of the house .
+	Free: Pattern=of, Pattern=out, Pattern=and, Pattern=like, Pattern=to, Pattern=not
+	Constrained: 
+Turn ID=32| A | B : you think ? i i i'm not really familiar with how other countries
+	Free: Pattern=you, Pattern=how, Pattern=think, Pattern=i'm, Pattern=i, Pattern=really, Pattern=not
+	Constrained: 
+Turn ID=33| B | M : well i think i um i'm from the i was raised in the south and uh i lived in the uh texas area for a while and and my mother and father were both from that area and they were uh they were very similar people .
+	Free: Pattern=well, Pattern=uh, Pattern=um i'm, Pattern=a, Pattern=for, Pattern=and, Pattern=in, Pattern=i, Pattern=think i, Pattern=and my, Pattern=uh i, Pattern=that
+	Constrained: Pattern=uh, Pattern=um, Pattern=and, Pattern=think, Pattern=i'm, Pattern=i, Pattern=my
+Turn ID=34| A | B : they're seen as senile
+	Free: Pattern=they're
+	Constrained: 
+Turn ID=35| B | M : and and uh and that's that's the way they're perceived i guess by people in the country . but um .
+	Free: Pattern=uh, Pattern=um, Pattern=and, Pattern=they're, Pattern=in, Pattern=i, Pattern=by, Pattern=way, Pattern=but
+	Constrained: 
+Turn ID=36| A | B : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=37| B | M : i don't think people really respect the the uh the social changes that have occurred
+	Free: Pattern=uh, Pattern=have, Pattern=i don't think, Pattern=really, Pattern=that
+	Constrained: Pattern=think, Pattern=i don't, Pattern=don't, Pattern=i
+Turn ID=38| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=39| B | M : and uh so it's it it is it really is a problem .
+	Free: Pattern=uh, Pattern=so it's, Pattern=a, Pattern=it really is, Pattern=is, Pattern=it's it, Pattern=it, Pattern=and
+	Constrained: Pattern=it, Pattern=is, Pattern=really, Pattern=it's, Pattern=so
+Turn ID=40| A | B : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=41| B | M : i mean they're you know they they've got to have that .
+	Free: Pattern=you, Pattern=to have, Pattern=they're, Pattern=know, Pattern=i mean, Pattern=that
+	Constrained: Pattern=i, Pattern=to, Pattern=have
+Turn ID=42| A | B : uh-huh . i know .
+	Free: Pattern=uh-huh ., Pattern=i, Pattern=know
+	Constrained: 
+Turn ID=43| B | M : but uh
+	Free: Pattern=uh, Pattern=but
+	Constrained: 
+Turn ID=44| A | B : um i'm twenty .
+	Free: Pattern=um i'm
+	Constrained: Pattern=um, Pattern=i'm
+Turn ID=45| B | M : twenty-two .
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : yeah it's it really is but and she she drives us
+	Free: Pattern=it really is, Pattern=it's it, Pattern=but, Pattern=yeah, Pattern=and
+	Constrained: Pattern=it's, Pattern=is, Pattern=it, Pattern=really

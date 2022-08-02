@@ -1,0 +1,183 @@
+A|0| B: oh which state _is that_ ? 
+B|1| M: were _you_ _in_ _the_ bears camp ? 
+A|2| B: and um it scares me _a_ little bit _to_ _think_ _that_ _they would_ begin restricting _gun_ control _to_ [the] point where um eventually we may _not_ _be_ able _to_ _have_ _that right_ any _more_ . 
+B|3| M: [is [that] right] ? 
+A|4| B: really ? 
+B|5| M: _i think_ _you_ _mean_ _that ._ 
+A|6| B: one year [i] _didn't_ put anything on and [i] _didn't_ _have_ any problems . 
+B|7| M:  
+A|8| B: uh-huh . okay _so_ _they_ _know_ [that .] and that's ... 
+B|9| M: _i would_ [be] surprised _if_ [they] [didn't] . 
+A|10| B: [right] . 
+B|11| M: we're _still_ here we're _just_ waiting _for_ them _to be_ found . 
+A|12| B: uh-huh . 
+B|13| M: _yeah ._ he says . 
+A|14| B: [if] _it's_ metal _it's_ all out _of_ metal . _it's_ he's _a_ design he's _a_ engineer designing stuff . 
+B|15| M: umm no . 
+A|16| B: uh _i've_ done business programming _you know_ scientific applications _like_ _you know_ petroleum science stuff and uh uh test equipment and [i] did [the] [i] [i] did one [that] was [the] demonstration _of_ _a_ touch touch screen [for] _a_ company [that] sells uh touch screens . it was kind _of_ fun . 
+B|17| M: i'm _pretty_ _sure_ [i] got [a] loan . 
+A|18| B: [for] one person ? 
+B|19| M: i'm [a] mets fan . [i've] never _been_ [to] [a] game . 
+A|20| B: uh-huh . [yeah] [that] uh [if] [if] [you] wanted [to] uh uh really get into [a] hot issue uh well at least [in] some [in] some beliefs uh how people dress when [they] _go_ [to] church [is] uh [is] uh sometimes [a] [pretty] [pretty] hot topic . 
+B|21| M:  
+A|22| B: uh _it's_ because [i] [i] can't find [the] item [that] [i] want at [a] competitive price anywhere [in] my local area . _so_ [i] _go_ outside [the] area [for] [that .] and [i think] [that] _it's not_ my responsibility [to] police myself and pay pennsylvania _what_ [they] believe [they] are owed even though _you know_ [the] revenue stream went [to] another state . [i] _don't_ [i] _don't_ [think] [that] that's my responsibility as [a] as [a] conscientious consumer . 
+B|23| M: b 
+A|24| B: uh-huh . uh-huh . 
+B|25| M: [i] [have] maybe 
+A|26| B: oh that's neat . [sure] . 
+B|27| M: [i've] always found [the] [gun] magazines _to be_ [a] lot [more] comfortable [to] hold than [the] magazines themselves . 
+A|28| B: [yeah] that's really lovely . [i would] love [to] [have] different fruit trees . _it's_ _it's_ [been] wonderful [to] [have] [the] peaches . they're [just] delicious . and we we we [have] [still] [have] [to] spray some _but_ we _don't_ [have] [to] [just] asphyxiate ourself _with_ [the] poison which [is] good because [i] [just] [i] can't _see_ [the] point [in] doing [that] and eating anything out _of_ it afterwards . 
+B|29| M: [but] [of] course i'm [not] . 
+A|30| B: nor _do_ we [but] 
+B|31| M: [it's] [a] socialized healthcare system . 
+A|32| B: [i] [mean] [i] guess that's fine [if] [you] [have] [a] mouse problem at your frat house and your things destroyed [the] mice . 
+B|33| M: [it's not] [like] [it's not] bad [you] [just] [don't] [see] them . 
+A|34| B: hey 
+B|35| M: [do] [you know] [what] [the] number [of] murders per capita [in] texas [is] ? 
+A|36| B: really . 
+B|37| M: [so] i'm gonna [go] [with] [a] baby . 
+A|38| B: [yeah .] [yeah .] 
+B|39| M: [i] 
+A|40| B: [right] . [right] . [but] [it's] [still] [be] quite [a] bit cheaper [to] [do] it yourself . 
+B|41| M: [i think] [they would] [be] . 
+A|42| B: [it's] [it's] real easy [i] [like] doing [that] part . 
+B|43| M: i'm [not] [sure] [if] she'll [be] home soon . 
+A|44| B: it seems [to be] catching on uh slowly [but] surely [i] guess 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : oh which state is that ?
+	Free: Pattern=is that
+	Constrained: Pattern=that, Pattern=is
+Turn ID=1| B | M : were you in the bears camp ?
+	Free: Pattern=in, Pattern=you, Pattern=the
+	Constrained: 
+Turn ID=2| A | B : and um it scares me a little bit to think that they would begin restricting gun control to the point where um eventually we may not be able to have that right any more .
+	Free: Pattern=more, Pattern=have, Pattern=they would, Pattern=a, Pattern=gun, Pattern=think, Pattern=the, Pattern=to, Pattern=that, Pattern=not, Pattern=that right, Pattern=be
+	Constrained: Pattern=that, Pattern=right, Pattern=they
+Turn ID=3| B | M : is that right ?
+	Free: Pattern=is that, Pattern=that right
+	Constrained: Pattern=that, Pattern=is, Pattern=right
+Turn ID=4| A | B : really ?
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : i think you mean that .
+	Free: Pattern=i think, Pattern=that ., Pattern=mean, Pattern=you
+	Constrained: Pattern=that, Pattern=i, Pattern=think
+Turn ID=6| A | B : one year i didn't put anything on and i didn't have any problems .
+	Free: Pattern=have, Pattern=didn't, Pattern=i
+	Constrained: 
+Turn ID=7| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : uh-huh . okay so they know that . and that's ...
+	Free: Pattern=that ., Pattern=know, Pattern=so, Pattern=they
+	Constrained: Pattern=that
+Turn ID=9| B | M : i would be surprised if they didn't .
+	Free: Pattern=they, Pattern=if, Pattern=didn't, Pattern=be, Pattern=i would
+	Constrained: Pattern=i
+Turn ID=10| A | B : right .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=11| B | M : we're still here we're just waiting for them to be found .
+	Free: Pattern=to be, Pattern=still, Pattern=just, Pattern=for
+	Constrained: Pattern=to, Pattern=be
+Turn ID=12| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : yeah . he says .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=14| A | B : if it's metal it's all out of metal . it's he's a design he's a engineer designing stuff .
+	Free: Pattern=if, Pattern=a, Pattern=it's, Pattern=of
+	Constrained: 
+Turn ID=15| B | M : umm no .
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : uh i've done business programming you know scientific applications like you know petroleum science stuff and uh uh test equipment and i did the i i did one that was the demonstration of a touch touch screen for a company that sells uh touch screens . it was kind of fun .
+	Free: Pattern=of, Pattern=you know, Pattern=a, Pattern=for, Pattern=i've, Pattern=i, Pattern=like, Pattern=the, Pattern=that
+	Constrained: Pattern=know, Pattern=you
+Turn ID=17| B | M : i'm pretty sure i got a loan .
+	Free: Pattern=i, Pattern=a, Pattern=pretty, Pattern=sure
+	Constrained: 
+Turn ID=18| A | B : for one person ?
+	Free: Pattern=for
+	Constrained: 
+Turn ID=19| B | M : i'm a mets fan . i've never been to a game .
+	Free: Pattern=to, Pattern=been, Pattern=a, Pattern=i've
+	Constrained: 
+Turn ID=20| A | B : uh-huh . yeah that uh if if you wanted to uh uh really get into a hot issue uh well at least in some in some beliefs uh how people dress when they go to church is uh is uh sometimes a pretty pretty hot topic .
+	Free: Pattern=you, Pattern=go, Pattern=they, Pattern=a, Pattern=yeah, Pattern=if, Pattern=in, Pattern=is, Pattern=pretty, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : uh it's because i i can't find the item that i want at a competitive price anywhere in my local area . so i go outside the area for that . and i think that it's not my responsibility to police myself and pay pennsylvania what they believe they are owed even though you know the revenue stream went to another state . i don't i don't think that that's my responsibility as a as a conscientious consumer .
+	Free: Pattern=that ., Pattern=you know, Pattern=go, Pattern=a, Pattern=for, Pattern=i, Pattern=the, Pattern=don't, Pattern=to, Pattern=it's not, Pattern=what, Pattern=they, Pattern=think, Pattern=in, Pattern=that, Pattern=it's, Pattern=so, Pattern=i think
+	Constrained: Pattern=you, Pattern=think, Pattern=know, Pattern=i, Pattern=not, Pattern=that, Pattern=it's
+Turn ID=23| B | M : b
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : i have maybe
+	Free: Pattern=have, Pattern=i
+	Constrained: 
+Turn ID=26| A | B : oh that's neat . sure .
+	Free: Pattern=sure
+	Constrained: 
+Turn ID=27| B | M : i've always found the gun magazines to be a lot more comfortable to hold than the magazines themselves .
+	Free: Pattern=more, Pattern=a, Pattern=gun, Pattern=i've, Pattern=the, Pattern=to, Pattern=to be
+	Constrained: Pattern=to, Pattern=be
+Turn ID=28| A | B : yeah that's really lovely . i would love to have different fruit trees . it's it's been wonderful to have the peaches . they're just delicious . and we we we have still have to spray some but we don't have to just asphyxiate ourself with the poison which is good because i just i can't see the point in doing that and eating anything out of it afterwards .
+	Free: Pattern=of, Pattern=yeah, Pattern=in, Pattern=the, Pattern=to, Pattern=been, Pattern=still, Pattern=just, Pattern=have, Pattern=is, Pattern=i, Pattern=see, Pattern=i would, Pattern=don't, Pattern=with, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=i
+Turn ID=29| B | M : but of course i'm not .
+	Free: Pattern=not, Pattern=but, Pattern=of
+	Constrained: 
+Turn ID=30| A | B : nor do we but
+	Free: Pattern=do, Pattern=but
+	Constrained: 
+Turn ID=31| B | M : it's a socialized healthcare system .
+	Free: Pattern=a, Pattern=it's
+	Constrained: 
+Turn ID=32| A | B : i mean i guess that's fine if you have a mouse problem at your frat house and your things destroyed the mice .
+	Free: Pattern=you, Pattern=a, Pattern=if, Pattern=i, Pattern=the, Pattern=have, Pattern=mean
+	Constrained: 
+Turn ID=33| B | M : it's not like it's not bad you just don't see them .
+	Free: Pattern=you, Pattern=just, Pattern=like, Pattern=it's not, Pattern=see, Pattern=don't
+	Constrained: Pattern=not, Pattern=it's
+Turn ID=34| A | B : hey
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : do you know what the number of murders per capita in texas is ?
+	Free: Pattern=of, Pattern=you know, Pattern=what, Pattern=do, Pattern=in, Pattern=is, Pattern=the
+	Constrained: Pattern=know, Pattern=you
+Turn ID=36| A | B : really .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : so i'm gonna go with a baby .
+	Free: Pattern=with, Pattern=go, Pattern=a, Pattern=so
+	Constrained: 
+Turn ID=38| A | B : yeah . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=39| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=40| A | B : right . right . but it's still be quite a bit cheaper to do it yourself .
+	Free: Pattern=right, Pattern=be, Pattern=to, Pattern=still, Pattern=do, Pattern=a, Pattern=it's, Pattern=but
+	Constrained: 
+Turn ID=41| B | M : i think they would be .
+	Free: Pattern=they would, Pattern=i think, Pattern=be
+	Constrained: Pattern=i, Pattern=think, Pattern=they
+Turn ID=42| A | B : it's it's real easy i like doing that part .
+	Free: Pattern=that, Pattern=i, Pattern=it's, Pattern=like
+	Constrained: 
+Turn ID=43| B | M : i'm not sure if she'll be home soon .
+	Free: Pattern=if, Pattern=not, Pattern=be, Pattern=sure
+	Constrained: 
+Turn ID=44| A | B : it seems to be catching on uh slowly but surely i guess
+	Free: Pattern=to be, Pattern=but, Pattern=i
+	Constrained: Pattern=to, Pattern=be

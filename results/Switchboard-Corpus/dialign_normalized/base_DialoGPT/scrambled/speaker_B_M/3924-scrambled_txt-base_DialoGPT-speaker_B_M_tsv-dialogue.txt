@@ -1,0 +1,239 @@
+A|0| B: _i_ get tired uh sometimes mowing because _we_ mow _you_ _know_ _a_ good bit of ground _around_ _the_ house area . 
+B|1| M: [i] don't [know] . 
+A|2| B: _it's_ incentive speaking of bush we're _going to_ get _a_ little off topic _but_ speaking of bush _they_ _that_ had _a_ story where he went _to_ visit some little uh elementary school students and stuff . 
+B|3| M: [i] _was_ 
+A|4| B: uh-huh . 
+B|5| M:  
+A|6| B: oh _it_ _just_ drives us nuts . 
+B|7| M: _no_ i' 
+A|8| B: bye . 
+B|9| M: _so_ 
+A|10| B: _the_ area [i] work _in_ _it_ _it_ primarily _have_ maybe _a_ hundred people or [so] . 
+B|11| M: why ???! why ? 
+A|12| B: [so] _we_ _we_ rely pretty pretty heavily _i think_ on _a_ combination of _the_ of _the_ two . [i] also uh use uh newsweek magazine . uh 
+B|13| M:  ... 
+A|14| B: good good _that's_ great . _yeah ._ _well_ good luck . 
+B|15| M: is [it] [a] snake ? 
+A|16| B: _yeah ._ actually _i'm_ [a] california born person . 
+B|17| M: _what_ do [you] mean ? 
+A|18| B: _i think_ _i think_ pennsylvania may _have_ _just_ reenacted [it] because _i'm_ from uh from pennsylvania also _just_ uh _just_ outside of philadelphia 
+B|19| M: [we] [have] [it's] [just] [so] far away 
+A|20| B: _that's_ [what] _i've_ heard . 
+B|21| M: uhh [yeah .] 
+A|22| B: _that_ would be nice . 
+B|23| M: ohio _right_ ? 
+A|24| B: uh-huh . _that's_ good . 
+B|25| M: [i] don't . 
+A|26| B: [you] [have] more of [a] choice you're _not_ pressed upon as bad . 
+B|27| M: [it's] [not] _like_ [i'm] gonna [have] any issues with [it] . 
+A|28| B: [yeah .] 
+B|29| M: [i think] [it's] called [a] minivan 
+A|30| B: [no] more huh . 
+B|31| M: [you] said [you] can do [it] . 
+A|32| B: [yeah] [it] sounds pretty good _that_ sounds good . _i've_ noticed [a] lot of uh different organizations _in_ our community uh pick up [like] on _the_ highway and stuff and [i think] _that's_ pretty neat . _they_ uh go along and [have] [so] many miles [i] guess of highway _to_ take over 
+B|33| M: [i] [like] [the] way [you] [think] 
+A|34| B: and uh 
+B|35| M: [it's] [a] shame [they] didn't [have] any . 
+A|36| B: uh-huh . 
+B|37| M: there's [no] lemon [in] [that] . 
+A|38| B: [i] asked myself . 
+B|39| M: do [you] [like] [to] cook ? 
+A|40| B: [yeah .] _that's_ true . 
+B|41| M: uhm . hmm . 
+A|42| B: [yeah] _well_ [it] wasn't [the] matter of wealth [it] [was] [the] matter [that] _they were_ [not] wealthy [that] made them equal . 
+B|43| M: [you] mean [like] [you] [just] 
+A|44| B: [just] let me see [what] [i] got [i] got [the] peas and _i've_ got some broccoli uh onions some some radishes and uh uh beets . 
+B|45| M: [what] do [you] mean [like] lawyer programs ? 
+A|46| B: uh 
+B|47| M: [well] [it's] [not] [like] they're doing anything . 
+A|48| B: and [i] pay [a] lot of property taxes . 
+B|49| M: [i] 
+A|50| B: [they] almost always get thrown [right] back out again _but_ [they] [have] [to] [have] every single appeal made open [to] them . 
+B|51| M: [it's] [a] common theme [yeah .] 
+A|52| B: oh really ? 
+B|53| M: [i've] voted [in] [a] few election days [but] [i'm] still [not] [going to] vote . 
+A|54| B: [but] uh 
+B|55| M: [that's] 
+A|56| B: oh . 
+B|57| M:  
+B|58| M: [yeah] [but] [what] if [they were] [around] too ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : i get tired uh sometimes mowing because we mow you know a good bit of ground around the house area .
+	Free: Pattern=you, Pattern=a, Pattern=around, Pattern=know, Pattern=i, Pattern=we, Pattern=the
+	Constrained: 
+Turn ID=1| B | M : i don't know .
+	Free: Pattern=know, Pattern=i
+	Constrained: 
+Turn ID=2| A | B : it's incentive speaking of bush we're going to get a little off topic but speaking of bush they that had a story where he went to visit some little uh elementary school students and stuff .
+	Free: Pattern=going to, Pattern=they, Pattern=a, Pattern=to, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=to
+Turn ID=3| B | M : i was
+	Free: Pattern=was, Pattern=i
+	Constrained: 
+Turn ID=4| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : oh it just drives us nuts .
+	Free: Pattern=it, Pattern=just
+	Constrained: 
+Turn ID=7| B | M : no i'
+	Free: Pattern=no
+	Constrained: 
+Turn ID=8| A | B : bye .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : so
+	Free: Pattern=so
+	Constrained: 
+Turn ID=10| A | B : the area i work in it it primarily have maybe a hundred people or so .
+	Free: Pattern=have, Pattern=a, Pattern=it, Pattern=in, Pattern=i, Pattern=the, Pattern=so
+	Constrained: 
+Turn ID=11| B | M : why ???! why ?
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : so we we rely pretty pretty heavily i think on a combination of the of the two . i also uh use uh newsweek magazine . uh
+	Free: Pattern=a, Pattern=i, Pattern=we, Pattern=the, Pattern=so, Pattern=i think
+	Constrained: Pattern=i, Pattern=think
+Turn ID=13| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : good good that's great . yeah . well good luck .
+	Free: Pattern=yeah ., Pattern=well, Pattern=that's
+	Constrained: Pattern=yeah
+Turn ID=15| B | M : is it a snake ?
+	Free: Pattern=it, Pattern=a
+	Constrained: 
+Turn ID=16| A | B : yeah . actually i'm a california born person .
+	Free: Pattern=yeah ., Pattern=i'm, Pattern=a
+	Constrained: Pattern=yeah
+Turn ID=17| B | M : what do you mean ?
+	Free: Pattern=what, Pattern=you
+	Constrained: 
+Turn ID=18| A | B : i think i think pennsylvania may have just reenacted it because i'm from uh from pennsylvania also just uh just outside of philadelphia
+	Free: Pattern=it, Pattern=i'm, Pattern=i think, Pattern=just, Pattern=have
+	Constrained: Pattern=i, Pattern=think
+Turn ID=19| B | M : we have it's just so far away
+	Free: Pattern=we, Pattern=it's, Pattern=so, Pattern=just, Pattern=have
+	Constrained: 
+Turn ID=20| A | B : that's what i've heard .
+	Free: Pattern=what, Pattern=that's, Pattern=i've
+	Constrained: 
+Turn ID=21| B | M : uhh yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=22| A | B : that would be nice .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=23| B | M : ohio right ?
+	Free: Pattern=right
+	Constrained: 
+Turn ID=24| A | B : uh-huh . that's good .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=25| B | M : i don't .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=26| A | B : you have more of a choice you're not pressed upon as bad .
+	Free: Pattern=have, Pattern=not, Pattern=you, Pattern=a
+	Constrained: 
+Turn ID=27| B | M : it's not like i'm gonna have any issues with it .
+	Free: Pattern=have, Pattern=it, Pattern=i'm, Pattern=like, Pattern=it's, Pattern=not
+	Constrained: 
+Turn ID=28| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=29| B | M : i think it's called a minivan
+	Free: Pattern=i think, Pattern=it's, Pattern=a
+	Constrained: Pattern=i, Pattern=think
+Turn ID=30| A | B : no more huh .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=31| B | M : you said you can do it .
+	Free: Pattern=it, Pattern=you
+	Constrained: 
+Turn ID=32| A | B : yeah it sounds pretty good that sounds good . i've noticed a lot of uh different organizations in our community uh pick up like on the highway and stuff and i think that's pretty neat . they uh go along and have so many miles i guess of highway to take over
+	Free: Pattern=have, Pattern=they, Pattern=a, Pattern=i've, Pattern=in, Pattern=i, Pattern=like, Pattern=to, Pattern=that, Pattern=it, Pattern=yeah, Pattern=that's, Pattern=the, Pattern=so, Pattern=i think
+	Constrained: Pattern=i, Pattern=think
+Turn ID=33| B | M : i like the way you think
+	Free: Pattern=you, Pattern=think, Pattern=i, Pattern=like, Pattern=the
+	Constrained: 
+Turn ID=34| A | B : and uh
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : it's a shame they didn't have any .
+	Free: Pattern=it's, Pattern=have, Pattern=a, Pattern=they
+	Constrained: 
+Turn ID=36| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : there's no lemon in that .
+	Free: Pattern=that, Pattern=in, Pattern=no
+	Constrained: 
+Turn ID=38| A | B : i asked myself .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=39| B | M : do you like to cook ?
+	Free: Pattern=like, Pattern=to, Pattern=you
+	Constrained: 
+Turn ID=40| A | B : yeah . that's true .
+	Free: Pattern=yeah ., Pattern=that's
+	Constrained: Pattern=yeah
+Turn ID=41| B | M : uhm . hmm .
+	Free: 
+	Constrained: 
+Turn ID=42| A | B : yeah well it wasn't the matter of wealth it was the matter that they were not wealthy that made them equal .
+	Free: Pattern=well, Pattern=they were, Pattern=the, Pattern=was, Pattern=that, Pattern=not, Pattern=it, Pattern=yeah
+	Constrained: Pattern=they
+Turn ID=43| B | M : you mean like you just
+	Free: Pattern=like, Pattern=just, Pattern=you
+	Constrained: 
+Turn ID=44| A | B : just let me see what i got i got the peas and i've got some broccoli uh onions some some radishes and uh uh beets .
+	Free: Pattern=just, Pattern=what, Pattern=i've, Pattern=i, Pattern=the
+	Constrained: 
+Turn ID=45| B | M : what do you mean like lawyer programs ?
+	Free: Pattern=like, Pattern=what, Pattern=you
+	Constrained: 
+Turn ID=46| A | B : uh
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : well it's not like they're doing anything .
+	Free: Pattern=it's, Pattern=like, Pattern=well, Pattern=not
+	Constrained: 
+Turn ID=48| A | B : and i pay a lot of property taxes .
+	Free: Pattern=i, Pattern=a
+	Constrained: 
+Turn ID=49| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=50| A | B : they almost always get thrown right back out again but they have to have every single appeal made open to them .
+	Free: Pattern=right, Pattern=have, Pattern=they, Pattern=to, Pattern=but
+	Constrained: 
+Turn ID=51| B | M : it's a common theme yeah .
+	Free: Pattern=yeah ., Pattern=it's, Pattern=a
+	Constrained: Pattern=yeah
+Turn ID=52| A | B : oh really ?
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : i've voted in a few election days but i'm still not going to vote .
+	Free: Pattern=going to, Pattern=a, Pattern=i've, Pattern=in, Pattern=i'm, Pattern=but, Pattern=not
+	Constrained: Pattern=to
+Turn ID=54| A | B : but uh
+	Free: Pattern=but
+	Constrained: 
+Turn ID=55| B | M : that's
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=56| A | B : oh .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=58| B | M : yeah but what if they were around too ?
+	Free: Pattern=they were, Pattern=what, Pattern=around, Pattern=yeah, Pattern=but
+	Constrained: Pattern=they

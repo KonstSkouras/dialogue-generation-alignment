@@ -1,0 +1,131 @@
+B|0| M: _but uh_ 
+A|1| A: uh-huh . _i_ agree with _that_ . 
+B|2| M: _so_ _uh_ . 
+A|3| A: _i_ guess _i'm_ _i'm_ _a_ student _right_ now _and _i_ don't_ _make_ _a_ _whole_ lot of money _and_ [so] _i_ _i_ kind of _don't pay a_ proportionate amount of _taxes_ _to_ _i_ guess [uh] compared _to_ _what_ _i_ get because _i_ _you know_ all my my education _is_ _state_ sponsored . _i_ go _to_ _a state_ sponsored school _and uh_ my education all up through _high_ school _and_ stuff [so] _i_ guess _i'm_ kind of in debt _i_ _i_ suppose because _i don't_ _you know_ _been_ paying _taxes_ all _that_ all _that_ long . my parents _i_ guess however _have_ contributed _to_ _that you know_ _for the_ education side of it _and_ _everything_ [but uh] _i_ usually end up getting money back . _i_ will this year anyway from _a_ 
+B|4| M: _yeah_ . 
+A|5| A: [yeah] _i_ am _i_ _need_ it too otherwise 
+B|6| M: _well_ i've [been] working [for] [uh] [the] government [for the] last _eight_ years . 
+A|7| A: uh-huh . 
+B|8| M: [i] [know] [i] [know] [what] [you] mean . 
+A|9| A: uh-huh . 
+B|10| M: [and uh] we [pay a] [a] _tax_ on our medical insurance [but] we [don't pay a] _tax_ [for the] telephone calls . 
+A|11| A: more _taxes_ [you] [pay] . 
+B|12| M: [right] _right ._ [and _i] think_ _that's_ really important . 
+A|13| A: uh-huh . isn't 
+B|14| M: _i think_ [i don't] [know] [i] [i'm] not [so] sure [that] [that] [uh] [that] _that's_ _that's_ [a] good idea [that] [that you know] we [need] [to] [uh] [make] sure [that] we [uh] we [pay] [taxes] proportionally . 
+A|15| A: uh-huh . uh-huh . 
+B|16| M: [and uh] . 
+A|17| A: wow . 
+B|18| M: [and uh] . 
+A|19| A: uh-huh . [well] isn't 
+B|20| M: [you know] we we [don't] [have] [a state] _income tax_ . [uh] we [have] [a] sales _tax_ on [everything] [you know] clothing [and] [and] buying [and] things _like that_ [and] _that's_ pretty [high] . 
+A|21| A: uh-huh there's [a] lot [yeah] lot of hidden [taxes] . 
+B|22| M: [yeah] [and uh] . 
+A|23| A: uh-huh . [the] [taxes] [that] people [don't] [think] about [that] [yeah] [the] [the] [the] [income tax] _is_ [a] lot more visible portion of [the] [taxes] [you] [pay] [i] guess . 
+B|24| M: _right ._ 
+A|25| A: uh-huh . there _was that_ which _was_ it jerry brown one of [the] democratic candidates had [a] proposal [for] doing away with all [the] [the] [tax] codes they [have] now [and] implementing [a] [i think] [a] flat percentage something [like that] . 
+B|26| M: [yeah] . 
+A|27| A: uh-huh . 
+B|28| M: [so] [uh] . 
+A|29| A: [right .] exactly . [that's] because until [like] [eight] 
+B|30| M: [well] [you know] [that's] [that] [that] [was that] [is] [the] [whole] idea . 
+A|31| A: up until [like] eighty-five or something [was] [the] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : but uh
+	Free: Pattern=but uh
+	Constrained: Pattern=uh, Pattern=but
+Turn ID=1| A | A : uh-huh . i agree with that .
+	Free: Pattern=that, Pattern=i
+	Constrained: 
+Turn ID=2| B | M : so uh .
+	Free: Pattern=uh, Pattern=so
+	Constrained: 
+Turn ID=3| A | A : i guess i'm i'm a student right now and i don't make a whole lot of money and so i i kind of don't pay a proportionate amount of taxes to i guess uh compared to what i get because i you know all my my education is state sponsored . i go to a state sponsored school and uh my education all up through high school and stuff so i guess i'm kind of in debt i i suppose because i don't you know been paying taxes all that all that long . my parents i guess however have contributed to that you know for the education side of it and everything but uh i usually end up getting money back . i will this year anyway from a
+	Free: Pattern=and i, Pattern=right, Pattern=state, Pattern=what, Pattern=a, Pattern=taxes, Pattern=and, Pattern=high, Pattern=don't pay a, Pattern=but uh, Pattern=everything, Pattern=i'm, Pattern=whole, Pattern=been, Pattern=that you know, Pattern=that, Pattern=so, Pattern=uh, Pattern=you know, Pattern=a state, Pattern=i don't, Pattern=have, Pattern=for the, Pattern=is, Pattern=make, Pattern=i, Pattern=and uh, Pattern=to
+	Constrained: Pattern=pay a, Pattern=state, Pattern=a, Pattern=for, Pattern=and, Pattern=know, Pattern=i, Pattern=pay, Pattern=the, Pattern=don't, Pattern=you, Pattern=uh, Pattern=you know, Pattern=that, Pattern=but
+Turn ID=4| B | M : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=5| A | A : yeah i am i need it too otherwise
+	Free: Pattern=need, Pattern=yeah, Pattern=i
+	Constrained: 
+Turn ID=6| B | M : well i've been working for uh the government for the last eight years .
+	Free: Pattern=well, Pattern=uh, Pattern=for the, Pattern=for, Pattern=the, Pattern=eight, Pattern=been
+	Constrained: Pattern=the, Pattern=for
+Turn ID=7| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=8| B | M : i know i know what you mean .
+	Free: Pattern=you, Pattern=what, Pattern=know, Pattern=i
+	Constrained: 
+Turn ID=9| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : and uh we pay a a tax on our medical insurance but we don't pay a tax for the telephone calls .
+	Free: Pattern=pay a, Pattern=for the, Pattern=a, Pattern=don't pay a, Pattern=but, Pattern=and uh, Pattern=tax
+	Constrained: Pattern=pay a, Pattern=uh, Pattern=a, Pattern=for, Pattern=and, Pattern=pay, Pattern=the, Pattern=don't
+Turn ID=11| A | A : more taxes you pay .
+	Free: Pattern=pay, Pattern=taxes, Pattern=you
+	Constrained: 
+Turn ID=12| B | M : right right . and i think that's really important .
+	Free: Pattern=and i, Pattern=right, Pattern=right ., Pattern=that's, Pattern=i think
+	Constrained: Pattern=think, Pattern=right, Pattern=and, Pattern=i
+Turn ID=13| A | A : uh-huh . isn't
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : i think i don't know i i'm not so sure that that uh that that's that's a good idea that that you know we need to uh make sure that we uh we pay taxes proportionally .
+	Free: Pattern=uh, Pattern=i don't, Pattern=a, Pattern=taxes, Pattern=need, Pattern=pay, Pattern=that's, Pattern=to, Pattern=that you know, Pattern=that, Pattern=know, Pattern=i'm, Pattern=make, Pattern=i, Pattern=so, Pattern=i think
+	Constrained: Pattern=think, Pattern=know, Pattern=i, Pattern=don't, Pattern=that, Pattern=you, Pattern=you know
+Turn ID=15| A | A : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=17| A | A : wow .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=19| A | A : uh-huh . well isn't
+	Free: Pattern=well
+	Constrained: 
+Turn ID=20| B | M : you know we we don't have a state income tax . uh we have a sales tax on everything you know clothing and and buying and things like that and that's pretty high .
+	Free: Pattern=income tax, Pattern=have, Pattern=like that, Pattern=a, Pattern=and, Pattern=high, Pattern=everything, Pattern=that's, Pattern=don't, Pattern=tax, Pattern=uh, Pattern=you know, Pattern=a state
+	Constrained: Pattern=state, Pattern=you, Pattern=a, Pattern=know, Pattern=like, Pattern=tax, Pattern=that
+Turn ID=21| A | A : uh-huh there's a lot yeah lot of hidden taxes .
+	Free: Pattern=a, Pattern=taxes, Pattern=yeah
+	Constrained: 
+Turn ID=22| B | M : yeah and uh .
+	Free: Pattern=and uh, Pattern=yeah
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=23| A | A : uh-huh . the taxes that people don't think about that yeah the the the income tax is a lot more visible portion of the taxes you pay i guess .
+	Free: Pattern=income tax, Pattern=you, Pattern=a, Pattern=taxes, Pattern=yeah, Pattern=think, Pattern=pay, Pattern=the, Pattern=don't, Pattern=that, Pattern=is, Pattern=i
+	Constrained: Pattern=tax
+Turn ID=24| B | M : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=25| A | A : uh-huh . there was that which was it jerry brown one of the democratic candidates had a proposal for doing away with all the the tax codes they have now and implementing a i think a flat percentage something like that .
+	Free: Pattern=have, Pattern=like that, Pattern=a, Pattern=for, Pattern=and, Pattern=was that, Pattern=the, Pattern=tax, Pattern=was, Pattern=i think
+	Constrained: Pattern=think, Pattern=i, Pattern=like, Pattern=was, Pattern=that
+Turn ID=26| B | M : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=27| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=28| B | M : so uh .
+	Free: Pattern=uh, Pattern=so
+	Constrained: 
+Turn ID=29| A | A : right . exactly . that's because until like eight
+	Free: Pattern=right ., Pattern=like, Pattern=eight, Pattern=that's
+	Constrained: Pattern=right
+Turn ID=30| B | M : well you know that's that that was that is the whole idea .
+	Free: Pattern=well, Pattern=you know, Pattern=was that, Pattern=is, Pattern=whole, Pattern=that, Pattern=that's, Pattern=the
+	Constrained: Pattern=that, Pattern=you, Pattern=was, Pattern=know
+Turn ID=31| A | A : up until like eighty-five or something was the
+	Free: Pattern=like, Pattern=the, Pattern=was
+	Constrained: 

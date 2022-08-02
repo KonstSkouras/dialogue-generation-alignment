@@ -1,0 +1,195 @@
+A|0| B: _and_ _the_ kids want _to_ swing 
+B|1| M: _you_ _have _to_ be_ _a_ murderer [to] _have_ _a_ choice . 
+A|2| B: uh-huh . 
+B|3| M: i'm _just_ kidding . 
+A|4| B: or _if_ _if_ _they_ could [be] real real nearby where _they_ could _see_ them everyday or so . 
+B|5| M: u bealphem [the] girl plays [the] piano . 
+A|6| B: then _i_ think _it_ makes [a] big difference . 
+B|7| M: _yeah ._ _but_ i'm _not_ sure . 
+A|8| B: [but] _uh_ then again _uh_ _it's_ [the] hard [to] justify with all [the] wastefulness _of_ money that [the] government spends on all levels _of_ _of_ _uh_ government including municipalities as _well_ as state _and_ federal governments . 
+B|9| M: [well] [i] _don't know_ . 
+A|10| B: _they_ never go [to] _see_ them . 
+B|11| M: _you don't_ . 
+A|12| B: were [you] up _in_ _in_ wisconsin or _would_ [you] go into where _would_ [you] camp ? 
+B|13| M: [i] mean [the] whole system _is_ broken . _that's_ why _they're_ _doing_ [it] . 
+A|14| B: uh-huh . 
+B|15| M: _yeah i_ was _just_ joking . 
+A|16| B: [you [don't] know] _what_ happened [to] gabriel's _fire_ then ? 
+B|17| M: _yeah i_ don ' 
+A|18| B: [yeah .] [i] _uh_ [i] guess [you] _can_ get an earlier harvest by [doing] that 
+B|19| M: [see] [you] . later . 
+A|20| B: [i] grew up next door [to] _uh_ [the] richardson symphony orchestra leader so 
+B|21| M: _no_ [they] [don't] . 
+A|22| B: [yeah .] 
+B|23| M: _it's going to be_ [a] [fire] . 
+A|24| B: _uh_ [they're] [yeah i] suppose [they] _are_ now _. we_ both _of_ our children _who_ _live_ _there_ [have] [just] bought [a] home . _uh_ _in_ [the] mount lebanon area . 
+B|25| M: [i] [don't] i'm _not_ [a] robot . 
+A|26| B: [well] _uh_ [i] recommend [it] because [you] [just] walk right on _in_ _and_ there's usually [not] anybody _in_ line 
+B|27| M: i'm still he was [a] bit [of] course . 
+A|28| B: [that's] [that's] _what_ [i] _like_ [doing] things _like_ making lasagna [just] because [i] _can_ [have] [it] ready _and_ baking _in_ [the] oven 
+B|29| M: [we] [are] [the] best at something [. we] [are] [the] only ones [who] [can] afford [to] buy [a] new car [and] [we] [are] [the] worst at [it] . 
+A|30| B: here [you] break _in_ [and] _you're_ [going to] get shot . 
+B|31| M: [you're] [a] bit late [they're] [just] getting [there] . 
+A|32| B: oh [no] . 
+B|33| M: [i] [would] [have] been disappointed [if] [the] cat was dead . 
+A|34| B: [and] our daughter [is] healthy happy [well] adjusted [and] enjoys [going to] [see] her friends 
+B|35| M: [i] [live] [in] california . 
+A|36| B: _huh ._ uh-huh . 
+B|37| M: uuuh yoo [it] . 
+A|38| B: [yeah i] [i] [yeah i] [i] [i] truly believe that that before that that [we] [have to] address [the] racial racial issues [in] [the] united states before [we] [can] go anywhere . 
+B|39| M:  
+A|40| B: they've done special stories on [the] news local news here . 
+B|41| M: [what] [are] [you] talking about ? [i] was [just] talking about [the] garden . 
+A|42| B: [but] [i] really figure right when [it] becomes really popular that [it's going to be] ruined . 
+B|43| M: uhhh [like] people [who] [are] [in] jail [uh] [huh .] 
+A|44| B: [and] um [that's] really [what] makes [the] most sense because [you don't] [have to] use so much water [and] 
+B|45| M:  
+A|46| B: [but] here again [i] go back [to] [the] second amendment [you] [can] disagree by freedom [of] speech which has nothing [to] _do_ with action . 
+B|47| M: [what] [do] [you] mean ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and the kids want to swing
+	Free: Pattern=to, Pattern=the, Pattern=and
+	Constrained: 
+Turn ID=1| B | M : you have to be a murderer to have a choice .
+	Free: Pattern=you, Pattern=have, Pattern=a, Pattern=have to, Pattern=to, Pattern=to be
+	Constrained: Pattern=to, Pattern=be, Pattern=have
+Turn ID=2| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : i'm just kidding .
+	Free: Pattern=just
+	Constrained: 
+Turn ID=4| A | B : or if if they could be real real nearby where they could see them everyday or so .
+	Free: Pattern=if, Pattern=see, Pattern=be, Pattern=they
+	Constrained: 
+Turn ID=5| B | M : u bealphem the girl plays the piano .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=6| A | B : then i think it makes a big difference .
+	Free: Pattern=it, Pattern=i, Pattern=a
+	Constrained: 
+Turn ID=7| B | M : yeah . but i'm not sure .
+	Free: Pattern=yeah ., Pattern=not, Pattern=but
+	Constrained: 
+Turn ID=8| A | B : but uh then again uh it's the hard to justify with all the wastefulness of money that the government spends on all levels of of uh government including municipalities as well as state and federal governments .
+	Free: Pattern=of, Pattern=well, Pattern=uh, Pattern=and, Pattern=the, Pattern=to, Pattern=it's, Pattern=but
+	Constrained: 
+Turn ID=9| B | M : well i don't know .
+	Free: Pattern=don't know, Pattern=i, Pattern=well
+	Constrained: Pattern=don't
+Turn ID=10| A | B : they never go to see them .
+	Free: Pattern=to, Pattern=see, Pattern=they
+	Constrained: 
+Turn ID=11| B | M : you don't .
+	Free: Pattern=you don't
+	Constrained: Pattern=don't, Pattern=you
+Turn ID=12| A | B : were you up in in wisconsin or would you go into where would you camp ?
+	Free: Pattern=in, Pattern=would, Pattern=you
+	Constrained: 
+Turn ID=13| B | M : i mean the whole system is broken . that's why they're doing it .
+	Free: Pattern=doing, Pattern=it, Pattern=they're, Pattern=is, Pattern=i, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=14| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : yeah i was just joking .
+	Free: Pattern=yeah i, Pattern=just
+	Constrained: Pattern=i
+Turn ID=16| A | B : you don't know what happened to gabriel's fire then ?
+	Free: Pattern=fire, Pattern=what, Pattern=don't know, Pattern=you don't, Pattern=to
+	Constrained: Pattern=don't, Pattern=you
+Turn ID=17| B | M : yeah i don '
+	Free: Pattern=yeah i
+	Constrained: Pattern=i
+Turn ID=18| A | B : yeah . i uh i guess you can get an earlier harvest by doing that
+	Free: Pattern=doing, Pattern=yeah ., Pattern=can, Pattern=i, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=19| B | M : see you . later .
+	Free: Pattern=see, Pattern=you
+	Constrained: 
+Turn ID=20| A | B : i grew up next door to uh the richardson symphony orchestra leader so
+	Free: Pattern=i, Pattern=uh, Pattern=to, Pattern=the
+	Constrained: 
+Turn ID=21| B | M : no they don't .
+	Free: Pattern=don't, Pattern=no, Pattern=they
+	Constrained: 
+Turn ID=22| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: 
+Turn ID=23| B | M : it's going to be a fire .
+	Free: Pattern=it's going to be, Pattern=a, Pattern=fire
+	Constrained: Pattern=going to, Pattern=be, Pattern=to, Pattern=to be, Pattern=it's
+Turn ID=24| A | B : uh they're yeah i suppose they are now . we both of our children who live there have just bought a home . uh in the mount lebanon area .
+	Free: Pattern=of, Pattern=uh, Pattern=yeah i, Pattern=. we, Pattern=they're, Pattern=in, Pattern=the, Pattern=just, Pattern=have, Pattern=they, Pattern=there, Pattern=who, Pattern=a, Pattern=live, Pattern=are
+	Constrained: Pattern=i, Pattern=we
+Turn ID=25| B | M : i don't i'm not a robot .
+	Free: Pattern=i, Pattern=not, Pattern=don't, Pattern=a
+	Constrained: 
+Turn ID=26| A | B : well uh i recommend it because you just walk right on in and there's usually not anybody in line
+	Free: Pattern=well, Pattern=just, Pattern=in, Pattern=i, Pattern=not, Pattern=you, Pattern=uh, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=27| B | M : i'm still he was a bit of course .
+	Free: Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=28| A | B : that's that's what i like doing things like making lasagna just because i can have it ready and baking in the oven
+	Free: Pattern=what, Pattern=doing, Pattern=can, Pattern=in, Pattern=i, Pattern=like, Pattern=just, Pattern=have, Pattern=it, Pattern=and, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=29| B | M : we are the best at something . we are the only ones who can afford to buy a new car and we are the worst at it .
+	Free: Pattern=are, Pattern=we, Pattern=the, Pattern=to, Pattern=who, Pattern=a, Pattern=it, Pattern=and, Pattern=can, Pattern=. we
+	Constrained: Pattern=we
+Turn ID=30| A | B : here you break in and you're going to get shot .
+	Free: Pattern=going to, Pattern=you're, Pattern=you, Pattern=and, Pattern=in
+	Constrained: Pattern=to
+Turn ID=31| B | M : you're a bit late they're just getting there .
+	Free: Pattern=you're, Pattern=just, Pattern=there, Pattern=a, Pattern=they're
+	Constrained: 
+Turn ID=32| A | B : oh no .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=33| B | M : i would have been disappointed if the cat was dead .
+	Free: Pattern=have, Pattern=if, Pattern=i, Pattern=the, Pattern=would
+	Constrained: 
+Turn ID=34| A | B : and our daughter is healthy happy well adjusted and enjoys going to see her friends
+	Free: Pattern=going to, Pattern=well, Pattern=and, Pattern=is, Pattern=see
+	Constrained: Pattern=to
+Turn ID=35| B | M : i live in california .
+	Free: Pattern=in, Pattern=i, Pattern=live
+	Constrained: 
+Turn ID=36| A | B : huh . uh-huh .
+	Free: Pattern=huh .
+	Constrained: 
+Turn ID=37| B | M : uuuh yoo it .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=38| A | B : yeah i i yeah i i i truly believe that that before that that we have to address the racial racial issues in the united states before we can go anywhere .
+	Free: Pattern=yeah i, Pattern=can, Pattern=in, Pattern=i, Pattern=we, Pattern=the, Pattern=have to
+	Constrained: Pattern=i, Pattern=to, Pattern=have
+Turn ID=39| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=40| A | B : they've done special stories on the news local news here .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=41| B | M : what are you talking about ? i was just talking about the garden .
+	Free: Pattern=you, Pattern=just, Pattern=what, Pattern=are, Pattern=i, Pattern=the
+	Constrained: 
+Turn ID=42| A | B : but i really figure right when it becomes really popular that it's going to be ruined .
+	Free: Pattern=it's going to be, Pattern=it, Pattern=i, Pattern=but
+	Constrained: Pattern=going to, Pattern=be, Pattern=to, Pattern=to be, Pattern=it's
+Turn ID=43| B | M : uhhh like people who are in jail uh huh .
+	Free: Pattern=uh, Pattern=who, Pattern=are, Pattern=in, Pattern=like, Pattern=huh .
+	Constrained: 
+Turn ID=44| A | B : and um that's really what makes the most sense because you don't have to use so much water and
+	Free: Pattern=what, Pattern=and, Pattern=that's, Pattern=the, Pattern=have to, Pattern=you don't
+	Constrained: Pattern=to, Pattern=don't, Pattern=you, Pattern=have
+Turn ID=45| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : but here again i go back to the second amendment you can disagree by freedom of speech which has nothing to do with action .
+	Free: Pattern=of, Pattern=you, Pattern=do, Pattern=can, Pattern=i, Pattern=the, Pattern=to, Pattern=but
+	Constrained: 
+Turn ID=47| B | M : what do you mean ?
+	Free: Pattern=what, Pattern=do, Pattern=you
+	Constrained: 

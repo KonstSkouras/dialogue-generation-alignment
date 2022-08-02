@@ -1,0 +1,59 @@
+B|0| M: _so_ it _was_ really neat . 
+A|1| A: _uh-huh ._ 
+B|2| M: _my_ dad's going _to_ _come_ over _and_ he's going _you_ can _come_ over _and_ i'll tell him i'll _come_ over _to_ _my_ house . 
+A|3| A: yes . 
+B|4| M: _you know_ _and_ _i_ don't _know_ _i_ _i_ don _i_ think it's going _to_ be too much _of_ _a_ strain _on_ everyone especially _the_ younger generation because _i_ think _you_ _you_ need _to_ be able _to_ do more _of_ what you're doing _and_ _you know_ _you_ need _you_ can be more involved _and_ _you_ have _to_ be willing _to_ take responsibility for yourself . 
+A|5| A: with all [of] [you] living [so] _close_ together . 
+B|6| M: _yeah_ . 
+A|7| A: _oh_ . 
+B|8| M: _so that's_ _the_ only time _i_ _was_ really really [close] _to_ her because _i_ _had a_ real [close] friend that worked at _the_ same place _and_ she would cook there . 
+A|9| A: well [i] [come] from [a] very small family . [and] we planned [a] family reunion this spring . uh where we are from texas [and] [my] family is from ohio [and] we met in florida . 
+B|10| M: [uh-huh .] 
+A|11| A: [so] [the] seven [of] us went [on] [a] cruise [and] then went [to] disney together . [so that's] all [the] family [so] planning our family reunion [was] very easy [you know] . 
+B|12| M: [oh] [that's] neat . 
+A|13| A: [yeah] well we [had a] wonderful 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : so it was really neat .
+	Free: Pattern=was, Pattern=so
+	Constrained: 
+Turn ID=1| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=2| B | M : my dad's going to come over and he's going you can come over and i'll tell him i'll come over to my house .
+	Free: Pattern=you, Pattern=come, Pattern=and, Pattern=to, Pattern=my
+	Constrained: 
+Turn ID=3| A | A : yes .
+	Free: 
+	Constrained: 
+Turn ID=4| B | M : you know and i don't know i i don i think it's going to be too much of a strain on everyone especially the younger generation because i think you you need to be able to do more of what you're doing and you know you need you can be more involved and you have to be willing to take responsibility for yourself .
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=know, Pattern=i, Pattern=to, Pattern=you, Pattern=you know, Pattern=on, Pattern=the
+	Constrained: Pattern=know, Pattern=you
+Turn ID=5| A | A : with all of you living so close together .
+	Free: Pattern=of, Pattern=close, Pattern=so, Pattern=you
+	Constrained: 
+Turn ID=6| B | M : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=7| A | A : oh .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=8| B | M : so that's the only time i was really really close to her because i had a real close friend that worked at the same place and she would cook there .
+	Free: Pattern=had a, Pattern=and, Pattern=i, Pattern=close, Pattern=the, Pattern=to, Pattern=was, Pattern=so that's
+	Constrained: Pattern=that's, Pattern=a, Pattern=so
+Turn ID=9| A | A : well i come from a very small family . and we planned a family reunion this spring . uh where we are from texas and my family is from ohio and we met in florida .
+	Free: Pattern=a, Pattern=come, Pattern=and, Pattern=i, Pattern=my
+	Constrained: 
+Turn ID=10| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=11| A | A : so the seven of us went on a cruise and then went to disney together . so that's all the family so planning our family reunion was very easy you know .
+	Free: Pattern=of, Pattern=you know, Pattern=a, Pattern=and, Pattern=to, Pattern=was, Pattern=so that's, Pattern=so, Pattern=on, Pattern=the
+	Constrained: Pattern=that's, Pattern=know, Pattern=so, Pattern=you
+Turn ID=12| B | M : oh that's neat .
+	Free: Pattern=that's, Pattern=oh
+	Constrained: 
+Turn ID=13| A | A : yeah well we had a wonderful
+	Free: Pattern=had a, Pattern=yeah
+	Constrained: Pattern=a

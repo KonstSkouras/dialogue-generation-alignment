@@ -1,0 +1,255 @@
+A|0| B: _oh_ boy . 
+B|1| M: _yeah_ _so_ he's _a_ little bit young _for a_ kindergartner . 
+A|2| B: _yeah ._ 
+B|3| M: _we_ _have a_ seven _year_ old _and_ _a_ _three_ _year_ old . 
+A|4| B: are _you_ ? where are [a] student ? 
+B|5| M: _uh university_ _of_ rochester . 
+A|6| B: no kidding . 
+B|7| M: [yeah] _so_ _that's _a_ real_ _change_ . 
+A|8| B: _i_ was [a] professor in [a] [university] here in california [for a] while . 
+B|9| M: [oh] _really_ ? 
+A|10| B: [yeah] [uh] are _you_ _going_ _to_ [uh] put your son in child care in [a] [a] [year] or two ? 
+B|11| M: _uh-huh ._ 
+A|12| B: _yeah ._ 
+B|13| M: _and_ _so_ _that's_ [going] away . 
+A|14| B: [uh-huh .] 
+B|15| M: _so_ [uh] . 
+A|16| B: _yeah ._ 
+B|17| M: _and uh_ _so_ _we_ _we_ _have_ [uh] 
+A|18| B: _yeah ._ _yeah ._ 
+B|19| M: _and uh_ . 
+A|20| B: well [that's a] good experience _i_ think [and uh] _there_ are [a] lot [of] things _to_ think about [and] the articles _that_ are written on the topic are pretty good [and] they kind [of] boil down _to_ [uh] any other important decision _you_ [really] [have] _to_ explore the alternative 
+B|21| M: [uh-huh .] 
+A|22| B: [and] what [we] found [uh] _to_ be the best guide was our own instincts about people who were [going] _to_ be loving 
+B|23| M: [uh] . 
+A|24| B: [and uh] [that's] more important than anything else . [we] could [have] sent [uh] her _to_ [a] fancier [uh] facility . 
+B|25| M: right . 
+A|26| B: [uh] she goes _to_ [a] _home_ . this is [a] [uh] [a] couple [uh] emigrated from china early in in their lives . 
+B|27| M: huh . 
+A|28| B: they've been here probably _thirty_ forty _years_ . 
+B|29| M: [thirty] [years] ? 
+A|30| B: they've got [three] daughters . [uh] [and] they [have a] loving _home_ [and uh] they're both _there_ [and] they [have a] kid _that_ comes in [and] helps _them_ in the afternoon . 
+B|31| M: [oh] . 
+A|32| B: [and] our daughter is healthy happy well adjusted [and] enjoys [going] _to_ _see_ her friends 
+B|33| M: [uh] . 
+A|34| B: [so] it's [a] good experience . 
+B|35| M: [yeah] i've never had [to] leave _my_ _kids_ _at_ [home] without [them] 
+A|36| B: _i_ if it's good _i_ think it's very good [for] the child . 
+B|37| M: [yeah] [i] [i] agree with [you] [there] . 
+A|38| B: [and] if it's [a] loving environment [i] think it's very good [and] [and] [that's] [really] what we've learned about it . she'll [have] [to] go on [to] something more stimulating in terms [of] preschool in [a] [year] 
+B|39| M: [yeah .] 
+A|40| B: but [uh] [we] feel [real] fortunate [and] [we] were able [to] [uh] just [uh] choose in the marketplace . [i] don't know what it's like around [uh] hattiesburg . 
+B|41| M:  !!! ; !! remind _me_ [of] _that ._ 
+A|42| B: [uh-huh .] [yeah .] 
+B|43| M: [and uh] . 
+A|44| B: [yeah .] i'll bet they're involved . [yeah .] 
+B|45| M: [and uh] . 
+A|46| B: [yeah] 
+B|47| M: [so] [uh] . 
+A|48| B: well [that's] [uh] [i] know it's it's [a real] hard thing [to] do even [for] people in in [uh university] communities . 
+B|49| M: [uh-huh .] 
+A|50| B: out here [at] manford they [have a] [you] know [a] [a] [a real] good facility [and] [there] [uh] is quite [a] waiting list [to] get into [that .] 
+B|51| M: [oh] [i] [see] . 
+A|52| B: [so] it's [uh] [uh] [you] know it's [a] it's [a] it's an important decision it's an industry [that's] still [a] cottage industry 
+B|53| M: [uh] . 
+A|54| B: [and] [i] think this is [really] is buyer beware . well it is the best way [to] do it interestingly . 
+B|55| M: [that's] right . 
+A|56| B: [i] think [that] [uh] [my] own interest in in development human development leads [me] [to] believe [that] [that's a] good sign [and] [that] [uh] private enterprise is the way [to] go [and] [that] it will lead [to] [a] fundamental [change] in the way [we] learn . 
+B|57| M: [uh-huh .] 
+A|58| B: because [i] think what we're [going] [to] go [to] is much more commercial entrepreneurial learning ventures in the market . as [a] matter [of] fact [my] future is banked on [that] [uh] professionally because [i] believe [that] [that] [there] are [uh] pressing needs in the marketplace unmet by schools colleges universities [for] [uh] learning [a] lot [of] things [that] [kids] can learn watching sesame street [and] in child care . 
+B|59| M: right . right . right right . 
+A|60| B: primary skills which turn out [to] be the most important skills in life . 
+B|61| M: right . right . 
+A|62| B: it's it's phenomenal . it's phenomenal the programming the human operating system 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : oh boy .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=1| B | M : yeah so he's a little bit young for a kindergartner .
+	Free: Pattern=for a, Pattern=so, Pattern=yeah, Pattern=a
+	Constrained: Pattern=for, Pattern=a
+Turn ID=2| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=3| B | M : we have a seven year old and a three year old .
+	Free: Pattern=have a, Pattern=a, Pattern=and, Pattern=three, Pattern=we, Pattern=year
+	Constrained: Pattern=have, Pattern=a
+Turn ID=4| A | B : are you ? where are a student ?
+	Free: Pattern=you, Pattern=a
+	Constrained: 
+Turn ID=5| B | M : uh university of rochester .
+	Free: Pattern=uh university, Pattern=of
+	Constrained: Pattern=uh, Pattern=university
+Turn ID=6| A | B : no kidding .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : yeah so that's a real change .
+	Free: Pattern=change, Pattern=yeah, Pattern=that's a, Pattern=a real, Pattern=so
+	Constrained: Pattern=real, Pattern=that's, Pattern=a
+Turn ID=8| A | B : i was a professor in a university here in california for a while .
+	Free: Pattern=for a, Pattern=i, Pattern=university, Pattern=a
+	Constrained: Pattern=for, Pattern=a
+Turn ID=9| B | M : oh really ?
+	Free: Pattern=oh, Pattern=really
+	Constrained: 
+Turn ID=10| A | B : yeah uh are you going to uh put your son in child care in a a year or two ?
+	Free: Pattern=going, Pattern=a, Pattern=yeah, Pattern=year, Pattern=to, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=11| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=12| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=13| B | M : and so that's going away .
+	Free: Pattern=so, Pattern=that's, Pattern=going, Pattern=and
+	Constrained: 
+Turn ID=14| A | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=15| B | M : so uh .
+	Free: Pattern=so, Pattern=uh
+	Constrained: 
+Turn ID=16| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=17| B | M : and uh so we we have uh
+	Free: Pattern=uh, Pattern=have, Pattern=we, Pattern=and uh, Pattern=so
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=18| A | B : yeah . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=19| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=20| A | B : well that's a good experience i think and uh there are a lot of things to think about and the articles that are written on the topic are pretty good and they kind of boil down to uh any other important decision you really have to explore the alternative
+	Free: Pattern=of, Pattern=have, Pattern=there, Pattern=a, Pattern=and, Pattern=i, Pattern=really, Pattern=that's a, Pattern=that, Pattern=you, Pattern=uh, Pattern=and uh, Pattern=to
+	Constrained: Pattern=that's, Pattern=uh, Pattern=a, Pattern=and
+Turn ID=21| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=22| A | B : and what we found uh to be the best guide was our own instincts about people who were going to be loving
+	Free: Pattern=uh, Pattern=going, Pattern=and, Pattern=we, Pattern=to
+	Constrained: 
+Turn ID=23| B | M : uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=24| A | B : and uh that's more important than anything else . we could have sent uh her to a fancier uh facility .
+	Free: Pattern=uh, Pattern=have, Pattern=a, Pattern=we, Pattern=that's, Pattern=and uh, Pattern=to
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=25| B | M : right .
+	Free: 
+	Constrained: 
+Turn ID=26| A | B : uh she goes to a home . this is a uh a couple uh emigrated from china early in in their lives .
+	Free: Pattern=to, Pattern=home, Pattern=uh, Pattern=a
+	Constrained: 
+Turn ID=27| B | M : huh .
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : they've been here probably thirty forty years .
+	Free: Pattern=years, Pattern=thirty
+	Constrained: 
+Turn ID=29| B | M : thirty years ?
+	Free: Pattern=years, Pattern=thirty
+	Constrained: 
+Turn ID=30| A | B : they've got three daughters . uh and they have a loving home and uh they're both there and they have a kid that comes in and helps them in the afternoon .
+	Free: Pattern=uh, Pattern=and, Pattern=three, Pattern=and uh, Pattern=home, Pattern=have a, Pattern=there, Pattern=them, Pattern=that
+	Constrained: Pattern=have, Pattern=uh, Pattern=a, Pattern=and
+Turn ID=31| B | M : oh .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=32| A | B : and our daughter is healthy happy well adjusted and enjoys going to see her friends
+	Free: Pattern=to, Pattern=going, Pattern=see, Pattern=and
+	Constrained: 
+Turn ID=33| B | M : uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=34| A | B : so it's a good experience .
+	Free: Pattern=so, Pattern=a
+	Constrained: 
+Turn ID=35| B | M : yeah i've never had to leave my kids at home without them
+	Free: Pattern=yeah, Pattern=kids, Pattern=at, Pattern=to, Pattern=them, Pattern=my, Pattern=home
+	Constrained: 
+Turn ID=36| A | B : i if it's good i think it's very good for the child .
+	Free: Pattern=i, Pattern=for
+	Constrained: 
+Turn ID=37| B | M : yeah i i agree with you there .
+	Free: Pattern=i, Pattern=there, Pattern=yeah, Pattern=you
+	Constrained: 
+Turn ID=38| A | B : and if it's a loving environment i think it's very good and and that's really what we've learned about it . she'll have to go on to something more stimulating in terms of preschool in a year
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=and, Pattern=i, Pattern=really, Pattern=year, Pattern=that's, Pattern=to
+	Constrained: 
+Turn ID=39| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=40| A | B : but uh we feel real fortunate and we were able to uh just uh choose in the marketplace . i don't know what it's like around uh hattiesburg .
+	Free: Pattern=uh, Pattern=and, Pattern=i, Pattern=we, Pattern=to, Pattern=real
+	Constrained: 
+Turn ID=41| B | M :  !!! ; !! remind me of that .
+	Free: Pattern=that ., Pattern=me, Pattern=of
+	Constrained: Pattern=that
+Turn ID=42| A | B : uh-huh . yeah .
+	Free: Pattern=yeah ., Pattern=uh-huh .
+	Constrained: Pattern=yeah
+Turn ID=43| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=44| A | B : yeah . i'll bet they're involved . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=45| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=46| A | B : yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=47| B | M : so uh .
+	Free: Pattern=so, Pattern=uh
+	Constrained: 
+Turn ID=48| A | B : well that's uh i know it's it's a real hard thing to do even for people in in uh university communities .
+	Free: Pattern=uh, Pattern=for, Pattern=uh university, Pattern=i, Pattern=that's, Pattern=a real, Pattern=to
+	Constrained: Pattern=real, Pattern=uh, Pattern=university, Pattern=a
+Turn ID=49| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=50| A | B : out here at manford they have a you know a a a real good facility and there uh is quite a waiting list to get into that .
+	Free: Pattern=that ., Pattern=a, Pattern=and, Pattern=at, Pattern=a real, Pattern=to, Pattern=you, Pattern=uh, Pattern=have a, Pattern=there
+	Constrained: Pattern=real, Pattern=that, Pattern=have, Pattern=a
+Turn ID=51| B | M : oh i see .
+	Free: Pattern=i, Pattern=oh, Pattern=see
+	Constrained: 
+Turn ID=52| A | B : so it's uh uh you know it's a it's a it's an important decision it's an industry that's still a cottage industry
+	Free: Pattern=a, Pattern=that's, Pattern=so, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=53| B | M : uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=54| A | B : and i think this is really is buyer beware . well it is the best way to do it interestingly .
+	Free: Pattern=to, Pattern=i, Pattern=really, Pattern=and
+	Constrained: 
+Turn ID=55| B | M : that's right .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=56| A | B : i think that uh my own interest in in development human development leads me to believe that that's a good sign and that uh private enterprise is the way to go and that it will lead to a fundamental change in the way we learn .
+	Free: Pattern=change, Pattern=uh, Pattern=me, Pattern=a, Pattern=and, Pattern=i, Pattern=we, Pattern=that's a, Pattern=to, Pattern=my, Pattern=that
+	Constrained: Pattern=that's, Pattern=a
+Turn ID=57| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=58| A | B : because i think what we're going to go to is much more commercial entrepreneurial learning ventures in the market . as a matter of fact my future is banked on that uh professionally because i believe that that there are uh pressing needs in the marketplace unmet by schools colleges universities for uh learning a lot of things that kids can learn watching sesame street and in child care .
+	Free: Pattern=of, Pattern=uh, Pattern=going, Pattern=there, Pattern=a, Pattern=for, Pattern=and, Pattern=kids, Pattern=i, Pattern=to, Pattern=my, Pattern=that
+	Constrained: 
+Turn ID=59| B | M : right . right . right right .
+	Free: 
+	Constrained: 
+Turn ID=60| A | B : primary skills which turn out to be the most important skills in life .
+	Free: Pattern=to
+	Constrained: 
+Turn ID=61| B | M : right . right .
+	Free: 
+	Constrained: 
+Turn ID=62| A | B : it's it's phenomenal . it's phenomenal the programming the human operating system
+	Free: 
+	Constrained: 

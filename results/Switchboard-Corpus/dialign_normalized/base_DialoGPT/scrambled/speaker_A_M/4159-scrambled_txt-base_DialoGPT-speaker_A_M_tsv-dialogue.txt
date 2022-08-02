@@ -1,0 +1,191 @@
+A|0| A: yeah . 
+B|1| M:  
+A|2| A: _and_ uh evaluation of an individual . course _all_ of _it_ depends on _the_ type of job responsibility _you_ _have_ . _i _think_ you_ _have_ _to_ dress sort of accordingly . 
+B|3| M: [and] 
+A|4| A: uh-huh . uh-huh . 
+B|5| M: [i] don't _like_ _that_ ... 
+A|6| A: well anyway [i] sure _have_ enjoyed uh talking _to_ _you_ _about_ this . although _it_ has _been_ difficult _but_ uh . 
+B|7| M: [i think] they're [all] right . 
+A|8| A: [i] see 
+B|9| M: [it] was 
+A|10| A: yeah _that's_ what we buy _the_ most of unless we're going on _a_ trip or something where we want _to_ put _the_ cans _in_ _a_ cooler 
+B|11| M: _i know_ _i know_ . 
+A|12| A: yeah exactly . 
+B|13| M:  ... 
+A|14| A: yes yes . 
+B|15| M:  
+A|16| A: [and] we _have_ trumpet vine [and] moon flowers [and] we planted those _out_ by _the_ septic _so_ [that] uh they get plenty of water 
+B|17| M: _it's_ [all] [about] [the] fish . 
+A|18| A: [i think] [it] goes _all the_ way back _to the_ break up of [the] family _to_ _a_ certain extent 
+B|19| M: i've _got to_ say [that's] [a] really good idea . i've [been] thinking [about] [it] [but] [i] don't [think] it'll work [out] . 
+A|20| A: bye-bye . 
+B|21| M: [have] [you] ever tried [to] use [it] ? 
+A|22| A: well [it] sounds [like] [you] you've [got] your hands full 
+B|23| M:  . 
+A|24| A: [i know] [that's] 
+B|25| M: are [you] saying [that] if [i] had [a] kid [i] would _go [to_ the] hospital ? 
+A|26| A: uh-huh . 
+B|27| M: [i think] _so ._ 
+A|28| A: uh-huh . 
+B|29| M: he was [in] [the] movie 
+A|30| A: oh . well [i] tell [you] this [the] weather here [and] there's no mountains or anything [you] [know] [and] when [you] [go to] [a] football game [in] colorado [that's] [you] [know] there's snow [and] [it's] an adventure [and] here yeah you've _just_ [got to] drive down [to the] [to the] stadium 
+B|31| M: [i] don't [think you] did 
+A|32| A: [so] we took those back [and] [that's] [about] [that] [all] [that] were taken back [in] ages . 
+B|33| M: how _do_ [you] feel [about] [the] voting system ? 
+A|34| A: oh sure . 
+B|35| M: [about] [a] dollar per gallon . 
+A|36| A: uh-huh . 
+B|37| M: because i'm still alive . 
+A|38| A: [and] uh [it] seems [to] _just_ blow [the] competition away . 
+B|39| M:  
+A|40| A: yeah . 
+B|41| M:  . right . 
+A|42| A: [so .] uh [do] 
+B|43| M: [it's] not [like] she's [a] teacher . she's [just] [a] student . 
+A|44| A: [it] uh yeah . 
+B|45| M: they're [all the] same . 
+B|46| M: [like] [the] trees . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : yeah .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : and uh evaluation of an individual . course all of it depends on the type of job responsibility you have . i think you have to dress sort of accordingly .
+	Free: Pattern=you, Pattern=have, Pattern=to, Pattern=think you, Pattern=i think, Pattern=it, Pattern=and, Pattern=the, Pattern=all
+	Constrained: Pattern=i, Pattern=you, Pattern=think
+Turn ID=3| B | M : and
+	Free: Pattern=and
+	Constrained: 
+Turn ID=4| A | A : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : i don't like that ...
+	Free: Pattern=i, Pattern=like, Pattern=that
+	Constrained: 
+Turn ID=6| A | A : well anyway i sure have enjoyed uh talking to you about this . although it has been difficult but uh .
+	Free: Pattern=you, Pattern=have, Pattern=it, Pattern=about, Pattern=i, Pattern=to, Pattern=been, Pattern=but
+	Constrained: 
+Turn ID=7| B | M : i think they're all right .
+	Free: Pattern=i think, Pattern=all
+	Constrained: Pattern=i, Pattern=think
+Turn ID=8| A | A : i see
+	Free: Pattern=i
+	Constrained: 
+Turn ID=9| B | M : it was
+	Free: Pattern=it
+	Constrained: 
+Turn ID=10| A | A : yeah that's what we buy the most of unless we're going on a trip or something where we want to put the cans in a cooler
+	Free: Pattern=a, Pattern=in, Pattern=to, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=11| B | M : i know i know .
+	Free: Pattern=i know
+	Constrained: Pattern=know, Pattern=i
+Turn ID=12| A | A : yeah exactly .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : yes yes .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : and we have trumpet vine and moon flowers and we planted those out by the septic so that uh they get plenty of water
+	Free: Pattern=out, Pattern=have, Pattern=and, Pattern=the, Pattern=that, Pattern=so
+	Constrained: 
+Turn ID=17| B | M : it's all about the fish .
+	Free: Pattern=it's, Pattern=the, Pattern=about, Pattern=all
+	Constrained: 
+Turn ID=18| A | A : i think it goes all the way back to the break up of the family to a certain extent
+	Free: Pattern=a, Pattern=to the, Pattern=it, Pattern=all the, Pattern=the, Pattern=to, Pattern=i think
+	Constrained: Pattern=think, Pattern=i, Pattern=to, Pattern=the, Pattern=all
+Turn ID=19| B | M : i've got to say that's a really good idea . i've been thinking about it but i don't think it'll work out .
+	Free: Pattern=out, Pattern=a, Pattern=got to, Pattern=it, Pattern=about, Pattern=think, Pattern=i, Pattern=that's, Pattern=been, Pattern=but
+	Constrained: Pattern=got, Pattern=to
+Turn ID=20| A | A : bye-bye .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : have you ever tried to use it ?
+	Free: Pattern=it, Pattern=you, Pattern=to, Pattern=have
+	Constrained: 
+Turn ID=22| A | A : well it sounds like you you've got your hands full
+	Free: Pattern=it, Pattern=got, Pattern=you, Pattern=like
+	Constrained: 
+Turn ID=23| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : i know that's
+	Free: Pattern=i know, Pattern=that's
+	Constrained: Pattern=know, Pattern=i
+Turn ID=25| B | M : are you saying that if i had a kid i would go to the hospital ?
+	Free: Pattern=go to, Pattern=you, Pattern=a, Pattern=to the, Pattern=i, Pattern=that
+	Constrained: Pattern=to, Pattern=the
+Turn ID=26| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : i think so .
+	Free: Pattern=so ., Pattern=i think
+	Constrained: Pattern=i, Pattern=so, Pattern=think
+Turn ID=28| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : he was in the movie
+	Free: Pattern=in, Pattern=the
+	Constrained: 
+Turn ID=30| A | A : oh . well i tell you this the weather here and there's no mountains or anything you know and when you go to a football game in colorado that's you know there's snow and it's an adventure and here yeah you've just got to drive down to the to the stadium
+	Free: Pattern=go to, Pattern=you, Pattern=just, Pattern=a, Pattern=and, Pattern=in, Pattern=know, Pattern=i, Pattern=it's, Pattern=got to, Pattern=to the, Pattern=that's, Pattern=the
+	Constrained: Pattern=got, Pattern=to, Pattern=the
+Turn ID=31| B | M : i don't think you did
+	Free: Pattern=think you, Pattern=i
+	Constrained: Pattern=you, Pattern=think
+Turn ID=32| A | A : so we took those back and that's about that all that were taken back in ages .
+	Free: Pattern=and, Pattern=about, Pattern=in, Pattern=that, Pattern=so, Pattern=that's, Pattern=all
+	Constrained: 
+Turn ID=33| B | M : how do you feel about the voting system ?
+	Free: Pattern=do, Pattern=you, Pattern=the, Pattern=about
+	Constrained: 
+Turn ID=34| A | A : oh sure .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : about a dollar per gallon .
+	Free: Pattern=about, Pattern=a
+	Constrained: 
+Turn ID=36| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M : because i'm still alive .
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : and uh it seems to just blow the competition away .
+	Free: Pattern=just, Pattern=the, Pattern=to, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=39| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : yeah .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M :  . right .
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : so . uh do
+	Free: Pattern=so ., Pattern=do
+	Constrained: Pattern=so
+Turn ID=43| B | M : it's not like she's a teacher . she's just a student .
+	Free: Pattern=it's, Pattern=just, Pattern=like, Pattern=a
+	Constrained: 
+Turn ID=44| A | A : it uh yeah .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=45| B | M : they're all the same .
+	Free: Pattern=all the
+	Constrained: Pattern=the, Pattern=all
+Turn ID=46| B | M : like the trees .
+	Free: Pattern=the, Pattern=like
+	Constrained: 

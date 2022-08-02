@@ -1,0 +1,151 @@
+A|0| B: really . _that_ was smart . yeah . 
+B|1| M: _i_ _don't_ _think_ _so_ i'm _not_ sure _what_ _the_ reason _is ._ 
+A|2| B: uh that's where [the] family grew . 
+B|3| M: how _are_ _you_ ? 
+A|4| B: [so] [don't] say she's small just say she's perfect . 
+B|5| M: _i_ . way . way . 
+A|6| B: [you] too dear . 
+B|7| M: _i think_ . 
+A|8| B: and progressive tax [i think] uh does [not] give _people_ incentive to make more money and [what] [i] mean by _that_ [the] more income [you] make [the] more tax [you] pay . 
+B|9| M: _you know_ _in_ _a_ recent war . 
+A|10| B: yeah . yeah _. they_ _they_ just run all over [the] place [don't] _they_ 
+B|11| M: i' 
+A|12| B: and uh [i] read sporadically _of_ commentary and [a] couple _of_ other [you know] trade magazines and uh uh such as _that_ uh where [i] might read [the] [the] occasional social and even current event commentaries and and everything as diverse as [a] c m to uh uh some _of_ [the] uh some _of_ [the] other tabloids [i] get . [so] uh _i guess_ [i] use about eighty percent written [is] probably _my_ input and twenty percent uh television . [i] [i think] [i] respect [the] from [a] journalistic perspective current events . 
+B|13| M: i've never _had_ _them_ [. _they] are_ good though . 
+A|14| B: _oh_ really ? 
+B|15| M: it's 
+A|16| B: [so] that's why [the] defense [is] _there_ picking through [them] whereas at [the] same time [the] uh [the] prosecutor sitting _there_ picking through [them] because he wants somebody who will give him uh [a] guilty verdict _if_ [the] facts warrant . 
+B|17| M: [what] [if] [i] don 
+A|18| B: but that's probably paying for things _that_ were still owed from last time 
+B|19| M: _it_ 
+A|20| B: absolutely . 
+B|21| M:  
+A|22| B: [i] exactly where she [is .] but um we met [in] paris . 
+B|23| M: _it_ 
+A|24| B: uh-huh . 
+B|25| M: [oh] well i'm [not] planning on putting anything [in] [there] . 
+A|26| B: [the] most polluted city _in the_ world 
+B|27| M: well i'm gonna go visit [my] parents'house [in] canada . 
+A|28| B: [i] [know] [it] . [i] said why [are] [they] [so] expensive they're just [a] bunch _of_ little cucumbers [you know] ? 
+B|29| M: well we've got [a] lot [of] [people] who've been involved [in the] production [of] this song . 
+A|30| B: uh-huh . 
+B|31| M: [i] have been told [that] [i] can eat [it] without [a] problem . 
+A|32| B: yeah [i] like [the] [the] seafood [that] [they] when [they] [had] [it] [you know] [the] broiled 
+B|33| M: [i guess] . 
+A|34| B: [oh] [they] [they are] [the] best . 
+B|35| M: pick ? 
+A|36| B: [you know] all [that] junk mail [you] get ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : really . that was smart . yeah .
+	Free: Pattern=that
+	Constrained: 
+Turn ID=1| B | M : i don't think so i'm not sure what the reason is .
+	Free: Pattern=think, Pattern=i, Pattern=the, Pattern=don't, Pattern=so, Pattern=not, Pattern=is ., Pattern=what
+	Constrained: Pattern=is
+Turn ID=2| A | B : uh that's where the family grew .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=3| B | M : how are you ?
+	Free: Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=4| A | B : so don't say she's small just say she's perfect .
+	Free: Pattern=don't, Pattern=so
+	Constrained: 
+Turn ID=5| B | M : i . way . way .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=6| A | B : you too dear .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=7| B | M : i think .
+	Free: Pattern=i think
+	Constrained: Pattern=think, Pattern=i
+Turn ID=8| A | B : and progressive tax i think uh does not give people incentive to make more money and what i mean by that the more income you make the more tax you pay .
+	Free: Pattern=you, Pattern=people, Pattern=what, Pattern=i, Pattern=the, Pattern=that, Pattern=i think, Pattern=not
+	Constrained: Pattern=think, Pattern=i
+Turn ID=9| B | M : you know in a recent war .
+	Free: Pattern=you know, Pattern=in, Pattern=a
+	Constrained: Pattern=know, Pattern=you
+Turn ID=10| A | B : yeah . yeah . they they just run all over the place don't they
+	Free: Pattern=. they, Pattern=the, Pattern=don't, Pattern=they
+	Constrained: Pattern=they
+Turn ID=11| B | M : i'
+	Free: 
+	Constrained: 
+Turn ID=12| A | B : and uh i read sporadically of commentary and a couple of other you know trade magazines and uh uh such as that uh where i might read the the occasional social and even current event commentaries and and everything as diverse as a c m to uh uh some of the uh some of the other tabloids i get . so uh i guess i use about eighty percent written is probably my input and twenty percent uh television . i i think i respect the from a journalistic perspective current events .
+	Free: Pattern=of, Pattern=you know, Pattern=a, Pattern=i guess, Pattern=the, Pattern=my, Pattern=that, Pattern=is, Pattern=i, Pattern=so, Pattern=i think
+	Constrained: Pattern=i, Pattern=think, Pattern=you, Pattern=know
+Turn ID=13| B | M : i've never had them . they are good though .
+	Free: Pattern=they are, Pattern=. they, Pattern=had, Pattern=them
+	Constrained: Pattern=are, Pattern=they
+Turn ID=14| A | B : oh really ?
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=15| B | M : it's
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : so that's why the defense is there picking through them whereas at the same time the uh the prosecutor sitting there picking through them because he wants somebody who will give him uh a guilty verdict if the facts warrant .
+	Free: Pattern=there, Pattern=a, Pattern=if, Pattern=is, Pattern=the, Pattern=them, Pattern=so
+	Constrained: 
+Turn ID=17| B | M : what if i don
+	Free: Pattern=if, Pattern=what, Pattern=i
+	Constrained: 
+Turn ID=18| A | B : but that's probably paying for things that were still owed from last time
+	Free: Pattern=that
+	Constrained: 
+Turn ID=19| B | M : it
+	Free: Pattern=it
+	Constrained: 
+Turn ID=20| A | B : absolutely .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=22| A | B : i exactly where she is . but um we met in paris .
+	Free: Pattern=is ., Pattern=in, Pattern=i
+	Constrained: Pattern=is
+Turn ID=23| B | M : it
+	Free: Pattern=it
+	Constrained: 
+Turn ID=24| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : oh well i'm not planning on putting anything in there .
+	Free: Pattern=in, Pattern=there, Pattern=not, Pattern=oh
+	Constrained: 
+Turn ID=26| A | B : the most polluted city in the world
+	Free: Pattern=in the, Pattern=the
+	Constrained: Pattern=in, Pattern=the
+Turn ID=27| B | M : well i'm gonna go visit my parents'house in canada .
+	Free: Pattern=in, Pattern=my
+	Constrained: 
+Turn ID=28| A | B : i know it . i said why are they so expensive they're just a bunch of little cucumbers you know ?
+	Free: Pattern=of, Pattern=you know, Pattern=they, Pattern=a, Pattern=it, Pattern=are, Pattern=know, Pattern=i, Pattern=so
+	Constrained: Pattern=know, Pattern=you
+Turn ID=29| B | M : well we've got a lot of people who've been involved in the production of this song .
+	Free: Pattern=in the, Pattern=people, Pattern=of, Pattern=a
+	Constrained: Pattern=in, Pattern=the
+Turn ID=30| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : i have been told that i can eat it without a problem .
+	Free: Pattern=that, Pattern=a, Pattern=it, Pattern=i
+	Constrained: 
+Turn ID=32| A | B : yeah i like the the seafood that they when they had it you know the broiled
+	Free: Pattern=you know, Pattern=they, Pattern=it, Pattern=i, Pattern=had, Pattern=the, Pattern=that
+	Constrained: Pattern=know, Pattern=you
+Turn ID=33| B | M : i guess .
+	Free: Pattern=i guess
+	Constrained: Pattern=i
+Turn ID=34| A | B : oh they they are the best .
+	Free: Pattern=they are, Pattern=the, Pattern=they, Pattern=oh
+	Constrained: Pattern=are, Pattern=they
+Turn ID=35| B | M : pick ?
+	Free: 
+	Constrained: 
+Turn ID=36| A | B : you know all that junk mail you get ?
+	Free: Pattern=you know, Pattern=that, Pattern=you
+	Constrained: Pattern=know, Pattern=you

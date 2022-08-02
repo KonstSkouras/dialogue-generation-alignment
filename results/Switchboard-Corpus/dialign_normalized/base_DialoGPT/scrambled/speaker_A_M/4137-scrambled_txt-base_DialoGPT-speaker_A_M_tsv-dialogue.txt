@@ -1,0 +1,231 @@
+A|0| A: _no_ _i know_ when _um_ we _just_ we moved here _uh_ _i_ from _the_ _i_ got _a_ summons jury summons 
+B|1| M: lol _it's_ good 
+A|2| A: exactly . exactly . 
+B|3| M:  
+A|4| A: yeah . we enjoy fooling around _with_ it . 
+B|5| M: oh _you_ mean [the] funny stuff ? 
+A|6| A: they're _not_ _going to_ recruit me anymore i'm _through_ . _no_ more for me . 
+B|7| M: _he_ _was_ _never_ _in_ _my_ house _but _i_ do_ _like_ [the] cat . 
+A|8| A: yeah . _don't_ _they_ have city council meetings _and_ all _that ._ _are you_ into any _of_ _that_ _what_ _what's_ _going_ on [in] [the] city council _and_ [the] _and_ [the] school boards _and_ all _that_ ? we have _that_ addition _to_ our paper . 
+B|9| M: nope . 
+A|10| A: _and_ [i] [was] thinking how many other people 
+B|11| M: [that] _is_ [what] [i] thought . 
+A|12| A: uh-huh . 
+B|13| M: [i] _see_ cool . 
+A|14| A: _so_ there's everybody had deer coming out their ears . _so_ 
+B|15| M: [what] _is_ ? 
+A|16| A: [it's] _uh_ when [you] come _to_ this part _of_ [the] country we've _been_ away from _dallas_ long enough [that] [you] _see the_ difference [in] housing . 
+B|17| M: uhh . [uh] . 
+A|18| A: [you] _know_ we had three hundred thousand people without power . 
+B|19| M: _i've_ [been] sorry . 
+A|20| A: yeah . 
+B|21| M: umm _um ._ 
+A|22| A: _and_ _so_ [i] went _to_ hawaii _and_ then _to_ australia _and_ japan _and_ china 
+B|23| M: uhh [no] [it's] [not] . 
+A|24| A: [um .] well [um] _and_ [i] notice [that] [the] crime rate [was] up [in] [the] _dallas_ area [it's] [it's] kind _of_ [been] scary _to_ _think_ about it 
+B|25| M: why ? [it's] [a] very good movie [it's] [a] great movie [and] [it's] [not] _like_ [it's] [going to] get better . 
+A|26| A: _so_ [uh] it [was] sort _of_ 
+B|27| M: uhh . [um .] 
+A|28| A: [is] it choice or _just_ business or 
+B|29| M: [i] _really_ hope [they] _do_ 
+A|30| A: [you] _know_ [i've] heard we have [a] couple _of_ friends [that] goes [to] washington quite often [and] [that] must _be_ [the] _thing ._ _they really_ hadn't either . [they] went [to] [the] memorial [you] _know_ when [they] go [it's] on business 
+B|31| M: [it's] [a] very interesting [thing .] 
+A|32| A: [uh] [i] can't remember . refresh [my] memory . 
+B|33| M: [they really] _do_ . 
+A|34| A: [and] [he] goes out [and] commits it again . fact he's back [in] jail now . _so_ [what] [what] [uh] 
+B|35| M: [it's] _like_ [you] can [see the] future . 
+A|36| A: okay . [do] [you] have relatives [in] vernon then ? 
+B|37| M: [you] can shoot [through] 
+A|38| A: [and] _so_ [you] _know_ [i do] have _one_ friend who goes occasionally 
+B|39| M: [i know] [that .] [i] [just] wanted [to] say [that] [i've] played golf [with] him [a] few times . 
+A|40| A: yeah _i think_ _you're_ right . 
+B|41| M: [i think] [you] mean [uh] ? 
+A|42| A: it depends on who examines your eyes . 
+B|43| M: [i think] [you] [are] [the] only [one] . 
+A|44| A: because they're well [they] have lunch specials [that] [you] can't [you] can't beat [that] price [uh] if [you] went [to] [a] cafeteria . 
+B|45| M: [you're] [so] nice . 
+A|46| A: uh-huh . 
+B|47| M: [i do] . [i] [don't] [uh] exercise . 
+A|48| A: well [i] can't [think] _of_ anything else [really] about [the] polls or voting [to] talk about . 
+B|49| M:  ... did [you] ? 
+A|50| A: [and] [i] feel [like] [i] would [never] put them [in] [a] home . [but i] wonder how much [you] [know] if [one] _of_ us [is] [going to] have [to] quit work someday or retire early or something . 
+B|51| M: [i] [like] . 
+A|52| A: [and] yeah i'm [a] engineer at [uh] at [the] laboratory rolm laboratory griffis air force base up here [so] . 
+B|53| M: [no] that's [not] true . 
+A|54| A: right right . 
+B|55| M: [are you] studying theoretical physics ? 
+B|56| M: [i] hate [to] [be] [that] guy [but] [what's] [the] story [with] [the] number [of] murders [in] [dallas] ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : no i know when um we just we moved here uh i from the i got a summons jury summons
+	Free: Pattern=uh, Pattern=no, Pattern=i, Pattern=the, Pattern=just, Pattern=i know, Pattern=um, Pattern=a
+	Constrained: Pattern=know, Pattern=i
+Turn ID=1| B | M : lol it's good
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=2| A | A : exactly . exactly .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : yeah . we enjoy fooling around with it .
+	Free: Pattern=with
+	Constrained: 
+Turn ID=5| B | M : oh you mean the funny stuff ?
+	Free: Pattern=you, Pattern=the
+	Constrained: 
+Turn ID=6| A | A : they're not going to recruit me anymore i'm through . no more for me .
+	Free: Pattern=going to, Pattern=not, Pattern=through, Pattern=no
+	Constrained: Pattern=going, Pattern=to
+Turn ID=7| B | M : he was never in my house but i do like the cat .
+	Free: Pattern=i do, Pattern=but i, Pattern=he, Pattern=in, Pattern=never, Pattern=like, Pattern=the, Pattern=was, Pattern=my
+	Constrained: Pattern=do, Pattern=but, Pattern=i
+Turn ID=8| A | A : yeah . don't they have city council meetings and all that . are you into any of that what what's going on in the city council and the and the school boards and all that ? we have that addition to our paper .
+	Free: Pattern=going, Pattern=and, Pattern=in, Pattern=are you, Pattern=what's, Pattern=the, Pattern=don't, Pattern=to, Pattern=that, Pattern=of, Pattern=that ., Pattern=what, Pattern=they
+	Constrained: Pattern=you, Pattern=are, Pattern=that
+Turn ID=9| B | M : nope .
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : and i was thinking how many other people
+	Free: Pattern=was, Pattern=and, Pattern=i
+	Constrained: 
+Turn ID=11| B | M : that is what i thought .
+	Free: Pattern=is, Pattern=what, Pattern=i, Pattern=that
+	Constrained: 
+Turn ID=12| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : i see cool .
+	Free: Pattern=see, Pattern=i
+	Constrained: 
+Turn ID=14| A | A : so there's everybody had deer coming out their ears . so
+	Free: Pattern=so
+	Constrained: 
+Turn ID=15| B | M : what is ?
+	Free: Pattern=is, Pattern=what
+	Constrained: 
+Turn ID=16| A | A : it's uh when you come to this part of the country we've been away from dallas long enough that you see the difference in housing .
+	Free: Pattern=of, Pattern=see the, Pattern=dallas, Pattern=in, Pattern=the, Pattern=to, Pattern=been, Pattern=you, Pattern=uh, Pattern=that, Pattern=it's
+	Constrained: Pattern=see, Pattern=the
+Turn ID=17| B | M : uhh . uh .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=18| A | A : you know we had three hundred thousand people without power .
+	Free: Pattern=know, Pattern=you
+	Constrained: 
+Turn ID=19| B | M : i've been sorry .
+	Free: Pattern=been, Pattern=i've
+	Constrained: 
+Turn ID=20| A | A : yeah .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : umm um .
+	Free: Pattern=um .
+	Constrained: Pattern=um
+Turn ID=22| A | A : and so i went to hawaii and then to australia and japan and china
+	Free: Pattern=to, Pattern=and, Pattern=i, Pattern=so
+	Constrained: 
+Turn ID=23| B | M : uhh no it's not .
+	Free: Pattern=not, Pattern=no, Pattern=it's
+	Constrained: 
+Turn ID=24| A | A : um . well um and i notice that the crime rate was up in the dallas area it's it's kind of been scary to think about it
+	Free: Pattern=of, Pattern=um, Pattern=dallas, Pattern=and, Pattern=um ., Pattern=i, Pattern=the, Pattern=to, Pattern=think, Pattern=in, Pattern=been, Pattern=was, Pattern=that, Pattern=it's
+	Constrained: Pattern=um
+Turn ID=25| B | M : why ? it's a very good movie it's a great movie and it's not like it's going to get better .
+	Free: Pattern=going to, Pattern=a, Pattern=and, Pattern=like, Pattern=it's, Pattern=not
+	Constrained: Pattern=going, Pattern=to
+Turn ID=26| A | A : so uh it was sort of
+	Free: Pattern=was, Pattern=uh, Pattern=so, Pattern=of
+	Constrained: 
+Turn ID=27| B | M : uhh . um .
+	Free: Pattern=um .
+	Constrained: Pattern=um
+Turn ID=28| A | A : is it choice or just business or
+	Free: Pattern=is, Pattern=just
+	Constrained: 
+Turn ID=29| B | M : i really hope they do
+	Free: Pattern=do, Pattern=they, Pattern=i, Pattern=really
+	Constrained: 
+Turn ID=30| A | A : you know i've heard we have a couple of friends that goes to washington quite often and that must be the thing . they really hadn't either . they went to the memorial you know when they go it's on business
+	Free: Pattern=of, Pattern=you, Pattern=they, Pattern=a, Pattern=and, Pattern=i've, Pattern=thing ., Pattern=know, Pattern=be, Pattern=the, Pattern=they really, Pattern=to, Pattern=that, Pattern=it's
+	Constrained: Pattern=they, Pattern=really
+Turn ID=31| B | M : it's a very interesting thing .
+	Free: Pattern=thing ., Pattern=a, Pattern=it's
+	Constrained: 
+Turn ID=32| A | A : uh i can't remember . refresh my memory .
+	Free: Pattern=uh, Pattern=i, Pattern=my
+	Constrained: 
+Turn ID=33| B | M : they really do .
+	Free: Pattern=they really, Pattern=do
+	Constrained: Pattern=they, Pattern=really
+Turn ID=34| A | A : and he goes out and commits it again . fact he's back in jail now . so what what uh
+	Free: Pattern=uh, Pattern=what, Pattern=and, Pattern=he, Pattern=in, Pattern=so
+	Constrained: 
+Turn ID=35| B | M : it's like you can see the future .
+	Free: Pattern=see the, Pattern=you, Pattern=like, Pattern=it's
+	Constrained: Pattern=see, Pattern=the
+Turn ID=36| A | A : okay . do you have relatives in vernon then ?
+	Free: Pattern=in, Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=37| B | M : you can shoot through
+	Free: Pattern=through, Pattern=you
+	Constrained: 
+Turn ID=38| A | A : and so you know i do have one friend who goes occasionally
+	Free: Pattern=you, Pattern=i do, Pattern=and, Pattern=one, Pattern=know, Pattern=so
+	Constrained: Pattern=do, Pattern=i
+Turn ID=39| B | M : i know that . i just wanted to say that i've played golf with him a few times .
+	Free: Pattern=that ., Pattern=a, Pattern=i've, Pattern=i, Pattern=to, Pattern=just, Pattern=i know, Pattern=with, Pattern=that
+	Constrained: Pattern=know, Pattern=i, Pattern=that
+Turn ID=40| A | A : yeah i think you're right .
+	Free: Pattern=i think, Pattern=you're
+	Constrained: Pattern=i, Pattern=think
+Turn ID=41| B | M : i think you mean uh ?
+	Free: Pattern=i think, Pattern=uh, Pattern=you
+	Constrained: Pattern=i, Pattern=think
+Turn ID=42| A | A : it depends on who examines your eyes .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : i think you are the only one .
+	Free: Pattern=you, Pattern=the, Pattern=i think, Pattern=are, Pattern=one
+	Constrained: Pattern=i, Pattern=think
+Turn ID=44| A | A : because they're well they have lunch specials that you can't you can't beat that price uh if you went to a cafeteria .
+	Free: Pattern=they, Pattern=a, Pattern=to, Pattern=that, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=45| B | M : you're so nice .
+	Free: Pattern=you're, Pattern=so
+	Constrained: 
+Turn ID=46| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=47| B | M : i do . i don't uh exercise .
+	Free: Pattern=i do, Pattern=uh, Pattern=i, Pattern=don't
+	Constrained: Pattern=do, Pattern=i
+Turn ID=48| A | A : well i can't think of anything else really about the polls or voting to talk about .
+	Free: Pattern=of, Pattern=think, Pattern=i, Pattern=really, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=49| B | M :  ... did you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=50| A | A : and i feel like i would never put them in a home . but i wonder how much you know if one of us is going to have to quit work someday or retire early or something .
+	Free: Pattern=going to, Pattern=of, Pattern=you, Pattern=but i, Pattern=a, Pattern=and, Pattern=one, Pattern=in, Pattern=know, Pattern=like, Pattern=to, Pattern=is, Pattern=never, Pattern=i
+	Constrained: Pattern=going, Pattern=but, Pattern=to, Pattern=i
+Turn ID=51| B | M : i like .
+	Free: Pattern=i, Pattern=like
+	Constrained: 
+Turn ID=52| A | A : and yeah i'm a engineer at uh at the laboratory rolm laboratory griffis air force base up here so .
+	Free: Pattern=uh, Pattern=a, Pattern=and, Pattern=the, Pattern=so
+	Constrained: 
+Turn ID=53| B | M : no that's not true .
+	Free: Pattern=not, Pattern=no
+	Constrained: 
+Turn ID=54| A | A : right right .
+	Free: 
+	Constrained: 
+Turn ID=55| B | M : are you studying theoretical physics ?
+	Free: Pattern=are you
+	Constrained: Pattern=you, Pattern=are
+Turn ID=56| B | M : i hate to be that guy but what's the story with the number of murders in dallas ?
+	Free: Pattern=of, Pattern=dallas, Pattern=in, Pattern=i, Pattern=what's, Pattern=be, Pattern=the, Pattern=to, Pattern=with, Pattern=that, Pattern=but
+	Constrained: 

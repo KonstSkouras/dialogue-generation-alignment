@@ -1,0 +1,151 @@
+A|0| A: _uh-huh ._ _uh-huh_ _uh-huh ._ _well_ those travel magazines _are_ _that_ _more_ _or_ less show _you_ different countries _that you_ could _go_ _to_ _or_ 
+B|1| B: [uh-huh .] 
+A|2| A: _and uh_ _well_ _you know_ even _doing_ _that_ _three_ _or_ four _times a_ week _when_ summer hits _that's_ _a_ hard _thing_ _to go_ out _and_ _and_ _go_ jogging for _uh_ half hour _or_ _so_ 
+B|3| B: [and] it _just_ [uh] immediately heats up _. so that's_ _one_ [thing] _i_ miss about living up north as _i_ remember um [you know] _the_ long springs [and] long falls _and the_ cooler weather . it _was_ really nice . 
+A|4| A: [uh-huh] [uh-huh .] 
+B|5| B: _but uh_ 
+A|6| A: [uh-huh .] 
+B|7| B: _yeah_ _i_ found it [you know] _in the_ street . 
+A|8| A: [yeah] _it's_ [uh] wordstar [was] _never_ very intuitive _to_ me . [i] mean [you know] [you] _some_ _of_ [the] commands [just] had nothing _to_ _do_ with [you know] what [you] were supposed _to_ be _doing_ what _they_ what _they_ did _on the_ computer [but uh] 
+B|9| B: [so] anyway [i] guess _we_ can't talk much [more] about [that] [but] [i] [just] thought i'd throw [that] _in_ there 
+A|10| A: beets _. yeah_ we've got _some_ beets [uh-huh .] 
+B|11| B: _yeah [._ yeah] it [was] . saw [a] few bears things like [that] . 
+A|12| A: huh . 
+B|13| B: [and] then [i] have [uh] [a] [three] eighty-six f x [a] sixteen bit machine at home . 
+A|14| A: [yeah .] 
+B|15| B: _oh_ _you're_ adventurous . [you] went by yourself . 
+A|16| A: [yeah .] 
+B|17| B: [that's] right [yeah] [they] probably couldn't [do] _anything_ monetary [but] [i] think giving giving [some] kind [of] college credit 
+A|18| A: [uh-huh .] 
+B|19| B: [that] way [that [you] know] _one_ person wouldn't get _one_ _big_ blunt blow at _one_ _time ._ 
+A|20| A: [you know] . twenty-five [i] _don't_ [know] . twenty-five percent ? [a] asks someone else [in the] [yeah] my wife [was] [big] [in] [that] 
+B|21| B: [uh-huh .] 
+A|22| A: _okay_ . 
+B|23| B: [and uh] [but] _if_ [they] [are] polluting [the] air [they] need [do] need [to] have them fixed 
+A|24| A: [i] called everyone [i] knew [i] had every friend [i] knew [in the] apartment searching for this cat . 
+B|25| B: [okay] 
+A|26| A: [yeah .] [and the] [time] [that] my [we] spent with our dad [was] he owned his own business [so] [we] worked with him most [of] [the] [time [.] so that's] how [we] spent most [of] [the] [time] with him . 
+B|27| B: [but] beyond [that] [uh] lately _i've_ been reading _i've_ always liked [the] new yorker . 
+A|28| A: [uh-huh .] 
+B|29| B: [well] [in] florida seems like [uh] two [or] [three] [times a] year . [it's] constantly [on the] 
+A|30| A: yes yes [i've] known _people_ with effectively worthless degrees [in] this country . [i] mean [and] they're highly educated _people_ [but] [of] course [if] [you're] educated [and] [you] _don't_ speak english _no_ [one] thinks [anything] [of] [you] . 
+B|31| B: [and uh] _it's it's_ tragic [that [you] know] [when] [people] live [so] long [that] [they] [uh] [don't] have [a] really [don't] have [a] place [to go] . 
+A|32| A: [yeah] [it's it's] made very clear upon hiring . 
+B|33| B: [so] again it [never] really penalizes [the] company [doing] [the] wrong . 
+A|34| A: [yeah .] 
+B|35| B: [no] somebody played it 
+A|36| A: [oh] sure . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : uh-huh . uh-huh uh-huh . well those travel magazines are that more or less show you different countries that you could go to or
+	Free: Pattern=more, Pattern=well, Pattern=you, Pattern=go, Pattern=uh-huh, Pattern=are, Pattern=or, Pattern=that you, Pattern=that, Pattern=uh-huh ., Pattern=to
+	Constrained: Pattern=you, Pattern=uh-huh, Pattern=that
+Turn ID=1| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=2| A | A : and uh well you know even doing that three or four times a week when summer hits that's a hard thing to go out and and go jogging for uh half hour or so
+	Free: Pattern=go, Pattern=a, Pattern=doing, Pattern=and, Pattern=three, Pattern=or, Pattern=and uh, Pattern=that, Pattern=so, Pattern=well, Pattern=times a, Pattern=uh, Pattern=you know, Pattern=thing, Pattern=that's, Pattern=when, Pattern=to go
+	Constrained: Pattern=go, Pattern=a, Pattern=and, Pattern=know, Pattern=to, Pattern=you, Pattern=uh
+Turn ID=3| B | B : and it just uh immediately heats up . so that's one thing i miss about living up north as i remember um you know the long springs and long falls and the cooler weather . it was really nice .
+	Free: Pattern=. so that's, Pattern=just, Pattern=and the, Pattern=and, Pattern=one, Pattern=i, Pattern=was, Pattern=uh, Pattern=you know, Pattern=thing, Pattern=the
+	Constrained: Pattern=you, Pattern=and, Pattern=know, Pattern=so, Pattern=that's, Pattern=the
+Turn ID=4| A | A : uh-huh uh-huh .
+	Free: Pattern=uh-huh ., Pattern=uh-huh
+	Constrained: Pattern=uh-huh
+Turn ID=5| B | B : but uh
+	Free: Pattern=but uh
+	Constrained: Pattern=but, Pattern=uh
+Turn ID=6| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=7| B | B : yeah i found it you know in the street .
+	Free: Pattern=you know, Pattern=in the, Pattern=i, Pattern=yeah
+	Constrained: Pattern=in, Pattern=the, Pattern=know, Pattern=you
+Turn ID=8| A | A : yeah it's uh wordstar was never very intuitive to me . i mean you know you some of the commands just had nothing to do with you know what you were supposed to be doing what they what they did on the computer but uh
+	Free: Pattern=of, Pattern=just, Pattern=they, Pattern=do, Pattern=doing, Pattern=yeah, Pattern=to, Pattern=was, Pattern=it's, Pattern=you, Pattern=uh, Pattern=you know, Pattern=but uh, Pattern=some, Pattern=never, Pattern=i, Pattern=on the, Pattern=the
+	Constrained: Pattern=know, Pattern=the, Pattern=but, Pattern=you, Pattern=uh
+Turn ID=9| B | B : so anyway i guess we can't talk much more about that but i just thought i'd throw that in there
+	Free: Pattern=more, Pattern=just, Pattern=in, Pattern=i, Pattern=we, Pattern=so, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=10| A | A : beets . yeah we've got some beets uh-huh .
+	Free: Pattern=. yeah, Pattern=uh-huh ., Pattern=some
+	Constrained: Pattern=yeah, Pattern=uh-huh
+Turn ID=11| B | B : yeah . yeah it was . saw a few bears things like that .
+	Free: Pattern=a, Pattern=yeah ., Pattern=. yeah, Pattern=was, Pattern=that
+	Constrained: Pattern=yeah
+Turn ID=12| A | A : huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : and then i have uh a three eighty-six f x a sixteen bit machine at home .
+	Free: Pattern=uh, Pattern=a, Pattern=and, Pattern=three, Pattern=i
+	Constrained: 
+Turn ID=14| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=15| B | B : oh you're adventurous . you went by yourself .
+	Free: Pattern=you're, Pattern=you, Pattern=oh
+	Constrained: 
+Turn ID=16| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=17| B | B : that's right yeah they probably couldn't do anything monetary but i think giving giving some kind of college credit
+	Free: Pattern=of, Pattern=they, Pattern=do, Pattern=yeah, Pattern=some, Pattern=i, Pattern=but, Pattern=anything, Pattern=that's
+	Constrained: 
+Turn ID=18| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=19| B | B : that way that you know one person wouldn't get one big blunt blow at one time .
+	Free: Pattern=time ., Pattern=you know, Pattern=one, Pattern=that you, Pattern=big, Pattern=that
+	Constrained: Pattern=time, Pattern=know, Pattern=you, Pattern=that
+Turn ID=20| A | A : you know . twenty-five i don't know . twenty-five percent ? a asks someone else in the yeah my wife was big in that
+	Free: Pattern=you know, Pattern=a, Pattern=yeah, Pattern=in the, Pattern=in, Pattern=know, Pattern=i, Pattern=big, Pattern=don't, Pattern=was, Pattern=that
+	Constrained: Pattern=in, Pattern=the, Pattern=know, Pattern=you
+Turn ID=21| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=22| A | A : okay .
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=23| B | B : and uh but if they are polluting the air they need do need to have them fixed
+	Free: Pattern=they, Pattern=do, Pattern=the, Pattern=but, Pattern=are, Pattern=if, Pattern=and uh, Pattern=to
+	Constrained: Pattern=and, Pattern=uh
+Turn ID=24| A | A : i called everyone i knew i had every friend i knew in the apartment searching for this cat .
+	Free: Pattern=in the, Pattern=i
+	Constrained: Pattern=in, Pattern=the
+Turn ID=25| B | B : okay
+	Free: Pattern=okay
+	Constrained: 
+Turn ID=26| A | A : yeah . and the time that my we spent with our dad was he owned his own business so we worked with him most of the time . so that's how we spent most of the time with him .
+	Free: Pattern=we, Pattern=the, Pattern=was, Pattern=that, Pattern=so, Pattern=time, Pattern=time ., Pattern=. so that's, Pattern=of, Pattern=yeah ., Pattern=and the
+	Constrained: Pattern=time, Pattern=so, Pattern=yeah, Pattern=and, Pattern=that's, Pattern=the
+Turn ID=27| B | B : but beyond that uh lately i've been reading i've always liked the new yorker .
+	Free: Pattern=uh, Pattern=i've, Pattern=the, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=28| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=29| B | B : well in florida seems like uh two or three times a year . it's constantly on the
+	Free: Pattern=uh, Pattern=three, Pattern=in, Pattern=or, Pattern=on the, Pattern=it's, Pattern=well, Pattern=times a
+	Constrained: Pattern=a, Pattern=the
+Turn ID=30| A | A : yes yes i've known people with effectively worthless degrees in this country . i mean and they're highly educated people but of course if you're educated and you don't speak english no one thinks anything of you .
+	Free: Pattern=you, Pattern=people, Pattern=no, Pattern=and, Pattern=in, Pattern=i, Pattern=anything, Pattern=don't, Pattern=but, Pattern=you're, Pattern=of, Pattern=one, Pattern=i've, Pattern=if
+	Constrained: 
+Turn ID=31| B | B : and uh it's it's tragic that you know when people live so long that they uh don't have a really don't have a place to go .
+	Free: Pattern=people, Pattern=they, Pattern=a, Pattern=that you, Pattern=don't, Pattern=and uh, Pattern=that, Pattern=uh, Pattern=you know, Pattern=when, Pattern=to go, Pattern=so, Pattern=it's it's
+	Constrained: Pattern=go, Pattern=and, Pattern=know, Pattern=to, Pattern=you, Pattern=uh, Pattern=that, Pattern=it's
+Turn ID=32| A | A : yeah it's it's made very clear upon hiring .
+	Free: Pattern=it's it's, Pattern=yeah
+	Constrained: Pattern=it's
+Turn ID=33| B | B : so again it never really penalizes the company doing the wrong .
+	Free: Pattern=so, Pattern=the, Pattern=never, Pattern=doing
+	Constrained: 
+Turn ID=34| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=35| B | B : no somebody played it
+	Free: Pattern=no
+	Constrained: 
+Turn ID=36| A | A : oh sure .
+	Free: Pattern=oh
+	Constrained: 

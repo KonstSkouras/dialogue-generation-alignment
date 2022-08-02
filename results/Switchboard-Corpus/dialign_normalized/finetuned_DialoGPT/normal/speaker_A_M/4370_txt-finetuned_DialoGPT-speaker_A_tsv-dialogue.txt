@@ -1,0 +1,175 @@
+B|0| M: _you_ can appeal _and_ 
+A|1| A: um . _yeah_ _it_ seems _to_ _me_ _i'm_ always challenged peremptorily also when _i_ _go_ _to_ these things _. i think i_ _have a_ severe demeanor _or_ something . 
+B|2| M: _uh-huh ._ 
+A|3| A: _uh_ 
+B|4| M: _well i_ [i] guess that's _the_ only thing [i] can _really_ [think] _of_ _is_ [uh] 
+A|5| A: _but_ typically _you know_ [uh] typically [uh] everyone _gets_ involved in [uh] _the jury_ process _and i_ suppose an elitist might say _well you_ [really] want someone _who_ [is] [well] educated _to _be_ able to_ _to_ winnow [the] facts from [the] from [the] prejudice . 
+B|6| M: _right ._ 
+A|7| A: [right .] 
+B|8| M: [and [i] think] _that_ [uh] [you know] [you] can [you] can [have a] [jury] _that_ _that_ doesn't _have [to_ be] all [the] same 
+A|9| A: _so_ 
+B|10| M: [i] mean [you] _you're_ not going [to] [go] out [and] [and] get all all [the] best all _of the_ best players [you] can get . 
+A|11| A: _so_ if [you're] [a] nincompoop _on_ trial you'd you'd [have to] [have] nincompoops [to] [uh] 
+B|12| M: [right .] that's true . 
+A|13| A: um . 
+B|14| M:  !!! % !! remind [me] _of_ _that ._ 
+A|15| A: [uh-huh .] 
+B|16| M: [and] [uh] . 
+A|17| A: um . 
+B|18| M: [i think] they should [have] [the] option _of_ either guilty [or] innocent [but] [i] don [i] agree with [you] _that_ [jury] selection should [be] based [on] how [you] feel _about_ [the] case . 
+A|19| A: [uh-huh] [uh-huh .] 
+B|20| M: [and] [and] they [have] no [right] [to] ask for [a] [jury] _of_ their peers . 
+A|21| A: um . 
+B|22| M: [and [i] think] [the] judges should [be able to] recommend sentencing . 
+A|23| A: [uh-huh .] [uh-huh .] [uh-huh .] 
+B|24| M: [so] [i] don't [know] [. i think [i] think] sometimes it's [a] little bit _of the_ media's resistance [to] [it] . 
+A|25| A: [well i] suppose [you] may [be] [right] [on] [that .] matter [of] fact i've heard [that] i've heard [that] some [of the] information [uh] [is] prevented from reaching _the jury_ like [uh] mitigating circumstances [or] [or] preceding [uh] criminal record [or] things [of] this nature [that] 
+B|26| M: [yeah] . 
+A|27| A: oh [is] [it] ? oh [i] didn't realize [that .] okay . 
+B|28| M: [so] [yeah] it's [it] [it] kind [of] [is] [a] [a] double whammy . [the] judge uh-hired [the] case [and] _then_ [the jury] _then_ [uh] decides [who] [gets] [the] death penalty . 
+A|29| A: [right .] 
+B|30| M: [but] [uh] . 
+A|31| A: [uh-huh .] 
+B|32| M: [and i] [i] don't [know] [i] 
+A|33| A: [uh-huh .] [so] [you] what [you're] saying [is] this if there [is] [the] second offense [then] [you] execute _them_ . 
+B|34| M: [right [.] i] [i] [uh] . 
+A|35| A: um . 
+B|36| M: [the] only way [that] [you] can rehabilitate [a] person [is] by [uh] persuade [them] [of] [a] behavior [that] [is] detrimental [to] their welfare [or] [uh] . 
+A|37| A: what [about] [uh] white collar crimes like [uh] theft [of] trade secrets . 
+B|38| M: [yeah] [i think] [that] [uh] . 
+A|39| A: oh [really] ? 
+B|40| M: [yeah] . 
+A|41| A: like what ? 
+B|42| M: [well [you] know] [i] mean [i'm] [i] work at [a] [a] high school . 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : you can appeal and
+	Free: Pattern=and, Pattern=you
+	Constrained: 
+Turn ID=1| A | A : um . yeah it seems to me i'm always challenged peremptorily also when i go to these things . i think i have a severe demeanor or something .
+	Free: Pattern=. i think i, Pattern=have a, Pattern=i'm, Pattern=i, Pattern=or, Pattern=to, Pattern=go, Pattern=me, Pattern=it, Pattern=yeah
+	Constrained: Pattern=have, Pattern=a, Pattern=. i, Pattern=think, Pattern=i, Pattern=i think
+Turn ID=2| B | M : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=3| A | A : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=4| B | M : well i i guess that's the only thing i can really think of is uh
+	Free: Pattern=of, Pattern=uh, Pattern=think, Pattern=really, Pattern=the, Pattern=well i, Pattern=is, Pattern=i
+	Constrained: Pattern=i, Pattern=well
+Turn ID=5| A | A : but typically you know uh typically uh everyone gets involved in uh the jury process and i suppose an elitist might say well you really want someone who is well educated to be able to to winnow the facts from the from the prejudice .
+	Free: Pattern=well you, Pattern=well, Pattern=who, Pattern=gets, Pattern=is, Pattern=really, Pattern=the, Pattern=to, Pattern=to be, Pattern=be able to, Pattern=and i, Pattern=uh, Pattern=you know, Pattern=the jury, Pattern=but
+	Constrained: Pattern=well, Pattern=you, Pattern=and, Pattern=know, Pattern=be, Pattern=the, Pattern=to, Pattern=jury, Pattern=i
+Turn ID=6| B | M : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=7| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=8| B | M : and i think that uh you know you can you can have a jury that that doesn't have to be all the same
+	Free: Pattern=and i, Pattern=have a, Pattern=jury, Pattern=the, Pattern=have to, Pattern=to be, Pattern=that, Pattern=i think, Pattern=you, Pattern=uh, Pattern=you know
+	Constrained: Pattern=you, Pattern=have, Pattern=a, Pattern=and, Pattern=think, Pattern=know, Pattern=i, Pattern=be, Pattern=to
+Turn ID=9| A | A : so
+	Free: Pattern=so
+	Constrained: 
+Turn ID=10| B | M : i mean you you're not going to go out and and get all all the best all of the best players you can get .
+	Free: Pattern=you're, Pattern=you, Pattern=go, Pattern=and, Pattern=i, Pattern=the, Pattern=to, Pattern=of the
+	Constrained: Pattern=of, Pattern=the
+Turn ID=11| A | A : so if you're a nincompoop on trial you'd you'd have to have nincompoops to uh
+	Free: Pattern=you're, Pattern=uh, Pattern=have, Pattern=a, Pattern=on, Pattern=have to, Pattern=to, Pattern=so
+	Constrained: Pattern=to, Pattern=have
+Turn ID=12| B | M : right . that's true .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=13| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M :  !!! % !! remind me of that .
+	Free: Pattern=that ., Pattern=me, Pattern=of
+	Constrained: Pattern=that
+Turn ID=15| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=16| B | M : and uh .
+	Free: Pattern=uh, Pattern=and
+	Constrained: 
+Turn ID=17| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : i think they should have the option of either guilty or innocent but i don i agree with you that jury selection should be based on how you feel about the case .
+	Free: Pattern=of, Pattern=you, Pattern=have, Pattern=about, Pattern=or, Pattern=be, Pattern=i think, Pattern=jury, Pattern=i, Pattern=on, Pattern=the, Pattern=that, Pattern=but
+	Constrained: Pattern=i, Pattern=think
+Turn ID=19| A | A : uh-huh uh-huh .
+	Free: Pattern=uh-huh ., Pattern=uh-huh
+	Constrained: Pattern=uh-huh
+Turn ID=20| B | M : and and they have no right to ask for a jury of their peers .
+	Free: Pattern=have, Pattern=a, Pattern=and, Pattern=jury, Pattern=to, Pattern=right, Pattern=of
+	Constrained: 
+Turn ID=21| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=22| B | M : and i think the judges should be able to recommend sentencing .
+	Free: Pattern=be able to, Pattern=i think, Pattern=and i, Pattern=the
+	Constrained: Pattern=and, Pattern=think, Pattern=i, Pattern=be, Pattern=to
+Turn ID=23| A | A : uh-huh . uh-huh . uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=24| B | M : so i don't know . i think i think sometimes it's a little bit of the media's resistance to it .
+	Free: Pattern=. i think i, Pattern=a, Pattern=it, Pattern=know, Pattern=i, Pattern=to, Pattern=of the, Pattern=so, Pattern=i think
+	Constrained: Pattern=of, Pattern=. i, Pattern=think, Pattern=i, Pattern=the, Pattern=i think
+Turn ID=25| A | A : well i suppose you may be right on that . matter of fact i've heard that i've heard that some of the information uh is prevented from reaching the jury like uh mitigating circumstances or or preceding uh criminal record or things of this nature that
+	Free: Pattern=is, Pattern=or, Pattern=be, Pattern=on, Pattern=well i, Pattern=right, Pattern=of, Pattern=that ., Pattern=you, Pattern=uh, Pattern=the jury, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=well, Pattern=the, Pattern=that, Pattern=jury, Pattern=i
+Turn ID=26| B | M : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=27| A | A : oh is it ? oh i didn't realize that . okay .
+	Free: Pattern=that ., Pattern=it, Pattern=is, Pattern=i
+	Constrained: Pattern=that
+Turn ID=28| B | M : so yeah it's it it kind of is a a double whammy . the judge uh-hired the case and then the jury then uh decides who gets the death penalty .
+	Free: Pattern=of, Pattern=uh, Pattern=gets, Pattern=is, Pattern=the, Pattern=the jury, Pattern=so, Pattern=then, Pattern=who, Pattern=a, Pattern=and, Pattern=it, Pattern=yeah
+	Constrained: Pattern=jury, Pattern=the
+Turn ID=29| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=30| B | M : but uh .
+	Free: Pattern=uh, Pattern=but
+	Constrained: 
+Turn ID=31| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=32| B | M : and i i don't know i
+	Free: Pattern=and i, Pattern=i, Pattern=know
+	Constrained: Pattern=i, Pattern=and
+Turn ID=33| A | A : uh-huh . so you what you're saying is this if there is the second offense then you execute them .
+	Free: Pattern=you're, Pattern=you, Pattern=then, Pattern=is, Pattern=the, Pattern=uh-huh ., Pattern=them, Pattern=so
+	Constrained: Pattern=uh-huh
+Turn ID=34| B | M : right . i i uh .
+	Free: Pattern=right ., Pattern=. i, Pattern=i, Pattern=uh
+	Constrained: Pattern=i, Pattern=right
+Turn ID=35| A | A : um .
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : the only way that you can rehabilitate a person is by uh persuade them of a behavior that is detrimental to their welfare or uh .
+	Free: Pattern=of, Pattern=a, Pattern=is, Pattern=or, Pattern=the, Pattern=to, Pattern=you, Pattern=uh, Pattern=them, Pattern=that
+	Constrained: 
+Turn ID=37| A | A : what about uh white collar crimes like uh theft of trade secrets .
+	Free: Pattern=uh, Pattern=about, Pattern=of
+	Constrained: 
+Turn ID=38| B | M : yeah i think that uh .
+	Free: Pattern=i think, Pattern=yeah, Pattern=uh, Pattern=that
+	Constrained: Pattern=i, Pattern=think
+Turn ID=39| A | A : oh really ?
+	Free: Pattern=really
+	Constrained: 
+Turn ID=40| B | M : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=41| A | A : like what ?
+	Free: 
+	Constrained: 
+Turn ID=42| B | M : well you know i mean i'm i work at a a high school .
+	Free: Pattern=well you, Pattern=you know, Pattern=a, Pattern=i'm, Pattern=i
+	Constrained: Pattern=well, Pattern=know, Pattern=you

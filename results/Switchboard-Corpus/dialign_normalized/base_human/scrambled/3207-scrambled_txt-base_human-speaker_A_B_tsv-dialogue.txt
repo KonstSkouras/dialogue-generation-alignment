@@ -1,0 +1,211 @@
+A|0| A: _and their_ manager assumes _they_ _have_ _a_ drug problem _i_ mean if _someone_ assumed _that_ _of_ _me_ _i_ would be upset . 
+B|1| B: _right ._ 
+A|2| A: _uh-huh ._ 
+B|3| B: _the_ reasons _that they're_ _doing_ _it_ compared _to_ _the_ reason [someone] else _is_ _in_ jail _for_ _it_ _you know it's_ _like_ _two_ _different_ things . 
+A|4| A: _um ._ 
+B|5| B: _i i_ got [a] few peas _out_ _my_ garden [a] couple [of] days ago . 
+A|6| A: _uh-huh_ 
+B|7| B: _uh_ _i'm doing_ basically system system design _work_ _and uh_ implementation _work_ _for_ _the_ speech _for_ _the_ speech group _uh_ _here ._ 
+A|8| A: _oh_ _oh yeah_ [and] every time _you see_ one hit _on_ [the] side [of] [the] road [you] say [is] [that] [my] cat . 
+B|9| B: [uh-huh .] huh . _well_ tell [me] has _it_ ever been decided _when_ _when_ [is] [a] _uh_ fetus [a] human ? 
+A|10| A: [my] goodness 
+B|11| B: [yeah] i've been calling _a lot of_ companies . there _some_ [of] them _are_ _interested_ . _well_ _at_ least _for_ [a] year [and] [a] half [i] can _work_ 
+A|12| A: [you know it's] 
+B|13| B: [uh-huh .] 
+A|14| A: maybe [a] _people_ [are] [a] little _more_ open-minded than maybe _they_ _used to_ be . 
+B|15| B: _they're_ much [more] responsible . [i] [know] [um] [the] church [that] [i] go [to] [um] [the] young men give _two_ years [of] [their] life _when_ [they] _turn_ nineteen [you know] 
+A|16| A: [you] bet . 
+B|17| B: _right_ that's _it_ . 
+A|18| A: [right .] 
+B|19| B: _well_ _it_ [is] [to] [me] . most [people] prefer [the] security [of] nine [to] five [and] _weekends_ _off and_ knowing [that] [their] insurance [is] paid [and their] retirement 
+A|20| A: _oh_ . 
+B|21| B: [uh-huh .] 
+A|22| A: [the] same [i] don't [know] _i guess i_ get [i] get [uh] _all_ mixed up inside . [when] [yeah] 
+B|23| B: [oh] _really_ . 
+A|24| A: _oh yeah_ 
+B|25| B: [um .] 
+A|26| A: _no_ [i] live [in] maryland . 
+B|27| B: [no] [you] can start 
+A|28| A: hello . 
+B|29| B: [yeah] . that's true . 
+A|30| A: [like] what ? 
+B|31| B: [have] [you] [have] [you] been active [in] [in] politics trying [to] concerning this ? [have] [you] [like] worked [on] political action committees _or_ something [like] [that] ? 
+A|32| A: "it looks [like] [their] kneading bread *spelling ""their"" should be ""they're""" 
+B|33| B: [uh-huh .] 
+A|34| A: [i] [really] [of] course [you] you're [in] [a] [different] part [of] [the] country [i i] [really] listen [to] [a lot of] [the] talk shows [i] don't mean [the] gossip ones but there's [a lot of] [on] [the] [weekends] [when] [i] do chores [or] whatever [i'm] [a] radio hound _i guess i_ take [the] radio _with_ [me] [when] [i'm] working [on] [my] car [the] lawn [or] whatever [and] [turn] [on] [they] [have] everything from lawn [work] lawyers news [uh] veterinarians _all_ kinds [of] items [uh] so [i'm] [i'm] [a] real radio buff especially [on] [the] [when] [i'm doing] chores . 
+B|35| B: elementary school . 
+A|36| A: [and uh] but he will [turn] [that] [on] especially [for] if again if our [uh] oldest grandson [is] over [here .] he's ten 
+B|37| B: [and] 
+A|38| A: [uh-huh .] 
+B|39| B: [the] glossy paper [that] says buy this [and] send _off_ [for] [that] [and] [you] [have] won [and] [all] [that] . 
+A|40| A: [uh] [i] don't take anymore than [that] 
+B|41| B: [yeah] . [i] [know] [the] rain bring _out_ [the] snakes [or] [used to] bring them _out_ _in the_ ozarks 
+A|42| A: [i] just don't [know] . 
+B|43| B: [um .] 
+A|44| A: [and] [they] had us fill [out] [a] long questionnaire . we stayed till about one thirty [and] [they're] going [to] call [the] ones [that they're] [interested] [in] from [the] questionnaire [two] [to] three [at] [a] time [and] [the] trial won't take place until june . 
+B|45| B: [oh yeah] [you see] [all] these [people] [yeah] these stately [people] [and] _well_ dressed [people] [out] walking [their] dogs [with] [their] plastic bag [or] [their] piece [of] paper [for] them [it's] [really] kind [of] funny . 
+A|46| A: _well i_ found [uh] [that] [in the] place [that] _it was_ harder [for] [me] [to] stick [to] [a] budget _was_ not where we were concerned but where maybe our friends were concerned [and] our relatives [and] parents . 
+B|47| B: [well [i] guess i] better go . 
+A|48| A: [uh-huh .] 
+B|49| B: [and] this [is] [the] man [that] [was] [in] front [of] [you] ? 
+A|50| A: but [uh] we just [really] [like] music . [it's] [a] [i i] especially [like] [it] as an outlet [when] [the] t v goes [off] we get [the] t v [off and] just [have] [some] nice quiet music . 
+B|51| B: [it was] usually [on] [um] thursday nights . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : and their manager assumes they have a drug problem i mean if someone assumed that of me i would be upset .
+	Free: Pattern=of, Pattern=have, Pattern=me, Pattern=they, Pattern=a, Pattern=someone, Pattern=i, Pattern=and their, Pattern=that
+	Constrained: Pattern=and, Pattern=their
+Turn ID=1| B | B : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=2| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=3| B | B : the reasons that they're doing it compared to the reason someone else is in jail for it you know it's like two different things .
+	Free: Pattern=different, Pattern=doing, Pattern=for, Pattern=in, Pattern=you know it's, Pattern=like, Pattern=the, Pattern=to, Pattern=that they're, Pattern=it, Pattern=someone, Pattern=is, Pattern=two
+	Constrained: Pattern=they're, Pattern=know, Pattern=you, Pattern=you know, Pattern=that, Pattern=it's
+Turn ID=4| A | A : um .
+	Free: Pattern=um .
+	Constrained: Pattern=um
+Turn ID=5| B | B : i i got a few peas out my garden a couple of days ago .
+	Free: Pattern=of, Pattern=out, Pattern=a, Pattern=my, Pattern=i i
+	Constrained: Pattern=i
+Turn ID=6| A | A : uh-huh
+	Free: Pattern=uh-huh
+	Constrained: 
+Turn ID=7| B | B : uh i'm doing basically system system design work and uh implementation work for the speech for the speech group uh here .
+	Free: Pattern=uh, Pattern=for, Pattern=work, Pattern=i'm doing, Pattern=and uh, Pattern=here ., Pattern=the
+	Constrained: Pattern=i'm, Pattern=doing, Pattern=uh, Pattern=and
+Turn ID=8| A | A : oh oh yeah and every time you see one hit on the side of the road you say is that my cat .
+	Free: Pattern=of, Pattern=you, Pattern=is, Pattern=my, Pattern=that, Pattern=you see, Pattern=and, Pattern=oh, Pattern=oh yeah, Pattern=on, Pattern=the
+	Constrained: Pattern=yeah, Pattern=you, Pattern=oh
+Turn ID=9| B | B : uh-huh . huh . well tell me has it ever been decided when when is a uh fetus a human ?
+	Free: Pattern=well, Pattern=uh, Pattern=me, Pattern=a, Pattern=it, Pattern=is, Pattern=when, Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=10| A | A : my goodness
+	Free: Pattern=my
+	Constrained: 
+Turn ID=11| B | B : yeah i've been calling a lot of companies . there some of them are interested . well at least for a year and a half i can work
+	Free: Pattern=well, Pattern=a, Pattern=for, Pattern=are, Pattern=at, Pattern=some, Pattern=work, Pattern=i, Pattern=interested, Pattern=a lot of, Pattern=of, Pattern=yeah, Pattern=and
+	Constrained: Pattern=a, Pattern=of
+Turn ID=12| A | A : you know it's
+	Free: Pattern=you know it's
+	Constrained: Pattern=it's, Pattern=you know, Pattern=you, Pattern=know
+Turn ID=13| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=14| A | A : maybe a people are a little more open-minded than maybe they used to be .
+	Free: Pattern=used to, Pattern=more, Pattern=people, Pattern=they, Pattern=a, Pattern=are
+	Constrained: Pattern=to
+Turn ID=15| B | B : they're much more responsible . i know um the church that i go to um the young men give two years of their life when they turn nineteen you know
+	Free: Pattern=their, Pattern=you know, Pattern=they, Pattern=um, Pattern=they're, Pattern=know, Pattern=the, Pattern=when, Pattern=that, Pattern=of, Pattern=more, Pattern=two, Pattern=i, Pattern=turn, Pattern=to
+	Constrained: Pattern=know, Pattern=you
+Turn ID=16| A | A : you bet .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=17| B | B : right that's it .
+	Free: Pattern=it, Pattern=right
+	Constrained: 
+Turn ID=18| A | A : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=19| B | B : well it is to me . most people prefer the security of nine to five and weekends off and knowing that their insurance is paid and their retirement
+	Free: Pattern=their, Pattern=of, Pattern=well, Pattern=people, Pattern=me, Pattern=off and, Pattern=is, Pattern=and their, Pattern=the, Pattern=weekends, Pattern=to, Pattern=that, Pattern=it, Pattern=and
+	Constrained: Pattern=off, Pattern=and, Pattern=their
+Turn ID=20| A | A : oh .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=21| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=22| A | A : the same i don't know i guess i get i get uh all mixed up inside . when yeah
+	Free: Pattern=i guess i, Pattern=uh, Pattern=yeah, Pattern=know, Pattern=i, Pattern=when, Pattern=the, Pattern=all
+	Constrained: Pattern=i
+Turn ID=23| B | B : oh really .
+	Free: Pattern=really, Pattern=oh
+	Constrained: 
+Turn ID=24| A | A : oh yeah
+	Free: Pattern=oh yeah
+	Constrained: Pattern=yeah, Pattern=oh
+Turn ID=25| B | B : um .
+	Free: Pattern=um .
+	Constrained: Pattern=um
+Turn ID=26| A | A : no i live in maryland .
+	Free: Pattern=in, Pattern=i, Pattern=no
+	Constrained: 
+Turn ID=27| B | B : no you can start
+	Free: Pattern=you, Pattern=no
+	Constrained: 
+Turn ID=28| A | A : hello .
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : yeah . that's true .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=30| A | A : like what ?
+	Free: Pattern=like
+	Constrained: 
+Turn ID=31| B | B : have you have you been active in in politics trying to concerning this ? have you like worked on political action committees or something like that ?
+	Free: Pattern=you, Pattern=have, Pattern=in, Pattern=like, Pattern=or, Pattern=on, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=32| A | A : "it looks like their kneading bread *spelling ""their"" should be ""they're"""
+	Free: Pattern=like, Pattern=their
+	Constrained: 
+Turn ID=33| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=34| A | A : i really of course you you're in a different part of the country i i really listen to a lot of the talk shows i don't mean the gossip ones but there's a lot of on the weekends when i do chores or whatever i'm a radio hound i guess i take the radio with me when i'm working on my car the lawn or whatever and turn on they have everything from lawn work lawyers news uh veterinarians all kinds of items uh so i'm i'm a real radio buff especially on the when i'm doing chores .
+	Free: Pattern=different, Pattern=have, Pattern=me, Pattern=they, Pattern=a, Pattern=and, Pattern=in, Pattern=i, Pattern=really, Pattern=or, Pattern=i'm doing, Pattern=my, Pattern=i guess i, Pattern=a lot of, Pattern=of, Pattern=you, Pattern=uh, Pattern=i'm, Pattern=work, Pattern=on, Pattern=the, Pattern=all, Pattern=when, Pattern=weekends, Pattern=turn, Pattern=to, Pattern=with, Pattern=i i
+	Constrained: Pattern=of, Pattern=a, Pattern=doing, Pattern=i'm, Pattern=i
+Turn ID=35| B | B : elementary school .
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : and uh but he will turn that on especially for if again if our uh oldest grandson is over here . he's ten
+	Free: Pattern=uh, Pattern=for, Pattern=is, Pattern=that, Pattern=on, Pattern=here ., Pattern=and uh, Pattern=turn
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=37| B | B : and
+	Free: Pattern=and
+	Constrained: 
+Turn ID=38| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=39| B | B : the glossy paper that says buy this and send off for that and you have won and all that .
+	Free: Pattern=you, Pattern=have, Pattern=for, Pattern=and, Pattern=that, Pattern=off, Pattern=the, Pattern=all
+	Constrained: 
+Turn ID=40| A | A : uh i don't take anymore than that
+	Free: Pattern=that, Pattern=i, Pattern=uh
+	Constrained: 
+Turn ID=41| B | B : yeah . i know the rain bring out the snakes or used to bring them out in the ozarks
+	Free: Pattern=used to, Pattern=out, Pattern=yeah, Pattern=in the, Pattern=know, Pattern=i, Pattern=or, Pattern=the
+	Constrained: Pattern=to, Pattern=the, Pattern=in
+Turn ID=42| A | A : i just don't know .
+	Free: Pattern=know, Pattern=i
+	Constrained: 
+Turn ID=43| B | B : um .
+	Free: Pattern=um .
+	Constrained: Pattern=um
+Turn ID=44| A | A : and they had us fill out a long questionnaire . we stayed till about one thirty and they're going to call the ones that they're interested in from the questionnaire two to three at a time and the trial won't take place until june .
+	Free: Pattern=out, Pattern=they, Pattern=a, Pattern=and, Pattern=at, Pattern=they're, Pattern=in, Pattern=two, Pattern=to, Pattern=that they're, Pattern=interested, Pattern=the
+	Constrained: Pattern=that, Pattern=they're
+Turn ID=45| B | B : oh yeah you see all these people yeah these stately people and well dressed people out walking their dogs with their plastic bag or their piece of paper for them it's really kind of funny .
+	Free: Pattern=their, Pattern=of, Pattern=well, Pattern=out, Pattern=people, Pattern=for, Pattern=really, Pattern=or, Pattern=all, Pattern=you see, Pattern=yeah, Pattern=and, Pattern=oh yeah, Pattern=with, Pattern=it's
+	Constrained: Pattern=yeah, Pattern=you, Pattern=oh
+Turn ID=46| A | A : well i found uh that in the place that it was harder for me to stick to a budget was not where we were concerned but where maybe our friends were concerned and our relatives and parents .
+	Free: Pattern=it was, Pattern=uh, Pattern=me, Pattern=a, Pattern=for, Pattern=and, Pattern=in the, Pattern=to, Pattern=was, Pattern=that, Pattern=well i
+	Constrained: Pattern=well, Pattern=it, Pattern=in, Pattern=i, Pattern=the, Pattern=was
+Turn ID=47| B | B : well i guess i better go .
+	Free: Pattern=i guess i, Pattern=well i
+	Constrained: Pattern=i, Pattern=well
+Turn ID=48| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: Pattern=uh-huh
+Turn ID=49| B | B : and this is the man that was in front of you ?
+	Free: Pattern=of, Pattern=you, Pattern=and, Pattern=in, Pattern=is, Pattern=the, Pattern=was, Pattern=that
+	Constrained: 
+Turn ID=50| A | A : but uh we just really like music . it's a i i especially like it as an outlet when the t v goes off we get the t v off and just have some nice quiet music .
+	Free: Pattern=uh, Pattern=have, Pattern=a, Pattern=it, Pattern=off and, Pattern=some, Pattern=when, Pattern=really, Pattern=like, Pattern=off, Pattern=the, Pattern=i i, Pattern=it's
+	Constrained: Pattern=off, Pattern=i, Pattern=and
+Turn ID=51| B | B : it was usually on um thursday nights .
+	Free: Pattern=it was, Pattern=um, Pattern=on
+	Constrained: Pattern=it, Pattern=was

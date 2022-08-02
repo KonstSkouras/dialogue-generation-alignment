@@ -1,0 +1,171 @@
+A|0| A: wow _yeah ._ 
+B|1| M: ohio . _i've_ lived _in_ _the_ up since _i_ _was_ _in_ high school . 
+A|2| A: uh-huh . uh-huh . 
+B|3| M: _there's_ no reason _to_ _be_ scared . 
+A|4| A: _and_ _yes_ you're right _i think_ it's _a_ sixties program . _i think_ _it was_ _one_ _of_ kennedy's hot points _that_ _he_ _that_ [was] his big deal . 
+B|5| M: hm [yeah .] 
+A|6| A: um _but_ it's _a_ beautiful home _and_ [i] _mean_ _my_ brother lives 
+B|7| M: i'm going _to_ _be_ _there_ [but] i'm _not_ going _to_ 
+A|8| A: _i think_ [i] [i] now _i think_ people generally _volunteer_ . 
+B|9| M: [it was] _nice_ meeting _you_ _too_ 
+A|10| A: [yeah .] well it's _that_ _they_ _i think_ [the] idea _of_ freedom _of_ speech goes back [to] _and_ [i] uh uh [the] [the] [the] whole aspect _of_ being able [to] display your uh your ideas [you] _know_ [the] what [the] country stands on america stands on _is_ _that_ _they_ can _do_ _that_ uh though [i] would never even consider [it] [in] _a_ million years [to] _do_ [it] myself [i] [i] _i think_ uh [you] _know_ [but] [i] [i] still what [the] flag stands _for_ [i] guess [to] _me_ _is_ _that_ if somebody wants [to] voice their opinion or display their opinion openly _and_ if _that_ _is_ _a_ _a_ way _that_ _they_ can show their opinion then _they_ should [be] allowed uh 
+B|11| M: _why_ _do you_ hate free ? 
+A|12| A: okay okay . because [i] [i] had done capital packages _for_ two eighty-sixes _and_ three eighty-sixes [but] [i] didn't _know_ _they_ had _a_ four eighty-six _just_ yet . 
+B|13| M: [yes] i'm [a] student . 
+A|14| A: [there's] uh maybe some short-term things _that_ _they_ can [do] _and_ [it] hurts everybody's pocket _of_ course [but] um _i know_ _that_ state has uh cutback uh raises _for_ [a] year [to] help uh [the] uh state financial or whatever [you] might _want_ [to] say [to] _get_ better [in] [a] better condition . 
+B|15| M: [i think] [you] [mean] _like_ _you _have_ to_ [be] [a] [volunteer] [for] [the] school _not_ [a] community member 
+A|16| A: _and_ [i] had [you] _know_ [i] knew some people _that_ said [why] are [you] glad [you] [you] _know_ this _is_ nothing _and_ [i] said _just_ maybe because _he got_ [a] lot _of_ media hype _and_ all _that_ [but] [i] actually [i] [mean] [in] [there] should [be] more cases [like] _that_ where _they_ flip [a] [i] might [be] [too] cold [too] [but] _they_ flip [a] switch 
+B|17| M: uhhh [i know] i'm [just] gonna _go_ sit [in] [my] chair [and] _wait_ [for] [the] next [one] . 
+A|18| A: well [my] wife [and] [i] [and] we've _got_ [a] thirteen week old baby _so_ _don't_ [do] much cooking [for] him yet . 
+B|19| M: [they] _did ._ 
+A|20| A: what part what sections are [they] [in] ? [yeah] that's [nice] . 
+B|21| M: sorry . 
+A|22| A: huh . 
+B|23| M: _oh_ ? [i] _see_ . 
+A|24| A: uh-huh uh-huh . 
+B|25| M: [he got] _out_ ? 
+A|26| A: [oh] wow . 
+B|27| M: [i] [don't] [get] [it] . 
+A|28| A: [he] didn't [go] with all [the] gimmicks _that_ some _of_ them [did .] 
+B|29| M: [so] [you] [want] [me] [to] give [you] [a] clue ? 
+A|30| A: [do [you] have] [a] lawn ? 
+B|31| M: i'm _not_ _from_ europe . 
+A|32| A: uh-huh uh-huh . 
+B|33| M: [i] [don't] [like] [the] shape [of] [that] . 
+A|34| A: right . right . um [i think] [i] [i've] singled [out] [my] grandchildren [and] [but] actually they're they're pretty good along those lines as compared [to] what [i] [have] seen [from] other people's children [and] grandchildren mine aren't really [that] bad 
+B|35| M: [yes] . [it] . [is] . [that] 
+A|36| A: [oh] [yeah .] 
+B|37| M: no . 
+A|38| A: [yes] supposedly that's what it's suppose [to] [go] [for] [and] [you] [know] we'll [just] [have to] [wait] [and] [see] whether that's approved or [not] . 
+B|39| M: [and] . 
+A|40| A: okay thanks . 
+B|41| M:  
+
+
+TURN DETAILS:
+Turn ID=0| A | A : wow yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=1| B | M : ohio . i've lived in the up since i was in high school .
+	Free: Pattern=i've, Pattern=in, Pattern=i, Pattern=the, Pattern=was
+	Constrained: 
+Turn ID=2| A | A : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : there's no reason to be scared .
+	Free: Pattern=there's, Pattern=to, Pattern=be
+	Constrained: 
+Turn ID=4| A | A : and yes you're right i think it's a sixties program . i think it was one of kennedy's hot points that he that was his big deal .
+	Free: Pattern=it was, Pattern=of, Pattern=yes, Pattern=a, Pattern=and, Pattern=one, Pattern=he, Pattern=was, Pattern=that, Pattern=i think
+	Constrained: Pattern=it, Pattern=was, Pattern=i
+Turn ID=5| B | M : hm yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=6| A | A : um but it's a beautiful home and i mean my brother lives
+	Free: Pattern=mean, Pattern=a, Pattern=and, Pattern=i, Pattern=my, Pattern=but
+	Constrained: 
+Turn ID=7| B | M : i'm going to be there but i'm not going to
+	Free: Pattern=there, Pattern=be, Pattern=to, Pattern=but, Pattern=not
+	Constrained: 
+Turn ID=8| A | A : i think i i now i think people generally volunteer .
+	Free: Pattern=i think, Pattern=volunteer, Pattern=i
+	Constrained: Pattern=i
+Turn ID=9| B | M : it was nice meeting you too
+	Free: Pattern=it was, Pattern=nice, Pattern=too, Pattern=you
+	Constrained: Pattern=it, Pattern=was
+Turn ID=10| A | A : yeah . well it's that they i think the idea of freedom of speech goes back to and i uh uh the the the whole aspect of being able to display your uh your ideas you know the what the country stands on america stands on is that they can do that uh though i would never even consider it in a million years to do it myself i i i think uh you know but i i still what the flag stands for i guess to me is that if somebody wants to voice their opinion or display their opinion openly and if that is a a way that they can show their opinion then they should be allowed uh
+	Free: Pattern=of, Pattern=you, Pattern=me, Pattern=they, Pattern=in, Pattern=know, Pattern=be, Pattern=the, Pattern=to, Pattern=i think, Pattern=do, Pattern=a, Pattern=yeah ., Pattern=for, Pattern=it, Pattern=and, Pattern=is, Pattern=i, Pattern=that, Pattern=but
+	Constrained: Pattern=yeah, Pattern=i
+Turn ID=11| B | M : why do you hate free ?
+	Free: Pattern=do you, Pattern=why
+	Constrained: Pattern=you, Pattern=do
+Turn ID=12| A | A : okay okay . because i i had done capital packages for two eighty-sixes and three eighty-sixes but i didn't know they had a four eighty-six just yet .
+	Free: Pattern=just, Pattern=they, Pattern=a, Pattern=for, Pattern=and, Pattern=know, Pattern=i, Pattern=but
+	Constrained: 
+Turn ID=13| B | M : yes i'm a student .
+	Free: Pattern=yes, Pattern=a
+	Constrained: 
+Turn ID=14| A | A : there's uh maybe some short-term things that they can do and it hurts everybody's pocket of course but um i know that state has uh cutback uh raises for a year to help uh the uh state financial or whatever you might want to say to get better in a better condition .
+	Free: Pattern=of, Pattern=want, Pattern=you, Pattern=i know, Pattern=they, Pattern=for, Pattern=there's, Pattern=in, Pattern=the, Pattern=to, Pattern=get, Pattern=do, Pattern=a, Pattern=it, Pattern=and, Pattern=that, Pattern=but
+	Constrained: Pattern=know, Pattern=i
+Turn ID=15| B | M : i think you mean like you have to be a volunteer for the school not a community member
+	Free: Pattern=you, Pattern=mean, Pattern=a, Pattern=for, Pattern=volunteer, Pattern=you have, Pattern=like, Pattern=be, Pattern=the, Pattern=have to, Pattern=i think, Pattern=not
+	Constrained: Pattern=have, Pattern=i, Pattern=to, Pattern=you
+Turn ID=16| A | A : and i had you know i knew some people that said why are you glad you you know this is nothing and i said just maybe because he got a lot of media hype and all that but i actually i mean in there should be more cases like that where they flip a i might be too cold too but they flip a switch
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=in, Pattern=know, Pattern=like, Pattern=be, Pattern=he got, Pattern=why, Pattern=just, Pattern=mean, Pattern=they, Pattern=there, Pattern=and, Pattern=too, Pattern=is, Pattern=i, Pattern=that, Pattern=but
+	Constrained: Pattern=he, Pattern=got
+Turn ID=17| B | M : uhhh i know i'm just gonna go sit in my chair and wait for the next one .
+	Free: Pattern=go, Pattern=for, Pattern=and, Pattern=one, Pattern=in, Pattern=the, Pattern=my, Pattern=wait, Pattern=just, Pattern=i know
+	Constrained: Pattern=know, Pattern=i
+Turn ID=18| A | A : well my wife and i and we've got a thirteen week old baby so don't do much cooking for him yet .
+	Free: Pattern=for, Pattern=and, Pattern=i, Pattern=don't, Pattern=got, Pattern=my, Pattern=so, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=19| B | M : they did .
+	Free: Pattern=did ., Pattern=they
+	Constrained: 
+Turn ID=20| A | A : what part what sections are they in ? yeah that's nice .
+	Free: Pattern=nice, Pattern=in, Pattern=yeah, Pattern=they
+	Constrained: 
+Turn ID=21| B | M : sorry .
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : oh ? i see .
+	Free: Pattern=see, Pattern=i, Pattern=oh
+	Constrained: 
+Turn ID=24| A | A : uh-huh uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : he got out ?
+	Free: Pattern=he got, Pattern=out
+	Constrained: Pattern=he, Pattern=got
+Turn ID=26| A | A : oh wow .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=27| B | M : i don't get it .
+	Free: Pattern=get, Pattern=it, Pattern=i, Pattern=don't
+	Constrained: 
+Turn ID=28| A | A : he didn't go with all the gimmicks that some of them did .
+	Free: Pattern=of, Pattern=go, Pattern=did ., Pattern=he, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=29| B | M : so you want me to give you a clue ?
+	Free: Pattern=want, Pattern=you, Pattern=me, Pattern=a, Pattern=to, Pattern=so
+	Constrained: 
+Turn ID=30| A | A : do you have a lawn ?
+	Free: Pattern=you have, Pattern=do you, Pattern=a
+	Constrained: Pattern=have, Pattern=you, Pattern=do
+Turn ID=31| B | M : i'm not from europe .
+	Free: Pattern=not, Pattern=from
+	Constrained: 
+Turn ID=32| A | A : uh-huh uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : i don't like the shape of that .
+	Free: Pattern=of, Pattern=i, Pattern=like, Pattern=the, Pattern=don't, Pattern=that
+	Constrained: 
+Turn ID=34| A | A : right . right . um i think i i've singled out my grandchildren and but actually they're they're pretty good along those lines as compared to what i have seen from other people's children and grandchildren mine aren't really that bad
+	Free: Pattern=out, Pattern=have, Pattern=and, Pattern=i've, Pattern=from, Pattern=i, Pattern=to, Pattern=my, Pattern=i think, Pattern=that, Pattern=but
+	Constrained: Pattern=i
+Turn ID=35| B | M : yes . it . is . that
+	Free: Pattern=that, Pattern=it, Pattern=is, Pattern=yes
+	Constrained: 
+Turn ID=36| A | A : oh yeah .
+	Free: Pattern=yeah ., Pattern=oh
+	Constrained: Pattern=yeah
+Turn ID=37| B | M : no .
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : yes supposedly that's what it's suppose to go for and you know we'll just have to wait and see whether that's approved or not .
+	Free: Pattern=just, Pattern=go, Pattern=for, Pattern=and, Pattern=know, Pattern=to, Pattern=you, Pattern=yes, Pattern=see, Pattern=have to, Pattern=not, Pattern=wait
+	Constrained: Pattern=have, Pattern=to
+Turn ID=39| B | M : and .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=40| A | A : okay thanks .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : 
+	Free: 
+	Constrained: 

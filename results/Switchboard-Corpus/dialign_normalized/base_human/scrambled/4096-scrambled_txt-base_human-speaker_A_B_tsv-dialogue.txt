@@ -1,0 +1,183 @@
+A|0| A: _i_ _uh_ _a_ friend _of_ mine _is_ _a_ psychologist _and_ _he_ always refers _to_ _it_ _as_ short-term pleasure oriented . _i_ guess he's _a_ technical aspect _he_ likes _to_ apply _to_ _it_ _you know_ 
+B|1| B: kind [of] interesting _so_ _see ._ 
+A|2| A: _i_ guess _i_ am _for_ certain 
+B|3| B: _so_ [you] put _the_ milk in _the_ cornstarch ? 
+A|4| A: _uh-huh ._ 
+B|5| B: [uh-huh .] 
+A|6| A: _uh_ she has alzheimer's _and_ _does not_ remember _uh_ _a lot_ if anything . 
+B|7| B: _oh_ _yeah_ 
+A|8| A: yep . 
+B|9| B: _yeah_ _yeah ._ 
+A|10| A: _all_ _right_ . _i_ guess tonight's subject _is_ _to_ discuss current events _and_ how _we_ keep up on current events _and_ if we're satisfied _with_ _with_ [the] _uh_ coverage _that_ _we_ receive . 
+B|11| B: _so_ _see_ _it's_ really strange . 
+A|12| A: [oh] my gosh . 
+B|13| B: _yeah_ _it's a_ _it's a_ little _it's a_ little hard [you] have [to] plod through [it] [and] [you know] [it] [does not] have [a] _real_ story _or_ _any_ plot 
+A|14| A: okay _uh_ let me [see .] unfortunately _we are_ [not] much into recycling . 
+B|15| B: [oh] . 
+A|16| A: wow . 
+B|17| B: [is] [that] [right] ? 
+A|18| A: [oh] you're used [to] [that] too . 
+B|19| B: _well_ _good ._ 
+A|20| A: [and] wherever _they_ pooped 
+B|21| B: [oh] . 
+A|22| A: he's been doing [real] [good .] _i'm_ pretty impressed _with_ him [so] far . 
+B|23| B: [and] [we] bought [it] [for] _very_ functional purposes 
+A|24| A: [yeah .] [yeah] that's true . 
+B|25| B: _or_ dye community . 
+A|26| A: [yeah .] 
+B|27| B: [and] [i'm] [i'm] from south carolina . 
+A|28| A: _and i_ wish [it] _were_ several months [of] [that] . 
+B|29| B: [and] [we are] _very_ conscious [of] _most_ [of] us [are] _very_ conscious [of] [of] [uh] sanitation aspects whatever you've _got_ [to] carry [for] _any_ distance . 
+A|30| A: um [yeah] _i don't_ _i don't_ certainly capital punishment isn't going [to] solve _a lot of_ problems 
+B|31| B: [i] find [that] when [i] ride in [a] cart [i] play better [and i] think [it] [is] cause [i don't] _get_ [as] tired 
+A|32| A: [yeah .] 
+B|33| B: [and] [it] his mother was alone [and] [so] [they] came [to] support her [and] then one by one his [you know] his sisters [he] began [to] lose family members 
+A|34| A: yes . if [you] like wildlife [it's a] fabulous vacation . 
+B|35| B: [that] was [uh] [that] was [a lot of] fun . 
+A|36| A: [i] doubt about [that] . [are] [are] [is] america [i] mean [are] [we] pretty pretty steep compared [to] [most] countries ? 
+B|37| B: really [not] critical at [all] . 
+A|38| A: [well] this this house [is] [very] comfortable . we've [got] two living areas [and] [that] that's [the] thing [i] probably like [the] [most] about [it] . 
+B|39| B: [and] [they] had [a] blast running around [the] farmers market looking at [all] [the] [you know] [the] food [and] tasting [all] [the] free samples [they] [were] giving _out_ . [and] [they] had [a] little pen _there_ [with] animals in [they] could pet [you know] 
+A|40| A: [well] [does] your [does] your job require [you] [to] drive company equipment [or] [to] operate [any] type [of] machinery [that] might endanger someone ? 
+B|41| B: but [they] won [the] mets won . 
+A|42| A: [uh-huh .] 
+B|43| B: [yeah .] 
+A|44| A: [uh-huh .] [yeah] [well] [it] sounds like [we] both need [to] [get] [out] [there] [and] serve on [a] jury . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : i uh a friend of mine is a psychologist and he always refers to it as short-term pleasure oriented . i guess he's a technical aspect he likes to apply to it you know
+	Free: Pattern=of, Pattern=as, Pattern=a, Pattern=he, Pattern=to, Pattern=uh, Pattern=you know, Pattern=it, Pattern=and, Pattern=is, Pattern=i
+	Constrained: Pattern=you
+Turn ID=1| B | B : kind of interesting so see .
+	Free: Pattern=see ., Pattern=so, Pattern=of
+	Constrained: Pattern=see
+Turn ID=2| A | A : i guess i am for certain
+	Free: Pattern=for, Pattern=i
+	Constrained: 
+Turn ID=3| B | B : so you put the milk in the cornstarch ?
+	Free: Pattern=the, Pattern=you, Pattern=so
+	Constrained: 
+Turn ID=4| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=5| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=6| A | A : uh she has alzheimer's and does not remember uh a lot if anything .
+	Free: Pattern=does not, Pattern=a lot, Pattern=and, Pattern=uh
+	Constrained: Pattern=not, Pattern=a, Pattern=does
+Turn ID=7| B | B : oh yeah
+	Free: Pattern=yeah, Pattern=oh
+	Constrained: 
+Turn ID=8| A | A : yep .
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=10| A | A : all right . i guess tonight's subject is to discuss current events and how we keep up on current events and if we're satisfied with with the uh coverage that we receive .
+	Free: Pattern=right, Pattern=uh, Pattern=and, Pattern=we, Pattern=to, Pattern=is, Pattern=i, Pattern=the, Pattern=all, Pattern=with, Pattern=that
+	Constrained: 
+Turn ID=11| B | B : so see it's really strange .
+	Free: Pattern=see, Pattern=so, Pattern=it's
+	Constrained: 
+Turn ID=12| A | A : oh my gosh .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=13| B | B : yeah it's a it's a little it's a little hard you have to plod through it and you know it does not have a real story or any plot
+	Free: Pattern=it's a, Pattern=a, Pattern=does not, Pattern=any, Pattern=or, Pattern=to, Pattern=real, Pattern=you, Pattern=you know, Pattern=and, Pattern=it, Pattern=yeah
+	Constrained: Pattern=you, Pattern=a, Pattern=does, Pattern=it's, Pattern=not
+Turn ID=14| A | A : okay uh let me see . unfortunately we are not much into recycling .
+	Free: Pattern=see ., Pattern=we are, Pattern=not, Pattern=uh
+	Constrained: Pattern=we, Pattern=are, Pattern=see
+Turn ID=15| B | B : oh .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=16| A | A : wow .
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : is that right ?
+	Free: Pattern=that, Pattern=is, Pattern=right
+	Constrained: 
+Turn ID=18| A | A : oh you're used to that too .
+	Free: Pattern=that, Pattern=to, Pattern=oh
+	Constrained: 
+Turn ID=19| B | B : well good .
+	Free: Pattern=good ., Pattern=well
+	Constrained: 
+Turn ID=20| A | A : and wherever they pooped
+	Free: Pattern=they, Pattern=and
+	Constrained: 
+Turn ID=21| B | B : oh .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=22| A | A : he's been doing real good . i'm pretty impressed with him so far .
+	Free: Pattern=good ., Pattern=i'm, Pattern=with, Pattern=so, Pattern=real
+	Constrained: 
+Turn ID=23| B | B : and we bought it for very functional purposes
+	Free: Pattern=for, Pattern=very, Pattern=we, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=24| A | A : yeah . yeah that's true .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=25| B | B : or dye community .
+	Free: Pattern=or
+	Constrained: 
+Turn ID=26| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=27| B | B : and i'm i'm from south carolina .
+	Free: Pattern=i'm, Pattern=and
+	Constrained: 
+Turn ID=28| A | A : and i wish it were several months of that .
+	Free: Pattern=and i, Pattern=of, Pattern=it, Pattern=were, Pattern=that
+	Constrained: Pattern=i, Pattern=and
+Turn ID=29| B | B : and we are very conscious of most of us are very conscious of of uh sanitation aspects whatever you've got to carry for any distance .
+	Free: Pattern=of, Pattern=uh, Pattern=and, Pattern=are, Pattern=very, Pattern=we are, Pattern=most, Pattern=got, Pattern=to, Pattern=for, Pattern=any
+	Constrained: Pattern=we, Pattern=are
+Turn ID=30| A | A : um yeah i don't i don't certainly capital punishment isn't going to solve a lot of problems
+	Free: Pattern=a lot of, Pattern=i don't, Pattern=yeah, Pattern=to
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of, Pattern=i
+Turn ID=31| B | B : i find that when i ride in a cart i play better and i think it is cause i don't get as tired
+	Free: Pattern=and i, Pattern=a, Pattern=it, Pattern=get, Pattern=that, Pattern=as, Pattern=i don't, Pattern=is, Pattern=i
+	Constrained: Pattern=i, Pattern=and
+Turn ID=32| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=33| B | B : and it his mother was alone and so they came to support her and then one by one his you know his sisters he began to lose family members
+	Free: Pattern=you know, Pattern=they, Pattern=he, Pattern=to, Pattern=so, Pattern=it, Pattern=and
+	Constrained: Pattern=you
+Turn ID=34| A | A : yes . if you like wildlife it's a fabulous vacation .
+	Free: Pattern=it's a, Pattern=you
+	Constrained: Pattern=a, Pattern=it's
+Turn ID=35| B | B : that was uh that was a lot of fun .
+	Free: Pattern=a lot of, Pattern=that, Pattern=uh
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of
+Turn ID=36| A | A : i doubt about that . are are is america i mean are we pretty pretty steep compared to most countries ?
+	Free: Pattern=are, Pattern=we, Pattern=most, Pattern=to, Pattern=that, Pattern=is, Pattern=i
+	Constrained: 
+Turn ID=37| B | B : really not critical at all .
+	Free: Pattern=all, Pattern=not
+	Constrained: 
+Turn ID=38| A | A : well this this house is very comfortable . we've got two living areas and that that's the thing i probably like the most about it .
+	Free: Pattern=well, Pattern=most, Pattern=the, Pattern=got, Pattern=that, Pattern=it, Pattern=and, Pattern=very, Pattern=is, Pattern=i
+	Constrained: 
+Turn ID=39| B | B : and they had a blast running around the farmers market looking at all the you know the food and tasting all the free samples they were giving out . and they had a little pen there with animals in they could pet you know
+	Free: Pattern=a, Pattern=and, Pattern=were, Pattern=with, Pattern=out, Pattern=you know, Pattern=they, Pattern=there, Pattern=the, Pattern=all
+	Constrained: Pattern=you
+Turn ID=40| A | A : well does your does your job require you to drive company equipment or to operate any type of machinery that might endanger someone ?
+	Free: Pattern=of, Pattern=well, Pattern=you, Pattern=any, Pattern=does, Pattern=or, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=41| B | B : but they won the mets won .
+	Free: Pattern=the, Pattern=they
+	Constrained: 
+Turn ID=42| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=43| B | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=44| A | A : uh-huh . yeah well it sounds like we both need to get out there and serve on a jury .
+	Free: Pattern=well, Pattern=out, Pattern=there, Pattern=a, Pattern=we, Pattern=get, Pattern=and, Pattern=it, Pattern=yeah, Pattern=uh-huh ., Pattern=to
+	Constrained: 

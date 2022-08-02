@@ -1,0 +1,59 @@
+A|0| A: all always right right before the news _is_ when _i_ catch them . _i_ _i_ tend _to_ _if_ nothing else _is_ in the town television at eleven o'clock just _to_ watch the news _and_ or or nightline or something just sort of get _a_ good _you_ know _a_ good _a_ good _think_ _for_ the day . 
+B|1| M: [and] that's _uh_ _it_ . 
+A|2| A: uh-huh . um . well . 
+B|3| M: this [is] sooo weird 
+A|4| A: uh-huh . 
+B|5| M: i'm going [to] start [a] new post [for] this [if] you're interested . 
+A|6| A: _he_ [uh] um last _i_ heard _he_ [uh] _he_ beat [a] push [for] the death penalty . now whether _they_ finally got [it] or _not_ _i_ _don't_ know . 
+B|7| M: it's [not] [a] problem it's [a] way [to] say [you] [don't] have [a] problem . 
+A|8| A: bye-bye . 
+B|9| M: [you] [don't] [think] that's what [they] meant ? 
+A|10| A: [and] _i_ retired about five years ago [and] started college . 
+B|11| M: [he] was also arrested [for] beating up [a] cop [and] being beaten up . 
+A|12| A: these some of these young kids [you] read about just doesn't bother them [to] kill someone at all 
+B|13| M: [i] am . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : all always right right before the news is when i catch them . i i tend to if nothing else is in the town television at eleven o'clock just to watch the news and or or nightline or something just sort of get a good you know a good a good think for the day .
+	Free: Pattern=you, Pattern=a, Pattern=for, Pattern=and, Pattern=if, Pattern=think, Pattern=to, Pattern=is, Pattern=i
+	Constrained: 
+Turn ID=1| B | M : and that's uh it .
+	Free: Pattern=and, Pattern=uh, Pattern=it
+	Constrained: 
+Turn ID=2| A | A : uh-huh . um . well .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : this is sooo weird
+	Free: Pattern=is
+	Constrained: 
+Turn ID=4| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : i'm going to start a new post for this if you're interested .
+	Free: Pattern=for, Pattern=to, Pattern=a, Pattern=if
+	Constrained: 
+Turn ID=6| A | A : he uh um last i heard he uh he beat a push for the death penalty . now whether they finally got it or not i don't know .
+	Free: Pattern=uh, Pattern=they, Pattern=a, Pattern=for, Pattern=it, Pattern=he, Pattern=i, Pattern=don't, Pattern=not
+	Constrained: 
+Turn ID=7| B | M : it's not a problem it's a way to say you don't have a problem .
+	Free: Pattern=you, Pattern=a, Pattern=don't, Pattern=to, Pattern=not
+	Constrained: 
+Turn ID=8| A | A : bye-bye .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : you don't think that's what they meant ?
+	Free: Pattern=don't, Pattern=think, Pattern=they, Pattern=you
+	Constrained: 
+Turn ID=10| A | A : and i retired about five years ago and started college .
+	Free: Pattern=and, Pattern=i
+	Constrained: 
+Turn ID=11| B | M : he was also arrested for beating up a cop and being beaten up .
+	Free: Pattern=he, Pattern=and, Pattern=for, Pattern=a
+	Constrained: 
+Turn ID=12| A | A : these some of these young kids you read about just doesn't bother them to kill someone at all
+	Free: Pattern=to, Pattern=you
+	Constrained: 
+Turn ID=13| B | M : i am .
+	Free: Pattern=i
+	Constrained: 

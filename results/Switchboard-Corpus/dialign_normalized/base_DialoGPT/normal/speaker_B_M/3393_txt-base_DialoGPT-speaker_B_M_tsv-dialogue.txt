@@ -1,0 +1,199 @@
+A|0| B: _we did_ an air show out at uh out at uh boone greene no out at uh andrews 
+B|1| M: [we] _got_ _a_ bunch _of_ airshows . 
+A|2| B: _yeah_ . _so_ _what's_ _it_ _been_ _like_ up there ? 
+B|3| M: _it's_ [been] great . 
+A|4| B: uh-huh . 
+B|5| M: yup _that's_ why _we're_ _here_ . 
+A|6| B: _yeah_ . uh _like_ september was hot _and_ dry _october_ . 
+B|7| M: [october] ? _what_ about [october] ? 
+A|8| B: really ? huh . _it_ really has [been] strange [here] _this year_ _i_ mean _this_ whole _course_ _this_ whole _year_ has _been a_ different _year_ _in_ more ways than one . 
+B|9| M: _well_ _it's_ _autumn ._ 
+A|10| B: but uh [we] had uh _you_ know all these [we] have all these uh somebody said _you_ know _you're_ either [a] stranger or [a] fool to try to predict texas weather but . [well] always they were saying _it_ was going to be _the_ hottest summer ever 
+B|11| M: uuuh yoo _it ._ 
+A|12| B: _and_ [we] had all _this_ rain _and_ [it] really _is_ _not_ [a] _bad_ summer at all really cool . but all [of] [a] sudden _in_ _in_ uh _in_ [october] uh september [october] [it] [got] real hot _and_ dry _and_ just stayed _that_ way for [a] long time . _and_ uh then _the_ end [of] [october] [it] started rain almost [a] week without stopping just pouring down _you_ know . there were flash floods everywhere _that_ kind [of] deal _and_ then uh into [of] november _the_ first _like_ _the_ second week uh _you_ know _the_ first week actually [we] had [we] had [a] freeze 
+B|13| M: [i] . 
+A|14| B: _and_ _the_ average _you_ know _the_ average uh first _frost_ _is_ _like_ _the_ fifteenth [of] november [here] 
+B|15| M:  
+A|16| B: but usually _it's not_ until later [it's] really strange . 
+B|17| M: _oh_ _we're_ [we] [and] [it's] [you] we've [it] [it's] 
+A|18| B: _yeah_ . 
+B|19| M: _i think_ _we're_ getting [a] [frost] _this year _._ it's_ _a little_ _weird_ . 
+A|20| B: _is it_ _is it_ _is it_ flooding anywhere ? 
+B|21| M: _i'm_ [so] glad [i] live [in] arizona . 
+A|22| B: [it's] just kind [of] uh [we're] supposed to have [a] chance to get some rain _the_ next couple [of] days [here] uh which will be [you] know [a little] bit more typical uh [autumn] weather . but really [it's] strange . [we] haven't really had an [autumn [.] it's] _like_ [we] went into winter 
+B|23| M: _so ._ 
+A|24| B: [you] know _the_ poor _trees_ said [what] 
+B|25| M: [this] [is _it] ._ 
+A|26| B: _yeah_ uh [it's] _yeah_ there [you] [you] know usually there's uh [i] have [a] farm [a] hundred miles east [of] [here] [in] east texas [and] [you] know all these huge _trees_ just _like_ _the_ eastern hard wood belt all _the_ way up to maine [you] know [it's] _that_ _same_ _trees_ pines [and] [and] hard woods [you] know hickories [and] oaks [and] stuff 
+B|27| M:  
+A|28| B: [and] uh [i] was up there last weekend [and] there _are_ _trees_ _that_ _that_ still have their leaves on [and] they're green but they're dead [you] know _the_ _the_ freeze just [got] them . they they weren't ready for [it] at all apparently [and] [and] [we] haven't had [a] typical fall at all . _not_ much color [you] know changes have occurred at all . really [weird] [this year .] [i'm] _not_ sure [what] _that_ [what] _that_ means . 
+B|29| M: [i] . 
+A|30| B: [so] [you] [you] all actually had some color huh ? 
+B|31| M:  
+A|32| B: [it] kind [of] crept [in] [and] 
+B|33| M: we've [been a] lot [of] [course] yea [of] [like] [yeah] [a] lot . 
+A|34| B: [yeah] [it's] usually beautiful up there isn't _it ?_ 
+B|35| M: [we] [we did] . 
+A|36| B: gorgeous . [that's] [you] know [i think] [you] could drive along [in] maryland [and] look at _the_ sweet gum _trees_ on each side [and] _the_ [and] _the_ pines [and] [what] _not_ [and] [you] could [you] know [you] could be driving along [in] east texas [and] looks just _the same [._ it's] almost [you] know identical kind [of] country . 
+B|37| M: [i think] [you're] right . 
+A|38| B: beautiful . 
+B|39| M: [what's] [the] difference between [a] car [and] [a] car ? 
+A|40| B: [yeah] . [oh] . [yeah] [i] was up [i] was up there cutting some firewood [this] weekend [so .] 
+B|41| M: [the] [trees] [are] [the same .] 
+A|42| B: [little] [little] oak tree _that_ was dead [and] _cut it_ up [and] split [it .] 
+B|43| M: how'd [you] [cut [it] ?] 
+A|44| B: [well] . 
+B|45| M: [it's not] [that] [bad] . 
+A|46| B: uh [it] there's some [trees] [like] [the] oaks [like] [the] white oaks seem to be pretty hardy . there's nothing bothers them . their leaves [are] still green [and] some [of] [the] other oaks . there [are] [a] few oaks [that] have lost their leaves . um [what] [i] notice mostly [is] [the] red maples [that] [the] leaves [are] just dead [the] dogwoods still look still look [you] know they [got] uh bit on [the] ends [of] [the] leaves [a little] bit but they still look pretty good . 
+B|47| M:  
+A|48| B: [it] just depends on [the] on [the] uh on [the] tree . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : we did an air show out at uh out at uh boone greene no out at uh andrews
+	Free: Pattern=we did
+	Constrained: Pattern=we
+Turn ID=1| B | M : we got a bunch of airshows .
+	Free: Pattern=we, Pattern=got, Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=2| A | B : yeah . so what's it been like up there ?
+	Free: Pattern=been, Pattern=so, Pattern=it, Pattern=yeah, Pattern=what's, Pattern=like
+	Constrained: 
+Turn ID=3| B | M : it's been great .
+	Free: Pattern=been, Pattern=it's
+	Constrained: 
+Turn ID=4| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=5| B | M : yup that's why we're here .
+	Free: Pattern=that's, Pattern=we're, Pattern=here
+	Constrained: 
+Turn ID=6| A | B : yeah . uh like september was hot and dry october .
+	Free: Pattern=yeah, Pattern=october, Pattern=like, Pattern=and
+	Constrained: 
+Turn ID=7| B | M : october ? what about october ?
+	Free: Pattern=what, Pattern=october
+	Constrained: 
+Turn ID=8| A | B : really ? huh . it really has been strange here this year i mean this whole course this whole year has been a different year in more ways than one .
+	Free: Pattern=this year, Pattern=here, Pattern=it, Pattern=in, Pattern=been a, Pattern=year, Pattern=been, Pattern=this, Pattern=course, Pattern=i
+	Constrained: Pattern=this, Pattern=been, Pattern=a, Pattern=year
+Turn ID=9| B | M : well it's autumn .
+	Free: Pattern=autumn ., Pattern=well, Pattern=it's
+	Constrained: Pattern=autumn
+Turn ID=10| A | B : but uh we had uh you know all these we have all these uh somebody said you know you're either a stranger or a fool to try to predict texas weather but . well always they were saying it was going to be the hottest summer ever
+	Free: Pattern=you're, Pattern=well, Pattern=you, Pattern=a, Pattern=it, Pattern=we, Pattern=the
+	Constrained: 
+Turn ID=11| B | M : uuuh yoo it .
+	Free: Pattern=it .
+	Constrained: Pattern=it
+Turn ID=12| A | B : and we had all this rain and it really is not a bad summer at all really cool . but all of a sudden in in uh in october uh september october it got real hot and dry and just stayed that way for a long time . and uh then the end of october it started rain almost a week without stopping just pouring down you know . there were flash floods everywhere that kind of deal and then uh into of november the first like the second week uh you know the first week actually we had we had a freeze
+	Free: Pattern=bad, Pattern=of, Pattern=october, Pattern=you, Pattern=a, Pattern=in, Pattern=is, Pattern=the, Pattern=got, Pattern=this, Pattern=that, Pattern=not, Pattern=it, Pattern=and, Pattern=we, Pattern=like
+	Constrained: 
+Turn ID=13| B | M : i .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=14| A | B : and the average you know the average uh first frost is like the fifteenth of november here
+	Free: Pattern=of, Pattern=you, Pattern=here, Pattern=and, Pattern=is, Pattern=like, Pattern=the, Pattern=frost
+	Constrained: 
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : but usually it's not until later it's really strange .
+	Free: Pattern=it's not, Pattern=it's
+	Constrained: Pattern=not, Pattern=it's
+Turn ID=17| B | M : oh we're we and it's you we've it it's
+	Free: Pattern=you, Pattern=we, Pattern=we're, Pattern=it's, Pattern=it, Pattern=and, Pattern=oh
+	Constrained: 
+Turn ID=18| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=19| B | M : i think we're getting a frost this year . it's a little weird .
+	Free: Pattern=. it's, Pattern=a, Pattern=weird, Pattern=a little, Pattern=this year ., Pattern=we're, Pattern=frost, Pattern=i think
+	Constrained: Pattern=this year, Pattern=little, Pattern=a, Pattern=i, Pattern=year, Pattern=this, Pattern=it's
+Turn ID=20| A | B : is it is it is it flooding anywhere ?
+	Free: Pattern=is it
+	Constrained: Pattern=is, Pattern=it
+Turn ID=21| B | M : i'm so glad i live in arizona .
+	Free: Pattern=in, Pattern=so, Pattern=i, Pattern=i'm
+	Constrained: 
+Turn ID=22| A | B : it's just kind of uh we're supposed to have a chance to get some rain the next couple of days here uh which will be you know a little bit more typical uh autumn weather . but really it's strange . we haven't really had an autumn . it's like we went into winter
+	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=a little, Pattern=autumn ., Pattern=we're, Pattern=it's, Pattern=here, Pattern=. it's, Pattern=we, Pattern=like, Pattern=autumn, Pattern=the
+	Constrained: Pattern=little, Pattern=autumn, Pattern=a, Pattern=it's
+Turn ID=23| B | M : so .
+	Free: Pattern=so .
+	Constrained: Pattern=so
+Turn ID=24| A | B : you know the poor trees said what
+	Free: Pattern=what, Pattern=the, Pattern=you, Pattern=trees
+	Constrained: 
+Turn ID=25| B | M : this is it .
+	Free: Pattern=is it, Pattern=it ., Pattern=this
+	Constrained: Pattern=is, Pattern=it
+Turn ID=26| A | B : yeah uh it's yeah there you you know usually there's uh i have a farm a hundred miles east of here in east texas and you know all these huge trees just like the eastern hard wood belt all the way up to maine you know it's that same trees pines and and hard woods you know hickories and oaks and stuff
+	Free: Pattern=of, Pattern=you, Pattern=here, Pattern=a, Pattern=in, Pattern=i, Pattern=like, Pattern=same, Pattern=yeah, Pattern=and, Pattern=trees, Pattern=the, Pattern=that, Pattern=it's
+	Constrained: 
+Turn ID=27| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=28| A | B : and uh i was up there last weekend and there are trees that that still have their leaves on and they're green but they're dead you know the the freeze just got them . they they weren't ready for it at all apparently and and we haven't had a typical fall at all . not much color you know changes have occurred at all . really weird this year . i'm not sure what that what that means .
+	Free: Pattern=you, Pattern=what, Pattern=a, Pattern=are, Pattern=i'm, Pattern=i, Pattern=we, Pattern=that, Pattern=not, Pattern=it, Pattern=and, Pattern=weird, Pattern=trees, Pattern=the, Pattern=got, Pattern=this year .
+	Constrained: Pattern=this year, Pattern=this, Pattern=year
+Turn ID=29| B | M : i .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=30| A | B : so you you all actually had some color huh ?
+	Free: Pattern=so, Pattern=you
+	Constrained: 
+Turn ID=31| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=32| A | B : it kind of crept in and
+	Free: Pattern=in, Pattern=of, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=33| B | M : we've been a lot of course yea of like yeah a lot .
+	Free: Pattern=of, Pattern=a, Pattern=yeah, Pattern=course, Pattern=like, Pattern=been a
+	Constrained: Pattern=been, Pattern=a
+Turn ID=34| A | B : yeah it's usually beautiful up there isn't it ?
+	Free: Pattern=it ?, Pattern=yeah, Pattern=it's
+	Constrained: Pattern=it
+Turn ID=35| B | M : we we did .
+	Free: Pattern=we did, Pattern=we
+	Constrained: Pattern=we
+Turn ID=36| A | B : gorgeous . that's you know i think you could drive along in maryland and look at the sweet gum trees on each side and the and the pines and what not and you could you know you could be driving along in east texas and looks just the same . it's almost you know identical kind of country .
+	Free: Pattern=of, Pattern=you, Pattern=and, Pattern=in, Pattern=the same ., Pattern=i think, Pattern=not, Pattern=what, Pattern=. it's, Pattern=that's, Pattern=trees, Pattern=the
+	Constrained: Pattern=it's, Pattern=i, Pattern=same, Pattern=the
+Turn ID=37| B | M : i think you're right .
+	Free: Pattern=i think, Pattern=you're
+	Constrained: Pattern=i
+Turn ID=38| A | B : beautiful .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : what's the difference between a car and a car ?
+	Free: Pattern=what's, Pattern=the, Pattern=a, Pattern=and
+	Constrained: 
+Turn ID=40| A | B : yeah . oh . yeah i was up i was up there cutting some firewood this weekend so .
+	Free: Pattern=i, Pattern=yeah, Pattern=oh, Pattern=so ., Pattern=this
+	Constrained: Pattern=so
+Turn ID=41| B | M : the trees are the same .
+	Free: Pattern=the same ., Pattern=the, Pattern=trees, Pattern=are
+	Constrained: Pattern=the, Pattern=same
+Turn ID=42| A | B : little little oak tree that was dead and cut it up and split it .
+	Free: Pattern=it ., Pattern=little, Pattern=and, Pattern=cut it, Pattern=that
+	Constrained: Pattern=it
+Turn ID=43| B | M : how'd you cut it ?
+	Free: Pattern=it ?, Pattern=cut it, Pattern=you
+	Constrained: Pattern=it
+Turn ID=44| A | B : well .
+	Free: Pattern=well
+	Constrained: 
+Turn ID=45| B | M : it's not that bad .
+	Free: Pattern=it's not, Pattern=bad, Pattern=that
+	Constrained: Pattern=not, Pattern=it's
+Turn ID=46| A | B : uh it there's some trees like the oaks like the white oaks seem to be pretty hardy . there's nothing bothers them . their leaves are still green and some of the other oaks . there are a few oaks that have lost their leaves . um what i notice mostly is the red maples that the leaves are just dead the dogwoods still look still look you know they got uh bit on the ends of the leaves a little bit but they still look pretty good .
+	Free: Pattern=of, Pattern=you, Pattern=what, Pattern=a, Pattern=are, Pattern=a little, Pattern=like, Pattern=got, Pattern=that, Pattern=it, Pattern=and, Pattern=is, Pattern=i, Pattern=trees, Pattern=the
+	Constrained: Pattern=little, Pattern=a
+Turn ID=47| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=48| A | B : it just depends on the on the uh on the tree .
+	Free: Pattern=the, Pattern=it
+	Constrained: 

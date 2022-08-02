@@ -1,0 +1,163 @@
+A|0| B: _i'm_ trying _to_ because _you_ have _a_ _you_ have one funny vowel _that's_ probably going _to_ drive _the_ t _i_ people crazy . 
+B|1| M: _uh_ _yeah_ _yeah ._ 
+A|2| B: [yeah .] unfortunately . 
+B|3| M:  ... 
+A|4| B: well _a_ friend _of_ mine had um an eel 
+B|5| M:  
+A|6| B: _i_ _mean_ when _you_ look at something like _the_ gulf war _it_ cost us god knows how much . _you know_ at _a_ million dollars _a_ pop for patriot missiles . 
+B|7| M: [that's] [a] gas powered car . 
+A|8| B: farming ? 
+B|9| M: [i] think [that's] [the] point [of] [the] draft 
+A|10| B: uh-huh . 
+B|11| M: ohh _that_ guy 
+A|12| B: but [uh] um there were certain things [that] _they_ could provide without [a] doctors prescription based on their qualifications _and_ [that] can happen . 
+B|13| M: oh 
+A|14| B: [that's] right _and_ [that's] exactly _what_ _they_ said _to_ sound like [a] my wife dragged me away _from_ [the] television . 
+B|15| M: uuhuhuh . uhuh 
+A|16| B: [yeah .] sounds like _you_ have [a] real good garden . 
+B|17| M: [i] am [a] deer . 
+A|18| B: [yeah .] [that's] pretty good . 
+B|19| M: [i'm] [from] canada [i] was just thinking about [it] . 
+A|20| B: yes _. i_ [i] can't [i] can't envision spending [that] much money _and_ on on something along those lines . 
+B|21| M: hahaah . [i'm] ... _it's_ ice [and] ice . 
+A|22| B: [and] _so_ she works [a] lot [of] evenings [and] weekends [and] _so_ two days [a] week [i] [uh] manage _to_ get home early enough _to_ meet [the] kids on [the] bus _so_ she _you know_ goes in early those days [and] works like _you know_ noon til close _. uh_ _so_ we have 
+B|23| M: [so] what's [the] deal with dallas ? 
+A|24| B: my wife would love [that] 
+B|25| M: [yeah] [i] heard _they changed_ [it] [to] [a] felony . 
+A|26| B: [yeah .] 
+B|27| M: [what] do [you] [mean] ? 
+A|28| B: no . 
+B|29| M: [that's] [uh] [uh] [. uh] [and] [uh] is [uh] . 
+A|30| B: [i] don't _know_ [what] [it's] like now [i] haven't been back up there in awhile . 
+B|31| M: [you know] . 
+A|32| B: _huh_ . 
+B|33| M: nots 
+A|34| B: [and] people like charles manson [and] [and] some [of] these other people who were sentenced [to] death at [the] time [they] repealed [the] death penalty were sentenced [to] life in prison [and] are now now [that] even though california has reinstated [the] death penalty for whatever various crimes . [the] people who were there originally when [they] when [they changed] [the] laws [to] revoke [the] death penalty are still in there for are in prison in quote for life [and] [and] are now coming up for parole some [of] them like manson who's come up [you know] 
+B|35| M: heh [uh] [. i] think [i] [know] [you] [i'm] uhhh ... [i] think you're [a] guy [huh] ? 
+A|36| B: um . 
+B|37| M:  ... 
+A|38| B: uh-huh . right . 
+B|39| M: [it] [i] [you] or ... 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : i'm trying to because you have a you have one funny vowel that's probably going to drive the t i people crazy .
+	Free: Pattern=you, Pattern=a, Pattern=i'm, Pattern=i, Pattern=to, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=1| B | M : uh yeah yeah .
+	Free: Pattern=yeah ., Pattern=uh, Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=2| A | B : yeah . unfortunately .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=3| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : well a friend of mine had um an eel
+	Free: Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=5| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : i mean when you look at something like the gulf war it cost us god knows how much . you know at a million dollars a pop for patriot missiles .
+	Free: Pattern=mean, Pattern=a, Pattern=it, Pattern=i, Pattern=the, Pattern=you, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=7| B | M : that's a gas powered car .
+	Free: Pattern=that's, Pattern=a
+	Constrained: 
+Turn ID=8| A | B : farming ?
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : i think that's the point of the draft
+	Free: Pattern=that's, Pattern=the, Pattern=i, Pattern=of
+	Constrained: 
+Turn ID=10| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : ohh that guy
+	Free: Pattern=that
+	Constrained: 
+Turn ID=12| A | B : but uh um there were certain things that they could provide without a doctors prescription based on their qualifications and that can happen .
+	Free: Pattern=uh, Pattern=they, Pattern=a, Pattern=and, Pattern=that
+	Constrained: 
+Turn ID=13| B | M : oh
+	Free: 
+	Constrained: 
+Turn ID=14| A | B : that's right and that's exactly what they said to sound like a my wife dragged me away from the television .
+	Free: Pattern=a, Pattern=and, Pattern=from, Pattern=to, Pattern=what, Pattern=they, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=15| B | M : uuhuhuh . uhuh
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : yeah . sounds like you have a real good garden .
+	Free: Pattern=yeah ., Pattern=a, Pattern=you
+	Constrained: Pattern=yeah
+Turn ID=17| B | M : i am a deer .
+	Free: Pattern=i, Pattern=a
+	Constrained: 
+Turn ID=18| A | B : yeah . that's pretty good .
+	Free: Pattern=yeah ., Pattern=that's
+	Constrained: Pattern=yeah
+Turn ID=19| B | M : i'm from canada i was just thinking about it .
+	Free: Pattern=from, Pattern=i'm, Pattern=it, Pattern=i
+	Constrained: 
+Turn ID=20| A | B : yes . i i can't i can't envision spending that much money and on on something along those lines .
+	Free: Pattern=. i, Pattern=that, Pattern=i, Pattern=and
+	Constrained: Pattern=i
+Turn ID=21| B | M : hahaah . i'm ... it's ice and ice .
+	Free: Pattern=i'm, Pattern=and, Pattern=it's
+	Constrained: 
+Turn ID=22| A | B : and so she works a lot of evenings and weekends and so two days a week i uh manage to get home early enough to meet the kids on the bus so she you know goes in early those days and works like you know noon til close . uh so we have
+	Free: Pattern=a, Pattern=and, Pattern=i, Pattern=the, Pattern=to, Pattern=so, Pattern=of, Pattern=. uh, Pattern=uh, Pattern=you know
+	Constrained: Pattern=know, Pattern=uh, Pattern=you
+Turn ID=23| B | M : so what's the deal with dallas ?
+	Free: Pattern=the, Pattern=so
+	Constrained: 
+Turn ID=24| A | B : my wife would love that
+	Free: Pattern=that
+	Constrained: 
+Turn ID=25| B | M : yeah i heard they changed it to a felony .
+	Free: Pattern=a, Pattern=i, Pattern=to, Pattern=they changed, Pattern=it, Pattern=yeah
+	Constrained: Pattern=they
+Turn ID=26| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=27| B | M : what do you mean ?
+	Free: Pattern=what, Pattern=you, Pattern=mean
+	Constrained: 
+Turn ID=28| A | B : no .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : that's uh uh . uh and uh is uh .
+	Free: Pattern=. uh, Pattern=that's, Pattern=uh, Pattern=and
+	Constrained: Pattern=uh
+Turn ID=30| A | B : i don't know what it's like now i haven't been back up there in awhile .
+	Free: Pattern=what, Pattern=know, Pattern=i, Pattern=it's
+	Constrained: 
+Turn ID=31| B | M : you know .
+	Free: Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=32| A | B : huh .
+	Free: Pattern=huh
+	Constrained: 
+Turn ID=33| B | M : nots
+	Free: 
+	Constrained: 
+Turn ID=34| A | B : and people like charles manson and and some of these other people who were sentenced to death at the time they repealed the death penalty were sentenced to life in prison and are now now that even though california has reinstated the death penalty for whatever various crimes . the people who were there originally when they when they changed the laws to revoke the death penalty are still in there for are in prison in quote for life and and are now coming up for parole some of them like manson who's come up you know
+	Free: Pattern=of, Pattern=you know, Pattern=they, Pattern=and, Pattern=the, Pattern=to, Pattern=they changed, Pattern=that
+	Constrained: Pattern=know, Pattern=you, Pattern=they
+Turn ID=35| B | M : heh uh . i think i know you i'm uhhh ... i think you're a guy huh ?
+	Free: Pattern=a, Pattern=. i, Pattern=i, Pattern=huh, Pattern=you, Pattern=uh, Pattern=know, Pattern=i'm
+	Constrained: Pattern=i
+Turn ID=36| A | B : um .
+	Free: 
+	Constrained: 
+Turn ID=37| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : uh-huh . right .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : it i you or ...
+	Free: Pattern=it, Pattern=i, Pattern=you
+	Constrained: 

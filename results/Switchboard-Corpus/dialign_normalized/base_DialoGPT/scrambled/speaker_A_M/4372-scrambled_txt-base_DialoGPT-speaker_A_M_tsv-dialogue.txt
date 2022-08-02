@@ -1,0 +1,63 @@
+A|0| A: right right . 
+B|1| M: _i_ 
+A|2| A: _no_ [i] guess it'd be best if you knew each person and what _they_ stood for and why and everything . 
+B|3| M: [i] 
+A|4| A: so [i] couldn't believe it . that was that was really hard . 
+B|5| M: [no] it's not . 
+A|6| A: uh-huh . 
+B|7| M: well we don't have any courses there 
+A|8| A: uh-huh . 
+B|9| M: _yeah ._ it's 
+A|10| A: and _they_ put them out on a certain day of _the_ week 
+B|11| M:  ... _yeah_ ... 
+A|12| A: uh-huh [yeah .] 
+B|13| M: [they] are not [the] only ones who get [the] job . 
+A|14| A: oh sure . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : right right .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=2| A | A : no i guess it'd be best if you knew each person and what they stood for and why and everything .
+	Free: Pattern=i, Pattern=no, Pattern=they
+	Constrained: 
+Turn ID=3| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=4| A | A : so i couldn't believe it . that was that was really hard .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=5| B | M : no it's not .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=6| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : well we don't have any courses there
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : yeah . it's
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=10| A | A : and they put them out on a certain day of the week
+	Free: Pattern=the, Pattern=they
+	Constrained: 
+Turn ID=11| B | M :  ... yeah ...
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=12| A | A : uh-huh yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=13| B | M : they are not the only ones who get the job .
+	Free: Pattern=the, Pattern=they
+	Constrained: 
+Turn ID=14| A | A : oh sure .
+	Free: 
+	Constrained: 

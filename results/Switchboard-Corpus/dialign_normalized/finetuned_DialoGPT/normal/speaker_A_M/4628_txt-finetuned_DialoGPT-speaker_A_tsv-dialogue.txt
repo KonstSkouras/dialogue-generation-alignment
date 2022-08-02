@@ -1,0 +1,187 @@
+B|0| M: _but_ um _i think_ _i i_ _do_ _know_ _that_ _they_ _have_ _they_ _have_ _a few_ different dress codes _and_ um 
+A|1| A: uh-huh . 
+B|2| M: _but_ _we're_ _trying to_ keep _it_ up _uh and uh_ 
+A|3| A: uh-huh . 
+B|4| M: _and_ _i'm_ not _i'm_ pretty _much_ limited _to_ _just_ _the_ large study areas . 
+A|5| A: huh . _well_ [i i] _work_ _for_ [uh] actually probably similar kind _of_ place _. i_ _work_ _for_ [uh] lincoln laboratory . 
+B|6| M: oh uh-hoh . 
+A|7| A: [uh] _yeah ._ _we_ actually [do] some _work_ _with_ some _people_ down at georgia tech . 
+B|8| M: okay . 
+A|9| A: [uh and uh] _so_ [we're] [we're] part [we're] actually part _of_ m [i] t . _so_ _it's_ _very_ [much] [the] same kind _of_ place [and _uh] the_ technical institution . 
+B|10| M: [yeah .] 
+A|11| A: [uh] while [i] was sitting here waiting while [they] tried [to] find somebody _for_ me [to] talk [to] [trying to] [think] _of_ _what_ [uh] [uh] _what_ things were important [uh] besides salary [and] [a] [and] [a] job _. _i_ guess_ [uh] list [i] had scribbled down was _the people_ _you_ worked _with_ [and] maybe _the uh the_ challenge _of the_ _work_ [and _uh] the_ working conditions things like _that ._ 
+B|12| M: [yeah .] [yeah .] [yeah] _i think_ _i don't know_ [i _i] know_ [that] there _are_ [a] lot [of] [people] who [uh] 
+A|13| A: [i don't know] . _what_ [are] your [uh] _what_ sorts [of] things _would_ _you_ consider important ? 
+B|14| M: [well] [uh] . 
+A|15| A: uh-huh . 
+B|16| M: _and i think_ [that] [uh] _i think uh_ [you] [know] we've [we're] [we] _have to_ be careful _about_ [what] [we] [do] [with] them . 
+A|17| A: uh-huh . 
+B|18| M: [and uh] [you] [know] [people] [they] [don't] want [to] be called out [for] something they're not supposed [to] be doing . 
+A|19| A: [yeah .] 
+B|20| M: [and uh] . 
+A|21| A: uh-huh . 
+B|22| M: [so] [they] _just_ sort [of] [you] can't say okay [we're] not going [to] [do] this [we] won't [do] this . [we're] _just_ going [to] let [you] go _. and_ then [they] [would] come in [and] say you're not [you] [don't] _have to_ _do [that_ .] 
+A|23| A: uh-huh . 
+B|24| M: _but_ [they] could [you] could make _it_ [a] practice . 
+A|25| A: uh-huh . 
+B|26| M: [i] _mean_ that's [that] [would] be [a] good way [to] [do] _it_ . 
+A|27| A: now how [do] [you] [mean] [that] ? [i know] [it] 
+B|28| M: [it's] [uh] . 
+A|29| A: uh-huh . 
+B|30| M: [i] [mean] _i've_ seen [it] in other places [and] [it's] [uh] [i guess] [it's] almost impossible [to] say [it's] any worse _than_ any other _company_ [uh] . 
+A|31| A: uh-huh . 
+B|32| M: [and] that's that's [a] negative [of] mine [. [i] i] [the] only [the] one [the uh] one positive [that] [i] see is [that] [they] [don't] _have_ enough time [to] devote [to] [the] needs [of [the] people] . 
+A|33| A: [well] [you] [you] [think] [it's] _better_ [than] [to] [to] try [to] spread [the] [the] effort equally among all [the] employees [of the] [company] or 
+B|34| M: [uh] _i think_ [it] [would] be [better] [to] _have_ _have_ [uh [the] uh the] unanimous vote . 
+A|35| A: uh-huh . 
+B|36| M: _i think_ [that] [uh] [that] [the uh] ... 
+A|37| A: uh-huh . 
+B|38| M: [and] [they] could see [that] there's [a] lot [of] [people] [that] [don't] want [to] [work] . 
+A|39| A: [yeah .] uh-huh . 
+B|40| M: _and i think_ that's _i think_ they're both [very] true . 
+A|41| A: [yeah .] [i've] heard [of] [a] couple [of] companies [that] [have] done [that [.] [i] think uh] back [about] [a few] years ago when things were tough hewlett-packard did [that] [for] awhile . [they] went [to] [a] [uh] [a] [a] four [and] [a] half day [work] week rather [than] cut [yeah] [just] cut everybody back ten percent [. [and] uh] [have to] give everybody [a] half day [a] week off . 
+B|42| M: right . 
+A|43| A: [and i think] [you] can [do that] [for] [a] little while [but] [i'm] 
+B|44| M: [yeah] [that] [that] [would] be [a] good idea . 
+A|45| A: [yeah .] 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : but um i think i i do know that they have they have a few different dress codes and um
+	Free: Pattern=have, Pattern=they, Pattern=do, Pattern=know, Pattern=i think, Pattern=and, Pattern=a few, Pattern=that, Pattern=i i, Pattern=but
+	Constrained: Pattern=think, Pattern=i, Pattern=a
+Turn ID=1| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=2| B | M : but we're trying to keep it up uh and uh
+	Free: Pattern=uh and uh, Pattern=it, Pattern=trying to, Pattern=we're, Pattern=but
+	Constrained: Pattern=and uh, Pattern=and, Pattern=uh, Pattern=to
+Turn ID=3| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=4| B | M : and i'm not i'm pretty much limited to just the large study areas .
+	Free: Pattern=just, Pattern=and, Pattern=i'm, Pattern=much, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=5| A | A : huh . well i i work for uh actually probably similar kind of place . i work for uh lincoln laboratory .
+	Free: Pattern=of, Pattern=well, Pattern=uh, Pattern=for, Pattern=. i, Pattern=work, Pattern=i i
+	Constrained: Pattern=i
+Turn ID=6| B | M : oh uh-hoh .
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : uh yeah . we actually do some work with some people down at georgia tech .
+	Free: Pattern=uh, Pattern=people, Pattern=do, Pattern=yeah ., Pattern=work, Pattern=we, Pattern=with
+	Constrained: Pattern=yeah
+Turn ID=8| B | M : okay .
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : uh and uh so we're we're part we're actually part of m i t . so it's very much the same kind of place and uh the technical institution .
+	Free: Pattern=of, Pattern=uh and uh, Pattern=much, Pattern=the, Pattern=and uh, Pattern=we're, Pattern=uh the, Pattern=it's, Pattern=so, Pattern=very, Pattern=i
+	Constrained: Pattern=and uh, Pattern=and, Pattern=uh, Pattern=the
+Turn ID=10| B | M : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=11| A | A : uh while i was sitting here waiting while they tried to find somebody for me to talk to trying to think of what uh uh what things were important uh besides salary and a and a job . i guess uh list i had scribbled down was the people you worked with and maybe the uh the challenge of the work and uh the working conditions things like that .
+	Free: Pattern=the uh the, Pattern=the people, Pattern=a, Pattern=for, Pattern=and, Pattern=. i, Pattern=think, Pattern=work, Pattern=i, Pattern=i guess, Pattern=trying to, Pattern=uh the, Pattern=of, Pattern=that ., Pattern=you, Pattern=uh, Pattern=what, Pattern=they, Pattern=and uh, Pattern=to, Pattern=with, Pattern=of the
+	Constrained: Pattern=of, Pattern=people, Pattern=and, Pattern=i, Pattern=the, Pattern=to, Pattern=uh the, Pattern=that, Pattern=uh, Pattern=the uh
+Turn ID=12| B | M : yeah . yeah . yeah i think i don't know i i know that there are a lot of people who uh
+	Free: Pattern=of, Pattern=uh, Pattern=a, Pattern=yeah ., Pattern=yeah, Pattern=are, Pattern=i don't know, Pattern=i think, Pattern=people, Pattern=i know, Pattern=that, Pattern=i i
+	Constrained: Pattern=yeah, Pattern=think, Pattern=know, Pattern=i, Pattern=don't
+Turn ID=13| A | A : i don't know . what are your uh what sorts of things would you consider important ?
+	Free: Pattern=of, Pattern=what, Pattern=are, Pattern=would, Pattern=i don't know, Pattern=you, Pattern=uh
+	Constrained: Pattern=know, Pattern=i, Pattern=don't
+Turn ID=14| B | M : well uh .
+	Free: Pattern=uh, Pattern=well
+	Constrained: 
+Turn ID=15| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=16| B | M : and i think that uh i think uh you know we've we're we have to be careful about what we do with them .
+	Free: Pattern=what, Pattern=do, Pattern=about, Pattern=know, Pattern=we, Pattern=we're, Pattern=i think uh, Pattern=you, Pattern=uh, Pattern=and i think, Pattern=have to, Pattern=with, Pattern=that
+	Constrained: Pattern=uh, Pattern=have, Pattern=and, Pattern=think, Pattern=i, Pattern=to, Pattern=i think
+Turn ID=17| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : and uh you know people they don't want to be called out for something they're not supposed to be doing .
+	Free: Pattern=you, Pattern=people, Pattern=they, Pattern=for, Pattern=know, Pattern=don't, Pattern=and uh, Pattern=to
+	Constrained: Pattern=and, Pattern=uh
+Turn ID=19| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=20| B | M : and uh .
+	Free: Pattern=and uh
+	Constrained: Pattern=and, Pattern=uh
+Turn ID=21| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=22| B | M : so they just sort of you can't say okay we're not going to do this we won't do this . we're just going to let you go . and then they would come in and say you're not you don't have to do that .
+	Free: Pattern=you, Pattern=just, Pattern=they, Pattern=do, Pattern=and, Pattern=to, Pattern=so, Pattern=of, Pattern=that ., Pattern=do that, Pattern=we, Pattern=would, Pattern=have to, Pattern=don't, Pattern=. and, Pattern=we're
+	Constrained: Pattern=have, Pattern=do, Pattern=and, Pattern=to, Pattern=that
+Turn ID=23| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=24| B | M : but they could you could make it a practice .
+	Free: Pattern=you, Pattern=they, Pattern=a, Pattern=it, Pattern=but
+	Constrained: 
+Turn ID=25| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=26| B | M : i mean that's that would be a good way to do it .
+	Free: Pattern=mean, Pattern=it, Pattern=i, Pattern=would, Pattern=to, Pattern=that, Pattern=do, Pattern=a
+	Constrained: 
+Turn ID=27| A | A : now how do you mean that ? i know it
+	Free: Pattern=you, Pattern=do, Pattern=it, Pattern=that, Pattern=mean, Pattern=i know
+	Constrained: Pattern=know, Pattern=i
+Turn ID=28| B | M : it's uh .
+	Free: Pattern=uh, Pattern=it's
+	Constrained: 
+Turn ID=29| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=30| B | M : i mean i've seen it in other places and it's uh i guess it's almost impossible to say it's any worse than any other company uh .
+	Free: Pattern=company, Pattern=uh, Pattern=mean, Pattern=i've, Pattern=than, Pattern=i, Pattern=i guess, Pattern=to, Pattern=it's, Pattern=it, Pattern=and
+	Constrained: Pattern=i
+Turn ID=31| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=32| B | M : and that's that's a negative of mine . i i the only the one the uh one positive that i see is that they don't have enough time to devote to the needs of the people .
+	Free: Pattern=of, Pattern=the uh, Pattern=have, Pattern=the people, Pattern=they, Pattern=a, Pattern=and, Pattern=. i, Pattern=i, Pattern=the, Pattern=don't, Pattern=to, Pattern=of the, Pattern=that, Pattern=i i
+	Constrained: Pattern=of, Pattern=uh, Pattern=people, Pattern=i, Pattern=the
+Turn ID=33| A | A : well you you think it's better than to to try to spread the the effort equally among all the employees of the company or
+	Free: Pattern=company, Pattern=well, Pattern=you, Pattern=better, Pattern=the, Pattern=to, Pattern=than, Pattern=think, Pattern=of the, Pattern=it's
+	Constrained: Pattern=the, Pattern=of
+Turn ID=34| B | M : uh i think it would be better to have have uh the uh the unanimous vote .
+	Free: Pattern=the uh the, Pattern=uh, Pattern=have, Pattern=it, Pattern=better, Pattern=would, Pattern=to, Pattern=uh the, Pattern=i think
+	Constrained: Pattern=think, Pattern=i, Pattern=the, Pattern=uh the, Pattern=uh, Pattern=the uh
+Turn ID=35| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=36| B | M : i think that uh that the uh ...
+	Free: Pattern=i think, Pattern=the uh, Pattern=uh, Pattern=that
+	Constrained: Pattern=think, Pattern=uh, Pattern=the, Pattern=i
+Turn ID=37| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=38| B | M : and they could see that there's a lot of people that don't want to work .
+	Free: Pattern=of, Pattern=people, Pattern=they, Pattern=a, Pattern=and, Pattern=work, Pattern=don't, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=39| A | A : yeah . uh-huh .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=40| B | M : and i think that's i think they're both very true .
+	Free: Pattern=and i think, Pattern=i think, Pattern=very
+	Constrained: Pattern=i think, Pattern=and, Pattern=think, Pattern=i
+Turn ID=41| A | A : yeah . i've heard of a couple of companies that have done that . i think uh back about a few years ago when things were tough hewlett-packard did that for awhile . they went to a uh a a four and a half day work week rather than cut yeah just cut everybody back ten percent . and uh have to give everybody a half day a week off .
+	Free: Pattern=uh, Pattern=they, Pattern=a, Pattern=i've, Pattern=than, Pattern=work, Pattern=have to, Pattern=. and, Pattern=i think uh, Pattern=that, Pattern=of, Pattern=that ., Pattern=just, Pattern=have, Pattern=yeah ., Pattern=for, Pattern=yeah, Pattern=and, Pattern=a few, Pattern=about, Pattern=. i, Pattern=and uh, Pattern=to
+	Constrained: Pattern=uh, Pattern=have, Pattern=a, Pattern=think, Pattern=i, Pattern=to, Pattern=that, Pattern=i think, Pattern=yeah, Pattern=and
+Turn ID=42| B | M : right .
+	Free: 
+	Constrained: 
+Turn ID=43| A | A : and i think you can do that for a little while but i'm
+	Free: Pattern=you, Pattern=a, Pattern=for, Pattern=i'm, Pattern=do that, Pattern=and i think, Pattern=but
+	Constrained: Pattern=do, Pattern=and, Pattern=think, Pattern=i, Pattern=that, Pattern=i think
+Turn ID=44| B | M : yeah that that would be a good idea .
+	Free: Pattern=yeah, Pattern=would, Pattern=a, Pattern=that
+	Constrained: 
+Turn ID=45| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah

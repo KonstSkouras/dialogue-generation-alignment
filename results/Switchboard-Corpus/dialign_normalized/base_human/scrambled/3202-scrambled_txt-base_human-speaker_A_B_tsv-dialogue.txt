@@ -1,0 +1,79 @@
+A|0| A: well _we_ _had_ _a_ vice principal shot at here last year on _the_ _you_ know on _the_ school grounds after school . 
+B|1| B: right . 
+A|2| A: _yeah_ _and_ is _that_ how your parents _feel_ or 
+B|3| B: [and] _in_ [a] very poor section _of_ town with predominantly anglo kids . [and] _i_ see kids already [that] are _going to_ _be_ criminals _in_ spite _of_ everything [we] can do 
+A|4| A: _uh-huh ._ 
+B|5| B: [uh-huh .] 
+A|6| A: [and] _and uh_ that's pretty much _all_ _the_ houses [in] _the_ area for probably [a] square mile _i'd_ say at least maybe even [a] _little_ bit more than [that] . 
+B|7| B: [and] _i_ [feel] _when_ _my_ children were very young _i_ [had] jobs [that] helped me _be_ flexible with _my_ schedule [and] spend _time_ with them [and] [all] _that sort of_ _thing ._ [and] _i_ _long_ ago decided i'm [a] better mother because _i_ work outside [the] home . 
+A|8| A: guns [that sort of] stuff . 
+B|9| B: [yeah] . [and uh] if _i_ couldn't _have_ _my_ luxury maxima then [i'd] buy me [a] fancy [little] red c r x sports car 
+A|10| A: [i] _was_ that's exactly what [i] _was_ [going to] ask _you_ . [have] _you_ ever [have] [have] _you_ been downtown 
+B|11| B: once [you] _think_ about it huh . [uh-huh .] 
+A|12| A: well [and] that's _an_ individual [thing .] 
+B|13| B: um we've tried them but again it's _just_ like [the] sun scorch . 
+A|14| A: i'll [be] darned . 
+B|15| B: [the] hostile planet _i think_ julie . 
+A|16| A: [uh-huh .] [yeah] [i think] that's [uh] [just] having [a] good [time] . 
+B|17| B: no it [was] [an] _kind of_ indoor outdoor it it [was] 
+A|18| A: okay . [when] they first said [the] subject [my] mind went [kind of] blank . [i] thought gee [i] haven't taken anything back for [a] [long] [time] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : well we had a vice principal shot at here last year on the you know on the school grounds after school .
+	Free: Pattern=you, Pattern=a, Pattern=we, Pattern=had, Pattern=the
+	Constrained: 
+Turn ID=1| B | B : right .
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : yeah and is that how your parents feel or
+	Free: Pattern=that, Pattern=feel, Pattern=and, Pattern=yeah
+	Constrained: 
+Turn ID=3| B | B : and in a very poor section of town with predominantly anglo kids . and i see kids already that are going to be criminals in spite of everything we can do
+	Free: Pattern=going to, Pattern=of, Pattern=a, Pattern=and, Pattern=in, Pattern=i, Pattern=we, Pattern=be, Pattern=that
+	Constrained: 
+Turn ID=4| A | A : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=5| B | B : uh-huh .
+	Free: Pattern=uh-huh .
+	Constrained: 
+Turn ID=6| A | A : and and uh that's pretty much all the houses in the area for probably a square mile i'd say at least maybe even a little bit more than that .
+	Free: Pattern=i'd, Pattern=little, Pattern=a, Pattern=and, Pattern=in, Pattern=and uh, Pattern=that, Pattern=the, Pattern=all
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=7| B | B : and i feel when my children were very young i had jobs that helped me be flexible with my schedule and spend time with them and all that sort of thing . and i long ago decided i'm a better mother because i work outside the home .
+	Free: Pattern=time, Pattern=that sort of, Pattern=long, Pattern=a, Pattern=and, Pattern=thing ., Pattern=i, Pattern=feel, Pattern=had, Pattern=be, Pattern=when, Pattern=my, Pattern=that, Pattern=the, Pattern=all
+	Constrained: Pattern=that, Pattern=of
+Turn ID=8| A | A : guns that sort of stuff .
+	Free: Pattern=that sort of
+	Constrained: Pattern=that, Pattern=of
+Turn ID=9| B | B : yeah . and uh if i couldn't have my luxury maxima then i'd buy me a fancy little red c r x sports car
+	Free: Pattern=little, Pattern=a, Pattern=yeah, Pattern=i, Pattern=and uh, Pattern=my, Pattern=i'd, Pattern=have
+	Constrained: Pattern=uh, Pattern=and
+Turn ID=10| A | A : i was that's exactly what i was going to ask you . have you ever have have you been downtown
+	Free: Pattern=going to, Pattern=you, Pattern=have, Pattern=i, Pattern=was
+	Constrained: 
+Turn ID=11| B | B : once you think about it huh . uh-huh .
+	Free: Pattern=uh-huh ., Pattern=think, Pattern=you
+	Constrained: 
+Turn ID=12| A | A : well and that's an individual thing .
+	Free: Pattern=thing ., Pattern=an, Pattern=and
+	Constrained: 
+Turn ID=13| B | B : um we've tried them but again it's just like the sun scorch .
+	Free: Pattern=just, Pattern=the
+	Constrained: 
+Turn ID=14| A | A : i'll be darned .
+	Free: Pattern=be
+	Constrained: 
+Turn ID=15| B | B : the hostile planet i think julie .
+	Free: Pattern=i think, Pattern=the
+	Constrained: Pattern=i, Pattern=think
+Turn ID=16| A | A : uh-huh . yeah i think that's uh just having a good time .
+	Free: Pattern=time, Pattern=uh, Pattern=just, Pattern=a, Pattern=yeah, Pattern=uh-huh ., Pattern=i think
+	Constrained: Pattern=i, Pattern=think
+Turn ID=17| B | B : no it was an kind of indoor outdoor it it was
+	Free: Pattern=kind of, Pattern=an, Pattern=was
+	Constrained: Pattern=of
+Turn ID=18| A | A : okay . when they first said the subject my mind went kind of blank . i thought gee i haven't taken anything back for a long time .
+	Free: Pattern=time, Pattern=kind of, Pattern=long, Pattern=a, Pattern=i, Pattern=the, Pattern=when, Pattern=my
+	Constrained: Pattern=of

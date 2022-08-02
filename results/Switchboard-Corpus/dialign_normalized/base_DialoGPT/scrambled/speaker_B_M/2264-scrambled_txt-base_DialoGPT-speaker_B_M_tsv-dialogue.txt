@@ -1,0 +1,235 @@
+A|0| B: _oh_ good . 
+B|1| M: _i_ _i_ _i'm not_ sure . 
+A|2| B: because if _they_ turn _around_ _they_ can get away _they_ get away with _it_ _and_ _they_ get away with _it_ _and_ _they_ get away with _it_ _and_ then _they_ _do_ something worse 
+B|3| M: _you_ 
+A|4| B: but _uh_ dan reeves _is_ _a_ pretty neat guy anyway . 
+B|5| M: _no_ 
+A|6| B: _and_ every once _in_ _a_ while i'll put _in_ i'll slice white grapes _and_ i'll put _in_ there _and_ _that's_ _just_ because [i'm not] _a_ real big wine person but _i like_ _it_ _it_ adds something _to_ _the_ chicken . 
+B|7| M: what's [the] difference between [the] _two_ ? 
+A|8| B: _oh_ but she used _to_ love _to do_ stuff _like_ _that_ . 
+B|9| M: _it's_ [not] really [that] hard [to] figure _out _._ it's_ [not] [like] [i'm] [just] _going _to_ go_ [and] see [it] . 
+A|10| B: _my_ neighbor across [the] street has one . he always uses [it] [to] dethatch his lawn 
+B|11| M: [i'm] _so_ sorry 
+A|12| B: uh-huh . 
+B|13| M: _so_ [uh] what are _you_ _going to do_ when you're done ? 
+A|14| B: uh-huh . _right_ we feel [that] _you know_ [just] spending time together . [you] _don't_ necessarily have [to] be doing anything _you know_ [that] costs money or or _you know_ [that] requires [you] [to go] _a_ great distance or anything [like] [that] [. it's] [just] [the] kids [like] [to] being together as _a_ family . 
+B|15| M: m 
+A|16| B: [and] [uh] while [it] _is_ still good [and] [it's] quite serviceable [and] i'll drive [it] until [it] [no] longer _is_ reliable . 
+B|17| M: [i'm] sorry _i don't_ remember . 
+A|18| B: _well_ _a_ little _bit_ for [the] price 
+B|19| M: [i] _was_ _going_ [around] . 
+A|20| B: _right_ [and] [uh] there's usually nobody running against _you know_ [the] incumbents . 
+B|21| M: your _right ._ 
+A|22| B: uh-huh . 
+B|23| M: what [do] [you] mean ? 
+A|24| B: uh-huh . 
+B|25| M: [it's] [a] [bit] _of_ [a] joke . 
+A|26| B: _oh ._ 
+B|27| M: [i] can't [you] ? 
+A|28| B: [uh] his last appeal [was] [was] denied [two] days before his sentence [was] up 
+B|29| M: [i'm] um um ? 
+A|30| B: [uh] [the] worst city _in the_ _in the_ world _is_ actually [uh] mexico city . 
+B|31| M: [oh .] [well] okay . 
+A|32| B: uh-huh . [right .] [right .] 
+B|33| M: [i'm not] sure who [you] are . 
+A|34| B: take [a] twenty-two [and] [go] [out .] 
+B|35| M: [i'm] sorry [i] think [i] [just] saw [you] [in the] garden _of_ [my] friends . 
+A|36| B: [oh] yeah [oh] absolutely yeah [it] goes on for years [and] years [and] costs hundreds [of] thousands [of] dollars taxpayer money . 
+B|37| M: what about ? 
+A|38| B: but [i don't] even _know_ if they're still new york yankees or new jersey . 
+B|39| M: [they] 
+A|40| B: [right .] 
+B|41| M:  ... [and] 
+A|42| B: [no] they're . 
+B|43| M: [you know] what ? [i'm] gonna [go] [and] see [a] movie . 
+A|44| B: uh-huh . 
+B|45| M: youself 
+A|46| B: [and] [so] [i] decided [well] if she's [going to do] [that] [it] would be [a] whole lot easier if she could type 
+B|47| M: ugh [that's] [the] thing . 
+A|48| B: uh-huh . 
+B|49| M: they've been been . 
+A|50| B: [right .] 
+B|51| M: [i like] her . 
+A|52| B: uh-huh . 
+B|53| M: [i don't] [know] [i like] [the] flutes [i] [just] [like] jazz . 
+A|54| B: exactly . 
+B|55| M:  
+A|56| B: [no] [in] fact [in] fact [the] cowboys got [the] best end [of] [that] deal . 
+B|57| M: [i] think [the] question [is] why ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : oh good .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=1| B | M : i i i'm not sure .
+	Free: Pattern=i'm not, Pattern=i
+	Constrained: Pattern=i'm, Pattern=not
+Turn ID=2| A | B : because if they turn around they can get away they get away with it and they get away with it and they get away with it and then they do something worse
+	Free: Pattern=they, Pattern=do, Pattern=around, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=3| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=4| A | B : but uh dan reeves is a pretty neat guy anyway .
+	Free: Pattern=is, Pattern=a, Pattern=uh
+	Constrained: 
+Turn ID=5| B | M : no
+	Free: Pattern=no
+	Constrained: 
+Turn ID=6| A | B : and every once in a while i'll put in i'll slice white grapes and i'll put in there and that's just because i'm not a real big wine person but i like it it adds something to the chicken .
+	Free: Pattern=just, Pattern=a, Pattern=in, Pattern=to, Pattern=i like, Pattern=it, Pattern=and, Pattern=i'm not, Pattern=that's, Pattern=the
+	Constrained: Pattern=i'm, Pattern=not, Pattern=i, Pattern=like
+Turn ID=7| B | M : what's the difference between the two ?
+	Free: Pattern=two, Pattern=the
+	Constrained: 
+Turn ID=8| A | B : oh but she used to love to do stuff like that .
+	Free: Pattern=to do, Pattern=oh, Pattern=like, Pattern=to, Pattern=that
+	Constrained: Pattern=do, Pattern=to
+Turn ID=9| B | M : it's not really that hard to figure out . it's not like i'm just going to go and see it .
+	Free: Pattern=going to, Pattern=just, Pattern=. it's, Pattern=i'm, Pattern=out ., Pattern=like, Pattern=to go, Pattern=to, Pattern=not, Pattern=it, Pattern=and, Pattern=that, Pattern=it's
+	Constrained: Pattern=go, Pattern=going, Pattern=to, Pattern=it's
+Turn ID=10| A | B : my neighbor across the street has one . he always uses it to dethatch his lawn
+	Free: Pattern=it, Pattern=the, Pattern=my, Pattern=to
+	Constrained: 
+Turn ID=11| B | M : i'm so sorry
+	Free: Pattern=i'm, Pattern=so
+	Constrained: 
+Turn ID=12| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : so uh what are you going to do when you're done ?
+	Free: Pattern=going to do, Pattern=uh, Pattern=so, Pattern=you
+	Constrained: Pattern=going to, Pattern=going, Pattern=to do, Pattern=do, Pattern=to
+Turn ID=14| A | B : uh-huh . right we feel that you know just spending time together . you don't necessarily have to be doing anything you know that costs money or or you know that requires you to go a great distance or anything like that . it's just the kids like to being together as a family .
+	Free: Pattern=right, Pattern=just, Pattern=. it's, Pattern=a, Pattern=like, Pattern=the, Pattern=don't, Pattern=to go, Pattern=to, Pattern=that, Pattern=you, Pattern=you know
+	Constrained: Pattern=you, Pattern=go, Pattern=know, Pattern=to, Pattern=it's
+Turn ID=15| B | M : m
+	Free: 
+	Constrained: 
+Turn ID=16| A | B : and uh while it is still good and it's quite serviceable and i'll drive it until it no longer is reliable .
+	Free: Pattern=uh, Pattern=no, Pattern=is, Pattern=it's, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=17| B | M : i'm sorry i don't remember .
+	Free: Pattern=i don't, Pattern=i'm
+	Constrained: Pattern=don't, Pattern=i
+Turn ID=18| A | B : well a little bit for the price
+	Free: Pattern=bit, Pattern=well, Pattern=a, Pattern=the
+	Constrained: 
+Turn ID=19| B | M : i was going around .
+	Free: Pattern=was, Pattern=i, Pattern=going, Pattern=around
+	Constrained: 
+Turn ID=20| A | B : right and uh there's usually nobody running against you know the incumbents .
+	Free: Pattern=right, Pattern=and, Pattern=the, Pattern=uh, Pattern=you know
+	Constrained: Pattern=you, Pattern=know
+Turn ID=21| B | M : your right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=22| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : what do you mean ?
+	Free: Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=24| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=25| B | M : it's a bit of a joke .
+	Free: Pattern=bit, Pattern=a, Pattern=of, Pattern=it's
+	Constrained: 
+Turn ID=26| A | B : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=27| B | M : i can't you ?
+	Free: Pattern=you, Pattern=i
+	Constrained: 
+Turn ID=28| A | B : uh his last appeal was was denied two days before his sentence was up
+	Free: Pattern=was, Pattern=uh, Pattern=two
+	Constrained: 
+Turn ID=29| B | M : i'm um um ?
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=30| A | B : uh the worst city in the in the world is actually uh mexico city .
+	Free: Pattern=in the, Pattern=is, Pattern=uh, Pattern=the
+	Constrained: Pattern=in, Pattern=the
+Turn ID=31| B | M : oh . well okay .
+	Free: Pattern=oh ., Pattern=well
+	Constrained: Pattern=oh
+Turn ID=32| A | B : uh-huh . right . right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=33| B | M : i'm not sure who you are .
+	Free: Pattern=i'm not, Pattern=you
+	Constrained: Pattern=i'm, Pattern=not
+Turn ID=34| A | B : take a twenty-two and go out .
+	Free: Pattern=out ., Pattern=go, Pattern=a, Pattern=and
+	Constrained: 
+Turn ID=35| B | M : i'm sorry i think i just saw you in the garden of my friends .
+	Free: Pattern=of, Pattern=you, Pattern=just, Pattern=in the, Pattern=i'm, Pattern=i, Pattern=my
+	Constrained: Pattern=in, Pattern=the
+Turn ID=36| A | B : oh yeah oh absolutely yeah it goes on for years and years and costs hundreds of thousands of dollars taxpayer money .
+	Free: Pattern=it, Pattern=of, Pattern=and, Pattern=oh
+	Constrained: 
+Turn ID=37| B | M : what about ?
+	Free: 
+	Constrained: 
+Turn ID=38| A | B : but i don't even know if they're still new york yankees or new jersey .
+	Free: Pattern=i don't, Pattern=know
+	Constrained: Pattern=don't, Pattern=i
+Turn ID=39| B | M : they
+	Free: Pattern=they
+	Constrained: 
+Turn ID=40| A | B : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=41| B | M :  ... and
+	Free: Pattern=and
+	Constrained: 
+Turn ID=42| A | B : no they're .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=43| B | M : you know what ? i'm gonna go and see a movie .
+	Free: Pattern=you know, Pattern=go, Pattern=a, Pattern=and, Pattern=i'm
+	Constrained: Pattern=you, Pattern=know
+Turn ID=44| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : youself
+	Free: 
+	Constrained: 
+Turn ID=46| A | B : and so i decided well if she's going to do that it would be a whole lot easier if she could type
+	Free: Pattern=well, Pattern=a, Pattern=i, Pattern=going to do, Pattern=that, Pattern=so, Pattern=it, Pattern=and
+	Constrained: Pattern=going to, Pattern=going, Pattern=to do, Pattern=do, Pattern=to
+Turn ID=47| B | M : ugh that's the thing .
+	Free: Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=48| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : they've been been .
+	Free: 
+	Constrained: 
+Turn ID=50| A | B : right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=51| B | M : i like her .
+	Free: Pattern=i like
+	Constrained: Pattern=i, Pattern=like
+Turn ID=52| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=53| B | M : i don't know i like the flutes i just like jazz .
+	Free: Pattern=know, Pattern=i, Pattern=like, Pattern=the, Pattern=i like, Pattern=just, Pattern=i don't
+	Constrained: Pattern=don't, Pattern=i, Pattern=like
+Turn ID=54| A | B : exactly .
+	Free: 
+	Constrained: 
+Turn ID=55| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=56| A | B : no in fact in fact the cowboys got the best end of that deal .
+	Free: Pattern=of, Pattern=no, Pattern=in, Pattern=the, Pattern=that
+	Constrained: 
+Turn ID=57| B | M : i think the question is why ?
+	Free: Pattern=is, Pattern=the, Pattern=i
+	Constrained: 

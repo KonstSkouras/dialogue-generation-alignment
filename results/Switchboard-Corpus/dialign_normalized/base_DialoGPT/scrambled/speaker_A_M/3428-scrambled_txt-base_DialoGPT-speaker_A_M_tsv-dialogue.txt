@@ -1,0 +1,79 @@
+A|0| A: _i'm_ _from_ atlanta . 
+B|1| M: uhhh ... _i_ don 
+A|2| A: and he sort of expected me _to_ dress as _a_ professional 
+B|3| M: _well_ _i mean_ _i'm not sure if_ they're gonna be _any_ fun tonight . 
+A|4| A: uh _we_ _we_ tended _to_ want _to_ keep on giving lavish gifts as _we_ had _done_ before . 
+B|5| M: it's _not_ like there's anything _else_ _that_ could be [done] . 
+A|6| A: yeah [well] real interesting . 
+B|7| M: _i_ don't have [a] garage so _i_ don't really have [a] car . 
+A|8| A: and uh [i'm] in california which has [a] lot of immigration . probably more than [any] where [else] in _the_ country though [i'm not sure if] that's _the_ case . 
+B|9| M: it's because we're all so weird 
+A|10| A: right . 
+B|11| M: _do you_ ? 
+A|12| A: [i mean] [i] couldn't believe [that] she couldn't think of [any] place . they said _the_ apparently _the_ crime is just uh 
+B|13| M: _you_ [sure] ? 
+A|14| A: [do you] listen [do you] listen _to_ w r r ? 
+B|15| M: _it_ was 
+A|16| A: oh [i] bet [it] is too . 
+B|17| M: [we] have [to] look [to] [the] future . 
+B|18| M: he's [from] [the] west . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : i'm from atlanta .
+	Free: Pattern=from, Pattern=i'm
+	Constrained: 
+Turn ID=1| B | M : uhhh ... i don
+	Free: Pattern=i
+	Constrained: 
+Turn ID=2| A | A : and he sort of expected me to dress as a professional
+	Free: Pattern=to, Pattern=a
+	Constrained: 
+Turn ID=3| B | M : well i mean i'm not sure if they're gonna be any fun tonight .
+	Free: Pattern=i'm not sure if, Pattern=i mean, Pattern=well, Pattern=any
+	Constrained: Pattern=sure, Pattern=i, Pattern=not, Pattern=i'm
+Turn ID=4| A | A : uh we we tended to want to keep on giving lavish gifts as we had done before .
+	Free: Pattern=we, Pattern=done, Pattern=to
+	Constrained: 
+Turn ID=5| B | M : it's not like there's anything else that could be done .
+	Free: Pattern=not, Pattern=done, Pattern=that, Pattern=else
+	Constrained: 
+Turn ID=6| A | A : yeah well real interesting .
+	Free: Pattern=well
+	Constrained: 
+Turn ID=7| B | M : i don't have a garage so i don't really have a car .
+	Free: Pattern=a, Pattern=i
+	Constrained: 
+Turn ID=8| A | A : and uh i'm in california which has a lot of immigration . probably more than any where else in the country though i'm not sure if that's the case .
+	Free: Pattern=a, Pattern=any, Pattern=i'm not sure if, Pattern=i'm, Pattern=else, Pattern=the
+	Constrained: Pattern=sure, Pattern=not, Pattern=i'm
+Turn ID=9| B | M : it's because we're all so weird
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : right .
+	Free: 
+	Constrained: 
+Turn ID=11| B | M : do you ?
+	Free: Pattern=do you
+	Constrained: Pattern=you
+Turn ID=12| A | A : i mean i couldn't believe that she couldn't think of any place . they said the apparently the crime is just uh
+	Free: Pattern=any, Pattern=the, Pattern=that, Pattern=i mean, Pattern=i
+	Constrained: Pattern=i
+Turn ID=13| B | M : you sure ?
+	Free: Pattern=sure, Pattern=you
+	Constrained: 
+Turn ID=14| A | A : do you listen do you listen to w r r ?
+	Free: Pattern=do you, Pattern=to
+	Constrained: Pattern=you
+Turn ID=15| B | M : it was
+	Free: Pattern=it
+	Constrained: 
+Turn ID=16| A | A : oh i bet it is too .
+	Free: Pattern=it, Pattern=i
+	Constrained: 
+Turn ID=17| B | M : we have to look to the future .
+	Free: Pattern=we, Pattern=to, Pattern=the
+	Constrained: 
+Turn ID=18| B | M : he's from the west .
+	Free: Pattern=from, Pattern=the
+	Constrained: 

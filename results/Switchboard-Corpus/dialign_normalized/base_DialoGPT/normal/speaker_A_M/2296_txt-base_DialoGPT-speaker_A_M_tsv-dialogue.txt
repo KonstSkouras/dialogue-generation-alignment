@@ -1,0 +1,183 @@
+A|0| A: _uh_ very good . 
+B|1| M: _i do _._ _i_ don't_ [uh] _exercise_ . 
+A|2| A: uh-huh . uh-huh . 
+B|3| M: uhm . 
+A|4| A: yeah there _are_ there _are_ lots _of_ bike paths [. i] know my son is _a_ biker _and_ _he_ he's done _the_ whole canal [i] _think_ _it's_ _a_ hundred _and_ eighty miles with _the_ scouts . 
+B|5| M: [i] love _it_ 
+A|6| A: _and so_ _but_ that somehow takes organization . for _me_ _it's_ much easier _just_ _the_ stationary bike _you_ know _it's_ at home [i] _can_ [i] _can_ [do] some _of_ my reading 
+B|7| M: uhh _i'm not_ sure [but] _it_ looks _nice_ 
+A|8| A: um [but] 
+B|9| M:  ... [and so] [you] [can] . 
+A|10| A: _no_ [i] live _in_ maryland . 
+B|11| M: you're _in the_ district _right_ ? 
+A|12| A: [right] [right] [and] that's [it] um at _work_ we _have a_ _a_ [nice] campus 
+B|13| M: [you] [have _a] lot of_ [work] _to_ [do] _in the_ _area_ . 
+A|14| A: [i] mean we're within walking distance [of] [of] stores [and] shops [so] [i do .] now [i] _think_ um basically is your motive simply um health or because [you] enjoy [it] ? 
+B|15| M: [it's] [just] [a] bit [of] fun 
+A|16| A: uh-huh [right] [. i] _think_ pretty much [you] summed up my my my motivations also . 
+B|17| M:  ... 
+A|18| A: oh well that's great that's great . 
+B|19| M: [and] . 
+A|20| A: uh-huh . 
+B|21| M: [i] [just] 
+A|22| A: [right] . [and] actually [in] [in] summer [i] like [to] swim . we _don't have_ facilities for swimming [in] winter [but] um [and] [and] that's true when [i] go home from [work] at [the] end [of] [the] day if [i] go up for an hour [in the] pool [i'm] much much more awake [i'm] ready [to] [work] [in the] garden or whatever [in the] evening . 
+B|23| M:  
+A|24| A: _so ._ 
+B|25| M: [i] dont [think] [so .] 
+A|26| A: _no_ [i'm not] . 
+B|27| M: [do] [you] ? 
+A|28| A: _no_ . 
+B|29| M: [are] [you] [in the] us ? 
+A|30| A: oh really . 
+B|31| M: [not] sure why you're getting downvoted [i] [have] [no] idea . 
+A|32| A: [no] [i don't] know that . [but] _i i_ must say that um when when [i] did [do] [a] linguistics course [in] [in] school ages ago um [the] professor had [a lot of] trouble with my _accent_ . 
+B|33| M: what [you] [don't [have] a] proper [accent] ? 
+A|34| A: [and] [it's] probably because _i _i_ i_ _was_ born [in the] chicago [area] [and] grew up [in] california [and] at that point that _was_ sort [of] [the] limit [but] since then i've been abroad [a lot] 
+B|35| M: [you] [i i] speak english 
+A|36| A: [in] santa barbara . 
+B|37| M: where 
+A|38| A: oh [i] see . uh-huh . well very good [i] [think] we've probably know know each other's [exercise] habits 
+B|39| M: [i'm] [in] 
+A|40| A: [and] [uh] [it] _was_ [nice] _talking to_ [you] . 
+B|41| M: yes [i'm] [a] student . 
+A|42| A: oh okay . 
+B|43| M: [he] [was] [talking to] [me] . 
+A|44| A: bye-bye . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : uh very good .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=1| B | M : i do . i don't uh exercise .
+	Free: Pattern=uh, Pattern=exercise, Pattern=i don't, Pattern=. i, Pattern=i do .
+	Constrained: Pattern=do, Pattern=i
+Turn ID=2| A | A : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : uhm .
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : yeah there are there are lots of bike paths . i know my son is a biker and he he's done the whole canal i think it's a hundred and eighty miles with the scouts .
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=are, Pattern=he, Pattern=. i, Pattern=think, Pattern=i, Pattern=the, Pattern=it's
+	Constrained: Pattern=i
+Turn ID=5| B | M : i love it
+	Free: Pattern=it, Pattern=i
+	Constrained: 
+Turn ID=6| A | A : and so but that somehow takes organization . for me it's much easier just the stationary bike you know it's at home i can i can do some of my reading
+	Free: Pattern=of, Pattern=you, Pattern=just, Pattern=me, Pattern=do, Pattern=can, Pattern=and so, Pattern=i, Pattern=the, Pattern=it's, Pattern=but
+	Constrained: Pattern=so, Pattern=and
+Turn ID=7| B | M : uhh i'm not sure but it looks nice
+	Free: Pattern=i'm not, Pattern=it, Pattern=but, Pattern=nice
+	Constrained: Pattern=i'm, Pattern=not
+Turn ID=8| A | A : um but
+	Free: Pattern=but
+	Constrained: 
+Turn ID=9| B | M :  ... and so you can .
+	Free: Pattern=and so, Pattern=you, Pattern=can
+	Constrained: Pattern=so, Pattern=and
+Turn ID=10| A | A : no i live in maryland .
+	Free: Pattern=in, Pattern=i, Pattern=no
+	Constrained: 
+Turn ID=11| B | M : you're in the district right ?
+	Free: Pattern=in the, Pattern=right
+	Constrained: Pattern=in, Pattern=the
+Turn ID=12| A | A : right right and that's it um at work we have a a nice campus
+	Free: Pattern=right, Pattern=have a, Pattern=a, Pattern=nice, Pattern=work, Pattern=it, Pattern=and
+	Constrained: Pattern=a, Pattern=have
+Turn ID=13| B | M : you have a lot of work to do in the area .
+	Free: Pattern=a lot of, Pattern=you, Pattern=have a, Pattern=do, Pattern=in the, Pattern=work, Pattern=to, Pattern=area
+	Constrained: Pattern=of, Pattern=have, Pattern=a, Pattern=in, Pattern=the, Pattern=a lot
+Turn ID=14| A | A : i mean we're within walking distance of of stores and shops so i do . now i think um basically is your motive simply um health or because you enjoy it ?
+	Free: Pattern=of, Pattern=you, Pattern=i do ., Pattern=think, Pattern=i, Pattern=so, Pattern=it, Pattern=and
+	Constrained: Pattern=do, Pattern=i
+Turn ID=15| B | M : it's just a bit of fun
+	Free: Pattern=just, Pattern=it's, Pattern=a, Pattern=of
+	Constrained: 
+Turn ID=16| A | A : uh-huh right . i think pretty much you summed up my my my motivations also .
+	Free: Pattern=. i, Pattern=you, Pattern=think, Pattern=right
+	Constrained: Pattern=i
+Turn ID=17| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : oh well that's great that's great .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : and .
+	Free: Pattern=and
+	Constrained: 
+Turn ID=20| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : i just
+	Free: Pattern=just, Pattern=i
+	Constrained: 
+Turn ID=22| A | A : right . and actually in in summer i like to swim . we don't have facilities for swimming in winter but um and and that's true when i go home from work at the end of the day if i go up for an hour in the pool i'm much much more awake i'm ready to work in the garden or whatever in the evening .
+	Free: Pattern=and, Pattern=in the, Pattern=in, Pattern=i, Pattern=don't have, Pattern=the, Pattern=to, Pattern=but, Pattern=right, Pattern=of, Pattern=i'm, Pattern=work
+	Constrained: Pattern=in, Pattern=the, Pattern=have
+Turn ID=23| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : so .
+	Free: Pattern=so .
+	Constrained: Pattern=so
+Turn ID=25| B | M : i dont think so .
+	Free: Pattern=so ., Pattern=i, Pattern=think
+	Constrained: Pattern=so
+Turn ID=26| A | A : no i'm not .
+	Free: Pattern=i'm not, Pattern=no
+	Constrained: Pattern=i'm, Pattern=not
+Turn ID=27| B | M : do you ?
+	Free: Pattern=you, Pattern=do
+	Constrained: 
+Turn ID=28| A | A : no .
+	Free: Pattern=no
+	Constrained: 
+Turn ID=29| B | M : are you in the us ?
+	Free: Pattern=in the, Pattern=you, Pattern=are
+	Constrained: Pattern=in, Pattern=the
+Turn ID=30| A | A : oh really .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : not sure why you're getting downvoted i have no idea .
+	Free: Pattern=not, Pattern=i, Pattern=no, Pattern=have
+	Constrained: 
+Turn ID=32| A | A : no i don't know that . but i i must say that um when when i did do a linguistics course in in school ages ago um the professor had a lot of trouble with my accent .
+	Free: Pattern=a lot of, Pattern=accent, Pattern=i don't, Pattern=no, Pattern=in, Pattern=i, Pattern=the, Pattern=do, Pattern=a, Pattern=i i, Pattern=but
+	Constrained: Pattern=a, Pattern=a lot, Pattern=of, Pattern=i
+Turn ID=33| B | M : what you don't have a proper accent ?
+	Free: Pattern=don't have, Pattern=have a, Pattern=you, Pattern=accent
+	Constrained: Pattern=a, Pattern=have
+Turn ID=34| A | A : and it's probably because i i i was born in the chicago area and grew up in california and at that point that was sort of the limit but since then i've been abroad a lot
+	Free: Pattern=of, Pattern=and, Pattern=in the, Pattern=in, Pattern=the, Pattern=a lot, Pattern=was, Pattern=area, Pattern=but, Pattern=i i, Pattern=it's
+	Constrained: Pattern=in, Pattern=a, Pattern=i, Pattern=the
+Turn ID=35| B | M : you i i speak english
+	Free: Pattern=i i, Pattern=you
+	Constrained: Pattern=i
+Turn ID=36| A | A : in santa barbara .
+	Free: Pattern=in
+	Constrained: 
+Turn ID=37| B | M : where
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : oh i see . uh-huh . well very good i think we've probably know know each other's exercise habits
+	Free: Pattern=exercise, Pattern=i, Pattern=think
+	Constrained: 
+Turn ID=39| B | M : i'm in
+	Free: Pattern=i'm, Pattern=in
+	Constrained: 
+Turn ID=40| A | A : and uh it was nice talking to you .
+	Free: Pattern=nice, Pattern=was, Pattern=talking to, Pattern=you, Pattern=uh, Pattern=it, Pattern=and
+	Constrained: Pattern=to
+Turn ID=41| B | M : yes i'm a student .
+	Free: Pattern=i'm, Pattern=a
+	Constrained: 
+Turn ID=42| A | A : oh okay .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : he was talking to me .
+	Free: Pattern=talking to, Pattern=he, Pattern=was, Pattern=me
+	Constrained: Pattern=to
+Turn ID=44| A | A : bye-bye .
+	Free: 
+	Constrained: 

@@ -1,0 +1,247 @@
+A|0| B: _yeah ._ i'll bet they're involved . _yeah ._ 
+B|1| M: uhh _uh i_ work _in_ georgia tech . 
+A|2| B: _yeah_ _it_ _really_ does . 
+B|3| M: _i'm_ pretty _sure_ _they_ _have_ _but_ _i_ don t _know_ . 
+A|4| B: _oh_ . _well_ 
+B|5| M:  
+A|6| B: _what's_ _that_ ? 
+B|7| M: _you_ _have a_ cat ? 
+A|8| B: _well_ [uh] [uh] about _the_ same [i] dress _for_ school _. i_ [uh i] am [a] graduate student so _i don't_ [have] _to_ worry too much about [uh] _what_ [i] wear too much _of the_ time . which _is_ nice . 
+B|9| M: _no_ _you're_ thinking [of the] wrong person . 
+A|10| B: [but] _that_ 
+B|11| M: _you_ can't [really] _get_ [it] _if_ _you_ [have] _no_ fast _food_ 
+A|12| B: uh-huh . uh-huh . 
+B|13| M: _that's_ _not_ _how the_ study [is] _supposed _to_ be_ done . 
+A|14| B: bye bye . 
+B|15| M: _i would_ _not_ go [to] _prison_ [for] [a] _year_ . 
+A|16| B: uh-huh . _yeah ._ 
+B|17| M:  
+A|18| B: _that_ should [be] life [but] instead [in] [in] given [the] choice [of] either sentencing [to] death or sentencing [to] life they'll give them ninety years [in] [prison] or something _and_ then turn around [in] thirty years _that_ [you] [know] _and_ less they're out . 
+B|19| M: _i'm_ _just_ trying [to] keep [you] from _getting_ your hopes _up_ 
+A|20| B: _and_ [a] lot [of] them decide [just] [not] [to] [have] children . 
+B|21| M: _i'm not_ . 
+A|22| B: _and_ _that_ [would] upset [a] lot [of] people too because [they] [just] want [to] [get] on 
+B|23| M: _i'm_ 
+A|24| B: _i think_ _one_ [of the] problems with with education as [it] relates [to] this though [is] _that_ _i don't know_ _that_ education [is] prepared [to] help people make those changes . [it] [just] seems [a] lot [of the] training _and_ education _that_ goes on [is] gearing people towards [a] profession _and_ [not] giving them [the] skills _and_ whatever those skills _are_ necessary [to] make those job changes which _i think_ [is] going [to be] [a] hard thing [for] [for] people [to] face . 
+B|25| M: [oh] [and] [i] ? 
+A|26| B: [no] _i mean_ most [of the] sports cars _are_ stick shift . 
+B|27| M: uhh ... _um_ ... [i mean] [uh [i] think] we're gonna need _some of_ [that] . 
+A|28| B: ooh . 
+B|29| M: _how_ [are] . 
+A|30| B: okay [sure] 
+B|31| M: [yeah [.] i] got [it] from [a] consumer . 
+A|32| B: right . _well_ [i] put 
+B|33| M: [well] 
+A|34| B: [you're] [supposed to] _what_ . 
+B|35| M: [i] [know] _i'm_ [just] saying _it's_ [not] true 
+A|36| B: next [year] [i] _was_ planting [some] broccoli [and] [and] [some of] those they're called cabbage cabbage loppers or whatever . 
+B|37| M: texas . [you] ? 
+A|38| B: [oh] [sure] . 
+B|39| M: _i'm not_ saying _it's_ [not] [a] good idea [but] _it's_ [a] terrible idea . 
+A|40| B: uh-huh . right [uh] [yeah] _we_ can [get] [uh] [yeah] [if] _we_ [get] someone [in] _there_ like [that] then [you] [know] [they] could make all sorts [of] changes [that] [they] were [you] [know] had enough pull . 
+B|41| M: [yeah] [uh] [what's] _up_ ? 
+A|42| B: [that's] awful 
+B|43| M: she nods . 
+A|44| B: uh-huh . 
+B|45| M: [we] [have] [some] pretty good cucumbers . 
+A|46| B: [you're] [in] new york ? 
+B|47| M: [i think] [you] [mean] ... [i don't know] . 
+A|48| B: [yeah .] uh-huh [. [i] mean] [i] [i] tend [to] agree with [you] [. [i] think] [uh] _what_ [i would] like [to] see [is] number _one_ completely [getting] rid [of] these victimless crimes . [uh] there's [no] reason [to] enforce those [and] spend time [and] money doing [it] [and] [and] worry about these things where people [are] [getting] hurt . 
+B|49| M: [the] house [is] [in] baltimore . 
+A|50| B: [and] so [yeah] [it's] [uh] wouldn't [have] [i mean] [oh] [if] something happens [to] her . 
+B|51| M: [you're] [not] [the] only [one] 
+A|52| B: uh-huh . sometimes we'll [have] [uh] we'll [have a] bunch [of] people over [and] cook deer . 
+B|53| M: [i don't know] . 
+A|54| B: [yeah .] sometimes [i] wish [i] could [get] [one] [of] these [uh] chemical services [to] come out [and] spray [for] weeds [and] fertilize [and] all [that] [and] take [that] [one] step out [of] . 
+B|55| M: [what] ?! _i'm not_ [getting] _it ._ 
+A|56| B: [no] [i don't] [think] so either because [a] lot [of] people [um] depending on [how the] public service programs [are] set [up] [and] [i'm not] [that] familiar with them [to] [know] 
+B|57| M: [but] [but] 
+A|58| B: [i] always take home baked bread . 
+B|59| M: _and there was_ [no] language problem . 
+A|60| B: [we] were using baby [food] [and there was] so many baby [food] jars kind [of] [what] started [it .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : yeah . i'll bet they're involved . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=1| B | M : uhh uh i work in georgia tech .
+	Free: Pattern=uh i, Pattern=in
+	Constrained: Pattern=uh, Pattern=i
+Turn ID=2| A | B : yeah it really does .
+	Free: Pattern=really, Pattern=yeah, Pattern=it
+	Constrained: 
+Turn ID=3| B | M : i'm pretty sure they have but i don t know .
+	Free: Pattern=have, Pattern=they, Pattern=i, Pattern=sure, Pattern=but, Pattern=know, Pattern=i'm
+	Constrained: 
+Turn ID=4| A | B : oh . well
+	Free: Pattern=well, Pattern=oh
+	Constrained: 
+Turn ID=5| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : what's that ?
+	Free: Pattern=that, Pattern=what's
+	Constrained: 
+Turn ID=7| B | M : you have a cat ?
+	Free: Pattern=have a, Pattern=you
+	Constrained: Pattern=a, Pattern=have
+Turn ID=8| A | B : well uh uh about the same i dress for school . i uh i am a graduate student so i don't have to worry too much about uh what i wear too much of the time . which is nice .
+	Free: Pattern=well, Pattern=uh, Pattern=what, Pattern=a, Pattern=for, Pattern=. i, Pattern=the, Pattern=of the, Pattern=i don't, Pattern=have, Pattern=is, Pattern=i, Pattern=uh i, Pattern=to
+	Constrained: Pattern=uh, Pattern=of, Pattern=the, Pattern=i
+Turn ID=9| B | M : no you're thinking of the wrong person .
+	Free: Pattern=of the, Pattern=you're, Pattern=no
+	Constrained: Pattern=the, Pattern=of
+Turn ID=10| A | B : but that
+	Free: Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=11| B | M : you can't really get it if you have no fast food
+	Free: Pattern=you, Pattern=have, Pattern=no, Pattern=it, Pattern=if, Pattern=get, Pattern=food, Pattern=really
+	Constrained: 
+Turn ID=12| A | B : uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : that's not how the study is supposed to be done .
+	Free: Pattern=supposed to, Pattern=how the, Pattern=is, Pattern=that's, Pattern=to be, Pattern=not
+	Constrained: Pattern=how, Pattern=to, Pattern=be, Pattern=the
+Turn ID=14| A | B : bye bye .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : i would not go to prison for a year .
+	Free: Pattern=a, Pattern=prison, Pattern=for, Pattern=year, Pattern=i would, Pattern=to, Pattern=not
+	Constrained: Pattern=would, Pattern=i
+Turn ID=16| A | B : uh-huh . yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=17| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : that should be life but instead in in given the choice of either sentencing to death or sentencing to life they'll give them ninety years in prison or something and then turn around in thirty years that you know and less they're out .
+	Free: Pattern=of, Pattern=you, Pattern=prison, Pattern=and, Pattern=in, Pattern=know, Pattern=be, Pattern=the, Pattern=to, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=19| B | M : i'm just trying to keep you from getting your hopes up
+	Free: Pattern=you, Pattern=just, Pattern=i'm, Pattern=getting, Pattern=up, Pattern=to
+	Constrained: 
+Turn ID=20| A | B : and a lot of them decide just not to have children .
+	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=to, Pattern=not, Pattern=just, Pattern=have
+	Constrained: 
+Turn ID=21| B | M : i'm not .
+	Free: Pattern=i'm not
+	Constrained: Pattern=not, Pattern=i'm
+Turn ID=22| A | B : and that would upset a lot of people too because they just want to get on
+	Free: Pattern=of, Pattern=just, Pattern=they, Pattern=a, Pattern=and, Pattern=would, Pattern=to, Pattern=get, Pattern=that
+	Constrained: 
+Turn ID=23| B | M : i'm
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=24| A | B : i think one of the problems with with education as it relates to this though is that i don't know that education is prepared to help people make those changes . it just seems a lot of the training and education that goes on is gearing people towards a profession and not giving them the skills and whatever those skills are necessary to make those job changes which i think is going to be a hard thing for for people to face .
+	Free: Pattern=just, Pattern=a, Pattern=for, Pattern=is, Pattern=the, Pattern=i don't know, Pattern=to, Pattern=to be, Pattern=i think, Pattern=not, Pattern=it, Pattern=and, Pattern=are, Pattern=one, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=i don't, Pattern=think, Pattern=know, Pattern=i, Pattern=be, Pattern=the, Pattern=to
+Turn ID=25| B | M : oh and i ?
+	Free: Pattern=i, Pattern=oh, Pattern=and
+	Constrained: 
+Turn ID=26| A | B : no i mean most of the sports cars are stick shift .
+	Free: Pattern=of the, Pattern=i mean, Pattern=are, Pattern=no
+	Constrained: Pattern=mean, Pattern=i, Pattern=the, Pattern=of
+Turn ID=27| B | M : uhh ... um ... i mean uh i think we're gonna need some of that .
+	Free: Pattern=um, Pattern=some of, Pattern=i mean, Pattern=uh i, Pattern=that, Pattern=i think
+	Constrained: Pattern=of, Pattern=uh, Pattern=mean, Pattern=some, Pattern=think, Pattern=i
+Turn ID=28| A | B : ooh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : how are .
+	Free: Pattern=how, Pattern=are
+	Constrained: 
+Turn ID=30| A | B : okay sure
+	Free: Pattern=sure
+	Constrained: 
+Turn ID=31| B | M : yeah . i got it from a consumer .
+	Free: Pattern=yeah ., Pattern=. i, Pattern=a, Pattern=it
+	Constrained: Pattern=i, Pattern=yeah
+Turn ID=32| A | B : right . well i put
+	Free: Pattern=well, Pattern=i
+	Constrained: 
+Turn ID=33| B | M : well
+	Free: Pattern=well
+	Constrained: 
+Turn ID=34| A | B : you're supposed to what .
+	Free: Pattern=supposed to, Pattern=what, Pattern=you're
+	Constrained: Pattern=to
+Turn ID=35| B | M : i know i'm just saying it's not true
+	Free: Pattern=just, Pattern=i, Pattern=it's, Pattern=not, Pattern=know, Pattern=i'm
+	Constrained: 
+Turn ID=36| A | B : next year i was planting some broccoli and and some of those they're called cabbage cabbage loppers or whatever .
+	Free: Pattern=and, Pattern=i, Pattern=year, Pattern=was, Pattern=some, Pattern=some of
+	Constrained: Pattern=some, Pattern=of
+Turn ID=37| B | M : texas . you ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=38| A | B : oh sure .
+	Free: Pattern=sure, Pattern=oh
+	Constrained: 
+Turn ID=39| B | M : i'm not saying it's not a good idea but it's a terrible idea .
+	Free: Pattern=a, Pattern=i'm not, Pattern=not, Pattern=it's, Pattern=but
+	Constrained: Pattern=not, Pattern=i'm
+Turn ID=40| A | B : uh-huh . right uh yeah we can get uh yeah if we get someone in there like that then you know they could make all sorts of changes that they were you know had enough pull .
+	Free: Pattern=of, Pattern=yeah, Pattern=if, Pattern=in, Pattern=know, Pattern=we, Pattern=get, Pattern=that, Pattern=you, Pattern=uh, Pattern=they, Pattern=there
+	Constrained: 
+Turn ID=41| B | M : yeah uh what's up ?
+	Free: Pattern=up, Pattern=uh, Pattern=what's, Pattern=yeah
+	Constrained: 
+Turn ID=42| A | B : that's awful
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=43| B | M : she nods .
+	Free: 
+	Constrained: 
+Turn ID=44| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : we have some pretty good cucumbers .
+	Free: Pattern=we, Pattern=some, Pattern=have
+	Constrained: 
+Turn ID=46| A | B : you're in new york ?
+	Free: Pattern=in, Pattern=you're
+	Constrained: 
+Turn ID=47| B | M : i think you mean ... i don't know .
+	Free: Pattern=i don't know, Pattern=i think, Pattern=mean, Pattern=you
+	Constrained: Pattern=know, Pattern=think, Pattern=i don't, Pattern=i
+Turn ID=48| A | B : yeah . uh-huh . i mean i i tend to agree with you . i think uh what i would like to see is number one completely getting rid of these victimless crimes . uh there's no reason to enforce those and spend time and money doing it and and worry about these things where people are getting hurt .
+	Free: Pattern=of, Pattern=yeah ., Pattern=. i, Pattern=i would, Pattern=to, Pattern=i think, Pattern=getting, Pattern=you, Pattern=uh, Pattern=no, Pattern=what, Pattern=it, Pattern=and, Pattern=are, Pattern=one, Pattern=is, Pattern=i mean, Pattern=i
+	Constrained: Pattern=mean, Pattern=yeah, Pattern=think, Pattern=i, Pattern=would
+Turn ID=49| B | M : the house is in baltimore .
+	Free: Pattern=in, Pattern=the, Pattern=is
+	Constrained: 
+Turn ID=50| A | B : and so yeah it's uh wouldn't have i mean oh if something happens to her .
+	Free: Pattern=uh, Pattern=have, Pattern=if, Pattern=i mean, Pattern=to, Pattern=it's, Pattern=yeah, Pattern=and, Pattern=oh
+	Constrained: Pattern=mean, Pattern=i
+Turn ID=51| B | M : you're not the only one
+	Free: Pattern=you're, Pattern=not, Pattern=one, Pattern=the
+	Constrained: 
+Turn ID=52| A | B : uh-huh . sometimes we'll have uh we'll have a bunch of people over and cook deer .
+	Free: Pattern=of, Pattern=uh, Pattern=have, Pattern=have a, Pattern=and
+	Constrained: Pattern=a, Pattern=have
+Turn ID=53| B | M : i don't know .
+	Free: Pattern=i don't know
+	Constrained: Pattern=know, Pattern=i don't, Pattern=i
+Turn ID=54| A | B : yeah . sometimes i wish i could get one of these uh chemical services to come out and spray for weeds and fertilize and all that and take that one step out of .
+	Free: Pattern=of, Pattern=uh, Pattern=and, Pattern=one, Pattern=i, Pattern=to, Pattern=get, Pattern=that, Pattern=yeah ., Pattern=for
+	Constrained: Pattern=yeah
+Turn ID=55| B | M : what ?! i'm not getting it .
+	Free: Pattern=it ., Pattern=i'm not, Pattern=what, Pattern=getting
+	Constrained: Pattern=not, Pattern=i'm, Pattern=it
+Turn ID=56| A | B : no i don't think so either because a lot of people um depending on how the public service programs are set up and i'm not that familiar with them to know
+	Free: Pattern=of, Pattern=i don't, Pattern=no, Pattern=are, Pattern=know, Pattern=that, Pattern=um, Pattern=a, Pattern=and, Pattern=i'm not, Pattern=how the, Pattern=think, Pattern=up, Pattern=to
+	Constrained: Pattern=how, Pattern=i'm, Pattern=i, Pattern=the, Pattern=not
+Turn ID=57| B | M : but but
+	Free: Pattern=but
+	Constrained: 
+Turn ID=58| A | B : i always take home baked bread .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=59| B | M : and there was no language problem .
+	Free: Pattern=and there was, Pattern=no
+	Constrained: Pattern=there, Pattern=was, Pattern=and
+Turn ID=60| A | B : we were using baby food and there was so many baby food jars kind of what started it .
+	Free: Pattern=of, Pattern=it ., Pattern=what, Pattern=and there was, Pattern=we, Pattern=food
+	Constrained: Pattern=it, Pattern=was, Pattern=there, Pattern=and

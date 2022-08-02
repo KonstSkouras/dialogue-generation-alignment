@@ -1,0 +1,79 @@
+A|0| B: and um it scares me _a_ little bit _to_ _think_ that _they_ would begin restricting _gun_ control _to_ _the_ point where um eventually _we_ may _not_ _be_ able _to_ have that right any more . 
+B|1| M: ' [the] 
+A|2| B: _yeah_ it uh moving _to_ this area _of_ course it happens everywhere but uh _i_ guess we're pretty naive coming from small towns uh _in_ [the] midwest and _then_ uh moving _to_ _a_ larger city where there are drive-by shootings and uh there seems like killing for no reason at all and uh . 
+B|3| M:  . 
+A|4| B: _i_ _i think_ so and and there's always [the] uh [the] uh [the] old uh saying that keeps coming up that _if_ _a_ person wants _a_ _gun_ bad enough they'll they'll get one and uh and _then_ uh . 
+B|5| M:  
+A|6| B: _yeah_ . 
+B|7| M: yes .. adays 
+A|8| B: _yeah_ . 
+B|9| M: i'm [not] i'm [a] law abiding [gun] owner . 
+A|10| B: _yeah_ _yeah_ that's for sure . 
+B|11| M: [if] [the] military is [in] favor _of the_ law [then] [they] should [be] [in] 
+A|12| B: _yeah_ and uh and you know uh _i_ suppose uh years ago _way_ back when uh when uh [they] had [the] revolutionary war and people decided that [they] uh were fed up with [the] government uh and [if] [they] didn't have [a] _way_ _to_ uh _to_ fight back [they] would have been [in] big trouble . 
+B|13| M: [yeah] y' 
+A|14| B: well _the way_ things are going . 
+B|15| M: oh [i think] [we] need [to] overthrow them [to] overthrow overthrow [the way] . 
+A|16| B: well you know [they] introduced some [gun] control back when [i] was [a] teenager [i] believe [in] terms [of] uh every [gun] you bought had [to] [be] licensed [i] believe . 
+B|17| M:  
+A|18| B: and uh you know that didn't bother me uh too much and so [i] guess it depends um [if] there are some statistics that show that uh that people uh commit crimes on [the] spur [of the] moment . 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : and um it scares me a little bit to think that they would begin restricting gun control to the point where um eventually we may not be able to have that right any more .
+	Free: Pattern=they, Pattern=a, Pattern=gun, Pattern=think, Pattern=we, Pattern=be, Pattern=the, Pattern=to, Pattern=not
+	Constrained: 
+Turn ID=1| B | M : ' the
+	Free: Pattern=the
+	Constrained: 
+Turn ID=2| A | B : yeah it uh moving to this area of course it happens everywhere but uh i guess we're pretty naive coming from small towns uh in the midwest and then uh moving to a larger city where there are drive-by shootings and uh there seems like killing for no reason at all and uh .
+	Free: Pattern=of, Pattern=yeah, Pattern=in, Pattern=i, Pattern=the, Pattern=to, Pattern=then, Pattern=a
+	Constrained: 
+Turn ID=3| B | M :  .
+	Free: 
+	Constrained: 
+Turn ID=4| A | B : i i think so and and there's always the uh the uh the old uh saying that keeps coming up that if a person wants a gun bad enough they'll they'll get one and uh and then uh .
+	Free: Pattern=gun, Pattern=if, Pattern=i, Pattern=the, Pattern=i think, Pattern=then, Pattern=a
+	Constrained: Pattern=i, Pattern=think
+Turn ID=5| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=6| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=7| B | M : yes .. adays
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=9| B | M : i'm not i'm a law abiding gun owner .
+	Free: Pattern=not, Pattern=gun, Pattern=a
+	Constrained: 
+Turn ID=10| A | B : yeah yeah that's for sure .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=11| B | M : if the military is in favor of the law then they should be in
+	Free: Pattern=they, Pattern=then, Pattern=if, Pattern=in, Pattern=be, Pattern=the, Pattern=of the
+	Constrained: Pattern=of, Pattern=the
+Turn ID=12| A | B : yeah and uh and you know uh i suppose uh years ago way back when uh when uh they had the revolutionary war and people decided that they uh were fed up with the government uh and if they didn't have a way to uh to fight back they would have been in big trouble .
+	Free: Pattern=they, Pattern=a, Pattern=yeah, Pattern=if, Pattern=in, Pattern=i, Pattern=the, Pattern=to, Pattern=way
+	Constrained: 
+Turn ID=13| B | M : yeah y'
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=14| A | B : well the way things are going .
+	Free: Pattern=the way
+	Constrained: Pattern=the, Pattern=way
+Turn ID=15| B | M : oh i think we need to overthrow them to overthrow overthrow the way .
+	Free: Pattern=i think, Pattern=the way, Pattern=we, Pattern=to
+	Constrained: Pattern=the, Pattern=i, Pattern=think, Pattern=way
+Turn ID=16| A | B : well you know they introduced some gun control back when i was a teenager i believe in terms of uh every gun you bought had to be licensed i believe .
+	Free: Pattern=of, Pattern=they, Pattern=a, Pattern=gun, Pattern=in, Pattern=i, Pattern=be, Pattern=to
+	Constrained: 
+Turn ID=17| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : and uh you know that didn't bother me uh too much and so i guess it depends um if there are some statistics that show that uh that people uh commit crimes on the spur of the moment .
+	Free: Pattern=of the, Pattern=the, Pattern=i, Pattern=if
+	Constrained: Pattern=of, Pattern=the

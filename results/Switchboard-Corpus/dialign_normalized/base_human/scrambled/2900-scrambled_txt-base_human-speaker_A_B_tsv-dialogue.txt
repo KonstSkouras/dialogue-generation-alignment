@@ -1,0 +1,191 @@
+A|0| A: _so i_ don't _think_ _that_ _they_ deserve anything _less_ 
+B|1| B: yes _i have_ _four_ cats . 
+A|2| A: _oh_ _really_ ? 
+B|3| B: _i was_ born in l _a_ [so i] _know_ what you're talking about . in l _a_ it's pretty _bad_ . 
+A|4| A: uh-huh . _oh_ . 
+B|5| B: [i] [think] [i] pay forty-two percent . 
+A|6| A: _and_ hopefully _he_ won't [have] _too_ _many_ surprises _when_ _he_ gets _home_ . 
+B|7| B: _yeah ._ 
+A|8| A: _for_ colleges ? 
+B|9| B: _well_ _the_ housing _here_ in maryland _is_ _just_ atrocious . [and] in in _the_ entire d c area . _i'm_ _i'm_ only about _uh_ twelve miles _or_ [so] _from_ _the_ _uh_ border _of_ washington d c [and] montgomery county maryland _is_ _probably_ _one_ _of_ _the_ _most_ expensive places _to_ 
+A|10| A: _no_ [i'm] [the] [one] 
+B|11| B: _sure_ _do ._ 
+A|12| A: _but_ our grandchildren _like_ _that_ discovery channel _if_ _they're_ over [here] _because_ lots [of] times _it_ will [have] things _on_ [uh] animals 
+B|13| B: _but i_ _know_ _a lot_ [of] people [have] said [that] [and] then find _out_ how tough [it] _is_ [and] _but i_ [think] you'd _have to_ [really] [they] also wanted _us_ _to_ talk about you'd _have to_ [really] check [on] [the] [uh] [on] _this_ homes . 
+A|14| A: [it] seems _like_ [really] [a] rough _time_ 
+B|15| B: _right_ [but] [it] still _has_ _to be_ [a] group [of] your peers . 
+A|16| A: [i] [do _.] i [have_ [to] be] real careful . 
+B|17| B: _well_ _there is_ [a] guy in dallas _that's_ _all_ [he] does . 
+A|18| A: my daughter _and and_ [i] hate camping [so] _we_ _go_ shopping . [so] [that] [just] _kind of_ works [out] real [well] . 
+B|19| B: _yeah [._ i have] two plots one's ten by ten [and] one's [like] fifteen by _four_ . 
+A|20| A: [yeah .] 
+B|21| B: _i just_ heard _you know_ _last_ _week_ _at_ [that] [one] school [they] started putting them in [because] _there was_ [that] [one] shooting 
+A|22| A: okay . 
+B|23| B: [well] [it] _was_ _good_ talking [to] _you_ [too] . 
+A|24| A: emmett smith [yeah .] 
+B|25| B: [well] _that's_ _right ._ _a lot_ [of] people [they] flunk [out] _or_ [they] get [they] [just] get [so] excited [to be] away _from_ [home] [they] [just] _spend_ _all_ _there_ [time] partying 
+A|26| A: bye-bye . 
+B|27| B: huh ? 
+A|28| A: okay thanks . 
+B|29| B: [that] should [be] life [but] instead in in given [the] choice [of] either sentencing [to] death _or_ sentencing [to] life they'll give them ninety years in prison _or_ something [and] then turn around in thirty years _that _you_ know_ [and] [less] [they're] [out] . 
+A|30| A: uh-huh . 
+B|31| B: _so you know_ [if] [i] [think] _that's_ [a] _good_ way [for] people [to] _you know_ maybe get people [to] come back [to] these small towns [to] work by helping people [that] normally might not _be able to_ [go] [to] college [and] get [the] type [of] degree [they] want . 
+A|32| A: [all] [right .] 
+B|33| B: [and] _you_ _you_ give them your speech [and] maybe [a] little slide show _or_ something 
+A|34| A: [and] [i] [spend] [most] [of] my [time] carpooling 
+B|35| B: [i] mean [i] [i] used [to] enjoy going [i] mean [i] still [do] [kind of] enjoy _it but_ [uh] it's [it] does not it's not as [many] people _there_ [that] [i] [really] [really] enjoy seeing . 
+A|36| A: _oh_ god [i] can't _haven't_ been _up_ [there] [last] [time] [i was] [there was] fall [so] [probably] wasn't [that] [bad] 
+B|37| B: [i] [really] [haven't] [i] [really] [haven't] [uh] [when] [we] built [it] ten years ago [it] [was] [it] ran around [a] hundred [and] forty thousand _dollars_ . 
+A|38| A: [there is] always things [that you] can make priority [to] [it [but] [i] just] [i] don't demand [a lot] [for] myself [and] [so you know] [i just] feel entitled [to] [it] 
+B|39| B: [and] [uh] [uh] [really] [the] only objection [we] [have] [is] [uh] [you] [you] give [a] little [and] next thing [you know] somebody's trying [to] take more . 
+A|40| A: _oh_ [so] [do] [i] . 
+B|41| B: [i have] [a] friend who _has_ [one] [and and] [he] lets _me_ [you know] _no problem_ borrowing [if] it's [just] [a] hassle [when] [you know] [to] [go] [up] 
+A|42| A: my kid will [do] [four] [or] five hours [this] [week] [for] [me] . [no problem] . 
+B|43| B: your news [is] [on] _at_ eleven ? 
+A|44| A: [that's] [for] [sure] . 
+B|45| B: now we've had [one] lately um [oh] [a] [uh] [a] dustbuster plus [that] [we] bought 
+A|46| A: [yeah] my husband [is] [really] [good] [at] fixing things [too] [so] [he] usually [be able to] fix anything [that's] minor [and and] [that] [has] saved [us] thousands [of] [dollars] [you know] [from] [to] mechanic [to] anything [like] [that] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : so i don't think that they deserve anything less
+	Free: Pattern=they, Pattern=so i, Pattern=think, Pattern=less, Pattern=that
+	Constrained: Pattern=so, Pattern=i
+Turn ID=1| B | B : yes i have four cats .
+	Free: Pattern=i have, Pattern=four
+	Constrained: Pattern=have, Pattern=i
+Turn ID=2| A | A : oh really ?
+	Free: Pattern=oh, Pattern=really
+	Constrained: 
+Turn ID=3| B | B : i was born in l a so i know what you're talking about . in l a it's pretty bad .
+	Free: Pattern=bad, Pattern=i was, Pattern=a, Pattern=so i, Pattern=know
+	Constrained: Pattern=so, Pattern=was, Pattern=i
+Turn ID=4| A | A : uh-huh . oh .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=5| B | B : i think i pay forty-two percent .
+	Free: Pattern=think, Pattern=i
+	Constrained: 
+Turn ID=6| A | A : and hopefully he won't have too many surprises when he gets home .
+	Free: Pattern=have, Pattern=many, Pattern=he, Pattern=when, Pattern=home, Pattern=and, Pattern=too
+	Constrained: 
+Turn ID=7| B | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=8| A | A : for colleges ?
+	Free: Pattern=for
+	Constrained: 
+Turn ID=9| B | B : well the housing here in maryland is just atrocious . and in in the entire d c area . i'm i'm only about uh twelve miles or so from the uh border of washington d c and montgomery county maryland is probably one of the most expensive places to
+	Free: Pattern=of, Pattern=well, Pattern=uh, Pattern=just, Pattern=here, Pattern=and, Pattern=one, Pattern=i'm, Pattern=is, Pattern=or, Pattern=most, Pattern=the, Pattern=to, Pattern=so, Pattern=probably, Pattern=from
+	Constrained: 
+Turn ID=10| A | A : no i'm the one
+	Free: Pattern=i'm, Pattern=the, Pattern=one, Pattern=no
+	Constrained: 
+Turn ID=11| B | B : sure do .
+	Free: Pattern=do ., Pattern=sure
+	Constrained: Pattern=do
+Turn ID=12| A | A : but our grandchildren like that discovery channel if they're over here because lots of times it will have things on uh animals
+	Free: Pattern=of, Pattern=uh, Pattern=have, Pattern=here, Pattern=because, Pattern=it, Pattern=if, Pattern=they're, Pattern=like, Pattern=on, Pattern=that, Pattern=but
+	Constrained: 
+Turn ID=13| B | B : but i know a lot of people have said that and then find out how tough it is and but i think you'd have to really they also wanted us to talk about you'd have to really check on the uh on this homes .
+	Free: Pattern=of, Pattern=have, Pattern=us, Pattern=think, Pattern=know, Pattern=is, Pattern=really, Pattern=have to, Pattern=this, Pattern=that, Pattern=uh, Pattern=out, Pattern=they, Pattern=but i, Pattern=it, Pattern=and, Pattern=on, Pattern=the, Pattern=a lot, Pattern=to
+	Constrained: Pattern=have, Pattern=a, Pattern=i, Pattern=to, Pattern=but
+Turn ID=14| A | A : it seems like really a rough time
+	Free: Pattern=time, Pattern=a, Pattern=it, Pattern=really, Pattern=like
+	Constrained: 
+Turn ID=15| B | B : right but it still has to be a group of your peers .
+	Free: Pattern=a, Pattern=to be, Pattern=but, Pattern=right, Pattern=of, Pattern=it, Pattern=has
+	Constrained: Pattern=to, Pattern=be
+Turn ID=16| A | A : i do . i have to be real careful .
+	Free: Pattern=. i have, Pattern=do ., Pattern=i, Pattern=have to, Pattern=to be
+	Constrained: Pattern=have, Pattern=do, Pattern=i, Pattern=be, Pattern=to, Pattern=i have
+Turn ID=17| B | B : well there is a guy in dallas that's all he does .
+	Free: Pattern=well, Pattern=a, Pattern=he, Pattern=there is, Pattern=that's, Pattern=all
+	Constrained: Pattern=is, Pattern=there
+Turn ID=18| A | A : my daughter and and i hate camping so we go shopping . so that just kind of works out real well .
+	Free: Pattern=out, Pattern=go, Pattern=i, Pattern=we, Pattern=that, Pattern=so, Pattern=well, Pattern=kind of, Pattern=just, Pattern=and and
+	Constrained: Pattern=of, Pattern=and
+Turn ID=19| B | B : yeah . i have two plots one's ten by ten and one's like fifteen by four .
+	Free: Pattern=four, Pattern=. i have, Pattern=yeah ., Pattern=and, Pattern=like
+	Constrained: Pattern=i have, Pattern=have, Pattern=yeah, Pattern=i
+Turn ID=20| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=21| B | B : i just heard you know last week at that one school they started putting them in because there was that one shooting
+	Free: Pattern=you know, Pattern=they, Pattern=because, Pattern=one, Pattern=at, Pattern=there was, Pattern=last, Pattern=that, Pattern=i just, Pattern=week
+	Constrained: Pattern=you, Pattern=just, Pattern=there, Pattern=know, Pattern=i, Pattern=was
+Turn ID=22| A | A : okay .
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : well it was good talking to you too .
+	Free: Pattern=good, Pattern=well, Pattern=you, Pattern=to, Pattern=was, Pattern=it, Pattern=too
+	Constrained: 
+Turn ID=24| A | A : emmett smith yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=25| B | B : well that's right . a lot of people they flunk out or they get they just get so excited to be away from home they just spend all there time partying
+	Free: Pattern=time, Pattern=of, Pattern=well, Pattern=out, Pattern=just, Pattern=from, Pattern=right ., Pattern=a lot, Pattern=to be, Pattern=home, Pattern=so, Pattern=they, Pattern=there, Pattern=or, Pattern=spend, Pattern=that's, Pattern=all
+	Constrained: Pattern=a, Pattern=to, Pattern=be, Pattern=right
+Turn ID=26| A | A : bye-bye .
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : huh ?
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : okay thanks .
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : that should be life but instead in in given the choice of either sentencing to death or sentencing to life they'll give them ninety years in prison or something and then turn around in thirty years that you know and less they're out .
+	Free: Pattern=of, Pattern=and, Pattern=they're, Pattern=the, Pattern=to, Pattern=out, Pattern=you know, Pattern=or, Pattern=less, Pattern=that you, Pattern=be, Pattern=that, Pattern=but
+	Constrained: Pattern=know, Pattern=you, Pattern=that
+Turn ID=30| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : so you know if i think that's a good way for people to you know maybe get people to come back to these small towns to work by helping people that normally might not be able to go to college and get the type of degree they want .
+	Free: Pattern=good, Pattern=be able to, Pattern=of, Pattern=you know, Pattern=go, Pattern=they, Pattern=a, Pattern=for, Pattern=and, Pattern=if, Pattern=think, Pattern=i, Pattern=to, Pattern=so you know, Pattern=that, Pattern=that's, Pattern=the
+	Constrained: Pattern=know, Pattern=be, Pattern=to, Pattern=so, Pattern=you, Pattern=you know
+Turn ID=32| A | A : all right .
+	Free: Pattern=right ., Pattern=all
+	Constrained: Pattern=right
+Turn ID=33| B | B : and you you give them your speech and maybe a little slide show or something
+	Free: Pattern=a, Pattern=you, Pattern=or, Pattern=and
+	Constrained: 
+Turn ID=34| A | A : and i spend most of my time carpooling
+	Free: Pattern=time, Pattern=of, Pattern=and, Pattern=i, Pattern=spend, Pattern=most
+	Constrained: 
+Turn ID=35| B | B : i mean i i used to enjoy going i mean i still do kind of enjoy it but uh it's it does not it's not as many people there that i really really enjoy seeing .
+	Free: Pattern=kind of, Pattern=uh, Pattern=do, Pattern=it, Pattern=it but, Pattern=i, Pattern=really, Pattern=to, Pattern=that, Pattern=many, Pattern=there
+	Constrained: Pattern=it, Pattern=of, Pattern=but
+Turn ID=36| A | A : oh god i can't haven't been up there last time i was there was fall so probably wasn't that bad
+	Free: Pattern=bad, Pattern=there, Pattern=oh, Pattern=haven't, Pattern=probably, Pattern=i, Pattern=there was, Pattern=last, Pattern=up, Pattern=that, Pattern=so, Pattern=time, Pattern=i was
+	Constrained: Pattern=there, Pattern=was, Pattern=i
+Turn ID=37| B | B : i really haven't i really haven't uh when we built it ten years ago it was it ran around a hundred and forty thousand dollars .
+	Free: Pattern=uh, Pattern=a, Pattern=haven't, Pattern=i, Pattern=when, Pattern=was, Pattern=it, Pattern=and, Pattern=dollars, Pattern=we, Pattern=really
+	Constrained: 
+Turn ID=38| A | A : there is always things that you can make priority to it but i just i don't demand a lot for myself and so you know i just feel entitled to it
+	Free: Pattern=i just, Pattern=but i, Pattern=for, Pattern=it but, Pattern=i, Pattern=that you, Pattern=so you know, Pattern=it, Pattern=and, Pattern=a lot, Pattern=there is, Pattern=to
+	Constrained: Pattern=just, Pattern=there, Pattern=a, Pattern=it, Pattern=know, Pattern=so, Pattern=you, Pattern=you know, Pattern=is, Pattern=i, Pattern=that, Pattern=but
+Turn ID=39| B | B : and uh uh really the only objection we have is uh you you give a little and next thing you know somebody's trying to take more .
+	Free: Pattern=have, Pattern=a, Pattern=and, Pattern=is, Pattern=the, Pattern=to, Pattern=you, Pattern=uh, Pattern=you know, Pattern=we, Pattern=really
+	Constrained: Pattern=know, Pattern=you
+Turn ID=40| A | A : oh so do i .
+	Free: Pattern=do, Pattern=so, Pattern=i, Pattern=oh
+	Constrained: 
+Turn ID=41| B | B : i have a friend who has one and and he lets me you know no problem borrowing if it's just a hassle when you know to go up
+	Free: Pattern=you know, Pattern=a, Pattern=has, Pattern=he, Pattern=no problem, Pattern=when, Pattern=i have, Pattern=just, Pattern=and and, Pattern=go, Pattern=me, Pattern=one, Pattern=if, Pattern=up, Pattern=to
+	Constrained: Pattern=you, Pattern=have, Pattern=no, Pattern=and, Pattern=know, Pattern=i
+Turn ID=42| A | A : my kid will do four or five hours this week for me . no problem .
+	Free: Pattern=four, Pattern=do, Pattern=for, Pattern=this, Pattern=me, Pattern=week, Pattern=no problem, Pattern=or
+	Constrained: Pattern=no
+Turn ID=43| B | B : your news is on at eleven ?
+	Free: Pattern=is, Pattern=on, Pattern=at
+	Constrained: 
+Turn ID=44| A | A : that's for sure .
+	Free: Pattern=that's, Pattern=for, Pattern=sure
+	Constrained: 
+Turn ID=45| B | B : now we've had one lately um oh a uh a dustbuster plus that we bought
+	Free: Pattern=uh, Pattern=a, Pattern=oh, Pattern=one, Pattern=we, Pattern=that
+	Constrained: 
+Turn ID=46| A | A : yeah my husband is really good at fixing things too so he usually be able to fix anything that's minor and and that has saved us thousands of dollars you know from to mechanic to anything like that
+	Free: Pattern=good, Pattern=be able to, Pattern=of, Pattern=you know, Pattern=and and, Pattern=is, Pattern=that's, Pattern=to, Pattern=that, Pattern=so, Pattern=yeah, Pattern=has, Pattern=too, Pattern=dollars, Pattern=he, Pattern=us, Pattern=at, Pattern=from, Pattern=really, Pattern=like
+	Constrained: Pattern=you, Pattern=and, Pattern=know, Pattern=be, Pattern=to

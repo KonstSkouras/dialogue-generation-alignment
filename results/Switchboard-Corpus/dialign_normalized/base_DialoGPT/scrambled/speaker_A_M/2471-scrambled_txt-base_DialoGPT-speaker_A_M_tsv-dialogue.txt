@@ -1,0 +1,191 @@
+A|0| A: _my_ husband likes pepsi _and_ those cans _are_ steel instead _of_ aluminum _so_ we can't can't ever recycle them . _i think_ _it's_ _a_ good reason _to_ quit buying _it_ . 
+B|1| M: [are] _you_ _in the_ area ? 
+A|2| A: _and_ _they say_ _it's_ going _to_ last about two _to_ three weeks . _and_ _this_ guy [in] front _of_ _me_ _said_ _i_ can't believe _i was_ summonsed . _i was_ an investigator _and_ _i was_ tailing [the] woman _that_ _was_ killed . _well_ then _i_ have _a_ friend at school _that_ has _a_ boyfriend _that's_ _a_ lawyer _and_ _he_ _said_ _that_ _this_ woman _this_ socialite [in] plano had hired four guys _to_ kill her husband _and_ [the] one _that's_ accused _was_ [the] one _that_ actually _did_ _it_ . _and_ she has since taken off with another lawyer who had been _uh_ getting cocaine from his client _and_ then selling _it_ _and_ _he_ had skipped bail _and_ _they_ finally extradited him _and_ he's going _to_ testify for [the] state against her _so_ he'll have his sentence reduced . 
+B|3| M: _that and_ 
+A|4| A: right now both _of_ _us_ [are] students . 
+B|5| M: _well you know_ _what_ [to] _do_ huh ? 
+A|6| A: _i'm_ _i'm_ [in] _a_ neighborhood where we try [to] keep up with everything . _uh_ _i_ am oh about three blocks off _a_ major road [and] _uh_ _a_ couple _of_ blocks off another road [that] kind _of_ runs _i_ guess [you] would _say_ [the] neighborhood road _it_ runs between [the] high school [and] [the] [the] commercial districts [and] _uh_ _i'm_ over [the] northeast part _of_ dallas . _it's_ _a_ [in] _a_ nice neighborhood . [the] houses here _uh_ before [the] recession were running two hundred thousand or _so_ [and] course everything's down ten [to] twenty percent now . 
+B|7| M: _we're_ [in] [uh] [the] _process_ . 
+A|8| A: _is_ [that] _a_ nice vacation spot ? 
+B|9| M: [he] [was] talking [to] [me] . 
+A|10| A: _so_ [uh] but _i_ _i_ am ready for _a_ little bit _of the_ cooler weather [and] _not_ _so_ _much_ [in the] nineties but something _like_ 
+B|11| M: [i] 
+A|12| A: yep . 
+B|13| M: [you] could _be_ . [not] . [not] . 
+A|14| A: uh-huh . 
+B|15| M:  
+A|16| A: _it_ really _is_ . 
+B|17| M: [i think] [in] [this] case [it's] _just_ _more of_ [a] deterrent . 
+A|18| A: [well] [i think] [you] hit on one _point_ there _is_ [you know] each other . 
+B|19| M: how [much] ? 
+A|20| A: uh-huh . health food [uh] restaurants [that] 
+B|21| M: [so] [you know] [they] 
+A|22| A: uh-huh . 
+B|23| M: _i know_ 
+A|24| A: but [i] wish [that] [uh] [more _of] the_ cans [you know] _like_ [the] cans [you] buy vegetables [and] fruit [and] stuff _like_ [that] [in] were recyclable . [i] _don't_ [a] lot [of] _that's_ [that] recyclable steel [and] [i] _don't know_ anybody [that] takes _that ._ 
+B|25| M: _what_ _do_ [you] mean ? 
+A|26| A: [and] [i] um [i] [just] refuse [to] buy _it_ um if [i know] _i'm_ [not] going [to] [be] there for at least five years [uh] [you] [you know] . 
+B|27| M: [it's] [the] whole [point] [of the] article . 
+A|28| A: [i] _don't_ want [to] play strike out [you know] . 
+B|29| M: [it's] okay [i'm] [a] second generation [i was] raised by [my] father . 
+A|30| A: _yeah_ _yeah ._ 
+B|31| M: _what_ [did] [they say] ? 
+A|32| A: yep . 
+B|33| M: u 
+A|34| A: _yeah_ with [uh] with our current [uh] organization we [do] have [a] nice retirement package [and] also [a] [a] nice _thing_ [that] [that] we have [in] our corporation _is_ [a] [uh] _is_ [a] profit sharing plan where we can [uh] participate [in the] [the] profits [of the] company . if [we're] [you know] if we've been there [a] while [and] [we're] vested [uh] which means [that] [you know] we have [a] an interest [uh] [in the] company [that] we can [uh] get some [of the] benefits [of the] either [the] profit high times or or [in] [a] sense suffer during [the] low times 
+B|35| M: because [the] world [is] full [of] people [that] [don't know] how [to] [do] [that .] 
+A|36| A: [and] [i] [don't] have [that] [in] [my] current operation but [uh] [you] mentioned [uh] flexible work schedule [and] _that's_ _that's_ good . 
+B|37| M: uuh [uh] charge [they] pay charge 
+A|38| A: uh-huh . 
+B|39| M: hehehe [yeah .] 
+A|40| A: [and] [i] [and] [i] bet _it_ gives [you] [a] real good feeling [to] [be] doing [that .] 
+B|41| M: [that's] _what_ [i] [said] . 
+A|42| A: she lives [in] garland [and] [i'm] [not] sure where [what] she does . but she's [uh] oh she's very heavy [in] [that and] she takes her own bags [to] [the] grocery store 
+B|43| M: [the] [us] . 
+A|44| A: yes . [well you know] [that's] part [of the] aging [process] [that] your taste buds goes back [to] [the] sweet taste . 
+B|45| M: [that's] [uh] [that's] [the] [thing] isn't [it] ? 
+B|46| M: [they] look [like] [a] . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : my husband likes pepsi and those cans are steel instead of aluminum so we can't can't ever recycle them . i think it's a good reason to quit buying it .
+	Free: Pattern=of, Pattern=a, Pattern=are, Pattern=to, Pattern=my, Pattern=it's, Pattern=it, Pattern=and, Pattern=so, Pattern=i think
+	Constrained: Pattern=i
+Turn ID=1| B | M : are you in the area ?
+	Free: Pattern=in the, Pattern=are, Pattern=you
+	Constrained: Pattern=in, Pattern=the
+Turn ID=2| A | A : and they say it's going to last about two to three weeks . and this guy in front of me said i can't believe i was summonsed . i was an investigator and i was tailing the woman that was killed . well then i have a friend at school that has a boyfriend that's a lawyer and he said that this woman this socialite in plano had hired four guys to kill her husband and the one that's accused was the one that actually did it . and she has since taken off with another lawyer who had been uh getting cocaine from his client and then selling it and he had skipped bail and they finally extradited him and he's going to testify for the state against her so he'll have his sentence reduced .
+	Free: Pattern=i was, Pattern=of, Pattern=well, Pattern=uh, Pattern=me, Pattern=he, Pattern=in, Pattern=i, Pattern=to, Pattern=this, Pattern=so, Pattern=said, Pattern=they, Pattern=did, Pattern=a, Pattern=it, Pattern=and, Pattern=that's, Pattern=the, Pattern=they say, Pattern=was, Pattern=that, Pattern=it's
+	Constrained: Pattern=say, Pattern=was, Pattern=i, Pattern=they
+Turn ID=3| B | M : that and
+	Free: Pattern=that and
+	Constrained: Pattern=that, Pattern=and
+Turn ID=4| A | A : right now both of us are students .
+	Free: Pattern=us, Pattern=are, Pattern=of
+	Constrained: 
+Turn ID=5| B | M : well you know what to do huh ?
+	Free: Pattern=well you know, Pattern=to, Pattern=what, Pattern=do
+	Constrained: Pattern=you know, Pattern=well, Pattern=you
+Turn ID=6| A | A : i'm i'm in a neighborhood where we try to keep up with everything . uh i am oh about three blocks off a major road and uh a couple of blocks off another road that kind of runs i guess you would say the neighborhood road it runs between the high school and the the commercial districts and uh i'm over the northeast part of dallas . it's a in a nice neighborhood . the houses here uh before the recession were running two hundred thousand or so and course everything's down ten to twenty percent now .
+	Free: Pattern=of, Pattern=a, Pattern=in, Pattern=i, Pattern=the, Pattern=to, Pattern=so, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=say, Pattern=i'm, Pattern=that, Pattern=it's
+	Constrained: 
+Turn ID=7| B | M : we're in uh the process .
+	Free: Pattern=uh, Pattern=in, Pattern=the, Pattern=we're, Pattern=process
+	Constrained: 
+Turn ID=8| A | A : is that a nice vacation spot ?
+	Free: Pattern=that, Pattern=is, Pattern=a
+	Constrained: 
+Turn ID=9| B | M : he was talking to me .
+	Free: Pattern=to, Pattern=he, Pattern=was, Pattern=me
+	Constrained: 
+Turn ID=10| A | A : so uh but i i am ready for a little bit of the cooler weather and not so much in the nineties but something like
+	Free: Pattern=uh, Pattern=a, Pattern=and, Pattern=in the, Pattern=i, Pattern=like, Pattern=much, Pattern=of the, Pattern=so, Pattern=not
+	Constrained: Pattern=in, Pattern=the, Pattern=of
+Turn ID=11| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=12| A | A : yep .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : you could be . not . not .
+	Free: Pattern=not, Pattern=you, Pattern=be
+	Constrained: 
+Turn ID=14| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : it really is .
+	Free: Pattern=it, Pattern=is
+	Constrained: 
+Turn ID=17| B | M : i think in this case it's just more of a deterrent .
+	Free: Pattern=just, Pattern=a, Pattern=in, Pattern=more of, Pattern=this, Pattern=it's, Pattern=i think
+	Constrained: Pattern=i, Pattern=of
+Turn ID=18| A | A : well i think you hit on one point there is you know each other .
+	Free: Pattern=well, Pattern=is, Pattern=point, Pattern=i think, Pattern=you, Pattern=you know
+	Constrained: Pattern=you, Pattern=i
+Turn ID=19| B | M : how much ?
+	Free: Pattern=much
+	Constrained: 
+Turn ID=20| A | A : uh-huh . health food uh restaurants that
+	Free: Pattern=that, Pattern=uh
+	Constrained: 
+Turn ID=21| B | M : so you know they
+	Free: Pattern=you know, Pattern=so, Pattern=they
+	Constrained: Pattern=you
+Turn ID=22| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : i know
+	Free: Pattern=i know
+	Constrained: Pattern=i
+Turn ID=24| A | A : but i wish that uh more of the cans you know like the cans you buy vegetables and fruit and stuff like that in were recyclable . i don't a lot of that's that recyclable steel and i don't know anybody that takes that .
+	Free: Pattern=a, Pattern=don't know, Pattern=and, Pattern=in, Pattern=like, Pattern=don't, Pattern=of, Pattern=that ., Pattern=you, Pattern=uh, Pattern=you know, Pattern=more of, Pattern=i, Pattern=that's, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=you, Pattern=the, Pattern=don't, Pattern=that
+Turn ID=25| B | M : what do you mean ?
+	Free: Pattern=what, Pattern=do, Pattern=you
+	Constrained: 
+Turn ID=26| A | A : and i um i just refuse to buy it um if i know i'm not going to be there for at least five years uh you you know .
+	Free: Pattern=i'm, Pattern=i, Pattern=be, Pattern=to, Pattern=not, Pattern=you, Pattern=uh, Pattern=you know, Pattern=just, Pattern=i know, Pattern=it, Pattern=and
+	Constrained: Pattern=you, Pattern=i
+Turn ID=27| B | M : it's the whole point of the article .
+	Free: Pattern=of the, Pattern=the, Pattern=point, Pattern=it's
+	Constrained: Pattern=the, Pattern=of
+Turn ID=28| A | A : i don't want to play strike out you know .
+	Free: Pattern=you know, Pattern=to, Pattern=don't, Pattern=i
+	Constrained: Pattern=you
+Turn ID=29| B | M : it's okay i'm a second generation i was raised by my father .
+	Free: Pattern=i was, Pattern=a, Pattern=i'm, Pattern=my, Pattern=it's
+	Constrained: Pattern=was, Pattern=i
+Turn ID=30| A | A : yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=31| B | M : what did they say ?
+	Free: Pattern=they say, Pattern=did, Pattern=what
+	Constrained: Pattern=say, Pattern=they
+Turn ID=32| A | A : yep .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : u
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : yeah with uh with our current uh organization we do have a nice retirement package and also a a nice thing that that we have in our corporation is a uh is a profit sharing plan where we can uh participate in the the profits of the company . if we're you know if we've been there a while and we're vested uh which means that you know we have a an interest uh in the company that we can uh get some of the benefits of the either the profit high times or or in a sense suffer during the low times
+	Free: Pattern=in the, Pattern=in, Pattern=is, Pattern=we're, Pattern=uh, Pattern=you know, Pattern=do, Pattern=a, Pattern=yeah, Pattern=and, Pattern=thing, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=in, Pattern=of, Pattern=the, Pattern=you
+Turn ID=35| B | M : because the world is full of people that don't know how to do that .
+	Free: Pattern=do, Pattern=don't know, Pattern=is, Pattern=the, Pattern=to, Pattern=that, Pattern=of, Pattern=that .
+	Constrained: Pattern=that, Pattern=don't
+Turn ID=36| A | A : and i don't have that in my current operation but uh you mentioned uh flexible work schedule and that's that's good .
+	Free: Pattern=and, Pattern=in, Pattern=i, Pattern=that's, Pattern=don't, Pattern=my, Pattern=that, Pattern=you, Pattern=uh
+	Constrained: 
+Turn ID=37| B | M : uuh uh charge they pay charge
+	Free: Pattern=uh, Pattern=they
+	Constrained: 
+Turn ID=38| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : hehehe yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=40| A | A : and i and i bet it gives you a real good feeling to be doing that .
+	Free: Pattern=that ., Pattern=you, Pattern=a, Pattern=i, Pattern=be, Pattern=to, Pattern=it, Pattern=and
+	Constrained: Pattern=that
+Turn ID=41| B | M : that's what i said .
+	Free: Pattern=what, Pattern=that's, Pattern=i, Pattern=said
+	Constrained: 
+Turn ID=42| A | A : she lives in garland and i'm not sure where what she does . but she's uh oh she's very heavy in that and she takes her own bags to the grocery store
+	Free: Pattern=uh, Pattern=what, Pattern=and, Pattern=that and, Pattern=in, Pattern=i'm, Pattern=the, Pattern=to, Pattern=not
+	Constrained: Pattern=that, Pattern=and
+Turn ID=43| B | M : the us .
+	Free: Pattern=us, Pattern=the
+	Constrained: 
+Turn ID=44| A | A : yes . well you know that's part of the aging process that your taste buds goes back to the sweet taste .
+	Free: Pattern=well you know, Pattern=to, Pattern=that's, Pattern=the, Pattern=process, Pattern=of the, Pattern=that
+	Constrained: Pattern=of, Pattern=well, Pattern=the, Pattern=you, Pattern=you know
+Turn ID=45| B | M : that's uh that's the thing isn't it ?
+	Free: Pattern=uh, Pattern=it, Pattern=thing, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=46| B | M : they look like a .
+	Free: Pattern=a, Pattern=they, Pattern=like
+	Constrained: 

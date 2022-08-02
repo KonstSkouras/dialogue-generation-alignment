@@ -1,0 +1,115 @@
+B|0| M:  
+A|1| A: _well_ _there's_ _uh_ places _in_ wisconsin . _there's_ _the_ apostle islands _uh_ which _are_ _in_ bayfield which is _a_ wonderful place . 
+B|2| M: _so ._ _of_ . land 
+A|3| A: and then _there's_ also _uh_ what _we_ found _uh_ _in the_ state [of] _uh_ _south_ dakota _the_ black hills . 
+B|4| M: i'm _a little_ confused [are] _you_ saying _that_ [there's] [a] lake _or_ _that_ _there_ [are] no lakes [in the] [south] ? 
+A|5| A: and _we_ just _have_ this _uh_ really good time [there] . one thing is they don't _have_ mosquitoes and _uh_ sorry _to_ say and _uh_ [in] wisconsin _we_ do [so] [that] kind [of] puts [a little] bit _of a_ hamper on your _uh_ _you know_ if if you're going _to_ go camping who wants _to_ deal with bugs and _uh_ 
+B|6| M: [well] 
+A|7| A: _we_ found this one area [that] doesn't _have_ mosquitoes . they just don't _have_ them and it's just wonderful not _to_ _be_ bugged all night long with [a] humming mosquito at your ear 
+B|8| M: _we have_ mosquit . 
+A|9| A: uh-huh . sure . 
+B|10| M: how 
+A|11| A: sure . uh-huh . sure . 
+B|12| M:  ... 
+A|13| A: yeah yeah . 
+B|14| M: [you know] _i_ think i've heard [of a] guy ... 
+A|15| A: [that] was really called roughing it yeah . [i] anymore . yeah see 
+B|16| M: you'd [be] hard pressed [to] _find_ [a] [a] _or_ [a] 
+A|17| A: uh-huh . sure . uh-huh . 
+B|18| M: yup . [uh] [i] think [so] 
+A|19| A: than [you] sure . than it when [you] were younger uh-huh . 
+B|20| M: [uh] yea . 
+A|21| A: it with kids they don't care if they take [a] shower everyday . with kids they don't care [you know] [uh] [a] about [a] lot [of] things . but as adults [uh] it's like if [i] don't take [a] shower every day [i] feel like [you know] ooh . 
+B|22| M: no ... 
+A|23| A: [i] [i] just don't feel right [so .] [there's] lots [of] places if you're going [to] go camping . k o [a] [are] wonderful . it's kind [of] it's kind [of] [the] [uh] yuppie type [of] camping because they [have] showers they [have] things for kids [to] do . they [have] swimming pools things like [that] . if [you] can [find] [uh] some really nice clean [uh] campgrounds versus [uh] if [you] go [to] state parks [uh] 
+B|24| M: u 
+A|25| A: [we have] found state parks not [that] they're lacking but [uh] they're certainly not up [to] [a] standard [of a] k o [a] where it's [you know] [a little] bit cleaner . you've got [the] showers available . it's not [you know] [in the] same category . state parks [you know] [you] get [a little] bit fearful too [uh] [you know] things like [that] simply because it they [are] supposed [to] [be] patrolled but [uh] [you know] it's it's [a little] bit different . but [so] we've always kind [of] stayed with [a] k o [a] and then [uh] did other things besides just sit at [the] campground at night . that's [the] only time [you] really use your campground . if you're going [to] [be] gone all day long walking someplace [or] doing tourism [or] whatever [uh] you're camping really is just for like [in the] evening [to] start [the] fire [to] sit back and watch [a] fire [uh] [to] enjoy [that] [you know] and then [to] get up [in the] morning and get [a] shower and get cleaned up [that] kind [of] stuff . 
+B|26| M:  
+A|27| A: [so] [we] never really spent [that] much time at [the] campground as much as [we] did 
+
+
+TURN DETAILS:
+Turn ID=0| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : well there's uh places in wisconsin . there's the apostle islands uh which are in bayfield which is a wonderful place .
+	Free: Pattern=well, Pattern=uh, Pattern=a, Pattern=are, Pattern=there's, Pattern=in, Pattern=the
+	Constrained: 
+Turn ID=2| B | M : so . of . land
+	Free: Pattern=so ., Pattern=of
+	Constrained: Pattern=so
+Turn ID=3| A | A : and then there's also uh what we found uh in the state of uh south dakota the black hills .
+	Free: Pattern=of, Pattern=uh, Pattern=in the, Pattern=there's, Pattern=we, Pattern=the, Pattern=south
+	Constrained: Pattern=the, Pattern=in
+Turn ID=4| B | M : i'm a little confused are you saying that there's a lake or that there are no lakes in the south ?
+	Free: Pattern=you, Pattern=there, Pattern=a, Pattern=a little, Pattern=there's, Pattern=or, Pattern=south, Pattern=that, Pattern=are, Pattern=in the
+	Constrained: Pattern=the, Pattern=in, Pattern=a
+Turn ID=5| A | A : and we just have this uh really good time there . one thing is they don't have mosquitoes and uh sorry to say and uh in wisconsin we do so that kind of puts a little bit of a hamper on your uh you know if if you're going to go camping who wants to deal with bugs and uh
+	Free: Pattern=of, Pattern=have, Pattern=there, Pattern=a little, Pattern=in, Pattern=we, Pattern=of a, Pattern=to, Pattern=that, Pattern=so, Pattern=uh, Pattern=you know
+	Constrained: Pattern=a, Pattern=of, Pattern=you
+Turn ID=6| B | M : well
+	Free: Pattern=well
+	Constrained: 
+Turn ID=7| A | A : we found this one area that doesn't have mosquitoes . they just don't have them and it's just wonderful not to be bugged all night long with a humming mosquito at your ear
+	Free: Pattern=have, Pattern=a, Pattern=we, Pattern=be, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=8| B | M : we have mosquit .
+	Free: Pattern=we have
+	Constrained: Pattern=have, Pattern=we
+Turn ID=9| A | A : uh-huh . sure .
+	Free: 
+	Constrained: 
+Turn ID=10| B | M : how
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : sure . uh-huh . sure .
+	Free: 
+	Constrained: 
+Turn ID=12| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : yeah yeah .
+	Free: 
+	Constrained: 
+Turn ID=14| B | M : you know i think i've heard of a guy ...
+	Free: Pattern=you know, Pattern=of a, Pattern=i
+	Constrained: Pattern=you, Pattern=a, Pattern=of
+Turn ID=15| A | A : that was really called roughing it yeah . i anymore . yeah see
+	Free: Pattern=i, Pattern=that
+	Constrained: 
+Turn ID=16| B | M : you'd be hard pressed to find a a or a
+	Free: Pattern=a, Pattern=or, Pattern=be, Pattern=to, Pattern=find
+	Constrained: 
+Turn ID=17| A | A : uh-huh . sure . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=18| B | M : yup . uh i think so
+	Free: Pattern=uh, Pattern=so, Pattern=i
+	Constrained: 
+Turn ID=19| A | A : than you sure . than it when you were younger uh-huh .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=20| B | M : uh yea .
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=21| A | A : it with kids they don't care if they take a shower everyday . with kids they don't care you know uh a about a lot of things . but as adults uh it's like if i don't take a shower every day i feel like you know ooh .
+	Free: Pattern=of, Pattern=a, Pattern=i, Pattern=uh, Pattern=you know
+	Constrained: Pattern=you
+Turn ID=22| B | M : no ...
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : i i just don't feel right so . there's lots of places if you're going to go camping . k o a are wonderful . it's kind of it's kind of the uh yuppie type of camping because they have showers they have things for kids to do . they have swimming pools things like that . if you can find uh some really nice clean uh campgrounds versus uh if you go to state parks uh
+	Free: Pattern=of, Pattern=have, Pattern=a, Pattern=are, Pattern=there's, Pattern=i, Pattern=the, Pattern=to, Pattern=so ., Pattern=you, Pattern=uh, Pattern=that, Pattern=find
+	Constrained: Pattern=so
+Turn ID=24| B | M : u
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : we have found state parks not that they're lacking but uh they're certainly not up to a standard of a k o a where it's you know a little bit cleaner . you've got the showers available . it's not you know in the same category . state parks you know you get a little bit fearful too uh you know things like that simply because it they are supposed to be patrolled but uh you know it's it's a little bit different . but so we've always kind of stayed with a k o a and then uh did other things besides just sit at the campground at night . that's the only time you really use your campground . if you're going to be gone all day long walking someplace or doing tourism or whatever uh you're camping really is just for like in the evening to start the fire to sit back and watch a fire uh to enjoy that you know and then to get up in the morning and get a shower and get cleaned up that kind of stuff .
+	Free: Pattern=of, Pattern=a, Pattern=or, Pattern=the, Pattern=to, Pattern=that, Pattern=so, Pattern=you, Pattern=uh, Pattern=you know, Pattern=are, Pattern=in the, Pattern=we have, Pattern=a little, Pattern=of a, Pattern=be
+	Constrained: Pattern=of, Pattern=you, Pattern=have, Pattern=a, Pattern=in, Pattern=we, Pattern=the
+Turn ID=26| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : so we never really spent that much time at the campground as much as we did
+	Free: Pattern=the, Pattern=we, Pattern=so, Pattern=that
+	Constrained: 

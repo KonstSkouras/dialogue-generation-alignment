@@ -1,0 +1,171 @@
+A|0| B: _oh_ _i know ._ 
+B|1| M: _i think_ _it's_ _a_ sign _of the_ times _that i_ am _a_ normal person . 
+A|2| B: _oh_ [i] bet . 
+B|3| M: _he_ _was_ _in_ _a_ _time_ _out_ 
+A|4| B: _it_ _it_ _can_ still show up _and_ _it_ _can_ still flag as [a] positive _and_ _and_ those kinds [of] things obviously _that's_ _not_ [the] intent 
+B|5| M: [i] _have to_ . 
+A|6| B: well _and_ [the] thing with bundy [was] though [he] escaped 
+B|7| M: ii 
+A|8| B: right . [i] _mean_ sunday dinner [was] at my grandmother's _and_ _you_ _know_ _like_ [i] said _there_ would be thirty _you_ _know_ thirty _people_ _and_ everyone would just bring things _and_ my grandmother would cook _and_ cook _and_ cook . 
+B|9| M: [you] 
+A|10| B: _oh_ my god . 
+B|11| M: _what_ kind [of] engineering _are_ [you] _doing_ ? 
+A|12| B: _and_ so we've got plenty [of] [time] [to] go because down here [in] houston [it's] _uh_ [the] lines [are] long . 
+B|13| M: but [you] _can't_ make [a] choice [to] participate . 
+A|14| B: _and_ _i'm_ _like_ _i don't_ believe _this_ . 
+B|15| M: _they_ [are] ? 
+A|16| B: someone _in the_ what's [the] name [of] [that] restaurant ? _in the_ background where at ? . someone _in the_ background [the] hari krishna . _in the_ background relies _oh_ . kalachandji's . kalachandji's . [it's] all vegetarian _and_ _it_ _it_ [was] just fabulous . [i] _mean_ my husband [was] aghast because [i] ate turnip greens _and_ liked _it ._ 
+B|17| M: [i] am [the] child _of the_ child . 
+A|18| B: uh-huh uh-huh 
+B|19| M: [i know .] 
+A|20| B: uh-huh . 
+B|21| M: _what_ about camping ? 
+A|22| B: first [of] all you're coming [to] me _and_ let's see how we _can get_ rid [of the] problem [you] [know] _and_ _that's_ _uh_ _that's_ very _that's_ very hard [to] _do_ because once you're best friends with your parents then [i think] everything go [a] lot better . 
+B|23| M: [do] [you] [mean] [like] when [i] [get] [the] message ? 
+A|24| B: _and_ now _i don't_ let my kids [out] [of the] front yard [that i] [can't] see them . 
+B|25| M: _i've_ seen [people] _do it_ but [i don't] [think] [it's] [the] same . 
+A|26| B: [i've] been [to] telluride which _is_ on [the] west side _and_ _uh_ copper 
+B|27| M: [are] [you] interested [in the] car ? 
+A|28| B: so _if_ [it's] your peers _and_ you're _not_ educated then 
+B|29| M: [i'm] [not] sure [if] [this] [is] bad or good . 
+A|30| B: [i] never felt spoiled . [in] fact [i] always thought my toys were destroyed 
+B|31| M: _yeah_ _and _i think_ that's_ [the] reason why [people] _do [it_ .] 
+A|32| B: uh-huh uh-huh . uh-huh . 
+B|33| M: [i] read [the] books [in the] morning . 
+A|34| B: [and] once you've established [the] fact [that] you're [not] [a] drug user [and] especially [if] your personality proves [that] you're [not] . [i think] [they] could _uh_ save money by [not] [doing] [that] . [you] [know] every [time] say [if] [you] change jobs [you] wouldn't [have to] [do it] [if] you'd just been tested at your other work place . 
+B|35| M: [oh] [uh] [i] lived [there] . 
+A|36| B: [and] [it] always will be [and] [and i think] too noticing [the] kids [that] [the] fourth [and] fifth graders which [is] [what] my son [is] [and] stuff [they] they're just they're more they're very open . 
+B|37| M: [i'm] [in] texas . 
+A|38| B: [uh] no [not] actually 
+B|39| M: [i'm] pretty sure [you] [can get] into [the] cave 
+A|40| B: [yeah] [i] [i think that's] [yeah] . [yeah] . 
+B|41| M:  ... 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : oh i know .
+	Free: Pattern=i know ., Pattern=oh
+	Constrained: Pattern=i, Pattern=know
+Turn ID=1| B | M : i think it's a sign of the times that i am a normal person .
+	Free: Pattern=a, Pattern=that i, Pattern=i think, Pattern=of the, Pattern=it's
+	Constrained: Pattern=of, Pattern=think, Pattern=i, Pattern=the, Pattern=that
+Turn ID=2| A | B : oh i bet .
+	Free: Pattern=i, Pattern=oh
+	Constrained: 
+Turn ID=3| B | M : he was in a time out
+	Free: Pattern=time, Pattern=out, Pattern=a, Pattern=he, Pattern=in, Pattern=was
+	Constrained: 
+Turn ID=4| A | B : it it can still show up and it can still flag as a positive and and those kinds of things obviously that's not the intent
+	Free: Pattern=of, Pattern=a, Pattern=can, Pattern=not, Pattern=it, Pattern=and, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=5| B | M : i have to .
+	Free: Pattern=have to, Pattern=i
+	Constrained: Pattern=to
+Turn ID=6| A | B : well and the thing with bundy was though he escaped
+	Free: Pattern=he, Pattern=was, Pattern=the, Pattern=and
+	Constrained: 
+Turn ID=7| B | M : ii
+	Free: 
+	Constrained: 
+Turn ID=8| A | B : right . i mean sunday dinner was at my grandmother's and you know like i said there would be thirty you know thirty people and everyone would just bring things and my grandmother would cook and cook and cook .
+	Free: Pattern=you, Pattern=there, Pattern=and, Pattern=know, Pattern=i, Pattern=like, Pattern=was, Pattern=people, Pattern=mean
+	Constrained: 
+Turn ID=9| B | M : you
+	Free: Pattern=you
+	Constrained: 
+Turn ID=10| A | B : oh my god .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=11| B | M : what kind of engineering are you doing ?
+	Free: Pattern=of, Pattern=you, Pattern=what, Pattern=doing, Pattern=are
+	Constrained: 
+Turn ID=12| A | B : and so we've got plenty of time to go because down here in houston it's uh the lines are long .
+	Free: Pattern=time, Pattern=of, Pattern=uh, Pattern=and, Pattern=are, Pattern=in, Pattern=the, Pattern=to, Pattern=it's
+	Constrained: 
+Turn ID=13| B | M : but you can't make a choice to participate .
+	Free: Pattern=to, Pattern=you, Pattern=a, Pattern=can't
+	Constrained: 
+Turn ID=14| A | B : and i'm like i don't believe this .
+	Free: Pattern=i don't, Pattern=and, Pattern=i'm, Pattern=like, Pattern=this
+	Constrained: Pattern=i
+Turn ID=15| B | M : they are ?
+	Free: Pattern=are, Pattern=they
+	Constrained: 
+Turn ID=16| A | B : someone in the what's the name of that restaurant ? in the background where at ? . someone in the background the hari krishna . in the background relies oh . kalachandji's . kalachandji's . it's all vegetarian and it it was just fabulous . i mean my husband was aghast because i ate turnip greens and liked it .
+	Free: Pattern=of, Pattern=it ., Pattern=mean, Pattern=in the, Pattern=i, Pattern=the, Pattern=was, Pattern=it, Pattern=and, Pattern=oh, Pattern=that, Pattern=it's
+	Constrained: Pattern=it, Pattern=in, Pattern=the
+Turn ID=17| B | M : i am the child of the child .
+	Free: Pattern=of the, Pattern=i, Pattern=the
+	Constrained: Pattern=the, Pattern=of
+Turn ID=18| A | B : uh-huh uh-huh
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : i know .
+	Free: Pattern=i know .
+	Constrained: Pattern=i, Pattern=know
+Turn ID=20| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : what about camping ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=22| A | B : first of all you're coming to me and let's see how we can get rid of the problem you know and that's uh that's very that's very hard to do because once you're best friends with your parents then i think everything go a lot better .
+	Free: Pattern=of, Pattern=and, Pattern=know, Pattern=that's, Pattern=can get, Pattern=to, Pattern=of the, Pattern=i think, Pattern=you, Pattern=uh, Pattern=do, Pattern=a
+	Constrained: Pattern=of, Pattern=can, Pattern=think, Pattern=i, Pattern=the, Pattern=get
+Turn ID=23| B | M : do you mean like when i get the message ?
+	Free: Pattern=you, Pattern=mean, Pattern=do, Pattern=i, Pattern=like, Pattern=the, Pattern=get
+	Constrained: 
+Turn ID=24| A | B : and now i don't let my kids out of the front yard that i can't see them .
+	Free: Pattern=out, Pattern=i don't, Pattern=and, Pattern=can't, Pattern=that i, Pattern=of the
+	Constrained: Pattern=of, Pattern=the, Pattern=i, Pattern=that
+Turn ID=25| B | M : i've seen people do it but i don't think it's the same .
+	Free: Pattern=i've, Pattern=think, Pattern=do it, Pattern=the, Pattern=it's, Pattern=people, Pattern=i don't
+	Constrained: Pattern=do, Pattern=it, Pattern=i
+Turn ID=26| A | B : i've been to telluride which is on the west side and uh copper
+	Free: Pattern=uh, Pattern=and, Pattern=i've, Pattern=is, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=27| B | M : are you interested in the car ?
+	Free: Pattern=in the, Pattern=you, Pattern=are
+	Constrained: Pattern=in, Pattern=the
+Turn ID=28| A | B : so if it's your peers and you're not educated then
+	Free: Pattern=if, Pattern=and, Pattern=not, Pattern=it's
+	Constrained: 
+Turn ID=29| B | M : i'm not sure if this is bad or good .
+	Free: Pattern=if, Pattern=i'm, Pattern=is, Pattern=this, Pattern=not
+	Constrained: 
+Turn ID=30| A | B : i never felt spoiled . in fact i always thought my toys were destroyed
+	Free: Pattern=in, Pattern=i
+	Constrained: 
+Turn ID=31| B | M : yeah and i think that's the reason why people do it .
+	Free: Pattern=people, Pattern=yeah, Pattern=do it, Pattern=the, Pattern=and i think, Pattern=i think that's, Pattern=it .
+	Constrained: Pattern=do, Pattern=think, Pattern=i, Pattern=that's, Pattern=i think, Pattern=it, Pattern=and
+Turn ID=32| A | B : uh-huh uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : i read the books in the morning .
+	Free: Pattern=in the, Pattern=i, Pattern=the
+	Constrained: Pattern=in, Pattern=the
+Turn ID=34| A | B : and once you've established the fact that you're not a drug user and especially if your personality proves that you're not . i think they could uh save money by not doing that . you know every time say if you change jobs you wouldn't have to do it if you'd just been tested at your other work place .
+	Free: Pattern=time, Pattern=they, Pattern=a, Pattern=doing, Pattern=and, Pattern=if, Pattern=know, Pattern=do it, Pattern=the, Pattern=have to, Pattern=that, Pattern=i think, Pattern=not, Pattern=you, Pattern=uh
+	Constrained: Pattern=do, Pattern=it, Pattern=think, Pattern=i, Pattern=to
+Turn ID=35| B | M : oh uh i lived there .
+	Free: Pattern=uh, Pattern=there, Pattern=i, Pattern=oh
+	Constrained: 
+Turn ID=36| A | B : and it always will be and and i think too noticing the kids that the fourth and fifth graders which is what my son is and stuff they they're just they're more they're very open .
+	Free: Pattern=is, Pattern=the, Pattern=and i think, Pattern=that, Pattern=what, Pattern=they, Pattern=it, Pattern=and
+	Constrained: Pattern=i think, Pattern=i, Pattern=think, Pattern=and
+Turn ID=37| B | M : i'm in texas .
+	Free: Pattern=i'm, Pattern=in
+	Constrained: 
+Turn ID=38| A | B : uh no not actually
+	Free: Pattern=uh, Pattern=not
+	Constrained: 
+Turn ID=39| B | M : i'm pretty sure you can get into the cave
+	Free: Pattern=can get, Pattern=i'm, Pattern=you, Pattern=the
+	Constrained: Pattern=get, Pattern=can
+Turn ID=40| A | B : yeah i i think that's yeah . yeah .
+	Free: Pattern=i think that's, Pattern=i, Pattern=yeah
+	Constrained: Pattern=that's, Pattern=i, Pattern=think, Pattern=i think
+Turn ID=41| B | M :  ...
+	Free: 
+	Constrained: 

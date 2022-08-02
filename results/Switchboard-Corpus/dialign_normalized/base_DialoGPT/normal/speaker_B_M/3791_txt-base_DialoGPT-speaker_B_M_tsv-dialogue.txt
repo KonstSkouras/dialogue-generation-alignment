@@ -1,0 +1,323 @@
+A|0| B: _yeah_ 
+B|1| M: like _spaghetti_ ? 
+A|2| B: _no ._ 
+B|3| M: _well_ _i_ _don't have_ kids _so_ ... 
+A|4| B: "huh-uh . *according _to_ _the_ following utterance _this is_ _an_ affirmative answer [so] should be ""uh-huh"" _just_ my husband _and_ [i] _and_ _the_ two dogs . " 
+B|5| M: _i'm_ not sure . 
+A|6| B: [so] what about yours ? 
+B|7| M: _yeah _._ i_ _don't have_ any _of_ those things . 
+A|8| B: uh-huh . 
+B|9| M: _oh_ _uh_ _huh_ . 
+A|10| B: _so _i_ guess_ _it's_ supposed _to_ be _dinner party_ _is that_ what _they_ said ? 
+B|11| M: [i guess] _it is_ . 
+A|12| B: uh-huh . [huh] _we_ [don't] 
+B|13| M: [i] dunno . 
+A|14| B: _think you_ 
+B|15| M: [i] [think you] . 
+A|16| B: uh-huh uh-huh . 
+B|17| M: ohhuh . uhuh . 
+A|18| B: uh-huh . sometimes we'll [have] [uh] we'll [have] _a_ bunch [of] people over _and_ cook _deer ._ 
+B|19| M: u wot m8 
+A|20| B: [huh] ? 
+B|21| M: _oh_ gosh [uh] _yeah ._ 
+A|22| B: how _do_ _we_ usually ? 
+B|23| M: we've _got_ [uh] we've _got_ [a] [deer] [uh] ... 
+A|24| B: on _the_ grill we'll take _the_ back strap _and_ soak [it] _in_ italian dressing for [a] couple [of] hours _and_ throw [it] on _the_ grill 
+B|25| M: _i'm_ not sure if [i] can [do] [that] . 
+A|26| B: _and_ [it is] _good_ . 
+B|27| M: [we] [have] _some_ [in] [the] kitchen 
+A|28| B: real _good_ . 
+B|29| M: [is that] [good] ? 
+A|30| B: either [that] or hamburgers [we] _really_ [don't have] _dinner_ parties . 
+B|31| M: [it's] like [an] old timey english [dinner party] . 
+A|32| B: uh-huh . ooh . uh-huh . uh-huh . 
+B|33| M: [this is] [the] only thing _that's_ been happening [to] _me_ _. i_ can't even remember [the] _last_ time . 
+A|34| B: did [you] kill _the deer_ ? 
+B|35| M: _i'm_ not sure . 
+A|36| B: _no ._ 
+B|37| M: [it's] [the [deer] .] 
+A|38| B: uh-huh 
+B|39| M: [i] am [a] [deer .] 
+A|40| B: uh-huh . 
+B|41| M: [i] [think] [it] _was_ given by _some_ friend [and] [they] were [just] going [to] go hunting . 
+A|42| B: uh-huh . 
+B|43| M: [i] [don't] [think] you're [in] [the] woods . 
+A|44| B: uh-huh . 
+B|45| M: uhuhuh _you know_ uhuhuh . 
+A|46| B: [oh] [well] [that's] nice . 
+B|47| M: [yeah] [the] lion . 
+A|48| B: uh-huh . 
+B|49| M: wait who [is] [the] winner [of] [the] lottery ? 
+A|50| B: [yeah] [we] still [got] [some] from _last year_ . 
+B|51| M: didn't [we] get like [a] dozen [last year] ? 
+A|52| B: [yeah .] 
+B|53| M: [last year] ? 
+A|54| B: uh-huh uh-huh . [yeah .] [we] [we] usually [have] most [of] [it] made into [uh] hamburger _meat_ though . [and] cook [you know] [spaghetti] with [it] . 
+B|55| M:  
+A|56| B: chili . 
+B|57| M: [i] dunno [i] [don't] [really] eat [meat] . 
+A|58| B: [so] 
+B|59| M: _i'm_ sorry . 
+A|60| B: uh-huh 
+B|61| M: [no] [no] [no .] 
+A|62| B: uh-huh . [yeah] [yeah .] 
+B|63| M: [well] [uh] [uh] [yeah .] 
+A|64| B: um . 
+B|65| M: uhh [uh] [uh] 
+A|66| B: uh-huh . 
+B|67| M: [it's] [uh] . 
+A|68| B: _oh ._ 
+B|69| M: heh _. i'm_ gonna go ... 
+A|70| B: _oh ._ 
+B|71| M: [you know] [i] [just] [don't] like tacos . 
+A|72| B: uh-huh . 
+B|73| M: [oh .] 
+A|74| B: [this] isn't [a] [good] topic for [me] right now [. i'm] on [a] diet 
+B|75| M: [i] am not [so] much [of] [a] potato _. i_ am [a] potato [so i] can eat them . 
+A|76| B: um . 
+B|77| M: [yeah] [uh] [. i'm] gonna go eat [some] potatoes . 
+A|78| B: [yeah] [i] [have] too [. i] [was] real skinny till [i] [was] _ten ._ 
+B|79| M: you've been fat since [you] were [ten .] 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : yeah
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=1| B | M : like spaghetti ?
+	Free: Pattern=spaghetti
+	Constrained: 
+Turn ID=2| A | B : no .
+	Free: Pattern=no .
+	Constrained: Pattern=no
+Turn ID=3| B | M : well i don't have kids so ...
+	Free: Pattern=don't have, Pattern=well, Pattern=i, Pattern=so
+	Constrained: Pattern=don't, Pattern=have
+Turn ID=4| A | B : "huh-uh . *according to the following utterance this is an affirmative answer so should be ""uh-huh"" just my husband and i and the two dogs . "
+	Free: Pattern=just, Pattern=this is, Pattern=an, Pattern=and, Pattern=i, Pattern=the, Pattern=to, Pattern=so
+	Constrained: Pattern=this, Pattern=is
+Turn ID=5| B | M : i'm not sure .
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=6| A | B : so what about yours ?
+	Free: Pattern=so
+	Constrained: 
+Turn ID=7| B | M : yeah . i don't have any of those things .
+	Free: Pattern=don't have, Pattern=yeah ., Pattern=. i, Pattern=of
+	Constrained: Pattern=yeah, Pattern=don't, Pattern=i, Pattern=have
+Turn ID=8| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=9| B | M : oh uh huh .
+	Free: Pattern=huh, Pattern=uh, Pattern=oh
+	Constrained: 
+Turn ID=10| A | B : so i guess it's supposed to be dinner party is that what they said ?
+	Free: Pattern=they, Pattern=dinner party, Pattern=so i, Pattern=i guess, Pattern=is that, Pattern=to, Pattern=it's
+	Constrained: Pattern=dinner, Pattern=that, Pattern=so, Pattern=is, Pattern=i
+Turn ID=11| B | M : i guess it is .
+	Free: Pattern=i guess, Pattern=it is
+	Constrained: Pattern=i, Pattern=it, Pattern=is
+Turn ID=12| A | B : uh-huh . huh we don't
+	Free: Pattern=huh, Pattern=we, Pattern=don't
+	Constrained: 
+Turn ID=13| B | M : i dunno .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=14| A | B : think you
+	Free: Pattern=think you
+	Constrained: Pattern=think, Pattern=you
+Turn ID=15| B | M : i think you .
+	Free: Pattern=think you, Pattern=i
+	Constrained: Pattern=think, Pattern=you
+Turn ID=16| A | B : uh-huh uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : ohhuh . uhuh .
+	Free: 
+	Constrained: 
+Turn ID=18| A | B : uh-huh . sometimes we'll have uh we'll have a bunch of people over and cook deer .
+	Free: Pattern=of, Pattern=uh, Pattern=have, Pattern=a, Pattern=deer ., Pattern=and
+	Constrained: Pattern=deer
+Turn ID=19| B | M : u wot m8
+	Free: 
+	Constrained: 
+Turn ID=20| A | B : huh ?
+	Free: Pattern=huh
+	Constrained: 
+Turn ID=21| B | M : oh gosh uh yeah .
+	Free: Pattern=yeah ., Pattern=uh, Pattern=oh
+	Constrained: Pattern=yeah
+Turn ID=22| A | B : how do we usually ?
+	Free: Pattern=we, Pattern=do
+	Constrained: 
+Turn ID=23| B | M : we've got uh we've got a deer uh ...
+	Free: Pattern=deer, Pattern=got, Pattern=a, Pattern=uh
+	Constrained: 
+Turn ID=24| A | B : on the grill we'll take the back strap and soak it in italian dressing for a couple of hours and throw it on the grill
+	Free: Pattern=of, Pattern=a, Pattern=in, Pattern=the, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=25| B | M : i'm not sure if i can do that .
+	Free: Pattern=that, Pattern=i, Pattern=do, Pattern=i'm
+	Constrained: 
+Turn ID=26| A | B : and it is good .
+	Free: Pattern=it is, Pattern=good, Pattern=and
+	Constrained: Pattern=it, Pattern=is
+Turn ID=27| B | M : we have some in the kitchen
+	Free: Pattern=have, Pattern=some, Pattern=in, Pattern=we, Pattern=the
+	Constrained: 
+Turn ID=28| A | B : real good .
+	Free: Pattern=good
+	Constrained: 
+Turn ID=29| B | M : is that good ?
+	Free: Pattern=is that, Pattern=good
+	Constrained: Pattern=that, Pattern=is
+Turn ID=30| A | B : either that or hamburgers we really don't have dinner parties .
+	Free: Pattern=dinner, Pattern=that, Pattern=we, Pattern=don't have, Pattern=really
+	Constrained: Pattern=don't, Pattern=have
+Turn ID=31| B | M : it's like an old timey english dinner party .
+	Free: Pattern=dinner party, Pattern=an, Pattern=it's
+	Constrained: Pattern=dinner
+Turn ID=32| A | B : uh-huh . ooh . uh-huh . uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=33| B | M : this is the only thing that's been happening to me . i can't even remember the last time .
+	Free: Pattern=me, Pattern=this is, Pattern=. i, Pattern=last, Pattern=to, Pattern=that's, Pattern=the
+	Constrained: Pattern=this, Pattern=i, Pattern=is
+Turn ID=34| A | B : did you kill the deer ?
+	Free: Pattern=the deer, Pattern=you
+	Constrained: Pattern=deer, Pattern=the
+Turn ID=35| B | M : i'm not sure .
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=36| A | B : no .
+	Free: Pattern=no .
+	Constrained: Pattern=no
+Turn ID=37| B | M : it's the deer .
+	Free: Pattern=deer ., Pattern=the deer, Pattern=it's
+	Constrained: Pattern=deer, Pattern=the
+Turn ID=38| A | B : uh-huh
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : i am a deer .
+	Free: Pattern=deer ., Pattern=i, Pattern=a
+	Constrained: Pattern=deer
+Turn ID=40| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : i think it was given by some friend and they were just going to go hunting .
+	Free: Pattern=just, Pattern=they, Pattern=some, Pattern=think, Pattern=i, Pattern=to, Pattern=was, Pattern=it, Pattern=and
+	Constrained: 
+Turn ID=42| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=43| B | M : i don't think you're in the woods .
+	Free: Pattern=i, Pattern=the, Pattern=don't, Pattern=think, Pattern=in
+	Constrained: 
+Turn ID=44| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : uhuhuh you know uhuhuh .
+	Free: Pattern=you know
+	Constrained: Pattern=you
+Turn ID=46| A | B : oh well that's nice .
+	Free: Pattern=well, Pattern=that's, Pattern=oh
+	Constrained: 
+Turn ID=47| B | M : yeah the lion .
+	Free: Pattern=yeah, Pattern=the
+	Constrained: 
+Turn ID=48| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=49| B | M : wait who is the winner of the lottery ?
+	Free: Pattern=the, Pattern=of, Pattern=is
+	Constrained: 
+Turn ID=50| A | B : yeah we still got some from last year .
+	Free: Pattern=yeah, Pattern=some, Pattern=got, Pattern=we, Pattern=last year
+	Constrained: Pattern=last
+Turn ID=51| B | M : didn't we get like a dozen last year ?
+	Free: Pattern=last year, Pattern=we, Pattern=a
+	Constrained: Pattern=last
+Turn ID=52| A | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=53| B | M : last year ?
+	Free: Pattern=last year
+	Constrained: Pattern=last
+Turn ID=54| A | B : uh-huh uh-huh . yeah . we we usually have most of it made into uh hamburger meat though . and cook you know spaghetti with it .
+	Free: Pattern=spaghetti, Pattern=of, Pattern=have, Pattern=yeah ., Pattern=meat, Pattern=we, Pattern=uh, Pattern=you know, Pattern=it, Pattern=and
+	Constrained: Pattern=yeah, Pattern=you
+Turn ID=55| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=56| A | B : chili .
+	Free: 
+	Constrained: 
+Turn ID=57| B | M : i dunno i don't really eat meat .
+	Free: Pattern=don't, Pattern=i, Pattern=meat, Pattern=really
+	Constrained: 
+Turn ID=58| A | B : so
+	Free: Pattern=so
+	Constrained: 
+Turn ID=59| B | M : i'm sorry .
+	Free: Pattern=i'm
+	Constrained: 
+Turn ID=60| A | B : uh-huh
+	Free: 
+	Constrained: 
+Turn ID=61| B | M : no no no .
+	Free: Pattern=no ., Pattern=no
+	Constrained: Pattern=no
+Turn ID=62| A | B : uh-huh . yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=63| B | M : well uh uh yeah .
+	Free: Pattern=yeah ., Pattern=well, Pattern=uh
+	Constrained: Pattern=yeah
+Turn ID=64| A | B : um .
+	Free: 
+	Constrained: 
+Turn ID=65| B | M : uhh uh uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=66| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=67| B | M : it's uh .
+	Free: Pattern=uh, Pattern=it's
+	Constrained: 
+Turn ID=68| A | B : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=69| B | M : heh . i'm gonna go ...
+	Free: Pattern=. i'm
+	Constrained: Pattern=i'm
+Turn ID=70| A | B : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=71| B | M : you know i just don't like tacos .
+	Free: Pattern=you know, Pattern=just, Pattern=don't, Pattern=i
+	Constrained: Pattern=you
+Turn ID=72| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=73| B | M : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=74| A | B : this isn't a good topic for me right now . i'm on a diet
+	Free: Pattern=good, Pattern=me, Pattern=a, Pattern=. i'm, Pattern=this
+	Constrained: Pattern=i'm
+Turn ID=75| B | M : i am not so much of a potato . i am a potato so i can eat them .
+	Free: Pattern=of, Pattern=a, Pattern=. i, Pattern=so i, Pattern=i, Pattern=so
+	Constrained: Pattern=i, Pattern=so
+Turn ID=76| A | B : um .
+	Free: 
+	Constrained: 
+Turn ID=77| B | M : yeah uh . i'm gonna go eat some potatoes .
+	Free: Pattern=. i'm, Pattern=some, Pattern=yeah, Pattern=uh
+	Constrained: Pattern=i'm
+Turn ID=78| A | B : yeah i have too . i was real skinny till i was ten .
+	Free: Pattern=have, Pattern=yeah, Pattern=. i, Pattern=i, Pattern=ten ., Pattern=was
+	Constrained: Pattern=i
+Turn ID=79| B | M : you've been fat since you were ten .
+	Free: Pattern=ten ., Pattern=you
+	Constrained: 

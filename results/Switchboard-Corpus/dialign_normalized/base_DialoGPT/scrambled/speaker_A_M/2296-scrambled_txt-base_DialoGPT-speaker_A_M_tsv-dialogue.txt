@@ -1,0 +1,183 @@
+A|0| A: uh-huh . 
+B|1| M: _you_ _don't_ _think_ he's done _any_ golf ? 
+A|2| A: yeah . yeah _i_ like those 
+B|3| M:  
+A|4| A: _well_ _i_ _i_ 
+B|5| M: _you_ _have_ _a_ business this _is_ _there_ _is_ business . 
+A|6| A: yeah _i_ understand _. i_ am [a] _i_ own my _company _._ i_ am in _the_ _i_ am _uh_ manufactures rep sales organization _and_ my office [is] [a] small office _and_ _i_ am very casual _and_ wear slacks _and_ sports shirt _and_ things like that 
+B|7| M: _i mean_ [uh] [uh] . 
+A|8| A: [i] [don't] know . _what are_ your [uh] _what_ sorts of things would [you] consider important ? 
+B|9| M: no [i] 
+A|10| A: _well_ i'd like _to get_ ahold of some engineers _and_ knock their heads together if _it_ would _do_ [any] good . 
+B|11| M: [well] _we_ can't stop them . 
+A|12| A: uh-huh . 
+B|13| M: he said he's _going_ [to] [do] [it] . 
+A|14| A: but [i] _put_ [it] in [a] nice glass bowl _and_ um some people [don't] like that that film _on_ _the_ pudding _so_ [you] can _put_ [uh] saran wrap over _the_ top . 
+B|15| M: [i] 
+A|16| A: _and_ _and_ but _we are_ [going] in [a] couple of weeks [to] _the_ next one in scottsdale arizona _for_ that family . 
+B|17| M: i'm [a] little confused [what are] [you] talking about ? 
+A|18| A: really . 
+B|19| M: [the] [company .] 
+A|20| A: yep that will that will slow [you] up 
+B|21| M: [i] _have_ [a] turkey sandwich 
+A|22| A: [uh] that makes [a] big difference . 
+B|23| M: i'm not sure _. i think it's_ five . 
+A|24| A: _and_ _so_ um [i] try [to] _say_ [well] why [don't] [you] go fly kites or why [don't] [you] [do] something . 
+B|25| M:  ... 
+A|26| A: [i think] [you] [do] . [you] feel very good after [you] exercise [. i think it's] worth making [the] time _for_ yourself . 
+B|27| M: i'm gonna [say] [it] 
+A|28| A: _and_ of course _they_ [don't] [have] that here in texas _so_ there's ... 
+B|29| M: [i] hope [so] too . 
+A|30| A: [i mean] _they're_ nomadic farmers [you] know _they're_ people who farm _on_ [the] hillside _and_ then leave [the] hillside [to] another hillside _and_ farm _on_ that hillside . 
+B|31| M: [and] [they're] [going] [to get] ... [uh] [they're] just [going] [to] be [put] [on] parades [and] [they're] not [going] [to] ... 
+A|32| A: [the] black bear . 
+B|33| M:  ... 
+A|34| A: _because_ of all [the] pollution in [the] lakes [and] [the] everywhere [. [i] mean] [there] isn't [any] safe haven anymore _for_ fish . 
+B|35| M: [i think it's] [a] great idea . 
+A|36| A: _they_ _they_ went [to] all all ... 
+B|37| M:  ... [and] you're an engineer ? 
+A|38| A: [it] piles up . 
+B|39| M: _yes_ [it's] [because] [we are] paying [for] them . 
+A|40| A: yeah . 
+B|41| M: [they] 
+A|42| A: oh [yes] [yes] [yes] . 
+B|43| M: [uh] [uh] 
+A|44| A: yeah people will sit home [and] assume oh that guy would never [get] elected . 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=1| B | M : you don't think he's done any golf ?
+	Free: Pattern=don't, Pattern=you, Pattern=think, Pattern=any
+	Constrained: 
+Turn ID=2| A | A : yeah . yeah i like those
+	Free: Pattern=i
+	Constrained: 
+Turn ID=3| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : well i i
+	Free: Pattern=well, Pattern=i
+	Constrained: 
+Turn ID=5| B | M : you have a business this is there is business .
+	Free: Pattern=you, Pattern=have, Pattern=there, Pattern=a, Pattern=is
+	Constrained: 
+Turn ID=6| A | A : yeah i understand . i am a i own my company . i am in the i am uh manufactures rep sales organization and my office is a small office and i am very casual and wear slacks and sports shirt and things like that
+	Free: Pattern=uh, Pattern=a, Pattern=and, Pattern=. i, Pattern=the, Pattern=company ., Pattern=is, Pattern=i
+	Constrained: Pattern=i
+Turn ID=7| B | M : i mean uh uh .
+	Free: Pattern=i mean, Pattern=uh
+	Constrained: Pattern=i
+Turn ID=8| A | A : i don't know . what are your uh what sorts of things would you consider important ?
+	Free: Pattern=what, Pattern=i, Pattern=what are, Pattern=don't, Pattern=you, Pattern=uh
+	Constrained: Pattern=what
+Turn ID=9| B | M : no i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=10| A | A : well i'd like to get ahold of some engineers and knock their heads together if it would do any good .
+	Free: Pattern=well, Pattern=do, Pattern=any, Pattern=it, Pattern=and, Pattern=to get
+	Constrained: Pattern=to, Pattern=get
+Turn ID=11| B | M : well we can't stop them .
+	Free: Pattern=well, Pattern=we
+	Constrained: 
+Turn ID=12| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : he said he's going to do it .
+	Free: Pattern=do, Pattern=to, Pattern=going, Pattern=it
+	Constrained: 
+Turn ID=14| A | A : but i put it in a nice glass bowl and um some people don't like that that film on the pudding so you can put uh saran wrap over the top .
+	Free: Pattern=a, Pattern=i, Pattern=don't, Pattern=put, Pattern=so, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=on, Pattern=the
+	Constrained: 
+Turn ID=15| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=16| A | A : and and but we are going in a couple of weeks to the next one in scottsdale arizona for that family .
+	Free: Pattern=going, Pattern=a, Pattern=for, Pattern=and, Pattern=we are, Pattern=the, Pattern=to
+	Constrained: Pattern=we
+Turn ID=17| B | M : i'm a little confused what are you talking about ?
+	Free: Pattern=what are, Pattern=you, Pattern=a
+	Constrained: Pattern=what
+Turn ID=18| A | A : really .
+	Free: 
+	Constrained: 
+Turn ID=19| B | M : the company .
+	Free: Pattern=company ., Pattern=the
+	Constrained: 
+Turn ID=20| A | A : yep that will that will slow you up
+	Free: Pattern=you
+	Constrained: 
+Turn ID=21| B | M : i have a turkey sandwich
+	Free: Pattern=have, Pattern=i, Pattern=a
+	Constrained: 
+Turn ID=22| A | A : uh that makes a big difference .
+	Free: Pattern=uh, Pattern=a
+	Constrained: 
+Turn ID=23| B | M : i'm not sure . i think it's five .
+	Free: Pattern=. i think it's
+	Constrained: Pattern=. i, Pattern=think, Pattern=i, Pattern=i think it's, Pattern=it's, Pattern=i think
+Turn ID=24| A | A : and so um i try to say well why don't you go fly kites or why don't you do something .
+	Free: Pattern=well, Pattern=you, Pattern=do, Pattern=and, Pattern=say, Pattern=i, Pattern=don't, Pattern=to, Pattern=so
+	Constrained: 
+Turn ID=25| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : i think you do . you feel very good after you exercise . i think it's worth making the time for yourself .
+	Free: Pattern=you, Pattern=do, Pattern=for, Pattern=the, Pattern=. i think it's, Pattern=i think
+	Constrained: Pattern=. i, Pattern=think, Pattern=i, Pattern=i think it's, Pattern=it's, Pattern=i think
+Turn ID=27| B | M : i'm gonna say it
+	Free: Pattern=it, Pattern=say
+	Constrained: 
+Turn ID=28| A | A : and of course they don't have that here in texas so there's ...
+	Free: Pattern=have, Pattern=they, Pattern=and, Pattern=don't, Pattern=so
+	Constrained: 
+Turn ID=29| B | M : i hope so too .
+	Free: Pattern=so, Pattern=i
+	Constrained: 
+Turn ID=30| A | A : i mean they're nomadic farmers you know they're people who farm on the hillside and then leave the hillside to another hillside and farm on that hillside .
+	Free: Pattern=you, Pattern=and, Pattern=they're, Pattern=i mean, Pattern=to, Pattern=on, Pattern=the
+	Constrained: Pattern=i
+Turn ID=31| B | M : and they're going to get ... uh they're just going to be put on parades and they're not going to ...
+	Free: Pattern=uh, Pattern=going, Pattern=they're, Pattern=on, Pattern=to, Pattern=put, Pattern=and, Pattern=to get
+	Constrained: Pattern=to, Pattern=get
+Turn ID=32| A | A : the black bear .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=33| B | M :  ...
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : because of all the pollution in the lakes and the everywhere . i mean there isn't any safe haven anymore for fish .
+	Free: Pattern=there, Pattern=because, Pattern=and, Pattern=. i, Pattern=i mean, Pattern=the, Pattern=for, Pattern=any
+	Constrained: Pattern=i
+Turn ID=35| B | M : i think it's a great idea .
+	Free: Pattern=i think it's, Pattern=a
+	Constrained: Pattern=it's, Pattern=i, Pattern=i think, Pattern=think
+Turn ID=36| A | A : they they went to all all ...
+	Free: Pattern=to, Pattern=they
+	Constrained: 
+Turn ID=37| B | M :  ... and you're an engineer ?
+	Free: Pattern=and
+	Constrained: 
+Turn ID=38| A | A : it piles up .
+	Free: Pattern=it
+	Constrained: 
+Turn ID=39| B | M : yes it's because we are paying for them .
+	Free: Pattern=yes, Pattern=because, Pattern=for, Pattern=we are, Pattern=it's
+	Constrained: Pattern=we
+Turn ID=40| A | A : yeah .
+	Free: 
+	Constrained: 
+Turn ID=41| B | M : they
+	Free: Pattern=they
+	Constrained: 
+Turn ID=42| A | A : oh yes yes yes .
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=43| B | M : uh uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=44| A | A : yeah people will sit home and assume oh that guy would never get elected .
+	Free: Pattern=get, Pattern=and
+	Constrained: 

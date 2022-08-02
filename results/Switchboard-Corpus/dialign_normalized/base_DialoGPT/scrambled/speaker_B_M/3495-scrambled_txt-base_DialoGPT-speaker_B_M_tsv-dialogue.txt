@@ -1,0 +1,183 @@
+A|0| B: _that's_ interesting _i_ almost lost our electricity _here_ . 
+B|1| M: _is_ _the_ gx clone _a_ clone ? 
+A|2| B: _yes_ oh _of_ course . 
+B|3| M: _it's_ dog 
+A|4| B: _what_ did _you_ wind up _with_ ? 
+B|5| M: you're _uh_ _not_ _uh_ ... you're 
+A|6| B: oh okay well first they always say get _to_ know your country first before _you_ leave _i_ mean _i_ _i_ lived _in_ places like 
+B|7| M: [i] remember this [i] _was_ just [in] _the_ same situation as [you] . 
+A|8| B: oh okay . _right ._ [uh] 
+B|9| M:  
+A|10| B: [i] think [uh] well [in] your words they were [a] little bit too liberal . 
+B|11| M: you're losing out on _the_ good stuff . 
+A|12| B: but 
+B|13| M: _it's_ _not_ [a] matter [of] credibility _it's_ [a] matter on _the_ level [of] credibility 
+A|14| B: uh-huh yeah yeah . 
+B|15| M: atlanta . atlanta . [a] . atlanta . 
+A|16| B: okay . and [you] put up set up [the] track pylons . okay . 
+B|17| M: [i] would never burn [the] american 
+A|18| B: either _that_ or hamburgers _we_ _really_ don't _have_ dinner parties . 
+B|19| M: [we] [have] [a] program _for_ [that] we'll just [have] [to] see [what] it _is_ . 
+A|20| B: huh . 
+B|21| M: what's [the] deal [with] the'uh ' ? 
+A|22| B: and [you] [you] give them your speech and maybe [a] little slide show or something 
+B|23| M: all 
+A|24| B: _right_ exactly . yeah . 
+B|25| M: uhhh ... i'm from [a] town [that] doesn't [have] newspapers so i'm _not_ [really] sure what's going on [here] 
+A|26| B: and [uh] they [uh] will get [to] playing chase through [the] house 
+B|27| M: _it's_ funny _because_ he's _not_ . 
+A|28| B: uh-huh . 
+B|29| M: [i] 
+A|30| B: uh-huh . 
+B|31| M: [yes] . 
+A|32| B: and then [i] [have] [uh] [a] three eighty-six f x [a] sixteen bit machine at home . 
+B|33| M: [what] about it ? 
+A|34| B: oh god . 
+B|35| M: [that's] true . 
+A|36| B: [i] [i] don't know [what] foley's [is] 
+B|37| M: [what] ? 
+A|38| B: okay bye . 
+B|39| M: i'm [really] [uh] impressed [with] it . 
+A|40| B: [that] [was] [uh] [that] [was] [a] lot [of] fun . 
+B|41| M: i'm [in] austin . 
+A|42| B: yeah . and [a] lot [of] people complain [because] [it's] [really] [not] convenient [for] them . 
+B|43| M: [uh] [what] ? 
+B|44| M: [right .] are [you] [a] girl ? 
+
+
+TURN DETAILS:
+Turn ID=0| A | B : that's interesting i almost lost our electricity here .
+	Free: Pattern=here, Pattern=that's, Pattern=i
+	Constrained: 
+Turn ID=1| B | M : is the gx clone a clone ?
+	Free: Pattern=is, Pattern=the, Pattern=a
+	Constrained: 
+Turn ID=2| A | B : yes oh of course .
+	Free: Pattern=of, Pattern=yes
+	Constrained: 
+Turn ID=3| B | M : it's dog
+	Free: Pattern=it's
+	Constrained: 
+Turn ID=4| A | B : what did you wind up with ?
+	Free: Pattern=what, Pattern=with, Pattern=you
+	Constrained: 
+Turn ID=5| B | M : you're uh not uh ... you're
+	Free: Pattern=not, Pattern=uh
+	Constrained: 
+Turn ID=6| A | B : oh okay well first they always say get to know your country first before you leave i mean i i lived in places like
+	Free: Pattern=in, Pattern=to, Pattern=i, Pattern=you
+	Constrained: 
+Turn ID=7| B | M : i remember this i was just in the same situation as you .
+	Free: Pattern=you, Pattern=in, Pattern=i, Pattern=the, Pattern=was
+	Constrained: 
+Turn ID=8| A | B : oh okay . right . uh
+	Free: Pattern=right ., Pattern=uh
+	Constrained: Pattern=right
+Turn ID=9| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=10| A | B : i think uh well in your words they were a little bit too liberal .
+	Free: Pattern=in, Pattern=uh, Pattern=a, Pattern=i
+	Constrained: 
+Turn ID=11| B | M : you're losing out on the good stuff .
+	Free: Pattern=the
+	Constrained: 
+Turn ID=12| A | B : but
+	Free: 
+	Constrained: 
+Turn ID=13| B | M : it's not a matter of credibility it's a matter on the level of credibility
+	Free: Pattern=of, Pattern=a, Pattern=the, Pattern=it's, Pattern=not
+	Constrained: 
+Turn ID=14| A | B : uh-huh yeah yeah .
+	Free: 
+	Constrained: 
+Turn ID=15| B | M : atlanta . atlanta . a . atlanta .
+	Free: Pattern=a
+	Constrained: 
+Turn ID=16| A | B : okay . and you put up set up the track pylons . okay .
+	Free: Pattern=the, Pattern=you
+	Constrained: 
+Turn ID=17| B | M : i would never burn the american
+	Free: Pattern=the, Pattern=i
+	Constrained: 
+Turn ID=18| A | B : either that or hamburgers we really don't have dinner parties .
+	Free: Pattern=really, Pattern=that, Pattern=have, Pattern=we
+	Constrained: 
+Turn ID=19| B | M : we have a program for that we'll just have to see what it is .
+	Free: Pattern=have, Pattern=what, Pattern=a, Pattern=for, Pattern=is, Pattern=we, Pattern=to, Pattern=that
+	Constrained: 
+Turn ID=20| A | B : huh .
+	Free: 
+	Constrained: 
+Turn ID=21| B | M : what's the deal with the'uh ' ?
+	Free: Pattern=with, Pattern=the
+	Constrained: 
+Turn ID=22| A | B : and you you give them your speech and maybe a little slide show or something
+	Free: Pattern=a, Pattern=you
+	Constrained: 
+Turn ID=23| B | M : all
+	Free: 
+	Constrained: 
+Turn ID=24| A | B : right exactly . yeah .
+	Free: Pattern=right
+	Constrained: 
+Turn ID=25| B | M : uhhh ... i'm from a town that doesn't have newspapers so i'm not really sure what's going on here
+	Free: Pattern=have, Pattern=here, Pattern=a, Pattern=really, Pattern=that, Pattern=not
+	Constrained: 
+Turn ID=26| A | B : and uh they uh will get to playing chase through the house
+	Free: Pattern=uh, Pattern=to, Pattern=the
+	Constrained: 
+Turn ID=27| B | M : it's funny because he's not .
+	Free: Pattern=it's, Pattern=not, Pattern=because
+	Constrained: 
+Turn ID=28| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=30| A | B : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=31| B | M : yes .
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=32| A | B : and then i have uh a three eighty-six f x a sixteen bit machine at home .
+	Free: Pattern=have, Pattern=uh, Pattern=a, Pattern=i
+	Constrained: 
+Turn ID=33| B | M : what about it ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=34| A | B : oh god .
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : that's true .
+	Free: Pattern=that's
+	Constrained: 
+Turn ID=36| A | B : i i don't know what foley's is
+	Free: Pattern=is, Pattern=what, Pattern=i
+	Constrained: 
+Turn ID=37| B | M : what ?
+	Free: Pattern=what
+	Constrained: 
+Turn ID=38| A | B : okay bye .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : i'm really uh impressed with it .
+	Free: Pattern=really, Pattern=with, Pattern=uh
+	Constrained: 
+Turn ID=40| A | B : that was uh that was a lot of fun .
+	Free: Pattern=of, Pattern=uh, Pattern=a, Pattern=was, Pattern=that
+	Constrained: 
+Turn ID=41| B | M : i'm in austin .
+	Free: Pattern=in
+	Constrained: 
+Turn ID=42| A | B : yeah . and a lot of people complain because it's really not convenient for them .
+	Free: Pattern=of, Pattern=for, Pattern=really, Pattern=it's, Pattern=not, Pattern=a, Pattern=because
+	Constrained: 
+Turn ID=43| B | M : uh what ?
+	Free: Pattern=what, Pattern=uh
+	Constrained: 
+Turn ID=44| B | M : right . are you a girl ?
+	Free: Pattern=right ., Pattern=a, Pattern=you
+	Constrained: Pattern=right

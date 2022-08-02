@@ -1,0 +1,183 @@
+A|0| A: _and_ _uh_ _i_ think _that's a_ national problem though . 
+B|1| M: _we're_ _not_ talking 
+A|2| A: it's [not] unique 
+B|3| M: _yeah_ [uh] [that's] [not] _the_ same . 
+A|4| A: _yes ._ uh-huh . well now [we're] pretty close to [the] golden triangle aren't _you_ ? 
+B|5| M: _we _have_ a lot_ more murders than [you] . 
+A|6| A: right research triangle _and_ all _of_ that . 
+B|7| M: [that's a] theory [not] [a] fact . 
+A|8| A: _and_ [uh] _i'm_ sure [you] [have a lot] _of_ students there [uh] _and_ [a lot] _of_ researchers _so_ [you] [you] may [have a] [you] _know_ perhaps [a] little better economic climate _but_ _in_ all your cities now _it_ seems like there _is_ [a] [a] crowd [that's] _really_ effected by this bill . 
+B|9| M: _oh_ _i'm in_ durham . 
+A|10| A: _really_ ? 
+B|11| M: [i] [have] seen [it] [in] raleigh . 
+A|12| A: _really_ ? 
+B|13| M: why ? 
+A|14| A: um . well here [uh] _i'm not_ sure how many dallas has had . i've [uh] houston _is_ averaging _about_ two [a] week _or_ three _or_ four [i] [i] don't _know_ . [a] [a] number every week . 
+B|15| M: you're 
+A|16| A: [uh] dallas _is_ having quite [a] few . seems like most _of_ ours _are_ occurring [in] late at night _or_ _or_ like [i] _say_ drug related . [uh] [i] guess [the] other thing _was_ that _are_ causing [a lot] _of the_ crime now _is_ [the] decrease [in] values . seems like [a] [a lot] _of_ people don't hold human life quite as high as perhaps they used to . 
+B|17| M: [yes .] 
+A|18| A: [uh] [i] 
+B|19| M: [i'm not] . 
+A|20| A: [the] economy _is_ lousy 
+B|21| M: what's [the] general opinion [of the] _us_ ? 
+A|22| A: uh-huh . 
+B|23| M: _oh_ [i] [know] [i] [was] just wondering if [it] [was] _an_ actual story [or] [not] 
+A|24| A: boy that _really_ that _really_ takes someone who _is_ bold to do that . 
+B|25| M:  
+A|26| A: well now do [you] find that security _is_ very good [in] [in] [a] [in] [a] town home ? 
+B|27| M: [yes] _then_ [a] [is] [and] [and] ? 
+A|28| A: uh-huh . 
+B|29| M: [i'm] gonna [say] [yes] 
+A|30| A: well that 
+B|31| M:  ... [and] ? 
+A|32| A: [i] see . 
+B|33| M: awww [i] [was] [so] sad when [i] saw [the] sign . 
+A|34| A: [yeah] . 
+B|35| M: [are] [you] retired ? 
+A|36| A: well [i] think [you] hit on one point there [is] [you] [know] each other . 
+B|37| M: [i'm not] [really] worried [about] anything . 
+A|38| A: [i'm] [i'm in] [a] neighborhood where [we] try to keep up with everything . [uh] [i] am [oh] [about] three blocks off [a] major road [and] [uh] [a] couple [of] blocks off another road that kind [of] runs [i] guess [you] would [say] [the] neighborhood road [it] runs between [the] high school [and] [the] [the] commercial districts [and] [uh] [i'm] over [the] northeast part [of] dallas . it's [a] [in] [a] nice neighborhood . [the] houses here [uh] before [the] recession were running two hundred thousand [or] [so] [and] course everything's down ten to twenty percent now . 
+B|39| M:  
+A|40| A: _but we have_ [uh] one one thing that effects [us] [is] [we have] apartments that [are] probably [about] [a] half mile away [and] now [the] economy [is] bad they [have] trouble keeping those full [so] they've dropped [the] [uh] they're [not] nearly as selective as they used to be . 
+B|41| M: [not] . 
+A|42| A: [and] course [that's] kind [of] like [a] cancer [in] [an] apartment complex . [you] start letting that happen [and] they go down [and] [then] before [you] [know] [it] [you] [have] drugs [and] [a lot] [of] other things [so] [uh] [i'm] sure that aggravates [it] also . 
+B|43| M: [but we have] 
+A|44| A: [but] unemployment now [in] dallas [or] [in] texas [is] up around six point 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : and uh i think that's a national problem though .
+	Free: Pattern=that's a, Pattern=uh, Pattern=i, Pattern=and
+	Constrained: Pattern=a, Pattern=that's
+Turn ID=1| B | M : we're not talking
+	Free: Pattern=not, Pattern=we're
+	Constrained: 
+Turn ID=2| A | A : it's not unique
+	Free: Pattern=not
+	Constrained: 
+Turn ID=3| B | M : yeah uh that's not the same .
+	Free: Pattern=uh, Pattern=yeah, Pattern=not, Pattern=that's, Pattern=the
+	Constrained: 
+Turn ID=4| A | A : yes . uh-huh . well now we're pretty close to the golden triangle aren't you ?
+	Free: Pattern=yes ., Pattern=the, Pattern=we're, Pattern=you
+	Constrained: Pattern=yes
+Turn ID=5| B | M : we have a lot more murders than you .
+	Free: Pattern=have a lot, Pattern=we have, Pattern=you
+	Constrained: Pattern=have, Pattern=have a, Pattern=a, Pattern=we, Pattern=a lot
+Turn ID=6| A | A : right research triangle and all of that .
+	Free: Pattern=and, Pattern=of
+	Constrained: 
+Turn ID=7| B | M : that's a theory not a fact .
+	Free: Pattern=that's a, Pattern=not, Pattern=a
+	Constrained: Pattern=a, Pattern=that's
+Turn ID=8| A | A : and uh i'm sure you have a lot of students there uh and a lot of researchers so you you may have a you know perhaps a little better economic climate but in all your cities now it seems like there is a a crowd that's really effected by this bill .
+	Free: Pattern=of, Pattern=have a, Pattern=a, Pattern=in, Pattern=is, Pattern=really, Pattern=that's, Pattern=a lot, Pattern=so, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=know, Pattern=i'm, Pattern=have a lot, Pattern=but
+	Constrained: Pattern=have, Pattern=a, Pattern=a lot, Pattern=have a
+Turn ID=9| B | M : oh i'm in durham .
+	Free: Pattern=i'm in, Pattern=oh
+	Constrained: Pattern=i'm, Pattern=in
+Turn ID=10| A | A : really ?
+	Free: Pattern=really
+	Constrained: 
+Turn ID=11| B | M : i have seen it in raleigh .
+	Free: Pattern=have, Pattern=it, Pattern=in, Pattern=i
+	Constrained: 
+Turn ID=12| A | A : really ?
+	Free: Pattern=really
+	Constrained: 
+Turn ID=13| B | M : why ?
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : um . well here uh i'm not sure how many dallas has had . i've uh houston is averaging about two a week or three or four i i don't know . a a number every week .
+	Free: Pattern=uh, Pattern=a, Pattern=i'm not, Pattern=about, Pattern=know, Pattern=or, Pattern=is, Pattern=i
+	Constrained: Pattern=i'm, Pattern=not
+Turn ID=15| B | M : you're
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : uh dallas is having quite a few . seems like most of ours are occurring in late at night or or like i say drug related . uh i guess the other thing was that are causing a lot of the crime now is the decrease in values . seems like a a lot of people don't hold human life quite as high as perhaps they used to .
+	Free: Pattern=of, Pattern=uh, Pattern=a, Pattern=are, Pattern=in, Pattern=say, Pattern=or, Pattern=the, Pattern=a lot, Pattern=was, Pattern=of the, Pattern=is, Pattern=i
+	Constrained: Pattern=the, Pattern=a, Pattern=of
+Turn ID=17| B | M : yes .
+	Free: Pattern=yes .
+	Constrained: Pattern=yes
+Turn ID=18| A | A : uh i
+	Free: Pattern=uh, Pattern=i
+	Constrained: 
+Turn ID=19| B | M : i'm not .
+	Free: Pattern=i'm not
+	Constrained: Pattern=i'm, Pattern=not
+Turn ID=20| A | A : the economy is lousy
+	Free: Pattern=is, Pattern=the
+	Constrained: 
+Turn ID=21| B | M : what's the general opinion of the us ?
+	Free: Pattern=of the, Pattern=us, Pattern=the
+	Constrained: Pattern=the, Pattern=of
+Turn ID=22| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : oh i know i was just wondering if it was an actual story or not
+	Free: Pattern=an, Pattern=know, Pattern=i, Pattern=or, Pattern=was, Pattern=not, Pattern=it, Pattern=oh
+	Constrained: 
+Turn ID=24| A | A : boy that really that really takes someone who is bold to do that .
+	Free: Pattern=is, Pattern=really
+	Constrained: 
+Turn ID=25| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : well now do you find that security is very good in in a in a town home ?
+	Free: Pattern=is, Pattern=in, Pattern=a, Pattern=you
+	Constrained: 
+Turn ID=27| B | M : yes then a is and and ?
+	Free: Pattern=yes, Pattern=and, Pattern=is, Pattern=then, Pattern=a
+	Constrained: 
+Turn ID=28| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : i'm gonna say yes
+	Free: Pattern=i'm, Pattern=yes, Pattern=say
+	Constrained: 
+Turn ID=30| A | A : well that
+	Free: 
+	Constrained: 
+Turn ID=31| B | M :  ... and ?
+	Free: Pattern=and
+	Constrained: 
+Turn ID=32| A | A : i see .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=33| B | M : awww i was so sad when i saw the sign .
+	Free: Pattern=was, Pattern=the, Pattern=i, Pattern=so
+	Constrained: 
+Turn ID=34| A | A : yeah .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=35| B | M : are you retired ?
+	Free: Pattern=are, Pattern=you
+	Constrained: 
+Turn ID=36| A | A : well i think you hit on one point there is you know each other .
+	Free: Pattern=know, Pattern=is, Pattern=i, Pattern=you
+	Constrained: 
+Turn ID=37| B | M : i'm not really worried about anything .
+	Free: Pattern=i'm not, Pattern=about, Pattern=really
+	Constrained: Pattern=i'm, Pattern=not
+Turn ID=38| A | A : i'm i'm in a neighborhood where we try to keep up with everything . uh i am oh about three blocks off a major road and uh a couple of blocks off another road that kind of runs i guess you would say the neighborhood road it runs between the high school and the the commercial districts and uh i'm over the northeast part of dallas . it's a in a nice neighborhood . the houses here uh before the recession were running two hundred thousand or so and course everything's down ten to twenty percent now .
+	Free: Pattern=of, Pattern=about, Pattern=in, Pattern=i, Pattern=we, Pattern=or, Pattern=the, Pattern=so, Pattern=you, Pattern=uh, Pattern=a, Pattern=i'm in, Pattern=it, Pattern=and, Pattern=oh, Pattern=say, Pattern=i'm
+	Constrained: Pattern=i'm, Pattern=in
+Turn ID=39| B | M : 
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : but we have uh one one thing that effects us is we have apartments that are probably about a half mile away and now the economy is bad they have trouble keeping those full so they've dropped the uh they're not nearly as selective as they used to be .
+	Free: Pattern=uh, Pattern=have, Pattern=a, Pattern=and, Pattern=about, Pattern=is, Pattern=the, Pattern=so, Pattern=not, Pattern=are, Pattern=but we have, Pattern=us, Pattern=we have
+	Constrained: Pattern=we have, Pattern=have, Pattern=but, Pattern=we
+Turn ID=41| B | M : not .
+	Free: Pattern=not
+	Constrained: 
+Turn ID=42| A | A : and course that's kind of like a cancer in an apartment complex . you start letting that happen and they go down and then before you know it you have drugs and a lot of other things so uh i'm sure that aggravates it also .
+	Free: Pattern=of, Pattern=have, Pattern=an, Pattern=in, Pattern=that's, Pattern=a lot, Pattern=so, Pattern=you, Pattern=uh, Pattern=then, Pattern=a, Pattern=it, Pattern=and, Pattern=know, Pattern=i'm
+	Constrained: Pattern=a
+Turn ID=43| B | M : but we have
+	Free: Pattern=but we have
+	Constrained: Pattern=we have, Pattern=have, Pattern=but, Pattern=we
+Turn ID=44| A | A : but unemployment now in dallas or in texas is up around six point
+	Free: Pattern=is, Pattern=in, Pattern=but, Pattern=or
+	Constrained: 

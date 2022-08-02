@@ -1,0 +1,191 @@
+A|0| A: _yeah_ instead _of_ something greasy or 
+B|1| M: _well_ _it's_ _the_ most peaceful thing i've ever heard . 
+A|2| A: yes . 
+B|3| M: _who_ 
+A|4| A: _yeah_ _i_ kind _of_ _i_ haven't been keeping up with football _i_ mean _in the_ fall _i_ _i_ can go on and on _about_ football but since [it's] kind _of_ off season [it's] kind _of_ hard to think back _about_ all that . but _uh_ 
+B|5| M: _are you_ _sure_ ? 
+A|6| A: oh . 
+B|7| M: [i] dont 
+A|8| A: oh okay we'll try to be _real_ quick here . 
+B|9| M: [i] _have_ family [in the] state [of] texas . 
+A|10| A: _it_ [sure] beats dragging hoses around . 
+B|11| M: i'm _not_ _a_ scientist . 
+A|12| A: and [i] felt felt probably worse for them than than for me because oh gosh they [the] _uh_ _this_ fellow's wife [who] _was_ _uh_ watching [the] dog she [i] think she loved that dog more than [i] did and _uh ._ she _was_ _really_ attached to _it_ 
+B|13| M: [it's] _a_ [real] thing . 
+A|14| A: [well] _that's_ good . sounds _like_ _you're_ [have] [a] handle on _it_ . 
+B|15| M: hmmmmmm ... [i] [have] _two_ . 
+A|16| A: uh-huh . 
+B|17| M: what [about] your kids ? 
+A|18| A: _where_ [are you] ? 
+B|19| M: what is [this] ? 
+A|20| A: _yeah_ [i] mean we'll our neighbors [the] attached on [the] other side _they're_ very _nice_ thank god 
+B|21| M: why ? i'm [a] [nice] guy . 
+A|22| A: right . we get 
+B|23| M: do [you] play any instruments ? 
+A|24| A: [you] don't sound _like_ _you're_ [in the] north . [you] sound _like_ _you're_ [in the] south somewhere . 
+B|25| M: [it's] _not_ [a] home we're living [in] [it's] [a] home [they're] living at . 
+A|26| A: that that makes logic 
+B|27| M: [you're] thinking [of] [the] most popular _not_ [the] most common . 
+A|28| A: uh-huh . 
+B|29| M: what ? 
+A|30| A: _really_ . 
+B|31| M: uhh [uh] [uh .] 
+A|32| A: handling power everything . _yeah_ _it_ just got _like_ [the] top rating . _it_ _was_ compared up against [uh] let's see there _was_ _like_ [the] mazda m x three [uh] nissan's whatever their [two] n x [two] thousand [the] civic s [i] and _it_ just _you know_ _it_ _it_ dominated over all [of] them . everybody all [the] [uh] raters loved _it_ . [i] _like_ [the] [i] _like_ [the] styling and [i] seen [a] few [of] them actually race and they seem to be _really_ good cars for _it_ . 
+B|33| M: [yeah] um 
+A|34| A: but 
+B|35| M: what [was] [it] ? 
+A|36| A: [yeah] [i] thought they had some sort [of] [i] mean [i] thought they were just poor people _like_ us [i] guess [not] _that's_ great . 
+B|37| M: [the] train [of] kittens . 
+A|38| A: right . 
+B|39| M: [i] [know] . 
+A|40| A: _huh_ . 
+B|41| M: [it's] [not] [really] [you know] fun 
+A|42| A: and they haven't [you know] talked [about] doing something _like_ that 
+B|43| M: [it's] [like] [you know] [uh] [where] [the] women [are] from . 
+A|44| A: right 
+B|45| M: [that's] [uh] [uh] [it's] [a] country . 
+B|46| M: [uh] [huh] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : yeah instead of something greasy or
+	Free: Pattern=yeah, Pattern=of
+	Constrained: 
+Turn ID=1| B | M : well it's the most peaceful thing i've ever heard .
+	Free: Pattern=it's, Pattern=the, Pattern=well
+	Constrained: 
+Turn ID=2| A | A : yes .
+	Free: 
+	Constrained: 
+Turn ID=3| B | M : who
+	Free: Pattern=who
+	Constrained: 
+Turn ID=4| A | A : yeah i kind of i haven't been keeping up with football i mean in the fall i i can go on and on about football but since it's kind of off season it's kind of hard to think back about all that . but uh
+	Free: Pattern=of, Pattern=uh, Pattern=yeah, Pattern=in the, Pattern=about, Pattern=i, Pattern=it's
+	Constrained: Pattern=the, Pattern=in
+Turn ID=5| B | M : are you sure ?
+	Free: Pattern=are you, Pattern=sure
+	Constrained: Pattern=are, Pattern=you
+Turn ID=6| A | A : oh .
+	Free: 
+	Constrained: 
+Turn ID=7| B | M : i dont
+	Free: Pattern=i
+	Constrained: 
+Turn ID=8| A | A : oh okay we'll try to be real quick here .
+	Free: Pattern=real
+	Constrained: 
+Turn ID=9| B | M : i have family in the state of texas .
+	Free: Pattern=in the, Pattern=have, Pattern=i, Pattern=of
+	Constrained: Pattern=the, Pattern=in
+Turn ID=10| A | A : it sure beats dragging hoses around .
+	Free: Pattern=it, Pattern=sure
+	Constrained: 
+Turn ID=11| B | M : i'm not a scientist .
+	Free: Pattern=not, Pattern=a
+	Constrained: 
+Turn ID=12| A | A : and i felt felt probably worse for them than than for me because oh gosh they the uh this fellow's wife who was uh watching the dog she i think she loved that dog more than i did and uh . she was really attached to it
+	Free: Pattern=uh ., Pattern=uh, Pattern=who, Pattern=it, Pattern=i, Pattern=really, Pattern=the, Pattern=was, Pattern=this
+	Constrained: Pattern=uh
+Turn ID=13| B | M : it's a real thing .
+	Free: Pattern=real, Pattern=it's, Pattern=a
+	Constrained: 
+Turn ID=14| A | A : well that's good . sounds like you're have a handle on it .
+	Free: Pattern=you're, Pattern=well, Pattern=have, Pattern=a, Pattern=it, Pattern=like, Pattern=that's
+	Constrained: 
+Turn ID=15| B | M : hmmmmmm ... i have two .
+	Free: Pattern=have, Pattern=two, Pattern=i
+	Constrained: 
+Turn ID=16| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=17| B | M : what about your kids ?
+	Free: Pattern=about
+	Constrained: 
+Turn ID=18| A | A : where are you ?
+	Free: Pattern=are you, Pattern=where
+	Constrained: Pattern=are, Pattern=you
+Turn ID=19| B | M : what is this ?
+	Free: Pattern=this
+	Constrained: 
+Turn ID=20| A | A : yeah i mean we'll our neighbors the attached on the other side they're very nice thank god
+	Free: Pattern=nice, Pattern=yeah, Pattern=they're, Pattern=i, Pattern=the
+	Constrained: 
+Turn ID=21| B | M : why ? i'm a nice guy .
+	Free: Pattern=nice, Pattern=a
+	Constrained: 
+Turn ID=22| A | A : right . we get
+	Free: 
+	Constrained: 
+Turn ID=23| B | M : do you play any instruments ?
+	Free: Pattern=you
+	Constrained: 
+Turn ID=24| A | A : you don't sound like you're in the north . you sound like you're in the south somewhere .
+	Free: Pattern=in the, Pattern=like, Pattern=you're, Pattern=you
+	Constrained: Pattern=the, Pattern=in
+Turn ID=25| B | M : it's not a home we're living in it's a home they're living at .
+	Free: Pattern=a, Pattern=they're, Pattern=in, Pattern=it's, Pattern=not
+	Constrained: 
+Turn ID=26| A | A : that that makes logic
+	Free: 
+	Constrained: 
+Turn ID=27| B | M : you're thinking of the most popular not the most common .
+	Free: Pattern=the, Pattern=you're, Pattern=not, Pattern=of
+	Constrained: 
+Turn ID=28| A | A : uh-huh .
+	Free: 
+	Constrained: 
+Turn ID=29| B | M : what ?
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : really .
+	Free: Pattern=really
+	Constrained: 
+Turn ID=31| B | M : uhh uh uh .
+	Free: Pattern=uh ., Pattern=uh
+	Constrained: Pattern=uh
+Turn ID=32| A | A : handling power everything . yeah it just got like the top rating . it was compared up against uh let's see there was like the mazda m x three uh nissan's whatever their two n x two thousand the civic s i and it just you know it it dominated over all of them . everybody all the uh raters loved it . i like the i like the styling and i seen a few of them actually race and they seem to be really good cars for it .
+	Free: Pattern=of, Pattern=a, Pattern=the, Pattern=was, Pattern=uh, Pattern=you know, Pattern=it, Pattern=yeah, Pattern=two, Pattern=i, Pattern=really, Pattern=like
+	Constrained: Pattern=know, Pattern=you
+Turn ID=33| B | M : yeah um
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=34| A | A : but
+	Free: 
+	Constrained: 
+Turn ID=35| B | M : what was it ?
+	Free: Pattern=it, Pattern=was
+	Constrained: 
+Turn ID=36| A | A : yeah i thought they had some sort of i mean i thought they were just poor people like us i guess not that's great .
+	Free: Pattern=of, Pattern=yeah, Pattern=i, Pattern=like, Pattern=that's, Pattern=not
+	Constrained: 
+Turn ID=37| B | M : the train of kittens .
+	Free: Pattern=the, Pattern=of
+	Constrained: 
+Turn ID=38| A | A : right .
+	Free: 
+	Constrained: 
+Turn ID=39| B | M : i know .
+	Free: Pattern=know, Pattern=i
+	Constrained: 
+Turn ID=40| A | A : huh .
+	Free: Pattern=huh
+	Constrained: 
+Turn ID=41| B | M : it's not really you know fun
+	Free: Pattern=you know, Pattern=it's, Pattern=not, Pattern=really
+	Constrained: Pattern=know, Pattern=you
+Turn ID=42| A | A : and they haven't you know talked about doing something like that
+	Free: Pattern=you know, Pattern=like, Pattern=about
+	Constrained: Pattern=know, Pattern=you
+Turn ID=43| B | M : it's like you know uh where the women are from .
+	Free: Pattern=are, Pattern=where, Pattern=like, Pattern=the, Pattern=it's, Pattern=uh, Pattern=you know
+	Constrained: Pattern=know, Pattern=you
+Turn ID=44| A | A : right
+	Free: 
+	Constrained: 
+Turn ID=45| B | M : that's uh uh it's a country .
+	Free: Pattern=it's, Pattern=that's, Pattern=uh, Pattern=a
+	Constrained: 
+Turn ID=46| B | M : uh huh
+	Free: Pattern=huh, Pattern=uh
+	Constrained: 
