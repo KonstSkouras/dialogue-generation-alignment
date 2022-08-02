@@ -1,13 +1,15 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	6	i'm not sure what you're asking	21	M	13, 33
-3	3	i'm not sure	21	M	13, 25, 33
+2	7	, i'm not sure what you're asking	21	M	13, 33
+3	4	, i'm not sure	21	M	13, 25, 33
+2	3	, but i	5	M	13, 17
+4	2	, but	13	M	5, 11, 13, 17
 4	2	i'm not	31	M	13, 25, 33, 43
 3	2	in the	41	M	3, 29, 43
 2	2	a good	25	M	15, 39
 2	2	are you	7	M	49, 55
-2	2	but i	5	M	13, 17
 2	2	i'm sorry	21	M	33, 53
 2	2	of the	7	M	41, 47
+2	2	oh ,	5	M	19, 23
 2	2	talking about	45	M	5, 49
 2	2	the house	13	M	29, 41
 2	2	to the	9	M	39, 47
@@ -18,7 +20,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	not	31	M	13, 25, 27, 33, 43
 5	1	sure	43	M	13, 25, 29, 33, 55
 5	1	you	47	M	9, 13, 41, 49, 55
-4	1	but	13	M	5, 11, 13, 17
 4	1	i	43	M	13, 17, 23, 55
 3	1	are	51	M	5, 49, 55
 3	1	house	17	M	29, 41, 45
@@ -29,7 +30,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	her	5	M	41, 45
 2	1	it	11	M	5, 15
 2	1	just	25	M	23, 47
-2	1	oh	5	M	19, 23
 2	1	think	5	M	13, 17
 2	1	this	17	M	9, 25
 2	1	to	9	M	39, 47

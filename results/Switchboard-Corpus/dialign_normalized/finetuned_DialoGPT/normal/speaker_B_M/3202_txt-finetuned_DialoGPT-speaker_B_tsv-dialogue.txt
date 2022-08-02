@@ -1,59 +1,59 @@
-A|0| B: _and i_ _so_ _i_ mean how _i_ would go about doing _it_ is _i_ would just call _all_ _my_ relatives . 
+A|0| B: _and _i_ ,_ _so_ _i_ mean , how _i_ would go about doing _it_ is _i_ would just call _all_ _my_ relatives . 
 B|1| M: _uh-huh ._ 
-A|2| B: because _i_ since _i_ came _from_ _my_ father has _uh_ five sisters _and_ two brothers _and_ _my_ mother has four brothers _and_ two sisters . _so_ _i_ both _of_ _my_ parents _had_ big families _and_ _we_ always _we_ always got together just always . now it's different because _i_ live here _and i_ you know when _i_ go home _i_ try _to_ see the families as much _of_ the _family_ as _i_ can but it's real different . 
+A|2| B: because _i ,_ since _i_ came _from_ _, my_ father has _, uh ,_ five sisters _and_ two brothers _and_ _my_ mother has four brothers _and_ two sisters . _so_ _i_ both _of_ _my_ parents _had_ big families _, and_ _we_ always _we_ always got together , just always . now it's different because _i_ live here _and _i_ ,_ you know , when _i_ go home _i_ try _to_ see the families , as much _of_ the _family_ as _i_ can but it's real different . 
 B|3| M: _yeah_ . 
-A|4| B: _and _i_ grew_ up _in_ _a_ real not _i think_ not normal setting . 
-B|5| M: well [i grew] out [of] [it] 
-A|6| B: right . [i] mean sunday dinner _was_ at _my_ grandmother's _and_ you know like [i] said there would be thirty you know thirty people _and_ everyone would just bring things _and_ _my_ grandmother would cook _and_ cook _and_ cook . 
+A|4| B: _and _i_ grew_ up _in_ _a_ real not _, i think_ not normal setting . 
+B|5| M: well [, [i] grew] out [of] [it] 
+A|6| B: right . [i] mean sunday dinner _was_ at _my_ grandmother's _and ,_ you know , like [i] said there would be thirty , you know , thirty people _, and_ everyone would just bring things _and_ _my_ grandmother would cook _and_ cook _and_ cook . 
 B|7| M: _uh-huh ._ 
 A|8| B: _and_ 
-B|9| M: oh [my] . 
+B|9| M: oh [, my] . 
 A|10| B: [uh-huh .] 
-B|11| M: [so] [we] were [all] [from] ohio [and i] [was] going [to] school [in] florida [and] [so] [we] were going [to] have [a] [family] reunions on [a] cruise . [and] [uh] [we] [had] [to] have [uh] . 
-A|12| B: [yeah] [i] guess [so] . [it] really sounds like [it] [was] fun . 
-B|13| M: well [i] [i think] [so] too . 
+B|11| M: [so] , [we] were [all] [from] ohio [, [and] i] [was] going [to] school [in] florida [, and] [so] [we] were going [to] have [a] [family] reunions on [a] cruise . [and [,] uh ,] [we] [had] [to] have [, uh] . 
+A|12| B: [yeah] [, i] guess [so] . [it] really sounds like [it] [was] fun . 
+B|13| M: well [i [,] i think] [so] too . 
 
 
 TURN DETAILS:
-Turn ID=0| A | B : and i so i mean how i would go about doing it is i would just call all my relatives .
-	Free: Pattern=and i, Pattern=it, Pattern=i, Pattern=all, Pattern=my, Pattern=so
+Turn ID=0| A | B : and i , so i mean , how i would go about doing it is i would just call all my relatives .
+	Free: Pattern=and i, Pattern=it, Pattern=i, Pattern=all, Pattern=i ,, Pattern=my, Pattern=so
 	Constrained: Pattern=and, Pattern=i
 Turn ID=1| B | M : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=2| A | B : because i since i came from my father has uh five sisters and two brothers and my mother has four brothers and two sisters . so i both of my parents had big families and we always we always got together just always . now it's different because i live here and i you know when i go home i try to see the families as much of the family as i can but it's real different .
-	Free: Pattern=and i, Pattern=of, Pattern=uh, Pattern=and, Pattern=from, Pattern=family, Pattern=i, Pattern=we, Pattern=had, Pattern=to, Pattern=my, Pattern=so
-	Constrained: Pattern=and, Pattern=i
+Turn ID=2| A | B : because i , since i came from , my father has , uh , five sisters and two brothers and my mother has four brothers and two sisters . so i both of my parents had big families , and we always we always got together , just always . now it's different because i live here and i , you know , when i go home i try to see the families , as much of the family as i can but it's real different .
+	Free: Pattern=and i, Pattern=of, Pattern=and, Pattern=from, Pattern=family, Pattern=i, Pattern=we, Pattern=had, Pattern=, uh ,, Pattern=i ,, Pattern=, my, Pattern=my, Pattern=so, Pattern=, and, Pattern=to
+	Constrained: Pattern=i, Pattern=and, Pattern=, uh, Pattern=my
 Turn ID=3| B | M : yeah .
 	Free: Pattern=yeah
 	Constrained: 
-Turn ID=4| A | B : and i grew up in a real not i think not normal setting .
-	Free: Pattern=and i, Pattern=a, Pattern=i grew, Pattern=in, Pattern=i think
-	Constrained: Pattern=and, Pattern=i
-Turn ID=5| B | M : well i grew out of it
-	Free: Pattern=i grew, Pattern=of, Pattern=it
+Turn ID=4| A | B : and i grew up in a real not , i think not normal setting .
+	Free: Pattern=and i, Pattern=a, Pattern=, i think, Pattern=i grew, Pattern=in
+	Constrained: Pattern=, i, Pattern=i, Pattern=and
+Turn ID=5| B | M : well , i grew out of it
+	Free: Pattern=, i, Pattern=i grew, Pattern=it, Pattern=of
 	Constrained: Pattern=i
-Turn ID=6| A | B : right . i mean sunday dinner was at my grandmother's and you know like i said there would be thirty you know thirty people and everyone would just bring things and my grandmother would cook and cook and cook .
-	Free: Pattern=and, Pattern=my, Pattern=i, Pattern=was
-	Constrained: 
+Turn ID=6| A | B : right . i mean sunday dinner was at my grandmother's and , you know , like i said there would be thirty , you know , thirty people , and everyone would just bring things and my grandmother would cook and cook and cook .
+	Free: Pattern=and ,, Pattern=and, Pattern=i, Pattern=, and, Pattern=was, Pattern=my
+	Constrained: Pattern=and
 Turn ID=7| B | M : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
 Turn ID=8| A | B : and
 	Free: Pattern=and
 	Constrained: 
-Turn ID=9| B | M : oh my .
-	Free: Pattern=my
-	Constrained: 
+Turn ID=9| B | M : oh , my .
+	Free: Pattern=, my
+	Constrained: Pattern=my
 Turn ID=10| A | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=11| B | M : so we were all from ohio and i was going to school in florida and so we were going to have a family reunions on a cruise . and uh we had to have uh .
-	Free: Pattern=and i, Pattern=uh, Pattern=a, Pattern=and, Pattern=from, Pattern=family, Pattern=in, Pattern=we, Pattern=had, Pattern=all, Pattern=to, Pattern=was, Pattern=so
-	Constrained: Pattern=and, Pattern=i
-Turn ID=12| A | B : yeah i guess so . it really sounds like it was fun .
-	Free: Pattern=i, Pattern=was, Pattern=so, Pattern=it, Pattern=yeah
-	Constrained: 
-Turn ID=13| B | M : well i i think so too .
-	Free: Pattern=i think, Pattern=so, Pattern=i
+Turn ID=11| B | M : so , we were all from ohio , and i was going to school in florida , and so we were going to have a family reunions on a cruise . and , uh , we had to have , uh .
+	Free: Pattern=and i, Pattern=, uh, Pattern=and ,, Pattern=a, Pattern=from, Pattern=family, Pattern=in, Pattern=we, Pattern=had, Pattern=, uh ,, Pattern=all, Pattern=was, Pattern=so, Pattern=, and, Pattern=to
+	Constrained: Pattern=i, Pattern=, uh, Pattern=and
+Turn ID=12| A | B : yeah , i guess so . it really sounds like it was fun .
+	Free: Pattern=, i, Pattern=was, Pattern=so, Pattern=it, Pattern=yeah
 	Constrained: Pattern=i
+Turn ID=13| B | M : well i , i think so too .
+	Free: Pattern=, i think, Pattern=i ,, Pattern=so
+	Constrained: Pattern=, i, Pattern=i

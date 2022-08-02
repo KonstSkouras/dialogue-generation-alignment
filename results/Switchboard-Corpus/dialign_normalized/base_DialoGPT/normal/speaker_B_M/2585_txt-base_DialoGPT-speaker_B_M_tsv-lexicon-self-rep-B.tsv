@@ -3,12 +3,17 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	they have a	3	M	59, 61
 4	2	have a	75	M	7, 59, 61, 81
 4	2	it's not	59	M	27, 63, 67, 85
+3	2	, you	87	M	11, 55, 97
 3	2	you have	89	M	25, 33, 113
+2	2	, and	45	M	43, 87
+2	2	, i'm	27	M	17, 43
+2	2	, they	11	M	55, 65
 2	2	. uh	89	M	13, 101
 2	2	a job	21	M	83, 103
 2	2	i'm a	35	M	43, 77
 2	2	language .	7	M	67, 73
 2	2	oh .	25	M	13, 37
+2	2	well ,	13	M	43, 55
 2	2	what ?	19	M	71, 89
 2	2	you are	59	M	55, 113
 13	1	a	107	M	7, 43, 59, 61, 67, 77, 81, 83, 95, 99, 103, 107, 113
@@ -46,7 +51,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	teacher	3	M	53, 55
 2	1	was	13	M	93, 105
 2	1	we	9	M	73, 81
-2	1	well	13	M	43, 55
 2	1	you're	39	M	15, 53
 2	1	your	19	M	33, 51
 

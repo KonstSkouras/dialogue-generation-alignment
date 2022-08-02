@@ -1,20 +1,29 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, i don't know ,	15	A	14, 28
+3	4	, i don't know	31	A	14, 28, 44
+3	4	, that's good .	19	A	10, 18, 28
+2	4	, you know ,	3	A	28, 30
 2	4	are having to pay	7	A	8, 14
 2	4	he's really caught on	3	A	46, 48
 2	4	to do that .	3	A	12, 14
+7	3	, uh ,	45	A	2, 8, 14, 28, 32, 44, 46
 4	3	i don't know	43	A	2, 14, 28, 44
-3	3	that's good .	19	A	10, 18, 28
+2	3	. and ,	37	A	8, 44
 2	3	a lot of	35	A	2, 36
 2	3	doesn't make sense	7	A	8, 14
 2	3	really caught on	3	A	46, 48
 2	3	some of the	7	A	2, 8
 2	3	that kind of	3	A	46, 48
+2	3	uh , i	11	A	4, 14
 2	3	yeah . that's	7	A	12, 18
+11	2	uh ,	47	A	0, 2, 4, 8, 14, 28, 32, 34, 36, 44, 46
+7	2	, i	43	A	2, 4, 14, 24, 28, 34, 44
 7	2	yeah .	33	A	12, 16, 18, 26, 40, 42, 44
 4	2	do that	45	A	2, 12, 14, 46
 4	2	i don't	43	A	2, 14, 28, 44
 3	2	. and	37	A	8, 36, 44
 3	2	. i	43	A	2, 28, 44
+3	2	has ,	41	A	4, 34, 44
 3	2	kind of	47	A	2, 46, 48
 3	2	of the	7	A	2, 6, 8
 3	2	she does	35	A	2, 32, 36
@@ -22,6 +31,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	that's good	19	A	10, 18, 28
 3	2	uh-huh .	15	A	14, 20, 28
 3	2	you know	17	A	28, 30, 44
+2	2	, and	29	A	8, 36
+2	2	, it	11	A	4, 14
+2	2	, we	3	A	0, 2
 2	2	. but	19	A	14, 32
 2	2	. which	7	A	8, 14
 2	2	. you	33	A	12, 44
@@ -30,26 +42,28 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	and they	25	A	6, 30
 2	2	but i	13	A	2, 14
 2	2	do anything	21	A	8, 28
+2	2	don't ,	27	A	2, 28
 2	2	don't do	27	A	2, 28
-2	2	don't i	27	A	2, 28
+2	2	each ,	5	A	4, 8
+2	2	i ,	7	A	28, 34
 2	2	i know	3	A	2, 4
 2	2	in that	19	A	14, 32
 2	2	like that	3	A	28, 30
+2	2	of ,	45	A	2, 46
 2	2	of thing	3	A	46, 48
 2	2	participate in	7	A	8, 14
 2	2	really don't	27	A	8, 34
 2	2	really neat	5	A	44, 48
 2	2	sense .	29	A	8, 36
+2	2	that ,	29	A	8, 36
 2	2	that and	15	A	32, 46
 2	2	that do	7	A	8, 14
 2	2	thing .	37	A	12, 48
 2	2	to me	13	A	2, 14
-2	2	uh i	11	A	4, 14
+2	2	yeah ,	3	A	10, 12
 12	1	that	47	A	2, 8, 12, 14, 24, 28, 30, 32, 36, 44, 46, 48
-11	1	uh	47	A	0, 2, 4, 8, 14, 28, 32, 34, 36, 44, 46
 9	1	and	47	A	2, 6, 8, 30, 32, 36, 44, 46, 48
 8	1	to	45	A	2, 8, 12, 14, 28, 32, 36, 46
-8	1	yeah	35	A	10, 12, 16, 18, 26, 40, 42, 44
 7	1	i	43	A	2, 4, 14, 24, 28, 34, 44
 7	1	in	43	A	4, 8, 14, 28, 32, 34, 46
 7	1	know	43	A	2, 4, 14, 24, 28, 30, 44

@@ -1,46 +1,63 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	about nursing homes	23	B	0, 22
-2	3	and uh it's	59	B	26, 84
+2	5	and , uh , it's	59	B	26, 84
+3	4	and , uh ,	59	B	26, 34, 84
+2	4	, uh , i	3	B	32, 34
+2	4	, you know ,	9	B	26, 34
+2	4	so , uh ,	5	B	34, 38
+10	3	, uh ,	67	B	18, 20, 26, 32, 34, 36, 38, 50, 60, 84
+3	3	oh , it's	59	B	8, 34, 66
+3	3	you know ,	11	B	26, 34, 36
+2	3	, it's ,	9	B	26, 34
 2	3	have a good	3	B	86, 88
+2	3	i , i	3	B	22, 24
 2	3	one of them	17	B	20, 36
 2	3	see them .	3	B	46, 48
-2	3	that and then	41	B	40, 80
+11	2	, uh	67	B	18, 20, 26, 32, 34, 36, 38, 40, 50, 60, 84
+10	2	uh ,	67	B	18, 20, 26, 32, 34, 36, 38, 50, 60, 84
 7	2	right .	73	B	6, 12, 30, 54, 66, 74, 78
+6	2	, i	37	B	20, 22, 24, 32, 34, 56
+5	2	, it's	77	B	8, 26, 34, 66, 84
+4	2	and ,	59	B	26, 34, 40, 84
 4	2	i know	53	B	8, 24, 40, 60
+4	2	know ,	13	B	24, 26, 34, 36
+4	2	oh ,	59	B	8, 34, 56, 66
+4	2	so ,	17	B	22, 28, 34, 38
 4	2	uh-huh .	73	B	4, 10, 52, 76
 4	2	you know	17	B	20, 26, 34, 36
-3	2	and uh	59	B	26, 34, 84
+3	2	, they	23	B	24, 40, 46
 3	2	have a	63	B	26, 86, 88
 3	2	i think	13	B	32, 40, 44
 3	2	nursing homes	61	B	0, 22, 60
 3	2	of them	17	B	20, 24, 36
-3	2	oh it's	59	B	8, 34, 66
 3	2	see them	13	B	46, 48, 58
 3	2	so .	11	B	58, 62, 68
 3	2	them .	25	B	24, 46, 48
 3	2	yeah .	71	B	2, 14, 72
+2	2	, and	11	B	70, 80
+2	2	, if	23	B	36, 58
 2	2	a lot	5	B	40, 44
 2	2	and so	25	B	22, 46
+2	2	and then	41	B	40, 80
 2	2	but i	3	B	40, 42
 2	2	don't know	23	B	20, 42
 2	2	have to	5	B	40, 44
-2	2	i i	3	B	22, 24
 2	2	i just	21	B	22, 42
 2	2	i would	45	B	36, 80
 2	2	i'm sure	3	B	66, 68
 2	2	if something	17	B	20, 36
 2	2	in the	15	B	46, 60
 2	2	it is	31	B	40, 70
-2	2	so uh	5	B	34, 38
 2	2	something happens	17	B	20, 36
+2	2	that ,	55	B	26, 80
 2	2	that they	3	B	24, 26
 2	2	there .	61	B	20, 80
+2	2	they ,	3	B	24, 26
 2	2	they never	3	B	46, 48
-2	2	uh i	3	B	32, 34
+2	2	well ,	59	B	24, 82
 2	2	would be	37	B	32, 68
+2	2	yeah ,	17	B	16, 32
 13	1	i	73	B	8, 20, 22, 24, 32, 34, 36, 40, 42, 44, 56, 60, 80
 11	1	and	67	B	18, 22, 24, 26, 34, 40, 46, 50, 70, 80, 84
-11	1	uh	67	B	18, 20, 26, 32, 34, 36, 38, 40, 50, 60, 84
 10	1	know	53	B	8, 20, 22, 24, 26, 34, 36, 40, 42, 60
 10	1	so	47	B	22, 26, 28, 34, 38, 46, 58, 60, 62, 68
 10	1	that	59	B	22, 24, 26, 34, 36, 40, 50, 68, 70, 80
@@ -61,7 +78,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	oh	61	B	8, 34, 56, 66, 68
 5	1	see	41	B	18, 42, 46, 48, 58
 5	1	would	61	B	20, 32, 36, 68, 80
-5	1	yeah	71	B	2, 14, 16, 32, 72
 4	1	about	61	B	0, 22, 40, 60
 4	1	but	23	B	20, 32, 40, 42
 4	1	go	55	B	26, 42, 48, 80
@@ -96,6 +112,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	they're	11	B	24, 34
 2	1	too	35	B	22, 56
 2	1	very	25	B	8, 32
-2	1	well	59	B	24, 82
 2	1	where	27	B	32, 58
 

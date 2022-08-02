@@ -1,47 +1,78 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	but , uh , that's	57	A	19, 75
+3	4	, you know ,	61	A	5, 31, 65
+2	4	, sounds like you	9	A	67, 75
+2	4	, that's great .	53	A	23, 75
+2	4	, uh , i	71	A	7, 77
+2	4	oh , that's great	45	A	23, 67
+2	4	oh , yeah ,	33	A	21, 53
+2	4	that's , uh ,	35	A	27, 61
+11	3	, uh ,	71	A	7, 15, 19, 27, 29, 41, 61, 63, 71, 75, 77
 5	3	a lot of	71	A	5, 65, 71, 73, 75
+4	3	, um ,	45	A	5, 7, 31, 49
+4	3	, yeah .	39	A	21, 35, 57, 59
+4	3	, you know	61	A	5, 7, 31, 65
+3	3	, i guess	45	A	1, 11, 45
+3	3	, i like	35	A	31, 45, 65
+3	3	, yeah ,	43	A	21, 53, 63
+3	3	oh , yeah	39	A	21, 53, 59
 3	3	that's great .	53	A	23, 25, 75
-2	3	but uh that's	57	A	19, 75
-2	3	i guess i	45	A	1, 45
-2	3	it's kind of	3	A	27, 29
+3	3	uh , i	73	A	5, 7, 77
+2	3	, and ,	17	A	15, 31
+2	3	, hobbies ,	31	A	1, 31
+2	3	, i play	59	A	7, 65
+2	3	, we have	23	A	5, 27
+2	3	a lot ,	5	A	3, 7
+2	3	down here ,	9	A	65, 73
+2	3	i like ,	27	A	5, 31
 2	3	like to cook	7	A	39, 45
-2	3	oh that's great	45	A	23, 67
-2	3	sounds like you	9	A	67, 75
 2	3	that's about it	55	A	19, 73
+9	2	, i	77	A	1, 5, 7, 11, 31, 41, 45, 65, 77
+8	2	oh ,	67	A	1, 21, 23, 43, 53, 57, 59, 67
+8	2	yeah ,	63	A	9, 15, 21, 27, 41, 53, 63, 71
 7	2	a lot	73	A	3, 5, 7, 65, 71, 73, 75
+6	2	well ,	77	A	1, 17, 45, 63, 75, 77
+5	2	, and	69	A	5, 9, 15, 31, 73
+5	2	, that's	57	A	19, 23, 27, 67, 75
+5	2	, you	67	A	5, 7, 31, 65, 71
 5	2	i like	63	A	3, 5, 31, 45, 65
 5	2	yeah .	55	A	21, 35, 57, 59, 75
+4	2	, we	47	A	5, 15, 27, 51
+4	2	and ,	39	A	7, 15, 31, 45
 4	2	kind of	7	A	27, 29, 31, 33
-4	2	you know	61	A	5, 7, 31, 65
+4	2	um ,	45	A	5, 7, 31, 49
 3	2	and a	67	A	7, 15, 73
+3	2	but ,	57	A	19, 65, 75
+3	2	have ,	39	A	7, 27, 45
 3	2	have a	77	A	5, 75, 81
-3	2	i guess	45	A	1, 11, 45
+3	2	it ,	37	A	9, 11, 45
 3	2	like to	39	A	7, 39, 45
-3	2	oh yeah	39	A	21, 53, 59
 3	2	sounds like	39	A	37, 67, 75
+3	2	that's ,	55	A	7, 27, 61
 3	2	to cook	7	A	39, 41, 45
 3	2	to do	61	A	5, 61, 65
-3	2	uh i	73	A	5, 7, 77
+2	2	, but	39	A	11, 49
+2	2	, i've	3	A	7, 9
+2	2	, so	41	A	5, 45
+2	2	, we're	19	A	27, 45
 2	2	all that	3	A	53, 55
 2	2	and then	43	A	5, 47
-2	2	down here	9	A	65, 73
 2	2	for you	23	A	55, 77
-2	2	i play	59	A	7, 65
+2	2	great ,	11	A	67, 77
 2	2	in in	19	A	9, 27
 2	2	it .	25	A	37, 61
+2	2	it's ,	37	A	27, 63
 2	2	it's really	23	A	11, 33
 2	2	of people	27	A	47, 73
 2	2	of things	41	A	31, 71
-2	2	so i	45	A	1, 45
-2	2	that's uh	35	A	27, 61
+2	2	she's ,	13	A	15, 27
+2	2	so ,	29	A	45, 73
 2	2	there .	57	A	19, 75
-2	2	we have	23	A	5, 27
 2	2	with you	45	A	35, 79
+2	2	you ,	11	A	67, 77
 2	2	you have	5	A	71, 75
 13	1	you	75	A	5, 7, 29, 31, 35, 39, 55, 65, 67, 71, 75, 77, 79
 12	1	i	79	A	1, 3, 5, 7, 9, 11, 31, 41, 45, 65, 77, 79
-12	1	uh	73	A	5, 7, 15, 19, 27, 29, 41, 61, 63, 71, 75, 77
-12	1	yeah	67	A	9, 15, 21, 27, 35, 41, 53, 57, 59, 63, 71, 75
 11	1	a	79	A	3, 5, 7, 11, 15, 27, 65, 71, 73, 75, 81
 11	1	and	69	A	5, 7, 9, 11, 15, 17, 31, 35, 45, 47, 73
 11	1	of	71	A	5, 27, 29, 31, 33, 47, 49, 65, 71, 73, 75
@@ -50,21 +81,17 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 10	1	to	71	A	1, 5, 7, 39, 41, 45, 61, 63, 65, 71
 9	1	it	67	A	7, 9, 11, 19, 37, 45, 49, 61, 73
 8	1	have	81	A	1, 5, 7, 27, 45, 71, 75, 81
-8	1	oh	67	A	1, 21, 23, 43, 53, 57, 59, 67
 7	1	so	73	A	1, 5, 27, 29, 45, 65, 73
 6	1	it's	67	A	11, 27, 29, 33, 63, 77
 6	1	really	65	A	7, 11, 33, 43, 47, 71
 6	1	the	65	A	7, 11, 27, 49, 65, 71
 6	1	well	77	A	1, 17, 45, 63, 75, 77
-5	1	but	65	A	11, 19, 49, 65, 75
 5	1	do	61	A	5, 39, 51, 61, 65
-5	1	great	55	A	23, 25, 67, 75, 77
 5	1	in	41	A	9, 27, 31, 35, 49
 5	1	know	73	A	5, 7, 31, 65, 77
 5	1	that	51	A	5, 7, 17, 53, 55
 4	1	about	67	A	7, 15, 19, 73
 4	1	for	63	A	15, 27, 55, 77
-4	1	um	45	A	5, 7, 31, 49
 4	1	we	47	A	5, 15, 27, 51
 4	1	with	79	A	1, 27, 35, 79
 3	1	all	11	A	45, 53, 55
@@ -83,7 +110,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	enjoyed	71	A	9, 79
 2	1	get	11	A	35, 45
 2	1	good	35	A	47, 81
-2	1	i've	3	A	7, 9
 2	1	if	29	A	7, 35
 2	1	just	17	A	49, 65
 2	1	look	7	A	71, 77
@@ -93,14 +119,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	play	59	A	7, 65
 2	1	real	55	A	17, 71
 2	1	say	19	A	29, 47
-2	1	she's	13	A	15, 27
 2	1	stuff	3	A	53, 55
 2	1	sure	7	A	51, 57
 2	1	this	21	A	27, 47
 2	1	time	27	A	1, 27
 2	1	too	41	A	1, 41
 2	1	way	51	A	11, 61
-2	1	we're	19	A	27, 45
 2	1	when	37	A	9, 45
 2	1	will	31	A	5, 35
 2	1	year	23	A	5, 27

@@ -1,22 +1,32 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+6	4	, you know ,	49	B	1, 3, 13, 15, 23, 49
+3	4	and , uh ,	25	B	11, 15, 35
 2	4	i don't know .	9	B	13, 21
 2	4	i'm not talking about	9	B	41, 49
 2	4	penalizing the person that	19	B	5, 23
+8	3	, you know	49	B	1, 3, 11, 13, 15, 23, 25, 49
+7	3	, uh ,	35	B	1, 3, 11, 13, 15, 23, 35
+7	3	you know ,	49	B	1, 3, 7, 13, 15, 23, 49
+2	3	, if you	11	B	3, 13
 2	3	. if they	3	B	5, 7
 2	3	. you know	13	B	1, 13
+2	3	and , and	17	B	15, 31
 2	3	i don't know	9	B	13, 21
 2	3	i think maybe	15	B	1, 15
 2	3	some kind of	15	B	3, 17
 2	3	talking about any	9	B	33, 41
 2	3	which is another	17	B	25, 41
-2	3	you know that	13	B	13, 25
-9	2	you know	49	B	1, 3, 7, 11, 13, 15, 23, 25, 49
+8	2	uh ,	35	B	1, 3, 11, 13, 15, 23, 33, 35
+7	2	know ,	49	B	1, 3, 7, 13, 15, 23, 49
+5	2	, the	47	B	3, 15, 41, 45, 49
 5	2	i think	51	B	1, 15, 17, 27, 51
 5	2	if they	45	B	5, 7, 11, 23, 49
-5	2	of the	41	B	1, 13, 15, 37, 41
+4	2	of the	37	B	1, 13, 15, 37
+3	2	, and	31	B	1, 15, 31
+3	2	, if	47	B	3, 13, 49
+3	2	, it	33	B	13, 23, 45
 3	2	. and	41	B	1, 17, 41
 3	2	. i	27	B	15, 27, 41
-3	2	and uh	25	B	11, 15, 35
 3	2	have to	37	B	15, 27, 51
 3	2	know .	11	B	11, 13, 21
 3	2	one of	15	B	23, 31, 37
@@ -26,10 +36,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	that they	45	B	5, 15, 49
 3	2	the person	19	B	5, 15, 23
 3	2	to be	17	B	11, 17, 27
+2	2	, i	17	B	17, 33
+2	2	, maybe	31	B	19, 49
+2	2	, that	15	B	13, 27
 2	2	a little	25	B	17, 41
 2	2	a lot	41	B	1, 41
 2	2	all of	5	B	1, 5
-2	2	and and	17	B	15, 31
 2	2	and they	27	B	23, 49
 2	2	be paid	17	B	27, 43
 2	2	but then	5	B	1, 5
@@ -39,7 +51,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	for a	39	B	3, 41
 2	2	going to	7	B	7, 13
 2	2	i was	9	B	33, 41
-2	2	if you	11	B	3, 13
 2	2	insurance company	5	B	1, 5
 2	2	is a	25	B	17, 41
 2	2	it really	19	B	5, 23
@@ -48,6 +59,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	know that	13	B	13, 25
 2	2	mega awards	19	B	5, 23
 2	2	more learned	17	B	1, 17
+2	2	of ,	41	B	1, 41
 2	2	of their	21	B	31, 51
 2	2	of these	23	B	1, 23
 2	2	on the	7	B	35, 41
@@ -56,9 +68,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	really penalizes	41	B	5, 45
 2	2	should be	25	B	3, 27
 2	2	sure .	9	B	31, 39
+2	2	that ,	15	B	13, 27
 2	2	that are	41	B	1, 41
 2	2	that they're	3	B	23, 25
 2	2	that you	3	B	13, 15
+2	2	the ,	7	B	43, 49
 2	2	the company	5	B	41, 45
 2	2	the same	33	B	15, 47
 2	2	the wrong	9	B	37, 45
@@ -71,7 +85,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	they have	5	B	11, 15
 2	2	thing that	35	B	15, 49
 2	2	type of	15	B	3, 17
-2	2	well i	33	B	1, 33
+2	2	um ,	3	B	1, 3
 2	2	what they	11	B	31, 41
 2	2	which is	17	B	25, 41
 16	1	the	49	B	1, 3, 5, 13, 15, 17, 23, 25, 27, 35, 37, 41, 43, 45, 47, 49
@@ -88,7 +102,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	is	45	B	5, 13, 17, 23, 25, 35, 37, 41, 49
 9	1	it	45	B	5, 9, 13, 17, 23, 25, 37, 45, 49
 8	1	if	47	B	3, 5, 7, 11, 13, 23, 25, 49
-8	1	uh	35	B	1, 3, 11, 13, 15, 23, 33, 35
 7	1	insurance	43	B	1, 5, 13, 25, 31, 39, 43
 7	1	some	49	B	1, 3, 5, 11, 13, 17, 49
 6	1	be	41	B	3, 11, 17, 19, 27, 43
@@ -158,7 +171,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	punitive	17	B	25, 41
 2	1	put	3	B	13, 15
 2	1	rates	3	B	5, 7
-2	1	um	3	B	1, 3
 2	1	us	5	B	5, 9
 2	1	way	9	B	5, 13
 2	1	when	21	B	5, 25

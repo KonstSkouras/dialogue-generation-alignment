@@ -1,24 +1,36 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	3	, but ,	3	A	19, 21
+2	3	, yeah ,	7	A	25, 31
 2	3	. i think	23	A	7, 29
 2	3	most of the	15	A	5, 19
+2	3	yeah , we	9	A	25, 33
+6	2	yeah ,	27	A	17, 25, 29, 31, 33, 43
 5	2	uh-huh .	29	A	9, 11, 13, 35, 37
+3	2	, for	31	A	3, 5, 33
 3	2	. i	23	A	7, 21, 29
 3	2	i think	23	A	7, 17, 29
+3	2	it ,	23	A	21, 25, 43
 3	2	it's been	17	A	3, 5, 19
+2	2	, but	3	A	19, 21
+2	2	, i	5	A	17, 21
+2	2	, that's	23	A	21, 43
+2	2	, uh	5	A	21, 25
+2	2	, we	9	A	25, 33
+2	2	, yeah	7	A	25, 31
 2	2	day .	7	A	19, 25
 2	2	early .	29	A	15, 43
 2	2	for the	37	A	3, 39
 2	2	know .	11	A	19, 29
 2	2	october .	11	A	7, 17
+2	2	oh ,	17	A	15, 31
 2	2	right ?	3	A	43, 45
 2	2	the past	19	A	3, 21
 2	2	time .	13	A	21, 33
+2	2	uh ,	3	A	19, 21
 2	2	um .	7	A	41, 47
 2	2	yeah .	5	A	27, 31
-2	2	yeah we	9	A	25, 33
 7	1	it	31	A	15, 19, 21, 25, 29, 43, 45
 7	1	the	37	A	3, 5, 7, 19, 21, 29, 39
-7	1	yeah	27	A	17, 25, 27, 29, 31, 33, 43
 6	1	for	37	A	3, 5, 7, 29, 33, 39
 5	1	been	37	A	3, 5, 7, 19, 39
 5	1	of	21	A	5, 7, 19, 21, 25
@@ -31,7 +43,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	but	17	A	5, 19, 21
 3	1	not	15	A	7, 19, 21
 3	1	this	23	A	21, 39, 43
-3	1	uh	7	A	19, 21, 25
 3	1	um	41	A	7, 41, 47
 2	1	all	17	A	29, 45
 2	1	days	13	A	7, 19
@@ -41,10 +52,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	if	31	A	15, 45
 2	1	in	5	A	17, 21
 2	1	leaves	11	A	29, 39
-2	1	oh	17	A	15, 31
 2	1	really	13	A	7, 19
 2	1	summer	19	A	7, 25
-2	1	that's	23	A	21, 43
 2	1	today	7	A	19, 25
 2	1	was	23	A	7, 29
 2	1	winter	5	A	25, 29

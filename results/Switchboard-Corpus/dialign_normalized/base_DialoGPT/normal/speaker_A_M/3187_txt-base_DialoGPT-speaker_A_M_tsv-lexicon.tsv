@@ -2,13 +2,14 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 5	5	2	so .	12	25	1	A	11, 12, 19, 29, 35
 4	4	2	to be	28	16	3	A	13, 15, 27, 28
 3	3	2	. it	27	12	1	M	24, 27, 35
+2	2	2	, she's	32	18	1	A	15, 32
 2	2	2	i know	35	6	1	M	30, 35
 2	2	2	in .	24	10	1	A	15, 24
 2	2	2	it was	24	6	1	A	19, 24
 2	2	2	me .	24	10	1	A	15, 24
 2	2	2	oh .	26	4	1	A	23, 26
-2	2	2	so she's	18	4	1	A	15, 18
-12	8	1	so	12	35	3	A	3, 9, 11, 12, 13, 15, 18, 19, 29, 35, 36, 37
+2	2	2	um ,	8	4	1	A	5, 8
+12	9	1	so	12	35	3	A	3, 9, 11, 12, 13, 15, 18, 19, 29, 35, 36, 37
 11	10	1	to	24	31	6	A	5, 9, 13, 15, 17, 19, 24, 27, 28, 33, 35
 10	10	1	and	34	31	8	A	5, 7, 9, 13, 15, 17, 19, 27, 34, 35
 10	10	1	she	8	31	2	A	5, 7, 8, 9, 13, 15, 17, 19, 33, 35
@@ -36,6 +37,5 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	1	one	28	20	1	A	9, 28
 2	2	1	pretty	28	14	1	A	15, 28
 2	2	1	sure	28	2	1	A	27, 28
-2	2	1	um	8	4	1	A	5, 8
 2	2	1	you	19	18	1	M	2, 19
 

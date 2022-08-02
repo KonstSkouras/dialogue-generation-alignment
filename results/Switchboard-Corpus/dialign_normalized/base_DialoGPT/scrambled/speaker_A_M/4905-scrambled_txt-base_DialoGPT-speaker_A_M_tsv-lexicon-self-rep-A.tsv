@@ -1,9 +1,21 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, you know ,	3	A	36, 38
+3	3	, you know	15	A	24, 36, 38
+2	3	, i think	11	A	26, 36
+2	3	, too ,	29	A	0, 28
+2	3	yeah , i	37	A	0, 36
+2	3	you know ,	3	A	36, 38
+5	2	, i	37	A	0, 26, 28, 32, 36
+4	2	, you	15	A	24, 32, 36, 38
 3	2	i mean	15	A	24, 28, 38
 3	2	i think	33	A	4, 26, 36
 3	2	uh-huh .	41	A	8, 26, 48
+3	2	well ,	23	A	6, 12, 28
+3	2	yeah ,	37	A	0, 6, 36
 3	2	yeah .	23	A	18, 34, 40
-3	2	you know	15	A	24, 36, 38
+2	2	, and	27	A	12, 38
+2	2	, is	3	A	12, 14
+2	2	, of	5	A	28, 32
 2	2	. and	7	A	26, 32
 2	2	. but	3	A	36, 38
 2	2	. right	15	A	32, 46
@@ -13,13 +25,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	one of	25	A	12, 36
 2	2	right .	15	A	32, 46
 2	2	too .	23	A	14, 36
-2	2	yeah i	37	A	0, 36
 2	2	you can	9	A	24, 32
 9	1	i	39	A	0, 4, 12, 24, 26, 28, 32, 36, 38
 8	1	and	41	A	2, 12, 14, 22, 26, 32, 38, 42
 7	1	you	41	A	2, 12, 24, 32, 36, 38, 42
 6	1	the	23	A	4, 6, 12, 16, 22, 26
-6	1	yeah	41	A	0, 6, 18, 34, 36, 40
 5	1	of	25	A	12, 16, 28, 32, 36
 4	1	is	31	A	12, 14, 30, 42
 4	1	it	19	A	24, 26, 30, 42
@@ -27,7 +37,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	know	27	A	12, 24, 36, 38
 4	1	that	27	A	12, 20, 24, 38
 4	1	to	39	A	0, 12, 16, 38
-4	1	too	37	A	0, 14, 28, 36
 3	1	a	33	A	6, 20, 38
 3	1	just	15	A	24, 30, 38
 3	1	or	27	A	12, 28, 38
@@ -35,7 +44,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	they	21	A	22, 38, 42
 3	1	things	27	A	12, 36, 38
 3	1	was	19	A	12, 22, 30
-3	1	well	23	A	6, 12, 28
 2	1	about	13	A	16, 28
 2	1	any	11	A	22, 32
 2	1	bad	3	A	28, 30

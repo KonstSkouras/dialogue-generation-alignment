@@ -1,42 +1,54 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	. i i	7	B	3, 9
-2	3	and and uh	9	B	3, 11
+2	6	and , and , uh ,	9	B	3, 11
+5	5	, and , uh ,	29	B	1, 3, 11, 19, 29
+2	4	. i , i	7	B	3, 9
+2	4	so , uh ,	27	B	9, 35
+10	3	, uh ,	35	B	1, 3, 9, 11, 19, 23, 29, 31, 33, 35
+3	3	i , i	9	B	1, 3, 9
+2	3	, but ,	3	B	1, 3
 2	3	we're the largest	15	B	9, 23
 2	3	will have to	23	B	3, 25
-5	2	and uh	29	B	1, 3, 11, 19, 29
+11	2	uh ,	35	B	1, 3, 9, 11, 19, 23, 25, 29, 31, 33, 35
+7	2	, and	29	B	1, 3, 9, 11, 17, 19, 29
 5	2	uh-huh .	23	B	5, 7, 9, 13, 27
-3	2	i i	9	B	1, 3, 9
+4	2	, i	19	B	1, 3, 9, 19
+3	2	, but	33	B	1, 3, 33
+3	2	, then	15	B	23, 25, 37
+3	2	a ,	17	B	3, 9, 19
 3	2	right .	19	B	15, 21, 33
+3	2	so ,	29	B	9, 35, 37
 3	2	to be	27	B	3, 9, 29
 3	2	yeah .	13	B	27, 33, 39
+2	2	, it	9	B	11, 19
+2	2	, that's	17	B	17, 33
+2	2	always ,	47	B	1, 47
 2	2	back to	3	B	9, 11
 2	2	down there	15	B	3, 17
 2	2	if we	7	B	19, 25
 2	2	it will	15	B	11, 25
 2	2	it's just	17	B	3, 19
+2	2	just ,	17	B	3, 19
 2	2	of the	17	B	3, 19
 2	2	on the	17	B	3, 19
-2	2	so uh	27	B	9, 35
+2	2	right ,	5	B	17, 21
 2	2	that's where	15	B	17, 31
-2	2	then uh	3	B	23, 25
-2	2	there and	7	B	3, 9
+2	2	the ,	3	B	17, 19
+2	2	to ,	9	B	1, 9
+2	2	uh-huh ,	19	B	9, 27
 2	2	we're just	27	B	3, 29
+2	2	where ,	13	B	19, 31
 2	2	you know	19	B	19, 37
-11	1	uh	35	B	1, 3, 9, 11, 19, 23, 25, 29, 31, 33, 35
 9	1	and	31	B	1, 3, 9, 11, 17, 19, 23, 29, 31
 9	1	the	33	B	1, 3, 9, 17, 19, 23, 25, 31, 33
 6	1	to	29	B	1, 3, 9, 11, 25, 29
 5	1	it	23	B	3, 9, 11, 19, 25
 5	1	so	29	B	9, 19, 29, 35, 37
-5	1	uh-huh	23	B	5, 7, 9, 13, 27
 5	1	you	49	B	1, 3, 19, 37, 49
 4	1	a	19	B	1, 3, 9, 19
 4	1	be	27	B	3, 9, 19, 29
 4	1	been	33	B	1, 3, 19, 33
-4	1	i	19	B	1, 3, 9, 19
 4	1	in	37	B	1, 9, 11, 37
 4	1	it's	31	B	3, 9, 19, 33
-4	1	right	19	B	15, 17, 21, 33
 4	1	that's	29	B	5, 17, 31, 33
 4	1	there	27	B	3, 9, 17, 29
 4	1	we	37	B	1, 19, 25, 37
@@ -44,12 +56,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	will	23	B	3, 11, 19, 25
 3	1	always	47	B	1, 33, 47
 3	1	back	17	B	9, 11, 25
-3	1	but	33	B	1, 3, 33
 3	1	is	7	B	17, 19, 23
 3	1	just	27	B	3, 19, 29
 3	1	much	37	B	1, 29, 37
 3	1	of	17	B	3, 9, 19
-3	1	then	15	B	23, 25, 37
 3	1	very	35	B	3, 9, 37
 3	1	with	37	B	1, 3, 37
 2	1	agree	9	B	1, 9

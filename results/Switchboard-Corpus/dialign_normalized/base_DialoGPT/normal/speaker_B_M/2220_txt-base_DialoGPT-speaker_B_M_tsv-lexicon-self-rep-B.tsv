@@ -1,22 +1,28 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	3	, i just	17	M	11, 27
+2	3	, i'm not	13	M	39, 51
 2	3	. yeah .	3	M	77, 79
 2	3	i'm not a	29	M	19, 47
-2	3	song i don't	23	M	9, 31
+2	3	you know ,	35	M	55, 89
 5	2	i don't	61	M	9, 27, 31, 35, 69
+4	2	, i	21	M	7, 9, 11, 27
 4	2	i love	29	M	7, 31, 33, 35
-4	2	i'm not	33	M	19, 39, 47, 51
 3	2	in the	31	M	57, 85, 87
+3	2	know ,	63	M	27, 55, 89
+3	2	yeah ,	73	M	7, 23, 79
 3	2	yeah .	27	M	53, 77, 79
+2	2	, and	33	M	65, 97
+2	2	, but	53	M	35, 87
+2	2	, yeah	57	M	23, 79
 2	2	. yeah	3	M	77, 79
 2	2	he is	5	M	49, 53
-2	2	i just	17	M	11, 27
 2	2	i like	25	M	3, 27
 2	2	it's the	67	M	31, 97
 2	2	like the	9	M	27, 35
+2	2	nah ,	29	M	23, 51
 2	2	of the	53	M	35, 87
 2	2	song .	39	M	9, 47
 2	2	what ?	3	M	41, 43
-2	2	you know	35	M	55, 89
 14	1	i	115	M	3, 7, 9, 11, 27, 31, 33, 35, 53, 69, 93, 109, 111, 117
 10	1	a	107	M	1, 9, 15, 19, 47, 49, 55, 75, 87, 107
 10	1	the	99	M	9, 13, 27, 31, 35, 57, 85, 87, 97, 107
@@ -27,7 +33,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	don't	73	M	9, 27, 31, 35, 69, 81
 6	1	like	107	M	3, 21, 27, 31, 35, 109
 6	1	not	87	M	9, 19, 39, 47, 51, 95
-5	1	yeah	73	M	7, 23, 53, 77, 79
 4	1	in	31	M	57, 73, 85, 87
 4	1	is	61	M	15, 49, 53, 75
 4	1	just	87	M	11, 27, 39, 97
@@ -50,7 +55,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	for	97	M	11, 107
 2	1	have	17	M	81, 97
 2	1	jazz	3	M	27, 29
-2	1	nah	29	M	23, 51
 2	1	no	75	M	39, 113
 2	1	piano	5	M	15, 19
 2	1	really	17	M	35, 51

@@ -1,36 +1,45 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	that's a great idea .	13	A	52, 64
 2	4	that's a great idea	13	A	52, 64
+2	4	well , that's a	13	A	64, 76
+4	3	, uh ,	75	A	4, 26, 52, 78
+2	3	, okay .	13	A	20, 32
+2	3	, that's a	13	A	64, 76
 2	3	a lot of	49	A	4, 52
-2	3	well that's a	13	A	64, 76
+2	3	i think ,	35	A	4, 38
+2	3	uh , you	75	A	4, 78
+9	2	well ,	65	A	14, 18, 26, 30, 50, 52, 64, 76, 78
 8	2	uh-huh .	59	A	10, 16, 22, 28, 42, 44, 56, 68
+4	2	, i	41	A	0, 4, 14, 40
+4	2	yes ,	45	A	34, 40, 70, 78
 4	2	yes .	29	A	38, 46, 62, 66
 3	2	oh .	37	A	24, 44, 60
 3	2	right .	23	A	36, 54, 58
+2	2	, that	75	A	4, 78
+2	2	, they	67	A	4, 70
+2	2	, yes	3	A	38, 40
+2	2	, you	75	A	4, 78
 2	2	. that's	3	A	50, 52
 2	2	a pretty	75	A	4, 78
 2	2	can be	23	A	4, 26
 2	2	for the	75	A	4, 78
 2	2	have a	49	A	4, 52
-2	2	i think	35	A	4, 38
 2	2	in plano	3	A	2, 4
 2	2	it .	21	A	14, 34
-2	2	okay .	13	A	20, 32
+2	2	newspaper ,	75	A	4, 78
+2	2	oh ,	21	A	20, 40
+2	2	okay ,	33	A	0, 32
+2	2	that ,	27	A	52, 78
 2	2	that .	27	A	26, 52
-2	2	uh you	75	A	4, 78
 2	2	you can	23	A	4, 26
-9	1	well	65	A	14, 18, 26, 30, 50, 52, 64, 76, 78
-8	1	yes	45	A	34, 38, 40, 46, 62, 66, 70, 78
 7	1	a	75	A	4, 12, 30, 52, 64, 76, 78
 7	1	i	53	A	0, 4, 12, 14, 38, 40, 52
-5	1	oh	41	A	20, 24, 40, 44, 60
 5	1	that's	73	A	4, 50, 52, 64, 76
 5	1	you	77	A	2, 4, 26, 34, 78
 4	1	and	77	A	2, 4, 52, 78
 4	1	right	55	A	4, 36, 54, 58
 4	1	that	75	A	4, 26, 52, 78
 4	1	to	51	A	2, 4, 30, 52
-4	1	uh	75	A	4, 26, 52, 78
 3	1	about	53	A	0, 6, 52
 3	1	all	35	A	2, 4, 36
 3	1	be	49	A	4, 26, 52
@@ -40,7 +49,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	it	21	A	14, 30, 34
 3	1	like	13	A	2, 12, 14
 3	1	of	51	A	2, 4, 52
-3	1	okay	33	A	0, 20, 32
 3	1	recycling	79	A	0, 4, 78
 3	1	we	75	A	4, 52, 78
 2	1	can	23	A	4, 26

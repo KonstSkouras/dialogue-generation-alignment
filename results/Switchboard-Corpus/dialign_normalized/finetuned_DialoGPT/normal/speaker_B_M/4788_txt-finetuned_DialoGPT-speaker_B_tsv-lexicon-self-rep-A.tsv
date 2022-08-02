@@ -1,21 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	oh yeah .	5	B	4, 8
-4	2	and uh	7	B	8, 10, 12, 14
+3	4	and , uh ,	5	B	8, 10, 12
+2	4	oh , yeah .	5	B	4, 8
+4	3	, uh ,	9	B	8, 10, 12, 16
+4	3	and , uh	7	B	8, 10, 12, 14
+3	3	a , a	9	B	10, 14, 18
+5	2	, uh	9	B	8, 10, 12, 14, 16
+5	2	uh ,	9	B	8, 10, 12, 14, 16
 4	2	yeah .	19	B	4, 8, 20, 22
-3	2	a a	9	B	10, 14, 18
+3	2	, a	9	B	10, 14, 18
 3	2	and i	5	B	14, 16, 18
+3	2	oh ,	21	B	4, 8, 24
+2	2	, it	7	B	10, 16
+2	2	but ,	13	B	8, 20
 2	2	it was	3	B	12, 14
 2	2	uh-huh .	25	B	2, 26
 2	2	up in	9	B	0, 8
 6	1	and	11	B	8, 10, 12, 14, 16, 18
-5	1	uh	9	B	8, 10, 12, 14, 16
 4	1	a	11	B	8, 10, 14, 18
 4	1	i	11	B	8, 14, 16, 18
 4	1	it	7	B	10, 12, 14, 16
 3	1	but	13	B	8, 16, 20
 3	1	camp	17	B	0, 8, 16
 3	1	just	5	B	8, 10, 12
-3	1	oh	21	B	4, 8, 24
 3	1	or	15	B	0, 8, 14
 3	1	up	11	B	0, 8, 10
 3	1	was	7	B	8, 12, 14

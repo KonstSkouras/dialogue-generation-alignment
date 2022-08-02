@@ -1,24 +1,30 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	. well , we	49	A	28, 76
+2	3	, huh ?	9	A	26, 34
+2	3	. but ,	17	A	28, 44
 2	3	. uh-huh .	17	A	50, 66
-2	3	. well we	49	A	28, 76
 2	3	do you have	21	A	2, 22
+2	3	yeah , we	69	A	10, 78
 15	2	uh-huh .	65	A	6, 14, 18, 24, 26, 36, 46, 50, 52, 54, 58, 62, 66, 68, 70
 6	2	yeah .	33	A	28, 30, 32, 50, 56, 60
+5	2	, we	69	A	10, 28, 30, 76, 78
 4	2	right .	73	A	4, 20, 64, 76
+3	2	but ,	29	A	28, 44, 56
 3	2	oh .	29	A	38, 48, 66
+3	2	well ,	49	A	28, 72, 76
+3	2	yeah ,	69	A	10, 44, 78
+2	2	, my	15	A	28, 42
+2	2	, that's	29	A	44, 72
 2	2	. and	27	A	30, 56
-2	2	. but	17	A	28, 44
 2	2	. so	5	A	26, 30
 2	2	. we	49	A	28, 76
 2	2	all right	21	A	0, 20
 2	2	have a	51	A	22, 72
 2	2	here .	3	A	76, 78
 2	2	his own	27	A	30, 56
-2	2	huh ?	9	A	26, 34
+2	2	kids ,	11	A	16, 26
 2	2	okay .	21	A	2, 22
-2	2	yeah we	69	A	10, 78
 2	2	years .	67	A	10, 76
-9	1	yeah	69	A	10, 28, 30, 32, 44, 50, 56, 60, 78
 6	1	right	77	A	0, 4, 20, 64, 74, 76
 5	1	a	67	A	10, 22, 34, 72, 76
 5	1	and	47	A	10, 16, 28, 30, 56
@@ -34,7 +40,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	of	55	A	22, 30, 76
 3	1	up	51	A	28, 76, 78
 3	1	was	13	A	30, 34, 42
-3	1	well	49	A	28, 72, 76
 3	1	you	55	A	2, 22, 56
 2	1	about	19	A	10, 28
 2	1	dad	3	A	28, 30

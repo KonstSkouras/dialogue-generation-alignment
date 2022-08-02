@@ -1,5 +1,8 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	car .	15	M	42, 46, 56
+3	2	oh ,	23	M	8, 12, 30
+2	2	, i'm	7	M	6, 12
+2	2	, you	17	M	22, 38
 2	2	. i	11	M	32, 42
 2	2	a .	51	M	12, 62
 2	2	a city	5	M	16, 20
@@ -14,8 +17,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	it's a	21	M	34, 54
 2	2	l a	63	M	12, 74
 2	2	the car	9	M	46, 54
-2	2	the world	21	M	14, 34
 2	2	vehicles .	35	M	24, 58
+2	2	well ,	49	M	6, 54
 2	2	when you're	13	M	34, 46
 2	2	yeah .	3	M	30, 32
 2	2	you know	43	M	22, 64
@@ -27,7 +30,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	is	37	M	18, 20, 34, 46, 54
 5	1	they	65	M	4, 24, 42, 60, 68
 5	1	to	45	M	24, 34, 54, 64, 68
-5	1	you	55	M	22, 38, 50, 64, 76
 4	1	are	73	M	4, 50, 58, 76
 4	1	car	15	M	42, 46, 54, 56
 4	1	it's	45	M	10, 14, 34, 54
@@ -45,7 +47,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	texas	5	M	0, 4
 2	1	then	47	M	8, 54
 2	1	think	5	M	56, 60
-2	1	well	49	M	6, 54
+2	1	world	21	M	14, 34
 2	1	yes	25	M	38, 62
 2	1	you're	13	M	34, 46
 

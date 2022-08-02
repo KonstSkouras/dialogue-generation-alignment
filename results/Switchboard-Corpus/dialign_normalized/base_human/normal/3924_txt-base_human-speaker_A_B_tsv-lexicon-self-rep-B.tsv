@@ -1,29 +1,44 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+5	4	, you know ,	39	B	22, 30, 32, 36, 60
+3	4	and , uh ,	23	B	14, 18, 36
+2	4	. i mean ,	17	B	38, 54
+2	4	i , i ,	27	B	28, 54
 2	4	our money would be	9	B	22, 30
-2	3	. i mean	17	B	38, 54
+6	3	, uh ,	23	B	14, 18, 22, 26, 30, 36
+2	3	, i ,	27	B	28, 54
 2	3	i don't know	17	B	22, 38
+2	3	let them ,	3	B	60, 62
 2	3	what does that	3	B	38, 40
 7	2	uh-huh .	51	B	6, 8, 10, 24, 44, 48, 56
-5	2	you know	39	B	22, 30, 32, 36, 60
+5	2	, i	41	B	14, 26, 28, 38, 54
 4	2	. i	41	B	14, 22, 38, 54
-3	2	and uh	23	B	14, 18, 36
+3	2	, and	23	B	14, 30, 36
+3	2	, i'm	15	B	14, 26, 28
+3	2	, whether	17	B	18, 22, 34
+3	2	and ,	23	B	14, 18, 36
+3	2	i ,	33	B	22, 28, 54
 3	2	i don't	17	B	22, 28, 38
 3	2	i mean	41	B	14, 38, 54
 3	2	it .	33	B	30, 52, 62
+2	2	, but	17	B	22, 38
+2	2	, well	19	B	14, 32
 2	2	about it	39	B	14, 52
 2	2	and i	3	B	36, 38
 2	2	and i'm	3	B	26, 28
 2	2	and the	5	B	26, 30
-2	2	i i	27	B	28, 54
-2	2	let them	3	B	60, 62
+2	2	be ,	31	B	30, 60
+2	2	i'm ,	13	B	14, 26
 2	2	more money	15	B	4, 18
 2	2	not .	3	B	36, 38
 2	2	or not	9	B	30, 38
 2	2	people that	11	B	30, 40
 2	2	the other	11	B	26, 36
+2	2	well ,	29	B	32, 60
+2	2	whether ,	9	B	14, 22
 2	2	would be	9	B	22, 30
 2	2	yeah .	29	B	14, 42
 2	2	yes .	21	B	16, 36
+2	2	you ,	33	B	28, 60
 9	1	and	47	B	14, 18, 26, 28, 30, 36, 38, 40, 60
 8	1	i	41	B	14, 22, 26, 28, 36, 38, 52, 54
 8	1	you	43	B	18, 22, 28, 30, 32, 36, 40, 60
@@ -39,7 +54,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	well	47	B	14, 32, 36, 60
 3	1	but	17	B	22, 30, 38
 3	1	have	17	B	14, 28, 30
-3	1	i'm	15	B	14, 26, 28
 3	1	in	21	B	18, 36, 38
 3	1	is	41	B	14, 26, 54
 3	1	more	49	B	4, 18, 52

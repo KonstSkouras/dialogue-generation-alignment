@@ -1,37 +1,49 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	4	, i , i	25	M	1, 15, 25
+2	4	, uh , the	41	M	11, 51
+2	4	in , uh ,	45	M	7, 51
+2	4	that , uh .	33	M	15, 47
+2	4	uh , well ,	5	M	47, 51
+4	3	, uh ,	45	M	7, 9, 11, 51
+3	3	, uh .	35	M	13, 15, 47
+3	3	i , i	25	M	1, 15, 25
+3	3	that , uh	41	M	15, 47, 55
+2	3	, i think	47	M	1, 47
+2	3	, that ,	27	M	29, 55
 2	3	and then it	15	M	9, 23
 2	3	i think that	47	M	1, 47
-2	3	that uh .	33	M	15, 47
+2	3	that , that	27	M	29, 55
+2	3	well , i	47	M	1, 47
+2	3	yeah , that	15	M	29, 43
+9	2	, uh	55	M	1, 7, 9, 11, 13, 15, 47, 51, 55
+7	2	uh ,	47	M	5, 7, 9, 11, 31, 47, 51
+6	2	well ,	69	M	1, 7, 47, 51, 55, 69
 6	2	yeah .	33	M	35, 39, 41, 45, 53, 67
-3	2	i i	25	M	1, 15, 25
-3	2	that uh	41	M	15, 47, 55
-3	2	uh .	35	M	13, 15, 47
+5	2	yeah ,	39	M	5, 19, 29, 33, 43
+4	2	, i	47	M	1, 15, 25, 47
+4	2	i ,	51	M	1, 15, 25, 51
+3	2	, and	61	M	9, 17, 69
+3	2	, that	27	M	29, 43, 55
 3	2	uh-huh .	7	M	57, 59, 63
+2	2	, i'm	51	M	1, 51
+2	2	, it	11	M	9, 19
+2	2	, it's	61	M	9, 69
+2	2	, they	29	M	33, 61
+2	2	and ,	7	M	11, 17
 2	2	and i	19	M	51, 69
 2	2	be a	21	M	9, 29
 2	2	have a	65	M	5, 69
-2	2	i think	47	M	1, 47
-2	2	in uh	45	M	7, 51
 2	2	is .	19	M	1, 19
-2	2	is that	27	M	29, 55
 2	2	it was	15	M	9, 23
+2	2	oh ,	17	M	21, 37
 2	2	oh .	39	M	27, 65
 2	2	that is	29	M	1, 29
-2	2	that that	27	M	29, 55
 2	2	to be	15	M	9, 23
-2	2	uh the	41	M	11, 51
-2	2	uh well	5	M	47, 51
 2	2	we have	5	M	1, 5
-2	2	well i	47	M	1, 47
-2	2	yeah that	15	M	29, 43
-11	1	uh	55	M	1, 5, 7, 9, 11, 13, 15, 31, 47, 51, 55
-11	1	yeah	63	M	5, 19, 29, 33, 35, 39, 41, 43, 45, 53, 67
 7	1	the	55	M	1, 7, 11, 17, 25, 51, 55
 6	1	and	61	M	9, 11, 17, 23, 51, 69
-6	1	i	69	M	1, 15, 25, 47, 51, 69
 6	1	that	55	M	1, 15, 29, 43, 47, 55
 6	1	to	69	M	1, 3, 9, 23, 25, 69
-6	1	well	69	M	1, 7, 47, 51, 55, 69
 5	1	a	65	M	5, 9, 11, 29, 69
 5	1	is	55	M	1, 11, 19, 29, 55
 5	1	oh	45	M	21, 27, 33, 37, 65
@@ -42,11 +54,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	you	67	M	3, 17, 69
 2	1	but	9	M	5, 13
 2	1	do	31	M	3, 33
-2	1	i'm	51	M	1, 51
 2	1	in	45	M	7, 51
 2	1	of	45	M	7, 51
 2	1	part	5	M	51, 55
-2	1	they	29	M	33, 61
 2	1	time	21	M	5, 25
 2	1	too	21	M	5, 25
 2	1	you're	31	M	25, 55

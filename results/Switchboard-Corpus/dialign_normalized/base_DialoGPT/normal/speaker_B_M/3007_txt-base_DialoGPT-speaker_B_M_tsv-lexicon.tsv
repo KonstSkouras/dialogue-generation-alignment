@@ -10,6 +10,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 6	6	2	is a	17	63	1	B	6, 17, 30, 58, 64, 68
 6	6	2	like a	59	50	5	B	10, 32, 36, 38, 48, 59
 5	5	2	dog .	58	74	1	M	3, 58, 70, 72, 76
+4	4	2	, what	61	56	3	B	6, 16, 34, 61
 4	4	2	. so	63	57	2	B	12, 62, 63, 68
 4	4	2	. the	58	17	1	M	47, 58, 62, 63
 4	1	2	a golden	17	10	1	B	10, 13, 17, 19
@@ -22,7 +23,9 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 3	3	2	i wanted	36	16	1	M	23, 36, 38
 3	1	2	retriever .	32	14	2	M	19, 25, 32
 3	3	2	this is	72	58	1	M	17, 72, 74
+2	2	2	, that's	23	10	1	B	14, 23
 2	2	2	a bichon	9	4	1	B	6, 9
+2	2	2	dog ,	30	6	1	M	25, 30
 2	2	2	get a	76	34	1	M	43, 76
 2	2	2	i was	57	22	1	B	36, 57
 2	2	2	i've seen	40	22	1	M	19, 40
@@ -45,7 +48,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 14	14	1	know	9	71	2	B	6, 8, 9, 14, 16, 22, 34, 36, 44, 48, 50, 54, 68, 76
 14	14	1	to	5	75	1	B	2, 5, 16, 20, 30, 34, 36, 42, 46, 48, 66, 68, 74, 76
 13	13	1	of	43	69	5	B	6, 30, 34, 38, 40, 43, 46, 48, 54, 58, 64, 68, 74
-13	12	1	what	21	63	4	B	6, 8, 14, 16, 21, 23, 34, 39, 54, 60, 61, 66, 68
+13	9	1	what	21	63	4	B	6, 8, 14, 16, 21, 23, 34, 39, 54, 60, 61, 66, 68
 12	4	1	retriever	13	39	3	B	6, 10, 12, 13, 19, 22, 25, 30, 32, 36, 38, 44
 11	1	1	german	72	19	2	B	54, 56, 57, 58, 59, 62, 64, 65, 66, 68, 72
 11	8	1	it	6	62	1	M	5, 6, 32, 34, 42, 46, 48, 58, 62, 63, 66
@@ -66,7 +69,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 5	5	1	all	63	58	4	B	6, 34, 36, 48, 63
 5	5	1	are	47	55	3	B	6, 20, 30, 47, 60
 5	5	1	not	11	21	1	B	10, 11, 18, 25, 30
-5	5	1	that's	23	57	1	B	14, 23, 54, 64, 70
+5	3	1	that's	54	57	1	B	14, 23, 54, 64, 70
 4	3	1	can	43	55	1	B	10, 43, 58, 64
 4	3	1	get	43	71	2	B	6, 34, 43, 76
 4	4	1	have	30	60	2	M	1, 5, 30, 60

@@ -1,12 +1,21 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	i'm not sure .	3	M	6, 8
+5	3	, uh ,	53	M	32, 34, 36, 38, 84
+2	3	, i think	63	M	20, 82
+2	3	, uh .	5	M	34, 38
 2	3	i was just	15	M	6, 20
 2	3	in high school	11	M	66, 76
 2	3	it was probably	15	M	40, 54
 2	3	the police .	13	M	28, 40
+5	2	, uh	53	M	32, 34, 36, 38, 84
 5	2	i think	65	M	18, 20, 34, 64, 82
+4	2	, and	51	M	20, 32, 40, 70
+3	2	, i	67	M	16, 20, 82
 3	2	in the	9	M	14, 20, 22
 3	2	she was	5	M	66, 68, 70
+3	2	that ,	53	M	20, 34, 72
+2	2	, right	5	M	68, 72
+2	2	, you're	45	M	2, 46
 2	2	a few	11	M	4, 14
 2	2	are a	61	M	14, 74
 2	2	are you	63	M	12, 74
@@ -15,8 +24,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i remember	3	M	70, 72
 2	2	in a	31	M	40, 70
 2	2	it ?	11	M	42, 52
+2	2	no ,	21	M	26, 46
+2	2	school ,	57	M	20, 76
 2	2	the .	15	M	10, 24
-2	2	uh .	5	M	34, 38
 2	2	weird .	33	M	50, 82
 2	2	what did	23	M	56, 78
 12	1	the	71	M	10, 14, 20, 22, 24, 28, 40, 46, 54, 60, 64, 80
@@ -30,7 +40,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	i'm	79	M	6, 8, 16, 76, 84
 5	1	that	53	M	20, 34, 36, 40, 72
 5	1	they	43	M	18, 28, 54, 56, 60
-5	1	uh	53	M	32, 34, 36, 38, 84
 4	1	are	63	M	12, 14, 60, 74
 4	1	it's	61	M	4, 26, 28, 64
 4	1	just	77	M	6, 20, 30, 82
@@ -55,5 +64,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	girl	7	M	68, 74
 2	1	have	3	M	20, 22
 2	1	of	3	M	62, 64
-2	1	you're	45	M	2, 46
 

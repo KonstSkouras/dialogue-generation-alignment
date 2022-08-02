@@ -1,22 +1,30 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, uh , i	29	M	29, 57
 2	4	have a lot of	29	M	123, 151
+2	4	i don't know ,	79	M	15, 93
 4	3	a cat .	101	M	53, 93, 117, 153
+3	3	, uh ,	49	M	29, 57, 77
 3	3	a lot of	115	M	37, 123, 151
+2	3	, that is	19	M	83, 101
 2	3	a good boy	37	M	51, 87
 2	3	do you have	149	M	1, 149
-2	3	i don't know	79	M	15, 93
 2	3	i have to	5	M	57, 61
 2	3	i think it's	3	M	127, 129
 2	3	i'm sorry .	7	M	17, 23
 2	3	like dogs .	5	M	151, 155
+2	3	oh yeah ,	55	M	115, 169
 2	3	to say .	47	M	63, 109
 2	3	you know what	61	M	65, 125
 6	2	a cat	101	M	53, 59, 91, 93, 117, 153
 5	2	i have	71	M	53, 57, 61, 121, 123
 5	2	i think	123	M	7, 69, 111, 127, 129
+4	2	, i	141	M	29, 57, 69, 169
 4	2	dogs .	53	M	103, 105, 151, 155
 4	2	they are	127	M	25, 61, 111, 151
+4	2	yeah ,	93	M	77, 85, 115, 169
 4	2	you know	115	M	11, 65, 83, 125
+3	2	, but	61	M	93, 111, 153
+3	2	, uh	49	M	29, 57, 77
 3	2	are you	99	M	59, 135, 157
 3	2	cute .	109	M	43, 147, 151
 3	2	did you	65	M	11, 35, 75
@@ -27,9 +35,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	he's a	43	M	51, 73, 93
 3	2	i don't	79	M	15, 29, 93
 3	2	it's a	99	M	31, 115, 129
+3	2	know ,	79	M	15, 83, 93
 3	2	of the	71	M	31, 81, 101
 3	2	that is	69	M	83, 101, 151
 3	2	you have	149	M	1, 101, 149
+2	2	, it's	29	M	115, 143
 2	2	a thing	119	M	11, 129
 2	2	are the	79	M	25, 103
 2	2	are they	87	M	33, 119
@@ -41,17 +51,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i was	3	M	167, 169
 2	2	i would	13	M	153, 165
 2	2	i've been	65	M	15, 79
-2	2	is it	9	M	99, 107
 2	2	look like	9	M	99, 107
 2	2	me .	39	M	61, 99
 2	2	of a	59	M	73, 131
-2	2	oh yeah	55	M	115, 169
 2	2	that's a	27	M	11, 37
 2	2	that's what	15	M	13, 27
 2	2	the cat	99	M	67, 165
 2	2	the most	3	M	101, 103
 2	2	the other	61	M	21, 81
-2	2	uh i	29	M	29, 57
 2	2	was just	127	M	43, 169
 2	2	what ?	57	M	9, 65
 2	2	you can't	25	M	113, 137
@@ -92,14 +99,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	oh	141	M	29, 95, 115, 169
 4	1	so	115	M	33, 39, 41, 147
 4	1	sure	75	M	61, 103, 109, 135
-4	1	yeah	93	M	77, 85, 115, 169
 3	1	be	103	M	61, 153, 163
 3	1	been	151	M	15, 79, 165
 3	1	her	7	M	137, 141, 143
 3	1	house	119	M	33, 141, 151
 3	1	it	9	M	99, 101, 107
 3	1	thing	119	M	11, 99, 129
-3	1	uh	49	M	29, 57, 77
 2	1	about	59	M	67, 125
 2	1	cat's	3	M	115, 117
 2	1	if	13	M	153, 165

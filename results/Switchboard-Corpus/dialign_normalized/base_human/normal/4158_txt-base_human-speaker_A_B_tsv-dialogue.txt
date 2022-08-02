@@ -1,199 +1,199 @@
-A|0| A: _um_ _are_ _you_ _working_ _right now_ ? 
-B|1| B: _uh_ yes _i_ am . _i'm_ [working] _in_ _the_ computer science department _here_ _uh_ _at_ c m u . 
-A|2| A: [uh] _what_ _kind of_ _what_ _kind of_ _work_ _do_ _you_ _do_ ? 
-B|3| B: [uh] _i'm_ doing basically system system design _work _and_ uh_ implementation [work] _for the_ speech _for the_ speech group [uh] _here_ . 
+A|0| A: _um _,_ are_ _you_ _working_ _right now_ ? 
+B|1| B: _uh ,_ yes _, i_ am . _i'm_ [working] _in_ _the_ computer science department _here_ _uh ,_ _at_ c m u . 
+A|2| A: [uh ,] _what_ _kind _of_ ,_ _what_ _kind of_ _work_ _do_ _you_ _do_ ? 
+B|3| B: [uh _,] i'm_ doing basically system , system design _work _and_ , uh ,_ implementation [work] _for the_ speech _, _for_ the_ speech group [uh ,] _here_ . 
 A|4| A: _uh-huh ._ _oh_ . _is that_ how _you_ heard about _this_ _thing_ ? 
-B|5| B: _yeah_ 
-A|6| A: [uh] 
+B|5| B: _yeah ,_ 
+A|6| A: [uh ,] 
 B|7| B: actually through electronic mail . 
-A|8| A: _uh-huh ._ me _too_ _. i_ [work] [at] _uh the_ georgia tech _research_ institute . 
+A|8| A: _uh-huh ._ me _too_ _. i_ [work] _at _,_ uh , the_ georgia tech _research_ institute . 
 B|9| B: [uh-huh .] 
-A|10| A: _um i'm_ _a_ co-op student _so i_ [work and] go _to_ school about halftime . [and uh] _i really_ _don't_ _have_ any job _benefits_ _to_ speak _of_ . we're _kind of_ _um_ _i don't know_ _they_ _just_ _kind of_ forget us _on_ _that_ end _. we_ _don't_ _really_ _have_ any vacation or _you know_ sick days or _health care_ or anything _really_ _so_ . 
-B|11| B: [right] . [so] _it's_ _pretty_ fair they've got [you] slaving away [at] [at] [this] point 
+A|10| A: _um , i'm_ _a_ co-op student _so i_ [work and] go _to_ school about halftime . [and , uh _,] i really_ _don't_ _have_ any job _benefits_ _to_ speak _of_ . we're _kind _of_ _,_ um _,_ i don't _know_ _,_ they_ _just_ _kind of_ forget us _on_ _that_ end _. we_ _don't_ _really_ _have_ any vacation or _, you know ,_ sick days or _health care_ or anything _really_ _so_ . 
+B|11| B: [right] . [so] _it's_ _pretty_ fair they've got [you] slaving away , [at ,] [at] [this] point 
 A|12| A: exactly . exactly . 
 B|13| B: _yeah ._ 
 A|14| A: _what_ about [you] ? 
-B|15| B: _well_ [um i'm] [research] _stuff_ _here_ [now] [so] [what] [they] [they] [have] [uh] [um] okay [benefits] package . _it's_ _not_ quite as good as industry _but_ one _of the_ significant [um] [benefits] _here_ [is that] [you] _can_ _take_ [uh] up [to] two courses [a] semester [um] [and] [they] _pay for_ _you know _pay for_ the classes_ . 
+B|15| B: _well [,_ [um ,] i'm] [research] _stuff_ _here_ [now] [so] [what] [they] [, they] _have [,_ uh [,] um ,] okay , [benefits] package . _it's_ _not_ quite as good as industry _but_ one _of the_ significant [, um ,] [benefits] _here_ [is that] [you] _can_ _take_ [, uh ,] up [to] two courses [a] semester [, um ,] [and] [they] _pay for_ _you know , _pay for_ the classes_ . 
 A|16| A: huh . 
-B|17| B: _so that_ _works_ _out_ [to] _be_ [um] [a] reasonable [a] reasonable _benefit_ . 
-A|18| A: [yeah .] [uh] [they] _do_ [that] [i] think _if_ you're [uh] [research] [here] then [i] [know] [of] some [of the] people [that] [have] gotten their masters [and] [i] think [that] [um] [they] might [you know pay for] [that] . [pay for the classes] [and] [stuff] 
+B|17| B: [so] _, that_ _works_ _out_ [to] _be_ [, um ,] [a] reasonable , [a] reasonable _benefit_ . 
+A|18| A: [yeah .] [uh [,] they] _do_ [that] [i] think _if_ you're [, uh ,] [research] [here] then [i] [know] [of] some [of the] people [that] [have] gotten their masters [and] [i] think _that [,_ um [,] they] might _, [you know ,_ pay for] [that] . [pay for the classes] [and] [stuff] 
 B|19| B: [uh-huh .] 
-A|20| A: [but] [i] [know] [they] let [you] they'll let [you] decrease how many hours [you] [work] by _kind of_ percentage . [you know] they'll let [you] [work] halftime _if you want to_ _if you want to_ finish 
-B|21| B: [if you want to] [do] _it_ quickly . 
-A|22| A: [you want to] [yeah .] they'll let [you] [work] decrease your number [of] hours by any percentage _just_ _just_ about [so] [if you want to] get your masters [and] then [i] think [of] course [you] get _like_ [a] _with_ your extra degrees [you] get [a] [pay] raise due [so that] will probably help [out] . 
-B|23| B: [uh-huh] _uh-huh . _yeah _._ yeah_ ._ [so i] [i don't _know] in_ _in_ terms [of] other things other [benefits] other than sort [of] monetary _i'd_ [you know] [i] [yeah] [we] [we] [do] [. we] _have to_ contribute [a] certain amount [uh] [to] _it_ . 
+A|20| A: [but] [i] [know] [they] let [you] , they'll let [you] decrease how many hours [you] [work] by _kind of_ percentage . [you know ,] they'll let [you] [work] halftime _if you want to ,_ _if you want to_ finish , 
+B|21| B: [if you want to ,] [do] _it_ quickly . 
+A|22| A: [you want to _,] yeah ._ they'll let [you] [work] , decrease your number [of] hours by any percentage _just_ , _just_ about [so] [if you want to] get your masters [and] then [, i] think [of] course [you] get _like_ [a] , _with_ your extra degrees [you] get [a] [pay] raise due [so] [that] will probably help [out] . 
+B|23| B: [uh-huh] , _uh-huh . _yeah _._ yeah_ ._ [so i] [, i don't know] _in_ _, in_ terms [of] other things , other [benefits] other than sort [of] monetary _i'd_ [, you know [,] i] [, _yeah] _,_ we_ _, we_ [do] [. we] _have to_ contribute [a] certain amount [, uh ,] [to] _it_ . 
 A|24| A: [uh-huh .] 
-B|25| B: [and] _it's_ [kind of] split between c m u [and] [and] [you know] [the] employee . 
-A|26| A: [yeah . yeah] [i] think _i mean_ _that's pretty_ _that's a_ _pretty important_ [uh] part [of] [it] there because _that that_ [can] [be] _really_ expensive [if _you] ever_ [have] any _health_ problems . my dad [i] think my [i'm] still covered _on_ _with_ my dad's [uh] _health_ plan [at] his _where_ he [works] [but] [it] would definitely [be] something [to] look into once [i] get my own . 
-B|27| B: [right] [. yeah] [and] _it's_ also [right now] _it's_ [uh the] [like] everywhere _else_ [uh] [here] _in_ pittsburgh [the] [health care] [uh] rates [are] [are] going up [pretty] quickly . 
+B|25| B: [and] _it's_ [kind of] split between c m u [and ,] [and [,] you know [,] the] employee . 
+A|26| A: [yeah _. yeah] [,_ i] think _, i mean_ _that's _pretty_ ,_ _that's a_ _pretty important_ [, uh ,] part [of] [it] there because _that , that_ [can] [be] _really_ expensive [if _you] ever_ [have] any _health_ problems . my dad [, i] think my [, i'm] still covered _on_ , _with_ my dad's [, uh ,] _health_ plan [at] his , _where_ he [works] _, but_ [it] would definitely [be] something [to] look into once [i] get my own . 
+B|27| B: [right] [. yeah ,] [and] _it's_ also , [right now] _it's_ [, uh , _the] ,_ [like] everywhere _else_ [, uh ,] [here] _in_ pittsburgh [the] [health care] [, uh ,] rates [are] [, are] going up [pretty] quickly . 
 A|28| A: [uh-huh .] 
-B|29| B: [that's _a] whole_ other topic [to] begin [with] [too] [but] [. yeah] [but] _it's_ [you] [are] [right] [. i] [i] [i really] agree [that that] [that's [pretty] important] . 
-A|30| A: [the] [i] think [the] [i] guess [the] only real [um] [benefit] [i] guess _you could_ say [working] [for] me [working] [here] besides _i mean_ [i'm] learning [and] [stuff] because [i'm] [at] _you know in_ school . 
+B|29| B: [that's _a] whole_ other topic [to] begin [with] [too] [but] [. yeah [,] but] _it's_ [, you] [are] [right] [. i] [, i] [, i really] agree [that , that] [that's [pretty] important] . 
+A|30| A: [the] [i] think [the [,] i] guess [the] only real [, um ,] [benefit] [i] guess _you could_ say [working] [, for] me [working] [here] , besides _i mean_ [i'm] learning [and] [stuff] because [, i'm] [at _,] you know , in_ school . 
 B|31| B: [right] . 
-A|32| A: [but] there's there's some _where_ [uh] [uh] student employees [working] [for the] government [don't] [have to] [pay] _social security_ tax _. that's_ about five percent [right] there 
+A|32| A: [but] there's , there's some _where_ [, uh [,] uh ,] student employees [working] [for the] government [don't] [have to] [pay] _social security_ tax _. that's_ about , five percent [right] there 
 B|33| B: [right] . [uh-huh] [oh] [now] [that's a] big win . 
 A|34| A: [so] . 
-B|35| B: [yeah] [yeah [.] that's] 
+B|35| B: [yeah [,] yeah [.] that's] , 
 A|36| A: [that's] about [the] only real bonus 
 B|37| B: [yeah .] 
-A|38| A: [i] [have] [so i] [have to] [take] [that] into consideration when [i] evaluate [like] how much [i] get paid [you know] because [if] [i] was [working] somewhere [else] [i'd] [have to] [you know pay] an extra five percent or [so] . 
-B|39| B: [yeah [.] i] figured [for] [and] they've [just] raised [the] [um] income caps [on] [social security] [to] [the] point [where] [you] [have to] [be] [pretty] [you] [have to] [be] [pretty] _well_ off before [you] stop paying paying [that] as _well_ . 
+A|38| A: [i] [have _,] [so_ i] [have to] [take] [that] into consideration when [i] evaluate [like] how much [i] get paid [you know ,] because [if] [i] was [working] somewhere [else] [i'd] [have [to] [,] [you know ,] pay] an extra five percent , or [so] . 
+B|39| B: [yeah [.] i] figured [for] [and] they've [just] raised [the [,] um ,] income caps [on] [social security] [to] [the] point [where] [you] [have to] [be] [pretty [,] you] [have to] [be] [pretty] _well_ off before [you] stop paying paying [that] as _well_ . 
 A|40| A: huh [. yeah .] 
-B|41| B: [yeah] _well_ [if [you] could] call [it] [a] [benefit] [that] c m u [i mean] [the] other [thing] [that] [they] allow [you] [to] [do] [here] while [you] [are] [working] [is] [is] consult [for] [um] [you know] other companies . 
-A|42| A: [oh] [yeah] ? 
-B|43| B: [um] [so] [that's] [that] [kind of] helps [out] [in] terms _of you know_ keeping up-to-date [with] contacts [in] industry . 
+B|41| B: [yeah _,] well_ [if [you] could] call [it] [a] [benefit] [that] c m u [, i mean] [the] other [thing] [that] [they] allow [you] [to] [do] [here] while [you] [are] [working] [is] , [is] consult [for] [, um [,] you know ,] other companies . 
+A|42| A: [oh] [, yeah] ? 
+B|43| B: [um [,] so] [that's] [, that] [kind of] helps [out] [in] terms _of , you know ,_ keeping up-to-date [with] contacts [in] industry . 
 A|44| A: [uh-huh . yeah .] 
-B|45| B: [you know in] case [you know in] case [you ever] need [to] bail [out] 
-A|46| A: help [a] lot [. yeah .] see around around [here] [it's] [like] [uh] [we] [pretty] much [work] from project [to] project [on] [well] [you know] [with] different sponsors . 
+B|45| B: [you know , in] case [, you know , in] case [you ever] need [to] bail [out] 
+A|46| A: help [a] lot [. yeah .] see around , around [here] [it's] [like] [, uh [,] we] [pretty] much [work] from project [to] project [on] [, [well] [,] you know ,] [with] different sponsors . 
 B|47| B: [uh-huh .] 
-A|48| A: there's [not] there [is] [not] [a whole] lot [of you know] funded [research] from 
+A|48| A: there's [not] , there [is] [not] [a whole] lot [of , you know ,] funded [research] from , 
 
 
 TURN DETAILS:
-Turn ID=0| A | A : um are you working right now ?
-	Free: Pattern=you, Pattern=um, Pattern=are, Pattern=working, Pattern=right now
-	Constrained: Pattern=now, Pattern=right
-Turn ID=1| B | B : uh yes i am . i'm working in the computer science department here uh at c m u .
-	Free: Pattern=uh, Pattern=here, Pattern=in, Pattern=i'm, Pattern=i, Pattern=the, Pattern=working, Pattern=at
-	Constrained: 
-Turn ID=2| A | A : uh what kind of what kind of work do you do ?
-	Free: Pattern=kind of, Pattern=what, Pattern=do, Pattern=work, Pattern=you, Pattern=uh
+Turn ID=0| A | A : um , are you working right now ?
+	Free: Pattern=um ,, Pattern=you, Pattern=working, Pattern=right now, Pattern=, are
+	Constrained: Pattern=right, Pattern=now, Pattern=are
+Turn ID=1| B | B : uh , yes , i am . i'm working in the computer science department here uh , at c m u .
+	Free: Pattern=here, Pattern=in, Pattern=i'm, Pattern=working, Pattern=at, Pattern=uh ,, Pattern=the, Pattern=, i
+	Constrained: Pattern=i
+Turn ID=2| A | A : uh , what kind of , what kind of work do you do ?
+	Free: Pattern=kind of, Pattern=you, Pattern=what, Pattern=do, Pattern=of ,, Pattern=work, Pattern=uh ,
 	Constrained: Pattern=of
-Turn ID=3| B | B : uh i'm doing basically system system design work and uh implementation work for the speech for the speech group uh here .
-	Free: Pattern=uh, Pattern=for the, Pattern=here, Pattern=and uh, Pattern=work and, Pattern=i'm, Pattern=work
-	Constrained: Pattern=uh, Pattern=for, Pattern=and, Pattern=work, Pattern=the
+Turn ID=3| B | B : uh , i'm doing basically system , system design work and , uh , implementation work for the speech , for the speech group uh , here .
+	Free: Pattern=for the, Pattern=here, Pattern=, for, Pattern=work, Pattern=and , uh ,, Pattern=uh ,, Pattern=, i'm, Pattern=work and
+	Constrained: Pattern=and ,, Pattern=for, Pattern=and, Pattern=, uh ,, Pattern=i'm, Pattern=work, Pattern=uh ,, Pattern=the
 Turn ID=4| A | A : uh-huh . oh . is that how you heard about this thing ?
 	Free: Pattern=you, Pattern=oh, Pattern=is that, Pattern=thing, Pattern=uh-huh ., Pattern=this
-	Constrained: Pattern=is, Pattern=uh-huh, Pattern=that
-Turn ID=5| B | B : yeah
-	Free: Pattern=yeah
+	Constrained: Pattern=that, Pattern=is, Pattern=uh-huh
+Turn ID=5| B | B : yeah ,
+	Free: Pattern=yeah ,
 	Constrained: 
-Turn ID=6| A | A : uh
-	Free: Pattern=uh
+Turn ID=6| A | A : uh ,
+	Free: Pattern=uh ,
 	Constrained: 
 Turn ID=7| B | B : actually through electronic mail .
 	Free: 
 	Constrained: 
-Turn ID=8| A | A : uh-huh . me too . i work at uh the georgia tech research institute .
-	Free: Pattern=research, Pattern=too, Pattern=at, Pattern=. i, Pattern=work, Pattern=uh-huh ., Pattern=uh the
-	Constrained: Pattern=i, Pattern=uh, Pattern=uh-huh, Pattern=the
+Turn ID=8| A | A : uh-huh . me too . i work at , uh , the georgia tech research institute .
+	Free: Pattern=, uh , the, Pattern=research, Pattern=too, Pattern=work, Pattern=uh-huh ., Pattern=. i, Pattern=at ,
+	Constrained: Pattern=uh-huh, Pattern=at, Pattern=i, Pattern=, uh ,, Pattern=, the, Pattern=uh ,, Pattern=the
 Turn ID=9| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=10| A | A : um i'm a co-op student so i work and go to school about halftime . and uh i really don't have any job benefits to speak of . we're kind of um i don't know they just kind of forget us on that end . we don't really have any vacation or you know sick days or health care or anything really so .
-	Free: Pattern=of, Pattern=kind of, Pattern=you know, Pattern=um i'm, Pattern=they, Pattern=. we, Pattern=i really, Pattern=so i, Pattern=really, Pattern=benefits, Pattern=on, Pattern=i don't know, Pattern=so, Pattern=just, Pattern=have, Pattern=um, Pattern=a, Pattern=don't, Pattern=health care, Pattern=and uh, Pattern=to, Pattern=that, Pattern=work and
-	Constrained: Pattern=of, Pattern=um, Pattern=and, Pattern=i, Pattern=don't, Pattern=health, Pattern=so, Pattern=you, Pattern=uh, Pattern=know, Pattern=i'm, Pattern=work, Pattern=we, Pattern=really
-Turn ID=11| B | B : right . so it's pretty fair they've got you slaving away at at this point
-	Free: Pattern=right, Pattern=you, Pattern=at, Pattern=pretty, Pattern=this, Pattern=it's, Pattern=so
-	Constrained: 
+Turn ID=10| A | A : um , i'm a co-op student so i work and go to school about halftime . and , uh , i really don't have any job benefits to speak of . we're kind of , um , i don't know , they just kind of forget us on that end . we don't really have any vacation or , you know , sick days or health care or anything really so .
+	Free: Pattern=, they, Pattern=kind of, Pattern=, um ,, Pattern=. we, Pattern=, i really, Pattern=really, Pattern=and , uh ,, Pattern=benefits, Pattern=on, Pattern=to, Pattern=, i don't know, Pattern=so, Pattern=of, Pattern=know ,, Pattern=just, Pattern=have, Pattern=, you know ,, Pattern=um , i'm, Pattern=a, Pattern=of ,, Pattern=so i, Pattern=don't, Pattern=health care, Pattern=that, Pattern=work and
+	Constrained: Pattern=you, Pattern=and ,, Pattern=they, Pattern=and, Pattern=i, Pattern=really, Pattern=, uh ,, Pattern=don't, Pattern=health, Pattern=, i'm, Pattern=so, Pattern=of, Pattern=know ,, Pattern=um ,, Pattern=you know ,, Pattern=know, Pattern=i'm, Pattern=work, Pattern=, you, Pattern=uh ,, Pattern=, i
+Turn ID=11| B | B : right . so it's pretty fair they've got you slaving away , at , at this point
+	Free: Pattern=right, Pattern=you, Pattern=at, Pattern=at ,, Pattern=pretty, Pattern=this, Pattern=it's, Pattern=so
+	Constrained: Pattern=at
 Turn ID=12| A | A : exactly . exactly .
 	Free: 
 	Constrained: 
 Turn ID=13| B | B : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=14| A | A : what about you ?
-	Free: Pattern=what, Pattern=you
 	Constrained: 
-Turn ID=15| B | B : well um i'm research stuff here now so what they they have uh um okay benefits package . it's not quite as good as industry but one of the significant um benefits here is that you can take uh up to two courses a semester um and they pay for you know pay for the classes .
-	Free: Pattern=well, Pattern=have, Pattern=and, Pattern=can, Pattern=you know pay for, Pattern=take, Pattern=pay for, Pattern=to, Pattern=now, Pattern=so, Pattern=not, Pattern=you, Pattern=uh, Pattern=research, Pattern=um i'm, Pattern=stuff, Pattern=here, Pattern=what, Pattern=they, Pattern=um, Pattern=a, Pattern=benefits, Pattern=is that, Pattern=pay for the classes, Pattern=of the, Pattern=it's, Pattern=but
-	Constrained: Pattern=of, Pattern=for the, Pattern=for, Pattern=is, Pattern=pay, Pattern=the, Pattern=pay for, Pattern=that, Pattern=you, Pattern=you know, Pattern=um, Pattern=you know pay, Pattern=know, Pattern=i'm
+Turn ID=14| A | A : what about you ?
+	Free: Pattern=you, Pattern=what
+	Constrained: 
+Turn ID=15| B | B : well , um , i'm research stuff here now so what they , they have , uh , um , okay , benefits package . it's not quite as good as industry but one of the significant , um , benefits here is that you can take , uh , up to two courses a semester , um , and they pay for you know , pay for the classes .
+	Free: Pattern=, they, Pattern=you, Pattern=and, Pattern=have ,, Pattern=take, Pattern=you know , pay for, Pattern=pay for, Pattern=to, Pattern=now, Pattern=so, Pattern=not, Pattern=research, Pattern=stuff, Pattern=here, Pattern=, um ,, Pattern=what, Pattern=they, Pattern=um , i'm, Pattern=a, Pattern=can, Pattern=well ,, Pattern=benefits, Pattern=is that, Pattern=, uh ,, Pattern=pay for the classes, Pattern=of the, Pattern=it's, Pattern=but
+	Constrained: Pattern=well, Pattern=you, Pattern=they, Pattern=for, Pattern=you know , pay, Pattern=is, Pattern=pay, Pattern=pay for, Pattern=of, Pattern=know ,, Pattern=um ,, Pattern=you know ,, Pattern=have, Pattern=for the, Pattern=know, Pattern=i'm, Pattern=uh ,, Pattern=the, Pattern=, i'm, Pattern=that
 Turn ID=16| A | A : huh .
 	Free: 
 	Constrained: 
-Turn ID=17| B | B : so that works out to be um a reasonable a reasonable benefit .
-	Free: Pattern=out, Pattern=works, Pattern=so that, Pattern=be, Pattern=um, Pattern=a, Pattern=benefit, Pattern=to
-	Constrained: Pattern=so, Pattern=that
-Turn ID=18| A | A : yeah . uh they do that i think if you're uh research here then i know of some of the people that have gotten their masters and i think that um they might you know pay for that . pay for the classes and stuff
-	Free: Pattern=of, Pattern=uh, Pattern=have, Pattern=yeah ., Pattern=and, Pattern=if, Pattern=you know pay for, Pattern=know, Pattern=i, Pattern=pay for the classes, Pattern=research, Pattern=stuff, Pattern=here, Pattern=they, Pattern=do, Pattern=um, Pattern=of the, Pattern=that
-	Constrained: Pattern=of, Pattern=for the, Pattern=you know pay, Pattern=for, Pattern=yeah, Pattern=know, Pattern=pay, Pattern=the, Pattern=pay for, Pattern=you, Pattern=you know
+Turn ID=17| B | B : so , that works out to be , um , a reasonable , a reasonable benefit .
+	Free: Pattern=out, Pattern=works, Pattern=, um ,, Pattern=a, Pattern=, that, Pattern=be, Pattern=so, Pattern=benefit, Pattern=to
+	Constrained: Pattern=um ,, Pattern=that
+Turn ID=18| A | A : yeah . uh , they do that i think if you're , uh , research here then i know of some of the people that have gotten their masters and i think that , um , they might , you know , pay for that . pay for the classes and stuff
+	Free: Pattern=, they, Pattern=of, Pattern=have, Pattern=yeah ., Pattern=and, Pattern=if, Pattern=know, Pattern=i, Pattern=uh ,, Pattern=you know , pay for, Pattern=that ,, Pattern=research, Pattern=stuff, Pattern=here, Pattern=, um ,, Pattern=do, Pattern=, you know ,, Pattern=, uh ,, Pattern=pay for the classes, Pattern=of the, Pattern=that
+	Constrained: Pattern=you, Pattern=for the, Pattern=they, Pattern=for, Pattern=you know , pay, Pattern=pay, Pattern=pay for, Pattern=that, Pattern=of, Pattern=know ,, Pattern=um ,, Pattern=you know ,, Pattern=know, Pattern=, you, Pattern=uh ,, Pattern=the
 Turn ID=19| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=20| A | A : but i know they let you they'll let you decrease how many hours you work by kind of percentage . you know they'll let you work halftime if you want to if you want to finish
-	Free: Pattern=kind of, Pattern=they, Pattern=i, Pattern=if you want to, Pattern=but, Pattern=you, Pattern=you know, Pattern=know, Pattern=work
-	Constrained: Pattern=of, Pattern=you, Pattern=if, Pattern=know, Pattern=to, Pattern=if you, Pattern=you want to
-Turn ID=21| B | B : if you want to do it quickly .
-	Free: Pattern=if you want to, Pattern=do, Pattern=it
-	Constrained: Pattern=you, Pattern=if, Pattern=to, Pattern=if you, Pattern=you want to
-Turn ID=22| A | A : you want to yeah . they'll let you work decrease your number of hours by any percentage just just about so if you want to get your masters and then i think of course you get like a with your extra degrees you get a pay raise due so that will probably help out .
-	Free: Pattern=of, Pattern=just, Pattern=a, Pattern=yeah ., Pattern=and, Pattern=so that, Pattern=you want to, Pattern=work, Pattern=i, Pattern=like, Pattern=pay, Pattern=if you want to, Pattern=with, Pattern=so, Pattern=you, Pattern=out
-	Constrained: Pattern=you, Pattern=yeah, Pattern=if, Pattern=to, Pattern=that, Pattern=so, Pattern=if you, Pattern=you want to
-Turn ID=23| B | B : uh-huh uh-huh . yeah . yeah . so i i don't know in in terms of other things other benefits other than sort of monetary i'd you know i yeah we we do . we have to contribute a certain amount uh to it .
-	Free: Pattern=of, Pattern=i'd, Pattern=. we, Pattern=yeah . yeah, Pattern=so i, Pattern=i, Pattern=we, Pattern=benefits, Pattern=have to, Pattern=i don't know, Pattern=to, Pattern=uh-huh . yeah ., Pattern=uh, Pattern=you know, Pattern=uh-huh, Pattern=know in, Pattern=do, Pattern=a, Pattern=it, Pattern=yeah, Pattern=. yeah ., Pattern=in
-	Constrained: Pattern=you, Pattern=have, Pattern=uh-huh, Pattern=yeah ., Pattern=yeah, Pattern=i, Pattern=we, Pattern=don't, Pattern=so, Pattern=. yeah ., Pattern=in, Pattern=know, Pattern=. yeah, Pattern=uh-huh ., Pattern=to
+Turn ID=20| A | A : but i know they let you , they'll let you decrease how many hours you work by kind of percentage . you know , they'll let you work halftime if you want to , if you want to finish ,
+	Free: Pattern=you know ,, Pattern=kind of, Pattern=you, Pattern=they, Pattern=i, Pattern=if you want to, Pattern=but, Pattern=if you want to ,, Pattern=know, Pattern=work
+	Constrained: Pattern=you, Pattern=if, Pattern=if you, Pattern=know, Pattern=to ,, Pattern=if you want to, Pattern=you want to ,, Pattern=to, Pattern=of, Pattern=know ,
+Turn ID=21| B | B : if you want to , do it quickly .
+	Free: Pattern=if you want to ,, Pattern=do, Pattern=it
+	Constrained: Pattern=you, Pattern=if, Pattern=if you, Pattern=to ,, Pattern=if you want to, Pattern=you want to ,, Pattern=to
+Turn ID=22| A | A : you want to , yeah . they'll let you work , decrease your number of hours by any percentage just , just about so if you want to get your masters and then , i think of course you get like a , with your extra degrees you get a pay raise due so that will probably help out .
+	Free: Pattern=of, Pattern=just, Pattern=a, Pattern=and, Pattern=, yeah ., Pattern=work, Pattern=like, Pattern=pay, Pattern=, i, Pattern=if you want to, Pattern=you want to ,, Pattern=so, Pattern=you, Pattern=out, Pattern=with, Pattern=that
+	Constrained: Pattern=you, Pattern=yeah ., Pattern=if, Pattern=, yeah, Pattern=if you, Pattern=i, Pattern=to ,, Pattern=to
+Turn ID=23| B | B : uh-huh , uh-huh . yeah . yeah . so i , i don't know in , in terms of other things , other benefits other than sort of monetary i'd , you know , i , yeah , we , we do . we have to contribute a certain amount , uh , to it .
+	Free: Pattern=of, Pattern=i'd, Pattern=. we, Pattern=so i, Pattern=, i, Pattern=have to, Pattern=, in, Pattern=to, Pattern=uh-huh, Pattern=yeah ,, Pattern=do, Pattern=, you know ,, Pattern=a, Pattern=it, Pattern=, we, Pattern=, yeah, Pattern=yeah . yeah, Pattern=. yeah ., Pattern=in, Pattern=benefits, Pattern=, uh ,, Pattern=uh-huh . yeah ., Pattern=, i don't know
+	Constrained: Pattern=you, Pattern=have, Pattern=uh-huh, Pattern=yeah ., Pattern=i, Pattern=don't, Pattern=so, Pattern=know ,, Pattern=you know ,, Pattern=. yeah ., Pattern=in, Pattern=know, Pattern=, you, Pattern=uh ,, Pattern=, i, Pattern=uh-huh ., Pattern=to
 Turn ID=24| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=25| B | B : and it's kind of split between c m u and and you know the employee .
-	Free: Pattern=kind of, Pattern=you know, Pattern=and, Pattern=the, Pattern=it's
-	Constrained: Pattern=know, Pattern=you, Pattern=of
-Turn ID=26| A | A : yeah . yeah i think i mean that's pretty that's a pretty important uh part of it there because that that can be really expensive if you ever have any health problems . my dad i think my i'm still covered on with my dad's uh health plan at his where he works but it would definitely be something to look into once i get my own .
-	Free: Pattern=of, Pattern=uh, Pattern=it, Pattern=that that, Pattern=yeah . yeah, Pattern=if you, Pattern=really, Pattern=that's a, Pattern=be, Pattern=to, Pattern=health, Pattern=that's pretty, Pattern=pretty important, Pattern=works, Pattern=have, Pattern=can, Pattern=at, Pattern=where, Pattern=i'm, Pattern=i mean, Pattern=i, Pattern=on, Pattern=you ever, Pattern=with, Pattern=but
-	Constrained: Pattern=you, Pattern=a, Pattern=yeah ., Pattern=yeah, Pattern=if, Pattern=. yeah, Pattern=i, Pattern=pretty, Pattern=that's, Pattern=that
-Turn ID=27| B | B : right . yeah and it's also right now it's uh the like everywhere else uh here in pittsburgh the health care uh rates are are going up pretty quickly .
-	Free: Pattern=right, Pattern=uh, Pattern=here, Pattern=and, Pattern=are, Pattern=in, Pattern=. yeah, Pattern=pretty, Pattern=the, Pattern=health care, Pattern=right now, Pattern=uh the, Pattern=it's, Pattern=else, Pattern=like
-	Constrained: Pattern=right, Pattern=uh, Pattern=yeah, Pattern=the, Pattern=health, Pattern=now
+Turn ID=25| B | B : and it's kind of split between c m u and , and , you know , the employee .
+	Free: Pattern=kind of, Pattern=and ,, Pattern=, you know ,, Pattern=and, Pattern=, the, Pattern=it's
+	Constrained: Pattern=you, Pattern=and, Pattern=the, Pattern=of, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=26| A | A : yeah . yeah , i think , i mean that's pretty , that's a pretty important , uh , part of it there because that , that can be really expensive if you ever have any health problems . my dad , i think my , i'm still covered on , with my dad's , uh , health plan at his , where he works , but it would definitely be something to look into once i get my own .
+	Free: Pattern=. yeah ,, Pattern=of, Pattern=, but, Pattern=pretty ,, Pattern=it, Pattern=yeah . yeah, Pattern=if you, Pattern=where, Pattern=i, Pattern=really, Pattern=that's a, Pattern=to, Pattern=that's pretty, Pattern=pretty important, Pattern=works, Pattern=have, Pattern=can, Pattern=that , that, Pattern=at, Pattern=, uh ,, Pattern=be, Pattern=on, Pattern=you ever, Pattern=, i, Pattern=health, Pattern=, i mean, Pattern=, i'm, Pattern=with
+	Constrained: Pattern=you, Pattern=yeah ,, Pattern=a, Pattern=yeah ., Pattern=if, Pattern=, that, Pattern=i'm, Pattern=pretty, Pattern=that ,, Pattern=i mean, Pattern=i, Pattern=uh ,, Pattern=that's, Pattern=, i, Pattern=that, Pattern=but
+Turn ID=27| B | B : right . yeah , and it's also , right now it's , uh , the , like everywhere else , uh , here in pittsburgh the health care , uh , rates are , are going up pretty quickly .
+	Free: Pattern=. yeah ,, Pattern=right, Pattern=, uh , the, Pattern=here, Pattern=are, Pattern=in, Pattern=pretty, Pattern=, uh ,, Pattern=the, Pattern=health care, Pattern=right now, Pattern=and, Pattern=the ,, Pattern=else, Pattern=like, Pattern=, are, Pattern=it's
+	Constrained: Pattern=right, Pattern=yeah ,, Pattern=are, Pattern=, uh ,, Pattern=health, Pattern=now, Pattern=, the, Pattern=uh ,, Pattern=the
 Turn ID=28| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=29| B | B : that's a whole other topic to begin with too but . yeah but it's you are right . i i i really agree that that that's pretty important .
-	Free: Pattern=right, Pattern=you, Pattern=pretty important, Pattern=too, Pattern=. yeah, Pattern=i, Pattern=that's a, Pattern=to, Pattern=that's pretty, Pattern=a whole, Pattern=are, Pattern=that that, Pattern=. i, Pattern=i really, Pattern=with, Pattern=it's, Pattern=but
-	Constrained: Pattern=a, Pattern=yeah, Pattern=i, Pattern=really, Pattern=pretty, Pattern=that's, Pattern=that
-Turn ID=30| A | A : the i think the i guess the only real um benefit i guess you could say working for me working here besides i mean i'm learning and stuff because i'm at you know in school .
-	Free: Pattern=stuff, Pattern=here, Pattern=um, Pattern=for, Pattern=and, Pattern=the, Pattern=benefit, Pattern=you know in, Pattern=working, Pattern=at, Pattern=i'm, Pattern=you could, Pattern=i mean, Pattern=i
-	Constrained: Pattern=know in, Pattern=in, Pattern=know, Pattern=i, Pattern=you, Pattern=you know
+Turn ID=29| B | B : that's a whole other topic to begin with too but . yeah , but it's , you are right . i , i , i really agree that , that that's pretty important .
+	Free: Pattern=. yeah ,, Pattern=right, Pattern=, but, Pattern=pretty important, Pattern=too, Pattern=are, Pattern=that , that, Pattern=. i, Pattern=that's a, Pattern=, i, Pattern=to, Pattern=that's pretty, Pattern=a whole, Pattern=, i really, Pattern=, you, Pattern=with, Pattern=it's, Pattern=but
+	Constrained: Pattern=you, Pattern=yeah ,, Pattern=a, Pattern=, that, Pattern=i, Pattern=really, Pattern=pretty, Pattern=that ,, Pattern=that's, Pattern=, i, Pattern=that, Pattern=but
+Turn ID=30| A | A : the i think the , i guess the only real , um , benefit i guess you could say working , for me working here , besides i mean i'm learning and stuff because , i'm at , you know , in school .
+	Free: Pattern=stuff, Pattern=, you know , in, Pattern=working, Pattern=at ,, Pattern=, for, Pattern=benefit, Pattern=, i'm, Pattern=here, Pattern=, um ,, Pattern=and, Pattern=the ,, Pattern=i'm, Pattern=you could, Pattern=i mean, Pattern=i, Pattern=the, Pattern=, i
+	Constrained: Pattern=you, Pattern=, you know ,, Pattern=for, Pattern=in, Pattern=i, Pattern=the, Pattern=, in, Pattern=know ,, Pattern=um ,, Pattern=you know ,, Pattern=you know , in, Pattern=at, Pattern=know, Pattern=i'm, Pattern=, you
 Turn ID=31| B | B : right .
 	Free: Pattern=right
 	Constrained: 
-Turn ID=32| A | A : but there's there's some where uh uh student employees working for the government don't have to pay social security tax . that's about five percent right there
-	Free: Pattern=right, Pattern=uh, Pattern=for the, Pattern=working, Pattern=where, Pattern=pay, Pattern=social security, Pattern=. that's, Pattern=but, Pattern=have to, Pattern=don't
-	Constrained: Pattern=have, Pattern=for, Pattern=to, Pattern=that's, Pattern=the
+Turn ID=32| A | A : but there's , there's some where , uh , uh , student employees working for the government don't have to pay social security tax . that's about , five percent right there
+	Free: Pattern=right, Pattern=for the, Pattern=working, Pattern=where, Pattern=social security, Pattern=. that's, Pattern=but, Pattern=pay, Pattern=, uh ,, Pattern=have to, Pattern=don't
+	Constrained: Pattern=have, Pattern=for, Pattern=to, Pattern=uh ,, Pattern=that's, Pattern=the
 Turn ID=33| B | B : right . uh-huh oh now that's a big win .
 	Free: Pattern=right, Pattern=uh-huh, Pattern=oh, Pattern=that's a, Pattern=now
-	Constrained: Pattern=that's, Pattern=a
+	Constrained: Pattern=a, Pattern=that's
 Turn ID=34| A | A : so .
 	Free: Pattern=so
 	Constrained: 
-Turn ID=35| B | B : yeah yeah . that's
-	Free: Pattern=. that's, Pattern=yeah ., Pattern=yeah
-	Constrained: Pattern=that's, Pattern=yeah
+Turn ID=35| B | B : yeah , yeah . that's ,
+	Free: Pattern=, yeah ., Pattern=yeah ,, Pattern=. that's
+	Constrained: Pattern=, yeah, Pattern=yeah ., Pattern=that's
 Turn ID=36| A | A : that's about the only real bonus
 	Free: Pattern=that's, Pattern=the
 	Constrained: 
 Turn ID=37| B | B : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=38| A | A : i have so i have to take that into consideration when i evaluate like how much i get paid you know because if i was working somewhere else i'd have to you know pay an extra five percent or so .
-	Free: Pattern=you know, Pattern=you know pay, Pattern=if, Pattern=working, Pattern=so i, Pattern=i, Pattern=take, Pattern=have to, Pattern=that, Pattern=so, Pattern=i'd, Pattern=have, Pattern=else, Pattern=like
-	Constrained: Pattern=have, Pattern=know, Pattern=i, Pattern=pay, Pattern=to, Pattern=so, Pattern=you, Pattern=you know
-Turn ID=39| B | B : yeah . i figured for and they've just raised the um income caps on social security to the point where you have to be pretty you have to be pretty well off before you stop paying paying that as well .
-	Free: Pattern=well, Pattern=you, Pattern=just, Pattern=um, Pattern=and, Pattern=. i, Pattern=where, Pattern=pretty, Pattern=be, Pattern=have to, Pattern=social security, Pattern=to, Pattern=that, Pattern=yeah ., Pattern=for, Pattern=on, Pattern=the
-	Constrained: Pattern=have, Pattern=i, Pattern=to, Pattern=yeah
+	Constrained: 
+Turn ID=38| A | A : i have , so i have to take that into consideration when i evaluate like how much i get paid you know , because if i was working somewhere else i'd have to , you know , pay an extra five percent , or so .
+	Free: Pattern=you know ,, Pattern=i'd, Pattern=, you know ,, Pattern=if, Pattern=working, Pattern=you know , pay, Pattern=so i, Pattern=have ,, Pattern=i, Pattern=take, Pattern=have to, Pattern=, so, Pattern=that, Pattern=so, Pattern=else, Pattern=to ,, Pattern=like
+	Constrained: Pattern=you, Pattern=have, Pattern=i, Pattern=pay, Pattern=to, Pattern=so, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=39| B | B : yeah . i figured for and they've just raised the , um , income caps on social security to the point where you have to be pretty , you have to be pretty well off before you stop paying paying that as well .
+	Free: Pattern=well, Pattern=you, Pattern=just, Pattern=, um ,, Pattern=. i, Pattern=pretty, Pattern=be, Pattern=have to, Pattern=social security, Pattern=to, Pattern=that, Pattern=pretty ,, Pattern=yeah ., Pattern=for, Pattern=and, Pattern=the ,, Pattern=where, Pattern=, you, Pattern=on, Pattern=the
+	Constrained: Pattern=um ,, Pattern=you, Pattern=have, Pattern=i, Pattern=pretty, Pattern=the, Pattern=to
 Turn ID=40| A | A : huh . yeah .
 	Free: Pattern=. yeah .
-	Constrained: Pattern=. yeah, Pattern=yeah ., Pattern=yeah
-Turn ID=41| B | B : yeah well if you could call it a benefit that c m u i mean the other thing that they allow you to do here while you are working is is consult for um you know other companies .
-	Free: Pattern=well, Pattern=for, Pattern=are, Pattern=working, Pattern=if you, Pattern=you could, Pattern=that, Pattern=you, Pattern=you know, Pattern=here, Pattern=they, Pattern=do, Pattern=um, Pattern=a, Pattern=it, Pattern=yeah, Pattern=is, Pattern=i mean, Pattern=thing, Pattern=the, Pattern=benefit, Pattern=to
-	Constrained: Pattern=if, Pattern=i, Pattern=you, Pattern=know
-Turn ID=42| A | A : oh yeah ?
-	Free: Pattern=yeah, Pattern=oh
+	Constrained: Pattern=yeah .
+Turn ID=41| B | B : yeah , well if you could call it a benefit that c m u , i mean the other thing that they allow you to do here while you are working is , is consult for , um , you know , other companies .
+	Free: Pattern=, well, Pattern=you, Pattern=for, Pattern=it, Pattern=are, Pattern=working, Pattern=if you, Pattern=you could, Pattern=is, Pattern=, i mean, Pattern=that, Pattern=here, Pattern=, um ,, Pattern=yeah ,, Pattern=they, Pattern=do, Pattern=, you know ,, Pattern=a, Pattern=thing, Pattern=the, Pattern=benefit, Pattern=to
+	Constrained: Pattern=well, Pattern=you, Pattern=if, Pattern=, i, Pattern=know ,, Pattern=um ,, Pattern=you know ,, Pattern=know, Pattern=, you, Pattern=i mean, Pattern=i
+Turn ID=42| A | A : oh , yeah ?
+	Free: Pattern=, yeah, Pattern=oh
 	Constrained: 
-Turn ID=43| B | B : um so that's that kind of helps out in terms of you know keeping up-to-date with contacts in industry .
-	Free: Pattern=of you know, Pattern=kind of, Pattern=out, Pattern=um, Pattern=in, Pattern=that's, Pattern=so, Pattern=with, Pattern=that
-	Constrained: Pattern=you know, Pattern=know, Pattern=you, Pattern=of
+Turn ID=43| B | B : um , so that's , that kind of helps out in terms of , you know , keeping up-to-date with contacts in industry .
+	Free: Pattern=um ,, Pattern=kind of, Pattern=, that, Pattern=in, Pattern=that's, Pattern=, so, Pattern=with, Pattern=out, Pattern=of , you know ,
+	Constrained: Pattern=you, Pattern=, you know ,, Pattern=of ,, Pattern=that, Pattern=so, Pattern=of, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
 Turn ID=44| A | A : uh-huh . yeah .
 	Free: Pattern=uh-huh . yeah .
-	Constrained: Pattern=uh-huh, Pattern=yeah ., Pattern=yeah, Pattern=. yeah ., Pattern=. yeah, Pattern=uh-huh .
-Turn ID=45| B | B : you know in case you know in case you ever need to bail out
-	Free: Pattern=you know in, Pattern=you ever, Pattern=out, Pattern=to
-	Constrained: Pattern=know in, Pattern=in, Pattern=know, Pattern=you, Pattern=you know
-Turn ID=46| A | A : help a lot . yeah . see around around here it's like uh we pretty much work from project to project on well you know with different sponsors .
-	Free: Pattern=well, Pattern=here, Pattern=a, Pattern=. yeah ., Pattern=work, Pattern=pretty, Pattern=on, Pattern=to, Pattern=uh, Pattern=you know, Pattern=we, Pattern=like, Pattern=with, Pattern=it's
-	Constrained: Pattern=you, Pattern=yeah ., Pattern=yeah, Pattern=know, Pattern=. yeah
+	Constrained: Pattern=yeah ., Pattern=uh-huh ., Pattern=uh-huh, Pattern=. yeah .
+Turn ID=45| B | B : you know , in case , you know , in case you ever need to bail out
+	Free: Pattern=out, Pattern=, you know , in, Pattern=you know , in, Pattern=you ever, Pattern=to
+	Constrained: Pattern=you, Pattern=, you know ,, Pattern=you know , in, Pattern=in, Pattern=, in, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=46| A | A : help a lot . yeah . see around , around here it's like , uh , we pretty much work from project to project on , well , you know , with different sponsors .
+	Free: Pattern=, well, Pattern=here, Pattern=, we, Pattern=well ,, Pattern=. yeah ., Pattern=work, Pattern=like, Pattern=pretty, Pattern=, uh ,, Pattern=on, Pattern=to, Pattern=, you know ,, Pattern=a, Pattern=with, Pattern=it's
+	Constrained: Pattern=well, Pattern=you, Pattern=yeah ., Pattern=uh ,, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
 Turn ID=47| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=48| A | A : there's not there is not a whole lot of you know funded research from
-	Free: Pattern=of you know, Pattern=research, Pattern=is, Pattern=not, Pattern=a whole
-	Constrained: Pattern=of, Pattern=a, Pattern=know, Pattern=you, Pattern=you know
+Turn ID=48| A | A : there's not , there is not a whole lot of , you know , funded research from ,
+	Free: Pattern=of , you know ,, Pattern=research, Pattern=is, Pattern=not, Pattern=a whole
+	Constrained: Pattern=you, Pattern=of ,, Pattern=of, Pattern=know ,, Pattern=you know ,, Pattern=, you know ,, Pattern=a, Pattern=know, Pattern=, you

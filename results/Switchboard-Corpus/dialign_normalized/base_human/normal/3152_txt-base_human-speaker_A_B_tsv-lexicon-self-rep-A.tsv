@@ -1,47 +1,77 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	4	, you know ,	111	A	0, 84, 110
+3	4	and , uh ,	111	A	0, 4, 110
+2	4	, it's been fun	5	A	108, 112
+2	4	, uh , i	29	A	0, 28
+2	4	, uh , it	79	A	32, 110
+2	4	, um , i	79	A	4, 82
+2	4	so , uh ,	75	A	32, 106
+2	4	well actually , i	57	A	24, 80
+8	3	, uh ,	111	A	0, 2, 4, 6, 28, 32, 106, 110
+4	3	, you know	111	A	0, 4, 84, 110
+4	3	you know ,	111	A	0, 24, 84, 110
+2	3	, and ,	111	A	0, 110
+2	3	, chris xeros	7	A	10, 16
+2	3	, i ,	29	A	0, 28
+2	3	, i enjoy	5	A	0, 4
+2	3	, i mean	41	A	68, 108
+2	3	, small world	9	A	20, 28
+2	3	, too ,	95	A	16, 110
 2	3	. oh .	31	A	70, 100
 2	3	. right .	29	A	76, 104
+2	3	. so ,	5	A	28, 32
+2	3	and , and	5	A	106, 110
+2	3	in , in	11	A	80, 90
 2	3	it's been fun	5	A	108, 112
-2	3	oh gosh .	7	A	18, 24
+2	3	oh , gosh	3	A	16, 18
 2	3	right . right	29	A	76, 104
 2	3	the richardson symphony	29	A	24, 52
-2	3	well actually i	57	A	24, 80
+2	3	well , my	107	A	0, 106
 13	2	oh .	85	A	22, 36, 42, 44, 48, 62, 64, 70, 74, 86, 90, 100, 106
+10	2	, i	109	A	0, 4, 24, 28, 34, 68, 72, 80, 82, 108
+8	2	uh ,	111	A	0, 2, 4, 6, 28, 32, 106, 110
+7	2	so ,	105	A	8, 26, 28, 32, 82, 106, 112
 7	2	yeah .	91	A	14, 40, 50, 54, 70, 88, 104
+6	2	, you	111	A	0, 4, 12, 84, 104, 110
+6	2	oh ,	51	A	10, 12, 16, 18, 52, 60
 6	2	right .	29	A	76, 78, 94, 96, 98, 104
-5	2	you know	111	A	0, 4, 24, 84, 110
+5	2	and ,	111	A	0, 4, 84, 106, 110
+5	2	well ,	107	A	0, 6, 68, 72, 106
+4	2	yeah ,	47	A	4, 28, 34, 50
+3	2	, and	111	A	0, 106, 110
+3	2	, it	79	A	32, 84, 110
+3	2	, it's	79	A	34, 108, 112
+3	2	, or	107	A	4, 90, 110
+3	2	, that's	109	A	0, 72, 108
+3	2	, too	95	A	16, 104, 110
 3	2	. well	83	A	24, 32, 106
-3	2	and uh	111	A	0, 4, 110
 3	2	gosh .	85	A	18, 24, 102
-3	2	oh gosh	9	A	16, 18, 24
+3	2	i ,	111	A	0, 28, 110
+2	2	, but	65	A	4, 68
+2	2	, in	11	A	80, 90
+2	2	, well	101	A	6, 106
+2	2	, yeah	23	A	50, 72
 2	2	. i	107	A	4, 110
-2	2	. so	5	A	28, 32
 2	2	a little	7	A	104, 110
-2	2	and and	5	A	106, 110
-2	2	and it	19	A	66, 84
-2	2	chris xeros	7	A	10, 16
+2	2	but ,	105	A	4, 108
 2	2	favorite instrument	55	A	2, 56
 2	2	feel like	105	A	4, 108
+2	2	gosh ,	5	A	16, 20
 2	2	have a	53	A	4, 56
 2	2	i enjoy	5	A	0, 4
-2	2	i mean	41	A	68, 108
-2	2	in in	11	A	80, 90
+2	2	it ,	87	A	4, 90
 2	2	it's a	27	A	82, 108
 2	2	kind of	105	A	6, 110
 2	2	nice .	13	A	72, 84
 2	2	of the	61	A	30, 90
 2	2	or a	35	A	4, 38
 2	2	piano .	27	A	82, 108
-2	2	small world	9	A	20, 28
-2	2	so uh	75	A	32, 106
+2	2	that's ,	73	A	0, 72
 2	2	the piano	3	A	108, 110
 2	2	the violin	79	A	2, 80
+2	2	to ,	107	A	4, 110
 2	2	to the	105	A	6, 110
-2	2	uh i	29	A	0, 28
-2	2	uh it	79	A	32, 110
-2	2	um i	79	A	4, 82
 2	2	violin in	57	A	24, 80
-2	2	well my	107	A	0, 106
 20	1	oh	97	A	10, 12, 16, 18, 22, 24, 36, 42, 44, 48, 52, 60, 62, 64, 70, 74, 86, 90, 100, 106
 12	1	yeah	101	A	4, 14, 26, 28, 34, 40, 50, 54, 70, 72, 88, 104
 11	1	i	111	A	0, 4, 24, 28, 34, 68, 72, 80, 82, 108, 110
@@ -53,11 +83,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	of	111	A	0, 4, 6, 30, 46, 90, 108, 110
 8	1	so	105	A	8, 26, 28, 32, 52, 82, 106, 112
 8	1	to	107	A	4, 6, 24, 32, 84, 104, 108, 110
-8	1	uh	111	A	0, 2, 4, 6, 28, 32, 106, 110
-8	1	well	107	A	0, 6, 24, 32, 68, 72, 80, 106
 7	1	or	107	A	4, 38, 68, 82, 84, 90, 110
 6	1	know	111	A	0, 4, 24, 28, 84, 110
-5	1	gosh	87	A	16, 18, 20, 24, 102
 5	1	it's	107	A	6, 34, 82, 108, 112
 5	1	piano	111	A	0, 82, 106, 108, 110
 5	1	that	77	A	32, 34, 72, 80, 108
@@ -72,8 +99,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	like	105	A	4, 90, 108
 3	1	nice	13	A	72, 82, 84
 3	1	she's	5	A	106, 108, 110
-3	1	that's	109	A	0, 72, 108
-3	1	too	95	A	16, 104, 110
 2	1	about	77	A	32, 108
 2	1	at	31	A	80, 110
 2	1	been	5	A	108, 112

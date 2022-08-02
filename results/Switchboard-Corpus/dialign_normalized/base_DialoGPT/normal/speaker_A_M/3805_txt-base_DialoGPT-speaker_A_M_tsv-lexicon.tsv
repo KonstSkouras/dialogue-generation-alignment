@@ -6,6 +6,8 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 3	3	2	about the	16	29	1	A	3, 16, 31
 3	3	2	is a	17	25	1	M	14, 17, 38
 3	3	2	of the	38	22	2	A	17, 23, 38
+3	3	2	yeah ,	36	28	1	A	11, 36, 38
+2	2	2	, that's	31	22	1	M	10, 31
 2	2	2	is that	38	36	1	A	3, 38
 2	2	2	it's a	39	28	1	M	12, 39
 2	2	2	of a	38	8	1	A	31, 38
@@ -34,13 +36,13 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 5	1	1	be	39	34	1	M	6, 7, 9, 29, 39
 5	5	1	do	7	37	1	M	0, 7, 23, 29, 36
 5	5	1	how	10	35	1	A	5, 10, 23, 29, 39
-5	3	1	that's	11	22	1	M	10, 11, 17, 29, 31
+5	2	1	that's	11	22	1	M	10, 11, 17, 29, 31
 5	3	1	they	23	9	1	A	21, 22, 23, 25, 29
 5	5	1	thing	12	28	1	A	11, 12, 23, 31, 38
 5	1	1	very	15	22	1	M	12, 15, 17, 23, 33
 5	5	1	what	22	33	1	A	7, 22, 23, 31, 39
 4	4	1	right	11	34	1	M	6, 11, 37, 39
-4	4	1	yeah	36	29	1	A	11, 36, 38, 39
+4	1	1	yeah	39	29	1	A	11, 36, 38, 39
 3	3	1	but	36	20	2	A	17, 23, 36
 3	3	1	have	7	8	1	M	6, 7, 13
 3	3	1	like	32	6	2	A	27, 29, 32

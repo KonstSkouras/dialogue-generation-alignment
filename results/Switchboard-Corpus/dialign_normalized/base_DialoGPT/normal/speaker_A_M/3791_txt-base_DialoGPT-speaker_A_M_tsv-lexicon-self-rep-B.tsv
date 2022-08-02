@@ -1,21 +1,28 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	3	i don't know	51	M	12, 14, 62
+2	3	, but i	77	M	0, 76
+2	3	, i don't	51	M	12, 62
+2	3	, uh ,	59	M	6, 64
 2	3	good idea .	59	M	18, 76
 2	3	i don't think	53	M	24, 76
 2	3	oh yeah .	13	M	20, 32
+2	3	well , you	19	M	8, 26
 6	2	i don't	77	M	0, 12, 14, 24, 62, 76
+5	2	well ,	65	M	6, 8, 26, 54, 70
+3	2	, i	59	M	12, 62, 70
+3	2	, uh	59	M	6, 46, 64
 3	2	have a	49	M	20, 26, 68
 3	2	yeah .	37	M	20, 32, 56
 2	2	be sure	35	M	24, 58
-2	2	but i	77	M	0, 76
 2	2	deer .	19	M	20, 38
 2	2	did you	33	M	42, 74
 2	2	go out	5	M	44, 48
 2	2	i'm not	49	M	16, 64
+2	2	know ,	17	M	46, 62
 2	2	know .	49	M	14, 62
 2	2	know what	5	M	8, 12
 2	2	the deer	15	M	36, 50
-2	2	well you	19	M	8, 26
+2	2	uh ,	59	M	6, 64
 2	2	you know	39	M	8, 46
 9	1	a	77	M	2, 18, 20, 26, 36, 68, 72, 76, 78
 9	1	i	77	M	0, 12, 14, 24, 34, 62, 68, 70, 76
@@ -23,10 +30,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	you	67	M	8, 10, 26, 34, 38, 42, 46, 74
 5	1	deer	33	M	20, 36, 38, 50, 52
 5	1	i'm	63	M	2, 4, 12, 16, 64
-5	1	know	55	M	8, 12, 14, 46, 62
 5	1	the	33	M	34, 36, 40, 50, 66
 5	1	to	69	M	8, 10, 50, 58, 76
-5	1	well	65	M	6, 8, 26, 54, 70
 5	1	what	69	M	6, 8, 12, 64, 74
 4	1	good	59	M	18, 28, 30, 76
 4	1	it's	45	M	18, 28, 40, 62
@@ -42,7 +47,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	really	15	M	62, 64, 76
 3	1	sure	43	M	16, 24, 58
 3	1	think	53	M	24, 34, 76
-3	1	uh	59	M	6, 46, 64
 3	1	you're	67	M	12, 70, 78
 2	1	been	49	M	28, 76
 2	1	can	3	M	24, 26

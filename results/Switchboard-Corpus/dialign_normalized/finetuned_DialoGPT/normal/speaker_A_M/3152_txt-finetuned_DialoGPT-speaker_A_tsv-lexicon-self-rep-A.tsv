@@ -1,35 +1,55 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, it's been fun	5	A	103, 107
+2	4	, uh , it	79	A	27, 105
+2	4	, you know ,	27	A	79, 105
+2	4	so , uh ,	75	A	27, 101
+2	4	well actually , i	57	A	19, 75
+5	3	, uh ,	105	A	1, 23, 27, 101, 105
+3	3	you know ,	87	A	19, 79, 105
+2	3	, chris xeros	7	A	5, 11
+2	3	, i mean	41	A	63, 103
+2	3	, small world	9	A	15, 23
+2	3	, too ,	95	A	11, 105
 2	3	. oh .	31	A	65, 95
 2	3	. right .	29	A	71, 99
+2	3	. so ,	5	A	23, 27
+2	3	and , and	5	A	101, 105
+2	3	in , in	11	A	75, 85
 2	3	it's been fun	5	A	103, 107
-2	3	oh gosh .	7	A	13, 19
+2	3	oh , gosh	3	A	11, 13
 2	3	right . right	29	A	71, 99
 2	3	the richardson symphony	29	A	19, 47
-2	3	well actually i	57	A	19, 75
 13	2	oh .	85	A	17, 31, 37, 39, 43, 57, 59, 65, 69, 81, 85, 95, 101
+8	2	, i	85	A	19, 23, 29, 63, 67, 75, 77, 103
+7	2	so ,	105	A	3, 21, 23, 27, 77, 101, 107
 7	2	yeah .	91	A	9, 35, 45, 49, 65, 83, 99
+6	2	oh ,	51	A	5, 7, 11, 13, 47, 55
 6	2	right .	29	A	71, 73, 89, 91, 93, 99
+4	2	, you	99	A	7, 79, 99, 105
+4	2	well ,	101	A	1, 63, 67, 101
+3	2	, it	79	A	27, 79, 105
+3	2	, it's	79	A	29, 103, 107
+3	2	, too	95	A	11, 99, 105
 3	2	. well	83	A	19, 27, 101
+3	2	and ,	27	A	79, 101, 105
 3	2	gosh .	85	A	13, 19, 97
-3	2	oh gosh	9	A	11, 13, 19
-3	2	you know	87	A	19, 79, 105
-2	2	. so	5	A	23, 27
+3	2	yeah ,	23	A	23, 29, 45
+2	2	, and	5	A	101, 105
+2	2	, in	11	A	75, 85
+2	2	, or	21	A	85, 105
+2	2	, that's	37	A	67, 103
+2	2	, well	101	A	1, 101
+2	2	, yeah	23	A	45, 67
 2	2	a little	7	A	99, 105
-2	2	and and	5	A	101, 105
-2	2	and it	19	A	61, 79
-2	2	chris xeros	7	A	5, 11
-2	2	i mean	41	A	63, 103
-2	2	in in	11	A	75, 85
+2	2	gosh ,	5	A	11, 15
+2	2	i ,	83	A	23, 105
 2	2	it's a	27	A	77, 103
 2	2	kind of	105	A	1, 105
 2	2	nice .	13	A	67, 79
 2	2	of the	61	A	25, 85
 2	2	piano .	27	A	77, 103
-2	2	small world	9	A	15, 23
-2	2	so uh	75	A	27, 101
 2	2	the piano	3	A	103, 105
 2	2	to the	105	A	1, 105
-2	2	uh it	79	A	27, 105
 2	2	violin in	57	A	19, 75
 20	1	oh	97	A	5, 7, 11, 13, 17, 19, 31, 37, 39, 43, 47, 55, 57, 59, 65, 69, 81, 85, 95, 101
 11	1	yeah	91	A	9, 21, 23, 29, 35, 45, 49, 65, 67, 83, 99
@@ -40,14 +60,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	a	73	A	33, 51, 75, 77, 99, 103, 105
 7	1	it	79	A	27, 33, 61, 63, 79, 85, 105
 7	1	to	105	A	1, 19, 27, 79, 99, 103, 105
-7	1	well	101	A	1, 19, 27, 63, 67, 75, 101
 6	1	and	105	A	1, 27, 61, 79, 101, 105
 6	1	of	105	A	1, 25, 41, 85, 103, 105
 6	1	or	73	A	33, 63, 77, 79, 85, 105
-5	1	gosh	87	A	11, 13, 15, 19, 97
 5	1	it's	107	A	1, 29, 77, 103, 107
 5	1	that	77	A	27, 29, 67, 75, 103
-5	1	uh	105	A	1, 23, 27, 101, 105
 4	1	in	85	A	1, 19, 75, 85
 4	1	know	87	A	19, 23, 79, 105
 4	1	piano	29	A	77, 101, 103, 105
@@ -58,7 +75,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	his	29	A	1, 11, 29
 3	1	nice	13	A	67, 77, 79
 3	1	she's	5	A	101, 103, 105
-3	1	too	95	A	11, 99, 105
 2	1	about	77	A	27, 103
 2	1	at	31	A	75, 105
 2	1	been	5	A	103, 107

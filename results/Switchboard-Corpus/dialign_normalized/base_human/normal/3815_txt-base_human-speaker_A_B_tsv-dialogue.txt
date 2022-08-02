@@ -1,267 +1,267 @@
-A|0| A: _well_ _are_ _you_ _in_ _the_ market _for_ _a_ _new_ _car_ ? 
-B|1| B: _uh_ [well] _yeah_ _i_ am as [a] matter _of_ fact . [well] _actually_ _i'm_ _looking for_ another [car] _but_ _uh_ _uh_ [new] _probably_ _not_ . 
+A|0| A: _well ,_ _are_ _you_ _in_ _the_ market _for_ _a_ _new_ _car_ ? 
+B|1| B: _uh ,_ [well ,] _yeah_ _, i_ am as [a] matter _of_ fact . [well _,] actually_ _i'm_ _looking for_ another [car] _, but _,_ uh _,_ uh ,_ [new] , _probably_ _not_ . 
 A|2| A: _oh ._ _what_ sort [of] requirements _to_ _you_ _have_ [for] your [car] ? 
-B|3| B: _uh_ _sports_ [car] . 
+B|3| B: _uh ,_ _sports_ [car] . 
 A|4| A: _uh-huh ._ 
-B|5| B: _uh_ usually either black _or_ red . 
+B|5| B: _uh ,_ usually either black _or_ red . 
 A|6| A: _uh-huh ._ 
-B|7| B: _and_ electric _windows_ _and_ _power locks_ 
+B|7| B: _and_ electric _windows_ _, and_ _power locks_ 
 A|8| A: _i see_ 
-B|9| B: _now_ 
-A|10| A: top [of] top _of the_ line . 
-B|11| B: [well] _not_ _so_ much _that_ as _it_ is _i've_ _had_ _so_ many times _when_ _uh_ _uh_ _you know_ i'll _have a_ friend next [to] _me_ _or_ [i see] somebody _uh_ _guy_ broken down _on the_ side [of the] road _and_ try [to] lean over _and_ roll down [the] window . 
+B|9| B: _now_ , 
+A|10| A: top [of] , top _of the_ line . 
+B|11| B: [well ,] _not_ _so_ much _that_ as _it_ is , _i've_ _had_ _so_ many times _when_ _, uh _,_ uh _,_ you know ,_ i'll _have a_ friend next [to] _me_ _or_ [i see] somebody _, uh ,_ _guy_ broken down _on the_ side [of the] road _and_ try [to] lean over _and_ roll down [the] window . 
 A|12| A: _oh ._ 
-B|13| B: _it_ is _just_ [a] real pain _or_ _you know if_ _i'm_ driving along _and_ there's somebody next [to] _me_ _and uh_ somebody _that i know_ _and_ [you] try [to] talk [to] _them_ _it's_ real difficult [to] drive reach over _and_ try [to] roll down [the] window . 
-A|14| A: _uh-huh ._ right right . 
-B|15| B: _and uh so_ _power locks_ _power windows_ [are] _just_ _just_ things _that_ _uh_ _just_ _really_ help _a lot_ 
-A|16| A: _uh-huh_ _uh-huh ._ 
+B|13| B: _it_ is _just_ [a] real pain , _or_ _, you know , if_ _i'm_ driving along _and_ there's somebody next [to] _me_ _and , uh ,_ somebody _that i know_ _and_ [you] try [to] talk [to] _them_ _it's_ real difficult [to] drive , reach over _, and_ try [to] roll down [the] window . 
+A|14| A: _uh-huh ._ right , right . 
+B|15| B: _and , uh , _so_ ,_ _power locks ,_ _power windows_ [are] _just_ , _just_ things _that _,_ uh ,_ _just_ _really_ help _a lot_ 
+A|16| A: _uh-huh_ , _uh-huh ._ 
 B|17| B: [what] _about_ _you ?_ 
-A|18| A: [well] _i guess_ [i'm] _uh more_ traditional _in_ [that _i] don't_ _like_ [power windows] [or] [power locks] because [the] people [that i know] who [have] [them] always seem [to] [have] trouble _with_ [them] . 
+A|18| A: [well _,] i guess_ _i'm _,_ uh , more_ traditional _in_ [that _i] don't_ _like_ [power windows] [or] [power locks ,] because [the] people [that i know] who [have] [them] always seem [to] [have] trouble _with_ [them] . 
 B|19| B: [oh .] 
-A|20| A: [and uh so] _i don't_ [i] [just] _don't_ _like_ _anything_ [that i] can't figure out _why_ [it] doesn't work 
+A|20| A: [and , uh , so] _i don't_ [, i] [just] _don't_ _like_ _anything_ [that i] can't figure out _why_ [it] doesn't work 
 B|21| B: _sure_ . 
-A|22| A: [and] then [i] _want_ [you know] good [uh] gas mileage _and i_ _want_ _an air bag_ [and _uh] i guess_ 
+A|22| A: [and] then [i] _want_ [, you know ,] good [, uh ,] gas mileage _and i_ _want_ _an air bag_ [and _, _uh ,] i_ guess_ , 
 B|23| B: _have you_ ever _had a _car_ with_ [an air bag] ? 
-A|24| A: _no i_ haven't . [have [you] ?] 
+A|24| A: _no , i_ haven't . [have [you] ?] 
 B|25| B: [no] . 
-A|26| A: somehow [i] [just] _think_ [you know] _i like the_ idea 
-B|27| B: [well] _it it_ _sure_ seems [to] save lives [and] 
+A|26| A: somehow [i] [just] _think_ [, you know _,] i like the_ idea 
+B|27| B: [well _,] _it_ , it_ _sure_ seems [to] save lives [and] 
 A|28| A: right . 
-B|29| B: [uh] _yeah _._ _i_ actually [i_ like the] anti-lock brakes . 
-A|30| A: right that's [a] good idea . 
-B|31| B: [and i] [have] never _had a_ chance [to] [i] [have] _been_ [in] _cars_ [that] [have] _had_ [them] _but_ _i've_ never tromped _on the_ brakes [to] [see] [uh] [you know] _on_ ice [or] water [just] [to] [see] _if_ _they_ _didn't_ lock _up_ . 
-A|32| A: _uh-huh_ _uh-huh ._ 
-B|33| B: _but_ [uh] [you] [think] you'd buy [uh] [an] _american_ [car] [or] [a] european [or] japanese ? 
-A|34| A: [well] [i actually _i] don't know_ [a lot] [about] different brands [. i] tend [to] [have [you] know] my requirements [like the] last time [i] bought [a car] _i _i_ guess i_ _did_ sort [of] _prefer_ [american] [and] my requirements were basically [you know] good repair record good mileage [uh] [and i] needed air-conditioning [and uh] can't remember [what] my [oh] [i] wanted [uh] _stick shift ._ [and] [so] [i] [didn't] [have a] whole [lot] [of] choice there _was_ _one_ [car] [in] _all_ [of the] [the] metropolitan area [that i] could _find_ [that] [you know] _was_ sort [of] [a] medium priced [car with] _a stick shift_ [in] [it] . 
+B|29| B: [uh ,] _yeah _._ _i_ , actually_ [, i like the] anti-lock brakes . 
+A|30| A: right , that's [a] good idea . 
+B|31| B: [and i] [have] never _had a_ chance _to [,_ i] [have] _been_ [in] _cars_ [that] [have] _had_ [them] _, but_ _i've_ never tromped _on the_ brakes [to] [see] [, uh [,] you know ,] _on_ ice [or] water [just] [to] [see] _if_ _they_ _didn't_ lock _up_ . 
+A|32| A: _uh-huh_ , _uh-huh ._ 
+B|33| B: _but [,_ uh [,] you] [think] you'd buy [, uh ,] [an] _american_ [car] [or] [a] european [or] japanese ? 
+A|34| A: [well [,] [i] , actually] _i don't know_ [a lot] [about] different brands [. i] tend [to] _have [,_ you know ,] my requirements [like the] last time [i] bought [a car] _i _, i_ guess i_ _did_ sort [of] _prefer_ [american] [and] my requirements were basically [, you know ,] good repair record , good mileage [, uh [,] [and] i] needed air-conditioning [and , uh ,] can't remember [what] my , [oh] [, i] wanted [uh _,] _stick shift_ ._ [and [,] so] [i] [didn't] [have a] whole [lot] [of] choice there _was_ _one_ [car] [in] _all_ [of the] _, the_ metropolitan area [that i] could _find_ [that [,] you know ,] _was_ sort [of] [a] medium priced [car with] _a stick shift_ [in] [it] . 
 B|35| B: [what] [was] [that] ? 
-A|36| A: [it it] turned out [to] be [a] [a] chrysler . [uh] lancer . 
-B|37| B: huh [stick shift] huh ? 
+A|36| A: [it , it] turned out [to] be [a] _, a_ chrysler . [uh] lancer . 
+B|37| B: huh [, stick shift] , huh ? 
 A|38| A: [yeah .] 
-B|39| B: [did] [it] [have] [what] [a] _three_ _speed_ [or] [a] four _speed_ ? 
-A|40| A: [no] [a] five [speed] . _and it_ basically [it] [was] something [that] [a] military [guy] [had] ordered [and] hadn't picked [up] [and] [so] [it] [had] [been] [on the] [lot] [three] months [and] [they] were [really] eager [to] sell [it] . 
+B|39| B: [did] [it] [have ,] [what] [, a] _three_ _speed_ [or] [a] four _speed_ ? 
+A|40| A: _no [,_ a] five [speed] . _and it ,_ basically [, it] [was] something [that] [a] military [guy] [had] ordered [and] hadn't picked [up] [, and] [so] [it] [had] [been] [on the] [lot] [three] months [and] [they] were [really] eager [to] sell [it] . 
 B|41| B: wow . 
-A|42| A: [so] _i guess_ [in] this area at least [you know if] [it's] [not] automatic [it] doesn't move . 
-B|43| B: [well] [actually i] much [prefer] [a stick shift] [and] [what] [i'm] [i'm] curious [. [i] [i] know] [why] [i] love [a [stick shift] .] [why] [why] [did] [you] [want] [one] ? 
-A|44| A: [well] [i] [just] wanted [it] because again [i] [had] _i guess_ traditionally always [had a car] [that] [had] [one] [and i] thought [it] would be _more_ reliable . 
+A|42| A: [so _,] i guess_ [in] this area , at least [, you know , if] [it's] [not] automatic [, it] doesn't move . 
+B|43| B: [well [,] actually] [, i] much [prefer] [a stick shift] [and ,] [what] _, [i'm_ _,] i'm_ curious [. [i] , [i] know] [why] [i] love [a [stick shift] .] [why] [why] [did] [you] [want] [one] ? 
+A|44| A: [well [,] i] [just] wanted [it] because , again [, i] [had] _, i guess_ traditionally always [had a car] [that] [had] [one] [and i] thought [it] would be _more_ reliable . 
 B|45| B: [uh-huh .] 
-A|46| A: [uh] 
+A|46| A: [uh ,] 
 B|47| B: [it's] hard [to] [find] [stick shift] _cars_ _anymore ._ 
-A|48| A: [i] found [that] out [. _i] mean_ [you know] [the] people would [just] sort [of] look at [me] [like] [you] must be crazy [when] [i] went [in] [to] [and] asked [and] [that] [was] [a] requirement [so] 
-B|49| B: huh [yeah .] 
-A|50| A: [so] 
-B|51| B: [no [i] mean] most [of the] _sports cars_ [are] [stick shift .] 
-A|52| A: [well] [i'm] [not] even [sure] _all_ [of] [them] [are] [anymore .] at least [in] this area . 
+A|48| A: [i] found [that] out [. _i] mean_ [, you know _,] the_ people would [just] sort [of] look at [me] [like] [, you] must be crazy [when] [i ,] went [in] [to [,] and] asked [and] [that] [was] [a] requirement [so ,] 
+B|49| B: huh , [yeah .] 
+A|50| A: [so ,] 
+B|51| B: [no , [i] mean] most [of the] _sports cars_ [are] [stick shift .] 
+A|52| A: [well [,] i'm] [not] even [sure] _all_ [of] [them] [are] [anymore .] at least [in] this area . 
 B|53| B: huh . 
-A|54| A: [not] [that i] [was] [looking for] [sports cars] [but] [now] [the] people [i've] talked [to] _don't_ seem [to] [have] [stick shift .] 
+A|54| A: [not] [that i] [was] [looking for] [sports _cars] [,_ but ,] [now] [the] people [i've] talked [to] _don't_ seem [to] [have] [stick shift .] 
 B|55| B: huh . 
 A|56| A: [and] [so] [why] _do_ [you] [like] [stick shift] ? 
-B|57| B: [uh [i guess] [i] i] grew [up] [on] [it] [and] [it's] fun . [it's] [it's] [an] enjoyable part [of] driving [. i] [do] feel [like] [i] [have] [uh more] control over [the] [car] 
+B|57| B: [uh [, i guess] [i] , i] grew [up] [on] [it] [and] [it's] fun . [it's] , [it's] [an] enjoyable part [of] driving [. i] [do] feel [like] [i] [have [,] uh , more] control over [the] [car] 
 A|58| A: [uh-huh .] 
-B|59| B: [and [it] it] [to] [me] [it] gives [me] [more] [a lot] [more] control [in] snow [and] ice [and] slick conditions . 
+B|59| B: [and [it ,] [it] ,] [to] [me] [, it] gives [me] [more] [, [a] lot] [more] control [in] snow [and] ice [and] slick conditions . 
 A|60| A: [uh-huh .] right . 
-B|61| B: [uh] [it it] does [uh [i] don't know] [it] [it's] [really] [more] fun than [anything] else . as _long_ as you're [not] stuck [in] heavy traffic [it's] fun 
-A|62| A: right [and] [actually] [it's] [probably] safer [on] [you know] at [long] trips because [it] keeps [you] [more] active . 
-B|63| B: [yeah] [yeah] 
-A|64| A: [so] 
-B|65| B: [yeah] [uh] [of] course [i like] gadgets [and] [and uh] fun things [on the] [cars] which [are] [all] [the] things course [the] 
+B|61| B: [uh [,] [it] , it] does [, uh , [i] don't [know] [,] [it] ,] [it's] [really] [more] fun than [anything] else . as _long_ as you're [not] stuck [in] heavy traffic , [it's] fun 
+A|62| A: right [, and] [actually] [it's] [probably] safer [on] [, you know ,] at [long] trips because [it] keeps [you] [more] active . 
+B|63| B: [yeah] , [yeah] 
+A|64| A: [so ,] 
+B|65| B: [yeah] [, uh ,] [of] course [, i like] gadgets [and [,] [and] , uh ,] fun things , [on the] [cars ,] which [are] [all] [the] things , course [, the] 
 
 
 TURN DETAILS:
-Turn ID=0| A | A : well are you in the market for a new car ?
-	Free: Pattern=new, Pattern=well, Pattern=you, Pattern=a, Pattern=for, Pattern=are, Pattern=in, Pattern=the, Pattern=car
+Turn ID=0| A | A : well , are you in the market for a new car ?
+	Free: Pattern=new, Pattern=you, Pattern=a, Pattern=for, Pattern=are, Pattern=well ,, Pattern=in, Pattern=the, Pattern=car
 	Constrained: 
-Turn ID=1| B | B : uh well yeah i am as a matter of fact . well actually i'm looking for another car but uh uh new probably not .
-	Free: Pattern=well, Pattern=uh, Pattern=yeah, Pattern=probably, Pattern=i'm, Pattern=i, Pattern=car, Pattern=but, Pattern=not, Pattern=looking for, Pattern=of, Pattern=new, Pattern=actually, Pattern=a
-	Constrained: Pattern=for
+Turn ID=1| B | B : uh , well , yeah , i am as a matter of fact . well , actually i'm looking for another car , but , uh , uh , new , probably not .
+	Free: Pattern=a, Pattern=, but ,, Pattern=yeah, Pattern=, actually, Pattern=i'm, Pattern=, uh ,, Pattern=car, Pattern=not, Pattern=looking for, Pattern=of, Pattern=new, Pattern=well ,, Pattern=probably, Pattern=uh ,, Pattern=, i
+	Constrained: Pattern=but ,, Pattern=actually, Pattern=for, Pattern=i, Pattern=uh ,, Pattern=uh, Pattern=, but
 Turn ID=2| A | A : oh . what sort of requirements to you have for your car ?
 	Free: Pattern=of, Pattern=you, Pattern=have, Pattern=what, Pattern=oh ., Pattern=for, Pattern=car, Pattern=to
 	Constrained: Pattern=oh
-Turn ID=3| B | B : uh sports car .
-	Free: Pattern=uh, Pattern=car, Pattern=sports
-	Constrained: 
+Turn ID=3| B | B : uh , sports car .
+	Free: Pattern=uh ,, Pattern=car, Pattern=sports
+	Constrained: Pattern=uh
 Turn ID=4| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=5| B | B : uh usually either black or red .
-	Free: Pattern=uh, Pattern=or
-	Constrained: 
+Turn ID=5| B | B : uh , usually either black or red .
+	Free: Pattern=uh ,, Pattern=or
+	Constrained: Pattern=uh
 Turn ID=6| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=7| B | B : and electric windows and power locks
-	Free: Pattern=power locks, Pattern=windows, Pattern=and
-	Constrained: 
+Turn ID=7| B | B : and electric windows , and power locks
+	Free: Pattern=, and, Pattern=power locks, Pattern=and, Pattern=windows
+	Constrained: Pattern=and
 Turn ID=8| A | A : i see
 	Free: Pattern=i see
 	Constrained: Pattern=see, Pattern=i
-Turn ID=9| B | B : now
+Turn ID=9| B | B : now ,
 	Free: Pattern=now
 	Constrained: 
-Turn ID=10| A | A : top of top of the line .
+Turn ID=10| A | A : top of , top of the line .
 	Free: Pattern=of the, Pattern=of
 	Constrained: Pattern=the, Pattern=of
-Turn ID=11| B | B : well not so much that as it is i've had so many times when uh uh you know i'll have a friend next to me or i see somebody uh guy broken down on the side of the road and try to lean over and roll down the window .
-	Free: Pattern=guy, Pattern=me, Pattern=have a, Pattern=i've, Pattern=when, Pattern=to, Pattern=so, Pattern=not, Pattern=i see, Pattern=well, Pattern=uh, Pattern=you know, Pattern=it, Pattern=and, Pattern=had, Pattern=or, Pattern=on the, Pattern=the, Pattern=of the, Pattern=that
-	Constrained: Pattern=of, Pattern=you, Pattern=have, Pattern=a, Pattern=i, Pattern=see, Pattern=on, Pattern=the
+Turn ID=11| B | B : well , not so much that as it is , i've had so many times when , uh , uh , you know , i'll have a friend next to me or i see somebody , uh , guy broken down on the side of the road and try to lean over and roll down the window .
+	Free: Pattern=guy, Pattern=i see, Pattern=me, Pattern=have a, Pattern=, you know ,, Pattern=i've, Pattern=well ,, Pattern=, uh ,, Pattern=when, Pattern=to, Pattern=so, Pattern=not, Pattern=it, Pattern=and, Pattern=had, Pattern=or, Pattern=on the, Pattern=the, Pattern=of the, Pattern=that
+	Constrained: Pattern=have, Pattern=a, Pattern=, you, Pattern=i, Pattern=see, Pattern=of, Pattern=know ,, Pattern=you, Pattern=uh, Pattern=uh ,, Pattern=on, Pattern=the
 Turn ID=12| A | A : oh .
 	Free: Pattern=oh .
 	Constrained: Pattern=oh
-Turn ID=13| B | B : it is just a real pain or you know if i'm driving along and there's somebody next to me and uh somebody that i know and you try to talk to them it's real difficult to drive reach over and try to roll down the window .
-	Free: Pattern=you, Pattern=just, Pattern=me, Pattern=a, Pattern=you know if, Pattern=i'm, Pattern=or, Pattern=the, Pattern=that i know, Pattern=it, Pattern=and, Pattern=and uh, Pattern=to, Pattern=them, Pattern=it's
-	Constrained: Pattern=i know, Pattern=and, Pattern=if, Pattern=i, Pattern=that i, Pattern=that, Pattern=you, Pattern=uh, Pattern=you know
-Turn ID=14| A | A : uh-huh . right right .
+Turn ID=13| B | B : it is just a real pain , or , you know , if i'm driving along and there's somebody next to me and , uh , somebody that i know and you try to talk to them it's real difficult to drive , reach over , and try to roll down the window .
+	Free: Pattern=you, Pattern=just, Pattern=me, Pattern=a, Pattern=i'm, Pattern=the, Pattern=that i know, Pattern=, you know , if, Pattern=it, Pattern=and, Pattern=or, Pattern=and , uh ,, Pattern=, and, Pattern=to, Pattern=them, Pattern=it's
+	Constrained: Pattern=know ,, Pattern=i know, Pattern=and ,, Pattern=, you know ,, Pattern=and, Pattern=if, Pattern=, you, Pattern=i, Pattern=, uh ,, Pattern=uh ,, Pattern=that i, Pattern=that, Pattern=you, Pattern=uh
+Turn ID=14| A | A : uh-huh . right , right .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=15| B | B : and uh so power locks power windows are just just things that uh just really help a lot
-	Free: Pattern=uh, Pattern=just, Pattern=are, Pattern=and uh so, Pattern=really, Pattern=power windows, Pattern=a lot, Pattern=power locks, Pattern=that
-	Constrained: Pattern=uh, Pattern=windows, Pattern=a, Pattern=and, Pattern=lot, Pattern=and uh, Pattern=so
-Turn ID=16| A | A : uh-huh uh-huh .
+Turn ID=15| B | B : and , uh , so , power locks , power windows are just , just things that , uh , just really help a lot
+	Free: Pattern=and , uh , so, Pattern=power locks ,, Pattern=just, Pattern=are, Pattern=so ,, Pattern=really, Pattern=power windows, Pattern=, uh ,, Pattern=a lot, Pattern=that ,
+	Constrained: Pattern=uh, Pattern=and ,, Pattern=windows, Pattern=a, Pattern=and, Pattern=and , uh ,, Pattern=, uh ,, Pattern=, so, Pattern=power locks, Pattern=that, Pattern=so, Pattern=uh ,, Pattern=lot
+Turn ID=16| A | A : uh-huh , uh-huh .
 	Free: Pattern=uh-huh ., Pattern=uh-huh
 	Constrained: Pattern=uh-huh
 Turn ID=17| B | B : what about you ?
 	Free: Pattern=you ?, Pattern=what, Pattern=about
 	Constrained: Pattern=you
-Turn ID=18| A | A : well i guess i'm uh more traditional in that i don't like power windows or power locks because the people that i know who have them always seem to have trouble with them .
-	Free: Pattern=in, Pattern=i'm, Pattern=the, Pattern=to, Pattern=power locks, Pattern=uh more, Pattern=well, Pattern=i don't, Pattern=have, Pattern=i guess, Pattern=like, Pattern=or, Pattern=power windows, Pattern=that i, Pattern=that i know, Pattern=with, Pattern=them
-	Constrained: Pattern=more, Pattern=uh, Pattern=i know, Pattern=windows, Pattern=i, Pattern=that, Pattern=that i, Pattern=don't
+Turn ID=18| A | A : well , i guess i'm , uh , more traditional in that i don't like power windows or power locks , because the people that i know who have them always seem to have trouble with them .
+	Free: Pattern=power locks ,, Pattern=well ,, Pattern=i'm ,, Pattern=in, Pattern=, i guess, Pattern=like, Pattern=, uh , more, Pattern=the, Pattern=to, Pattern=i don't, Pattern=have, Pattern=or, Pattern=power windows, Pattern=that i, Pattern=that i know, Pattern=with, Pattern=them
+	Constrained: Pattern=more, Pattern=uh, Pattern=i know, Pattern=windows, Pattern=i'm, Pattern=i, Pattern=, uh ,, Pattern=power locks, Pattern=that, Pattern=uh ,, Pattern=, i, Pattern=that i, Pattern=don't
 Turn ID=19| B | B : oh .
 	Free: Pattern=oh .
 	Constrained: Pattern=oh
-Turn ID=20| A | A : and uh so i don't i just don't like anything that i can't figure out why it doesn't work
-	Free: Pattern=it, Pattern=and uh so, Pattern=i, Pattern=like, Pattern=anything, Pattern=why, Pattern=just, Pattern=i don't, Pattern=that i, Pattern=don't
-	Constrained: Pattern=uh, Pattern=and, Pattern=i, Pattern=don't, Pattern=and uh, Pattern=that, Pattern=so
+Turn ID=20| A | A : and , uh , so i don't , i just don't like anything that i can't figure out why it doesn't work
+	Free: Pattern=and , uh , so, Pattern=it, Pattern=like, Pattern=why, Pattern=just, Pattern=i don't, Pattern=anything, Pattern=, i, Pattern=that i, Pattern=don't
+	Constrained: Pattern=uh, Pattern=and ,, Pattern=and, Pattern=i, Pattern=and , uh ,, Pattern=, uh ,, Pattern=uh ,, Pattern=don't, Pattern=, so, Pattern=that, Pattern=so
 Turn ID=21| B | B : sure .
 	Free: Pattern=sure
 	Constrained: 
-Turn ID=22| A | A : and then i want you know good uh gas mileage and i want an air bag and uh i guess
-	Free: Pattern=want, Pattern=and, Pattern=an air bag, Pattern=i, Pattern=and uh, Pattern=uh i guess, Pattern=and i, Pattern=uh, Pattern=you know
-	Constrained: Pattern=an, Pattern=and, Pattern=i, Pattern=i guess, Pattern=uh i, Pattern=you, Pattern=uh
+Turn ID=22| A | A : and then i want , you know , good , uh , gas mileage and i want an air bag and , uh , i guess ,
+	Free: Pattern=and i, Pattern=want, Pattern=, uh , i, Pattern=, you know ,, Pattern=uh , i guess, Pattern=and, Pattern=an air bag, Pattern=i, Pattern=and , uh ,, Pattern=, uh ,
+	Constrained: Pattern=know ,, Pattern=and ,, Pattern=an, Pattern=and, Pattern=, you, Pattern=, uh ,, Pattern=you, Pattern=uh, Pattern=, i guess, Pattern=i, Pattern=uh ,, Pattern=, i
 Turn ID=23| B | B : have you ever had a car with an air bag ?
-	Free: Pattern=an air bag, Pattern=had a car, Pattern=have you, Pattern=car with
+	Free: Pattern=had a car, Pattern=an air bag, Pattern=have you, Pattern=car with
 	Constrained: Pattern=had a, Pattern=you, Pattern=have, Pattern=a, Pattern=an, Pattern=had, Pattern=car, Pattern=a car, Pattern=with
-Turn ID=24| A | A : no i haven't . have you ?
-	Free: Pattern=have you, Pattern=no i, Pattern=you ?
-	Constrained: Pattern=i, Pattern=no, Pattern=have, Pattern=you
+Turn ID=24| A | A : no , i haven't . have you ?
+	Free: Pattern=no , i, Pattern=have you, Pattern=you ?
+	Constrained: Pattern=you, Pattern=no, Pattern=i, Pattern=, i, Pattern=have, Pattern=no ,
 Turn ID=25| B | B : no .
 	Free: Pattern=no
 	Constrained: 
-Turn ID=26| A | A : somehow i just think you know i like the idea
-	Free: Pattern=you know, Pattern=just, Pattern=think, Pattern=i, Pattern=i like the
-	Constrained: Pattern=you, Pattern=i, Pattern=like, Pattern=the, Pattern=like the, Pattern=i like
-Turn ID=27| B | B : well it it sure seems to save lives and
-	Free: Pattern=well, Pattern=it it, Pattern=and, Pattern=sure, Pattern=to
-	Constrained: Pattern=it
+Turn ID=26| A | A : somehow i just think , you know , i like the idea
+	Free: Pattern=just, Pattern=, you know ,, Pattern=think, Pattern=i, Pattern=, i like the
+	Constrained: Pattern=know ,, Pattern=you, Pattern=, you, Pattern=i, Pattern=like, Pattern=like the, Pattern=, i like, Pattern=the, Pattern=, i
+Turn ID=27| B | B : well , it , it sure seems to save lives and
+	Free: Pattern=, it, Pattern=it , it, Pattern=and, Pattern=well ,, Pattern=sure, Pattern=to
+	Constrained: Pattern=it ,, Pattern=, it, Pattern=it
 Turn ID=28| A | A : right .
 	Free: 
 	Constrained: 
-Turn ID=29| B | B : uh yeah . i actually i like the anti-lock brakes .
-	Free: Pattern=uh, Pattern=i actually i, Pattern=yeah ., Pattern=. i, Pattern=i like the
-	Constrained: Pattern=actually, Pattern=yeah, Pattern=like, Pattern=the, Pattern=like the, Pattern=i like, Pattern=actually i, Pattern=i
-Turn ID=30| A | A : right that's a good idea .
+Turn ID=29| B | B : uh , yeah . i , actually , i like the anti-lock brakes .
+	Free: Pattern=i , actually, Pattern=yeah ., Pattern=. i, Pattern=uh ,, Pattern=, i like the
+	Constrained: Pattern=uh, Pattern=actually, Pattern=yeah, Pattern=, actually, Pattern=i, Pattern=like, Pattern=i ,, Pattern=like the, Pattern=, i like, Pattern=the, Pattern=, i
+Turn ID=30| A | A : right , that's a good idea .
 	Free: Pattern=a
 	Constrained: 
-Turn ID=31| B | B : and i have never had a chance to i have been in cars that have had them but i've never tromped on the brakes to see uh you know on ice or water just to see if they didn't lock up .
-	Free: Pattern=had a, Pattern=and i, Pattern=they, Pattern=didn't, Pattern=in, Pattern=i, Pattern=see, Pattern=been, Pattern=uh, Pattern=you know, Pattern=just, Pattern=have, Pattern=i've, Pattern=if, Pattern=or, Pattern=had, Pattern=cars, Pattern=on the, Pattern=on, Pattern=up, Pattern=to, Pattern=but, Pattern=them, Pattern=that
-	Constrained: Pattern=you, Pattern=a, Pattern=and, Pattern=i, Pattern=had, Pattern=on, Pattern=the
-Turn ID=32| A | A : uh-huh uh-huh .
+Turn ID=31| B | B : and i have never had a chance to , i have been in cars that have had them , but i've never tromped on the brakes to see , uh , you know , on ice or water just to see if they didn't lock up .
+	Free: Pattern=had a, Pattern=and i, Pattern=, but, Pattern=they, Pattern=, you know ,, Pattern=didn't, Pattern=in, Pattern=to ,, Pattern=, uh ,, Pattern=see, Pattern=been, Pattern=just, Pattern=have, Pattern=i've, Pattern=if, Pattern=or, Pattern=had, Pattern=cars, Pattern=on the, Pattern=on, Pattern=, i, Pattern=up, Pattern=to, Pattern=them, Pattern=that
+	Constrained: Pattern=know ,, Pattern=a, Pattern=and, Pattern=, you, Pattern=i, Pattern=had, Pattern=to, Pattern=you, Pattern=uh, Pattern=uh ,, Pattern=on, Pattern=the
+Turn ID=32| A | A : uh-huh , uh-huh .
 	Free: Pattern=uh-huh ., Pattern=uh-huh
 	Constrained: Pattern=uh-huh
-Turn ID=33| B | B : but uh you think you'd buy uh an american car or a european or japanese ?
-	Free: Pattern=a, Pattern=an, Pattern=think, Pattern=american, Pattern=or, Pattern=car, Pattern=but, Pattern=you, Pattern=uh
-	Constrained: 
-Turn ID=34| A | A : well i actually i don't know a lot about different brands . i tend to have you know my requirements like the last time i bought a car i i guess i did sort of prefer american and my requirements were basically you know good repair record good mileage uh and i needed air-conditioning and uh can't remember what my oh i wanted uh stick shift . and so i didn't have a whole lot of choice there was one car in all of the the metropolitan area that i could find that you know was sort of a medium priced car with a stick shift in it .
-	Free: Pattern=and i, Pattern=well, Pattern=a stick shift, Pattern=one, Pattern=didn't, Pattern=in, Pattern=so, Pattern=i guess i, Pattern=of, Pattern=uh, Pattern=you know, Pattern=i actually i, Pattern=what, Pattern=have a, Pattern=did, Pattern=a, Pattern=it, Pattern=and, Pattern=oh, Pattern=about, Pattern=. i, Pattern=prefer, Pattern=have you, Pattern=i, Pattern=american, Pattern=stick shift ., Pattern=lot, Pattern=the, Pattern=all, Pattern=car, Pattern=that i, Pattern=a car, Pattern=i don't know, Pattern=a lot, Pattern=and uh, Pattern=to, Pattern=car with, Pattern=like the, Pattern=was, Pattern=of the, Pattern=that, Pattern=i i, Pattern=find
-	Constrained: Pattern=of, Pattern=and, Pattern=stick shift, Pattern=you, Pattern=uh, Pattern=i don't, Pattern=have, Pattern=actually, Pattern=a, Pattern=actually i, Pattern=i, Pattern=i guess, Pattern=like, Pattern=lot, Pattern=the, Pattern=car, Pattern=don't, Pattern=with, Pattern=that
+Turn ID=33| B | B : but , uh , you think you'd buy , uh , an american car or a european or japanese ?
+	Free: Pattern=but ,, Pattern=a, Pattern=an, Pattern=think, Pattern=, you, Pattern=american, Pattern=or, Pattern=, uh ,, Pattern=car
+	Constrained: Pattern=uh ,, Pattern=you, Pattern=uh
+Turn ID=34| A | A : well , i , actually i don't know a lot about different brands . i tend to have , you know , my requirements like the last time i bought a car i , i guess i did sort of prefer american and my requirements were basically , you know , good repair record , good mileage , uh , and i needed air-conditioning and , uh , can't remember what my , oh , i wanted uh , stick shift . and , so i didn't have a whole lot of choice there was one car in all of the , the metropolitan area that i could find that , you know , was sort of a medium priced car with a stick shift in it .
+	Free: Pattern=and i, Pattern=of, Pattern=a stick shift, Pattern=and ,, Pattern=i , actually, Pattern=one, Pattern=in, Pattern=have ,, Pattern=and , uh ,, Pattern=, uh ,, Pattern=, the, Pattern=i , i, Pattern=what, Pattern=have a, Pattern=did, Pattern=, you know ,, Pattern=a, Pattern=it, Pattern=and, Pattern=oh, Pattern=didn't, Pattern=well ,, Pattern=about, Pattern=. i, Pattern=prefer, Pattern=i, Pattern=american, Pattern=stick shift ., Pattern=uh ,, Pattern=lot, Pattern=, i, Pattern=all, Pattern=car, Pattern=that i, Pattern=a car, Pattern=i don't know, Pattern=a lot, Pattern=, and, Pattern=to, Pattern=car with, Pattern=like the, Pattern=was, Pattern=, so, Pattern=, i guess i, Pattern=that ,, Pattern=, stick shift, Pattern=of the, Pattern=find
+	Constrained: Pattern=and ,, Pattern=and, Pattern=, actually, Pattern=, you, Pattern=like, Pattern=, uh ,, Pattern=so, Pattern=stick shift, Pattern=of, Pattern=know ,, Pattern=you, Pattern=uh, Pattern=i don't, Pattern=have, Pattern=actually, Pattern=a, Pattern=, i guess, Pattern=i, Pattern=uh ,, Pattern=lot, Pattern=the, Pattern=, i, Pattern=car, Pattern=i ,, Pattern=don't, Pattern=with, Pattern=that
 Turn ID=35| B | B : what was that ?
-	Free: Pattern=what, Pattern=was, Pattern=that
+	Free: Pattern=what, Pattern=that, Pattern=was
 	Constrained: 
-Turn ID=36| A | A : it it turned out to be a a chrysler . uh lancer .
-	Free: Pattern=it it, Pattern=uh, Pattern=to, Pattern=a
-	Constrained: Pattern=it
-Turn ID=37| B | B : huh stick shift huh ?
-	Free: Pattern=stick shift
-	Constrained: 
+Turn ID=36| A | A : it , it turned out to be a , a chrysler . uh lancer .
+	Free: Pattern=a, Pattern=, a, Pattern=to, Pattern=uh, Pattern=it , it
+	Constrained: Pattern=it ,, Pattern=, it, Pattern=a, Pattern=it
+Turn ID=37| B | B : huh , stick shift , huh ?
+	Free: Pattern=, stick shift
+	Constrained: Pattern=stick shift
 Turn ID=38| A | A : yeah .
 	Free: Pattern=yeah .
 	Constrained: Pattern=yeah
-Turn ID=39| B | B : did it have what a three speed or a four speed ?
-	Free: Pattern=have, Pattern=what, Pattern=it, Pattern=three, Pattern=or, Pattern=speed, Pattern=did, Pattern=a
-	Constrained: 
-Turn ID=40| A | A : no a five speed . and it basically it was something that a military guy had ordered and hadn't picked up and so it had been on the lot three months and they were really eager to sell it .
-	Free: Pattern=guy, Pattern=a, Pattern=three, Pattern=and it, Pattern=really, Pattern=had, Pattern=that, Pattern=no, Pattern=they, Pattern=it, Pattern=and, Pattern=on the, Pattern=lot, Pattern=up, Pattern=to, Pattern=been, Pattern=was, Pattern=so, Pattern=speed
-	Constrained: Pattern=on, Pattern=it, Pattern=the, Pattern=and
+Turn ID=39| B | B : did it have , what , a three speed or a four speed ?
+	Free: Pattern=what, Pattern=it, Pattern=three, Pattern=have ,, Pattern=, a, Pattern=or, Pattern=speed, Pattern=did, Pattern=a
+	Constrained: Pattern=have, Pattern=a
+Turn ID=40| A | A : no , a five speed . and it , basically , it was something that a military guy had ordered and hadn't picked up , and so it had been on the lot three months and they were really eager to sell it .
+	Free: Pattern=, it, Pattern=guy, Pattern=no ,, Pattern=they, Pattern=a, Pattern=three, Pattern=and it ,, Pattern=, a, Pattern=really, Pattern=had, Pattern=that, Pattern=it, Pattern=and, Pattern=on the, Pattern=lot, Pattern=, and, Pattern=up, Pattern=to, Pattern=been, Pattern=was, Pattern=so, Pattern=speed
+	Constrained: Pattern=no, Pattern=a, Pattern=it ,, Pattern=it, Pattern=and, Pattern=on, Pattern=the
 Turn ID=41| B | B : wow .
 	Free: 
 	Constrained: 
-Turn ID=42| A | A : so i guess in this area at least you know if it's not automatic it doesn't move .
-	Free: Pattern=you know if, Pattern=it, Pattern=in, Pattern=i guess, Pattern=it's, Pattern=so, Pattern=not
-	Constrained: Pattern=i, Pattern=you know, Pattern=if, Pattern=you
-Turn ID=43| B | B : well actually i much prefer a stick shift and what i'm i'm curious . i i know why i love a stick shift . why why did you want one ?
-	Free: Pattern=you, Pattern=what, Pattern=did, Pattern=and, Pattern=one, Pattern=. i, Pattern=i'm, Pattern=stick shift ., Pattern=why, Pattern=i i, Pattern=well, Pattern=want, Pattern=a stick shift, Pattern=i know, Pattern=actually i, Pattern=prefer, Pattern=i
-	Constrained: Pattern=stick shift, Pattern=i, Pattern=actually, Pattern=a
-Turn ID=44| A | A : well i just wanted it because again i had i guess traditionally always had a car that had one and i thought it would be more reliable .
-	Free: Pattern=and i, Pattern=more, Pattern=well, Pattern=just, Pattern=it, Pattern=one, Pattern=i, Pattern=i guess, Pattern=had, Pattern=that, Pattern=had a car
-	Constrained: Pattern=had a, Pattern=a, Pattern=and, Pattern=i, Pattern=had, Pattern=car, Pattern=a car
+Turn ID=42| A | A : so , i guess in this area , at least , you know , if it's not automatic , it doesn't move .
+	Free: Pattern=, it, Pattern=so ,, Pattern=in, Pattern=, i guess, Pattern=, you know , if, Pattern=it's, Pattern=not
+	Constrained: Pattern=know ,, Pattern=you, Pattern=, you know ,, Pattern=it, Pattern=if, Pattern=, you, Pattern=i, Pattern=, i, Pattern=so
+Turn ID=43| B | B : well , actually , i much prefer a stick shift and , what , i'm , i'm curious . i , i know why i love a stick shift . why why did you want one ?
+	Free: Pattern=want, Pattern=you, Pattern=and ,, Pattern=did, Pattern=one, Pattern=well ,, Pattern=i'm ,, Pattern=stick shift ., Pattern=, i, Pattern=why, Pattern=, i'm, Pattern=a stick shift, Pattern=i know, Pattern=i , i, Pattern=what, Pattern=. i, Pattern=, actually, Pattern=prefer, Pattern=i
+	Constrained: Pattern=and, Pattern=i'm, Pattern=i, Pattern=, i, Pattern=i ,, Pattern=stick shift, Pattern=actually, Pattern=a
+Turn ID=44| A | A : well , i just wanted it because , again , i had , i guess traditionally always had a car that had one and i thought it would be more reliable .
+	Free: Pattern=and i, Pattern=more, Pattern=just, Pattern=it, Pattern=one, Pattern=well ,, Pattern=, i guess, Pattern=had, Pattern=, i, Pattern=that, Pattern=had a car
+	Constrained: Pattern=had a, Pattern=a, Pattern=and, Pattern=i, Pattern=had, Pattern=, i, Pattern=car, Pattern=a car
 Turn ID=45| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=46| A | A : uh
-	Free: Pattern=uh
-	Constrained: 
+Turn ID=46| A | A : uh ,
+	Free: Pattern=uh ,
+	Constrained: Pattern=uh
 Turn ID=47| B | B : it's hard to find stick shift cars anymore .
 	Free: Pattern=anymore ., Pattern=cars, Pattern=to, Pattern=stick shift, Pattern=it's, Pattern=find
 	Constrained: 
-Turn ID=48| A | A : i found that out . i mean you know the people would just sort of look at me like you must be crazy when i went in to and asked and that was a requirement so
-	Free: Pattern=of, Pattern=just, Pattern=me, Pattern=a, Pattern=and, Pattern=. i, Pattern=in, Pattern=like, Pattern=the, Pattern=when, Pattern=to, Pattern=was, Pattern=that, Pattern=so, Pattern=you, Pattern=you know, Pattern=i mean, Pattern=i
-	Constrained: Pattern=i, Pattern=you
-Turn ID=49| B | B : huh yeah .
+Turn ID=48| A | A : i found that out . i mean , you know , the people would just sort of look at me like , you must be crazy when i , went in to , and asked and that was a requirement so ,
+	Free: Pattern=of, Pattern=just, Pattern=me, Pattern=and, Pattern=. i, Pattern=so ,, Pattern=in, Pattern=, you, Pattern=i ,, Pattern=when, Pattern=, and, Pattern=was, Pattern=, the, Pattern=that, Pattern=, you know ,, Pattern=a, Pattern=i mean, Pattern=i, Pattern=to ,, Pattern=like
+	Constrained: Pattern=know ,, Pattern=you, Pattern=and, Pattern=, you, Pattern=i, Pattern=the, Pattern=to, Pattern=so
+Turn ID=49| B | B : huh , yeah .
 	Free: Pattern=yeah .
 	Constrained: Pattern=yeah
-Turn ID=50| A | A : so
-	Free: Pattern=so
-	Constrained: 
-Turn ID=51| B | B : no i mean most of the sports cars are stick shift .
-	Free: Pattern=are, Pattern=i mean, Pattern=stick shift ., Pattern=sports cars, Pattern=no i, Pattern=of the
-	Constrained: Pattern=of, Pattern=no, Pattern=i, Pattern=cars, Pattern=the, Pattern=sports, Pattern=stick shift
-Turn ID=52| A | A : well i'm not even sure all of them are anymore . at least in this area .
-	Free: Pattern=of, Pattern=well, Pattern=anymore ., Pattern=are, Pattern=in, Pattern=i'm, Pattern=sure, Pattern=all, Pattern=them, Pattern=not
-	Constrained: 
+Turn ID=50| A | A : so ,
+	Free: Pattern=so ,
+	Constrained: Pattern=so
+Turn ID=51| B | B : no , i mean most of the sports cars are stick shift .
+	Free: Pattern=are, Pattern=no , i, Pattern=i mean, Pattern=stick shift ., Pattern=sports cars, Pattern=of the
+	Constrained: Pattern=of, Pattern=no ,, Pattern=no, Pattern=i, Pattern=cars, Pattern=sports, Pattern=stick shift, Pattern=the, Pattern=, i
+Turn ID=52| A | A : well , i'm not even sure all of them are anymore . at least in this area .
+	Free: Pattern=of, Pattern=anymore ., Pattern=are, Pattern=well ,, Pattern=in, Pattern=sure, Pattern=all, Pattern=not, Pattern=, i'm, Pattern=them
+	Constrained: Pattern=i'm
 Turn ID=53| B | B : huh .
 	Free: 
 	Constrained: 
-Turn ID=54| A | A : not that i was looking for sports cars but now the people i've talked to don't seem to have stick shift .
-	Free: Pattern=looking for, Pattern=have, Pattern=i've, Pattern=stick shift ., Pattern=the, Pattern=to, Pattern=was, Pattern=now, Pattern=but, Pattern=not, Pattern=sports cars, Pattern=that i, Pattern=don't
-	Constrained: Pattern=for, Pattern=i, Pattern=cars, Pattern=sports, Pattern=that, Pattern=stick shift
+Turn ID=54| A | A : not that i was looking for sports cars , but , now the people i've talked to don't seem to have stick shift .
+	Free: Pattern=looking for, Pattern=have, Pattern=, but ,, Pattern=i've, Pattern=stick shift ., Pattern=the, Pattern=to, Pattern=was, Pattern=not, Pattern=sports cars, Pattern=that i, Pattern=don't, Pattern=cars ,, Pattern=now
+	Constrained: Pattern=, but, Pattern=but ,, Pattern=for, Pattern=i, Pattern=cars, Pattern=sports, Pattern=that, Pattern=stick shift
 Turn ID=55| B | B : huh .
 	Free: 
 	Constrained: 
 Turn ID=56| A | A : and so why do you like stick shift ?
 	Free: Pattern=you, Pattern=do, Pattern=and, Pattern=like, Pattern=why, Pattern=so, Pattern=stick shift
 	Constrained: 
-Turn ID=57| B | B : uh i guess i i grew up on it and it's fun . it's it's an enjoyable part of driving . i do feel like i have uh more control over the car
-	Free: Pattern=uh i guess, Pattern=uh more, Pattern=have, Pattern=do, Pattern=an, Pattern=. i, Pattern=i, Pattern=like, Pattern=car, Pattern=up, Pattern=i guess i, Pattern=of, Pattern=it, Pattern=and, Pattern=on, Pattern=the, Pattern=i i, Pattern=it's
-	Constrained: Pattern=more, Pattern=uh, Pattern=i, Pattern=i guess, Pattern=uh i
+Turn ID=57| B | B : uh , i guess i , i grew up on it and it's fun . it's , it's an enjoyable part of driving . i do feel like i have , uh , more control over the car
+	Free: Pattern=of, Pattern=i , i, Pattern=do, Pattern=an, Pattern=uh , i guess, Pattern=. i, Pattern=have ,, Pattern=i, Pattern=like, Pattern=, uh , more, Pattern=car, Pattern=up, Pattern=, i guess i, Pattern=it's, Pattern=it, Pattern=and, Pattern=on, Pattern=the
+	Constrained: Pattern=more, Pattern=uh, Pattern=have, Pattern=, uh ,, Pattern=i ,, Pattern=, i guess, Pattern=i, Pattern=uh ,, Pattern=, i
 Turn ID=58| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=59| B | B : and it it to me it gives me more a lot more control in snow and ice and slick conditions .
-	Free: Pattern=more, Pattern=me, Pattern=it it, Pattern=and it, Pattern=in, Pattern=it, Pattern=and, Pattern=a lot, Pattern=to
-	Constrained: Pattern=it, Pattern=lot, Pattern=and, Pattern=a
+Turn ID=59| B | B : and it , it , to me , it gives me more , a lot more control in snow and ice and slick conditions .
+	Free: Pattern=, it, Pattern=more, Pattern=it , it, Pattern=me, Pattern=and, Pattern=, a, Pattern=it ,, Pattern=and it ,, Pattern=in, Pattern=a lot, Pattern=to
+	Constrained: Pattern=, it, Pattern=a, Pattern=it ,, Pattern=lot, Pattern=it, Pattern=and
 Turn ID=60| A | A : uh-huh . right .
 	Free: Pattern=uh-huh .
 	Constrained: Pattern=uh-huh
-Turn ID=61| B | B : uh it it does uh i don't know it it's really more fun than anything else . as long as you're not stuck in heavy traffic it's fun
-	Free: Pattern=more, Pattern=uh, Pattern=long, Pattern=it it, Pattern=it, Pattern=in, Pattern=really, Pattern=anything, Pattern=i don't know, Pattern=uh i, Pattern=it's, Pattern=not
-	Constrained: Pattern=uh, Pattern=i don't, Pattern=it, Pattern=i, Pattern=don't
-Turn ID=62| A | A : right and actually it's probably safer on you know at long trips because it keeps you more active .
-	Free: Pattern=more, Pattern=long, Pattern=actually, Pattern=probably, Pattern=on, Pattern=it's, Pattern=you, Pattern=you know, Pattern=it, Pattern=and
-	Constrained: Pattern=you
-Turn ID=63| B | B : yeah yeah
+Turn ID=61| B | B : uh , it , it does , uh , i don't know , it , it's really more fun than anything else . as long as you're not stuck in heavy traffic , it's fun
+	Free: Pattern=, it, Pattern=long, Pattern=in, Pattern=i don't know, Pattern=it's, Pattern=not, Pattern=know ,, Pattern=more, Pattern=, uh , i, Pattern=it , it, Pattern=it ,, Pattern=really, Pattern=uh ,, Pattern=anything
+	Constrained: Pattern=, it, Pattern=uh, Pattern=i don't, Pattern=it, Pattern=i, Pattern=it ,, Pattern=, uh ,, Pattern=don't, Pattern=uh ,, Pattern=, i
+Turn ID=62| A | A : right , and actually it's probably safer on , you know , at long trips because it keeps you more active .
+	Free: Pattern=more, Pattern=you, Pattern=long, Pattern=it, Pattern=probably, Pattern=on, Pattern=, and, Pattern=it's, Pattern=actually, Pattern=, you know ,
+	Constrained: Pattern=know ,, Pattern=, you, Pattern=and, Pattern=you
+Turn ID=63| B | B : yeah , yeah
 	Free: Pattern=yeah
 	Constrained: 
-Turn ID=64| A | A : so
-	Free: Pattern=so
-	Constrained: 
-Turn ID=65| B | B : yeah uh of course i like gadgets and and uh fun things on the cars which are all the things course the
-	Free: Pattern=of, Pattern=uh, Pattern=are, Pattern=cars, Pattern=and uh, Pattern=i like, Pattern=yeah, Pattern=and, Pattern=on the, Pattern=the, Pattern=all
-	Constrained: Pattern=uh, Pattern=and, Pattern=i, Pattern=like, Pattern=on, Pattern=the
+Turn ID=64| A | A : so ,
+	Free: Pattern=so ,
+	Constrained: Pattern=so
+Turn ID=65| B | B : yeah , uh , of course , i like gadgets and , and , uh , fun things , on the cars , which are all the things , course , the
+	Free: Pattern=of, Pattern=and ,, Pattern=yeah, Pattern=are, Pattern=and , uh ,, Pattern=, uh ,, Pattern=, and, Pattern=cars ,, Pattern=, the, Pattern=, i like, Pattern=on the, Pattern=the, Pattern=all
+	Constrained: Pattern=uh, Pattern=and ,, Pattern=and, Pattern=i, Pattern=like, Pattern=cars, Pattern=, uh ,, Pattern=uh ,, Pattern=on, Pattern=the, Pattern=, i

@@ -1,10 +1,15 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	uh-huh , uh-huh .	39	B	16, 54
+2	3	, uh ,	37	B	18, 54
 2	3	uh-huh . yeah	9	B	54, 62
-2	3	uh-huh uh-huh .	39	B	16, 54
 13	2	uh-huh .	65	B	8, 12, 16, 18, 32, 40, 42, 44, 48, 54, 62, 66, 72
+3	2	, we	39	B	12, 30, 50
+3	2	yeah ,	29	B	50, 62, 78
 3	2	yeah .	11	B	52, 54, 62
+2	2	, we'll	7	B	18, 24
 2	2	and cook	37	B	18, 54
 2	2	good .	3	B	26, 28
+2	2	have ,	61	B	18, 78
 2	2	no .	35	B	2, 36
 2	2	oh .	3	B	68, 70
 2	2	um .	13	B	64, 76
@@ -35,7 +40,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	that	21	B	10, 30
 2	1	this	71	B	4, 74
 2	1	to	7	B	4, 10
-2	1	uh	37	B	18, 54
 2	1	we'll	7	B	18, 24
 2	1	what	5	B	6, 10
 

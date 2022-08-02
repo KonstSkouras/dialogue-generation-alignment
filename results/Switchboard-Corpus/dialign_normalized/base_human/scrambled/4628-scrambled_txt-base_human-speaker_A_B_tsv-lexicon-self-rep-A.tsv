@@ -1,22 +1,42 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	i , you know , i	5	A	42, 46
+4	4	, you know ,	45	A	2, 16, 42, 46
+2	4	and , uh ,	15	A	2, 16
 2	4	have a lot of	45	A	2, 46
-2	4	i you know i	5	A	42, 46
+2	4	uh , i felt	25	A	16, 40
 2	4	yeah . yeah .	5	A	32, 36
+4	3	, uh ,	39	A	2, 16, 18, 40
+4	3	, you know	45	A	2, 16, 42, 46
+4	3	you know ,	45	A	2, 16, 42, 46
+2	3	, and i	45	A	2, 46
+2	3	, i ,	41	A	2, 42
+2	3	, i do	7	A	2, 8
+2	3	, they have	45	A	2, 46
 2	3	. yeah .	5	A	32, 36
 2	3	a little bit	17	A	2, 18
 2	3	seems to be	7	A	6, 12
-2	3	uh i felt	25	A	16, 40
+8	2	, i	45	A	2, 8, 16, 22, 26, 40, 42, 46
+6	2	, and	45	A	2, 8, 12, 20, 40, 46
+6	2	uh ,	39	A	2, 4, 6, 16, 18, 40
+5	2	, you	45	A	2, 12, 16, 42, 46
+5	2	know ,	45	A	2, 16, 22, 42, 46
+4	2	, it	17	A	6, 16, 18, 22
+4	2	i ,	45	A	2, 22, 42, 46
 4	2	yeah .	37	A	0, 14, 32, 36
-4	2	you know	45	A	2, 16, 42, 46
 3	2	a lot	45	A	2, 4, 46
+3	2	and ,	19	A	2, 16, 20
+3	2	but ,	43	A	6, 18, 48
 3	2	i do	7	A	2, 4, 8
+3	2	yeah ,	23	A	8, 26, 30
+2	2	, that	9	A	16, 24
+2	2	, then	5	A	2, 6
+2	2	, well	9	A	4, 12
+2	2	, yeah	11	A	26, 36
 2	2	. because	39	A	2, 40
 2	2	. it	17	A	16, 32
 2	2	all the	23	A	18, 40
 2	2	and all	7	A	40, 46
-2	2	and i	45	A	2, 46
-2	2	and uh	15	A	2, 16
-2	2	be it	11	A	6, 16
+2	2	be ,	7	A	6, 12
 2	2	ended up	21	A	2, 22
 2	2	for them	39	A	2, 40
 2	2	going to	45	A	2, 46
@@ -25,12 +45,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	must be	19	A	6, 24
 2	2	of their	7	A	40, 46
 2	2	of them	21	A	2, 22
+2	2	oh ,	21	A	16, 36
 2	2	one of	25	A	22, 46
 2	2	out of	31	A	2, 32
 2	2	them .	9	A	32, 40
-2	2	they have	45	A	2, 46
 2	2	to the	15	A	2, 16
 2	2	uh-huh .	7	A	38, 44
+2	2	um ,	11	A	16, 26
 2	2	we were	25	A	16, 40
 12	1	i	49	A	2, 4, 8, 16, 18, 22, 26, 28, 40, 42, 46, 50
 9	1	of	45	A	2, 8, 12, 18, 20, 22, 32, 40, 46
@@ -43,7 +64,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	to	45	A	2, 6, 12, 16, 28, 32, 46
 6	1	it	27	A	6, 12, 16, 18, 22, 32
 6	1	know	45	A	2, 4, 16, 22, 42, 46
-6	1	uh	39	A	2, 4, 6, 16, 18, 40
 5	1	because	45	A	2, 12, 18, 40, 46
 5	1	but	43	A	6, 16, 18, 22, 48
 5	1	for	39	A	2, 6, 16, 26, 40

@@ -1,6 +1,10 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	going to go to	21	A	74, 94
 2	4	was the one that	77	A	26, 102
+3	3	, uh ,	77	A	26, 98, 102
+2	3	, and i	23	A	4, 26
+2	3	, but he	35	A	20, 54
+2	3	, you know	77	A	46, 122
 2	3	. i was	7	A	96, 102
 2	3	and i was	77	A	26, 102
 2	3	and it was	57	A	40, 96
@@ -8,33 +12,45 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	i was summonsed	7	A	96, 102
 2	3	listen to it	5	A	38, 42
 2	3	so do i	5	A	30, 34
+2	3	the , the	57	A	50, 106
 2	3	the moody blues	63	A	4, 66
 2	3	to listen to	39	A	4, 42
 2	3	two to three	3	A	100, 102
 2	3	you can just	3	A	46, 48
+2	3	you know ,	73	A	50, 122
 14	2	yeah .	115	A	6, 12, 16, 28, 44, 56, 62, 64, 70, 72, 82, 104, 114, 120
 6	2	and i	107	A	4, 26, 40, 102, 108, 110
 6	2	going to	77	A	26, 74, 90, 94, 100, 102
 6	2	you know	121	A	2, 38, 46, 50, 118, 122
+5	2	, and	119	A	4, 26, 96, 102, 122
+5	2	, i	83	A	34, 40, 54, 102, 116
 5	2	. i	95	A	8, 10, 36, 96, 102
 5	2	i was	121	A	0, 26, 96, 102, 120
+4	2	, but	97	A	20, 26, 54, 116
 4	2	i like	65	A	2, 4, 22, 66
 4	2	it .	77	A	26, 42, 50, 102
+3	2	, then	53	A	50, 74, 102
 3	2	. and	77	A	26, 74, 102
 3	2	a friend	29	A	74, 84, 102
 3	2	and the	99	A	4, 100, 102
-3	2	and then	61	A	42, 74, 102
 3	2	i don't	47	A	8, 10, 54
+3	2	that ,	109	A	8, 108, 116
 3	2	that .	47	A	22, 32, 68
 3	2	to go	49	A	74, 94, 122
 3	2	trying to	123	A	0, 48, 122
+3	2	yeah ,	31	A	76, 82, 106
+2	2	, he	89	A	18, 106
+2	2	, so	5	A	26, 30
+2	2	, there's	105	A	18, 122
+2	2	, when	113	A	8, 120
 2	2	. no	25	A	90, 114
+2	2	and ,	49	A	26, 74
 2	2	and it's	97	A	26, 122
+2	2	and then	61	A	42, 102
 2	2	and they	3	A	100, 102
 2	2	and they're	101	A	0, 100
 2	2	and you	11	A	38, 48
 2	2	are you	19	A	76, 94
-2	2	but he	35	A	20, 54
 2	2	do you	91	A	2, 92
 2	2	forgot about	3	A	32, 34
 2	2	he plays	3	A	18, 20
@@ -50,20 +66,21 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	me .	65	A	26, 90
 2	2	murder trial	25	A	96, 120
 2	2	never heard	31	A	38, 68
+2	2	oh ,	93	A	30, 122
 2	2	on and	85	A	38, 122
 2	2	people that	51	A	0, 50
 2	2	said that	15	A	102, 116
 2	2	so i	109	A	2, 110
-2	2	that i	117	A	0, 116
 2	2	that they're	53	A	48, 100
 2	2	the one	77	A	26, 102
-2	2	the the	57	A	50, 106
+2	2	there ,	67	A	18, 84
 2	2	there's a	67	A	18, 84
 2	2	they had	5	A	96, 100
 2	2	they're not	3	A	88, 90
 2	2	this guy	5	A	98, 102
 2	2	this woman	5	A	98, 102
 2	2	uh-huh .	81	A	38, 118
+2	2	well ,	15	A	88, 102
 2	2	willie nelson	7	A	4, 10
 23	1	i	121	A	0, 2, 4, 8, 10, 20, 22, 26, 30, 34, 36, 38, 40, 46, 54, 60, 66, 96, 102, 108, 110, 116, 120
 17	1	yeah	115	A	6, 12, 16, 28, 44, 56, 62, 64, 70, 72, 76, 80, 82, 104, 106, 114, 120
@@ -115,7 +132,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	see	73	A	48, 74, 120
 3	1	there's	105	A	18, 84, 122
 3	1	trial	25	A	96, 100, 120
-3	1	uh	77	A	26, 98, 102
 3	1	we	75	A	26, 74, 100
 3	1	well	29	A	74, 88, 102
 3	1	who	101	A	2, 54, 102
@@ -143,7 +159,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	little	5	A	46, 50
 2	1	much	39	A	84, 122
 2	1	off	5	A	102, 106
-2	1	oh	93	A	30, 122
 2	1	ones	47	A	54, 100
 2	1	out	23	A	100, 122
 2	1	questionnaire	9	A	100, 108
@@ -153,7 +168,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	sit	21	A	26, 46
 2	1	summonsed	7	A	96, 102
 2	1	take	75	A	26, 100
-2	1	there	67	A	18, 84
 2	1	think	21	A	0, 20
 2	1	this	5	A	98, 102
 2	1	those	11	A	36, 46

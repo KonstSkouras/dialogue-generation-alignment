@@ -1,53 +1,76 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	. and uh	7	A	25, 31
-2	3	. but uh	21	A	25, 45
-2	3	. well i	9	A	25, 33
+2	5	, uh , i ,	11	A	45, 55
+2	5	. and , uh ,	7	A	25, 31
+2	5	. but , uh ,	21	A	25, 45
+4	4	, you know ,	25	A	33, 45, 55, 57
+4	4	and , uh ,	19	A	17, 25, 31, 35
+2	4	. well , i	9	A	25, 33
+2	4	yeah . yeah ,	41	A	15, 55
+6	3	, uh ,	39	A	17, 25, 31, 35, 45, 55
+4	3	. but ,	31	A	25, 29, 45, 55
+4	3	well , i	19	A	15, 25, 27, 33
+2	3	, i guess	29	A	27, 55
+2	3	, if i	31	A	17, 47
+2	3	, in colorado	11	A	45, 55
+2	3	, well ,	41	A	15, 55
+2	3	and , and	5	A	45, 49
 2	3	i was just	33	A	15, 47
 2	3	kind of a	9	A	49, 57
-2	3	song but they	9	A	49, 57
 2	3	yeah . but	39	A	7, 45
-2	3	yeah . yeah	41	A	15, 55
-2	3	you know there's	17	A	33, 49
+9	2	, i	49	A	7, 11, 15, 25, 27, 33, 45, 47, 55
+7	2	uh ,	39	A	17, 25, 31, 35, 45, 47, 55
+7	2	well ,	53	A	3, 15, 25, 27, 33, 39, 55
 7	2	yeah .	55	A	1, 7, 15, 23, 45, 53, 55
-5	2	. but	49	A	7, 25, 29, 45, 55
+5	2	but ,	31	A	25, 29, 45, 49, 55
 5	2	you know	25	A	33, 45, 49, 55, 57
+4	2	, and	19	A	31, 33, 45, 49
+4	2	, they	53	A	3, 45, 49, 55
 4	2	. i	35	A	15, 17, 25, 49
-4	2	and uh	19	A	17, 25, 31, 35
 4	2	i was	41	A	15, 47, 49, 55
-4	2	well i	19	A	15, 25, 27, 33
+4	2	know ,	25	A	33, 45, 55, 57
+3	2	, in	11	A	45, 47, 55
 3	2	. and	17	A	15, 25, 31
 3	2	. yeah	41	A	15, 45, 55
 3	2	and i	35	A	15, 17, 49
-3	2	but they	11	A	47, 49, 57
 3	2	i think	41	A	15, 49, 55
 3	2	in colorado	23	A	33, 45, 55
 3	2	it .	35	A	15, 25, 49
+3	2	just ,	25	A	25, 31, 49
+3	2	they ,	49	A	7, 49, 55
 3	2	to the	19	A	27, 33, 45
 3	2	was just	35	A	15, 47, 49
+2	2	, i'm	11	A	15, 25
+2	2	, it's	5	A	45, 49
+2	2	, so	15	A	17, 31
+2	2	, the	13	A	33, 45
+2	2	, we	27	A	31, 57
 2	2	. because	7	A	49, 55
 2	2	. they	3	A	45, 47
+2	2	a ,	19	A	31, 49
 2	2	a football	19	A	15, 33
 2	2	a lot	7	A	49, 55
-2	2	and and	5	A	45, 49
 2	2	and he	17	A	15, 31
+2	2	but they	11	A	47, 57
 2	2	here .	19	A	39, 57
+2	2	i ,	11	A	45, 55
 2	2	i bet	3	A	9, 11
-2	2	i guess	29	A	27, 55
 2	2	i just	11	A	15, 25
-2	2	if i	31	A	17, 47
+2	2	in ,	11	A	45, 55
 2	2	in the	3	A	45, 47
 2	2	just got	3	A	31, 33
 2	2	kind of	9	A	49, 57
 2	2	my husband	33	A	17, 49
+2	2	no ,	25	A	31, 55
+2	2	song but	9	A	49, 57
 2	2	that .	3	A	47, 49
 2	2	that i	33	A	17, 49
 2	2	that we're	3	A	25, 27
+2	2	the ,	15	A	33, 47
 2	2	the broncos	21	A	25, 45
 2	2	they did	9	A	47, 55
-2	2	they i	49	A	7, 55
 2	2	to get	23	A	27, 49
-2	2	uh i	11	A	45, 55
 2	2	uh-huh .	5	A	21, 25
+2	2	um ,	3	A	45, 47
 2	2	used to	13	A	15, 27
 2	2	watching football	3	A	15, 17
 2	2	when i	39	A	17, 55
@@ -64,13 +87,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	just	47	A	3, 11, 15, 25, 31, 33, 47, 49
 8	1	yeah	55	A	1, 7, 15, 23, 33, 45, 53, 55
 7	1	they	55	A	3, 7, 45, 47, 49, 55, 57
-7	1	uh	39	A	17, 25, 31, 35, 45, 47, 55
-7	1	well	53	A	3, 15, 25, 27, 33, 39, 55
 6	1	here	31	A	27, 31, 33, 39, 55, 57
 6	1	it	47	A	11, 15, 25, 49, 55, 57
 6	1	was	43	A	15, 17, 47, 49, 55, 57
 5	1	it's	27	A	25, 33, 45, 49, 51
-5	1	know	25	A	33, 45, 49, 55, 57
 5	1	this	53	A	3, 15, 31, 33, 55
 5	1	when	41	A	17, 33, 45, 55, 57
 5	1	you	25	A	33, 45, 49, 55, 57
@@ -111,7 +131,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	game	31	A	3, 33
 2	1	had	17	A	31, 47
 2	1	him	33	A	17, 49
-2	1	i'm	11	A	15, 25
 2	1	love	33	A	25, 57
 2	1	oh	23	A	11, 33
 2	1	one	45	A	3, 47
@@ -123,7 +142,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	there's	17	A	33, 49
 2	1	two	27	A	5, 31
 2	1	uh-huh	5	A	21, 25
-2	1	um	3	A	45, 47
 2	1	we	27	A	31, 57
 2	1	were	47	A	11, 57
 2	1	whatever	11	A	45, 55

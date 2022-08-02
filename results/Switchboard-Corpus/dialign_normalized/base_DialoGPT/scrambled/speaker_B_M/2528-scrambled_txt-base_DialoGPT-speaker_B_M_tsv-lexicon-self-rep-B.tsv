@@ -1,21 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	i'm not sure .	23	M	53, 75
+2	5	, i'm not sure .	23	M	53, 75
 3	3	i don't think	29	M	41, 59, 69
-2	3	so you're saying	47	M	21, 67
+2	3	yeah , it's	9	M	37, 45
+4	2	, i'm	73	M	3, 37, 53, 75
+3	2	, you	37	M	61, 67, 97
 3	2	i'm not	33	M	53, 75, 85
+2	2	, and	37	M	49, 85
 2	2	a great	33	M	41, 73
 2	2	are you	69	M	25, 93
 2	2	for years	45	M	41, 85
 2	2	have a	33	M	41, 73
+2	2	i ,	61	M	43, 103
 2	2	i can	29	M	59, 87
 2	2	i have	11	M	49, 59
 2	2	i like	81	M	9, 89
 2	2	i think	37	M	19, 55
 2	2	in the	39	M	47, 85
+2	2	um ,	27	M	75, 101
+2	2	wait ,	61	M	39, 99
 2	2	what about	59	M	5, 63
-2	2	yeah it's	9	M	37, 45
 2	2	you can	57	M	13, 69
 2	2	you know	9	M	53, 61
+2	2	you're saying	47	M	21, 67
 15	1	i	95	M	9, 19, 35, 41, 43, 47, 49, 55, 59, 69, 79, 81, 87, 89, 103
 10	1	you	85	M	13, 25, 51, 53, 61, 67, 69, 75, 93, 97
 6	1	i'm	83	M	3, 13, 37, 53, 75, 85
@@ -49,7 +55,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	say	21	M	59, 79
 2	1	they'll	59	M	41, 99
 2	1	uh	9	M	91, 99
-2	1	um	27	M	75, 101
-2	1	wait	61	M	39, 99
 2	1	with	49	M	41, 89
 

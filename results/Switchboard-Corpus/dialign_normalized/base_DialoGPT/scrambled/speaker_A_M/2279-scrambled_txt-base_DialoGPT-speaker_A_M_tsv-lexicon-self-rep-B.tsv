@@ -1,38 +1,50 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	, uh , i don't ,	119	M	9, 127
+2	5	, uh , uh .	73	M	53, 125
+2	4	, uh , i	119	M	9, 127
+2	4	yeah , uh ,	117	M	9, 125
+5	3	, uh ,	119	M	9, 49, 53, 125, 127
+2	3	, i think	73	M	9, 81
 2	3	a lot of	27	M	35, 61
 2	3	it's a good	53	M	27, 79
 2	3	the point of	43	M	93, 135
 2	3	think it's a	13	M	27, 39
-2	3	uh i don't	119	M	9, 127
-2	3	uh uh .	73	M	53, 125
+2	3	uhh , yeah	61	M	37, 97
 7	2	i think	73	M	9, 15, 19, 39, 41, 57, 81
+5	2	, uh	119	M	9, 49, 53, 125, 127
+4	2	, i	119	M	9, 81, 95, 127
 4	2	about the	99	M	23, 57, 109, 121
 4	2	i don't	125	M	3, 9, 93, 127
 4	2	it's a	79	M	1, 27, 39, 79
 4	2	of the	91	M	45, 57, 115, 135
+3	2	, i'm	91	M	37, 51, 127
 3	2	have a	35	M	27, 53, 61
 3	2	he was	93	M	41, 117, 133
 3	2	uh .	73	M	53, 65, 125
+3	2	uhh ,	61	M	37, 81, 97
 3	2	what ?	75	M	49, 93, 123
+3	2	yeah ,	117	M	9, 37, 125
 3	2	yeah .	55	M	43, 65, 97
+2	2	, but	27	M	91, 117
+2	2	, so	39	M	89, 127
+2	2	, you're	43	M	63, 105
 2	2	. it's	13	M	109, 121
+2	2	ah ,	37	M	95, 131
 2	2	do it	23	M	19, 41
 2	2	don't have	25	M	3, 27
 2	2	i have	31	M	61, 91
 2	2	if you	37	M	27, 63
 2	2	in the	19	M	45, 63
 2	2	is the	37	M	21, 57
+2	2	it ,	51	M	41, 91
 2	2	it's not	73	M	37, 109
 2	2	of course	85	M	35, 119
 2	2	that's the	75	M	61, 135
 2	2	time .	21	M	115, 135
-2	2	uh i	119	M	9, 127
-2	2	uhh yeah	61	M	37, 97
 2	2	was the	107	M	11, 117
 2	2	what about	49	M	23, 71
 2	2	what's your	87	M	13, 99
 2	2	with the	93	M	27, 119
-2	2	yeah uh	117	M	9, 125
 2	2	yes .	13	M	101, 113
 2	2	you know	7	M	5, 11
 2	2	you're not	9	M	55, 63
@@ -48,7 +60,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	about	119	M	3, 23, 57, 71, 109, 121
 6	1	don't	125	M	3, 9, 27, 93, 103, 127
 6	1	not	105	M	5, 37, 55, 63, 89, 109
-6	1	uh	119	M	9, 49, 53, 65, 125, 127
 5	1	but	125	M	11, 91, 117, 127, 135
 5	1	i'm	109	M	19, 25, 37, 51, 127
 5	1	was	123	M	11, 41, 75, 117, 133
@@ -66,8 +77,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	know	23	M	5, 11, 27
 3	1	lot	29	M	35, 61, 63
 3	1	so	97	M	31, 89, 127
-3	1	uhh	61	M	37, 81, 97
-2	1	ah	37	M	95, 131
 2	1	all	87	M	35, 121
 2	1	can't	47	M	17, 63
 2	1	i'd	27	M	27, 53

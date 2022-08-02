@@ -1,65 +1,90 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	and , uh , i ,	59	B	32, 90
+2	6	uh-huh , uh-huh . yeah .	17	B	82, 98
+2	5	. and , uh ,	41	B	32, 72
 2	5	head and shoulders above the	29	B	32, 60
 2	5	little red c r x	33	B	72, 104
-2	5	uh-huh uh-huh . yeah .	17	B	82, 98
 2	5	was a used car .	39	B	4, 42
+4	4	, you know ,	43	B	32, 36, 46, 74
+4	4	and , uh ,	73	B	18, 32, 72, 90
 4	4	uh-huh . uh-huh .	19	B	84, 86, 96, 102
 2	4	could have the car	55	B	22, 76
+2	4	no , no .	49	B	66, 114
+2	4	oh , wow .	97	B	2, 98
 2	4	the consumer reports and	21	B	32, 52
+11	3	, uh ,	117	B	18, 22, 32, 34, 52, 60, 72, 90, 114, 120, 134
+6	3	you know ,	113	B	22, 32, 36, 46, 74, 134
 4	3	a lot of	79	B	12, 20, 62, 90
+3	3	, uh-huh .	21	B	82, 98, 102
+3	3	. uh ,	37	B	26, 60, 62
 3	3	the consumer reports	27	B	32, 52, 58
 3	3	to have a	83	B	46, 104, 128
-2	3	. and uh	41	B	32, 72
+3	3	uh-huh , uh-huh	31	B	68, 82, 98
+2	3	, i really	87	B	4, 90
+2	3	, if i	51	B	22, 72
+2	3	, if you	55	B	22, 76
 2	3	. i really	57	B	4, 60
 2	3	and that was	33	B	10, 42
-2	3	and uh i	59	B	32, 90
 2	3	and we bought	51	B	8, 58
 2	3	c r x	33	B	72, 104
 2	3	going to be	17	B	100, 116
 2	3	good sound system	15	B	104, 118
 2	3	i listen to	13	B	114, 126
 2	3	its reliability .	3	B	30, 32
+2	3	listen to ,	13	B	114, 126
 2	3	love classical music	3	B	118, 120
-2	3	no no .	49	B	66, 114
-2	3	oh wow .	97	B	2, 98
+2	3	no , no	49	B	66, 114
+2	3	or , or	95	B	26, 120
 2	3	that i would	107	B	22, 128
 2	3	that kind of	47	B	16, 62
 2	3	the car .	91	B	38, 128
+2	3	well , i	111	B	4, 114
 2	3	with that .	5	B	100, 104
+2	3	would be ,	29	B	100, 128
+17	2	uh ,	117	B	18, 22, 26, 28, 32, 34, 36, 52, 58, 60, 62, 72, 90, 94, 114, 120, 134
+12	2	, uh	129	B	6, 18, 22, 32, 34, 52, 60, 72, 90, 114, 120, 134
 11	2	uh-huh .	53	B	70, 80, 82, 84, 86, 96, 98, 102, 108, 110, 122
+10	2	, i	113	B	4, 32, 36, 52, 90, 100, 102, 104, 114, 116
+7	2	, and	101	B	18, 32, 54, 58, 60, 114, 118
 6	2	a lot	103	B	12, 20, 54, 62, 90, 114
-6	2	you know	113	B	22, 32, 36, 46, 74, 134
+6	2	and ,	85	B	18, 32, 58, 72, 90, 102
 5	2	. and	97	B	32, 60, 72, 104, 128
 5	2	car .	125	B	4, 38, 42, 62, 128
+4	2	, the	131	B	4, 58, 60, 134
 4	2	. i	111	B	4, 60, 86, 114
 4	2	and the	95	B	32, 52, 114, 126
-4	2	and uh	73	B	18, 32, 72, 90
 4	2	have a	83	B	46, 60, 104, 128
 4	2	if i	83	B	22, 72, 100, 104
 4	2	was a	39	B	4, 6, 32, 42
 4	2	yeah .	27	B	72, 76, 82, 98
-3	2	. uh	37	B	26, 60, 62
+3	2	, no	65	B	50, 66, 114
 3	2	and i'd	69	B	60, 104, 128
 3	2	and that	51	B	10, 42, 60
 3	2	and you	71	B	48, 50, 118
 3	2	classical music	5	B	116, 118, 120
 3	2	going to	55	B	62, 100, 116
-3	2	i really	87	B	4, 60, 90
 3	2	i would	107	B	22, 100, 128
 3	2	like to	125	B	4, 22, 128
+3	2	so ,	41	B	12, 40, 52
 3	2	that i	107	B	22, 126, 128
 3	2	that was	77	B	10, 42, 86
 3	2	that you	59	B	76, 94, 134
+3	2	the ,	21	B	114, 118, 134
+3	2	to ,	105	B	22, 114, 126
 3	2	to be	17	B	100, 104, 116
-3	2	uh-huh uh-huh	31	B	68, 82, 98
+3	2	uh-huh ,	31	B	68, 82, 98
 3	2	we bought	51	B	8, 10, 58
 3	2	would be	35	B	94, 100, 128
+2	2	, that	49	B	86, 134
+2	2	, there's	73	B	62, 134
+2	2	, we	11	B	12, 22
 2	2	. now	27	B	76, 102
 2	2	. we	89	B	10, 98
 2	2	a ford	3	B	32, 34
 2	2	a nissan	11	B	12, 22
 2	2	all the	87	B	32, 118
 2	2	and i	91	B	38, 128
+2	2	but ,	41	B	6, 46
 2	2	but i	81	B	34, 114
 2	2	but if	13	B	104, 116
 2	2	but it's	15	B	48, 62
@@ -77,21 +102,21 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i mean	39	B	36, 74
 2	2	i think	79	B	22, 100
 2	2	i'd buy	41	B	32, 72
-2	2	if you	55	B	22, 76
 2	2	in the	69	B	60, 128
 2	2	in there	79	B	56, 134
 2	2	it was	9	B	36, 44
 2	2	it's not	43	B	60, 102
 2	2	listen to	13	B	114, 126
 2	2	looking for	35	B	60, 94
+2	2	music ,	17	B	118, 134
 2	2	no .	49	B	66, 114
-2	2	no no	49	B	66, 114
 2	2	of the	29	B	90, 118
 2	2	of time	97	B	20, 116
-2	2	or or	95	B	26, 120
+2	2	or ,	95	B	26, 120
 2	2	real good	13	B	104, 116
+2	2	say ,	29	B	22, 50
 2	2	shoulders above	29	B	32, 60
-2	2	so i	69	B	52, 120
+2	2	that ,	7	B	54, 60
 2	2	that car	79	B	38, 116
 2	2	the american	59	B	32, 90
 2	2	the interior	3	B	102, 104
@@ -104,7 +129,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	was not	9	B	48, 56
 2	2	we got	31	B	4, 34
 2	2	we wanted	3	B	10, 12
-2	2	well i	111	B	4, 114
 2	2	what would	19	B	76, 94
 2	2	you get	29	B	48, 76
 25	1	and	121	B	8, 10, 14, 18, 20, 32, 38, 42, 44, 48, 50, 52, 54, 58, 60, 72, 78, 90, 102, 104, 106, 114, 118, 126, 128
@@ -112,7 +136,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 23	1	the	131	B	4, 16, 22, 32, 34, 36, 38, 52, 58, 60, 76, 86, 90, 94, 98, 102, 104, 106, 114, 118, 126, 128, 134
 22	1	a	131	B	4, 6, 10, 12, 20, 22, 26, 32, 34, 42, 46, 48, 54, 60, 62, 72, 90, 104, 114, 118, 128, 134
 21	1	that	131	B	4, 10, 12, 16, 22, 34, 38, 42, 54, 60, 62, 76, 86, 94, 98, 100, 104, 116, 126, 128, 134
-18	1	uh	129	B	6, 18, 22, 26, 28, 32, 34, 36, 52, 58, 60, 62, 72, 90, 94, 114, 120, 134
 16	1	to	131	B	4, 10, 22, 42, 46, 54, 62, 100, 104, 106, 114, 116, 118, 126, 128, 134
 13	1	car	125	B	4, 10, 16, 22, 38, 42, 44, 56, 62, 72, 76, 116, 128
 13	1	it	127	B	8, 18, 20, 32, 34, 36, 44, 48, 60, 104, 118, 120, 134
@@ -145,7 +168,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	don't	129	B	4, 102, 130, 132
 4	1	get	53	B	48, 58, 76, 100
 4	1	got	115	B	4, 34, 104, 118
-4	1	music	19	B	116, 118, 120, 134
 4	1	no	97	B	18, 50, 66, 114
 4	1	now	87	B	16, 76, 90, 102
 4	1	on	39	B	24, 38, 60, 62
@@ -175,7 +197,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	r	55	B	72, 104, 126
 3	1	red	33	B	72, 102, 104
 3	1	them	75	B	54, 56, 128
-3	1	there's	73	B	62, 100, 134
 3	1	they	101	B	32, 130, 132
 3	1	two	79	B	48, 74, 126
 3	1	what	37	B	58, 76, 94
@@ -195,7 +216,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	more	27	B	100, 126
 2	1	pay	59	B	4, 62
 2	1	probably	81	B	20, 100
-2	1	say	29	B	22, 50
 2	1	some	97	B	20, 116
 2	1	than	67	B	60, 126
 2	1	that's	27	B	86, 112

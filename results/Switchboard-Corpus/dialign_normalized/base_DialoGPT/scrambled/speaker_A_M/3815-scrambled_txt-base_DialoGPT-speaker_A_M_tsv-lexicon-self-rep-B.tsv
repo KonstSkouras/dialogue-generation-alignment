@@ -1,5 +1,13 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-4	2	uh uh	53	M	5, 7, 37, 57
+2	4	, uh , uh	51	M	7, 57
+3	3	, uh ,	51	M	7, 37, 57
+3	3	uh , uh	51	M	7, 37, 57
+4	2	uh ,	51	M	7, 23, 37, 57
+3	2	well ,	7	M	41, 43, 47
+2	2	, and	31	M	25, 55
+2	2	, but	45	M	3, 47
+2	2	, i	3	M	39, 41
+2	2	, i'm	11	M	37, 47
 2	2	a cat	50	M	11, 60
 2	2	do you	29	M	21, 49
 2	2	i don't	20	M	41, 60
@@ -19,11 +27,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	think	54	M	7, 21, 43, 60
 3	1	about	53	M	1, 47, 53
 3	1	be	45	M	3, 21, 47
-3	1	i'm	24	M	37, 47, 60
 3	1	in	25	M	23, 37, 47
 3	1	to	41	M	3, 25, 43
 3	1	we	53	M	7, 19, 59
-3	1	well	7	M	41, 43, 47
 3	1	what	37	M	1, 21, 37
 2	1	best	23	M	21, 43
 2	1	but	45	M	3, 47

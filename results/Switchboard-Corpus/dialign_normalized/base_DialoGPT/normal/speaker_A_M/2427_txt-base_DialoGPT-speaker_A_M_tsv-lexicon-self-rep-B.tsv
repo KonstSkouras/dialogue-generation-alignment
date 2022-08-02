@@ -1,16 +1,20 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	oh , i see .	57	M	154, 210
 2	5	what do you think ?	85	M	138, 222
+4	4	you know , i	125	M	16, 84, 132, 140
 2	4	. i have a	211	M	34, 244
-2	4	oh i see .	57	M	154, 210
 2	4	you do it ?	61	M	90, 150
 2	4	you know what i	101	M	48, 148
 5	3	a lot of	151	M	2, 4, 34, 94, 152
+5	3	you know ,	131	M	10, 16, 84, 132, 140
 4	3	i have a	211	M	34, 218, 232, 244
-4	3	you know i	125	M	16, 84, 132, 140
 3	3	. i have	211	M	34, 198, 244
 3	3	do that .	123	M	88, 156, 210
 3	3	i'm not sure	13	M	102, 108, 114
 3	3	what do you	117	M	106, 138, 222
+2	3	, but i	27	M	116, 142
+2	3	, i think	27	M	114, 140
+2	3	, uh ,	161	M	36, 196
 2	3	. i think	51	M	190, 240
 2	3	. they are	65	M	30, 94
 2	3	do you ?	121	M	50, 170
@@ -18,19 +22,25 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	if you do	171	M	78, 248
 2	3	the potatoes ?	5	M	226, 230
 2	3	think you can	41	M	166, 206
+11	2	, i	195	M	16, 36, 40, 84, 114, 132, 140, 142, 148, 154, 210
 10	2	do you	179	M	44, 50, 66, 90, 106, 138, 170, 186, 188, 222
 7	2	have a	243	M	2, 34, 62, 174, 218, 232, 244
 7	2	i have	211	M	34, 72, 172, 198, 218, 232, 244
 7	2	i think	233	M	8, 114, 140, 190, 220, 224, 240
-7	2	you know	139	M	10, 16, 48, 84, 132, 140, 148
 6	2	. i	211	M	34, 190, 198, 210, 240, 244
 6	2	a lot	203	M	2, 4, 34, 94, 152, 204
+5	2	, it's	137	M	10, 32, 56, 80, 146
 5	2	do it	151	M	0, 82, 90, 140, 150
+4	2	, and	123	M	2, 58, 122, 124
 4	2	do that	133	M	78, 88, 156, 210
 4	2	i can't	97	M	142, 156, 216, 238
 4	2	i'm not	103	M	12, 102, 108, 114
 4	2	of the	119	M	42, 94, 116, 160
+4	2	oh ,	135	M	76, 154, 168, 210
 4	2	you can	119	M	88, 160, 166, 206
+3	2	, but	29	M	116, 142, 144
+3	2	, i've	181	M	0, 178, 180
+3	2	, uh	181	M	16, 36, 196
 3	2	but i	101	M	42, 116, 142
 3	2	i don't	161	M	6, 36, 166
 3	2	if you	197	M	52, 78, 248
@@ -41,12 +51,21 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	they are	65	M	30, 92, 94
 3	2	they do	89	M	140, 174, 228
 3	2	think you	75	M	166, 206, 240
+3	2	uh ,	177	M	36, 196, 212
+3	2	well ,	33	M	128, 142, 160
 3	2	yeah .	125	M	126, 168, 250
 3	2	you have	127	M	62, 82, 188
+2	2	, i'm	79	M	36, 114
+2	2	, okay	109	M	76, 184
+2	2	, they	23	M	206, 228
+2	2	, they're	65	M	128, 192
+2	2	, what	97	M	100, 196
+2	2	, you're	57	M	80, 136
 2	2	... i	153	M	72, 224
 2	2	a good	123	M	6, 128
 2	2	able to	75	M	42, 116
 2	2	did you	59	M	150, 208
+2	2	do ,	105	M	144, 248
 2	2	do .	109	M	120, 228
 2	2	garden .	145	M	30, 174
 2	2	get a	173	M	66, 238
@@ -67,17 +86,20 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	so ...	207	M	36, 242
 2	2	so what	73	M	136, 208
 2	2	tell me	137	M	112, 248
+2	2	that ,	65	M	78, 142
 2	2	that's the	9	M	34, 42
 2	2	they arent	177	M	30, 206
 2	2	they have	137	M	94, 230
 2	2	they're a	77	M	128, 204
 2	2	to do	31	M	82, 112
+2	2	uhh ,	55	M	182, 236
 2	2	up .	49	M	132, 180
 2	2	we do	191	M	26, 216
 2	2	we have	51	M	2, 52
 2	2	what ?	81	M	20, 100
 2	2	what you	89	M	136, 224
 2	2	year .	81	M	110, 190
+2	2	yes ,	59	M	58, 116
 2	2	you mean	119	M	106, 224
 39	1	i	245	M	0, 6, 8, 16, 28, 34, 36, 40, 42, 46, 48, 72, 84, 104, 114, 116, 132, 140, 142, 144, 148, 154, 156, 164, 166, 172, 190, 198, 204, 206, 210, 216, 218, 220, 224, 232, 238, 240, 244
 35	1	you	239	M	10, 16, 44, 48, 50, 52, 62, 66, 78, 82, 84, 88, 90, 106, 112, 124, 132, 136, 138, 140, 142, 148, 150, 160, 166, 170, 186, 188, 206, 208, 210, 222, 224, 240, 248
@@ -111,13 +133,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	uh	197	M	16, 36, 126, 196, 212
 5	1	we	215	M	2, 26, 52, 190, 216
 5	1	you're	115	M	80, 108, 136, 176, 194
-4	1	and	123	M	2, 58, 122, 124
 4	1	been	139	M	60, 110, 178, 198
 4	1	get	173	M	66, 78, 116, 238
 4	1	gonna	121	M	94, 136, 184, 214
 4	1	like	121	M	44, 46, 158, 164
 4	1	no	53	M	20, 32, 68, 72
-4	1	oh	135	M	76, 154, 168, 210
 4	1	see	63	M	154, 160, 210, 216
 4	1	well	71	M	128, 142, 160, 198
 4	1	with	107	M	110, 142, 166, 216
@@ -145,7 +165,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	idea	93	M	72, 164
 2	1	last	71	M	28, 98
 2	1	my	139	M	6, 144
-2	1	okay	109	M	76, 184
 2	1	out	109	M	8, 116
 2	1	practice	187	M	34, 220
 2	1	some	19	M	184, 202

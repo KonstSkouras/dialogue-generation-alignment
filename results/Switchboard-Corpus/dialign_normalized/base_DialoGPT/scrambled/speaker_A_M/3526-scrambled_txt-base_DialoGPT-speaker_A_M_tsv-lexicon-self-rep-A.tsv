@@ -1,29 +1,46 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	. uh-huh . uh-huh .	15	A	54, 68
+2	4	, you know ,	5	A	24, 28
 2	4	uh-huh . uh-huh .	15	A	54, 68
+7	3	, uh ,	31	A	10, 20, 22, 28, 30, 32, 40
+2	3	, in the	25	A	32, 56
+2	3	, um ,	51	A	10, 60
+2	3	, yeah .	25	A	18, 42
 2	3	i know that	27	A	30, 56
 2	3	that would be	55	A	4, 58
+2	3	uh , but	21	A	10, 30
+2	3	yes , i	3	A	38, 40
 9	2	yeah .	65	A	2, 8, 10, 18, 42, 54, 56, 58, 66
+8	2	uh ,	41	A	10, 20, 22, 28, 30, 32, 40, 50
 6	2	uh-huh .	51	A	20, 36, 48, 54, 68, 70
+6	2	well ,	43	A	22, 30, 42, 56, 62, 64
+4	2	, a	41	A	24, 28, 60, 64
+4	2	, i	35	A	38, 40, 56, 72
+4	2	a ,	37	A	28, 56, 60, 64
+3	2	, in	41	A	32, 56, 72
+3	2	, the	13	A	20, 30, 32
+3	2	, you	19	A	10, 24, 28
 3	2	. i	21	A	20, 30, 40
 3	2	i know	27	A	30, 44, 56
+2	2	, but	21	A	10, 30
+2	2	, that	27	A	4, 30
+2	2	, they	29	A	28, 56
+2	2	, yeah	25	A	18, 42
 2	2	. that	19	A	58, 76
+2	2	and ,	17	A	10, 26
 2	2	do you	55	A	22, 76
 2	2	i am	11	A	34, 44
 2	2	i was	31	A	30, 60
-2	2	in the	25	A	32, 56
+2	2	oh ,	57	A	18, 74
 2	2	right .	47	A	6, 52
-2	2	uh but	21	A	10, 30
+2	2	that ,	27	A	30, 56
+2	2	yeah ,	55	A	18, 72
 2	2	yes .	13	A	4, 16
-2	2	yes i	3	A	38, 40
-2	2	you know	5	A	24, 28
 11	1	i	53	A	20, 30, 34, 38, 40, 42, 44, 46, 56, 60, 72
-10	1	yeah	71	A	2, 8, 10, 18, 42, 54, 56, 58, 66, 72
 9	1	a	63	A	14, 24, 28, 42, 56, 60, 64, 72, 76
 9	1	and	69	A	10, 14, 26, 28, 32, 46, 56, 60, 78
 8	1	of	75	A	4, 14, 24, 28, 32, 42, 76, 78
 8	1	the	53	A	4, 20, 28, 30, 32, 42, 46, 56
-8	1	uh	41	A	10, 20, 22, 28, 30, 32, 40, 50
 7	1	well	57	A	22, 30, 42, 56, 62, 64, 78
 6	1	that	73	A	4, 30, 38, 56, 58, 76
 6	1	you	71	A	10, 22, 24, 28, 76, 80
@@ -43,7 +60,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	that's	31	A	14, 26, 44
 3	1	to	7	A	22, 24, 28
 3	1	was	33	A	28, 30, 60
-2	1	but	21	A	10, 30
 2	1	have	47	A	30, 76
 2	1	hills	15	A	32, 46
 2	1	how	23	A	22, 44
@@ -58,5 +74,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	they're	65	A	14, 78
 2	1	time	41	A	40, 80
 2	1	too	23	A	20, 42
-2	1	um	51	A	10, 60
 

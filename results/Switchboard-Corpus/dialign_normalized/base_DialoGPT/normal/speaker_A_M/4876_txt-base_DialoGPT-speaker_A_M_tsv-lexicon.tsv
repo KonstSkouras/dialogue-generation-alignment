@@ -1,7 +1,10 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
 2	2	3	that's a good	44	12	1	A	33, 44
+3	3	2	, yeah	20	37	1	A	11, 20, 47
 3	1	2	a good	33	25	1	M	20, 33, 44
 3	3	2	have a	18	25	1	A	9, 18, 33
+3	3	2	well ,	28	18	2	A	11, 15, 28
+2	2	2	and ,	20	4	1	A	17, 20
 2	2	2	dollars an	42	2	1	A	41, 42
 2	2	2	five dollars	44	4	1	A	41, 44
 2	2	2	know what	16	2	1	A	15, 16
@@ -12,11 +15,11 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 7	7	1	you	9	40	2	M	0, 8, 9, 14, 15, 33, 39
 6	6	1	the	26	30	1	A	15, 26, 32, 36, 38, 44
 6	6	1	to	16	36	2	A	9, 15, 16, 33, 39, 44
-6	6	1	well	28	25	4	A	5, 9, 11, 15, 28, 29
-5	5	1	and	20	23	1	A	17, 20, 33, 36, 39
+6	3	1	well	28	25	4	A	5, 9, 11, 15, 28, 29
+5	4	1	and	20	23	1	A	17, 20, 33, 36, 39
 5	2	1	dollars	42	22	3	A	23, 35, 41, 42, 44
 5	3	1	that's	36	40	3	A	5, 25, 33, 36, 44
-5	5	1	yeah	20	37	1	A	11, 20, 21, 31, 47
+5	2	1	yeah	21	37	1	A	11, 20, 21, 31, 47
 4	2	1	an	42	28	3	A	15, 39, 41, 42
 4	4	1	are	39	29	1	M	14, 39, 41, 42
 4	1	1	good	33	39	2	M	6, 20, 33, 44

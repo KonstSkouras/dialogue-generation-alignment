@@ -1,22 +1,34 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, so i'm not	75	M	49, 123
 2	4	i don't know .	39	M	41, 79
 2	4	i've never seen a	13	M	81, 93
 4	3	i don't know	53	M	41, 79, 81, 93
+3	3	, uh ,	51	M	35, 71, 85
 2	3	a lot of	119	M	5, 123
 2	3	are going to	49	M	17, 65
 2	3	i'm not sure	61	M	49, 109
-2	3	so i'm not	75	M	49, 123
+2	3	know , i'm	79	M	3, 81
+2	3	oh , well	29	M	43, 71
+2	3	that , it	57	M	21, 77
 6	2	it .	95	M	13, 15, 21, 81, 87, 107
 5	2	i don't	67	M	41, 79, 81, 93, 107
 4	2	i'm not	75	M	49, 59, 109, 123
+3	2	, and	69	M	3, 53, 71
+3	2	, i'm	107	M	3, 81, 109
+3	2	, uh	51	M	35, 71, 85
 3	2	going to	107	M	17, 65, 123
 3	2	have a	61	M	63, 95, 123
+3	2	know ,	79	M	3, 31, 81
 3	2	know .	39	M	41, 73, 79
 3	2	not sure	69	M	49, 109, 117
+3	2	oh ,	57	M	15, 43, 71
 3	2	they are	47	M	19, 27, 65
+3	2	uh ,	51	M	35, 71, 85
 3	2	you mean	37	M	91, 109, 127
+2	2	, i	47	M	3, 49
+2	2	, the	19	M	53, 71
+2	2	, they	39	M	33, 71
 2	2	. it's	59	M	7, 65
-2	2	and the	19	M	53, 71
 2	2	are you	23	M	75, 97
 2	2	for the	17	M	61, 77
 2	2	have to	5	M	61, 65
@@ -27,14 +39,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	is that	69	M	21, 89
 2	2	it is	99	M	21, 119
 2	2	it's not	35	M	65, 99
-2	2	know i'm	79	M	3, 81
-2	2	oh well	29	M	43, 71
 2	2	that ?	25	M	1, 25
-2	2	that it	57	M	21, 77
+2	2	the ,	19	M	53, 71
 2	2	there's a	117	M	5, 121
 2	2	they have	11	M	61, 71
 2	2	to be	59	M	65, 123
 2	2	to the	51	M	17, 67
+2	2	well ,	23	M	49, 71
 2	2	what ?	101	M	11, 111
 2	2	yeah .	77	M	45, 121
 19	1	i	121	M	3, 7, 13, 35, 41, 43, 49, 65, 67, 73, 77, 79, 81, 93, 107, 113, 115, 119, 123
@@ -47,7 +58,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	and	119	M	3, 53, 71, 81, 87, 105, 121
 7	1	are	111	M	17, 19, 27, 65, 75, 97, 127
 7	1	is	119	M	1, 21, 29, 55, 89, 107, 119
-7	1	know	91	M	3, 31, 41, 73, 79, 81, 93
 7	1	to	123	M	1, 3, 17, 61, 65, 67, 123
 6	1	in	115	M	9, 49, 65, 101, 121, 123
 6	1	they	53	M	19, 27, 33, 61, 65, 71
@@ -60,14 +70,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	do	95	M	1, 61, 95
 3	1	i've	79	M	15, 81, 93
 3	1	never	37	M	57, 81, 93
-3	1	oh	57	M	15, 43, 71
 3	1	so	75	M	49, 107, 123
 3	1	think	101	M	7, 67, 107
 3	1	this	49	M	7, 29, 55
 3	1	time	17	M	61, 65, 77
-3	1	uh	51	M	35, 71, 85
 3	1	we	41	M	63, 67, 103
-3	1	well	29	M	43, 49, 71
 3	1	why	75	M	1, 61, 75
 3	1	yeah	77	M	45, 111, 121
 2	1	about	13	M	81, 93

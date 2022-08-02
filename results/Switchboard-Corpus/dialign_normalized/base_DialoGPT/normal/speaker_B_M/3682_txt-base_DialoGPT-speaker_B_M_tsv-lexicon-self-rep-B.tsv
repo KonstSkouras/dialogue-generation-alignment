@@ -6,20 +6,25 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	you can cook it	41	M	60, 100
 5	3	a lot of	99	M	0, 4, 30, 40, 98
 5	3	i'm not sure	99	M	2, 58, 74, 96, 100
+3	3	, but i	41	M	58, 74, 98
 3	3	i don't know	17	M	6, 16, 22
+2	3	, but it's	55	M	50, 104
 2	3	. uh .	47	M	44, 90
 2	3	just have to	31	M	30, 60
 2	3	to eat it	9	M	94, 102
+6	2	, but	103	M	2, 50, 58, 74, 98, 104
 5	2	a lot	99	M	0, 4, 30, 40, 98
 5	2	you can	101	M	0, 52, 58, 60, 100
 4	2	i don't	35	M	6, 16, 22, 40
 4	2	it .	93	M	2, 62, 80, 94
 3	2	and it's	43	M	28, 42, 70
-3	2	but i	41	M	58, 74, 98
 3	2	but it's	99	M	6, 50, 104
 3	2	cook it	41	M	60, 76, 100
 3	2	good .	39	M	36, 50, 74
 3	2	it's a	93	M	12, 34, 104
+2	2	, and	59	M	4, 62
+2	2	, i	5	M	26, 30
+2	2	, i'm	17	M	92, 108
 2	2	. i've	29	M	80, 108
 2	2	do that	41	M	18, 58
 2	2	egg .	5	M	92, 96
@@ -39,7 +44,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	it's an	35	M	62, 96
 2	2	it's good	21	M	50, 70
 2	2	it's really	9	M	28, 36
+2	2	like ,	39	M	30, 68
+2	2	rice ,	39	M	60, 98
 2	2	rice .	11	M	88, 98
+2	2	that ,	55	M	4, 58
 2	2	the chicken	49	M	52, 100
 2	2	the idea	65	M	40, 104
 2	2	what is	21	M	86, 106
@@ -55,7 +63,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	the	97	M	8, 40, 52, 60, 62, 82, 92, 100, 104
 8	1	can	101	M	0, 38, 40, 52, 58, 60, 74, 100
 8	1	not	99	M	2, 46, 58, 74, 78, 80, 96, 100
-7	1	but	103	M	2, 6, 50, 58, 74, 98, 104
 7	1	just	59	M	14, 18, 28, 30, 46, 60, 72
 7	1	of	99	M	0, 4, 30, 40, 88, 92, 98
 7	1	rice	47	M	52, 58, 60, 62, 72, 88, 98

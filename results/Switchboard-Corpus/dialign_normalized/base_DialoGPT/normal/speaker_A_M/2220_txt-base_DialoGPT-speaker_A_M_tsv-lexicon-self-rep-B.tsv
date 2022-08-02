@@ -1,6 +1,8 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	3	, but i	17	M	16, 30, 32
 3	3	i don't know	23	M	10, 30, 32
 3	3	i'm not sure	93	M	14, 34, 106
+2	3	, i just	71	M	36, 106
 2	3	a good idea	41	M	6, 46
 2	3	do you play	39	M	20, 58
 2	3	east texas .	7	M	78, 84
@@ -8,17 +10,21 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	like it .	19	M	4, 22
 2	3	not sure if	3	M	14, 16
 2	3	you have to	19	M	30, 48
+4	2	, but	37	M	16, 30, 32, 52
 4	2	do you	57	M	2, 6, 20, 58
 4	2	don't know	41	M	10, 30, 32, 50
 4	2	it .	105	M	4, 22, 62, 108
 4	2	you like	59	M	2, 4, 8, 60
-3	2	but i	17	M	16, 30, 32
+3	2	, i	71	M	36, 60, 106
 3	2	east texas	9	M	78, 84, 86
 3	2	have to	77	M	30, 48, 106
 3	2	i know	37	M	78, 82, 114
 3	2	i like	39	M	22, 32, 60
 3	2	i think	9	M	30, 32, 38
+3	2	know ,	53	M	30, 76, 82
 3	2	know .	105	M	10, 78, 114
+2	2	, and	59	M	32, 90
+2	2	, you	13	M	48, 60
 2	2	... i	11	M	36, 46
 2	2	are you	9	M	72, 80
 2	2	be the	21	M	90, 110
@@ -39,6 +45,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	know	105	M	10, 30, 32, 50, 76, 78, 82, 106, 114
 7	1	do	107	M	2, 6, 20, 30, 58, 88, 108
 6	1	it	105	M	4, 22, 40, 62, 104, 108
+6	1	like	59	M	2, 4, 8, 22, 32, 60
 6	1	not	93	M	14, 16, 28, 34, 52, 106
 6	1	to	77	M	30, 48, 52, 76, 90, 106
 5	1	don't	41	M	10, 30, 32, 40, 50
@@ -46,7 +53,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	sure	107	M	0, 14, 16, 34, 106
 4	1	are	69	M	12, 32, 72, 80
 4	1	be	63	M	48, 52, 90, 110
-4	1	but	37	M	16, 30, 32, 52
 4	1	have	91	M	16, 30, 48, 106
 4	1	in	19	M	72, 74, 78, 90
 4	1	just	83	M	24, 36, 76, 106
@@ -56,7 +62,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	if	19	M	14, 16, 32
 3	1	that	75	M	32, 52, 106
 3	1	what	77	M	34, 94, 110
-2	1	and	59	M	32, 90
 2	1	band	9	M	48, 56
 2	1	for	55	M	56, 110
 2	1	jazz	29	M	2, 30

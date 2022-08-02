@@ -1,26 +1,45 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, you know ,	17	B	11, 27
+2	4	but , uh ,	5	B	9, 13
 2	4	take them all to	3	B	9, 11
 2	4	that you can take	3	B	9, 11
+2	4	they , uh ,	5	B	9, 13
+8	3	, uh ,	41	B	3, 9, 13, 15, 25, 27, 41, 43
+3	3	, i guess	27	B	23, 43, 49
+3	3	, you know	17	B	11, 15, 27
+3	3	you know ,	29	B	11, 27, 39
+2	3	, they have	13	B	9, 21
+2	3	, they're ,	3	B	25, 27
 2	3	i guess that's	23	B	17, 39
 2	3	kind of plastic	7	B	21, 27
 2	3	on the bottom	5	B	21, 25
 2	3	so i guess	11	B	17, 27
 2	3	that you can	3	B	9, 11
 2	3	to one place	3	B	9, 11
+2	3	uh , and	33	B	9, 41
 2	3	were talking about	3	B	13, 15
+9	2	, uh	41	B	3, 9, 13, 15, 19, 25, 27, 41, 43
+9	2	uh ,	41	B	3, 9, 13, 15, 17, 25, 27, 41, 43
 8	2	i guess	35	B	15, 17, 19, 23, 27, 39, 43, 49
+5	2	, i	41	B	9, 23, 25, 43, 49
+5	2	, you	29	B	11, 15, 23, 27, 39
 5	2	right .	23	B	7, 9, 13, 15, 29
 5	2	uh-huh .	47	B	1, 5, 33, 45, 47
+4	2	know ,	29	B	11, 25, 27, 39
+4	2	they ,	17	B	9, 13, 15, 25
 4	2	yeah .	23	B	25, 35, 37, 47
-4	2	you know	29	B	11, 15, 27, 39
+3	2	, they	17	B	9, 21, 25
 3	2	kind of	7	B	21, 25, 27
 3	2	that you	15	B	9, 11, 23
+3	2	you ,	45	B	3, 41, 47
+2	2	, and	33	B	9, 41
+2	2	, so	5	B	13, 17
+2	2	, when	11	B	39, 49
 2	2	. so	13	B	13, 25
 2	2	. that's	39	B	9, 47
 2	2	and then	15	B	27, 41
 2	2	and they	13	B	13, 25
-2	2	but uh	5	B	9, 13
-2	2	have you	11	B	11, 21
+2	2	have ,	3	B	9, 11
 2	2	is recycling	17	B	3, 19
 2	2	it is	5	B	21, 25
 2	2	of plastic	7	B	21, 27
@@ -28,16 +47,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	one place	3	B	9, 11
 2	2	plastic goods	7	B	21, 27
 2	2	so it's	3	B	11, 13
-2	2	they have	13	B	9, 21
-2	2	they uh	5	B	9, 13
+2	2	they're ,	3	B	25, 27
 2	2	to make	13	B	15, 27
 2	2	to recycle	5	B	27, 31
-2	2	uh and	33	B	9, 41
 2	2	what kind	5	B	21, 25
 2	2	when you	3	B	47, 49
 11	1	you	47	B	3, 9, 11, 15, 21, 23, 27, 39, 41, 47, 49
 10	1	i	41	B	9, 15, 17, 19, 23, 25, 27, 39, 43, 49
-10	1	uh	41	B	3, 9, 13, 15, 17, 19, 25, 27, 41, 43
 7	1	it	31	B	13, 21, 25, 27, 39, 41, 43
 7	1	one	31	B	9, 11, 17, 19, 23, 27, 39
 7	1	that	19	B	9, 11, 13, 15, 21, 23, 27
@@ -46,7 +62,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	on	25	B	19, 21, 25, 39, 41, 43
 6	1	so	17	B	11, 13, 17, 23, 25, 27
 5	1	is	23	B	3, 19, 21, 23, 25
-5	1	know	29	B	11, 15, 25, 27, 39
 5	1	of	19	B	9, 11, 21, 25, 27
 5	1	that's	39	B	9, 13, 17, 39, 47
 5	1	they	17	B	9, 13, 15, 21, 25
@@ -63,7 +78,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	plastics	9	B	19, 25, 27
 3	1	them	19	B	9, 11, 27
 3	1	they're	9	B	19, 25, 27
-3	1	when	11	B	39, 47, 49
 2	1	a	15	B	13, 27
 2	1	about	3	B	13, 15
 2	1	be	31	B	13, 43

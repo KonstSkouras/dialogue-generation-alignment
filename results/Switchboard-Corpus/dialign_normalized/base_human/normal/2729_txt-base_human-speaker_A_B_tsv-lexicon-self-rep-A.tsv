@@ -1,41 +1,93 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	, but , uh , she	7	A	93, 99
+4	5	, but , uh ,	25	A	75, 89, 93, 99
+2	5	, the , uh ,	89	A	33, 121
+2	5	, uh , the ,	87	A	47, 133
+2	5	, uh , uh ,	5	A	1, 5
+2	5	and , uh , he	7	A	19, 25
+9	4	and , uh ,	87	A	5, 11, 19, 21, 25, 45, 79, 89, 91
+6	4	but , uh ,	81	A	19, 35, 75, 89, 93, 99
+3	4	, uh , he	27	A	19, 25, 45
+3	4	, uh , i	47	A	1, 5, 47
+3	4	, uh , the	87	A	47, 75, 133
+3	4	, uh , this	57	A	33, 79, 89
+2	4	, and , uh	55	A	25, 79
+2	4	, uh , yeah	29	A	11, 39
 2	4	across the street from	99	A	1, 99
+2	4	and , uh .	47	A	33, 79
+2	4	got another one ,	13	A	35, 47
+2	4	in the , the	5	A	79, 83
+2	4	jumped in the ,	7	A	79, 85
+2	4	no , no .	33	A	107, 139
+2	4	the , the ,	43	A	79, 121
+2	4	was , uh ,	33	A	1, 33
+2	4	yeah , yeah .	11	A	127, 137
+22	3	, uh ,	135	A	1, 5, 11, 19, 21, 25, 33, 35, 39, 45, 47, 75, 79, 89, 91, 93, 99, 121, 127, 131, 133, 135
+6	3	, but ,	73	A	49, 75, 89, 93, 99, 121
+5	3	, so .	121	A	11, 35, 93, 129, 131
+4	3	, he ,	71	A	19, 37, 45, 89
+4	3	the , the	43	A	79, 83, 85, 121
+3	3	, it was	75	A	37, 39, 111
+3	3	, yeah .	119	A	19, 127, 137
 3	3	jumped in and	11	A	81, 89, 91
-3	3	oh really .	95	A	15, 103, 109
+3	3	this dog ,	85	A	5, 11, 89
 3	3	to get him	95	A	19, 23, 113
+3	3	uh , she	99	A	1, 93, 99
+2	3	, and he	69	A	21, 89
+2	3	, i can't	7	A	5, 11
+2	3	, i mean	107	A	7, 113
+2	3	, i think	33	A	1, 33
+2	3	, i was	57	A	29, 85
+2	3	, i'm a	3	A	127, 129
+2	3	, i've got	65	A	35, 99
+2	3	, though .	87	A	5, 91
 2	3	. i don't	59	A	11, 69
 2	3	and that was	83	A	29, 111
-2	3	and then he	65	A	25, 89
-2	3	and uh .	47	A	33, 79
-2	3	and uh he	7	A	19, 25
-2	3	but uh she	7	A	93, 99
-2	3	current and uh	11	A	79, 89
-2	3	got another one	13	A	35, 47
+2	3	and then ,	43	A	47, 89
+2	3	from the ,	51	A	85, 135
+2	3	german shepherd ,	93	A	19, 111
 2	3	got over it	73	A	21, 93
 2	3	he got hit	51	A	25, 75
 2	3	he jumped in	7	A	83, 89
+2	3	here , so	13	A	129, 141
 2	3	i don't think	13	A	69, 81
-2	3	in the the	5	A	79, 83
-2	3	jumped in the	7	A	79, 85
-2	3	no no .	33	A	107, 139
+2	3	oh really .	7	A	103, 109
 2	3	out . i	31	A	91, 121
 2	3	to go out	91	A	9, 99
-2	3	yeah yeah .	11	A	127, 137
+24	2	uh ,	135	A	1, 5, 11, 19, 21, 25, 33, 35, 37, 39, 45, 47, 75, 79, 89, 91, 93, 99, 121, 123, 127, 131, 133, 135
+23	2	, uh	135	A	1, 5, 11, 19, 21, 25, 33, 35, 39, 45, 47, 75, 79, 89, 91, 93, 99, 121, 127, 129, 131, 133, 135
+13	2	, i	125	A	1, 5, 7, 11, 27, 29, 33, 47, 81, 85, 99, 113, 125
+12	2	and ,	89	A	3, 5, 11, 19, 21, 25, 33, 45, 77, 79, 89, 91
 11	2	yeah .	119	A	19, 41, 51, 57, 65, 71, 97, 105, 115, 127, 137
-10	2	and uh	87	A	5, 11, 19, 21, 25, 33, 45, 79, 89, 91
+9	2	, but	99	A	23, 35, 49, 75, 89, 93, 99, 113, 121
+9	2	, the	101	A	33, 47, 75, 79, 83, 85, 99, 121, 133
+9	2	but ,	107	A	19, 35, 49, 75, 89, 93, 99, 121, 125
+8	2	the ,	103	A	33, 47, 79, 83, 85, 121, 133, 135
 7	2	uh-huh .	107	A	13, 17, 55, 63, 95, 97, 119
+7	2	yeah ,	103	A	39, 53, 99, 127, 129, 137, 141
+6	2	, he	71	A	19, 25, 37, 45, 47, 89
 6	2	. i	111	A	11, 19, 69, 91, 99, 121
-6	2	but uh	81	A	19, 35, 75, 89, 93, 99
+6	2	dog ,	107	A	5, 11, 33, 45, 89, 111
 6	2	so .	121	A	11, 35, 93, 101, 129, 131
+5	2	, and	69	A	21, 25, 47, 79, 89
+5	2	, she	99	A	1, 33, 49, 93, 99
+5	2	, this	83	A	7, 33, 75, 79, 89
 5	2	and then	67	A	25, 47, 75, 89, 91
+5	2	here ,	89	A	53, 99, 129, 133, 141
 5	2	in the	49	A	79, 83, 85, 111, 127
+4	2	, a	99	A	1, 47, 75, 99
+4	2	, it	75	A	37, 39, 53, 111
 4	2	german shepherd	111	A	1, 19, 75, 111
 4	2	had a	105	A	19, 45, 75, 123
 4	2	i mean	107	A	7, 9, 99, 113
+4	2	it ,	61	A	33, 37, 91, 93
+4	2	oh ,	109	A	3, 15, 19, 111
 4	2	that was	85	A	27, 29, 75, 111
-4	2	the the	43	A	79, 83, 85, 121
 4	2	this dog	89	A	1, 5, 11, 89
 4	2	to get	105	A	19, 23, 113, 123
+3	2	, it's	107	A	35, 99, 141
+3	2	, no	33	A	107, 135, 139
+3	2	, really	109	A	15, 79, 123
 3	2	. and	37	A	75, 87, 111
 3	2	and i	57	A	33, 81, 89
 3	2	go in	25	A	87, 99, 111
@@ -45,86 +97,90 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	he was	71	A	19, 25, 89
 3	2	i was	75	A	11, 29, 85
 3	2	it .	87	A	27, 89, 113
-3	2	it was	75	A	37, 39, 111
+3	2	no ,	59	A	81, 107, 139
 3	2	out .	113	A	9, 91, 121
+3	2	really .	95	A	15, 103, 109
 3	2	right .	31	A	43, 59, 73
 3	2	she was	91	A	1, 33, 91
+3	2	so ,	67	A	27, 39, 93
+3	2	that ,	125	A	7, 45, 131
 3	2	the dog	107	A	29, 33, 135
 3	2	the street	99	A	1, 29, 99
 3	2	to go	91	A	9, 87, 99
-3	2	uh he	27	A	19, 25, 45
-3	2	uh i	47	A	1, 5, 47
-3	2	uh she	99	A	1, 93, 99
-3	2	uh the	87	A	47, 75, 133
-3	2	uh this	57	A	33, 79, 89
+3	2	was ,	33	A	1, 27, 33
 3	2	was just	19	A	19, 25, 37
 3	2	year .	63	A	37, 39, 99
+2	2	, actually	9	A	81, 89
+2	2	, had	87	A	1, 87
+2	2	, he's	7	A	75, 81
+2	2	, i've	65	A	35, 99
+2	2	, into	47	A	85, 131
+2	2	, last	93	A	19, 111
+2	2	, my	37	A	75, 111
+2	2	, oh	31	A	3, 33
+2	2	, well	67	A	75, 141
+2	2	, when	27	A	19, 45
 2	2	. he	9	A	81, 89
 2	2	. she	59	A	33, 91
 2	2	. well	75	A	53, 127
+2	2	a ,	81	A	19, 99
 2	2	a full	23	A	53, 75
 2	2	a whole	85	A	39, 123
 2	2	a year	45	A	37, 81
+2	2	again ,	65	A	25, 89
 2	2	air force	3	A	127, 129
 2	2	and all	11	A	121, 131
 2	2	and got	43	A	47, 89
-2	2	and he	69	A	21, 89
-2	2	and she's	5	A	3, 7
 2	2	and so	35	A	93, 127
 2	2	and we	27	A	49, 75
 2	2	at the	101	A	29, 129
 2	2	be a	73	A	49, 121
+2	2	been ,	49	A	39, 87
 2	2	but he	61	A	23, 83
 2	2	down the	61	A	29, 89
 2	2	fast moving	7	A	79, 85
+2	2	for ,	107	A	29, 135
 2	2	from the	51	A	85, 135
+2	2	got ,	53	A	47, 99
 2	2	got a	57	A	19, 75
 2	2	had to	5	A	87, 91
 2	2	have been	79	A	11, 89
 2	2	he loved	45	A	45, 89
-2	2	here so	13	A	129, 141
-2	2	i can't	7	A	5, 11
+2	2	her ,	11	A	89, 99
 2	2	i couldn't	85	A	27, 111
 2	2	i got	7	A	125, 131
 2	2	i had	57	A	19, 75
-2	2	i think	33	A	1, 33
-2	2	i'm a	3	A	127, 129
-2	2	i've got	65	A	35, 99
 2	2	into the	47	A	85, 131
 2	2	just about	63	A	19, 81
+2	2	know ,	67	A	11, 77
 2	2	last year	21	A	19, 39
+2	2	now ,	55	A	35, 89
 2	2	of mine	47	A	29, 75
 2	2	out to	75	A	49, 123
 2	2	passed away	5	A	45, 49
 2	2	seem to	29	A	113, 141
-2	2	so i	101	A	27, 127
+2	2	she ,	17	A	33, 49
 2	2	that he	45	A	45, 89
 2	2	the puppy	11	A	75, 85
 2	2	the river	7	A	83, 89
 2	2	the thing	87	A	25, 111
-2	2	the uh	89	A	33, 121
 2	2	they just	45	A	31, 75
 2	2	this one	35	A	19, 53
-2	2	though .	87	A	5, 91
 2	2	to be	93	A	49, 141
 2	2	to have	69	A	45, 113
 2	2	to the	43	A	47, 89
 2	2	trying to	23	A	89, 111
-2	2	uh uh	5	A	1, 5
-2	2	uh yeah	29	A	11, 39
+2	2	um ,	77	A	23, 99
 2	2	up here	43	A	87, 129
 2	2	was really	7	A	27, 33
-2	2	was uh	33	A	1, 33
 2	2	we went	29	A	47, 75
-2	2	well it's	67	A	75, 141
+2	2	well ,	141	A	1, 141
 2	2	when he	57	A	19, 75
 26	1	and	129	A	3, 5, 7, 11, 19, 21, 25, 29, 33, 45, 47, 49, 75, 77, 79, 81, 87, 89, 91, 93, 99, 111, 121, 127, 129, 131
-25	1	uh	135	A	1, 5, 11, 19, 21, 25, 33, 35, 37, 39, 45, 47, 75, 79, 89, 91, 93, 99, 121, 123, 127, 129, 131, 133, 135
 23	1	a	133	A	1, 19, 25, 29, 37, 39, 45, 47, 49, 53, 75, 77, 81, 89, 91, 99, 111, 113, 121, 123, 127, 129, 133
 23	1	i	131	A	1, 5, 7, 9, 11, 19, 27, 29, 33, 47, 69, 75, 81, 85, 89, 91, 99, 111, 113, 121, 125, 127, 131
 22	1	the	135	A	1, 25, 29, 33, 47, 49, 67, 75, 79, 83, 85, 87, 89, 99, 111, 121, 123, 127, 129, 131, 133, 135
 21	1	to	139	A	3, 9, 19, 23, 25, 33, 45, 47, 49, 67, 85, 87, 89, 91, 99, 111, 113, 121, 123, 125, 141
-17	1	yeah	131	A	11, 19, 39, 41, 51, 53, 57, 65, 71, 97, 99, 105, 115, 127, 129, 137, 141
 15	1	in	109	A	19, 21, 39, 47, 77, 79, 81, 83, 85, 87, 89, 91, 99, 111, 127
 15	1	was	111	A	1, 11, 19, 23, 25, 27, 29, 33, 37, 39, 75, 85, 89, 91, 111
 14	1	but	115	A	19, 23, 35, 49, 75, 83, 85, 89, 93, 99, 113, 121, 125, 133
@@ -148,7 +204,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	about	85	A	3, 19, 25, 47, 81, 87
 6	1	get	105	A	19, 23, 67, 77, 113, 123
 6	1	have	111	A	11, 39, 45, 89, 113, 121
-6	1	here	89	A	53, 87, 99, 129, 133, 141
 6	1	him	95	A	19, 23, 47, 75, 111, 113
 6	1	no	95	A	45, 47, 81, 107, 135, 139
 6	1	right	75	A	43, 59, 73, 87, 99, 117
@@ -186,7 +241,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	he's	15	A	75, 81, 89
 3	1	i've	65	A	35, 69, 99
 3	1	if	27	A	87, 99, 113
-3	1	last	93	A	19, 39, 111
 3	1	look	53	A	69, 89, 121
 3	1	loved	57	A	33, 45, 89
 3	1	me	91	A	1, 33, 91
@@ -208,6 +262,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	beagle	3	A	45, 47
 2	1	cocoa	39	A	53, 91
 2	1	could	11	A	89, 99
+2	1	current	11	A	79, 89
 2	1	did	89	A	33, 121
 2	1	do	37	A	89, 125
 2	1	dogs	9	A	67, 75
@@ -217,7 +272,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	how	85	A	47, 131
 2	1	into	47	A	85, 131
 2	1	it'd	83	A	39, 121
-2	1	know	67	A	11, 77
 2	1	lake	13	A	99, 111
 2	1	live	47	A	53, 99
 2	1	lot	5	A	123, 127
@@ -234,7 +288,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	swimming	11	A	89, 99
 2	1	that's	65	A	67, 131
 2	1	they're	3	A	67, 69
-2	1	um	77	A	23, 99
 2	1	want	55	A	45, 99
 2	1	wasn't	67	A	45, 111
 2	1	water	9	A	77, 85

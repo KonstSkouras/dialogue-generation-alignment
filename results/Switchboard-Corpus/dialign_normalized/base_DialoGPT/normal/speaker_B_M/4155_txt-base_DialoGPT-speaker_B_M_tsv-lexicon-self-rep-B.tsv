@@ -1,11 +1,17 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	3	, right ?	19	M	27, 45
 2	3	how much money	63	M	5, 67
 2	3	i'm pretty sure	35	M	17, 51
+2	3	you know ,	65	M	3, 67
 3	2	do you	39	M	1, 23, 39
 3	2	how much	63	M	5, 43, 67
 3	2	i'm a	49	M	15, 61, 63
+3	2	know ,	65	M	3, 45, 67
 3	2	you ?	43	M	1, 21, 43
 3	2	you can	45	M	11, 25, 55
+2	2	, but	13	M	55, 67
+2	2	, how	29	M	39, 67
+2	2	, i'm	25	M	17, 41
 2	2	are you	43	M	5, 47
 2	2	but you	41	M	27, 67
 2	2	don't have	7	M	49, 55
@@ -13,11 +19,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	have any	43	M	13, 55
 2	2	i'm not	25	M	17, 41
 2	2	it's a	13	M	57, 69
+2	2	no ,	41	M	19, 59
 2	2	not even	11	M	35, 45
-2	2	right ?	19	M	27, 45
 2	2	sure i'm	25	M	17, 41
 2	2	the wrong	53	M	7, 59
-2	2	you know	65	M	3, 67
+2	2	well ,	23	M	17, 39
 2	2	you pay	31	M	9, 39
 17	1	you	67	M	1, 3, 5, 9, 11, 19, 21, 23, 25, 27, 39, 43, 47, 49, 55, 63, 67
 9	1	a	61	M	9, 13, 15, 35, 51, 57, 61, 63, 69
@@ -30,10 +36,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	can	53	M	11, 25, 55, 63
 4	1	pay	41	M	9, 39, 43, 49
 4	1	sure	39	M	17, 41, 51, 55
-3	1	but	41	M	27, 55, 67
 3	1	even	13	M	35, 45, 47
 3	1	for	9	M	39, 41, 47
-3	1	know	65	M	3, 45, 67
 3	1	money	63	M	5, 13, 67
 3	1	of	53	M	7, 9, 59
 3	1	to	15	M	35, 37, 49
@@ -43,7 +47,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	it	7	M	33, 39
 2	1	just	13	M	25, 37
 2	1	like	23	M	45, 67
-2	1	no	41	M	19, 59
 2	1	paying	41	M	7, 47
 2	1	taxes	43	M	7, 49
 2	1	tell	39	M	25, 63

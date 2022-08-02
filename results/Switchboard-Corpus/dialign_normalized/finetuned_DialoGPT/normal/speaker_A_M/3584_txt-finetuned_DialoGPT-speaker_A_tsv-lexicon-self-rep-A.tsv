@@ -1,41 +1,61 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	7	borrow the money to build your own	3	A	29, 31
+2	6	, uh , you know ,	17	A	27, 43
+2	5	, you know , i	19	A	27, 45
+2	5	, you know , these	57	A	9, 65
+2	5	but , you know ,	9	A	45, 53
 2	5	side of a hill .	33	A	49, 81
+2	5	the , the , the	55	A	29, 83
+2	5	yeah . well , i	15	A	45, 59
+7	4	, you know ,	75	A	9, 27, 43, 45, 53, 65, 83
+4	4	, you know .	53	A	25, 55, 71, 77
+4	4	and , uh ,	47	A	29, 57, 71, 75
+3	4	yeah . well ,	51	A	9, 45, 59
+2	4	, the , the	55	A	29, 83
+2	4	, uh , the	15	A	71, 85
 2	4	borrow the money to	3	A	29, 31
-2	4	yeah . well i	15	A	45, 59
+2	4	so , uh ,	53	A	27, 79
+2	4	the , the ,	55	A	29, 83
+10	3	, uh ,	59	A	27, 29, 43, 57, 63, 71, 75, 79, 81, 85
+8	3	you know ,	75	A	9, 27, 39, 43, 45, 53, 65, 83
+5	3	and , uh	65	A	11, 29, 57, 71, 75
 5	3	you know .	69	A	9, 25, 55, 71, 77
-3	3	yeah . well	51	A	9, 45, 59
+4	3	. well ,	63	A	9, 45, 59, 71
+4	3	the , the	55	A	29, 33, 59, 83
+2	3	, i can	39	A	15, 53
+2	3	, in the	13	A	53, 65
+2	3	, yeah .	29	A	49, 77
 2	3	all glass .	3	A	71, 73
-2	3	but you know	9	A	45, 53
 2	3	i want to	13	A	33, 45
 2	3	i've got a	33	A	55, 87
 2	3	in the house	13	A	65, 77
 2	3	my own house	21	A	13, 33
+2	3	oh , yeah	71	A	7, 77
 2	3	the east side	3	A	71, 73
 2	3	the other side	37	A	49, 85
 2	3	the side that's	3	A	83, 85
-2	3	the the the	55	A	29, 83
 2	3	to build your	3	A	29, 31
-2	3	uh you know	17	A	27, 43
-2	3	you know i	19	A	27, 45
-2	3	you know these	57	A	9, 65
-12	2	you know	75	A	9, 25, 27, 39, 43, 45, 53, 55, 65, 71, 77, 83
+2	3	well , it's	29	A	33, 61
+9	2	well ,	73	A	9, 33, 45, 49, 53, 59, 61, 71, 81
 8	2	yeah .	77	A	1, 9, 17, 19, 45, 49, 59, 77
 7	2	on the	63	A	27, 49, 51, 71, 81, 85, 89
-5	2	and uh	65	A	11, 29, 57, 71, 75
+6	2	the ,	57	A	29, 33, 59, 71, 83, 85
 5	2	in the	31	A	53, 65, 73, 77, 83
-4	2	. well	63	A	9, 45, 59, 71
+4	2	but ,	23	A	43, 45, 53, 65
 4	2	i've got	33	A	55, 71, 73, 87
-4	2	the the	55	A	29, 33, 59, 83
+3	2	, it's	49	A	33, 61, 81
+3	2	, see	43	A	29, 53, 71
 3	2	. it's	39	A	43, 49, 81
 3	2	all the	75	A	15, 71, 89
-3	2	but you	23	A	31, 45, 53
 3	2	got a	33	A	55, 61, 87
 3	2	i can	41	A	15, 53, 55
 3	2	the east	19	A	55, 71, 73
 3	2	the house	19	A	59, 65, 77
 3	2	the side	5	A	81, 83, 85
 3	2	to build	5	A	29, 31, 33
+2	2	, as	33	A	39, 71
+2	2	, these	57	A	9, 65
+2	2	a ,	3	A	61, 63
 2	2	and i	45	A	23, 67
 2	2	and my	7	A	45, 51
 2	2	and then	55	A	35, 89
@@ -44,28 +64,22 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	as well	25	A	39, 63
 2	2	glass .	3	A	71, 73
 2	2	guys that	25	A	9, 33
+2	2	is ,	5	A	39, 43
 2	2	is about	3	A	83, 85
 2	2	nearest neighbor	3	A	49, 51
-2	2	oh yeah	71	A	7, 77
 2	2	shop .	45	A	45, 89
 2	2	side is	15	A	71, 85
 2	2	so i	19	A	27, 45
-2	2	so uh	53	A	27, 79
 2	2	the north	35	A	55, 89
 2	2	to be	23	A	21, 43
-2	2	uh the	15	A	71, 85
 2	2	uh-huh .	3	A	93, 95
 2	2	well .	27	A	37, 63
-2	2	well as	33	A	39, 71
-2	2	well it's	29	A	33, 61
 2	2	you can	47	A	31, 77
 22	1	the	75	A	15, 27, 29, 31, 33, 35, 39, 41, 49, 51, 53, 55, 59, 65, 67, 71, 73, 77, 81, 83, 85, 89
 19	1	and	79	A	11, 15, 23, 25, 29, 33, 35, 41, 45, 51, 55, 57, 63, 67, 71, 75, 77, 85, 89
 15	1	i	75	A	15, 21, 23, 27, 33, 45, 49, 53, 55, 59, 67, 71, 77, 83, 89
 14	1	you	75	A	9, 25, 27, 29, 31, 39, 43, 45, 53, 55, 65, 71, 77, 83
 13	1	a	67	A	21, 25, 29, 33, 45, 49, 51, 55, 59, 61, 63, 81, 87
-12	1	well	73	A	9, 33, 37, 39, 45, 49, 53, 59, 61, 63, 71, 81
-11	1	uh	75	A	11, 27, 29, 43, 57, 63, 71, 75, 79, 81, 85
 10	1	to	47	A	21, 27, 29, 31, 33, 39, 43, 45, 55, 67
 10	1	yeah	77	A	1, 7, 9, 17, 19, 33, 45, 49, 59, 77
 9	1	it's	49	A	33, 39, 43, 45, 49, 61, 69, 73, 81
@@ -116,7 +130,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	south	19	A	71, 89
 2	1	ten	9	A	47, 55
 2	1	there's	53	A	25, 77
-2	1	these	57	A	9, 65
 2	1	this	33	A	27, 59
 2	1	three	35	A	39, 73
 2	1	time	7	A	53, 59

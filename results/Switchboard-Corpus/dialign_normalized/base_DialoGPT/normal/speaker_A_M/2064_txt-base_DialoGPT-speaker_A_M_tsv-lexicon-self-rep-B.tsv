@@ -2,34 +2,48 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	what do you mean ?	51	M	12, 62
 3	4	what do you mean	75	M	12, 62, 86
 2	4	don't know how to	7	M	72, 78
+2	3	, but i	75	M	0, 74
+2	3	, i don't	41	M	56, 96
+2	3	, it's a	19	M	18, 36
+2	3	, uh ,	37	M	52, 88
 2	3	i don't think	43	M	14, 56
 2	3	i'm not sure	43	M	32, 74
 2	3	is it ?	75	M	28, 102
 6	2	i don't	83	M	14, 32, 56, 72, 94, 96
+5	2	, but	75	M	0, 4, 60, 70, 74
+5	2	, it's	75	M	18, 36, 54, 58, 92
 4	2	do you	75	M	12, 44, 62, 86
 4	2	don't know	55	M	32, 72, 78, 86
+3	2	, i	41	M	56, 72, 96
+3	2	, uh	39	M	52, 88, 90
 3	2	i'm not	53	M	32, 74, 84
 3	2	is it	79	M	24, 28, 102
 3	2	it .	47	M	26, 68, 72
 3	2	it's a	33	M	18, 36, 50
 3	2	why ?	25	M	18, 30, 42
+3	2	yes ,	51	M	40, 58, 90
+2	2	, the	9	M	68, 76
 2	2	. i	61	M	32, 92
 2	2	a very	17	M	2, 18
-2	2	but i	75	M	0, 74
+2	2	but ,	65	M	4, 68
 2	2	don't have	13	M	60, 72
 2	2	going to	47	M	18, 64
+2	2	have ,	3	M	74, 76
 2	2	have a	21	M	60, 80
 2	2	i know	23	M	74, 96
 2	2	it was	89	M	0, 88
 2	2	it's because	3	M	58, 60
 2	2	it's not	55	M	18, 72
 2	2	know .	65	M	32, 96
+2	2	mean ,	7	M	86, 92
+2	2	no ,	21	M	36, 56
 2	2	no .	31	M	22, 52
 2	2	that .	31	M	48, 78
 2	2	the jury	47	M	48, 94
 2	2	the other	43	M	54, 96
 2	2	they are	37	M	64, 100
 2	2	to be	7	M	64, 70
+2	2	well ,	29	M	26, 54
 13	1	a	103	M	2, 18, 36, 46, 50, 54, 60, 80, 84, 88, 92, 100, 104
 13	1	i	99	M	0, 14, 20, 32, 56, 70, 72, 74, 82, 92, 94, 96, 98
 12	1	the	97	M	0, 26, 46, 48, 54, 66, 68, 70, 76, 78, 94, 96
@@ -51,8 +65,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	they	41	M	60, 64, 76, 80, 100
 4	1	how	55	M	24, 30, 72, 78
 4	1	in	29	M	66, 70, 72, 94
-4	1	mean	81	M	12, 62, 86, 92
-4	1	no	35	M	22, 36, 52, 56
 4	1	think	57	M	0, 14, 44, 56
 4	1	why	77	M	18, 30, 42, 94
 4	1	yes	51	M	40, 58, 68, 90
@@ -62,7 +74,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	been	27	M	74, 94, 100
 3	1	really	73	M	24, 74, 96
 3	1	that's	59	M	2, 26, 60
-3	1	uh	39	M	52, 88, 90
 3	1	was	97	M	0, 88, 96
 3	1	we	29	M	58, 74, 86
 3	1	well	67	M	26, 54, 92

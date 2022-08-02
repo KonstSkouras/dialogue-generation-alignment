@@ -1,22 +1,35 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	3	, uh ,	107	M	4, 36, 110
+2	3	, i don't	9	M	102, 110
+2	3	i don't ,	9	M	102, 110
 2	3	i don't think	61	M	8, 68
 2	3	not wrong .	7	M	20, 26
 5	2	i don't	103	M	8, 68, 80, 102, 110
+4	2	, i	79	M	32, 86, 102, 110
 4	2	do you	49	M	34, 54, 56, 82
+4	2	uh ,	107	M	4, 36, 74, 110
+4	2	well ,	83	M	36, 48, 102, 118
+3	2	, uh	107	M	4, 36, 110
 3	2	i think	121	M	4, 32, 124
 3	2	i'm not	55	M	30, 52, 84
 3	2	it's a	89	M	28, 88, 116
 3	2	know .	63	M	62, 80, 124
 3	2	to the	77	M	28, 66, 104
+2	2	, i'm	73	M	30, 102
+2	2	, it's	67	M	22, 88
 2	2	food .	75	M	14, 88
 2	2	going to	5	M	66, 70
 2	2	good .	19	M	18, 36
 2	2	i know	39	M	86, 124
 2	2	i was	73	M	14, 86
 2	2	it ?	87	M	34, 120
+2	2	know ,	61	M	26, 86
+2	2	like ,	11	M	58, 68
+2	2	no ,	11	M	78, 88
 2	2	of the	11	M	4, 14
 2	2	oh .	15	M	10, 24
 2	2	want to	59	M	52, 110
+2	2	yeah ,	11	M	22, 32
 2	2	yes .	39	M	74, 112
 2	2	you know	37	M	26, 62
 15	1	i	121	M	4, 6, 8, 10, 14, 32, 52, 68, 72, 80, 86, 98, 102, 110, 124
@@ -38,7 +51,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	is	75	M	44, 72, 92, 118
 4	1	it	87	M	34, 64, 68, 120
 4	1	like	57	M	12, 38, 58, 68
-4	1	uh	107	M	4, 36, 74, 110
 4	1	was	87	M	0, 14, 68, 86
 4	1	we	85	M	38, 104, 120, 122
 3	1	eat	115	M	6, 70, 120
@@ -68,5 +80,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	um	51	M	24, 74
 2	1	why	17	M	82, 98
 2	1	with	19	M	4, 22
-2	1	yeah	11	M	22, 32
 

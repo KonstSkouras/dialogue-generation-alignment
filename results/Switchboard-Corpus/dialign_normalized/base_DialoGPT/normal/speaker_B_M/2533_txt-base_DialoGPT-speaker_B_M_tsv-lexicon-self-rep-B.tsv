@@ -1,16 +1,22 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, but it's a	85	M	35, 119
 2	4	the new jersey yankees	3	M	37, 39
+3	3	, but it's	85	M	35, 85, 119
 3	3	but it's a	85	M	35, 113, 119
 2	3	but it's not	25	M	61, 85
 2	3	i don't think	67	M	49, 115
 2	3	i'm not sure	49	M	35, 83
 2	3	i'm pretty sure	55	M	31, 85
-2	3	yeah but it's	59	M	61, 119
+5	2	, but	85	M	35, 75, 85, 117, 119
+3	2	, i	83	M	45, 97, 127
+3	2	, i'm	17	M	69, 79, 85
 3	2	he was	15	M	7, 17, 21
 3	2	i'm not	49	M	35, 79, 83
 3	2	it's not	53	M	61, 85, 113
 3	2	new jersey	9	M	31, 37, 39
 3	2	that .	101	M	15, 83, 115
+2	2	, she	17	M	77, 93
+2	2	, you	9	M	11, 19
 2	2	are you	57	M	25, 81
 2	2	have a	7	M	121, 127
 2	2	i have	27	M	101, 127
@@ -18,8 +24,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i've been	53	M	11, 63
 2	2	new york	3	M	31, 33
 2	2	not the	19	M	61, 79
+2	2	oh ,	15	M	79, 93
 2	2	team ?	3	M	41, 43
 2	2	they are	3	M	53, 55
+2	2	well ,	41	M	45, 85
 2	2	what ?	21	M	67, 87
 2	2	you know	117	M	11, 127
 13	1	i	113	M	15, 21, 23, 37, 45, 49, 63, 69, 89, 97, 101, 115, 127
@@ -53,13 +61,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	like	93	M	21, 113
 2	1	mets	5	M	27, 31
 2	1	my	13	M	53, 65
-2	1	oh	15	M	79, 93
 2	1	one	57	M	23, 79
 2	1	only	13	M	79, 91
 2	1	see	5	M	19, 23
-2	1	she	17	M	77, 93
 2	1	two	69	M	23, 91
-2	1	well	41	M	45, 85
 2	1	why	31	M	25, 55
+2	1	yeah	59	M	61, 119
 2	1	yes	59	M	13, 71
 

@@ -1,17 +1,26 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	i think that's	57	B	0, 56
-2	3	so i mean	3	B	50, 52
-2	3	uh i think	63	B	0, 62
+2	5	, uh , i think	63	B	0, 62
+2	4	, i think that's	57	B	0, 56
+2	4	so , i mean	3	B	50, 52
+2	3	, i don't	51	B	6, 56
+8	2	, i	63	B	0, 6, 16, 48, 50, 52, 56, 62
+6	2	so ,	49	B	14, 20, 40, 50, 52, 62
 6	2	yeah .	63	B	4, 18, 24, 30, 60, 66
 5	2	i think	63	B	0, 4, 44, 56, 62
+4	2	, but	59	B	4, 6, 12, 62
 3	2	i don't	57	B	6, 56, 62
 3	2	i mean	7	B	50, 52, 56
+3	2	uh ,	63	B	0, 44, 62
+3	2	yeah ,	13	B	0, 8, 12
+2	2	, and	35	B	10, 44
+2	2	, this	45	B	6, 50
 2	2	is pretty	47	B	16, 62
 2	2	not a	9	B	6, 14
 2	2	of the	29	B	4, 32
 2	2	out of	21	B	32, 52
 2	2	people that	51	B	4, 54
 2	2	pretty good	9	B	8, 16
+2	2	that's ,	57	B	0, 56
 2	2	the punishment	59	B	4, 62
 2	2	the time	33	B	0, 32
 2	2	think that	19	B	44, 62
@@ -42,7 +51,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	it's	9	B	4, 6, 12
 3	1	people	51	B	4, 48, 54
 3	1	time	33	B	0, 6, 32
-3	1	uh	63	B	0, 44, 62
 3	1	you	49	B	6, 32, 54
 2	1	all	11	B	22, 32
 2	1	an	33	B	12, 44
@@ -52,7 +60,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	in	9	B	4, 12
 2	1	more	19	B	26, 44
 2	1	really	21	B	26, 46
-2	1	this	45	B	6, 50
 2	1	true	39	B	8, 46
 2	1	well	3	B	4, 6
 2	1	with	43	B	12, 54

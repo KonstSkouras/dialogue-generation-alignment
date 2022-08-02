@@ -1,24 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	a lot of them	5	A	23, 27
 3	3	a lot of	13	A	23, 27, 35
-2	3	. so that	19	A	33, 51
+3	3	and , and	35	A	29, 33, 63
+2	3	, and my	27	A	5, 31
 2	3	. yeah .	17	A	37, 53
 2	3	he gets home	3	A	65, 67
 2	3	how to play	3	A	23, 25
+2	3	so , that	21	A	31, 51
 2	3	so we go	5	A	29, 33
-2	3	so we just	13	A	51, 63
-2	3	writing too so	7	A	35, 41
+9	2	, and	59	A	5, 23, 25, 27, 29, 31, 33, 49, 63
+5	2	and ,	37	A	27, 29, 33, 35, 63
 4	2	a lot	29	A	23, 27, 35, 51
 4	2	and my	31	A	5, 23, 31, 35
-4	2	so that	21	A	31, 33, 39, 51
 4	2	yeah .	37	A	17, 37, 45, 53
 4	2	yes .	51	A	7, 9, 53, 57
 3	2	. i	59	A	5, 7, 63
 3	2	. so	27	A	25, 33, 51
-3	2	and and	35	A	29, 33, 63
 3	2	and i	35	A	1, 33, 35
 3	2	my daughter	31	A	5, 33, 35
 3	2	of my	23	A	1, 3, 23
+3	2	so ,	25	A	27, 31, 51
+3	2	so we	35	A	29, 33, 63
+2	2	, we	25	A	27, 51
 2	2	. my	5	A	5, 9
 2	2	and it's	3	A	23, 25
 2	2	and she	19	A	23, 41
@@ -31,9 +34,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	my son	5	A	5, 9
 2	2	of the	25	A	5, 29
 2	2	right .	35	A	13, 47
-2	2	that and	11	A	31, 41
+2	2	so that	7	A	33, 39
 2	2	to play	3	A	23, 25
 2	2	too .	31	A	9, 39
+2	2	um ,	13	A	23, 35
+2	2	we just	13	A	51, 63
+2	2	writing too	7	A	35, 41
 15	1	and	67	A	1, 5, 9, 23, 25, 27, 29, 31, 33, 35, 41, 49, 61, 63, 67
 12	1	so	41	A	25, 27, 29, 31, 33, 35, 39, 41, 51, 59, 63, 65
 10	1	my	49	A	1, 3, 5, 9, 23, 31, 33, 35, 41, 49
@@ -82,7 +88,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	scouts	23	A	9, 31
 2	1	they	21	A	5, 25
 2	1	together	5	A	35, 39
-2	1	um	13	A	23, 35
 2	1	us	11	A	39, 49
 2	1	well	11	A	23, 33
 

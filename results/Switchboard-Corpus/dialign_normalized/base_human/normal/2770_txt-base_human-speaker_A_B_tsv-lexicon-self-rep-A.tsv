@@ -1,58 +1,74 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	i had a cocker spaniel	23	A	1, 23
-2	4	yeah that's true .	3	A	25, 27
+2	5	yeah , that's true .	3	A	25, 27
+3	4	, you know ,	21	A	13, 17, 33
+3	3	, i think	27	A	23, 33, 49
+3	3	, uh ,	27	A	13, 23, 39
 3	3	i think that's	37	A	13, 41, 49
+2	3	, i don't	19	A	1, 19
+2	3	, right .	11	A	27, 37
+2	3	, um ,	7	A	13, 19
+2	3	and , and	21	A	27, 47
 2	3	and i think	13	A	1, 13
 2	3	i don't know	17	A	19, 35
 2	3	i had a	23	A	1, 23
 2	3	of them .	21	A	13, 33
 2	3	take care of	17	A	13, 29
+2	3	that , that	3	A	33, 35
+2	3	yeah , i	7	A	27, 33
+8	2	, i	49	A	1, 5, 19, 23, 27, 29, 33, 49
 8	2	i think	49	A	1, 13, 17, 23, 33, 41, 47, 49
+6	2	, and	43	A	5, 13, 15, 17, 27, 47
+6	2	yeah ,	31	A	15, 23, 25, 27, 33, 45
+4	2	, you	31	A	3, 13, 17, 33
+3	2	, that	23	A	13, 33, 35
+3	2	, that's	7	A	25, 27, 31
 3	2	a pet	33	A	1, 7, 33
+3	2	and ,	25	A	23, 27, 47
 3	2	and i	27	A	1, 13, 27
-3	2	i don't	35	A	1, 19, 35
+3	2	but ,	21	A	19, 35, 39
+3	2	it ,	25	A	5, 23, 29
 3	2	kind of	15	A	21, 27, 35
+3	2	know ,	21	A	13, 17, 33
+3	2	right ,	47	A	5, 37, 51
 3	2	true .	17	A	25, 27, 41
-3	2	you know	21	A	13, 17, 33
+3	2	um ,	7	A	13, 17, 19
+2	2	, an	15	A	1, 15
+2	2	, i'm	17	A	11, 27
+2	2	, or	17	A	13, 29
+2	2	, right	11	A	27, 37
 2	2	. but	3	A	11, 13
 2	2	. i	47	A	1, 47
 2	2	. yeah	5	A	27, 31
 2	2	a dog	11	A	17, 27
 2	2	a lot	47	A	1, 47
-2	2	and and	21	A	27, 47
 2	2	and they	11	A	3, 13
 2	2	do you	13	A	7, 19
 2	2	exactly .	3	A	45, 47
 2	2	have a	45	A	7, 51
 2	2	i know	15	A	13, 27
 2	2	i was	5	A	1, 5
-2	2	like i	9	A	19, 27
 2	2	my kids	15	A	1, 15
 2	2	of them	21	A	13, 33
-2	2	right .	11	A	27, 37
-2	2	that that	3	A	33, 35
+2	2	oh ,	21	A	11, 31
+2	2	that ,	3	A	33, 35
 2	2	that's good	37	A	11, 47
 2	2	they just	9	A	5, 13
 2	2	was an	5	A	19, 23
 2	2	when i	23	A	1, 23
 2	2	yeah .	13	A	31, 43
-2	2	yeah i	7	A	27, 33
 13	1	i	49	A	1, 5, 13, 17, 19, 23, 27, 29, 33, 35, 41, 47, 49
 12	1	and	47	A	1, 3, 5, 13, 15, 17, 23, 27, 29, 33, 37, 47
 10	1	a	51	A	1, 5, 7, 9, 17, 23, 27, 33, 47, 51
 8	1	of	35	A	1, 5, 13, 21, 27, 29, 33, 35
-8	1	that's	39	A	11, 13, 25, 27, 31, 41, 47, 49
-8	1	yeah	31	A	15, 23, 25, 27, 31, 33, 43, 45
 6	1	that	31	A	5, 11, 13, 23, 33, 35
 6	1	you	31	A	3, 7, 13, 17, 19, 33
 5	1	but	29	A	11, 13, 19, 35, 39
 5	1	it	25	A	5, 21, 23, 27, 29
-4	1	an	23	A	1, 15, 19, 23
 4	1	don't	35	A	1, 5, 19, 35
 4	1	have	45	A	7, 13, 49, 51
 4	1	my	27	A	1, 13, 15, 27
 4	1	really	29	A	13, 17, 33, 41
-4	1	right	47	A	5, 27, 37, 51
 4	1	take	17	A	13, 17, 27, 29
 4	1	them	31	A	3, 13, 27, 33
 4	1	they	15	A	3, 5, 13, 17
@@ -70,13 +86,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	people	25	A	13, 27, 37
 3	1	pet	33	A	1, 7, 33
 3	1	so	23	A	11, 29, 33
-3	1	uh	27	A	13, 23, 39
-3	1	um	7	A	13, 17, 19
 2	1	anything	15	A	3, 17
 2	1	are	25	A	13, 37
 2	1	dogs	15	A	13, 27
 2	1	get	23	A	11, 33
-2	1	i'm	17	A	11, 27
 2	1	is	47	A	1, 47
 2	1	love	5	A	1, 5
 2	1	more	11	A	37, 47

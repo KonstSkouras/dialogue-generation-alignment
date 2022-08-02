@@ -1,12 +1,17 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	the great barrier reef ?	5	M	82, 86
 2	4	you do that ?	83	M	46, 128
+3	3	i'm sorry ,	109	M	8, 42, 116
+2	3	, i think	19	M	66, 84
+2	3	, i'm not	39	M	42, 80
 2	3	i'm not sure	65	M	42, 106
 2	3	it's not that	23	M	96, 118
 4	2	i'm not	65	M	42, 80, 102, 106
 4	2	i'm sorry	113	M	4, 8, 42, 116
+3	2	, i'm	39	M	42, 44, 80
 3	2	i think	23	M	62, 66, 84
 3	2	that ?	83	M	46, 54, 128
+2	2	, and	43	M	76, 118
 2	2	australia .	5	M	88, 92
 2	2	did you	35	M	82, 116
 2	2	do you	57	M	58, 114
@@ -21,6 +26,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	in the	33	M	20, 52
 2	2	it was	85	M	36, 120
 2	2	it's a	9	M	40, 48
+2	2	no ,	69	M	28, 96
 2	2	not a	25	M	80, 104
 2	2	some places	89	M	30, 118
 2	2	that expensive	5	M	118, 122

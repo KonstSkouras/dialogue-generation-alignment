@@ -1,22 +1,36 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	, uh , you know ,	7	A	52, 58
+4	4	, you know ,	49	A	10, 30, 52, 58
+5	3	, you know	55	A	4, 10, 30, 52, 58
+4	3	, uh ,	57	A	2, 10, 52, 58
+2	3	, i guess	21	A	10, 30
+2	3	, they are	21	A	38, 58
+2	3	i mean ,	29	A	10, 38
 2	3	that kind of	41	A	18, 58
-2	3	uh you know	7	A	52, 58
-5	2	you know	55	A	4, 10, 30, 52, 58
+5	2	, i	39	A	2, 4, 10, 30, 40
+5	2	, uh	57	A	2, 4, 10, 52, 58
+5	2	, you	55	A	4, 10, 30, 52, 58
+5	2	uh ,	57	A	2, 4, 10, 52, 58
+4	2	that ,	49	A	10, 42, 56, 58
+3	2	, and	33	A	26, 44, 58
 3	2	. i	27	A	4, 10, 30
 3	2	i guess	29	A	10, 30, 38
 3	2	in a	31	A	10, 26, 40
 3	2	it .	21	A	10, 24, 30
 3	2	kind of	49	A	10, 18, 58
+2	2	, in	19	A	40, 58
+2	2	, it's	3	A	58, 60
+2	2	, not	55	A	4, 58
+2	2	, so	7	A	52, 58
+2	2	, that	3	A	56, 58
 2	2	. it's	3	A	58, 60
 2	2	i don't	27	A	4, 30
 2	2	i like	23	A	2, 24
-2	2	i mean	29	A	10, 38
 2	2	like the	45	A	2, 46
 2	2	of the	9	A	2, 10
-2	2	so i	5	A	26, 30
-2	2	that i	47	A	10, 56
+2	2	so ,	23	A	30, 52
 2	2	that's the	47	A	12, 58
-2	2	they are	21	A	38, 58
+2	2	the ,	43	A	10, 52
 2	2	to get	49	A	10, 58
 2	2	too .	3	A	20, 22
 2	2	true .	29	A	14, 42
@@ -24,6 +38,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	uh-huh .	13	A	36, 48
 2	2	up in	49	A	10, 58
 2	2	we have	43	A	16, 58
+2	2	yeah ,	33	A	28, 60
 12	1	that	59	A	0, 10, 12, 16, 18, 26, 30, 40, 42, 52, 56, 58
 11	1	i	55	A	2, 4, 10, 20, 22, 24, 26, 30, 38, 40, 56
 11	1	the	57	A	2, 10, 12, 18, 26, 38, 40, 46, 52, 54, 58
@@ -32,7 +47,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	it	49	A	10, 22, 24, 26, 30, 32, 58
 6	1	like	57	A	2, 8, 24, 30, 46, 58
 6	1	to	49	A	10, 26, 30, 32, 56, 58
-6	1	uh	57	A	2, 4, 10, 34, 52, 58
 6	1	you	55	A	4, 10, 30, 32, 52, 58
 5	1	know	55	A	4, 10, 30, 52, 58
 5	1	of	57	A	2, 10, 18, 52, 58

@@ -1,20 +1,42 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	4	, you know ,	11	A	52, 54, 62
+3	3	, uh ,	51	A	10, 14, 60
+2	3	, um ,	21	A	42, 62
+2	3	like that ,	33	A	10, 42
 2	3	yeah . and	37	A	4, 40
 6	2	yeah .	55	A	4, 6, 36, 40, 48, 58
+5	2	well ,	61	A	2, 24, 56, 58, 62
+4	2	, uh	51	A	10, 14, 30, 60
+4	2	, you	15	A	48, 52, 54, 62
 4	2	do you	41	A	2, 14, 30, 42
 4	2	uh-huh .	39	A	0, 8, 16, 38
+3	2	, i	21	A	42, 60, 62
+3	2	and ,	19	A	42, 54, 60
 3	2	is it	21	A	10, 18, 30
 3	2	right .	19	A	28, 36, 46
-3	2	you know	11	A	52, 54, 62
+3	2	that ,	51	A	10, 42, 60
+3	2	uh ,	51	A	10, 14, 60
+2	2	, and	29	A	14, 42
+2	2	, because	21	A	42, 62
+2	2	, but	3	A	52, 54
+2	2	, do	9	A	2, 10
+2	2	, for	31	A	10, 40
+2	2	, or	11	A	30, 40
+2	2	, that's	17	A	42, 58
+2	2	, the	53	A	10, 62
 2	2	. uh-huh	37	A	0, 36
 2	2	. yeah	13	A	36, 48
 2	2	and then	9	A	52, 60
-2	2	and you	35	A	20, 54
+2	2	but ,	53	A	10, 62
 2	2	have a	59	A	2, 60
+2	2	i ,	33	A	10, 42
 2	2	i don't	23	A	40, 62
+2	2	it ,	21	A	10, 30
 2	2	it's not	45	A	10, 54
-2	2	like that	33	A	10, 42
+2	2	oh ,	11	A	24, 34
 2	2	oh .	3	A	44, 46
+2	2	or ,	3	A	40, 42
+2	2	play ,	3	A	60, 62
 2	2	there .	45	A	4, 48
 2	2	you can	11	A	20, 30
 2	2	you to	47	A	10, 56
@@ -32,17 +54,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	have	59	A	2, 30, 32, 48, 60
 5	1	is	59	A	2, 10, 18, 30, 60
 5	1	or	33	A	30, 40, 42, 56, 62
-5	1	well	61	A	2, 24, 56, 58, 62
 4	1	a	59	A	2, 10, 42, 60
 4	1	because	21	A	42, 48, 52, 62
-4	1	but	53	A	10, 52, 54, 62
 4	1	can	51	A	10, 20, 30, 60
 4	1	for	53	A	10, 12, 40, 62
 4	1	just	43	A	20, 30, 42, 62
-4	1	oh	23	A	24, 34, 44, 46
 4	1	really	59	A	4, 34, 52, 62
 4	1	right	37	A	10, 28, 36, 46
-4	1	uh	51	A	10, 14, 30, 60
 3	1	get	53	A	10, 12, 62
 3	1	he	15	A	48, 60, 62
 3	1	it's	45	A	10, 30, 54
@@ -80,11 +98,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	so	23	A	40, 62
 2	1	something	33	A	10, 42
 2	1	tell	15	A	48, 62
-2	1	that's	17	A	42, 58
 2	1	them	3	A	48, 50
 2	1	they're	19	A	2, 20
 2	1	time	19	A	30, 48
 2	1	too	11	A	52, 62
-2	1	um	21	A	42, 62
 2	1	your	47	A	10, 56
 

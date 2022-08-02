@@ -1,18 +1,25 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	i'm afraid i think	9	B	23, 31
+2	5	, i'm afraid i think	9	B	23, 31
+3	4	, you know ,	67	B	1, 37, 67
+2	4	, and i'm not	9	B	39, 47
+2	4	, see , i'm	7	B	17, 23
+2	4	, you know .	45	B	25, 69
+2	4	. you know ,	57	B	9, 65
+2	4	capital punishment , but	33	B	5, 37
 2	4	i'm not talking about	11	B	29, 39
 2	4	in the school system	11	B	29, 39
 2	4	it costs more to	43	B	7, 49
 2	4	than it does to	43	B	7, 49
 2	4	that are going to	25	B	21, 45
+5	3	, uh ,	69	B	3, 5, 31, 41, 71
 3	3	i'm not sure	37	B	11, 39, 47
+3	3	see , i'm	15	B	17, 23, 31
 3	3	some of them	7	B	35, 37, 41
 3	3	you know .	63	B	7, 25, 69
-2	3	. you know	57	B	9, 65
+2	3	, but a	11	B	31, 41
+2	3	, yeah .	15	B	13, 27
 2	3	a lot of	7	B	35, 41
 2	3	and all that	3	B	5, 7
-2	3	and i'm not	9	B	39, 47
-2	3	capital punishment but	33	B	5, 37
 2	3	down the road	13	B	25, 37
 2	3	of all the	33	B	7, 39
 2	3	of them are	9	B	33, 41
@@ -22,37 +29,48 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	to do with	9	B	37, 45
 2	3	what kind of	47	B	15, 61
 9	2	you know	69	B	1, 7, 9, 25, 37, 49, 65, 67, 69
+7	2	, but	61	B	5, 11, 31, 37, 41, 47, 65
+7	2	, i	59	B	7, 9, 23, 31, 45, 47, 65
+6	2	, you	69	B	1, 23, 25, 37, 67, 69
 5	2	i think	33	B	9, 23, 25, 31, 41
 5	2	in the	39	B	1, 7, 29, 35, 39
 5	2	to do	23	B	23, 37, 39, 41, 45
+5	2	uh ,	69	B	3, 5, 31, 41, 71
+4	2	, i'm	23	B	17, 23, 31, 39
 4	2	kind of	61	B	1, 15, 37, 61
 4	2	of them	9	B	33, 35, 37, 41
 4	2	some of	13	B	35, 37, 41, 47
 4	2	to be	31	B	9, 21, 31, 39
 4	2	uh-huh .	49	B	15, 47, 53, 63
+4	2	well ,	59	B	9, 17, 31, 67
 4	2	yeah .	53	B	7, 13, 27, 59
+3	2	, and	9	B	39, 41, 47
 3	2	. and	31	B	7, 21, 37
 3	2	all the	63	B	7, 39, 69
+3	2	and ,	35	B	3, 23, 37
 3	2	and all	65	B	5, 7, 69
 3	2	because i	31	B	1, 7, 31
+3	2	but ,	71	B	1, 43, 71
 3	2	capital punishment	33	B	5, 9, 37
 3	2	i have	33	B	1, 31, 33
-3	2	see i'm	15	B	17, 23, 31
 3	2	talking about	11	B	29, 31, 39
 3	2	that are	25	B	21, 23, 45
 3	2	we would	25	B	1, 23, 25
+2	2	, not	29	B	37, 65
+2	2	, on	65	B	1, 65
+2	2	, that	17	B	7, 23
+2	2	, we	37	B	5, 41
 2	2	. i	17	B	31, 47
 2	2	a school	15	B	17, 31
 2	2	a very	17	B	5, 21
 2	2	and i	13	B	21, 33
-2	2	but a	11	B	31, 41
 2	2	do you	35	B	15, 49
 2	2	five hundred	3	B	31, 33
 2	2	for it	3	B	55, 57
 2	2	i don't	47	B	1, 47
 2	2	if we	17	B	23, 39
-2	2	in in	27	B	31, 57
 2	2	is .	11	B	1, 11
+2	2	it ,	23	B	47, 69
 2	2	it for	5	B	61, 65
 2	2	it in	35	B	23, 57
 2	2	kids .	11	B	21, 31
@@ -61,7 +79,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	of their	5	B	31, 35
 2	2	supposed to	33	B	9, 41
 2	2	system .	7	B	29, 35
-2	2	that i	17	B	7, 23
 2	2	that there	17	B	31, 47
 2	2	them .	39	B	7, 45
 2	2	to keep	43	B	7, 49
@@ -85,14 +102,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	all	65	B	5, 7, 31, 37, 39, 69
 6	1	have	41	B	1, 25, 31, 33, 37, 41
 6	1	kids	25	B	21, 25, 31, 33, 37, 45
-6	1	not	55	B	11, 29, 37, 39, 47, 65
 6	1	see	29	B	9, 17, 21, 23, 31, 37
 6	1	think	41	B	1, 9, 23, 25, 31, 41
 5	1	be	39	B	9, 21, 31, 39, 47
 5	1	because	41	B	1, 7, 23, 31, 41
 5	1	school	23	B	17, 19, 29, 31, 39
 5	1	some	23	B	35, 37, 41, 47, 57
-5	1	uh	69	B	3, 5, 31, 41, 71
 5	1	well	59	B	9, 17, 29, 31, 67
 5	1	yeah	53	B	7, 11, 13, 27, 59
 4	1	about	41	B	29, 31, 39, 69

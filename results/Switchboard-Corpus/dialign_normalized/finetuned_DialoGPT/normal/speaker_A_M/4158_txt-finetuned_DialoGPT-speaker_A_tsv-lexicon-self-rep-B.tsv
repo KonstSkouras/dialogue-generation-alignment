@@ -1,20 +1,28 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, i , i	7	M	2, 8
+2	4	, you , you	13	M	28, 40
+3	3	, uh .	5	M	20, 22, 24
+3	3	well , i	21	M	2, 10, 22
+2	3	, i guess	15	M	8, 22
+2	3	, i work	9	M	2, 10
+2	3	, uh ,	35	M	2, 36
+2	3	, um .	27	M	12, 38
 2	3	a university .	3	M	8, 10
+2	3	i , uh	21	M	2, 22
+2	3	well , that's	25	M	6, 30
+7	2	, uh	37	M	0, 2, 12, 20, 22, 24, 36
 5	2	yeah .	39	M	4, 6, 26, 32, 42
+3	2	, that's	25	M	6, 14, 30
+3	2	and ,	29	M	12, 38, 40
 3	2	i guess	29	M	8, 22, 36
 3	2	i work	9	M	2, 8, 10
-3	2	uh .	5	M	20, 22, 24
-3	2	well i	21	M	2, 10, 22
-2	2	i i	7	M	2, 8
-2	2	i uh	21	M	2, 22
+3	2	that ,	35	M	6, 36, 40
+3	2	uh ,	35	M	2, 16, 36
+3	2	yeah ,	15	M	0, 4, 14
+2	2	, you	13	M	28, 40
 2	2	right .	17	M	18, 34
-2	2	um .	27	M	12, 38
-2	2	well that's	25	M	6, 30
 2	2	work for	21	M	8, 28
-2	2	you you	13	M	28, 40
 8	1	i	39	M	2, 8, 10, 22, 24, 28, 36, 40
-8	1	uh	37	M	0, 2, 12, 16, 20, 22, 24, 36
-7	1	yeah	43	M	0, 4, 6, 14, 26, 32, 42
 5	1	and	39	M	2, 12, 36, 38, 40
 5	1	that's	31	M	6, 14, 28, 30, 36
 5	1	well	29	M	2, 6, 10, 22, 30

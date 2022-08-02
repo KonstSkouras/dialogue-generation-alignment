@@ -1,6 +1,9 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	going to go to	21	A	69, 89
 2	4	was the one that	77	A	21, 97
+3	3	, uh ,	77	A	21, 93, 97
+2	3	, but he	35	A	15, 49
+2	3	, you know	77	A	41, 117
 2	3	. i was	7	A	91, 97
 2	3	and i was	77	A	21, 97
 2	3	and it was	57	A	35, 91
@@ -8,28 +11,40 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	i was summonsed	7	A	91, 97
 2	3	listen to it	5	A	33, 37
 2	3	so do i	5	A	25, 29
+2	3	the , the	57	A	45, 101
 2	3	two to three	3	A	95, 97
 2	3	you can just	3	A	41, 43
+2	3	you know ,	73	A	45, 117
 14	2	yeah .	115	A	1, 7, 11, 23, 39, 51, 57, 59, 65, 67, 77, 99, 109, 115
 6	2	going to	77	A	21, 69, 85, 89, 95, 97
+5	2	, i	83	A	29, 35, 49, 97, 111
 5	2	. i	95	A	3, 5, 31, 91, 97
 5	2	and i	85	A	21, 35, 97, 103, 105
 5	2	you know	85	A	33, 41, 45, 113, 117
+4	2	, and	97	A	21, 91, 97, 117
+4	2	, but	97	A	15, 21, 49, 111
 4	2	i was	95	A	21, 91, 97, 115
 4	2	it .	77	A	21, 37, 45, 97
+3	2	, then	53	A	45, 69, 97
 3	2	. and	77	A	21, 69, 97
 3	2	a friend	29	A	69, 79, 97
-3	2	and then	61	A	37, 69, 97
 3	2	i don't	47	A	3, 5, 49
+3	2	that ,	109	A	3, 103, 111
 3	2	that .	47	A	17, 27, 63
 3	2	to go	49	A	69, 89, 117
+3	2	yeah ,	31	A	71, 77, 101
+2	2	, he	89	A	13, 101
+2	2	, so	5	A	21, 25
+2	2	, there's	105	A	13, 117
+2	2	, when	113	A	3, 115
 2	2	. no	25	A	85, 109
+2	2	and ,	49	A	21, 69
 2	2	and it's	97	A	21, 117
 2	2	and the	3	A	95, 97
+2	2	and then	61	A	37, 97
 2	2	and they	3	A	95, 97
 2	2	and you	11	A	33, 43
 2	2	are you	19	A	71, 89
-2	2	but he	35	A	15, 49
 2	2	forgot about	3	A	27, 29
 2	2	he plays	3	A	13, 15
 2	2	heard of	51	A	13, 63
@@ -44,11 +59,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	me .	65	A	21, 85
 2	2	murder trial	25	A	91, 115
 2	2	never heard	31	A	33, 63
+2	2	oh ,	93	A	25, 117
 2	2	on and	85	A	33, 117
 2	2	said that	15	A	97, 111
 2	2	that they're	53	A	43, 95
 2	2	the one	77	A	21, 97
-2	2	the the	57	A	45, 101
+2	2	there ,	67	A	13, 79
 2	2	there's a	67	A	13, 79
 2	2	they had	5	A	91, 95
 2	2	they're not	3	A	83, 85
@@ -56,6 +72,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	this woman	5	A	93, 97
 2	2	trying to	75	A	43, 117
 2	2	uh-huh .	81	A	33, 113
+2	2	well ,	15	A	83, 97
 20	1	i	113	A	3, 5, 15, 17, 21, 25, 29, 31, 33, 35, 41, 49, 55, 61, 91, 97, 103, 105, 111, 115
 17	1	yeah	115	A	1, 7, 11, 23, 39, 51, 57, 59, 65, 67, 71, 75, 77, 99, 101, 109, 115
 14	1	that	109	A	3, 17, 21, 27, 41, 43, 45, 63, 89, 95, 97, 103, 105, 111
@@ -105,7 +122,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	them	31	A	31, 33, 61
 3	1	there's	105	A	13, 79, 117
 3	1	trial	25	A	91, 95, 115
-3	1	uh	77	A	21, 93, 97
 3	1	we	75	A	21, 69, 95
 3	1	well	29	A	69, 83, 97
 2	1	against	15	A	97, 111
@@ -133,7 +149,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	much	39	A	79, 117
 2	1	music	11	A	33, 43
 2	1	off	5	A	97, 101
-2	1	oh	93	A	25, 117
 2	1	ones	47	A	49, 95
 2	1	out	23	A	95, 117
 2	1	people	47	A	45, 91
@@ -143,7 +158,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	sit	21	A	21, 41
 2	1	summonsed	7	A	91, 97
 2	1	take	75	A	21, 95
-2	1	there	67	A	13, 79
 2	1	this	5	A	93, 97
 2	1	those	11	A	31, 41
 2	1	until	63	A	33, 95

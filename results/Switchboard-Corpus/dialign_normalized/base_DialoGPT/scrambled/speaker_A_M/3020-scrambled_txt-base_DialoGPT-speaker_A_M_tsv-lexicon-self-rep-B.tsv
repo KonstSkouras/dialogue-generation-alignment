@@ -1,18 +1,24 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	i don't think so .	37	M	89, 125
+2	4	i'm not sure ,	5	M	107, 111
 3	3	i don't think	65	M	61, 89, 125
+2	3	, but i	43	M	65, 107
+2	3	, i think	79	M	33, 111
 2	3	a car .	55	M	25, 79
 2	3	i am a	55	M	11, 65
 2	3	i think it's	41	M	67, 107
 2	3	i was thinking	33	M	63, 95
-2	3	i'm not sure	5	M	107, 111
+2	3	yeah , yeah	119	M	3, 121
+6	2	, i	101	M	11, 33, 43, 73, 95, 111
 5	2	i think	95	M	33, 67, 107, 111, 127
 4	2	don't think	65	M	61, 69, 89, 125
 4	2	i don't	65	M	61, 89, 109, 125
+4	2	yeah ,	119	M	3, 73, 87, 121
 3	2	. i	27	M	75, 95, 101
 3	2	i am	93	M	11, 65, 103
+2	2	, and	57	M	41, 97
+2	2	, i'm	17	M	111, 127
 2	2	a car	55	M	25, 79
-2	2	but i	43	M	65, 107
 2	2	but they	21	M	51, 71
 2	2	do .	31	M	41, 71
 2	2	i know	9	M	65, 73
@@ -23,12 +29,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	it was	11	M	101, 111
 2	2	of a	13	M	67, 79
 2	2	of the	3	M	95, 97
-2	2	that i	35	M	33, 67
 2	2	the point	39	M	23, 61
 2	2	they do	19	M	53, 71
 2	2	think it	107	M	5, 111
+2	2	uh ,	23	M	69, 91
 2	2	what's the	93	M	23, 115
-2	2	yeah yeah	119	M	3, 121
 2	2	you think	115	M	5, 119
 22	1	i	117	M	11, 33, 35, 43, 61, 63, 65, 67, 69, 73, 75, 79, 89, 95, 99, 101, 103, 107, 109, 111, 125, 127
 11	1	a	97	M	11, 21, 25, 33, 49, 65, 67, 69, 79, 101, 107
@@ -45,7 +50,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	that	81	M	33, 67, 83, 101, 113
 4	1	and	85	M	13, 41, 55, 97
 4	1	that's	101	M	21, 63, 119, 121
-4	1	yeah	119	M	3, 73, 87, 121
 3	1	can't	35	M	41, 51, 75
 3	1	good	93	M	21, 101, 113
 3	1	how	101	M	5, 37, 105

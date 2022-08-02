@@ -1,85 +1,110 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-3	4	i don't know i	47	M	10, 46, 56
+2	6	, i , i'm not sure	45	M	2, 46
+2	6	, i think that , uh	57	M	28, 84
+3	5	i don't know , i	47	M	10, 46, 56
+2	5	, i think , uh	27	M	52, 78
+2	5	, uh you know ,	31	M	54, 84
+2	5	, you know , i	51	M	28, 78
+2	5	uh , i , i	27	M	52, 78
+2	5	uh , you know ,	25	M	28, 52
+2	5	yeah , i , i	31	M	54, 84
+4	4	, you know ,	69	M	28, 52, 78, 96
+3	4	, i , i'm	55	M	2, 46, 56
+3	4	, i'm not sure	45	M	2, 42, 46
+3	4	, uh , the	25	M	60, 62, 84
+3	4	, uh uh ,	45	M	52, 54, 96
+2	4	, i don't know	69	M	10, 78
+2	4	, it , it	49	M	48, 96
+2	4	, it's , it	13	M	36, 48
+2	4	, that's true .	53	M	20, 72
+2	4	, uh , you	51	M	28, 78
+2	4	, you , you	9	M	52, 60
 2	4	and i think that	11	M	26, 36
-2	4	i i'm not sure	45	M	2, 46
-2	4	i think that uh	57	M	28, 84
+2	4	i , i think	59	M	26, 84
+2	4	know , i think	19	M	10, 28
 2	4	sentence someone to life	33	M	52, 84
-4	3	i don't know	69	M	10, 46, 56, 78
-4	3	uh you know	57	M	28, 52, 54, 84
+2	4	uh , i know	95	M	2, 96
+2	4	uh , well ,	79	M	2, 80
+11	3	, uh ,	95	M	2, 26, 28, 54, 58, 60, 62, 64, 78, 84, 96
+8	3	, i ,	83	M	2, 46, 52, 54, 56, 60, 78, 84
+8	3	, i think	75	M	10, 26, 28, 46, 52, 68, 78, 84
+7	3	you know ,	93	M	4, 28, 52, 54, 78, 84, 96
+6	3	i , i	85	M	0, 26, 52, 54, 78, 84
+5	3	a , a	43	M	54, 68, 78, 88, 96
+5	3	uh , i	97	M	0, 2, 52, 78, 96
+4	3	, uh .	89	M	2, 48, 50, 90
+3	3	, i don't	69	M	10, 56, 78
+3	3	. i ,	79	M	0, 2, 78
+3	3	and , uh	69	M	28, 84, 96
 3	3	and i think	37	M	26, 36, 62
-3	3	i'm not sure	45	M	2, 42, 46
+3	3	that , uh	57	M	28, 52, 84
+2	3	, i do	25	M	28, 52
+2	3	, i would	43	M	54, 96
+2	3	, the economy	3	M	60, 62
+2	3	, you see	77	M	2, 78
+2	3	. uh ,	45	M	52, 96
 2	3	going to take	21	M	28, 48
-2	3	i i think	59	M	26, 84
+2	3	i , uh	89	M	2, 90
+2	3	i , you	19	M	60, 78
 2	3	i think it	3	M	60, 62
-2	3	i think uh	27	M	52, 78
-2	3	know i think	19	M	10, 28
+2	3	in prison ,	33	M	52, 84
 2	3	possibility of parole	33	M	52, 84
-2	3	that's true .	53	M	20, 72
-2	3	uh i i	27	M	52, 78
-2	3	uh i know	95	M	2, 96
-2	3	uh uh uh	43	M	54, 96
-2	3	yeah i i	31	M	54, 84
-2	3	you know i	51	M	28, 78
+2	3	uh , i've	39	M	52, 90
+2	3	uh , uh	43	M	54, 96
+2	3	um , i	37	M	10, 46
+2	3	want to ,	3	M	58, 60
+2	3	was a ,	9	M	88, 96
+2	3	well , that's	17	M	72, 88
+15	2	, uh	95	M	2, 26, 28, 48, 50, 52, 54, 58, 60, 62, 64, 78, 84, 90, 96
+14	2	, i	97	M	0, 2, 10, 26, 28, 46, 52, 54, 56, 60, 68, 78, 84, 96
 13	2	i think	75	M	10, 26, 28, 34, 36, 46, 52, 58, 60, 62, 68, 78, 84
+10	2	know ,	93	M	4, 10, 28, 46, 52, 54, 56, 78, 84, 96
 9	2	yeah .	91	M	8, 14, 38, 40, 44, 76, 82, 94, 98
-7	2	you know	93	M	4, 28, 52, 54, 78, 84, 96
+6	2	, you	95	M	2, 28, 52, 60, 78, 96
 6	2	i don't	69	M	10, 12, 24, 46, 56, 78
-6	2	i i	85	M	0, 26, 52, 54, 78, 84
+6	2	yeah ,	81	M	20, 48, 50, 54, 84, 100
+5	2	, a	43	M	54, 68, 78, 88, 96
+5	2	, it	65	M	36, 48, 62, 96, 100
 5	2	. i	79	M	0, 2, 24, 46, 78
-5	2	a a	43	M	54, 68, 78, 88, 96
+5	2	a ,	43	M	54, 68, 78, 88, 96
 5	2	and i	71	M	26, 36, 60, 62, 96
 5	2	uh .	89	M	2, 6, 48, 50, 90
-5	2	uh i	97	M	0, 2, 52, 78, 96
-5	2	uh you	57	M	28, 52, 54, 78, 84
+5	2	well ,	87	M	2, 42, 72, 80, 88
 4	2	i'm not	45	M	2, 28, 42, 46
 4	2	it .	47	M	10, 26, 46, 56
 4	2	right .	81	M	22, 70, 92, 102
-3	2	and uh	69	M	28, 84, 96
-3	2	i i'm	55	M	2, 46, 56
-3	2	that uh	57	M	28, 52, 84
+4	2	that ,	61	M	28, 52, 84, 88
+3	2	, in	95	M	2, 84, 96
+3	2	, it's	65	M	36, 48, 100
+3	2	, they	31	M	54, 80, 84
+3	2	but ,	37	M	28, 46, 64
+3	2	it ,	49	M	48, 52, 96
 3	2	to take	23	M	26, 28, 48
-3	2	uh the	25	M	60, 62, 84
-3	2	uh uh	45	M	52, 54, 96
 3	2	uh-huh .	57	M	18, 66, 74
-2	2	. uh	45	M	52, 96
+3	2	um ,	37	M	10, 36, 46
+2	2	, have	3	M	58, 60
+2	2	, if	31	M	54, 84
 2	2	. um	27	M	10, 36
 2	2	about it	43	M	10, 52
 2	2	don't have	49	M	12, 60
-2	2	i do	25	M	28, 52
 2	2	i don	37	M	24, 60
-2	2	i uh	89	M	2, 90
-2	2	i would	43	M	54, 96
-2	2	i you	19	M	60, 78
-2	2	in prison	33	M	52, 84
 2	2	in the	5	M	54, 58
+2	2	is ,	21	M	68, 88
 2	2	is .	53	M	16, 68
-2	2	is that	21	M	68, 88
 2	2	it is	53	M	16, 68
-2	2	it it	49	M	48, 96
 2	2	it just	13	M	48, 60
 2	2	it was	97	M	0, 96
-2	2	it's it	13	M	36, 48
+2	2	just ,	9	M	48, 56
 2	2	people that	9	M	52, 60
+2	2	see ,	53	M	2, 54
 2	2	situation where	7	M	90, 96
 2	2	that we	43	M	26, 68
-2	2	the economy	3	M	60, 62
+2	2	to ,	3	M	58, 60
 2	2	to a	13	M	42, 54
 2	2	to go	15	M	46, 60
-2	2	uh i've	39	M	52, 90
-2	2	uh in	95	M	2, 96
-2	2	uh well	79	M	2, 80
-2	2	um i	37	M	10, 46
-2	2	want to	3	M	58, 60
-2	2	was a	9	M	88, 96
-2	2	well that's	17	M	72, 88
 2	2	with it	33	M	24, 56
-2	2	you see	77	M	2, 78
-2	2	you you	9	M	52, 60
-21	1	i	97	M	0, 2, 10, 12, 24, 26, 28, 34, 36, 46, 52, 54, 56, 58, 60, 62, 68, 78, 84, 90, 96
-18	1	uh	97	M	0, 2, 6, 26, 28, 48, 50, 52, 54, 58, 60, 62, 64, 78, 80, 84, 90, 96
 17	1	it	101	M	0, 10, 16, 24, 26, 36, 46, 48, 52, 56, 60, 62, 68, 78, 84, 96, 100
 16	1	that	91	M	0, 2, 4, 10, 12, 24, 26, 28, 36, 42, 52, 60, 68, 84, 88, 90
-15	1	yeah	93	M	8, 14, 20, 38, 40, 44, 48, 50, 54, 76, 82, 84, 94, 98, 100
 13	1	know	97	M	0, 2, 4, 10, 28, 46, 52, 54, 56, 68, 78, 84, 96
 10	1	to	59	M	26, 28, 42, 46, 48, 52, 54, 58, 60, 84
 10	1	you	103	M	2, 4, 28, 52, 54, 60, 78, 84, 96, 104
@@ -101,7 +126,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	we	71	M	26, 58, 68, 96
 3	1	be	43	M	10, 26, 52
 3	1	been	59	M	42, 90, 100
-3	1	but	37	M	28, 46, 64
 3	1	go	15	M	46, 54, 60
 3	1	i've	49	M	42, 52, 90
 3	1	if	39	M	46, 54, 84

@@ -1,19 +1,32 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	i don't know .	67	M	56, 122
 4	3	i don't know	121	M	2, 56, 58, 122
+3	3	, uh ,	119	M	12, 76, 130
 2	3	a golden retriever	3	M	52, 54
 2	3	going to go	31	M	84, 114
 2	3	he was a	7	M	16, 22
 2	3	i'm so sorry	85	M	20, 104
+2	3	no , i'm	63	M	36, 98
 2	3	the river .	3	M	78, 80
+2	3	you know ,	35	M	58, 92
+5	2	, i'm	91	M	20, 36, 98, 100, 110
 5	2	i don't	121	M	2, 46, 56, 58, 122
+5	2	uh ,	131	M	0, 12, 34, 76, 130
+4	2	, uh	131	M	0, 12, 76, 130
 4	2	it .	69	M	46, 86, 88, 114
 3	2	he was	9	M	16, 22, 24
 3	2	in the	25	M	58, 80, 82
 3	2	it was	23	M	90, 100, 112
+3	2	know ,	85	M	8, 58, 92
+3	2	no ,	63	M	36, 78, 98
 3	2	was a	97	M	16, 22, 112
+2	2	, but	33	M	58, 90
+2	2	, he	57	M	22, 78
+2	2	, it's	7	M	58, 64
+2	2	, you	53	M	58, 110
 2	2	a bad	21	M	92, 112
 2	2	a bit	3	M	90, 92
+2	2	but ,	19	M	58, 76
 2	2	dog is	37	M	4, 40
 2	2	feeling bad	3	M	28, 30
 2	2	have a	73	M	52, 124
@@ -25,19 +38,23 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i think	21	M	28, 48
 2	2	i'm just	59	M	56, 114
 2	2	i'm sure	31	M	70, 100
+2	2	it ,	13	M	118, 130
 2	2	know what	131	M	2, 132
 2	2	me .	43	M	26, 68
-2	2	no i'm	63	M	36, 98
 2	2	not really	21	M	114, 134
 2	2	of a	43	M	92, 134
+2	2	oh ,	45	M	62, 106
 2	2	she's a	43	M	12, 54
 2	2	sorry .	79	M	20, 98
 2	2	the dog	17	M	66, 82
 2	2	they're so	63	M	14, 76
 2	2	to be	119	M	18, 136
 2	2	uh .	19	M	0, 18
+2	2	uhh ,	3	M	42, 44
+2	2	wait ,	3	M	10, 12
+2	2	well ,	89	M	22, 110
 2	2	what ?	119	M	10, 128
-2	2	you know	35	M	58, 92
+2	2	yeah ,	79	M	34, 112
 23	1	i	131	M	2, 8, 28, 30, 38, 46, 48, 56, 58, 64, 66, 68, 74, 82, 86, 88, 92, 96, 120, 122, 124, 130, 132
 14	1	a	123	M	12, 16, 22, 24, 36, 52, 54, 56, 90, 92, 112, 124, 126, 134
 11	1	i'm	105	M	20, 36, 56, 70, 84, 98, 100, 104, 110, 114, 124
@@ -50,7 +67,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	don't	121	M	2, 46, 52, 56, 58, 122
 6	1	it's	83	M	32, 36, 58, 64, 102, 114
 6	1	just	87	M	28, 56, 90, 92, 94, 114
-6	1	uh	131	M	0, 12, 18, 34, 76, 130
 6	1	you	103	M	18, 52, 58, 92, 110, 120
 5	1	he	65	M	16, 22, 24, 78, 80
 5	1	like	113	M	18, 94, 102, 114, 130
@@ -69,7 +85,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	wait	111	M	10, 12, 68, 120
 4	1	well	105	M	22, 62, 110, 126
 3	1	be	119	M	18, 70, 136
-3	1	but	33	M	58, 76, 90
 3	1	can't	73	M	38, 68, 110
 3	1	for	69	M	26, 30, 94
 3	1	going	31	M	84, 92, 114
@@ -95,7 +110,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	there	9	M	94, 102
 2	1	they	109	M	28, 136
 2	1	this	17	M	40, 56
-2	1	uhh	3	M	42, 44
 2	1	with	7	M	78, 84
 2	1	yes	95	M	6, 100
 

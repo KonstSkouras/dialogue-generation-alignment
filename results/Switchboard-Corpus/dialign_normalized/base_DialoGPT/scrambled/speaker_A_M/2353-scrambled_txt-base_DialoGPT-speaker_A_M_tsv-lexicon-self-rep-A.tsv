@@ -1,36 +1,58 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	4	, you know ,	47	A	58, 96, 104
+2	4	, i , i	9	A	0, 8
 2	4	it's really sad .	21	A	24, 44
+2	4	well , you know	59	A	38, 96
+4	3	, uh ,	79	A	10, 18, 34, 88
+3	3	and , and	71	A	18, 82, 88
+2	3	, it's ,	103	A	2, 104
+2	3	, yeah .	31	A	62, 92
 2	3	. yeah .	55	A	46, 100
 2	3	and i think	13	A	6, 18
+2	3	and they ,	75	A	8, 82
 2	3	and they just	7	A	52, 58
-2	3	oh yeah .	67	A	26, 92
+2	3	in , in	75	A	0, 74
 2	3	some of the	15	A	74, 88
-2	3	well you know	59	A	38, 96
 8	2	uh-huh .	109	A	4, 22, 48, 56, 60, 70, 72, 112
 7	2	yeah .	77	A	26, 46, 62, 92, 98, 100, 102
 6	2	you know	69	A	36, 38, 58, 84, 96, 104
+5	2	, you	67	A	38, 58, 62, 96, 104
 5	2	of the	79	A	10, 62, 64, 74, 88
+5	2	oh ,	73	A	42, 62, 92, 94, 114
+4	2	, and	71	A	18, 38, 82, 88
 4	2	and they	75	A	8, 52, 58, 82
-3	2	and and	71	A	18, 82, 88
+4	2	that ,	89	A	0, 40, 62, 88
+3	2	, i	43	A	0, 8, 42
+3	2	, it's	103	A	2, 24, 104
+3	2	, they	99	A	8, 40, 106
 3	2	and i	13	A	6, 16, 18
 3	2	i have	59	A	8, 62, 66
+3	2	in ,	75	A	0, 10, 74
+3	2	know ,	47	A	58, 96, 104
 3	2	right .	71	A	36, 50, 106
+3	2	well ,	65	A	38, 96, 102
+3	2	yeah ,	29	A	8, 24, 36
+2	2	, but	93	A	14, 106
+2	2	, in	75	A	0, 74
+2	2	, that	89	A	0, 88
+2	2	, the	89	A	0, 88
 2	2	. i	55	A	62, 116
 2	2	and then	45	A	18, 62
+2	2	course ,	3	A	104, 106
+2	2	do ,	27	A	62, 88
 2	2	do you	25	A	84, 108
 2	2	funny .	41	A	12, 52
 2	2	had a	41	A	0, 40
 2	2	how to	51	A	34, 84
 2	2	huh .	29	A	50, 78
-2	2	i i	9	A	0, 8
 2	2	i mean	99	A	18, 116
-2	2	in in	75	A	0, 74
 2	2	in the	25	A	38, 62
+2	2	it ,	31	A	74, 104
 2	2	oh .	3	A	74, 76
-2	2	say that	67	A	0, 66
 2	2	that .	67	A	0, 66
 2	2	them .	67	A	14, 80
 2	2	to be	91	A	18, 108
+2	2	uh-huh ,	5	A	22, 26
 2	2	you think	5	A	104, 108
 15	1	and	99	A	6, 8, 10, 16, 18, 34, 38, 52, 54, 58, 62, 68, 82, 88, 104
 13	1	the	117	A	0, 8, 10, 14, 16, 38, 54, 62, 64, 68, 74, 88, 116
@@ -55,7 +77,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	for	57	A	6, 10, 14, 40, 62
 5	1	right	71	A	36, 38, 50, 68, 106
 4	1	them	67	A	14, 18, 34, 80
-4	1	uh	79	A	10, 18, 34, 88
 4	1	well	89	A	14, 38, 96, 102
 3	1	be	91	A	18, 106, 108
 3	1	course	107	A	0, 104, 106
@@ -84,6 +105,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	one	95	A	10, 104
 2	1	other	21	A	14, 34
 2	1	over	47	A	16, 62
+2	1	say	67	A	0, 66
 2	1	school	75	A	0, 74
 2	1	their	21	A	14, 34
 2	1	things	71	A	34, 104

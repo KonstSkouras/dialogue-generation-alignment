@@ -1,10 +1,13 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
 5	5	2	right .	60	54	4	A	7, 11, 15, 23, 60
+3	3	2	, uh	40	35	1	A	17, 40, 51
 3	3	2	. i'm	32	16	2	A	17, 19, 32
 3	3	2	do you	1	43	1	M	0, 1, 42
 3	3	2	going to	32	30	1	A	17, 32, 46
 3	3	2	i don't	65	42	2	M	24, 38, 65
 3	3	2	taxes .	43	39	1	M	10, 43, 48
+3	3	2	uh ,	40	35	1	A	17, 40, 51
+3	3	2	well ,	17	47	1	M	6, 17, 52
 2	2	2	. so	51	2	1	M	50, 51
 2	2	2	oh .	50	18	1	A	33, 50
 15	12	1	i	12	63	1	A	3, 12, 17, 21, 24, 25, 36, 38, 51, 54, 56, 60, 61, 63, 65
@@ -33,10 +36,9 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 4	4	1	in	4	52	1	A	3, 4, 17, 54
 4	2	1	oh	50	42	3	A	9, 33, 37, 50
 4	4	1	sure	58	50	3	A	9, 19, 37, 58
-4	4	1	well	17	47	1	M	6, 17, 21, 52
+4	1	1	well	21	47	1	M	6, 17, 21, 52
 3	3	1	one	50	45	1	A	17, 50, 61
 3	3	1	physics	62	10	2	A	53, 61, 62
-3	3	1	uh	40	35	1	A	17, 40, 51
 3	3	1	we	63	62	2	M	2, 34, 63
 3	3	1	yeah	49	54	1	M	16, 49, 69
 2	2	1	but	26	6	1	A	21, 26

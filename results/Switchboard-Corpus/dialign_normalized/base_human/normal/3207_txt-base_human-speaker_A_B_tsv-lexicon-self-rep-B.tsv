@@ -1,30 +1,42 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	6	put her in a rest home	5	B	15, 19
+2	5	, i don't know .	3	B	19, 21
 3	4	in a rest home	17	B	3, 15, 19
-2	4	i don't know .	3	B	19, 21
+2	4	, you know ,	3	B	1, 3
 3	3	put her in	17	B	3, 15, 19
+2	3	, i don't	3	B	19, 21
+2	3	, it's ,	33	B	19, 51
+2	3	, uh ,	19	B	1, 19
+2	3	, um ,	3	B	1, 3
 2	3	and my mom	5	B	21, 25
 2	3	i don't think	3	B	19, 21
+2	3	yeah , it's	27	B	25, 51
 7	2	uh-huh .	41	B	7, 11, 29, 33, 35, 43, 47
+5	2	, i	37	B	1, 3, 19, 21, 37
+4	2	, it's	33	B	19, 21, 25, 51
+4	2	um ,	49	B	1, 3, 17, 49
+3	2	it's ,	33	B	19, 21, 51
 3	2	know .	29	B	19, 21, 47
 3	2	right .	33	B	13, 41, 45
+2	2	, and	27	B	25, 51
+2	2	, that	9	B	19, 27
 2	2	. i	29	B	19, 47
 2	2	. it's	17	B	5, 21
 2	2	. so	17	B	3, 19
+2	2	and ,	19	B	1, 19
 2	2	and my	5	B	21, 25
+2	2	but ,	51	B	1, 51
 2	2	grandma that	17	B	1, 17
 2	2	has to	3	B	19, 21
-2	2	i don't	3	B	19, 21
 2	2	i mean	17	B	3, 19
 2	2	kind of	17	B	3, 19
 2	2	like we	23	B	3, 25
 2	2	my parents	3	B	19, 21
 2	2	my uncle	7	B	19, 25
+2	2	oh ,	11	B	9, 19
 2	2	really ?	23	B	9, 31
 2	2	to put	13	B	3, 15
 2	2	with us	3	B	1, 3
-2	2	yeah it's	27	B	25, 51
-2	2	you know	3	B	1, 3
 6	1	and	51	B	1, 3, 19, 21, 25, 51
 6	1	i	47	B	1, 3, 19, 21, 37, 47
 6	1	it's	47	B	5, 17, 19, 21, 25, 51
@@ -40,7 +52,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	really	43	B	9, 31, 37, 51
 4	1	right	33	B	13, 19, 41, 45
 4	1	so	25	B	3, 19, 21, 27
-4	1	um	49	B	1, 3, 17, 49
 4	1	us	51	B	1, 3, 25, 51
 3	1	has	7	B	19, 21, 25
 3	1	have	25	B	1, 19, 25
@@ -62,9 +73,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	how	35	B	3, 37
 2	1	i'm	13	B	37, 49
 2	1	just	25	B	1, 25
-2	1	oh	11	B	9, 19
 2	1	senile	37	B	3, 39
 2	1	she	33	B	19, 51
-2	1	uh	19	B	1, 19
 2	1	would	3	B	19, 21
 

@@ -1,15 +1,21 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	8	. yeah that would be a real good	7	A	30, 36
-3	5	yeah that would be a	11	A	26, 30, 36
+2	6	that would be a real good	7	A	30, 36
+2	5	, you know , like	43	A	8, 50
+2	5	yeah that would be a	11	A	26, 36
+4	4	, you know ,	43	A	8, 10, 20, 50
+2	4	, in our city	35	A	2, 36
 2	4	and i don't know	9	A	42, 50
+2	4	right . yeah ,	3	A	30, 32
+4	3	, uh ,	49	A	2, 14, 44, 50
 4	3	i don't know	9	A	42, 44, 46, 50
+3	3	, i guess	45	A	4, 44, 48
 3	3	them up there	5	A	6, 8, 10
-2	3	. yeah my	27	A	6, 32
+2	3	, i think	5	A	42, 46
+2	3	, um ,	5	A	16, 20
 2	3	a lot of	9	A	42, 50
+2	3	do you ,	7	A	14, 20
 2	3	good idea .	11	A	26, 36
 2	3	i wish that	41	A	10, 50
-2	3	in our city	35	A	2, 36
-2	3	right . yeah	3	A	30, 32
 2	3	some new rule	3	A	6, 8
 2	3	the plastic jugs	3	A	6, 8
 2	3	they won't take	3	A	10, 12
@@ -17,25 +23,34 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	we like to	7	A	10, 16
 2	3	yeah . yeah	31	A	6, 36
 2	3	you have to	29	A	6, 34
-2	3	you know like	43	A	8, 50
 2	3	you're supposed to	3	A	6, 8
+5	2	, you	45	A	6, 8, 10, 20, 50
+5	2	know ,	43	A	8, 10, 20, 44, 50
+5	2	uh ,	59	A	2, 14, 44, 50, 60
 5	2	up there	9	A	2, 4, 6, 8, 10
 5	2	you know	43	A	8, 10, 20, 40, 50
 4	2	have to	41	A	6, 12, 34, 46
 4	2	i don't	9	A	42, 44, 46, 50
 4	2	that would	17	A	20, 26, 30, 36
 4	2	them up	9	A	6, 8, 10, 14
+4	2	yeah ,	35	A	20, 30, 32, 54
+3	2	, like	43	A	8, 32, 50
 3	2	and i	41	A	10, 42, 50
 3	2	do you	27	A	14, 20, 40
 3	2	every time	7	A	6, 8, 12
-3	2	i guess	45	A	4, 44, 48
 3	2	i think	11	A	42, 46, 52
 3	2	it .	9	A	44, 48, 52
 3	2	right .	9	A	24, 30, 32
 3	2	take them	11	A	6, 12, 16
 3	2	them .	41	A	12, 16, 52
+3	2	to ,	51	A	4, 6, 54
 3	2	uh-huh .	7	A	16, 18, 22
 3	2	yeah .	31	A	6, 28, 36
+2	2	, but	23	A	20, 42
+2	2	, have	21	A	0, 20
+2	2	, so	19	A	34, 52
+2	2	, that's	21	A	34, 54
+2	2	, we	15	A	2, 16
 2	2	. i	3	A	50, 52
 2	2	. they	27	A	10, 36
 2	2	. we	7	A	10, 16
@@ -45,6 +60,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	and we	11	A	2, 12
 2	2	and you	33	A	2, 34
 2	2	but i	9	A	42, 50
+2	2	cans ,	35	A	16, 50
+2	2	center ,	15	A	2, 16
+2	2	do ,	23	A	20, 42
 2	2	garbage bag	3	A	32, 34
 2	2	going to	7	A	36, 42
 2	2	in a	45	A	10, 54
@@ -54,6 +72,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	like that	51	A	0, 50
 2	2	my husband	47	A	6, 52
 2	2	of the	35	A	16, 50
+2	2	our ,	27	A	10, 36
 2	2	paper bags	3	A	10, 12
 2	2	people .	13	A	30, 42
 2	2	recycling center	9	A	2, 10
@@ -63,7 +82,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	that .	9	A	42, 50
 2	2	the cans	5	A	50, 54
 2	2	they sell	3	A	46, 48
-2	2	to put	45	A	10, 54
+2	2	we ,	15	A	2, 16
 2	2	we have	11	A	2, 12
 2	2	where you	15	A	32, 46
 2	2	you buy	19	A	32, 50
@@ -95,7 +114,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	just	45	A	2, 10, 34, 44, 46
 5	1	some	43	A	6, 8, 32, 46, 48
 5	1	think	21	A	36, 42, 46, 52, 56
-5	1	uh	59	A	2, 14, 44, 50, 60
 5	1	would	17	A	20, 26, 30, 34, 36
 4	1	anything	37	A	0, 20, 34, 36
 4	1	bags	25	A	10, 12, 32, 34
@@ -117,6 +135,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	going	19	A	36, 42, 54
 3	1	he	27	A	6, 8, 32
 3	1	how	13	A	34, 44, 46
+3	1	my	47	A	6, 32, 52
 3	1	on	35	A	20, 44, 54
 3	1	plastic	7	A	2, 6, 8
 3	1	stuff	47	A	4, 46, 50
@@ -140,7 +159,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	pay	19	A	16, 34
 2	1	put	45	A	10, 54
 2	1	said	37	A	6, 42
-2	1	so	19	A	34, 52
 2	1	someone	33	A	14, 46
 2	1	something	51	A	4, 54
 2	1	steel	3	A	50, 52
@@ -149,7 +167,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	talking	23	A	36, 58
 2	1	then	25	A	10, 34
 2	1	they're	3	A	2, 4
-2	1	um	5	A	16, 20
 2	1	what	21	A	34, 54
 2	1	when	43	A	4, 46
 2	1	you're	3	A	6, 8

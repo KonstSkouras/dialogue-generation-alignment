@@ -1,32 +1,47 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	uh you know	19	B	30, 48
+2	5	uh , you know ,	19	B	30, 48
+5	4	, you know ,	43	B	6, 10, 30, 46, 48
+2	4	yeah , well ,	7	B	10, 16
+4	3	, uh ,	37	B	12, 18, 32, 48
+3	3	, and they	39	B	6, 40, 44
+2	3	, but it	33	B	6, 38
+2	3	, oh ,	27	B	6, 32
+2	3	know , i	3	B	28, 30
 2	3	what do i	19	B	10, 28
-5	2	you know	43	B	6, 10, 30, 46, 48
+7	2	uh ,	41	B	12, 18, 30, 32, 48, 50, 52
+5	2	, you	43	B	6, 10, 30, 46, 48
+4	2	, and	39	B	6, 10, 40, 44
 4	2	yeah .	35	B	20, 22, 48, 54
-3	2	and i	21	B	6, 24, 26
-3	2	and they	39	B	6, 40, 44
+3	2	, but	33	B	6, 10, 38
+3	2	, i	5	B	26, 28, 30
+3	2	a ,	9	B	32, 38, 40
+3	2	it ,	23	B	24, 38, 46
 3	2	it was	31	B	0, 6, 30
+3	2	oh ,	51	B	6, 32, 56
 3	2	uh-huh .	45	B	14, 42, 58
+3	2	well ,	9	B	10, 16, 18
+3	2	yeah ,	13	B	10, 16, 22
+2	2	, a	7	B	32, 38
+2	2	, so	41	B	12, 52
+2	2	, the	7	B	10, 16
+2	2	, well	7	B	10, 16
 2	2	. i	11	B	38, 48
 2	2	. yeah	35	B	14, 48
-2	2	but it	33	B	6, 38
-2	2	but then	19	B	10, 28
+2	2	and ,	21	B	6, 26
+2	2	and i	19	B	6, 24
 2	2	i don't	3	B	26, 28
 2	2	i know	21	B	28, 48
 2	2	i mean	9	B	30, 38
 2	2	i think	13	B	24, 36
-2	2	know i	3	B	28, 30
 2	2	so i	21	B	26, 46
-2	2	the the	3	B	8, 10
-2	2	yeah well	7	B	10, 16
+2	2	that ,	9	B	2, 10
+2	2	the ,	3	B	8, 10
 11	1	i	43	B	6, 10, 12, 24, 26, 28, 30, 36, 38, 46, 48
 9	1	that	47	B	2, 8, 10, 12, 26, 32, 40, 46, 48
 9	1	the	43	B	2, 6, 8, 10, 16, 18, 30, 38, 44
 8	1	and	45	B	0, 6, 8, 10, 24, 26, 40, 44
 8	1	it	47	B	0, 6, 10, 24, 30, 36, 38, 46
 7	1	a	35	B	6, 10, 14, 18, 32, 38, 40
-7	1	uh	41	B	12, 18, 30, 32, 48, 50, 52
-7	1	yeah	45	B	10, 14, 16, 20, 22, 48, 54
 6	1	you	43	B	6, 10, 18, 30, 46, 48
 5	1	but	33	B	6, 10, 26, 28, 38
 5	1	of	39	B	2, 10, 24, 38, 40
@@ -43,7 +58,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	it's	27	B	12, 14, 38
 3	1	just	7	B	6, 10, 12
 3	1	now	45	B	12, 32, 56
-3	1	oh	51	B	6, 32, 56
 3	1	right	23	B	12, 18, 34
 3	1	then	37	B	10, 28, 46
 3	1	they	39	B	6, 40, 44
@@ -51,7 +65,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	this	41	B	10, 40, 50
 3	1	to	31	B	10, 38, 40
 3	1	we	27	B	6, 26, 32
-3	1	well	9	B	10, 16, 18
 2	1	about	5	B	36, 40
 2	1	an	15	B	0, 14
 2	1	back	19	B	26, 44

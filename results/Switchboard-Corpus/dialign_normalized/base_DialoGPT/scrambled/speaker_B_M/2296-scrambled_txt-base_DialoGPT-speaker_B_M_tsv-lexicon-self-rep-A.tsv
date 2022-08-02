@@ -1,33 +1,47 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	uh you know	3	B	34, 36
+2	6	, uh , you know ,	3	B	34, 36
+2	5	, uh , you know	3	B	34, 36
+2	4	, you know ,	3	B	34, 36
+2	4	and , uh ,	3	B	34, 36
+2	4	was , uh ,	3	B	34, 36
+3	3	, uh ,	33	B	4, 34, 36
+3	3	you know ,	19	B	18, 34, 36
+2	3	and it's ,	23	B	14, 36
+5	2	, and	21	B	18, 22, 34, 36, 38
+4	2	, i	37	B	0, 4, 34, 36
+4	2	and ,	39	B	0, 34, 36, 38
 4	2	you know	33	B	4, 18, 34, 36
 3	2	have a	29	B	6, 22, 34
 3	2	i think	35	B	0, 16, 34
+3	2	yeah ,	43	B	0, 22, 42
+2	2	, he	17	B	18, 34
+2	2	, it	7	B	0, 6
+2	2	, they	3	B	34, 36
 2	2	. and	3	B	36, 38
 2	2	. but	15	B	22, 36
 2	2	and it	17	B	18, 34
-2	2	and it's	23	B	14, 36
 2	2	and then	19	B	18, 36
-2	2	and uh	3	B	34, 36
 2	2	don't know	5	B	0, 4
 2	2	i just	33	B	0, 32
 2	2	it .	37	B	0, 36
 2	2	it was	35	B	0, 34
 2	2	just don't	37	B	0, 36
 2	2	know if	5	B	0, 4
+2	2	or ,	7	B	34, 40
+2	2	they ,	3	B	34, 36
 2	2	to have	13	B	22, 34
 2	2	uh-huh .	31	B	0, 30
-2	2	was uh	3	B	34, 36
+2	2	was ,	3	B	34, 36
+2	2	well ,	5	B	2, 6
 2	2	what my	37	B	0, 36
 2	2	yeah .	9	B	12, 20
+2	2	you ,	23	B	10, 32
 9	1	to	41	B	0, 4, 8, 18, 22, 34, 36, 38, 40
 8	1	you	37	B	4, 6, 10, 18, 32, 34, 36, 40
 7	1	and	39	B	0, 14, 18, 22, 34, 36, 38
 7	1	i	37	B	0, 4, 10, 16, 32, 34, 36
 5	1	a	37	B	0, 6, 22, 34, 36
-5	1	it	37	B	0, 6, 18, 34, 36
 5	1	just	41	B	0, 22, 32, 36, 40
-5	1	yeah	43	B	0, 12, 20, 22, 42
 4	1	but	33	B	4, 6, 22, 36
 4	1	have	31	B	6, 22, 34, 36
 4	1	it's	37	B	0, 14, 16, 36
@@ -41,7 +55,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	then	33	B	4, 18, 36
 3	1	there	37	B	4, 34, 40
 3	1	they	19	B	18, 34, 36
-3	1	uh	33	B	4, 34, 36
 3	1	up	33	B	4, 34, 36
 2	1	are	7	B	32, 38
 2	1	away	35	B	0, 34
@@ -69,5 +82,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	this	27	B	8, 34
 2	1	uh-huh	31	B	0, 30
 2	1	um	7	B	22, 28
-2	1	well	5	B	2, 6
 

@@ -1,17 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, uh , i	5	M	45, 49
+2	4	i , uh ,	49	M	45, 93
+6	3	, uh ,	93	M	1, 45, 49, 51, 83, 93
+3	3	uh , i	47	M	45, 49, 91
 2	3	a lot of	33	M	1, 33
+6	2	, uh	93	M	1, 45, 49, 51, 83, 93
+4	2	, i	47	M	45, 49, 71, 91
+3	2	, and	77	M	1, 23, 77
+3	2	i ,	49	M	45, 63, 93
 3	2	i don't	39	M	7, 29, 45
 3	2	i'm not	15	M	77, 81, 91
 3	2	i've never	59	M	13, 59, 71
-3	2	uh i	47	M	45, 49, 91
+3	2	well ,	51	M	27, 71, 77
+2	2	, but	5	M	81, 85
+2	2	, we	27	M	35, 61
 2	2	don't know	11	M	19, 29
 2	2	for a	5	M	71, 75
-2	2	i uh	49	M	45, 93
 2	2	i'm a	43	M	23, 65
 2	2	i'm so	49	M	39, 87
 2	2	i've been	5	M	73, 77
 2	2	in the	43	M	31, 73
 2	2	it .	13	M	49, 61
+2	2	no ,	29	M	57, 85
 2	2	that .	7	M	13, 19
 2	2	the weather	5	M	75, 79
 2	2	you can	25	M	7, 31
@@ -20,7 +30,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 12	1	i	89	M	5, 7, 29, 43, 45, 49, 63, 71, 81, 85, 91, 93
 10	1	i'm	85	M	7, 23, 29, 39, 65, 75, 77, 81, 87, 91
 10	1	the	77	M	15, 31, 47, 53, 67, 73, 75, 79, 89, 91
-7	1	uh	93	M	1, 45, 49, 51, 83, 91, 93
 6	1	and	77	M	1, 23, 47, 51, 75, 77
 6	1	it's	61	M	17, 21, 41, 51, 67, 77
 6	1	of	65	M	1, 13, 33, 39, 41, 65
@@ -36,9 +45,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	know	63	M	19, 29, 81
 3	1	no	39	M	57, 85, 95
 3	1	really	75	M	7, 53, 81
-3	1	well	51	M	27, 71, 77
 2	1	be	9	M	61, 69
-2	1	but	5	M	81, 85
 2	1	confused	59	M	29, 87
 2	1	going	17	M	75, 91
 2	1	guy	13	M	65, 77
@@ -50,7 +57,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	think	85	M	7, 91
 2	1	this	15	M	15, 29
 2	1	to	15	M	61, 75
-2	1	we	27	M	35, 61
 2	1	what	43	M	9, 51
 2	1	what's	3	M	89, 91
 

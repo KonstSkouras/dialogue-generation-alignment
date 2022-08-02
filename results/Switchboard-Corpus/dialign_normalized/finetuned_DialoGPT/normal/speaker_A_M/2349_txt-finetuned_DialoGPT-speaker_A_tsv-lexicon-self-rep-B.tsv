@@ -1,35 +1,55 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	it's , it's , uh ,	21	M	3, 23
 2	5	that's a good idea .	5	M	37, 41
+3	4	but , uh ,	29	M	19, 35, 47
+2	4	, i , i	33	M	19, 51
+2	4	, it's , it	29	M	37, 65
+2	4	, you know ,	5	M	61, 65
+2	4	and , uh ,	33	M	29, 61
+8	3	, uh ,	59	M	3, 11, 19, 23, 29, 35, 47, 61
+4	3	you know ,	47	M	21, 61, 65, 67
+3	3	, i ,	33	M	19, 21, 51
 3	3	that's a good	7	M	37, 41, 43
+2	3	, it ,	29	M	37, 65
+2	3	, you ,	37	M	21, 57
+2	3	, you're right	15	M	21, 35
+2	3	and , and	57	M	11, 67
 2	3	i think that's	5	M	37, 41
-2	3	it's it's uh	21	M	3, 23
+2	3	know , i	3	M	19, 21
 9	2	uh-huh .	71	M	5, 7, 17, 49, 53, 55, 71, 73, 75
+6	2	know ,	49	M	19, 21, 37, 61, 65, 67
+5	2	, you	45	M	21, 23, 57, 61, 65
 5	2	yeah .	55	M	15, 25, 33, 45, 69
+4	2	, i	43	M	19, 21, 51, 61
+4	2	, it	77	M	3, 37, 65, 79
 4	2	a good	45	M	37, 41, 43, 81
+4	2	but ,	47	M	19, 35, 47, 65
 4	2	i think	25	M	37, 41, 57, 61
 4	2	right .	77	M	1, 21, 27, 77
-4	2	you know	47	M	21, 61, 65, 67
-3	2	but uh	29	M	19, 35, 47
+3	2	, and	71	M	11, 67, 81
 3	2	going to	45	M	21, 31, 65
+3	2	it ,	47	M	19, 37, 65
 3	2	to be	35	M	23, 31, 57
+3	2	well ,	57	M	11, 39, 67
+3	2	yeah ,	67	M	13, 51, 79
 2	2	!! auto	27	M	59, 85
 2	2	!! you	39	M	21, 59
+2	2	, because	39	M	23, 61
+2	2	, i'm	21	M	19, 39
+2	2	, that's	25	M	13, 37
 2	2	. i	17	M	21, 37
-2	2	and and	57	M	11, 67
-2	2	and uh	33	M	29, 61
-2	2	i i	33	M	19, 51
+2	2	a ,	55	M	3, 57
 2	2	i just	3	M	19, 21
 2	2	it .	11	M	21, 31
-2	2	it's it	29	M	37, 65
-2	2	know i	3	M	19, 21
 2	2	on that	5	M	35, 39
 2	2	remind me	17	M	43, 59
+2	2	right ,	17	M	35, 51
 2	2	so much	27	M	35, 61
+2	2	that ,	7	M	37, 43
 2	2	they can	11	M	57, 67
 2	2	to spend	3	M	21, 23
 2	2	uh-uh .	7	M	39, 45
 2	2	would be	47	M	11, 57
-2	2	you're right	15	M	21, 35
 11	1	a	79	M	3, 11, 21, 23, 37, 41, 43, 57, 59, 61, 81
 10	1	and	71	M	11, 23, 29, 31, 41, 59, 61, 63, 67, 81
 10	1	yeah	71	M	9, 13, 15, 25, 33, 45, 51, 59, 69, 79
@@ -41,7 +61,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	you	47	M	21, 23, 57, 59, 61, 63, 65, 67
 7	1	right	77	M	1, 21, 27, 35, 51, 59, 77
 6	1	it's	63	M	3, 23, 35, 37, 61, 65
-6	1	know	49	M	19, 21, 37, 61, 65, 67
 5	1	but	47	M	19, 35, 47, 59, 65
 5	1	good	45	M	37, 41, 43, 59, 81
 4	1	be	47	M	11, 23, 31, 57
@@ -49,7 +68,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	have	61	M	21, 23, 59, 81
 4	1	is	77	M	3, 35, 59, 79
 4	1	so	43	M	19, 35, 59, 61
-4	1	that's	31	M	13, 37, 41, 43
 4	1	well	57	M	11, 39, 59, 67
 3	1	because	39	M	23, 59, 61
 3	1	can	45	M	23, 57, 67

@@ -1,108 +1,108 @@
-A|0| A: yeah _well_ that's he's got _a_ job there and _this is_ his first year _so_ _it's_ _been_ _a_ real interesting thing _for_ them 
+A|0| A: yeah , _well_ that's , he's got _a_ job there and _this is_ his first year , _so _,_ it's_ _been_ _a_ real interesting thing _for_ them 
 B|1| M: they're both very pretty . 
-A|2| A: _that_ _was_ _good_ _i think_ . and and _the_ other book _i_ am trying _to_ _think_ _you know_ like _was_ _in the_ last year and _i think_ _i_ _did_ read tom wolfe and vanity _uh_ 
+A|2| A: _that_ _was_ _good_ , _i think_ . and , and _the_ other book _i_ am trying _to_ _think_ _, _you_ know_ , like _was_ _in the_ last year and _i think_ _i_ _did_ read tom wolfe and vanity _, uh ,_ 
 B|3| M: why _do_ [you] [think] ? 
-A|4| A: that's nice . we um we canoed up _in_ arkansas at _the_ buffalo river . 
+A|4| A: that's nice . we , um , we canoed up _in_ arkansas at _the_ buffalo river . 
 B|5| M: [i think] [it's] going [to] be on [in the] middle of [the] night . 
 A|6| A: what _are_ your cats' names . 
-B|7| M: [it's] settled we'll focus our efforts on [the] middle eastern conflict . 
-A|8| A: _i'm_ _not_ always sitting down and 
-B|9| M: [i] mean [it's] similar [to] [the] hydraulic jack . 
-A|10| A: _i'm_ _not_ sure what _it_ _is_ there . now _i know_ what _it_ _is_ [in] singapore _is_ they _have_ [the] death penalty and they really enforce _it_ 
-B|11| M: [i] 
+B|7| M: [it's] settled , we'll focus our efforts on [the] middle eastern conflict . 
+A|8| A: _i'm_ _not_ always sitting down , and , 
+B|9| M: [i] mean [, it's] similar [to] [the] hydraulic jack . 
+A|10| A: _i'm_ _not_ sure what _it_ _is_ there . now , _i know_ what _it_ _is_ [in] singapore , _is_ they _have_ [the] death penalty and they really enforce _it_ , 
+B|11| M: [i] , 
 A|12| A: yeah . 
 B|13| M: [did] [you know] [the] dog [was] trained ? 
-A|14| A: [the] plants and 
-B|15| M: [i'm] sorry _but_ ... 
-A|16| A: up until like eighty-five or something [was] [the] 
-B|17| M: [you] [you] 
-A|18| A: _well_ they [do] treat paper with chemicals like yellow paper [you know] takes something like twenty times as long [to] decompose . 
+A|14| A: [the] plants and , 
+B|15| M: [i'm] sorry , _but_ ... 
+A|16| A: up until , like , eighty-five or something [was] [the] , 
+B|17| M: [you] [, you] 
+A|18| A: _well ,_ they [do] treat paper with chemicals like yellow paper [, [you] know] takes something like twenty times as long [to] decompose . 
 B|19| M: [i know] . [i'm] [a] woman . 
-A|20| A: _so_ [it's] [a] little bit more humane [i] guess _it_ _is_ 
-B|21| M: [so] can . [it] . be . better . [good] . [the] . [for] . [you] . better . 
-A|22| A: oh yeah ? 
+A|20| A: _so [,_ it's] [a] little bit more humane , [i] guess , _it_ _is_ , 
+B|21| M: [so ,] can . [it] . be . better . [good] . [the] . [for] . [you] . better . 
+A|22| A: oh , yeah ? 
 B|23| M: [well] [it's] [good] [to] [know] you're [not] alone 
 A|24| A: exactly . 
 B|25| M: [the] only time _i have_ ever [been] told [that] my kids [are] [a] lot of fun . 
 A|26| A: and [i have] [not] had [to] use [the] heat . 
 B|27| M: [the] recycle recycle 
 A|28| A: right . 
-B|29| M: [the] leaves [are] [so] green they're just [not] ripe . 
-A|30| A: [i think] [you] couldn't make [it] with [a] hand whisk or or [a] regular beater [but] um 
-B|31| M: [that] 
+B|29| M: [the] leaves [are] [so] green , they're just [not] ripe . 
+A|30| A: [i think] [you] couldn't make [it] with [a] hand whisk or , or [a] regular beater [but] , um , 
+B|31| M: [that] , 
 A|32| A: right . uh-huh . 
-B|33| M: [well] [uh] all [that] [uh] stuff . 
+B|33| M: [well [,] uh ,] all [that] [, uh] stuff . 
 B|34| M: [this is] how [i] felt when [i] [was] married [to] [a] guy from texas . 
 
 
 TURN DETAILS:
-Turn ID=0| A | A : yeah well that's he's got a job there and this is his first year so it's been a real interesting thing for them
-	Free: Pattern=well, Pattern=for, Pattern=been, Pattern=it's, Pattern=so, Pattern=a, Pattern=this is
-	Constrained: Pattern=is
+Turn ID=0| A | A : yeah , well that's , he's got a job there and this is his first year , so , it's been a real interesting thing for them
+	Free: Pattern=well, Pattern=for, Pattern=, it's, Pattern=so ,, Pattern=been, Pattern=a, Pattern=this is
+	Constrained: Pattern=is, Pattern=so, Pattern=it's
 Turn ID=1| B | M : they're both very pretty .
 	Free: 
 	Constrained: 
-Turn ID=2| A | A : that was good i think . and and the other book i am trying to think you know like was in the last year and i think i did read tom wolfe and vanity uh
-	Free: Pattern=good, Pattern=did, Pattern=in the, Pattern=think, Pattern=i, Pattern=the, Pattern=to, Pattern=was, Pattern=that, Pattern=i think, Pattern=uh, Pattern=you know
-	Constrained: Pattern=you, Pattern=know, Pattern=i, Pattern=the, Pattern=think, Pattern=in
+Turn ID=2| A | A : that was good , i think . and , and the other book i am trying to think , you know , like was in the last year and i think i did read tom wolfe and vanity , uh ,
+	Free: Pattern=good, Pattern=you know, Pattern=did, Pattern=in the, Pattern=think, Pattern=, you, Pattern=i, Pattern=, uh ,, Pattern=the, Pattern=to, Pattern=was, Pattern=that, Pattern=i think
+	Constrained: Pattern=know, Pattern=i, Pattern=the, Pattern=you, Pattern=, uh, Pattern=think, Pattern=in
 Turn ID=3| B | M : why do you think ?
-	Free: Pattern=do, Pattern=you, Pattern=think
+	Free: Pattern=think, Pattern=do, Pattern=you
 	Constrained: 
-Turn ID=4| A | A : that's nice . we um we canoed up in arkansas at the buffalo river .
-	Free: Pattern=in, Pattern=the
+Turn ID=4| A | A : that's nice . we , um , we canoed up in arkansas at the buffalo river .
+	Free: Pattern=the, Pattern=in
 	Constrained: 
 Turn ID=5| B | M : i think it's going to be on in the middle of the night .
 	Free: Pattern=in the, Pattern=the, Pattern=to, Pattern=it's, Pattern=i think
-	Constrained: Pattern=in, Pattern=the, Pattern=i, Pattern=think
+	Constrained: Pattern=think, Pattern=the, Pattern=in, Pattern=i
 Turn ID=6| A | A : what are your cats' names .
 	Free: Pattern=are
 	Constrained: 
-Turn ID=7| B | M : it's settled we'll focus our efforts on the middle eastern conflict .
+Turn ID=7| B | M : it's settled , we'll focus our efforts on the middle eastern conflict .
 	Free: Pattern=the, Pattern=it's
 	Constrained: 
-Turn ID=8| A | A : i'm not always sitting down and
-	Free: Pattern=not, Pattern=i'm
+Turn ID=8| A | A : i'm not always sitting down , and ,
+	Free: Pattern=i'm, Pattern=not
 	Constrained: 
-Turn ID=9| B | M : i mean it's similar to the hydraulic jack .
-	Free: Pattern=to, Pattern=the, Pattern=i, Pattern=it's
-	Constrained: 
-Turn ID=10| A | A : i'm not sure what it is there . now i know what it is in singapore is they have the death penalty and they really enforce it
+Turn ID=9| B | M : i mean , it's similar to the hydraulic jack .
+	Free: Pattern=, it's, Pattern=to, Pattern=the, Pattern=i
+	Constrained: Pattern=it's
+Turn ID=10| A | A : i'm not sure what it is there . now , i know what it is in singapore , is they have the death penalty and they really enforce it ,
 	Free: Pattern=it, Pattern=in, Pattern=i'm, Pattern=is, Pattern=the, Pattern=not, Pattern=have, Pattern=i know
 	Constrained: Pattern=know, Pattern=i
-Turn ID=11| B | M : i
+Turn ID=11| B | M : i ,
 	Free: Pattern=i
 	Constrained: 
 Turn ID=12| A | A : yeah .
 	Free: 
 	Constrained: 
 Turn ID=13| B | M : did you know the dog was trained ?
-	Free: Pattern=you know, Pattern=was, Pattern=did, Pattern=the
+	Free: Pattern=you know, Pattern=did, Pattern=the, Pattern=was
 	Constrained: Pattern=know, Pattern=you
-Turn ID=14| A | A : the plants and
+Turn ID=14| A | A : the plants and ,
 	Free: Pattern=the
 	Constrained: 
-Turn ID=15| B | M : i'm sorry but ...
+Turn ID=15| B | M : i'm sorry , but ...
 	Free: Pattern=but, Pattern=i'm
 	Constrained: 
-Turn ID=16| A | A : up until like eighty-five or something was the
-	Free: Pattern=was, Pattern=the
+Turn ID=16| A | A : up until , like , eighty-five or something was the ,
+	Free: Pattern=the, Pattern=was
 	Constrained: 
-Turn ID=17| B | M : you you
-	Free: Pattern=you
-	Constrained: 
-Turn ID=18| A | A : well they do treat paper with chemicals like yellow paper you know takes something like twenty times as long to decompose .
-	Free: Pattern=you know, Pattern=to, Pattern=well, Pattern=do
-	Constrained: Pattern=know, Pattern=you
+Turn ID=17| B | M : you , you
+	Free: Pattern=, you, Pattern=you
+	Constrained: Pattern=you
+Turn ID=18| A | A : well , they do treat paper with chemicals like yellow paper , you know takes something like twenty times as long to decompose .
+	Free: Pattern=you know, Pattern=do, Pattern=well ,, Pattern=, you, Pattern=to
+	Constrained: Pattern=know, Pattern=you, Pattern=well
 Turn ID=19| B | M : i know . i'm a woman .
 	Free: Pattern=i know, Pattern=a, Pattern=i'm
 	Constrained: Pattern=know, Pattern=i
-Turn ID=20| A | A : so it's a little bit more humane i guess it is
-	Free: Pattern=a, Pattern=it, Pattern=it's, Pattern=so, Pattern=is, Pattern=i
-	Constrained: 
-Turn ID=21| B | M : so can . it . be . better . good . the . for . you . better .
-	Free: Pattern=good, Pattern=you, Pattern=for, Pattern=it, Pattern=the, Pattern=so
-	Constrained: 
-Turn ID=22| A | A : oh yeah ?
+Turn ID=20| A | A : so , it's a little bit more humane , i guess , it is ,
+	Free: Pattern=a, Pattern=it, Pattern=, it's, Pattern=so ,, Pattern=is, Pattern=i
+	Constrained: Pattern=so, Pattern=it's
+Turn ID=21| B | M : so , can . it . be . better . good . the . for . you . better .
+	Free: Pattern=good, Pattern=you, Pattern=for, Pattern=it, Pattern=so ,, Pattern=the
+	Constrained: Pattern=so
+Turn ID=22| A | A : oh , yeah ?
 	Free: 
 	Constrained: 
 Turn ID=23| B | M : well it's good to know you're not alone
@@ -115,7 +115,7 @@ Turn ID=25| B | M : the only time i have ever been told that my kids are a lot o
 	Free: Pattern=a, Pattern=are, Pattern=the, Pattern=been, Pattern=that, Pattern=i have
 	Constrained: Pattern=i, Pattern=have
 Turn ID=26| A | A : and i have not had to use the heat .
-	Free: Pattern=i have, Pattern=to, Pattern=not, Pattern=the
+	Free: Pattern=i have, Pattern=to, Pattern=the, Pattern=not
 	Constrained: Pattern=i, Pattern=have
 Turn ID=27| B | M : the recycle recycle
 	Free: Pattern=the
@@ -123,21 +123,21 @@ Turn ID=27| B | M : the recycle recycle
 Turn ID=28| A | A : right .
 	Free: 
 	Constrained: 
-Turn ID=29| B | M : the leaves are so green they're just not ripe .
-	Free: Pattern=not, Pattern=are, Pattern=the, Pattern=so
+Turn ID=29| B | M : the leaves are so green , they're just not ripe .
+	Free: Pattern=the, Pattern=so, Pattern=are, Pattern=not
 	Constrained: 
-Turn ID=30| A | A : i think you couldn't make it with a hand whisk or or a regular beater but um
+Turn ID=30| A | A : i think you couldn't make it with a hand whisk or , or a regular beater but , um ,
 	Free: Pattern=you, Pattern=a, Pattern=it, Pattern=but, Pattern=i think
-	Constrained: Pattern=i, Pattern=think
-Turn ID=31| B | M : that
+	Constrained: Pattern=think, Pattern=i
+Turn ID=31| B | M : that ,
 	Free: Pattern=that
 	Constrained: 
 Turn ID=32| A | A : right . uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=33| B | M : well uh all that uh stuff .
-	Free: Pattern=well, Pattern=uh, Pattern=that
-	Constrained: 
+Turn ID=33| B | M : well , uh , all that , uh stuff .
+	Free: Pattern=, uh ,, Pattern=, uh, Pattern=well ,, Pattern=that
+	Constrained: Pattern=, uh, Pattern=well
 Turn ID=34| B | M : this is how i felt when i was married to a guy from texas .
 	Free: Pattern=i, Pattern=to, Pattern=was, Pattern=a, Pattern=this is
 	Constrained: Pattern=is

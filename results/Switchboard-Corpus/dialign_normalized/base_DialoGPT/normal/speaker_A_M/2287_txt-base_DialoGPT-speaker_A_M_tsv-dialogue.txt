@@ -1,45 +1,45 @@
 B|0| M: _are_ _you_ _sure_ ? 
-A|1| A: yeah _you're_ _not sure_ where _to_ _go_ _and_ _vote_ _and_ all _that ._ 
-B|2| M: _you know_ _i voted_ _for_ _a lot _of_ the_ local _candidates_ . 
-A|3| A: right _or_ [you] _don't _know_ what_ _they_ [you know] where _they_ stand _or_ anything _like that ._ 
-B|4| M: _so_ [you know] [they] 
-A|5| A: yeah _i think_ _you're_ right . 
-B|6| M: _i'm_ [not sure] _but_ _i'm_ pretty [sure] _it's_ _a lot_ . 
-A|7| A: yeah _or_ sometimes _they _don't_ like_ either [of the] choices _for the_ [candidates] 
+A|1| A: yeah , _you're_ _not sure_ where _to_ _go_ _and_ _vote_ _and_ all _that ._ 
+B|2| M: _you know _,_ i voted_ _for_ _a lot _of_ the_ local _candidates_ . 
+A|3| A: right , _or_ [you] _don't _know_ what_ _they_ [you know ,] where _they_ stand _or_ anything _like that ._ 
+B|4| M: _so _,_ you know ,_ [they] 
+A|5| A: yeah [, _i] think_ _you're_ right . 
+B|6| M: _i'm_ [not sure] _, but_ _i'm_ pretty [sure] _it's_ _a lot_ . 
+A|7| A: yeah , _or_ sometimes _they _don't_ like_ either [of the] choices _for the_ [candidates] , 
 B|8| M: _that's_ [the] main reason [i] dislike _it_ . 
-A|9| A: [so] [they] _think_ _well_ [you know] _why_ _vote ._ 
+A|9| A: [so] [they] _think_ , _well [,_ you know ,] _why_ _vote ._ 
 B|10| M: _i'm_ [not sure] _if_ [they] [like] _each_ _other_ _or not ._ 
-A|11| A: yeah really especially _in_ _texas_ 
-B|12| M: _i [don't_ know] _maybe_ _it's_ _just_ _a_ [texas] _thing_ ? 
-A|13| A: [it] really was yeah . 
-B|14| M: [well] _that's_ how _it's_ supposed _to _be_ ._ 
+A|11| A: yeah , really , especially _in_ _texas_ 
+B|12| M: _i [don't_ [know] ,] _maybe_ _it's_ _just_ _a_ [texas] _thing_ ? 
+A|13| A: [it] really was , yeah . 
+B|14| M: [well ,] _that's_ how _it's_ supposed _to _be_ ._ 
 A|15| A: yeah did [they] get [the] _serious problem_ _that_ half [the] people [don't] _vote ._ 
 B|16| M: _is_ [that] _a_ [serious problem] ? 
 A|17| A: yeah . 
-B|18| M: _oh_ . [well] _it's_ [it] . 
-A|19| A: yeah _. it_ also seems [like] [maybe] another candidate [that] nobody wants could slip _in_ _if [you_ know] [not] enough people [are] _voting_ . 
+B|18| M: _oh_ . [well _,] it's_ _, it_ . 
+A|19| A: yeah _. it_ also seems [like] [maybe] another candidate [that] nobody wants could slip _in_ [if] [, you know ,] [not] enough people [are] _voting_ . 
 B|20| M: [i think] _it's_ pretty obvious [that] this _is_ _a_ bad idea . 
-A|21| A: yeah [it's] kind [of] [like] _in_ louisiana where [that] _uh_ _guy_ [that's] [like] [a] ku klux klan member something _got elected_ . 
+A|21| A: yeah [, it's] kind [of] [like] _in_ louisiana where _that ,_ _uh_ , _guy_ [that's] [like] [a] ku klux klan member something _got elected_ . 
 B|22| M: [what] ? 
 A|23| A: kind [of] scary when _you think_ _about_ _that ._ 
 B|24| M: [it's] [not] 
-A|25| A: [oh] gosh . 
+A|25| A: _oh ,_ gosh . 
 B|26| M: aha ! _i can't_ ! 
 A|27| A: yeah . 
-B|28| M: hey [that's] [the] [guy] who shot [the] police officer [that] shot [the] [guy] _in the_ 
-A|29| A: yeah people _will_ sit home _and_ assume [oh] [that] [guy] would never get _elected_ . 
+B|28| M: hey , [that's] [the] [guy] who shot [the] police officer [that] shot [the] [guy] _in the_ 
+A|29| A: yeah , people _will_ sit home _and_ assume , _oh ,_ [that] [guy] would never get _elected_ . 
 B|30| M: [you're] assuming [that .] 
-A|31| A: next [thing] [you know] _you've_ _got_ _him_ . 
-B|32| M: [well] [you've] certainly [got] me there . 
+A|31| A: next [thing] [you know _,] you've_ _got_ _him_ . 
+B|32| M: [well [,] you've] certainly [got] me there . 
 A|33| A: yeah . 
-B|34| M: [if you] [go] [to] [a] polling station [you know] who _is_ [the] president [of _the] party_ . 
-A|35| A: right yeah . 
-B|36| M: _i'm_ pretty [sure] _you can_ [vote] [if you] [vote] [for] me [i] [will] . 
+B|34| M: _if you_ [go] [to] [a] polling station [, you know] who _is_ [the] president [of _the] party_ . 
+A|35| A: right , yeah . 
+B|36| M: _i'm_ pretty [sure] _you can_ [vote] _, if you_ [vote] [for] me [, i] [will] . 
 A|37| A: yeah . right . 
-B|38| M: _he_ [got elected] _but_ [i think] [it's] [a] _bit_ [of] [a] stretch [to] call [him] [the] president . 
-A|39| A: yeah [he] [sure] did . 
+B|38| M: _he_ [got elected] _, but_ [i think] [it's] [a] _bit_ [of] [a] stretch [to] call [him] [the] president . 
+A|39| A: yeah , [he] [sure] did . 
 B|40| M: [i think] [he] [got elected] _in the_ wrong state . 
-A|41| A: yeah . [i think] one [thing] [that] [maybe] would help people [vote] [is] [if] [the] polls were either open _more_ days [or] [you] could mail [it] [in] [or] something [like] [if _you] have_ [if _you] have_ real strict _work_ hours _and_ [you can] only [go] [like] at seven [in the] morning [or] after _work_ _and_ _you have_ [to] stand [in] line [for] [so] _long_ 
+A|41| A: yeah . [i think] one [thing] [that] [maybe] would help people [vote] [is] [if] [the] polls were either open _more_ days , [or] [you] could mail [it] [in] , [or] something [like] [, if _you] have_ [, if _you] have_ real strict _work_ hours , _and_ [you can] only [go] [like] at seven [in the] morning [or] after _work_ _and_ _you have_ [to] stand [in] line [for] [so] _long_ 
 B|42| M: [i] [like] this idea . 
 A|43| A: [i think] [that] discourages [a lot of] people . 
 B|44| M: how _do_ [you] feel _about the_ [voting] _system_ ? 
@@ -49,49 +49,49 @@ A|47| A: right .
 B|48| M: [i] . [know] [. it] . beyond . your . mind 
 A|49| A: uh-huh . 
 B|50| M: _i don't think_ there's [a] reason [for] [you] [to] [vote .] 
-A|51| A: yeah [i'm] [in] dallas _and_ they're _long_ here too . 
-B|52| M: [you [know] what] ? [i'm] [not] [a] fan [of the] cowboys _but_ they've [got] [a lot of] _good_ things _going_ _on_ . 
-A|53| A: yeah [i voted] absentee one year . [i] really was [going] [to be] gone _. so_ [i] did [it] [but] [uh] [it] was nice . [i] would [be] tempted _to do_ [it] _again ._ 
+A|51| A: yeah _, i'm_ [in] dallas , _and_ they're _long_ here too . 
+B|52| M: [you [know] what] ? [i'm] [not] [a] fan [of the] cowboys _, but_ they've [got] [a lot of] _good_ things _going_ _on_ . 
+A|53| A: yeah [, i voted] absentee one year . [i] really was [going] [to be] gone _. [so_ [,] i] did [it] [, but] , [uh] [, it] was nice . [i] would [be] tempted _to do_ [it] _again ._ 
 B|54| M: [i voted] [for the] first _time_ [in] my life . [i'm] [not sure] i'd [be] able [to do] [that] [again .] 
 A|55| A: right . 
 B|56| M: [i] [vote] yes 
 A|57| A: yeah . [i _think] they_ _should_ change [the] whole [system] [so] [that] [it's] easier 
 B|58| M: [why] ? [it's] [a] _good_ idea . 
 A|59| A: [i think] _more_ people would [do] [it] [if] [it] wasn't such [a] hassle . 
-B|60| M: [and] [it's] been [a] [long] _time_ since we had [a] [system] [like that .] 
-A|61| A: uh-huh 
-B|62| M: [i'm] [not] [that's] _just_ 
-A|63| A: yeah [that] would [be .] [i] usually [vote .] [a lot of] times i'll [vote] [a] straight [party] ticket [just] _because_ [i don't] take [the] [time] [to] find out [what] every [you know] [other] than [the] major [candidates] [what] [they] stand [for] [on] [what] issues 
-B|64| M: [work] . 
-A|65| A: [so] i'll [just] trust [well] [the party] kind [of] goes along these lines [so] i'll [go] ahead [and] [vote .] 
+B|60| M: [and] [, it's] been [a] [long] _time_ since we had [a] [system] [like that .] 
+A|61| A: uh-huh , 
+B|62| M: [i'm] [not] [that's] _just_ , 
+A|63| A: yeah , [that] would [be .] [i] usually [vote .] [a lot of] times i'll [vote] [a] straight [party] ticket [just] _because_ [i don't] take [the] [time] [to] find out [what] every [, you know ,] [other] than [the] major [candidates] , [what] [they] stand [for] [on] [what] issues , 
+B|64| M:  , [work] . 
+A|65| A: [so] i'll [just] trust [well ,] [the party] kind [of] goes along these lines [so] i'll [go] ahead [and] [vote .] 
 B|66| M: [i] [vote] 
 A|67| A: uh-huh . 
-B|68| M: [i'm] sorry . 
+B|68| M:  [, i'm] sorry . 
 A|69| A: yeah . 
-B|70| M: [oh] [you] mean [that] 
-A|71| A: _no_ _i guess_ it'd [be] best [if you] knew [each] person [and] [what] [they] stood [for] [and] [why] [and] everything . 
+B|70| M: [oh [,] you] mean [that ,] 
+A|71| A: _no_ [, _i] guess_ it'd [be] best [if you] knew [each] person [and] [what] [they] stood [for] [and] [why] [and] everything . 
 B|72| M: [so] ... [i guess] [i] [should] 
-A|73| A: right [and] try [to] determine [if] [what] [you] read was objective [or not .] 
+A|73| A: right , [and] try [to] determine [if] [what] [you] read was objective [or not .] 
 B|74| M: [you know] . 
 A|75| A: yeah . 
-B|76| M: this isnt [a] story its [a] compilation [of] [what] youve heard 
+B|76| M: this isnt [a] story , its [a] compilation [of] [what] youve heard 
 A|77| A: yeah . 
 B|78| M: [because] [the] media [is] biased . [not] [the] case with [the] elections . [but] we [do] [have] elections . [they] [are] very important [. so] . [do] . [they] . [like] [. it] . much . much [more] . 
 A|79| A: yeah . 
 B|80| M: [it's] [a] joke 
-A|81| A: yeah [i think] [it] could affect [the] outcome [you know] could make [it] unfair . 
+A|81| A: yeah [, [i] think] [it] could affect [the] outcome [, you know ,] could make [it] unfair . 
 B|82| M: [it's] [just] [a] joke . [it's] [not] even funny . 
-A|83| A: [oh] yeah . 
+A|83| A: [oh ,] yeah . 
 B|84| M: [the] election _has_ been [in the] works [for] [a] while . 
-A|85| A: yeah _the press_ [has] [a lot of] power . 
+A|85| A: yeah , _the press_ [has] [a lot of] power . 
 B|86| M: [that's] true . 
-A|87| A: yeah [oh] [but] boy [you] try get into [that] you'd really open [a] [can] [of] worms . 
-B|88| M: [you have] [a] point . [they] [have] [no] control over [the press] [they] _can't_ control [the press] . 
-A|89| A: yeah seems [that] [they] [should] regulate themselves [a] little [bit] [and] [i don't _think] they_ ever _care_ [to] . 
-B|90| M: [i'm] [not] saying [they don't] [i'm] [just] saying 
-A|91| A: [well] [i can't] [think] [of] anything else really [about the] polls [or] [voting] [to] talk [about] . 
+A|87| A: yeah , [oh [,] but] , boy [you] try get into [that ,] you'd really open [a] [can] [of] worms . 
+B|88| M: [you have] [a] point . [they] [have] [no] control over [the press] , [they] _can't_ control [the press] . 
+A|89| A: yeah , seems [that] [they] [should] regulate themselves [a] little [bit] , [and] [i don't _think] they_ ever _care_ [to] . 
+B|90| M: [i'm] [not] saying [they don't] [, i'm] [just] saying 
+A|91| A: [well [,] [i] can't] [think] [of] anything else really [about the] polls [or] [voting] , [to] talk [about] . 
 B|92| M: [do] [you [think] they] [care] ? 
-A|93| A: [well] [it] was [good] talking _to you_ . 
+A|93| A: [well [,] it] was [good] talking _to you_ . 
 B|94| M: [i [don't] like] [it] . 
 A|95| A: bye . 
 B|96| M: goodbye [to you] 
@@ -99,131 +99,131 @@ B|96| M: goodbye [to you]
 
 TURN DETAILS:
 Turn ID=0| B | M : are you sure ?
-	Free: Pattern=sure, Pattern=are, Pattern=you
+	Free: Pattern=you, Pattern=are, Pattern=sure
 	Constrained: 
-Turn ID=1| A | A : yeah you're not sure where to go and vote and all that .
+Turn ID=1| A | A : yeah , you're not sure where to go and vote and all that .
 	Free: Pattern=go, Pattern=and, Pattern=not sure, Pattern=vote, Pattern=to, Pattern=you're, Pattern=that .
-	Constrained: Pattern=sure, Pattern=not, Pattern=that
-Turn ID=2| B | M : you know i voted for a lot of the local candidates .
-	Free: Pattern=a lot of, Pattern=you know, Pattern=candidates, Pattern=for, Pattern=i voted, Pattern=of the
-	Constrained: Pattern=of, Pattern=you, Pattern=a, Pattern=know, Pattern=i, Pattern=the, Pattern=a lot
-Turn ID=3| A | A : right or you don't know what they you know where they stand or anything like that .
-	Free: Pattern=they, Pattern=don't know, Pattern=know what, Pattern=or, Pattern=like that ., Pattern=you, Pattern=you know
-	Constrained: Pattern=that ., Pattern=you, Pattern=what, Pattern=know, Pattern=like, Pattern=don't, Pattern=that
-Turn ID=4| B | M : so you know they
-	Free: Pattern=you know, Pattern=they, Pattern=so
-	Constrained: Pattern=know, Pattern=you
-Turn ID=5| A | A : yeah i think you're right .
-	Free: Pattern=i think, Pattern=you're
-	Constrained: Pattern=think, Pattern=i
-Turn ID=6| B | M : i'm not sure but i'm pretty sure it's a lot .
-	Free: Pattern=sure, Pattern=a lot, Pattern=i'm, Pattern=not sure, Pattern=it's, Pattern=but
-	Constrained: Pattern=sure, Pattern=not, Pattern=a
-Turn ID=7| A | A : yeah or sometimes they don't like either of the choices for the candidates
+	Constrained: Pattern=not, Pattern=that, Pattern=sure
+Turn ID=2| B | M : you know , i voted for a lot of the local candidates .
+	Free: Pattern=, i voted, Pattern=candidates, Pattern=for, Pattern=of the, Pattern=a lot of, Pattern=you know ,
+	Constrained: Pattern=a, Pattern=i voted, Pattern=know, Pattern=i, Pattern=a lot, Pattern=of, Pattern=know ,, Pattern=you, Pattern=you know, Pattern=the, Pattern=, i
+Turn ID=3| A | A : right , or you don't know what they you know , where they stand or anything like that .
+	Free: Pattern=you know ,, Pattern=you, Pattern=they, Pattern=don't know, Pattern=know what, Pattern=or, Pattern=like that .
+	Constrained: Pattern=what, Pattern=know, Pattern=like, Pattern=don't, Pattern=that, Pattern=know ,, Pattern=that ., Pattern=you, Pattern=you know
+Turn ID=4| B | M : so , you know , they
+	Free: Pattern=, you know ,, Pattern=so ,, Pattern=they
+	Constrained: Pattern=, you know, Pattern=so, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
+Turn ID=5| A | A : yeah , i think you're right .
+	Free: Pattern=i think, Pattern=, i, Pattern=you're
+	Constrained: Pattern=i, Pattern=think
+Turn ID=6| B | M : i'm not sure , but i'm pretty sure it's a lot .
+	Free: Pattern=, but, Pattern=sure, Pattern=a lot, Pattern=it's, Pattern=i'm, Pattern=not sure
+	Constrained: Pattern=a, Pattern=not, Pattern=but, Pattern=sure
+Turn ID=7| A | A : yeah , or sometimes they don't like either of the choices for the candidates ,
 	Free: Pattern=don't like, Pattern=or, Pattern=they don't, Pattern=of the, Pattern=candidates, Pattern=for the
 	Constrained: Pattern=of, Pattern=they, Pattern=for, Pattern=like, Pattern=the, Pattern=don't
 Turn ID=8| B | M : that's the main reason i dislike it .
-	Free: Pattern=that's, Pattern=i, Pattern=the, Pattern=it
+	Free: Pattern=that's, Pattern=the, Pattern=i, Pattern=it
 	Constrained: 
-Turn ID=9| A | A : so they think well you know why vote .
-	Free: Pattern=well, Pattern=you know, Pattern=they, Pattern=think, Pattern=why, Pattern=vote ., Pattern=so
-	Constrained: Pattern=vote, Pattern=know, Pattern=you
+Turn ID=9| A | A : so they think , well , you know , why vote .
+	Free: Pattern=they, Pattern=, you know ,, Pattern=well ,, Pattern=think, Pattern=why, Pattern=vote ., Pattern=so
+	Constrained: Pattern=, you know, Pattern=vote, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
 Turn ID=10| B | M : i'm not sure if they like each other or not .
 	Free: Pattern=each, Pattern=they, Pattern=if, Pattern=other, Pattern=like, Pattern=or not ., Pattern=i'm, Pattern=not sure
-	Constrained: Pattern=sure, Pattern=not, Pattern=or
-Turn ID=11| A | A : yeah really especially in texas
+	Constrained: Pattern=not, Pattern=or, Pattern=sure
+Turn ID=11| A | A : yeah , really , especially in texas
 	Free: Pattern=texas, Pattern=in
 	Constrained: 
-Turn ID=12| B | M : i don't know maybe it's just a texas thing ?
-	Free: Pattern=texas, Pattern=a, Pattern=don't know, Pattern=thing, Pattern=maybe, Pattern=it's, Pattern=just, Pattern=i don't
-	Constrained: Pattern=don't, Pattern=know, Pattern=i
-Turn ID=13| A | A : it really was yeah .
+Turn ID=12| B | M : i don't know , maybe it's just a texas thing ?
+	Free: Pattern=know ,, Pattern=texas, Pattern=a, Pattern=don't know, Pattern=thing, Pattern=maybe, Pattern=it's, Pattern=just, Pattern=i don't
+	Constrained: Pattern=know, Pattern=don't, Pattern=i
+Turn ID=13| A | A : it really was , yeah .
 	Free: Pattern=it
 	Constrained: 
-Turn ID=14| B | M : well that's how it's supposed to be .
-	Free: Pattern=well, Pattern=to be, Pattern=it's, Pattern=be ., Pattern=that's
+Turn ID=14| B | M : well , that's how it's supposed to be .
+	Free: Pattern=well ,, Pattern=to be, Pattern=it's, Pattern=be ., Pattern=that's
 	Constrained: Pattern=to, Pattern=be
 Turn ID=15| A | A : yeah did they get the serious problem that half the people don't vote .
 	Free: Pattern=they, Pattern=serious problem, Pattern=the, Pattern=don't, Pattern=vote ., Pattern=that
 	Constrained: Pattern=vote
 Turn ID=16| B | M : is that a serious problem ?
-	Free: Pattern=serious problem, Pattern=a, Pattern=that, Pattern=is
+	Free: Pattern=serious problem, Pattern=a, Pattern=is, Pattern=that
 	Constrained: 
 Turn ID=17| A | A : yeah .
 	Free: 
 	Constrained: 
-Turn ID=18| B | M : oh . well it's it .
-	Free: Pattern=oh, Pattern=it, Pattern=it's, Pattern=well
-	Constrained: 
-Turn ID=19| A | A : yeah . it also seems like maybe another candidate that nobody wants could slip in if you know not enough people are voting .
-	Free: Pattern=you know, Pattern=voting, Pattern=are, Pattern=if you, Pattern=in, Pattern=like, Pattern=maybe, Pattern=. it, Pattern=that, Pattern=not
-	Constrained: Pattern=know, Pattern=you, Pattern=if, Pattern=it
+Turn ID=18| B | M : oh . well , it's , it .
+	Free: Pattern=well ,, Pattern=, it's, Pattern=, it, Pattern=oh
+	Constrained: Pattern=it's, Pattern=it
+Turn ID=19| A | A : yeah . it also seems like maybe another candidate that nobody wants could slip in if , you know , not enough people are voting .
+	Free: Pattern=in, Pattern=like, Pattern=maybe, Pattern=. it, Pattern=that, Pattern=not, Pattern=voting, Pattern=, you know ,, Pattern=are, Pattern=if
+	Constrained: Pattern=it, Pattern=, you know, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
 Turn ID=20| B | M : i think it's pretty obvious that this is a bad idea .
 	Free: Pattern=a, Pattern=is, Pattern=i think, Pattern=that, Pattern=it's
-	Constrained: Pattern=think, Pattern=i
-Turn ID=21| A | A : yeah it's kind of like in louisiana where that uh guy that's like a ku klux klan member something got elected .
-	Free: Pattern=uh, Pattern=a, Pattern=in, Pattern=like, Pattern=got elected, Pattern=that's, Pattern=guy, Pattern=of, Pattern=that, Pattern=it's
-	Constrained: Pattern=elected, Pattern=got
+	Constrained: Pattern=i, Pattern=think
+Turn ID=21| A | A : yeah , it's kind of like in louisiana where that , uh , guy that's like a ku klux klan member something got elected .
+	Free: Pattern=uh, Pattern=a, Pattern=, it's, Pattern=in, Pattern=like, Pattern=got elected, Pattern=that's, Pattern=that ,, Pattern=guy, Pattern=of
+	Constrained: Pattern=elected, Pattern=got, Pattern=it's, Pattern=that
 Turn ID=22| B | M : what ?
 	Free: Pattern=what
 	Constrained: 
 Turn ID=23| A | A : kind of scary when you think about that .
-	Free: Pattern=you think, Pattern=that ., Pattern=of, Pattern=about
+	Free: Pattern=that ., Pattern=you think, Pattern=of, Pattern=about
 	Constrained: Pattern=think, Pattern=you, Pattern=that
 Turn ID=24| B | M : it's not
 	Free: Pattern=not, Pattern=it's
 	Constrained: 
-Turn ID=25| A | A : oh gosh .
-	Free: Pattern=oh
-	Constrained: 
+Turn ID=25| A | A : oh , gosh .
+	Free: Pattern=oh ,
+	Constrained: Pattern=oh
 Turn ID=26| B | M : aha ! i can't !
 	Free: Pattern=i can't
 	Constrained: Pattern=i, Pattern=can't
 Turn ID=27| A | A : yeah .
 	Free: 
 	Constrained: 
-Turn ID=28| B | M : hey that's the guy who shot the police officer that shot the guy in the
+Turn ID=28| B | M : hey , that's the guy who shot the police officer that shot the guy in the
 	Free: Pattern=guy, Pattern=in the, Pattern=that, Pattern=that's, Pattern=the
 	Constrained: Pattern=the, Pattern=in
-Turn ID=29| A | A : yeah people will sit home and assume oh that guy would never get elected .
-	Free: Pattern=guy, Pattern=will, Pattern=elected, Pattern=that, Pattern=and, Pattern=oh
-	Constrained: 
+Turn ID=29| A | A : yeah , people will sit home and assume , oh , that guy would never get elected .
+	Free: Pattern=guy, Pattern=and, Pattern=will, Pattern=oh ,, Pattern=elected, Pattern=that
+	Constrained: Pattern=oh
 Turn ID=30| B | M : you're assuming that .
 	Free: Pattern=that ., Pattern=you're
 	Constrained: Pattern=that
-Turn ID=31| A | A : next thing you know you've got him .
-	Free: Pattern=you've, Pattern=thing, Pattern=got, Pattern=him, Pattern=you know
-	Constrained: Pattern=know, Pattern=you
-Turn ID=32| B | M : well you've certainly got me there .
-	Free: Pattern=got, Pattern=you've, Pattern=well
+Turn ID=31| A | A : next thing you know , you've got him .
+	Free: Pattern=you know ,, Pattern=thing, Pattern=got, Pattern=, you've, Pattern=him
+	Constrained: Pattern=you know, Pattern=know ,, Pattern=you, Pattern=know
+Turn ID=32| B | M : well , you've certainly got me there .
+	Free: Pattern=, you've, Pattern=well ,, Pattern=got
 	Constrained: 
 Turn ID=33| A | A : yeah .
 	Free: 
 	Constrained: 
-Turn ID=34| B | M : if you go to a polling station you know who is the president of the party .
-	Free: Pattern=you know, Pattern=go, Pattern=a, Pattern=if you, Pattern=is, Pattern=the party, Pattern=the, Pattern=to, Pattern=of the
-	Constrained: Pattern=of, Pattern=you, Pattern=if, Pattern=the, Pattern=know, Pattern=party
-Turn ID=35| A | A : right yeah .
+Turn ID=34| B | M : if you go to a polling station , you know who is the president of the party .
+	Free: Pattern=go, Pattern=a, Pattern=, you know, Pattern=if you, Pattern=is, Pattern=the party, Pattern=the, Pattern=to, Pattern=of the
+	Constrained: Pattern=of, Pattern=if, Pattern=the, Pattern=you, Pattern=you know, Pattern=know, Pattern=party, Pattern=, you
+Turn ID=35| A | A : right , yeah .
 	Free: 
 	Constrained: 
-Turn ID=36| B | M : i'm pretty sure you can vote if you vote for me i will .
-	Free: Pattern=for, Pattern=you can, Pattern=i'm, Pattern=i, Pattern=vote, Pattern=sure, Pattern=if you, Pattern=will
-	Constrained: Pattern=you, Pattern=can, Pattern=if
+Turn ID=36| B | M : i'm pretty sure you can vote , if you vote for me , i will .
+	Free: Pattern=, if you, Pattern=for, Pattern=you can, Pattern=will, Pattern=i'm, Pattern=vote, Pattern=sure, Pattern=, i
+	Constrained: Pattern=you, Pattern=if, Pattern=can, Pattern=if you, Pattern=i
 Turn ID=37| A | A : yeah . right .
 	Free: 
 	Constrained: 
-Turn ID=38| B | M : he got elected but i think it's a bit of a stretch to call him the president .
-	Free: Pattern=of, Pattern=him, Pattern=he, Pattern=got elected, Pattern=the, Pattern=to, Pattern=i think, Pattern=bit, Pattern=a, Pattern=it's, Pattern=but
-	Constrained: Pattern=think, Pattern=elected, Pattern=got, Pattern=i
-Turn ID=39| A | A : yeah he sure did .
-	Free: Pattern=sure, Pattern=he
+Turn ID=38| B | M : he got elected , but i think it's a bit of a stretch to call him the president .
+	Free: Pattern=of, Pattern=he, Pattern=got elected, Pattern=the, Pattern=to, Pattern=it's, Pattern=i think, Pattern=him, Pattern=, but, Pattern=bit, Pattern=a
+	Constrained: Pattern=think, Pattern=i, Pattern=got, Pattern=elected, Pattern=but
+Turn ID=39| A | A : yeah , he sure did .
+	Free: Pattern=he, Pattern=sure
 	Constrained: 
 Turn ID=40| B | M : i think he got elected in the wrong state .
-	Free: Pattern=i think, Pattern=in the, Pattern=got elected, Pattern=he
+	Free: Pattern=got elected, Pattern=in the, Pattern=i think, Pattern=he
 	Constrained: Pattern=i, Pattern=the, Pattern=got, Pattern=elected, Pattern=think, Pattern=in
-Turn ID=41| A | A : yeah . i think one thing that maybe would help people vote is if the polls were either open more days or you could mail it in or something like if you have if you have real strict work hours and you can only go like at seven in the morning or after work and you have to stand in line for so long
-	Free: Pattern=more, Pattern=you, Pattern=for, Pattern=you can, Pattern=in, Pattern=work, Pattern=is, Pattern=or, Pattern=to, Pattern=maybe, Pattern=that, Pattern=go, Pattern=long, Pattern=it, Pattern=and, Pattern=in the, Pattern=if, Pattern=if you, Pattern=you have, Pattern=vote, Pattern=like, Pattern=thing, Pattern=the, Pattern=so, Pattern=i think
-	Constrained: Pattern=you, Pattern=have, Pattern=if, Pattern=can, Pattern=i, Pattern=the, Pattern=think, Pattern=in
+Turn ID=41| A | A : yeah . i think one thing that maybe would help people vote is if the polls were either open more days , or you could mail it in , or something like , if you have , if you have real strict work hours , and you can only go like at seven in the morning or after work and you have to stand in line for so long
+	Free: Pattern=more, Pattern=you, Pattern=, if you, Pattern=for, Pattern=you can, Pattern=you have, Pattern=in, Pattern=work, Pattern=is, Pattern=or, Pattern=to, Pattern=maybe, Pattern=that, Pattern=go, Pattern=long, Pattern=it, Pattern=and, Pattern=in the, Pattern=if, Pattern=vote, Pattern=like, Pattern=thing, Pattern=the, Pattern=so, Pattern=i think
+	Constrained: Pattern=you, Pattern=have, Pattern=if, Pattern=can, Pattern=if you, Pattern=i, Pattern=the, Pattern=think, Pattern=in
 Turn ID=42| B | M : i like this idea .
 	Free: Pattern=i, Pattern=like
 	Constrained: 
@@ -237,7 +237,7 @@ Turn ID=45| A | A : uh-huh .
 	Free: 
 	Constrained: 
 Turn ID=46| B | M :  ... uh ... what ?
-	Free: Pattern=what, Pattern=uh
+	Free: Pattern=uh, Pattern=what
 	Constrained: 
 Turn ID=47| A | A : right .
 	Free: 
@@ -251,15 +251,15 @@ Turn ID=49| A | A : uh-huh .
 Turn ID=50| B | M : i don't think there's a reason for you to vote .
 	Free: Pattern=you, Pattern=i don't think, Pattern=a, Pattern=for, Pattern=to, Pattern=vote .
 	Constrained: Pattern=i don't, Pattern=think, Pattern=i, Pattern=vote, Pattern=don't
-Turn ID=51| A | A : yeah i'm in dallas and they're long here too .
-	Free: Pattern=long, Pattern=in, Pattern=and, Pattern=i'm
-	Constrained: 
-Turn ID=52| B | M : you know what ? i'm not a fan of the cowboys but they've got a lot of good things going on .
-	Free: Pattern=good, Pattern=a lot of, Pattern=you know, Pattern=going, Pattern=a, Pattern=on, Pattern=got, Pattern=not, Pattern=i'm, Pattern=know what, Pattern=of the, Pattern=but
-	Constrained: Pattern=of, Pattern=you, Pattern=what, Pattern=a, Pattern=know, Pattern=the, Pattern=a lot
-Turn ID=53| A | A : yeah i voted absentee one year . i really was going to be gone . so i did it but uh it was nice . i would be tempted to do it again .
-	Free: Pattern=uh, Pattern=going, Pattern=to do, Pattern=it, Pattern=i voted, Pattern=. so, Pattern=i, Pattern=be, Pattern=to be, Pattern=but, Pattern=again .
-	Constrained: Pattern=do, Pattern=i, Pattern=be, Pattern=to, Pattern=so
+Turn ID=51| A | A : yeah , i'm in dallas , and they're long here too .
+	Free: Pattern=, i'm, Pattern=long, Pattern=in, Pattern=and
+	Constrained: Pattern=i'm
+Turn ID=52| B | M : you know what ? i'm not a fan of the cowboys , but they've got a lot of good things going on .
+	Free: Pattern=good, Pattern=a lot of, Pattern=going, Pattern=a, Pattern=on, Pattern=got, Pattern=of the, Pattern=not, Pattern=you know, Pattern=, but, Pattern=i'm, Pattern=know what
+	Constrained: Pattern=of, Pattern=you, Pattern=what, Pattern=a, Pattern=know, Pattern=the, Pattern=a lot, Pattern=but
+Turn ID=53| A | A : yeah , i voted absentee one year . i really was going to be gone . so , i did it , but , uh , it was nice . i would be tempted to do it again .
+	Free: Pattern=, it, Pattern=going, Pattern=to do, Pattern=it, Pattern=i, Pattern=be, Pattern=, i, Pattern=to be, Pattern=again ., Pattern=uh, Pattern=, i voted, Pattern=, but, Pattern=. so, Pattern=so ,
+	Constrained: Pattern=do, Pattern=it, Pattern=i voted, Pattern=i, Pattern=be, Pattern=, i, Pattern=to, Pattern=but, Pattern=so
 Turn ID=54| B | M : i voted for the first time in my life . i'm not sure i'd be able to do that again .
 	Free: Pattern=time, Pattern=for the, Pattern=to do, Pattern=i voted, Pattern=in, Pattern=be, Pattern=that, Pattern=again ., Pattern=i'm, Pattern=not sure
 	Constrained: Pattern=do, Pattern=for, Pattern=i, Pattern=sure, Pattern=the, Pattern=to, Pattern=not
@@ -267,57 +267,57 @@ Turn ID=55| A | A : right .
 	Free: 
 	Constrained: 
 Turn ID=56| B | M : i vote yes
-	Free: Pattern=vote, Pattern=i
+	Free: Pattern=i, Pattern=vote
 	Constrained: 
 Turn ID=57| A | A : yeah . i think they should change the whole system so that it's easier
 	Free: Pattern=should, Pattern=think they, Pattern=system, Pattern=the, Pattern=that, Pattern=it's, Pattern=so, Pattern=i think
-	Constrained: Pattern=think, Pattern=i, Pattern=they
+	Constrained: Pattern=i, Pattern=think, Pattern=they
 Turn ID=58| B | M : why ? it's a good idea .
-	Free: Pattern=a, Pattern=good, Pattern=it's, Pattern=why
+	Free: Pattern=good, Pattern=a, Pattern=it's, Pattern=why
 	Constrained: 
 Turn ID=59| A | A : i think more people would do it if it wasn't such a hassle .
 	Free: Pattern=more, Pattern=it, Pattern=if, Pattern=i think, Pattern=do, Pattern=a
-	Constrained: Pattern=think, Pattern=i
-Turn ID=60| B | M : and it's been a long time since we had a system like that .
-	Free: Pattern=time, Pattern=long, Pattern=a, Pattern=system, Pattern=and, Pattern=like that ., Pattern=it's
-	Constrained: Pattern=that ., Pattern=that, Pattern=like
-Turn ID=61| A | A : uh-huh
+	Constrained: Pattern=i, Pattern=think
+Turn ID=60| B | M : and , it's been a long time since we had a system like that .
+	Free: Pattern=time, Pattern=long, Pattern=a, Pattern=system, Pattern=and, Pattern=, it's, Pattern=like that .
+	Constrained: Pattern=that ., Pattern=like, Pattern=it's, Pattern=that
+Turn ID=61| A | A : uh-huh ,
 	Free: 
 	Constrained: 
-Turn ID=62| B | M : i'm not that's just
-	Free: Pattern=just, Pattern=not, Pattern=that's, Pattern=i'm
+Turn ID=62| B | M : i'm not that's just ,
+	Free: Pattern=that's, Pattern=not, Pattern=i'm, Pattern=just
 	Constrained: 
-Turn ID=63| A | A : yeah that would be . i usually vote . a lot of times i'll vote a straight party ticket just because i don't take the time to find out what every you know other than the major candidates what they stand for on what issues
-	Free: Pattern=time, Pattern=a lot of, Pattern=you know, Pattern=for, Pattern=other, Pattern=party, Pattern=i, Pattern=vote, Pattern=to, Pattern=candidates, Pattern=just, Pattern=i don't, Pattern=what, Pattern=they, Pattern=a, Pattern=because, Pattern=on, Pattern=be ., Pattern=the, Pattern=vote ., Pattern=that
-	Constrained: Pattern=of, Pattern=you, Pattern=a, Pattern=know, Pattern=i, Pattern=vote, Pattern=be, Pattern=don't, Pattern=a lot
-Turn ID=64| B | M : work .
+Turn ID=63| A | A : yeah , that would be . i usually vote . a lot of times i'll vote a straight party ticket just because i don't take the time to find out what every , you know , other than the major candidates , what they stand for on what issues ,
+	Free: Pattern=time, Pattern=a lot of, Pattern=for, Pattern=other, Pattern=party, Pattern=i, Pattern=vote, Pattern=to, Pattern=candidates, Pattern=just, Pattern=i don't, Pattern=what, Pattern=they, Pattern=, you know ,, Pattern=a, Pattern=because, Pattern=on, Pattern=be ., Pattern=the, Pattern=vote ., Pattern=that
+	Constrained: Pattern=a, Pattern=, you know, Pattern=i, Pattern=vote, Pattern=be, Pattern=don't, Pattern=a lot, Pattern=of, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
+Turn ID=64| B | M :  , work .
 	Free: Pattern=work
 	Constrained: 
-Turn ID=65| A | A : so i'll just trust well the party kind of goes along these lines so i'll go ahead and vote .
-	Free: Pattern=of, Pattern=well, Pattern=just, Pattern=go, Pattern=and, Pattern=the party, Pattern=vote ., Pattern=so
-	Constrained: Pattern=vote, Pattern=party, Pattern=the
+Turn ID=65| A | A : so i'll just trust well , the party kind of goes along these lines so i'll go ahead and vote .
+	Free: Pattern=of, Pattern=just, Pattern=go, Pattern=and, Pattern=well ,, Pattern=the party, Pattern=vote ., Pattern=so
+	Constrained: Pattern=the, Pattern=vote, Pattern=party
 Turn ID=66| B | M : i vote
-	Free: Pattern=vote, Pattern=i
+	Free: Pattern=i, Pattern=vote
 	Constrained: 
 Turn ID=67| A | A : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=68| B | M : i'm sorry .
-	Free: Pattern=i'm
-	Constrained: 
+Turn ID=68| B | M :  , i'm sorry .
+	Free: Pattern=, i'm
+	Constrained: Pattern=i'm
 Turn ID=69| A | A : yeah .
 	Free: 
 	Constrained: 
-Turn ID=70| B | M : oh you mean that
-	Free: Pattern=you, Pattern=that, Pattern=oh
-	Constrained: 
-Turn ID=71| A | A : no i guess it'd be best if you knew each person and what they stood for and why and everything .
-	Free: Pattern=each, Pattern=for, Pattern=and, Pattern=if you, Pattern=i guess, Pattern=be, Pattern=why, Pattern=no, Pattern=what, Pattern=they
-	Constrained: Pattern=you, Pattern=i, Pattern=if
+Turn ID=70| B | M : oh , you mean that ,
+	Free: Pattern=oh ,, Pattern=that ,, Pattern=, you
+	Constrained: Pattern=you, Pattern=oh, Pattern=that
+Turn ID=71| A | A : no , i guess it'd be best if you knew each person and what they stood for and why and everything .
+	Free: Pattern=each, Pattern=for, Pattern=and, Pattern=if you, Pattern=i guess, Pattern=be, Pattern=, i, Pattern=why, Pattern=no, Pattern=what, Pattern=they
+	Constrained: Pattern=if, Pattern=i, Pattern=you
 Turn ID=72| B | M : so ... i guess i should
-	Free: Pattern=i guess, Pattern=should, Pattern=i, Pattern=so
+	Free: Pattern=i guess, Pattern=so, Pattern=i, Pattern=should
 	Constrained: Pattern=i
-Turn ID=73| A | A : right and try to determine if what you read was objective or not .
+Turn ID=73| A | A : right , and try to determine if what you read was objective or not .
 	Free: Pattern=you, Pattern=what, Pattern=and, Pattern=if, Pattern=or not ., Pattern=to
 	Constrained: Pattern=not, Pattern=or
 Turn ID=74| B | M : you know .
@@ -326,8 +326,8 @@ Turn ID=74| B | M : you know .
 Turn ID=75| A | A : yeah .
 	Free: 
 	Constrained: 
-Turn ID=76| B | M : this isnt a story its a compilation of what youve heard
-	Free: Pattern=what, Pattern=a, Pattern=of
+Turn ID=76| B | M : this isnt a story , its a compilation of what youve heard
+	Free: Pattern=a, Pattern=of, Pattern=what
 	Constrained: 
 Turn ID=77| A | A : yeah .
 	Free: 
@@ -341,45 +341,45 @@ Turn ID=79| A | A : yeah .
 Turn ID=80| B | M : it's a joke
 	Free: Pattern=a, Pattern=it's
 	Constrained: 
-Turn ID=81| A | A : yeah i think it could affect the outcome you know could make it unfair .
-	Free: Pattern=i think, Pattern=you know, Pattern=the, Pattern=it
-	Constrained: Pattern=think, Pattern=know, Pattern=you, Pattern=i
+Turn ID=81| A | A : yeah , i think it could affect the outcome , you know , could make it unfair .
+	Free: Pattern=, you know ,, Pattern=it, Pattern=i think, Pattern=the, Pattern=, i
+	Constrained: Pattern=, you know, Pattern=think, Pattern=i, Pattern=know ,, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
 Turn ID=82| B | M : it's just a joke . it's not even funny .
-	Free: Pattern=just, Pattern=not, Pattern=a, Pattern=it's
+	Free: Pattern=not, Pattern=a, Pattern=it's, Pattern=just
 	Constrained: 
-Turn ID=83| A | A : oh yeah .
-	Free: Pattern=oh
-	Constrained: 
+Turn ID=83| A | A : oh , yeah .
+	Free: Pattern=oh ,
+	Constrained: Pattern=oh
 Turn ID=84| B | M : the election has been in the works for a while .
 	Free: Pattern=a, Pattern=for, Pattern=has, Pattern=in the, Pattern=the
 	Constrained: Pattern=the, Pattern=in
-Turn ID=85| A | A : yeah the press has a lot of power .
+Turn ID=85| A | A : yeah , the press has a lot of power .
 	Free: Pattern=a lot of, Pattern=the press, Pattern=has
 	Constrained: Pattern=a, Pattern=a lot, Pattern=of, Pattern=the
 Turn ID=86| B | M : that's true .
 	Free: Pattern=that's
 	Constrained: 
-Turn ID=87| A | A : yeah oh but boy you try get into that you'd really open a can of worms .
-	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=oh, Pattern=can, Pattern=that, Pattern=but
-	Constrained: 
-Turn ID=88| B | M : you have a point . they have no control over the press they can't control the press .
+Turn ID=87| A | A : yeah , oh , but , boy you try get into that , you'd really open a can of worms .
+	Free: Pattern=of, Pattern=a, Pattern=can, Pattern=you, Pattern=, but, Pattern=oh ,, Pattern=that ,
+	Constrained: Pattern=but, Pattern=oh, Pattern=that
+Turn ID=88| B | M : you have a point . they have no control over the press , they can't control the press .
 	Free: Pattern=have, Pattern=a, Pattern=you have, Pattern=can't, Pattern=the press, Pattern=no, Pattern=they
-	Constrained: Pattern=you, Pattern=the, Pattern=have
-Turn ID=89| A | A : yeah seems that they should regulate themselves a little bit and i don't think they ever care to .
+	Constrained: Pattern=the, Pattern=you, Pattern=have
+Turn ID=89| A | A : yeah , seems that they should regulate themselves a little bit , and i don't think they ever care to .
 	Free: Pattern=i don't think, Pattern=care, Pattern=and, Pattern=to, Pattern=that, Pattern=should, Pattern=they, Pattern=think they, Pattern=bit, Pattern=a
 	Constrained: Pattern=i don't, Pattern=they, Pattern=think, Pattern=i, Pattern=don't
-Turn ID=90| B | M : i'm not saying they don't i'm just saying
-	Free: Pattern=they don't, Pattern=just, Pattern=not, Pattern=i'm
-	Constrained: Pattern=don't, Pattern=they
-Turn ID=91| A | A : well i can't think of anything else really about the polls or voting to talk about .
-	Free: Pattern=of, Pattern=well, Pattern=about the, Pattern=voting, Pattern=about, Pattern=think, Pattern=or, Pattern=to, Pattern=i can't
-	Constrained: Pattern=i, Pattern=the, Pattern=can't, Pattern=about
+Turn ID=90| B | M : i'm not saying they don't , i'm just saying
+	Free: Pattern=just, Pattern=i'm, Pattern=they don't, Pattern=, i'm, Pattern=not
+	Constrained: Pattern=don't, Pattern=i'm, Pattern=they
+Turn ID=91| A | A : well , i can't think of anything else really about the polls or voting , to talk about .
+	Free: Pattern=of, Pattern=about the, Pattern=voting, Pattern=well ,, Pattern=about, Pattern=think, Pattern=or, Pattern=, i, Pattern=to, Pattern=i can't
+	Constrained: Pattern=the, Pattern=i, Pattern=about, Pattern=can't
 Turn ID=92| B | M : do you think they care ?
-	Free: Pattern=think they, Pattern=you think, Pattern=do, Pattern=care
+	Free: Pattern=you think, Pattern=think they, Pattern=care, Pattern=do
 	Constrained: Pattern=think, Pattern=you, Pattern=they
-Turn ID=93| A | A : well it was good talking to you .
-	Free: Pattern=to you, Pattern=good, Pattern=it, Pattern=well
-	Constrained: Pattern=to, Pattern=you
+Turn ID=93| A | A : well , it was good talking to you .
+	Free: Pattern=well ,, Pattern=, it, Pattern=to you, Pattern=good
+	Constrained: Pattern=to, Pattern=you, Pattern=it
 Turn ID=94| B | M : i don't like it .
 	Free: Pattern=i don't, Pattern=don't like, Pattern=it
 	Constrained: Pattern=don't, Pattern=i, Pattern=like

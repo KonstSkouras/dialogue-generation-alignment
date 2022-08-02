@@ -1,15 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	and then they	5	B	41, 45
+4	4	, you know ,	23	B	15, 23, 29, 37
+2	4	, and then they	5	B	41, 45
+5	3	, you know	31	B	15, 23, 29, 37, 45
+4	3	you know ,	23	B	15, 23, 29, 37
+2	3	, i think	17	B	13, 29
+6	2	, you	31	B	15, 23, 29, 31, 37, 45
 6	2	yeah .	45	B	3, 9, 15, 25, 29, 47
 6	2	you know	31	B	15, 19, 23, 29, 37, 45
+5	2	, i	33	B	11, 13, 29, 33, 43
+4	2	, and	25	B	21, 29, 41, 45
 3	2	i mean	37	B	15, 33, 51
 3	2	it .	45	B	7, 23, 51
+3	2	uh ,	27	B	13, 15, 39
+2	2	, they	27	B	15, 41
+2	2	and ,	15	B	23, 37
 2	2	and that	25	B	15, 39
-2	2	i think	17	B	13, 29
+2	2	died ,	5	B	17, 21
 2	2	in the	15	B	15, 29
 2	2	it was	7	B	23, 29
 2	2	right .	5	B	31, 35
+2	2	the ,	7	B	15, 21
 2	2	to be	33	B	21, 53
+2	2	uh-huh ,	29	B	1, 29
 2	2	with it	19	B	23, 41
 11	1	and	39	B	15, 21, 23, 29, 31, 37, 39, 41, 45, 51, 53
 8	1	you	39	B	7, 15, 19, 23, 29, 31, 37, 45
@@ -32,7 +44,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	really	23	B	15, 29, 37
 3	1	right	29	B	7, 31, 35
 3	1	think	31	B	13, 29, 43
-3	1	uh	27	B	13, 15, 39
 3	1	uh-huh	49	B	1, 29, 49
 3	1	was	17	B	23, 29, 39
 3	1	well	23	B	29, 31, 51
@@ -41,7 +52,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	because	27	B	15, 41
 2	1	but	9	B	13, 21
 2	1	can	11	B	31, 41
-2	1	died	5	B	17, 21
 2	1	do	35	B	7, 41
 2	1	got	21	B	17, 37
 2	1	have	25	B	7, 31

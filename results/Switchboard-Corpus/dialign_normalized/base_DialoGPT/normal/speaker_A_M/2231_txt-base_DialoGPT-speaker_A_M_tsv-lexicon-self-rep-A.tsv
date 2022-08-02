@@ -1,14 +1,23 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	. but still it	11	A	45, 55
+2	5	. but still , it	11	A	45, 55
+3	4	, you know ,	23	A	49, 65, 71
+2	4	, i , i	15	A	35, 49
+2	4	. you know ,	33	A	17, 49
 2	4	it really is .	5	A	85, 89
 2	4	yeah . yeah .	81	A	9, 89
 2	4	yes . uh-huh .	9	A	39, 47
+5	3	, you know	29	A	43, 49, 57, 65, 71
 4	3	. uh-huh .	37	A	39, 47, 53, 75
+3	3	, let's say	17	A	1, 3, 17
 3	3	. yeah .	81	A	9, 31, 89
 3	3	. you know	67	A	17, 49, 83
+2	3	, i ,	15	A	35, 49
+2	3	. well ,	7	A	83, 89
 2	3	. yes .	27	A	1, 27
 2	3	a lot of	23	A	43, 65
 2	3	a rough time	3	A	15, 17
+2	3	i mean ,	55	A	3, 57
+2	3	innocent person ,	5	A	13, 17
 2	3	it seems like	3	A	15, 17
 2	3	that's right .	7	A	5, 11
 2	3	yes . i	51	A	27, 77
@@ -16,27 +25,33 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	you know ?	27	A	17, 43
 20	2	uh-huh .	81	A	7, 11, 23, 25, 27, 29, 31, 39, 41, 47, 51, 53, 59, 61, 67, 69, 75, 81, 83, 87
 8	2	yes .	77	A	1, 27, 37, 39, 47, 55, 63, 77
-8	2	you know	67	A	17, 27, 43, 49, 57, 65, 71, 83
 6	2	yeah .	81	A	9, 21, 31, 33, 35, 89
+5	2	, it	61	A	17, 31, 45, 55, 77
+5	2	, you	29	A	43, 49, 57, 65, 71
+5	2	i ,	49	A	35, 49, 77, 79, 83
+4	2	, i	57	A	27, 35, 49, 83
 4	2	. you	67	A	17, 31, 49, 83
+4	2	it ,	47	A	17, 43, 55, 63
 3	2	. but	21	A	35, 45, 55
 3	2	is .	41	A	49, 85, 89
 3	2	know .	57	A	27, 35, 83
-3	2	let's say	17	A	1, 3, 17
 3	2	seems like	49	A	15, 17, 63
+3	2	uh ,	73	A	13, 43, 85
+3	2	well ,	25	A	65, 83, 89
+2	2	, and	47	A	19, 65
+2	2	, like	35	A	49, 83
+2	2	, they	5	A	13, 17
 2	2	. it	5	A	85, 89
-2	2	. well	7	A	83, 89
-2	2	i i	15	A	35, 49
-2	2	i mean	55	A	3, 57
 2	2	i was	59	A	27, 85
 2	2	in a	19	A	65, 83
-2	2	innocent person	5	A	13, 17
+2	2	really ,	51	A	13, 63
 2	2	right .	7	A	5, 11
 2	2	see them	63	A	27, 89
+2	2	though ,	31	A	55, 85
+2	2	time ,	9	A	19, 27
 2	2	years .	3	A	1, 3
 10	1	it	75	A	15, 17, 31, 43, 45, 55, 63, 77, 85, 89
 10	1	you	75	A	17, 27, 31, 43, 49, 57, 65, 71, 83, 91
-9	1	i	83	A	3, 27, 35, 49, 57, 77, 79, 83, 85
 9	1	know	67	A	17, 27, 35, 43, 49, 57, 65, 71, 83
 9	1	yes	77	A	1, 27, 37, 39, 47, 55, 63, 73, 77
 8	1	really	77	A	13, 15, 17, 27, 43, 63, 85, 89
@@ -57,7 +72,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	of	47	A	43, 65, 89
 3	1	out	71	A	19, 63, 89
 3	1	up	17	A	49, 55, 65
-3	1	well	25	A	65, 83, 89
 2	1	back	13	A	19, 31
 2	1	because	31	A	13, 43
 2	1	goodness	21	A	45, 65
@@ -75,7 +89,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	there	15	A	5, 19
 2	1	they	5	A	13, 17
 2	1	think	23	A	43, 65
-2	1	though	31	A	55, 85
 2	1	when	69	A	17, 85
 2	1	years	3	A	1, 3
 

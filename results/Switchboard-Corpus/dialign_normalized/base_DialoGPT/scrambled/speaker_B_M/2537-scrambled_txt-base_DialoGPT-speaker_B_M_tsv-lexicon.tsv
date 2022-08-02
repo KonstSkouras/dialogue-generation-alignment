@@ -1,9 +1,14 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
-4	4	2	you know	71	46	3	B	26, 34, 44, 71
+3	3	3	you know ,	71	46	2	B	26, 34, 71
+4	1	2	you know	71	46	3	B	26, 34, 44, 71
+3	3	2	, the	23	15	1	B	12, 23, 26
 3	3	2	i do	24	68	1	M	5, 24, 72
+3	1	2	know ,	71	46	2	B	26, 34, 71
 3	3	2	no .	67	62	2	B	6, 16, 67
+3	3	2	yeah ,	45	34	2	B	12, 36, 45
 2	2	2	a thing	52	28	1	M	25, 52
 2	2	2	and i	40	36	1	M	5, 40
+2	2	2	i ,	61	22	1	B	40, 61
 2	2	2	i'm not	26	24	1	M	3, 26
 2	2	2	in the	68	16	1	M	53, 68
 2	2	2	is that	25	26	1	B	0, 25
@@ -14,12 +19,13 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	2	right now	58	8	1	M	51, 58
 2	2	2	the house	73	6	1	B	68, 73
 2	2	2	they have	71	60	1	B	12, 71
+2	2	2	well ,	36	20	1	M	17, 36
 2	2	2	year old	43	34	1	B	10, 43
-19	16	1	i	12	70	3	M	3, 5, 11, 12, 19, 21, 24, 32, 40, 48, 49, 51, 55, 57, 61, 64, 65, 68, 72
+19	15	1	i	12	70	3	M	3, 5, 11, 12, 19, 21, 24, 32, 40, 48, 49, 51, 55, 57, 61, 64, 65, 68, 72
 17	15	1	a	10	66	1	M	3, 10, 11, 13, 21, 22, 25, 30, 34, 42, 43, 48, 52, 53, 54, 64, 68
-13	11	1	the	12	69	1	M	5, 12, 23, 26, 30, 31, 34, 40, 45, 53, 64, 68, 73
+13	9	1	the	12	69	1	M	5, 12, 23, 26, 30, 31, 34, 40, 45, 53, 64, 68, 73
 10	10	1	to	12	67	1	M	7, 12, 17, 19, 26, 34, 42, 48, 57, 73
-10	10	1	yeah	45	67	3	B	8, 12, 36, 45, 46, 50, 60, 66, 70, 74
+10	7	1	yeah	45	67	3	B	8, 12, 36, 45, 46, 50, 60, 66, 70, 74
 9	7	1	and	8	68	1	M	5, 8, 10, 11, 26, 34, 40, 68, 72
 9	6	1	you	26	61	1	M	11, 26, 27, 34, 44, 47, 55, 63, 71
 8	5	1	do	26	68	1	M	5, 24, 26, 27, 47, 48, 63, 72
@@ -57,7 +63,6 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	1	i've	54	48	1	M	7, 54
 2	2	1	interesting	72	68	1	M	5, 72
 2	2	1	was	43	2	1	B	42, 43
-2	2	1	well	36	20	1	M	17, 36
 2	2	1	when	43	10	1	B	34, 43
 2	2	1	where	48	22	1	M	27, 48
 

@@ -1,24 +1,34 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	5	, and , uh ,	19	B	6, 14, 24
+2	4	so , uh ,	27	B	4, 30
+8	3	, uh ,	27	B	4, 6, 14, 18, 24, 26, 28, 30
 2	3	we're the largest	15	B	4, 18
+9	2	uh ,	27	B	4, 6, 14, 18, 20, 24, 26, 28, 30
+5	2	, and	21	B	4, 6, 12, 14, 24
 5	2	uh-huh .	23	B	0, 2, 4, 8, 22
-3	2	and uh	19	B	6, 14, 24
+3	2	, then	15	B	18, 20, 32
+3	2	and ,	19	B	6, 14, 24
 3	2	right .	19	B	10, 16, 28
+3	2	so ,	29	B	4, 30, 32
 3	2	yeah .	13	B	22, 28, 34
+2	2	, i	11	B	4, 14
+2	2	, it	9	B	6, 14
+2	2	, that's	17	B	12, 28
+2	2	a ,	11	B	4, 14
 2	2	back to	3	B	4, 6
 2	2	if we	7	B	14, 20
 2	2	it will	15	B	6, 20
-2	2	so uh	27	B	4, 30
+2	2	right ,	5	B	12, 16
 2	2	that's where	15	B	12, 26
-2	2	then uh	3	B	18, 20
+2	2	the ,	3	B	12, 14
 2	2	to be	21	B	4, 24
+2	2	uh-huh ,	19	B	4, 22
+2	2	where ,	13	B	14, 26
 2	2	you know	19	B	14, 32
-9	1	uh	27	B	4, 6, 14, 18, 20, 24, 26, 28, 30
 7	1	and	23	B	4, 6, 12, 14, 18, 24, 26
 7	1	the	25	B	4, 12, 14, 18, 20, 26, 28
 5	1	so	29	B	4, 14, 24, 30, 32
-5	1	uh-huh	23	B	0, 2, 4, 8, 22
 4	1	it	17	B	4, 6, 14, 20
-4	1	right	19	B	10, 12, 16, 28
 4	1	that's	29	B	0, 12, 26, 28
 4	1	to	21	B	4, 6, 20, 24
 4	1	where	23	B	4, 12, 14, 26
@@ -27,7 +37,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	in	29	B	4, 6, 32
 3	1	is	7	B	12, 14, 18
 3	1	it's	25	B	4, 14, 28
-3	1	then	15	B	18, 20, 32
 3	1	there	21	B	4, 12, 24
 3	1	we	19	B	14, 20, 32
 3	1	we're	21	B	4, 18, 24

@@ -1,29 +1,47 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	a that that	19	M	31, 49
-2	3	and uh .	55	M	5, 59
-2	3	i don't know	17	M	31, 47
-2	3	oh really ?	27	M	39, 65
-2	3	that is a	19	M	31, 49
-2	3	that's that's a	31	M	1, 31
-2	3	uh you know	7	M	43, 49
-4	2	and uh	55	M	5, 15, 43, 59
+2	5	a , that , that	19	M	31, 49
+2	4	, that is a	19	M	31, 49
+2	4	, you know ,	9	M	23, 31
+2	4	and , uh .	55	M	5, 59
+2	4	i don't know ,	17	M	31, 47
+2	4	oh , really ?	27	M	39, 65
+2	4	that's , that's a	31	M	1, 31
+4	3	, uh ,	43	M	15, 21, 49, 57
+4	3	, uh .	55	M	5, 15, 45, 59
+4	3	and , uh	55	M	5, 15, 43, 59
+3	3	, that is	39	M	11, 31, 49
+3	3	, you know	27	M	23, 31, 49
+3	3	oh , really	37	M	39, 65, 75
+2	3	, it ,	37	M	21, 57
+2	3	, it doesn	3	M	19, 21
+2	3	, right .	17	M	53, 69
+2	3	but , uh	13	M	45, 57
+2	3	it , it	37	M	21, 57
+2	3	yeah , i	53	M	29, 81
+9	2	, uh	55	M	5, 11, 15, 21, 43, 45, 49, 57, 59
+7	2	uh ,	67	M	15, 21, 49, 57, 61, 67, 81
+6	2	yeah ,	71	M	11, 13, 29, 31, 69, 81
+4	2	, i	53	M	29, 31, 77, 81
+4	2	, you	51	M	23, 31, 49, 73
 4	2	house .	47	M	1, 17, 21, 47
-4	2	uh .	55	M	5, 15, 45, 59
+4	2	oh ,	39	M	39, 65, 75, 77
 4	2	you know	27	M	23, 31, 43, 49
-3	2	oh really	37	M	39, 65, 75
-3	2	that is	39	M	11, 31, 49
+3	2	, that's	49	M	1, 31, 49
+3	2	but ,	47	M	11, 45, 57
+3	2	that's ,	49	M	1, 31, 49
 3	2	uh-huh .	43	M	41, 51, 83
+3	2	well ,	43	M	31, 49, 73
 3	2	yeah .	35	M	3, 35, 37
-2	2	but uh	13	M	45, 57
+2	2	, because	37	M	11, 47
+2	2	, it's	31	M	27, 57
+2	2	, too	71	M	11, 81
+2	2	, we've	13	M	11, 23
 2	2	i know	7	M	23, 29
-2	2	it doesn	3	M	19, 21
-2	2	it it	37	M	21, 57
-2	2	like a	7	M	17, 23
-2	2	right .	17	M	53, 69
+2	2	no ,	9	M	19, 27
+2	2	that ,	19	M	31, 49
+2	2	the ,	19	M	31, 49
+2	2	um ,	13	M	11, 23
 2	2	we have	11	M	33, 43
-2	2	yeah i	53	M	29, 81
-12	1	uh	77	M	5, 11, 15, 21, 43, 45, 49, 57, 59, 61, 67, 81
-9	1	yeah	79	M	3, 11, 13, 29, 31, 35, 37, 69, 81
 7	1	i	59	M	23, 29, 31, 47, 49, 77, 81
 7	1	you	55	M	19, 23, 29, 31, 43, 49, 73
 6	1	a	49	M	1, 17, 23, 31, 43, 49
@@ -31,7 +49,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	and	55	M	5, 15, 43, 59
 4	1	but	47	M	11, 21, 45, 57
 4	1	it's	31	M	27, 47, 55, 57
-4	1	oh	39	M	39, 65, 75, 77
 4	1	that	39	M	11, 23, 31, 49
 4	1	that's	49	M	1, 11, 31, 49
 4	1	we	33	M	11, 23, 33, 43
@@ -39,21 +56,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	like	41	M	17, 23, 57
 3	1	the	19	M	31, 47, 49
 3	1	to	47	M	11, 33, 57
-3	1	well	43	M	31, 49, 73
 2	1	about	51	M	11, 61
 2	1	at	29	M	19, 47
-2	1	because	37	M	11, 47
 2	1	have	11	M	33, 43
 2	1	just	45	M	13, 57
-2	1	no	9	M	19, 27
 2	1	of	27	M	23, 49
 2	1	one	3	M	11, 13
 2	1	our	13	M	11, 23
 2	1	right	17	M	53, 69
 2	1	so	9	M	25, 33
-2	1	too	71	M	11, 81
-2	1	um	13	M	11, 23
 2	1	we're	37	M	11, 47
-2	1	we've	13	M	11, 23
 2	1	with	21	M	11, 31
 

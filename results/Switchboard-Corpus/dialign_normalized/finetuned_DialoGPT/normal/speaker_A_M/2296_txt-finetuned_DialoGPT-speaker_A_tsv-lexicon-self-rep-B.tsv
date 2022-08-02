@@ -1,9 +1,19 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	i don't know	3	M	29, 31
-3	2	i don't	17	M	15, 29, 31
+2	4	, i don't know	3	M	29, 31
+3	3	, i don't	17	M	15, 29, 31
+2	3	, i have	13	M	3, 15
+2	3	, uh ,	13	M	3, 15
+2	3	, uh .	19	M	1, 19
+4	2	, i	29	M	3, 15, 29, 31
+4	2	well ,	33	M	9, 15, 25, 41
+3	2	oh ,	33	M	5, 11, 37
+3	2	uh ,	21	M	3, 15, 23
 3	2	uh .	19	M	1, 7, 19
+2	2	, but	15	M	15, 29
+2	2	, i've	11	M	9, 19
+2	2	, it	5	M	17, 21
+2	2	, you	5	M	11, 15
 2	2	. i	27	M	15, 41
-2	2	i have	13	M	3, 15
 2	2	is .	15	M	17, 31
 2	2	it .	27	M	15, 41
 2	2	uh-huh .	21	M	13, 33
@@ -30,7 +40,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	been	23	M	19, 41
 2	1	enjoy	13	M	15, 27
 2	1	good	5	M	23, 27
-2	1	i've	11	M	9, 19
 2	1	if	3	M	27, 29
 2	1	in	25	M	3, 27
 2	1	my	23	M	5, 27

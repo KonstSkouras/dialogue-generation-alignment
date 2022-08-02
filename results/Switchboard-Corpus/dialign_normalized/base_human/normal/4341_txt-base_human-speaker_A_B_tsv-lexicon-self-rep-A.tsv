@@ -1,57 +1,80 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	. uh-huh . right ,	17	A	18, 34
 2	5	in favor of capital punishment	9	A	8, 16
 2	5	really a danger to society	17	A	20, 36
+4	4	that , uh ,	37	A	0, 16, 26, 36
+3	4	and , uh ,	37	A	0, 26, 36
 3	4	uh-huh . uh-huh .	15	A	12, 18, 26
-2	4	. uh-huh . right	17	A	18, 34
+2	4	, but , i	11	A	16, 26
+2	4	, isn't it ,	5	A	16, 20
+2	4	, uh , because	21	A	0, 20
+2	4	because , uh ,	17	A	0, 16
 2	4	don't think that it	17	A	0, 16
+2	4	or , uh ,	9	A	12, 20
 2	4	uh-huh . right .	3	A	32, 34
+8	3	, uh ,	39	A	0, 12, 16, 20, 24, 26, 36, 38
 5	3	. uh-huh .	23	A	12, 14, 18, 26, 34
+3	3	, i don't	23	A	16, 26, 38
+3	3	. right ,	21	A	18, 34, 38
 3	3	a danger to	17	A	20, 34, 36
+2	3	, because they're	15	A	20, 34
+2	3	, but ,	11	A	16, 26
+2	3	, i ,	23	A	4, 26
+2	3	, i guess	3	A	24, 26
+2	3	, you still	13	A	4, 16
 2	3	. i don't	39	A	0, 38
 2	3	a deterrent to	17	A	0, 16
+2	3	capital punishment ,	9	A	0, 8
 2	3	don't think that	17	A	0, 16
+2	3	i , i	23	A	4, 26
 2	3	i don't think	27	A	0, 26
 2	3	interesting . i	5	A	34, 38
 2	3	like that .	21	A	0, 20
+2	3	to , uh	9	A	26, 34
 2	3	to be a	27	A	0, 26
 2	3	to do it	23	A	4, 26
 9	2	uh-huh .	35	A	6, 12, 14, 18, 22, 26, 32, 34, 40
+8	2	uh ,	39	A	0, 12, 16, 20, 24, 26, 36, 38
+7	2	, i	39	A	0, 2, 4, 16, 24, 26, 38
 7	2	right .	29	A	10, 14, 16, 28, 32, 34, 38
 5	2	. i	39	A	0, 4, 16, 34, 38
-4	2	. right	21	A	18, 32, 34, 38
 4	2	capital punishment	39	A	0, 8, 16, 38
-4	2	i don't	39	A	0, 16, 26, 38
 4	2	it .	39	A	0, 4, 16, 38
-4	2	that uh	37	A	0, 16, 26, 36
+3	2	, because	35	A	0, 20, 34
+3	2	, but	27	A	0, 16, 26
+3	2	, you	23	A	4, 16, 26
 3	2	. and	27	A	0, 14, 26
-3	2	and uh	37	A	0, 26, 36
-3	2	but i	27	A	0, 16, 26
 3	2	do it	23	A	4, 14, 26
 3	2	have to	31	A	4, 16, 34
+3	2	i ,	35	A	4, 26, 38
 3	2	i guess	11	A	16, 24, 26
+3	2	it ,	11	A	16, 20, 26
 3	2	kind of	23	A	16, 26, 38
 3	2	that .	35	A	0, 20, 34
 3	2	to be	27	A	0, 12, 26
+3	2	uh-huh ,	19	A	2, 4, 20
+2	2	, and	21	A	16, 36
+2	2	, huh	17	A	20, 36
+2	2	, it's	17	A	0, 16
+2	2	, probably	3	A	36, 38
+2	2	, then	19	A	8, 26
+2	2	, to	11	A	16, 26
+2	2	, we	11	A	16, 26
 2	2	agree with	19	A	16, 34
 2	2	and then	15	A	0, 14
 2	2	be punished	9	A	12, 20
-2	2	because they're	15	A	20, 34
-2	2	because uh	17	A	0, 16
+2	2	but i	17	A	0, 16
+2	2	crime ,	17	A	0, 16
+2	2	huh ,	3	A	34, 36
 2	2	i have	35	A	0, 34
-2	2	i i	23	A	4, 26
 2	2	i know	3	A	24, 26
-2	2	isn't it	5	A	16, 20
 2	2	know that	11	A	16, 26
-2	2	or uh	9	A	12, 20
 2	2	society .	9	A	12, 20
-2	2	to uh	9	A	26, 34
-2	2	uh because	21	A	0, 20
-2	2	you still	13	A	4, 16
+2	2	to ,	9	A	26, 34
+2	2	we ,	11	A	16, 26
 2	2	you think	7	A	20, 26
-12	1	uh-huh	39	A	2, 4, 6, 12, 14, 18, 20, 22, 26, 32, 34, 40
 9	1	right	29	A	10, 14, 16, 18, 26, 28, 32, 34, 38
 9	1	to	39	A	0, 4, 12, 16, 20, 26, 34, 36, 38
-9	1	uh	39	A	0, 12, 16, 20, 24, 26, 34, 36, 38
 8	1	i	39	A	0, 2, 4, 16, 24, 26, 34, 38
 7	1	in	31	A	8, 16, 20, 24, 26, 36, 38
 7	1	it	39	A	0, 4, 14, 16, 20, 26, 38
@@ -64,7 +87,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	have	39	A	0, 4, 16, 34, 38
 5	1	punishment	39	A	0, 8, 16, 26, 38
 5	1	then	39	A	0, 8, 14, 26, 38
-4	1	because	35	A	0, 16, 20, 34
 4	1	but	31	A	0, 16, 26, 30
 4	1	don't	39	A	0, 16, 26, 38
 4	1	or	39	A	0, 12, 20, 38
@@ -72,7 +94,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	them	23	A	16, 24, 26, 38
 4	1	they	27	A	0, 20, 24, 26
 4	1	think	27	A	0, 16, 20, 26
-3	1	huh	17	A	20, 34, 36
 3	1	know	11	A	16, 24, 26
 3	1	really	37	A	0, 20, 36
 3	1	we	23	A	16, 26, 38
@@ -81,7 +102,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	all	7	A	14, 20
 2	1	are	37	A	0, 36
 2	1	at	19	A	20, 38
-2	1	crime	17	A	0, 16
 2	1	crimes	17	A	0, 16
 2	1	feel	5	A	26, 30
 2	1	for	11	A	16, 26
@@ -95,7 +115,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	much	11	A	16, 26
 2	1	not	19	A	20, 38
 2	1	prison	17	A	20, 36
-2	1	probably	3	A	36, 38
 2	1	problem	17	A	0, 16
 2	1	should	5	A	16, 20
 2	1	so	19	A	8, 26

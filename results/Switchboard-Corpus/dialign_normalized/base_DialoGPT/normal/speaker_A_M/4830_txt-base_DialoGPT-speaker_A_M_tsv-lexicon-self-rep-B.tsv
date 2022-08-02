@@ -1,25 +1,33 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, i know .	45	M	4, 48
+3	3	, i know	45	M	4, 18, 48
 2	3	i don't know	29	M	26, 54
-2	3	i know .	45	M	4, 48
 2	3	i think you	3	M	34, 36
 2	3	i'm pretty sure	47	M	20, 66
 2	3	what do you	17	M	42, 58
+6	2	, i	49	M	4, 18, 26, 40, 48, 52
 5	2	i know	47	M	2, 4, 18, 24, 48
 4	2	i think	47	M	22, 34, 36, 68
 4	2	know .	51	M	4, 30, 48, 54
 3	2	do you	21	M	42, 58, 62
 3	2	i am	13	M	36, 40, 48
+3	2	know ,	25	M	2, 12, 26
 3	2	that's what	69	M	0, 28, 68
+3	2	well ,	19	M	0, 16, 18
+2	2	, that's	27	M	0, 26
+2	2	, uh	39	M	2, 40
 2	2	. i'm	5	M	20, 24
 2	2	... i	3	M	52, 54
 2	2	i'm saying	65	M	0, 64
 2	2	is a	49	M	16, 64
+2	2	no ,	5	M	40, 44
 2	2	right .	59	M	6, 64
 2	2	saying .	37	M	0, 36
 2	2	that there	45	M	20, 64
 2	2	there is	57	M	8, 64
 2	2	what i	33	M	36, 68
 2	2	what i'm	19	M	0, 18
+2	2	yeah ,	27	M	4, 30
 2	2	you can	3	M	66, 68
 2	2	you think	39	M	20, 58
 15	1	i	67	M	2, 4, 8, 18, 22, 24, 26, 34, 36, 40, 48, 52, 54, 56, 68
@@ -31,10 +39,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	that	61	M	8, 20, 56, 62, 64, 68
 4	1	is	57	M	8, 16, 58, 64
 4	1	of	45	M	16, 20, 34, 60
-4	1	that's	69	M	0, 26, 28, 68
 3	1	it's	31	M	38, 48, 68
 3	1	no	37	M	8, 40, 44
-3	1	well	19	M	0, 16, 18
 2	1	and	5	M	64, 68
 2	1	are	41	M	20, 60
 2	1	arrested	17	M	44, 60
@@ -47,9 +53,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	people	41	M	20, 60
 2	1	right	59	M	6, 64
 2	1	system	7	M	20, 26
-2	1	uh	39	M	2, 40
 2	1	way	49	M	8, 56
 2	1	with	11	M	8, 18
-2	1	yeah	27	M	4, 30
 2	1	yes	11	M	50, 60
 

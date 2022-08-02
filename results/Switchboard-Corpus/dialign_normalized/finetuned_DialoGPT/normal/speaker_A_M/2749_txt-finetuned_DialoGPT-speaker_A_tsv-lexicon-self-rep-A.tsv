@@ -1,58 +1,105 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	6	, uh , you know ,	7	A	19, 23, 25
+4	5	, and , uh ,	15	A	11, 13, 15, 25
+2	5	, i don't know ,	7	A	13, 19
+2	5	, it's , uh ,	13	A	11, 23
+2	5	, you know , it's	15	A	11, 25
 2	5	tried by a jury of	3	A	11, 13
+7	4	, you know ,	33	A	11, 19, 23, 25, 39, 41, 43
+6	4	and , uh ,	19	A	7, 11, 13, 15, 21, 25
+3	4	, i , i	11	A	17, 25, 27
+3	4	, i don't know	13	A	13, 19, 25
+2	4	, i mean ,	17	A	11, 27
+2	4	, it , it's	31	A	11, 41
+2	4	, it seems to	19	A	3, 21
+2	4	, it's , it's	13	A	11, 23
+2	4	, uh , i	3	A	11, 13
+2	4	of , uh ,	25	A	1, 25
 2	4	serve on a jury	9	A	41, 49
+2	4	that , uh ,	15	A	11, 25
 2	4	things like that .	3	A	25, 27
-3	3	i don't know	13	A	13, 19, 25
+2	4	to , uh ,	15	A	25, 39
+2	4	uh , so ,	13	A	11, 23
+10	3	, uh ,	39	A	1, 7, 11, 13, 15, 19, 21, 23, 25, 39
+9	3	you know ,	33	A	11, 13, 19, 21, 23, 25, 39, 41, 43
+7	3	, you know	33	A	11, 19, 23, 25, 39, 41, 43
+5	3	i , i	13	A	15, 17, 19, 25, 27
+3	3	, i mean	17	A	11, 13, 27
+3	3	, well ,	7	A	19, 23, 25
+3	3	. uh ,	29	A	17, 23, 45
+3	3	i mean ,	31	A	11, 27, 41
+3	3	it's , it's	29	A	11, 23, 39
 3	3	on a jury	45	A	5, 41, 49
-3	3	uh you know	7	A	19, 23, 25
+3	3	uh , i	31	A	11, 13, 41
+2	3	, it ,	31	A	11, 41
+2	3	, well it	5	A	49, 53
+2	3	a jury ,	15	A	27, 41
 2	3	a little bit	27	A	15, 41
 2	3	a reasonable doubt	3	A	1, 3
 2	3	having a jury	5	A	27, 31
-2	3	it seems to	19	A	3, 21
 2	3	they don't want	3	A	9, 11
-2	3	you know it's	15	A	11, 25
-9	2	you know	33	A	11, 13, 19, 21, 23, 25, 39, 41, 43
+2	3	yeah , well	31	A	19, 49
+14	2	uh ,	45	A	1, 3, 7, 11, 13, 15, 17, 19, 21, 23, 25, 39, 41, 45
+9	2	know ,	33	A	11, 13, 19, 21, 23, 25, 39, 41, 43
+8	2	, i	31	A	11, 13, 15, 17, 19, 25, 27, 41
+7	2	, and	33	A	7, 11, 13, 15, 17, 25, 39
 7	2	a jury	45	A	5, 11, 13, 27, 31, 41, 49
-6	2	and uh	19	A	7, 11, 13, 15, 21, 25
-5	2	i i	13	A	15, 17, 19, 25, 27
+7	2	and ,	19	A	7, 11, 13, 15, 21, 23, 25
+6	2	, well	35	A	19, 23, 25, 41, 49, 53
+5	2	, it's	31	A	11, 23, 25, 39, 41
+5	2	, they	45	A	9, 25, 33, 47, 53
+5	2	i ,	13	A	15, 17, 19, 25, 27
+5	2	well ,	31	A	1, 19, 23, 25, 31
+4	2	, but	41	A	7, 17, 27, 47
 4	2	and they	33	A	11, 17, 25, 43
+4	2	be ,	45	A	3, 13, 27, 47
 4	2	don't know	19	A	7, 13, 19, 25
-4	2	i mean	31	A	11, 13, 27, 41
 4	2	of the	35	A	9, 17, 21, 43
 4	2	that .	33	A	7, 25, 27, 39
-3	2	. uh	29	A	17, 23, 45
+3	2	, if	23	A	3, 11, 25
+3	2	, so	13	A	11, 17, 23
+3	2	, the	15	A	25, 27, 39
 3	2	at least	25	A	3, 19, 27
-3	2	it's it's	29	A	11, 23, 39
+3	2	it ,	31	A	11, 15, 41
+3	2	jury ,	21	A	21, 27, 41
 3	2	people who	39	A	3, 13, 41
-3	2	that if	21	A	1, 11, 21
+3	2	so ,	17	A	11, 23, 27
+3	2	that ,	33	A	11, 25, 43
+3	2	the ,	19	A	21, 25, 39
+3	2	to ,	33	A	7, 25, 39
 3	2	to be	37	A	3, 25, 39
-3	2	uh i	31	A	11, 13, 41
 3	2	uh-huh .	19	A	31, 37, 49
 3	2	want to	29	A	11, 25, 39
 3	2	would be	37	A	11, 27, 47
+3	2	yeah ,	33	A	17, 19, 49
+2	2	, a	21	A	1, 21
+2	2	, let's	3	A	23, 25
+2	2	, of	19	A	21, 39
+2	2	, or	19	A	25, 43
 2	2	? i	31	A	1, 31
 2	2	a judge	5	A	27, 31
 2	2	about it	3	A	15, 17
 2	2	friends who	19	A	7, 25
 2	2	get a	11	A	15, 25
 2	2	get out	39	A	11, 49
+2	2	have ,	19	A	7, 25
 2	2	i'd be	15	A	13, 27
 2	2	in the	15	A	7, 21
-2	2	it i	7	A	11, 17
-2	2	it it's	31	A	11, 41
-2	2	it's uh	13	A	11, 23
+2	2	just ,	3	A	41, 43
+2	2	let's ,	3	A	23, 25
 2	2	like that	3	A	25, 27
 2	2	like we	31	A	19, 49
 2	2	lot of	17	A	25, 41
+2	2	much ,	7	A	25, 31
 2	2	need to	31	A	19, 49
-2	2	of uh	25	A	1, 25
+2	2	oh ,	15	A	25, 39
 2	2	one is	39	A	1, 39
 2	2	or something	5	A	21, 25
 2	2	out of	7	A	11, 17
 2	2	reasonable doubt	3	A	1, 3
 2	2	serve on	9	A	41, 49
 2	2	sort of	7	A	19, 25
-2	2	that uh	15	A	11, 25
+2	2	that if	21	A	1, 21
 2	2	that was	25	A	1, 25
 2	2	the jury	5	A	21, 25
 2	2	then there	3	A	1, 3
@@ -60,14 +107,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	they just	39	A	7, 45
 2	2	they say	19	A	7, 25
 2	2	to do	3	A	11, 13
-2	2	to uh	15	A	25, 39
-2	2	uh so	13	A	11, 23
 2	2	very sympathetic	15	A	25, 39
-2	2	well it	5	A	49, 53
 2	2	what the	3	A	25, 27
-2	2	yeah well	31	A	19, 49
+2	2	will ,	15	A	39, 53
 14	1	a	49	A	1, 3, 5, 11, 13, 15, 19, 21, 25, 27, 31, 39, 41, 49
-14	1	uh	45	A	1, 3, 7, 11, 13, 15, 17, 19, 21, 23, 25, 39, 41, 45
 13	1	and	43	A	7, 11, 13, 15, 17, 21, 23, 25, 31, 39, 43, 45, 49
 12	1	i	51	A	1, 7, 11, 13, 15, 17, 19, 25, 27, 31, 41, 51
 12	1	of	43	A	1, 9, 11, 13, 17, 19, 21, 25, 35, 39, 41, 43
@@ -77,11 +120,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 11	1	jury	49	A	1, 5, 11, 13, 21, 25, 27, 31, 33, 41, 49
 11	1	they	47	A	7, 9, 11, 17, 25, 33, 39, 43, 45, 47, 53
 10	1	it	51	A	3, 11, 15, 17, 19, 21, 31, 41, 49, 53
-10	1	know	37	A	7, 11, 13, 19, 21, 23, 25, 39, 41, 43
 9	1	that	43	A	1, 7, 11, 21, 25, 27, 33, 39, 43
 8	1	be	47	A	1, 3, 11, 13, 25, 27, 39, 47
 8	1	don't	23	A	3, 7, 9, 11, 13, 19, 23, 25
-8	1	well	53	A	1, 19, 23, 25, 31, 41, 49, 53
 7	1	just	39	A	7, 11, 21, 25, 41, 43, 45
 6	1	about	31	A	1, 11, 13, 15, 17, 31
 6	1	get	43	A	7, 11, 15, 19, 25, 49
@@ -149,7 +190,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	my	5	A	7, 11
 2	1	nervous	13	A	15, 27
 2	1	nice	29	A	25, 53
-2	1	oh	15	A	25, 39
 2	1	pay	9	A	25, 33
 2	1	possible	7	A	25, 31
 2	1	pretty	5	A	17, 21

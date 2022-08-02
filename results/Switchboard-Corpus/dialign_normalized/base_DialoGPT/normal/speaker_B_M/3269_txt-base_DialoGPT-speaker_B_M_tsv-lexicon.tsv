@@ -1,21 +1,27 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
 2	2	4	i think they're doing	9	8	1	B	2, 9
+2	2	3	, but i	14	6	1	M	9, 14
+2	2	3	, we never	47	6	1	B	42, 47
 2	2	3	a lot of	55	48	1	B	8, 55
 2	2	3	fight them .	21	2	1	B	20, 21
 2	2	3	i know .	34	10	1	M	25, 34
 2	2	3	if you want	23	2	1	B	22, 23
 2	2	3	we are never	43	2	1	B	42, 43
+4	4	2	, i	14	27	1	M	11, 14, 34, 37
+4	4	2	, you	23	21	2	B	20, 22, 23, 40
 4	2	2	i know	25	32	1	B	6, 25, 34, 37
 4	2	2	i think	9	17	2	B	2, 4, 9, 18
 3	3	2	a little	26	20	1	M	13, 26, 32
 3	3	2	it was	20	8	2	M	13, 15, 20
+3	3	2	know ,	37	24	2	B	14, 20, 37
 3	1	2	know .	34	10	2	M	25, 31, 34
+2	2	2	, it's	21	2	1	B	20, 21
 2	2	2	a pretty	41	4	1	B	38, 41
-2	2	2	but i	14	6	1	M	9, 14
 2	2	2	cheer against	47	6	1	B	42, 47
 2	2	2	elway .	49	2	1	B	48, 49
 2	2	2	have a	32	30	1	M	3, 32
 2	2	2	he was	40	24	1	M	17, 40
+2	2	2	here ,	55	2	1	B	54, 55
 2	2	2	i mean	30	10	1	M	21, 30
 2	2	2	if they	36	24	1	M	13, 36
 2	2	2	is a	39	2	1	B	38, 39
@@ -23,14 +29,13 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	2	like they're	54	34	1	M	21, 54
 2	2	2	the score	11	2	1	B	10, 11
 2	2	2	they said	13	2	1	B	12, 13
-2	2	2	we never	47	6	1	B	42, 47
 2	2	2	you might	55	34	1	B	22, 55
 21	19	1	the	8	53	2	M	3, 7, 8, 9, 10, 11, 12, 15, 18, 21, 23, 24, 36, 39, 42, 43, 45, 47, 53, 54, 55
-18	9	1	i	9	56	4	B	2, 4, 6, 8, 9, 11, 14, 15, 18, 21, 24, 25, 30, 31, 34, 37, 53, 57
+18	7	1	i	9	56	4	B	2, 4, 6, 8, 9, 11, 14, 15, 18, 21, 24, 25, 30, 31, 34, 37, 53, 57
 15	7	1	a	9	53	1	M	3, 8, 9, 12, 13, 17, 23, 26, 32, 38, 39, 41, 53, 54, 55
-10	8	1	you	23	42	3	B	14, 20, 22, 23, 24, 30, 32, 40, 52, 55
+10	5	1	you	23	42	3	B	14, 20, 22, 23, 24, 30, 32, 40, 52, 55
 9	9	1	and	7	55	2	B	0, 6, 7, 8, 12, 15, 22, 24, 54
-9	4	1	know	25	47	3	B	6, 14, 20, 25, 31, 34, 37, 40, 52
+9	2	1	know	40	47	3	B	6, 14, 20, 25, 31, 34, 37, 40, 52
 9	9	1	to	55	54	8	B	2, 6, 8, 12, 20, 22, 24, 50, 55
 8	5	1	it	13	49	1	B	2, 13, 15, 20, 26, 32, 36, 50
 8	6	1	of	17	56	2	B	0, 8, 17, 18, 36, 40, 54, 55
@@ -43,7 +48,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 5	1	1	was	20	28	3	M	13, 15, 17, 20, 40
 4	4	1	about	55	32	3	B	24, 36, 50, 55
 4	2	1	but	32	30	1	M	9, 14, 32, 38
-4	4	1	it's	20	44	1	M	9, 20, 21, 52
+4	2	1	it's	20	44	1	M	9, 20, 21, 52
 4	2	1	like	21	43	1	B	12, 21, 50, 54
 4	1	1	little	13	25	1	B	8, 13, 26, 32
 4	2	1	pretty	15	40	1	B	2, 15, 38, 41
@@ -64,7 +69,6 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	1	do	45	16	1	B	30, 45
 2	2	1	football	22	6	1	M	17, 22
 2	2	1	games	24	20	1	M	5, 24
-2	2	1	here	55	2	1	B	54, 55
 2	2	1	we'll	36	8	1	M	29, 36
 2	2	1	what	19	8	1	B	12, 19
 2	2	1	while	32	24	1	M	9, 32

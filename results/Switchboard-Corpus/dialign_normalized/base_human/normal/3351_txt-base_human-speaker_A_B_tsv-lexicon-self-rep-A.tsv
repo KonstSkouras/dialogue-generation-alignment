@@ -1,35 +1,55 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	7	so we had to we had to	29	A	42, 70
+2	7	we had to , we had to	29	A	42, 70
+3	5	, and , uh ,	29	A	40, 42, 68
+2	5	, i don't know ,	21	A	48, 68
+2	4	, we had to	29	A	42, 70
+2	4	. um , do	27	A	26, 52
+2	4	oh , yeah .	13	A	38, 50
+5	3	, uh ,	45	A	26, 40, 42, 68, 70
+3	3	, yeah .	25	A	38, 50, 62
+2	3	, um ,	57	A	12, 68
+2	3	, well ,	7	A	10, 16
 2	3	. um .	23	A	16, 38
-2	3	. um do	27	A	26, 52
 2	3	. yeah .	15	A	50, 64
-2	3	i don't know	21	A	48, 68
-2	3	oh yeah .	13	A	38, 50
 2	3	yeah . um	15	A	38, 52
 10	2	yeah .	53	A	20, 28, 30, 38, 50, 52, 58, 62, 64, 72
+7	2	uh ,	63	A	8, 10, 26, 40, 42, 68, 70
+5	2	yeah ,	57	A	12, 14, 48, 66, 68
+4	2	, and	33	A	36, 40, 42, 68
+4	2	, we	63	A	8, 42, 68, 70
+4	2	, yeah	31	A	38, 50, 62, 68
+4	2	oh ,	47	A	4, 16, 38, 50
 4	2	really .	61	A	16, 56, 74, 76
+4	2	to ,	29	A	42, 48, 60, 70
 4	2	uh-huh .	31	A	24, 32, 44, 54
-3	2	and uh	29	A	40, 42, 68
+3	2	, but	59	A	10, 46, 68
+3	2	, i	29	A	40, 48, 68
 3	2	do you	51	A	2, 50, 52
 3	2	kind of	43	A	26, 48, 68
+2	2	, just	37	A	12, 48
+2	2	, she's	59	A	10, 68
+2	2	, that's	3	A	14, 16
+2	2	, to	13	A	48, 60
+2	2	, what	47	A	4, 50
+2	2	a ,	31	A	10, 40
+2	2	have ,	41	A	8, 48
+2	2	i ,	41	A	8, 48
 2	2	it was	25	A	46, 70
+2	2	know ,	21	A	48, 68
+2	2	like ,	21	A	48, 68
+2	2	nice ,	7	A	10, 16
 2	2	oh .	39	A	40, 78
 2	2	pets ?	11	A	2, 12
 2	2	sure .	47	A	18, 64
 2	2	the skunk	11	A	26, 36
 2	2	to have	23	A	26, 48
-2	2	to to	15	A	46, 60
 2	2	too .	53	A	14, 66
 2	2	wow .	5	A	22, 26
-15	1	yeah	61	A	12, 14, 20, 28, 30, 38, 48, 50, 52, 58, 62, 64, 66, 68, 72
 9	1	and	65	A	6, 8, 36, 40, 42, 46, 48, 68, 70
 7	1	to	45	A	26, 42, 46, 48, 60, 68, 70
-7	1	uh	63	A	8, 10, 26, 40, 42, 68, 70
 6	1	a	57	A	10, 16, 26, 40, 42, 66
-6	1	oh	75	A	4, 16, 38, 40, 50, 78
 6	1	the	63	A	6, 10, 26, 36, 46, 68
 6	1	uh-huh	37	A	24, 32, 36, 44, 54, 60
-6	1	um	57	A	12, 16, 26, 38, 52, 68
 5	1	i	61	A	8, 40, 46, 48, 68
 4	1	have	47	A	2, 8, 26, 48
 4	1	like	43	A	26, 48, 52, 68
@@ -39,7 +59,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	we	63	A	8, 42, 68, 70
 4	1	you	51	A	2, 48, 50, 52
 3	1	are	11	A	4, 12, 14
-3	1	but	59	A	10, 46, 68
 3	1	cat	61	A	6, 26, 66
 3	1	had	31	A	40, 42, 70
 3	1	it	45	A	26, 46, 70
@@ -62,12 +81,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	house	15	A	12, 26
 2	1	in	23	A	46, 68
 2	1	is	5	A	6, 10
-2	1	just	37	A	12, 48
-2	1	know	21	A	48, 68
 2	1	right	13	A	34, 46
-2	1	she's	59	A	10, 68
+2	1	so	29	A	42, 70
 2	1	sure	47	A	18, 64
-2	1	that's	3	A	14, 16
 2	1	their	65	A	4, 68
 2	1	them	25	A	46, 70
 2	1	think	3	A	48, 50

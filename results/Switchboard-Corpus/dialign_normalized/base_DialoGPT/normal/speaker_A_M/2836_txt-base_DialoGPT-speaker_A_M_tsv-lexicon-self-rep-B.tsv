@@ -1,19 +1,28 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, uh , uh	11	M	64, 74
 2	4	yeah . yeah .	3	M	92, 94
+3	3	, uh ,	17	M	58, 64, 74
 2	3	break in .	17	M	100, 116
 2	3	have to get	21	M	12, 32
 2	3	how many of	5	M	122, 126
 2	3	it's not a	23	M	106, 128
 2	3	the us .	75	M	10, 84
+2	3	uh , uh	11	M	64, 74
+2	3	you know ,	5	M	74, 78
 5	2	i think	33	M	92, 94, 98, 116, 124
+4	2	, i	59	M	32, 36, 58, 90
 4	2	is that	117	M	16, 116, 130, 132
+4	2	uh ,	43	M	58, 64, 74, 100
+3	2	, uh	17	M	58, 64, 74
 3	2	have a	15	M	104, 110, 118
 3	2	in the	63	M	10, 16, 72
 3	2	it .	67	M	12, 32, 78
 3	2	it's not	117	M	12, 106, 128
 3	2	not a	47	M	82, 106, 128
 3	2	to get	107	M	12, 32, 118
+3	2	well ,	99	M	32, 118, 130
 3	2	yeah .	77	M	18, 92, 94
+2	2	, you	7	M	6, 12
 2	2	a good	37	M	78, 114
 2	2	are from	5	M	122, 126
 2	2	did you	69	M	68, 136
@@ -26,9 +35,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	they are	33	M	30, 62
 2	2	to do	99	M	32, 130
 2	2	to say	19	M	70, 88
-2	2	uh uh	11	M	64, 74
 2	2	what are	11	M	34, 44
-2	2	you know	5	M	74, 78
 19	1	i	135	M	0, 16, 28, 32, 36, 50, 58, 66, 70, 78, 88, 90, 92, 94, 98, 116, 122, 124, 134
 15	1	you	131	M	6, 12, 36, 44, 60, 68, 74, 76, 78, 80, 104, 106, 108, 118, 136
 13	1	a	67	M	62, 72, 78, 82, 94, 98, 100, 104, 106, 110, 114, 118, 128
@@ -68,7 +75,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	that's	57	M	22, 56, 78
 3	1	there	117	M	16, 52, 132
 3	1	this	47	M	52, 54, 98
-3	1	well	99	M	32, 118, 130
 2	1	can	39	M	16, 54
 2	1	can't	51	M	58, 108
 2	1	deterrent	17	M	98, 114

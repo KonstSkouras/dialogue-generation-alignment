@@ -1,38 +1,52 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	but , uh ,	3	B	82, 84
 2	4	get out of the	19	B	24, 42
 2	4	i don't know what	35	B	62, 96
 2	4	take a twenty-two and	3	B	16, 18
+2	4	you , too .	27	B	82, 108
 4	3	i don't know	71	B	26, 62, 88, 96
 4	3	i used to	33	B	4, 10, 20, 36
+3	3	, too .	27	B	82, 98, 108
+3	3	, uh ,	81	B	4, 82, 84
+2	3	, it was	5	B	74, 78
 2	3	and go out	35	B	16, 50
 2	3	do they ?	5	B	88, 92
 2	3	get out of	19	B	24, 42
 2	3	i'm losing you	3	B	44, 46
 2	3	in the ozarks	49	B	4, 52
+2	3	kind of ,	31	B	24, 54
 2	3	up there .	15	B	22, 36
 2	3	used to go	55	B	20, 74
 2	3	we used to	51	B	24, 74
+2	3	yeah , it	55	B	24, 78
 2	3	yeah . i'm	73	B	34, 106
 2	3	yeah . yeah	29	B	78, 106
-2	3	you too .	27	B	82, 108
 17	2	yeah .	105	B	2, 6, 32, 34, 40, 48, 52, 60, 66, 72, 74, 76, 78, 80, 90, 102, 106
 8	2	used to	71	B	4, 10, 20, 24, 36, 52, 70, 74
 5	2	it was	65	B	14, 62, 64, 74, 78
 5	2	up there	93	B	4, 22, 36, 88, 96
+5	2	yeah ,	83	B	12, 24, 78, 82, 94
+4	2	, i	83	B	24, 96, 104, 106
+4	2	, they	55	B	40, 60, 88, 94
 4	2	take a	47	B	4, 16, 18, 50
 4	2	to go	71	B	4, 20, 50, 74
+4	2	uh ,	81	B	4, 56, 82, 84
+4	2	you ,	107	B	2, 46, 82, 108
+3	2	, uh	81	B	4, 82, 84
 3	2	down here	87	B	8, 34, 94
 3	2	get out	75	B	24, 42, 98
 3	2	in the	63	B	4, 52, 66
+3	2	of ,	31	B	24, 42, 54
 3	2	of the	43	B	24, 42, 66
 3	2	out .	59	B	16, 46, 74
 3	2	out of	81	B	24, 42, 104
 3	2	there .	47	B	22, 36, 68
-3	2	too .	27	B	82, 98, 108
+2	2	, down	29	B	66, 94
+2	2	, it's	63	B	36, 98
+2	2	, we	39	B	24, 62
 2	2	awhile .	55	B	42, 96
 2	2	back in	45	B	24, 68
 2	2	but i	17	B	10, 26
-2	2	but uh	3	B	82, 84
 2	2	camp ?	49	B	2, 50
 2	2	couple of	9	B	74, 82
 2	2	everywhere .	5	B	60, 64
@@ -41,13 +55,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i haven't	89	B	8, 96
 2	2	kind of	31	B	24, 54
 2	2	live in	25	B	4, 28
+2	2	oh ,	7	B	86, 92
 2	2	out and	49	B	50, 98
+2	2	so ,	63	B	38, 100
 2	2	the rain	29	B	24, 52
 2	2	time .	39	B	66, 104
 2	2	was just	11	B	64, 74
 2	2	we had	5	B	62, 66
-2	2	well i	39	B	66, 104
-2	2	yeah it	55	B	24, 78
+2	2	well ,	7	B	98, 104
+2	2	what ,	7	B	44, 50
 2	2	year and	27	B	50, 76
 2	2	you can	17	B	24, 40
 21	1	yeah	105	B	2, 6, 12, 24, 32, 34, 40, 48, 52, 60, 66, 72, 74, 76, 78, 80, 82, 90, 94, 102, 106
@@ -77,7 +93,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	down	87	B	8, 34, 66, 94
 4	1	it's	63	B	36, 82, 96, 98
 4	1	that	43	B	40, 74, 78, 82
-4	1	uh	81	B	4, 56, 82, 84
 4	1	year	27	B	50, 60, 64, 76
 3	1	about	79	B	26, 76, 104
 3	1	back	73	B	24, 68, 96
@@ -96,7 +111,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	little	51	B	24, 74
 2	1	lived	45	B	22, 66
 2	1	much	41	B	26, 66
-2	1	oh	7	B	86, 92
 2	1	one	37	B	24, 60
 2	1	or	43	B	52, 94
 2	1	quite	3	B	8, 10

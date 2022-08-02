@@ -1,48 +1,94 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	7	, uh , you know , they	69	B	31, 99
+3	6	, uh , you know ,	97	B	31, 99, 127
+2	5	, or , uh ,	37	B	63, 99
+2	5	and , you know ,	121	B	7, 127
+2	5	i , i really think	79	B	25, 103
+12	4	, you know ,	121	B	7, 17, 19, 23, 31, 39, 45, 65, 99, 101, 115, 127
+7	4	and , uh ,	109	B	7, 9, 13, 17, 31, 33, 115
+4	4	, i , i	43	B	61, 83, 99, 103
+4	4	, i think that	59	B	41, 49, 85, 99
+3	4	i , i really	79	B	25, 99, 103
+2	4	, and , and	95	B	15, 109
+2	4	, uh , i	19	B	17, 35
+2	4	, uh , in	33	B	31, 63
+2	4	, uh , people	51	B	11, 61
+2	4	, uh , the	41	B	23, 63
+2	4	, uh , they're	49	B	13, 61
+2	4	and i mean ,	81	B	41, 121
 2	4	and i think that	47	B	67, 113
-2	4	i i really think	79	B	25, 103
+2	4	i don't know ,	31	B	17, 47
 2	4	out on the street	21	B	93, 113
 2	4	take care of them	39	B	55, 93
-2	4	uh you know they	69	B	31, 99
+2	4	the , uh ,	77	B	11, 87
+2	4	them , uh ,	37	B	91, 127
+2	4	with , uh ,	55	B	61, 115
+2	4	yeah , yeah ,	79	B	7, 85
+20	3	, uh ,	121	B	7, 9, 11, 13, 15, 17, 23, 31, 33, 35, 49, 61, 63, 67, 87, 91, 99, 115, 125, 127
+15	3	you know ,	121	B	7, 17, 19, 23, 31, 39, 45, 53, 65, 67, 99, 101, 115, 123, 127
+13	3	, you know	121	B	7, 17, 19, 23, 31, 39, 45, 65, 67, 99, 101, 115, 127
+8	3	i , i	97	B	7, 25, 43, 49, 61, 83, 99, 103
 7	3	i think that	73	B	41, 49, 67, 85, 97, 99, 113
+5	3	, i think	65	B	35, 41, 49, 85, 99
+5	3	i mean ,	81	B	41, 43, 75, 93, 121
+4	3	, i really	79	B	25, 83, 99, 103
+3	3	and , and	95	B	15, 23, 109
 3	3	i don't know	31	B	17, 23, 47
-3	3	i i really	79	B	25, 99, 103
-3	3	uh you know	97	B	31, 99, 127
+2	3	, and i	45	B	23, 67
+2	3	, i don't	45	B	17, 61
+2	3	, i mean	15	B	75, 89
+2	3	, if they're	19	B	101, 119
+2	3	, it ,	107	B	9, 115
+2	3	, or ,	37	B	63, 99
 2	3	a lot of	9	B	9, 17
-2	3	and i mean	81	B	41, 121
-2	3	and you know	121	B	7, 127
 2	3	as far as	25	B	67, 91
-2	3	commit a crime	7	B	43, 49
-2	3	i mean we	5	B	89, 93
 2	3	i'm not saying	29	B	95, 123
 2	3	in the same	19	B	43, 61
 2	3	people that are	79	B	11, 89
 2	3	seventeen years and	67	B	35, 101
 2	3	that they should	7	B	91, 97
+2	3	the , the	23	B	87, 109
+2	3	them , we	39	B	55, 93
 2	3	these people .	91	B	25, 115
+2	3	they , they	47	B	53, 99
 2	3	they should be	49	B	49, 97
 2	3	they're going to	101	B	13, 113
 2	3	think that we're	61	B	25, 85
 2	3	was in for	3	B	35, 37
 2	3	you have to	17	B	111, 127
-2	3	you know what	61	B	67, 127
+21	2	, uh	121	B	7, 9, 11, 13, 15, 17, 23, 27, 31, 33, 35, 49, 61, 63, 67, 87, 91, 99, 115, 125, 127
+21	2	uh ,	121	B	7, 9, 11, 13, 15, 17, 23, 27, 31, 33, 35, 49, 61, 63, 67, 87, 91, 99, 115, 125, 127
 18	2	you know	121	B	7, 9, 17, 19, 23, 31, 39, 45, 53, 65, 67, 81, 89, 99, 101, 115, 123, 127
+15	2	, you	121	B	7, 17, 19, 23, 31, 39, 45, 47, 65, 67, 75, 99, 101, 115, 127
+13	2	and ,	121	B	7, 9, 13, 15, 17, 19, 23, 31, 33, 59, 109, 115, 127
 11	2	i think	99	B	15, 35, 41, 49, 67, 85, 95, 97, 99, 107, 113
+10	2	, and	113	B	15, 23, 33, 37, 49, 67, 87, 109, 123, 127
 9	2	i mean	81	B	41, 43, 57, 67, 75, 89, 93, 111, 121
-8	2	and uh	109	B	7, 9, 13, 17, 31, 33, 49, 115
-8	2	i i	97	B	7, 25, 43, 49, 61, 83, 99, 103
+6	2	, they	83	B	31, 49, 53, 65, 99, 113
 6	2	and i	99	B	23, 25, 41, 67, 113, 121
-6	2	and the	53	B	11, 23, 33, 35, 39, 63
 6	2	in the	75	B	9, 33, 43, 61, 63, 83
+6	2	it ,	109	B	9, 45, 55, 75, 115, 117
+6	2	that ,	61	B	7, 9, 19, 39, 49, 67
+5	2	, if	81	B	39, 49, 75, 101, 119
 5	2	. and	111	B	11, 33, 39, 41, 121
+5	2	and the	53	B	11, 33, 35, 39, 63
+4	2	, that	93	B	9, 19, 39, 101
+4	2	, the	87	B	23, 63, 87, 109
+4	2	, they're	113	B	13, 61, 121, 125
 4	2	for the	79	B	37, 39, 95, 115
 4	2	going to	101	B	13, 41, 103, 113
-4	2	i don't	45	B	17, 23, 47, 61
-4	2	i really	79	B	25, 83, 99, 103
 4	2	that they	79	B	23, 91, 97, 101
 4	2	that they're	81	B	43, 45, 113, 123
+4	2	them ,	73	B	55, 91, 93, 127
+4	2	yeah ,	99	B	7, 29, 85, 105
+3	2	, a	35	B	15, 17, 49
+3	2	, because	81	B	43, 115, 123
+3	2	, it	113	B	9, 115, 121
+3	2	, or	77	B	23, 63, 99
+3	2	, people	105	B	11, 61, 115
+3	2	, what	109	B	19, 117, 127
+3	2	, where	89	B	11, 23, 99
 3	2	. you	103	B	9, 75, 111
-3	2	and and	95	B	15, 23, 109
 3	2	and that	73	B	41, 67, 113
 3	2	and they	51	B	49, 93, 99
 3	2	have to	53	B	75, 111, 127
@@ -50,26 +96,39 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	it was	27	B	9, 33, 35
 3	2	of them	45	B	55, 93, 99
 3	2	on the	83	B	31, 93, 113
+3	2	or ,	39	B	63, 99, 101
 3	2	seventeen years	67	B	35, 37, 101
 3	2	that are	79	B	11, 19, 89
 3	2	the same	47	B	15, 43, 61
 3	2	these people	91	B	25, 53, 115
+3	2	they ,	73	B	53, 99, 125
 3	2	they get	19	B	99, 101, 117
 3	2	they have	49	B	5, 49, 53
+3	2	this ,	97	B	31, 115, 127
 3	2	to the	33	B	13, 31, 45
 3	2	was in	5	B	33, 35, 37
+2	2	, actually	7	B	37, 43
+2	2	, do	15	B	81, 95
+2	2	, go	125	B	3, 127
+2	2	, it's	37	B	9, 45
+2	2	, that's	15	B	19, 33
+2	2	, these	21	B	33, 53
+2	2	, we	39	B	55, 93
+2	2	, well	75	B	7, 81
 2	2	. i	21	B	99, 119
 2	2	. this	17	B	99, 115
+2	2	a crime	7	B	43, 49
 2	2	a job	83	B	33, 115
 2	2	a little	107	B	7, 113
 2	2	again .	21	B	93, 113
 2	2	all this	13	B	115, 127
 2	2	and they're	9	B	93, 101
-2	2	and you	121	B	7, 127
 2	2	are guilty	43	B	53, 95
 2	2	are in	27	B	63, 89
 2	2	back in	29	B	65, 93
 2	2	came from	9	B	57, 65
+2	2	countries ,	53	B	11, 63
+2	2	crime ,	51	B	49, 99
 2	2	do they	113	B	5, 117
 2	2	do you	81	B	1, 81
 2	2	exactly .	71	B	29, 99
@@ -79,60 +138,44 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	he had	3	B	31, 33
 2	2	he's out	79	B	37, 115
 2	2	if they	11	B	43, 53
+2	2	in ,	67	B	33, 99
 2	2	in that	81	B	9, 89
-2	2	it i	61	B	15, 75
 2	2	it is	99	B	23, 121
 2	2	it really	107	B	15, 121
 2	2	it's like	21	B	45, 65
 2	2	kind of	7	B	61, 67
-2	2	know if	17	B	23, 39
-2	2	know that	13	B	101, 113
-2	2	like you	3	B	63, 65
+2	2	like ,	5	B	61, 65
 2	2	of the	17	B	35, 51
-2	2	or uh	37	B	63, 99
 2	2	out there	11	B	115, 125
+2	2	people ,	25	B	17, 41
 2	2	people who	35	B	61, 95
 2	2	someone else	55	B	45, 99
 2	2	take the	35	B	87, 121
-2	2	that that's	81	B	19, 99
-2	2	that you	9	B	39, 47
 2	2	the men	29	B	35, 63
 2	2	the store	3	B	31, 33
-2	2	the the	23	B	87, 109
-2	2	the uh	77	B	11, 87
 2	2	the whole	67	B	33, 99
 2	2	them .	9	B	99, 107
 2	2	them and	27	B	67, 93
-2	2	them uh	37	B	91, 127
-2	2	them we	39	B	55, 93
 2	2	there .	37	B	89, 125
 2	2	there are	3	B	9, 11
-2	2	they they	47	B	53, 99
 2	2	they're all	29	B	95, 123
 2	2	they're in	59	B	43, 101
+2	2	thing ,	29	B	39, 67
 2	2	time and	91	B	23, 113
 2	2	to be	65	B	31, 95
 2	2	to start	111	B	1, 111
 2	2	too easy	23	B	85, 107
-2	2	uh i	19	B	17, 35
-2	2	uh in	33	B	31, 63
-2	2	uh people	51	B	11, 61
-2	2	uh the	41	B	23, 63
-2	2	uh they're	49	B	13, 61
 2	2	we take	7	B	87, 93
 2	2	where we	57	B	9, 65
 2	2	with the	5	B	7, 11
-2	2	with uh	55	B	61, 115
 2	2	wow .	3	B	73, 75
 2	2	yeah .	51	B	21, 71
-2	2	yeah yeah	79	B	7, 85
 2	2	years old	13	B	19, 31
 33	1	and	121	B	7, 9, 11, 13, 15, 17, 19, 23, 25, 31, 33, 35, 37, 39, 41, 49, 53, 59, 63, 65, 67, 87, 91, 93, 99, 101, 109, 113, 115, 117, 121, 123, 127
 31	1	the	115	B	7, 9, 11, 13, 15, 23, 25, 31, 33, 35, 37, 39, 43, 45, 49, 51, 61, 63, 67, 81, 83, 87, 91, 93, 95, 99, 101, 109, 113, 115, 121
 29	1	that	123	B	5, 7, 9, 11, 15, 19, 23, 25, 37, 39, 41, 43, 45, 47, 49, 61, 67, 85, 89, 91, 97, 99, 101, 109, 113, 119, 121, 123, 127
 28	1	i	115	B	7, 15, 17, 23, 25, 35, 41, 43, 47, 49, 57, 61, 67, 75, 83, 85, 89, 93, 95, 97, 99, 103, 107, 111, 113, 115, 119, 121
 23	1	you	127	B	1, 7, 9, 17, 19, 23, 31, 39, 45, 47, 53, 63, 65, 67, 75, 81, 89, 99, 101, 111, 115, 123, 127
-21	1	uh	121	B	7, 9, 11, 13, 15, 17, 23, 27, 31, 33, 35, 49, 61, 63, 67, 87, 91, 99, 115, 125, 127
 20	1	know	121	B	7, 9, 17, 19, 23, 31, 39, 45, 47, 53, 65, 67, 81, 89, 99, 101, 113, 115, 123, 127
 19	1	they	123	B	5, 23, 31, 43, 49, 53, 57, 65, 67, 89, 91, 93, 97, 99, 101, 113, 117, 125, 127
 18	1	in	117	B	7, 9, 11, 31, 33, 35, 37, 43, 45, 61, 63, 65, 83, 89, 93, 99, 101, 123
@@ -167,7 +210,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	take	81	B	41, 55, 63, 87, 93, 121
 6	1	that's	81	B	19, 33, 55, 61, 81, 99
 6	1	what	109	B	19, 33, 41, 67, 117, 127
-6	1	yeah	99	B	7, 21, 29, 71, 85, 105
 6	1	years	83	B	19, 31, 35, 37, 65, 101
 5	1	because	119	B	9, 43, 115, 123, 127
 5	1	crime	85	B	15, 43, 49, 51, 99
@@ -181,7 +223,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	on	83	B	31, 93, 101, 113
 4	1	other	107	B	9, 11, 35, 115
 4	1	same	91	B	15, 43, 61, 105
-4	1	these	91	B	25, 33, 53, 115
 4	1	thing	53	B	15, 23, 39, 67
 4	1	was	29	B	9, 33, 35, 37
 4	1	who	65	B	31, 33, 61, 95
@@ -206,7 +247,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	we're	79	B	25, 85, 103
 3	1	when	119	B	7, 47, 125
 3	1	year	89	B	31, 101, 119
-2	1	actually	7	B	37, 43
 2	1	already	77	B	49, 125
 2	1	an	5	B	111, 115
 2	1	at	15	B	19, 33
@@ -218,6 +258,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	cities	3	B	11, 13
 2	1	close	53	B	9, 61
 2	1	come	13	B	49, 61
+2	1	commit	7	B	43, 49
 2	1	countries	53	B	11, 63
 2	1	country	39	B	11, 49
 2	1	crimes	79	B	17, 95
@@ -255,7 +296,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	than	5	B	11, 15
 2	1	they'll	15	B	113, 127
 2	1	through	121	B	7, 127
-2	1	well	75	B	7, 81
 2	1	went	27	B	7, 33
 2	1	were	79	B	31, 109
 2	1	would	39	B	39, 77

@@ -3,6 +3,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	it's a	35	M	28, 60, 62
 3	2	it's not	65	M	10, 62, 74
 3	2	you know	67	M	12, 16, 78
+2	2	, it's	13	M	62, 74
+2	2	, uh	5	M	0, 4
 2	2	a test	7	M	54, 60
 2	2	i don't	17	M	4, 20
 2	2	i know	57	M	12, 68
@@ -10,6 +12,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	job .	25	M	38, 62
 2	2	know .	57	M	12, 68
 2	2	random .	3	M	16, 18
+2	2	uh ,	5	M	0, 4
 8	1	i	73	M	4, 8, 12, 20, 40, 54, 68, 76
 7	1	a	47	M	28, 40, 42, 54, 60, 62, 74
 6	1	it's	65	M	10, 18, 28, 60, 62, 74

@@ -1,32 +1,55 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	i don't i don't	39	B	24, 62
-4	3	i don't know	47	B	16, 24, 54, 62
-2	3	. we we	39	B	4, 42
+2	5	, i don't know ,	39	B	16, 54
+2	5	i don't , i don't	39	B	24, 62
+4	4	, i don't know	47	B	16, 24, 54, 62
+3	4	, you know ,	69	B	2, 42, 70
+2	4	, uh , i	17	B	24, 40
+2	4	yeah , yeah .	19	B	10, 28
+2	4	you know , i	55	B	16, 70
+6	3	, uh ,	51	B	24, 34, 38, 40, 42, 74
+4	3	, i don't	47	B	16, 24, 54, 62
 2	3	don't know that	9	B	62, 70
-2	3	yeah yeah .	19	B	10, 28
-2	3	you know i	55	B	16, 70
+2	3	i mean ,	17	B	24, 40
+8	2	, i	55	B	16, 24, 32, 40, 54, 56, 62, 70
+7	2	uh ,	55	B	24, 34, 38, 40, 42, 74, 78
 7	2	yeah .	69	B	8, 10, 20, 28, 42, 72, 76
 5	2	i don't	47	B	16, 24, 54, 56, 62
 5	2	uh-huh .	45	B	14, 26, 42, 50, 58
+4	2	, it	33	B	32, 40, 46, 64
+4	2	, you	69	B	2, 12, 42, 70
 4	2	. and	47	B	8, 40, 42, 54
+4	2	and ,	29	B	24, 38, 40, 52
 4	2	in a	53	B	4, 24, 34, 56
-4	2	you know	69	B	2, 16, 42, 70
+3	2	, the	35	B	40, 54, 74
 3	2	. so	37	B	2, 24, 38
+3	2	oh ,	29	B	24, 40, 52
+2	2	, and	27	B	12, 38
+2	2	, but	51	B	2, 52
+2	2	, or	15	B	2, 16
+2	2	, so	17	B	2, 18
+2	2	, they're	51	B	2, 52
+2	2	, we	31	B	4, 34
+2	2	. we	39	B	4, 42
 2	2	. yeah	33	B	10, 42
 2	2	a jury	59	B	4, 62
 2	2	because i	31	B	32, 62
 2	2	didn't have	3	B	30, 32
 2	2	have a	15	B	46, 60
-2	2	i mean	17	B	24, 40
+2	2	i ,	69	B	2, 70
 2	2	i think	15	B	56, 70
+2	2	it ,	31	B	40, 70
 2	2	it .	5	B	42, 46
 2	2	it is	11	B	46, 56
+2	2	it's ,	51	B	24, 74
 2	2	kind of	47	B	24, 70
 2	2	of the	33	B	38, 70
 2	2	or something	43	B	12, 54
 2	2	pretty bad	15	B	10, 24
+2	2	right ,	13	B	0, 12
+2	2	so ,	33	B	6, 38
 2	2	that when	33	B	24, 56
-2	2	uh i	17	B	24, 40
+2	2	the ,	15	B	40, 54
+2	2	well ,	29	B	12, 40
 2	2	when i	17	B	40, 56
 14	1	and	69	B	2, 8, 12, 18, 22, 24, 30, 38, 40, 42, 52, 54, 56, 70
 13	1	a	65	B	4, 16, 24, 34, 40, 46, 48, 54, 56, 60, 62, 66, 68
@@ -57,7 +80,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	get	51	B	12, 56, 62
 3	1	had	17	B	24, 30, 40
 3	1	more	69	B	2, 34, 70
-3	1	oh	29	B	24, 40, 52
 3	1	on	27	B	38, 40, 64
 3	1	pretty	65	B	10, 24, 74
 3	1	their	63	B	2, 38, 64

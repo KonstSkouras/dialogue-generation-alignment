@@ -1,13 +1,19 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	4	i don't know .	9	M	31, 33, 39
+3	3	, uh ,	47	M	1, 43, 47
+2	3	, i don't	17	M	39, 55
+2	3	i , i	39	M	25, 63
 2	3	i read it	3	M	43, 45
-4	2	i don't	25	M	31, 33, 39, 55
+5	2	, i	39	M	25, 37, 39, 55, 63
 4	2	read it	53	M	1, 43, 45, 53
 3	2	i have	27	M	37, 51, 63
 3	2	i read	19	M	43, 45, 61
 3	2	the movie	43	M	15, 53, 57
-2	2	i i	39	M	25, 63
+2	2	, i've	29	M	25, 53
+2	2	, never	25	M	1, 25
+2	2	i ,	39	M	25, 63
 2	2	i'm .	13	M	47, 59
+2	2	it ,	47	M	1, 47
 2	2	it .	19	M	35, 53
 2	2	never read	37	M	1, 37
 2	2	that .	45	M	5, 49
@@ -19,10 +25,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	have	49	M	15, 37, 51, 63
 3	1	i'm	13	M	47, 55, 59
 3	1	i've	29	M	25, 35, 53
-3	1	never	37	M	1, 25, 37
 3	1	that	47	M	5, 49, 51
 3	1	thing	15	M	43, 51, 57
-3	1	uh	47	M	1, 43, 47
 3	1	you	35	M	7, 15, 41
 2	1	a	17	M	13, 29
 2	1	been	7	M	29, 35
@@ -32,5 +36,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	of	19	M	37, 55
 2	1	sorry	5	M	55, 59
 2	1	was	15	M	43, 57
+2	1	yeah	3	M	5, 7
 2	1	you've	29	M	1, 29
 

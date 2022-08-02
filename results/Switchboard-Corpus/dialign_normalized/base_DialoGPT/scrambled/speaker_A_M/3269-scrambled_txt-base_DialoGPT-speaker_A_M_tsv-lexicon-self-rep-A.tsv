@@ -1,18 +1,28 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	yeah i think	23	A	0, 22
+3	4	, you know ,	55	A	2, 54, 56
+2	4	yeah , i think	23	A	0, 22
+3	3	that , that	35	A	22, 46, 56
+2	3	, i think	23	A	0, 22
+2	3	, uh ,	21	A	2, 22
 6	2	yeah .	31	A	8, 20, 22, 32, 34, 38
+4	2	, it's	57	A	0, 2, 52, 56
 4	2	i think	57	A	0, 2, 22, 56
+4	2	uh ,	55	A	2, 4, 22, 56
 4	2	uh-huh .	35	A	16, 26, 28, 50
+3	2	, but	35	A	22, 54, 56
+3	2	, i	23	A	0, 2, 22
+3	2	, they	55	A	0, 2, 54
 3	2	. i	57	A	0, 2, 56
-3	2	that that	35	A	22, 46, 56
-3	2	you know	55	A	2, 54, 56
+2	2	, i'm	35	A	22, 56
 2	2	an excellent	3	A	0, 2
 2	2	but now	49	A	6, 54
 2	2	have a	3	A	0, 2
 2	2	i don't	9	A	2, 10
 2	2	it .	55	A	2, 56
+2	2	it's ,	57	A	0, 56
 2	2	like that	57	A	0, 56
 2	2	not .	39	A	18, 56
+2	2	one ,	5	A	2, 6
 2	2	that .	37	A	0, 36
 2	2	that we	57	A	0, 56
 2	2	that's a	13	A	10, 22
@@ -29,11 +39,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	be	51	A	2, 14, 22, 52
 4	1	have	57	A	0, 2, 22, 56
 4	1	in	57	A	0, 42, 52, 56
-4	1	it's	57	A	0, 2, 52, 56
 4	1	know	55	A	2, 10, 54, 56
 4	1	there	33	A	10, 22, 32, 42
 4	1	to	23	A	0, 2, 6, 22
-4	1	uh	55	A	2, 4, 22, 56
 3	1	because	23	A	0, 2, 22
 3	1	don't	53	A	2, 10, 54
 3	1	get	51	A	2, 22, 52
@@ -51,7 +59,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	expensive	9	A	22, 30
 2	1	great	5	A	36, 40
 2	1	had	21	A	36, 56
-2	1	i'm	35	A	22, 56
 2	1	into	21	A	2, 22
 2	1	is	31	A	0, 30
 2	1	kind	29	A	2, 30

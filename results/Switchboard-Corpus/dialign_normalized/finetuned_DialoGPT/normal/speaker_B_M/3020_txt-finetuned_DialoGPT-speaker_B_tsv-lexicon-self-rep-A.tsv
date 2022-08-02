@@ -1,42 +1,51 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	4	, you know ,	63	B	26, 38, 88
 2	4	have you been ?	53	B	2, 54
 2	4	so i don't remember	3	B	22, 24
 2	4	uh-huh . uh-huh .	75	B	20, 94
 2	4	would come up and	3	B	36, 38
+2	4	yeah , yeah .	39	B	86, 124
+5	3	you know ,	69	B	20, 26, 38, 40, 88
+3	3	, you know	63	B	26, 38, 88
 3	3	. uh-huh .	75	B	20, 80, 94
+3	3	and , and	51	B	38, 76, 88
+3	3	yeah , yeah	39	B	86, 122, 124
 2	3	. really .	57	B	4, 60
 2	3	oh really .	81	B	46, 126
-2	3	yeah yeah .	39	B	86, 124
+2	3	they , they	51	B	38, 88
 27	2	uh-huh .	121	B	8, 10, 14, 20, 28, 32, 42, 44, 50, 52, 54, 62, 68, 72, 74, 76, 78, 80, 82, 94, 104, 106, 108, 110, 120, 122, 128
 7	2	really .	123	B	4, 34, 46, 48, 60, 98, 126
 6	2	yeah .	113	B	12, 30, 66, 86, 118, 124
-5	2	you know	69	B	20, 26, 38, 40, 88
+5	2	and ,	69	B	20, 22, 38, 76, 88
+4	2	, and	85	B	38, 76, 88, 122
 4	2	really ?	83	B	18, 64, 84, 100
-3	2	and and	51	B	38, 76, 88
+4	2	yeah ,	123	B	2, 86, 122, 124
+3	2	, they	69	B	20, 38, 88
 3	2	did you	83	B	6, 76, 88
 3	2	i was	7	B	20, 22, 26
 3	2	up and	5	B	36, 38, 40
-3	2	yeah yeah	39	B	86, 122, 124
+2	2	, that	11	B	26, 36
+2	2	, when	51	B	20, 70
 2	2	. yeah	5	B	118, 122
-2	2	and i	17	B	22, 38
 2	2	great .	29	B	26, 54
 2	2	have shrimp	3	B	88, 90
 2	2	i guess	79	B	38, 116
+2	2	in ,	69	B	20, 88
 2	2	it really	47	B	38, 84
 2	2	it was	25	B	12, 36
 2	2	no kidding	103	B	6, 108
 2	2	of the	97	B	26, 122
-2	2	they they	51	B	38, 88
 2	2	very expensive	11	B	106, 116
 2	2	want to	85	B	38, 122
 2	2	was it	91	B	16, 106
+2	2	we ,	17	B	20, 36
 2	2	wow .	23	B	102, 124
+2	2	you ,	3	B	36, 38
 14	1	really	123	B	4, 18, 34, 38, 46, 48, 60, 64, 84, 98, 100, 114, 122, 126
 14	1	you	121	B	2, 6, 20, 26, 36, 38, 40, 54, 56, 70, 76, 88, 96, 122
 9	1	and	103	B	20, 22, 26, 36, 38, 40, 76, 88, 122
 8	1	it	105	B	12, 16, 36, 38, 40, 84, 106, 116
 8	1	was	95	B	12, 16, 20, 22, 26, 36, 70, 106
-8	1	yeah	123	B	2, 12, 30, 66, 86, 118, 122, 124
 7	1	all	93	B	20, 24, 38, 40, 58, 88, 112
 7	1	i	97	B	20, 22, 24, 26, 38, 92, 116
 6	1	oh	115	B	12, 46, 80, 96, 102, 126

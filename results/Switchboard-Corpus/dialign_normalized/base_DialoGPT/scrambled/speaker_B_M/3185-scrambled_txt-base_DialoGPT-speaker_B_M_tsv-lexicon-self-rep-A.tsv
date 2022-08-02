@@ -1,10 +1,29 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, and , uh ,	69	B	12, 80
+2	4	, you know ,	49	B	2, 50
+5	3	, uh ,	69	B	12, 26, 48, 66, 80
 3	3	. yeah .	43	B	30, 56, 72
+3	3	you know ,	49	B	2, 34, 50
+2	3	, that ,	23	B	48, 70
+2	3	so , i	15	B	66, 80
+2	3	yeah , well	7	B	70, 76
 9	2	uh-huh .	69	B	4, 14, 20, 22, 28, 40, 52, 60, 72
 8	2	yeah .	69	B	6, 16, 30, 36, 54, 56, 72, 74
-3	2	so i	31	B	50, 66, 80
-3	2	you know	49	B	2, 34, 50
-2	2	and uh	69	B	12, 80
+6	2	, i	63	B	18, 50, 58, 66, 76, 80
+6	2	uh ,	79	B	2, 12, 26, 48, 66, 80
+6	2	well ,	71	B	0, 32, 34, 38, 50, 70
+4	2	know ,	49	B	2, 18, 34, 50
+4	2	yeah ,	67	B	10, 16, 70, 76
+3	2	, but	59	B	12, 50, 70
+3	2	, well	67	B	10, 70, 76
+3	2	, you	67	B	2, 50, 68
+3	2	so ,	33	B	48, 66, 80
+3	2	that ,	69	B	2, 48, 70
+2	2	, i'm	27	B	12, 38
+2	2	, that	23	B	48, 70
+2	2	, we	69	B	12, 80
+2	2	, yeah	9	B	8, 16
+2	2	and ,	69	B	12, 80
 2	2	do you	9	B	34, 42
 2	2	have a	45	B	32, 76
 2	2	have you	17	B	26, 42
@@ -13,36 +32,32 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i think	27	B	24, 50
 2	2	i'm really	39	B	12, 50
 2	2	in the	17	B	34, 50
+2	2	it ,	39	B	12, 50
 2	2	it's just	3	B	68, 70
 2	2	of the	15	B	10, 24
+2	2	oh ,	9	B	18, 26
 2	2	right .	23	B	34, 56
 2	2	to be	17	B	34, 50
-2	2	well i	27	B	50, 76
+2	2	um ,	17	B	42, 58
 2	2	when i	49	B	10, 58
-2	2	yeah well	7	B	70, 76
-12	1	yeah	71	B	6, 8, 10, 16, 30, 36, 54, 56, 70, 72, 74, 76
 10	1	i	79	B	2, 10, 18, 24, 50, 58, 64, 66, 76, 80
 10	1	the	61	B	8, 10, 12, 24, 26, 34, 42, 50, 66, 68
 9	1	and	71	B	10, 12, 24, 42, 48, 50, 66, 68, 80
 9	1	uh-huh	69	B	4, 14, 20, 22, 28, 40, 52, 60, 72
 8	1	a	49	B	32, 34, 48, 50, 58, 70, 76, 80
-8	1	well	77	B	0, 10, 32, 34, 38, 50, 70, 76
 7	1	that	75	B	2, 12, 34, 42, 48, 70, 76
 7	1	you	67	B	2, 26, 34, 42, 46, 50, 68
 6	1	in	71	B	10, 12, 34, 50, 68, 80
 6	1	so	81	B	0, 24, 48, 50, 66, 80
 6	1	to	81	B	0, 12, 24, 34, 50, 80
-6	1	uh	79	B	2, 12, 26, 48, 66, 80
 5	1	have	51	B	26, 32, 34, 42, 76
 5	1	it	51	B	0, 12, 40, 46, 50
 4	1	it's	47	B	24, 48, 68, 70
-4	1	know	49	B	2, 18, 34, 50
 4	1	really	59	B	12, 48, 50, 70
 4	1	see	31	B	50, 64, 68, 80
 4	1	think	49	B	2, 24, 34, 50
 3	1	are	79	B	2, 46, 80
 3	1	but	59	B	12, 50, 70
-3	1	i'm	39	B	12, 38, 50
 3	1	just	5	B	66, 68, 70
 3	1	like	43	B	0, 34, 42
 3	1	of	39	B	10, 24, 48
@@ -58,7 +73,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	homes	69	B	12, 80
 2	1	is	35	B	0, 34
 2	1	not	13	B	12, 24
-2	1	oh	9	B	18, 26
 2	1	or	23	B	12, 34
 2	1	out	15	B	10, 24
 2	1	she	55	B	10, 64
@@ -66,7 +80,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	them	35	B	34, 68
 2	1	they	3	B	32, 34
 2	1	too	19	B	58, 76
-2	1	um	17	B	42, 58
 2	1	very	17	B	24, 40
 2	1	was	19	B	40, 58
 2	1	we	69	B	12, 80

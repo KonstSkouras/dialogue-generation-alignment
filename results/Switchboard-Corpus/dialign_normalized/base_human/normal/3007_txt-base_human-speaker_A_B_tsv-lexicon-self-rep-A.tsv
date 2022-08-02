@@ -1,4 +1,5 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	3	, uh ,	39	A	18, 56
 2	3	a golden retriever	39	A	18, 56
 2	3	a little bit	41	A	18, 58
 2	3	and all the	3	A	56, 58
@@ -7,9 +8,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	2	uh-huh .	65	A	10, 16, 22, 26, 60, 66, 72, 74
 6	2	oh .	67	A	2, 36, 44, 52, 64, 68
 6	2	yeah .	49	A	8, 30, 40, 46, 54, 56
+3	2	, she's	17	A	18, 30, 34
 3	2	. she's	17	A	18, 30, 34
 3	2	. we	39	A	18, 34, 56
 3	2	golden retriever	39	A	18, 48, 56
+3	2	oh ,	45	A	18, 28, 62
+2	2	, but	17	A	18, 34
+2	2	, i	25	A	32, 56
+2	2	, we	23	A	34, 56
 2	2	had a	19	A	38, 56
 2	2	instead of	25	A	6, 30
 2	2	right .	7	A	36, 42
@@ -39,7 +45,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	just	17	A	18, 34
 2	1	some	9	A	48, 56
 2	1	those	35	A	14, 48
-2	1	uh	39	A	18, 56
 2	1	up	25	A	34, 58
 2	1	were	3	A	56, 58
 

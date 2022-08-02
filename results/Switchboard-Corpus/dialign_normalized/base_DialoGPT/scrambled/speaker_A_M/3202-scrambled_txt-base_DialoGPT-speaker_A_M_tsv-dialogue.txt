@@ -1,24 +1,24 @@
-A|0| A: yeah . _well_ dogs _are_ real high maintenances _you_ got _to_ take _them_ _for_ walks and you've got _to_ pay _a_ lot _you_ know _you_ need _to_ pay attention _to_ cats and everything but it's not quite _the_ same thing . 
-B|1| M: _they_ ... 
+A|0| A: yeah . _well ,_ dogs _are_ real high maintenances , _you_ got _to_ take _them_ _for_ walks and you've got _to_ pay _a_ lot , _you_ know , _you_ need _to_ pay attention _to_ cats and everything but it's not quite _the_ same thing . 
+B|1| M: _they_ ,... 
 A|2| A: yeah . 
 B|3| M: _i_ think so . [you] _do ._ [you] feel very happy . [you] [are] . full of . yourself . [for] . [the] . full . time . [you] [are] . alone . [you] have [a] nice . life . [you] deserve . _it_ . [you] owe . _it_ [to] . _it_ . 
-A|4| A: and with all [the] see i've got _on_ [the] south side is all glass . _well_ as much as [i] could get in [it] [you] know . and uh [the] east side is glass . 
+A|4| A: and with all [the] , see i've got , _on_ [the] south side is all glass . _well ,_ as much as [i] could get in [it] , [you] know . and , uh , [the] east side is glass . 
 B|5| M:  
-A|6| A: oh yeah [they] [do .] 
+A|6| A: oh yeah , [they] [do .] 
 B|7| M: [i] wonder how many of [them] [are] from arkansas 
 A|8| A: oh . 
-B|9| M: [well] we're going [on] [a] hunt . 
+B|9| M: [well ,] we're going [on] [a] hunt . 
 A|10| A: uh-huh . uh-huh . 
 B|11| M: [i] feel like [i] can go back [to] sleep . 
-A|12| A: and not being [you] know 
-B|13| M: uhh that's [a] very good point . 
+A|12| A: and , not being , [you] know , 
+B|13| M: uhh , that's [a] very good point . 
 
 
 TURN DETAILS:
-Turn ID=0| A | A : yeah . well dogs are real high maintenances you got to take them for walks and you've got to pay a lot you know you need to pay attention to cats and everything but it's not quite the same thing .
-	Free: Pattern=well, Pattern=you, Pattern=a, Pattern=for, Pattern=are, Pattern=the, Pattern=to, Pattern=them
+Turn ID=0| A | A : yeah . well , dogs are real high maintenances , you got to take them for walks and you've got to pay a lot , you know , you need to pay attention to cats and everything but it's not quite the same thing .
+	Free: Pattern=you, Pattern=a, Pattern=for, Pattern=are, Pattern=well ,, Pattern=the, Pattern=to, Pattern=them
 	Constrained: 
-Turn ID=1| B | M : they ...
+Turn ID=1| B | M : they ,...
 	Free: Pattern=they
 	Constrained: 
 Turn ID=2| A | A : yeah .
@@ -27,13 +27,13 @@ Turn ID=2| A | A : yeah .
 Turn ID=3| B | M : i think so . you do . you feel very happy . you are . full of . yourself . for . the . full . time . you are . alone . you have a nice . life . you deserve . it . you owe . it to . it .
 	Free: Pattern=you, Pattern=a, Pattern=it, Pattern=are, Pattern=i, Pattern=the, Pattern=to, Pattern=for, Pattern=do .
 	Constrained: 
-Turn ID=4| A | A : and with all the see i've got on the south side is all glass . well as much as i could get in it you know . and uh the east side is glass .
-	Free: Pattern=well, Pattern=you, Pattern=it, Pattern=i, Pattern=on, Pattern=the
+Turn ID=4| A | A : and with all the , see i've got , on the south side is all glass . well , as much as i could get in it , you know . and , uh , the east side is glass .
+	Free: Pattern=you, Pattern=it, Pattern=well ,, Pattern=i, Pattern=on, Pattern=the
 	Constrained: 
 Turn ID=5| B | M : 
 	Free: 
 	Constrained: 
-Turn ID=6| A | A : oh yeah they do .
+Turn ID=6| A | A : oh yeah , they do .
 	Free: Pattern=do ., Pattern=they
 	Constrained: 
 Turn ID=7| B | M : i wonder how many of them are from arkansas
@@ -42,8 +42,8 @@ Turn ID=7| B | M : i wonder how many of them are from arkansas
 Turn ID=8| A | A : oh .
 	Free: 
 	Constrained: 
-Turn ID=9| B | M : well we're going on a hunt .
-	Free: Pattern=well, Pattern=on, Pattern=a
+Turn ID=9| B | M : well , we're going on a hunt .
+	Free: Pattern=well ,, Pattern=on, Pattern=a
 	Constrained: 
 Turn ID=10| A | A : uh-huh . uh-huh .
 	Free: 
@@ -51,9 +51,9 @@ Turn ID=10| A | A : uh-huh . uh-huh .
 Turn ID=11| B | M : i feel like i can go back to sleep .
 	Free: Pattern=to, Pattern=i
 	Constrained: 
-Turn ID=12| A | A : and not being you know
+Turn ID=12| A | A : and , not being , you know ,
 	Free: Pattern=you
 	Constrained: 
-Turn ID=13| B | M : uhh that's a very good point .
+Turn ID=13| B | M : uhh , that's a very good point .
 	Free: Pattern=a
 	Constrained: 

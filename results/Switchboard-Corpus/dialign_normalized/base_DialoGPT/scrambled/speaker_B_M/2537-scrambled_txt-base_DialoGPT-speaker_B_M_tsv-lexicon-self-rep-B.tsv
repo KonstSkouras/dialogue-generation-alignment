@@ -1,11 +1,15 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	3	i don't think	55	M	11, 21, 65
+2	3	, but she	23	M	45, 67
 2	3	i like to	39	M	19, 57
+3	2	, but	51	M	17, 45, 67
 3	2	. i	55	M	3, 11, 57
 3	2	do you	37	M	27, 47, 63
 3	2	it's a	41	M	13, 21, 53
 3	2	like to	41	M	17, 19, 57
-2	2	but she	23	M	45, 67
+2	2	, because	19	M	53, 71
+2	2	, they	55	M	17, 71
+2	2	here ,	17	M	1, 17
 2	2	i know	3	M	55, 57
 2	2	you live	17	M	11, 27
 11	1	i	63	M	3, 5, 11, 19, 21, 49, 51, 55, 57, 61, 65
@@ -20,7 +24,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	it's	41	M	13, 21, 31, 53
 4	1	she	25	M	43, 45, 59, 67
 4	1	why	63	M	9, 35, 47, 71
-3	1	but	51	M	17, 45, 67
 3	1	have	61	M	11, 33, 71
 3	1	i'm	71	M	3, 23, 73
 3	1	know	17	M	55, 57, 71
@@ -29,9 +32,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	of	69	M	3, 53, 71
 3	1	that's	65	M	5, 29, 69
 2	1	and	7	M	5, 11
-2	1	because	19	M	53, 71
 2	1	eat	15	M	3, 17
-2	1	here	17	M	1, 17
 2	1	house	63	M	11, 73
 2	1	is	29	M	25, 53
 2	1	just	73	M	1, 73

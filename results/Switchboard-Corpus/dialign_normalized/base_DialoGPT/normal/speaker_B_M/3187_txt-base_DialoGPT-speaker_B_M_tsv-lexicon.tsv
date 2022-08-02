@@ -1,11 +1,13 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
+2	2	3	i'm sorry ,	35	34	1	B	2, 35
 3	3	2	he was	27	8	2	B	20, 22, 27
-2	2	2	i'm sorry	35	34	1	B	2, 35
+2	2	2	, the	31	32	1	B	0, 31
+2	2	2	no ,	5	4	1	B	2, 5
 9	9	1	a	11	32	2	B	0, 2, 11, 15, 22, 26, 27, 29, 31
 9	9	1	and	15	33	2	B	0, 2, 15, 18, 20, 24, 26, 30, 32
 7	7	1	i	15	24	1	B	12, 15, 21, 23, 25, 31, 35
 7	7	1	that	3	29	1	B	2, 3, 15, 18, 20, 25, 30
-7	7	1	the	13	32	2	B	0, 2, 13, 20, 22, 30, 31
+7	5	1	the	13	32	2	B	0, 2, 13, 20, 22, 30, 31
 7	7	1	to	31	32	6	B	0, 2, 20, 22, 26, 30, 31
 6	4	1	he	27	28	5	B	0, 2, 20, 22, 26, 27
 5	3	1	i'm	9	34	1	B	2, 9, 15, 29, 35
@@ -17,7 +19,6 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 4	4	1	is	15	38	1	B	0, 15, 33, 37
 2	2	1	house	20	8	1	M	13, 20
 2	2	1	list	15	16	1	B	0, 15
-2	2	1	no	5	4	1	B	2, 5
 2	2	1	responsibility	31	2	1	B	30, 31
 2	2	1	so	20	10	1	M	11, 20
 2	2	1	think	23	20	1	B	4, 23

@@ -1,6 +1,9 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
-5	5	2	you know	12	28	1	M	9, 12, 28, 32, 36
+3	3	3	you know ,	12	24	1	M	9, 12, 32
+5	2	2	you know	28	28	1	M	9, 12, 28, 32, 36
 3	3	2	i think	8	6	1	M	7, 8, 12
+3	3	2	oh ,	25	21	1	B	14, 25, 34
+3	3	2	so ,	12	16	1	M	1, 12, 16
 2	2	2	. they	13	4	1	B	10, 13
 2	2	2	i guess	33	22	1	B	12, 33
 2	2	2	in the	29	4	1	B	26, 29
@@ -14,7 +17,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 6	4	1	in	22	21	1	M	9, 22, 25, 26, 27, 29
 5	5	1	it	28	14	2	M	19, 23, 28, 31, 32
 5	1	1	know	28	28	1	M	9, 12, 28, 32, 36
-5	5	1	so	4	28	1	M	1, 4, 12, 16, 28
+5	2	1	so	4	28	1	M	1, 4, 12, 16, 28
 5	4	1	they	13	25	1	B	10, 13, 28, 32, 34
 4	2	1	are	28	32	2	M	3, 13, 28, 34
 4	2	1	is	12	22	1	M	1, 12, 16, 22
@@ -22,7 +25,6 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 3	3	1	don't	4	10	1	M	1, 4, 10
 3	3	1	not	8	25	1	M	1, 8, 25
 3	3	1	of	29	18	2	B	12, 28, 29
-3	3	1	oh	25	21	1	B	14, 25, 34
 3	3	1	what	8	17	1	M	1, 8, 17
 2	2	1	had	32	20	1	M	13, 32
 2	2	1	if	17	2	1	B	16, 17

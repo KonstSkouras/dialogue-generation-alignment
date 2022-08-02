@@ -1,38 +1,51 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	and things like that	5	A	60, 64
+5	4	, you know ,	33	A	28, 36, 42, 52, 60
+2	4	, the movie was	5	A	56, 60
 2	4	things like that .	51	A	14, 64
+6	3	, you know	41	A	28, 36, 42, 52, 60, 68
+4	3	, uh ,	35	A	30, 52, 60, 64
+3	3	things like that	51	A	14, 60, 64
+2	3	, i just	23	A	42, 64
+2	3	, i think	23	A	30, 52
+2	3	and , and	11	A	52, 62
 2	3	and i think	9	A	44, 52
-2	3	the movie was	5	A	56, 60
+2	3	i , i	13	A	30, 42
+2	3	i mean ,	19	A	42, 60
+2	3	really , really	11	A	46, 56
 8	2	yeah .	47	A	20, 26, 28, 40, 48, 54, 58, 66
-6	2	you know	41	A	28, 36, 42, 52, 60, 68
+5	2	, i	35	A	30, 42, 52, 60, 64
+5	2	and ,	47	A	18, 52, 60, 62, 64
+5	2	know ,	33	A	28, 36, 42, 52, 60
 4	2	and i	25	A	44, 46, 52, 68
 4	2	like that	51	A	14, 44, 60, 64
+3	2	, and	13	A	52, 62, 64
+3	2	, the	33	A	28, 56, 60
+3	2	good ,	15	A	42, 52, 56
+3	2	i ,	27	A	30, 42, 56
 3	2	i just	23	A	42, 46, 64
-3	2	i think	23	A	30, 44, 52
 3	2	that is	27	A	12, 14, 38
 3	2	that was	13	A	44, 52, 56
 3	2	the movie	7	A	56, 60, 62
 3	2	uh .	35	A	22, 50, 56
 3	2	was a	31	A	32, 60, 62
+2	2	, it	27	A	36, 62
+2	2	, that	45	A	12, 56
 2	2	. yeah	3	A	56, 58
-2	2	and and	11	A	52, 62
-2	2	book i	11	A	42, 52
 2	2	compared to	5	A	56, 60
 2	2	have not	25	A	18, 42
 2	2	i am	23	A	30, 52
-2	2	i i	13	A	30, 42
-2	2	i mean	19	A	42, 60
 2	2	in the	11	A	52, 62
 2	2	is so	25	A	36, 60
 2	2	it is	7	A	36, 42
+2	2	just ,	5	A	42, 46
 2	2	of it	17	A	18, 34
 2	2	oh .	67	A	4, 70
-2	2	really really	11	A	46, 56
 2	2	right .	31	A	12, 42
 2	2	the last	9	A	44, 52
 2	2	to the	5	A	56, 60
 2	2	tom wolfe	9	A	52, 60
 2	2	trying to	39	A	14, 52
+2	2	well ,	31	A	12, 42
 13	1	that	59	A	6, 12, 14, 28, 30, 38, 42, 44, 52, 56, 60, 62, 64
 11	1	and	55	A	14, 18, 36, 44, 46, 52, 58, 60, 62, 64, 68
 11	1	i	59	A	10, 30, 32, 42, 44, 46, 52, 56, 60, 64, 68
@@ -40,10 +53,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	the	45	A	18, 24, 28, 44, 46, 52, 56, 60, 62
 7	1	it	51	A	18, 34, 36, 42, 60, 62, 68
 7	1	like	55	A	14, 32, 44, 52, 60, 64, 68
-7	1	uh	43	A	22, 30, 50, 52, 56, 60, 64
 6	1	a	51	A	18, 32, 42, 60, 62, 68
 6	1	book	55	A	14, 42, 52, 56, 62, 68
-6	1	know	41	A	28, 36, 42, 52, 60, 68
 6	1	of	49	A	14, 18, 32, 34, 36, 62
 6	1	to	55	A	14, 52, 56, 60, 64, 68
 6	1	was	31	A	32, 44, 52, 56, 60, 62

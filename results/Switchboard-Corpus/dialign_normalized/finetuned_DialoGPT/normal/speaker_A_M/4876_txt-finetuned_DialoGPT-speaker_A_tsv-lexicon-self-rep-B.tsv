@@ -1,21 +1,29 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	we had uh a	7	M	20, 26
-4	2	and uh	27	M	20, 22, 26, 46
+2	5	we had , uh a	7	M	20, 26
+2	4	, you know ,	5	M	22, 26
+4	3	and , uh	27	M	20, 22, 26, 46
+3	3	, uh .	33	M	14, 22, 46
+3	3	, you know	23	M	22, 26, 44
+3	3	but , uh	23	M	4, 14, 26
+2	3	, uh ,	15	M	12, 26
+2	3	, we had	25	M	2, 26
+8	2	, uh	45	M	2, 4, 12, 14, 20, 22, 26, 46
+7	2	and ,	45	M	2, 20, 22, 26, 28, 32, 46
+3	2	, i	21	M	14, 18, 34
+3	2	, we	27	M	2, 26, 28
 3	2	and i	25	M	14, 28, 38
-3	2	but uh	23	M	4, 14, 26
 3	2	i think	21	M	18, 26, 38
-3	2	uh .	33	M	14, 22, 46
-3	2	we had	25	M	2, 20, 26
-3	2	you know	23	M	22, 26, 44
+3	2	yeah ,	15	M	28, 34, 42
+2	2	, my	13	M	28, 40
 2	2	and then	3	M	20, 22
 2	2	and they	21	M	24, 44
 2	2	know .	11	M	34, 44
+2	2	oh ,	25	M	16, 40
+2	2	so ,	17	M	12, 28
 2	2	was the	19	M	2, 20
 11	1	and	45	M	2, 14, 20, 22, 24, 26, 28, 32, 38, 44, 46
 8	1	i	37	M	2, 14, 18, 26, 28, 30, 34, 38
-8	1	uh	45	M	2, 4, 12, 14, 20, 22, 26, 46
 4	1	a	21	M	18, 20, 26, 38
-4	1	we	27	M	2, 20, 26, 28
 4	1	yeah	37	M	6, 28, 34, 42
 3	1	had	25	M	2, 20, 26
 3	1	my	39	M	2, 28, 40
@@ -24,7 +32,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	that	21	M	2, 20, 22
 3	1	the	21	M	2, 20, 22
 3	1	was	25	M	2, 20, 26
-2	1	oh	25	M	16, 40
 2	1	one	19	M	2, 20
 2	1	they	21	M	24, 44
 2	1	were	9	M	20, 28

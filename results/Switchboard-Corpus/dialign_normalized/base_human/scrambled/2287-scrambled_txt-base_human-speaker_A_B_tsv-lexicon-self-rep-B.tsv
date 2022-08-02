@@ -1,44 +1,63 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	know , i , i	5	B	43, 47
+2	4	, you know ,	29	B	43, 71
+2	4	and , uh ,	89	B	9, 97
+2	4	well , i think	3	B	71, 73
+7	3	, uh ,	95	B	3, 9, 15, 47, 61, 87, 97
+3	3	, i think	73	B	1, 71, 73
+3	3	well , i	37	B	37, 71, 73
+3	3	you know ,	31	B	43, 71, 73
+2	3	, i ,	5	B	43, 47
+2	3	, i have	3	B	87, 89
+2	3	, um ,	53	B	19, 71
+2	3	. uh ,	39	B	49, 87
 2	3	. uh-huh .	59	B	11, 69
-2	3	know i i	5	B	43, 47
+2	3	and , and	79	B	9, 87
+2	3	i mean ,	27	B	71, 97
+2	3	uh , i	11	B	87, 97
 2	3	uh-huh . yeah	23	B	31, 53
-2	3	well i think	3	B	71, 73
+2	3	yeah , i	89	B	1, 89
+2	3	yeah , yeah	53	B	1, 53
 15	2	uh-huh .	95	B	5, 11, 23, 25, 27, 31, 35, 39, 51, 53, 55, 69, 83, 93, 99
+9	2	, i	97	B	1, 37, 43, 47, 71, 73, 87, 89, 97
+8	2	uh ,	95	B	3, 9, 15, 47, 49, 61, 87, 97
+6	2	yeah ,	89	B	1, 9, 53, 63, 85, 89
 6	2	yeah .	75	B	7, 31, 41, 53, 71, 81
+5	2	, and	85	B	3, 9, 71, 85, 87
 5	2	. i	51	B	37, 69, 71, 85, 87
+5	2	well ,	61	B	37, 71, 73, 87, 97
+4	2	and ,	89	B	9, 19, 87, 97
 4	2	i think	85	B	1, 71, 73, 85
 4	2	you know	61	B	13, 43, 71, 73
-3	2	and and	79	B	9, 15, 87
+3	2	, the	61	B	37, 71, 97
 3	2	car .	41	B	37, 49, 77
-3	2	i i	45	B	43, 47, 87
+3	2	i ,	45	B	43, 47, 87
 3	2	in the	43	B	45, 61, 87
 3	2	like to	51	B	37, 85, 87
-3	2	well i	37	B	37, 71, 73
-2	2	. uh	39	B	49, 87
+3	2	the ,	77	B	21, 71, 97
+2	2	, because	25	B	61, 85
+2	2	, it	13	B	85, 97
 2	2	and then	85	B	3, 87
-2	2	and uh	89	B	9, 97
 2	2	as i	11	B	77, 87
 2	2	as much	11	B	77, 87
 2	2	because they	15	B	71, 85
 2	2	get a	19	B	67, 85
 2	2	i don't	41	B	47, 87
-2	2	i have	3	B	87, 89
-2	2	i mean	27	B	71, 97
+2	2	it ,	27	B	71, 97
 2	2	it just	27	B	71, 97
 2	2	kind of	15	B	49, 63
+2	2	oh ,	33	B	65, 97
 2	2	on .	69	B	3, 71
 2	2	on the	5	B	67, 71
 2	2	on there	49	B	49, 97
+2	2	right ,	81	B	11, 91
 2	2	right .	49	B	11, 59
 2	2	so i	39	B	47, 85
 2	2	the house	7	B	15, 21
 2	2	there .	53	B	33, 85
 2	2	to be	15	B	73, 87
 2	2	to see	39	B	47, 85
-2	2	uh i	11	B	87, 97
 2	2	would be	15	B	71, 85
-2	2	yeah i	89	B	1, 89
-2	2	yeah yeah	53	B	1, 53
 15	1	and	95	B	3, 9, 15, 19, 21, 33, 63, 65, 67, 71, 77, 79, 85, 87, 97
 13	1	i	97	B	1, 37, 43, 47, 61, 69, 71, 73, 77, 85, 87, 89, 97
 12	1	the	83	B	15, 21, 37, 45, 47, 61, 67, 71, 77, 85, 87, 97
@@ -49,7 +68,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	in	79	B	9, 45, 61, 63, 67, 71, 77, 87
 8	1	it	95	B	3, 9, 61, 71, 73, 85, 87, 97
 8	1	of	77	B	13, 19, 21, 49, 63, 71, 85, 89
-8	1	uh	95	B	3, 9, 15, 47, 49, 61, 87, 97
 7	1	so	67	B	19, 29, 47, 61, 65, 71, 85
 7	1	you	93	B	3, 13, 43, 65, 71, 73, 95
 6	1	know	61	B	13, 43, 47, 61, 71, 73
@@ -82,7 +100,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	other	67	B	21, 73, 87
 3	1	out	75	B	13, 71, 87
 3	1	people	55	B	19, 71, 73
-3	1	right	81	B	11, 59, 91
 3	1	them	65	B	21, 79, 85
 3	1	there's	39	B	33, 49, 71
 3	1	things	79	B	9, 85, 87
@@ -101,13 +118,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	maybe	25	B	61, 85
 2	1	money	23	B	49, 71
 2	1	no	17	B	71, 87
-2	1	oh	33	B	65, 97
 2	1	pay	13	B	37, 49
 2	1	put	55	B	9, 63
 2	1	some	5	B	85, 89
 2	1	these	45	B	43, 87
 2	1	too	89	B	1, 89
-2	1	um	53	B	19, 71
 2	1	used	17	B	21, 37
 2	1	wait	31	B	71, 101
 2	1	we	19	B	19, 37

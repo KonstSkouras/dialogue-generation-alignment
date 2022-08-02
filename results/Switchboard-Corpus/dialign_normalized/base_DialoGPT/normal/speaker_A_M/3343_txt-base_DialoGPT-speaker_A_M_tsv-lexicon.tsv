@@ -1,8 +1,15 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
-2	2	3	a lot of	31	14	1	M	18, 31
-2	2	3	you know i	31	28	1	M	4, 31
-8	7	2	you know	31	42	3	M	4, 24, 30, 31, 35, 37, 42, 45
+6	6	4	, you know ,	31	16	1	M	30, 31, 35, 37, 42, 45
+2	2	4	, a lot of	31	14	1	M	18, 31
+2	2	4	you know , i	31	28	1	M	4, 31
+2	2	3	, uh ,	31	22	1	M	10, 31
+8	1	2	you know	31	42	3	M	4, 24, 30, 31, 35, 37, 42, 45
+5	5	2	, but	31	30	3	M	8, 22, 28, 31, 37
+3	2	2	, i	31	34	1	M	4, 31, 37
+3	3	2	, so	35	38	1	M	8, 35, 45
 3	3	2	i think	46	16	2	A	31, 37, 46
+3	1	2	uh ,	31	22	2	M	10, 12, 31
+3	3	2	yeah ,	35	22	1	M	22, 35, 43
 3	3	2	yeah .	28	25	1	A	19, 28, 43
 2	2	2	. it's	28	4	1	A	25, 28
 2	2	2	able to	35	28	1	M	8, 35
@@ -20,13 +27,13 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 8	7	1	of	10	31	1	A	7, 10, 14, 15, 18, 31, 35, 37
 8	4	1	what	15	49	2	M	0, 12, 15, 22, 24, 31, 47, 48
 7	4	1	it	11	38	2	M	0, 8, 11, 29, 30, 31, 37
-6	6	1	but	31	35	3	M	8, 22, 28, 31, 37, 42
-6	4	1	i	31	43	3	M	4, 14, 18, 31, 37, 46
+6	2	1	but	37	35	3	M	8, 22, 28, 31, 37, 42
+6	3	1	i	31	43	3	M	4, 14, 18, 31, 37, 46
 6	4	1	it's	25	27	1	M	20, 25, 28, 31, 37, 46
-6	6	1	so	17	40	1	M	8, 17, 33, 35, 45, 47
+6	3	1	so	17	40	1	M	8, 17, 33, 35, 45, 47
 6	6	1	that	34	20	3	A	17, 29, 31, 34, 35, 36
 6	6	1	the	15	41	2	M	2, 10, 15, 26, 37, 42
-6	4	1	yeah	22	25	1	A	19, 22, 28, 35, 42, 43
+6	1	1	yeah	42	25	1	A	19, 22, 28, 35, 42, 43
 5	5	1	that's	34	26	2	A	17, 31, 34, 35, 42
 5	5	1	we	28	34	2	A	15, 17, 28, 47, 48
 4	4	1	about	17	40	1	M	0, 17, 22, 39
@@ -43,7 +50,6 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 3	3	1	oh	25	28	1	M	0, 25, 27
 3	3	1	really	28	11	1	A	25, 28, 35
 3	3	1	things	35	34	1	M	4, 35, 37
-3	3	1	uh	31	22	2	M	10, 12, 31
 3	3	1	usually	15	32	1	M	4, 15, 35
 3	3	1	very	45	18	2	M	28, 30, 45
 2	2	1	because	31	22	1	M	10, 31

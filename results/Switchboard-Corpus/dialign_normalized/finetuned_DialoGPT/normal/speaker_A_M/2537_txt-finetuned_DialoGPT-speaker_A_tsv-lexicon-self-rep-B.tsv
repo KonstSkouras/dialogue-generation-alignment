@@ -1,44 +1,62 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	i mean it's it it	3	M	54, 56
-3	4	so i don't know	51	M	16, 58, 66
+2	8	i mean , it's , it , it	3	M	54, 56
+2	6	so , i don't know ,	51	M	16, 66
+2	5	, you just have to	23	M	34, 56
+3	4	, i don't know	51	M	16, 46, 66
+3	4	, it's , it	13	M	54, 56, 66
+3	4	but , uh .	61	M	6, 32, 66
+3	4	i don't know ,	51	M	16, 58, 66
 2	4	% !! remind me	41	M	8, 48
-2	4	you just have to	23	M	34, 56
-4	3	i don't know	51	M	16, 46, 58, 66
-3	3	but uh .	61	M	6, 32, 66
+2	4	, i , i	3	M	14, 16
+2	4	, i think ,	27	M	2, 28
+2	4	, you , you	11	M	24, 34
+2	4	, you have to	33	M	24, 56
+2	4	i mean , you	15	M	40, 54
+2	4	yeah , yeah .	65	M	0, 64
+5	3	, uh .	65	M	2, 6, 16, 32, 66
+4	3	, you ,	33	M	24, 34, 54, 56
+4	3	but , uh	61	M	6, 32, 46, 66
+4	3	i , i	59	M	14, 16, 28, 72
+4	3	i mean ,	33	M	24, 40, 54, 56
+3	3	, i ,	15	M	14, 16, 28
+3	3	, i think	69	M	2, 28, 70
+3	3	, yeah .	65	M	0, 4, 64
+2	3	, you don't	7	M	34, 40
+2	3	, you're not	21	M	34, 54
 2	3	don't want to	17	M	40, 56
-2	3	i mean you	15	M	40, 54
-2	3	yeah yeah .	65	M	0, 64
-2	3	you have to	33	M	24, 56
-2	3	you know you	21	M	34, 54
+2	3	well , i	9	M	2, 10
+2	3	you know ,	13	M	22, 34
+11	2	, i	71	M	2, 10, 14, 16, 28, 34, 46, 54, 66, 70, 72
+9	2	, uh	67	M	2, 6, 12, 16, 28, 32, 46, 66, 68
 7	2	yeah .	65	M	0, 4, 20, 28, 36, 38, 64
+5	2	, you	33	M	24, 34, 40, 54, 56
 5	2	i think	69	M	2, 18, 28, 40, 70
-5	2	uh .	65	M	2, 6, 16, 32, 66
-4	2	but uh	61	M	6, 32, 46, 66
-4	2	i i	59	M	14, 16, 28, 72
-4	2	i mean	33	M	24, 40, 54, 56
+5	2	so ,	57	M	16, 66, 68, 70, 72
+4	2	, you're	33	M	24, 34, 54, 56
+3	2	, but	27	M	40, 54, 66
 3	2	going to	63	M	10, 54, 72
 3	2	have to	33	M	24, 34, 56
-3	2	it's it	13	M	54, 56, 66
 3	2	right .	19	M	44, 50, 62
+3	2	well ,	21	M	2, 10, 22
+3	2	yeah ,	65	M	0, 14, 64
 3	2	you know	33	M	22, 34, 54
+2	2	, and	39	M	34, 72
 2	2	. i	11	M	18, 28
 2	2	a good	17	M	56, 72
+2	2	and ,	23	M	12, 34
 2	2	benefits .	11	M	24, 34
+2	2	it ,	3	M	54, 56
 2	2	really don't	41	M	16, 56
+2	2	say ,	13	M	22, 34
+2	2	to ,	55	M	18, 72
 2	2	to do	23	M	34, 56
+2	2	uh ,	43	M	4, 46
 2	2	uh-huh .	19	M	42, 60
-2	2	well i	9	M	2, 10
 2	2	you can't	21	M	34, 54
-2	2	you don't	7	M	34, 40
-2	2	you you	11	M	24, 34
-2	2	you're not	21	M	34, 54
 16	1	i	71	M	2, 10, 14, 16, 18, 24, 28, 34, 40, 46, 54, 56, 58, 66, 70, 72
-10	1	uh	67	M	2, 4, 6, 12, 16, 28, 32, 46, 66, 68
 8	1	to	63	M	10, 18, 24, 34, 40, 54, 56, 72
-8	1	yeah	65	M	0, 4, 14, 20, 28, 36, 38, 64
 8	1	you	43	M	14, 22, 24, 26, 34, 40, 54, 56
 6	1	a	49	M	24, 34, 40, 54, 56, 72
-6	1	but	61	M	6, 32, 40, 46, 54, 66
 6	1	so	57	M	16, 58, 66, 68, 70, 72
 5	1	just	41	M	16, 22, 34, 54, 56
 4	1	and	63	M	10, 12, 34, 72
@@ -46,7 +64,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	have	49	M	24, 34, 56, 72
 4	1	right	19	M	44, 50, 52, 62
 4	1	the	49	M	18, 40, 56, 66
-4	1	you're	33	M	24, 34, 54, 56
 3	1	for	37	M	18, 34, 54
 3	1	good	55	M	18, 56, 72
 3	1	it	13	M	54, 56, 66
@@ -54,13 +71,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	really	41	M	16, 30, 56
 3	1	that	31	M	18, 34, 48
 3	1	want	23	M	34, 40, 56
-3	1	well	21	M	2, 10, 22
 2	1	can	31	M	24, 54
 2	1	do	23	M	34, 56
 2	1	go	33	M	22, 54
 2	1	got	3	M	54, 56
 2	1	on	17	M	40, 56
-2	1	say	13	M	22, 34
 2	1	that's	7	M	34, 40
 2	1	they	35	M	22, 56
 2	1	this	39	M	34, 72

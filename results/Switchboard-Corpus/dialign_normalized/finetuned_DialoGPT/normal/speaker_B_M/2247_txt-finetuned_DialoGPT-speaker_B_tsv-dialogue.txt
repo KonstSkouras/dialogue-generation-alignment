@@ -1,57 +1,57 @@
 A|0| B: _it's_ eighty eighty-eight ? 
 B|1| M: uh-huh . 
-A|2| B: okay . _uh_ what type _of_ _uh_ utilizations do _you_ make _of_ _it_ ? word processing obviously . 
+A|2| B: okay . _uh_ what type _of_ _, _uh_ ,_ utilizations do _you_ make _of_ _it_ ? word processing obviously . 
 B|3| M: uh-huh . 
-A|4| B: okay . _uh i_ use them both here at work _and_ at home . 
+A|4| B: okay . _uh _,_ i_ use them both here at work _and_ at home . 
 B|5| M: _right ._ 
 A|6| B: _and i_ have _i_ b m clones in both cases . 
-B|7| M: oh yeah . 
+B|7| M: oh , yeah . 
 A|8| B: here at work _i_ have _the_ t _i_ _one_ thousand which is _a_ three eighty-six base machine . 
-B|9| M: oh _really_ ? 
-A|10| B: yes _it_ is . _uh_ unfortunately _i_ need all _of_ _it ._ 
+B|9| M: oh , _really_ ? 
+A|10| B: yes _, it_ is . _uh ,_ unfortunately _i_ need all _of_ _it ._ 
 B|11| M: uh-huh . 
-A|12| B: _uh_ for example _i was_ messing around _with a_ spreadsheet this weekend _that's_ _a_ third _of_ _a_ meg in beta size . 
+A|12| B: _uh ,_ for example _, i was_ messing around _with a_ spreadsheet this weekend _that's_ _a_ third _of_ _a_ meg in beta size . 
 B|13| M: yeah . 
-A|14| B: _and_ that _i know_ that _uh_ brings an eighty eighty-eight machine _to_ its knees because _i_ had taken _it_ over from _a_ friend _who_ _was_ working on _it_ _and_ he had _a_ two eighty-six machine 
+A|14| B: _and_ that _, _i_ know_ that _, _uh_ ,_ brings an eighty eighty-eight machine _to_ its knees because _i_ had taken _it_ over from _a_ friend _who_ _was_ working on _it_ _and_ he had _a_ two eighty-six machine , 
 B|15| M: uh-huh . 
 A|16| B: _and_ _it_ brought _it_ _to_ its knees . _just_ in _the_ ability _to_ handle . 
-B|17| M: oh yeah . 
-A|18| B: _and_ then _i_ have _uh_ _a_ three eighty-six f x _a_ sixteen bit machine at home . 
+B|17| M: oh , yeah . 
+A|18| B: _and_ then _i_ have _, _uh_ ,_ _a_ three eighty-six f x _a_ sixteen bit machine , at home . 
 B|19| M: uh-huh . 
 A|20| B: _and_ i'm [really] pleased _with_ _it ._ 
 B|21| M: [i] bet . 
-A|22| B: _it_ manages _to_ take care _of_ all my home needs in terms _of_ word processing _and_ spreadsheets _and_ _uh_ databases database searches . 
-B|23| M: oh yeah . uh-hue . 
-A|24| B: _uh_ what i've gotten into more recently _are_ _the_ tools _to_ use them . have _you_ 
+A|22| B: _it_ manages _to_ take care _of_ all my home needs in terms _of_ word processing _and_ spreadsheets _and _,_ _uh_ ,_ databases , database searches . 
+B|23| M: oh , yeah . uh-hue . 
+A|24| B: _uh ,_ what i've gotten into more recently _are_ _the_ tools _to_ use them . have _you_ , 
 B|25| M: [uh] . 
 A|26| B: _to_ try _to_ make them more effective _and_ useful . 
-B|27| M: yeah [and [i] know] [a] lot [of] people [who] [are] _very_ _very_ against [it .] 
-A|28| B: have _you_ been [uh] struggling along those lines ? 
-B|29| M: _no_ [i] haven't . 
-A|30| B: well _i think_ _you_ will be real pleased _to_ get away from _the_ banana as [i] used _to_ call [it .] _it's_ _uh i_ used [it] on [uh] some other machines in days gone by [and] _was_ real pleased _to_ leave [it .] _it was_ [a] real memory hog when _you_ started making large blot changes _to_ [it .] 
+B|27| M: yeah _, [and_ [i] know] [a] lot [of] people [who] [are] _very_ , _very_ against [it .] 
+A|28| B: have _you_ been _, _uh_ ,_ struggling along those lines ? 
+B|29| M: _no_ [, i] haven't . 
+A|30| B: well _, i think_ _you_ will be real pleased _to_ get away from _the_ banana as [i] used _to_ call [it .] _it's_ _, _uh_ [,_ i] used [it] on _, _uh_ ,_ some other machines in days gone by [and] _was_ real pleased _to_ leave [it .] _it was_ [a] real memory hog when _you_ started making large blot changes _to_ [it .] 
 B|31| M: uh-huh . 
-A|32| B: _the_ at least _the_ version [i] had tended _to_ keep copies [of] that . [of] what _you_ were changing [and] deleting off in memory until all [of] all [of] [a] sudden _you_ got [a] disc full error . not [a] fun thing _to_ try _to_ recover from . 
+A|32| B: _the_ , at least _the_ version [i] had tended _to_ keep copies [of] that . [of] what _you_ were changing [and] deleting off in memory until all [of] , all [of] [a] sudden _you_ got [a] disc full error . not [a] fun thing _to_ try _to_ recover from . 
 B|33| M: yeah . 
-A|34| B: [very] frustrating . [uh] but again i've been dealing _with_ large files both data [and] [and] otherwise . [uh] that _was_ [a] engineering spec on b two . _you_ come here _with_ _the_ b level [of] specs ? 
-B|35| M: [uh] yeah . 
-A|36| B: well _it's just_ [a] huge file that tries _to_ describe _the_ requirements [of] what you're trying _to_ build . [uh] _to_ _one_ level down from assistant description . 
+A|34| B: [very] frustrating . _uh ,_ but again i've been dealing _with_ large files both data _and [,_ and] otherwise . _uh ,_ that _was_ [a] engineering spec on b two . _you_ come here _with_ _the_ b level [of] specs ? 
+B|35| M: [uh ,] yeah . 
+A|36| B: well , _it's just_ [a] huge file that tries _to_ describe _the_ requirements [of] what you're trying _to_ build . [uh ,] _to_ _one_ level down from assistant description . 
 B|37| M: uh-huh . 
-A|38| B: well [i] sure need them . [uh] there's [no] way that [i] could begin _to_ process [and] keep up _with_ _the_ kinds [of] information or _the_ magnitude [of] information that [i] need _to_ _to_ try _to_ do my job without them . 
+A|38| B: well [, i] sure need them . [uh ,] there's [no] way that [i] could begin _to_ process [and] keep up _with_ _the_ kinds [of] information or _the_ magnitude [of] information that [i] need _to_ , _to_ try _to_ do my job without them . 
 B|39| M: yeah . 
-A|40| B: yes [uh] maybe you'll play around some [and] figure _out_ how they can help _you_ do different things _. _i think_ that's_ when _you_ _you_ start deciding that _you_ [really] need greater assets than _you_ already have . when _you_ start seeing what all they can do for _you ._ 
+A|40| B: yes _, [uh_ ,] maybe you'll play around some [and] figure _out_ how they can help _you_ do different things _. _i think_ that's_ when _you_ , _you_ start deciding that _you_ [really] need greater assets than _you_ already have . when _you_ start seeing what all they can do for _you ._ 
 B|41| M: uh-huh . 
-A|42| B: well [i] understand that _you_ [know] . if needs [and] wants were _the_ same i'd have [a] four eighty-six machine at home 
+A|42| B: well [, i] understand that _you_ [know] . if , needs [and] wants were _the_ same i'd have [a] four eighty-six machine at home 
 B|43| M: uh-huh . 
 A|44| B: [right .] 
-B|45| M: [and] uh-huh . 
-A|46| B: [uh] _that's_ _came out_ around _the_ first _of the_ year . 
-B|47| M: yeah [i was] going [to] say [it] [came out] [with a] lot [of] stuff . 
-A|48| B: [it] does [a] few more things [uh] than had been available before . 
+B|45| M: [and ,] uh-huh . 
+A|46| B: [uh ,] _that's_ , _came out_ around _the_ first _of the_ year . 
+B|47| M: yeah [, i was] going [to] say [, it] [came out] [with a] lot [of] stuff . 
+A|48| B: [it] does [a] few more things _, [uh_ ,] than had been available before . 
 B|49| M: yeah . 
-A|50| B: but i'm not sure that _it's_ such [a] massive improvement . [uh] _you_ [know] once _you_ get passed thirty-three megahertz all help is kind [of] lost in _the_ in _the_ translation . because _you_ [no] longer can _think_ that fast anyway . 
-B|51| M: yeah [i] don't [know] [i think that's] [one] [of the] big problems [with] [with] american cars [. i think] [i] [it] seems like [uh [i] think] [it's just] too too expensive . 
-A|52| B: well okay [. i] enjoyed our discussion . 
-B|53| M: yeah [it was] nice talking [to] [you .] 
+A|50| B: but i'm not sure that _it's_ such [a] massive improvement . [uh ,] _you_ _know ,_ once _you_ get passed thirty-three megahertz , all help is , kind [of] lost in _the_ , in _the_ translation . because _you_ [no] longer can _think_ that fast anyway . 
+B|51| M: yeah [, i] don't [know [,] [i think] that's] [one] [of the] big problems [with] , [with] american cars [. i think] [, i] [, it] seems like [, uh] [i think] [it's just] too , too expensive . 
+A|52| B: well , okay [. i] enjoyed our discussion . 
+B|53| M: yeah [, [it] was] nice talking [to] [you .] 
 A|54| B: [you] do [the] same . 
 B|55| M: thank [you .] 
 A|56| B: bye . 
@@ -64,162 +64,162 @@ Turn ID=0| A | B : it's eighty eighty-eight ?
 Turn ID=1| B | M : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=2| A | B : okay . uh what type of uh utilizations do you make of it ? word processing obviously .
-	Free: Pattern=you, Pattern=uh, Pattern=it, Pattern=of
-	Constrained: 
+Turn ID=2| A | B : okay . uh what type of , uh , utilizations do you make of it ? word processing obviously .
+	Free: Pattern=of, Pattern=it, Pattern=uh ,, Pattern=you, Pattern=uh, Pattern=, uh
+	Constrained: Pattern=uh
 Turn ID=3| B | M : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=4| A | B : okay . uh i use them both here at work and at home .
-	Free: Pattern=uh i, Pattern=and
-	Constrained: Pattern=uh, Pattern=i
+Turn ID=4| A | B : okay . uh , i use them both here at work and at home .
+	Free: Pattern=, i, Pattern=uh ,, Pattern=and
+	Constrained: Pattern=i, Pattern=uh
 Turn ID=5| B | M : right .
 	Free: Pattern=right .
 	Constrained: 
 Turn ID=6| A | B : and i have i b m clones in both cases .
 	Free: Pattern=and i, Pattern=i
-	Constrained: Pattern=i, Pattern=and
-Turn ID=7| B | M : oh yeah .
+	Constrained: Pattern=and, Pattern=i
+Turn ID=7| B | M : oh , yeah .
 	Free: 
 	Constrained: 
 Turn ID=8| A | B : here at work i have the t i one thousand which is a three eighty-six base machine .
-	Free: Pattern=one, Pattern=the, Pattern=i, Pattern=a
+	Free: Pattern=i, Pattern=one, Pattern=the, Pattern=a
 	Constrained: 
-Turn ID=9| B | M : oh really ?
+Turn ID=9| B | M : oh , really ?
 	Free: Pattern=really
 	Constrained: 
-Turn ID=10| A | B : yes it is . uh unfortunately i need all of it .
-	Free: Pattern=of, Pattern=it, Pattern=i, Pattern=uh, Pattern=it .
-	Constrained: Pattern=it
+Turn ID=10| A | B : yes , it is . uh , unfortunately i need all of it .
+	Free: Pattern=, it, Pattern=of, Pattern=it ., Pattern=i, Pattern=uh ,
+	Constrained: Pattern=it, Pattern=uh
 Turn ID=11| B | M : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=12| A | B : uh for example i was messing around with a spreadsheet this weekend that's a third of a meg in beta size .
-	Free: Pattern=i was, Pattern=of, Pattern=uh, Pattern=that's, Pattern=with a, Pattern=a
-	Constrained: Pattern=was, Pattern=i, Pattern=a, Pattern=with
+Turn ID=12| A | B : uh , for example , i was messing around with a spreadsheet this weekend that's a third of a meg in beta size .
+	Free: Pattern=of, Pattern=, i was, Pattern=with a, Pattern=a, Pattern=uh ,, Pattern=that's
+	Constrained: Pattern=uh, Pattern=a, Pattern=i, Pattern=, i, Pattern=was, Pattern=with
 Turn ID=13| B | M : yeah .
 	Free: 
 	Constrained: 
-Turn ID=14| A | B : and that i know that uh brings an eighty eighty-eight machine to its knees because i had taken it over from a friend who was working on it and he had a two eighty-six machine
-	Free: Pattern=uh, Pattern=i know, Pattern=i, Pattern=to, Pattern=was, Pattern=who, Pattern=a, Pattern=it, Pattern=and
-	Constrained: Pattern=know, Pattern=i
+Turn ID=14| A | B : and that , i know that , uh , brings an eighty eighty-eight machine to its knees because i had taken it over from a friend who was working on it and he had a two eighty-six machine ,
+	Free: Pattern=, uh, Pattern=i know, Pattern=i, Pattern=to, Pattern=was, Pattern=who, Pattern=a, Pattern=it, Pattern=and, Pattern=uh ,, Pattern=, i
+	Constrained: Pattern=i, Pattern=know, Pattern=uh
 Turn ID=15| B | M : uh-huh .
 	Free: 
 	Constrained: 
 Turn ID=16| A | B : and it brought it to its knees . just in the ability to handle .
 	Free: Pattern=just, Pattern=the, Pattern=to, Pattern=it, Pattern=and
 	Constrained: 
-Turn ID=17| B | M : oh yeah .
+Turn ID=17| B | M : oh , yeah .
 	Free: 
 	Constrained: 
-Turn ID=18| A | B : and then i have uh a three eighty-six f x a sixteen bit machine at home .
-	Free: Pattern=uh, Pattern=i, Pattern=and, Pattern=a
-	Constrained: 
+Turn ID=18| A | B : and then i have , uh , a three eighty-six f x a sixteen bit machine , at home .
+	Free: Pattern=, uh, Pattern=a, Pattern=and, Pattern=i, Pattern=uh ,
+	Constrained: Pattern=uh
 Turn ID=19| B | M : uh-huh .
 	Free: 
 	Constrained: 
 Turn ID=20| A | B : and i'm really pleased with it .
-	Free: Pattern=it ., Pattern=really, Pattern=and, Pattern=with
+	Free: Pattern=it ., Pattern=and, Pattern=really, Pattern=with
 	Constrained: Pattern=it
 Turn ID=21| B | M : i bet .
 	Free: Pattern=i
 	Constrained: 
-Turn ID=22| A | B : it manages to take care of all my home needs in terms of word processing and spreadsheets and uh databases database searches .
-	Free: Pattern=of, Pattern=uh, Pattern=to, Pattern=it, Pattern=and
-	Constrained: 
-Turn ID=23| B | M : oh yeah . uh-hue .
+Turn ID=22| A | B : it manages to take care of all my home needs in terms of word processing and spreadsheets and , uh , databases , database searches .
+	Free: Pattern=of, Pattern=, uh, Pattern=and ,, Pattern=uh ,, Pattern=to, Pattern=it, Pattern=and
+	Constrained: Pattern=and, Pattern=uh
+Turn ID=23| B | M : oh , yeah . uh-hue .
 	Free: 
 	Constrained: 
-Turn ID=24| A | B : uh what i've gotten into more recently are the tools to use them . have you
-	Free: Pattern=are, Pattern=the, Pattern=to, Pattern=you, Pattern=uh
-	Constrained: 
+Turn ID=24| A | B : uh , what i've gotten into more recently are the tools to use them . have you ,
+	Free: Pattern=you, Pattern=are, Pattern=to, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=uh
 Turn ID=25| B | M : uh .
 	Free: Pattern=uh
 	Constrained: 
 Turn ID=26| A | B : to try to make them more effective and useful .
 	Free: Pattern=to, Pattern=and
 	Constrained: 
-Turn ID=27| B | M : yeah and i know a lot of people who are very very against it .
-	Free: Pattern=and i, Pattern=of, Pattern=it ., Pattern=i know, Pattern=are, Pattern=very, Pattern=who, Pattern=a
-	Constrained: Pattern=know, Pattern=it, Pattern=i, Pattern=and
-Turn ID=28| A | B : have you been uh struggling along those lines ?
-	Free: Pattern=you, Pattern=uh
-	Constrained: 
-Turn ID=29| B | M : no i haven't .
-	Free: Pattern=i, Pattern=no
-	Constrained: 
-Turn ID=30| A | B : well i think you will be real pleased to get away from the banana as i used to call it . it's uh i used it on uh some other machines in days gone by and was real pleased to leave it . it was a real memory hog when you started making large blot changes to it .
-	Free: Pattern=it was, Pattern=a, Pattern=i, Pattern=the, Pattern=was, Pattern=it's, Pattern=i think, Pattern=you, Pattern=uh, Pattern=it ., Pattern=it, Pattern=and, Pattern=uh i, Pattern=to
-	Constrained: Pattern=uh, Pattern=it, Pattern=think, Pattern=i, Pattern=was
+Turn ID=27| B | M : yeah , and i know a lot of people who are very , very against it .
+	Free: Pattern=and i, Pattern=of, Pattern=it ., Pattern=i know, Pattern=are, Pattern=very, Pattern=, and, Pattern=who, Pattern=a
+	Constrained: Pattern=it, Pattern=and, Pattern=i, Pattern=know
+Turn ID=28| A | B : have you been , uh , struggling along those lines ?
+	Free: Pattern=, uh, Pattern=uh ,, Pattern=you
+	Constrained: Pattern=uh
+Turn ID=29| B | M : no , i haven't .
+	Free: Pattern=, i, Pattern=no
+	Constrained: Pattern=i
+Turn ID=30| A | B : well , i think you will be real pleased to get away from the banana as i used to call it . it's , uh , i used it on , uh , some other machines in days gone by and was real pleased to leave it . it was a real memory hog when you started making large blot changes to it .
+	Free: Pattern=it was, Pattern=a, Pattern=, i think, Pattern=i, Pattern=to, Pattern=was, Pattern=it's, Pattern=you, Pattern=, uh, Pattern=it ., Pattern=it, Pattern=and, Pattern=uh ,, Pattern=the, Pattern=, i
+	Constrained: Pattern=uh, Pattern=it, Pattern=think, Pattern=i, Pattern=, i, Pattern=was, Pattern=i think
 Turn ID=31| B | M : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=32| A | B : the at least the version i had tended to keep copies of that . of what you were changing and deleting off in memory until all of all of a sudden you got a disc full error . not a fun thing to try to recover from .
+Turn ID=32| A | B : the , at least the version i had tended to keep copies of that . of what you were changing and deleting off in memory until all of , all of a sudden you got a disc full error . not a fun thing to try to recover from .
 	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=and, Pattern=i, Pattern=the, Pattern=to
 	Constrained: 
 Turn ID=33| B | M : yeah .
 	Free: 
 	Constrained: 
-Turn ID=34| A | B : very frustrating . uh but again i've been dealing with large files both data and and otherwise . uh that was a engineering spec on b two . you come here with the b level of specs ?
-	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=very, Pattern=the, Pattern=was, Pattern=with, Pattern=you, Pattern=uh
-	Constrained: 
-Turn ID=35| B | M : uh yeah .
-	Free: Pattern=uh
-	Constrained: 
-Turn ID=36| A | B : well it's just a huge file that tries to describe the requirements of what you're trying to build . uh to one level down from assistant description .
-	Free: Pattern=of, Pattern=uh, Pattern=it's just, Pattern=a, Pattern=one, Pattern=the, Pattern=to
-	Constrained: Pattern=just, Pattern=it's
+Turn ID=34| A | B : very frustrating . uh , but again i've been dealing with large files both data and , and otherwise . uh , that was a engineering spec on b two . you come here with the b level of specs ?
+	Free: Pattern=of, Pattern=you, Pattern=and ,, Pattern=a, Pattern=very, Pattern=, and, Pattern=was, Pattern=with, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=and, Pattern=uh
+Turn ID=35| B | M : uh , yeah .
+	Free: Pattern=uh ,
+	Constrained: Pattern=uh
+Turn ID=36| A | B : well , it's just a huge file that tries to describe the requirements of what you're trying to build . uh , to one level down from assistant description .
+	Free: Pattern=of, Pattern=it's just, Pattern=a, Pattern=one, Pattern=to, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=just, Pattern=it's, Pattern=uh
 Turn ID=37| B | M : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=38| A | B : well i sure need them . uh there's no way that i could begin to process and keep up with the kinds of information or the magnitude of information that i need to to try to do my job without them .
-	Free: Pattern=of, Pattern=uh, Pattern=no, Pattern=and, Pattern=i, Pattern=the, Pattern=to, Pattern=with
-	Constrained: 
+Turn ID=38| A | B : well , i sure need them . uh , there's no way that i could begin to process and keep up with the kinds of information or the magnitude of information that i need to , to try to do my job without them .
+	Free: Pattern=of, Pattern=no, Pattern=and, Pattern=i, Pattern=to, Pattern=with, Pattern=uh ,, Pattern=the, Pattern=, i
+	Constrained: Pattern=i, Pattern=uh
 Turn ID=39| B | M : yeah .
 	Free: 
 	Constrained: 
-Turn ID=40| A | B : yes uh maybe you'll play around some and figure out how they can help you do different things . i think that's when you you start deciding that you really need greater assets than you already have . when you start seeing what all they can do for you .
-	Free: Pattern=you ., Pattern=and, Pattern=. i think, Pattern=really, Pattern=i think that's, Pattern=you, Pattern=uh, Pattern=out
-	Constrained: Pattern=you, Pattern=. i, Pattern=think, Pattern=i, Pattern=that's, Pattern=i think
+Turn ID=40| A | B : yes , uh , maybe you'll play around some and figure out how they can help you do different things . i think that's when you , you start deciding that you really need greater assets than you already have . when you start seeing what all they can do for you .
+	Free: Pattern=you ., Pattern=and, Pattern=. i think, Pattern=really, Pattern=uh ,, Pattern=i think that's, Pattern=you, Pattern=out, Pattern=, uh
+	Constrained: Pattern=. i, Pattern=think, Pattern=i, Pattern=that's, Pattern=i think, Pattern=you, Pattern=uh
 Turn ID=41| B | M : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=42| A | B : well i understand that you know . if needs and wants were the same i'd have a four eighty-six machine at home
-	Free: Pattern=you, Pattern=a, Pattern=and, Pattern=know, Pattern=i, Pattern=the
-	Constrained: 
+Turn ID=42| A | B : well , i understand that you know . if , needs and wants were the same i'd have a four eighty-six machine at home
+	Free: Pattern=you, Pattern=a, Pattern=and, Pattern=know, Pattern=the, Pattern=, i
+	Constrained: Pattern=i
 Turn ID=43| B | M : uh-huh .
 	Free: 
 	Constrained: 
 Turn ID=44| A | B : right .
 	Free: Pattern=right .
 	Constrained: 
-Turn ID=45| B | M : and uh-huh .
-	Free: Pattern=and
-	Constrained: 
-Turn ID=46| A | B : uh that's came out around the first of the year .
-	Free: Pattern=uh, Pattern=came out, Pattern=of the, Pattern=that's, Pattern=the
-	Constrained: Pattern=the, Pattern=out, Pattern=of
-Turn ID=47| B | M : yeah i was going to say it came out with a lot of stuff .
-	Free: Pattern=i was, Pattern=of, Pattern=with a, Pattern=it, Pattern=came out, Pattern=to
-	Constrained: Pattern=out, Pattern=a, Pattern=i, Pattern=was, Pattern=with
-Turn ID=48| A | B : it does a few more things uh than had been available before .
-	Free: Pattern=uh, Pattern=it, Pattern=a
-	Constrained: 
+Turn ID=45| B | M : and , uh-huh .
+	Free: Pattern=and ,
+	Constrained: Pattern=and
+Turn ID=46| A | B : uh , that's , came out around the first of the year .
+	Free: Pattern=came out, Pattern=of the, Pattern=uh ,, Pattern=that's, Pattern=the
+	Constrained: Pattern=out, Pattern=of, Pattern=the, Pattern=uh
+Turn ID=47| B | M : yeah , i was going to say , it came out with a lot of stuff .
+	Free: Pattern=, it, Pattern=of, Pattern=with a, Pattern=, i was, Pattern=came out, Pattern=to
+	Constrained: Pattern=out, Pattern=a, Pattern=it, Pattern=i, Pattern=, i, Pattern=was, Pattern=with
+Turn ID=48| A | B : it does a few more things , uh , than had been available before .
+	Free: Pattern=, uh, Pattern=uh ,, Pattern=it, Pattern=a
+	Constrained: Pattern=uh
 Turn ID=49| B | M : yeah .
 	Free: 
 	Constrained: 
-Turn ID=50| A | B : but i'm not sure that it's such a massive improvement . uh you know once you get passed thirty-three megahertz all help is kind of lost in the in the translation . because you no longer can think that fast anyway .
-	Free: Pattern=of, Pattern=no, Pattern=a, Pattern=think, Pattern=know, Pattern=the, Pattern=it's, Pattern=you, Pattern=uh
-	Constrained: 
-Turn ID=51| B | M : yeah i don't know i think that's one of the big problems with with american cars . i think i it seems like uh i think it's just too too expensive .
-	Free: Pattern=i think that's, Pattern=it's just, Pattern=it, Pattern=one, Pattern=. i think, Pattern=know, Pattern=i, Pattern=uh i, Pattern=i think, Pattern=with, Pattern=of the
-	Constrained: Pattern=of, Pattern=uh, Pattern=just, Pattern=. i, Pattern=think, Pattern=i, Pattern=it's, Pattern=i think, Pattern=that's, Pattern=the
-Turn ID=52| A | B : well okay . i enjoyed our discussion .
+Turn ID=50| A | B : but i'm not sure that it's such a massive improvement . uh , you know , once you get passed thirty-three megahertz , all help is , kind of lost in the , in the translation . because you no longer can think that fast anyway .
+	Free: Pattern=you, Pattern=no, Pattern=a, Pattern=think, Pattern=it's, Pattern=of, Pattern=know ,, Pattern=uh ,, Pattern=the
+	Constrained: Pattern=know, Pattern=uh
+Turn ID=51| B | M : yeah , i don't know , i think that's one of the big problems with , with american cars . i think , i , it seems like , uh i think it's just too , too expensive .
+	Free: Pattern=, it, Pattern=know ,, Pattern=it's just, Pattern=, i think, Pattern=one, Pattern=. i think, Pattern=, i, Pattern=i think, Pattern=i think that's, Pattern=, uh, Pattern=with, Pattern=of the
+	Constrained: Pattern=of, Pattern=uh, Pattern=just, Pattern=it, Pattern=. i, Pattern=think, Pattern=know, Pattern=i, Pattern=it's, Pattern=i think, Pattern=that's, Pattern=the, Pattern=, i
+Turn ID=52| A | B : well , okay . i enjoyed our discussion .
 	Free: Pattern=. i
 	Constrained: Pattern=i
-Turn ID=53| B | M : yeah it was nice talking to you .
-	Free: Pattern=you ., Pattern=it was, Pattern=to
-	Constrained: Pattern=was, Pattern=you, Pattern=it
+Turn ID=53| B | M : yeah , it was nice talking to you .
+	Free: Pattern=, it, Pattern=it was, Pattern=you ., Pattern=to
+	Constrained: Pattern=it, Pattern=you, Pattern=was
 Turn ID=54| A | B : you do the same .
 	Free: Pattern=you, Pattern=the
 	Constrained: 

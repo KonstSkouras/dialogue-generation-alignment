@@ -1,17 +1,31 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	i don't know ,	43	M	38, 80
 4	3	a cat .	91	M	0, 10, 82, 90
-2	3	a cat and	3	M	88, 90
+2	3	, a cat	9	M	82, 90
+2	3	, i don't	11	M	106, 116
+2	3	, yeah ,	29	M	100, 128
+2	3	, you're not	15	M	124, 138
 2	3	gonna be a	47	M	98, 144
-2	3	i don't know	43	M	38, 80
 2	3	i don't think	3	M	8, 10
 2	3	i have a	11	M	88, 98
 2	3	i'm a cat	97	M	10, 106
+2	3	yeah , it	3	M	128, 130
+2	3	you know ,	37	M	102, 138
 7	2	a cat	107	M	0, 10, 28, 82, 88, 90, 106
+6	2	, i	75	M	66, 76, 106, 116, 126, 140
 6	2	i don't	109	M	8, 10, 38, 80, 106, 116
+6	2	yeah ,	101	M	40, 48, 100, 128, 130, 140
 5	2	i'm not	119	M	2, 4, 12, 28, 120
 5	2	you know	103	M	36, 38, 86, 102, 138
 4	2	have a	53	M	70, 88, 98, 122
 4	2	i have	75	M	32, 88, 98, 106
+3	2	, it	105	M	26, 128, 130
+3	2	, the	43	M	76, 110, 118
+3	2	no ,	19	M	66, 72, 84
+3	2	oh ,	29	M	100, 126, 128
+2	2	, and	13	M	78, 90
+2	2	, i'm	79	M	28, 106
+2	2	, it's	47	M	26, 72
 2	2	a fish	3	M	70, 72
 2	2	and they're	71	M	78, 148
 2	2	are they	11	M	136, 146
@@ -25,15 +39,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	in the	95	M	30, 124
 2	2	it was	95	M	36, 130
 2	2	it's a	47	M	72, 118
-2	2	know how	49	M	38, 86
 2	2	not .	39	M	4, 42
 2	2	the fish	15	M	62, 76
 2	2	they are	55	M	58, 112
 2	2	think i'm	135	M	10, 144
 2	2	used to	29	M	2, 30
-2	2	yeah it	3	M	128, 130
-2	2	you '	11	M	14, 24
-2	2	you're not	15	M	124, 138
+2	2	well ,	31	M	46, 76
 22	1	i	145	M	0, 8, 10, 32, 34, 38, 52, 56, 64, 66, 76, 80, 86, 88, 98, 106, 110, 116, 126, 132, 140, 144
 17	1	a	145	M	0, 10, 28, 34, 68, 70, 72, 76, 82, 88, 90, 98, 106, 118, 122, 124, 144
 11	1	not	137	M	2, 4, 12, 28, 42, 84, 86, 102, 120, 124, 138
@@ -48,7 +59,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	and	119	M	30, 54, 78, 88, 90, 148
 6	1	are	141	M	6, 58, 112, 124, 136, 146
 6	1	was	99	M	34, 36, 68, 76, 130, 132
-6	1	yeah	101	M	40, 48, 100, 128, 130, 140
 5	1	it's	93	M	26, 72, 86, 108, 118
 5	1	think	137	M	8, 10, 56, 80, 144
 5	1	to	85	M	2, 30, 32, 80, 86
@@ -61,7 +71,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	cats	135	M	2, 106, 136
 3	1	he	67	M	68, 88, 134
 3	1	how	51	M	36, 38, 86
-3	1	no	19	M	66, 72, 84
 3	1	that's	49	M	84, 120, 132
 2	1	around	27	M	2, 28
 2	1	but	45	M	36, 80
@@ -82,5 +91,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	then	7	M	30, 36
 2	1	they're	71	M	78, 148
 2	1	we	17	M	30, 46
-2	1	well	31	M	46, 76
 

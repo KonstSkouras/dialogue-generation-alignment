@@ -1,12 +1,19 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	4	, you know ,	17	B	15, 21, 31
 2	4	a lot of people	19	B	5, 23
-2	3	oh okay .	31	B	9, 39
+2	4	oh , okay .	31	B	9, 39
+3	3	you know ,	17	B	15, 21, 31
+2	3	it would ,	9	B	23, 31
+2	3	they , they	5	B	21, 25
 2	3	we take them	15	B	1, 15
+2	3	would , would	7	B	23, 29
 5	2	yeah .	51	B	5, 13, 47, 49, 55
+4	2	, we	19	B	1, 15, 17, 19
 4	2	okay .	51	B	9, 39, 57, 59
 4	2	to do	19	B	9, 19, 23, 27
 4	2	uh-huh .	43	B	3, 11, 33, 45
-3	2	you know	17	B	15, 21, 31
+3	2	oh ,	31	B	9, 35, 39
+2	2	, they	5	B	21, 25
 2	2	. and	19	B	5, 23
 2	2	and then	15	B	15, 29
 2	2	be recycled	31	B	1, 31
@@ -19,10 +26,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	not sort	7	B	23, 29
 2	2	supposed to	3	B	7, 9
 2	2	take them	15	B	1, 15
+2	2	them ,	17	B	15, 31
 2	2	them .	5	B	5, 9
-2	2	they they	5	B	21, 25
-2	2	would would	7	B	23, 29
-2	2	yeah that's	17	B	35, 51
+2	2	to ,	23	B	31, 53
+2	2	um ,	37	B	17, 53
+2	2	yeah ,	35	B	17, 51
 11	1	to	53	B	1, 7, 9, 19, 23, 25, 27, 29, 31, 43, 53
 8	1	yeah	51	B	5, 13, 17, 35, 47, 49, 51, 55
 7	1	a	27	B	1, 5, 15, 21, 23, 25, 27
@@ -46,7 +54,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	if	31	B	23, 31, 53
 3	1	like	43	B	1, 21, 43
 3	1	not	25	B	5, 23, 29
-3	1	oh	31	B	9, 35, 39
 3	1	people	25	B	5, 23, 29
 3	1	sort	9	B	23, 29, 31
 3	1	then	17	B	15, 29, 31
@@ -61,8 +68,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	just	23	B	31, 53
 2	1	now	31	B	23, 53
 2	1	stuff	31	B	1, 31
+2	1	that's	17	B	35, 51
 2	1	trash	5	B	25, 29
-2	1	um	37	B	17, 53
 2	1	up	3	B	21, 23
 2	1	usually	39	B	15, 53
 2	1	were	37	B	25, 61

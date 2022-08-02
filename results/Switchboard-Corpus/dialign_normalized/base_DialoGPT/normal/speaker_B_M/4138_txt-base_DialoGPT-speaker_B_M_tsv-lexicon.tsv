@@ -1,11 +1,15 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
+13	13	3	, uh ,	3	27	2	B	0, 2, 3, 6, 8, 10, 12, 14, 16, 18, 20, 23, 26
+14	4	2	uh ,	3	27	2	B	0, 2, 3, 4, 6, 8, 10, 12, 14, 16, 18, 20, 23, 26
 4	4	2	i think	11	13	2	B	0, 10, 11, 12
 4	4	2	taxes .	9	19	1	B	8, 9, 24, 26
+2	2	2	, i'm	28	8	1	M	21, 28
+2	2	2	, there's	23	4	1	B	20, 23
+2	2	2	, what	31	6	1	B	26, 31
 2	2	2	of money	13	12	1	B	2, 13
 2	2	2	travel expenses	15	2	1	B	14, 15
 2	2	2	we don't	9	2	1	B	8, 9
 2	2	2	you make	13	4	1	B	10, 13
-14	14	1	uh	3	27	2	B	0, 2, 3, 4, 6, 8, 10, 12, 14, 16, 18, 20, 23, 26
 9	8	1	you	13	21	1	B	10, 13, 18, 20, 22, 24, 26, 27, 30
 8	8	1	a	11	27	3	B	0, 6, 8, 11, 12, 20, 21, 26
 8	5	1	i	3	17	1	B	0, 3, 7, 10, 11, 12, 14, 16
@@ -17,16 +21,16 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 6	2	1	think	11	31	3	B	0, 8, 10, 11, 12, 30
 5	4	1	of	13	20	2	B	2, 8, 13, 20, 21
 5	5	1	on	11	29	1	B	2, 11, 14, 18, 30
-5	5	1	what	13	32	2	B	0, 10, 13, 26, 31
+5	3	1	what	13	32	2	B	0, 10, 13, 26, 31
 4	3	1	make	13	19	1	B	10, 13, 26, 28
 4	2	1	money	13	25	2	B	2, 10, 13, 26
 3	3	1	amount	13	8	2	B	6, 12, 13
 3	3	1	an	23	19	1	B	12, 23, 30
 3	3	1	do	11	23	1	B	8, 11, 30
-3	3	1	i'm	28	20	2	M	9, 21, 28
+3	1	1	i'm	28	20	2	M	9, 21, 28
 3	3	1	income	11	17	1	B	10, 11, 26
 3	3	1	just	11	21	1	B	6, 11, 26
-3	3	1	there's	23	6	2	B	18, 20, 23
+3	2	1	there's	23	6	2	B	18, 20, 23
 3	3	1	yeah	26	6	2	M	21, 23, 26
 2	2	1	here's	31	4	1	B	28, 31
 2	2	1	is	26	14	1	M	13, 26

@@ -1,10 +1,24 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, yeah , i	23	M	63, 85
+2	4	oh , uh ,	21	M	51, 71
+6	3	, uh ,	72	M	37, 51, 67, 71, 73, 108
+2	3	, and i	17	M	73, 89
+2	3	, but i	33	M	57, 89
+2	3	, uh ...	7	M	67, 73
 2	3	what are you	91	M	5, 95
+2	3	you know ,	94	M	15, 108
+5	2	, but	59	M	31, 57, 61, 83, 89
+5	2	, i	57	M	29, 57, 63, 83, 85
+4	2	oh ,	35	M	51, 63, 71, 85
+4	2	well ,	43	M	57, 63, 69, 99
+3	2	, not	88	M	21, 81, 108
 3	2	are you	91	M	5, 49, 95
-3	2	but i	33	M	57, 83, 89
 3	2	i don't	15	M	75, 83, 89
 3	2	i think	79	M	11, 31, 89
-2	2	and i	17	M	73, 89
+3	2	you ,	61	M	5, 57, 65
+2	2	, he	49	M	53, 101
+2	2	, he's	8	M	101, 108
+2	2	are ,	53	M	37, 89
 2	2	do you	11	M	55, 65
 2	2	going to	71	M	25, 95
 2	2	have a	47	M	45, 91
@@ -15,18 +29,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	if the	75	M	25, 99
 2	2	it .	17	M	79, 95
 2	2	it was	43	M	29, 71
+2	2	like ,	104	M	5, 108
 2	2	not the	41	M	21, 61
 2	2	of them	11	M	89, 99
-2	2	oh uh	21	M	51, 71
 2	2	that ?	19	M	33, 51
 2	2	that was	17	M	7, 23
 2	2	that's a	73	M	9, 81
-2	2	uh ...	7	M	67, 73
+2	2	uhh ,	51	M	45, 95
 2	2	um .	41	M	35, 75
-2	2	yeah i	23	M	63, 85
 2	2	you ?	25	M	31, 55
-2	2	you know	94	M	15, 108
-2	2	you like	75	M	5, 79
 15	1	you	104	M	5, 7, 15, 31, 43, 49, 55, 57, 65, 79, 83, 95, 97, 107, 108
 14	1	a	97	M	5, 9, 11, 15, 23, 31, 45, 69, 73, 81, 89, 91, 99, 101
 13	1	i	91	M	3, 11, 29, 31, 57, 59, 63, 73, 75, 83, 85, 89, 93
@@ -37,10 +48,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	not	88	M	21, 25, 61, 81, 93, 108
 6	1	that's	73	M	9, 21, 27, 59, 63, 81
 6	1	to	73	M	25, 45, 91, 93, 95, 97
-6	1	uh	72	M	37, 51, 67, 71, 73, 108
 6	1	what	91	M	5, 23, 31, 33, 59, 95
-5	1	are	91	M	5, 37, 49, 89, 95
-5	1	but	59	M	31, 57, 61, 83, 89
 5	1	can	99	M	3, 45, 57, 99, 101
 5	1	do	47	M	55, 65, 75, 95, 101
 5	1	of	79	M	21, 25, 45, 89, 99
@@ -53,10 +61,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	know	94	M	15, 85, 89, 108
 4	1	like	104	M	5, 79, 89, 108
 4	1	think	79	M	11, 31, 83, 89
-4	1	well	43	M	57, 63, 69, 99
 3	1	about	67	M	31, 95, 97
 3	1	have	47	M	45, 65, 91
-3	1	he's	98	M	11, 101, 108
 3	1	just	65	M	23, 45, 87
 3	1	really	82	M	27, 107, 108
 3	1	so	25	M	79, 97, 103

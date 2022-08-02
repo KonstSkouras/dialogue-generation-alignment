@@ -1,8 +1,9 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	3	, i've seen	9	M	1, 9
+2	2	, and	9	M	19, 27
 2	2	have been	21	M	27, 47
 2	2	i have	7	M	21, 27
 2	2	i think	3	M	25, 27
-2	2	i've seen	9	M	1, 9
 2	2	you know	7	M	3, 9
 6	1	i	13	M	21, 23, 25, 27, 29, 33
 4	1	have	47	M	1, 21, 27, 47
@@ -12,7 +13,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	i've	27	M	1, 9, 27
 3	1	know	21	M	3, 9, 23
 2	1	about	15	M	7, 21
-2	1	and	9	M	19, 27
 2	1	been	21	M	27, 47
 2	1	i'm	27	M	13, 39
 2	1	in	15	M	25, 39

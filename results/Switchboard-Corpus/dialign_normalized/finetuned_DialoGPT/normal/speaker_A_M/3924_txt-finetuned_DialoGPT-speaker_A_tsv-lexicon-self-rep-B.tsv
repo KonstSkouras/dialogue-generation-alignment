@@ -1,40 +1,52 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, i , i agree	7	M	11, 17
+2	5	, i don , i	23	M	25, 47
+2	5	, i think that ,	31	M	17, 47
+2	4	, i mean ,	3	M	45, 47
+2	4	think that , uh	7	M	11, 17
+4	3	that , uh	37	M	11, 17, 19, 47
+3	3	, i think	37	M	11, 17, 47
+3	3	, you don't	19	M	29, 45, 47
+3	3	i mean ,	19	M	29, 45, 47
+2	3	, uh ,	9	M	47, 55
+2	3	, uh .	17	M	19, 35
+2	3	, you just	13	M	33, 45
 2	3	don't know what	21	M	25, 45
-2	3	i don i	23	M	25, 47
-2	3	i i agree	7	M	11, 17
-2	3	i think that	31	M	17, 47
-2	3	think that uh	7	M	11, 17
+2	3	i think ,	7	M	11, 17
+2	3	uh , i	3	M	17, 19
+2	3	well , i	37	M	11, 47
+2	3	yeah , i	29	M	17, 45
 2	3	you have to	13	M	17, 29
+6	2	, i	37	M	11, 17, 19, 25, 45, 47
+6	2	, uh	45	M	11, 17, 19, 35, 47, 55
+5	2	, you	31	M	17, 29, 33, 45, 47
 5	2	uh-huh .	49	M	1, 13, 31, 37, 49
 5	2	yeah .	45	M	9, 21, 27, 43, 53
 4	2	have to	31	M	17, 29, 33, 47
-4	2	that uh	37	M	11, 17, 19, 47
-3	2	i mean	19	M	29, 45, 47
-3	2	i think	37	M	11, 17, 47
+4	2	that ,	37	M	11, 17, 19, 47
+4	2	uh ,	39	M	17, 19, 47, 55
+4	2	well ,	37	M	11, 39, 45, 47
 3	2	right .	35	M	7, 39, 41
 3	2	uh .	33	M	3, 19, 35
-3	2	you don't	19	M	29, 45, 47
-2	2	and you	5	M	29, 33
+2	2	, a	27	M	29, 55
+2	2	, that	31	M	17, 47
+2	2	, that's	31	M	17, 47
+2	2	and ,	23	M	33, 55
 2	2	going to	43	M	15, 57
 2	2	i'm not	11	M	15, 25
 2	2	just have	23	M	33, 55
-2	2	know that	3	M	17, 19
-2	2	that that's	3	M	15, 17
-2	2	uh i	3	M	17, 19
-2	2	well i	37	M	11, 47
-2	2	yeah i	29	M	17, 45
+2	2	you ,	19	M	11, 29
 2	2	you can	23	M	33, 55
 2	2	you can't	17	M	29, 45
-2	2	you just	13	M	33, 45
 2	2	you know	31	M	17, 47
 9	1	and	43	M	15, 17, 29, 33, 45, 47, 51, 55, 57
 8	1	i	41	M	11, 17, 19, 25, 29, 45, 47, 51
 8	1	that	47	M	11, 15, 17, 19, 23, 47, 51, 57
 8	1	yeah	45	M	9, 17, 21, 27, 43, 45, 51, 53
 8	1	you	45	M	11, 17, 29, 33, 45, 47, 51, 55
-7	1	uh	53	M	3, 11, 17, 19, 35, 47, 55
 6	1	have	39	M	17, 29, 33, 47, 51, 55
 6	1	to	43	M	15, 17, 29, 33, 47, 57
+5	1	know	31	M	17, 19, 25, 45, 47
 5	1	the	41	M	17, 25, 29, 47, 57
 5	1	well	41	M	11, 39, 45, 47, 51
 4	1	just	27	M	29, 33, 45, 55

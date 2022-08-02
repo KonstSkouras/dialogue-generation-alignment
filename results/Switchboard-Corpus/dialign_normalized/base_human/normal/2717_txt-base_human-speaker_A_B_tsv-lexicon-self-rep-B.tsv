@@ -1,11 +1,25 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, you know , you	9	B	75, 83
 2	5	with no chance of parole	3	B	39, 41
+9	4	, you know ,	77	B	7, 19, 27, 37, 39, 47, 75, 81, 83
+2	4	, the , the	7	B	37, 43
 2	4	going to put them	3	B	37, 39
+2	4	i mean , i	43	B	39, 81
 2	4	so many of the	13	B	25, 37
 2	4	the kind of people	49	B	37, 85
 2	4	to walk the streets	43	B	39, 81
 2	4	uh-huh . yeah .	69	B	13, 81
-2	3	i mean i	43	B	39, 81
+4	3	the , the	39	B	37, 43, 71, 75
+3	3	, uh ,	25	B	17, 27, 41
+2	3	, i ,	33	B	7, 39
+2	3	, i don't	23	B	17, 39
+2	3	, i think	31	B	7, 37
+2	3	, it's not	57	B	25, 81
+2	3	, um ,	37	B	7, 43
+2	3	, well ,	75	B	1, 75
+2	3	. uh ,	21	B	17, 37
+2	3	and , and	5	B	43, 47
+2	3	i , i	33	B	7, 39
 2	3	out the truth	3	B	45, 47
 2	3	the death penalty	41	B	41, 81
 2	3	the people that	59	B	25, 83
@@ -13,30 +27,45 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	what do i	33	B	43, 75
 2	3	yeah . uh-huh	7	B	7, 13
 2	3	yeah . well	57	B	25, 81
-2	3	you know you	9	B	75, 83
 10	2	uh-huh .	83	B	5, 9, 13, 51, 59, 67, 69, 73, 81, 87
 10	2	yeah .	79	B	3, 7, 13, 15, 25, 29, 35, 57, 61, 81
-9	2	you know	77	B	7, 19, 27, 37, 39, 47, 75, 81, 83
+9	2	, you	77	B	7, 19, 27, 37, 39, 47, 75, 81, 83
+6	2	, i	75	B	7, 17, 31, 37, 39, 81
+6	2	, well	75	B	1, 7, 19, 37, 39, 75
+5	2	, but	57	B	25, 37, 39, 75, 81
+5	2	, the	39	B	37, 39, 43, 71, 75
 5	2	i don't	85	B	1, 17, 39, 43, 85
-4	2	and so	59	B	27, 37, 55, 85
+5	2	yeah ,	65	B	11, 37, 43, 71, 75
+4	2	, and	69	B	7, 43, 47, 75
 4	2	going to	47	B	37, 39, 55, 83
 4	2	i think	39	B	7, 25, 37, 45
-4	2	the the	39	B	37, 43, 71, 75
+3	2	, it's	57	B	25, 39, 81
 3	2	. well	57	B	25, 39, 81
+3	2	and ,	13	B	43, 47, 55
+3	2	and so	59	B	27, 37, 85
 3	2	and that	35	B	47, 77, 81
+3	2	i ,	71	B	7, 39, 77
 3	2	it was	25	B	7, 17, 31
 3	2	it's not	57	B	25, 43, 81
 3	2	kind of	49	B	37, 77, 85
 3	2	of the	13	B	25, 27, 37
 3	2	out the	47	B	1, 45, 47
-2	2	. uh	21	B	17, 37
+2	2	, because	15	B	39, 53
+2	2	, it	3	B	17, 19
+2	2	, not	11	B	37, 47
+2	2	, or	21	B	7, 27
+2	2	, so	49	B	7, 55
+2	2	, that	23	B	17, 39
+2	2	, these	5	B	81, 85
+2	2	, we	39	B	47, 85
+2	2	, what	21	B	43, 63
 2	2	about a	35	B	43, 77
-2	2	and and	5	B	43, 47
 2	2	are the	3	B	83, 85
 2	2	have to	33	B	43, 75
 2	2	i guess	45	B	31, 75
-2	2	i i	33	B	7, 39
 2	2	in the	11	B	7, 17
+2	2	is ,	57	B	19, 75
+2	2	it ,	61	B	21, 81
 2	2	last year	25	B	7, 31
 2	2	life .	7	B	77, 83
 2	2	make a	9	B	19, 27
@@ -45,18 +74,24 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	on what	5	B	43, 47
 2	2	or not	65	B	19, 83
 2	2	our society	49	B	37, 85
+2	2	people ,	29	B	53, 81
+2	2	say ,	5	B	37, 41
+2	2	so ,	15	B	27, 41
 2	2	so i	79	B	7, 85
 2	2	so much	65	B	17, 81
 2	2	sort of	45	B	37, 81
+2	2	that ,	9	B	75, 83
 2	2	that i	77	B	1, 77
 2	2	that way	9	B	39, 47
 2	2	the penalty	71	B	1, 71
 2	2	the people	59	B	25, 83
 2	2	the thing	39	B	43, 81
 2	2	the verdict	9	B	63, 71
+2	2	them ,	13	B	27, 39
 2	2	them to	3	B	37, 39
 2	2	they don't	3	B	25, 27
 2	2	thing .	7	B	75, 81
+2	2	think ,	19	B	19, 37
 2	2	think it	13	B	7, 19
 2	2	to death	47	B	37, 83
 2	2	to get	31	B	55, 85
@@ -67,7 +102,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	you think	21	B	19, 39
 20	1	the	85	B	1, 7, 15, 17, 19, 25, 27, 37, 39, 41, 43, 45, 47, 53, 63, 71, 75, 81, 83, 85
 15	1	uh-huh	83	B	5, 7, 9, 13, 23, 33, 49, 51, 59, 67, 69, 73, 79, 81, 87
-15	1	yeah	79	B	3, 7, 11, 13, 15, 25, 29, 35, 37, 43, 57, 61, 71, 75, 81
 13	1	and	85	B	1, 7, 27, 37, 43, 45, 47, 55, 75, 77, 81, 83, 85
 13	1	i	85	B	1, 7, 17, 25, 31, 37, 39, 43, 45, 75, 77, 81, 85
 12	1	that	83	B	1, 11, 17, 25, 39, 41, 43, 47, 75, 77, 81, 83
@@ -109,7 +143,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	or	77	B	7, 19, 27, 83
 4	1	really	77	B	7, 47, 75, 83
 4	1	say	85	B	1, 37, 41, 85
-4	1	uh	25	B	17, 27, 37, 41
 3	1	about	39	B	43, 77, 81
 3	1	do	57	B	19, 43, 75
 3	1	from	65	B	7, 37, 71
@@ -157,7 +190,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	should	7	B	39, 45
 2	1	than	39	B	7, 45
 2	1	then	37	B	39, 75
-2	1	um	37	B	7, 43
 2	1	very	27	B	1, 27
 2	1	where	23	B	15, 37
 2	1	whether	65	B	19, 83

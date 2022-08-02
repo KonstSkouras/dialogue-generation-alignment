@@ -1,121 +1,173 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	and i like uh	9	B	55, 63
-2	4	but it's it's got	3	B	69, 71
-2	4	i like a lot	7	B	29, 35
-2	4	i like classical music	27	B	29, 55
-2	4	like i like uh	29	B	35, 63
-2	4	you know if you	89	B	27, 115
-2	4	you're not going to	5	B	115, 119
-3	3	. i i	11	B	61, 67, 71
+2	6	, i like a lot ,	7	B	29, 35
+2	6	and i like , uh ,	9	B	55, 63
+3	5	i like , uh ,	29	B	35, 55, 63
+2	5	, but , uh ,	17	B	29, 45
+2	5	, i like classical music	27	B	29, 55
+2	5	, it's , it's got	3	B	69, 71
+2	5	, uh , i like	39	B	29, 67
+2	5	, uh , uh ,	29	B	35, 63
+2	5	, you know , not	7	B	113, 119
+2	5	, you're not going to	5	B	115, 119
+2	5	it , you know ,	71	B	45, 115
+2	5	you know , if you	89	B	27, 115
+12	4	, you know ,	107	B	13, 27, 29, 43, 45, 71, 87, 95, 113, 115, 117, 119
+4	4	and , uh ,	49	B	45, 57, 67, 93
+4	4	but , uh ,	87	B	29, 45, 61, 115
+4	4	like , uh ,	37	B	35, 55, 63, 71
+3	4	and i like ,	9	B	55, 61, 63
+3	4	i , i like	57	B	11, 55, 67
+3	4	oh , okay .	7	B	79, 83, 85
+3	4	yeah , i like	33	B	35, 65, 67
+2	4	, but i don't	41	B	55, 95
+2	4	, i , i	19	B	11, 29
+2	4	, it's , it's	3	B	69, 71
+2	4	. i , i	5	B	67, 71
+2	4	. you know ,	45	B	71, 115
+2	4	i , i don't	43	B	29, 71
+2	4	it's , it's got	3	B	69, 71
+2	4	oh , uh-huh .	87	B	11, 97
+2	4	you know , it	27	B	45, 71
+13	3	, you know	107	B	13, 15, 27, 29, 43, 45, 71, 87, 95, 113, 115, 117, 119
+12	3	, uh ,	87	B	29, 35, 45, 55, 57, 61, 63, 65, 67, 71, 93, 115
+12	3	you know ,	107	B	13, 27, 29, 43, 45, 71, 87, 95, 113, 115, 117, 119
+6	3	, i like	57	B	11, 29, 35, 55, 65, 67
+5	3	i , i	61	B	11, 29, 55, 67, 71
+5	3	yeah , i	57	B	11, 35, 37, 65, 67
+3	3	, but ,	43	B	29, 45, 71
+3	3	, do you	101	B	23, 63, 123
+3	3	, i don't	43	B	29, 35, 71
 3	3	a lot of	31	B	85, 89, 115
 3	3	and i like	9	B	55, 61, 63
-3	3	i i like	57	B	11, 55, 67
-3	3	oh okay .	7	B	79, 83, 85
-3	3	yeah i like	33	B	35, 65, 67
+2	3	, and ,	23	B	93, 115
+2	3	, but i	41	B	55, 95
+2	3	, but i'm	3	B	93, 95
+2	3	, i mean	59	B	13, 71
+2	3	, i think	69	B	27, 95
+2	3	, if you	89	B	27, 115
+2	3	, it ,	51	B	45, 95
+2	3	, like ,	27	B	35, 61
+2	3	, so ,	25	B	93, 117
+2	3	, you don't	19	B	45, 63
 2	3	. but it's	3	B	69, 71
+2	3	. oh ,	17	B	51, 67
 2	3	. they're just	27	B	11, 37
-2	3	. you know	45	B	71, 115
-2	3	a lot like	33	B	35, 67
+2	3	and , and	55	B	61, 115
 2	3	and you don't	71	B	45, 115
-2	3	but i don't	41	B	55, 95
 2	3	i don't know	21	B	35, 55
-2	3	i i can	7	B	55, 61
-2	3	i i don't	43	B	29, 71
 2	3	i like the	7	B	61, 67
+2	3	i mean ,	87	B	29, 115
 2	3	i mean it's	29	B	43, 71
 2	3	i think .	41	B	27, 67
 2	3	i was in	3	B	59, 61
 2	3	it doesn't have	27	B	45, 71
-2	3	it you know	71	B	45, 115
-2	3	it's it's got	3	B	69, 71
-2	3	oh uh-huh .	87	B	11, 97
+2	3	simply red ,	5	B	67, 71
 2	3	sing along to	3	B	27, 29
-2	3	uh i like	39	B	29, 67
 2	3	what's that ?	3	B	31, 33
 2	3	you can play	3	B	27, 29
 2	3	you have to	79	B	45, 123
-2	3	you know it	27	B	45, 71
-2	3	you know not	7	B	113, 119
+15	2	, you	107	B	13, 15, 27, 29, 43, 45, 63, 71, 75, 87, 95, 113, 115, 117, 119
 14	2	you know	107	B	13, 15, 27, 29, 43, 45, 63, 71, 87, 95, 113, 115, 117, 119
+13	2	, i	85	B	11, 13, 27, 29, 35, 37, 51, 55, 61, 65, 67, 71, 95
+13	2	know ,	107	B	13, 27, 29, 43, 45, 71, 87, 93, 95, 113, 115, 117, 119
+13	2	uh ,	91	B	29, 35, 45, 55, 57, 61, 63, 65, 67, 71, 93, 115, 119
 11	2	yeah .	83	B	25, 39, 41, 47, 49, 51, 53, 65, 73, 99, 107
+10	2	, but	85	B	29, 45, 55, 63, 67, 69, 71, 93, 95, 113
+10	2	oh ,	95	B	11, 51, 65, 67, 75, 79, 83, 85, 97, 105
+10	2	yeah ,	107	B	11, 15, 27, 35, 37, 65, 67, 87, 101, 117
 8	2	i like	57	B	11, 29, 35, 55, 61, 63, 65, 67
+7	2	and ,	89	B	27, 45, 57, 61, 67, 93, 115
+7	2	like ,	89	B	35, 45, 55, 61, 63, 71, 123
 7	2	uh-huh .	121	B	1, 5, 11, 21, 97, 109, 121
 6	2	. i	53	B	43, 55, 61, 67, 71, 95
-6	2	i i	61	B	11, 29, 55, 61, 67, 71
+6	2	a lot	87	B	29, 35, 67, 85, 89, 115
+6	2	but ,	99	B	17, 29, 45, 61, 71, 115
+6	2	so ,	109	B	11, 29, 43, 93, 117, 119
+5	2	, like	81	B	35, 61, 69, 71, 115
 5	2	i don't	67	B	29, 35, 55, 71, 95
-5	2	i mean	103	B	13, 29, 43, 71, 115
-5	2	like uh	37	B	35, 55, 63, 67, 71
-5	2	yeah i	57	B	11, 35, 37, 65, 67
-4	2	and uh	49	B	45, 57, 67, 93
-4	2	and you	89	B	27, 29, 45, 115
-4	2	but uh	87	B	29, 45, 61, 115
+4	2	, it	69	B	27, 45, 71, 95
+4	2	, so	75	B	43, 61, 93, 117
 4	2	going to	41	B	79, 93, 115, 119
 4	2	in the	37	B	59, 71, 89, 95
+4	2	it ,	71	B	45, 61, 95, 115
 4	2	like a	65	B	5, 29, 35, 69
+4	2	that ,	77	B	43, 61, 117, 119
+4	2	well ,	31	B	93, 95, 111, 123
+3	2	, and	55	B	61, 93, 115
+3	2	, if	93	B	27, 115, 119
+3	2	, it's	27	B	45, 69, 71
+3	2	, not	9	B	111, 113, 119
+3	2	, that	77	B	43, 117, 119
 3	2	. but	17	B	55, 69, 71
 3	2	. so	115	B	5, 115, 119
 3	2	. you	53	B	71, 115, 123
 3	2	all the	75	B	11, 71, 85
 3	2	and i	9	B	55, 61, 63
-3	2	do you	101	B	23, 63, 123
+3	2	and you	87	B	29, 45, 115
 3	2	don't know	29	B	35, 55, 63
 3	2	east texas	15	B	81, 87, 95
 3	2	i think	69	B	27, 67, 95
 3	2	i was	27	B	59, 61, 85
-3	2	know if	89	B	27, 35, 115
 3	2	like that	17	B	45, 55, 61
 3	2	of the	87	B	29, 55, 115
+3	2	the ,	23	B	13, 29, 35
 3	2	they're just	27	B	11, 13, 37
 3	2	to be	89	B	27, 95, 115
 3	2	was in	45	B	59, 61, 103
+3	2	you ,	95	B	23, 115, 117
 3	2	you don't	71	B	45, 63, 115
 3	2	you have	81	B	43, 45, 123
-2	2	. oh	17	B	51, 67
+2	2	, because	17	B	45, 61
+2	2	, in	25	B	95, 119
+2	2	, is	13	B	23, 35
+2	2	, my	3	B	13, 15
+2	2	, the	23	B	13, 35
+2	2	, they	49	B	67, 115
+2	2	, too	25	B	37, 61
 2	2	. they're	27	B	11, 37
 2	2	. yeah	55	B	11, 65
-2	2	about you	5	B	113, 117
-2	2	and and	55	B	61, 115
+2	2	a ,	65	B	5, 69
+2	2	about ,	11	B	113, 123
 2	2	and it's	53	B	71, 123
 2	2	area .	15	B	75, 89
 2	2	because i	33	B	29, 61
 2	2	because you	107	B	7, 113
 2	2	but i	41	B	55, 95
-2	2	but i'm	3	B	93, 95
 2	2	but it's	3	B	69, 71
 2	2	chuck mangione	3	B	63, 65
 2	2	got a	27	B	69, 95
+2	2	have ,	5	B	67, 71
 2	2	have a	75	B	43, 117
+2	2	i can	7	B	55, 61
 2	2	i know	39	B	55, 93
 2	2	if you	89	B	27, 115
+2	2	it's ,	3	B	69, 71
 2	2	it's got	3	B	69, 71
-2	2	it's it	3	B	69, 71
-2	2	it's it's	3	B	69, 71
 2	2	it's nice	29	B	43, 71
 2	2	jazz flute	3	B	61, 63
 2	2	just because	39	B	29, 67
 2	2	just like	33	B	23, 55
 2	2	kind of	17	B	11, 27
 2	2	know about	3	B	113, 115
-2	2	know their	33	B	55, 87
 2	2	legal assistant	3	B	93, 95
 2	2	music .	17	B	55, 71
+2	2	no ,	27	B	69, 95
 2	2	not necessarily	3	B	111, 113
 2	2	of people	47	B	69, 115
 2	2	or something	37	B	45, 81
+2	2	play ,	33	B	29, 61
 2	2	play the	7	B	23, 29
 2	2	simply red	5	B	67, 71
 2	2	sing along	3	B	27, 29
-2	2	so but	87	B	29, 115
 2	2	some of	105	B	11, 115
 2	2	sort of	61	B	7, 67
-2	2	that in	31	B	89, 119
 2	2	that's what	27	B	93, 119
 2	2	the different	31	B	85, 115
 2	2	the older	7	B	61, 67
+2	2	they're ,	79	B	11, 89
 2	2	they're not	3	B	11, 13
 2	2	to it	11	B	61, 71
 2	2	to school	3	B	93, 95
-2	2	uh uh	29	B	35, 63
 2	2	want to	25	B	95, 119
 2	2	what i	27	B	67, 93
 2	2	you like	3	B	5, 7
@@ -136,7 +188,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 11	1	it	101	B	23, 27, 35, 45, 61, 69, 71, 95, 101, 115, 123
 11	1	so	115	B	5, 11, 29, 37, 43, 61, 93, 95, 115, 117, 119
 10	1	just	83	B	11, 13, 15, 23, 29, 37, 55, 67, 85, 93
-10	1	oh	95	B	11, 51, 65, 67, 75, 79, 83, 85, 97, 105
 8	1	is	97	B	23, 35, 43, 63, 69, 87, 103, 119
 8	1	not	109	B	11, 13, 29, 71, 111, 113, 115, 119
 7	1	because	113	B	7, 29, 45, 61, 67, 113, 119
@@ -207,11 +258,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	singing	25	B	45, 69
 2	1	some	105	B	11, 115
 2	1	song	11	B	45, 55
+2	1	their	33	B	55, 87
 2	1	then	113	B	7, 119
 2	1	there	89	B	29, 117
 2	1	there's	69	B	45, 113
 2	1	things	87	B	29, 115
-2	1	too	25	B	37, 61
 2	1	weed	11	B	105, 115
 2	1	when	15	B	29, 43
 2	1	with	89	B	35, 123

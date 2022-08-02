@@ -1,21 +1,34 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	4	, you know ,	43	B	2, 30, 44
+2	4	, i think ,	37	B	0, 36
 2	4	. and i think	41	B	4, 44
 2	4	. i mean it	17	B	28, 44
+2	4	i think , i	9	B	36, 44
+2	4	were very young ,	3	B	0, 2
+8	3	, uh ,	45	B	0, 4, 12, 14, 18, 20, 32, 44
+4	3	, i think	45	B	0, 2, 36, 44
+4	3	i think ,	45	B	0, 14, 36, 44
+4	3	you know ,	43	B	2, 30, 38, 44
 3	3	. i mean	39	B	6, 28, 44
 2	3	a lot of	15	B	4, 18
+2	3	and , and	19	B	12, 30
 2	3	and they were	25	B	4, 28
 2	3	dollars a week	33	B	6, 38
-2	3	i think i	9	B	36, 44
 2	3	i think they	41	B	4, 44
+2	3	that , that	15	B	22, 36
 2	3	we had a	17	B	2, 18
-2	3	were very young	3	B	0, 2
+9	2	uh ,	45	B	0, 4, 12, 14, 18, 20, 22, 32, 44
+8	2	, i	45	B	0, 2, 4, 10, 20, 28, 36, 44
 7	2	i think	45	B	0, 2, 4, 14, 18, 36, 44
 5	2	. and	43	B	2, 4, 18, 20, 44
 5	2	. i	45	B	0, 6, 14, 28, 44
+4	2	and ,	29	B	2, 10, 12, 30
 4	2	i mean	39	B	6, 28, 30, 44
 4	2	they were	29	B	0, 4, 20, 28
 4	2	uh-huh .	41	B	0, 34, 36, 40
-4	2	you know	43	B	2, 30, 38, 44
+3	2	, and	19	B	12, 14, 30
+3	2	, but	43	B	2, 14, 44
+3	2	, that	35	B	2, 22, 36
 3	2	. but	9	B	28, 30, 36
 3	2	a week	33	B	6, 28, 38
 3	2	and i	41	B	4, 12, 44
@@ -26,30 +39,40 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	i'm a	13	B	0, 10, 12
 3	2	it was	9	B	20, 26, 28
 3	2	of the	45	B	0, 22, 44
+3	2	that ,	19	B	18, 22, 36
 3	2	they have	27	B	18, 30, 44
+2	2	, at	9	B	20, 28
+2	2	, i'm	19	B	0, 18
+2	2	, in	29	B	0, 28
+2	2	, it	27	B	2, 28
+2	2	, the	9	B	38, 46
+2	2	, they	17	B	4, 20
+2	2	, very	13	B	0, 12
+2	2	, we	5	B	2, 6
+2	2	, well	7	B	0, 6
 2	2	. uh	13	B	10, 22
 2	2	. well	17	B	0, 16
 2	2	a little	9	B	28, 36
 2	2	a pediatrician	33	B	12, 44
 2	2	about a	15	B	6, 20
-2	2	and and	19	B	12, 30
 2	2	and that	17	B	2, 18
 2	2	and then	25	B	4, 28
 2	2	and we	5	B	14, 18
 2	2	as you	45	B	2, 46
 2	2	been a	9	B	36, 44
+2	2	but ,	17	B	14, 30
 2	2	child care	15	B	0, 14
+2	2	children ,	31	B	0, 30
 2	2	have to	29	B	2, 30
+2	2	i ,	3	B	0, 2
 2	2	i work	21	B	0, 20
 2	2	is the	43	B	2, 44
-2	2	know the	25	B	14, 38
 2	2	lots of	27	B	20, 46
 2	2	opportunities .	31	B	0, 30
-2	2	pay a	5	B	2, 6
-2	2	that that	15	B	22, 36
+2	2	so ,	7	B	14, 20
 2	2	there are	31	B	14, 44
 2	2	two children	23	B	6, 28
-2	2	well i	11	B	0, 10
+2	2	well ,	35	B	10, 44
 2	2	women who	29	B	2, 30
 2	2	wonderful .	3	B	2, 4
 13	1	i	45	B	0, 2, 4, 6, 10, 12, 14, 18, 20, 28, 30, 36, 44
@@ -58,7 +81,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 10	1	that	47	B	0, 2, 14, 18, 20, 22, 28, 36, 42, 46
 10	1	the	47	B	0, 2, 14, 18, 20, 22, 28, 38, 44, 46
 10	1	they	45	B	0, 2, 4, 18, 20, 28, 30, 32, 36, 44
-10	1	uh	45	B	0, 4, 10, 12, 14, 18, 20, 22, 32, 44
 8	1	children	45	B	0, 2, 6, 14, 20, 28, 30, 44
 8	1	of	47	B	0, 4, 14, 18, 20, 22, 44, 46
 7	1	but	43	B	2, 6, 14, 28, 30, 36, 44
@@ -74,9 +96,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	as	45	B	2, 4, 10, 44, 46
 5	1	at	31	B	6, 18, 20, 28, 36
 5	1	have	45	B	0, 2, 18, 30, 44
+5	1	know	43	B	2, 14, 30, 38, 44
 5	1	to	29	B	2, 4, 14, 20, 30
 5	1	we	19	B	0, 2, 6, 14, 18
-5	1	well	45	B	0, 6, 10, 16, 44
 5	1	wonderful	19	B	2, 4, 14, 18, 20
 4	1	actually	25	B	12, 18, 26, 36
 4	1	all	17	B	2, 4, 14, 18

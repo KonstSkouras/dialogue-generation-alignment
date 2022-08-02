@@ -1,35 +1,62 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, like , uh ,	49	B	51, 99
+3	4	, you know ,	91	B	3, 87, 93
+2	4	, what about ,	37	B	51, 87
+2	4	, you know .	23	B	71, 93
+2	4	about , uh ,	87	B	1, 87
 2	4	i'm going to switch	3	B	83, 85
+2	4	the , uh ,	9	B	9, 17
 2	4	what do you think	95	B	1, 95
+9	3	, uh ,	99	B	1, 9, 17, 29, 51, 67, 85, 87, 99
+5	3	, you know	91	B	3, 67, 71, 87, 93
+3	3	, i don't	33	B	3, 17, 35
+3	3	you know ,	91	B	3, 87, 93
+2	3	, i think	63	B	3, 65
+2	3	, julie ?	49	B	1, 49
+2	3	i mean ,	59	B	9, 67
 2	3	those petroleum products	5	B	63, 67
-2	3	what about like	5	B	51, 55
-2	3	you know .	23	B	71, 93
-2	3	you know the	27	B	67, 93
+10	2	uh ,	99	B	1, 9, 17, 29, 49, 51, 67, 85, 87, 99
+6	2	, i	95	B	3, 17, 35, 65, 67, 97
+6	2	, you	91	B	3, 29, 67, 71, 87, 93
 6	2	you know	91	B	3, 51, 67, 71, 87, 93
 5	2	i think	91	B	3, 15, 65, 67, 93
+4	2	, like	91	B	9, 17, 51, 99
+4	2	but ,	95	B	3, 15, 29, 97
 4	2	i don't	73	B	3, 17, 35, 75
 4	2	kind of	95	B	3, 31, 51, 97
-3	2	but i	83	B	3, 35, 85
+3	2	, julie	65	B	1, 49, 65
 3	2	do you	95	B	1, 51, 95
 3	2	going to	23	B	63, 83, 85
+3	2	know ,	91	B	3, 87, 93
 3	2	or something	61	B	15, 33, 75
 3	2	really ?	55	B	25, 53, 79
+3	2	the ,	85	B	9, 17, 93
 3	2	uh-huh .	51	B	7, 37, 57
+3	2	well ,	45	B	43, 49, 87
 3	2	what about	37	B	51, 55, 87
+3	2	yeah ,	19	B	25, 31, 43
 3	2	you think	95	B	1, 89, 95
-2	2	about uh	87	B	1, 87
+2	2	, but	83	B	3, 85
+2	2	, i'm	29	B	3, 31
+2	2	, the	77	B	17, 93
+2	2	, they	7	B	9, 15
+2	2	, what	37	B	51, 87
 2	2	and stuff	3	B	9, 11
 2	2	around and	3	B	11, 13
+2	2	but i	51	B	35, 85
 2	2	during the	7	B	9, 15
-2	2	i mean	59	B	9, 67
+2	2	i ,	31	B	3, 33
 2	2	i'm going	3	B	83, 85
 2	2	it .	45	B	31, 75
-2	2	julie ?	49	B	1, 49
-2	2	like uh	49	B	51, 99
+2	2	like ,	49	B	51, 99
 2	2	of the	21	B	67, 87
+2	2	really ,	31	B	5, 35
+2	2	recycle ,	23	B	29, 51
+2	2	so ,	13	B	17, 29
+2	2	stuff ,	77	B	11, 87
+2	2	that ,	69	B	17, 85
 2	2	that's true	75	B	25, 99
 2	2	the recycling	51	B	17, 67
-2	2	the uh	9	B	9, 17
 2	2	where i	77	B	9, 85
 2	2	you ?	13	B	29, 41
 14	1	i	95	B	3, 5, 9, 15, 17, 23, 33, 35, 65, 67, 75, 85, 93, 97
@@ -62,15 +89,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	stuff	79	B	9, 11, 51, 87
 3	1	around	5	B	9, 11, 13
 3	1	at	69	B	17, 71, 85
-3	1	julie	65	B	1, 49, 65
 3	1	me	39	B	47, 49, 85
 3	1	paper	13	B	59, 69, 71
 3	1	that	69	B	17, 25, 85
 3	1	that's	95	B	5, 25, 99
 3	1	there	47	B	3, 33, 49
-3	1	well	45	B	43, 49, 87
 3	1	where	83	B	3, 9, 85
-3	1	yeah	19	B	25, 31, 43
 2	1	all	63	B	9, 71
 2	1	anything	15	B	35, 49
 2	1	bad	43	B	31, 73
@@ -93,7 +117,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	petroleum	5	B	63, 67
 2	1	plastic	9	B	51, 59
 2	1	pretty	65	B	3, 67
-2	1	recycle	23	B	29, 51
 2	1	should	91	B	3, 93
 2	1	then	71	B	13, 83
 2	1	trees	3	B	73, 75

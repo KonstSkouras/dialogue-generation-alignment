@@ -1,32 +1,50 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	that would be a good	19	M	26, 44
+2	6	, that would be a good	19	M	26, 44
+2	5	, i think , i	13	M	0, 12
+2	5	, uh you know ,	3	M	16, 18
+2	5	i think that , uh	21	M	16, 36
+2	4	, i , i	13	M	0, 12
+2	4	, the , uh	3	M	32, 34
 2	4	a lot of people	27	M	12, 38
-2	4	i think that uh	21	M	16, 36
+5	3	, uh ,	35	M	2, 30, 32, 34, 36
+4	3	, i think	41	M	0, 12, 34, 40
+4	3	, uh .	17	M	14, 20, 28, 30
+3	3	, i ,	33	M	0, 12, 32
+3	3	and , uh	19	M	2, 18, 20
+3	3	i , i	33	M	0, 12, 32
+3	3	i think ,	17	M	0, 12, 16
+3	3	the , uh	5	M	32, 34, 36
+2	3	, and ,	3	M	0, 2
 2	3	and i think	25	M	16, 40
 2	3	don't want to	21	M	18, 38
-2	3	i think i	13	M	0, 12
-2	3	uh i think	19	M	16, 34
-2	3	uh you know	3	M	16, 18
-6	2	i think	41	M	0, 12, 16, 34, 36, 40
-4	2	uh .	17	M	14, 20, 28, 30
-3	2	and uh	19	M	2, 18, 20
-3	2	i i	33	M	0, 12, 32
-3	2	the uh	5	M	32, 34, 36
-3	2	uh i	19	M	16, 30, 34
+2	3	i mean ,	5	M	26, 30
+2	3	it's , uh	3	M	28, 30
+2	3	uh , i	5	M	30, 34
+11	2	, uh	35	M	2, 12, 14, 16, 18, 20, 28, 30, 32, 34, 36
+3	2	, that	19	M	26, 36, 44
+3	2	know ,	7	M	12, 16, 18
+3	2	that ,	29	M	16, 36, 44
+3	2	that's ,	15	M	26, 32, 40
 3	2	would be	19	M	26, 34, 44
+2	2	, that's	7	M	26, 32
+2	2	, the	3	M	32, 34
+2	2	, they	19	M	0, 18
+2	2	, we	7	M	16, 22
+2	2	, we're	7	M	16, 22
+2	2	, you	3	M	22, 24
 2	2	don't have	11	M	22, 32
+2	2	have ,	35	M	0, 34
 2	2	have to	7	M	16, 22
-2	2	i mean	5	M	26, 30
-2	2	it's uh	3	M	28, 30
 2	2	know that	13	M	0, 12
+2	2	not ,	19	M	4, 22
 2	2	that they	33	M	0, 32
 2	2	they could	15	M	24, 38
 2	2	they don't	15	M	18, 32
 2	2	to be	3	M	16, 18
 2	2	to do	5	M	22, 26
+2	2	yeah ,	33	M	12, 44
 2	2	yeah .	3	M	10, 12
 11	1	and	41	M	0, 2, 4, 16, 18, 20, 22, 30, 32, 38, 40
-11	1	uh	35	M	2, 12, 14, 16, 18, 20, 28, 30, 32, 34, 36
 10	1	to	37	M	2, 4, 16, 18, 22, 26, 30, 32, 34, 38
 9	1	i	41	M	0, 12, 16, 26, 30, 32, 34, 36, 40
 9	1	that	45	M	0, 12, 16, 22, 26, 32, 36, 38, 44
@@ -36,7 +54,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	have	35	M	0, 16, 22, 32, 34
 5	1	it	33	M	2, 24, 26, 30, 34
 4	1	do	27	M	0, 16, 22, 26
-4	1	know	19	M	0, 12, 16, 18
 4	1	of	27	M	12, 22, 32, 38
 4	1	people	27	M	12, 18, 32, 38
 4	1	the	33	M	4, 32, 34, 36
@@ -44,9 +61,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	you	9	M	16, 18, 22, 24
 3	1	but	25	M	0, 2, 24
 3	1	not	19	M	4, 18, 22
-3	1	that's	15	M	26, 32, 40
 3	1	we're	21	M	2, 16, 22
-3	1	yeah	35	M	10, 12, 44
 2	1	could	15	M	24, 38
 2	1	in	9	M	22, 30
 2	1	it's	3	M	28, 30

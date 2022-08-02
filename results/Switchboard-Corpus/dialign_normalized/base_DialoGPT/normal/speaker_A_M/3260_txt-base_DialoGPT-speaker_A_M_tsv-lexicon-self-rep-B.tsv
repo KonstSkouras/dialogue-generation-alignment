@@ -1,8 +1,12 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	well yeah .	31	M	36, 66
+2	3	you know ,	41	M	14, 54
 4	2	i have	29	M	4, 6, 24, 32
+3	2	, but	31	M	24, 50, 54
 3	2	i don't	29	M	26, 34, 54
 3	2	you know	41	M	14, 16, 54
+2	2	, i	5	M	50, 54
+2	2	, uh	11	M	8, 18
+2	2	, you	37	M	14, 50
 2	2	. i	29	M	6, 34
 2	2	a teacher	3	M	42, 44
 2	2	are you	7	M	38, 44
@@ -13,6 +17,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	it .	49	M	8, 56
 2	2	it's not	29	M	14, 42
 2	2	that .	23	M	0, 22
+2	2	yeah .	31	M	36, 66
 10	1	you	45	M	10, 12, 14, 16, 26, 30, 38, 44, 50, 54
 9	1	a	53	M	2, 6, 20, 40, 42, 44, 46, 52, 54
 9	1	i	51	M	4, 6, 20, 24, 26, 32, 34, 50, 54
@@ -25,7 +30,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	know	41	M	14, 16, 26, 54
 4	1	that	23	M	0, 4, 6, 22
 4	1	what	51	M	4, 12, 16, 54
-3	1	but	31	M	24, 50, 54
 3	1	i'm	65	M	0, 40, 64
 3	1	in	59	M	6, 32, 64
 2	1	and	37	M	2, 38
@@ -42,4 +46,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	so	13	M	46, 58
 2	1	uh	11	M	8, 18
 2	1	we	15	M	2, 16
+2	1	well	31	M	36, 66
 

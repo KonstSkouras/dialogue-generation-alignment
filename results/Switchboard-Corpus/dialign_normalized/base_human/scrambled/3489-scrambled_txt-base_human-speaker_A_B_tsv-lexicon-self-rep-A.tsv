@@ -1,22 +1,43 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	7	, you know , and , and	19	A	18, 36
+2	5	, and , uh ,	5	A	14, 18
 2	5	and stuff like that .	21	A	28, 48
-2	4	you know and and	19	A	18, 36
-3	3	you know and	19	A	18, 28, 36
-2	3	i mean you	49	A	4, 52
+6	4	, you know ,	63	A	6, 18, 28, 36, 52, 68
+3	4	you know , and	19	A	18, 28, 36
+2	4	, uh , the	9	A	6, 14
+6	3	you know ,	63	A	6, 18, 28, 36, 52, 68
+5	3	, uh ,	71	A	6, 14, 18, 52, 76
+3	3	, and ,	23	A	14, 18, 36
+3	3	, um ,	47	A	4, 14, 50
+3	3	and , and	51	A	18, 36, 68
+3	3	and they ,	27	A	10, 28, 36
+2	3	, and they	33	A	4, 36
+2	3	, i mean	19	A	52, 70
+8	2	uh ,	71	A	6, 14, 16, 18, 22, 24, 52, 76
+7	2	, and	65	A	4, 14, 18, 28, 36, 52, 68
+7	2	, you	65	A	4, 6, 18, 28, 36, 52, 68
 7	2	yeah .	57	A	12, 20, 34, 54, 56, 62, 68
 6	2	uh-huh .	73	A	2, 12, 26, 30, 46, 74
-6	2	you know	63	A	6, 18, 28, 36, 52, 68
+5	2	, i	55	A	22, 40, 52, 70, 76
 5	2	right .	75	A	0, 6, 60, 72, 74
+5	2	yeah ,	77	A	0, 8, 42, 50, 76
 4	2	and they	33	A	4, 10, 28, 36
 4	2	i mean	67	A	4, 28, 52, 70
-3	2	and and	51	A	18, 36, 68
+4	2	they ,	43	A	10, 28, 36, 52
+3	2	, it	39	A	14, 36, 52
+3	2	, the	45	A	6, 14, 50
+2	2	, but	3	A	50, 52
+2	2	, i'm	25	A	52, 76
+2	2	, so	43	A	0, 42
+2	2	, too	9	A	68, 76
+2	2	, we	17	A	44, 60
 2	2	. that's	69	A	6, 74
 2	2	a lot	39	A	28, 66
-2	2	and uh	5	A	14, 18
-2	2	and you	17	A	36, 52
 2	2	but i	3	A	48, 50
+2	2	card ,	9	A	52, 60
 2	2	for you	11	A	42, 52
 2	2	get the	7	A	44, 50
+2	2	have ,	65	A	4, 68
 2	2	it was	13	A	24, 36
 2	2	now it's	27	A	52, 78
 2	2	people who	33	A	4, 36
@@ -24,17 +45,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	they do	25	A	4, 28
 2	2	they don't	25	A	28, 52
 2	2	too many	21	A	48, 68
-2	2	uh the	9	A	6, 14
 2	2	was the	37	A	24, 60
 2	2	would be	5	A	10, 14
 2	2	you have	17	A	52, 68
-12	1	yeah	77	A	0, 8, 12, 20, 34, 42, 50, 54, 56, 62, 68, 76
 11	1	and	75	A	4, 10, 14, 18, 28, 36, 48, 52, 68, 70, 78
 11	1	the	71	A	0, 4, 6, 14, 22, 24, 44, 50, 52, 60, 70
 10	1	i	73	A	4, 22, 28, 40, 48, 50, 52, 66, 70, 76
 10	1	you	65	A	4, 6, 14, 18, 28, 36, 42, 44, 52, 68
 8	1	that	49	A	12, 14, 24, 28, 44, 48, 52, 60
-8	1	uh	71	A	6, 14, 16, 18, 22, 24, 52, 76
 7	1	a	61	A	18, 28, 36, 42, 50, 66, 78
 7	1	know	63	A	6, 18, 22, 28, 36, 52, 68
 7	1	they	49	A	4, 10, 18, 24, 28, 36, 52
@@ -63,17 +81,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	probably	37	A	6, 14, 42
 3	1	so	43	A	0, 28, 42
 3	1	there	47	A	24, 36, 70
-3	1	too	29	A	48, 68, 76
-3	1	um	47	A	4, 14, 50
 3	1	would	41	A	10, 14, 50
 2	1	about	19	A	22, 40
 2	1	are	19	A	18, 36
 2	1	at	41	A	28, 68
 2	1	best	15	A	44, 58
-2	1	card	9	A	52, 60
 2	1	go	67	A	4, 70
 2	1	how	15	A	14, 28
-2	1	i'm	25	A	52, 76
 2	1	if	17	A	52, 68
 2	1	in	17	A	8, 24
 2	1	it's	27	A	52, 78

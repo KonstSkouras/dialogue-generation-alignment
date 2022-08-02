@@ -1,13 +1,31 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	if someone is	43	B	2, 44
+2	4	, if someone is	43	B	2, 44
+5	3	, uh ,	33	B	12, 18, 26, 28, 44
+2	3	, i think	19	B	26, 44
 2	3	they should be	43	B	2, 44
+5	2	uh ,	33	B	12, 18, 26, 28, 44
 5	2	uh-huh .	41	B	0, 14, 20, 38, 40
+3	2	, and	11	B	34, 36, 44
+3	2	, i	33	B	12, 26, 44
 3	2	i think	43	B	2, 26, 44
+3	2	oh ,	33	B	10, 18, 42
+3	2	well ,	27	B	10, 22, 36
+3	2	yeah ,	27	B	10, 22, 36
+2	2	, a	19	B	26, 44
+2	2	, if	43	B	2, 44
+2	2	, it	11	B	12, 22
+2	2	, it's	25	B	22, 46
+2	2	, that	7	B	12, 18
+2	2	, they	17	B	28, 44
 2	2	. uh	15	B	12, 26
+2	2	but ,	25	B	2, 26
+2	2	crime ,	11	B	34, 44
+2	2	i ,	5	B	44, 48
 2	2	i don't	31	B	12, 42
 2	2	i like	5	B	44, 48
 2	2	it was	25	B	12, 36
 2	2	of the	35	B	14, 48
+2	2	this ,	21	B	28, 48
 2	2	to get	23	B	26, 48
 2	2	yeah .	19	B	4, 22
 2	2	you know	13	B	34, 46
@@ -18,7 +36,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	if	43	B	2, 10, 26, 30, 44
 5	1	they	43	B	2, 10, 28, 34, 44
 5	1	to	47	B	2, 10, 26, 44, 48
-5	1	uh	33	B	12, 18, 26, 28, 44
 5	1	yeah	33	B	4, 6, 10, 22, 36
 4	1	a	35	B	14, 26, 44, 48
 4	1	and	21	B	24, 34, 36, 44
@@ -32,16 +49,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	don't	31	B	12, 32, 42
 3	1	have	33	B	12, 32, 44
 3	1	just	47	B	2, 28, 48
-3	1	oh	33	B	10, 18, 42
 3	1	then	33	B	2, 30, 34
-3	1	well	27	B	10, 22, 36
 2	1	as	7	B	36, 42
-2	1	but	25	B	2, 26
-2	1	crime	11	B	34, 44
 2	1	from	43	B	2, 44
 2	1	go	5	B	26, 30
 2	1	good	13	B	10, 22
-2	1	it's	25	B	22, 46
 2	1	much	31	B	12, 42
 2	1	no	29	B	2, 30
 2	1	not	25	B	12, 36

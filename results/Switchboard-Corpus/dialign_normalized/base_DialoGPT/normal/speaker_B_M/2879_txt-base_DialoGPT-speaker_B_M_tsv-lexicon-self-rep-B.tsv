@@ -1,24 +1,33 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	i don't know .	71	M	15, 85
-2	4	uh i don't know	13	M	3, 15
+2	6	, uh , i don't know	13	M	3, 15
+2	5	, i don't know .	71	M	15, 85
+2	5	, uh , uh .	9	M	69, 77
+3	4	, uh , i	21	M	3, 15, 23
+3	4	i , uh ,	67	M	3, 61, 69
+9	3	, uh ,	105	M	3, 15, 21, 23, 61, 69, 71, 77, 107
+3	3	, uh .	9	M	69, 71, 77
+3	3	, uh ...	51	M	21, 61, 71
 3	3	i don't think	9	M	97, 103, 105
+2	3	, i'm not	95	M	3, 97
+2	3	i know ,	5	M	23, 27
 2	3	i'm not sure	7	M	91, 97
 2	3	the death penalty	61	M	51, 111
 2	3	there is no	59	M	51, 109
 2	3	uh . uh	11	M	67, 77
-2	3	uh uh .	9	M	69, 77
-4	2	uh .	11	M	67, 69, 71, 77
+9	2	, uh	105	M	3, 15, 21, 23, 61, 69, 71, 77, 107
+9	2	uh ,	105	M	3, 15, 21, 23, 61, 69, 71, 77, 107
+5	2	, i	107	M	3, 15, 23, 85, 109
+3	2	, and	67	M	11, 35, 77
 3	2	are you	59	M	31, 63, 89
-3	2	i uh	67	M	3, 61, 69
-3	2	i'm not	95	M	3, 91, 97
 3	2	is a	47	M	67, 105, 113
+3	2	know ,	25	M	3, 23, 27
 3	2	not sure	23	M	91, 97, 113
-3	2	uh ...	51	M	21, 61, 71
-3	2	uh i	21	M	3, 15, 23
+3	2	yeah ,	73	M	35, 85, 107
 2	2	. uh	11	M	67, 77
 2	2	and the	77	M	35, 111
 2	2	crime .	39	M	75, 113
 2	2	did .	15	M	35, 49
+2	2	have ,	89	M	21, 109
 2	2	have been	3	M	19, 21
 2	2	he got	13	M	35, 47
 2	2	i know	5	M	23, 27
@@ -27,11 +36,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	it .	39	M	41, 79
 2	2	of the	39	M	13, 51
 2	2	part of	3	M	87, 89
-2	2	uh is	11	M	67, 77
 2	2	what the	7	M	91, 97
 18	1	i	107	M	3, 15, 19, 23, 27, 37, 41, 45, 49, 61, 69, 79, 85, 93, 97, 103, 105, 109
 12	1	the	101	M	13, 21, 35, 47, 51, 75, 87, 91, 97, 109, 111, 113
-10	1	uh	105	M	3, 15, 21, 23, 61, 67, 69, 71, 77, 107
 10	1	you	91	M	1, 7, 21, 31, 35, 39, 55, 63, 89, 91
 9	1	a	101	M	13, 35, 47, 67, 71, 95, 105, 111, 113
 9	1	is	101	M	13, 51, 67, 77, 87, 97, 105, 109, 113
@@ -47,7 +54,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	sure	83	M	31, 91, 97, 113
 4	1	what	39	M	59, 89, 91, 97
 4	1	yeah	103	M	5, 35, 85, 107
-3	1	have	91	M	19, 21, 109
 3	1	he	13	M	35, 43, 47
 3	1	so	17	M	89, 97, 105
 3	1	that	77	M	33, 65, 109

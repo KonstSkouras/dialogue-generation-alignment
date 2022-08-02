@@ -1,32 +1,48 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, and , um ,	5	B	28, 32
+4	4	and , um ,	33	B	0, 28, 30, 32
+3	4	oh , that sounds	41	B	22, 50, 62
+2	4	, you know ,	29	B	0, 28
+2	4	oh . oh ,	19	B	32, 50
+5	3	, um ,	33	B	0, 22, 28, 30, 32
+4	3	. oh ,	39	B	12, 22, 32, 50
 4	3	i see .	69	B	4, 54, 56, 72
-3	3	oh that sounds	41	B	22, 50, 62
+2	3	, but ,	29	B	0, 28
+2	3	, i ,	33	B	0, 32
+2	3	, in the	11	B	22, 32
+2	3	, uh ,	31	B	0, 30
 2	3	. uh-huh .	15	B	22, 36
+2	3	. um ,	5	B	28, 32
 2	3	a lot of	3	B	26, 28
-2	3	oh . oh	19	B	32, 50
+2	3	oh , i	53	B	12, 64
 16	2	uh-huh .	67	B	4, 8, 10, 14, 18, 20, 22, 24, 34, 36, 42, 46, 48, 58, 60, 70
-4	2	. oh	39	B	12, 22, 32, 50
-4	2	and um	33	B	0, 28, 30, 32
+7	2	, i	65	B	0, 12, 22, 26, 32, 44, 64
+6	2	oh ,	53	B	12, 22, 32, 50, 62, 64
+4	2	, and	33	B	0, 2, 28, 32
+4	2	and ,	33	B	0, 28, 30, 32
 4	2	in the	45	B	22, 30, 32, 66
+3	2	, but	29	B	0, 2, 28
+3	2	, you	31	B	0, 28, 30
 3	2	don't have	39	B	28, 30, 66
 3	2	have to	9	B	22, 28, 30
 3	2	oh .	19	B	32, 36, 50
+2	2	, a	23	B	6, 28
+2	2	, if	21	B	32, 52
+2	2	, that's	3	B	30, 32
+2	2	, the	23	B	0, 22
 2	2	. i	19	B	4, 22
-2	2	. um	5	B	28, 32
 2	2	all the	3	B	0, 2
 2	2	beautiful .	11	B	12, 22
 2	2	have the	15	B	52, 66
 2	2	i think	11	B	22, 32
 2	2	my husband	29	B	0, 28
-2	2	oh i	53	B	12, 64
 2	2	pretty .	29	B	22, 50
 2	2	right .	3	B	42, 44
-2	2	stuff and	3	B	0, 2
+2	2	the ,	53	B	0, 52
 2	2	they just	15	B	52, 66
+2	2	uh-huh ,	3	B	26, 28
 2	2	wild flowers	7	B	16, 22
 2	2	you don't	9	B	22, 30
-2	2	you know	29	B	0, 28
-18	1	uh-huh	67	B	4, 8, 10, 14, 18, 20, 22, 24, 26, 28, 34, 36, 42, 46, 48, 58, 60, 70
 12	1	i	73	B	0, 2, 4, 12, 22, 26, 32, 44, 54, 56, 64, 72
 8	1	oh	53	B	12, 22, 32, 36, 50, 52, 62, 64
 8	1	that	69	B	0, 22, 28, 30, 32, 50, 62, 68
@@ -47,7 +63,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	of	31	B	0, 26, 28, 30
 4	1	that's	33	B	6, 30, 32, 38
 3	1	back	31	B	22, 32, 52
-3	1	but	29	B	0, 2, 28
 3	1	does	69	B	0, 2, 68
 3	1	flowers	23	B	0, 16, 22
 3	1	know	29	B	0, 26, 28
@@ -57,7 +72,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	because	5	B	28, 32
 2	1	country	3	B	30, 32
 2	1	i'll	27	B	2, 28
-2	1	if	21	B	32, 52
 2	1	it's	21	B	12, 32
 2	1	lot	3	B	26, 28
 2	1	maintenance	11	B	22, 32
@@ -74,7 +88,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	there	7	B	22, 28
 2	1	there's	39	B	28, 66
 2	1	they	15	B	52, 66
-2	1	uh	31	B	0, 30
 2	1	up	27	B	2, 28
 2	1	was	11	B	22, 32
 2	1	we	5	B	28, 32

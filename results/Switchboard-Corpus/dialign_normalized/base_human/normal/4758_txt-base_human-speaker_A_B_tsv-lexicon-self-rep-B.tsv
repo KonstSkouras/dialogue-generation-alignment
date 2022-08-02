@@ -1,27 +1,33 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, you know ,	15	B	27, 41
 2	4	food and wine and	17	B	13, 29
 2	4	i've always had this	3	B	35, 37
 2	4	know a lot about	3	B	37, 39
+2	4	travel and leisure ,	3	B	27, 29
+4	3	, uh ,	31	B	11, 29, 31, 41
+2	3	, i've always	25	B	11, 35
+2	3	, some of	17	B	27, 43
 2	3	one of the	7	B	35, 41
-2	3	travel and leisure	3	B	27, 29
+5	2	uh ,	33	B	11, 29, 31, 41, 43
 4	2	of the	29	B	13, 27, 35, 41
 3	2	a lot	27	B	13, 37, 39
-3	2	i've always	27	B	11, 35, 37
+3	2	i ,	11	B	35, 41, 45
 3	2	to get	21	B	15, 23, 35
 3	2	yeah .	35	B	15, 21, 49
+2	2	, i	9	B	37, 45
+2	2	, the	3	B	41, 43
+2	2	about ,	5	B	37, 41
 2	2	and i	11	B	29, 39
 2	2	consumer reports	7	B	31, 37
 2	2	different perspective	7	B	35, 41
 2	2	do .	3	B	41, 43
 2	2	half the	5	B	25, 29
-2	2	i like	7	B	35, 41
 2	2	of them	21	B	23, 43
 2	2	perspective .	7	B	35, 41
-2	2	some of	17	B	27, 43
+2	2	that ,	15	B	11, 25
 2	2	them .	7	B	37, 43
 2	2	uh-huh .	27	B	5, 31
 2	2	with them	3	B	37, 39
-2	2	you know	15	B	27, 41
 10	1	the	35	B	11, 13, 25, 27, 29, 35, 37, 41, 43, 45
 9	1	i	41	B	9, 23, 29, 35, 37, 39, 41, 45, 49
 8	1	of	35	B	9, 13, 23, 27, 31, 35, 41, 43
@@ -34,7 +40,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	in	41	B	9, 35, 37, 41, 49
 5	1	magazines	31	B	13, 27, 35, 41, 43
 5	1	that	27	B	11, 25, 29, 35, 37
-5	1	uh	33	B	11, 29, 31, 41, 43
 4	1	about	19	B	23, 37, 39, 41
 4	1	always	29	B	11, 35, 37, 39
 4	1	get	21	B	15, 23, 27, 35

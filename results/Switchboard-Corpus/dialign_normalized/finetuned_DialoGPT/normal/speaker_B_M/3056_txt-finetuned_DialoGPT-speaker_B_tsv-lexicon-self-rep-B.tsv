@@ -1,23 +1,32 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	it is , it is	3	M	51, 53
 2	5	it was really good .	15	M	41, 55
-2	4	it is it is	3	M	51, 53
+2	4	, i don't know	23	M	25, 47
+2	4	and , uh .	37	M	21, 57
+3	3	, i don't	47	M	1, 25, 47
+3	3	and , uh	39	M	21, 57, 59
+3	3	i , i	55	M	1, 47, 55
 3	3	i don't know	23	M	25, 29, 47
-2	3	and uh .	37	M	21, 57
+3	3	well , i	25	M	1, 19, 25
+2	3	, i ,	47	M	1, 47
+2	3	, i guess	29	M	19, 47
+2	3	, i really	9	M	47, 55
 2	3	read that book	19	M	25, 43
 2	3	the movie .	13	M	43, 55
 10	2	uh-huh .	59	M	7, 11, 17, 27, 35, 37, 45, 61, 63, 65
-4	2	i don't	47	M	1, 25, 29, 47
-3	2	and uh	39	M	21, 57, 59
-3	2	i i	55	M	1, 47, 55
+6	2	, i	55	M	1, 5, 19, 25, 47, 55
+5	2	, uh	39	M	21, 47, 49, 57, 59
+4	2	, it	25	M	31, 51, 53, 55
+4	2	well ,	25	M	1, 19, 23, 25
+3	2	i ,	55	M	1, 47, 55
 3	2	like to	47	M	1, 9, 47
-3	2	well i	25	M	1, 19, 25
-2	2	i guess	29	M	19, 47
 2	2	i read	43	M	1, 43
-2	2	i really	9	M	47, 55
 2	2	it was	15	M	41, 55
+2	2	just ,	17	M	31, 47
 2	2	know .	3	M	29, 31
 2	2	that you	23	M	9, 31
-2	2	uh i	47	M	1, 47
+2	2	was ,	7	M	49, 55
+2	2	yeah ,	3	M	47, 49
 10	1	i	59	M	1, 5, 19, 25, 29, 39, 43, 47, 55, 59
 6	1	and	39	M	21, 39, 41, 49, 57, 59
 6	1	it	29	M	31, 41, 51, 53, 55, 59

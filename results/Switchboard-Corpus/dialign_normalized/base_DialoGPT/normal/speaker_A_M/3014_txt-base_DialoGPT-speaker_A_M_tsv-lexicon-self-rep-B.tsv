@@ -1,16 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	that's not a car	47	M	20, 66
+2	3	, it's a	45	M	20, 64
+2	3	, no .	23	M	68, 90
+2	3	, uh ,	71	M	30, 100
+2	3	, uh .	17	M	100, 116
 2	3	i have the	53	M	2, 54
 2	3	i like the	7	M	124, 130
 2	3	it's a good	9	M	126, 134
 2	3	the us is	83	M	12, 94
+2	3	uhh , uh	63	M	56, 118
+7	2	, uh	89	M	30, 56, 84, 88, 100, 116, 118
 6	2	i think	125	M	2, 46, 52, 58, 76, 126
+5	2	, i	81	M	6, 28, 60, 74, 86
+5	2	uhh ,	63	M	56, 60, 64, 90, 118
 4	2	i don't	123	M	0, 18, 60, 122
-4	2	it's a	115	M	20, 64, 126, 134
+3	2	, and	125	M	6, 40, 130
+3	2	, but	125	M	0, 92, 124
 3	2	have the	77	M	2, 54, 78
 3	2	huh .	63	M	22, 72, 84
 3	2	it .	111	M	12, 18, 122
 3	2	uh .	95	M	22, 100, 116
+3	2	uhhh ,	73	M	14, 20, 86
+2	2	, the	23	M	12, 34
 2	2	a cadillac	3	M	62, 64
 2	2	a country	83	M	12, 94
 2	2	a little	25	M	46, 70
@@ -21,18 +32,21 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	do you	49	M	80, 128
 2	2	don't know	51	M	10, 60
 2	2	for a	45	M	48, 92
+2	2	huh ,	13	M	72, 84
 2	2	i'm a	23	M	70, 92
 2	2	is still	121	M	12, 132
 2	2	it is	133	M	0, 132
 2	2	it's not	113	M	12, 124
+2	2	know ,	41	M	48, 88
 2	2	no .	23	M	68, 90
 2	2	of the	3	M	130, 132
 2	2	sorry .	99	M	16, 114
 2	2	talking about	25	M	36, 60
 2	2	the same	27	M	2, 28
 2	2	think it's	127	M	0, 126
-2	2	uhh uh	63	M	56, 118
+2	2	uh ,	71	M	30, 100
 2	2	was a	11	M	48, 58
+2	2	well ,	81	M	12, 92
 2	2	would be	75	M	12, 86
 2	2	you have	3	M	76, 78
 24	1	i	131	M	0, 2, 6, 10, 18, 28, 36, 40, 46, 52, 54, 58, 60, 62, 74, 76, 86, 88, 92, 112, 122, 124, 126, 130
@@ -53,24 +67,18 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	have	77	M	2, 30, 54, 76, 78
 5	1	like	119	M	12, 18, 98, 124, 130
 5	1	not	113	M	12, 20, 44, 66, 124
-5	1	uhh	63	M	56, 60, 64, 90, 118
 5	1	what	55	M	44, 60, 82, 96, 98
-4	1	know	79	M	10, 48, 60, 88
 4	1	of	57	M	76, 96, 130, 132
 4	1	was	23	M	36, 38, 48, 58
 4	1	well	101	M	12, 92, 100, 112
-3	1	and	125	M	6, 40, 130
 3	1	be	81	M	12, 86, 92
-3	1	but	125	M	0, 92, 124
 3	1	do	117	M	12, 80, 128
 3	1	for	45	M	48, 54, 92
-3	1	huh	63	M	22, 72, 84
 3	1	in	73	M	40, 92, 112
 3	1	little	31	M	40, 46, 70
 3	1	on	47	M	40, 42, 86
 3	1	sorry	99	M	16, 38, 114
 3	1	still	121	M	12, 40, 132
-3	1	uhhh	73	M	14, 20, 86
 3	1	with	109	M	12, 92, 120
 3	1	would	87	M	12, 86, 98
 2	1	american	7	M	28, 34

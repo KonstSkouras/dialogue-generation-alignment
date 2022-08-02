@@ -1,10 +1,17 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	back to work .	49	M	33, 81
+2	3	, not a	59	M	15, 73
+2	3	, uh ,	109	M	3, 111
 2	3	. the .	9	M	11, 19
 2	3	i think they're	77	M	5, 81
 4	2	i think	77	M	5, 25, 67, 81
+3	2	, but	117	M	5, 43, 121
+3	2	, not	77	M	15, 73, 91
 3	2	not a	107	M	15, 73, 121
 3	2	to get	83	M	31, 81, 113
+2	2	, i	13	M	25, 37
+2	2	, it's	61	M	31, 91
+2	2	, uh	109	M	3, 111
 2	2	. i	67	M	51, 117
 2	2	a dog	111	M	15, 125
 2	2	a good	11	M	73, 83
@@ -20,9 +27,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	in the	37	M	5, 41
 2	2	it's a	37	M	31, 67
 2	2	it's not	69	M	13, 81
+2	2	just ,	3	M	73, 75
+2	2	know ,	3	M	35, 37
 2	2	know .	65	M	55, 119
 2	2	of the	49	M	41, 89
 2	2	the only	123	M	3, 125
+2	2	uh ,	109	M	3, 111
+2	2	yeah ,	49	M	43, 91
 15	1	i	119	M	5, 25, 27, 35, 37, 39, 51, 55, 61, 67, 81, 85, 117, 119, 123
 13	1	a	111	M	15, 17, 27, 31, 47, 51, 67, 73, 83, 109, 113, 121, 125
 11	1	you	105	M	19, 21, 33, 37, 47, 53, 59, 93, 101, 103, 123
@@ -43,7 +54,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	it	113	M	1, 25, 31, 113
 4	1	that's	119	M	3, 11, 17, 121
 4	1	what	105	M	19, 59, 63, 123
-3	1	but	117	M	5, 43, 121
 3	1	dog	111	M	15, 95, 125
 3	1	don't	77	M	47, 119, 123
 3	1	in	37	M	5, 31, 41
@@ -59,6 +69,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	so	5	M	91, 95
 2	1	thing	11	M	3, 13
 2	1	too	15	M	67, 81
-2	1	uh	109	M	3, 111
 2	1	yes	43	M	79, 121
 

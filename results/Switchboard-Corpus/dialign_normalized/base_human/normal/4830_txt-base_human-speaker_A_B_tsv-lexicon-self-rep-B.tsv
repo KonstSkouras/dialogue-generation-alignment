@@ -1,35 +1,50 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, like i said ,	11	B	53, 63
+2	4	, i mean ,	19	B	49, 67
+2	4	. that , that	37	B	29, 65
+4	3	, uh ,	23	B	43, 51, 53, 65
+2	3	, the ,	11	B	53, 63
 2	3	. right .	11	B	59, 69
-2	3	. that that	37	B	29, 65
 2	3	as far as	11	B	43, 53
 2	3	every case .	53	B	11, 63
 2	3	has their opinions	51	B	13, 63
-2	3	like i said	11	B	53, 63
 2	3	plea bargaining is	3	B	27, 29
+2	3	that , that	37	B	29, 65
 2	3	there's no way	45	B	9, 53
+2	3	you know ,	11	B	53, 63
 13	2	right .	65	B	5, 7, 15, 17, 23, 25, 31, 33, 37, 41, 43, 59, 69
+9	2	uh ,	55	B	11, 13, 43, 47, 51, 53, 55, 63, 65
+4	2	, i	19	B	49, 53, 65, 67
+3	2	, that	37	B	29, 51, 65
+3	2	, you	69	B	1, 63, 69
 3	2	. that	41	B	29, 65, 69
 3	2	. uh	47	B	7, 13, 53
 3	2	case .	59	B	11, 63, 69
 3	2	i mean	23	B	49, 67, 71
-3	2	the appeal	11	B	43, 51, 53
+2	2	, everyone	3	B	63, 65
+2	2	, his	3	B	47, 49
+2	2	, that's	31	B	23, 53
+2	2	, the	11	B	53, 63
+2	2	, there	45	B	7, 51
+2	2	, there's	65	B	9, 73
 2	2	. i	43	B	23, 65
 2	2	. there's	47	B	7, 53
 2	2	a trial	57	B	9, 65
-2	2	and you	11	B	63, 73
 2	2	appeal was	3	B	47, 49
+2	2	but ,	5	B	51, 55
 2	2	exactly .	3	B	57, 59
 2	2	for a	29	B	23, 51
 2	2	jury .	57	B	9, 65
 2	2	of the	17	B	53, 69
-2	2	that that	37	B	29, 65
+2	2	oh ,	35	B	23, 57
+2	2	the appeal	9	B	43, 51
 2	2	the case	25	B	45, 69
 2	2	the jury	17	B	53, 69
+2	2	there ,	3	B	7, 9
 2	2	two days	3	B	47, 49
 2	2	was denied	3	B	47, 49
-2	2	you know	11	B	53, 63
+2	2	well ,	15	B	53, 67
 14	1	right	65	B	5, 7, 15, 17, 23, 25, 31, 33, 37, 41, 43, 59, 65, 69
-10	1	uh	59	B	7, 11, 13, 43, 47, 51, 53, 55, 63, 65
 7	1	i	49	B	23, 49, 53, 63, 65, 67, 71
 7	1	is	59	B	7, 13, 27, 29, 51, 53, 65
 7	1	the	27	B	43, 45, 51, 53, 61, 63, 69
@@ -42,7 +57,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	of	63	B	7, 45, 49, 53, 69
 5	1	that	41	B	29, 51, 53, 65, 69
 4	1	there	61	B	7, 9, 51, 67
-4	1	there's	67	B	7, 9, 53, 73
 4	1	was	9	B	43, 47, 49, 51
 3	1	can	53	B	1, 11, 53
 3	1	every	53	B	11, 13, 63
@@ -55,7 +69,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	we	37	B	9, 39, 45
 3	1	well	41	B	27, 53, 67
 2	1	absurd	3	B	51, 53
-2	1	but	5	B	51, 55
 2	1	could	19	B	53, 71
 2	1	different	3	B	27, 29
 2	1	everyone	3	B	63, 65

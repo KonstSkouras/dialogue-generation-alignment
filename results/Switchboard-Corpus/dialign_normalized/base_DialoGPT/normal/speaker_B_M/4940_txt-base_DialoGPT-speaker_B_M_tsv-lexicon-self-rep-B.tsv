@@ -1,14 +1,19 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	3	, uh ,	33	M	7, 33, 39
 3	3	a lot of	5	M	19, 21, 23
 2	3	a car .	3	M	51, 53
 2	3	i don't know	3	M	31, 33
 2	3	i'm a bit	47	M	29, 75
 2	3	is the worst	5	M	13, 17
+3	2	, and	53	M	7, 35, 59
+3	2	, the	61	M	7, 13, 67
 3	2	car .	9	M	45, 51, 53
 3	2	i don't	19	M	31, 33, 49
 3	2	is a	27	M	35, 47, 61
 3	2	it's a	15	M	9, 15, 23
 3	2	there is	35	M	27, 37, 61
+2	2	, i	11	M	33, 43
+2	2	, so	19	M	9, 27
 2	2	a corn	3	M	29, 31
 2	2	a gas	3	M	45, 47
 2	2	a race	5	M	57, 61
@@ -16,7 +21,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	know .	29	M	3, 31
 2	2	like a	7	M	51, 57
 2	2	mexico city	3	M	17, 19
+2	2	no ,	25	M	13, 37
+2	2	oh ,	37	M	7, 43
 2	2	the worst	5	M	13, 17
+2	2	well ,	21	M	7, 27
 17	1	a	67	M	9, 15, 19, 21, 23, 29, 31, 35, 43, 45, 47, 51, 53, 57, 61, 63, 75
 11	1	i	75	M	3, 31, 33, 41, 43, 47, 49, 63, 65, 71, 77
 9	1	is	57	M	13, 17, 27, 35, 37, 47, 57, 61, 69
@@ -33,14 +41,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	that	27	M	31, 35, 47, 57
 4	1	they	63	M	3, 7, 59, 65
 3	1	about	33	M	3, 33, 35
-3	1	and	53	M	7, 35, 59
 3	1	city	5	M	15, 17, 19
 3	1	have	45	M	3, 7, 47
 3	1	like	7	M	51, 53, 57
 3	1	oh	37	M	7, 39, 43
 3	1	so	41	M	9, 27, 49
 3	1	that's	19	M	27, 39, 45
-3	1	uh	33	M	7, 33, 39
 3	1	was	43	M	35, 43, 77
 3	1	well	21	M	7, 21, 27
 2	1	are	15	M	51, 65

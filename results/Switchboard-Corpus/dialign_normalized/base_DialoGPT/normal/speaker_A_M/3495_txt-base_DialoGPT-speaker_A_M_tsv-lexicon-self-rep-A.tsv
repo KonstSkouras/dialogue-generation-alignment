@@ -1,23 +1,39 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, uh , i'm sure	35	A	8, 42
+2	5	and , uh , i'm	31	A	8, 38
+4	4	, uh , i'm	35	A	8, 14, 38, 42
+3	4	and , uh ,	39	A	0, 8, 38
+2	4	. uh , i	23	A	16, 38
+2	4	a , in a	13	A	26, 38
+2	4	and , course ,	5	A	38, 42
 2	4	and a lot of	35	A	8, 42
+2	4	here , uh ,	25	A	14, 38
+2	4	well , now ,	23	A	4, 26
+6	3	, uh ,	43	A	0, 8, 14, 38, 40, 42
+4	3	uh , i	39	A	0, 16, 18, 38
+3	3	a , a	9	A	8, 14, 16
 3	3	a lot of	35	A	8, 16, 42
-2	3	. uh i	23	A	16, 38
-2	3	a in a	13	A	26, 38
-2	3	and uh i'm	31	A	8, 38
+2	3	, i ,	5	A	14, 18
+2	3	, i guess	23	A	16, 38
+2	3	, i think	37	A	0, 36
+2	3	, in a	13	A	26, 38
+2	3	. well ,	11	A	4, 14
 2	3	the economy is	21	A	20, 40
 2	3	they used to	25	A	16, 40
-2	3	uh i'm sure	35	A	8, 42
-4	2	uh i	39	A	0, 16, 18, 38
-4	2	uh i'm	35	A	8, 14, 38, 42
-3	2	a a	9	A	8, 14, 16
-3	2	and uh	39	A	0, 8, 38
+8	2	uh ,	43	A	0, 8, 14, 16, 18, 38, 40, 42
+6	2	, i	39	A	0, 14, 16, 18, 36, 38
+5	2	a ,	31	A	8, 14, 16, 26, 38
+5	2	well ,	33	A	4, 14, 26, 30, 36
+4	2	, a	31	A	8, 14, 16, 38
+4	2	, i'm	35	A	8, 14, 38, 42
+3	2	, in	31	A	8, 26, 38
+3	2	now ,	23	A	4, 8, 26
 3	2	uh-huh .	25	A	4, 22, 28
 3	2	you know	35	A	8, 36, 42
-2	2	. well	11	A	4, 14
-2	2	and course	5	A	38, 42
-2	2	here uh	25	A	14, 38
-2	2	i guess	23	A	16, 38
-2	2	i think	37	A	0, 36
+2	2	, it	31	A	8, 38
+2	2	, or	29	A	16, 44
+2	2	, that	7	A	24, 30
+2	2	but ,	37	A	8, 44
 2	2	in a	13	A	26, 38
 2	2	kind of	5	A	38, 42
 2	2	like a	27	A	16, 42
@@ -25,13 +41,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	seems like	9	A	8, 16
 2	2	that .	19	A	6, 24
 2	2	that are	25	A	16, 40
+2	2	the ,	3	A	38, 40
 2	2	there is	29	A	8, 36
-2	2	well now	23	A	4, 26
 2	2	you have	35	A	8, 42
 9	1	is	37	A	8, 14, 16, 20, 24, 26, 36, 40, 44
 8	1	a	43	A	0, 8, 14, 16, 26, 38, 40, 42
 8	1	that	37	A	6, 16, 24, 26, 30, 38, 40, 42
-8	1	uh	43	A	0, 8, 14, 16, 18, 38, 40, 42
 7	1	i	39	A	0, 14, 16, 18, 32, 36, 38
 7	1	now	41	A	4, 8, 16, 26, 38, 40, 44
 6	1	and	43	A	0, 6, 8, 38, 40, 42
@@ -40,7 +55,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	of	37	A	6, 8, 16, 38, 42
 5	1	the	37	A	4, 16, 20, 38, 40
 5	1	to	37	A	4, 16, 24, 38, 40
-5	1	well	33	A	4, 14, 26, 30, 36
 4	1	dallas	31	A	14, 16, 38, 44
 4	1	i'm	35	A	8, 14, 38, 42
 4	1	know	35	A	8, 14, 36, 42

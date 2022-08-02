@@ -1,91 +1,126 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	uh i don't know i	13	M	43, 55
-3	4	i don't know i	41	M	43, 55, 83
-2	4	. i mean i	51	M	17, 67
-2	4	but i think that	25	M	75, 99
-2	4	i mean i i	51	M	17, 67
-2	4	i think that that	5	M	75, 79
-2	4	you have to have	5	M	71, 75
-2	4	you know and i	15	M	81, 95
+2	7	uh , i don't know , i	13	M	43, 55
+3	6	, i don't know , i	41	M	43, 55, 83
+2	6	, uh , you know ,	3	M	95, 97
+2	6	i mean , i , i	51	M	17, 67
+2	6	i think that , that ,	5	M	75, 79
+2	5	, i , i do	67	M	17, 83
+2	5	, i mean , i	17	M	67, 83
+2	5	, i think that ,	37	M	43, 79
+2	5	, you have to have	5	M	71, 75
+2	5	but , uh , i	41	M	43, 83
+2	5	but i think that ,	25	M	75, 99
+2	5	that , uh , you	5	M	71, 75
+2	5	you know , and i	15	M	81, 95
+5	4	, i , i	67	M	17, 63, 67, 79, 83
+4	4	, you know ,	17	M	83, 95, 97, 99
+3	4	, it , it	59	M	41, 73, 99
+3	4	i think , i	53	M	31, 43, 83
+3	4	that , uh ,	21	M	55, 71, 75
+2	4	, but i think	33	M	43, 75
+2	4	, i think it's	67	M	31, 97
+2	4	, i'm , i	29	M	67, 95
+2	4	, i'm not sure	15	M	83, 97
+2	4	, you , you	11	M	7, 17
+2	4	. i mean ,	71	M	17, 87
+2	4	. i think ,	67	M	31, 97
+2	4	and , um .	71	M	19, 89
+2	4	know , i think	55	M	43, 97
+8	3	, uh ,	97	M	1, 43, 55, 71, 75, 83, 95, 97
+6	3	, i ,	67	M	17, 63, 67, 71, 79, 83
+6	3	, i think	89	M	9, 31, 43, 79, 83, 97
+6	3	i , i	67	M	17, 63, 67, 71, 79, 83
+6	3	i mean ,	71	M	17, 23, 41, 67, 83, 87
+6	3	you know ,	45	M	55, 81, 83, 95, 97, 99
 4	3	but i think	57	M	43, 75, 77, 99
+4	3	don't know ,	61	M	23, 43, 55, 83
 4	3	i don't know	41	M	43, 55, 75, 83
-4	3	i think that	57	M	43, 75, 79, 99
+4	3	i think ,	67	M	31, 43, 83, 97
+3	3	, and i	21	M	75, 81, 95
+3	3	, i mean	17	M	67, 75, 83
+3	3	, i'm ,	41	M	55, 67, 95
+3	3	, i'm not	55	M	43, 83, 97
+3	3	, that ,	23	M	75, 79, 97
+3	3	, um .	71	M	19, 79, 89
+3	3	, you ,	69	M	7, 17, 75
 3	3	. i mean	71	M	17, 67, 87
 3	3	. i think	67	M	31, 71, 97
-3	3	i mean i	67	M	17, 67, 83
-3	3	i think i	53	M	31, 43, 83
+3	3	and , um	71	M	19, 87, 89
 3	3	i think it's	67	M	31, 71, 97
 3	3	i think that's	73	M	9, 77, 81
 3	3	i'm not sure	15	M	83, 87, 97
-3	3	uh you know	43	M	55, 95, 97
-2	3	and um .	71	M	19, 89
-2	3	but uh i	41	M	43, 83
-2	3	i i do	67	M	17, 83
-2	3	i mean you	13	M	75, 87
-2	3	know i think	55	M	43, 97
-2	3	that uh you	5	M	71, 75
-2	3	that you have	5	M	71, 75
+3	3	that , that	23	M	75, 79, 97
+3	3	you , you	69	M	7, 17, 75
+2	3	, i would	41	M	43, 83
+2	3	, it's ,	27	M	41, 67
+2	3	, uh .	33	M	51, 83
+2	3	, uh ...	55	M	1, 55
+2	3	and , and	79	M	17, 95
+2	3	and , uh	45	M	51, 95
+2	3	but , uh	41	M	43, 83
+2	3	that , you	25	M	75, 99
+2	3	they , they	17	M	7, 23
+2	3	uh , and	75	M	1, 75
 2	3	we have to	9	M	95, 103
 2	3	with it .	5	M	83, 87
-11	2	i think	91	M	9, 31, 43, 71, 75, 77, 79, 81, 83, 97, 99
+2	3	yeah , i	5	M	63, 67
+2	3	yeah , it	43	M	31, 73
+11	2	uh ,	103	M	1, 9, 43, 55, 71, 75, 83, 85, 95, 97, 103
 11	2	yeah .	97	M	5, 11, 13, 15, 27, 37, 39, 53, 65, 85, 101
-7	2	i mean	71	M	17, 23, 41, 67, 75, 83, 87
+10	2	, you	93	M	7, 17, 23, 71, 75, 83, 87, 95, 97, 99
+9	2	, uh	97	M	1, 43, 51, 55, 71, 75, 83, 95, 97
+8	2	know ,	77	M	23, 43, 55, 81, 83, 95, 97, 99
+8	2	that ,	83	M	17, 43, 55, 71, 75, 79, 97, 99
+7	2	, i'm	55	M	43, 55, 67, 71, 83, 95, 97
+7	2	and ,	89	M	7, 17, 19, 51, 87, 89, 95
 7	2	you know	93	M	7, 55, 81, 83, 95, 97, 99
-6	2	i i	67	M	17, 63, 67, 71, 79, 83
-5	2	don't know	61	M	23, 43, 55, 75, 83
+6	2	, and	95	M	1, 7, 17, 75, 81, 95
+6	2	i ,	67	M	17, 63, 67, 71, 79, 83
 5	2	have to	33	M	71, 75, 77, 95, 103
+5	2	it ,	99	M	1, 41, 73, 75, 99
 5	2	uh-huh .	67	M	3, 21, 25, 57, 69
-4	2	i'm not	55	M	43, 83, 87, 97
+5	2	yeah ,	43	M	31, 45, 63, 67, 73
 4	2	think that	57	M	43, 75, 79, 99
+3	2	, but	53	M	23, 43, 75
+3	2	, it's	67	M	1, 41, 67
+3	2	, they	23	M	1, 7, 23
 3	2	a very	31	M	43, 71, 73
-3	2	and i	21	M	75, 81, 95
-3	2	and um	71	M	19, 87, 89
-3	2	it it	59	M	41, 73, 99
+3	2	it's ,	67	M	1, 41, 67
 3	2	right .	17	M	45, 59, 61
-3	2	that that	23	M	75, 79, 97
-3	2	that uh	21	M	55, 71, 75
-3	2	that you	29	M	71, 75, 99
+3	2	so ,	63	M	29, 79, 91
 3	2	the jury	27	M	71, 93, 97
 3	2	to have	45	M	31, 71, 75
-3	2	um .	71	M	19, 79, 89
 3	2	with it	87	M	1, 83, 87
-3	2	you you	69	M	7, 17, 75
-2	2	and and	79	M	17, 95
+2	2	, they're	17	M	7, 23
+2	2	a ,	5	M	67, 71
 2	2	and it's	93	M	1, 93
-2	2	and uh	45	M	51, 95
-2	2	but uh	41	M	43, 83
+2	2	are ,	11	M	7, 17
+2	2	do ,	17	M	83, 99
 2	2	have a	5	M	71, 75
 2	2	have the	9	M	23, 31
 2	2	i know	29	M	67, 95
 2	2	i would	41	M	43, 83
-2	2	i'm i	29	M	67, 95
 2	2	it's a	29	M	43, 71
 2	2	it's not	71	M	1, 71
 2	2	know that	17	M	67, 83
-2	2	know they	17	M	7, 23
 2	2	of the	11	M	71, 81
 2	2	people that	97	M	7, 103
 2	2	sad .	65	M	17, 81
 2	2	that the	81	M	17, 97
+2	2	that you	29	M	71, 99
 2	2	these people	93	M	7, 99
 2	2	they can	65	M	23, 87
 2	2	they don't	23	M	1, 23
-2	2	they they	17	M	7, 23
+2	2	to ,	23	M	1, 23
 2	2	to do	3	M	97, 99
 2	2	to make	5	M	99, 103
-2	2	uh .	33	M	51, 83
-2	2	uh ...	55	M	1, 55
-2	2	uh and	75	M	1, 75
 2	2	would be	17	M	83, 99
-2	2	yeah i	5	M	63, 67
-2	2	yeah it	43	M	31, 73
-16	1	yeah	97	M	5, 11, 13, 15, 27, 31, 37, 39, 45, 53, 63, 65, 67, 73, 85, 101
+2	2	you have	5	M	71, 75
 15	1	that	103	M	1, 7, 17, 41, 43, 55, 67, 71, 75, 79, 83, 93, 97, 99, 103
 14	1	you	99	M	7, 17, 23, 55, 63, 71, 75, 81, 83, 87, 95, 97, 99, 105
 12	1	and	95	M	1, 7, 17, 19, 51, 71, 75, 81, 87, 89, 93, 95
 12	1	think	91	M	9, 31, 43, 67, 71, 75, 77, 79, 81, 83, 97, 99
 12	1	to	103	M	1, 23, 31, 67, 71, 75, 77, 83, 95, 97, 99, 103
-12	1	uh	103	M	1, 9, 43, 51, 55, 71, 75, 83, 85, 95, 97, 103
 11	1	the	103	M	1, 17, 23, 31, 41, 71, 81, 93, 95, 97, 103
 9	1	it	99	M	1, 31, 41, 73, 75, 83, 87, 95, 99
 9	1	it's	97	M	1, 17, 31, 41, 43, 67, 71, 93, 97

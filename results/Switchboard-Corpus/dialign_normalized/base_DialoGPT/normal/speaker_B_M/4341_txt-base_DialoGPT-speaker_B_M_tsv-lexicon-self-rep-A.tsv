@@ -1,17 +1,28 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	and i don't think that	5	B	10, 14
 2	5	really warrant capital punishment .	3	B	12, 14
+3	4	, i think that	15	B	12, 22, 26
+2	4	and i don't think	5	B	10, 14
+2	4	think that , that	3	B	10, 12
 3	3	capital punishment .	23	B	12, 14, 34
-3	3	i think that	15	B	12, 22, 26
-2	3	think that that	3	B	10, 12
-2	3	think that would	9	B	14, 22
+2	3	i mean ,	9	B	0, 8
+2	3	well , i	13	B	22, 34
 7	2	i think	23	B	6, 12, 18, 20, 22, 26, 28
+5	2	, i	23	B	12, 18, 22, 26, 34
+4	2	but ,	19	B	12, 26, 28, 30
 4	2	punishment .	23	B	12, 14, 22, 34
+3	2	, that	5	B	10, 12, 14
 3	2	i don't	9	B	10, 14, 18
+3	2	well ,	31	B	4, 22, 34
+2	2	, for	9	B	4, 12
+2	2	, just	9	B	12, 20
+2	2	, like	17	B	12, 28
+2	2	, you	5	B	8, 12
+2	2	and ,	5	B	20, 24
 2	2	i mean	9	B	0, 8
 2	2	it is	11	B	6, 16
 2	2	should be	3	B	26, 28
-2	2	well i	13	B	22, 34
+2	2	that would	9	B	14, 22
+2	2	think ,	5	B	14, 18
 12	1	i	35	B	0, 6, 8, 10, 12, 14, 18, 20, 22, 26, 28, 34
 8	1	that	27	B	6, 8, 10, 12, 14, 22, 26, 32
 7	1	and	29	B	8, 10, 14, 20, 24, 32, 36
@@ -33,7 +44,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	know	23	B	12, 18, 34
 3	1	then	17	B	12, 26, 28
 3	1	to	17	B	16, 28, 32
-3	1	well	31	B	4, 22, 34
 2	1	because	13	B	6, 18
 2	1	carolina	3	B	34, 36
 2	1	extent	5	B	16, 20

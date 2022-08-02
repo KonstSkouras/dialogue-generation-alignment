@@ -1,24 +1,24 @@
 A|0| B: uh-huh . 
-B|1| M: uhhh _did_ _you_ go _to _the_ e_ o ? 
-A|2| B: _uh i didn't think that_ _was a_ _new_ revelation . 
-B|3| M: uhhh [uh i didn't think that] _the_ epub [was a] thing yet . 
-A|4| B: right . so what what _is_ _the e p a_ recommending now ? 
+B|1| M: uhhh , _did_ _you_ go _to _the_ e_ o ? 
+A|2| B: _uh , i didn't think that_ _was a_ _new_ revelation . 
+B|3| M: uhhh _, [uh , i_ didn't think that] _the_ epub [was a] thing yet . 
+A|4| B: right . so , what what _is_ _the e p a_ recommending now ? 
 B|5| M: [i] don't know . i'm _just_ [a] little confused . 
 A|6| B: uh-huh . 
 B|7| M: [the e p a] [is] [a] pretty [new] proposal . 
 A|8| B: _yeah ._ 
 B|9| M:  ... 
-A|10| B: right . that's [a] that's [a] common _problem_ though . [that] _it_ seems [that] has happened in dallas as well as [new] york and [i] try [to] _recycle_ all of [the] newspapers [that] come [to] my house and after [a] while [i] [just] quit taking [the] newspaper because [i] couldn't _recycle_ _it_ anymore which isn't _good_ for business on [the] other end either [i] suppose . 
+A|10| B: right . that's [a] , that's [a] common _problem_ though . [that] _it_ seems , [that] has happened in dallas as well as [new] york and [i] try [to] _recycle_ all of [the] newspapers [that] come [to] my house and after [a] while [i] [just] quit taking [the] newspaper because [i] couldn't _recycle_ _it_ anymore which isn't _good_ for business on [the] other end either [, i] suppose . 
 B|11| M:  . 
 A|12| B: uh-huh . 
 B|13| M: this [is] [it] 
 A|14| B: right . 
 B|15| M: [i] don't 
-A|16| B: well that's _good_ . 
+A|16| B: well , that's _good_ . 
 B|17| M: i've had [a] few people have said [that] _they're_ not buying _it ._ 
-A|18| B: right . there has [to] be [uh] [a] reuse for [it _.] i mean_ that's why _they_ _recycle_ . [the] one [i] [think] [is] [the] most interesting [is] with [the] recycled bottles and all [that] [uh] [the] industry seems [to] be doing with [the] recycled polymers . [uh] everything from [uh] waste baskets [to] carpet [to the] no stick _i mean_ [the] sticky slide rugs under [the] carpet 
+A|18| B: right . there has [to] be [, uh ,] [a] reuse for [it _.] i mean_ , that's why _they_ _recycle_ . [the] one [i] [think] [is] [the] most interesting [is] with [the] recycled bottles and all [that] [, uh ,] [the] industry seems [to] be doing with [the] recycled polymers . [uh ,] everything from [, uh ,] waste baskets [to] carpet [to the] no stick [, _i] mean_ [the] sticky slide rugs under [the] carpet 
 B|19| M:  
-A|20| B: and [uh i] [think] _they are_ _even_ putting [it] in [the] roadways these days and [they're] making clothes now [that] _are_ recycled . like [the] recycled plastic coke bottles and and milk cartons and things like _that ._ 
+A|20| B: and [, uh , i] [think] _they are_ _even_ putting [it] in [the] roadways these days and [they're] making clothes now [that] _are_ recycled . like [the] recycled plastic coke bottles and and milk cartons and things like _that ._ 
 B|21| M: [they are] recy [recycle] 
 A|22| B: uh-huh . 
 B|23| M:  ? 
@@ -28,13 +28,13 @@ A|26| B: right .
 B|27| M: [i] [was] [just] joking 
 A|28| B: huh . 
 B|29| M: solar panels can't [even] do [that .] 
-A|30| B: well _it's_ _carbon_ so [that] makes sense like [a] _carbon_ fuel of some sort _but_ what what about _emissions_ ? 
+A|30| B: well , _it's_ _carbon_ so [that] makes sense , like [a] _carbon_ fuel of some sort , _but_ what what about _emissions_ ? 
 B|31| M: [but] ... [carbon] dioxide [emissions] [are] only [a] [problem] if _you_ [are] burning [it .] 
 A|32| B: oh . 
 B|33| M: [i] know [that [.] i mean] [it's] [just] paper . 
 A|34| B: okay 
 B|35| M: i'll burn [it .] 
-A|36| B: no . well [it's] interesting [. i] bet [that] [was _a] good_ day at [the] _yeah_ conference then . 
+A|36| B: no . well [it's] interesting [. i] bet [that] [was _a] good_ day , at [the] _yeah_ , conference then . 
 B|37| M: [yeah .] she's [a good] cook 
 A|38| B: [did] [it] change anything for [you] ? 
 B|39| M: [i] [was] [just] wondering 
@@ -44,26 +44,26 @@ TURN DETAILS:
 Turn ID=0| A | B : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=1| B | M : uhhh did you go to the e o ?
+Turn ID=1| B | M : uhhh , did you go to the e o ?
 	Free: Pattern=the e, Pattern=to the, Pattern=did, Pattern=you
 	Constrained: Pattern=to, Pattern=the
-Turn ID=2| A | B : uh i didn't think that was a new revelation .
-	Free: Pattern=uh i didn't think that, Pattern=was a, Pattern=new
-	Constrained: Pattern=uh, Pattern=a, Pattern=think, Pattern=i, Pattern=uh i, Pattern=was, Pattern=that
-Turn ID=3| B | M : uhhh uh i didn't think that the epub was a thing yet .
-	Free: Pattern=uh i didn't think that, Pattern=was a, Pattern=the
-	Constrained: Pattern=uh, Pattern=a, Pattern=think, Pattern=i, Pattern=uh i, Pattern=was, Pattern=that
-Turn ID=4| A | B : right . so what what is the e p a recommending now ?
+Turn ID=2| A | B : uh , i didn't think that was a new revelation .
+	Free: Pattern=uh , i didn't think that, Pattern=was a, Pattern=new
+	Constrained: Pattern=a, Pattern=think, Pattern=i, Pattern=was, Pattern=that, Pattern=uh ,, Pattern=, i
+Turn ID=3| B | M : uhhh , uh , i didn't think that the epub was a thing yet .
+	Free: Pattern=uh , i didn't think that, Pattern=, uh , i, Pattern=was a, Pattern=the
+	Constrained: Pattern=a, Pattern=think, Pattern=i, Pattern=, uh ,, Pattern=was, Pattern=that, Pattern=uh ,, Pattern=, i
+Turn ID=4| A | B : right . so , what what is the e p a recommending now ?
 	Free: Pattern=the e p a, Pattern=is
 	Constrained: Pattern=a, Pattern=the e, Pattern=the
 Turn ID=5| B | M : i don't know . i'm just a little confused .
-	Free: Pattern=i, Pattern=a, Pattern=just
+	Free: Pattern=a, Pattern=i, Pattern=just
 	Constrained: 
 Turn ID=6| A | B : uh-huh .
 	Free: 
 	Constrained: 
 Turn ID=7| B | M : the e p a is a pretty new proposal .
-	Free: Pattern=the e p a, Pattern=a, Pattern=is, Pattern=new
+	Free: Pattern=the e p a, Pattern=a, Pattern=new, Pattern=is
 	Constrained: Pattern=a, Pattern=the e, Pattern=the
 Turn ID=8| A | B : yeah .
 	Free: Pattern=yeah .
@@ -71,9 +71,9 @@ Turn ID=8| A | B : yeah .
 Turn ID=9| B | M :  ...
 	Free: 
 	Constrained: 
-Turn ID=10| A | B : right . that's a that's a common problem though . that it seems that has happened in dallas as well as new york and i try to recycle all of the newspapers that come to my house and after a while i just quit taking the newspaper because i couldn't recycle it anymore which isn't good for business on the other end either i suppose .
-	Free: Pattern=good, Pattern=recycle, Pattern=just, Pattern=a, Pattern=it, Pattern=i, Pattern=the, Pattern=to, Pattern=that, Pattern=problem, Pattern=new
-	Constrained: 
+Turn ID=10| A | B : right . that's a , that's a common problem though . that it seems , that has happened in dallas as well as new york and i try to recycle all of the newspapers that come to my house and after a while i just quit taking the newspaper because i couldn't recycle it anymore which isn't good for business on the other end either , i suppose .
+	Free: Pattern=good, Pattern=recycle, Pattern=just, Pattern=a, Pattern=it, Pattern=i, Pattern=to, Pattern=that, Pattern=problem, Pattern=new, Pattern=the, Pattern=, i
+	Constrained: Pattern=i
 Turn ID=11| B | M :  .
 	Free: 
 	Constrained: 
@@ -89,24 +89,24 @@ Turn ID=14| A | B : right .
 Turn ID=15| B | M : i don't
 	Free: Pattern=i
 	Constrained: 
-Turn ID=16| A | B : well that's good .
+Turn ID=16| A | B : well , that's good .
 	Free: Pattern=good
 	Constrained: 
 Turn ID=17| B | M : i've had a few people have said that they're not buying it .
-	Free: Pattern=it ., Pattern=that, Pattern=a, Pattern=they're
+	Free: Pattern=it ., Pattern=a, Pattern=they're, Pattern=that
 	Constrained: Pattern=it
-Turn ID=18| A | B : right . there has to be uh a reuse for it . i mean that's why they recycle . the one i think is the most interesting is with the recycled bottles and all that uh the industry seems to be doing with the recycled polymers . uh everything from uh waste baskets to carpet to the no stick i mean the sticky slide rugs under the carpet
-	Free: Pattern=they, Pattern=a, Pattern=to the, Pattern=think, Pattern=the, Pattern=to, Pattern=. i mean, Pattern=that, Pattern=uh, Pattern=recycle, Pattern=it ., Pattern=is, Pattern=i mean, Pattern=i
-	Constrained: Pattern=it, Pattern=. i, Pattern=the, Pattern=to, Pattern=i mean, Pattern=i
+Turn ID=18| A | B : right . there has to be , uh , a reuse for it . i mean , that's why they recycle . the one i think is the most interesting is with the recycled bottles and all that , uh , the industry seems to be doing with the recycled polymers . uh , everything from , uh , waste baskets to carpet to the no stick , i mean the sticky slide rugs under the carpet
+	Free: Pattern=they, Pattern=a, Pattern=to the, Pattern=think, Pattern=, uh ,, Pattern=to, Pattern=. i mean, Pattern=that, Pattern=recycle, Pattern=it ., Pattern=is, Pattern=i mean, Pattern=i, Pattern=uh ,, Pattern=the, Pattern=, i
+	Constrained: Pattern=it, Pattern=. i, Pattern=to, Pattern=i mean, Pattern=i, Pattern=uh ,, Pattern=the
 Turn ID=19| B | M : 
 	Free: 
 	Constrained: 
-Turn ID=20| A | B : and uh i think they are even putting it in the roadways these days and they're making clothes now that are recycled . like the recycled plastic coke bottles and and milk cartons and things like that .
-	Free: Pattern=that ., Pattern=even, Pattern=it, Pattern=are, Pattern=they are, Pattern=they're, Pattern=think, Pattern=the, Pattern=uh i, Pattern=that
-	Constrained: Pattern=uh, Pattern=they, Pattern=are, Pattern=i, Pattern=that
+Turn ID=20| A | B : and , uh , i think they are even putting it in the roadways these days and they're making clothes now that are recycled . like the recycled plastic coke bottles and and milk cartons and things like that .
+	Free: Pattern=that ., Pattern=, uh , i, Pattern=even, Pattern=it, Pattern=are, Pattern=they are, Pattern=they're, Pattern=think, Pattern=the, Pattern=that
+	Constrained: Pattern=they, Pattern=are, Pattern=i, Pattern=, uh ,, Pattern=that, Pattern=uh ,, Pattern=, i
 Turn ID=21| B | M : they are recy recycle
 	Free: Pattern=they are, Pattern=recycle
-	Constrained: Pattern=they, Pattern=are
+	Constrained: Pattern=are, Pattern=they
 Turn ID=22| A | B : uh-huh .
 	Free: 
 	Constrained: 
@@ -123,7 +123,7 @@ Turn ID=26| A | B : right .
 	Free: 
 	Constrained: 
 Turn ID=27| B | M : i was just joking
-	Free: Pattern=i, Pattern=just, Pattern=was
+	Free: Pattern=was, Pattern=i, Pattern=just
 	Constrained: 
 Turn ID=28| A | B : huh .
 	Free: 
@@ -131,7 +131,7 @@ Turn ID=28| A | B : huh .
 Turn ID=29| B | M : solar panels can't even do that .
 	Free: Pattern=that ., Pattern=even
 	Constrained: Pattern=that
-Turn ID=30| A | B : well it's carbon so that makes sense like a carbon fuel of some sort but what what about emissions ?
+Turn ID=30| A | B : well , it's carbon so that makes sense , like a carbon fuel of some sort , but what what about emissions ?
 	Free: Pattern=a, Pattern=carbon, Pattern=emissions, Pattern=that, Pattern=it's, Pattern=but
 	Constrained: 
 Turn ID=31| B | M : but ... carbon dioxide emissions are only a problem if you are burning it .
@@ -149,15 +149,15 @@ Turn ID=34| A | B : okay
 Turn ID=35| B | M : i'll burn it .
 	Free: Pattern=it .
 	Constrained: Pattern=it
-Turn ID=36| A | B : no . well it's interesting . i bet that was a good day at the yeah conference then .
+Turn ID=36| A | B : no . well it's interesting . i bet that was a good day , at the yeah , conference then .
 	Free: Pattern=a good, Pattern=yeah, Pattern=was a, Pattern=. i, Pattern=the, Pattern=that, Pattern=it's
-	Constrained: Pattern=good, Pattern=i, Pattern=a, Pattern=was
+	Constrained: Pattern=a, Pattern=was, Pattern=i, Pattern=good
 Turn ID=37| B | M : yeah . she's a good cook
 	Free: Pattern=yeah ., Pattern=a good
-	Constrained: Pattern=good, Pattern=yeah, Pattern=a
+	Constrained: Pattern=a, Pattern=good, Pattern=yeah
 Turn ID=38| A | B : did it change anything for you ?
-	Free: Pattern=did, Pattern=it, Pattern=you
+	Free: Pattern=it, Pattern=did, Pattern=you
 	Constrained: 
 Turn ID=39| B | M : i was just wondering
-	Free: Pattern=i, Pattern=just, Pattern=was
+	Free: Pattern=was, Pattern=i, Pattern=just
 	Constrained: 

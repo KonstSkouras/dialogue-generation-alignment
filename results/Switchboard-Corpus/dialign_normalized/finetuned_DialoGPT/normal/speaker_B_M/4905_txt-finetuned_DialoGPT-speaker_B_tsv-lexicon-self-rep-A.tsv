@@ -1,48 +1,67 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	you know it's kind of	31	B	12, 42
+2	6	you know , it's kind of	31	B	12, 42
+2	5	, you know , a	45	B	0, 44
+2	5	, you know , what	43	B	2, 44
+2	5	, you know , you	31	B	2, 32
+11	4	, you know ,	49	B	0, 2, 6, 14, 26, 28, 32, 40, 42, 44, 48
+4	4	, you know .	43	B	2, 10, 32, 44
+2	4	at , you know	5	B	2, 6
+2	4	you know , all	11	B	4, 14
+13	3	you know ,	49	B	0, 2, 4, 6, 12, 14, 26, 28, 32, 40, 42, 44, 48
+12	3	, you know	49	B	0, 2, 6, 10, 14, 26, 28, 32, 40, 42, 44, 48
+7	3	, uh ,	45	B	0, 6, 24, 26, 40, 42, 44
 6	3	you know .	43	B	2, 10, 32, 34, 42, 44
 4	3	it's kind of	33	B	12, 30, 42, 44
+3	3	. uh ,	27	B	0, 6, 26
 3	3	a lot of	31	B	8, 26, 38
+2	3	, yeah ,	45	B	0, 44
 2	3	. it's like	15	B	34, 48
-2	3	. uh and	5	B	2, 6
-2	3	at you know	5	B	2, 6
 2	3	cause i've been	35	B	8, 42
 2	3	health care is	13	B	2, 14
 2	3	i've worked for	43	B	0, 42
-2	3	like well you	5	B	44, 48
 2	3	or something .	31	B	14, 44
-2	3	you know a	45	B	0, 44
-2	3	you know all	11	B	4, 14
-2	3	you know what	43	B	2, 44
-2	3	you know you	31	B	2, 32
-15	2	you know	49	B	0, 2, 4, 6, 10, 12, 14, 26, 28, 32, 34, 40, 42, 44, 48
+2	3	uh , cause	15	B	8, 22
+13	2	, you	49	B	0, 2, 6, 10, 14, 26, 28, 32, 34, 40, 42, 44, 48
+11	2	uh ,	45	B	0, 6, 8, 14, 22, 24, 26, 38, 40, 42, 44
+6	2	, i	45	B	0, 12, 14, 26, 40, 44
 6	2	kind of	45	B	0, 2, 12, 30, 42, 44
 5	2	. uh	27	B	0, 2, 6, 14, 26
 5	2	yeah .	41	B	0, 16, 20, 36, 40
+4	2	, a	49	B	0, 38, 44, 48
 4	2	a lot	37	B	8, 26, 38, 44
 4	2	i think	39	B	2, 12, 30, 40
 4	2	work .	39	B	4, 6, 40, 42
+3	2	, and	37	B	6, 28, 42
+3	2	, especially	43	B	2, 42, 44
+3	2	, it's	31	B	12, 34, 42
 3	2	. and	43	B	0, 32, 42
 3	2	health care	15	B	0, 2, 14
 3	2	i guess	35	B	6, 38, 40
+3	2	like ,	19	B	26, 34, 44
 3	2	or something	35	B	14, 44, 48
 3	2	vacation time	9	B	0, 6, 8
+3	2	yeah ,	45	B	0, 28, 44
+2	2	, is	35	B	6, 40
+2	2	, like	45	B	0, 44
+2	2	, sometimes	25	B	8, 32
 2	2	. i	7	B	34, 40
 2	2	. so	45	B	0, 44
 2	2	. you	39	B	4, 42
+2	2	a ,	23	B	6, 28
 2	2	a big	17	B	6, 22
+2	2	and ,	7	B	0, 6
 2	2	and especially	9	B	34, 42
 2	2	and i	25	B	6, 30
 2	2	and others	9	B	0, 8
 2	2	and so	27	B	0, 26
 2	2	and stuff	41	B	0, 40
 2	2	and they	45	B	0, 44
-2	2	and you	33	B	0, 32
-2	2	do you	5	B	44, 48
+2	2	are ,	21	B	0, 20
 2	2	does that	41	B	4, 44
 2	2	especially if	3	B	42, 44
 2	2	especially in	9	B	34, 42
 2	2	get home	7	B	26, 32
+2	2	getting ,	11	B	32, 42
 2	2	hard to	3	B	44, 46
 2	2	i mean	3	B	32, 34
 2	2	i've worked	43	B	0, 42
@@ -57,7 +76,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	she works	3	B	24, 26
 2	2	that at	13	B	28, 40
 2	2	the kids	5	B	26, 30
-2	2	uh cause	15	B	8, 22
 2	2	wind up	29	B	14, 42
 2	2	with a	9	B	0, 8
 2	2	you can	29	B	14, 42
@@ -65,8 +83,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 15	1	a	49	B	0, 6, 8, 12, 14, 22, 24, 26, 28, 34, 38, 40, 42, 44, 48
 15	1	and	45	B	0, 2, 4, 6, 8, 12, 24, 26, 28, 30, 32, 34, 40, 42, 44
 15	1	you	49	B	0, 2, 4, 6, 10, 12, 14, 26, 28, 32, 34, 40, 42, 44, 48
-12	1	i	45	B	0, 2, 6, 12, 14, 26, 30, 32, 34, 38, 40, 44
-12	1	uh	45	B	0, 2, 6, 8, 14, 22, 24, 26, 38, 40, 42, 44
 11	1	of	45	B	0, 2, 6, 8, 12, 26, 30, 38, 40, 42, 44
 11	1	that	47	B	0, 2, 4, 8, 14, 22, 28, 32, 40, 44, 46
 9	1	it's	37	B	12, 30, 32, 34, 40, 42, 44, 46, 48
@@ -74,7 +90,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	like	49	B	0, 26, 34, 40, 42, 44, 46, 48
 7	1	in	43	B	0, 14, 24, 26, 32, 34, 42
 7	1	the	41	B	0, 2, 4, 26, 30, 34, 40
-7	1	yeah	45	B	0, 16, 20, 28, 36, 40, 44
 6	1	for	43	B	0, 4, 6, 14, 32, 42
 6	1	or	49	B	0, 4, 14, 32, 44, 48
 6	1	with	45	B	0, 2, 8, 30, 32, 44
@@ -87,7 +102,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	all	41	B	4, 14, 28, 44
 4	1	as	23	B	20, 24, 32, 42
 4	1	do	21	B	28, 32, 44, 48
-4	1	especially	43	B	2, 34, 42, 44
 4	1	get	23	B	26, 32, 34, 48
 4	1	have	27	B	0, 2, 6, 26
 4	1	i've	45	B	0, 8, 42, 44
@@ -118,7 +132,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	dark	3	B	32, 34
 2	1	does	41	B	4, 44
 2	1	even	19	B	14, 32
-2	1	getting	11	B	32, 42
 2	1	it	39	B	4, 42
 2	1	jobs	3	B	0, 2
 2	1	look	43	B	2, 44

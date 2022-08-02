@@ -2,34 +2,47 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	7	they don't look a thing a like	5	A	123, 127
 2	5	he jumped off the balcony	23	A	5, 27
 2	5	the first one i got	19	A	5, 23
+3	4	, you know ,	151	A	7, 81, 157
+2	4	, i can imagine	73	A	43, 115
 2	4	and he was the	3	A	79, 81
 2	4	my cats . i	113	A	3, 115
 2	4	oh my gosh .	9	A	37, 45
+5	3	, i had	89	A	11, 73, 83, 91, 99
+4	3	, uh ,	153	A	3, 75, 85, 155
+4	3	oh yeah ,	49	A	55, 63, 95, 103
 3	3	cats . i	113	A	3, 99, 115
+3	3	oh , i	61	A	39, 43, 99
+2	3	, he ,	5	A	87, 91
+2	3	, i love	167	A	3, 169
+2	3	, the whole	77	A	81, 157
 2	3	. i love	11	A	105, 115
-2	3	i can imagine	73	A	43, 115
+2	3	. yeah ,	43	A	73, 115
 2	3	i feel like	5	A	55, 59
 2	3	i imagine .	13	A	39, 51
-2	3	i know it's	127	A	17, 143
+2	3	i know ,	153	A	17, 169
 2	3	love cats .	59	A	99, 157
-2	3	of course i	75	A	83, 157
-2	3	oh how funny	97	A	19, 115
-2	3	precious and rascal	3	A	121, 123
+2	3	oh , how	101	A	19, 119
 2	3	so funny .	51	A	107, 157
 2	3	to death .	91	A	25, 115
 2	3	weaned too young	3	A	85, 87
+2	3	yeah , i	61	A	55, 115
+15	2	, i	167	A	3, 9, 11, 21, 39, 43, 55, 61, 73, 83, 87, 91, 99, 115, 169
+7	2	yeah ,	61	A	55, 63, 73, 87, 95, 103, 115
 6	2	. i	113	A	3, 9, 83, 99, 105, 115
 6	2	and they	145	A	13, 23, 107, 123, 129, 157
+6	2	oh ,	101	A	19, 39, 43, 63, 99, 119
+5	2	, you	151	A	7, 9, 81, 85, 157
 5	2	cats .	155	A	3, 21, 99, 115, 157
-5	2	i had	89	A	11, 73, 83, 91, 99
 5	2	i love	167	A	3, 105, 115, 157, 169
-5	2	oh i	125	A	39, 43, 99, 143, 163
 5	2	oh yeah	89	A	15, 55, 63, 95, 103
+4	2	, the	137	A	21, 23, 81, 157
+4	2	, they	145	A	13, 23, 103, 157
 4	2	and he	9	A	79, 81, 85, 87
 4	2	he was	9	A	79, 81, 85, 87
 4	2	him .	129	A	29, 83, 89, 157
 4	2	i know	153	A	17, 143, 145, 169
 4	2	really .	71	A	71, 109, 135, 141
+3	2	, it's	153	A	17, 105, 169
 3	2	. it	107	A	51, 73, 157
 3	2	and i	69	A	9, 59, 77
 3	2	and it	149	A	9, 57, 157
@@ -40,15 +53,21 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	he doesn't	71	A	23, 91, 93
 3	2	i got	69	A	5, 23, 73
 3	2	imagine .	77	A	39, 51, 115
-3	2	oh how	101	A	19, 115, 119
 3	2	so funny	53	A	105, 107, 157
 3	2	so i	59	A	17, 23, 75
 3	2	the time	125	A	27, 59, 151
 3	2	they don't	67	A	61, 123, 127
-3	2	you know	151	A	7, 81, 157
+2	2	, and	59	A	63, 121
+2	2	, because	19	A	87, 105
+2	2	, he	5	A	87, 91
+2	2	, like	83	A	7, 89
+2	2	, of	153	A	5, 157
+2	2	, oh	103	A	63, 165
+2	2	, so	65	A	23, 87
+2	2	, we	23	A	73, 95
 2	2	. but	37	A	23, 59
-2	2	. yeah	43	A	73, 115
 2	2	a dog	53	A	99, 151
+2	2	actually ,	19	A	5, 23
 2	2	apartment .	69	A	5, 73
 2	2	but he	5	A	89, 93
 2	2	definitely .	15	A	147, 161
@@ -57,6 +76,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	have the	39	A	21, 59
 2	2	he is	5	A	85, 89
 2	2	he said	71	A	87, 157
+2	2	how funny	97	A	19, 115
 2	2	hysterical .	5	A	9, 13
 2	2	i can't	5	A	55, 59
 2	2	i have	101	A	21, 121
@@ -65,26 +85,32 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	is a	3	A	123, 125
 2	2	it .	51	A	23, 73
 2	2	it was	83	A	75, 157
+2	2	just ,	33	A	61, 93
 2	2	kind of	71	A	23, 93
 2	2	kittens .	5	A	75, 79
+2	2	like ,	121	A	7, 127
 2	2	love it	83	A	23, 105
 2	2	no .	19	A	35, 53
+2	2	of course	75	A	83, 157
 2	2	of the	81	A	63, 143
 2	2	of them	3	A	55, 57
 2	2	oh .	7	A	131, 137
+2	2	oh i	21	A	143, 163
 2	2	oldest one	139	A	1, 139
 2	2	on a	83	A	75, 157
+2	2	one ,	21	A	3, 23
 2	2	outdoor cats	35	A	21, 55
+2	2	outside ,	49	A	7, 55
 2	2	that was	61	A	13, 73
 2	2	that's how	23	A	145, 167
 2	2	the other	3	A	21, 23
 2	2	the road	17	A	63, 79
-2	2	the whole	77	A	81, 157
 2	2	them .	27	A	51, 77
+2	2	there ,	71	A	23, 93
 2	2	uh-huh .	45	A	67, 111
+2	2	was ,	79	A	9, 87
 2	2	was so	145	A	13, 157
 2	2	yeah .	135	A	15, 149
-2	2	yeah i	61	A	55, 115
 2	2	you can	67	A	85, 151
 31	1	i	169	A	1, 3, 5, 9, 11, 17, 21, 23, 27, 39, 41, 43, 51, 55, 59, 61, 73, 75, 77, 83, 87, 91, 99, 105, 115, 121, 143, 145, 157, 163, 169
 24	1	and	151	A	7, 9, 13, 23, 29, 57, 59, 63, 65, 73, 75, 77, 79, 81, 85, 87, 93, 107, 121, 123, 125, 129, 151, 157
@@ -104,7 +130,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 10	1	so	145	A	13, 17, 23, 75, 83, 87, 105, 107, 133, 157
 10	1	was	149	A	9, 13, 17, 73, 75, 79, 81, 85, 87, 157
 9	1	had	157	A	1, 9, 11, 73, 79, 83, 91, 99, 157
-9	1	yeah	135	A	15, 55, 63, 73, 87, 95, 103, 115, 149
 8	1	are	131	A	21, 33, 45, 51, 105, 117, 123, 151
 8	1	have	147	A	9, 21, 59, 73, 91, 121, 153, 155
 8	1	my	115	A	1, 3, 37, 45, 55, 63, 73, 115
@@ -139,7 +164,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	on	95	A	63, 75, 85, 157
 4	1	probably	87	A	1, 29, 31, 87
 4	1	they're	79	A	23, 55, 99, 101
-4	1	uh	153	A	3, 75, 85, 155
 4	1	with	135	A	23, 43, 59, 157
 3	1	apartment	69	A	5, 11, 73
 3	1	from	103	A	27, 73, 129
@@ -198,7 +222,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	talking	115	A	55, 169
 2	1	their	9	A	97, 105
 2	1	up	99	A	59, 157
-2	1	we	23	A	73, 95
 2	1	would	145	A	9, 153
 2	1	xanadu	25	A	121, 145
 2	1	your	33	A	85, 117

@@ -1,37 +1,60 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, uh , uh ,	53	B	0, 52
+2	5	, you know , the	47	B	38, 84
+3	4	, you know ,	77	B	8, 38, 84
+2	4	, i don't think	17	B	106, 122
+2	4	, uh , i	105	B	0, 104
+2	4	. you know ,	23	B	48, 70
 2	4	to go back and	49	B	0, 48
+7	3	, uh ,	105	B	0, 22, 34, 52, 82, 84, 104
+6	3	you know ,	77	B	8, 38, 48, 66, 70, 84
+4	3	, you know	77	B	8, 22, 38, 84
+3	3	, i don't	83	B	40, 106, 122
+3	3	, um ,	85	B	0, 66, 84
 3	3	a lot of	89	B	4, 16, 92
+3	3	uh , i	105	B	0, 40, 104
+2	3	, i think	127	B	0, 126
+2	3	, that's good	33	B	102, 134
+2	3	. oh ,	9	B	110, 118
 2	3	. right .	35	B	58, 92
-2	3	. you know	23	B	48, 70
+2	3	. uh ,	5	B	52, 56
 2	3	don't want to	23	B	16, 38
-2	3	i don't think	17	B	106, 122
 2	3	i think it	79	B	0, 78
 2	3	it's kind of	83	B	42, 124
-2	3	you know that	29	B	38, 66
-2	3	you know the	47	B	38, 84
+2	3	uh , uh	53	B	0, 52
 11	2	uh-huh .	113	B	24, 28, 44, 50, 58, 80, 96, 100, 104, 116, 136
+10	2	uh ,	105	B	0, 14, 22, 34, 40, 52, 56, 82, 84, 104
 8	2	you know	77	B	8, 22, 38, 48, 54, 66, 70, 84
+7	2	, i	127	B	0, 40, 52, 104, 106, 122, 126
 7	2	right .	105	B	6, 16, 58, 60, 68, 92, 110
 5	2	i think	127	B	0, 16, 42, 78, 126
+4	2	but ,	101	B	8, 52, 64, 108
 4	2	i don't	91	B	32, 40, 106, 122
 4	2	in the	75	B	52, 74, 76, 126
+4	2	um ,	85	B	0, 4, 66, 84
+3	2	, but	43	B	62, 66, 104
+3	2	, it's	125	B	0, 110, 124
+3	2	, that's	51	B	84, 102, 134
+3	2	and ,	39	B	0, 34, 38
 3	2	and that's	73	B	52, 82, 124
 3	2	don't think	85	B	38, 106, 122
 3	2	for a	63	B	0, 12, 62
+3	2	it ,	63	B	52, 104, 114
 3	2	kind of	83	B	42, 120, 124
-3	2	know that	67	B	0, 38, 66
+3	2	oh ,	17	B	102, 110, 118
 3	2	to be	29	B	42, 66, 70
 3	2	to have	59	B	8, 38, 66
-3	2	uh i	105	B	0, 40, 104
 3	2	want to	51	B	16, 38, 66
+3	2	well ,	79	B	56, 88, 134
 3	2	yeah .	39	B	94, 130, 132
+3	2	yes ,	91	B	36, 72, 126
+2	2	, a	49	B	4, 52
+2	2	, that	89	B	38, 126
+2	2	, yeah	43	B	52, 94
 2	2	. it	45	B	40, 84
-2	2	. oh	9	B	110, 118
 2	2	. so	47	B	38, 84
 2	2	. that's	97	B	38, 134
-2	2	. uh	5	B	52, 56
 2	2	. we	13	B	92, 104
-2	2	and and	23	B	16, 38
 2	2	are .	67	B	40, 106
 2	2	be a	29	B	38, 66
 2	2	but she's	41	B	22, 62
@@ -43,15 +66,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	is pretty	61	B	70, 130
 2	2	it would	41	B	0, 40
 2	2	it's a	123	B	0, 122
+2	2	know that	67	B	0, 66
 2	2	like that	41	B	0, 40
 2	2	okay .	109	B	10, 118
 2	2	places that	29	B	4, 32
 2	2	supposed to	111	B	8, 118
+2	2	that ,	93	B	38, 130
 2	2	that is	33	B	54, 86
-2	2	that's good	33	B	102, 134
 2	2	think it's	81	B	42, 122
 2	2	too .	61	B	42, 102
-2	2	uh uh	53	B	0, 52
 2	2	we have	23	B	32, 54
 2	2	with it	15	B	38, 52
 2	2	with the	21	B	42, 62
@@ -68,7 +91,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 11	1	that's	119	B	16, 38, 52, 64, 66, 70, 82, 84, 102, 124, 134
 11	1	you	113	B	8, 22, 38, 48, 54, 66, 70, 76, 84, 118, 120
 10	1	know	85	B	0, 8, 22, 38, 40, 48, 54, 66, 70, 84
-10	1	uh	105	B	0, 14, 22, 34, 40, 52, 56, 82, 84, 104
 9	1	is	131	B	0, 8, 18, 54, 56, 70, 86, 88, 130
 9	1	think	127	B	0, 16, 38, 42, 66, 78, 106, 122, 126
 8	1	have	119	B	8, 32, 36, 38, 48, 54, 66, 126

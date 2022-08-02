@@ -13,6 +13,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	2	good thing	15	2	1	M	14, 15
 2	2	2	he's got	42	8	1	A	35, 42
 2	2	2	so .	24	8	1	A	17, 24
+2	2	2	uh ,	15	6	1	M	10, 15
 2	2	2	want to	49	10	1	M	40, 49
 11	1	1	yeah	28	47	2	A	3, 7, 8, 11, 15, 21, 28, 33, 35, 43, 49
 8	6	1	a	17	36	1	M	14, 17, 22, 34, 38, 39, 40, 49
@@ -31,7 +32,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 3	3	1	my	17	30	1	M	6, 17, 35
 3	2	1	that's	27	29	1	M	12, 27, 40
 3	1	1	thing	20	7	1	M	14, 15, 20
-3	3	1	uh	15	28	1	M	10, 15, 37
+3	1	1	uh	37	28	1	M	10, 15, 37
 2	2	1	benefits	20	6	1	A	15, 20
 2	2	1	can	27	12	1	M	16, 27
 2	2	1	more	28	14	1	A	15, 28

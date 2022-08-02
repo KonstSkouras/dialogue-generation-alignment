@@ -1,82 +1,134 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	get away with it and	43	B	6, 48
+2	6	get away with it , and	43	B	6, 48
+7	4	, you know ,	49	B	22, 24, 26, 28, 30, 66, 70
+4	4	, and then they	55	B	6, 26, 50, 60
+2	4	, and , and	11	B	52, 62
+2	4	, and they get	33	B	6, 38
+2	4	, i , i	13	B	70, 82
+2	4	, in , in	57	B	24, 80
 2	4	at our expense .	31	B	12, 42
-2	4	over and over again	33	B	36, 68
-4	3	and then they	55	B	6, 26, 50, 60
+2	4	know , i ,	25	B	46, 70
+2	4	the death penalty ,	3	B	50, 52
+7	3	you know ,	49	B	22, 24, 26, 28, 30, 66, 70
+5	3	, and ,	53	B	34, 52, 62, 84, 86
+5	3	, and then	55	B	6, 24, 26, 50, 60
+5	3	, and they	63	B	6, 10, 36, 38, 68
+4	3	, i ,	49	B	34, 46, 70, 82
+3	3	and , and	43	B	20, 52, 62
 3	3	and they get	33	B	6, 8, 38
 3	3	the death penalty	25	B	28, 50, 52
+2	3	, and and	19	B	20, 38
+2	3	, and be	21	B	0, 20
+2	3	, but ,	11	B	24, 34
+2	3	, i don't	11	B	70, 80
+2	3	, that ,	25	B	0, 24
+2	3	, this is	41	B	30, 70
+2	3	, well ,	59	B	12, 70
 2	3	a lot of	11	B	62, 72
-2	3	i don't know	37	B	34, 70
-2	3	over and over	33	B	36, 68
+2	3	i , i	13	B	70, 82
+2	3	i know ,	35	B	46, 80
+2	3	i mean ,	45	B	34, 78
+2	3	know , in	51	B	30, 80
 2	3	some of these	19	B	34, 52
-2	3	the jury that	9	B	58, 66
 2	3	when i was	5	B	82, 86
 2	3	with some of	39	B	34, 72
+19	2	, and	87	B	0, 6, 10, 20, 24, 26, 34, 36, 38, 48, 50, 52, 60, 62, 68, 76, 82, 84, 86
+9	2	, i	83	B	4, 28, 34, 46, 50, 70, 80, 82, 86
+9	2	, you	65	B	22, 24, 26, 28, 30, 46, 66, 70, 86
 9	2	you know	49	B	22, 24, 26, 28, 30, 52, 60, 66, 70
+7	2	, that	89	B	0, 22, 24, 28, 34, 66, 88
 7	2	and then	71	B	6, 24, 26, 50, 60, 68, 76
 7	2	and they	63	B	6, 8, 10, 36, 38, 48, 68
 7	2	yeah .	71	B	2, 16, 28, 50, 56, 66, 72
+6	2	and ,	67	B	20, 34, 52, 62, 84, 86
+5	2	, but	67	B	4, 24, 34, 60, 70
+5	2	, in	59	B	22, 24, 30, 52, 80
+5	2	, the	67	B	0, 50, 58, 60, 66
 5	2	then they	55	B	6, 26, 38, 50, 60
-4	2	and and	43	B	20, 38, 52, 62
-4	2	and i	53	B	34, 50, 82, 86
-4	2	i don't	55	B	34, 70, 80, 88
+5	2	well ,	81	B	12, 58, 70, 72, 92
+4	2	, or	25	B	22, 24, 26, 46
 4	2	i know	77	B	4, 46, 50, 80
 4	2	in the	41	B	40, 46, 60, 80
 4	2	on the	79	B	8, 40, 62, 86
 4	2	some of	39	B	34, 52, 66, 72
 4	2	they get	33	B	6, 8, 26, 38
+4	2	this ,	37	B	30, 34, 46, 66
 4	2	to be	73	B	0, 4, 50, 72
+3	2	, for	49	B	4, 30, 52
+3	2	, they	45	B	6, 12, 50
+3	2	, this	41	B	30, 66, 70
+3	2	and i	37	B	50, 82, 86
+3	2	but ,	31	B	24, 34, 54
+3	2	i don't	19	B	70, 80, 88
 3	2	if they	67	B	6, 70, 72
+3	2	it ,	43	B	6, 34, 48
 3	2	of the	27	B	62, 66, 88
 3	2	people .	69	B	4, 62, 72
+3	2	that ,	47	B	0, 24, 46
 3	2	the penalty	61	B	0, 30, 60
 3	2	this is	41	B	30, 32, 70
+3	2	time ,	61	B	26, 50, 86
 3	2	to death	35	B	24, 52, 58
 3	2	uh-huh .	73	B	18, 64, 90
+2	2	, is	41	B	22, 62
+2	2	, it's	51	B	28, 78
+2	2	, they'll	3	B	22, 24
+2	2	, to	7	B	66, 72
+2	2	, when	35	B	52, 86
+2	2	, where	13	B	66, 78
 2	2	. i	47	B	4, 50
 2	2	. you	31	B	30, 60
-2	2	and be	21	B	0, 20
+2	2	a ,	45	B	22, 66
 2	2	and it's	31	B	12, 42
+2	2	and over	33	B	36, 68
+2	2	appeal ,	35	B	26, 60
+2	2	around ,	79	B	6, 84
 2	2	do something	67	B	6, 72
 2	2	don't have	77	B	4, 80
+2	2	don't know	37	B	34, 70
 2	2	done this	23	B	46, 68
 2	2	for a	23	B	50, 72
 2	2	for this	39	B	30, 68
 2	2	get away	43	B	6, 48
 2	2	go out	3	B	78, 80
 2	2	going to	11	B	22, 32
-2	2	i i	13	B	70, 82
-2	2	i mean	45	B	34, 78
 2	2	i think	23	B	28, 50
 2	2	i was	5	B	82, 86
 2	2	in a	61	B	22, 82
-2	2	in in	57	B	24, 80
 2	2	in jail	31	B	8, 38
 2	2	in prison	29	B	24, 52
-2	2	know i	25	B	46, 70
-2	2	know in	51	B	30, 80
-2	2	know that	7	B	22, 28
+2	2	is ,	9	B	62, 70
+2	2	it's ,	11	B	12, 22
+2	2	life ,	29	B	24, 52
 2	2	ninety years	3	B	22, 24
 2	2	not a	43	B	28, 70
+2	2	now ,	25	B	28, 52
 2	2	of them	21	B	52, 72
 2	2	or something	3	B	24, 26
 2	2	or whatever	41	B	30, 70
+2	2	out ,	41	B	38, 78
 2	2	out there	79	B	0, 78
+2	2	people ,	19	B	34, 52
+2	2	sentence ,	51	B	20, 70
 2	2	should be	7	B	24, 30
+2	2	texas ,	33	B	50, 82
 2	2	that are	13	B	22, 34
+2	2	the jury	9	B	58, 66
 2	2	the law	3	B	60, 62
 2	2	the laws	15	B	52, 66
 2	2	the people	11	B	52, 62
 2	2	the time	35	B	52, 86
 2	2	them back	3	B	36, 38
 2	2	these people	31	B	4, 34
+2	2	they ,	3	B	50, 52
 2	2	they do	31	B	6, 36
 2	2	they don't	47	B	22, 68
 2	2	they repealed	3	B	50, 52
 2	2	things that	45	B	22, 66
+2	2	to ,	45	B	22, 66
 2	2	to life	29	B	24, 52
-2	2	to you	71	B	22, 92
 2	2	too .	21	B	72, 92
+2	2	trial ,	47	B	22, 68
 2	2	turn around	19	B	6, 24
 2	2	up for	17	B	52, 68
 2	2	when they	31	B	22, 52
@@ -88,6 +140,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 16	1	to	93	B	0, 4, 10, 22, 24, 28, 32, 34, 50, 52, 58, 66, 72, 78, 80, 92
 15	1	that	89	B	0, 4, 22, 24, 26, 28, 34, 46, 52, 58, 66, 68, 72, 82, 88
 14	1	i	85	B	4, 14, 22, 28, 34, 42, 46, 50, 70, 78, 80, 82, 86, 88
+14	1	know	77	B	4, 22, 24, 26, 28, 30, 34, 46, 50, 52, 60, 66, 70, 80
 12	1	in	75	B	8, 22, 24, 26, 30, 38, 40, 46, 52, 60, 80, 82
 12	1	of	85	B	4, 10, 22, 24, 26, 34, 52, 60, 62, 66, 72, 88
 12	1	you	71	B	22, 24, 26, 28, 30, 46, 52, 60, 66, 70, 86, 92
@@ -101,7 +154,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	it's	67	B	12, 22, 28, 42, 54, 70, 78
 7	1	or	49	B	22, 24, 26, 30, 38, 46, 70
 7	1	them	67	B	22, 24, 36, 38, 52, 72, 88
-7	1	this	41	B	30, 32, 34, 46, 66, 68, 70
 7	1	yeah	71	B	2, 16, 28, 50, 56, 66, 72
 6	1	for	69	B	4, 30, 50, 52, 68, 72
 6	1	is	49	B	22, 30, 32, 50, 62, 70
@@ -111,7 +163,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	some	69	B	4, 34, 52, 66, 72
 5	1	something	67	B	6, 24, 26, 46, 72
 5	1	time	61	B	26, 50, 52, 70, 86
-5	1	well	81	B	12, 58, 70, 72, 92
 4	1	at	69	B	12, 42, 52, 80
 4	1	back	51	B	36, 38, 60, 86
 4	1	do	67	B	6, 34, 36, 72
@@ -123,7 +174,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	was	61	B	26, 60, 82, 86
 4	1	where	77	B	10, 66, 78, 86
 3	1	again	41	B	36, 68, 76
-3	1	around	79	B	6, 24, 84
 3	1	because	31	B	6, 28, 36
 3	1	california	11	B	50, 52, 60
 3	1	criminal	9	B	62, 66, 70
@@ -160,11 +210,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	just	9	B	40, 48
 2	1	killed	9	B	30, 38
 2	1	later	17	B	60, 76
-2	1	life	29	B	24, 52
 2	1	my	3	B	86, 88
 2	1	myself	47	B	34, 80
 2	1	not	43	B	28, 70
 2	1	our	31	B	12, 42
+2	1	over	33	B	36, 68
 2	1	reinstated	9	B	52, 60
 2	1	say	49	B	22, 70
 2	1	see	61	B	28, 88
@@ -175,11 +225,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	still	3	B	50, 52
 2	1	texas	33	B	50, 82
 2	1	that's	19	B	4, 22
-2	1	they'll	3	B	22, 24
 2	1	thing	15	B	22, 36
 2	1	thirty	17	B	8, 24
 2	1	three	11	B	76, 86
-2	1	trial	47	B	22, 68
 2	1	way	11	B	72, 82
 2	1	we	81	B	4, 84
 2	1	what	13	B	22, 34

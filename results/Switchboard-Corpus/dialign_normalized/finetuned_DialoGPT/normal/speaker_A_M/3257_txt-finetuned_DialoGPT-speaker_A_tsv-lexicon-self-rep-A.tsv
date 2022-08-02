@@ -1,44 +1,68 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	and uh but he will	3	A	43, 45
+2	7	and , uh , but he will	3	A	43, 45
+2	6	, so , you know ,	25	A	25, 49
+3	5	and , uh , but	5	A	43, 45, 47
+2	5	, uh , uh ,	31	A	13, 43
+2	5	, you know , i	9	A	39, 47
+2	5	and , uh , so	15	A	35, 49
+2	5	and , you know ,	15	A	25, 39
+8	4	and , uh ,	39	A	11, 15, 35, 37, 43, 45, 47, 49
+6	4	, you know ,	25	A	25, 31, 39, 41, 47, 49
+3	4	on , uh ,	15	A	29, 33, 43
+2	4	, uh , i	11	A	15, 25
 2	4	we very seldom watch	33	A	15, 47
-3	3	and uh but	5	A	43, 45, 47
-3	3	and you know	17	A	25, 39, 41
-2	3	and uh so	15	A	35, 49
+2	4	yes . yes ,	33	A	9, 41
+2	4	you know , and	23	A	25, 47
+13	3	, uh ,	39	A	11, 13, 15, 25, 29, 33, 35, 37, 41, 43, 45, 47, 49
+6	3	, you know	25	A	25, 31, 39, 41, 47, 49
+6	3	you know ,	25	A	25, 31, 39, 41, 47, 49
+3	3	, and ,	41	A	7, 25, 47
+2	3	, all of	9	A	41, 49
+2	3	, i think	11	A	33, 43
+2	3	, it was	31	A	13, 43
+2	3	, so ,	25	A	25, 49
 2	3	i don't know	19	A	25, 43
-2	3	so you know	25	A	25, 49
 2	3	we have watched	13	A	23, 35
-2	3	yes . yes	33	A	9, 41
-2	3	you know and	23	A	25, 47
-2	3	you know i	9	A	39, 47
 2	3	you watch it	5	A	11, 15
-8	2	and uh	39	A	11, 15, 35, 37, 43, 45, 47, 49
+11	2	and ,	43	A	7, 11, 15, 25, 35, 37, 39, 43, 45, 47, 49
+8	2	, i	49	A	9, 15, 25, 33, 39, 43, 47, 57
 7	2	you know	45	A	5, 25, 31, 39, 41, 47, 49
+6	2	, and	43	A	7, 13, 25, 41, 47, 49
+6	2	know ,	25	A	25, 31, 39, 41, 47, 49
+4	2	, but	7	A	41, 43, 45, 47
+4	2	on ,	17	A	29, 33, 43, 45
+3	2	, all	41	A	9, 41, 49
+3	2	a ,	31	A	13, 41, 43
 3	2	i think	41	A	3, 33, 43
 3	2	into the	7	A	37, 41, 43
-3	2	on uh	15	A	29, 33, 43
 3	2	over here	17	A	29, 33, 45
+3	2	that ,	41	A	9, 41, 49
 3	2	the other	11	A	33, 41, 43
 3	2	we have	19	A	23, 35, 41
+3	2	yeah ,	41	A	13, 25, 53
+3	2	yes ,	33	A	9, 23, 41
 3	2	yes .	33	A	9, 17, 41
+2	2	, because	19	A	29, 47
+2	2	, it	31	A	13, 43
+2	2	, now	13	A	11, 23
+2	2	, that	17	A	9, 25
+2	2	, we	25	A	25, 49
 2	2	. i	35	A	9, 43
-2	2	all of	9	A	41, 49
 2	2	and i	11	A	3, 13
 2	2	and we	47	A	1, 47
 2	2	do you	37	A	15, 51
 2	2	i just	3	A	9, 11
 2	2	i like	3	A	13, 15
-2	2	it was	31	A	13, 43
-2	2	know my	21	A	5, 25
+2	2	it ,	35	A	13, 47
 2	2	like that	19	A	29, 47
 2	2	my husband's	33	A	5, 37
 2	2	now we	3	A	21, 23
 2	2	of those	37	A	21, 57
+2	2	sunday ,	9	A	41, 49
 2	2	that on	3	A	43, 45
 2	2	they were	11	A	33, 43
 2	2	things on	7	A	23, 29
 2	2	those .	7	A	15, 21
-2	2	uh i	11	A	15, 25
-2	2	uh uh	31	A	13, 43
 2	2	watch television	45	A	3, 47
 2	2	watch that	13	A	39, 51
 2	2	we had	19	A	25, 43
@@ -46,8 +70,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	you watch	5	A	11, 15
 17	1	and	49	A	1, 3, 7, 11, 13, 15, 25, 27, 31, 35, 37, 39, 41, 43, 45, 47, 49
 16	1	that	53	A	3, 9, 11, 23, 25, 29, 31, 35, 39, 41, 43, 45, 47, 49, 51, 55
-13	1	uh	39	A	11, 13, 15, 25, 29, 33, 35, 37, 41, 43, 45, 47, 49
-11	1	i	55	A	3, 9, 11, 13, 15, 25, 33, 39, 43, 47, 57
 11	1	on	45	A	5, 23, 25, 27, 29, 33, 41, 43, 45, 47, 49
 11	1	we	49	A	1, 3, 15, 21, 23, 25, 35, 41, 43, 47, 49
 9	1	it	43	A	5, 11, 13, 15, 25, 29, 41, 43, 47
@@ -69,7 +91,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	sometimes	43	A	13, 41, 49, 55
 4	1	those	49	A	9, 15, 21, 57
 4	1	will	17	A	29, 39, 43, 45
-3	1	all	41	A	9, 41, 49
 3	1	do	37	A	15, 41, 51
 3	1	don't	25	A	25, 43, 49
 3	1	had	31	A	13, 25, 43
@@ -77,6 +98,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	i'm	33	A	7, 27, 39
 3	1	if	17	A	29, 39, 45
 3	1	in	33	A	25, 33, 57
+3	1	my	33	A	5, 25, 37
 3	1	night	45	A	3, 43, 47
 3	1	or	15	A	33, 39, 47
 3	1	some	21	A	23, 39, 43
@@ -87,11 +109,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	watched	15	A	21, 23, 35
 3	1	we're	23	A	25, 41, 47
 3	1	with	39	A	1, 11, 39
-3	1	yeah	41	A	13, 25, 53
 2	1	always	3	A	5, 7
 2	1	any	7	A	15, 21
 2	1	are	7	A	49, 55
-2	1	because	19	A	29, 47
 2	1	down	37	A	7, 43
 2	1	football	5	A	37, 41
 2	1	for	33	A	13, 45
@@ -102,7 +122,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	not	41	A	7, 47
 2	1	one	31	A	3, 33
 2	1	sit	23	A	25, 47
-2	1	sunday	9	A	41, 49
 2	1	their	37	A	13, 49
 2	1	this	17	A	25, 41
 2	1	up	15	A	11, 25

@@ -1,91 +1,133 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-3	4	that are you know	37	B	70, 94, 106
+3	6	, uh , you know ,	55	B	40, 70, 94
+3	6	that are , you know ,	37	B	70, 94, 106
+3	5	that are , you know	37	B	70, 94, 106
+2	5	, uh . yeah ,	109	B	0, 108
+2	5	, you know , that	21	B	70, 90
+2	5	, you know , you	7	B	90, 96
+2	5	is , you know ,	37	B	58, 94
+10	4	, you know ,	93	B	14, 40, 54, 58, 70, 90, 92, 94, 96, 106
+4	4	, the , the	63	B	34, 54, 70, 96
+4	4	, you know .	53	B	36, 40, 60, 88
+3	4	and , uh ,	83	B	24, 94, 106
+3	4	oh , okay .	19	B	68, 76, 86
+2	4	. and so ,	43	B	60, 102
 2	4	. i don't think	13	B	56, 68
+2	4	old , uh ,	3	B	78, 80
+2	4	right , uh-huh .	37	B	62, 98
 2	4	some of these guys	21	B	40, 60
-4	3	you know .	53	B	36, 40, 60, 88
+2	4	that , you know	57	B	40, 96
+14	3	, you know	93	B	14, 28, 36, 40, 54, 58, 60, 70, 88, 90, 92, 94, 96, 106
+13	3	, uh ,	85	B	24, 30, 32, 40, 56, 58, 60, 70, 78, 80, 94, 106, 108
+11	3	you know ,	95	B	14, 40, 54, 58, 70, 90, 92, 94, 96, 106, 108
+5	3	the , the	63	B	34, 54, 70, 94, 96
+4	3	and , uh	107	B	0, 24, 94, 106
+3	3	, i don't	79	B	14, 18, 92
+3	3	, i mean	37	B	56, 70, 92
+3	3	. yeah ,	109	B	0, 90, 108
 3	3	going to get	63	B	44, 58, 106
 3	3	i don't think	51	B	18, 56, 68
-3	3	oh okay .	19	B	68, 76, 86
-3	3	uh you know	55	B	40, 70, 94
-2	3	. and so	43	B	60, 102
+3	3	i mean ,	51	B	42, 56, 92
+2	3	, i think	11	B	14, 24
+2	3	, they ,	53	B	42, 94
 2	3	course they have	7	B	26, 32
 2	3	every single appeal	7	B	32, 38
 2	3	i don't know	3	B	14, 16
-2	3	is you know	37	B	58, 94
 2	3	just saying that	7	B	96, 102
+2	3	know , i	79	B	14, 92
 2	3	not going to	13	B	44, 56
-2	3	right uh-huh .	37	B	62, 98
-2	3	that you know	57	B	40, 96
+2	3	of the ,	31	B	24, 54
+2	3	or whatever ,	15	B	94, 108
 2	3	that's true .	59	B	32, 90
 2	3	these guys are	17	B	40, 56
+2	3	to , to	27	B	70, 96
 2	3	turning themselves in	13	B	94, 106
-2	3	uh . yeah	109	B	0, 108
-2	3	you know that	21	B	70, 90
-2	3	you know you	7	B	90, 96
-15	2	you know	95	B	14, 28, 36, 40, 54, 58, 60, 70, 88, 90, 92, 94, 96, 106, 108
+2	3	yeah , right	39	B	62, 100
+14	2	uh ,	85	B	24, 30, 32, 40, 54, 56, 58, 60, 70, 78, 80, 94, 106, 108
 11	2	uh-huh .	101	B	2, 4, 8, 12, 24, 48, 50, 62, 72, 98, 102
 7	2	i don't	79	B	14, 16, 18, 54, 56, 68, 92
+7	2	the ,	73	B	24, 30, 34, 54, 70, 94, 96
+6	2	, the	63	B	34, 54, 58, 70, 94, 96
+6	2	and ,	109	B	0, 24, 90, 94, 106, 108
+6	2	yeah ,	109	B	0, 18, 62, 90, 100, 108
+5	2	, that	65	B	32, 70, 90, 92, 96
 5	2	going to	63	B	44, 56, 58, 96, 106
-5	2	the the	63	B	34, 54, 70, 94, 96
 5	2	to get	63	B	44, 58, 70, 96, 106
 5	2	yeah .	75	B	22, 32, 46, 84, 96
 4	2	. i	47	B	56, 58, 68, 102
-4	2	and uh	107	B	0, 24, 94, 106
-4	2	i mean	51	B	42, 56, 70, 92
 4	2	i think	45	B	14, 24, 52, 58
-4	2	know that	27	B	68, 70, 90, 94
-3	2	. yeah	109	B	0, 90, 108
+4	2	oh ,	63	B	24, 68, 76, 86
+4	2	well ,	83	B	14, 30, 90, 96
+3	2	, and	85	B	24, 28, 108
+3	2	, right	91	B	10, 62, 100
+3	2	, that's	65	B	32, 64, 96
+3	2	, they	53	B	42, 56, 94
+3	2	, to	39	B	58, 70, 96
+3	2	, we	15	B	94, 102, 108
 3	2	and so	45	B	60, 102, 104
+3	2	are ,	37	B	70, 94, 106
 3	2	if they	39	B	58, 94, 96
 3	2	of the	47	B	24, 54, 70
 3	2	or whatever	15	B	94, 106, 108
+3	2	right ,	93	B	6, 62, 98
 3	2	right .	91	B	10, 90, 100
 3	2	saying that	9	B	94, 96, 102
+3	2	so ,	69	B	34, 60, 102
 3	2	some of	37	B	24, 40, 60
+3	2	that ,	65	B	32, 40, 96
 3	2	that are	37	B	70, 94, 106
-3	2	the other	71	B	24, 54, 94
 3	2	themselves in	13	B	94, 102, 106
 3	2	they have	13	B	26, 32, 38
+3	2	to ,	41	B	56, 70, 96
+2	2	, because	81	B	14, 94
+2	2	, but	71	B	38, 108
+2	2	, he	15	B	94, 108
+2	2	, if	85	B	10, 94
+2	2	, more	27	B	70, 96
+2	2	, on	25	B	70, 94
+2	2	, there's	13	B	94, 106
 2	2	. it's	49	B	30, 78
 2	2	. no	13	B	20, 32
 2	2	. that's	21	B	70, 90
 2	2	a little	43	B	16, 58
 2	2	about it	17	B	0, 16
-2	2	anyways but	3	B	106, 108
 2	2	are saying	3	B	94, 96
+2	2	because ,	57	B	14, 70
 2	2	because the	25	B	70, 94
 2	2	because they	69	B	26, 94
+2	2	but ,	3	B	106, 108
 2	2	death sentence	3	B	94, 96
 2	2	do you	67	B	0, 66
+2	2	for ,	81	B	14, 94
 2	2	for the	17	B	78, 94
 2	2	get off	47	B	58, 104
 2	2	had a	15	B	94, 108
 2	2	have to	65	B	38, 102
 2	2	he knows	15	B	94, 108
 2	2	in florida	7	B	24, 30
-2	2	know i	79	B	14, 92
-2	2	like i	17	B	92, 108
+2	2	is ,	37	B	58, 94
+2	2	know that	27	B	68, 94
+2	2	like ,	63	B	30, 92
 2	2	like that	55	B	40, 94
-2	2	old uh	3	B	78, 80
+2	2	no ,	13	B	20, 32
 2	2	on the	65	B	30, 94
 2	2	people that	17	B	90, 106
 2	2	sort of	21	B	70, 90
 2	2	the guy	5	B	104, 108
+2	2	the other	41	B	54, 94
 2	2	there .	3	B	80, 82
 2	2	they can't	47	B	56, 102
 2	2	they're going	15	B	44, 58
 2	2	they're saying	7	B	96, 102
 2	2	to them	53	B	38, 90
-2	2	to to	27	B	70, 96
+2	2	um ,	3	B	64, 66
 2	2	way up	9	B	28, 36
 2	2	where the	39	B	70, 108
 2	2	where you	21	B	70, 90
-2	2	yeah right	39	B	62, 100
 19	1	the	99	B	10, 14, 24, 28, 30, 34, 36, 54, 56, 58, 70, 78, 92, 94, 96, 102, 104, 106, 108
 17	1	that	95	B	14, 28, 32, 40, 54, 56, 68, 70, 78, 88, 90, 92, 94, 96, 102, 106, 108
 17	1	you	109	B	0, 14, 28, 36, 40, 54, 58, 60, 66, 70, 88, 90, 92, 94, 96, 106, 108
 15	1	i	95	B	14, 16, 18, 24, 42, 52, 54, 56, 58, 64, 68, 70, 92, 102, 108
-15	1	uh	109	B	0, 24, 30, 32, 40, 54, 56, 58, 60, 70, 78, 80, 94, 106, 108
 13	1	a	95	B	14, 16, 26, 30, 32, 54, 58, 78, 94, 96, 102, 106, 108
 13	1	and	109	B	0, 24, 28, 40, 54, 56, 60, 90, 94, 102, 104, 106, 108
 12	1	to	93	B	14, 36, 38, 44, 56, 58, 70, 90, 94, 96, 102, 106
@@ -116,13 +158,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	for	95	B	14, 78, 94, 108
 4	1	guys	67	B	40, 56, 60, 106
 4	1	if	87	B	10, 58, 94, 96
-4	1	oh	63	B	24, 68, 76, 86
 4	1	or	79	B	30, 94, 106, 108
 4	1	really	29	B	40, 54, 56, 68
 4	1	some	85	B	24, 40, 60, 108
 4	1	themselves	49	B	58, 94, 102, 106
 4	1	these	51	B	40, 56, 60, 90
-4	1	well	83	B	14, 30, 90, 96
 3	1	all	35	B	36, 56, 70
 3	1	always	83	B	24, 38, 106
 3	1	case	21	B	88, 94, 108
@@ -134,13 +174,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	knows	65	B	44, 94, 108
 3	1	less	81	B	14, 70, 94
 3	1	more	81	B	16, 70, 96
-3	1	on	65	B	30, 70, 94
+3	1	other	71	B	24, 54, 94
 3	1	terrible	19	B	90, 92, 108
 3	1	them	57	B	38, 90, 94
 3	1	up	55	B	28, 36, 82
 3	1	very	29	B	80, 94, 108
 3	1	way	75	B	28, 36, 102
 2	1	although	53	B	54, 106
+2	1	anyways	3	B	106, 108
 2	1	can	11	B	94, 104
 2	1	feel	55	B	0, 54
 2	1	florida	7	B	24, 30
@@ -149,7 +190,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	into	23	B	56, 78
 2	1	judge	79	B	16, 94
 2	1	might	89	B	16, 104
-2	1	no	13	B	20, 32
 2	1	off	47	B	58, 104
 2	1	out	7	B	38, 44
 2	1	parole	3	B	54, 56
@@ -161,9 +201,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	stuff	17	B	40, 56
 2	1	tend	43	B	28, 70
 2	1	then	75	B	28, 102
-2	1	there's	13	B	94, 106
 2	1	two	45	B	30, 74
-2	1	um	3	B	64, 66
 2	1	unemployment	3	B	26, 28
 2	1	violent	15	B	40, 54
 2	1	what	7	B	96, 102

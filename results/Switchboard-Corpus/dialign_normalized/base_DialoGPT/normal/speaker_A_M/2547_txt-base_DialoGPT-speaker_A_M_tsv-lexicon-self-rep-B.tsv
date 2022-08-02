@@ -2,24 +2,31 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	i'm not the one	21	M	2, 22
 3	3	i live in	69	M	40, 98, 108
 2	3	are you saying	53	M	54, 106
+2	3	i don't ,	43	M	20, 62
 2	3	i don't know	47	M	28, 74
 2	3	it's not like	23	M	6, 28
 2	3	we do have	33	M	18, 50
-4	2	i don't	55	M	20, 28, 62, 74
 4	2	in the	89	M	10, 18, 20, 98
 3	2	i'm not	41	M	2, 22, 42
 3	2	it's not	23	M	6, 26, 28
 3	2	not .	41	M	8, 26, 48
 3	2	of a	81	M	30, 78, 110
+2	2	, but	9	M	20, 28
+2	2	, i'm	15	M	20, 34
+2	2	, it's	67	M	26, 92
 2	2	i have	35	M	62, 96
 2	2	i think	33	M	52, 84
 2	2	i'm in	11	M	0, 10
 2	2	it's the	89	M	20, 108
+2	2	no ,	23	M	26, 48
 2	2	of the	81	M	18, 98
+2	2	so ,	103	M	4, 106
 2	2	the house	97	M	2, 98
 2	2	the most	43	M	50, 92
 2	2	the only	63	M	52, 114
+2	2	well ,	75	M	18, 92
 2	2	what ?	33	M	26, 58
+2	2	yeah ,	5	M	64, 68
 2	2	yeah .	69	M	40, 108
 15	1	i	95	M	20, 28, 30, 40, 52, 62, 70, 74, 78, 84, 86, 96, 98, 108, 114
 14	1	the	113	M	2, 10, 18, 20, 22, 28, 50, 52, 54, 86, 92, 98, 108, 114
@@ -39,7 +46,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	one	91	M	2, 22, 86, 92
 4	1	so	103	M	4, 34, 52, 106
 4	1	that's	57	M	46, 52, 90, 102
-4	1	yeah	69	M	40, 64, 68, 108
 3	1	do	33	M	18, 36, 50
 3	1	house	97	M	2, 24, 98
 3	1	it	27	M	22, 30, 48
@@ -52,7 +58,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	well	75	M	18, 42, 92
 3	1	why	63	M	46, 82, 108
 2	1	bad	3	M	28, 30
-2	1	but	9	M	20, 28
 2	1	can	25	M	90, 114
 2	1	home	75	M	4, 78
 2	1	i'd	83	M	28, 110

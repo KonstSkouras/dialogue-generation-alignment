@@ -1,25 +1,31 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	uh , uh ,	39	A	5, 43
+5	3	, uh ,	57	A	5, 17, 43, 45, 61
+2	3	. uh ,	7	A	11, 17
 2	3	in child care	7	A	11, 17
 2	3	my class schedule	7	A	11, 17
 2	3	yeah . yeah	5	A	53, 57
+8	2	uh ,	57	A	5, 7, 11, 17, 35, 43, 45, 61
 8	2	yeah .	49	A	9, 23, 29, 33, 39, 51, 53, 57
 6	2	uh-huh .	35	A	25, 27, 31, 49, 57, 59
+5	2	, uh	57	A	5, 17, 43, 45, 61
 5	2	child care	45	A	1, 11, 17, 41, 45
-2	2	. uh	7	A	11, 17
+2	2	, but	25	A	17, 41
+2	2	, the	3	A	43, 45
 2	2	. yeah	5	A	53, 57
 2	2	a day	3	A	17, 19
 2	2	depending on	7	A	11, 17
+2	2	like ,	45	A	17, 61
 2	2	my wife	5	A	13, 17
 2	2	of us	15	A	3, 17
 2	2	right now	15	A	3, 17
+2	2	so ,	47	A	1, 47
 2	2	to be	7	A	11, 17
-2	2	uh uh	39	A	5, 43
 2	2	waiting list	3	A	43, 45
 2	2	way to	39	A	17, 55
 2	2	will be	3	A	13, 15
 2	2	yes .	25	A	37, 61
 8	1	a	45	A	11, 17, 19, 35, 41, 43, 45, 55
-8	1	uh	57	A	5, 7, 11, 17, 35, 43, 45, 61
 7	1	uh-huh	39	A	21, 25, 27, 31, 49, 57, 59
 6	1	of	41	A	3, 5, 15, 17, 41, 43
 4	1	and	45	A	17, 43, 45, 61
@@ -49,7 +55,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	her	5	A	13, 17
 2	1	home	27	A	17, 43
 2	1	how	51	A	11, 61
-2	1	like	45	A	17, 61
 2	1	semester	3	A	11, 13
 2	1	their	3	A	43, 45
 2	1	this	29	A	17, 45

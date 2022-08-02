@@ -1,13 +1,21 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	so , you know ,	3	B	34, 36
+4	4	, you know ,	31	B	6, 20, 34, 36
+4	3	, you know	31	B	6, 20, 34, 36
+2	3	, i don't	23	B	20, 42
+2	3	, kind of	15	B	18, 32
+2	3	, there is	17	B	2, 18
+2	3	, um ,	17	B	18, 34
 2	3	and there was	27	B	6, 32
-2	3	so you know	3	B	34, 36
 2	3	take some things	33	B	2, 34
 2	3	the money for	3	B	34, 36
 2	3	those milk cartons	23	B	6, 28
 9	2	yeah .	51	B	4, 10, 12, 24, 26, 38, 40, 44, 54
+5	2	, i	35	B	18, 20, 36, 42, 52
 4	2	kind of	17	B	18, 30, 32, 34
-4	2	you know	31	B	6, 20, 34, 36
 3	2	i don't	23	B	20, 22, 42
+2	2	, like	33	B	2, 34
+2	2	, we	15	B	6, 20
 2	2	. i	11	B	42, 52
 2	2	and i	29	B	6, 34
 2	2	and they	33	B	6, 38
@@ -16,8 +24,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	huh-uh .	9	B	0, 8
 2	2	i guess	13	B	18, 30
 2	2	i know	19	B	34, 52
-2	2	there is	17	B	2, 18
 2	2	to take	29	B	6, 34
+2	2	well ,	35	B	18, 52
 9	1	i	47	B	6, 18, 20, 22, 30, 34, 36, 42, 52
 7	1	of	37	B	6, 18, 30, 32, 34, 36, 42
 7	1	to	47	B	6, 20, 22, 34, 36, 46, 52
@@ -55,10 +63,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	room	9	B	20, 28
 2	1	some	33	B	2, 34
 2	1	that's	23	B	16, 38
-2	1	um	17	B	18, 34
 2	1	up	25	B	28, 52
 2	1	wal-mart	5	B	2, 6
-2	1	well	35	B	18, 52
 2	1	were	3	B	32, 34
 2	1	what	17	B	16, 32
 

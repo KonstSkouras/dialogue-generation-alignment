@@ -1,55 +1,75 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	5	, but , uh ,	29	A	2, 18, 30
+2	5	, and , uh ,	27	A	2, 28
+2	5	, uh , quite often	17	A	2, 18
+2	5	i don't know , i	3	A	28, 30
 2	5	keep up on current events	3	A	0, 2
+3	4	, uh , i	29	A	2, 18, 30
+3	4	and , uh ,	27	A	2, 26, 28
+3	4	that , uh ,	25	A	2, 18, 26
+2	4	, you know ,	5	A	28, 32
 2	4	a lot of the	17	A	2, 18
 2	4	an awful lot of	9	A	18, 26
-2	4	i don't know i	3	A	28, 30
+2	4	oh , yeah .	31	A	8, 38
+2	4	or , uh ,	9	A	18, 26
 2	4	the way they are	5	A	26, 30
+6	3	, uh ,	29	A	2, 10, 18, 26, 28, 30
+4	3	and , uh	27	A	2, 20, 26, 28
+3	3	, and ,	27	A	2, 26, 28
 2	3	able to have	7	A	26, 32
+2	3	about it ,	17	A	2, 18
+2	3	and , and	9	A	18, 26
 2	3	i don't know	3	A	28, 30
-2	3	oh yeah .	31	A	8, 38
+2	3	or , or	15	A	18, 32
 2	3	the news media	3	A	26, 28
-2	3	uh quite often	17	A	2, 18
-4	2	and uh	27	A	2, 20, 26, 28
+8	2	, uh	31	A	0, 2, 10, 18, 20, 26, 28, 30
+6	2	, and	31	A	0, 2, 18, 26, 28, 30
+6	2	uh ,	29	A	2, 10, 18, 26, 28, 30
+4	2	, but	29	A	2, 18, 26, 30
+4	2	, i	29	A	2, 18, 28, 30
+4	2	oh ,	31	A	8, 12, 34, 38
 4	2	the news	27	A	2, 18, 26, 28
 4	2	uh-huh .	33	A	4, 10, 26, 36
+3	2	, that	13	A	18, 26, 30
 3	2	a lot	25	A	2, 18, 26
-3	2	but uh	29	A	2, 18, 30
 3	2	lot of	25	A	2, 18, 26
 3	2	quite often	25	A	2, 18, 26
-3	2	that uh	25	A	2, 18, 26
-3	2	uh i	29	A	2, 18, 30
+3	2	that ,	25	A	2, 18, 26
+3	2	the ,	31	A	0, 18, 30
 3	2	yeah .	31	A	8, 16, 38
+2	2	, on	9	A	18, 26
+2	2	, or	15	A	18, 32
+2	2	, we	11	A	22, 32
+2	2	, with	27	A	0, 26
+2	2	, yes	3	A	32, 34
 2	2	. i	29	A	0, 28
 2	2	. it's	21	A	10, 30
 2	2	about it	17	A	2, 18
-2	2	also that	5	A	26, 30
-2	2	and and	9	A	18, 26
+2	2	also ,	29	A	2, 30
 2	2	and you	9	A	10, 18
-2	2	are that	9	A	18, 26
 2	2	current events	3	A	0, 2
+2	2	events ,	11	A	0, 10
 2	2	i guess	29	A	0, 28
 2	2	i've heard	9	A	18, 26
+2	2	is ,	27	A	2, 28
 2	2	of the	17	A	2, 18
 2	2	okay .	5	A	8, 12
-2	2	or or	15	A	18, 32
-2	2	or uh	9	A	18, 26
 2	2	right .	7	A	0, 6
 2	2	so .	5	A	28, 32
 2	2	t v	17	A	2, 18
 2	2	that we	31	A	0, 30
 2	2	the newspaper	17	A	2, 18
 2	2	think that	21	A	10, 30
+2	2	um ,	17	A	2, 18
+2	2	yes ,	11	A	22, 32
 2	2	yes .	21	A	14, 34
-2	2	you know	5	A	28, 32
 8	1	and	31	A	0, 2, 10, 18, 20, 26, 28, 30
 8	1	that	33	A	0, 2, 10, 18, 26, 28, 30, 32
-8	1	uh	31	A	0, 2, 10, 18, 20, 26, 28, 30
 7	1	to	33	A	0, 2, 18, 26, 28, 30, 32
 6	1	the	31	A	0, 2, 18, 26, 28, 30
 5	1	also	29	A	2, 18, 26, 28, 30
 5	1	i	31	A	0, 2, 18, 28, 30
 4	1	a	27	A	2, 18, 26, 28
-4	1	but	29	A	2, 18, 26, 30
 4	1	events	31	A	0, 2, 10, 30
 4	1	have	31	A	2, 26, 30, 32
 4	1	is	29	A	0, 2, 18, 28
@@ -57,11 +77,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	know	15	A	18, 28, 30, 32
 4	1	lot	27	A	2, 18, 26, 28
 4	1	news	27	A	2, 18, 26, 28
-4	1	oh	31	A	8, 12, 34, 38
 4	1	on	27	A	0, 2, 18, 26
 4	1	or	15	A	18, 26, 28, 32
 4	1	we	33	A	0, 22, 30, 32
-4	1	yes	21	A	14, 22, 32, 34
 4	1	you	23	A	10, 18, 28, 32
 3	1	all	31	A	0, 2, 30
 3	1	are	13	A	18, 26, 30
@@ -93,6 +111,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	they	5	A	26, 30
 2	1	things	11	A	18, 28
 2	1	time	25	A	2, 26
-2	1	um	17	A	2, 18
 2	1	what	9	A	18, 26
 

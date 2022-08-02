@@ -1,10 +1,19 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	get out and walk	11	B	6, 16
+3	3	, uh ,	17	B	4, 6, 20
 2	3	to get out	11	B	6, 16
 2	3	when i don't	3	B	20, 22
+5	2	, and	21	B	4, 6, 20, 22, 24
+4	2	well ,	47	B	0, 4, 20, 46
+3	2	, i	19	B	4, 6, 22
 3	2	i don't	17	B	6, 20, 22
 3	2	of the	9	B	16, 20, 24
+3	2	uh ,	17	B	4, 6, 20
 3	2	when i	17	B	6, 20, 22
+2	2	, because	19	B	24, 42
+2	2	, but	21	B	20, 40
+2	2	, it's	5	B	20, 24
+2	2	, you	29	B	6, 34
 2	2	. i	37	B	4, 40
 2	2	and i	19	B	4, 22
 2	2	because i	27	B	16, 42
@@ -18,6 +27,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	huh .	3	B	38, 40
 2	2	i just	9	B	22, 30
 2	2	i swim	19	B	4, 22
+2	2	oh ,	37	B	6, 42
 2	2	regularly .	3	B	4, 6
 2	2	that .	35	B	8, 42
 2	2	the district	3	B	14, 16
@@ -40,11 +50,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	i'm	15	B	20, 22, 24, 34
 4	1	just	25	B	6, 22, 24, 30
 4	1	really	7	B	20, 22, 24, 26
-4	1	well	47	B	0, 4, 20, 46
 3	1	it's	9	B	16, 20, 24
 3	1	one	29	B	6, 22, 34
 3	1	out	31	B	6, 16, 36
-3	1	uh	17	B	4, 6, 20
 3	1	uh-huh	17	B	2, 10, 18
 3	1	when	17	B	6, 20, 22
 2	1	all	37	B	6, 42
@@ -65,7 +73,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	know	5	B	36, 40
 2	1	me	3	B	20, 22
 2	1	my	15	B	6, 20
-2	1	oh	37	B	6, 42
 2	1	on	35	B	6, 40
 2	1	or	17	B	6, 22
 2	1	probably	13	B	22, 34

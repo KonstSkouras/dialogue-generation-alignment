@@ -1,29 +1,37 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-3	3	but uh .	57	M	10, 12, 66
-2	3	i just i	65	M	4, 68
-2	3	we have a	53	M	2, 54
+3	4	but , uh .	57	M	10, 12, 66
+2	4	, i , i	3	M	4, 6
+2	4	, we have a	53	M	2, 54
+2	4	i just , i	65	M	4, 68
+4	3	, uh .	57	M	10, 12, 22, 66
+2	3	, and ,	43	M	22, 64
+2	3	, i play	7	M	0, 6
+2	3	, no ,	39	M	4, 42
+2	3	, no .	25	M	18, 42
+2	3	, yeah ,	25	M	40, 64
+2	3	and , uh	23	M	0, 22
+2	3	i , i	3	M	4, 6
+9	2	, uh	67	M	0, 2, 4, 10, 12, 22, 54, 64, 66
+6	2	oh ,	41	M	18, 20, 24, 38, 40, 58
 6	2	yeah .	19	M	44, 46, 48, 52, 56, 62
-4	2	uh .	57	M	10, 12, 22, 66
+5	2	, i	69	M	0, 4, 6, 20, 68
 4	2	uh-huh .	23	M	8, 16, 28, 30
-2	2	and uh	23	M	0, 22
+2	2	, and	43	M	22, 64
 2	2	good .	3	M	36, 38
-2	2	i i	3	M	4, 6
+2	2	i ,	3	M	4, 6
 2	2	i just	65	M	4, 68
 2	2	i play	7	M	0, 6
-2	2	no .	25	M	18, 42
+2	2	no ,	39	M	4, 42
 2	2	oh .	3	M	32, 34
-2	2	uh we	53	M	2, 54
+2	2	uh ,	51	M	4, 54
+2	2	um ,	55	M	0, 54
 2	2	we have	53	M	2, 54
-9	1	uh	67	M	0, 2, 4, 10, 12, 22, 54, 64, 66
-8	1	oh	41	M	18, 20, 24, 32, 34, 38, 40, 58
-8	1	yeah	25	M	40, 44, 46, 48, 52, 56, 62, 64
+2	2	well ,	11	M	54, 64
 5	1	but	67	M	2, 10, 12, 66, 68
-5	1	i	69	M	0, 4, 6, 20, 68
 4	1	a	55	M	0, 2, 6, 54
 3	1	and	65	M	0, 22, 64
 3	1	good	37	M	2, 36, 38
 3	1	have	67	M	2, 54, 68
-3	1	no	39	M	4, 18, 42
 3	1	of	7	M	0, 4, 6
 3	1	that's	15	M	36, 38, 50
 3	1	to	67	M	2, 4, 68
@@ -35,7 +43,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	so	3	M	2, 4
 2	1	the	69	M	0, 68
 2	1	time	15	M	54, 68
-2	1	um	55	M	0, 54
 2	1	we	53	M	2, 54
-2	1	well	11	M	54, 64
 

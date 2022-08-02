@@ -1,30 +1,53 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	i think it's very good	3	B	41, 43
+2	6	, i think it's very good	3	B	41, 43
+3	4	and , uh ,	11	B	25, 29, 35
+3	4	to , uh ,	31	B	15, 25, 45
+2	4	, they have a	21	B	35, 55
+2	4	, you know ,	3	B	55, 57
+2	4	a , uh ,	31	B	1, 31
 2	4	a lot of things	39	B	25, 63
+2	4	that , uh ,	3	B	61, 63
+13	3	, uh ,	63	B	1, 15, 25, 27, 29, 31, 35, 45, 53, 55, 57, 61, 63
+4	3	, i think	39	B	25, 41, 43, 63
 3	3	. yeah .	27	B	23, 47, 49
+3	3	in , in	31	B	31, 53, 61
 3	3	in child care	63	B	1, 15, 63
+2	3	, and ,	11	B	25, 35
+2	3	, it's a	5	B	53, 57
+2	3	a , a	41	B	15, 55
 2	3	a good experience	15	B	25, 39
 2	3	in the marketplace	19	B	45, 63
+2	3	it's , it's	15	B	53, 67
 2	3	that's a good	37	B	25, 61
 2	3	they have a	21	B	35, 55
 2	3	to be the	39	B	27, 65
+2	3	well , that's	29	B	25, 53
+13	2	uh ,	63	B	1, 15, 25, 27, 29, 31, 35, 45, 53, 55, 57, 61, 63
 6	2	i think	39	B	25, 41, 43, 59, 61, 63
 6	2	yeah .	43	B	7, 17, 21, 23, 47, 49
-4	2	and uh	35	B	1, 25, 29, 35
+5	2	, i	39	B	25, 41, 43, 53, 63
+5	2	a ,	57	B	1, 15, 31, 55, 57
+4	2	, a	41	B	15, 31, 43, 55
+4	2	and ,	19	B	25, 29, 35, 43
 4	2	going to	49	B	15, 27, 37, 63
 4	2	in the	29	B	35, 45, 61, 63
-4	2	it's a	19	B	39, 43, 53, 57
+4	2	it's ,	25	B	43, 53, 57, 67
+3	2	, and	19	B	25, 35, 43
+3	2	, it's	15	B	53, 57, 67
+3	2	, that's	29	B	25, 29, 53
 3	2	child care	63	B	1, 15, 63
+3	2	in ,	31	B	31, 53, 61
 3	2	in a	31	B	13, 15, 43
-3	2	in in	31	B	31, 53, 61
+3	2	it's a	19	B	39, 53, 57
 3	2	to a	33	B	29, 31, 61
 3	2	to be	65	B	1, 27, 65
 3	2	to go	21	B	43, 61, 63
-3	2	to uh	31	B	15, 25, 45
-2	2	a a	41	B	15, 55
+3	2	well ,	35	B	25, 53, 59
+2	2	, are	11	B	15, 25
+2	2	, my	3	B	61, 63
+2	2	, we	45	B	1, 45
 2	2	a loving	9	B	35, 43
 2	2	a real	3	B	53, 55
-2	2	a uh	31	B	1, 31
 2	2	a year	29	B	15, 43
 2	2	and they	11	B	25, 35
 2	2	and we	45	B	1, 45
@@ -34,25 +57,19 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	good and	19	B	25, 43
 2	2	have to	19	B	25, 43
 2	2	if it's	3	B	41, 43
-2	2	important decision	33	B	25, 57
 2	2	is the	3	B	59, 61
-2	2	it's it's	15	B	53, 67
-2	2	know it's	5	B	53, 57
 2	2	real good	55	B	1, 55
 2	2	so it's	19	B	39, 57
-2	2	that uh	3	B	61, 63
+2	2	that ,	3	B	61, 63
 2	2	the best	33	B	27, 59
 2	2	there are	39	B	25, 63
 2	2	this is	29	B	31, 59
 2	2	to do	7	B	53, 59
 2	2	uh-huh .	29	B	19, 47
 2	2	way to	3	B	59, 61
-2	2	well that's	29	B	25, 53
 2	2	what we	27	B	1, 27
-2	2	you know	3	B	55, 57
 15	1	a	63	B	1, 9, 13, 15, 25, 29, 31, 35, 39, 43, 53, 55, 57, 61, 63
 15	1	to	65	B	1, 15, 25, 27, 29, 31, 37, 43, 45, 53, 55, 59, 61, 63, 65
-13	1	uh	63	B	1, 15, 25, 27, 29, 31, 35, 45, 53, 55, 57, 61, 63
 12	1	and	63	B	1, 25, 27, 29, 35, 37, 43, 45, 55, 59, 61, 63
 11	1	in	65	B	1, 13, 15, 31, 35, 43, 45, 53, 61, 63, 65
 11	1	the	67	B	1, 25, 27, 35, 41, 45, 59, 61, 63, 65, 67
@@ -89,12 +106,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	any	23	B	3, 25
 2	1	at	55	B	1, 55
 2	1	daughter	37	B	1, 37
+2	1	decision	33	B	25, 57
 2	1	facility	27	B	29, 55
 2	1	her	9	B	29, 37
 2	1	home	5	B	31, 35
 2	1	human	7	B	61, 67
 2	1	learn	3	B	61, 63
-2	1	my	3	B	61, 63
 2	1	our	11	B	27, 37
 2	1	out	11	B	55, 65
 2	1	own	35	B	27, 61

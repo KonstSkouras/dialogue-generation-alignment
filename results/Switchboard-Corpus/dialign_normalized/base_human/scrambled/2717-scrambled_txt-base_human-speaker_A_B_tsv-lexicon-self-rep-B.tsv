@@ -1,17 +1,32 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	. i i	31	B	5, 35
+2	4	. i , i	31	B	5, 35
+2	4	and , uh ,	21	B	5, 25
+9	3	, uh ,	73	B	5, 11, 15, 25, 27, 29, 33, 73, 77
+3	3	, well ,	67	B	17, 29, 83
+2	3	, but ,	23	B	5, 27
+2	3	, like ,	59	B	11, 69
+2	3	. oh ,	49	B	17, 65
 2	3	. yeah .	33	B	49, 81
+2	3	but , but	27	B	5, 31
+2	3	you know ,	45	B	15, 59
+11	2	uh ,	73	B	5, 11, 15, 25, 27, 29, 33, 49, 63, 73, 77
 6	2	right .	61	B	21, 45, 61, 63, 67, 81
+5	2	, i	61	B	5, 29, 35, 57, 65
 4	2	. i	31	B	5, 7, 29, 35
-3	2	i i	51	B	5, 35, 55
+4	2	well ,	77	B	7, 17, 29, 83
+3	2	, what	67	B	11, 55, 77
 3	2	uh-huh .	39	B	37, 71, 75
 3	2	yeah .	33	B	49, 53, 81
 3	2	you know	49	B	11, 15, 59
-2	2	. oh	49	B	17, 65
+2	2	, and	25	B	5, 29
+2	2	, right	13	B	51, 63
+2	2	, the	59	B	15, 73
+2	2	, they	11	B	73, 83
+2	2	, you	19	B	15, 33
+2	2	about ,	7	B	5, 11
+2	2	and ,	21	B	5, 25
 2	2	and i	33	B	3, 35
-2	2	and uh	21	B	5, 25
 2	2	because i	41	B	15, 55
-2	2	but but	27	B	5, 31
 2	2	do you	45	B	11, 55
 2	2	i don't	33	B	3, 35
 2	2	i mean	63	B	15, 77
@@ -19,18 +34,21 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	if you	69	B	9, 77
 2	2	it .	53	B	5, 57
 2	2	kind of	17	B	11, 27
+2	2	like ,	59	B	11, 69
 2	2	like that	11	B	3, 13
+2	2	no ,	55	B	29, 83
 2	2	of the	23	B	5, 27
+2	2	oh ,	49	B	17, 65
 2	2	sure .	35	B	31, 65
 2	2	to the	15	B	15, 29
 2	2	to you	41	B	17, 57
 2	2	want to	61	B	13, 73
 2	2	with the	81	B	5, 85
+2	2	yeah ,	11	B	17, 27
 2	2	you don't	73	B	5, 77
 2	2	you have	47	B	9, 55
 13	1	i	75	B	3, 5, 7, 15, 27, 29, 35, 39, 55, 57, 65, 73, 77
 11	1	to	73	B	5, 9, 13, 15, 17, 29, 31, 47, 57, 73, 77
-11	1	uh	73	B	5, 11, 15, 25, 27, 29, 33, 49, 63, 73, 77
 10	1	you	73	B	5, 9, 11, 15, 17, 33, 55, 57, 59, 77
 9	1	and	81	B	3, 5, 15, 25, 29, 35, 47, 59, 83
 8	1	the	81	B	5, 15, 27, 29, 51, 73, 77, 85
@@ -73,7 +91,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	more	39	B	9, 47
 2	1	no	55	B	29, 83
 2	1	not	73	B	5, 77
-2	1	oh	49	B	17, 65
 2	1	paying	31	B	47, 77
 2	1	quiet	11	B	5, 15
 2	1	really	11	B	17, 27

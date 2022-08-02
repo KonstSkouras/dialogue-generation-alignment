@@ -2,30 +2,43 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	i don't get it .	29	M	45, 73
 2	3	the uk .	7	M	103, 109
 2	3	was the plan	41	M	47, 87
+2	3	well , i'm	59	M	43, 101
+2	3	you mean ,	11	M	23, 33
+5	2	, i	77	M	23, 35, 61, 91, 99
+4	2	, i'm	73	M	41, 43, 101, 113
 4	2	i don't	53	M	39, 45, 73, 91
 4	2	i'm not	79	M	35, 101, 103, 113
+4	2	well ,	101	M	1, 43, 55, 101
 3	2	in the	67	M	37, 63, 103
 3	2	it's a	97	M	5, 39, 101
+3	2	mean ,	27	M	23, 33, 49
+2	2	, that's	43	M	55, 97
+2	2	, the	29	M	23, 51
 2	2	. so	97	M	3, 99
 2	2	been to	19	M	23, 41
 2	2	do you	83	M	23, 105
 2	2	from the	109	M	1, 109
+2	2	i ,	53	M	23, 75
 2	2	i don	47	M	15, 61
 2	2	i'm in	61	M	43, 103
 2	2	i've been	79	M	23, 101
 2	2	is that	101	M	7, 107
+2	2	know ,	39	M	23, 61
+2	2	not ,	111	M	3, 113
 2	2	not a	75	M	29, 103
 2	2	not sure	7	M	35, 41
 2	2	state .	37	M	1, 37
 2	2	that ?	99	M	9, 107
 2	2	that was	3	M	85, 87
+2	2	that's ,	85	M	13, 97
 2	2	the economy	5	M	31, 35
 2	2	the house	45	M	19, 63
-2	2	well i'm	59	M	43, 101
+2	2	to ,	75	M	23, 97
+2	2	uh ,	23	M	13, 35
 2	2	what's the	33	M	27, 59
+2	2	yeah ,	23	M	29, 51
 2	2	you don't	13	M	99, 111
 2	2	you know	49	M	23, 71
-2	2	you mean	11	M	23, 33
 16	1	the	109	M	1, 19, 23, 27, 31, 35, 37, 47, 51, 59, 63, 81, 87, 89, 103, 109
 13	1	i	85	M	15, 21, 23, 35, 39, 41, 45, 61, 73, 75, 91, 93, 99
 12	1	a	109	M	5, 29, 31, 39, 41, 51, 79, 97, 101, 103, 111, 113
@@ -41,18 +54,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	know	89	M	23, 61, 71, 111
 4	1	that's	85	M	13, 49, 55, 97
 4	1	was	41	M	47, 63, 85, 87
-4	1	well	101	M	1, 43, 55, 101
 4	1	what's	51	M	9, 27, 35, 59
 3	1	are	37	M	1, 31, 37
 3	1	do	83	M	23, 49, 105
 3	1	house	79	M	19, 63, 97
 3	1	i've	79	M	23, 41, 101
 3	1	like	47	M	33, 59, 79
-3	1	mean	27	M	23, 33, 49
 3	1	sure	29	M	35, 41, 63
 3	1	they	75	M	31, 49, 105
 3	1	think	71	M	35, 39, 105
-3	1	to	75	M	23, 41, 97
 3	1	uh	55	M	13, 35, 67
 2	1	but	79	M	31, 109
 2	1	deal	3	M	27, 29
@@ -62,5 +72,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	no	75	M	17, 91
 2	1	of	55	M	31, 85
 2	1	why	3	M	105, 107
-2	1	yeah	23	M	29, 51
 

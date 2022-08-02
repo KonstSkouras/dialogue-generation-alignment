@@ -1,47 +1,69 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, i don't know ,	19	A	48, 66
+3	4	, you know ,	13	A	32, 40, 44
+2	4	, i think that	27	A	40, 66
+2	4	, of course i	15	A	30, 44
+4	3	, you know	15	A	30, 32, 40, 44
+4	3	you know ,	25	A	20, 32, 40, 44
+3	3	, i don't	27	A	40, 48, 66
+3	3	, i think	43	A	24, 40, 66
 3	3	i don't know	31	A	36, 48, 66
+2	3	, and at	7	A	52, 58
+2	3	, the first	21	A	38, 58
+2	3	, uh ,	19	A	40, 58
 2	3	. i think	43	A	24, 66
-2	3	i think that	27	A	40, 66
-2	3	of course i	15	A	30, 44
+2	3	a , a	9	A	58, 66
+2	3	know , they	23	A	44, 66
 2	3	yeah . what	59	A	6, 64
+7	2	, i	63	A	4, 24, 30, 40, 48, 52, 66
+6	2	, you	39	A	22, 30, 32, 40, 44, 60
 6	2	yeah .	63	A	2, 6, 16, 42, 62, 64
 6	2	you know	31	A	14, 20, 30, 32, 40, 44
 5	2	i don't	43	A	24, 36, 40, 48, 66
+5	2	uh ,	51	A	8, 30, 40, 46, 58
+4	2	, and	37	A	24, 52, 58, 60
+4	2	, the	23	A	38, 44, 58, 60
 4	2	and they	33	A	26, 38, 44, 58
 4	2	don't know	45	A	22, 36, 48, 66
 4	2	kind of	37	A	2, 10, 14, 38
+3	2	, a	27	A	40, 58, 66
+3	2	, so	19	A	20, 30, 38
+3	2	, they	29	A	38, 44, 66
 3	2	. i	63	A	4, 24, 66
 3	2	at the	43	A	2, 22, 44
 3	2	i think	43	A	24, 40, 66
 3	2	in the	27	A	32, 52, 58
+3	2	it ,	57	A	4, 58, 60
 3	2	of the	51	A	2, 8, 52
+3	2	oh ,	19	A	12, 18, 30
+3	2	there ,	37	A	24, 38, 60
+3	2	well ,	47	A	12, 14, 58
+2	2	, but	3	A	38, 40
+2	2	, or	5	A	4, 8
+2	2	, that's	5	A	8, 12
+2	2	, then	5	A	36, 40
 2	2	. but	3	A	38, 40
 2	2	. that	65	A	2, 66
-2	2	a a	9	A	58, 66
 2	2	a lot	53	A	0, 52
-2	2	and at	7	A	52, 58
 2	2	and i	15	A	10, 24
 2	2	and the	15	A	30, 44
 2	2	are you	25	A	40, 64
 2	2	away from	51	A	8, 58
+2	2	but ,	9	A	40, 48
 2	2	funny .	21	A	24, 44
 2	2	had a	59	A	0, 58
 2	2	i just	27	A	22, 48
 2	2	i would	7	A	4, 10
 2	2	if it's	5	A	36, 40
-2	2	know that	5	A	36, 40
-2	2	know they	23	A	44, 66
-2	2	so i	9	A	30, 38
 2	2	sort of	7	A	52, 58
 2	2	that they	27	A	40, 66
 2	2	that was	15	A	52, 66
-2	2	the first	21	A	38, 58
+2	2	they ,	9	A	58, 66
 2	2	they had	15	A	44, 58
 2	2	to be	27	A	38, 64
 2	2	to have	49	A	10, 58
 2	2	used to	21	A	38, 58
 2	2	was a	9	A	58, 66
-2	2	what i	11	A	56, 66
 14	1	i	63	A	4, 10, 22, 24, 30, 36, 38, 40, 44, 48, 52, 56, 58, 66
 13	1	the	59	A	2, 8, 14, 22, 24, 30, 32, 38, 40, 44, 52, 58, 60
 12	1	of	59	A	0, 2, 4, 8, 10, 14, 30, 38, 44, 48, 52, 58
@@ -62,7 +84,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	it's	49	A	4, 24, 36, 40, 52
 5	1	or	55	A	4, 8, 10, 44, 58
 5	1	there	37	A	24, 38, 40, 44, 60
-5	1	uh	51	A	8, 30, 40, 46, 58
 5	1	what	61	A	6, 14, 56, 64, 66
 4	1	get	31	A	2, 8, 30, 32
 4	1	have	49	A	10, 22, 48, 58

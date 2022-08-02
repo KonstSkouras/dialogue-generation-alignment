@@ -1,16 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	7	be more careful of the teachers that	9	A	23, 31
-2	3	and you know	11	A	21, 31
+2	5	, um , i think	5	A	19, 23
+3	4	and , um ,	11	A	9, 15, 19
+6	3	, um ,	33	A	7, 9, 15, 19, 23, 39
+4	3	you know ,	29	A	3, 21, 23, 31
+3	3	, i think	15	A	19, 23, 33
 2	3	going to school	3	A	1, 3
 2	3	that i know	9	A	25, 33
 2	3	the school system	17	A	17, 33
-2	3	um i think	5	A	19, 23
+7	2	um ,	33	A	7, 9, 15, 19, 23, 33, 39
+6	2	, i	37	A	3, 17, 19, 23, 33, 39
+5	2	and ,	23	A	9, 15, 17, 19, 31
 4	2	the teachers	15	A	17, 19, 23, 31
-4	2	you know	29	A	3, 21, 23, 31
-3	2	and um	11	A	9, 15, 19
 3	2	i think	15	A	19, 23, 33
+3	2	okay ,	7	A	37, 39, 43
 3	2	the school	19	A	15, 17, 33
 3	2	to school	11	A	1, 3, 11
+3	2	yeah ,	33	A	5, 27, 37
+2	2	, and	3	A	21, 23
+2	2	, so	3	A	35, 37
+2	2	, that	3	A	17, 19
+2	2	, that's	29	A	5, 33
+2	2	, you	29	A	3, 31
 2	2	. i	11	A	23, 33
 2	2	enough money	3	A	17, 19
 2	2	have to	13	A	21, 33
@@ -26,6 +37,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	that just	3	A	9, 11
 2	2	the classroom	7	A	3, 9
 2	2	to be	9	A	23, 31
+2	2	well ,	27	A	13, 39
 2	2	when i	9	A	3, 11
 2	2	you .	5	A	37, 41
 12	1	that	33	A	1, 3, 9, 11, 13, 15, 17, 19, 23, 25, 31, 33
@@ -34,11 +46,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	in	41	A	1, 3, 7, 9, 17, 23, 25, 31, 41
 8	1	i	37	A	3, 11, 17, 19, 23, 25, 33, 39
 7	1	to	33	A	1, 3, 11, 21, 23, 31, 33
-7	1	um	33	A	7, 9, 15, 19, 23, 33, 39
 6	1	just	21	A	1, 3, 9, 11, 13, 21
 6	1	know	31	A	3, 21, 23, 25, 31, 33
 6	1	teachers	15	A	17, 19, 23, 25, 29, 31
-6	1	you	39	A	3, 21, 23, 31, 37, 41
 5	1	a	25	A	17, 19, 33, 37, 41
 5	1	of	17	A	15, 19, 23, 25, 31
 5	1	we	23	A	17, 19, 23, 31, 39
@@ -49,7 +59,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	don't	11	A	13, 17, 23
 3	1	my	7	A	1, 3, 7
 3	1	now	39	A	1, 33, 39
-3	1	okay	7	A	37, 39, 43
 3	1	our	21	A	19, 31, 39
 3	1	some	11	A	19, 23, 29
 3	1	that's	29	A	5, 21, 33
@@ -73,11 +82,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	put	7	A	11, 17
 2	1	right	29	A	5, 33
 2	1	see	19	A	3, 21
-2	1	so	3	A	35, 37
 2	1	stories	5	A	25, 29
 2	1	toward	7	A	17, 23
 2	1	uh-huh	23	A	13, 35
 2	1	up	9	A	3, 11
 2	1	was	39	A	3, 41
-2	1	well	27	A	13, 39
 

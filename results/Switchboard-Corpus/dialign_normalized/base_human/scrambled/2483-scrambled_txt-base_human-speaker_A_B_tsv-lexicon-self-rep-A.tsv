@@ -1,17 +1,30 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, you know ,	7	A	42, 48
+6	3	, uh ,	51	A	0, 26, 30, 32, 40, 50
+3	3	, i don't	29	A	22, 24, 50
 2	3	a lot of	27	A	24, 50
 2	3	are you going	21	A	10, 30
 2	3	i think that's	21	A	18, 38
 2	3	want to get	23	A	28, 50
+8	2	, i	45	A	6, 14, 22, 24, 26, 28, 48, 50
+6	2	uh ,	51	A	0, 26, 30, 32, 40, 50
 5	2	i think	21	A	18, 24, 26, 28, 38
 4	2	uh-huh .	69	A	4, 56, 58, 72
+3	2	, i'm	43	A	20, 30, 62
+3	2	, you	33	A	16, 42, 48
 3	2	and i	37	A	14, 24, 50
 3	2	and then	37	A	14, 28, 50
-3	2	i don't	29	A	22, 24, 50
+3	2	just ,	9	A	20, 26, 28
+3	2	that ,	35	A	16, 42, 50
 3	2	want to	23	A	28, 40, 50
 3	2	yeah .	25	A	12, 28, 36
 3	2	you know	31	A	18, 42, 48
+2	2	, but	3	A	48, 50
+2	2	, in	17	A	0, 16
+2	2	, just	23	A	28, 50
 2	2	. i	9	A	16, 24
+2	2	a ,	29	A	0, 28
+2	2	and ,	35	A	16, 50
 2	2	for the	31	A	20, 50
 2	2	huh .	3	A	44, 46
 2	2	i guess	13	A	6, 18
@@ -25,11 +38,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	just about	13	A	16, 28
 2	2	kind of	19	A	32, 50
 2	2	my husband	3	A	48, 50
+2	2	so ,	7	A	62, 68
 2	2	that .	55	A	16, 70
 2	2	things like	11	A	40, 50
 2	2	think of	3	A	28, 30
 2	2	to .	13	A	50, 62
 2	2	was a	27	A	24, 50
+2	2	well ,	43	A	32, 74
 15	1	i	57	A	6, 8, 14, 16, 18, 20, 22, 24, 26, 28, 38, 40, 48, 50, 62
 10	1	and	37	A	14, 16, 18, 20, 24, 26, 28, 32, 40, 50
 10	1	you	65	A	10, 16, 18, 26, 28, 30, 42, 48, 50, 74
@@ -37,11 +52,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	that	55	A	16, 28, 30, 42, 50, 62, 70
 6	1	of	27	A	24, 28, 30, 32, 42, 50
 6	1	the	45	A	18, 20, 30, 32, 50, 62
-6	1	uh	51	A	0, 26, 30, 32, 40, 50
 6	1	uh-huh	69	A	4, 52, 56, 58, 66, 72
 5	1	a	51	A	0, 16, 24, 28, 50
 5	1	in	51	A	0, 16, 32, 48, 50
-5	1	just	35	A	16, 20, 26, 28, 50
 5	1	my	33	A	18, 20, 24, 48, 50
 5	1	was	51	A	0, 14, 24, 26, 50
 4	1	about	15	A	14, 16, 24, 28
@@ -87,7 +100,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	things	11	A	40, 50
 2	1	this	19	A	32, 50
 2	1	too	45	A	30, 74
-2	1	well	43	A	32, 74
 2	1	were	19	A	32, 50
 2	1	when	27	A	24, 50
 2	1	will	13	A	16, 28

@@ -1,12 +1,21 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, uh , we're	5	M	33, 37
+3	3	, uh ,	5	M	33, 35, 37
+2	3	, we have	3	M	45, 47
 2	3	a lot of	27	M	19, 45
+4	2	uh ,	13	M	33, 35, 37, 45
+3	2	, uh	5	M	33, 35, 37
+3	2	, we	9	M	39, 45, 47
+3	2	, we're	33	M	33, 37, 65
 3	2	do you	55	M	7, 41, 61
 3	2	in the	19	M	49, 57, 67
 3	2	we have	5	M	43, 45, 47
+3	2	well ,	61	M	5, 39, 65
 2	2	a little	47	M	5, 51
+2	2	and ,	15	M	33, 47
 2	2	are you	53	M	3, 55
 2	2	tomatoes .	5	M	63, 67
-2	2	uh we're	5	M	33, 37
+2	2	yeah ,	23	M	27, 49
 9	1	the	57	M	11, 13, 35, 45, 47, 49, 53, 57, 67
 8	1	a	61	M	5, 19, 37, 45, 51, 55, 57, 65
 6	1	i	57	M	1, 5, 17, 37, 51, 57
@@ -16,7 +25,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	do	55	M	7, 41, 59, 61
 4	1	in	33	M	35, 49, 57, 67
 4	1	of	53	M	5, 19, 45, 57
-4	1	uh	13	M	33, 35, 37, 45
 4	1	we're	33	M	33, 35, 37, 65
 3	1	are	53	M	3, 53, 55
 3	1	but	15	M	43, 49, 57
@@ -25,7 +33,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	it	17	M	5, 9, 21
 3	1	to	31	M	27, 45, 57
 3	1	tomatoes	7	M	61, 63, 67
-3	1	well	61	M	5, 39, 65
 3	1	what	43	M	17, 55, 59
 2	1	can't	19	M	39, 57
 2	1	don't	23	M	45, 67
@@ -37,5 +44,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	no	25	M	43, 67
 2	1	so	19	M	41, 59
 2	1	them	7	M	39, 45
-2	1	yeah	23	M	27, 49
 

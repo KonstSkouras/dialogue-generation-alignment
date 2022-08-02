@@ -1,45 +1,62 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, a lot of things	3	A	42, 44
+2	5	, you know , they're	7	A	28, 34
+2	5	of course , but ,	29	A	6, 34
+4	4	, you know ,	31	A	12, 28, 34, 42
+2	4	, uh , the	23	A	6, 28
 2	4	a lot of things	3	A	42, 44
+2	4	but , uh ,	7	A	28, 34
+2	4	saying , well ,	5	A	12, 16
 2	4	the u s budget	13	A	0, 12
+7	3	, uh ,	35	A	6, 12, 16, 18, 28, 34, 40
+3	3	, um ,	37	A	6, 16, 42
+3	3	, well ,	35	A	12, 16, 46
+2	3	, i mean	23	A	18, 40
+2	3	, i think	13	A	16, 28
 2	3	. exactly .	37	A	4, 40
 2	3	. i mean	31	A	12, 42
+2	3	. so ,	13	A	22, 34
 2	3	and it was	11	A	18, 28
 2	3	as far as	15	A	28, 42
 2	3	going to be	45	A	0, 44
 2	3	i don't know	45	A	0, 44
 2	3	i mean it	3	A	40, 42
 2	3	might want to	7	A	6, 12
-2	3	of course but	29	A	6, 34
+2	3	of course ,	29	A	6, 34
 2	3	to do it	31	A	12, 42
-2	3	you know they're	7	A	28, 34
+2	3	uh , state	5	A	6, 10
+9	2	, uh	37	A	6, 12, 16, 18, 28, 32, 34, 40, 42
+6	2	, i	41	A	0, 6, 16, 18, 28, 40
 5	2	uh-huh .	39	A	2, 24, 28, 36, 40
 4	2	. so	25	A	20, 22, 34, 44
-4	2	i mean	31	A	12, 18, 40, 42
 4	2	i think	27	A	16, 18, 28, 42
 4	2	it was	29	A	18, 28, 42, 46
-4	2	you know	31	A	12, 28, 34, 42
+4	2	well ,	47	A	0, 12, 16, 46
+3	2	, the	23	A	6, 12, 28
 3	2	and it	23	A	6, 18, 28
 3	2	i don't	45	A	0, 40, 44
+3	2	so ,	23	A	22, 34, 44
 3	2	so it	9	A	12, 14, 20
 3	2	sure .	17	A	22, 26, 38
 3	2	that they	39	A	6, 14, 44
 3	2	to be	45	A	0, 14, 44
 3	2	want to	37	A	6, 12, 42
-2	2	but uh	7	A	28, 34
+2	2	, and	17	A	12, 28
+2	2	, when	7	A	28, 34
+2	2	for ,	3	A	16, 18
 2	2	for this	17	A	28, 44
+2	2	like ,	31	A	12, 42
 2	2	no longer	3	A	42, 44
-2	2	of course	29	A	6, 34
+2	2	okay ,	5	A	42, 46
 2	2	or whatever	13	A	6, 18
-2	2	saying well	5	A	12, 16
+2	2	that ,	13	A	8, 20
 2	2	that are	11	A	34, 44
+2	2	the ,	23	A	6, 28
 2	2	things that	39	A	6, 44
 2	2	toilet seats	3	A	16, 18
-2	2	uh state	5	A	6, 10
-2	2	uh the	23	A	6, 28
 2	2	with the	15	A	28, 42
 11	1	that	39	A	6, 8, 12, 14, 16, 20, 28, 30, 34, 42, 44
 10	1	and	41	A	6, 12, 16, 18, 28, 30, 32, 40, 42, 46
-10	1	uh	37	A	6, 10, 12, 16, 18, 28, 32, 34, 40, 42
 9	1	i	45	A	0, 6, 12, 16, 18, 28, 40, 42, 44
 9	1	it	41	A	6, 12, 14, 18, 20, 28, 40, 42, 46
 9	1	to	47	A	0, 6, 12, 14, 18, 34, 42, 44, 46
@@ -61,7 +78,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	them	19	A	16, 18, 30, 34
 4	1	there's	35	A	0, 6, 12, 34
 4	1	was	29	A	18, 28, 42, 46
-4	1	well	47	A	0, 12, 16, 46
 3	1	can	13	A	6, 16, 18
 3	1	do	37	A	6, 12, 42
 3	1	doing	33	A	12, 14, 44
@@ -73,7 +89,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	people	13	A	28, 34, 40
 3	1	saying	33	A	12, 16, 44
 3	1	this	17	A	28, 42, 44
-3	1	um	37	A	6, 16, 42
 3	1	with	27	A	16, 28, 42
 2	1	at	5	A	12, 16
 2	1	big	5	A	28, 32
@@ -87,9 +102,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	have	33	A	14, 46
 2	1	is	13	A	16, 28
 2	1	just	11	A	18, 28
-2	1	like	31	A	12, 42
 2	1	not	19	A	16, 34
-2	1	okay	5	A	42, 46
 2	1	perhaps	5	A	12, 16
 2	1	something	15	A	14, 28
 2	1	spending	19	A	16, 34
@@ -103,5 +116,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	using	3	A	28, 30
 2	1	vacations	3	A	28, 30
 2	1	were	15	A	28, 42
-2	1	when	7	A	28, 34
 

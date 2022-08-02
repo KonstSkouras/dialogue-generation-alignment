@@ -1,19 +1,34 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, i , i	35	A	8, 42
+2	4	, you know ,	25	A	12, 36
+4	3	, uh ,	51	A	0, 34, 42, 50
+3	3	i , i	43	A	0, 8, 42
+2	3	, the ,	17	A	34, 50
 2	3	a lot of	47	A	4, 50
 2	3	i don't think	35	A	8, 42
+2	3	the , the	27	A	8, 34
+2	3	well , i	39	A	4, 42
+6	2	, i	47	A	0, 4, 8, 26, 42, 46
+5	2	, uh	51	A	0, 4, 34, 42, 50
+5	2	uh ,	51	A	0, 8, 34, 42, 50
+5	2	well ,	41	A	2, 4, 12, 14, 42
+3	2	, you	39	A	12, 36, 50
 3	2	a lot	47	A	4, 8, 50
-3	2	i i	43	A	0, 8, 42
+2	2	, and	29	A	8, 36
+2	2	, but	5	A	0, 4
+2	2	, it's	31	A	12, 42
 2	2	. i	3	A	44, 46
+2	2	and ,	27	A	8, 34
+2	2	but ,	9	A	4, 12
 2	2	for a	43	A	0, 42
 2	2	have a	45	A	4, 48
 2	2	in a	23	A	14, 36
+2	2	is ,	7	A	2, 8
 2	2	it .	35	A	12, 46
 2	2	of people	9	A	4, 12
-2	2	the the	27	A	8, 34
+2	2	so ,	23	A	0, 22
 2	2	think that	35	A	8, 42
 2	2	uh-huh .	7	A	40, 46
-2	2	well i	39	A	4, 42
-2	2	you know	25	A	12, 36
 11	1	a	51	A	0, 4, 8, 12, 14, 24, 34, 36, 42, 48, 50
 9	1	i	47	A	0, 4, 8, 24, 26, 36, 42, 44, 46
 8	1	that	41	A	4, 8, 12, 14, 34, 36, 42, 44
@@ -21,13 +36,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	of	51	A	0, 4, 10, 12, 24, 42, 50
 6	1	the	51	A	0, 8, 12, 34, 44, 50
 6	1	to	39	A	12, 30, 34, 36, 42, 50
-6	1	uh	51	A	0, 4, 8, 34, 42, 50
 6	1	you	41	A	10, 12, 14, 34, 36, 50
 5	1	have	47	A	4, 26, 44, 48, 50
 5	1	is	29	A	2, 8, 12, 14, 30
 5	1	it	45	A	2, 6, 8, 12, 46
 5	1	like	43	A	0, 12, 24, 36, 42
-5	1	well	41	A	2, 4, 12, 14, 42
 4	1	do	27	A	4, 12, 14, 30
 4	1	don't	47	A	4, 8, 42, 50
 4	1	in	37	A	0, 4, 14, 36

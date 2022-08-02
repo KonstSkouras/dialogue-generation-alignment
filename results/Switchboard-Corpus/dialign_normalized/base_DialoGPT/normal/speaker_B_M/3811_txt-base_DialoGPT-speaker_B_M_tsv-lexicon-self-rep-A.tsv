@@ -1,25 +1,47 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	i think it's very good	3	B	36, 38
+2	6	, i think it's very good	3	B	36, 38
+3	4	and , uh ,	11	B	20, 24, 30
+3	4	to , uh ,	31	B	10, 20, 40
+2	4	, they have a	21	B	30, 50
+2	4	, you know ,	3	B	50, 52
 2	4	a lot of things	39	B	20, 58
+2	4	that , uh ,	3	B	56, 58
+12	3	, uh ,	49	B	10, 20, 22, 24, 26, 30, 40, 48, 50, 52, 56, 58
+4	3	, i think	39	B	20, 36, 38, 58
 3	3	. yeah .	27	B	18, 42, 44
+3	3	in , in	31	B	26, 48, 56
+2	3	, and ,	11	B	20, 30
+2	3	, it's a	5	B	48, 52
+2	3	a , a	41	B	10, 50
 2	3	a good experience	15	B	20, 34
 2	3	in child care	49	B	10, 58
 2	3	in the marketplace	19	B	40, 58
+2	3	it's , it's	15	B	48, 62
 2	3	that's a good	37	B	20, 56
 2	3	they have a	21	B	30, 50
 2	3	to be the	39	B	22, 60
+2	3	well , that's	29	B	20, 48
+12	2	uh ,	49	B	10, 20, 22, 24, 26, 30, 40, 48, 50, 52, 56, 58
 6	2	i think	39	B	20, 36, 38, 54, 56, 58
 6	2	yeah .	43	B	2, 12, 16, 18, 42, 44
+5	2	, i	39	B	20, 36, 38, 48, 58
+4	2	, a	41	B	10, 26, 38, 50
+4	2	a ,	43	B	10, 26, 50, 52
+4	2	and ,	19	B	20, 24, 30, 38
 4	2	going to	49	B	10, 22, 32, 58
 4	2	in the	29	B	30, 40, 56, 58
-4	2	it's a	19	B	34, 38, 48, 52
-3	2	and uh	11	B	20, 24, 30
+4	2	it's ,	25	B	38, 48, 52, 62
+3	2	, and	19	B	20, 30, 38
+3	2	, it's	15	B	48, 52, 62
+3	2	, that's	29	B	20, 24, 48
+3	2	in ,	31	B	26, 48, 56
 3	2	in a	31	B	8, 10, 38
-3	2	in in	31	B	26, 48, 56
+3	2	it's a	19	B	34, 48, 52
 3	2	to a	33	B	24, 26, 56
 3	2	to go	21	B	38, 56, 58
-3	2	to uh	31	B	10, 20, 40
-2	2	a a	41	B	10, 50
+3	2	well ,	35	B	20, 48, 54
+2	2	, are	11	B	10, 20
+2	2	, my	3	B	56, 58
 2	2	a loving	9	B	30, 38
 2	2	a real	3	B	48, 50
 2	2	a year	29	B	10, 38
@@ -30,12 +52,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	good and	19	B	20, 38
 2	2	have to	19	B	20, 38
 2	2	if it's	3	B	36, 38
-2	2	important decision	33	B	20, 52
 2	2	is the	3	B	54, 56
-2	2	it's it's	15	B	48, 62
-2	2	know it's	5	B	48, 52
 2	2	so it's	19	B	34, 52
-2	2	that uh	3	B	56, 58
+2	2	that ,	3	B	56, 58
 2	2	the best	33	B	22, 54
 2	2	there are	39	B	20, 58
 2	2	this is	29	B	26, 54
@@ -43,11 +62,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	to do	7	B	48, 54
 2	2	uh-huh .	29	B	14, 42
 2	2	way to	3	B	54, 56
-2	2	well that's	29	B	20, 48
-2	2	you know	3	B	50, 52
 14	1	a	55	B	4, 8, 10, 20, 24, 26, 30, 34, 38, 48, 50, 52, 56, 58
 14	1	to	51	B	10, 20, 22, 24, 26, 32, 38, 40, 48, 50, 54, 56, 58, 60
-12	1	uh	49	B	10, 20, 22, 24, 26, 30, 40, 48, 50, 52, 56, 58
 11	1	and	39	B	20, 22, 24, 30, 32, 38, 40, 50, 54, 56, 58
 10	1	in	53	B	8, 10, 26, 30, 38, 40, 48, 56, 58, 60
 10	1	the	43	B	20, 22, 30, 36, 40, 54, 56, 58, 60, 62
@@ -79,12 +95,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	on	39	B	20, 38, 58
 3	1	real	11	B	40, 48, 50
 3	1	really	35	B	20, 38, 54
+2	1	decision	33	B	20, 52
 2	1	facility	27	B	24, 50
 2	1	her	9	B	24, 32
 2	1	home	5	B	26, 30
 2	1	human	7	B	56, 62
 2	1	learn	3	B	56, 58
-2	1	my	3	B	56, 58
 2	1	our	11	B	22, 32
 2	1	out	11	B	50, 60
 2	1	own	35	B	22, 56

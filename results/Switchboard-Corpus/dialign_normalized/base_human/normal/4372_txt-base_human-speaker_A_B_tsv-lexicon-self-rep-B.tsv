@@ -1,16 +1,22 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	from the point of view	5	B	14, 18
 2	4	for the sales tax	15	B	0, 14
+2	4	i don't , i	11	B	6, 16
 2	4	purchase something mail order	5	B	0, 4
 2	4	the state of pennsylvania	5	B	0, 4
-2	3	i don't i	11	B	6, 16
+3	3	, uh ,	19	B	0, 2, 18
+2	3	, then i	11	B	8, 18
 2	3	i think that	3	B	6, 8
 2	3	is responsible for	9	B	10, 18
 2	3	on the consumer	3	B	8, 10
 2	3	state . i	3	B	6, 8
 2	3	that you purchase	9	B	2, 10
 2	3	to the state	7	B	4, 10
+2	3	well , i	5	B	4, 8
 5	2	sales tax	19	B	0, 4, 10, 14, 18
+5	2	uh ,	19	B	0, 2, 6, 14, 18
+4	2	, i	13	B	4, 6, 8, 16
+4	2	, the	19	B	0, 4, 6, 18
 4	2	that you	19	B	0, 2, 10, 18
 3	2	consumer .	13	B	6, 10, 18
 3	2	from the	19	B	0, 14, 18
@@ -21,6 +27,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	responsible for	9	B	10, 14, 18
 3	2	the business	9	B	10, 16, 18
 3	2	the point	9	B	10, 14, 18
+2	2	, if	11	B	8, 18
+2	2	, it's	3	B	4, 6
 2	2	a consumer	5	B	14, 18
 2	2	and send	9	B	0, 8
 2	2	because i	11	B	6, 16
@@ -36,11 +44,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	of pennsylvania	5	B	0, 4
 2	2	out of	9	B	0, 8
 2	2	pennsylvania .	5	B	4, 8
+2	2	so ,	19	B	0, 18
+2	2	that ,	15	B	4, 18
 2	2	that .	5	B	6, 10
-2	2	then i	11	B	8, 18
 2	2	think that	3	B	6, 8
 2	2	to circumvent	3	B	2, 4
-2	2	well i	5	B	4, 8
 9	1	the	19	B	0, 2, 4, 6, 8, 10, 14, 16, 18
 8	1	that	19	B	0, 2, 4, 6, 8, 10, 16, 18
 8	1	to	19	B	0, 2, 4, 6, 8, 10, 14, 18

@@ -1,37 +1,60 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	a lot of people	31	A	58, 88
+2	5	, a lot of people	31	A	58, 88
+2	5	, you know what ,	43	A	0, 42
+2	5	and , you know ,	45	A	44, 88
+4	4	, you know ,	77	A	12, 28, 44, 88
+2	4	, i mean ,	3	A	86, 88
+2	4	, uh , i	7	A	62, 68
+2	4	, uh , it's	37	A	12, 48
+2	4	, uh , yeah	83	A	6, 88
 2	4	a lot of things	3	A	10, 12
+2	4	and , uh ,	35	A	28, 62
+2	4	it , uh ,	31	A	6, 36
+10	3	, uh ,	83	A	6, 12, 28, 36, 48, 50, 60, 62, 68, 88
+7	3	you know ,	89	A	0, 12, 28, 40, 44, 50, 88
 5	3	a lot of	79	A	10, 12, 26, 58, 88
-2	3	and you know	45	A	44, 88
-2	3	you know what	43	A	0, 42
+3	3	uh , i	43	A	26, 62, 68
+2	3	, yeah ,	63	A	26, 88
+2	3	. um ,	11	A	50, 60
+12	2	uh ,	83	A	6, 10, 12, 26, 28, 36, 48, 50, 60, 62, 68, 88
+10	2	, i	77	A	12, 26, 28, 42, 50, 62, 68, 76, 86, 88
 9	2	you know	89	A	0, 12, 28, 40, 42, 44, 48, 50, 88
+7	2	, you	89	A	0, 12, 28, 42, 44, 68, 88
 6	2	uh-huh .	79	A	2, 8, 36, 70, 74, 80
+5	2	, and	37	A	10, 20, 28, 40, 46
+5	2	and ,	75	A	14, 28, 44, 62, 88
 5	2	yeah .	59	A	6, 48, 54, 56, 64
+4	2	, it's	57	A	12, 40, 48, 68
+4	2	it ,	43	A	6, 12, 36, 48
+4	2	um ,	29	A	32, 50, 58, 60
+3	2	, a	77	A	12, 58, 88
+3	2	, though	17	A	50, 62, 66
 3	2	kind of	23	A	46, 60, 68
-3	2	uh i	43	A	26, 62, 68
+3	2	well ,	51	A	26, 30, 76
+2	2	, but	23	A	66, 88
+2	2	, do	13	A	48, 60
+2	2	, i'm	25	A	26, 50
+2	2	, was	11	A	50, 60
 2	2	. uh	59	A	26, 84
-2	2	. um	11	A	50, 60
 2	2	and i	25	A	26, 50
-2	2	and uh	35	A	28, 62
 2	2	because i	33	A	26, 58
-2	2	but i	31	A	58, 88
-2	2	but you	67	A	0, 66
+2	2	but ,	89	A	0, 88
 2	2	do .	17	A	72, 88
 2	2	do you	5	A	48, 52
 2	2	don't like	11	A	58, 68
+2	2	i ,	9	A	42, 50
 2	2	i don't	47	A	12, 58
 2	2	i just	23	A	20, 42
-2	2	i mean	3	A	86, 88
-2	2	it uh	31	A	6, 36
+2	2	like ,	17	A	12, 28
 2	2	of the	55	A	14, 68
+2	2	oh ,	9	A	30, 38
+2	2	right ,	45	A	22, 66
 2	2	right .	3	A	22, 24
 2	2	that at	23	A	28, 50
 2	2	there was	75	A	14, 88
 2	2	things .	35	A	12, 46
+2	2	to ,	19	A	50, 68
 2	2	to do	3	A	86, 88
-2	2	to you	9	A	68, 76
-2	2	uh it's	37	A	12, 48
-2	2	uh yeah	83	A	6, 88
 2	2	was just	37	A	14, 50
 2	2	you .	27	A	50, 76
 2	2	you can't	23	A	44, 66
@@ -40,7 +63,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 14	1	i	77	A	12, 14, 20, 26, 28, 42, 50, 58, 62, 68, 76, 82, 86, 88
 14	1	you	89	A	0, 12, 28, 40, 42, 44, 48, 50, 52, 66, 68, 76, 86, 88
 13	1	to	79	A	10, 14, 20, 26, 28, 46, 50, 58, 60, 68, 76, 86, 88
-13	1	uh	83	A	6, 10, 12, 26, 28, 36, 48, 50, 60, 62, 68, 84, 88
 12	1	and	79	A	10, 14, 20, 26, 28, 40, 44, 46, 50, 52, 62, 88
 12	1	the	85	A	0, 14, 20, 26, 36, 40, 46, 48, 50, 60, 68, 84
 11	1	of	79	A	10, 12, 14, 26, 28, 46, 58, 60, 68, 86, 88
@@ -49,7 +71,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	that	59	A	10, 14, 16, 28, 38, 40, 48, 50, 68
 8	1	do	63	A	26, 48, 52, 60, 68, 72, 86, 88
 8	1	just	49	A	10, 14, 18, 20, 42, 46, 50, 58
-7	1	yeah	83	A	6, 26, 48, 54, 56, 64, 88
 6	1	uh-huh	79	A	2, 8, 36, 70, 74, 80
 5	1	but	89	A	0, 12, 58, 66, 88
 5	1	get	89	A	0, 26, 44, 86, 88
@@ -62,8 +83,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	don't	57	A	12, 48, 58, 68
 4	1	it's	57	A	12, 40, 48, 68
 4	1	there	75	A	14, 46, 50, 88
-4	1	um	29	A	32, 50, 58, 60
-4	1	was	75	A	14, 50, 60, 88
 3	1	about	25	A	12, 26, 36
 3	1	because	63	A	26, 58, 88
 3	1	can't	23	A	44, 62, 66
@@ -74,10 +93,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	oh	23	A	30, 38, 52
 3	1	people	31	A	58, 68, 88
 3	1	this	9	A	58, 62, 66
-3	1	though	17	A	50, 62, 66
 3	1	way	35	A	14, 40, 48
 3	1	we	55	A	18, 46, 72
-3	1	well	51	A	26, 30, 76
 3	1	what	87	A	0, 42, 86
 3	1	would	27	A	62, 68, 88
 2	1	all	49	A	40, 88

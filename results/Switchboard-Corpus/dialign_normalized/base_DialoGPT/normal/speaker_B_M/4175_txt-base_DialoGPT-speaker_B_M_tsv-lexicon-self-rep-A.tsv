@@ -1,31 +1,53 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, like , uh ,	49	B	46, 94
+2	4	, what about ,	37	B	46, 82
+2	4	, you know ,	7	B	82, 88
+2	4	, you know .	23	B	66, 88
 2	4	i'm going to switch	3	B	78, 80
+2	4	the , uh ,	9	B	4, 12
+8	3	, uh ,	91	B	4, 12, 24, 46, 62, 80, 82, 94
+4	3	, you know	27	B	62, 66, 82, 88
+2	3	, i don't	19	B	12, 30
+2	3	i mean ,	59	B	4, 62
 2	3	those petroleum products	5	B	58, 62
-2	3	what about like	5	B	46, 50
-2	3	you know .	23	B	66, 88
-2	3	you know the	27	B	62, 88
+2	3	you know ,	7	B	82, 88
+9	2	uh ,	91	B	4, 12, 24, 44, 46, 62, 80, 82, 94
+5	2	, i	81	B	12, 30, 60, 62, 92
+5	2	, you	65	B	24, 62, 66, 82, 88
 5	2	you know	43	B	46, 62, 66, 82, 88
+4	2	, like	91	B	4, 12, 46, 94
 4	2	i think	79	B	10, 60, 62, 88
+3	2	but ,	83	B	10, 24, 92
 3	2	going to	23	B	58, 78, 80
 3	2	i don't	59	B	12, 30, 70
 3	2	kind of	67	B	26, 46, 92
 3	2	or something	61	B	10, 28, 70
 3	2	really ?	55	B	20, 48, 74
+3	2	the ,	85	B	4, 12, 88
 3	2	uh-huh .	51	B	2, 32, 52
+3	2	well ,	45	B	38, 44, 82
 3	2	what about	37	B	46, 50, 82
+3	2	yeah ,	19	B	20, 26, 38
+2	2	, julie	17	B	44, 60
+2	2	, the	77	B	12, 88
+2	2	, they	7	B	4, 10
+2	2	, what	37	B	46, 82
 2	2	and stuff	3	B	4, 6
 2	2	around and	3	B	6, 8
 2	2	but i	51	B	30, 80
 2	2	do you	45	B	46, 90
 2	2	during the	7	B	4, 10
-2	2	i mean	59	B	4, 62
 2	2	i'm going	3	B	78, 80
 2	2	it .	45	B	26, 70
-2	2	like uh	49	B	46, 94
+2	2	like ,	49	B	46, 94
 2	2	of the	21	B	62, 82
+2	2	really ,	31	B	0, 30
+2	2	recycle ,	23	B	24, 46
+2	2	so ,	13	B	12, 24
+2	2	stuff ,	77	B	6, 82
+2	2	that ,	69	B	12, 80
 2	2	that's true	75	B	20, 94
 2	2	the recycling	51	B	12, 62
-2	2	the uh	9	B	4, 12
 2	2	where i	77	B	4, 80
 2	2	you ?	13	B	24, 36
 2	2	you think	7	B	84, 90
@@ -45,7 +67,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	and	77	B	4, 6, 8, 12, 80
 5	1	do	79	B	12, 16, 24, 46, 90
 5	1	just	81	B	8, 14, 64, 80, 88
-5	1	really	75	B	0, 20, 30, 48, 74
 4	1	don't	59	B	12, 24, 30, 70
 4	1	from	15	B	68, 78, 80, 82
 4	1	it	45	B	26, 28, 68, 70
@@ -63,8 +84,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	recycling	51	B	12, 44, 62
 3	1	that	69	B	12, 20, 80
 3	1	that's	95	B	0, 20, 94
-3	1	well	45	B	38, 44, 82
-3	1	yeah	19	B	20, 26, 38
 2	1	all	63	B	4, 66
 2	1	anything	15	B	30, 44
 2	1	bad	43	B	26, 68
@@ -73,13 +92,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	huh	57	B	20, 76
 2	1	inconvenient	3	B	20, 22
 2	1	is	25	B	20, 44
-2	1	julie	17	B	44, 60
 2	1	never	25	B	12, 36
 2	1	oh	53	B	20, 72
 2	1	on	15	B	80, 94
 2	1	petroleum	5	B	58, 62
 2	1	plastic	9	B	46, 54
-2	1	recycle	23	B	24, 46
 2	1	then	71	B	8, 78
 2	1	there	17	B	28, 44
 2	1	trees	3	B	68, 70

@@ -1,28 +1,39 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+4	4	, you know ,	13	A	8, 12, 16, 20
+2	4	, and of course	3	A	6, 8
 2	4	all of a sudden	3	A	6, 8
-2	3	and of course	3	A	6, 8
+3	3	, uh ,	15	A	6, 8, 20
+2	3	, and i	3	A	6, 8
 2	3	very true .	9	A	10, 18
-4	2	you know	13	A	8, 12, 16, 20
+4	2	know ,	13	A	8, 12, 16, 20
 3	2	. i	9	A	6, 8, 14
 3	2	and i	9	A	6, 8, 14
 3	2	have to	15	A	6, 14, 20
 3	2	i know	15	A	6, 8, 20
 3	2	the gun	13	A	8, 12, 20
 3	2	true .	17	A	2, 10, 18
+3	2	uh ,	15	A	6, 8, 20
+2	2	, and	3	A	6, 8
+2	2	, it's	3	A	8, 10
+2	2	, or	13	A	8, 20
+2	2	can ,	15	A	6, 20
 2	2	do you	21	A	0, 20
 2	2	favor of	9	A	6, 14
 2	2	gangs .	3	A	6, 8
+2	2	gun ,	15	A	6, 20
 2	2	gun control	7	A	8, 14
 2	2	have them	3	A	14, 16
 2	2	i can	3	A	6, 8
 2	2	i think	9	A	6, 14
 2	2	i would	9	A	6, 14
+2	2	it ,	3	A	6, 8
+2	2	it's ,	3	A	6, 8
 2	2	out and	5	A	12, 16
 2	2	that are	5	A	8, 12
-2	2	that you	9	A	12, 20
 2	2	the government	11	A	8, 18
 2	2	to be	9	A	6, 14
 2	2	very true	9	A	10, 18
+2	2	well ,	3	A	8, 10
 2	2	would be	9	A	6, 14
 2	2	would have	9	A	6, 14
 2	2	yet i	3	A	6, 8
@@ -30,7 +41,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	to	21	A	0, 6, 8, 14, 16, 18, 20
 6	1	and	17	A	0, 6, 8, 12, 14, 16
 6	1	know	15	A	6, 8, 12, 14, 16, 20
-5	1	gun	15	A	6, 8, 12, 14, 20
 5	1	of	21	A	0, 6, 8, 14, 20
 5	1	that	15	A	6, 8, 12, 14, 20
 5	1	you	21	A	0, 8, 12, 16, 20
@@ -46,7 +56,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	is	7	A	8, 12, 14
 3	1	that's	13	A	6, 8, 18
 3	1	think	15	A	6, 14, 20
-3	1	uh	15	A	6, 8, 20
 3	1	we	11	A	8, 14, 18
 3	1	with	9	A	6, 12, 14
 2	1	about	15	A	6, 20
@@ -73,7 +82,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	this	13	A	8, 20
 2	1	up	3	A	6, 8
 2	1	was	3	A	6, 8
-2	1	well	3	A	8, 10
 2	1	what	13	A	8, 20
 2	1	yes	21	A	2, 22
 

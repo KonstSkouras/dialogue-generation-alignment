@@ -1,24 +1,65 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, and , uh ,	5	B	45, 49
+2	5	, uh , and then	31	B	15, 45
+2	5	the , uh , the	5	B	45, 49
+6	4	, you know ,	67	B	17, 49, 53, 61, 77, 83
+4	4	and , uh ,	45	B	5, 39, 45, 49
+3	4	, uh , the	13	B	37, 45, 49
+2	4	, it's , it's	35	B	49, 83
+2	4	, you know .	37	B	17, 53
 2	4	uh-huh . right .	41	B	41, 81
 2	4	uh-huh . uh-huh .	19	B	57, 75
+2	4	with , uh ,	13	B	53, 65
+8	3	, uh ,	61	B	5, 15, 37, 39, 45, 49, 53, 65
+7	3	you know ,	67	B	17, 35, 49, 53, 61, 77, 83
+6	3	, you know	67	B	17, 49, 53, 61, 77, 83
+3	3	, and then	31	B	15, 39, 45
+3	3	, well ,	33	B	21, 47, 53
+3	3	i , i	31	B	35, 45, 65
+2	3	, and ,	5	B	45, 49
+2	3	, i don't	19	B	47, 65
+2	3	, they ,	29	B	5, 33
 2	3	don't have the	19	B	47, 65
 2	3	i know it	9	B	71, 79
+2	3	i mean ,	5	B	33, 37
+2	3	if , if	33	B	15, 47
+2	3	it's , it's	35	B	49, 83
 2	3	or something .	7	B	47, 53
+2	3	that , and	11	B	39, 49
 2	3	that way .	7	B	15, 21
-2	3	the uh the	5	B	45, 49
-2	3	uh and then	31	B	15, 45
-2	3	you know .	37	B	17, 53
+2	3	yeah , you	37	B	17, 53
 9	2	uh-huh .	59	B	23, 29, 31, 41, 55, 57, 59, 75, 81
-7	2	you know	67	B	17, 35, 49, 53, 61, 77, 83
+8	2	, i	45	B	35, 37, 45, 47, 53, 65, 71, 79
+8	2	, uh	61	B	5, 15, 37, 39, 45, 49, 53, 65
+8	2	uh ,	61	B	5, 15, 37, 39, 45, 49, 53, 65
+6	2	, you	67	B	17, 49, 53, 61, 77, 83
 6	2	yeah .	61	B	1, 7, 11, 19, 37, 61
-4	2	and uh	45	B	5, 39, 45, 49
+5	2	, and	57	B	15, 39, 45, 49, 71
+5	2	and ,	45	B	5, 15, 39, 45, 49
+4	2	, the	25	B	37, 45, 49, 61
+4	2	, well	53	B	21, 47, 53, 73
 4	2	i think	57	B	15, 17, 45, 71
 4	2	of the	47	B	15, 39, 51, 61
+4	2	oh ,	71	B	9, 25, 49, 79
+4	2	that ,	41	B	37, 39, 49, 77
+4	2	well ,	33	B	21, 47, 49, 53
+4	2	yeah ,	71	B	13, 17, 53, 83
+3	2	, if	35	B	15, 47, 49
+3	2	, it's	47	B	37, 49, 83
+3	2	, on	35	B	15, 35, 49
 3	2	and then	31	B	15, 39, 45
-3	2	i i	31	B	35, 45, 65
+3	2	it's ,	35	B	49, 71, 83
+3	2	like ,	49	B	17, 53, 65
 3	2	right .	41	B	41, 51, 81
 3	2	that we	49	B	17, 39, 65
-3	2	uh the	13	B	37, 45, 49
+3	2	the ,	17	B	45, 49, 61
+2	2	, a	9	B	53, 61
+2	2	, at	69	B	15, 83
+2	2	, especially	13	B	53, 65
+2	2	, not	35	B	35, 69
+2	2	, oh	31	B	49, 79
+2	2	, that	47	B	15, 61
+2	2	, this	45	B	17, 61
 2	2	. and	47	B	15, 61
 2	2	. so	37	B	17, 53
 2	2	and i	33	B	39, 71
@@ -26,38 +67,30 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	and they	11	B	53, 63
 2	2	could be	35	B	49, 83
 2	2	going to	9	B	69, 77
-2	2	i don't	19	B	47, 65
-2	2	i mean	5	B	33, 37
-2	2	if if	33	B	15, 47
 2	2	if you	39	B	15, 53
 2	2	it doesn't	31	B	47, 77
-2	2	it's it's	35	B	49, 83
 2	2	kind of	13	B	53, 65
-2	2	oh that's	43	B	9, 51
 2	2	on the	3	B	47, 49
 2	2	one of	33	B	51, 83
 2	2	rather than	25	B	15, 39
-2	2	that and	11	B	39, 49
 2	2	that if	31	B	15, 45
 2	2	that would	47	B	15, 61
 2	2	the same	51	B	15, 65
 2	2	they're going	9	B	69, 77
 2	2	things that	45	B	17, 61
-2	2	with uh	13	B	53, 65
+2	2	we ,	23	B	17, 39
 2	2	would be	23	B	15, 37
-2	2	yeah you	37	B	17, 53
+2	2	you ,	29	B	49, 77
 13	1	and	79	B	5, 15, 17, 27, 39, 45, 49, 53, 61, 63, 71, 77, 83
 13	1	i	65	B	15, 17, 33, 35, 37, 39, 45, 47, 51, 53, 65, 71, 79
 12	1	that	69	B	15, 17, 21, 37, 39, 45, 49, 53, 61, 65, 77, 83
 12	1	the	75	B	5, 15, 37, 39, 45, 47, 49, 51, 61, 65, 77, 79
 10	1	of	69	B	15, 35, 39, 47, 49, 51, 53, 61, 65, 83
-10	1	yeah	83	B	1, 7, 11, 13, 17, 19, 37, 53, 61, 83
 10	1	you	69	B	15, 17, 35, 47, 49, 51, 53, 61, 77, 83
 9	1	it	49	B	35, 37, 47, 49, 63, 71, 77, 79, 83
 9	1	know	67	B	17, 35, 49, 53, 61, 71, 77, 79, 83
 8	1	a	63	B	15, 39, 45, 49, 53, 61, 71, 77
 8	1	to	73	B	5, 15, 17, 39, 53, 61, 69, 77
-8	1	uh	61	B	5, 15, 37, 39, 45, 49, 53, 65
 7	1	it's	63	B	21, 37, 47, 49, 53, 71, 83
 7	1	like	55	B	17, 47, 49, 51, 53, 65, 71
 6	1	but	51	B	35, 53, 65, 71, 83, 85
@@ -74,7 +107,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	one	49	B	35, 45, 51, 83
 4	1	or	63	B	15, 47, 53, 77
 4	1	that's	57	B	9, 47, 51, 65
-4	1	they	59	B	5, 33, 53, 63
 4	1	up	49	B	15, 39, 45, 63
 4	1	would	47	B	15, 35, 37, 61
 3	1	are	41	B	37, 61, 77
@@ -94,12 +126,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	some	45	B	17, 49, 61
 3	1	something	15	B	39, 47, 53
 3	1	ten	69	B	15, 61, 83
+3	1	then	31	B	15, 39, 45
 3	1	they're	13	B	65, 69, 77
 3	1	things	45	B	17, 49, 61
 2	1	all	9	B	53, 61
 2	1	consider	31	B	35, 65
 2	1	else	39	B	39, 77
-2	1	especially	13	B	53, 65
 2	1	from	51	B	15, 65
 2	1	has	11	B	61, 71
 2	1	here	69	B	15, 83

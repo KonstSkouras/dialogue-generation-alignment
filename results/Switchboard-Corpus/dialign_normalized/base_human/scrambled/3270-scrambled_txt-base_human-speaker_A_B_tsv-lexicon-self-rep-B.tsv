@@ -1,11 +1,23 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	uh that was	23	B	23, 45
+2	5	, uh , that was	23	B	23, 45
+4	3	, uh ,	39	B	7, 23, 37, 45
 2	3	which is a	9	B	29, 37
+5	2	and ,	41	B	5, 25, 37, 41, 45
+4	2	, i	33	B	17, 23, 45, 49
+4	2	, so	39	B	7, 35, 41, 45
+4	2	oh ,	23	B	5, 7, 25, 27
+4	2	uh ,	39	B	7, 23, 37, 45
+3	2	, and	41	B	5, 37, 45
+3	2	, but	29	B	17, 25, 45
 3	2	in the	27	B	23, 33, 49
 3	2	we have	33	B	5, 17, 37
 3	2	yeah .	19	B	13, 21, 31
+2	2	, they	13	B	17, 29
+2	2	, they're	21	B	5, 25
+2	2	, you	39	B	7, 45
 2	2	always had	5	B	45, 49
 2	2	and they	19	B	17, 35
+2	2	but ,	13	B	31, 43
 2	2	i know	33	B	17, 49
 2	2	i really	29	B	17, 45
 2	2	of a	11	B	29, 39
@@ -16,6 +28,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	they are	13	B	17, 29
 2	2	to get	39	B	5, 43
 2	2	uh-huh .	9	B	3, 11
+2	2	was ,	19	B	5, 23
 10	1	and	41	B	5, 17, 19, 21, 25, 33, 35, 37, 41, 45
 8	1	a	45	B	5, 17, 21, 29, 37, 39, 45, 49
 8	1	so	43	B	7, 23, 25, 29, 35, 41, 45, 49
@@ -34,15 +47,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	had	31	B	19, 29, 45, 49
 4	1	in	27	B	23, 33, 45, 49
 4	1	it	29	B	17, 19, 23, 45
-4	1	oh	23	B	5, 7, 25, 27
 4	1	really	39	B	7, 17, 29, 45
 4	1	that	33	B	17, 23, 45, 49
-4	1	uh	39	B	7, 23, 37, 45
 3	1	around	29	B	17, 29, 45
 3	1	know	33	B	17, 45, 49
 3	1	much	21	B	5, 23, 25
 3	1	them	25	B	25, 45, 49
-3	1	was	41	B	5, 23, 45
 2	1	about	29	B	21, 49
 2	1	been	13	B	23, 35
 2	1	children	29	B	17, 45

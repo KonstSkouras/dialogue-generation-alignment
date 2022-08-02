@@ -1,28 +1,45 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	a lot of things	25	M	60, 84
+2	4	i , uh ,	13	M	22, 34
+2	4	uh , uh ,	13	M	78, 90
+5	3	, uh ,	69	M	22, 34, 68, 78, 90
+3	3	uh , uh	57	M	34, 78, 90
+2	3	, i don't	15	M	64, 78
+2	3	, i guess	5	M	62, 66
+2	3	, i think	33	M	22, 54
 2	3	i don't know	37	M	64, 100
 2	3	i think you	75	M	12, 86
 2	3	the world .	37	M	46, 82
+7	2	, i	91	M	22, 54, 62, 64, 66, 78, 112
 6	2	i think	87	M	0, 12, 22, 54, 72, 86
-3	2	i don't	37	M	64, 78, 100
+5	2	uh ,	69	M	22, 34, 68, 78, 90
+4	2	, i'm	53	M	26, 36, 72, 78
+3	2	i ,	19	M	16, 22, 34
 3	2	i know	71	M	8, 22, 78
-3	2	uh uh	57	M	34, 78, 90
+3	2	oh ,	51	M	62, 80, 112
+3	2	well ,	31	M	62, 88, 92
+2	2	, it's	19	M	70, 88
+2	2	, um	31	M	48, 78
+2	2	, yeah	29	M	62, 90
 2	2	. i	109	M	4, 112
 2	2	for a	33	M	52, 84
 2	2	have been	57	M	52, 108
-2	2	i guess	5	M	62, 66
-2	2	i uh	13	M	22, 34
 2	2	i'm not	11	M	26, 36
 2	2	in the	29	M	46, 74
 2	2	it's not	71	M	0, 70
 2	2	just a	51	M	54, 104
+2	2	know ,	23	M	78, 100
 2	2	know .	57	M	8, 64
 2	2	know what	55	M	22, 76
+2	2	no ,	7	M	64, 70
 2	2	of the	17	M	66, 82
 2	2	right .	5	M	72, 76
 2	2	the most	43	M	46, 88
 2	2	the other	47	M	4, 50
 2	2	them .	39	M	56, 94
+2	2	uhh ,	7	M	48, 54
+2	2	yeah ,	33	M	62, 94
+2	2	yes ,	95	M	20, 114
 2	2	you have	55	M	4, 58
 2	2	you mean	75	M	22, 96
 20	1	i	113	M	0, 4, 6, 8, 12, 16, 18, 22, 34, 54, 62, 64, 66, 72, 74, 78, 86, 100, 108, 112
@@ -44,12 +61,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	be	61	M	56, 112, 116
 3	1	for	33	M	52, 74, 84
 3	1	in	29	M	46, 52, 74
-3	1	oh	51	M	62, 80, 112
 3	1	that	59	M	60, 112, 118
 3	1	them	39	M	56, 74, 94
 3	1	uhh	41	M	14, 48, 54
-3	1	well	31	M	62, 88, 92
-3	1	yeah	33	M	62, 90, 94
 3	1	yes	95	M	20, 48, 114
 2	1	and	11	M	46, 56
 2	1	because	17	M	50, 66
@@ -60,13 +74,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	is	31	M	84, 114
 2	1	make	27	M	86, 112
 2	1	many	7	M	102, 108
-2	1	no	7	M	64, 70
 2	1	people	105	M	4, 108
 2	1	really	53	M	26, 78
 2	1	some	83	M	12, 94
 2	1	they're	93	M	0, 92
 2	1	too	55	M	0, 54
-2	1	um	31	M	48, 78
 2	1	with	63	M	56, 118
 2	1	wrong	21	M	72, 92
 2	1	you're	5	M	72, 76

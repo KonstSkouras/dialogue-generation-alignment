@@ -1,7 +1,10 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
-4	4	3	a golden retriever	13	52	1	M	0, 13, 18, 51
+2	2	4	a golden retriever ,	18	6	1	A	13, 18
+4	2	3	a golden retriever	13	52	1	M	0, 13, 18, 51
 8	4	2	golden retriever	20	52	1	M	0, 13, 18, 20, 43, 46, 48, 51
 4	1	2	a golden	18	52	1	M	0, 13, 18, 51
+3	3	2	, i	27	50	1	M	2, 27, 51
+2	2	2	, and	72	30	1	A	43, 72
 2	2	2	. i	51	30	1	M	22, 51
 2	2	2	and she	72	44	1	A	29, 72
 2	2	2	and we're	72	44	1	A	29, 72
@@ -10,8 +13,9 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	2	get a	51	10	1	M	42, 51
 2	2	2	is it	44	30	1	A	15, 44
 2	2	2	she's not	28	16	1	A	13, 28
+2	2	2	well ,	66	42	1	A	25, 66
 23	19	1	a	13	79	3	M	0, 6, 12, 13, 16, 18, 24, 25, 29, 33, 40, 42, 43, 44, 51, 53, 58, 60, 62, 66, 72, 74, 78
-10	9	1	i	27	50	5	M	2, 6, 10, 12, 22, 27, 33, 40, 43, 51
+10	6	1	i	27	50	5	M	2, 6, 10, 12, 22, 27, 33, 40, 43, 51
 9	1	1	retriever	24	52	1	M	0, 13, 18, 20, 24, 43, 46, 48, 51
 8	8	1	dog	53	73	2	M	6, 24, 53, 54, 58, 60, 72, 78
 8	6	1	is	15	71	2	M	8, 12, 15, 24, 44, 66, 72, 78
@@ -20,7 +24,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 6	6	1	it's	43	59	3	M	16, 18, 22, 43, 72, 74
 6	4	1	not	18	18	1	A	13, 18, 22, 24, 28, 30
 6	4	1	she	13	65	1	M	8, 13, 27, 29, 66, 72
-5	4	1	and	72	44	4	A	29, 43, 51, 53, 72
+5	3	1	and	72	44	4	A	29, 43, 51, 53, 72
 5	5	1	her	26	41	1	A	13, 26, 27, 29, 53
 5	5	1	really	28	55	1	A	3, 28, 30, 51, 57
 4	4	1	have	43	44	3	M	0, 6, 40, 43
@@ -46,6 +50,5 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	1	something	51	48	1	M	4, 51
 2	2	1	they're	62	54	1	A	9, 62
 2	2	1	this	29	18	1	M	12, 29
-2	2	1	well	66	42	1	A	25, 66
 2	2	1	with	43	40	1	M	4, 43
 

@@ -1,19 +1,33 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	paper or something like that	15	A	17, 31
+3	4	and , uh ,	23	A	1, 7, 23
+2	4	, uh , the	17	A	7, 23
+5	3	, uh ,	23	A	1, 7, 13, 17, 23
 3	3	a lot of	21	A	7, 25, 27
 3	3	one of the	19	A	7, 17, 25
+2	3	. actually ,	35	A	5, 39
 2	3	burn it .	5	A	29, 33
 2	3	energy in it	5	A	27, 31
 2	3	like that .	5	A	31, 35
+6	2	uh ,	39	A	1, 7, 13, 17, 23, 39
 5	2	of the	21	A	7, 9, 17, 25, 27
+4	2	, the	19	A	5, 7, 11, 23
 4	2	it and	17	A	13, 15, 27, 29
-3	2	and uh	23	A	1, 7, 23
+3	2	, but	7	A	21, 25, 27
+3	2	and ,	23	A	1, 7, 23
 3	2	burn it	7	A	27, 29, 33
 3	2	he was	17	A	5, 7, 21
 3	2	it .	17	A	17, 29, 33
 3	2	it's not	33	A	3, 13, 35
 3	2	there is	31	A	1, 27, 31
-2	2	. actually	35	A	5, 39
+2	2	, and	17	A	7, 23
+2	2	, he	17	A	7, 23
+2	2	, i	19	A	21, 39
+2	2	, it	5	A	17, 21
+2	2	, it's	23	A	3, 25
+2	2	, they	5	A	1, 5
+2	2	, to	11	A	7, 17
+2	2	, well	15	A	23, 37
 2	2	and they	7	A	9, 15
 2	2	at this	13	A	9, 21
 2	2	can get	7	A	15, 21
@@ -23,11 +37,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	is to	7	A	17, 23
 2	2	it was	3	A	21, 23
 2	2	kind of	9	A	13, 21
+2	2	like ,	5	A	17, 21
 2	2	news print	3	A	7, 9
 2	2	not too	37	A	3, 39
 2	2	of energy	7	A	21, 27
+2	2	oh ,	17	A	5, 21
 2	2	plastics is	3	A	23, 25
 2	2	recycled paper	3	A	13, 15
+2	2	recycling ,	19	A	9, 27
 2	2	solid waste	7	A	1, 7
 2	2	that .	5	A	31, 35
 2	2	that he	17	A	7, 23
@@ -38,7 +55,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	things that	3	A	5, 7
 2	2	to burn	7	A	23, 29
 2	2	to do	3	A	21, 23
-2	2	uh the	17	A	7, 23
+2	2	well ,	35	A	3, 37
 2	2	yeah .	21	A	11, 31
 12	1	it	27	A	9, 13, 15, 17, 21, 23, 25, 27, 29, 31, 33, 35
 10	1	and	31	A	1, 7, 9, 13, 15, 21, 23, 27, 29, 31
@@ -50,7 +67,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	actually	35	A	5, 13, 15, 17, 25, 27, 39
 7	1	of	21	A	7, 9, 13, 17, 21, 25, 27
 6	1	so	27	A	9, 13, 17, 25, 29, 35
-6	1	uh	39	A	1, 7, 13, 17, 23, 39
 6	1	was	27	A	5, 7, 21, 23, 29, 31
 5	1	in	21	A	11, 15, 25, 27, 31
 5	1	it's	33	A	3, 13, 25, 31, 35
@@ -89,10 +105,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	had	7	A	1, 7
 2	1	have	9	A	9, 17
 2	1	how	15	A	7, 21
-2	1	i	19	A	21, 39
 2	1	interesting	31	A	7, 37
 2	1	new	5	A	3, 7
-2	1	oh	17	A	5, 21
 2	1	per	23	A	9, 31
 2	1	plants	7	A	7, 13
 2	1	plastics	3	A	23, 25

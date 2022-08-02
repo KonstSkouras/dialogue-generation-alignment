@@ -1,46 +1,75 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	6	three or four times a week	3	A	6, 8
+2	7	three or four times a week ,	3	A	6, 8
+2	5	, but , uh .	39	A	16, 54
+3	4	, but , uh	39	A	16, 24, 54
+3	4	, you know ,	31	A	8, 14, 38
+2	4	and , uh ,	31	A	8, 38
+2	4	but , uh ,	3	A	24, 26
+2	4	do , uh ,	21	A	6, 26
+2	4	it's , uh ,	33	A	32, 64
 2	4	my problem is i	21	A	14, 34
+11	3	, uh ,	69	A	0, 6, 8, 14, 24, 26, 32, 38, 54, 64, 68
+4	3	, uh .	53	A	16, 28, 54, 68
+3	3	, oh ,	19	A	6, 14, 24
 3	3	a lot of	37	A	14, 48, 50
+3	3	it's , uh	37	A	32, 64, 68
+2	3	, and i	39	A	24, 62
+2	3	, so ,	13	A	14, 26
+2	3	, well ,	57	A	8, 64
 2	3	a little different	55	A	16, 70
 2	3	another half hour	3	A	32, 34
 2	3	as far as	15	A	0, 14
-2	3	but uh .	39	A	16, 54
 2	3	i like it	3	A	12, 14
+2	3	it , uh	15	A	14, 28
 2	3	it is hard	3	A	30, 32
+2	3	well , you	61	A	8, 68
+14	2	, uh	71	A	0, 6, 8, 14, 16, 24, 26, 28, 32, 38, 54, 64, 68, 70
+7	2	, you	61	A	8, 14, 16, 18, 38, 40, 68
+5	2	well ,	63	A	6, 8, 50, 64, 68
+4	2	, but	49	A	6, 16, 24, 54
 4	2	a lot	37	A	14, 40, 48, 50
-4	2	but uh	39	A	16, 24, 26, 54
-4	2	uh .	53	A	16, 28, 54, 68
+4	2	it ,	25	A	14, 22, 28, 38
+4	2	oh ,	35	A	6, 14, 24, 40
+4	2	so ,	19	A	8, 10, 14, 26
+3	2	, it's	41	A	24, 38, 64
 3	2	half hour	27	A	8, 32, 34
 3	2	i like	51	A	12, 14, 62
 3	2	it is	7	A	30, 32, 36
-3	2	it's uh	37	A	32, 64, 68
 3	2	right .	71	A	4, 52, 74
-3	2	you know	31	A	8, 14, 38
+2	2	, boy	37	A	6, 42
+2	2	, i	19	A	6, 24
+2	2	, if	23	A	38, 60
+2	2	, in	21	A	6, 26
+2	2	, it	7	A	24, 30
+2	2	, right	33	A	4, 36
+2	2	, that's	55	A	8, 62
+2	2	, too	7	A	62, 68
 2	2	. i	17	A	44, 60
-2	2	and i	39	A	24, 62
-2	2	and uh	31	A	8, 38
-2	2	do uh	21	A	6, 26
+2	2	course ,	47	A	16, 62
 2	2	do you	3	A	26, 28
+2	2	for ,	17	A	8, 24
+2	2	go ,	55	A	6, 60
+2	2	have ,	11	A	28, 38
 2	2	i do	39	A	6, 44
 2	2	i don't	11	A	24, 34
 2	2	i have	31	A	14, 44
 2	2	if i	37	A	6, 42
 2	2	if you	33	A	28, 60
 2	2	it .	49	A	12, 60
-2	2	it uh	15	A	14, 28
 2	2	kind of	19	A	38, 56
-2	2	of course	23	A	16, 38
+2	2	much ,	7	A	18, 24
+2	2	of ,	25	A	14, 38
+2	2	right ,	15	A	4, 18
+2	2	sugar ,	21	A	42, 62
 2	2	that's a	55	A	8, 62
 2	2	to do	45	A	14, 58
 2	2	want to	3	A	32, 34
-2	2	well you	61	A	8, 68
+2	2	you ,	15	A	54, 68
 2	2	you ?	25	A	22, 46
 2	2	you can	41	A	28, 68
 2	2	you do	13	A	26, 38
 2	2	you feel	19	A	22, 40
 16	1	you	65	A	8, 14, 16, 18, 22, 26, 28, 32, 38, 40, 46, 54, 60, 64, 68, 72
-14	1	uh	71	A	0, 6, 8, 14, 16, 24, 26, 28, 32, 38, 54, 64, 68, 70
 12	1	it	59	A	12, 14, 18, 22, 24, 28, 30, 32, 36, 38, 60, 70
 11	1	a	65	A	6, 8, 14, 16, 26, 38, 40, 48, 50, 62, 70
 10	1	i	57	A	6, 10, 12, 14, 24, 34, 42, 44, 60, 62
@@ -56,17 +85,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	right	71	A	4, 18, 36, 40, 52, 74
 5	1	as	39	A	0, 14, 18, 36, 38
 5	1	don't	19	A	18, 22, 24, 34, 36
-5	1	if	55	A	6, 28, 38, 42, 60
 5	1	in	55	A	6, 26, 40, 50, 60
 5	1	just	29	A	14, 24, 28, 40, 42
-5	1	well	63	A	6, 8, 50, 64, 68
 4	1	hard	33	A	0, 8, 30, 32
-4	1	have	31	A	14, 28, 38, 44
 4	1	know	31	A	8, 14, 24, 38
 4	1	lot	37	A	14, 40, 48, 50
-4	1	oh	35	A	6, 14, 24, 40
 4	1	or	27	A	6, 8, 28, 32
-4	1	so	19	A	8, 10, 14, 26
 4	1	sugar	21	A	42, 58, 60, 62
 4	1	that	51	A	8, 10, 14, 58
 3	1	course	47	A	16, 38, 62
@@ -77,7 +101,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	not	27	A	6, 10, 32
 3	1	problem	49	A	14, 34, 62
 3	1	quite	17	A	10, 24, 26
-2	1	boy	37	A	6, 42
 2	1	does	17	A	26, 42
 2	1	else	7	A	32, 38
 2	1	enjoy	41	A	28, 68
@@ -88,9 +111,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	probably	3	A	24, 26
 2	1	really	17	A	38, 54
 2	1	summer	3	A	6, 8
-2	1	that's	55	A	8, 62
 2	1	time	23	A	6, 28
-2	1	too	7	A	62, 68
 2	1	yeah	11	A	20, 30
 2	1	your	61	A	0, 60
 

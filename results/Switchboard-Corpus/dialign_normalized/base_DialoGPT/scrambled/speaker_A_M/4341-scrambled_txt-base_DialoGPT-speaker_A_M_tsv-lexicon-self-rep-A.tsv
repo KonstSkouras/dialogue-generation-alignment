@@ -1,11 +1,13 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	yeah yeah .	3	A	12, 14
+2	4	yeah , yeah .	3	A	12, 14
 5	2	uh-huh .	21	A	4, 6, 10, 16, 24
+3	2	, i	5	A	0, 2, 4
+3	2	yeah ,	15	A	0, 12, 14
 3	2	yeah .	11	A	12, 14, 22
+2	2	uh ,	7	A	2, 8
+2	2	well ,	5	A	4, 8
 4	1	the	35	A	0, 2, 8, 34
-4	1	yeah	23	A	0, 12, 14, 22
 3	1	and	35	A	0, 6, 34
-3	1	i	5	A	0, 2, 4
 3	1	to	27	A	8, 18, 34
 3	1	you	23	A	4, 8, 26
 2	1	get	9	A	26, 34
@@ -14,6 +16,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	know	25	A	2, 26
 2	1	of	21	A	6, 26
 2	1	that	19	A	0, 18
-2	1	uh	7	A	2, 8
-2	1	well	5	A	4, 8
 

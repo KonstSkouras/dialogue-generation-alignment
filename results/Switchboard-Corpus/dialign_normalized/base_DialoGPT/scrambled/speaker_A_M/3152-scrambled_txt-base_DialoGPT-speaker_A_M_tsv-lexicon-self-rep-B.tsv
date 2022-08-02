@@ -1,15 +1,21 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	3	i'm not sure	45	M	1, 29, 45
 3	3	it's not a	67	M	37, 85, 103
+2	3	, i'm not	23	M	45, 67
+2	3	, uh ,	55	M	13, 67
 2	3	have a lot	17	M	3, 19
 2	3	live in pittsburgh	47	M	25, 71
 2	3	not sure if	105	M	1, 105
+2	3	uhhh , uh	45	M	13, 57
 5	2	i'm not	91	M	1, 29, 45, 67, 91
 4	2	i think	79	M	21, 83, 89, 99
 4	2	it's not	67	M	37, 61, 85, 103
+3	2	, uh	55	M	13, 57, 67
 3	2	. i	29	M	71, 85, 99
 3	2	in the	15	M	81, 93, 95
 3	2	it's a	35	M	51, 61, 85
+2	2	, a	47	M	19, 65
+2	2	, it's	15	M	37, 51
 2	2	. i'm	29	M	45, 73
 2	2	have a	17	M	3, 19
 2	2	i am	3	M	93, 95
@@ -21,8 +27,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	oh .	10	M	99, 108
 2	2	that the	17	M	17, 33
 2	2	they have	81	M	19, 99
-2	2	uhhh uh	45	M	13, 57
+2	2	uhhh ,	45	M	13, 57
 2	2	we can	59	M	25, 83
+2	2	well ,	33	M	19, 51
+2	2	yeah ,	11	M	45, 55
+2	2	yes ,	53	M	37, 89
 2	2	you .	95	M	3, 97
 21	1	i	101	M	5, 9, 21, 29, 33, 47, 49, 67, 71, 73, 75, 77, 79, 83, 85, 89, 93, 95, 99, 101, 105
 13	1	a	105	M	3, 19, 29, 37, 45, 51, 53, 55, 61, 65, 85, 103, 107
@@ -45,7 +54,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	don't	35	M	9, 19, 43
 3	1	oh	44	M	65, 99, 108
 3	1	they	99	M	1, 19, 99
-3	1	uh	55	M	13, 57, 67
 3	1	yeah	27	M	45, 55, 71
 2	1	but	75	M	29, 103
 2	1	from	31	M	39, 69
@@ -59,7 +67,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	than	17	M	3, 19
 2	1	that's	19	M	89, 107
 2	1	uhh	9	M	5, 13
-2	1	uhhh	45	M	13, 57
-2	1	well	33	M	19, 51
-2	1	yes	53	M	37, 89
 

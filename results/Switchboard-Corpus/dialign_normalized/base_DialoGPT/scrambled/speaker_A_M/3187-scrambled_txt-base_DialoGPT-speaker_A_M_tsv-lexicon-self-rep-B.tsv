@@ -1,11 +1,13 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	2	, i'm	9	M	23, 31
 2	2	i just	15	M	7, 21
 2	2	i'm not	13	M	19, 31
 2	2	it .	25	M	9, 33
+2	2	oh ,	19	M	9, 27
+2	2	uh ,	7	M	7, 13
 7	1	i	25	M	7, 11, 13, 21, 23, 29, 31
 6	1	a	31	M	1, 11, 15, 19, 25, 31
 3	1	do	21	M	3, 7, 23
-3	1	i'm	13	M	19, 23, 31
 3	1	it	31	M	3, 9, 33
 3	1	just	17	M	7, 21, 23
 3	1	not	21	M	11, 19, 31
@@ -17,5 +19,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	it's	21	M	15, 35
 2	1	of	11	M	9, 19
 2	1	think	9	M	3, 11
-2	1	uh	7	M	7, 13
 

@@ -1,6 +1,7 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	but i'm not	21	M	8, 28
+2	4	, but i'm not	21	M	8, 28
 2	3	i have a	29	M	6, 34
+4	2	, but	35	M	8, 28, 34, 42
 2	2	a lot	39	M	6, 44
 2	2	have a	29	M	6, 34
 2	2	it's a	3	M	44, 46
@@ -12,7 +13,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	i	41	M	6, 8, 10, 24, 34, 36, 42, 46
 6	1	the	35	M	8, 22, 24, 28, 34, 42
 5	1	is	23	M	20, 22, 28, 34, 42
-4	1	but	35	M	8, 28, 34, 42
 4	1	not	35	M	8, 18, 28, 42
 4	1	to	35	M	8, 24, 32, 42
 3	1	i'm	23	M	8, 28, 30

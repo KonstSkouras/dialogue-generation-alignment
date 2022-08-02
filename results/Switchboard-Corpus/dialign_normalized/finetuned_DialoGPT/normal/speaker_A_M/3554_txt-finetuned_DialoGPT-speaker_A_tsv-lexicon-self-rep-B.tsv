@@ -1,36 +1,52 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	i do too .	43	M	13, 55
+2	6	, i do , too .	43	M	13, 55
+2	4	, i , i	3	M	27, 29
+2	4	, i have to	19	M	17, 35
+2	4	yeah , yeah ,	53	M	11, 63
+3	3	, i do	43	M	13, 27, 55
+3	3	, i have	33	M	3, 17, 35
+3	3	, too .	45	M	11, 13, 55
+3	3	i , i	13	M	17, 27, 29
+3	3	i do ,	53	M	3, 13, 55
+3	3	yeah , i	7	M	13, 17, 19
+2	3	, right .	61	M	1, 61
+2	3	a , a	15	M	3, 17
+2	3	and , uh	15	M	3, 17
 2	3	go to a	5	M	17, 21
+2	3	i don ,	11	M	19, 29
 2	3	i have a	15	M	3, 17
-2	3	i have to	19	M	17, 35
+2	3	i'm , i	3	M	27, 29
+2	3	uh , yeah	3	M	39, 41
+11	2	uh ,	73	M	1, 3, 7, 15, 27, 29, 31, 35, 39, 41, 73
+9	2	, i	53	M	3, 13, 17, 19, 21, 27, 29, 35, 55
 7	2	yeah .	43	M	9, 23, 37, 45, 47, 49, 51
+6	2	yeah ,	53	M	11, 13, 17, 19, 21, 63
+5	2	, uh	55	M	3, 7, 17, 27, 57
+5	2	, yeah	53	M	11, 39, 41, 51, 63
 5	2	right .	61	M	1, 25, 33, 43, 61
-4	2	i do	53	M	3, 13, 27, 55
+3	2	, you	13	M	17, 21, 29
 3	2	have to	19	M	17, 29, 35
 3	2	i have	33	M	3, 17, 35
-3	2	i i	13	M	17, 27, 29
 3	2	to be	19	M	11, 17, 29
-3	2	too .	45	M	11, 13, 55
-3	2	yeah i	7	M	13, 17, 19
+2	2	, i'm	7	M	21, 27
+2	2	, it	25	M	29, 53
+2	2	, it's	49	M	5, 53
+2	2	, well	31	M	35, 65
 2	2	. i	13	M	17, 29
-2	2	a a	15	M	3, 17
-2	2	and uh	15	M	3, 17
+2	2	a ,	15	M	3, 17
 2	2	go to	5	M	17, 21
 2	2	have a	15	M	3, 17
-2	2	i don	11	M	19, 29
 2	2	i don't	19	M	3, 21
 2	2	i thought	19	M	17, 35
-2	2	i'm i	3	M	27, 29
 2	2	i'm not	9	M	27, 35
 2	2	in college	5	M	17, 21
+2	2	it's ,	49	M	5, 53
 2	2	know if	19	M	3, 21
+2	2	right ,	7	M	55, 61
+2	2	that ,	17	M	11, 27
 2	2	that .	5	M	17, 21
-2	2	uh i	13	M	17, 29
-2	2	uh uh	5	M	3, 7
-2	2	uh yeah	3	M	39, 41
 2	2	uh-huh .	13	M	59, 71
-2	2	well i	31	M	35, 65
-2	2	yeah yeah	53	M	11, 63
+2	2	well ,	7	M	29, 35
 2	2	you know	37	M	17, 53
 16	1	yeah	59	M	9, 11, 13, 17, 19, 21, 23, 37, 39, 41, 45, 47, 49, 51, 63, 67
 14	1	uh	73	M	1, 3, 7, 15, 17, 27, 29, 31, 35, 39, 41, 57, 67, 73
@@ -48,7 +64,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	and	65	M	3, 17, 53, 67
 4	1	be	25	M	11, 17, 29, 35
 4	1	but	65	M	3, 5, 57, 67
-4	1	i'm	15	M	21, 27, 29, 35
 4	1	in	65	M	3, 17, 21, 67
 4	1	well	39	M	29, 35, 65, 67
 3	1	don't	27	M	3, 21, 29

@@ -1,25 +1,36 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, i don't know ,	9	A	35, 43
 2	5	not to get into things	3	A	71, 73
-2	4	uh-huh . well i	37	A	7, 43
+2	5	uh-huh . well , i	37	A	7, 43
+2	4	, you know ,	9	A	25, 33
+5	3	well , i	63	A	7, 43, 57, 59, 69
+4	3	, i don't	39	A	35, 43, 57, 73
+3	3	, they have	33	A	33, 45, 65
+3	3	, you know	19	A	25, 33, 43
 3	3	uh-huh . well	37	A	7, 25, 43
+2	3	, i just	27	A	43, 69
 2	3	and then we	15	A	59, 73
-2	3	i don't know	9	A	35, 43
+2	3	but , i	33	A	43, 75
+2	3	know , i	11	A	33, 43
 2	3	of my daughters	11	A	33, 43
 2	3	pretty well .	3	A	73, 75
 2	3	to have a	17	A	29, 45
 2	3	try to teach	3	A	71, 73
 2	3	you know .	31	A	43, 73
 15	2	uh-huh .	53	A	3, 5, 7, 9, 15, 21, 23, 25, 39, 41, 43, 49, 51, 53, 55
+10	2	, i	69	A	7, 33, 35, 43, 57, 59, 63, 69, 73, 75
+7	2	well ,	63	A	7, 11, 17, 43, 57, 59, 69
 6	2	kind of	63	A	13, 19, 33, 47, 73, 75
-5	2	well i	63	A	7, 43, 57, 59, 69
+4	2	, they	43	A	33, 45, 65, 75
+4	2	, you	23	A	25, 33, 43, 47
 4	2	have a	29	A	17, 29, 33, 45
-4	2	i don't	39	A	35, 43, 57, 73
-4	2	you know	49	A	25, 33, 43, 73
-3	2	but i	41	A	35, 43, 75
+3	2	, but	39	A	25, 43, 63
+3	2	but ,	33	A	43, 67, 75
 3	2	my daughters	41	A	33, 43, 73
 3	2	of them	27	A	17, 35, 43
 3	2	the house	61	A	1, 25, 61
-3	2	they have	33	A	33, 45, 65
+2	2	, all	33	A	43, 75
+2	2	, that	37	A	11, 47
 2	2	. at	27	A	47, 73
 2	2	. i	61	A	11, 71
 2	2	all of	5	A	29, 33
@@ -28,24 +39,24 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	ended up	25	A	35, 59
 2	2	everything .	41	A	25, 65
 2	2	have to	29	A	45, 73
+2	2	house ,	41	A	25, 65
+2	2	i ,	3	A	33, 35
 2	2	i bet	5	A	7, 11
 2	2	i had	5	A	33, 37
-2	2	i just	27	A	43, 69
-2	2	know i	11	A	33, 43
 2	2	most of	59	A	17, 75
+2	2	now ,	19	A	27, 45
 2	2	of my	11	A	33, 43
 2	2	one of	3	A	33, 35
+2	2	that ,	49	A	25, 73
 2	2	that .	31	A	27, 57
 2	2	them .	3	A	69, 71
 2	2	them coming	21	A	43, 63
 2	2	things .	43	A	29, 71
 2	2	up when	39	A	33, 71
 2	2	up with	23	A	37, 59
-2	2	well that	15	A	11, 25
 14	1	i	69	A	7, 11, 33, 35, 37, 43, 47, 57, 59, 63, 69, 71, 73, 75
 11	1	and	73	A	1, 25, 27, 33, 43, 45, 59, 61, 63, 71, 73
 10	1	of	63	A	13, 17, 19, 29, 33, 35, 43, 47, 73, 75
-10	1	well	69	A	7, 11, 17, 25, 43, 57, 59, 69, 73, 75
 9	1	have	59	A	17, 29, 33, 43, 45, 59, 65, 73, 75
 9	1	that	63	A	11, 13, 25, 27, 33, 35, 47, 57, 73
 8	1	the	75	A	1, 25, 43, 59, 61, 65, 73, 75

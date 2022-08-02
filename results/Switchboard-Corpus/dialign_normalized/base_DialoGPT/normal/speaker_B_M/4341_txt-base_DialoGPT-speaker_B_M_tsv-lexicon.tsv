@@ -1,20 +1,24 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
+3	3	3	i mean ,	7	9	1	B	0, 7, 8
 2	2	3	are a danger	32	2	1	M	31, 32
 8	8	2	i think	19	23	3	B	6, 12, 18, 19, 20, 22, 26, 28
 4	4	2	i don't	29	20	3	B	10, 14, 18, 29
-3	3	2	i mean	7	9	1	B	0, 7, 8
+3	1	2	i mean	7	9	1	B	0, 7, 8
 3	3	2	it is	27	22	2	B	6, 16, 27
+3	3	2	that ,	29	20	2	B	10, 12, 29
+2	2	2	, i'm	29	30	1	B	0, 29
 2	2	2	a person	6	2	1	M	5, 6
 2	2	2	do it	21	14	1	B	8, 21
 2	2	2	do something	7	2	1	B	6, 7
 2	2	2	going to	28	22	1	M	7, 28
+2	2	2	it ,	20	16	1	M	5, 20
 2	2	2	that they	31	24	1	B	8, 31
 2	2	2	you can't	9	2	1	B	8, 9
 16	4	1	i	28	35	2	B	0, 6, 7, 8, 10, 12, 14, 18, 19, 20, 22, 26, 28, 29, 31, 34
 11	9	1	that	9	27	2	B	6, 8, 9, 10, 12, 14, 22, 26, 29, 31, 32
 10	2	1	think	19	23	5	B	6, 10, 12, 14, 18, 19, 20, 22, 26, 28
 9	7	1	a	1	33	1	B	0, 1, 5, 6, 9, 16, 26, 31, 32
-9	4	1	it	6	23	1	M	5, 6, 7, 8, 11, 16, 20, 21, 27
+9	2	1	it	7	23	1	M	5, 6, 7, 8, 11, 16, 20, 21, 27
 7	4	1	is	7	23	1	B	6, 7, 10, 16, 26, 27, 28
 7	5	1	to	16	32	3	M	1, 5, 7, 16, 28, 29, 32
 6	6	1	but	29	19	4	B	12, 18, 26, 28, 29, 30
@@ -24,7 +28,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 5	5	1	be	22	29	1	M	1, 22, 26, 28, 29
 5	1	1	do	34	29	1	B	6, 7, 8, 21, 34
 5	1	1	don't	29	20	4	B	10, 12, 14, 18, 29
-5	5	1	i'm	27	37	1	B	0, 27, 29, 31, 36
+5	4	1	i'm	27	37	1	B	0, 27, 29, 31, 36
 5	5	1	like	7	29	2	B	0, 6, 7, 12, 28
 5	5	1	would	29	24	4	B	6, 14, 20, 22, 29
 4	4	1	about	12	8	3	M	5, 7, 9, 12

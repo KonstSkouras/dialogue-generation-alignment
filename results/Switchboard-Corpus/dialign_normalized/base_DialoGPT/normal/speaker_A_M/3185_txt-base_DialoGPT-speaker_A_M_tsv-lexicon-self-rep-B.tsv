@@ -3,11 +3,17 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	3	the weather .	55	M	18, 64, 72
 2	3	going to be	39	M	4, 42
 2	3	i'm from the	33	M	14, 46
+2	3	well , i	17	M	26, 42
+5	2	, i	39	M	26, 28, 36, 42, 64
 4	2	i'm not	29	M	0, 4, 8, 28
 4	2	the weather	55	M	18, 64, 70, 72
 3	2	do you	31	M	24, 44, 54
 3	2	i like	27	M	14, 18, 40
 3	2	it .	19	M	6, 20, 24
+2	2	, but	11	M	4, 14
+2	2	, i'm	45	M	14, 58
+2	2	, it's	27	M	2, 28
+2	2	, you	33	M	44, 76
 2	2	. i	9	M	56, 64
 2	2	a few	23	M	20, 42
 2	2	for a	33	M	42, 74
@@ -18,7 +24,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	not .	21	M	8, 28
 2	2	rain .	15	M	22, 36
 2	2	think it's	7	M	38, 44
-2	2	well i	17	M	26, 42
+2	2	yeah ,	13	M	52, 64
 2	2	yes .	19	M	50, 68
 15	1	i	69	M	12, 14, 18, 22, 26, 28, 32, 36, 38, 40, 42, 56, 62, 64, 80
 9	1	i'm	73	M	0, 4, 6, 8, 14, 28, 46, 58, 72
@@ -38,7 +44,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	too	53	M	28, 76, 80
 3	1	why	49	M	12, 24, 60
 3	1	yeah	15	M	50, 52, 64
-2	1	but	11	M	4, 14
 2	1	cold	7	M	6, 12
 2	1	in	3	M	56, 58
 2	1	just	9	M	64, 72

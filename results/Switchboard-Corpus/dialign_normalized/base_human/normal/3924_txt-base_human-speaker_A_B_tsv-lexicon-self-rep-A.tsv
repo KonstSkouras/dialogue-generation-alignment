@@ -1,30 +1,51 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, you know , they	9	A	45, 53
+5	4	, you know ,	43	A	11, 13, 45, 47, 53
+2	4	, you know .	9	A	35, 43
 2	4	and one of the	25	A	7, 31
 2	4	know . i mean	9	A	35, 43
 2	4	one of the things	21	A	11, 31
 2	4	that's the part that	3	A	33, 35
+3	3	, uh ,	49	A	5, 7, 53
 3	3	i don't know	39	A	13, 31, 51
 3	3	you know .	21	A	35, 43, 55
-2	3	. so i	35	A	13, 47
+2	3	, i ,	25	A	23, 47
+2	3	, i think	41	A	3, 43
+2	3	, if i	5	A	53, 57
 2	3	don't know .	9	A	43, 51
 2	3	go ahead .	59	A	1, 59
-2	3	is i think	9	A	43, 51
-2	3	you know they	9	A	45, 53
-8	2	you know	45	A	11, 13, 35, 43, 45, 47, 53, 55
+2	3	i , i	25	A	23, 47
+8	2	, you	47	A	11, 13, 35, 43, 45, 47, 53, 57
+6	2	, i	45	A	3, 13, 23, 35, 43, 47
+6	2	uh ,	53	A	1, 5, 7, 25, 51, 53
 5	2	don't know	39	A	13, 23, 31, 43, 51
 4	2	. i	39	A	5, 13, 35, 43
 4	2	i mean	23	A	35, 43, 51, 57
 4	2	i think	61	A	3, 43, 51, 63
 4	2	know .	21	A	35, 43, 51, 55
 4	2	of the	25	A	7, 11, 25, 31
+4	2	that ,	51	A	3, 33, 47, 53
 4	2	uh-huh .	11	A	19, 21, 27, 29
+3	2	, and	23	A	31, 47, 53
+3	2	, they	11	A	43, 45, 53
+3	2	is ,	13	A	31, 35, 43
+2	2	, but	3	A	45, 47
+2	2	, conference	41	A	7, 47
+2	2	, i'm	41	A	13, 53
+2	2	, or	27	A	25, 51
+2	2	, that's	9	A	25, 33
+2	2	, well	13	A	35, 47
 2	2	. and	53	A	11, 63
+2	2	. so	35	A	13, 47
+2	2	and ,	7	A	47, 53
+2	2	but ,	7	A	45, 51
+2	2	dying ,	5	A	53, 57
 2	2	going to	9	A	23, 31
 2	2	how it	35	A	11, 45
-2	2	i i	25	A	23, 47
 2	2	i know	35	A	23, 57
-2	2	if i	5	A	53, 57
 2	2	in africa	3	A	45, 47
+2	2	it ,	31	A	23, 53
+2	2	it's ,	13	A	35, 47
 2	2	know that	23	A	13, 35
 2	2	money for	11	A	15, 25
 2	2	more .	19	A	13, 31
@@ -32,13 +53,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	people from	3	A	9, 11
 2	2	point .	23	A	25, 47
 2	2	right .	17	A	39, 55
-2	2	that i	29	A	3, 31
 2	2	that really	21	A	11, 31
+2	2	that's ,	11	A	33, 43
 2	2	the people	43	A	11, 53
 2	2	there are	5	A	49, 53
 2	2	to the	13	A	11, 23
+2	2	well ,	17	A	31, 47
 2	2	which is	31	A	13, 43
 2	2	with you	9	A	23, 31
+2	2	yeah ,	3	A	53, 55
 2	2	yeah .	47	A	17, 63
 14	1	that	51	A	3, 5, 7, 11, 13, 15, 23, 31, 33, 35, 45, 47, 49, 53
 13	1	and	59	A	5, 7, 9, 11, 23, 31, 35, 41, 43, 47, 49, 53, 63
@@ -53,7 +76,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	of	43	A	7, 11, 25, 31, 45, 49
 6	1	that's	39	A	25, 33, 35, 43, 47, 63
 6	1	they	29	A	25, 35, 43, 45, 51, 53
-6	1	uh	53	A	1, 5, 7, 25, 51, 53
 6	1	with	43	A	5, 7, 23, 31, 35, 47
 5	1	it's	29	A	23, 31, 35, 47, 51
 5	1	one	39	A	7, 11, 23, 31, 45
@@ -68,9 +90,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	not	49	A	5, 11, 45, 53
 4	1	there	31	A	23, 47, 49, 53
 4	1	well	25	A	23, 31, 35, 47
-4	1	yeah	47	A	17, 53, 55, 63
 3	1	are	7	A	47, 49, 53
-3	1	but	7	A	45, 47, 51
 3	1	from	17	A	9, 11, 25
 3	1	have	49	A	5, 45, 53
 3	1	how	35	A	11, 41, 45
@@ -90,11 +110,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	an	41	A	7, 47
 2	1	beginning	13	A	35, 47
 2	1	care	29	A	25, 53
-2	1	conference	41	A	7, 47
 2	1	country	45	A	3, 47
 2	1	do	23	A	25, 47
 2	1	does	5	A	49, 53
-2	1	dying	5	A	53, 57
 2	1	enough	9	A	3, 11
 2	1	get	13	A	13, 25
 2	1	he's	3	A	7, 9

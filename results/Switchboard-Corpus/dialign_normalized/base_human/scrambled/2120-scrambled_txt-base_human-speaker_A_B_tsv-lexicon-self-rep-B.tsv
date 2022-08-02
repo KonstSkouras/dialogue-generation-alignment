@@ -1,10 +1,14 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-3	2	you know	15	B	1, 5, 15
+3	4	, you know ,	15	B	1, 5, 15
+2	4	, the , the	15	B	1, 15
+2	3	the , the	15	B	1, 15
+2	2	, and	5	B	5, 9
+2	2	, the	15	B	1, 15
 2	2	and so	7	B	1, 7
 2	2	and we	9	B	1, 9
 2	2	of the	15	B	1, 15
 2	2	sort of	5	B	1, 5
-2	2	the the	15	B	1, 15
+2	2	uh ,	15	B	1, 15
 6	1	and	15	B	1, 5, 7, 9, 11, 15
 5	1	the	15	B	1, 5, 7, 9, 15
 4	1	a	11	B	5, 7, 9, 15
@@ -19,7 +23,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	that	9	B	7, 15
 2	1	there	13	B	1, 13
 2	1	time	9	B	1, 9
-2	1	uh	15	B	1, 15
 2	1	violent	15	B	1, 15
 2	1	where	7	B	1, 7
 2	1	yeah	18	B	1, 18

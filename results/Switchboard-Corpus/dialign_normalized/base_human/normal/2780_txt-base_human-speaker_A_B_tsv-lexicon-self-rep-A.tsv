@@ -1,37 +1,45 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, uh , i ,	5	A	0, 4
 2	5	i don't know i guess	29	A	54, 82
 2	5	that if somebody wants to	5	A	44, 48
+2	5	the country , uh ,	5	A	0, 4
 2	5	you know but i i	3	A	48, 50
+3	4	, you know ,	7	A	4, 8, 10
+2	4	, um , this	11	A	0, 10
+2	4	, you know .	3	A	2, 4
+2	4	an awful thing ,	3	A	86, 88
 2	4	of freedom of speech	5	A	44, 48
 2	4	uh you know i	13	A	84, 96
+5	3	, you know	85	A	2, 4, 8, 10, 86
 5	3	i don't know	39	A	54, 82, 84, 88, 92
-5	3	uh you know	93	A	4, 48, 84, 92, 96
+4	3	, um ,	11	A	0, 4, 6, 10
 4	3	i i think	25	A	42, 48, 50, 66
 4	3	i think that's	39	A	50, 52, 56, 88
+4	3	uh you know	49	A	48, 84, 92, 96
+3	3	, uh ,	5	A	0, 2, 4
 3	3	. i i	39	A	42, 68, 80
 3	3	. yeah .	53	A	22, 58, 74
 3	3	but i i	7	A	44, 48, 50
-3	3	i i guess	61	A	0, 44, 60
 3	3	i would never	25	A	44, 48, 68
+3	3	uh , i	67	A	0, 4, 66
+3	3	you know ,	7	A	4, 8, 10
 3	3	you know .	69	A	2, 4, 70
+2	3	, i guess	3	A	0, 2
 2	3	. but i	27	A	44, 70
 2	3	. i think	23	A	66, 88
 2	3	a disgusting thing	3	A	84, 86
-2	3	an awful thing	3	A	86, 88
 2	3	burn the flag	3	A	42, 44
 2	3	but i think	9	A	52, 60
 2	3	flag and and	15	A	52, 66
 2	3	i believe that	19	A	44, 62
 2	3	i guess that's	7	A	44, 50
 2	3	i guess the	7	A	54, 60
+2	3	i i guess	17	A	44, 60
 2	3	i i i	13	A	48, 60
 2	3	i think that	31	A	66, 96
 2	3	i think the	43	A	48, 90
-2	3	i yeah i	7	A	60, 66
 2	3	if they if	29	A	42, 70
-2	3	that you know	77	A	4, 80
 2	3	that's uh that's	59	A	30, 88
-2	3	the country uh	5	A	0, 4
 2	3	the idea of	15	A	48, 62
 2	3	the same i	49	A	34, 82
 2	3	the um the	57	A	34, 90
@@ -41,20 +49,25 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	uh i think	41	A	56, 96
 2	3	uh the the	25	A	24, 48
 2	3	what i mean	47	A	42, 88
+2	3	yeah , i	67	A	0, 66
 2	3	yeah . well	11	A	48, 58
 2	3	you know that's	35	A	52, 86
 2	3	you know the	15	A	34, 48
 18	2	you know	95	A	2, 4, 8, 10, 34, 36, 42, 48, 50, 52, 60, 70, 80, 84, 86, 88, 92, 96
 12	2	i think	97	A	0, 42, 48, 50, 52, 54, 56, 60, 66, 88, 90, 96
 11	2	i guess	91	A	0, 2, 34, 44, 48, 50, 54, 60, 70, 82, 90
-10	2	i i	97	A	0, 42, 44, 48, 50, 60, 66, 68, 80, 96
 10	2	yeah .	73	A	16, 22, 32, 46, 48, 58, 72, 74, 78, 88
+9	2	i i	55	A	42, 44, 48, 50, 60, 66, 68, 80, 96
+7	2	, i	89	A	0, 2, 4, 8, 10, 66, 88
 7	2	but i	37	A	44, 48, 50, 52, 60, 70, 80
+7	2	uh ,	67	A	0, 2, 4, 24, 48, 52, 66
+6	2	, and	87	A	2, 8, 10, 68, 84, 88
 6	2	. i	89	A	0, 42, 66, 68, 80, 88
 6	2	i don't	39	A	54, 80, 82, 84, 88, 92
 6	2	is a	91	A	0, 4, 6, 48, 84, 90
 5	2	of the	61	A	0, 2, 4, 34, 60
-5	2	uh i	97	A	0, 4, 56, 66, 96
+5	2	yeah ,	67	A	0, 4, 8, 18, 66
+4	2	, uh	85	A	0, 2, 4, 84
 4	2	. yeah	53	A	22, 58, 66, 74
 4	2	and and	49	A	36, 52, 66, 84
 4	2	gun control	23	A	2, 4, 8, 24
@@ -63,7 +76,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	2	the flag	21	A	42, 44, 48, 62
 4	2	uh-huh .	47	A	12, 14, 20, 58
 4	2	would never	27	A	42, 44, 48, 68
-4	2	yeah i	67	A	0, 50, 60, 66
+3	2	, like	65	A	2, 24, 66
 3	2	. but	45	A	44, 70, 88
 3	2	and i	61	A	8, 48, 68
 3	2	and whatever	43	A	24, 52, 66
@@ -74,35 +87,39 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	right to	47	A	34, 54, 80
 3	2	so that	57	A	36, 66, 92
 3	2	that uh	49	A	48, 80, 96
-3	2	that you	77	A	4, 64, 80
-3	2	that's that's	51	A	8, 52, 58
 3	2	that's uh	59	A	30, 52, 88
 3	2	the country	49	A	0, 4, 48
 3	2	the idea	15	A	48, 60, 62
 3	2	the the	37	A	24, 48, 60
 3	2	the um	57	A	34, 80, 90
+3	2	thing ,	5	A	84, 86, 88
 3	2	think that	31	A	66, 80, 96
-3	2	uh the	49	A	0, 24, 48
 3	2	um i	43	A	38, 62, 80
+2	2	, but	5	A	84, 88
+2	2	, in	21	A	4, 24
+2	2	, it	37	A	6, 42
+2	2	, no	39	A	52, 90
+2	2	, the	85	A	0, 84
+2	2	, well	7	A	4, 10
 2	2	. it's	83	A	10, 92
 2	2	. so	83	A	10, 92
 2	2	. um	7	A	60, 66
 2	2	able to	7	A	48, 54
-2	2	abortion but	83	A	2, 84
 2	2	america stands	7	A	48, 54
 2	2	an emotional	5	A	84, 88
 2	2	and it	79	A	10, 88
 2	2	and that	19	A	68, 86
-2	2	and uh	23	A	2, 24
 2	2	and you	21	A	64, 84
 2	2	as a	63	A	4, 66
+2	2	because ,	67	A	0, 66
 2	2	but they	61	A	24, 84
 2	2	disagree with	11	A	54, 64
 2	2	do it	21	A	48, 68
 2	2	don't think	15	A	66, 80
 2	2	had to	9	A	0, 8
+2	2	i ,	5	A	0, 4
 2	2	i just	87	A	10, 96
-2	2	i uh	49	A	0, 48
+2	2	i yeah	7	A	60, 66
 2	2	if they	29	A	42, 70
 2	2	is as	3	A	2, 4
 2	2	is is	29	A	62, 90
@@ -117,15 +134,20 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	it's uh	9	A	84, 92
 2	2	know if	47	A	42, 88
 2	2	know the	15	A	34, 48
-2	2	much and	25	A	68, 92
 2	2	no i	37	A	54, 90
 2	2	one of	11	A	60, 70
 2	2	really interesting	9	A	2, 10
+2	2	see ,	85	A	4, 88
+2	2	so ,	3	A	4, 6
 2	2	stands for	7	A	48, 54
 2	2	talk about	53	A	8, 60
 2	2	talk to	3	A	8, 10
+2	2	that ,	3	A	2, 4
 2	2	that that's	15	A	52, 66
 2	2	that they	13	A	36, 48
+2	2	that you	17	A	64, 80
+2	2	that's ,	3	A	8, 10
+2	2	that's that's	7	A	52, 58
 2	2	that's the	55	A	34, 88
 2	2	that's true	25	A	34, 58
 2	2	that's what's	15	A	56, 70
@@ -135,15 +157,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	to me	21	A	48, 68
 2	2	uh it's	33	A	52, 84
 2	2	um .	11	A	60, 70
-2	2	um this	11	A	0, 10
 2	2	very different	9	A	2, 10
 2	2	we have	77	A	4, 80
 2	2	well it's	43	A	48, 90
 2	2	what the	13	A	48, 60
 2	2	when you	89	A	0, 88
 2	2	with the	53	A	2, 54
-2	2	yeah that's	27	A	8, 34
-2	2	yeah well	21	A	4, 24
+2	2	yeah i	11	A	50, 60
 2	2	you can	41	A	24, 64
 26	1	i	97	A	0, 2, 4, 8, 10, 34, 38, 42, 44, 48, 50, 52, 54, 56, 60, 62, 66, 68, 70, 80, 82, 84, 88, 90, 92, 96
 24	1	yeah	95	A	0, 4, 8, 16, 18, 22, 24, 28, 32, 34, 38, 40, 46, 48, 50, 58, 60, 66, 72, 74, 78, 82, 88, 94
@@ -248,7 +268,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	read	7	A	90, 96
 2	1	realistically	23	A	66, 88
 2	1	say	47	A	38, 84
-2	1	see	85	A	4, 88
 2	1	somebody's	37	A	50, 86
 2	1	stands	7	A	48, 54
 2	1	them	35	A	36, 70

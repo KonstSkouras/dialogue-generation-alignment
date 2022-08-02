@@ -1,22 +1,34 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	um , yeah , i	7	A	46, 52
+2	4	, that's probably true	19	A	26, 44
 3	3	that's probably true	37	A	8, 26, 44
-2	3	um yeah i	7	A	46, 52
+2	3	, i guess	39	A	8, 46
+2	3	, i think	51	A	12, 62
+2	3	, uh ,	9	A	8, 16
+8	2	, i	61	A	8, 12, 16, 30, 46, 52, 62, 68
 7	2	uh-huh .	47	A	24, 32, 40, 42, 48, 66, 70
 5	2	capital punishment	53	A	0, 4, 8, 14, 52
 5	2	um .	49	A	18, 22, 34, 38, 66
 4	2	i guess	51	A	8, 26, 46, 58
+4	2	uh ,	55	A	8, 16, 56, 62
+4	2	yeah ,	47	A	14, 46, 52, 60
 4	2	yes .	19	A	2, 8, 10, 20
+3	2	, that's	39	A	6, 26, 44
+3	2	, yeah	7	A	46, 50, 52
 3	2	going to	39	A	14, 30, 52
-2	2	i think	51	A	12, 62
+3	2	um ,	27	A	26, 46, 52
+3	2	well ,	55	A	12, 44, 66
+3	2	yes ,	63	A	6, 8, 68
+2	2	, if	3	A	12, 14
+2	2	but ,	27	A	28, 54
+2	2	if ,	7	A	8, 14
 2	2	in a	5	A	8, 12
+2	2	that ,	19	A	8, 26
 2	2	would be	3	A	10, 12
 10	1	i	61	A	8, 12, 16, 26, 30, 46, 52, 58, 62, 68
-8	1	um	49	A	18, 22, 26, 34, 38, 46, 52, 66
 7	1	that	61	A	8, 10, 14, 26, 46, 62, 68
 6	1	a	45	A	8, 12, 16, 28, 36, 52
 6	1	that's	41	A	6, 8, 26, 36, 44, 46
-6	1	yes	67	A	2, 6, 8, 10, 20, 68
-5	1	yeah	47	A	14, 46, 50, 52, 60
 4	1	but	29	A	26, 28, 30, 54
 4	1	in	57	A	4, 8, 12, 60
 4	1	it	43	A	8, 10, 12, 50
@@ -24,10 +36,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	so	37	A	0, 4, 12, 36
 4	1	the	21	A	8, 10, 14, 28
 4	1	to	47	A	6, 14, 30, 52
-4	1	uh	55	A	8, 16, 56, 62
 3	1	be	5	A	10, 12, 14
 3	1	if	7	A	8, 12, 14
-3	1	well	55	A	12, 44, 66
 2	1	are	5	A	0, 4
 2	1	certain	3	A	58, 60
 2	1	crimes	3	A	60, 62

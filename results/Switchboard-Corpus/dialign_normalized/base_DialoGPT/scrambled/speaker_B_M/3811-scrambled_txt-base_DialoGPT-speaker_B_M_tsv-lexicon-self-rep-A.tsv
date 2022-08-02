@@ -1,34 +1,60 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, on the other hand	27	B	24, 50
+2	5	. and , uh ,	49	B	12, 60
+2	5	and , you know ,	61	B	0, 60
+10	4	, you know ,	61	B	0, 6, 8, 12, 24, 26, 36, 40, 42, 60
+3	4	and , uh ,	49	B	12, 24, 60
+2	4	, a lot of	35	B	26, 60
 2	4	hundred dollars a semester	27	B	0, 26
-2	4	on the other hand	27	B	24, 50
+2	4	you know , it's	9	B	0, 8
+10	3	you know ,	61	B	0, 6, 8, 12, 24, 26, 36, 40, 42, 60
+5	3	, uh ,	53	B	8, 12, 24, 36, 60
 4	3	a lot of	35	B	26, 42, 48, 60
-2	3	. and uh	49	B	12, 60
-2	3	and you know	61	B	0, 60
+2	3	, and ,	29	B	24, 52
+2	3	, yeah .	35	B	28, 62
 2	3	things like that	37	B	24, 60
+2	3	well , it	3	B	24, 26
 2	3	would be a	43	B	0, 42
-2	3	you know it's	9	B	0, 8
 10	2	you know	61	B	0, 6, 8, 12, 24, 26, 36, 40, 42, 60
+6	2	and ,	61	B	0, 12, 24, 52, 56, 60
+5	2	, but	49	B	0, 6, 26, 40, 48
+5	2	, i	37	B	6, 14, 36, 40, 42
+5	2	oh ,	49	B	14, 24, 40, 42, 62
 5	2	uh-huh .	33	B	2, 4, 20, 30, 34
+4	2	, and	45	B	8, 24, 40, 52
+4	2	, it's	25	B	0, 6, 8, 24
 4	2	a lot	35	B	26, 42, 48, 60
+4	2	it ,	37	B	0, 8, 24, 36
+3	2	, it	19	B	24, 26, 42
+3	2	, the	27	B	6, 24, 32
 3	2	. and	53	B	8, 12, 60
-3	2	and uh	49	B	12, 24, 60
+3	2	well ,	39	B	24, 26, 62
+3	2	yeah ,	17	B	36, 46, 52
 3	2	yeah .	35	B	28, 38, 62
+2	2	, because	37	B	6, 42
+2	2	, if	25	B	0, 24
+2	2	, what	55	B	0, 54
 2	2	. my	15	B	36, 50
 2	2	. well	57	B	6, 62
 2	2	and it	43	B	8, 50
+2	2	but ,	43	B	0, 42
 2	2	for a	45	B	8, 52
 2	2	hundred dollars	27	B	0, 26
 2	2	i think	31	B	12, 42
 2	2	it costs	27	B	0, 26
+2	2	it's ,	19	B	24, 42
 2	2	kind of	47	B	8, 54
 2	2	of people	3	B	24, 26
 2	2	of the	9	B	40, 48
 2	2	of things	7	B	54, 60
 2	2	out .	29	B	8, 36
+2	2	so ,	17	B	12, 28
+2	2	that ,	13	B	24, 36
+2	2	them ,	19	B	6, 24
 2	2	think it's	7	B	0, 6
 2	2	want to	5	B	12, 16
-2	2	we the	13	B	6, 18
-2	2	well it	3	B	24, 26
+2	2	we ,	13	B	6, 18
+2	2	you ,	15	B	10, 24
 14	1	you	61	B	0, 6, 8, 10, 12, 16, 24, 26, 36, 40, 42, 50, 54, 60
 12	1	and	61	B	0, 8, 12, 18, 24, 26, 40, 48, 50, 52, 56, 60
 11	1	a	61	B	0, 6, 8, 18, 24, 26, 42, 48, 50, 52, 60
@@ -43,10 +69,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	it's	43	B	0, 6, 8, 24, 40, 42
 6	1	that	55	B	6, 24, 26, 36, 40, 60
 6	1	they	53	B	0, 26, 32, 40, 44, 52
-6	1	yeah	35	B	28, 36, 38, 46, 52, 62
 5	1	like	61	B	0, 8, 24, 26, 60
-5	1	oh	49	B	14, 24, 40, 42, 62
-5	1	uh	53	B	8, 12, 24, 36, 60
 4	1	be	43	B	0, 6, 24, 42
 4	1	out	43	B	6, 8, 36, 48
 4	1	things	37	B	24, 40, 54, 60
@@ -62,7 +85,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	people	27	B	0, 24, 26
 3	1	so	37	B	12, 28, 48
 2	1	bad	7	B	12, 18
-2	1	because	37	B	6, 42
 2	1	can	19	B	8, 26
 2	1	don't	35	B	6, 40
 2	1	go	49	B	0, 48

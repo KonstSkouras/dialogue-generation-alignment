@@ -1,41 +1,41 @@
-A|0| B: _and_ _i_ so _i_ mean how _i_ would go about doing _it_ is _i_ would just call all _my_ relatives . 
-B|1| M: [i] 
-A|2| B: because [i] since _i came from_ _my_ father has uh five sisters _and_ two brothers _and my mother_ has four brothers _and_ two sisters . so [i] both _of_ _my_ parents had big families _and_ we always we always got together just always . now it's different because [i] live here _and_ [i] you know when [i] go home [i] try to see _the_ families _as_ much _of_ _the_ _family_ _as_ [i] can but it's real different . 
+A|0| B: _and_ _i ,_ so _i_ mean , how _i_ would go about doing _it_ is _i_ would just call all _my_ relatives . 
+B|1| M: [i ,] 
+A|2| B: because [i ,] since _i came from_ , _my_ father has , uh , five sisters _and_ two brothers _and my mother_ has four brothers _and_ two sisters . so [i] both _of_ _my_ parents had big families _, and_ we always we always got together , just always . now it's different because [i] live here _and_ [i ,] you know , when [i] go home [i] try to see _the_ families , _as_ much _of_ _the_ _family_ _as_ [i] can but it's real different . 
 B|3| M:  
-A|4| B: _and_ [i] grew up _in_ _a_ real _not_ [i] think _not_ normal setting . 
+A|4| B: _and_ [i] grew up _in_ _a_ real _not_ _, i_ think _not_ normal setting . 
 B|5| M: i'm [not] 
-A|6| B: right _. i_ mean sunday dinner _was_ at _my_ grandmother's _and_ you know like [i] said there would be thirty you know thirty people _and_ everyone would just bring things _and my_ grandmother would cook _and_ cook _and_ cook . 
+A|6| B: right _. i_ mean sunday dinner _was_ at _my_ grandmother's _and_ , you know , like [i] said there would be thirty , you know , thirty people _, and_ everyone would just bring things _and my_ grandmother would cook _and_ cook _and_ cook . 
 B|7| M: i'm [in] [the] day 
 A|8| B: _and_ 
 B|9| M: [i] am [the] tree 
 A|10| B: uh-huh . 
-B|11| M: well [i came from] texas [and my mother] [was] [from] florida 
-A|12| B: yeah _i guess_ so . _it_ really sounds like _it_ [was] fun . 
+B|11| M: well [, [i] came from] texas [, [and] my mother] [was] [from] florida 
+A|12| B: yeah [, _i] guess_ so . _it_ really sounds like _it_ [was] fun . 
 B|13| M: oh [. [i] guess] [i] [was] thinking [of] [it] [as] [a] [family] thing . 
 
 
 TURN DETAILS:
-Turn ID=0| A | B : and i so i mean how i would go about doing it is i would just call all my relatives .
-	Free: Pattern=my, Pattern=i, Pattern=and, Pattern=it
-	Constrained: 
-Turn ID=1| B | M : i
-	Free: Pattern=i
-	Constrained: 
-Turn ID=2| A | B : because i since i came from my father has uh five sisters and two brothers and my mother has four brothers and two sisters . so i both of my parents had big families and we always we always got together just always . now it's different because i live here and i you know when i go home i try to see the families as much of the family as i can but it's real different .
-	Free: Pattern=of, Pattern=i came from, Pattern=as, Pattern=and, Pattern=family, Pattern=i, Pattern=the, Pattern=my, Pattern=and my mother
+Turn ID=0| A | B : and i , so i mean , how i would go about doing it is i would just call all my relatives .
+	Free: Pattern=i, Pattern=i ,, Pattern=my, Pattern=it, Pattern=and
+	Constrained: Pattern=i
+Turn ID=1| B | M : i ,
+	Free: Pattern=i ,
+	Constrained: Pattern=i
+Turn ID=2| A | B : because i , since i came from , my father has , uh , five sisters and two brothers and my mother has four brothers and two sisters . so i both of my parents had big families , and we always we always got together , just always . now it's different because i live here and i , you know , when i go home i try to see the families , as much of the family as i can but it's real different .
+	Free: Pattern=of, Pattern=i came from, Pattern=as, Pattern=and, Pattern=family, Pattern=i, Pattern=the, Pattern=i ,, Pattern=, and, Pattern=my, Pattern=and my mother
 	Constrained: Pattern=and, Pattern=from, Pattern=i, Pattern=and my, Pattern=my
 Turn ID=3| B | M : 
 	Free: 
 	Constrained: 
-Turn ID=4| A | B : and i grew up in a real not i think not normal setting .
-	Free: Pattern=a, Pattern=and, Pattern=in, Pattern=i, Pattern=not
-	Constrained: 
+Turn ID=4| A | B : and i grew up in a real not , i think not normal setting .
+	Free: Pattern=a, Pattern=and, Pattern=in, Pattern=i, Pattern=, i, Pattern=not
+	Constrained: Pattern=i
 Turn ID=5| B | M : i'm not
 	Free: Pattern=not
 	Constrained: 
-Turn ID=6| A | B : right . i mean sunday dinner was at my grandmother's and you know like i said there would be thirty you know thirty people and everyone would just bring things and my grandmother would cook and cook and cook .
-	Free: Pattern=and, Pattern=. i, Pattern=i, Pattern=and my, Pattern=was, Pattern=my
-	Constrained: Pattern=my, Pattern=i, Pattern=and
+Turn ID=6| A | B : right . i mean sunday dinner was at my grandmother's and , you know , like i said there would be thirty , you know , thirty people , and everyone would just bring things and my grandmother would cook and cook and cook .
+	Free: Pattern=and, Pattern=. i, Pattern=i, Pattern=and my, Pattern=, and, Pattern=was, Pattern=my
+	Constrained: Pattern=i, Pattern=and, Pattern=my
 Turn ID=7| B | M : i'm in the day
 	Free: Pattern=the, Pattern=in
 	Constrained: 
@@ -48,11 +48,11 @@ Turn ID=9| B | M : i am the tree
 Turn ID=10| A | B : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=11| B | M : well i came from texas and my mother was from florida
-	Free: Pattern=i came from, Pattern=and my mother, Pattern=from, Pattern=was
+Turn ID=11| B | M : well , i came from texas , and my mother was from florida
+	Free: Pattern=i came from, Pattern=from, Pattern=, i, Pattern=, and, Pattern=was, Pattern=and my mother
 	Constrained: Pattern=and, Pattern=from, Pattern=i, Pattern=and my, Pattern=my
-Turn ID=12| A | B : yeah i guess so . it really sounds like it was fun .
-	Free: Pattern=i guess, Pattern=was, Pattern=it
+Turn ID=12| A | B : yeah , i guess so . it really sounds like it was fun .
+	Free: Pattern=, i, Pattern=i guess, Pattern=it, Pattern=was
 	Constrained: Pattern=i
 Turn ID=13| B | M : oh . i guess i was thinking of it as a family thing .
 	Free: Pattern=of, Pattern=as, Pattern=a, Pattern=it, Pattern=i, Pattern=i guess, Pattern=was, Pattern=. i, Pattern=family

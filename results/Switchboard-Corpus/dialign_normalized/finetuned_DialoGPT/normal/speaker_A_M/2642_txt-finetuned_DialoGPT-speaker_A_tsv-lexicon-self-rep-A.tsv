@@ -1,91 +1,128 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	8	like that . but , um , i	5	A	53, 57
 2	6	don't have to pay for it	3	A	7, 9
-2	6	like that . but um i	5	A	53, 57
 2	6	you don't ever have to pay	3	A	27, 29
+2	6	you know , i mean ,	47	A	3, 49
+4	5	, you know , i	55	A	3, 15, 53, 57
+3	5	, you don't have to	37	A	3, 7, 39
+3	5	, you know , and	11	A	37, 39, 47
+3	5	but , um , i	9	A	49, 53, 57
+2	5	, i mean , you	37	A	29, 65
+2	5	, oh , well ,	11	A	9, 19
+2	5	, you know , they	7	A	47, 53
+2	5	. i mean , i	5	A	49, 53
 2	5	going to have to pay	45	A	9, 53
 2	5	have to pay for it	3	A	7, 9
 2	5	i don't like credit cards	47	A	3, 49
-3	4	you don't have to	37	A	3, 7, 39
-2	4	. i mean i	5	A	49, 53
+2	5	it , you know ,	5	A	33, 37
+2	5	to , you know ,	5	A	45, 49
+13	4	, you know ,	55	A	3, 15, 19, 29, 33, 37, 39, 45, 47, 49, 51, 53, 57
+7	4	, i mean ,	63	A	3, 15, 29, 37, 49, 57, 65
+4	4	, well , i	49	A	9, 19, 53, 57
+4	4	you know , and	27	A	21, 37, 39, 47
+3	4	. i mean ,	27	A	27, 49, 53
+3	4	but , um ,	9	A	49, 53, 57
+2	4	, i guess it's	5	A	53, 57
+2	4	, of course ,	3	A	47, 49
+2	4	, well , you	39	A	29, 67
+2	4	. you know ,	3	A	47, 49
+2	4	a credit card ,	35	A	15, 49
 2	4	a credit card .	19	A	19, 37
+2	4	and , um ,	9	A	49, 57
 2	4	have to pay this	7	A	47, 53
+2	4	of course , i	5	A	49, 53
+2	4	yeah , well ,	3	A	65, 67
 2	4	you have to pay	19	A	29, 47
-2	4	you know i mean	47	A	3, 49
 2	4	you to use it	3	A	27, 29
-5	3	you know i	55	A	3, 15, 49, 53, 57
-4	3	a credit card	35	A	15, 19, 37, 49
-4	3	you know and	27	A	21, 37, 39, 47
-3	3	. i mean	27	A	27, 49, 53
+13	3	, you know	55	A	3, 15, 19, 29, 33, 37, 39, 45, 47, 49, 51, 53, 57
+9	3	, well ,	59	A	9, 19, 29, 39, 47, 53, 57, 65, 67
+5	3	, uh ,	35	A	15, 29, 39, 47, 49
+5	3	, um ,	49	A	9, 33, 49, 53, 57
+5	3	well , i	49	A	9, 15, 19, 53, 57
+4	3	, i don't	49	A	9, 39, 49, 57
+4	3	, i guess	55	A	3, 49, 53, 57
+4	3	credit card ,	35	A	15, 29, 39, 49
 3	3	a lot of	39	A	15, 47, 53
-3	3	but um i	9	A	49, 53, 57
 3	3	go out and	19	A	47, 49, 65
 3	3	i don't like	47	A	3, 5, 49
 3	3	it seems like	49	A	9, 53, 57
 3	3	like that .	53	A	5, 53, 57
+2	3	, and ,	11	A	37, 47
+2	3	, and people	7	A	23, 29
+2	3	. but ,	5	A	53, 57
 2	3	. yeah .	15	A	41, 55
-2	3	. you know	3	A	47, 49
 2	3	a long time	19	A	15, 33
 2	3	a whole bunch	63	A	3, 65
-2	3	i guess it's	5	A	53, 57
-2	3	i mean you	37	A	29, 65
 2	3	if you don't	13	A	27, 39
+2	3	it , and	35	A	9, 43
 2	3	it like that	5	A	49, 53
 2	3	it up .	9	A	39, 47
-2	3	it you know	5	A	33, 37
 2	3	just got off	3	A	49, 51
-2	3	of course i	5	A	49, 53
+2	3	like that ,	5	A	49, 53
 2	3	people don't see	31	A	23, 53
 2	3	take the time	3	A	45, 47
 2	3	that we kept	9	A	25, 33
 2	3	they don't have	5	A	33, 37
 2	3	to the limit	35	A	19, 53
-2	3	to you know	5	A	45, 49
-2	3	you know they	7	A	47, 53
-2	3	you know what	9	A	43, 51
 2	3	you use it	23	A	27, 49
+16	2	, you	65	A	3, 7, 15, 19, 29, 33, 37, 39, 45, 47, 49, 51, 53, 57, 65, 67
 15	2	you know	55	A	3, 15, 19, 21, 29, 33, 37, 39, 43, 45, 47, 49, 51, 53, 57
-9	2	i mean	63	A	3, 15, 27, 29, 37, 49, 53, 57, 65
+11	2	, i	63	A	3, 9, 15, 19, 29, 37, 39, 49, 53, 57, 65
+8	2	, and	39	A	9, 21, 23, 29, 37, 39, 43, 47
+8	2	it ,	57	A	9, 27, 33, 37, 43, 47, 49, 65
 7	2	credit card	35	A	15, 19, 29, 37, 39, 47, 49
-6	2	i don't	55	A	3, 5, 9, 39, 49, 57
+6	2	card ,	43	A	7, 15, 25, 29, 39, 49
 6	2	yeah .	35	A	35, 41, 55, 57, 61, 69
+5	2	, it	51	A	15, 29, 37, 53, 65
 5	2	. and	35	A	19, 39, 49, 51, 53
 5	2	. i	31	A	27, 39, 49, 53, 57
 5	2	going to	45	A	9, 31, 39, 47, 53
 5	2	it .	47	A	7, 27, 39, 49, 53
-5	2	well i	49	A	9, 15, 19, 53, 57
+4	2	, we	21	A	25, 33, 37, 45
 4	2	. but	37	A	21, 47, 53, 57
-4	2	and i	17	A	37, 47, 49, 53
 4	2	but i	53	A	5, 19, 53, 57
 4	2	credit cards	47	A	3, 19, 37, 49
 4	2	i guess	55	A	3, 49, 53, 57
 4	2	if you	43	A	7, 27, 39, 49
 4	2	like that	53	A	5, 49, 53, 57
+4	2	oh ,	49	A	9, 15, 19, 57
 4	2	right .	43	A	13, 25, 37, 55
+4	2	say ,	31	A	9, 19, 29, 39
+4	2	that ,	21	A	33, 47, 49, 53
 4	2	they don't	17	A	29, 33, 37, 45
 4	2	to have	49	A	9, 15, 53, 57
 4	2	uh-huh .	61	A	11, 41, 59, 71
 4	2	use it	23	A	27, 29, 39, 49
-3	2	but um	9	A	49, 53, 57
-3	2	it and	35	A	9, 29, 43
-3	2	it to	27	A	39, 51, 65
+3	2	, i'm	37	A	21, 29, 57
+3	2	, maybe	7	A	47, 49, 53
+3	2	and i	7	A	47, 49, 53
+3	2	have ,	17	A	37, 39, 53
 3	2	just like	27	A	19, 39, 45
-3	2	of course	7	A	47, 49, 53
 3	2	on it	23	A	27, 33, 49
 3	2	or something	47	A	3, 9, 49
+3	2	something ,	47	A	3, 47, 49
 3	2	the only	25	A	25, 33, 49
-3	2	to you	11	A	39, 45, 49
+3	2	to ,	21	A	45, 49, 65
 3	2	up .	47	A	1, 39, 47
+3	2	yeah ,	59	A	9, 65, 67
+3	2	you ,	63	A	3, 39, 65
 3	2	you have	25	A	29, 47, 53
 3	2	you use	43	A	7, 27, 49
+2	2	, but	25	A	29, 53
+2	2	, i'll	21	A	19, 39
+2	2	, if	25	A	3, 27
+2	2	, like	17	A	33, 49
+2	2	, look	9	A	39, 47
+2	2	, she's	29	A	17, 45
+2	2	, they	7	A	47, 53
+2	2	, yeah	49	A	9, 57
 2	2	. so	11	A	37, 47
 2	2	. they	13	A	37, 49
 2	2	. we	37	A	1, 37
 2	2	and i'm	31	A	21, 51
 2	2	and it	19	A	9, 27
-2	2	and people	7	A	23, 29
 2	2	and she	33	A	19, 51
 2	2	and stuff	43	A	5, 47
-2	2	and um	9	A	49, 57
 2	2	and you	15	A	29, 43
 2	2	because i've	49	A	5, 53
 2	2	because they	21	A	7, 27
@@ -93,19 +130,23 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	have a	35	A	15, 49
 2	2	have one	37	A	1, 37
 2	2	have that	9	A	25, 33
+2	2	i ,	43	A	15, 57
 2	2	i can't	5	A	49, 53
 2	2	i just	15	A	39, 53
 2	2	i know	29	A	15, 43
 2	2	i was	5	A	53, 57
 2	2	if they	17	A	29, 45
+2	2	interest ,	19	A	29, 47
 2	2	is the	33	A	19, 51
+2	2	it to	13	A	39, 51
 2	2	it was	11	A	47, 57
 2	2	it's just	5	A	49, 53
+2	2	like ,	15	A	39, 53
 2	2	like ...	25	A	9, 33
 2	2	many people	45	A	5, 49
 2	2	my daughter	3	A	45, 47
+2	2	of ,	47	A	3, 49
 2	2	of her	33	A	19, 51
-2	2	oh well	11	A	9, 19
 2	2	one time	13	A	17, 29
 2	2	pay the	25	A	29, 53
 2	2	people and	31	A	19, 49
@@ -117,18 +158,16 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	that if	23	A	7, 29
 2	2	that was	23	A	15, 37
 2	2	that we	9	A	25, 33
-2	2	that you	21	A	27, 47
 2	2	the credit	21	A	19, 39
+2	2	then ,	29	A	39, 67
+2	2	thing ,	45	A	3, 47
 2	2	time but	33	A	17, 49
 2	2	time to	31	A	15, 45
 2	2	to take	29	A	3, 31
 2	2	unreal .	3	A	47, 49
 2	2	we have	13	A	25, 37
-2	2	well you	39	A	29, 67
 2	2	what you	23	A	31, 53
 2	2	when i	11	A	47, 57
-2	2	with you	49	A	3, 51
-2	2	yeah well	3	A	65, 67
 2	2	you a	19	A	9, 27
 2	2	young people	31	A	15, 45
 22	1	you	65	A	3, 7, 9, 13, 15, 19, 21, 27, 29, 31, 33, 37, 39, 43, 45, 47, 49, 51, 53, 57, 65, 67
@@ -145,16 +184,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 10	1	like	55	A	3, 5, 9, 19, 33, 39, 45, 49, 53, 57
 10	1	of	53	A	1, 3, 9, 15, 19, 37, 47, 49, 51, 53
 10	1	they	47	A	7, 21, 27, 29, 33, 37, 45, 47, 49, 53
-10	1	well	59	A	9, 15, 19, 29, 39, 47, 53, 57, 65, 67
-9	1	card	43	A	7, 15, 19, 25, 29, 37, 39, 47, 49
 9	1	credit	47	A	3, 15, 17, 19, 29, 37, 39, 47, 49
 9	1	people	53	A	5, 15, 19, 23, 29, 45, 49, 53, 57
 9	1	right	55	A	13, 23, 25, 27, 29, 37, 49, 55, 67
 9	1	up	53	A	1, 5, 19, 21, 31, 39, 47, 49, 53
-9	1	yeah	61	A	9, 35, 41, 55, 57, 61, 65, 67, 69
 8	1	because	55	A	3, 5, 7, 9, 19, 27, 53, 57
 8	1	time	35	A	15, 17, 27, 29, 33, 45, 47, 49
-7	1	if	47	A	3, 7, 27, 29, 39, 45, 49
 7	1	one	47	A	1, 3, 17, 25, 29, 37, 47
 6	1	for	51	A	3, 7, 9, 29, 33, 53
 6	1	going	45	A	9, 31, 39, 47, 51, 53
@@ -171,8 +206,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	she	35	A	17, 19, 47, 49, 51
 5	1	something	51	A	3, 9, 47, 49, 53
 5	1	this	47	A	7, 29, 47, 51, 53
-5	1	uh	35	A	15, 29, 39, 47, 49
-5	1	um	49	A	9, 33, 49, 53, 57
 5	1	we	45	A	1, 25, 33, 37, 45
 5	1	what	23	A	31, 43, 49, 51, 53
 4	1	at	39	A	19, 47, 49, 57
@@ -186,8 +219,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	not	29	A	29, 47, 53, 57
 4	1	now	41	A	9, 17, 29, 49
 4	1	off	25	A	27, 29, 49, 51
-4	1	oh	49	A	9, 15, 19, 57
-4	1	say	31	A	9, 19, 29, 39
 4	1	so	17	A	33, 37, 47, 49
 4	1	that's	23	A	31, 33, 51, 53
 3	1	any	13	A	27, 29, 39
@@ -226,7 +257,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	okay	13	A	3, 15
 2	1	other	31	A	19, 49
 2	1	seen	45	A	5, 49
-2	1	she's	29	A	17, 45
 2	1	their	3	A	47, 49
 2	1	thinking	27	A	21, 47
 2	1	thirteen	45	A	5, 49

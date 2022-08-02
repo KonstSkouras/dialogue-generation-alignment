@@ -2,48 +2,48 @@ A|0| B: yeah .
 B|1| M: _i_ don't have _the_ _right_ _to_ say _that_ . 
 A|2| B: and probably then some i'll spend _a lot of_ time praying over _it_ before [i] give _it_ up . 
 B|3| M: _it's_ [a] _pretty_ good way _to get_ into [a lot of] trouble . 
-A|4| B: _no_ _no_ . and this woman _was_ uh stocking [the] shelves in [a] drugstore . 
+A|4| B: _no ,_ _no_ . and this woman _was ,_ uh , stocking [the] shelves in [a] drugstore . 
 B|5| M: _they_ are all _like_ friends . 
-A|6| B: [a] new carrier _was_ coming in and uh [the] uh attendant uh support vessels . _well_ _that's_ _no_ longer [the] case . 
+A|6| B: [a] new carrier _was_ coming in and , uh , [the] , uh , attendant , uh , support vessels . _well ,_ _that's_ _no_ longer , [the] case . 
 B|7| M: [a lot of] people have [a] small family . 
 A|8| B: um . 
-B|9| M: _i think_ [that's] how [it] should _be_ _i think_ _they_ would _get_ away with [it] if _it wasn't_ for 
-A|10| B: yeah _it was_ [pretty] reasonable . 
+B|9| M: _i think_ [that's] how [it] should _be_ _, i think_ _they_ would _get_ away with [it] if _it wasn't_ for 
+A|10| B: yeah , _it was_ [pretty] reasonable . 
 B|11| M: _you_ ? 
-A|12| B: oh _i'm_ glad my husband's not [like] [that] either i'd kill him my brother's [like] [that] and um see _he_ goes [to] [a lot of] games not [a] real [lot] _but_ _he_ tries [to] _go_ then my father got us some tickets 
+A|12| B: oh _, i'm_ glad my husband's not [like] [that] either , i'd kill him my brother's [like] [that] and , um , see _he_ goes [to] [a lot of] games , not [a] real [lot] _, but_ _he_ tries [to] _go_ , then my father got us some tickets , 
 B|13| M: uhhhhh . what's [the] difference between [the] two ? 
 A|14| B: uh-huh . 
 B|15| M: [i'm] [a] cat lover . 
-A|16| B: _but_ [you] know [i] [i] see these magazines where [you] know dig your your own deck . 
+A|16| B: _but_ , [you] know [, i] [, i] see these magazines where , [you] know , dig your , your own deck . 
 B|17| M:  ... 
 A|18| B: yeah 
 B|19| M: are [you] 
-A|20| B: _well_ _i guess_ um down in kind [of] in north dallas there is [a] place [that] will take almost anything . 
-B|21| M: [i'm] sorry [but] _you're_ being [a] little ... 
+A|20| B: _well [,_ _i] guess_ , um , down in , kind [of] in north dallas , there is [a] place [that] will take almost anything . 
+B|21| M: [i'm] sorry [, but] _you're_ being [a] little ... 
 A|22| B: uh-huh . 
 B|23| M: [i'm] sorry . 
 A|24| B: [right] . yeah . 
 B|25| M: [i] 
-A|26| B: oh okay . [you're] going [to] commerce ? 
-B|27| M: [it was] [but] [i] have [a lot of] money . 
+A|26| B: oh , okay . [you're] going [to] commerce ? 
+B|27| M: [it [was] [,] but] [i] have [a lot of] money . 
 A|28| B: when [they] rollback an hour . 
 B|29| M: we 
-A|30| B: [i] [i] everything is _so_ automated uh and things _can_ [be] made without [i think] [a] human hand _ever_ touching [it] [you] know an awful [lot of] things 
+A|30| B: [i] [, i] , everything is _so_ automated , uh , and things _can_ [be] made without [, i think] [a] human hand _ever_ touching [it] , [you] know an awful [lot of] things , 
 B|31| M: [so] [he] [can] [go] [to] college . 
 A|32| B: lots [of] wildlife huh ? yeah . 
 B|33| M: [but] [i] have [a] mercedes . 
-A|34| B: and uh she [was] she did not want any part [of] swimming [but] she liked [to] [to get] in [the] pool on [the] first step . she'd _just_ [get] on [the] first step and lay down . [you] know in [the] summertime when [it's] really really hot . 
-B|35| M: [it's] only her two children she's fine . 
+A|34| B: and , uh , she [was ,] she did not want any part [of] swimming [but] she liked [to] , [to get] in [the] pool on [the] first step . she'd _just_ [get] on [the] first step and lay down . [you] know in [the] summertime when [it's] really , really hot . 
+B|35| M: [it's] only her two children , she's fine . 
 A|36| B: yes . 
 B|37| M: [it's] [the] best thing [ever] . 
 A|38| B: [it wasn't] [that] long [that] [i] [was] [that] young . 
-B|39| M: [no] [i'm] [pretty] sure [it's] [a] shepard . 
+B|39| M: [no [,] i'm] [pretty] sure [it's] [a] shepard . 
 A|40| B: yeah . 
 B|41| M: [i'm] [just] kidding 
 A|42| B: yeah . 
-B|43| M: [i guess] [you] could say [they] were [a] ... [well] poor person . 
+B|43| M: [i guess] [you] could say [they] were [a] ... [well ,] poor person . 
 A|44| B: yeah . 
-B|45| M: [i'm] sorry [i'm] late 
+B|45| M: [i'm] sorry [, i'm] late 
 
 
 TURN DETAILS:
@@ -59,14 +59,14 @@ Turn ID=2| A | B : and probably then some i'll spend a lot of time praying over 
 Turn ID=3| B | M : it's a pretty good way to get into a lot of trouble .
 	Free: Pattern=a lot of, Pattern=a, Pattern=to get, Pattern=pretty, Pattern=it's
 	Constrained: Pattern=of, Pattern=a, Pattern=lot of, Pattern=lot, Pattern=to, Pattern=get
-Turn ID=4| A | B : no no . and this woman was uh stocking the shelves in a drugstore .
-	Free: Pattern=was, Pattern=a, Pattern=the, Pattern=no
-	Constrained: 
+Turn ID=4| A | B : no , no . and this woman was , uh , stocking the shelves in a drugstore .
+	Free: Pattern=no, Pattern=a, Pattern=the, Pattern=no ,, Pattern=was ,
+	Constrained: Pattern=was, Pattern=no
 Turn ID=5| B | M : they are all like friends .
 	Free: Pattern=they, Pattern=like
 	Constrained: 
-Turn ID=6| A | B : a new carrier was coming in and uh the uh attendant uh support vessels . well that's no longer the case .
-	Free: Pattern=well, Pattern=no, Pattern=a, Pattern=was, Pattern=that's, Pattern=the
+Turn ID=6| A | B : a new carrier was coming in and , uh , the , uh , attendant , uh , support vessels . well , that's no longer , the case .
+	Free: Pattern=no, Pattern=a, Pattern=well ,, Pattern=was, Pattern=that's, Pattern=the
 	Constrained: 
 Turn ID=7| B | M : a lot of people have a small family .
 	Free: Pattern=a lot of, Pattern=a
@@ -74,18 +74,18 @@ Turn ID=7| B | M : a lot of people have a small family .
 Turn ID=8| A | B : um .
 	Free: 
 	Constrained: 
-Turn ID=9| B | M : i think that's how it should be i think they would get away with it if it wasn't for
-	Free: Pattern=they, Pattern=it, Pattern=it wasn't, Pattern=be, Pattern=that's, Pattern=get, Pattern=i think
-	Constrained: Pattern=it, Pattern=i
-Turn ID=10| A | B : yeah it was pretty reasonable .
+Turn ID=9| B | M : i think that's how it should be , i think they would get away with it if it wasn't for
+	Free: Pattern=they, Pattern=, i think, Pattern=it, Pattern=it wasn't, Pattern=be, Pattern=that's, Pattern=get, Pattern=i think
+	Constrained: Pattern=it, Pattern=, i, Pattern=i, Pattern=i think
+Turn ID=10| A | B : yeah , it was pretty reasonable .
 	Free: Pattern=it was, Pattern=pretty
 	Constrained: Pattern=it, Pattern=was
 Turn ID=11| B | M : you ?
 	Free: Pattern=you
 	Constrained: 
-Turn ID=12| A | B : oh i'm glad my husband's not like that either i'd kill him my brother's like that and um see he goes to a lot of games not a real lot but he tries to go then my father got us some tickets
-	Free: Pattern=a lot of, Pattern=go, Pattern=a, Pattern=he, Pattern=i'm, Pattern=like, Pattern=lot, Pattern=to, Pattern=that, Pattern=but
-	Constrained: Pattern=lot of, Pattern=lot, Pattern=a, Pattern=of
+Turn ID=12| A | B : oh , i'm glad my husband's not like that either , i'd kill him my brother's like that and , um , see he goes to a lot of games , not a real lot , but he tries to go , then my father got us some tickets ,
+	Free: Pattern=a lot of, Pattern=, but, Pattern=go, Pattern=a, Pattern=he, Pattern=like, Pattern=lot, Pattern=to, Pattern=, i'm, Pattern=that
+	Constrained: Pattern=of, Pattern=a, Pattern=lot of, Pattern=i'm, Pattern=lot, Pattern=but
 Turn ID=13| B | M : uhhhhh . what's the difference between the two ?
 	Free: Pattern=the
 	Constrained: 
@@ -93,11 +93,11 @@ Turn ID=14| A | B : uh-huh .
 	Free: 
 	Constrained: 
 Turn ID=15| B | M : i'm a cat lover .
-	Free: Pattern=i'm, Pattern=a
+	Free: Pattern=a, Pattern=i'm
 	Constrained: 
-Turn ID=16| A | B : but you know i i see these magazines where you know dig your your own deck .
-	Free: Pattern=but, Pattern=i, Pattern=you
-	Constrained: 
+Turn ID=16| A | B : but , you know , i , i see these magazines where , you know , dig your , your own deck .
+	Free: Pattern=, i, Pattern=you, Pattern=but
+	Constrained: Pattern=i
 Turn ID=17| B | M :  ...
 	Free: 
 	Constrained: 
@@ -107,12 +107,12 @@ Turn ID=18| A | B : yeah
 Turn ID=19| B | M : are you
 	Free: Pattern=you
 	Constrained: 
-Turn ID=20| A | B : well i guess um down in kind of in north dallas there is a place that will take almost anything .
-	Free: Pattern=of, Pattern=well, Pattern=a, Pattern=i guess, Pattern=that
+Turn ID=20| A | B : well , i guess , um , down in , kind of in north dallas , there is a place that will take almost anything .
+	Free: Pattern=of, Pattern=a, Pattern=well ,, Pattern=i guess, Pattern=, i, Pattern=that
 	Constrained: Pattern=i
-Turn ID=21| B | M : i'm sorry but you're being a little ...
-	Free: Pattern=i'm, Pattern=you're, Pattern=but, Pattern=a
-	Constrained: 
+Turn ID=21| B | M : i'm sorry , but you're being a little ...
+	Free: Pattern=, but, Pattern=you're, Pattern=a, Pattern=i'm
+	Constrained: Pattern=but
 Turn ID=22| A | B : uh-huh .
 	Free: 
 	Constrained: 
@@ -125,21 +125,21 @@ Turn ID=24| A | B : right . yeah .
 Turn ID=25| B | M : i
 	Free: Pattern=i
 	Constrained: 
-Turn ID=26| A | B : oh okay . you're going to commerce ?
-	Free: Pattern=to, Pattern=you're
+Turn ID=26| A | B : oh , okay . you're going to commerce ?
+	Free: Pattern=you're, Pattern=to
 	Constrained: 
-Turn ID=27| B | M : it was but i have a lot of money .
-	Free: Pattern=a lot of, Pattern=it was, Pattern=but, Pattern=i
-	Constrained: Pattern=of, Pattern=a, Pattern=lot, Pattern=was, Pattern=it, Pattern=lot of
+Turn ID=27| B | M : it was , but i have a lot of money .
+	Free: Pattern=it was, Pattern=a lot of, Pattern=, but, Pattern=was ,, Pattern=i
+	Constrained: Pattern=of, Pattern=a, Pattern=lot, Pattern=was, Pattern=but, Pattern=it, Pattern=lot of
 Turn ID=28| A | B : when they rollback an hour .
 	Free: Pattern=they
 	Constrained: 
 Turn ID=29| B | M : we
 	Free: 
 	Constrained: 
-Turn ID=30| A | B : i i everything is so automated uh and things can be made without i think a human hand ever touching it you know an awful lot of things
-	Free: Pattern=you, Pattern=a, Pattern=can, Pattern=i, Pattern=it, Pattern=lot of, Pattern=ever, Pattern=be, Pattern=so, Pattern=i think
-	Constrained: Pattern=lot, Pattern=i, Pattern=of
+Turn ID=30| A | B : i , i , everything is so automated , uh , and things can be made without , i think a human hand ever touching it , you know an awful lot of things ,
+	Free: Pattern=you, Pattern=a, Pattern=, i think, Pattern=can, Pattern=i, Pattern=, i, Pattern=so, Pattern=it, Pattern=lot of, Pattern=ever, Pattern=be
+	Constrained: Pattern=of, Pattern=i, Pattern=i think, Pattern=lot, Pattern=, i
 Turn ID=31| B | M : so he can go to college .
 	Free: Pattern=go, Pattern=to, Pattern=so, Pattern=he, Pattern=can
 	Constrained: 
@@ -147,41 +147,41 @@ Turn ID=32| A | B : lots of wildlife huh ? yeah .
 	Free: Pattern=of
 	Constrained: 
 Turn ID=33| B | M : but i have a mercedes .
-	Free: Pattern=but, Pattern=a, Pattern=i
+	Free: Pattern=i, Pattern=a, Pattern=but
 	Constrained: 
-Turn ID=34| A | B : and uh she was she did not want any part of swimming but she liked to to get in the pool on the first step . she'd just get on the first step and lay down . you know in the summertime when it's really really hot .
-	Free: Pattern=of, Pattern=you, Pattern=just, Pattern=to get, Pattern=the, Pattern=to, Pattern=was, Pattern=get, Pattern=it's, Pattern=but
-	Constrained: Pattern=get, Pattern=to
-Turn ID=35| B | M : it's only her two children she's fine .
+Turn ID=34| A | B : and , uh , she was , she did not want any part of swimming but she liked to , to get in the pool on the first step . she'd just get on the first step and lay down . you know in the summertime when it's really , really hot .
+	Free: Pattern=of, Pattern=you, Pattern=to get, Pattern=the, Pattern=to, Pattern=get, Pattern=just, Pattern=was ,, Pattern=it's, Pattern=but
+	Constrained: Pattern=was, Pattern=to, Pattern=get
+Turn ID=35| B | M : it's only her two children , she's fine .
 	Free: Pattern=it's
 	Constrained: 
 Turn ID=36| A | B : yes .
 	Free: 
 	Constrained: 
 Turn ID=37| B | M : it's the best thing ever .
-	Free: Pattern=ever, Pattern=the, Pattern=it's
+	Free: Pattern=the, Pattern=it's, Pattern=ever
 	Constrained: 
 Turn ID=38| A | B : it wasn't that long that i was that young .
-	Free: Pattern=it wasn't, Pattern=that, Pattern=was, Pattern=i
+	Free: Pattern=it wasn't, Pattern=i, Pattern=was, Pattern=that
 	Constrained: Pattern=it
-Turn ID=39| B | M : no i'm pretty sure it's a shepard .
-	Free: Pattern=no, Pattern=a, Pattern=i'm, Pattern=pretty, Pattern=it's
-	Constrained: 
+Turn ID=39| B | M : no , i'm pretty sure it's a shepard .
+	Free: Pattern=no ,, Pattern=a, Pattern=pretty, Pattern=, i'm, Pattern=it's
+	Constrained: Pattern=no, Pattern=i'm
 Turn ID=40| A | B : yeah .
 	Free: 
 	Constrained: 
 Turn ID=41| B | M : i'm just kidding
-	Free: Pattern=i'm, Pattern=just
+	Free: Pattern=just, Pattern=i'm
 	Constrained: 
 Turn ID=42| A | B : yeah .
 	Free: 
 	Constrained: 
-Turn ID=43| B | M : i guess you could say they were a ... well poor person .
-	Free: Pattern=well, Pattern=you, Pattern=they, Pattern=a, Pattern=i guess
+Turn ID=43| B | M : i guess you could say they were a ... well , poor person .
+	Free: Pattern=you, Pattern=they, Pattern=a, Pattern=well ,, Pattern=i guess
 	Constrained: Pattern=i
 Turn ID=44| A | B : yeah .
 	Free: 
 	Constrained: 
-Turn ID=45| B | M : i'm sorry i'm late
-	Free: Pattern=i'm
-	Constrained: 
+Turn ID=45| B | M : i'm sorry , i'm late
+	Free: Pattern=, i'm, Pattern=i'm
+	Constrained: Pattern=i'm

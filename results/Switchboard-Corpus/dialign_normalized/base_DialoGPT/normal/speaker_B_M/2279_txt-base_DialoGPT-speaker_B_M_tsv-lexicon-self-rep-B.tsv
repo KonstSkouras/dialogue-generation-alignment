@@ -1,30 +1,42 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	you can go to the	13	M	26, 38
+2	3	, i'm a	15	M	44, 58
+2	3	, uh ,	9	M	58, 66
+2	3	, we try	3	M	56, 58
 2	3	go to school	21	M	26, 46
 2	3	have a family	19	M	80, 98
 2	3	i'm not sure	87	M	10, 96
-2	3	i'm sure it's	47	M	6, 52
+2	3	say yes ,	95	M	2, 96
+5	2	yes ,	115	M	2, 44, 90, 96, 116
+4	2	, and	21	M	44, 58, 62, 64
+4	2	, but	89	M	8, 22, 62, 96
+4	2	, i'm	83	M	8, 44, 58, 90
+4	2	, you	79	M	38, 58, 92, 116
 4	2	go to	93	M	26, 38, 46, 118
 4	2	i know	57	M	8, 42, 44, 64
+3	2	, i	59	M	8, 44, 66
+3	2	, we	7	M	56, 58, 62
 3	2	do you	13	M	16, 24, 28
 3	2	have a	61	M	38, 80, 98
 3	2	i don't	57	M	66, 94, 122
 3	2	i'm not	99	M	10, 96, 108
 3	2	i'm sure	47	M	6, 8, 52
+3	2	know ,	23	M	44, 58, 66
 3	2	to the	95	M	26, 38, 120
+3	2	yeah ,	59	M	48, 62, 106
 3	2	you have	21	M	60, 78, 80
+2	2	, it's	39	M	52, 90
 2	2	been a	47	M	52, 98
 2	2	family .	45	M	54, 98
+2	2	i ,	27	M	66, 92
 2	2	i am	3	M	0, 2
 2	2	i was	35	M	64, 98
-2	2	i'm a	15	M	44, 58
 2	2	i'm going	119	M	2, 120
 2	2	in the	11	M	20, 30
 2	2	it's been	81	M	52, 132
-2	2	say yes	95	M	2, 96
+2	2	like ,	61	M	8, 68
 2	2	to go	7	M	118, 124
-2	2	we try	3	M	56, 58
-2	2	yes i	43	M	2, 44
+2	2	well ,	93	M	38, 130
 2	2	you do	93	M	24, 116
 2	2	you mean	5	M	54, 58
 18	1	i	123	M	0, 2, 8, 22, 30, 42, 44, 46, 54, 64, 66, 70, 92, 94, 96, 98, 118, 122
@@ -37,7 +49,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	but	117	M	8, 22, 62, 76, 96, 98, 124
 6	1	do	101	M	16, 22, 24, 28, 78, 116
 6	1	have	61	M	38, 60, 78, 80, 94, 98
-6	1	know	59	M	8, 42, 44, 58, 64, 66
 6	1	not	121	M	10, 22, 96, 108, 114, 130
 5	1	it's	127	M	6, 8, 52, 90, 132
 5	1	yes	115	M	2, 44, 90, 96, 116
@@ -64,16 +75,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	he	9	M	68, 76
 2	1	how	65	M	64, 128
 2	1	i'll	37	M	12, 48
-2	1	like	61	M	8, 68
 2	1	live	3	M	28, 30
 2	1	my	41	M	58, 98
 2	1	that	21	M	78, 98
 2	1	think	13	M	54, 66
 2	1	time	29	M	24, 52
 2	1	try	3	M	56, 58
-2	1	uh	9	M	58, 66
 2	1	us	23	M	8, 30
-2	1	well	93	M	38, 130
 2	1	what	87	M	24, 110
 2	1	what's	25	M	8, 32
 

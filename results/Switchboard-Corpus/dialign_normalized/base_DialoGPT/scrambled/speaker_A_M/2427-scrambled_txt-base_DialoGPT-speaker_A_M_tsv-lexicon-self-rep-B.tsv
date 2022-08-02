@@ -1,27 +1,46 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	3	i don't think	203	M	25, 131, 227
+3	3	i mean ,	95	M	65, 147, 159
 3	3	i'm not sure	113	M	135, 139, 247
+2	3	, i think	95	M	9, 103
+2	3	, i'm not	67	M	135, 201
+2	3	, they were	163	M	89, 251
+2	3	, uh ,	221	M	11, 231
 2	3	a golden retriever	215	M	35, 249
 2	3	a lot of	47	M	99, 145
 2	3	i know .	31	M	169, 199
+2	3	well , i	121	M	97, 217
 2	3	what you mean	113	M	135, 247
+5	2	, i	209	M	9, 57, 97, 103, 217
+5	2	, i'm	137	M	65, 133, 135, 183, 201
 5	2	i'm not	113	M	135, 139, 201, 205, 247
+5	2	well ,	153	M	79, 97, 125, 217, 231
 4	2	i don't	223	M	25, 131, 227, 247
 4	2	of the	73	M	55, 69, 125, 127
+4	2	yeah ,	91	M	147, 203, 217, 237
+3	2	, and	187	M	45, 103, 231
+3	2	, it's	181	M	63, 177, 243
+3	2	, they	173	M	79, 89, 251
+3	2	, uh	221	M	11, 19, 231
 3	2	a few	71	M	27, 89, 97
 3	2	do .	21	M	147, 159, 167
 3	2	do you	143	M	55, 95, 197
 3	2	have a	207	M	11, 161, 217
 3	2	i have	191	M	31, 161, 221
 3	2	i know	199	M	1, 169, 199
-3	2	i mean	95	M	65, 147, 159
 3	2	i think	163	M	9, 103, 171
 3	2	i'm sorry	115	M	21, 109, 135
 3	2	in the	157	M	69, 103, 225
+3	2	no ,	195	M	57, 177, 251
 3	2	out of	137	M	43, 97, 179
 3	2	so .	55	M	95, 131, 149
+3	2	uh ,	221	M	11, 201, 231
 3	2	yeah .	137	M	59, 67, 195
 3	2	you know	63	M	157, 197, 219
+2	2	, but	95	M	133, 227
+2	2	, well	31	M	187, 217
+2	2	, yeah	89	M	59, 147
+2	2	, you	23	M	125, 147
 2	2	. i	77	M	171, 247
 2	2	a good	9	M	103, 111
 2	2	a little	123	M	65, 187
@@ -42,10 +61,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	it's not	57	M	63, 119
 2	2	kind of	93	M	101, 193
 2	2	know .	31	M	169, 199
+2	2	like ,	95	M	35, 129
 2	2	not .	21	M	119, 139
 2	2	of a	5	M	175, 179
+2	2	oh ,	67	M	19, 85
 2	2	right .	159	M	45, 203
 2	2	see the	57	M	69, 125
+2	2	so ,	29	M	215, 243
 2	2	some .	55	M	103, 157
 2	2	sun .	47	M	179, 225
 2	2	that's a	35	M	111, 145
@@ -54,10 +76,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	they are	97	M	37, 133
 2	2	they do	69	M	99, 167
 2	2	they have	31	M	133, 163
-2	2	they were	163	M	89, 251
 2	2	to a	73	M	17, 89
 2	2	to get	111	M	43, 153
-2	2	well i	121	M	97, 217
 2	2	what ?	127	M	93, 219
 2	2	would be	57	M	47, 103
 2	2	you can	57	M	69, 125
@@ -78,15 +98,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	is	223	M	23, 161, 215, 223, 227, 237, 245
 7	1	so	233	M	11, 47, 95, 131, 149, 215, 243
 7	1	think	219	M	9, 25, 55, 103, 131, 171, 227
-7	1	yeah	179	M	59, 67, 147, 195, 203, 217, 237
 6	1	and	187	M	45, 63, 91, 103, 165, 231
 6	1	don't	223	M	25, 99, 131, 227, 245, 247
 6	1	it	227	M	1, 13, 23, 77, 103, 227
 6	1	that	149	M	99, 103, 133, 197, 215, 247
-6	1	well	153	M	79, 97, 125, 187, 217, 231
 5	1	be	115	M	47, 97, 103, 127, 161
 5	1	get	111	M	43, 63, 87, 123, 153
-5	1	no	221	M	31, 57, 163, 177, 251
 5	1	oh	177	M	19, 83, 85, 115, 195
 5	1	uh	221	M	11, 19, 49, 201, 231
 4	1	about	187	M	65, 77, 103, 251

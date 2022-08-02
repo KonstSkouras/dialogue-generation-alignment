@@ -1,39 +1,50 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, uh , uh	15	M	67, 81
+2	4	i'm sorry , i'm	27	M	15, 41
+5	3	, uh ,	81	M	45, 67, 81, 105, 125
+3	3	, but i	67	M	49, 109, 115
 3	3	i have a	105	M	11, 107, 115
+3	3	i'm sorry ,	95	M	15, 41, 109
+2	3	, and you	31	M	43, 73
+2	3	, yeah .	3	M	125, 127
 2	3	a lot of	49	M	67, 115
 2	3	i don't know	87	M	23, 109
-2	3	i'm sorry i'm	27	M	15, 41
 2	3	i've been to	53	M	7, 59
 2	3	i've never been	11	M	83, 93
+2	3	well , you	21	M	85, 105
+6	2	, uh	81	M	45, 57, 67, 81, 105, 125
+5	2	, but	93	M	23, 49, 107, 109, 115
 5	2	i was	87	M	17, 19, 73, 79, 103
+5	2	uh ,	81	M	45, 67, 81, 105, 125
+5	2	well ,	103	M	3, 31, 65, 85, 105
 4	2	but i	99	M	17, 49, 109, 115
 4	2	i don't	87	M	23, 37, 97, 109
+3	2	, i	35	M	45, 77, 79
 3	2	been to	87	M	7, 59, 93
 3	2	i think	37	M	17, 39, 53
-3	2	i'm sorry	95	M	15, 41, 109
 3	2	i've never	11	M	83, 89, 93
 3	2	in the	71	M	53, 79, 123
 3	2	it was	63	M	53, 71, 115
 3	2	there .	81	M	3, 73, 83
 3	2	what ?	77	M	43, 113, 119
 3	2	you were	33	M	73, 101, 105
+2	2	, so	107	M	13, 119
 2	2	. we	39	M	17, 55
 2	2	a good	11	M	39, 49
-2	2	and you	31	M	43, 73
 2	2	at the	11	M	65, 75
 2	2	i'm a	63	M	67, 129
 2	2	it's a	25	M	39, 63
 2	2	it's not	23	M	95, 117
+2	2	know ,	103	M	23, 125
 2	2	morocco .	23	M	7, 29
 2	2	not a	47	M	49, 95
 2	2	place to	53	M	43, 95
 2	2	sure .	55	M	15, 69
-2	2	the best	81	M	43, 123
+2	2	there ,	41	M	33, 73
 2	2	to be	49	M	75, 123
-2	2	uh uh	15	M	67, 81
+2	2	uhh ,	7	M	77, 83
+2	2	um ,	47	M	81, 127
 2	2	we were	53	M	3, 55
-2	2	well you	21	M	85, 105
-2	2	yeah .	3	M	125, 127
 2	2	you ?	29	M	5, 33
 2	2	you know	83	M	43, 125
 2	2	you mean	35	M	9, 43
@@ -46,7 +57,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	of	115	M	1, 39, 65, 67, 79, 107, 115
 7	1	uh	81	M	45, 57, 67, 81, 99, 105, 125
 7	1	were	103	M	3, 23, 33, 55, 73, 101, 105
-6	1	but	99	M	17, 23, 49, 107, 109, 115
 6	1	i've	87	M	7, 53, 59, 83, 89, 93
 6	1	in	105	M	19, 53, 79, 107, 117, 123
 6	1	it's	79	M	39, 47, 63, 85, 95, 117
@@ -55,7 +65,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	and	73	M	1, 13, 27, 43, 73
 5	1	don't	101	M	23, 37, 97, 109, 123
 5	1	we	53	M	3, 13, 17, 47, 55
-5	1	well	103	M	3, 31, 65, 85, 105
 5	1	what	111	M	9, 21, 43, 113, 119
 4	1	it	77	M	39, 53, 71, 115
 4	1	so	107	M	13, 17, 95, 119
@@ -66,6 +75,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	they	35	M	1, 23, 35
 3	1	we're	95	M	13, 65, 107
 2	1	all	13	M	1, 13
+2	1	best	81	M	43, 123
 2	1	conference	13	M	63, 75
 2	1	great	7	M	71, 77
 2	1	had	57	M	35, 91
@@ -78,8 +88,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	seen	37	M	53, 89
 2	1	shrimp	3	M	89, 91
 2	1	time	19	M	53, 71
-2	1	uhh	7	M	77, 83
-2	1	um	47	M	81, 127
 2	1	us	35	M	1, 35
 2	1	where	29	M	5, 33
 2	1	yes	13	M	49, 61

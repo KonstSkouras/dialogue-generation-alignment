@@ -1,34 +1,51 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, you know ,	11	B	17, 27
+2	4	the , uh ,	17	B	31, 47
+5	3	, uh ,	35	B	13, 17, 31, 35, 47
+3	3	, um ,	37	B	17, 47, 53
+3	3	oh , that's	29	B	29, 51, 57
+3	3	well , i	25	B	35, 47, 59
+2	3	, and i	13	B	35, 47
+2	3	, do you	11	B	45, 55
+2	3	, uh-huh .	41	B	11, 51
+2	3	, yes .	3	B	25, 27
+2	3	. i ,	21	B	27, 47
+6	2	oh ,	33	B	25, 29, 45, 49, 51, 57
+6	2	uh ,	43	B	13, 17, 31, 35, 47, 55
 5	2	uh-huh .	51	B	11, 21, 33, 51, 61
+4	2	, i	33	B	27, 35, 47, 59
 4	2	right .	21	B	3, 13, 21, 23
-3	2	oh that's	29	B	29, 51, 57
-3	2	well i	25	B	35, 47, 59
+3	2	, yes	27	B	1, 25, 27
+3	2	but ,	35	B	19, 47, 53
+3	2	i ,	33	B	15, 27, 47
+2	2	, but	17	B	31, 47
+2	2	, of	9	B	47, 55
 2	2	. i	21	B	27, 47
 2	2	a very	3	B	15, 17
-2	2	and i	13	B	35, 47
+2	2	always ,	47	B	1, 47
+2	2	and ,	25	B	35, 59
 2	2	be .	15	B	17, 31
-2	2	do you	11	B	45, 55
 2	2	going to	33	B	17, 49
 2	2	i guess	21	B	27, 47
 2	2	i like	11	B	5, 15
 2	2	i've always	33	B	15, 47
+2	2	no ,	21	B	27, 47
+2	2	of ,	9	B	47, 55
 2	2	of the	3	B	15, 17
 2	2	okay .	9	B	49, 57
-2	2	the uh	17	B	31, 47
+2	2	that ,	41	B	7, 47
 2	2	themselves that	11	B	7, 17
 2	2	things to	49	B	7, 55
+2	2	this ,	3	B	15, 17
 2	2	to a	39	B	17, 55
 2	2	to be	11	B	7, 17
 2	2	to use	31	B	17, 47
 2	2	yeah .	27	B	11, 37
-2	2	yes .	3	B	25, 27
-2	2	you know	11	B	17, 27
 9	1	a	53	B	7, 15, 17, 27, 31, 35, 47, 55, 59
 9	1	to	49	B	7, 13, 15, 17, 27, 31, 47, 49, 55
 8	1	uh	47	B	13, 17, 31, 35, 39, 47, 55, 59
 7	1	and	53	B	7, 17, 31, 35, 47, 55, 59
 7	1	i	55	B	5, 15, 27, 31, 35, 47, 59
-6	1	oh	33	B	25, 29, 45, 49, 51, 57
 6	1	that	41	B	7, 15, 17, 31, 41, 47
 6	1	the	41	B	15, 17, 31, 39, 47, 55
 5	1	but	35	B	19, 31, 41, 47, 53
@@ -46,7 +63,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	then	21	B	35, 45, 47, 55
 4	1	they	33	B	7, 17, 31, 39
 4	1	um	37	B	17, 43, 47, 53
-3	1	always	47	B	1, 15, 47
 3	1	be	25	B	7, 17, 31
 3	1	do	49	B	7, 45, 55
 3	1	had	33	B	15, 27, 47
@@ -70,7 +86,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	here	19	B	17, 35
 2	1	moved	13	B	35, 47
 2	1	my	47	B	13, 59
-2	1	no	21	B	27, 47
 2	1	people	41	B	7, 47
 2	1	probably	7	B	41, 47
 2	1	really	21	B	7, 27

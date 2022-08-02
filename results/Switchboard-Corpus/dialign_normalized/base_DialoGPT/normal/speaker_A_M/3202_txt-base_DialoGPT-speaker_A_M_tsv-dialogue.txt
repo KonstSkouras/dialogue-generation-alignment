@@ -7,16 +7,16 @@ A|5| A: with all [of] you living [so] close together .
 B|6| M: how does it 
 A|7| A: oh . 
 B|8| M: i'm just _a_ regular person . 
-A|9| A: well [i] come from [a] very small family . [and] we planned [a] family reunion this spring . uh where we [are] from texas [and] my family is from ohio [and] we met in florida . 
+A|9| A: well _, i_ come from [a] very small family . [and] we planned [a] family reunion this spring . uh , where we [are] from texas [and] my family is from ohio [and] we met in florida . 
 B|10| M: what ? 
-A|11| A: [so] [the] seven [of] us went on [a] cruise [and] then went [to] disney together . [so] [that's] all [the] family [so] planning our family reunion was very easy you know . 
-B|12| M: yea [i] am [and] i'm just here for [the] fun . 
-A|13| A: yeah well we had [a] wonderful 
+A|11| A: [so] [the] seven [of] us went on [a] cruise [and] then went [to] disney together . [so] [that's] all [the] family , [so] planning our family reunion was very easy you know . 
+B|12| M: yea [, i] am , [and] i'm just here for [the] fun . 
+A|13| A: yeah , well , we had [a] wonderful 
 
 
 TURN DETAILS:
 Turn ID=0| B | M : that's why there are so many people .
-	Free: Pattern=that's, Pattern=so, Pattern=are
+	Free: Pattern=so, Pattern=are, Pattern=that's
 	Constrained: 
 Turn ID=1| A | A : uh-huh .
 	Free: 
@@ -42,18 +42,18 @@ Turn ID=7| A | A : oh .
 Turn ID=8| B | M : i'm just a regular person .
 	Free: Pattern=a
 	Constrained: 
-Turn ID=9| A | A : well i come from a very small family . and we planned a family reunion this spring . uh where we are from texas and my family is from ohio and we met in florida .
-	Free: Pattern=i, Pattern=a, Pattern=and, Pattern=are
-	Constrained: 
+Turn ID=9| A | A : well , i come from a very small family . and we planned a family reunion this spring . uh , where we are from texas and my family is from ohio and we met in florida .
+	Free: Pattern=, i, Pattern=a, Pattern=and, Pattern=are
+	Constrained: Pattern=i
 Turn ID=10| B | M : what ?
 	Free: 
 	Constrained: 
-Turn ID=11| A | A : so the seven of us went on a cruise and then went to disney together . so that's all the family so planning our family reunion was very easy you know .
+Turn ID=11| A | A : so the seven of us went on a cruise and then went to disney together . so that's all the family , so planning our family reunion was very easy you know .
 	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=to, Pattern=so, Pattern=that's, Pattern=the
 	Constrained: 
-Turn ID=12| B | M : yea i am and i'm just here for the fun .
-	Free: Pattern=the, Pattern=i, Pattern=and
-	Constrained: 
-Turn ID=13| A | A : yeah well we had a wonderful
+Turn ID=12| B | M : yea , i am , and i'm just here for the fun .
+	Free: Pattern=, i, Pattern=the, Pattern=and
+	Constrained: Pattern=i
+Turn ID=13| A | A : yeah , well , we had a wonderful
 	Free: Pattern=a
 	Constrained: 

@@ -1,23 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	3	, uh ,	5	M	26, 30
 2	3	a car ?	27	M	20, 46
+3	2	, but	51	M	4, 48, 54
+3	2	, i	57	M	0, 16, 56
 3	2	a car	27	M	20, 44, 46
 3	2	car .	23	M	22, 42, 44
 3	2	i was	23	M	28, 30, 50
+2	2	, uh	5	M	26, 30
 2	2	i am	55	M	0, 54
 2	2	i like	35	M	18, 52
 2	2	i mean	41	M	16, 56
 2	2	i think	33	M	22, 54
+2	2	mean ,	11	M	46, 56
 2	2	of a	5	M	44, 48
 2	2	of the	31	M	24, 54
 2	2	think so	19	M	4, 22
+2	2	well ,	23	M	0, 22
 14	1	i	57	M	0, 4, 16, 18, 22, 24, 28, 30, 38, 44, 50, 52, 54, 56
 8	1	a	35	M	20, 26, 42, 44, 46, 48, 52, 54
 7	1	car	29	M	20, 22, 24, 42, 44, 46, 48
 6	1	the	33	M	22, 24, 40, 44, 50, 54
 5	1	of	31	M	24, 42, 44, 48, 54
-3	1	but	51	M	4, 48, 54
 3	1	like	35	M	18, 46, 52
-3	1	mean	41	M	16, 46, 56
 3	1	that's	17	M	36, 42, 52
 2	1	and	23	M	30, 52
 2	1	be	11	M	14, 24
@@ -27,8 +31,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	they	19	M	34, 52
 2	1	they're	15	M	40, 54
 2	1	to	3	M	20, 22
-2	1	uh	5	M	26, 30
-2	1	well	23	M	0, 22
 2	1	what	29	M	24, 52
 2	1	you	27	M	20, 46
 2	1	you're	37	M	10, 46

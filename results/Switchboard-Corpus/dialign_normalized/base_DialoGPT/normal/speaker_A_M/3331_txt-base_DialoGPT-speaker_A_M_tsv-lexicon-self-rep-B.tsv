@@ -1,10 +1,16 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	3	, uh ,	5	M	10, 12, 14
+2	3	, that's why	13	M	6, 18
 2	3	that's why i	27	M	6, 32
-3	2	that's why	27	M	6, 18, 32
+3	2	, uh	5	M	10, 12, 14
+2	2	, the	15	M	0, 14
+2	2	, um	23	M	12, 34
 2	2	i was	9	M	6, 14
 2	2	i'm sorry	11	M	30, 40
 2	2	it's a	13	M	8, 20
+2	2	know ,	29	M	6, 34
 2	2	sorry .	15	M	30, 44
+2	2	uhhh ,	3	M	10, 12
 6	1	a	41	M	4, 6, 8, 20, 32, 44
 5	1	are	45	M	0, 2, 14, 16, 44
 5	1	i	39	M	6, 14, 32, 38, 44
@@ -13,13 +19,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	that's	27	M	6, 18, 28, 32
 3	1	it's	17	M	8, 20, 24
 3	1	not	37	M	2, 4, 38
-3	1	uh	5	M	10, 12, 14
 3	1	you	35	M	2, 34, 36
-2	1	know	29	M	6, 34
 2	1	school	33	M	0, 32
 2	1	that	31	M	14, 44
 2	1	to	45	M	0, 44
-2	1	uhhh	3	M	10, 12
 2	1	um	23	M	12, 34
 2	1	we	3	M	16, 18
 2	1	what	11	M	26, 36

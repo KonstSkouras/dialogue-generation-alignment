@@ -1,6 +1,8 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	it's a breed .	59	M	16, 74
 3	3	a breed .	63	M	12, 16, 74
+2	3	, not a	7	M	18, 24
+2	3	a dog ,	49	M	24, 72
 2	3	a dog .	19	M	6, 24
 2	3	a german shepherd	9	M	66, 74
 2	3	a golden retriever	19	M	0, 18
@@ -17,7 +19,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i'm not	9	M	22, 30
 2	2	i'm sorry	29	M	2, 30
 2	2	is a	43	M	24, 66
-2	2	not a	7	M	18, 24
 2	2	not really	3	M	28, 30
 2	2	you can	13	M	30, 42
 16	1	a	79	M	0, 6, 12, 16, 18, 24, 40, 42, 44, 58, 60, 62, 66, 72, 74, 78

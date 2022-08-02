@@ -2,20 +2,23 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	i don't know i guess	29	A	49, 77
 2	5	that if somebody wants to	5	A	39, 43
 2	5	you know but i i	3	A	43, 45
+2	4	, you know ,	3	A	3, 5
+2	4	an awful thing ,	3	A	81, 83
 2	4	of freedom of speech	5	A	39, 43
 2	4	uh you know i	13	A	79, 91
 5	3	i don't know	39	A	49, 77, 79, 83, 87
 4	3	i i think	25	A	37, 43, 45, 61
 4	3	i think that's	39	A	45, 47, 51, 83
 4	3	uh you know	49	A	43, 79, 87, 91
+3	3	, you know	79	A	3, 5, 81
 3	3	. i i	39	A	37, 63, 75
 3	3	. yeah .	53	A	17, 53, 69
 3	3	but i i	7	A	39, 43, 45
 3	3	i would never	25	A	39, 43, 63
+2	3	, um ,	5	A	1, 5
 2	3	. but i	27	A	39, 65
 2	3	. i think	23	A	61, 83
 2	3	a disgusting thing	3	A	79, 81
-2	3	an awful thing	3	A	81, 83
 2	3	burn the flag	3	A	37, 39
 2	3	but i think	9	A	47, 55
 2	3	flag and and	15	A	47, 61
@@ -26,7 +29,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	i i i	13	A	43, 55
 2	3	i think that	31	A	61, 91
 2	3	i think the	43	A	43, 85
-2	3	i yeah i	7	A	55, 61
 2	3	if they if	29	A	37, 65
 2	3	that's uh that's	59	A	25, 83
 2	3	the idea of	15	A	43, 57
@@ -47,12 +49,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	2	i i	55	A	37, 39, 43, 45, 55, 61, 63, 75, 91
 7	2	but i	37	A	39, 43, 45, 47, 55, 65, 75
 6	2	i don't	39	A	49, 75, 77, 79, 83, 87
+5	2	, and	81	A	3, 5, 63, 79, 83
 5	2	. i	47	A	37, 61, 63, 75, 83
+4	2	, i	81	A	3, 5, 61, 83
 4	2	. yeah	53	A	17, 53, 61, 69
 4	2	and and	49	A	31, 47, 61, 79
 4	2	i would	31	A	33, 39, 43, 63
 4	2	is a	85	A	1, 43, 79, 85
 4	2	the flag	21	A	37, 39, 43, 57
+4	2	uh ,	43	A	19, 43, 47, 61
 4	2	uh-huh .	47	A	7, 9, 15, 53
 4	2	would never	27	A	37, 39, 43, 63
 3	2	. but	45	A	39, 65, 83
@@ -64,15 +69,18 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	right to	47	A	29, 49, 75
 3	2	so that	57	A	31, 61, 87
 3	2	that uh	49	A	43, 75, 91
-3	2	that's that's	51	A	3, 47, 53
 3	2	that's uh	59	A	25, 47, 83
 3	2	the idea	15	A	43, 55, 57
 3	2	the the	37	A	19, 43, 55
 3	2	the um	57	A	29, 75, 85
+3	2	thing ,	5	A	79, 81, 83
 3	2	think that	31	A	61, 75, 91
-3	2	uh i	41	A	51, 61, 91
 3	2	um i	43	A	33, 57, 75
-3	2	yeah i	17	A	45, 55, 61
+3	2	yeah ,	59	A	3, 13, 61
+2	2	, but	5	A	79, 83
+2	2	, it	37	A	1, 37
+2	2	, like	43	A	19, 61
+2	2	, no	39	A	47, 85
 2	2	. it's	83	A	5, 87
 2	2	. so	83	A	5, 87
 2	2	. um	7	A	55, 61
@@ -88,6 +96,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	don't think	15	A	61, 75
 2	2	gun control	17	A	3, 19
 2	2	i just	87	A	5, 91
+2	2	i yeah	7	A	55, 61
 2	2	if they	29	A	37, 65
 2	2	in the	17	A	39, 55
 2	2	is is	29	A	57, 85
@@ -103,7 +112,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	know .	23	A	65, 87
 2	2	know if	47	A	37, 83
 2	2	know the	15	A	29, 43
-2	2	much and	25	A	63, 87
 2	2	no i	37	A	49, 85
 2	2	of the	27	A	29, 55
 2	2	one of	11	A	55, 65
@@ -113,6 +121,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	that that's	15	A	47, 61
 2	2	that they	13	A	31, 43
 2	2	that you	17	A	59, 75
+2	2	that's ,	3	A	3, 5
+2	2	that's that's	7	A	47, 53
 2	2	that's the	55	A	29, 83
 2	2	that's true	25	A	29, 53
 2	2	that's what's	15	A	51, 65
@@ -123,7 +133,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	um .	11	A	55, 65
 2	2	well it's	43	A	43, 85
 2	2	what the	13	A	43, 55
-2	2	yeah that's	27	A	3, 29
+2	2	yeah i	11	A	45, 55
 2	2	you can	41	A	19, 59
 23	1	i	89	A	3, 5, 29, 33, 37, 39, 43, 45, 47, 49, 51, 55, 57, 61, 63, 65, 75, 77, 79, 83, 85, 87, 91
 22	1	yeah	87	A	3, 11, 13, 17, 19, 23, 27, 29, 33, 35, 41, 43, 45, 53, 55, 61, 67, 69, 73, 77, 83, 89

@@ -1,41 +1,56 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+4	5	, uh , uh ,	61	B	1, 39, 45, 61
+3	4	well , uh ,	61	B	1, 19, 61
+2	4	, uh , i	17	B	39, 55
+2	4	and , uh ,	7	B	39, 45
+2	4	yeah , yeah .	53	B	15, 67
+9	3	, uh ,	61	B	1, 11, 19, 37, 39, 43, 45, 55, 61
+3	3	, yeah .	53	B	15, 33, 67
+3	3	uh , i	55	B	1, 39, 55
+2	3	, in the	61	B	1, 61
+2	3	, when i	5	B	39, 43
+2	3	and , and	39	B	1, 39
 2	3	getting out and	3	B	39, 41
-2	3	yeah yeah .	53	B	15, 67
+2	3	i , i	3	B	43, 45
+2	3	the , the	13	B	11, 23
 13	2	yeah .	61	B	7, 15, 17, 25, 33, 35, 47, 49, 51, 53, 59, 65, 67
-4	2	uh uh	61	B	1, 39, 45, 61
-3	2	i i	45	B	1, 43, 45
+10	2	uh ,	61	B	1, 3, 11, 19, 37, 39, 43, 45, 55, 61
+5	2	, i	55	B	1, 39, 43, 45, 55
+5	2	the ,	51	B	11, 23, 31, 39, 61
+5	2	yeah ,	53	B	15, 31, 37, 55, 67
+4	2	i ,	45	B	1, 39, 43, 45
+3	2	and ,	45	B	1, 39, 45
 3	2	right .	31	B	27, 31, 57
-3	2	the the	31	B	11, 23, 41
-3	2	uh i	55	B	1, 39, 55
 3	2	uh-huh .	59	B	5, 9, 63
-3	2	well uh	61	B	1, 19, 61
+2	2	, and	39	B	1, 39
+2	2	, as	39	B	1, 39
+2	2	, is	29	B	11, 39
+2	2	, right	13	B	19, 31
+2	2	, that	9	B	37, 45
+2	2	, when	5	B	39, 43
+2	2	, you	19	B	43, 61
 2	2	. i	23	B	1, 23
-2	2	and and	39	B	1, 39
 2	2	and i	3	B	43, 45
-2	2	and uh	7	B	39, 45
+2	2	but ,	9	B	21, 29
 2	2	but still	15	B	31, 45
+2	2	do ,	17	B	23, 39
 2	2	doing it	5	B	39, 43
 2	2	i have	39	B	1, 39
-2	2	in the	61	B	1, 61
+2	2	it ,	3	B	43, 45
 2	2	like to	23	B	1, 23
 2	2	okay .	7	B	13, 19
 2	2	other people	9	B	23, 31
-2	2	run and	39	B	1, 39
+2	2	that ,	35	B	11, 45
 2	2	that i	5	B	39, 43
-2	2	that it	7	B	39, 45
 2	2	to do	17	B	23, 39
 2	2	when i	5	B	39, 43
 2	2	with other	23	B	1, 23
-16	1	yeah	61	B	7, 15, 17, 25, 31, 33, 35, 37, 47, 49, 51, 53, 55, 59, 65, 67
-10	1	uh	61	B	1, 3, 11, 19, 37, 39, 43, 45, 55, 61
 8	1	the	61	B	1, 11, 23, 31, 39, 41, 55, 61
 7	1	and	61	B	1, 33, 39, 41, 43, 45, 61
 7	1	i	61	B	1, 23, 39, 43, 45, 55, 61
 6	1	it	45	B	1, 23, 37, 39, 43, 45
 6	1	that	45	B	11, 37, 39, 43, 45, 55
 6	1	to	55	B	1, 11, 23, 39, 43, 55
-4	1	but	25	B	21, 29, 31, 45
-4	1	right	39	B	19, 27, 31, 57
 4	1	well	61	B	1, 11, 19, 61
 4	1	you	59	B	3, 23, 43, 61
 3	1	doing	13	B	31, 39, 43
@@ -63,9 +78,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	of	9	B	33, 41
 2	1	on	17	B	45, 61
 2	1	or	39	B	1, 39
+2	1	run	39	B	1, 39
 2	1	then	43	B	1, 43
 2	1	thing	9	B	31, 39
 2	1	things	45	B	1, 45
-2	1	when	5	B	39, 43
 2	1	would	23	B	1, 23
 

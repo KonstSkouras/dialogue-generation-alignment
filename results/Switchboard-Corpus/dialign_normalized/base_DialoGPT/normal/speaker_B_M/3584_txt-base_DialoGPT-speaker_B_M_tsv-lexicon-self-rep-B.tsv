@@ -2,10 +2,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	7	i'm not planning on putting anything in	3	M	61, 63
 2	4	i think you mean	53	M	13, 65
 2	4	in the middle of	43	M	49, 91
+3	3	, uh ,	61	M	5, 7, 65
+2	3	, i think	27	M	65, 91
 2	3	to be a	21	M	17, 37
 2	3	we do .	27	M	3, 29
 10	2	it's a	95	M	1, 5, 11, 33, 37, 39, 83, 87, 91, 95
 5	2	i think	81	M	13, 35, 65, 91, 93
+3	2	, i	61	M	31, 65, 91
 3	2	in the	43	M	49, 69, 91
 3	2	it .	27	M	35, 43, 61
 3	2	it's not	27	M	45, 69, 71
@@ -44,7 +47,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	me	85	M	1, 57, 85
 3	1	mean	53	M	13, 31, 65
 3	1	on	25	M	61, 63, 85
-3	1	uh	61	M	5, 7, 65
 3	1	window	7	M	77, 81, 83
 2	1	all	5	M	15, 19
 2	1	bad	25	M	45, 69

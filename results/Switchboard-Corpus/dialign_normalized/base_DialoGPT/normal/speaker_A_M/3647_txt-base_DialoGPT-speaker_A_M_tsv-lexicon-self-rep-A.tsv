@@ -1,35 +1,65 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, good to hear .	5	A	1, 5
 2	5	i don't think i would	3	A	55, 57
-2	5	i had to do that	15	A	47, 61
-2	4	good to hear .	5	A	1, 5
-2	4	so i i think	15	A	49, 63
+2	5	well , good to hear	5	A	1, 5
+2	4	, uh , in	3	A	73, 75
+2	4	, uh , is	25	A	49, 73
+2	4	, you know ,	15	A	59, 73
+2	4	and , uh ,	9	A	67, 75
+2	4	and that's , that's	13	A	53, 65
+2	4	i had to do	15	A	47, 61
 2	4	some of the benefits	39	A	35, 73
-2	4	well good to hear	5	A	1, 5
+2	4	that , uh ,	3	A	61, 63
+15	3	, uh ,	63	A	13, 17, 41, 45, 47, 49, 55, 57, 59, 61, 63, 65, 67, 73, 75
+3	3	, that ,	35	A	41, 61, 75
 3	3	of the benefits	39	A	35, 49, 73
-2	3	and that's that's	13	A	53, 65
+2	3	, and that's	19	A	53, 71
+2	3	, so i	15	A	49, 63
+2	3	a , a	27	A	47, 73
+2	3	as , as	29	A	27, 55
+2	3	as a ,	9	A	47, 55
+2	3	have a ,	15	A	59, 73
+2	3	i , i	15	A	49, 63
 2	3	i really enjoyed	7	A	57, 63
 2	3	i would have	7	A	55, 61
 2	3	profit sharing plan	3	A	73, 75
+2	3	that , that	3	A	73, 75
+2	3	we can ,	57	A	17, 73
+16	2	, uh	63	A	13, 17, 27, 41, 45, 47, 49, 55, 57, 59, 61, 63, 65, 67, 73, 75
+15	2	uh ,	63	A	13, 17, 41, 45, 47, 49, 55, 57, 59, 61, 63, 65, 67, 73, 75
+6	2	, that	35	A	41, 47, 61, 63, 73, 75
+6	2	a ,	27	A	47, 55, 59, 61, 63, 73
+6	2	well ,	71	A	1, 5, 15, 41, 61, 71
+5	2	, i	15	A	49, 55, 57, 61, 63
+5	2	, that's	49	A	21, 41, 53, 65, 69
+5	2	that ,	35	A	41, 61, 63, 73, 75
+4	2	, in	21	A	55, 61, 73, 75
+4	2	, so	23	A	41, 49, 61, 63
+4	2	, you	59	A	15, 59, 65, 73
 4	2	of the	39	A	35, 49, 61, 73
+3	2	, good	13	A	1, 5, 13
+3	2	, is	27	A	47, 49, 73
+3	2	, yeah	61	A	9, 61, 69
 3	2	. i	61	A	1, 47, 61
 3	2	an individual	25	A	47, 55, 71
-3	2	and that's	19	A	53, 65, 71
 3	2	good .	53	A	13, 17, 65
 3	2	have a	19	A	55, 59, 73
 3	2	i don't	11	A	55, 57, 65
 3	2	i think	17	A	47, 49, 63
 3	2	right .	41	A	5, 33, 45
+3	2	the ,	49	A	25, 49, 73
+3	2	yeah ,	61	A	13, 69, 73
+2	2	, as	29	A	27, 55
+2	2	, the	13	A	61, 73
 2	2	. right	13	A	33, 45
-2	2	a a	27	A	47, 73
 2	2	an excellent	23	A	41, 63
 2	2	and have	3	A	57, 59
 2	2	and i	9	A	57, 65
-2	2	and uh	9	A	67, 75
 2	2	are important	41	A	27, 67
 2	2	as a	9	A	47, 55
-2	2	as as	29	A	27, 55
 2	2	because i	15	A	47, 61
 2	2	benefit that	7	A	57, 63
+2	2	do ,	3	A	59, 61
 2	2	do have	21	A	53, 73
 2	2	do you	41	A	27, 67
 2	2	flexible work	9	A	57, 65
@@ -37,7 +67,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i do	7	A	47, 53
 2	2	i guess	21	A	25, 45
 2	2	i had	15	A	47, 61
-2	2	i i	15	A	49, 63
 2	2	i was	61	A	1, 61
 2	2	if i	7	A	55, 61
 2	2	in a	13	A	61, 73
@@ -47,32 +76,24 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	is the	9	A	49, 57
 2	2	make my	3	A	59, 61
 2	2	mentioned is	11	A	47, 57
+2	2	nancy ,	5	A	21, 25
 2	2	of my	21	A	55, 75
 2	2	one of	27	A	49, 75
+2	2	right ,	25	A	21, 45
 2	2	that i	17	A	47, 63
-2	2	that that	3	A	73, 75
-2	2	that uh	3	A	61, 63
-2	2	that you	17	A	57, 73
 2	2	that's an	31	A	41, 71
-2	2	uh in	3	A	73, 75
-2	2	uh is	25	A	49, 73
-2	2	uh what	41	A	27, 67
 2	2	uh-huh .	5	A	29, 33
-2	2	we can	57	A	17, 73
 2	2	what was	39	A	19, 57
 2	2	work four	3	A	57, 59
 2	2	yeah .	35	A	9, 43
 2	2	yes .	13	A	39, 51
-2	2	you know	15	A	59, 73
 2	2	you mentioned	9	A	57, 65
-16	1	uh	63	A	13, 17, 27, 41, 45, 47, 49, 55, 57, 59, 61, 63, 65, 67, 73, 75
 12	1	i	65	A	1, 25, 45, 47, 49, 53, 55, 57, 59, 61, 63, 65
 11	1	and	53	A	23, 47, 49, 53, 57, 59, 65, 67, 71, 73, 75
 10	1	a	51	A	25, 41, 45, 47, 55, 59, 61, 63, 73, 75
 10	1	that	35	A	41, 47, 49, 57, 59, 61, 63, 65, 73, 75
 8	1	in	51	A	25, 55, 57, 59, 61, 65, 73, 75
 8	1	the	73	A	1, 11, 25, 35, 49, 57, 61, 73
-7	1	do	47	A	27, 47, 53, 59, 61, 67, 73
 7	1	have	21	A	53, 55, 57, 59, 61, 65, 73
 7	1	my	29	A	47, 55, 57, 59, 61, 65, 75
 7	1	other	67	A	1, 25, 27, 55, 57, 61, 67
@@ -87,13 +108,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	of	41	A	35, 49, 55, 61, 73, 75
 6	1	one	69	A	7, 47, 49, 53, 57, 75
 6	1	think	21	A	47, 49, 55, 57, 63, 67
-6	1	yeah	65	A	9, 13, 43, 61, 69, 73
 5	1	or	47	A	27, 47, 55, 59, 73
 5	1	so	47	A	17, 41, 49, 61, 63
 5	1	some	61	A	13, 35, 47, 61, 73
 5	1	was	63	A	1, 19, 57, 61, 63
 4	1	had	29	A	47, 57, 61, 75
-4	1	right	41	A	5, 21, 33, 45
 4	1	what	49	A	19, 27, 57, 67
 4	1	where	29	A	47, 57, 73, 75
 3	1	as	29	A	27, 47, 55
@@ -126,7 +145,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	insurance	9	A	47, 55
 2	1	just	25	A	1, 25
 2	1	make	3	A	59, 61
-2	1	nancy	5	A	21, 25
 2	1	nice	3	A	73, 75
 2	1	our	27	A	47, 73
 2	1	out	35	A	13, 47

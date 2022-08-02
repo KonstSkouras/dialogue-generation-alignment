@@ -1,19 +1,33 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, you know , pay	21	A	13, 33
+6	4	, you know ,	39	A	5, 13, 25, 33, 41, 43
 2	4	if you want to	3	A	15, 17
 2	4	they'll let you work	3	A	15, 17
+2	4	you want to ,	3	A	15, 17
+7	3	you know ,	39	A	5, 13, 15, 25, 33, 41, 43
+6	3	, uh ,	39	A	3, 5, 13, 21, 27, 41
+3	3	, um ,	21	A	5, 13, 25
 3	3	. yeah .	7	A	35, 39, 41
+2	3	, i think	5	A	17, 21
 2	3	the only real	7	A	25, 31
 2	3	they'll let you	3	A	15, 17
-2	3	you know pay	21	A	13, 33
-2	3	you want to	3	A	15, 17
-7	2	you know	39	A	5, 13, 15, 25, 33, 41, 43
+7	2	know ,	39	A	5, 13, 15, 25, 33, 41, 43
+7	2	uh ,	41	A	1, 3, 5, 13, 21, 27, 41
 6	2	yeah .	29	A	13, 17, 21, 35, 39, 41
+4	2	, i	21	A	5, 17, 21, 25
 4	2	. yeah	21	A	21, 35, 39, 41
 4	2	i think	13	A	13, 17, 21, 25
 4	2	uh-huh .	37	A	3, 19, 23, 39
+3	2	, i'm	21	A	5, 21, 25
+3	2	, with	25	A	17, 21, 41
 3	2	if you	7	A	15, 17, 21
 3	2	so .	29	A	5, 29, 33
+3	2	to ,	19	A	15, 17, 33
+3	2	um ,	21	A	5, 13, 25
+2	2	, they	9	A	5, 13
+2	2	, yeah	21	A	17, 37
 2	2	and stuff	13	A	13, 25
+2	2	at ,	23	A	3, 25
 2	2	don't have	23	A	5, 27
 2	2	five percent	7	A	27, 33
 2	2	for the	15	A	13, 27
@@ -25,19 +39,17 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i mean	5	A	21, 25
 2	2	i work	3	A	3, 5
 2	2	kind of	11	A	5, 15
-2	2	know they	11	A	5, 15
 2	2	let you	3	A	15, 17
 2	2	masters and	5	A	13, 17
+2	2	of ,	39	A	5, 43
+2	2	on ,	21	A	21, 41
 2	2	so i	29	A	5, 33
+2	2	that ,	9	A	13, 21
 2	2	that's about	5	A	27, 31
-2	2	then i	5	A	13, 17
-2	2	working for	3	A	25, 27
 2	2	you work	3	A	15, 17
 10	1	you	39	A	5, 9, 13, 15, 17, 21, 25, 33, 41, 43
 8	1	i	31	A	3, 5, 13, 15, 17, 21, 25, 33
 7	1	to	37	A	5, 15, 17, 21, 27, 33, 41
-7	1	uh	41	A	1, 3, 5, 13, 21, 27, 41
-7	1	yeah	29	A	13, 17, 21, 35, 37, 39, 41
 6	1	of	39	A	5, 13, 15, 17, 21, 43
 5	1	a	39	A	5, 17, 21, 41, 43
 5	1	about	27	A	5, 9, 17, 27, 31
@@ -63,8 +75,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	that's	11	A	21, 27, 31
 3	1	there	23	A	21, 27, 43
 3	1	they	11	A	5, 13, 15
-3	1	um	21	A	5, 13, 25
-3	1	with	25	A	17, 21, 41
 3	1	working	9	A	25, 27, 33
 2	1	by	3	A	15, 17
 2	1	decrease	3	A	15, 17
@@ -88,6 +98,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	school	21	A	5, 25
 2	1	some	15	A	13, 27
 2	1	student	23	A	5, 27
+2	1	then	5	A	13, 17
 2	1	there's	17	A	27, 43
 2	1	we	37	A	5, 41
 2	1	where	7	A	21, 27

@@ -1,24 +1,36 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	and then uh	3	B	2, 4
-2	3	and uh and	9	B	4, 12
-4	2	and uh	17	B	2, 4, 12, 18
-3	2	you know	7	B	12, 16, 18
+2	6	, and , uh , and	9	B	4, 12
+4	4	and , uh ,	17	B	2, 4, 12, 18
+3	4	, and , uh	11	B	2, 4, 12
+3	4	, you know ,	7	B	12, 16, 18
+2	4	, uh , and	9	B	4, 12
+2	4	, uh , i	11	B	2, 12
+2	4	and then , uh	3	B	2, 4
+5	3	, uh ,	17	B	2, 4, 12, 16, 18
+3	3	, and ,	11	B	2, 4, 12
+2	3	, i guess	17	B	2, 18
+2	3	, uh .	3	B	2, 4
+2	3	, um ,	19	B	0, 18
+5	2	, i	17	B	2, 4, 12, 16, 18
+5	2	and ,	19	B	0, 2, 4, 12, 18
+4	2	, and	17	B	2, 4, 12, 18
+3	2	yeah ,	11	B	2, 10, 12
+2	2	, in	15	B	2, 16
+2	2	, it	3	B	0, 2
+2	2	, the	11	B	4, 14
+2	2	, they	5	B	12, 16
 2	2	back when	5	B	12, 16
 2	2	gun control	17	B	0, 16
-2	2	i guess	17	B	2, 18
+2	2	so ,	15	B	4, 18
 2	2	that they	13	B	0, 12
 2	2	there are	17	B	2, 18
 2	2	they would	13	B	0, 12
-2	2	uh .	3	B	2, 4
-2	2	uh and	9	B	4, 12
-2	2	uh i	11	B	2, 12
+2	2	well ,	3	B	14, 16
 2	2	yeah .	3	B	6, 8
 6	1	the	19	B	0, 2, 4, 12, 14, 18
 5	1	a	17	B	0, 2, 4, 12, 16
 5	1	and	19	B	0, 2, 4, 12, 18
 5	1	i	17	B	2, 4, 12, 16, 18
-5	1	uh	17	B	2, 4, 12, 16, 18
-5	1	yeah	11	B	2, 6, 8, 10, 12
 4	1	that	19	B	0, 4, 12, 18
 4	1	to	17	B	0, 2, 12, 16
 3	1	are	17	B	2, 14, 18
@@ -38,14 +50,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	have	13	B	0, 12
 2	1	me	19	B	0, 18
 2	1	people	7	B	12, 18
-2	1	so	15	B	4, 18
 2	1	some	3	B	16, 18
 2	1	there	17	B	2, 18
 2	1	think	5	B	0, 4
-2	1	um	19	B	0, 18
 2	1	up	9	B	4, 12
 2	1	way	3	B	12, 14
-2	1	well	3	B	14, 16
 2	1	when	5	B	12, 16
 2	1	where	3	B	0, 2
 

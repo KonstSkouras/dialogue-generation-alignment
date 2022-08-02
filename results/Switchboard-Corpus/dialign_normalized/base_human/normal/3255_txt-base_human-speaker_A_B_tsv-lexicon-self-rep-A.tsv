@@ -1,51 +1,78 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	4	uh-huh . sure .	39	A	18, 50, 56
+2	4	, i don't know	45	A	22, 66
+2	4	, uh , i	17	A	6, 22
+2	4	but , uh ,	15	A	64, 78
+2	4	quite a bit ,	17	A	18, 34
+2	4	the , uh ,	65	A	0, 64
+10	3	, uh ,	79	A	0, 2, 6, 22, 34, 38, 60, 64, 70, 78
 4	3	uh-huh . sure	39	A	18, 46, 50, 56
+3	3	, um ,	5	A	0, 2, 4
 3	3	i don't know	45	A	22, 28, 66
 3	3	you have to	35	A	6, 38, 40
+2	3	, in minneapolis	35	A	4, 38
+2	3	, sure ,	25	A	46, 70
+2	3	. sure ,	29	A	18, 46
 2	3	. uh-huh .	5	A	46, 50
+2	3	about that ,	3	A	76, 78
 2	3	into the air	27	A	38, 64
-2	3	quite a bit	17	A	18, 34
+2	3	minneapolis area ,	29	A	4, 32
+2	3	oh , okay	5	A	26, 30
 2	3	the other thing	33	A	28, 60
 2	3	they want to	57	A	14, 70
+2	3	uh , the	27	A	34, 60
 2	3	want to carpool	3	A	4, 6
+10	2	uh ,	79	A	0, 2, 6, 22, 34, 38, 60, 64, 70, 78
 7	2	uh-huh .	51	A	8, 18, 46, 50, 52, 56, 58
+5	2	, and	73	A	4, 14, 38, 64, 76
+5	2	, i	77	A	0, 6, 22, 66, 76
 5	2	. sure	41	A	18, 46, 50, 56, 58
+5	2	that ,	75	A	4, 22, 66, 76, 78
+4	2	, or	67	A	0, 2, 14, 66
 4	2	have to	67	A	6, 38, 40, 72
+4	2	sure ,	53	A	18, 44, 46, 70
 4	2	sure .	39	A	18, 50, 54, 56
-3	2	and i	11	A	66, 68, 76
+4	2	um ,	39	A	0, 2, 4, 38
+4	2	yeah ,	43	A	4, 14, 44, 46
+3	2	, because	43	A	28, 38, 70
+3	2	it ,	63	A	4, 64, 66
+3	2	oh ,	45	A	26, 30, 70
 3	2	the other	47	A	14, 28, 60
 3	2	they want	57	A	14, 28, 70
+2	2	, but	3	A	36, 38
+2	2	, it's	41	A	6, 46
+2	2	, that	13	A	6, 18
+2	2	, that's	69	A	4, 72
+2	2	, yeah	25	A	20, 44
+2	2	, you	73	A	6, 78
 2	2	. yeah	45	A	14, 58
-2	2	about that	3	A	76, 78
 2	2	air conditioning	17	A	60, 76
+2	2	and ,	65	A	2, 66
+2	2	and i	9	A	68, 76
 2	2	and that's	31	A	4, 34
 2	2	and they	25	A	14, 38
 2	2	because it	9	A	64, 72
-2	2	but uh	15	A	64, 78
 2	2	exactly .	69	A	12, 80
 2	2	get your	3	A	38, 40
 2	2	i think	69	A	6, 74
 2	2	i'm sure	17	A	60, 76
 2	2	in a	39	A	38, 76
-2	2	in minneapolis	35	A	4, 38
 2	2	into the	27	A	38, 64
 2	2	it's not	33	A	14, 46
 2	2	kind of	71	A	6, 76
 2	2	like that	77	A	2, 78
-2	2	minneapolis area	29	A	4, 32
 2	2	my husband	13	A	64, 76
 2	2	of the	59	A	6, 64
-2	2	oh okay	5	A	26, 30
+2	2	okay ,	27	A	0, 26
 2	2	okay .	7	A	24, 30
+2	2	or ,	3	A	0, 2
 2	2	that people	69	A	4, 72
+2	2	the ,	65	A	0, 64
 2	2	the car	15	A	0, 14
 2	2	the people	73	A	6, 78
-2	2	the uh	65	A	0, 64
 2	2	think the	7	A	0, 6
+2	2	to ,	33	A	6, 38
 2	2	to be	39	A	26, 64
-2	2	uh i	17	A	6, 22
-2	2	uh the	27	A	34, 60
 2	2	yeah .	49	A	10, 58
 2	2	you get	3	A	36, 38
 2	2	your car	3	A	38, 40
@@ -53,16 +80,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 12	1	that	77	A	2, 4, 6, 14, 18, 22, 34, 38, 66, 72, 76, 78
 12	1	to	77	A	0, 4, 6, 14, 26, 28, 38, 40, 64, 70, 72, 76
 10	1	a	75	A	2, 6, 18, 34, 38, 46, 60, 70, 74, 76
-10	1	sure	59	A	18, 44, 46, 50, 54, 56, 58, 60, 70, 76
 10	1	the	79	A	0, 6, 14, 28, 34, 38, 40, 60, 64, 78
-10	1	uh	79	A	0, 2, 6, 22, 34, 38, 60, 64, 70, 78
 9	1	i	77	A	0, 6, 22, 28, 66, 68, 72, 74, 76
 8	1	uh-huh	51	A	8, 14, 18, 46, 50, 52, 56, 58
 7	1	it	73	A	4, 60, 64, 66, 70, 72, 76
 7	1	it's	69	A	6, 14, 38, 46, 60, 62, 74
 7	1	or	75	A	0, 2, 6, 14, 38, 66, 74
 7	1	people	77	A	2, 4, 6, 38, 68, 72, 78
-7	1	yeah	55	A	4, 10, 14, 20, 44, 46, 58
 7	1	you	73	A	6, 36, 38, 40, 42, 70, 78
 6	1	because	49	A	28, 38, 64, 70, 72, 76
 6	1	is	73	A	0, 4, 28, 34, 38, 72
@@ -84,17 +108,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	in	73	A	4, 38, 72, 76
 4	1	like	77	A	2, 6, 74, 78
 4	1	not	45	A	2, 6, 14, 46
-4	1	okay	31	A	0, 24, 26, 30
 4	1	something	71	A	2, 60, 66, 72
 4	1	think	79	A	0, 6, 74, 78
-4	1	um	39	A	0, 2, 4, 38
 4	1	was	13	A	64, 66, 68, 76
 4	1	where	41	A	2, 4, 6, 42
 3	1	all	77	A	2, 34, 78
 3	1	are	75	A	4, 36, 78
 3	1	as	39	A	0, 36, 38
 3	1	here	57	A	4, 26, 60
-3	1	oh	45	A	26, 30, 70
 3	1	quite	49	A	18, 34, 66
 3	1	so	67	A	6, 38, 72
 3	1	then	27	A	14, 28, 40

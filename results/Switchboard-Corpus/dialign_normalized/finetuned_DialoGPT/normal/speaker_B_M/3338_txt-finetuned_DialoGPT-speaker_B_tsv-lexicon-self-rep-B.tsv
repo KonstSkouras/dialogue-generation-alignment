@@ -1,37 +1,58 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	i don't know i just	43	M	23, 65
+2	7	, i don't know , i just	43	M	23, 65
+3	4	, uh , i	43	M	23, 31, 65
+2	4	, i , i	17	M	65, 81
 2	4	do a lot of	9	M	39, 47
 2	4	i do a lot	9	M	31, 39
 2	4	we're going to go	15	M	33, 47
+2	4	yeah , i do	3	M	43, 45
+5	3	, uh .	27	M	11, 15, 23, 35, 37
+4	3	, i do	35	M	31, 43, 45, 65
+4	3	, uh ,	43	M	23, 25, 31, 65
+3	3	, i ,	59	M	23, 65, 81
+3	3	, i don't	43	M	23, 31, 65
+3	3	, i just	59	M	23, 65, 81
 3	3	a lot of	17	M	31, 39, 47
 3	3	i don't know	43	M	23, 29, 65
+3	3	the , the	49	M	33, 65, 81
+2	3	, and ,	11	M	37, 47
+2	3	, it is	5	M	37, 41
+2	3	, too .	3	M	41, 43
 2	3	a couple of	21	M	47, 67
+2	3	and , uh	7	M	31, 37
+2	3	but , uh	51	M	15, 65
 2	3	i do like	35	M	31, 65
-2	3	yeah i do	3	M	43, 45
-5	2	uh .	27	M	11, 15, 23, 35, 37
-4	2	i don't	43	M	23, 29, 31, 65
+2	3	so , it	15	M	27, 41
+2	3	so , uh	13	M	23, 35
+7	2	, i	59	M	23, 31, 43, 45, 65, 75, 81
+7	2	so ,	69	M	13, 23, 27, 33, 35, 41, 81
+7	2	uh ,	57	M	9, 11, 21, 23, 25, 31, 65
+5	2	, and	33	M	33, 37, 41, 47, 65
+5	2	oh ,	27	M	53, 71, 75, 77, 79
+4	2	yeah ,	31	M	37, 43, 45, 67
+3	2	, the	49	M	33, 65, 81
 3	2	a lot	17	M	31, 39, 47
-3	2	i just	59	M	23, 65, 81
-3	2	the the	49	M	33, 65, 81
+3	2	know ,	43	M	23, 33, 65
+3	2	the ,	49	M	33, 65, 81
 3	2	to go	39	M	33, 47, 71
 3	2	too .	5	M	39, 41, 43
-3	2	uh i	43	M	23, 31, 65
 3	2	uh-huh .	57	M	17, 51, 73
 3	2	yeah .	59	M	1, 5, 59
+2	2	, i'm	41	M	23, 63
+2	2	, we	21	M	47, 67
+2	2	, we're	15	M	33, 47
+2	2	, we've	21	M	47, 67
+2	2	a ,	45	M	23, 67
 2	2	and i	27	M	39, 65
-2	2	and uh	7	M	31, 37
 2	2	but i	3	M	29, 31
-2	2	but uh	51	M	15, 65
 2	2	have a	37	M	31, 67
-2	2	i i	17	M	65, 81
-2	2	it is	5	M	37, 41
 2	2	like to	23	M	9, 31
 2	2	of camping	39	M	9, 47
 2	2	okay .	19	M	7, 25
-2	2	so it	15	M	27, 41
-2	2	so uh	13	M	23, 35
+2	2	really ,	17	M	31, 47
 2	2	there .	3	M	47, 49
 2	2	to the	15	M	33, 47
+2	2	um ,	17	M	31, 47
 11	1	and	47	M	23, 31, 33, 37, 39, 41, 47, 61, 65, 67, 69
 11	1	uh	61	M	9, 11, 15, 21, 23, 25, 31, 35, 37, 65, 69
 10	1	i	59	M	23, 29, 31, 39, 43, 45, 65, 69, 75, 81
@@ -50,7 +71,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	go	39	M	33, 47, 69, 71
 4	1	have	51	M	31, 67, 69, 81
 4	1	is	33	M	37, 41, 47, 69
-4	1	know	43	M	23, 29, 33, 65
 4	1	that	47	M	23, 39, 47, 69
 4	1	too	9	M	39, 41, 43, 47
 3	1	at	11	M	21, 25, 31

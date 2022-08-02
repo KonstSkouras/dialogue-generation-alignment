@@ -4,10 +4,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	nursing home .	25	B	2, 26
 2	3	to be put	25	B	2, 26
 2	3	to get into	3	B	0, 2
+2	3	yeah , that's	19	B	12, 30
+3	2	, we	21	B	0, 2, 20
 3	2	uh-huh .	29	B	6, 20, 34
 2	2	into a	27	B	0, 26
+2	2	right ,	17	B	2, 18
+2	2	uh ,	5	B	0, 4
 2	2	yeah .	9	B	8, 16
-2	2	yeah that's	19	B	12, 30
 8	1	and	33	B	0, 2, 18, 20, 24, 26, 30, 32
 6	1	to	31	B	0, 2, 20, 22, 26, 30
 5	1	he	27	B	0, 2, 20, 22, 26
@@ -31,7 +34,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	of	3	B	20, 22
 2	1	that's	19	B	12, 30
 2	1	thing	29	B	2, 30
-2	1	uh	5	B	0, 4
 2	1	up	21	B	2, 22
 2	1	well	31	B	0, 30
 2	1	yep	17	B	20, 36

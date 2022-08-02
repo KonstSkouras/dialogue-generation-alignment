@@ -1,85 +1,85 @@
-A|0| A: _and_ _you know_ _to_ _be_ _be_ more careful _of the_ teachers _that_ we place _in_ our school . 
-B|1| M: _well_ _i_ mean [you know] _it _was_ just_ _a_ little bit [of] dirt 
-A|2| A: [well] [it] can get expensive 
+A|0| A: _and_ _, you know ,_ _to_ _be_ , _be_ more careful _of the_ teachers _that_ we place _in_ our school . 
+B|1| M: _well _,_ i_ mean [, you know _,] _it_ _was_ just_ _a_ little bit [of] dirt 
+A|2| A: [well [,] it] can get expensive 
 B|3| M: _uh_ _uh_ 
-A|4| A: _i don't_ [know] [uh] [i] [was just] _going to_ say something [i] forgot what _it was ._ oh _i don't_ even remember what [it was] now . 
+A|4| A: _i don't_ [know _,] uh [,_ i] [was just] _going to_ say something [, i] forgot what _it was ._ oh [, _i] don't_ even remember what [it was] now . 
 B|5| M: i'm [in] [the] area 
-A|6| A: _my_ wife _had_ [uh] [just] put [in] [a] bunch [of] [i] want _to_ say they are pansies . 
+A|6| A: _my_ wife _had_ _, uh ,_ [just] put [in] [a] bunch [of] [, i] want _to_ say , they are pansies . 
 B|7| M: [i don't] think [it was .] 
 A|8| A: _yes_ . 
-B|9| M: hmm _yeah_ [well] [uh] you're [just] not [a] good [uh] ... 
-A|10| A: [i don't] _have_ any suzuki students . [uh] 
-B|11| M: [yes] 
-A|12| A: _that's_ how bad [it] [i] [know] . 
+B|9| M: hmm _, _yeah_ _,_ [well_ [,] uh ,] you're [just] not [a] good [, uh] ... 
+A|10| A: [i don't] _have_ any suzuki students . [uh ,] 
+B|11| M: [yes] , 
+A|12| A: _that's_ how bad _it [,_ i] [know] . 
 B|13| M: but does it's sad . 
 A|14| A: uh-huh . 
 B|15| M: _have a_ good day 
 A|16| A: [yeah] . 
-B|17| M: [you know] [the] _one_ [that] [had] [a] job _and then_ he went [to] jail [that] he [had] [a] problem with [that] [was] [the] problem . 
-A|18| A: uh-huh . oh okay . 
-B|19| M: [i] mean [you] can't really'use'it for [that] . 
+B|17| M: [you know ,] [the] _one_ [that] [had] [a] job _, _and_ then_ he went [to] jail , [that] he [had] [a] problem with , [that] [was] [the] problem . 
+A|18| A: uh-huh . oh , okay . 
+B|19| M: [i] mean [, you] can't really'use'it for [that] . 
 A|20| A: uh-huh . 
-B|21| M: [that] is [uh] interesting . 
-A|22| A: [and then] we put [that] on [the] computer [and then] we took _about_ three months [and] [uh] [and] adjusted where we could come down [and] where we didn't want [to] come down 
+B|21| M: [that] is [, uh ,] interesting . 
+A|22| A: [and then] we put [that] on [the] computer [and then] we took _about_ three months [and] [, uh [,] and] adjusted , where we could come down [and] where we didn't want [to] come down , 
 B|23| M: thanks . gif 
-A|24| A: right . oh [yeah] . 
+A|24| A: right . oh [, yeah] . 
 B|25| M: [i] 
 A|26| A: um . 
 B|27| M: i'm not [going to] lie . i'm [a] bit jealous . 
-A|28| A: [well] uh-huh . 
+A|28| A: [well ,] uh-huh . 
 B|29| M: she's probably thinking [about] [it] . 
-A|30| A: really ? [i] 
+A|30| A: really ? _i ,_ 
 B|31| M: [you] mean [it] would [be] ? 
-A|32| A: we tried [to] start [that] _in my_ husband's family . his mother's side decided they were [going to] [have a] reunion [a] couple [of] years ago _and i_ said [well] let's start this letter [and] [it] [just] never _my_ husband's sisters started [it] [and] sent [it] [to] us [and] _that's_ as far as [it] got . [i] sent [it] on [to] [the] next [one] 
-B|33| M: i'm [it] i'm [you] [that's] [i] 
+A|32| A: we tried [to] start [that] _in my_ husband's family . his mother's side decided they were [going to] [have a] reunion [a] couple [of] years ago _, and i_ said [, well] let's start this letter [, and] [it] [just] never _my_ husband's sisters started [it] [and] sent [it] [to] us [and] _that's_ as far as [it] got . [i] sent _it ,_ on [to] [the] next [one] , 
+B|33| M: i'm [, [it] ,] i'm [, you] _, that's_ [, [i] ,] 
 A|34| A: uh-huh . uh-huh . 
 B|35| M: no . 
-A|36| A: [yeah] [that's] right [that's] right . 
-B|37| M: [the] house is [in my] town [and i] live [in] [the] town [of the] same name . 
+A|36| A: [yeah [,] that's] right [, that's] right . 
+B|37| M: [the] house is [in my] town [, and i] live [in] [the] town [of the] same name . 
 A|38| A: [and] so [i] kind [of] stay 
 B|39| M: yea 
 
 
 TURN DETAILS:
-Turn ID=0| A | A : and you know to be be more careful of the teachers that we place in our school .
-	Free: Pattern=you know, Pattern=and, Pattern=in, Pattern=be, Pattern=to, Pattern=of the, Pattern=that
-	Constrained: Pattern=know, Pattern=the, Pattern=you, Pattern=of
-Turn ID=1| B | M : well i mean you know it was just a little bit of dirt
-	Free: Pattern=it was, Pattern=of, Pattern=well, Pattern=you know, Pattern=a, Pattern=i, Pattern=was just
-	Constrained: Pattern=you, Pattern=just, Pattern=it, Pattern=know, Pattern=was
-Turn ID=2| A | A : well it can get expensive
-	Free: Pattern=it, Pattern=well
-	Constrained: 
+Turn ID=0| A | A : and , you know , to be , be more careful of the teachers that we place in our school .
+	Free: Pattern=, you know ,, Pattern=and, Pattern=in, Pattern=be, Pattern=to, Pattern=of the, Pattern=that
+	Constrained: Pattern=you, Pattern=the, Pattern=of, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=1| B | M : well , i mean , you know , it was just a little bit of dirt
+	Free: Pattern=it was, Pattern=, it, Pattern=of, Pattern=well ,, Pattern=, i, Pattern=was just, Pattern=, you know ,, Pattern=a
+	Constrained: Pattern=you, Pattern=just, Pattern=it, Pattern=i, Pattern=was, Pattern=know ,, Pattern=you know ,, Pattern=know, Pattern=, you
+Turn ID=2| A | A : well , it can get expensive
+	Free: Pattern=, it, Pattern=well ,
+	Constrained: Pattern=it
 Turn ID=3| B | M : uh uh
 	Free: Pattern=uh
 	Constrained: 
-Turn ID=4| A | A : i don't know uh i was just going to say something i forgot what it was . oh i don't even remember what it was now .
-	Free: Pattern=uh, Pattern=i don't, Pattern=it was ., Pattern=know, Pattern=i, Pattern=was just, Pattern=going to, Pattern=it was
-	Constrained: Pattern=it was, Pattern=just, Pattern=it, Pattern=i, Pattern=to, Pattern=was
+Turn ID=4| A | A : i don't know , uh , i was just going to say something , i forgot what it was . oh , i don't even remember what it was now .
+	Free: Pattern=know ,, Pattern=i don't, Pattern=it was ., Pattern=, uh ,, Pattern=, i, Pattern=was just, Pattern=going to, Pattern=it was
+	Constrained: Pattern=it was, Pattern=just, Pattern=it, Pattern=know, Pattern=i, Pattern=uh ,, Pattern=to, Pattern=was, Pattern=uh, Pattern=, uh
 Turn ID=5| B | M : i'm in the area
 	Free: Pattern=the, Pattern=in
 	Constrained: 
-Turn ID=6| A | A : my wife had uh just put in a bunch of i want to say they are pansies .
-	Free: Pattern=of, Pattern=uh, Pattern=just, Pattern=a, Pattern=in, Pattern=i, Pattern=had, Pattern=to, Pattern=my
-	Constrained: 
+Turn ID=6| A | A : my wife had , uh , just put in a bunch of , i want to say , they are pansies .
+	Free: Pattern=of, Pattern=just, Pattern=a, Pattern=in, Pattern=had, Pattern=, uh ,, Pattern=, i, Pattern=to, Pattern=my
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=i, Pattern=uh
 Turn ID=7| B | M : i don't think it was .
 	Free: Pattern=it was ., Pattern=i don't
 	Constrained: Pattern=it, Pattern=was, Pattern=it was, Pattern=i
 Turn ID=8| A | A : yes .
 	Free: Pattern=yes
 	Constrained: 
-Turn ID=9| B | M : hmm yeah well uh you're just not a good uh ...
-	Free: Pattern=well, Pattern=uh, Pattern=just, Pattern=a, Pattern=yeah
-	Constrained: 
-Turn ID=10| A | A : i don't have any suzuki students . uh
-	Free: Pattern=i don't, Pattern=uh, Pattern=have
-	Constrained: Pattern=i
-Turn ID=11| B | M : yes
+Turn ID=9| B | M : hmm , yeah , well , uh , you're just not a good , uh ...
+	Free: Pattern=, well, Pattern=, uh, Pattern=just, Pattern=yeah ,, Pattern=a, Pattern=well ,, Pattern=, yeah, Pattern=, uh ,
+	Constrained: Pattern=uh ,, Pattern=, uh, Pattern=yeah, Pattern=uh
+Turn ID=10| A | A : i don't have any suzuki students . uh ,
+	Free: Pattern=i don't, Pattern=uh ,, Pattern=have
+	Constrained: Pattern=i, Pattern=uh
+Turn ID=11| B | M : yes ,
 	Free: Pattern=yes
 	Constrained: 
-Turn ID=12| A | A : that's how bad it i know .
-	Free: Pattern=that's, Pattern=know, Pattern=it, Pattern=i
-	Constrained: 
+Turn ID=12| A | A : that's how bad it , i know .
+	Free: Pattern=, i, Pattern=it ,, Pattern=know, Pattern=that's
+	Constrained: Pattern=it, Pattern=i
 Turn ID=13| B | M : but does it's sad .
 	Free: 
 	Constrained: 
@@ -92,30 +92,30 @@ Turn ID=15| B | M : have a good day
 Turn ID=16| A | A : yeah .
 	Free: Pattern=yeah
 	Constrained: 
-Turn ID=17| B | M : you know the one that had a job and then he went to jail that he had a problem with that was the problem .
-	Free: Pattern=you know, Pattern=a, Pattern=one, Pattern=and then, Pattern=had, Pattern=the, Pattern=to, Pattern=was, Pattern=that
-	Constrained: Pattern=know, Pattern=you, Pattern=and
-Turn ID=18| A | A : uh-huh . oh okay .
+Turn ID=17| B | M : you know , the one that had a job , and then he went to jail , that he had a problem with , that was the problem .
+	Free: Pattern=you know ,, Pattern=a, Pattern=one, Pattern=and then, Pattern=had, Pattern=the, Pattern=was, Pattern=that, Pattern=, and, Pattern=to
+	Constrained: Pattern=know ,, Pattern=and, Pattern=you, Pattern=know
+Turn ID=18| A | A : uh-huh . oh , okay .
 	Free: 
 	Constrained: 
-Turn ID=19| B | M : i mean you can't really'use'it for that .
-	Free: Pattern=that, Pattern=you, Pattern=i
-	Constrained: 
+Turn ID=19| B | M : i mean , you can't really'use'it for that .
+	Free: Pattern=, you, Pattern=i, Pattern=that
+	Constrained: Pattern=you
 Turn ID=20| A | A : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=21| B | M : that is uh interesting .
-	Free: Pattern=uh, Pattern=that
-	Constrained: 
-Turn ID=22| A | A : and then we put that on the computer and then we took about three months and uh and adjusted where we could come down and where we didn't want to come down
-	Free: Pattern=uh, Pattern=and, Pattern=and then, Pattern=about, Pattern=the, Pattern=to, Pattern=that
-	Constrained: Pattern=and
+Turn ID=21| B | M : that is , uh , interesting .
+	Free: Pattern=, uh ,, Pattern=that
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=uh
+Turn ID=22| A | A : and then we put that on the computer and then we took about three months and , uh , and adjusted , where we could come down and where we didn't want to come down ,
+	Free: Pattern=and, Pattern=and then, Pattern=about, Pattern=, uh ,, Pattern=the, Pattern=that, Pattern=, and, Pattern=to
+	Constrained: Pattern=uh ,, Pattern=uh, Pattern=, uh, Pattern=and
 Turn ID=23| B | M : thanks . gif
 	Free: 
 	Constrained: 
-Turn ID=24| A | A : right . oh yeah .
-	Free: Pattern=yeah
-	Constrained: 
+Turn ID=24| A | A : right . oh , yeah .
+	Free: Pattern=, yeah
+	Constrained: Pattern=yeah
 Turn ID=25| B | M : i
 	Free: Pattern=i
 	Constrained: 
@@ -125,38 +125,38 @@ Turn ID=26| A | A : um .
 Turn ID=27| B | M : i'm not going to lie . i'm a bit jealous .
 	Free: Pattern=going to, Pattern=a
 	Constrained: Pattern=to
-Turn ID=28| A | A : well uh-huh .
-	Free: Pattern=well
+Turn ID=28| A | A : well , uh-huh .
+	Free: Pattern=well ,
 	Constrained: 
 Turn ID=29| B | M : she's probably thinking about it .
 	Free: Pattern=it, Pattern=about
 	Constrained: 
-Turn ID=30| A | A : really ? i
-	Free: Pattern=i
-	Constrained: 
+Turn ID=30| A | A : really ? i ,
+	Free: Pattern=i ,
+	Constrained: Pattern=i
 Turn ID=31| B | M : you mean it would be ?
-	Free: Pattern=it, Pattern=you, Pattern=be
+	Free: Pattern=be, Pattern=it, Pattern=you
 	Constrained: 
-Turn ID=32| A | A : we tried to start that in my husband's family . his mother's side decided they were going to have a reunion a couple of years ago and i said well let's start this letter and it just never my husband's sisters started it and sent it to us and that's as far as it got . i sent it on to the next one
-	Free: Pattern=going to, Pattern=and i, Pattern=of, Pattern=well, Pattern=have a, Pattern=a, Pattern=one, Pattern=i, Pattern=to, Pattern=my, Pattern=that, Pattern=just, Pattern=in my, Pattern=it, Pattern=and, Pattern=that's, Pattern=the
-	Constrained: Pattern=have, Pattern=a, Pattern=and, Pattern=in, Pattern=i, Pattern=to, Pattern=my
-Turn ID=33| B | M : i'm it i'm you that's i
-	Free: Pattern=that's, Pattern=it, Pattern=you, Pattern=i
-	Constrained: 
+Turn ID=32| A | A : we tried to start that in my husband's family . his mother's side decided they were going to have a reunion a couple of years ago , and i said , well let's start this letter , and it just never my husband's sisters started it and sent it to us and that's as far as it got . i sent it , on to the next one ,
+	Free: Pattern=of, Pattern=have a, Pattern=a, Pattern=one, Pattern=, and i, Pattern=i, Pattern=it ,, Pattern=my, Pattern=that, Pattern=going to, Pattern=, well, Pattern=just, Pattern=in my, Pattern=it, Pattern=and, Pattern=that's, Pattern=the, Pattern=, and, Pattern=to
+	Constrained: Pattern=have, Pattern=a, Pattern=in, Pattern=i, Pattern=my, Pattern=it, Pattern=and, Pattern=, and, Pattern=to
+Turn ID=33| B | M : i'm , it , i'm , you , that's , i ,
+	Free: Pattern=, it, Pattern=, you, Pattern=it ,, Pattern=, i, Pattern=i ,, Pattern=, that's
+	Constrained: Pattern=it, Pattern=you, Pattern=i, Pattern=that's
 Turn ID=34| A | A : uh-huh . uh-huh .
 	Free: 
 	Constrained: 
 Turn ID=35| B | M : no .
 	Free: 
 	Constrained: 
-Turn ID=36| A | A : yeah that's right that's right .
-	Free: Pattern=that's, Pattern=yeah
-	Constrained: 
-Turn ID=37| B | M : the house is in my town and i live in the town of the same name .
-	Free: Pattern=and i, Pattern=in my, Pattern=in, Pattern=the, Pattern=of the
-	Constrained: Pattern=of, Pattern=and, Pattern=in, Pattern=i, Pattern=the, Pattern=my
+Turn ID=36| A | A : yeah , that's right , that's right .
+	Free: Pattern=yeah ,, Pattern=, that's
+	Constrained: Pattern=yeah, Pattern=that's
+Turn ID=37| B | M : the house is in my town , and i live in the town of the same name .
+	Free: Pattern=in my, Pattern=, and i, Pattern=in, Pattern=the, Pattern=of the
+	Constrained: Pattern=of, Pattern=and, Pattern=in, Pattern=i, Pattern=the, Pattern=, and, Pattern=my
 Turn ID=38| A | A : and so i kind of stay
-	Free: Pattern=of, Pattern=i, Pattern=and
+	Free: Pattern=of, Pattern=and, Pattern=i
 	Constrained: 
 Turn ID=39| B | M : yea
 	Free: 

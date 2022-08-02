@@ -1,50 +1,75 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, what we did was	11	A	12, 22
 2	5	at the end of the	11	A	66, 76
-2	4	what we did was	11	A	12, 22
+4	4	and , uh ,	53	A	14, 22, 24, 66
+2	4	, uh , that	15	A	52, 66
+12	3	, uh ,	73	A	6, 12, 14, 22, 24, 26, 34, 38, 52, 66, 72, 78
+5	3	well , i	37	A	48, 52, 60, 78, 84
+3	3	, so ,	67	A	14, 34, 80
+3	3	uh , that	47	A	20, 52, 66
+2	3	, i think	13	A	48, 60
+2	3	, we had	41	A	14, 54
+2	3	. well ,	73	A	6, 78
+2	3	uh , and	53	A	24, 76
+2	3	well , we	11	A	8, 18
 2	3	you have to	13	A	48, 60
+16	2	uh ,	75	A	4, 6, 12, 14, 20, 22, 24, 26, 34, 38, 52, 54, 66, 72, 76, 78
+9	2	well ,	79	A	6, 8, 18, 48, 52, 60, 72, 78, 84
+7	2	, i	83	A	4, 48, 52, 60, 78, 84, 86
+6	2	so ,	69	A	12, 14, 16, 34, 36, 80
+5	2	, we	47	A	8, 10, 14, 18, 54
+5	2	and ,	63	A	4, 14, 22, 24, 66
 5	2	want to	67	A	4, 14, 24, 54, 70
-5	2	well i	37	A	48, 52, 60, 78, 84
-4	2	and uh	53	A	14, 22, 24, 66
+4	2	, and	73	A	4, 14, 24, 76
+4	2	, so	67	A	14, 34, 36, 80
+4	2	, that	53	A	20, 52, 66, 72
+4	2	, you	41	A	16, 34, 48, 56
+3	2	, but	39	A	34, 52, 72
+3	2	, it	15	A	66, 76, 80
 3	2	a budget	41	A	12, 38, 52
 3	2	at the	71	A	6, 66, 76
 3	2	have to	39	A	48, 60, 86
+3	2	it ,	61	A	6, 26, 66
+3	2	oh ,	57	A	30, 68, 86
+3	2	that ,	65	A	8, 52, 72
 3	2	that it	49	A	4, 20, 52
 3	2	that we	9	A	6, 12, 14
-3	2	uh that	47	A	20, 52, 66
 3	2	uh-huh .	47	A	32, 46, 78
 3	2	we had	41	A	14, 22, 54
 3	2	what we	15	A	12, 22, 26
 3	2	yes .	23	A	40, 58, 62
-2	2	. well	73	A	6, 78
+2	2	, a	73	A	6, 78
+2	2	, our	23	A	4, 26
+2	2	, where	59	A	24, 82
 2	2	a little	71	A	6, 76
+2	2	about ,	33	A	4, 36
 2	2	and so	3	A	10, 12
 2	2	and the	31	A	4, 34
+2	2	budget ,	7	A	4, 10
 2	2	have a	39	A	38, 76
 2	2	i really	5	A	56, 60
-2	2	i think	13	A	48, 60
 2	2	it was	23	A	52, 74
 2	2	months and	11	A	14, 24
 2	2	north carolina	71	A	8, 78
 2	2	on the	19	A	6, 24
 2	2	seven months	7	A	14, 20
 2	2	tell me	31	A	6, 36
+2	2	the ,	43	A	34, 76
 2	2	to be	23	A	48, 70
 2	2	to do	35	A	14, 48
 2	2	to it	15	A	6, 20
 2	2	to talk	5	A	0, 4
 2	2	two hundred	3	A	78, 80
-2	2	uh and	53	A	24, 76
 2	2	was just	57	A	22, 78
 2	2	we put	15	A	10, 24
 2	2	we really	13	A	14, 26
 2	2	we thought	15	A	12, 26
-2	2	well we	11	A	8, 18
 2	2	where we	29	A	24, 52
+2	2	will ,	7	A	76, 82
 2	2	you a	3	A	4, 6
 2	2	you don't	5	A	66, 70
 18	1	and	83	A	4, 8, 10, 12, 14, 22, 24, 26, 34, 42, 52, 56, 66, 74, 76, 78, 80, 86
 17	1	to	87	A	0, 4, 6, 8, 14, 20, 24, 36, 48, 52, 54, 56, 60, 70, 78, 84, 86
-16	1	uh	75	A	4, 6, 12, 14, 20, 22, 24, 26, 34, 38, 52, 54, 66, 72, 76, 78
 13	1	that	73	A	4, 6, 8, 12, 14, 20, 24, 34, 52, 56, 66, 72, 76
 12	1	we	49	A	6, 8, 10, 12, 14, 18, 22, 24, 26, 36, 52, 54
 12	1	you	81	A	4, 6, 16, 34, 38, 48, 56, 60, 66, 70, 76, 84
@@ -52,7 +77,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 10	1	i	83	A	4, 6, 48, 52, 56, 60, 72, 78, 84, 86
 10	1	it	77	A	4, 6, 20, 26, 48, 52, 66, 74, 76, 80
 9	1	the	83	A	4, 6, 24, 34, 52, 66, 70, 76, 86
-9	1	well	79	A	6, 8, 18, 48, 52, 60, 72, 78, 84
 8	1	of	77	A	4, 14, 34, 50, 66, 76, 78, 80
 8	1	our	49	A	4, 10, 22, 26, 30, 34, 36, 52
 8	1	so	71	A	10, 12, 14, 16, 34, 36, 64, 80
@@ -77,7 +101,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	just	57	A	22, 30, 78
 3	1	me	47	A	6, 36, 52
 3	1	money	49	A	22, 36, 70
-3	1	oh	57	A	30, 68, 86
 3	1	that's	63	A	14, 48, 76
 3	1	two	39	A	42, 78, 80
 3	1	uh-huh	47	A	32, 46, 78

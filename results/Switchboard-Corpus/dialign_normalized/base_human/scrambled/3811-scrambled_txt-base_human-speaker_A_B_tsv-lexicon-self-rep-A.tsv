@@ -1,30 +1,45 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, i mean ,	35	A	16, 50
+2	4	, you know ,	41	A	14, 54
+2	4	the , uh ,	55	A	0, 54
+2	4	uh-huh , uh-huh .	5	A	44, 48
+4	3	, uh ,	55	A	0, 42, 46, 54
+3	3	you know ,	45	A	14, 54, 58
+2	3	, i would	35	A	16, 50
+2	3	, it was	19	A	10, 28
+2	3	, well ,	25	A	14, 38
 2	3	. right .	11	A	30, 40
-2	3	uh-huh uh-huh .	5	A	44, 48
+2	3	yeah , it	39	A	16, 54
+7	2	, i	67	A	0, 16, 24, 46, 50, 54, 66
 7	2	uh-huh .	57	A	8, 30, 36, 44, 48, 60, 64
+4	2	, it	45	A	10, 16, 28, 54
 4	2	. i	53	A	2, 4, 12, 54
 4	2	it was	45	A	10, 24, 28, 54
+4	2	oh ,	61	A	2, 10, 14, 62
 4	2	right .	35	A	6, 26, 30, 40
+4	2	well ,	39	A	12, 14, 38, 50
+4	2	yeah ,	39	A	16, 24, 38, 54
 4	2	you know	45	A	14, 32, 54, 58
 3	2	i think	25	A	0, 2, 24
 3	2	yeah .	41	A	22, 34, 62
+2	2	, is	53	A	0, 52
+2	2	, there	27	A	28, 54
 2	2	. yeah	9	A	54, 62
-2	2	and i	51	A	4, 54
+2	2	but ,	49	A	18, 66
 2	2	got to	67	A	0, 66
 2	2	i i	5	A	0, 4
-2	2	i mean	35	A	16, 50
-2	2	i would	35	A	16, 50
 2	2	it .	13	A	42, 54
+2	2	just ,	9	A	46, 54
 2	2	of the	33	A	0, 32
 2	2	of them	29	A	26, 54
 2	2	oh .	39	A	18, 56
-2	2	the uh	55	A	0, 54
+2	2	that ,	11	A	36, 46
+2	2	the ,	55	A	0, 54
 2	2	them .	51	A	4, 54
 2	2	things .	63	A	4, 66
 2	2	to be	55	A	0, 54
 2	2	to do	25	A	42, 66
 2	2	try to	43	A	4, 46
-2	2	yeah it	39	A	16, 54
 12	1	i	67	A	0, 2, 4, 12, 16, 24, 26, 32, 46, 50, 54, 66
 9	1	to	67	A	0, 4, 14, 26, 32, 42, 46, 54, 66
 8	1	it	45	A	10, 12, 16, 24, 28, 42, 52, 54
@@ -32,7 +47,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	yeah	47	A	16, 22, 24, 32, 34, 38, 54, 62
 7	1	and	55	A	0, 4, 14, 26, 28, 32, 54
 6	1	a	41	A	14, 24, 28, 36, 38, 54
-6	1	oh	61	A	2, 10, 14, 18, 56, 62
 6	1	that	47	A	0, 12, 14, 26, 36, 46
 6	1	the	55	A	0, 2, 14, 32, 46, 54
 5	1	in	29	A	24, 26, 28, 36, 52
@@ -44,8 +58,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	got	67	A	0, 50, 54, 66
 4	1	know	45	A	14, 32, 54, 58
 4	1	think	27	A	0, 2, 24, 26
-4	1	uh	55	A	0, 42, 46, 54
-4	1	well	39	A	12, 14, 38, 50
 3	1	about	49	A	2, 26, 50
 3	1	just	49	A	6, 46, 54
 3	1	not	17	A	4, 14, 20

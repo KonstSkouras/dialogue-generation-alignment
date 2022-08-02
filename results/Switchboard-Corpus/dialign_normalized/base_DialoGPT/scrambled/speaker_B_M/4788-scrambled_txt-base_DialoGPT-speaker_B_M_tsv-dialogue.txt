@@ -2,30 +2,30 @@ A|0| B: _right ._ besides _the_ fact _that_ how much interest _you_ pay _and_ th
 B|1| M: _so_ what's [the] deal with them ? 
 A|2| B: _i_ liked [the] sound _of_ [the] harpsichord . 
 B|3| M:  
-A|4| B: those [so] you're talking about ones _in_ _a_ lower lower end price range . 
+A|4| B: those , [so] you're talking about ones _in_ _a_ lower , lower end , price range . 
 B|5| M: [right .] 
 A|6| B: [right .] 
-B|7| M: [i] _know_ [right] ? 
-A|8| B: well we still have _a_ _a_ son _and_ daughter _in_ college _that_ come home . 
+B|7| M: [i] _know ,_ [right] ? 
+A|8| B: well , we still have _a_ , _a_ son _and_ daughter _in_ college _that_ come home . 
 B|9| M: i'm [a] physicist _and i_ can tell [you] [that] 
-A|10| B: [you] [know] [i] _it's_ going _just_ for [the] sake _of_ getting together [i] think for [the] family . [and] 
+A|10| B: [you] [know ,] [i] , _it's_ going _just_ for [the] sake _of_ getting together , [i] think for [the] family . [and] , 
 B|11| M: [that] . 
 A|12| B: your news _is_ on at eleven ? 
 B|13| M: [i] was [the] one who bought [the] _car_ . 
-A|14| B: [that] we we wake up to television news [and] uh uh shower [and] dress [and] whatever to [that] [and] then because _of_ [the] fact [that] my wife [and i] ride to work together uh _in_ [a] [car] we we chat at each other rather than than something else . 
-B|15| M: i'm not saying [it's] impossible i'm [just] saying it [is] . 
+A|14| B: [that] we , we wake up to television news [and] , uh , uh , shower [and] dress , [and] whatever to [that] , [and] then because _of_ [the] fact [that] my wife [and i] ride to work together , uh , _in_ [a] [car] , we , we chat at each other rather than , than something else . 
+B|15| M: i'm not saying [it's] impossible , i'm [just] saying it [is] . 
 A|16| B: [it's] [just] north _of_ me here . 
 B|17| M: what's [the] difference 
-A|18| B: oh they did ? 
+A|18| B: oh , they did ? 
 B|19| M: what's [the] difference ? 
 A|20| B: yeah . 
 B|21| M: [this] . 
 A|22| B: uh-huh . 
-B|23| M: [i] don't [know] but he's [a] cat . 
+B|23| M: [i] don't [know ,] but he's [a] cat . 
 A|24| B: yeah . 
 B|25| M: that's [the] joke . 
 A|26| B: [right .] 
-B|27| M: [it's] weird . i've never seen [a] doctor [in] [the] world [of] medicine but i've seen doctors [and] nurses . 
+B|27| M: [it's] weird . i've never seen [a] doctor [in] [the] world [of] medicine , but i've seen doctors [and] nurses . 
 
 
 TURN DETAILS:
@@ -36,12 +36,12 @@ Turn ID=1| B | M : so what's the deal with them ?
 	Free: Pattern=so, Pattern=the
 	Constrained: 
 Turn ID=2| A | B : i liked the sound of the harpsichord .
-	Free: Pattern=of, Pattern=the, Pattern=i
+	Free: Pattern=i, Pattern=the, Pattern=of
 	Constrained: 
 Turn ID=3| B | M : 
 	Free: 
 	Constrained: 
-Turn ID=4| A | B : those so you're talking about ones in a lower lower end price range .
+Turn ID=4| A | B : those , so you're talking about ones in a lower , lower end , price range .
 	Free: Pattern=so, Pattern=in, Pattern=a
 	Constrained: 
 Turn ID=5| B | M : right .
@@ -50,17 +50,17 @@ Turn ID=5| B | M : right .
 Turn ID=6| A | B : right .
 	Free: Pattern=right .
 	Constrained: Pattern=right
-Turn ID=7| B | M : i know right ?
-	Free: Pattern=know, Pattern=right, Pattern=i
+Turn ID=7| B | M : i know , right ?
+	Free: Pattern=know ,, Pattern=i, Pattern=right
 	Constrained: 
-Turn ID=8| A | B : well we still have a a son and daughter in college that come home .
+Turn ID=8| A | B : well , we still have a , a son and daughter in college that come home .
 	Free: Pattern=and, Pattern=that, Pattern=in, Pattern=a
 	Constrained: 
 Turn ID=9| B | M : i'm a physicist and i can tell you that
 	Free: Pattern=and i, Pattern=that, Pattern=a, Pattern=you
 	Constrained: Pattern=and, Pattern=i
-Turn ID=10| A | B : you know i it's going just for the sake of getting together i think for the family . and
-	Free: Pattern=of, Pattern=you, Pattern=just, Pattern=and, Pattern=know, Pattern=i, Pattern=the, Pattern=it's
+Turn ID=10| A | B : you know , i , it's going just for the sake of getting together , i think for the family . and ,
+	Free: Pattern=you, Pattern=just, Pattern=and, Pattern=i, Pattern=the, Pattern=it's, Pattern=of, Pattern=know ,
 	Constrained: 
 Turn ID=11| B | M : that .
 	Free: Pattern=that
@@ -69,21 +69,21 @@ Turn ID=12| A | B : your news is on at eleven ?
 	Free: Pattern=is
 	Constrained: 
 Turn ID=13| B | M : i was the one who bought the car .
-	Free: Pattern=car, Pattern=the, Pattern=i
+	Free: Pattern=car, Pattern=i, Pattern=the
 	Constrained: 
-Turn ID=14| A | B : that we we wake up to television news and uh uh shower and dress and whatever to that and then because of the fact that my wife and i ride to work together uh in a car we we chat at each other rather than than something else .
+Turn ID=14| A | B : that we , we wake up to television news and , uh , uh , shower and dress , and whatever to that , and then because of the fact that my wife and i ride to work together , uh , in a car , we , we chat at each other rather than , than something else .
 	Free: Pattern=and i, Pattern=of, Pattern=a, Pattern=and, Pattern=in, Pattern=the, Pattern=car, Pattern=that
 	Constrained: Pattern=and, Pattern=i
-Turn ID=15| B | M : i'm not saying it's impossible i'm just saying it is .
+Turn ID=15| B | M : i'm not saying it's impossible , i'm just saying it is .
 	Free: Pattern=it's, Pattern=is, Pattern=just
 	Constrained: 
 Turn ID=16| A | B : it's just north of me here .
-	Free: Pattern=of, Pattern=it's, Pattern=just
+	Free: Pattern=it's, Pattern=of, Pattern=just
 	Constrained: 
 Turn ID=17| B | M : what's the difference
 	Free: Pattern=the
 	Constrained: 
-Turn ID=18| A | B : oh they did ?
+Turn ID=18| A | B : oh , they did ?
 	Free: 
 	Constrained: 
 Turn ID=19| B | M : what's the difference ?
@@ -98,8 +98,8 @@ Turn ID=21| B | M : this .
 Turn ID=22| A | B : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=23| B | M : i don't know but he's a cat .
-	Free: Pattern=know, Pattern=i, Pattern=a
+Turn ID=23| B | M : i don't know , but he's a cat .
+	Free: Pattern=know ,, Pattern=i, Pattern=a
 	Constrained: 
 Turn ID=24| A | B : yeah .
 	Free: 
@@ -110,6 +110,6 @@ Turn ID=25| B | M : that's the joke .
 Turn ID=26| A | B : right .
 	Free: Pattern=right .
 	Constrained: Pattern=right
-Turn ID=27| B | M : it's weird . i've never seen a doctor in the world of medicine but i've seen doctors and nurses .
+Turn ID=27| B | M : it's weird . i've never seen a doctor in the world of medicine , but i've seen doctors and nurses .
 	Free: Pattern=of, Pattern=a, Pattern=and, Pattern=in, Pattern=the, Pattern=it's
 	Constrained: 

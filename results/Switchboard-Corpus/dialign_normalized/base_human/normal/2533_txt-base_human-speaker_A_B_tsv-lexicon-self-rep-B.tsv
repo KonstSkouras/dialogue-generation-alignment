@@ -1,24 +1,56 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+4	4	, you know ,	91	B	41, 69, 71, 131
+3	4	and , um ,	71	B	3, 67, 73
+2	4	, i don't know	109	B	7, 115
+2	4	new york yankees ,	7	B	35, 41
 2	4	you sit there and	3	B	73, 75
+6	3	, um ,	89	B	3, 61, 67, 73, 87, 91
+3	3	, uh ,	91	B	15, 17, 105
 3	3	you sit there	5	B	71, 73, 75
+2	3	, it was	47	B	25, 71
+2	3	, well ,	47	B	75, 121
+2	3	. but ,	31	B	91, 121
 2	3	and stuff .	43	B	17, 59
 2	3	because my brother	33	B	29, 61
-2	3	i don't know	109	B	7, 115
-2	3	new york yankees	7	B	35, 41
+2	3	um , he	15	B	61, 75
 2	3	which is the	43	B	33, 75
+2	3	yeah , and	61	B	15, 75
 14	2	uh-huh .	117	B	13, 45, 47, 51, 101, 103, 105, 109, 111, 113, 117, 125, 127, 129
-4	2	you know	91	B	41, 69, 71, 131
+8	2	, and	77	B	3, 15, 17, 29, 71, 73, 75, 79
+8	2	um ,	89	B	3, 61, 67, 71, 73, 75, 87, 91
+8	2	yeah ,	115	B	7, 15, 33, 75, 79, 85, 87, 121
+5	2	, but	115	B	7, 39, 67, 71, 121
+5	2	know ,	125	B	7, 41, 69, 71, 131
+5	2	that ,	127	B	5, 19, 77, 121, 131
+5	2	well ,	121	B	1, 27, 39, 75, 121
+4	2	, i	125	B	7, 27, 115, 131
+4	2	, you	91	B	41, 69, 71, 131
+4	2	it ,	51	B	39, 63, 75, 89
+4	2	oh ,	85	B	11, 67, 81, 95
+3	2	, he	19	B	61, 75, 79
+3	2	, he's	71	B	9, 63, 79
+3	2	, it	65	B	25, 71, 89
+3	2	, my	81	B	15, 61, 95
+3	2	, the	77	B	19, 31, 95
 3	2	and stuff	55	B	17, 59, 71
-3	2	and um	71	B	3, 67, 73
 3	2	at the	83	B	7, 65, 89
+3	2	but ,	89	B	33, 91, 121
 3	2	i don't	109	B	7, 35, 115
 3	2	i know	39	B	23, 43, 61
 3	2	it .	57	B	7, 15, 63
 3	2	it was	47	B	25, 33, 71
 3	2	new york	9	B	33, 35, 41
 3	2	tell you	25	B	5, 27, 29
+3	2	yankees ,	9	B	33, 35, 41
 3	2	yeah .	83	B	37, 55, 119
-2	2	. but	31	B	91, 121
+2	2	, i'm	67	B	1, 67
+2	2	, not	35	B	33, 67
+2	2	, that	95	B	27, 121
+2	2	, that's	25	B	63, 87
+2	2	, then	29	B	39, 67
+2	2	, we	5	B	87, 91
+2	2	, we're	89	B	17, 105
+2	2	, when	47	B	15, 61
 2	2	. i	3	B	61, 63
 2	2	a baseball	55	B	69, 123
 2	2	a game	3	B	61, 63
@@ -33,6 +65,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	and then	41	B	33, 73
 2	2	and you	3	B	71, 73
 2	2	baseball .	39	B	5, 43
+2	2	because ,	15	B	69, 83
 2	2	but you	3	B	71, 73
 2	2	do that	123	B	9, 131
 2	2	go to	33	B	29, 61
@@ -41,6 +74,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i think	15	B	27, 41
 2	2	if you	95	B	5, 99
 2	2	last year	9	B	61, 69
+2	2	lot ,	35	B	33, 67
 2	2	my brother	33	B	29, 61
 2	2	my brother's	3	B	67, 69
 2	2	my husband's	53	B	15, 67
@@ -48,22 +82,23 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	of them	3	B	97, 99
 2	2	paris .	13	B	79, 91
 2	2	sort of	5	B	75, 79
+2	2	stuff ,	11	B	61, 71
 2	2	supposed to	21	B	9, 29
 2	2	that .	3	B	9, 11
 2	2	that far	73	B	7, 79
+2	2	the ,	13	B	75, 87
 2	2	the mets	5	B	27, 31
 2	2	the other	41	B	33, 73
+2	2	time ,	67	B	7, 73
 2	2	to a	7	B	61, 67
 2	2	to get	71	B	17, 87
 2	2	to go	39	B	29, 67
 2	2	to see	45	B	25, 69
 2	2	to the	59	B	29, 87
-2	2	um he	15	B	61, 75
 2	2	up in	75	B	1, 75
 2	2	wait for	3	B	73, 75
 2	2	where he	3	B	17, 19
 2	2	wow .	51	B	57, 107
-2	2	yeah and	61	B	15, 75
 18	1	and	87	B	3, 15, 17, 23, 29, 33, 59, 61, 63, 65, 67, 69, 71, 73, 75, 79, 87, 89
 17	1	i	131	B	1, 5, 7, 11, 15, 23, 27, 29, 35, 41, 43, 61, 63, 69, 91, 115, 131
 17	1	the	105	B	1, 7, 15, 19, 27, 29, 31, 33, 41, 65, 71, 73, 75, 87, 89, 95, 105
@@ -72,13 +107,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 13	1	a	123	B	1, 17, 23, 25, 33, 61, 63, 67, 69, 71, 73, 121, 123
 13	1	that	127	B	5, 7, 9, 11, 17, 19, 27, 61, 67, 77, 79, 121, 131
 11	1	know	125	B	7, 11, 23, 35, 41, 43, 61, 69, 71, 115, 131
-11	1	yeah	115	B	7, 15, 33, 37, 55, 75, 79, 85, 87, 119, 121
 11	1	you	127	B	5, 19, 27, 29, 41, 69, 71, 73, 75, 99, 131
 10	1	of	83	B	17, 19, 61, 67, 73, 75, 79, 87, 97, 99
 9	1	is	83	B	33, 43, 61, 63, 69, 75, 81, 91, 115
 9	1	it	83	B	7, 15, 25, 33, 39, 63, 71, 75, 89
 8	1	he	63	B	17, 19, 21, 61, 67, 71, 75, 79
-8	1	um	89	B	3, 61, 67, 71, 73, 75, 87, 91
 8	1	was	75	B	5, 19, 25, 29, 33, 69, 71, 79
 7	1	because	83	B	1, 29, 59, 61, 69, 71, 83
 7	1	my	81	B	15, 29, 33, 61, 67, 69, 95
@@ -92,16 +125,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	there	19	B	63, 71, 73, 75, 81
 5	1	they	89	B	17, 31, 39, 43, 105
 5	1	we	31	B	61, 69, 71, 87, 91
-5	1	well	121	B	1, 27, 39, 75, 121
 4	1	do	125	B	7, 9, 105, 131
 4	1	for	75	B	1, 19, 73, 75
 4	1	game	41	B	29, 61, 63, 69
 4	1	he's	71	B	9, 63, 65, 79
 4	1	it's	115	B	7, 17, 41, 121
-4	1	oh	85	B	11, 67, 81, 95
 4	1	still	87	B	35, 41, 81, 121
-4	1	stuff	55	B	17, 59, 61, 71
-4	1	then	41	B	33, 39, 67, 73
 3	1	all	13	B	61, 63, 73
 3	1	can	105	B	27, 39, 131
 3	1	go	39	B	29, 61, 67
@@ -114,12 +143,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	right	81	B	9, 49, 89
 3	1	that's	85	B	3, 63, 87
 3	1	them	61	B	39, 97, 99
-3	1	uh	91	B	15, 17, 105
 3	1	went	53	B	17, 61, 69
 3	1	when	61	B	15, 61, 75
 3	1	where	75	B	17, 19, 91
 3	1	with	123	B	1, 53, 123
-3	1	yankees	9	B	33, 35, 41
 2	1	any	9	B	97, 105
 2	1	as	51	B	71, 121
 2	1	asked	15	B	5, 19
@@ -132,7 +159,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	happen	3	B	73, 75
 2	1	how	63	B	43, 105
 2	1	kids	19	B	105, 123
-2	1	lot	35	B	33, 67
 2	1	or	31	B	5, 35
 2	1	out	13	B	75, 87
 2	1	she	11	B	81, 91
@@ -146,7 +172,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	two	73	B	27, 99
 2	1	up	75	B	1, 75
 2	1	watching	49	B	15, 63
-2	1	we're	89	B	17, 105
 2	1	were	55	B	43, 97
 2	1	what	47	B	69, 115
 2	1	who	11	B	19, 29

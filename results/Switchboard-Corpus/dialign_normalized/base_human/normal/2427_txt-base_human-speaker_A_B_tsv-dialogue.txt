@@ -1,599 +1,599 @@
 A|0| A: _what_ type _of_ _lawn_ _and_ _garden_ _work_ _do you_ _do_ ? 
-B|1| B: _well _i_ _do_ _it_ all_ 
+B|1| B: _well _, i_ _do_ _it_ all_ 
 A|2| A: _i see _._ _do you have_ a_ _garden ?_ 
-B|3| B: _uh_ _yes_ _. i i_ _try_ _to_ grow _uh_ _uh a_ vegetable [garden] [and] 
-A|4| A: _we do_ _the_ same thing . _it's_ _i just_ _have a_ _small_ plot _it's_ _like_ _ten_ feet _by_ _five_ feet . 
-B|5| B: _yeah _._ _i_ have_ _two_ plots one's [ten] [by] [ten] [and] one's [like] fifteen [by] _four_ . 
+B|3| B: _uh ,_ _yes_ _. i , i_ _try_ _to_ grow _, uh _,_ uh , a_ vegetable [garden] _and ,_ 
+A|4| A: _we do_ _the_ same thing . _it's [,_ i] _just_ _have a_ _small_ plot _it's_ _like_ _ten_ feet _by_ _five_ feet . 
+B|5| B: _yeah _._ _i_ have_ _two_ plots , one's [ten] [by] [ten] [and] one's [like] fifteen [by] _four_ . 
 A|6| A: _i see ._ 
-B|7| B: [it's] [a] _long_ skinny _one_ [and] 
-A|8| A: _yeah you_ [do] _a lot_ _more_ area than [i _do] ._ _i've_ [all] _the_ rest _of_ _my_ _yard_ _backyard is _uh_ you know_ pool [and] decking [it's] [all] _the_ dirt [i have] _left_ _in_ _my backyard_ 
-B|9| B: _oh i see _._ yeah _._ i see ._ 
-A|10| A: [well [i] _i] enjoy_ fiddling _around_ . [it's] cheap entertainment . 
-B|11| B: _right _._ _right ._ yeah_ [it's] _nice_ _to get out_ _in the_ open air . 
-A|12| A: [it] _is_ _uh-huh ._ 
-B|13| B: [and] _especially_ _when_ [the] weather's _not_ _too_ _hot_ _or_ _not_ raining _or_ whatever 
+B|7| B: [it's] [a] _long_ skinny _one_ _and ,_ 
+A|8| A: _yeah , you_ [do] _a lot_ _more_ area than [i _do] ._ _i've ,_ [all] _the_ rest _of_ _my_ _yard_ , _backyard is _, uh ,_ you know ,_ pool [and] decking [it's] [all] _the_ dirt [i _have] ,_ _left_ _in_ _my backyard_ 
+B|9| B: _oh , i see _._ yeah _._ i see ._ 
+A|10| A: [well , _i] _i_ enjoy_ fiddling _around_ . [it's] cheap entertainment . 
+B|11| B: _right _._ _right _._ yeah_ _,_ it's_ _nice_ _to get out_ _in the_ open air . 
+A|12| A: [it] _is ,_ _uh-huh ._ 
+B|13| B: [and] _especially_ _when_ [the] weather's _not_ _too_ _hot_ _or_ _, not_ raining _or_ whatever , 
 A|14| A: _that's_ _right . yeah ._ 
-B|15| B: _but_ [uh] sometimes [i i] said [i] sometimes [i] wish _i had_ [more] _space_ _you know ._ 
-A|16| A: _i enjoy_ excuse _me_ _go_ ahead _. uh-huh ._ 
-B|17| B: [i] grow _a lot of_ _things_ _a lot of_ food . 
+B|15| B: _but_ [, uh ,] sometimes _i , i_ said [, i] sometimes [i] wish _i had_ [more] _space_ _you know ._ 
+A|16| A: _i enjoy_ , excuse _me ,_ _go_ ahead _. uh-huh ._ 
+B|17| B: [i] grow _a lot of_ _things _,_ a lot of_ food . 
 A|18| A: _uh-huh ._ 
-B|19| B: [and] sometimes [i i] _want _to_ plant_ _something_ there's _not_ _enough_ _room_ _to plant_ . _some_ [of] _those_ _things like_ [uh _you know] the_ _things_ _that_ vine [like] [uh] cucumbers _or_ [uh] squash _or something_ _like that ._ _plant_ _one of_ _those_ 
+B|19| B: [and] sometimes _i , i_ _want _to_ plant_ _something ,_ there's _not_ _enough_ _room_ _to plant_ . _some_ [of] _those_ _things like_ [, uh _, you know ,] the_ _things_ _that_ vine [like] [, uh ,] cucumbers , _or_ [, uh ,] squash _or _something_ _,_ _like_ that ._ _plant_ _one of_ _those_ 
 A|20| A: _that's_ [right _.] that's_ [right _.] _uh-huh ._ uh-huh ._ _takes_ [a lot of] [room] . 
 B|21| B: [and] _it _takes_ up_ _your_ _whole_ _space_ 
-A|22| A: [it] _sure_ does [. i] _made_ mistake _one year_ [and] _planted_ [some] cantaloupe _my_ goodness _what_ [a] mistake [that] _was_ . 
-B|23| B: _yeah . yeah _._ they_ _they_ [just] run [all] over [the] place _don't_ _they_ 
-A|24| A: _they do ._ [well] _it was_ very _good_ _it just_ [takes _up] you know_ _like you_ _say_ [a lot of] _your garden_ area . 
+A|22| A: [it] _sure_ does [. i] _made_ mistake _one year_ [and] _planted_ [some] cantaloupe _, my_ goodness _, what_ [a] mistake [that] _was_ . 
+B|23| B: _yeah . yeah _._ _they_ ,_ _they_ [just] run [all] over _, the_ place _, don't_ _they ,_ 
+A|24| A: _they do ._ [well _,] _it_ was_ very _good_ _it just_ [takes _up] [, you know_ [,] _like] you_ _say_ [, a lot of] _your garden_ area . 
 B|25| B: [right _.] right ._ 
-A|26| A: [it's] _the first_ [and] _only_ _time_ _i've_ done [that _.] we_ [don't] [do] _anything_ exotic _we_ _just do_ [oh] _tomatoes_ bell _peppers_ _radishes and_ turnips _i mean_ [not] turnips carrots _beets_ _and things like that ._ 
+A|26| A: [it's] _the first_ [and] _only_ _time_ _i've_ done [that _.] we_ [don't] [do] _anything_ exotic _we_ _just _do_ ,_ [oh ,] _tomatoes_ , bell _peppers ,_ _radishes and_ turnips [, _i] mean [,_ not] turnips , carrots _, beets_ _and things like that ._ 
 B|27| B: [the] basics _. [right _._ yeah .] that's_ [what] [we do] _too ._ 
-A|28| A: _my wife_ used [to plant] _a few_ snow _peas_ [. _i] don't_ _really_ care _for_ snow _peas_ . [well] _she_ [just] plants _a few_ _for_ herself . 
+A|28| A: _my wife_ used [to plant] _a few_ snow _peas_ [. _i] don't_ _really_ care _for_ snow _peas_ . [well ,] _she_ [just] plants _a few_ _for_ herself . 
 B|29| B: [right .] [peas] 
 A|30| A: [yeah .] 
-B|31| B: [i _i] _got_ a few_ [peas] _out_ _my garden_ [a] _couple of_ days ago . 
+B|31| B: _i , _i_ _got_ a few_ [peas] _out_ _my garden_ [a] _couple of_ days ago . 
 A|32| A: did [you] _really_ ? 
-B|33| B: [the first] [one] [they] started _them_ _indoors_ _this_ [time] [. i] read [it] 
-A|34| A: [oh i see .] 
-B|35| B: [and] _so i_ 
-A|36| A: _okay_ _. we_ [don't] _start_ _anything_ [indoors] [we] [just] _wait_ _until_ [you know the] weather warm [enough] [to] stick _it in the_ ground . 
-B|37| B: [yeah [.] i] [uh] _i guess_ _you can get_ an earlier harvest [by] _doing that_ 
-A|38| A: probably [so] [. _yeah] [you can_ get] [a] head _start_ _on_ _it ._ [like] ice [in] 
-B|39| B: _but_ [uh] [sure] [is] [a] heck _of [a_ lot of] [work] . 
-A|40| A: _i guess it_ [it] might _would_ 
-B|41| B: because _you got to_ watch _them_ every _day_ [and] keep _them_ watered 
+B|33| B: [the first] [one] , [they] started _them_ _indoors_ _this_ [time] [. i] read _it ,_ 
+A|34| A: [oh , i see .] 
+B|35| B: [and] _so _i_ ,_ 
+A|36| A: _okay_ _. we_ [don't] _start_ _anything_ [indoors] _we _,_ just_ _wait_ _until [,_ you know , the] weather warm [enough] [to] stick _it in the_ ground . 
+B|37| B: [yeah _.] i [,_ uh [,] _i] guess_ _you can get_ an earlier harvest [by] _doing that_ , 
+A|38| A: probably [so] [. _yeah _,] you can_ get_ [a] head _start_ _on_ _it ._ [like] ice [in] 
+B|39| B: _but_ [, uh _,] sure_ [is] [a] heck _of [a_ lot of] [work] . 
+A|40| A: _i guess [it_ _,] [it_ ,] might _would ,_ 
+B|41| B: because _you got _to_ ,_ watch _them_ every _day_ _, and_ keep _them_ watered 
 A|42| A: [yeah _.] uh-huh ._ 
-B|43| B: _and _i_ i don't_ _think_ _i'll_ _do _it_ again_ 
-A|44| A: [well] [it] will make [it] will make [them] taste _better_ _i'm_ [sure] . 
-B|45| B: _oh _yeah ._ yeah_ [i enjoy] [it [.] i] come _home_ from [work] _and _and_ i_ usually [say] hello [to] [wife] [and] kids [and] _then_ [go] _out_ [and] fiddle [you know] [just] walk [around] [the] [yard] [and] _inspect it_ 
-A|46| A: [sure] . [you got to] [inspect it] [yeah .] 
-B|47| B: [and] [the] kids _want to_ swing 
+B|43| B: _and _i_ , i don't_ _think_ _i'll_ _do _it_ again_ 
+A|44| A: [well] [it] will make _, it_ will make [them] taste _better_ _i'm_ [sure] . 
+B|45| B: _oh , _yeah [._ yeah_ [,] [i] enjoy] [it [.] i] come _home_ from [work] _and _, and_ i_ usually [say] hello [to] [wife] [and] kids _, and_ _then_ [go] _out_ [and] fiddle [, you know [,] just] walk [around] [the] [yard] [and] _inspect it_ 
+A|46| A: [sure] . [you got to] [inspect [it] [,] yeah .] 
+B|47| B: [and] [the] kids _want to_ swing , 
 A|48| A: [sure] . 
 B|49| B: _and i_ push [them] [on] swing . 
 A|50| A: [sure] . 
 B|51| B: _and [i_ i] mow _my own_ [lawn] . 
 A|52| A: [yeah .] 
-B|53| B: _and [i_ do] [i don't] [have _a] sprinkler system_ _. i i _don't_ enjoy_ watering . 
+B|53| B: _and [i_ [do] _,] i don't_ [have _a] sprinkler system_ _. i , i _don't_ enjoy_ watering . 
 A|54| A: _no_ . 
-B|55| B: _especially_ 
-A|56| A: [i] [this] [is] [the first] [home] _we've_ lived [in] _we've_ _had [a_ sprinkler system] 
-B|57| B: [oh] how 
-A|58| A: [and] boy [it] [is] _really_ [nice] 
+B|55| B: _especially_ , 
+A|56| A: [i ,] [this] [is] [the first] [home] _we've_ lived [in] _we've_ _had [a_ sprinkler system] , 
+B|57| B: [oh] how , 
+A|58| A: [and] boy _, it_ [is] _really_ [nice] , 
 B|59| B: [oh] . 
 A|60| A: [it] [sure] beats dragging hoses [around] . 
-B|61| B: [yeah you can] [have] [it] come [on] [just] early [in the] _morning_ _. _and_ and_ off [by] [the] [you know] [by] _the time_ you're _up and_ _about_ . 
+B|61| B: [yeah , you can] [have] [it] come [on] [just] early [in the] _morning_ _. _and_ , and_ off [by] [the] [, you know ,] [by] _the time_ you're _up and_ _about_ . 
 A|62| A: [that's] [right [.] that's] [right .] [it's] _really_ _nice ._ 
-B|63| B: [yeah _.] i i_ usually _get it_ started _for [my_ wife] 
+B|63| B: [yeah _.] i , i_ usually _get it_ started _for [my_ wife] 
 A|64| A: _uh-huh ._ 
-B|65| B: _and i_ [and] [she] moves [it] [around] ever _other_ _day_ . 
-A|66| A: [i'll] _have to_ admit [i don't] [i do] [my own] [yard] [. i _i] really [don't_ enjoy] [doing [that] [.] [i] enjoy] _having_ [a] [nice] looking [yard] 
+B|65| B: _and [i_ _,] and_ [she] moves [it] [around] ever _other_ _day_ . 
+A|66| A: [i'll] _have to_ admit [i don't] [, i do] [my own] [yard] [. i , _i] really [don't_ enjoy] [doing [that] [.] [i] enjoy] _having_ [a] [nice] looking [yard] , 
 B|67| B: [uh-huh .] 
-A|68| A: _i just_ [don't enjoy] [the] [work] [that] [it takes] [to [get] it] done . 
+A|68| A: [i] [just] [don't enjoy] [the] [work] _, that_ [it takes] [to [get] it] done . 
 B|69| B: _uh-huh . yeah ._ 
-A|70| A: _i had a_ [lawn] service _to do_ [my] [yard] [for] _me_ during [the] _real_ [hot] summer months [you know] _until_ [i] retired 
+A|70| A: _i had a_ [lawn] service _to do_ [my] [yard] [for] _me_ during [the] _real_ [hot] summer months [, you know _,] until_ [i] retired 
 B|71| B: [uh-huh .] 
-A|72| A: [and] _now_ [i] _i've_ lost [my] excuse [for] [that] [so [i] _have] to_ _for the_ last [couple of] _years_ _i've_ done [it] myself . 
-B|73| B: [yeah .] sometimes [i] wish [i] could [get] _one of_ these [uh] chemical services [to] come _out_ [and] spray [for] weeds [and] fertilize [and] [all] [that] [and] _take_ [that] [one] step _out_ [of] . 
+A|72| A: [and] _now_ [i ,] _i've_ lost [my] excuse [for] [that] [so [i] _have] to_ _for the_ last [couple of] _years_ _i've_ done [it] myself . 
+B|73| B: [yeah .] sometimes [i] wish [i] could [get] _one of_ these [, uh ,] chemical services [to] come , _out_ [and] spray [for] weeds _, and_ fertilize _, and_ [all] [that] [and] _take_ [that] [one] step _out_ [of] . 
 A|74| A: [uh-huh . yeah _.] _uh-huh ._ uh-huh ._ 
-B|75| B: _but_ [uh] [they] _want_ _too much_ _money_ . 
-A|76| A: [it] [is] _kind of_ _expensive_ [it] [is] . 
+B|75| B: _but_ [, uh ,] [they] _want_ _too much_ _money_ . 
+A|76| A: [it] [is] _kind of_ _expensive_ _, it_ [is] . 
 B|77| B: [yeah .] 
-A|78| A: [of] course [the] chemicals themselves _when you_ buy [them] _they're_ _expensive_ [too .] 
+A|78| A: [of] course [, the] chemicals themselves _when you_ buy _them _,_ they're_ _expensive_ [too .] 
 B|79| B: [right _.] right ._ _but_ [it's] still _be_ quite [a] _bit_ cheaper _to do it_ yourself . 
-A|80| A: [that's] [right .] _if _i_ have a_ _problem_ discipline _you know _i_ think_ _now_ boy _i really_ need [to get out] [you know] [and] apply [something] [you know] [and i] screw [around] [and] [don't] [do it] [or] _wait_ [too] [long] [or something] . 
-B|81| B: [right] [and] [the] weed come [up] 
+A|80| A: [that's] [right .] _if _i_ have a_ _problem_ discipline _, you know _, i_ think ,_ _now ,_ boy [, _i] really_ need [to get out] [, you know [,] and] apply [something [,] you know [,] and i] screw [around] [and] [don't] [do it] [or] _wait_ [too] [long] [or something] . 
+B|81| B: [right] [and] [the] weed come [up ,] 
 A|82| A: [that's] [right .] 
 B|83| B: [and] [all] _of a_ sudden you've [got [to] _do] something_ else . 
-A|84| A: [that's] [right .] _i'm_ _i'm_ _kind of_ bad [about] [that .] 
+A|84| A: [that's] [right .] _i'm_ , _i'm_ _kind of_ bad [about] [that .] 
 B|85| B: [yeah .] 
-A|86| A: [i] enjoyed _having_ [a] [lawn] service [but] _now_ [i have] [the time] [and _i] really_ _can't_ _i really_ [you know] [don't] [want to] spend [the] [money] _for [it_ .] 
-B|87| B: [well] _if you_ [enjoy] [it] [too] [you know] _you [you_ can [get] out] [in the] _morning_ [when] _before_ [it] gets [hot] _and and_ [do it] [and] stuff [when you] [only] [have to] 
-A|88| A: [yeah . that's] [right .] _i'm_ [not] limited [to] [just] mowing _it on_ saturday [morning] [you know] 
+A|86| A: [i] enjoyed _having_ [a] [lawn] service [but] _now_ [i have] [the time] [and _i] really_ _can't [,_ _i] really_ [you know [,] don't] , [want to] spend [the] [money] _for [it_ .] 
+B|87| B: [well ,] _if _you_ ,_ [enjoy] [it] _too [,_ you know _,] you [, you_ can [get] out] [in the] _morning_ [when] _, before_ [it] gets [hot] _and , and_ [do it] [and] stuff , [when you] [only] [have _to] ,_ 
+A|88| A: [yeah . that's] [right .] _i'm_ [not] limited [to [,] just] mowing _it on_ saturday [morning] [, you know ,] 
 B|89| B: [right .] 
 A|90| A: _i can_ [do _it] on_ most _any_ [day] _of the_ week . 
-B|91| B: [when] [the] days [start] getting _a little_ longer [you know] [you can] [i can] [start] [doing] [it in the] evening after [work] . 
+B|91| B: [when] [the] days [start] getting _a little_ longer [, you know [,] you _can] [,_ [i] can] [start] [doing] [it in the] evening after [work] . 
 A|92| A: [uh-huh [.] that's] [right .] 
-B|93| B: [when] [they] [when] [they] switch [to] switch 
+B|93| B: [when] _they ,_ [when] [they] switch [to ,] switch , 
 A|94| A: [yeah .] 
-B|95| B: _when we_ [get] an hour [more] 
+B|95| B: _when we_ [get] an hour [more] , 
 A|96| A: [yeah .] 
 B|97| B: [when] [they] rollback an hour . 
 A|98| A: [that's] _coming up here_ pretty _soon ._ [is] [it] [this] weekend ? 
 B|99| B: _i _don't know_ ._ 
 A|100| A: [it's] pretty _soon ._ 
-B|101| B: _i really don't know _._ [it_ just] seems _like i_ [here] [it _on] the_ news [the] [day] _before_ . 
+B|101| B: [i really _don't] know _._ [it_ just] seems _like i_ [here] [it _on] the_ news [the] [day] _before_ . 
 A|102| A: [yeah .] 
-B|103| B: _and uh_ [i [i] think] [it's] [coming up here] [soon .] 
+B|103| B: _and , uh _,_ i [, i_ think] [it's] [coming up here] [soon .] 
 A|104| A: [i] believe [it] [is] [too .] 
 B|105| B: _yeah . yeah ._ 
-A|106| A: [well] 
-B|107| B: _are_ [you] [having] [any] trouble _with_ _bugs_ [in] [in] [your [garden] ?] 
-A|108| A: [uh] [not] [a] [whole] [lot] [uh] [. i i don't] use [i i] seldom use _anything_ harsher than seven dust [you know .] 
+A|106| A: [well ,] 
+B|107| B: _are_ [you] [having] [any] trouble _with_ _bugs_ [in] , [in] [your [garden] ?] 
+A|108| A: [uh [,] not] [a] [whole] [lot] [, uh] [. i , i don't] use [, i , i] seldom use _anything_ harsher than seven dust [, [you know] .] 
 B|109| B: [uh-huh .] 
-A|110| A: [i don't] [really] _like to_ _put_ [a lot] chemicals [on] [it] [but] [then] [again] [i don't] [want] [the] [bugs] eating [it] upping either . 
-B|111| B: [right _.] right [._ i i] [it] seems [like] [they] come [in] spurts . 
+A|110| A: [i don't] [really] _like to_ _put_ [a lot] chemicals [on] [it] [but] _then ,_ [again] [, i don't] [want] [the] [bugs] eating [it] upping either . 
+B|111| B: [right _.] right [._ i [, i] [,] it] seems [like] [they] come [in] spurts . 
 A|112| A: [uh-huh .] 
 B|113| B: [one year] [i] _didn't_ [put] [anything] [on] [and i] _didn't have_ [any] problems . 
 A|114| A: [uh-huh .] 
-B|115| B: next [year] _i was_ planting [some] broccoli _and and_ [some] [of] _those_ [they're] called cabbage cabbage loppers [or] whatever . 
+B|115| B: next [year] _i was_ planting [some] broccoli _and , and_ [some] [of] _those_ [, they're] called cabbage , cabbage loppers , [or] whatever . 
 A|116| A: [uh-huh [.] right _.] uh-huh ._ 
-B|117| B: _they were_ [just] covered _with_ [them] 
+B|117| B: _they were_ [just] covered _with_ [them ,] 
 A|118| A: [yeah .] 
-B|119| B: [i mean] [i] went [up] [i] _didn't_ [go] _out there_ [for] [about] three days [you know] because [i] [and i] went _out there_ [one] [day] [and] [the] [plant] [was] nothing [left] [but] [a] stem 
+B|119| B: [i mean [,] i] went [up [,] i] _didn't_ [go] _out there_ [for] [about] three days [, you know ,] because [i [,] and i] went _out there_ [one] [day] [and] [the] [plant] [was] nothing [left] [but] [a] stem , 
 A|120| A: [uh-huh [.] that's] [right .] 
 B|121| B: [they] devoured _it that_ quickly . 
-A|122| A: absolutely [. they] [really] [go] through [it] 
-B|123| B: [and] [they] _they [have_ a] [you] [a] [good] appetite 
+A|122| A: absolutely [. they] [really] [go] through [it ,] 
+B|123| B: _and ,_ _they ,_ _they ,_ [have _a] _,_ you [,_ a] [good] appetite 
 A|124| A: [they] [really] _do [._ yeah .] 
-B|125| B: [and] [they] [would] [you know [i] i] picked off [like] twenty _of _them_ and_ 
+B|125| B: [and] [they] [would [,] you know [, i] , i] picked off [like] twenty _of _them_ _and_ ,_ 
 A|126| A: [you know] cutworms will [do] [the] same thing [to] [your] tomato vines [too .] 
 B|127| B: [yeah .] 
-A|128| A: boy they'll strip 
-B|129| B: [they] [got] [that] [uh] [what] [is] [that] safer soap [uh] b t spray _this year ._ 
+A|128| A: boy , they'll strip , 
+B|129| B: [they] [got] [that] [, uh [,] what] [is] [that] safer soap [, uh ,] b t spray _this ,_ _year ._ 
 A|130| A: [uh-huh . yeah _.] uh-huh ._ 
-B|131| B: _and i've_ been watching [them] every [day] _and i've_ [and _i] haven't_ _seen_ [any] signs yet . [so] [if [i] see] [any] signs [i'm] _going to_ spray [them] 
+B|131| B: _and i've_ been watching [them] every [day] _and [i've_ [,] and _i] haven't_ _seen_ [any] signs yet . [so] , [if [i] see] [any] signs [i'm] _going to_ spray [them ,] 
 A|132| A: [yeah .] 
-B|133| B: _and uh_ 
-A|134| A: [i] did [something] [a little] [bit] different [this _year] that i haven't_ done [before] _i've got_ [my garden] [is] shaped _that [i_ can] [it's] _kind_ [like] [this] [uh] _box_ shape [so [i] got] [four] pieces [of] [two] [by] twelve [and] joined [them] together _and just_ _made_ _a box_ [. and] [put] [in] [a] [whole] _bunch_ [like] eight hundred _pounds_ [of] topsoil [and] manure 
+B|133| B: _and , uh ,_ 
+A|134| A: [i] did [something] [a little] [bit] different _this _year_ that_ [i haven't] done [before] , _i've _got_ _,_ [my_ garden] [is] shaped [that] [i [can] [,] it's] _kind_ [like] [this [,] uh ,] _box_ shape , [so [i] got] [four] pieces [of] [two] [by] twelve [and] joined [them] together _and just_ _made_ _a box_ [. and] [put] [in] [a] [whole] _bunch_ [like] eight hundred _pounds_ [of] topsoil [and] manure 
 B|135| B: [right .] 
-A|136| A: _and you know_ various [other] [things] raised _it _up_ ._ 
-B|137| B: [well] [the] [good] stuff [. right .] 
-A|138| A: [and] [i'm] hoping [especially] [with] [those] big tall sides [on] [there] [it that] maybe [i] won't [have] [oh] [i'll] [have] less [of a] bug _problem_ at least [they] they'll [have a] hard [time] crawling [up] [the] thing . 
-B|139| B: [right . yeah] [my [backyard] is uh] [is] sloping [so i] built [a box] [up you know] [had] [to] build [the] [one] [the] low _side_ [up .] 
+A|136| A: [and [,] you know ,] various [other] [things ,] raised _it _up_ ._ 
+B|137| B: [well [,] the] [good] stuff [. right .] 
+A|138| A: [and] [i'm] hoping [especially] [with] [those] big tall sides [on] [there] [it that] maybe [i] won't _have ,_ [oh ,] [i'll] [have] less [of a] bug _problem_ at least [they ,] they'll [have a] hard [time] crawling [up] [the] thing . 
+B|139| B: [right [. yeah] [,] [my] [backyard] is , uh ,] [is] sloping [so i] built [a box] [up , you know] [had] [to] build [the] [one] [, the] low _side_ [up .] 
 A|140| A: _uh-huh . uh-huh ._ 
-B|141| B: _and uh_ [i had] sandy _loam_ hauled [in] [. [i] had a] dump truck come [and] dump [it .] 
+B|141| B: _and , uh _,_ i had_ sandy _loam_ hauled [in] [. [i] had a] dump truck come [and] dump [it .] 
 A|142| A: [uh-huh .] 
-B|143| B: [on] [my] driveway [i guess] [that's] [what] [they do] [and] [then] [i had] [to] wheel barrow [it in] . 
-A|144| A: [yeah] [right .] 
-B|145| B: [but] [uh you know] [you can] improve [your] [own] soil [there] 
+B|143| B: [on] [my] driveway [, [i] guess] , [that's] [what] [they do] [and] [then _,] i had_ [to] wheel barrow [it in] . 
+A|144| A: [yeah ,] [right .] 
+B|145| B: [but] [, uh , you know [,] you can] improve [your] [own] soil [there] 
 A|146| A: [uh-huh .] 
-B|147| B: [but] [the] texas soil isn't [the] greatest gardening soil . 
-A|148| A: [that's] [right] [you _you] [have_ to] [work] [on] . [you] [really] _do ._ 
-B|149| B: [right [.] [and] you know] [if [i] i] _didn't_ [wait] [five] [years] [for it] [to] _be_ [good] [enough] grow [you know] [what] [i mean] 
-A|150| A: [that's] [right .] [when we] [had] _our_ pool done [i had] [them] [to] leave [some] extra [loam] [you know] [for [my] garden] [so [i] had] [i had [a] lot of] [loam] [out there] [to] [start] [with] _i just_ turned [it all] [up and] mixed [it all] [up] together [with] 
-B|151| B: [uh-huh [.] do you have] [do you have a] rotor tiller ? 
-A|152| A: _no_ [. [i] don't] [i] did _it by hand_ 
-B|153| B: [small] [enough] [you have a] [just [do] [it] by hand] ? 
+B|147| B: [but] [the] texas soil isn't [the] greatest , gardening soil . 
+A|148| A: [that's] [right] [, you _, you] [have_ to] [work] [on] . [you ,] [really] _do ._ 
+B|149| B: [right [.] and] [you know ,] [if [i] , i] _didn't_ [wait] [five] [years] [for it] [to] _be_ [good] [enough] grow [you know] [what] [i mean] 
+A|150| A: [that's] [right .] [when we] [had] _our_ pool done [i had] [them] [to] leave [some] extra [loam] [, you know ,] [for [my] garden] [so [i] had] [, [i had] [a] lot of] [loam] [out there] [to] [start] [with] [i] [just] turned [it all] [up and] mixed [it all] [up] together [with] , 
+B|151| B: [uh-huh [.] do _you have] ,_ [do you have a] rotor tiller ? 
+A|152| A: _no_ [. [i] don't] [, i] did _it by hand_ , 
+B|153| B: [small] [enough] [, [you have] _a] [,_ [just] [do] [it] by hand] ? 
 A|154| A: [uh-huh .] 
 B|155| B: [yeah .] 
-A|156| A: [it] wasn't [too much] [of a] job [really] . 
+A|156| A: [it] wasn't [too much] [of a] job , [really] . 
 B|157| B: _yeah . yeah ._ 
-A|158| A: [like i] [say] _it's just_ 
-B|159| B: [yeah .] i'd [like [to] get] _one of_ these [little] [small] ones [that] [you] [see] [in] [all] these gardening magazines . 
+A|158| A: [like i] [say] [it's] [just] , 
+B|159| B: [yeah .] i'd [like [to] get] _one of_ these [little] [small] ones [, that] [you] [see] [in] [all] these gardening magazines . 
 A|160| A: _uh-huh . uh-huh [._ it] _would be_ handy . 
-B|161| B: [and] [it] weighs twenty [pounds] [or something] [like that .] 
+B|161| B: [and] [it] weighs twenty [pounds] [or] , [something] [like that .] 
 A|162| A: [yeah .] 
-B|163| B: [my] neighbor across [the] street has _one ._ he always uses [it] [to] dethatch his [lawn] 
+B|163| B: [my] neighbor across [the] street has _one ._ he always uses [it] [to] dethatch his [lawn] , 
 A|164| A: [uh-huh .] 
-B|165| B: [i see] him [out there] 
+B|165| B: [i see] him [out there] , 
 A|166| A: [yeah .] 
 B|167| B: [and [i] guess it] has [a] thatcher attachment [to] [it .] 
-A|168| A: [it] might [be] handy 
+A|168| A: [it] might [be] handy , 
 B|169| B: _yeah . yeah ._ 
-A|170| A: [they're] pretty neat [little] [i've] never [seen] [one .] 
-B|171| B: [i have a] friend who has [one] _and and_ he lets [me] [you know] [no] [problem] borrowing [if] [it's just] [a] hassle [when [you] know] [to] [go] [up] 
-A|172| A: [uh-huh .] [oh yeah .] 
-B|173| B: [and] [it's] [a] fairly large [one] [to] heave [it up] into [the] back [of the] van bring [it] [home] [and] check [it] back [and just] grab [it] [you know] [if [i] just] [go] [to] [my] garage [and] grab [it .] 
-A|174| A: [yeah _.] uh-huh_ [right . yeah .] _that would be_ neat [sure] . 
+A|170| A: [they're] pretty neat [little] , [i've] never [seen] [one .] 
+B|171| B: [i have a] friend who has [one] _and , and_ he lets [me [,] you know ,] [no] [problem] borrowing [if] [it's [,] just] [a] hassle [when [you] know ,] [to] [go] [up] 
+A|172| A: [uh-huh .] [oh , yeah .] 
+B|173| B: [and] [it's] [a] fairly large [one] [to ,] heave [it up] into [the] back [of the] van , bring [it] [home] [and ,] check [it] back [and just] grab [it [,] you know ,] [if [i] [,] just] [go] [to] [my] garage [and] grab [it .] 
+A|174| A: [yeah _.] uh-huh_ [right . yeah .] _that would be_ neat [, sure] . 
 B|175| B: [that would be] [nice .] 
-A|176| A: _we've_ [had a] [garden] gosh [for] [years] [and] [years] [and] [years] [of] [some] size [you know] 
+A|176| A: _we've_ [had a] [garden] , gosh , [for] [years] [and] [years] [and] [years] , [of] [some] size [, you know ,] 
 B|177| B: [uh-huh .] 
 A|178| A: [i] _can't_ remember [a] [year] [when we] [didn't have] [one of] [some] _kind_ . 
-B|179| B: [what] _have [you_ got] growing [right] [now] ? 
-A|180| A: [uh] [got] [you know] _tomatoes_ [that] [are] starting [to] bloom 
+B|179| B: [what] [have] [you got] growing [right] [now] ? 
+A|180| A: [uh ,] _got [,_ you know] _tomatoes_ [that] [are] starting [to] bloom 
 B|181| B: [uh-huh .] 
-A|182| A: [and uh] _i've got_ carrots [i] [yes] _i've [got_ a few] carrots [up _and] i've got _some_ radishes_ [up] 
+A|182| A: [and , uh ,] _i've got_ carrots [, i] [yes] , _i've [got_ a few] carrots [up _and] i've got _some_ radishes_ [up ,] 
 B|183| B: [uh-huh .] 
-A|184| A: [and] _as_ [a] matter [of] fact [i've] already done [a] second row [of] _radishes_ . 
+A|184| A: [and] _as_ [a] matter [of] fact , [i've] already done [a] second row [of] _radishes_ . 
 B|185| B: [uh-huh . yeah .] 
-A|186| A: [and uh] [the] _green_ _onions_ [are] [coming] along . 
-B|187| B: [okay] 
-A|188| A: snow 
-B|189| B: [what] [kind] 
+A|186| A: [and , uh [,] the] _green_ _onions_ [are] [coming] along . 
+B|187| B: [okay] , 
+A|188| A: snow , 
+B|189| B: [what] [kind] , 
 A|190| A: excuse [me] . 
-B|191| B: [what] [kind of] [onions] [do you] grow ? [do you] grow [those] [those] [ten] fifteen y ? 
-A|192| A: [yes] [i've] _for [the_ first] [time] _we planted_ [them] [this year .] 
-B|193| B: [oh] [they] [they] [are] [the] best . 
-A|194| A: [yeah _.] we_ _tried_ [to] find [them] last [year] [we] screwed [around] [and] waited [too] [long] [and i] couldn't find [a] nursery [that] [had] [any] [of them] [left] . 
+B|191| B: [what] [kind of] [onions] [do you] grow ? [do you] grow [those] , [those] [ten] , fifteen y ? 
+A|192| A: [yes] , [i've] _for [the_ first] [time] _we planted_ [them] _this year ._ 
+B|193| B: [oh ,] [they ,] [they] [are] [the] best . 
+A|194| A: [yeah _.] we_ _tried_ [to] find [them] last [year] _, we_ screwed [around] [and] waited [too] [long] [and i] couldn't find [a] nursery [that] [had] [any] [of them] [left] . 
 B|195| B: [uh-huh . uh-huh .] 
-A|196| A: [but] _we've got some_ [this year .] 
-B|197| B: [uh] [those] 
-A|198| A: snow [peas] [are] [up [and] uh] [my wife] does [uh a] [small] herb [garden] [on the] [side] . 
+A|196| A: [but] _we've got some_ _this year ._ 
+B|197| B: [uh ,] [those] , 
+A|198| A: snow [peas] [are] [up [and] , uh [,] [my] wife] does [, uh , a] [small] herb [garden] [on the] [side] . 
 B|199| B: [i see .] 
 A|200| A: [they're] [up and] [doing] fine . 
-B|201| B: [yeah [.] i] [uh] [those] [onions] [i think] [we] [we planted] [like] twice [as] [much] [this year] because [you know] [we] [got] _onions and_ [they] lasted from [you know] [about] [when you] harvest [them] [about] [a] month from [now] [or] [so] [or] six weeks from [now] [until] [until] [like] october 
+B|201| B: [yeah [.] i [,] uh ,] [those] [onions] [, i think [,] [we] [,] [we] planted] [like] twice [as] [much] [this year] because [, you know [,] we] [got ,] _onions and_ [they] lasted from [, you know ,] [about] [when you] harvest [them] [about] [a] month from [now] [or] [so] , [or] six weeks , from [now [,] [until] [,] until] [like] october , 
 A|202| A: [uh-huh . [uh-huh .] [uh-huh .] yeah .] 
-B|203| B: [and uh] [we] [really] missed [them] [when] _they were_ gone because [the] ones from [the] grocery store [just] [can't] compare . 
-A|204| A: [yeah [. yeah .] that's] [kind [of] a] _let_ down . 
-B|205| B: [she] [made] these onion rings [that] _were_ [so] [good] 
-A|206| A: [oh i] bet 
-B|207| B: _and _and_ [and_ [uh] you] [don't] realize how _many_ dishes [you] [put] [onions] [in] [that] [it's] an ingredient 
-A|208| A: [they were] [. that's] _right . we_ use [a lot] [we] [sure] _do ._ 
-B|209| B: _and and_ [it was] [just] [like] everything [you] [put] [it] into tasted [so] [much] [better] . 
-A|210| A: [yeah .] [one] [nice] thing [with] [onions [and] and] bell _peppers_ at least [you can] chop [them and] freeze [them] [if [you] [have] [you] know] [too] [many] . 
+B|203| B: [and , uh [,] we] [really] missed [them] [when] _they were_ gone , because [the] ones from [the] grocery store [just] [can't ,] compare . 
+A|204| A: [yeah [. yeah .] that's] [kind [of] [a] ,] _let_ down . 
+B|205| B: [she] [made] these onion rings [that] _were_ [so] [good] , 
+A|206| A: [oh , i] bet , 
+B|207| B: _and , _and_ , [and_ [, uh ,] you] [don't] realize how _many_ dishes [you] [put] [onions] [in] [, that] [it's] an ingredient , 
+A|208| A: [they were] [. that's] _right . we_ use [a lot] [, we] [sure] _do ._ 
+B|209| B: _and , and_ [it was] [just] [like] everything [you] [put] [it] into tasted [so] [much] [better] . 
+A|210| A: [yeah .] [one] [nice] thing [with] [onions [and] , and] bell _peppers_ at least [you can] chop [them and] freeze [them] [if [you] have [,] you know ,] [too] [many] . 
 B|211| B: [right [.] [right .] we] froze [a lot of] [peppers] [. we] [let] [some] turn red . 
-A|212| A: [yeah [.] uh-huh [.] we] did [that] [too] 
-B|213| B: [and] [some] [we do] [green] [and] [then] [my wife] puts [them] [on] pizzas [. [and] and] chops [them] [up] [in] recipes [and things like that .] 
-A|214| A: [uh-huh .] [sure] . makes [uh] makes [a] colorful _salad_ [too .] 
-B|215| B: [oh yeah .] [put] [them] [in] [salad] [yeah .] 
+A|212| A: [yeah [.] uh-huh [.] we] did [that] [too ,] 
+B|213| B: [and] [some] [we do] [green] [and] [then] [my wife] puts [them] [on] pizzas [. [and] , and] chops [them] [up] [in] recipes [and things like that .] 
+A|214| A: [uh-huh .] [sure] . makes [, uh ,] makes [a] colorful _salad_ [too .] 
+B|215| B: [oh , yeah .] [put] [them] [in] [salad] [, yeah .] 
 A|216| A: [uh-huh .] 
-B|217| B: you're you're making [me] hungry [here] . 
-A|218| A: [we planted] [some] _yellow peppers_ [this year .] _we've_ _tried_ [it] [before] 
+B|217| B: you're , you're making [me] hungry [here] . 
+A|218| A: [we planted] [some] _yellow peppers_ _this year ._ _we've_ _tried_ [it [,] before] 
 B|219| B: [oh] . 
-A|220| A: [and] nope [we] [haven't] [had] [much] luck [with] [it] _we're going to try_ [it again] [this year .] 
-B|221| B: [yellow peppers] huh . 
-A|222| A: [they have] [some] [little] buds [on] [them] hopefully they'll [do something] . 
+A|220| A: [and] nope [, we] [haven't] [had] [much] luck [with] [it] _we're going to try_ [it again] _this year ._ 
+B|221| B: [yellow [peppers] ,] huh . 
+A|222| A: [they] [have] [some] [little] buds [on] [them] hopefully they'll [do something] . 
 B|223| B: [yeah .] sounds [like [you] have a] [real] [good] _garden ._ 
 A|224| A: [yeah [.] we] [enjoy] fooling [around] [with] [it .] 
-B|225| B: [just] [let] [me] [see] [what] [i got] [i got] [the] [peas] [and i've got some] broccoli [uh] [onions] [some] [some [radishes] [and] uh] [uh] _beets ._ 
-A|226| A: [beets [.] yeah] _we've got some_ [beets] [uh-huh .] 
-B|227| B: [uh] [and i] [planted] potatoes [too .] 
-A|228| A: [uh-huh .] [i've] never done _potato_ [. we] used [to do it] at [home] [when] [i was] [a] kid [had a] huge [garden .] 
-B|229| B: [oh] [the] [potato] [they were] [they're] delicious [but] [they] [you] [don't] [get] seem [to get] [that] [much] [for the] _space_ 
+B|225| B: [just] [let] [me] [see] [what] [i [got] [,] [i] got] [the] [peas] [and i've got some] broccoli [, uh ,] [onions] [some] , [some [radishes] [and] , uh [,] uh [,] _beets] ._ 
+A|226| A: [beets [.] yeah ,] _we've got some_ [beets] , [uh-huh .] 
+B|227| B: [uh [,] and i] [planted] potatoes [too .] 
+A|228| A: [uh-huh .] [i've] never done _potato_ [. we] used [to do it] at [home] [when] [i was] [a] kid , [had a] huge [garden .] 
+B|229| B: [oh [,] the] [potato] , [they were] [, they're] delicious [but] [they [,] you] [don't] [get] , seem [to get] [that] [much] [for the] _space_ , 
 A|230| A: [uh-huh .] 
-B|231| B: [they] [they do .] 
-A|232| A: [it takes] [a] [yeah] [it] does [take] [some] [space] . 
-B|233| B: [some] beet [uh] potatoes 
+B|231| B: [they ,] [they do .] 
+A|232| A: [it takes] [a [,] [yeah] [,] it] does [take] [some] [space] . 
+B|233| B: [some] beet [, uh ,] potatoes 
 A|234| A: [yeah .] 
-B|235| B: [and i've got some] [tomatoes] still growing [in] [in] containers 
+B|235| B: [and i've got some] [tomatoes] still growing , [in] , [in] containers , 
 A|236| A: [uh-huh [.] i see .] 
-B|237| B: [i [got] to] [wait] [for] [a] place [to] [to] [to] free [up .] 
+B|237| B: [i [got] to] [wait] [for] [a] place [to ,] [to ,] [to] free [up .] 
 A|238| A: [uh-huh .] 
-B|239| B: [uh] [our] [our] kids love pickles [and] [we] [all] love pickles [so] [we're going to try] [to] grow [our] [own] pickles [this year .] 
-A|240| A: [uh-huh .] [that] will [be] neat [yeah .] 
-B|241| B: [we've got some] [good] um um hybrid burpee [uh] [uh] pickler cucumbers 
+B|239| B: [uh ,] [our] , [our] kids love pickles [and] [we] [all] love pickles [so] [we're going to try] [to] grow [our] [own] pickles [this year .] 
+A|240| A: [uh-huh .] [that] will [be] neat [, yeah .] 
+B|241| B: [we've got some] [good] , um , um , hybrid burpee [uh] [uh ,] pickler cucumbers 
 A|242| A: [uh-huh .] 
 B|243| B: [and] [we're going to try] [to] [see] [if] [we] [can] pickle [our] [own] 
-A|244| A: [that] will [be] neat [yeah .] absolutely [they're] _expensive_ . 
-B|245| B: [i] [know] [it [.] i] said why [are] [they] [so] [expensive] [they're] [just] [a] [bunch] [of] [little] cucumbers [you know] ? 
-A|246| A: [i don't know] unless [it] labor intensive [or something] [. [i] really don't know .] 
-B|247| B: [i guess] . [but] [we're going to try] [that] [and] [see] how [that] works . 
+A|244| A: [that] will [be] neat [, yeah .] absolutely [, they're] _expensive_ . 
+B|245| B: [i] [know] [it [.] i] said , why [are] [they] [so] [expensive] [they're] [just] [a] [bunch] [of] [little] cucumbers [, you know] ? 
+A|246| A: [i don't know] unless [it ,] labor intensive [or something] [. [i] really] [, [don't] know .] 
+B|247| B: [i guess] . [but] [we're going to try] [that] [, and] [see] how [that] works . 
 A|248| A: [that] will [be] interesting . 
 B|249| B: an experiment . 
 A|250| A: [yeah .] 
-B|251| B: i'd [like [to] try] [you know] [just] [try] [something] new every [year that i haven't] [tried] [before] 
+B|251| B: i'd [like [to] try] [, you know [,] just] [try] [something] new , every [year that] [, [i] haven't] [tried] [before] 
 A|252| A: [sure] [. yeah .] 
-B|253| B: [and] 
+B|253| B: [and ,] 
 A|254| A: [that's] interesting . 
 B|255| B: [well] . 
-A|256| A: [well] [i'll] [let] [you] [go] [it's] 
+A|256| A: [well ,] [i'll] [let] [you] [go] [it's ,] 
 
 
 TURN DETAILS:
 Turn ID=0| A | A : what type of lawn and garden work do you do ?
 	Free: Pattern=of, Pattern=what, Pattern=do, Pattern=garden, Pattern=work, Pattern=lawn, Pattern=and, Pattern=do you
 	Constrained: Pattern=you, Pattern=do
-Turn ID=1| B | B : well i do it all
-	Free: Pattern=well i, Pattern=do it, Pattern=i do, Pattern=it all
-	Constrained: Pattern=well, Pattern=do, Pattern=it, Pattern=i, Pattern=all
+Turn ID=1| B | B : well , i do it all
+	Free: Pattern=well , i, Pattern=, i do, Pattern=do it, Pattern=it all
+	Constrained: Pattern=well, Pattern=i do, Pattern=do, Pattern=it, Pattern=well ,, Pattern=i, Pattern=, i, Pattern=all
 Turn ID=2| A | A : i see . do you have a garden ?
 	Free: Pattern=do you have a, Pattern=. do you have, Pattern=i see ., Pattern=garden ?
-	Constrained: Pattern=i see, Pattern=you, Pattern=have, Pattern=have a, Pattern=do you, Pattern=you have, Pattern=i, Pattern=see, Pattern=do, Pattern=a, Pattern=you have a, Pattern=garden
-Turn ID=3| B | B : uh yes . i i try to grow uh uh a vegetable garden and
-	Free: Pattern=try, Pattern=and, Pattern=garden, Pattern=. i i, Pattern=uh a, Pattern=to, Pattern=uh, Pattern=yes
-	Constrained: Pattern=uh, Pattern=a, Pattern=. i, Pattern=i, Pattern=i i
-Turn ID=4| A | A : we do the same thing . it's i just have a small plot it's like ten feet by five feet .
-	Free: Pattern=i just, Pattern=have a, Pattern=small, Pattern=ten, Pattern=the, Pattern=five, Pattern=by, Pattern=it's, Pattern=like, Pattern=we do
-	Constrained: Pattern=i, Pattern=we, Pattern=just, Pattern=have, Pattern=do, Pattern=a
-Turn ID=5| B | B : yeah . i have two plots one's ten by ten and one's like fifteen by four .
+	Constrained: Pattern=i see, Pattern=you, Pattern=have, Pattern=have a, Pattern=do you, Pattern=i, Pattern=see, Pattern=do, Pattern=a, Pattern=you have a, Pattern=garden
+Turn ID=3| B | B : uh , yes . i , i try to grow , uh , uh , a vegetable garden and ,
+	Free: Pattern=yes, Pattern=and ,, Pattern=, uh , a, Pattern=try, Pattern=garden, Pattern=, uh ,, Pattern=uh ,, Pattern=to, Pattern=. i , i
+	Constrained: Pattern=i , i, Pattern=a, Pattern=and, Pattern=, uh ,, Pattern=i ,, Pattern=uh, Pattern=, uh, Pattern=. i, Pattern=. i ,, Pattern=, a, Pattern=i, Pattern=uh ,, Pattern=, i
+Turn ID=4| A | A : we do the same thing . it's , i just have a small plot it's like ten feet by five feet .
+	Free: Pattern=it's ,, Pattern=just, Pattern=have a, Pattern=small, Pattern=ten, Pattern=five, Pattern=by, Pattern=it's, Pattern=like, Pattern=we do, Pattern=the, Pattern=, i
+	Constrained: Pattern=have, Pattern=i, Pattern=we, Pattern=it's, Pattern=do, Pattern=a
+Turn ID=5| B | B : yeah . i have two plots , one's ten by ten and one's like fifteen by four .
 	Free: Pattern=four, Pattern=yeah ., Pattern=and, Pattern=. i, Pattern=two, Pattern=like, Pattern=ten, Pattern=by, Pattern=i have
-	Constrained: Pattern=yeah, Pattern=have, Pattern=i
+	Constrained: Pattern=i, Pattern=have
 Turn ID=6| A | A : i see .
 	Free: Pattern=i see .
-	Constrained: Pattern=i see, Pattern=see, Pattern=i
-Turn ID=7| B | B : it's a long skinny one and
-	Free: Pattern=long, Pattern=a, Pattern=and, Pattern=one, Pattern=it's
-	Constrained: 
-Turn ID=8| A | A : yeah you do a lot more area than i do . i've all the rest of my yard backyard is uh you know pool and decking it's all the dirt i have left in my backyard
-	Free: Pattern=i do, Pattern=do, Pattern=and, Pattern=in, Pattern=left, Pattern=a lot, Pattern=yard, Pattern=my, Pattern=it's, Pattern=i have, Pattern=of, Pattern=more, Pattern=backyard is uh, Pattern=do ., Pattern=yeah you, Pattern=i've, Pattern=uh you know, Pattern=my backyard, Pattern=the, Pattern=all
-	Constrained: Pattern=have, Pattern=yeah, Pattern=know, Pattern=lot, Pattern=uh you, Pattern=my, Pattern=you, Pattern=uh, Pattern=you know, Pattern=do, Pattern=a, Pattern=is, Pattern=i
-Turn ID=9| B | B : oh i see . yeah . i see .
-	Free: Pattern=oh i see ., Pattern=. i see ., Pattern=. yeah .
-	Constrained: Pattern=i see, Pattern=yeah ., Pattern=oh i, Pattern=. i, Pattern=. yeah, Pattern=i, Pattern=see, Pattern=i see ., Pattern=yeah, Pattern=oh
-Turn ID=10| A | A : well i i enjoy fiddling around . it's cheap entertainment .
-	Free: Pattern=around, Pattern=i enjoy, Pattern=well i, Pattern=i i, Pattern=it's
-	Constrained: Pattern=i, Pattern=enjoy, Pattern=well
-Turn ID=11| B | B : right . right . yeah it's nice to get out in the open air .
-	Free: Pattern=nice, Pattern=in the, Pattern=right ., Pattern=. right ., Pattern=right . yeah, Pattern=to get out, Pattern=it's
-	Constrained: Pattern=right, Pattern=out, Pattern=in, Pattern=the, Pattern=to, Pattern=get, Pattern=yeah, Pattern=get out, Pattern=to get, Pattern=. yeah, Pattern=right .
-Turn ID=12| A | A : it is uh-huh .
-	Free: Pattern=uh-huh ., Pattern=is, Pattern=it
-	Constrained: 
-Turn ID=13| B | B : and especially when the weather's not too hot or not raining or whatever
-	Free: Pattern=or, Pattern=the, Pattern=when, Pattern=not, Pattern=and, Pattern=too, Pattern=hot, Pattern=especially
-	Constrained: 
+	Constrained: Pattern=i see, Pattern=i, Pattern=see
+Turn ID=7| B | B : it's a long skinny one and ,
+	Free: Pattern=a, Pattern=one, Pattern=it's, Pattern=and ,, Pattern=long
+	Constrained: Pattern=and
+Turn ID=8| A | A : yeah , you do a lot more area than i do . i've , all the rest of my yard , backyard is , uh , you know , pool and decking it's all the dirt i have , left in my backyard
+	Free: Pattern=i do, Pattern=i've ,, Pattern=do, Pattern=do ., Pattern=and, Pattern=in, Pattern=yeah , you, Pattern=backyard is , uh ,, Pattern=yard, Pattern=my, Pattern=it's, Pattern=i have, Pattern=of, Pattern=more, Pattern=left, Pattern=have ,, Pattern=my backyard, Pattern=the, Pattern=all, Pattern=a lot, Pattern=, uh , you know ,
+	Constrained: Pattern=you know ,, Pattern=yeah ,, Pattern=i've, Pattern=, you know, Pattern=is ,, Pattern=, uh ,, Pattern=my, Pattern=you, Pattern=uh, Pattern=you know, Pattern=, uh, Pattern=, uh , you, Pattern=have, Pattern=do, Pattern=, you know ,, Pattern=a, Pattern=know, Pattern=, you, Pattern=is, Pattern=i, Pattern=uh ,, Pattern=lot
+Turn ID=9| B | B : oh , i see . yeah . i see .
+	Free: Pattern=oh , i see ., Pattern=. i see ., Pattern=. yeah .
+	Constrained: Pattern=oh , i, Pattern=i see, Pattern=yeah ., Pattern=oh, Pattern=. i, Pattern=i, Pattern=, i, Pattern=see, Pattern=i see ., Pattern=oh ,
+Turn ID=10| A | A : well , i i enjoy fiddling around . it's cheap entertainment .
+	Free: Pattern=around, Pattern=i enjoy, Pattern=well , i, Pattern=i i, Pattern=it's
+	Constrained: Pattern=well, Pattern=well ,, Pattern=enjoy, Pattern=i, Pattern=, i
+Turn ID=11| B | B : right . right . yeah , it's nice to get out in the open air .
+	Free: Pattern=. yeah ,, Pattern=nice, Pattern=in the, Pattern=, it's, Pattern=right ., Pattern=. right ., Pattern=right . yeah, Pattern=to get out
+	Constrained: Pattern=right, Pattern=out, Pattern=yeah ,, Pattern=in, Pattern=right ., Pattern=the, Pattern=to, Pattern=get, Pattern=it's, Pattern=get out, Pattern=to get
+Turn ID=12| A | A : it is , uh-huh .
+	Free: Pattern=is ,, Pattern=uh-huh ., Pattern=it
+	Constrained: Pattern=is
+Turn ID=13| B | B : and especially when the weather's not too hot or , not raining or whatever ,
+	Free: Pattern=or, Pattern=the, Pattern=when, Pattern=, not, Pattern=not, Pattern=and, Pattern=too, Pattern=hot, Pattern=especially
+	Constrained: Pattern=not
 Turn ID=14| A | A : that's right . yeah .
 	Free: Pattern=right . yeah ., Pattern=that's
-	Constrained: Pattern=right, Pattern=yeah ., Pattern=yeah, Pattern=. yeah ., Pattern=right . yeah, Pattern=. yeah, Pattern=right .
-Turn ID=15| B | B : but uh sometimes i i said i sometimes i wish i had more space you know .
-	Free: Pattern=more, Pattern=you know ., Pattern=uh, Pattern=space, Pattern=i had, Pattern=i, Pattern=i i, Pattern=but
-	Constrained: Pattern=know, Pattern=i, Pattern=had, Pattern=you, Pattern=you know
-Turn ID=16| A | A : i enjoy excuse me go ahead . uh-huh .
-	Free: Pattern=. uh-huh ., Pattern=i enjoy, Pattern=me, Pattern=go
-	Constrained: Pattern=uh-huh ., Pattern=i, Pattern=enjoy, Pattern=. uh-huh
-Turn ID=17| B | B : i grow a lot of things a lot of food .
-	Free: Pattern=a lot of, Pattern=i, Pattern=things
-	Constrained: Pattern=a, Pattern=lot, Pattern=a lot, Pattern=of
+	Constrained: Pattern=right, Pattern=yeah ., Pattern=. yeah ., Pattern=right ., Pattern=right . yeah
+Turn ID=15| B | B : but , uh , sometimes i , i said , i sometimes i wish i had more space you know .
+	Free: Pattern=more, Pattern=you know ., Pattern=i , i, Pattern=space, Pattern=, uh ,, Pattern=, i, Pattern=but, Pattern=i had, Pattern=i
+	Constrained: Pattern=know, Pattern=i, Pattern=had, Pattern=i ,, Pattern=you, Pattern=uh, Pattern=you know, Pattern=, uh, Pattern=uh ,, Pattern=, i
+Turn ID=16| A | A : i enjoy , excuse me , go ahead . uh-huh .
+	Free: Pattern=. uh-huh ., Pattern=me ,, Pattern=i enjoy, Pattern=go
+	Constrained: Pattern=me, Pattern=enjoy, Pattern=i, Pattern=. uh-huh, Pattern=uh-huh .
+Turn ID=17| B | B : i grow a lot of things , a lot of food .
+	Free: Pattern=, a lot of, Pattern=a lot of, Pattern=things ,, Pattern=i
+	Constrained: Pattern=a, Pattern=things, Pattern=, a, Pattern=lot, Pattern=a lot, Pattern=a lot of, Pattern=of
 Turn ID=18| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=19| B | B : and sometimes i i want to plant something there's not enough room to plant . some of those things like uh you know the things that vine like uh cucumbers or uh squash or something like that . plant one of those
-	Free: Pattern=to plant, Pattern=of, Pattern=uh, Pattern=plant, Pattern=enough, Pattern=and, Pattern=uh you know, Pattern=some, Pattern=like, Pattern=or, Pattern=or something, Pattern=things like, Pattern=like that ., Pattern=those, Pattern=one of, Pattern=want to, Pattern=room, Pattern=things, Pattern=you know the, Pattern=that, Pattern=i i, Pattern=not, Pattern=something
-	Constrained: Pattern=want, Pattern=plant, Pattern=one, Pattern=things, Pattern=know, Pattern=i, Pattern=like, Pattern=or, Pattern=the, Pattern=to, Pattern=uh you, Pattern=that, Pattern=something, Pattern=of, Pattern=that ., Pattern=you, Pattern=uh, Pattern=you know
+Turn ID=19| B | B : and sometimes i , i want to plant something , there's not enough room to plant . some of those things like , uh , you know , the things that vine like , uh , cucumbers , or , uh , squash or something , like that . plant one of those
+	Free: Pattern=to plant, Pattern=of, Pattern=i , i, Pattern=enough, Pattern=and, Pattern=, like, Pattern=some, Pattern=like, Pattern=or, Pattern=like that ., Pattern=those, Pattern=one of, Pattern=that, Pattern=something ,, Pattern=plant, Pattern=want to, Pattern=room, Pattern=things, Pattern=, uh ,, Pattern=or something, Pattern=, uh , you know ,, Pattern=things like, Pattern=, you know , the, Pattern=not
+	Constrained: Pattern=want, Pattern=, you know ,, Pattern=one, Pattern=, you know, Pattern=things, Pattern=i, Pattern=like, Pattern=or, Pattern=, uh ,, Pattern=i ,, Pattern=to, Pattern=, the, Pattern=that, Pattern=something, Pattern=of, Pattern=that ., Pattern=you know ,, Pattern=you, Pattern=uh, Pattern=you know, Pattern=, uh, Pattern=, uh , you, Pattern=plant, Pattern=know, Pattern=, you, Pattern=uh ,, Pattern=the, Pattern=, i
 Turn ID=20| A | A : that's right . that's right . uh-huh . uh-huh . takes a lot of room .
 	Free: Pattern=a lot of, Pattern=uh-huh . uh-huh ., Pattern=right ., Pattern=that's, Pattern=. that's, Pattern=. uh-huh ., Pattern=takes, Pattern=room
 	Constrained: Pattern=a, Pattern=. uh-huh, Pattern=. uh-huh ., Pattern=right, Pattern=of, Pattern=that's, Pattern=lot, Pattern=a lot, Pattern=uh-huh .
 Turn ID=21| B | B : and it takes up your whole space
 	Free: Pattern=takes up, Pattern=and, Pattern=space, Pattern=your, Pattern=whole, Pattern=it takes
-	Constrained: Pattern=takes, Pattern=up, Pattern=it
-Turn ID=22| A | A : it sure does . i made mistake one year and planted some cantaloupe my goodness what a mistake that was .
-	Free: Pattern=made, Pattern=a, Pattern=. i, Pattern=some, Pattern=sure, Pattern=planted, Pattern=was, Pattern=my, Pattern=that, Pattern=one year, Pattern=what, Pattern=it, Pattern=and
-	Constrained: Pattern=one, Pattern=i, Pattern=year
-Turn ID=23| B | B : yeah . yeah . they they just run all over the place don't they
-	Free: Pattern=just, Pattern=they, Pattern=. they, Pattern=yeah . yeah ., Pattern=don't, Pattern=the, Pattern=all
-	Constrained: Pattern=they, Pattern=yeah ., Pattern=yeah, Pattern=yeah . yeah, Pattern=. yeah ., Pattern=. yeah
-Turn ID=24| A | A : they do . well it was very good it just takes up you know like you say a lot of your garden area .
-	Free: Pattern=a lot of, Pattern=well, Pattern=your garden, Pattern=they do ., Pattern=say, Pattern=up you know, Pattern=it just, Pattern=like you, Pattern=it was, Pattern=takes up, Pattern=good
-	Constrained: Pattern=of, Pattern=just, Pattern=they, Pattern=do ., Pattern=it, Pattern=they do, Pattern=know, Pattern=your, Pattern=like, Pattern=lot, Pattern=was, Pattern=you, Pattern=you know, Pattern=do, Pattern=a, Pattern=takes, Pattern=garden, Pattern=a lot, Pattern=up
+	Constrained: Pattern=it, Pattern=takes, Pattern=up
+Turn ID=22| A | A : it sure does . i made mistake one year and planted some cantaloupe , my goodness , what a mistake that was .
+	Free: Pattern=made, Pattern=one year, Pattern=a, Pattern=, what, Pattern=. i, Pattern=some, Pattern=sure, Pattern=planted, Pattern=, my, Pattern=was, Pattern=that, Pattern=it, Pattern=and
+	Constrained: Pattern=what, Pattern=one, Pattern=i, Pattern=year, Pattern=my
+Turn ID=23| B | B : yeah . yeah . they , they just run all over , the place , don't they ,
+	Free: Pattern=they ,, Pattern=just, Pattern=they, Pattern=. they, Pattern=yeah . yeah ., Pattern=all, Pattern=, don't, Pattern=, the
+	Constrained: Pattern=they, Pattern=yeah ., Pattern=yeah . yeah, Pattern=. yeah ., Pattern=the, Pattern=don't
+Turn ID=24| A | A : they do . well , it was very good it just takes up , you know , like you say , a lot of your garden area .
+	Free: Pattern=, it, Pattern=up , you know, Pattern=your garden, Pattern=, you know ,, Pattern=they do ., Pattern=, like, Pattern=say, Pattern=it just, Pattern=like you, Pattern=it was, Pattern=takes up, Pattern=good, Pattern=, a lot of, Pattern=well ,
+	Constrained: Pattern=well, Pattern=just, Pattern=they, Pattern=do ., Pattern=it, Pattern=, you know, Pattern=they do, Pattern=like, Pattern=lot, Pattern=was, Pattern=a lot of, Pattern=of, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=up ,, Pattern=do, Pattern=a, Pattern=takes, Pattern=garden, Pattern=know, Pattern=, you, Pattern=, a, Pattern=your, Pattern=a lot, Pattern=up
 Turn ID=25| B | B : right . right .
 	Free: Pattern=. right ., Pattern=right .
 	Constrained: Pattern=right ., Pattern=right
-Turn ID=26| A | A : it's the first and only time i've done that . we don't do anything exotic we just do oh tomatoes bell peppers radishes and turnips i mean not turnips carrots beets and things like that .
-	Free: Pattern=time, Pattern=that ., Pattern=tomatoes, Pattern=do, Pattern=i've, Pattern=radishes and, Pattern=peppers, Pattern=i mean, Pattern=we, Pattern=just do, Pattern=anything, Pattern=don't, Pattern=beets, Pattern=it's, Pattern=not, Pattern=only, Pattern=the first, Pattern=and, Pattern=oh, Pattern=. we, Pattern=and things like that .
-	Constrained: Pattern=that ., Pattern=just, Pattern=do, Pattern=things, Pattern=i, Pattern=the, Pattern=things like, Pattern=like that ., Pattern=that, Pattern=and, Pattern=radishes, Pattern=we, Pattern=like
+Turn ID=26| A | A : it's the first and only time i've done that . we don't do anything exotic we just do , oh , tomatoes , bell peppers , radishes and turnips , i mean , not turnips , carrots , beets and things like that .
+	Free: Pattern=time, Pattern=that ., Pattern=tomatoes, Pattern=do, Pattern=and, Pattern=radishes and, Pattern=we, Pattern=don't, Pattern=, not, Pattern=it's, Pattern=do ,, Pattern=only, Pattern=the first, Pattern=, beets, Pattern=i've, Pattern=. we, Pattern=and things like that ., Pattern=i mean ,, Pattern=just do, Pattern=anything, Pattern=, i, Pattern=oh ,, Pattern=peppers ,
+	Constrained: Pattern=that ., Pattern=just, Pattern=do, Pattern=things, Pattern=peppers, Pattern=the, Pattern=things like, Pattern=like that ., Pattern=beets, Pattern=that, Pattern=not, Pattern=and, Pattern=oh, Pattern=radishes, Pattern=i mean, Pattern=i, Pattern=we, Pattern=like
 Turn ID=27| B | B : the basics . right . yeah . that's what we do too .
 	Free: Pattern=right . yeah ., Pattern=what, Pattern=. yeah . that's, Pattern=too ., Pattern=we do, Pattern=the, Pattern=. right .
-	Constrained: Pattern=right, Pattern=yeah ., Pattern=. yeah ., Pattern=we, Pattern=that's, Pattern=do, Pattern=yeah . that's, Pattern=yeah, Pattern=too, Pattern=. yeah, Pattern=right ., Pattern=right . yeah, Pattern=. that's
-Turn ID=28| A | A : my wife used to plant a few snow peas . i don't really care for snow peas . well she just plants a few for herself .
-	Free: Pattern=to plant, Pattern=well, Pattern=for, Pattern=she, Pattern=. i, Pattern=just, Pattern=i don't, Pattern=peas, Pattern=a few, Pattern=my wife, Pattern=really
-	Constrained: Pattern=plant, Pattern=a, Pattern=i, Pattern=wife, Pattern=don't, Pattern=to, Pattern=my
+	Constrained: Pattern=right, Pattern=yeah ., Pattern=too, Pattern=. yeah ., Pattern=right ., Pattern=we, Pattern=that's, Pattern=do, Pattern=yeah . that's, Pattern=right . yeah, Pattern=. that's
+Turn ID=28| A | A : my wife used to plant a few snow peas . i don't really care for snow peas . well , she just plants a few for herself .
+	Free: Pattern=to plant, Pattern=for, Pattern=she, Pattern=well ,, Pattern=. i, Pattern=just, Pattern=i don't, Pattern=peas, Pattern=a few, Pattern=my wife, Pattern=really
+	Constrained: Pattern=well, Pattern=plant, Pattern=a, Pattern=i, Pattern=wife, Pattern=don't, Pattern=to, Pattern=my
 Turn ID=29| B | B : right . peas
 	Free: Pattern=right ., Pattern=peas
 	Constrained: Pattern=right
 Turn ID=30| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=31| B | B : i i got a few peas out my garden a couple of days ago .
-	Free: Pattern=a, Pattern=peas, Pattern=couple of, Pattern=i got, Pattern=my garden, Pattern=i i, Pattern=out, Pattern=got a few
-	Constrained: Pattern=of, Pattern=a, Pattern=a few, Pattern=garden, Pattern=i, Pattern=got, Pattern=my
+	Constrained: 
+Turn ID=31| B | B : i , i got a few peas out my garden a couple of days ago .
+	Free: Pattern=i , i, Pattern=a, Pattern=peas, Pattern=couple of, Pattern=i got, Pattern=my garden, Pattern=out, Pattern=got a few
+	Constrained: Pattern=of, Pattern=a, Pattern=a few, Pattern=garden, Pattern=i, Pattern=, i, Pattern=i ,, Pattern=got, Pattern=my
 Turn ID=32| A | A : did you really ?
 	Free: Pattern=you, Pattern=really
 	Constrained: 
-Turn ID=33| B | B : the first one they started them indoors this time . i read it
-	Free: Pattern=time, Pattern=the first, Pattern=they, Pattern=it, Pattern=one, Pattern=this, Pattern=them, Pattern=. i, Pattern=indoors
-	Constrained: Pattern=i, Pattern=the
-Turn ID=34| A | A : oh i see .
-	Free: Pattern=oh i see .
-	Constrained: Pattern=i see, Pattern=oh, Pattern=oh i, Pattern=i, Pattern=see, Pattern=i see .
-Turn ID=35| B | B : and so i
-	Free: Pattern=so i, Pattern=and
+Turn ID=33| B | B : the first one , they started them indoors this time . i read it ,
+	Free: Pattern=time, Pattern=the first, Pattern=they, Pattern=one, Pattern=it ,, Pattern=this, Pattern=them, Pattern=. i, Pattern=indoors
+	Constrained: Pattern=it, Pattern=i, Pattern=the
+Turn ID=34| A | A : oh , i see .
+	Free: Pattern=oh , i see .
+	Constrained: Pattern=oh , i, Pattern=i see, Pattern=oh, Pattern=i, Pattern=, i, Pattern=see, Pattern=i see ., Pattern=oh ,
+Turn ID=35| B | B : and so i ,
+	Free: Pattern=i ,, Pattern=so i, Pattern=and
 	Constrained: Pattern=i, Pattern=so
-Turn ID=36| A | A : okay . we don't start anything indoors we just wait until you know the weather warm enough to stick it in the ground .
-	Free: Pattern=until, Pattern=just, Pattern=enough, Pattern=. we, Pattern=indoors, Pattern=we, Pattern=it in the, Pattern=start, Pattern=anything, Pattern=don't, Pattern=to, Pattern=you know the, Pattern=wait, Pattern=okay
-	Constrained: Pattern=it in, Pattern=it, Pattern=in the, Pattern=in, Pattern=know, Pattern=we, Pattern=the, Pattern=you, Pattern=you know
-Turn ID=37| B | B : yeah . i uh i guess you can get an earlier harvest by doing that
-	Free: Pattern=uh, Pattern=yeah ., Pattern=. i, Pattern=you can get, Pattern=doing that, Pattern=i guess, Pattern=by
-	Constrained: Pattern=you, Pattern=doing, Pattern=yeah, Pattern=i, Pattern=get, Pattern=that, Pattern=can, Pattern=you can
-Turn ID=38| A | A : probably so . yeah you can get a head start on it . like ice in
-	Free: Pattern=it ., Pattern=a, Pattern=you can get, Pattern=in, Pattern=. yeah, Pattern=like, Pattern=start, Pattern=on, Pattern=so, Pattern=yeah you can
-	Constrained: Pattern=you, Pattern=yeah you, Pattern=get, Pattern=it, Pattern=yeah, Pattern=can, Pattern=you can
-Turn ID=39| B | B : but uh sure is a heck of a lot of work .
-	Free: Pattern=a lot of, Pattern=uh, Pattern=a, Pattern=work, Pattern=is, Pattern=but, Pattern=sure, Pattern=of a
-	Constrained: Pattern=a, Pattern=lot, Pattern=a lot, Pattern=of
-Turn ID=40| A | A : i guess it it might would
-	Free: Pattern=i guess it, Pattern=would, Pattern=it
+Turn ID=36| A | A : okay . we don't start anything indoors we , just wait until , you know , the weather warm enough to stick it in the ground .
+	Free: Pattern=, just, Pattern=enough, Pattern=indoors, Pattern=it in the, Pattern=start, Pattern=anything, Pattern=don't, Pattern=until ,, Pattern=to, Pattern=. we, Pattern=we ,, Pattern=, you know , the, Pattern=wait, Pattern=okay
+	Constrained: Pattern=you know ,, Pattern=it in, Pattern=just, Pattern=, you know ,, Pattern=it, Pattern=in the, Pattern=, you know, Pattern=in, Pattern=we, Pattern=the, Pattern=, the, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
+Turn ID=37| B | B : yeah . i , uh , i guess you can get an earlier harvest by doing that ,
+	Free: Pattern=yeah ., Pattern=. i ,, Pattern=you can get, Pattern=doing that, Pattern=i guess, Pattern=, uh ,, Pattern=, i, Pattern=by
+	Constrained: Pattern=doing, Pattern=. i, Pattern=i, Pattern=uh ,, Pattern=i ,, Pattern=get, Pattern=that, Pattern=you, Pattern=uh, Pattern=, uh, Pattern=can, Pattern=you can
+Turn ID=38| A | A : probably so . yeah , you can get a head start on it . like ice in
+	Free: Pattern=. yeah ,, Pattern=it ., Pattern=yeah , you can, Pattern=a, Pattern=in, Pattern=start, Pattern=on, Pattern=so, Pattern=like, Pattern=, you can get
+	Constrained: Pattern=you, Pattern=yeah ,, Pattern=it, Pattern=you can get, Pattern=, you, Pattern=yeah , you, Pattern=, you can, Pattern=get, Pattern=can, Pattern=you can
+Turn ID=39| B | B : but , uh , sure is a heck of a lot of work .
+	Free: Pattern=a lot of, Pattern=a, Pattern=work, Pattern=is, Pattern=, sure, Pattern=but, Pattern=of a, Pattern=, uh ,
+	Constrained: Pattern=of, Pattern=a, Pattern=sure, Pattern=a lot, Pattern=uh, Pattern=, uh, Pattern=uh ,, Pattern=lot
+Turn ID=40| A | A : i guess it , it , might would ,
+	Free: Pattern=i guess it, Pattern=it ,, Pattern=, it, Pattern=would ,
 	Constrained: Pattern=i, Pattern=i guess, Pattern=it
-Turn ID=41| B | B : because you got to watch them every day and keep them watered
-	Free: Pattern=you got to, Pattern=and, Pattern=them, Pattern=day
-	Constrained: Pattern=you, Pattern=got to, Pattern=you got, Pattern=got, Pattern=to
+Turn ID=41| B | B : because you got to , watch them every day , and keep them watered
+	Free: Pattern=day, Pattern=to ,, Pattern=you got to, Pattern=, and, Pattern=them
+	Constrained: Pattern=you, Pattern=got to, Pattern=and, Pattern=you got, Pattern=got, Pattern=to
 Turn ID=42| A | A : yeah . uh-huh .
 	Free: Pattern=. uh-huh ., Pattern=yeah .
-	Constrained: Pattern=. uh-huh, Pattern=uh-huh ., Pattern=yeah
-Turn ID=43| B | B : and i i don't think i'll do it again
-	Free: Pattern=and i, Pattern=it again, Pattern=i i don't, Pattern=i'll, Pattern=think, Pattern=do it
-	Constrained: Pattern=i don't, Pattern=do, Pattern=i, Pattern=don't, Pattern=again, Pattern=i i, Pattern=it, Pattern=and
-Turn ID=44| A | A : well it will make it will make them taste better i'm sure .
-	Free: Pattern=well, Pattern=it, Pattern=i'm, Pattern=them, Pattern=better, Pattern=sure
-	Constrained: 
-Turn ID=45| B | B : oh yeah . yeah i enjoy it . i come home from work and and i usually say hello to wife and kids and then go out and fiddle you know just walk around the yard and inspect it
-	Free: Pattern=and i, Pattern=go, Pattern=then, Pattern=around, Pattern=inspect it, Pattern=to, Pattern=yard, Pattern=out, Pattern=you know, Pattern=it ., Pattern=just, Pattern=and and, Pattern=and, Pattern=i enjoy, Pattern=. i, Pattern=yeah . yeah, Pattern=say, Pattern=work, Pattern=wife, Pattern=the, Pattern=home, Pattern=oh yeah .
-	Constrained: Pattern=you, Pattern=yeah ., Pattern=enjoy, Pattern=i, Pattern=and, Pattern=oh, Pattern=it, Pattern=yeah, Pattern=know, Pattern=. yeah
-Turn ID=46| A | A : sure . you got to inspect it yeah .
-	Free: Pattern=you got to, Pattern=yeah ., Pattern=inspect it, Pattern=sure
-	Constrained: Pattern=you, Pattern=got to, Pattern=you got, Pattern=got, Pattern=to, Pattern=it, Pattern=yeah
-Turn ID=47| B | B : and the kids want to swing
+	Constrained: Pattern=. uh-huh, Pattern=uh-huh .
+Turn ID=43| B | B : and i , i don't think i'll do it again
+	Free: Pattern=and i, Pattern=it again, Pattern=i , i don't, Pattern=i'll, Pattern=think, Pattern=do it
+	Constrained: Pattern=i don't, Pattern=i , i, Pattern=do, Pattern=, i don't, Pattern=i, Pattern=, i, Pattern=again, Pattern=it, Pattern=and, Pattern=i ,, Pattern=don't
+Turn ID=44| A | A : well it will make , it will make them taste better i'm sure .
+	Free: Pattern=, it, Pattern=well, Pattern=it, Pattern=i'm, Pattern=them, Pattern=better, Pattern=sure
+	Constrained: Pattern=it
+Turn ID=45| B | B : oh , yeah . yeah , i enjoy it . i come home from work and , and i usually say hello to wife and kids , and then go out and fiddle , you know , just walk around the yard and inspect it
+	Free: Pattern=. yeah ,, Pattern=go, Pattern=around, Pattern=, and i, Pattern=oh , yeah ., Pattern=inspect it, Pattern=yard, Pattern=home, Pattern=out, Pattern=it ., Pattern=then, Pattern=and , and, Pattern=, you know ,, Pattern=, just, Pattern=and, Pattern=i enjoy, Pattern=. i, Pattern=yeah . yeah, Pattern=say, Pattern=work, Pattern=wife, Pattern=the, Pattern=, i, Pattern=, and, Pattern=to
+	Constrained: Pattern=and i, Pattern=you know ,, Pattern=just, Pattern=and ,, Pattern=yeah ,, Pattern=yeah ., Pattern=, you know, Pattern=, yeah ., Pattern=i, Pattern=, and, Pattern=oh ,, Pattern=you, Pattern=you know, Pattern=it, Pattern=and, Pattern=oh, Pattern=enjoy, Pattern=, yeah, Pattern=know, Pattern=, you
+Turn ID=46| A | A : sure . you got to inspect it , yeah .
+	Free: Pattern=, yeah ., Pattern=it ,, Pattern=sure, Pattern=inspect it, Pattern=you got to
+	Constrained: Pattern=you, Pattern=it, Pattern=, yeah, Pattern=you got, Pattern=got, Pattern=to, Pattern=got to, Pattern=yeah .
+Turn ID=47| B | B : and the kids want to swing ,
 	Free: Pattern=want to, Pattern=and, Pattern=the
 	Constrained: Pattern=to, Pattern=want
 Turn ID=48| A | A : sure .
 	Free: Pattern=sure
 	Constrained: 
 Turn ID=49| B | B : and i push them on swing .
-	Free: Pattern=and i, Pattern=on, Pattern=them
+	Free: Pattern=and i, Pattern=them, Pattern=on
 	Constrained: Pattern=and, Pattern=i
 Turn ID=50| A | A : sure .
 	Free: Pattern=sure
 	Constrained: 
 Turn ID=51| B | B : and i i mow my own lawn .
-	Free: Pattern=my own, Pattern=i i, Pattern=and i, Pattern=lawn
-	Constrained: Pattern=own, Pattern=and, Pattern=i, Pattern=my
+	Free: Pattern=my own, Pattern=and i, Pattern=i i, Pattern=lawn
+	Constrained: Pattern=and, Pattern=own, Pattern=my, Pattern=i
 Turn ID=52| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=53| B | B : and i do i don't have a sprinkler system . i i don't enjoy watering .
-	Free: Pattern=and i, Pattern=don't enjoy, Pattern=a sprinkler system, Pattern=have a, Pattern=. i i don't, Pattern=i do, Pattern=i don't
-	Constrained: Pattern=i i don't, Pattern=and, Pattern=. i i, Pattern=i, Pattern=don't, Pattern=i i, Pattern=i don't, Pattern=have, Pattern=do, Pattern=a, Pattern=enjoy, Pattern=. i
+	Constrained: 
+Turn ID=53| B | B : and i do , i don't have a sprinkler system . i , i don't enjoy watering .
+	Free: Pattern=and i, Pattern=don't enjoy, Pattern=i do, Pattern=a sprinkler system, Pattern=have a, Pattern=, i don't, Pattern=. i , i don't, Pattern=do ,
+	Constrained: Pattern=and, Pattern=, i don't, Pattern=i, Pattern=, i, Pattern=. i , i, Pattern=i don't, Pattern=have, Pattern=i , i, Pattern=i , i don't, Pattern=do, Pattern=a, Pattern=enjoy, Pattern=. i, Pattern=. i ,, Pattern=i ,, Pattern=don't
 Turn ID=54| A | A : no .
 	Free: Pattern=no
 	Constrained: 
-Turn ID=55| B | B : especially
+Turn ID=55| B | B : especially ,
 	Free: Pattern=especially
 	Constrained: 
-Turn ID=56| A | A : i this is the first home we've lived in we've had a sprinkler system
-	Free: Pattern=had a, Pattern=the first, Pattern=a sprinkler system, Pattern=in, Pattern=we've, Pattern=is, Pattern=i, Pattern=home, Pattern=this
-	Constrained: Pattern=had, Pattern=a, Pattern=the
-Turn ID=57| B | B : oh how
+Turn ID=56| A | A : i , this is the first home we've lived in we've had a sprinkler system ,
+	Free: Pattern=had a, Pattern=the first, Pattern=a sprinkler system, Pattern=in, Pattern=is, Pattern=we've, Pattern=i ,, Pattern=home, Pattern=this
+	Constrained: Pattern=had, Pattern=a, Pattern=i, Pattern=the
+Turn ID=57| B | B : oh how ,
 	Free: Pattern=oh
 	Constrained: 
-Turn ID=58| A | A : and boy it is really nice
-	Free: Pattern=nice, Pattern=is, Pattern=really, Pattern=it, Pattern=and
-	Constrained: 
+Turn ID=58| A | A : and boy , it is really nice ,
+	Free: Pattern=, it, Pattern=nice, Pattern=and, Pattern=is, Pattern=really
+	Constrained: Pattern=it
 Turn ID=59| B | B : oh .
 	Free: Pattern=oh
 	Constrained: 
 Turn ID=60| A | A : it sure beats dragging hoses around .
-	Free: Pattern=sure, Pattern=around, Pattern=it
+	Free: Pattern=it, Pattern=around, Pattern=sure
 	Constrained: 
-Turn ID=61| B | B : yeah you can have it come on just early in the morning . and and off by the you know by the time you're up and about .
-	Free: Pattern=you know, Pattern=it, Pattern=about, Pattern=yeah you can, Pattern=just, Pattern=have, Pattern=and and, Pattern=in the, Pattern=morning, Pattern=up and, Pattern=the time, Pattern=on, Pattern=the, Pattern=. and, Pattern=by
-	Constrained: Pattern=time, Pattern=you, Pattern=yeah you, Pattern=in, Pattern=know, Pattern=the, Pattern=up, Pattern=yeah, Pattern=and, Pattern=can, Pattern=you can
+Turn ID=61| B | B : yeah , you can have it come on just early in the morning . and , and off by the , you know , by the time you're up and about .
+	Free: Pattern=it, Pattern=about, Pattern=yeah , you can, Pattern=just, Pattern=have, Pattern=and , and, Pattern=, you know ,, Pattern=in the, Pattern=morning, Pattern=up and, Pattern=the time, Pattern=on, Pattern=the, Pattern=. and, Pattern=by
+	Constrained: Pattern=time, Pattern=you know ,, Pattern=and ,, Pattern=yeah ,, Pattern=and, Pattern=in, Pattern=yeah , you, Pattern=the, Pattern=, you can, Pattern=you, Pattern=you know, Pattern=can, Pattern=you can, Pattern=, you know, Pattern=know, Pattern=, you, Pattern=, and, Pattern=up
 Turn ID=62| A | A : that's right . that's right . it's really nice .
 	Free: Pattern=nice ., Pattern=right ., Pattern=really, Pattern=that's, Pattern=. that's, Pattern=it's
-	Constrained: Pattern=nice, Pattern=right, Pattern=that's
-Turn ID=63| B | B : yeah . i i usually get it started for my wife
-	Free: Pattern=yeah ., Pattern=. i i, Pattern=my wife, Pattern=get it, Pattern=for my
-	Constrained: Pattern=for, Pattern=. i, Pattern=i, Pattern=wife, Pattern=i i, Pattern=it, Pattern=yeah, Pattern=get, Pattern=my
+	Constrained: Pattern=nice, Pattern=that's, Pattern=right
+Turn ID=63| B | B : yeah . i , i usually get it started for my wife
+	Free: Pattern=yeah ., Pattern=my wife, Pattern=get it, Pattern=. i , i, Pattern=for my
+	Constrained: Pattern=i , i, Pattern=for, Pattern=it, Pattern=i, Pattern=i ,, Pattern=. i, Pattern=. i ,, Pattern=wife, Pattern=, i, Pattern=get, Pattern=my
 Turn ID=64| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=65| B | B : and i and she moves it around ever other day .
-	Free: Pattern=and i, Pattern=around, Pattern=she, Pattern=other, Pattern=day, Pattern=it, Pattern=and
+Turn ID=65| B | B : and i , and she moves it around ever other day .
+	Free: Pattern=and i, Pattern=around, Pattern=it, Pattern=she, Pattern=other, Pattern=day, Pattern=i ,, Pattern=, and
 	Constrained: Pattern=and, Pattern=i
-Turn ID=66| A | A : i'll have to admit i don't i do my own yard . i i really don't enjoy doing that . i enjoy having a nice looking yard
-	Free: Pattern=that ., Pattern=don't enjoy, Pattern=i'll, Pattern=nice, Pattern=i enjoy, Pattern=having, Pattern=. i, Pattern=doing that, Pattern=. i i, Pattern=my own, Pattern=have to, Pattern=yard, Pattern=i do, Pattern=i don't, Pattern=i really don't, Pattern=a
-	Constrained: Pattern=own, Pattern=have, Pattern=do, Pattern=doing, Pattern=i, Pattern=really, Pattern=don't, Pattern=to, Pattern=my, Pattern=enjoy, Pattern=. i, Pattern=i really, Pattern=that, Pattern=i i
+Turn ID=66| A | A : i'll have to admit i don't , i do my own yard . i , i really don't enjoy doing that . i enjoy having a nice looking yard ,
+	Free: Pattern=that ., Pattern=don't enjoy, Pattern=i don't, Pattern=i'll, Pattern=nice, Pattern=i enjoy, Pattern=having, Pattern=. i, Pattern=doing that, Pattern=my own, Pattern=yard, Pattern=. i , i, Pattern=i really don't, Pattern=a, Pattern=have to, Pattern=, i do
+	Constrained: Pattern=own, Pattern=i , i, Pattern=do, Pattern=doing, Pattern=i, Pattern=really, Pattern=, i, Pattern=to, Pattern=my, Pattern=that, Pattern=i do, Pattern=have, Pattern=enjoy, Pattern=. i, Pattern=. i ,, Pattern=i really, Pattern=i ,, Pattern=don't
 Turn ID=67| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=68| A | A : i just don't enjoy the work that it takes to get it done .
-	Free: Pattern=don't enjoy, Pattern=i just, Pattern=to get, Pattern=work, Pattern=that, Pattern=it takes, Pattern=get it, Pattern=the
-	Constrained: Pattern=just, Pattern=it, Pattern=i, Pattern=don't, Pattern=to, Pattern=get, Pattern=enjoy, Pattern=takes
+Turn ID=68| A | A : i just don't enjoy the work , that it takes to get it done .
+	Free: Pattern=don't enjoy, Pattern=just, Pattern=to get, Pattern=, that, Pattern=work, Pattern=i, Pattern=it takes, Pattern=get it, Pattern=the
+	Constrained: Pattern=it, Pattern=don't, Pattern=to, Pattern=get, Pattern=that, Pattern=enjoy, Pattern=takes
 Turn ID=69| B | B : uh-huh . yeah .
 	Free: Pattern=uh-huh . yeah .
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=. yeah ., Pattern=. yeah, Pattern=uh-huh .
-Turn ID=70| A | A : i had a lawn service to do my yard for me during the real hot summer months you know until i retired
-	Free: Pattern=until, Pattern=you know, Pattern=for, Pattern=i had a, Pattern=hot, Pattern=i, Pattern=the, Pattern=my, Pattern=real, Pattern=me, Pattern=to do, Pattern=lawn, Pattern=yard
-	Constrained: Pattern=had a, Pattern=you, Pattern=know, Pattern=had, Pattern=to, Pattern=do, Pattern=a, Pattern=i had, Pattern=i
+	Constrained: Pattern=yeah ., Pattern=uh-huh ., Pattern=. yeah .
+Turn ID=70| A | A : i had a lawn service to do my yard for me during the real hot summer months , you know , until i retired
+	Free: Pattern=, you know ,, Pattern=for, Pattern=i had a, Pattern=hot, Pattern=i, Pattern=the, Pattern=my, Pattern=me, Pattern=to do, Pattern=lawn, Pattern=yard, Pattern=real, Pattern=, until
+	Constrained: Pattern=had a, Pattern=you know ,, Pattern=, you know, Pattern=had, Pattern=to, Pattern=you, Pattern=you know, Pattern=do, Pattern=a, Pattern=know, Pattern=, you, Pattern=i had, Pattern=i
 Turn ID=71| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=72| A | A : and now i i've lost my excuse for that so i have to for the last couple of years i've done it myself .
-	Free: Pattern=for the, Pattern=years, Pattern=for, Pattern=i've, Pattern=so i, Pattern=have to, Pattern=now, Pattern=my, Pattern=that, Pattern=i have, Pattern=it, Pattern=and, Pattern=couple of, Pattern=i
+Turn ID=72| A | A : and now i , i've lost my excuse for that so i have to for the last couple of years i've done it myself .
+	Free: Pattern=for the, Pattern=years, Pattern=for, Pattern=i've, Pattern=so i, Pattern=couple of, Pattern=now, Pattern=my, Pattern=that, Pattern=i have, Pattern=it, Pattern=and, Pattern=i ,, Pattern=have to
 	Constrained: Pattern=of, Pattern=have, Pattern=for, Pattern=i, Pattern=the, Pattern=to, Pattern=so
-Turn ID=73| B | B : yeah . sometimes i wish i could get one of these uh chemical services to come out and spray for weeds and fertilize and all that and take that one step out of .
-	Free: Pattern=of, Pattern=and, Pattern=one, Pattern=i, Pattern=to, Pattern=that, Pattern=uh, Pattern=out, Pattern=yeah ., Pattern=for, Pattern=take, Pattern=all, Pattern=get, Pattern=one of
-	Constrained: Pattern=yeah, Pattern=one, Pattern=of
+Turn ID=73| B | B : yeah . sometimes i wish i could get one of these , uh , chemical services to come , out and spray for weeds , and fertilize , and all that and take that one step out of .
+	Free: Pattern=of, Pattern=out, Pattern=and, Pattern=one, Pattern=i, Pattern=, uh ,, Pattern=that, Pattern=yeah ., Pattern=for, Pattern=take, Pattern=all, Pattern=, and, Pattern=to, Pattern=get, Pattern=one of
+	Constrained: Pattern=of, Pattern=and, Pattern=one, Pattern=uh ,, Pattern=uh, Pattern=, uh
 Turn ID=74| A | A : uh-huh . yeah . uh-huh . uh-huh .
 	Free: Pattern=uh-huh . yeah ., Pattern=uh-huh . uh-huh ., Pattern=. uh-huh .
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=. yeah ., Pattern=. yeah, Pattern=. uh-huh, Pattern=uh-huh ., Pattern=. uh-huh .
-Turn ID=75| B | B : but uh they want too much money .
-	Free: Pattern=money, Pattern=want, Pattern=uh, Pattern=too much, Pattern=they, Pattern=but
-	Constrained: Pattern=much, Pattern=too
-Turn ID=76| A | A : it is kind of expensive it is .
-	Free: Pattern=kind of, Pattern=is, Pattern=expensive, Pattern=it
-	Constrained: Pattern=of, Pattern=kind
+	Constrained: Pattern=yeah ., Pattern=. yeah ., Pattern=. uh-huh, Pattern=uh-huh ., Pattern=. uh-huh .
+Turn ID=75| B | B : but , uh , they want too much money .
+	Free: Pattern=money, Pattern=want, Pattern=too much, Pattern=they, Pattern=, uh ,, Pattern=but
+	Constrained: Pattern=too, Pattern=much, Pattern=uh ,, Pattern=uh, Pattern=, uh
+Turn ID=76| A | A : it is kind of expensive , it is .
+	Free: Pattern=, it, Pattern=kind of, Pattern=it, Pattern=is, Pattern=expensive
+	Constrained: Pattern=it, Pattern=of, Pattern=kind
 Turn ID=77| B | B : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=78| A | A : of course the chemicals themselves when you buy them they're expensive too .
-	Free: Pattern=of, Pattern=when you, Pattern=too ., Pattern=they're, Pattern=the, Pattern=expensive, Pattern=them
-	Constrained: Pattern=too, Pattern=you, Pattern=when
+	Constrained: 
+Turn ID=78| A | A : of course , the chemicals themselves when you buy them , they're expensive too .
+	Free: Pattern=of, Pattern=when you, Pattern=too ., Pattern=, they're, Pattern=expensive, Pattern=, the, Pattern=them ,
+	Constrained: Pattern=you, Pattern=too, Pattern=they're, Pattern=the, Pattern=when, Pattern=them
 Turn ID=79| B | B : right . right . but it's still be quite a bit cheaper to do it yourself .
 	Free: Pattern=right ., Pattern=be, Pattern=. right ., Pattern=to do it, Pattern=bit, Pattern=a, Pattern=it's, Pattern=but
 	Constrained: Pattern=right, Pattern=to do, Pattern=do, Pattern=it, Pattern=right ., Pattern=do it, Pattern=to
-Turn ID=80| A | A : that's right . if i have a problem discipline you know i think now boy i really need to get out you know and apply something you know and i screw around and don't do it or wait too long or something .
-	Free: Pattern=and i, Pattern=problem, Pattern=you know, Pattern=long, Pattern=around, Pattern=i really, Pattern=if i, Pattern=right ., Pattern=do it, Pattern=or, Pattern=or something, Pattern=that's, Pattern=don't, Pattern=you know i, Pattern=now, Pattern=to get out, Pattern=i think, Pattern=and, Pattern=too, Pattern=wait, Pattern=i have a, Pattern=something
-	Constrained: Pattern=right, Pattern=have, Pattern=have a, Pattern=if, Pattern=think, Pattern=know, Pattern=i, Pattern=really, Pattern=or, Pattern=to, Pattern=get, Pattern=you, Pattern=out, Pattern=you know, Pattern=do, Pattern=a, Pattern=it, Pattern=and, Pattern=get out, Pattern=to get, Pattern=i have, Pattern=something
-Turn ID=81| B | B : right and the weed come up
-	Free: Pattern=and, Pattern=up, Pattern=right, Pattern=the
-	Constrained: 
+Turn ID=80| A | A : that's right . if i have a problem discipline , you know , i think , now , boy , i really need to get out , you know , and apply something , you know , and i screw around and don't do it or wait too long or something .
+	Free: Pattern=problem, Pattern=long, Pattern=, you know ,, Pattern=around, Pattern=i really, Pattern=right ., Pattern=do it, Pattern=or, Pattern=or something, Pattern=don't, Pattern=now ,, Pattern=, and, Pattern=to get out, Pattern=, i think ,, Pattern=something ,, Pattern=and, Pattern=too, Pattern=if i, Pattern=, and i, Pattern=, you know , i, Pattern=that's, Pattern=, i, Pattern=wait, Pattern=i have a
+	Constrained: Pattern=and i, Pattern=have, Pattern=have a, Pattern=, i think, Pattern=if, Pattern=, you know, Pattern=think, Pattern=i, Pattern=really, Pattern=or, Pattern=, i, Pattern=now, Pattern=get, Pattern=right, Pattern=you know ,, Pattern=you, Pattern=out, Pattern=you know, Pattern=do, Pattern=, you know ,, Pattern=a, Pattern=it, Pattern=and, Pattern=get out, Pattern=to get, Pattern=know, Pattern=, you, Pattern=, and, Pattern=to, Pattern=i have, Pattern=something
+Turn ID=81| B | B : right and the weed come up ,
+	Free: Pattern=up ,, Pattern=and, Pattern=the, Pattern=right
+	Constrained: Pattern=up
 Turn ID=82| A | A : that's right .
 	Free: Pattern=right ., Pattern=that's
 	Constrained: Pattern=right
 Turn ID=83| B | B : and all of a sudden you've got to do something else .
 	Free: Pattern=do something, Pattern=to do, Pattern=got to, Pattern=and, Pattern=of a, Pattern=all
 	Constrained: Pattern=of, Pattern=got, Pattern=to, Pattern=something, Pattern=do, Pattern=a
-Turn ID=84| A | A : that's right . i'm i'm kind of bad about that .
+Turn ID=84| A | A : that's right . i'm , i'm kind of bad about that .
 	Free: Pattern=that ., Pattern=kind of, Pattern=about, Pattern=that's, Pattern=i'm, Pattern=right .
-	Constrained: Pattern=right, Pattern=that, Pattern=of, Pattern=kind
+	Constrained: Pattern=of, Pattern=kind, Pattern=that, Pattern=right
 Turn ID=85| B | B : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=86| A | A : i enjoyed having a lawn service but now i have the time and i really can't i really you know don't want to spend the money for it .
-	Free: Pattern=money, Pattern=a, Pattern=having, Pattern=i, Pattern=the, Pattern=don't, Pattern=lawn, Pattern=now, Pattern=but, Pattern=i have, Pattern=for it, Pattern=and i, Pattern=you know, Pattern=it ., Pattern=want to, Pattern=i really, Pattern=the time, Pattern=can't
-	Constrained: Pattern=time, Pattern=want, Pattern=you, Pattern=have, Pattern=for, Pattern=know, Pattern=i, Pattern=really, Pattern=the, Pattern=to, Pattern=it, Pattern=and
-Turn ID=87| B | B : well if you enjoy it too you know you you can get out in the morning when before it gets hot and and do it and stuff when you only have to
-	Free: Pattern=well, Pattern=you know, Pattern=when you, Pattern=do it, Pattern=have to, Pattern=when, Pattern=before, Pattern=only, Pattern=and and, Pattern=it, Pattern=and, Pattern=get out, Pattern=you you, Pattern=too, Pattern=in the, Pattern=morning, Pattern=enjoy, Pattern=hot, Pattern=you can get, Pattern=if you
-	Constrained: Pattern=have, Pattern=do, Pattern=if, Pattern=in, Pattern=know, Pattern=the, Pattern=when, Pattern=to, Pattern=get, Pattern=you, Pattern=out, Pattern=it, Pattern=and, Pattern=can, Pattern=you can
-Turn ID=88| A | A : yeah . that's right . i'm not limited to just mowing it on saturday morning you know
-	Free: Pattern=you know, Pattern=just, Pattern=yeah . that's, Pattern=morning, Pattern=not, Pattern=i'm, Pattern=right ., Pattern=it on, Pattern=to
-	Constrained: Pattern=right, Pattern=you, Pattern=yeah ., Pattern=know, Pattern=. that's, Pattern=it, Pattern=yeah, Pattern=on, Pattern=that's
+	Constrained: 
+Turn ID=86| A | A : i enjoyed having a lawn service but now i have the time and i really can't , i really you know , don't , want to spend the money for it .
+	Free: Pattern=it ., Pattern=a, Pattern=having, Pattern=i, Pattern=the time, Pattern=, don't, Pattern=lawn, Pattern=now, Pattern=but, Pattern=for it, Pattern=and i, Pattern=money, Pattern=you know ,, Pattern=want to, Pattern=i really, Pattern=the, Pattern=, i, Pattern=i have, Pattern=can't ,
+	Constrained: Pattern=time, Pattern=want, Pattern=have, Pattern=for, Pattern=know, Pattern=i, Pattern=really, Pattern=can't, Pattern=the, Pattern=don't, Pattern=to, Pattern=you, Pattern=you know, Pattern=it, Pattern=and
+Turn ID=87| B | B : well , if you , enjoy it too , you know , you , you can get out in the morning when , before it gets hot and , and do it and stuff , when you only have to ,
+	Free: Pattern=only, Pattern=when you, Pattern=well ,, Pattern=if you, Pattern=too ,, Pattern=have to, Pattern=when, Pattern=and , and, Pattern=, you know ,, Pattern=it, Pattern=and, Pattern=get out, Pattern=in the, Pattern=morning, Pattern=enjoy, Pattern=hot, Pattern=, you can get, Pattern=to ,, Pattern=do it, Pattern=, before, Pattern=you ,, Pattern=, you , you
+	Constrained: Pattern=you know ,, Pattern=well, Pattern=have, Pattern=and ,, Pattern=do, Pattern=, you ,, Pattern=if, Pattern=you can get, Pattern=in, Pattern=the, Pattern=, you can, Pattern=when, Pattern=you, Pattern=out, Pattern=you know, Pattern=it, Pattern=and, Pattern=too, Pattern=can, Pattern=you can, Pattern=, you know, Pattern=know, Pattern=, you, Pattern=before, Pattern=, and, Pattern=to, Pattern=get, Pattern=you ,
+Turn ID=88| A | A : yeah . that's right . i'm not limited to , just mowing it on saturday morning , you know ,
+	Free: Pattern=morning, Pattern=to ,, Pattern=it on, Pattern=not, Pattern=yeah . that's, Pattern=, you know ,, Pattern=, just, Pattern=i'm, Pattern=right .
+	Constrained: Pattern=just, Pattern=yeah ., Pattern=it, Pattern=, you know, Pattern=right, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you, Pattern=on, Pattern=that's, Pattern=. that's, Pattern=to
 Turn ID=89| B | B : right .
 	Free: Pattern=right .
 	Constrained: Pattern=right
 Turn ID=90| A | A : i can do it on most any day of the week .
 	Free: Pattern=any, Pattern=day, Pattern=do it, Pattern=it on, Pattern=i can, Pattern=of the
 	Constrained: Pattern=of, Pattern=do, Pattern=it, Pattern=can, Pattern=i, Pattern=on, Pattern=the
-Turn ID=91| B | B : when the days start getting a little longer you know you can i can start doing it in the evening after work .
-	Free: Pattern=you know, Pattern=doing, Pattern=work, Pattern=it in the, Pattern=start, Pattern=the, Pattern=when, Pattern=i can, Pattern=you can, Pattern=a little
-	Constrained: Pattern=it in, Pattern=you, Pattern=little, Pattern=a, Pattern=it, Pattern=in the, Pattern=can, Pattern=in, Pattern=know, Pattern=i, Pattern=the
+Turn ID=91| B | B : when the days start getting a little longer , you know , you can , i can start doing it in the evening after work .
+	Free: Pattern=can ,, Pattern=, you know ,, Pattern=doing, Pattern=a little, Pattern=work, Pattern=it in the, Pattern=start, Pattern=, you can, Pattern=when, Pattern=i can, Pattern=the, Pattern=, i
+	Constrained: Pattern=you know ,, Pattern=it in, Pattern=little, Pattern=a, Pattern=it, Pattern=in the, Pattern=in, Pattern=i, Pattern=the, Pattern=you, Pattern=you know, Pattern=can, Pattern=you can, Pattern=, you know, Pattern=know, Pattern=, you
 Turn ID=92| A | A : uh-huh . that's right .
-	Free: Pattern=uh-huh ., Pattern=right ., Pattern=. that's
-	Constrained: Pattern=right, Pattern=that's
-Turn ID=93| B | B : when they when they switch to switch
-	Free: Pattern=to, Pattern=they, Pattern=when
-	Constrained: 
+	Free: Pattern=right ., Pattern=. that's, Pattern=uh-huh .
+	Constrained: Pattern=that's, Pattern=right
+Turn ID=93| B | B : when they , when they switch to , switch ,
+	Free: Pattern=they ,, Pattern=to ,, Pattern=when, Pattern=they
+	Constrained: Pattern=they, Pattern=to
 Turn ID=94| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=95| B | B : when we get an hour more
-	Free: Pattern=when we, Pattern=get, Pattern=more
+	Constrained: 
+Turn ID=95| B | B : when we get an hour more ,
+	Free: Pattern=when we, Pattern=more, Pattern=get
 	Constrained: Pattern=we, Pattern=when
 Turn ID=96| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
+	Constrained: 
 Turn ID=97| B | B : when they rollback an hour .
-	Free: Pattern=they, Pattern=when
+	Free: Pattern=when, Pattern=they
 	Constrained: 
 Turn ID=98| A | A : that's coming up here pretty soon . is it this weekend ?
 	Free: Pattern=coming up here, Pattern=it, Pattern=is, Pattern=that's, Pattern=this, Pattern=soon .
-	Constrained: Pattern=here, Pattern=up, Pattern=coming
+	Constrained: Pattern=here, Pattern=coming, Pattern=up
 Turn ID=99| B | B : i don't know .
-	Free: Pattern=i don't know, Pattern=don't know .
+	Free: Pattern=don't know ., Pattern=i don't know
 	Constrained: Pattern=know, Pattern=i don't, Pattern=don't, Pattern=i
 Turn ID=100| A | A : it's pretty soon .
 	Free: Pattern=soon ., Pattern=it's
 	Constrained: 
 Turn ID=101| B | B : i really don't know . it just seems like i here it on the news the day before .
-	Free: Pattern=like i, Pattern=here, Pattern=i really don't know ., Pattern=day, Pattern=on the, Pattern=the, Pattern=it on, Pattern=before, Pattern=it just, Pattern=. it
-	Constrained: Pattern=just, Pattern=i really don't, Pattern=it, Pattern=i really, Pattern=know, Pattern=i, Pattern=don't, Pattern=don't know ., Pattern=really, Pattern=like, Pattern=on, Pattern=the
+	Free: Pattern=like i, Pattern=here, Pattern=i really don't, Pattern=day, Pattern=on the, Pattern=the, Pattern=it on, Pattern=before, Pattern=it just, Pattern=don't know ., Pattern=. it
+	Constrained: Pattern=just, Pattern=it, Pattern=i really, Pattern=know, Pattern=i, Pattern=don't, Pattern=really, Pattern=like, Pattern=on, Pattern=the
 Turn ID=102| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=103| B | B : and uh i i think it's coming up here soon .
-	Free: Pattern=coming up here, Pattern=and uh, Pattern=i think, Pattern=soon ., Pattern=i i, Pattern=it's
-	Constrained: Pattern=uh, Pattern=and, Pattern=think, Pattern=i, Pattern=up, Pattern=coming, Pattern=here
+	Constrained: 
+Turn ID=103| B | B : and , uh , i , i think it's coming up here soon .
+	Free: Pattern=coming up here, Pattern=, i think, Pattern=and , uh ,, Pattern=, i , i, Pattern=soon ., Pattern=it's
+	Constrained: Pattern=and ,, Pattern=and, Pattern=, i ,, Pattern=think, Pattern=i, Pattern=, uh ,, Pattern=i ,, Pattern=up, Pattern=uh, Pattern=, uh, Pattern=coming, Pattern=here, Pattern=i , i, Pattern=uh ,, Pattern=, i
 Turn ID=104| A | A : i believe it is too .
-	Free: Pattern=too ., Pattern=i, Pattern=is, Pattern=it
+	Free: Pattern=too ., Pattern=it, Pattern=i, Pattern=is
 	Constrained: Pattern=too
 Turn ID=105| B | B : yeah . yeah .
 	Free: Pattern=yeah . yeah .
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=yeah . yeah, Pattern=. yeah ., Pattern=. yeah
-Turn ID=106| A | A : well
-	Free: Pattern=well
-	Constrained: 
-Turn ID=107| B | B : are you having any trouble with bugs in in your garden ?
+	Constrained: Pattern=yeah ., Pattern=yeah . yeah, Pattern=. yeah .
+Turn ID=106| A | A : well ,
+	Free: Pattern=well ,
+	Constrained: Pattern=well
+Turn ID=107| B | B : are you having any trouble with bugs in , in your garden ?
 	Free: Pattern=any, Pattern=are, Pattern=having, Pattern=in, Pattern=with, Pattern=you, Pattern=your garden, Pattern=bugs, Pattern=garden ?
 	Constrained: Pattern=your, Pattern=garden
-Turn ID=108| A | A : uh not a whole lot uh . i i don't use i i seldom use anything harsher than seven dust you know .
-	Free: Pattern=you know ., Pattern=uh, Pattern=a, Pattern=whole, Pattern=. i i don't, Pattern=i i, Pattern=not, Pattern=anything, Pattern=lot
-	Constrained: Pattern=i don't, Pattern=i i don't, Pattern=. i, Pattern=i, Pattern=don't, Pattern=i i, Pattern=you, Pattern=you know, Pattern=know, Pattern=. i i
+Turn ID=108| A | A : uh , not a whole lot , uh . i , i don't use , i , i seldom use anything harsher than seven dust , you know .
+	Free: Pattern=you know ., Pattern=, uh, Pattern=a, Pattern=, you know, Pattern=whole, Pattern=, i , i, Pattern=. i , i don't, Pattern=, not, Pattern=uh ,, Pattern=anything, Pattern=lot
+	Constrained: Pattern=i don't, Pattern=, i ,, Pattern=, i don't, Pattern=i, Pattern=, i, Pattern=. i , i, Pattern=not, Pattern=you, Pattern=uh, Pattern=you know, Pattern=i , i, Pattern=i , i don't, Pattern=. i, Pattern=. i ,, Pattern=know, Pattern=, you, Pattern=i ,, Pattern=don't
 Turn ID=109| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=110| A | A : i don't really like to put a lot chemicals on it but then again i don't want the bugs eating it upping either .
-	Free: Pattern=want, Pattern=i don't, Pattern=bugs, Pattern=then, Pattern=it, Pattern=really, Pattern=again, Pattern=a lot, Pattern=put, Pattern=but, Pattern=on, Pattern=like to, Pattern=the
-	Constrained: Pattern=a, Pattern=i, Pattern=like, Pattern=lot, Pattern=don't, Pattern=to
-Turn ID=111| B | B : right . right . i i it seems like they come in spurts .
-	Free: Pattern=they, Pattern=it, Pattern=in, Pattern=like, Pattern=. right ., Pattern=right ., Pattern=. i i
-	Constrained: Pattern=right, Pattern=. i, Pattern=right ., Pattern=i, Pattern=i i
+Turn ID=110| A | A : i don't really like to put a lot chemicals on it but then , again , i don't want the bugs eating it upping either .
+	Free: Pattern=want, Pattern=i don't, Pattern=bugs, Pattern=it, Pattern=really, Pattern=again, Pattern=a lot, Pattern=put, Pattern=but, Pattern=, i don't, Pattern=then ,, Pattern=on, Pattern=like to, Pattern=the
+	Constrained: Pattern=i don't, Pattern=i, Pattern=like, Pattern=don't, Pattern=to, Pattern=then, Pattern=a, Pattern=lot, Pattern=, i
+Turn ID=111| B | B : right . right . i , i , it seems like they come in spurts .
+	Free: Pattern=, it, Pattern=they, Pattern=, i ,, Pattern=in, Pattern=right ., Pattern=like, Pattern=. right ., Pattern=. i , i
+	Constrained: Pattern=right, Pattern=i , i, Pattern=it, Pattern=right ., Pattern=i, Pattern=, i, Pattern=i ,, Pattern=. i, Pattern=. i ,
 Turn ID=112| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
@@ -603,192 +603,192 @@ Turn ID=113| B | B : one year i didn't put anything on and i didn't have any pro
 Turn ID=114| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=115| B | B : next year i was planting some broccoli and and some of those they're called cabbage cabbage loppers or whatever .
-	Free: Pattern=i was, Pattern=of, Pattern=and and, Pattern=they're, Pattern=some, Pattern=or, Pattern=year, Pattern=those
-	Constrained: Pattern=and, Pattern=i, Pattern=was
+Turn ID=115| B | B : next year i was planting some broccoli and , and some of those , they're called cabbage , cabbage loppers , or whatever .
+	Free: Pattern=i was, Pattern=of, Pattern=and , and, Pattern=some, Pattern=, they're, Pattern=or, Pattern=year, Pattern=those
+	Constrained: Pattern=and ,, Pattern=and, Pattern=they're, Pattern=i, Pattern=, and, Pattern=was
 Turn ID=116| A | A : uh-huh . right . uh-huh .
-	Free: Pattern=. uh-huh ., Pattern=. right ., Pattern=uh-huh .
+	Free: Pattern=. right ., Pattern=. uh-huh ., Pattern=uh-huh .
 	Constrained: Pattern=right ., Pattern=uh-huh ., Pattern=. uh-huh, Pattern=right
-Turn ID=117| B | B : they were just covered with them
-	Free: Pattern=they were, Pattern=with, Pattern=them, Pattern=just
-	Constrained: Pattern=were, Pattern=they
+Turn ID=117| B | B : they were just covered with them ,
+	Free: Pattern=they were, Pattern=them ,, Pattern=just, Pattern=with
+	Constrained: Pattern=them, Pattern=they, Pattern=were
 Turn ID=118| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=119| B | B : i mean i went up i didn't go out there for about three days you know because i and i went out there one day and the plant was nothing left but a stem
-	Free: Pattern=and i, Pattern=you know, Pattern=plant, Pattern=go, Pattern=a, Pattern=for, Pattern=and, Pattern=one, Pattern=didn't, Pattern=about, Pattern=left, Pattern=the, Pattern=out there, Pattern=up, Pattern=was, Pattern=but, Pattern=day, Pattern=i mean, Pattern=i
-	Constrained: Pattern=there, Pattern=and, Pattern=know, Pattern=i, Pattern=you, Pattern=out
+	Constrained: 
+Turn ID=119| B | B : i mean , i went up , i didn't go out there for about three days , you know , because i , and i went out there one day and the plant was nothing left but a stem ,
+	Free: Pattern=up ,, Pattern=plant, Pattern=go, Pattern=for, Pattern=and, Pattern=one, Pattern=didn't, Pattern=about, Pattern=, and i, Pattern=left, Pattern=day, Pattern=i mean ,, Pattern=i ,, Pattern=out there, Pattern=was, Pattern=but, Pattern=, you know ,, Pattern=a, Pattern=the, Pattern=, i
+	Constrained: Pattern=and i, Pattern=you know ,, Pattern=there, Pattern=and, Pattern=, you know, Pattern=you, Pattern=out, Pattern=you know, Pattern=know, Pattern=, you, Pattern=i mean, Pattern=i, Pattern=, and, Pattern=up
 Turn ID=120| A | A : uh-huh . that's right .
-	Free: Pattern=uh-huh ., Pattern=right ., Pattern=. that's
-	Constrained: Pattern=right, Pattern=that's
+	Free: Pattern=right ., Pattern=. that's, Pattern=uh-huh .
+	Constrained: Pattern=that's, Pattern=right
 Turn ID=121| B | B : they devoured it that quickly .
 	Free: Pattern=it that, Pattern=they
-	Constrained: Pattern=that, Pattern=it
-Turn ID=122| A | A : absolutely . they really go through it
-	Free: Pattern=. they, Pattern=really, Pattern=go, Pattern=it
-	Constrained: Pattern=they
-Turn ID=123| B | B : and they they have a you a good appetite
-	Free: Pattern=good, Pattern=you, Pattern=they have, Pattern=a, Pattern=and, Pattern=they, Pattern=have a
-	Constrained: Pattern=a, Pattern=have, Pattern=they
+	Constrained: Pattern=it, Pattern=that
+Turn ID=122| A | A : absolutely . they really go through it ,
+	Free: Pattern=it ,, Pattern=. they, Pattern=really, Pattern=go
+	Constrained: Pattern=it, Pattern=they
+Turn ID=123| B | B : and , they , they , have a , you , a good appetite
+	Free: Pattern=good, Pattern=a ,, Pattern=they ,, Pattern=and ,, Pattern=have a, Pattern=, you ,, Pattern=, a
+	Constrained: Pattern=you, Pattern=have, Pattern=they, Pattern=a, Pattern=and, Pattern=, you, Pattern=you ,
 Turn ID=124| A | A : they really do . yeah .
-	Free: Pattern=. yeah ., Pattern=do ., Pattern=really, Pattern=they
-	Constrained: Pattern=yeah ., Pattern=. yeah, Pattern=yeah, Pattern=do
-Turn ID=125| B | B : and they would you know i i picked off like twenty of them and
-	Free: Pattern=they, Pattern=of them, Pattern=and, Pattern=them and, Pattern=like, Pattern=would, Pattern=you know i, Pattern=i i
-	Constrained: Pattern=of, Pattern=and, Pattern=know, Pattern=i, Pattern=them, Pattern=you, Pattern=you know
+	Free: Pattern=. yeah ., Pattern=do ., Pattern=they, Pattern=really
+	Constrained: Pattern=yeah ., Pattern=do
+Turn ID=125| B | B : and they would , you know , i , i picked off like twenty of them and ,
+	Free: Pattern=would ,, Pattern=and ,, Pattern=they, Pattern=of them, Pattern=and, Pattern=them and, Pattern=like, Pattern=, i , i, Pattern=, you know , i
+	Constrained: Pattern=i , i, Pattern=, you know ,, Pattern=and, Pattern=i, Pattern=, i, Pattern=i ,, Pattern=them, Pattern=of, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=, i ,, Pattern=, you know, Pattern=know, Pattern=, you
 Turn ID=126| A | A : you know cutworms will do the same thing to your tomato vines too .
 	Free: Pattern=you know, Pattern=do, Pattern=too ., Pattern=your, Pattern=the, Pattern=to
-	Constrained: Pattern=too, Pattern=you, Pattern=know
+	Constrained: Pattern=know, Pattern=too, Pattern=you
 Turn ID=127| B | B : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=128| A | A : boy they'll strip
+	Constrained: 
+Turn ID=128| A | A : boy , they'll strip ,
 	Free: 
 	Constrained: 
-Turn ID=129| B | B : they got that uh what is that safer soap uh b t spray this year .
-	Free: Pattern=uh, Pattern=is, Pattern=that, Pattern=what, Pattern=they, Pattern=got, Pattern=this year .
-	Constrained: Pattern=this year, Pattern=year, Pattern=this
+Turn ID=129| B | B : they got that , uh , what is that safer soap , uh , b t spray this , year .
+	Free: Pattern=they, Pattern=, what, Pattern=this ,, Pattern=is, Pattern=got, Pattern=that, Pattern=year ., Pattern=, uh ,
+	Constrained: Pattern=what, Pattern=year, Pattern=uh ,, Pattern=this, Pattern=uh, Pattern=, uh
 Turn ID=130| A | A : uh-huh . yeah . uh-huh .
 	Free: Pattern=uh-huh . yeah ., Pattern=. uh-huh .
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=. yeah ., Pattern=. yeah, Pattern=. uh-huh, Pattern=uh-huh .
-Turn ID=131| B | B : and i've been watching them every day and i've and i haven't seen any signs yet . so if i see any signs i'm going to spray them
-	Free: Pattern=going to, Pattern=and i, Pattern=i see, Pattern=any, Pattern=if i, Pattern=day, Pattern=seen, Pattern=them, Pattern=and i've, Pattern=i'm, Pattern=i haven't, Pattern=so
-	Constrained: Pattern=and, Pattern=i, Pattern=see, Pattern=to, Pattern=i've, Pattern=if, Pattern=haven't
+	Constrained: Pattern=yeah ., Pattern=uh-huh ., Pattern=. uh-huh, Pattern=. yeah .
+Turn ID=131| B | B : and i've been watching them every day and i've , and i haven't seen any signs yet . so , if i see any signs i'm going to spray them ,
+	Free: Pattern=going to, Pattern=i see, Pattern=i've ,, Pattern=any, Pattern=day, Pattern=them, Pattern=if i, Pattern=, and i, Pattern=and i've, Pattern=i'm, Pattern=seen, Pattern=them ,, Pattern=i haven't, Pattern=so
+	Constrained: Pattern=and i, Pattern=and, Pattern=i, Pattern=see, Pattern=them, Pattern=i've, Pattern=if, Pattern=haven't, Pattern=, and, Pattern=to
 Turn ID=132| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=133| B | B : and uh
-	Free: Pattern=and uh
-	Constrained: Pattern=and, Pattern=uh
-Turn ID=134| A | A : i did something a little bit different this year that i haven't done before i've got my garden is shaped that i can it's kind like this uh box shape so i got four pieces of two by twelve and joined them together and just made a box . and put in a whole bunch like eight hundred pounds of topsoil and manure
-	Free: Pattern=of, Pattern=year that i haven't, Pattern=four, Pattern=made, Pattern=and, Pattern=and just, Pattern=so i, Pattern=in, Pattern=i got, Pattern=that i, Pattern=bunch, Pattern=before, Pattern=this, Pattern=something, Pattern=box, Pattern=kind, Pattern=uh, Pattern=this year, Pattern=i've got, Pattern=bit, Pattern=a, Pattern=pounds, Pattern=a little, Pattern=is, Pattern=two, Pattern=i, Pattern=a box, Pattern=like, Pattern=whole, Pattern=. and, Pattern=by, Pattern=my garden, Pattern=put, Pattern=i can, Pattern=them, Pattern=it's
-	Constrained: Pattern=box, Pattern=just, Pattern=little, Pattern=a, Pattern=and, Pattern=can, Pattern=garden, Pattern=i, Pattern=year, Pattern=that i, Pattern=got, Pattern=that, Pattern=i've, Pattern=haven't, Pattern=my, Pattern=this, Pattern=i haven't, Pattern=so
+	Constrained: 
+Turn ID=133| B | B : and , uh ,
+	Free: Pattern=and , uh ,
+	Constrained: Pattern=and ,, Pattern=and, Pattern=, uh ,, Pattern=uh ,, Pattern=uh, Pattern=, uh
+Turn ID=134| A | A : i did something a little bit different this year that i haven't done before , i've got , my garden is shaped that i can , it's kind like this , uh , box shape , so i got four pieces of two by twelve and joined them together and just made a box . and put in a whole bunch like eight hundred pounds of topsoil and manure
+	Free: Pattern=got ,, Pattern=of, Pattern=four, Pattern=made, Pattern=, it's, Pattern=so i, Pattern=in, Pattern=i got, Pattern=, uh ,, Pattern=before, Pattern=i haven't, Pattern=something, Pattern=box, Pattern=kind, Pattern=this year, Pattern=can ,, Pattern=i've got, Pattern=bit, Pattern=a, Pattern=and, Pattern=this ,, Pattern=year that, Pattern=and just, Pattern=pounds, Pattern=a little, Pattern=is, Pattern=two, Pattern=i, Pattern=a box, Pattern=like, Pattern=whole, Pattern=, my, Pattern=bunch, Pattern=. and, Pattern=by, Pattern=my garden, Pattern=put, Pattern=i can, Pattern=them, Pattern=that
+	Constrained: Pattern=box, Pattern=just, Pattern=little, Pattern=a, Pattern=and, Pattern=can, Pattern=garden, Pattern=i, Pattern=year, Pattern=uh ,, Pattern=got, Pattern=so, Pattern=uh, Pattern=, uh, Pattern=i've, Pattern=haven't, Pattern=my, Pattern=this, Pattern=that, Pattern=it's
 Turn ID=135| B | B : right .
 	Free: Pattern=right .
 	Constrained: Pattern=right
-Turn ID=136| A | A : and you know various other things raised it up .
-	Free: Pattern=other, Pattern=things, Pattern=up ., Pattern=it up, Pattern=and you know
-	Constrained: Pattern=know, Pattern=up, Pattern=you, Pattern=you know, Pattern=it, Pattern=and
-Turn ID=137| B | B : well the good stuff . right .
-	Free: Pattern=. right ., Pattern=good, Pattern=the, Pattern=well
-	Constrained: Pattern=right ., Pattern=right
-Turn ID=138| A | A : and i'm hoping especially with those big tall sides on there it that maybe i won't have oh i'll have less of a bug problem at least they they'll have a hard time crawling up the thing .
-	Free: Pattern=time, Pattern=problem, Pattern=have, Pattern=i'll, Pattern=especially, Pattern=it that, Pattern=i'm, Pattern=i, Pattern=of a, Pattern=up, Pattern=those, Pattern=with, Pattern=they, Pattern=have a, Pattern=there, Pattern=and, Pattern=oh, Pattern=on, Pattern=the
-	Constrained: Pattern=of, Pattern=have, Pattern=a, Pattern=it, Pattern=that
-Turn ID=139| B | B : right . yeah my backyard is uh is sloping so i built a box up you know had to build the one the low side up .
-	Free: Pattern=backyard is uh, Pattern=one, Pattern=so i, Pattern=side, Pattern=is, Pattern=had, Pattern=a box, Pattern=up ., Pattern=my backyard, Pattern=up you know, Pattern=the, Pattern=right . yeah, Pattern=to
-	Constrained: Pattern=box, Pattern=right, Pattern=a, Pattern=yeah, Pattern=up, Pattern=my, Pattern=so, Pattern=you, Pattern=uh, Pattern=you know, Pattern=know, Pattern=. yeah, Pattern=right ., Pattern=is, Pattern=i
+Turn ID=136| A | A : and , you know , various other things , raised it up .
+	Free: Pattern=it up, Pattern=and ,, Pattern=, you know ,, Pattern=other, Pattern=up ., Pattern=things ,
+	Constrained: Pattern=you know ,, Pattern=, you know, Pattern=things, Pattern=up, Pattern=you, Pattern=you know, Pattern=it, Pattern=and, Pattern=know, Pattern=, you
+Turn ID=137| B | B : well , the good stuff . right .
+	Free: Pattern=. right ., Pattern=well ,, Pattern=, the, Pattern=good
+	Constrained: Pattern=right ., Pattern=well, Pattern=the, Pattern=right
+Turn ID=138| A | A : and i'm hoping especially with those big tall sides on there it that maybe i won't have , oh , i'll have less of a bug problem at least they , they'll have a hard time crawling up the thing .
+	Free: Pattern=time, Pattern=problem, Pattern=they ,, Pattern=have, Pattern=i'll, Pattern=and, Pattern=especially, Pattern=it that, Pattern=i, Pattern=of a, Pattern=up, Pattern=with, Pattern=have a, Pattern=there, Pattern=i'm, Pattern=have ,, Pattern=on, Pattern=the, Pattern=those, Pattern=oh ,
+	Constrained: Pattern=of, Pattern=have, Pattern=they, Pattern=a, Pattern=that, Pattern=it, Pattern=oh
+Turn ID=139| B | B : right . yeah , my backyard is , uh , is sloping so i built a box up , you know had to build the one , the low side up .
+	Free: Pattern=. yeah ,, Pattern=up , you know, Pattern=one, Pattern=so i, Pattern=side, Pattern=is, Pattern=, my, Pattern=, the, Pattern=a box, Pattern=up ., Pattern=had, Pattern=backyard is , uh ,, Pattern=my backyard, Pattern=the, Pattern=right . yeah, Pattern=to
+	Constrained: Pattern=box, Pattern=right, Pattern=yeah ,, Pattern=a, Pattern=, you know, Pattern=is ,, Pattern=, uh ,, Pattern=up, Pattern=my, Pattern=so, Pattern=you, Pattern=uh, Pattern=you know, Pattern=, uh, Pattern=up ,, Pattern=know, Pattern=right ., Pattern=, you, Pattern=is, Pattern=i, Pattern=uh ,, Pattern=the
 Turn ID=140| A | A : uh-huh . uh-huh .
 	Free: Pattern=uh-huh . uh-huh .
 	Constrained: Pattern=. uh-huh ., Pattern=. uh-huh, Pattern=uh-huh .
-Turn ID=141| B | B : and uh i had sandy loam hauled in . i had a dump truck come and dump it .
-	Free: Pattern=it ., Pattern=and, Pattern=i had a, Pattern=in, Pattern=i had, Pattern=and uh, Pattern=. i, Pattern=loam
-	Constrained: Pattern=had a, Pattern=uh, Pattern=a, Pattern=had, Pattern=it, Pattern=and, Pattern=i had, Pattern=i
+Turn ID=141| B | B : and , uh , i had sandy loam hauled in . i had a dump truck come and dump it .
+	Free: Pattern=it ., Pattern=and, Pattern=i had a, Pattern=in, Pattern=and , uh ,, Pattern=, i had, Pattern=. i, Pattern=loam
+	Constrained: Pattern=had a, Pattern=and ,, Pattern=a, Pattern=had, Pattern=, uh ,, Pattern=uh, Pattern=, uh, Pattern=it, Pattern=and, Pattern=i had, Pattern=i, Pattern=uh ,, Pattern=, i
 Turn ID=142| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=143| B | B : on my driveway i guess that's what they do and then i had to wheel barrow it in .
-	Free: Pattern=it in, Pattern=what, Pattern=then, Pattern=and, Pattern=they do, Pattern=i had, Pattern=i guess, Pattern=to, Pattern=my, Pattern=on, Pattern=that's
-	Constrained: Pattern=they, Pattern=do, Pattern=it, Pattern=in, Pattern=i, Pattern=had
-Turn ID=144| A | A : yeah right .
-	Free: Pattern=right ., Pattern=yeah
+Turn ID=143| B | B : on my driveway , i guess , that's what they do and then , i had to wheel barrow it in .
+	Free: Pattern=it in, Pattern=what, Pattern=and, Pattern=i guess, Pattern=to, Pattern=my, Pattern=they do, Pattern=then ,, Pattern=on, Pattern=that's, Pattern=, i had, Pattern=, i
+	Constrained: Pattern=they, Pattern=it, Pattern=in, Pattern=had, Pattern=, i, Pattern=do, Pattern=then, Pattern=i had, Pattern=i
+Turn ID=144| A | A : yeah , right .
+	Free: Pattern=yeah ,, Pattern=right .
 	Constrained: Pattern=right
-Turn ID=145| B | B : but uh you know you can improve your own soil there
-	Free: Pattern=own, Pattern=there, Pattern=uh you know, Pattern=you can, Pattern=your, Pattern=but
-	Constrained: Pattern=can, Pattern=know, Pattern=uh you, Pattern=you, Pattern=uh, Pattern=you know
+Turn ID=145| B | B : but , uh , you know , you can improve your own soil there
+	Free: Pattern=own, Pattern=there, Pattern=your, Pattern=, you can, Pattern=, uh , you know ,, Pattern=but
+	Constrained: Pattern=you know ,, Pattern=, uh , you, Pattern=, you know ,, Pattern=, uh ,, Pattern=uh ,, Pattern=you, Pattern=uh, Pattern=you know, Pattern=, uh, Pattern=can, Pattern=you can, Pattern=, you know, Pattern=know, Pattern=, you
 Turn ID=146| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=147| B | B : but the texas soil isn't the greatest gardening soil .
+Turn ID=147| B | B : but the texas soil isn't the greatest , gardening soil .
 	Free: Pattern=but, Pattern=the
 	Constrained: 
-Turn ID=148| A | A : that's right you you have to work on . you really do .
-	Free: Pattern=right, Pattern=you, Pattern=do ., Pattern=you you, Pattern=you have, Pattern=work, Pattern=really, Pattern=have to, Pattern=on, Pattern=that's
-	Constrained: Pattern=to, Pattern=have, Pattern=you, Pattern=do
-Turn ID=149| B | B : right . and you know if i i didn't wait five years for it to be good enough grow you know what i mean
-	Free: Pattern=for it, Pattern=you know, Pattern=what, Pattern=didn't, Pattern=if i, Pattern=right ., Pattern=i mean, Pattern=be, Pattern=five, Pattern=to, Pattern=. and, Pattern=i i, Pattern=wait, Pattern=and you know, Pattern=good, Pattern=enough, Pattern=years
-	Constrained: Pattern=right, Pattern=for, Pattern=if, Pattern=know, Pattern=i, Pattern=you, Pattern=you know, Pattern=it, Pattern=and
-Turn ID=150| A | A : that's right . when we had our pool done i had them to leave some extra loam you know for my garden so i had i had a lot of loam out there to start with i just turned it all up and mixed it all up together with
-	Free: Pattern=a lot of, Pattern=you know, Pattern=it all, Pattern=i just, Pattern=i had a, Pattern=loam, Pattern=right ., Pattern=i had, Pattern=had, Pattern=that's, Pattern=out there, Pattern=my garden, Pattern=for my, Pattern=when we, Pattern=our, Pattern=some, Pattern=so i, Pattern=up and, Pattern=start, Pattern=up, Pattern=to, Pattern=with, Pattern=them
-	Constrained: Pattern=had a, Pattern=just, Pattern=there, Pattern=a, Pattern=for, Pattern=garden, Pattern=know, Pattern=we, Pattern=had, Pattern=when, Pattern=my, Pattern=so, Pattern=right, Pattern=of, Pattern=you, Pattern=out, Pattern=it, Pattern=and, Pattern=i had, Pattern=i, Pattern=lot, Pattern=all, Pattern=a lot, Pattern=up
-Turn ID=151| B | B : uh-huh . do you have do you have a rotor tiller ?
-	Free: Pattern=do you have a, Pattern=. do you have, Pattern=uh-huh .
-	Constrained: Pattern=you, Pattern=have, Pattern=have a, Pattern=do you, Pattern=you have a, Pattern=you have, Pattern=do, Pattern=a
-Turn ID=152| A | A : no . i don't i did it by hand
-	Free: Pattern=i don't, Pattern=no, Pattern=. i, Pattern=i, Pattern=it by hand
+Turn ID=148| A | A : that's right , you , you have to work on . you , really do .
+	Free: Pattern=right, Pattern=do ., Pattern=work, Pattern=really, Pattern=, you have, Pattern=have to, Pattern=on, Pattern=that's, Pattern=you ,, Pattern=, you , you
+	Constrained: Pattern=you, Pattern=have, Pattern=do, Pattern=, you ,, Pattern=, you, Pattern=to, Pattern=you ,
+Turn ID=149| B | B : right . and you know , if i , i didn't wait five years for it to be good enough grow you know what i mean
+	Free: Pattern=good, Pattern=for it, Pattern=you know ,, Pattern=you know, Pattern=didn't, Pattern=if i, Pattern=right ., Pattern=i mean, Pattern=be, Pattern=five, Pattern=to, Pattern=. and, Pattern=wait, Pattern=i , i, Pattern=what, Pattern=enough, Pattern=years
+	Constrained: Pattern=right, Pattern=for, Pattern=if, Pattern=know, Pattern=i, Pattern=, i, Pattern=i ,, Pattern=you, Pattern=you know, Pattern=it, Pattern=and
+Turn ID=150| A | A : that's right . when we had our pool done i had them to leave some extra loam , you know , for my garden so i had , i had a lot of loam out there to start with i just turned it all up and mixed it all up together with ,
+	Free: Pattern=a lot of, Pattern=, you know ,, Pattern=i had a, Pattern=loam, Pattern=right ., Pattern=had, Pattern=out there, Pattern=my garden, Pattern=for my, Pattern=just, Pattern=it all, Pattern=when we, Pattern=our, Pattern=some, Pattern=so i, Pattern=i had, Pattern=i, Pattern=up and, Pattern=start, Pattern=that's, Pattern=, i had, Pattern=up, Pattern=to, Pattern=with, Pattern=them
+	Constrained: Pattern=had a, Pattern=there, Pattern=a, Pattern=for, Pattern=, you know, Pattern=garden, Pattern=we, Pattern=had, Pattern=when, Pattern=my, Pattern=so, Pattern=right, Pattern=of, Pattern=you know ,, Pattern=you, Pattern=out, Pattern=you know, Pattern=it, Pattern=and, Pattern=know, Pattern=, you, Pattern=i had, Pattern=i, Pattern=lot, Pattern=, i, Pattern=all, Pattern=a lot, Pattern=up
+Turn ID=151| B | B : uh-huh . do you have , do you have a rotor tiller ?
+	Free: Pattern=do you have a, Pattern=. do you have, Pattern=you have ,, Pattern=uh-huh .
+	Constrained: Pattern=you, Pattern=have, Pattern=have a, Pattern=do you, Pattern=you have a, Pattern=have ,, Pattern=do, Pattern=a
+Turn ID=152| A | A : no . i don't , i did it by hand ,
+	Free: Pattern=i don't, Pattern=no, Pattern=. i, Pattern=, i, Pattern=it by hand
 	Constrained: Pattern=it, Pattern=by, Pattern=don't, Pattern=i
-Turn ID=153| B | B : small enough you have a just do it by hand ?
-	Free: Pattern=small, Pattern=enough, Pattern=you have a, Pattern=do it, Pattern=just do, Pattern=it by hand
-	Constrained: Pattern=you, Pattern=have a, Pattern=it, Pattern=you have, Pattern=by, Pattern=just, Pattern=have, Pattern=do, Pattern=a
+Turn ID=153| B | B : small enough , you have a , just do it by hand ?
+	Free: Pattern=a ,, Pattern=enough, Pattern=you have a, Pattern=do it, Pattern=, you have, Pattern=just do, Pattern=it by hand, Pattern=small, Pattern=, just
+	Constrained: Pattern=you, Pattern=have a, Pattern=it, Pattern=, you, Pattern=by, Pattern=just, Pattern=have, Pattern=do, Pattern=a
 Turn ID=154| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
 Turn ID=155| B | B : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=156| A | A : it wasn't too much of a job really .
-	Free: Pattern=of a, Pattern=too much, Pattern=really, Pattern=it
-	Constrained: Pattern=a, Pattern=much, Pattern=too, Pattern=of
+	Constrained: 
+Turn ID=156| A | A : it wasn't too much of a job , really .
+	Free: Pattern=too much, Pattern=of a, Pattern=it, Pattern=really
+	Constrained: Pattern=too, Pattern=of, Pattern=much, Pattern=a
 Turn ID=157| B | B : yeah . yeah .
 	Free: Pattern=yeah . yeah .
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=yeah . yeah, Pattern=. yeah ., Pattern=. yeah
-Turn ID=158| A | A : like i say it's just
-	Free: Pattern=it's just, Pattern=like i, Pattern=say
-	Constrained: Pattern=i, Pattern=it's, Pattern=like, Pattern=just
-Turn ID=159| B | B : yeah . i'd like to get one of these little small ones that you see in all these gardening magazines .
-	Free: Pattern=you, Pattern=little, Pattern=small, Pattern=yeah ., Pattern=to get, Pattern=in, Pattern=see, Pattern=one of, Pattern=that, Pattern=like to, Pattern=all
-	Constrained: Pattern=of, Pattern=yeah, Pattern=one, Pattern=like, Pattern=to, Pattern=get
+	Constrained: Pattern=yeah ., Pattern=yeah . yeah, Pattern=. yeah .
+Turn ID=158| A | A : like i say it's just ,
+	Free: Pattern=like i, Pattern=it's, Pattern=say, Pattern=just
+	Constrained: Pattern=i, Pattern=like
+Turn ID=159| B | B : yeah . i'd like to get one of these little small ones , that you see in all these gardening magazines .
+	Free: Pattern=you, Pattern=little, Pattern=small, Pattern=yeah ., Pattern=to get, Pattern=, that, Pattern=in, Pattern=see, Pattern=one of, Pattern=like to, Pattern=all
+	Constrained: Pattern=of, Pattern=one, Pattern=like, Pattern=to, Pattern=get, Pattern=that
 Turn ID=160| A | A : uh-huh . uh-huh . it would be handy .
-	Free: Pattern=uh-huh . uh-huh ., Pattern=. it, Pattern=would be
-	Constrained: Pattern=it, Pattern=. uh-huh, Pattern=be, Pattern=would, Pattern=uh-huh ., Pattern=. uh-huh .
-Turn ID=161| B | B : and it weighs twenty pounds or something like that .
-	Free: Pattern=pounds, Pattern=or something, Pattern=like that ., Pattern=it, Pattern=and
-	Constrained: Pattern=that ., Pattern=like, Pattern=or, Pattern=that, Pattern=something
+	Free: Pattern=uh-huh . uh-huh ., Pattern=would be, Pattern=. it
+	Constrained: Pattern=it, Pattern=. uh-huh, Pattern=be, Pattern=uh-huh ., Pattern=. uh-huh .
+Turn ID=161| B | B : and it weighs twenty pounds or , something like that .
+	Free: Pattern=pounds, Pattern=or, Pattern=like that ., Pattern=something, Pattern=it, Pattern=and
+	Constrained: Pattern=that ., Pattern=like, Pattern=that
 Turn ID=162| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=163| B | B : my neighbor across the street has one . he always uses it to dethatch his lawn
+	Constrained: 
+Turn ID=163| B | B : my neighbor across the street has one . he always uses it to dethatch his lawn ,
 	Free: Pattern=it, Pattern=to, Pattern=lawn, Pattern=my, Pattern=one ., Pattern=the
 	Constrained: Pattern=one
 Turn ID=164| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=165| B | B : i see him out there
+Turn ID=165| B | B : i see him out there ,
 	Free: Pattern=out there, Pattern=i see
-	Constrained: Pattern=see, Pattern=i, Pattern=out, Pattern=there
+	Constrained: Pattern=there, Pattern=i, Pattern=see, Pattern=out
 Turn ID=166| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
+	Constrained: 
 Turn ID=167| B | B : and i guess it has a thatcher attachment to it .
 	Free: Pattern=and i, Pattern=it ., Pattern=i guess it, Pattern=a, Pattern=to
 	Constrained: Pattern=i, Pattern=and, Pattern=i guess, Pattern=it
-Turn ID=168| A | A : it might be handy
-	Free: Pattern=be, Pattern=it
+Turn ID=168| A | A : it might be handy ,
+	Free: Pattern=it, Pattern=be
 	Constrained: 
 Turn ID=169| B | B : yeah . yeah .
 	Free: Pattern=yeah . yeah .
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=yeah . yeah, Pattern=. yeah ., Pattern=. yeah
-Turn ID=170| A | A : they're pretty neat little i've never seen one .
+	Constrained: Pattern=yeah ., Pattern=yeah . yeah, Pattern=. yeah .
+Turn ID=170| A | A : they're pretty neat little , i've never seen one .
 	Free: Pattern=little, Pattern=i've, Pattern=they're, Pattern=one ., Pattern=seen
 	Constrained: Pattern=one
-Turn ID=171| B | B : i have a friend who has one and and he lets me you know no problem borrowing if it's just a hassle when you know to go up
-	Free: Pattern=problem, Pattern=you know, Pattern=and and, Pattern=a, Pattern=when you, Pattern=i have a, Pattern=go, Pattern=me, Pattern=it's just, Pattern=no, Pattern=one, Pattern=if, Pattern=up, Pattern=to
-	Constrained: Pattern=you, Pattern=have a, Pattern=a, Pattern=and, Pattern=know, Pattern=i, Pattern=when, Pattern=it's, Pattern=i have, Pattern=just, Pattern=have
-Turn ID=172| A | A : uh-huh . oh yeah .
-	Free: Pattern=oh yeah ., Pattern=uh-huh .
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=oh
-Turn ID=173| B | B : and it's a fairly large one to heave it up into the back of the van bring it home and check it back and just grab it you know if i just go to my garage and grab it .
-	Free: Pattern=it up, Pattern=a, Pattern=if i, Pattern=the, Pattern=to, Pattern=you know, Pattern=it ., Pattern=go, Pattern=i just, Pattern=it, Pattern=and, Pattern=and just, Pattern=one, Pattern=my, Pattern=home, Pattern=of the, Pattern=it's
-	Constrained: Pattern=of, Pattern=you, Pattern=just, Pattern=if, Pattern=know, Pattern=i, Pattern=the, Pattern=up, Pattern=it, Pattern=and
-Turn ID=174| A | A : yeah . uh-huh right . yeah . that would be neat sure .
-	Free: Pattern=right . yeah ., Pattern=yeah ., Pattern=that would be, Pattern=. uh-huh, Pattern=sure
-	Constrained: Pattern=right, Pattern=yeah ., Pattern=yeah, Pattern=. yeah ., Pattern=be, Pattern=would, Pattern=right . yeah, Pattern=that, Pattern=would be, Pattern=. yeah, Pattern=right .
+Turn ID=171| B | B : i have a friend who has one and , and he lets me , you know , no problem borrowing if it's , just a hassle when you know , to go up
+	Free: Pattern=it's ,, Pattern=go, Pattern=no, Pattern=when you, Pattern=me ,, Pattern=i have a, Pattern=problem, Pattern=you know ,, Pattern=and , and, Pattern=, you know ,, Pattern=a, Pattern=, just, Pattern=one, Pattern=if, Pattern=up, Pattern=to
+	Constrained: Pattern=you know ,, Pattern=have a, Pattern=a, Pattern=and, Pattern=, you know, Pattern=i, Pattern=when, Pattern=, and, Pattern=it's, Pattern=i have, Pattern=you, Pattern=you know, Pattern=just, Pattern=have, Pattern=me, Pattern=and ,, Pattern=know, Pattern=, you
+Turn ID=172| A | A : uh-huh . oh , yeah .
+	Free: Pattern=oh , yeah ., Pattern=uh-huh .
+	Constrained: Pattern=yeah ., Pattern=oh, Pattern=, yeah, Pattern=, yeah ., Pattern=oh ,
+Turn ID=173| B | B : and it's a fairly large one to , heave it up into the back of the van , bring it home and , check it back and just grab it , you know , if i , just go to my garage and grab it .
+	Free: Pattern=it up, Pattern=it ., Pattern=if i, Pattern=the, Pattern=i ,, Pattern=to, Pattern=go, Pattern=and ,, Pattern=, you know ,, Pattern=a, Pattern=, just, Pattern=it, Pattern=and, Pattern=and just, Pattern=one, Pattern=it ,, Pattern=to ,, Pattern=my, Pattern=home, Pattern=of the, Pattern=it's
+	Constrained: Pattern=just, Pattern=if, Pattern=, you know, Pattern=i, Pattern=the, Pattern=of, Pattern=you know ,, Pattern=you, Pattern=you know, Pattern=it, Pattern=and, Pattern=know, Pattern=, you, Pattern=up, Pattern=to
+Turn ID=174| A | A : yeah . uh-huh right . yeah . that would be neat , sure .
+	Free: Pattern=right . yeah ., Pattern=yeah ., Pattern=that would be, Pattern=, sure, Pattern=. uh-huh
+	Constrained: Pattern=right, Pattern=yeah ., Pattern=. yeah ., Pattern=right ., Pattern=right . yeah, Pattern=that, Pattern=would be, Pattern=sure, Pattern=be
 Turn ID=175| B | B : that would be nice .
 	Free: Pattern=that would be, Pattern=nice .
-	Constrained: Pattern=nice, Pattern=be, Pattern=would, Pattern=that, Pattern=would be
-Turn ID=176| A | A : we've had a garden gosh for years and years and years of some size you know
-	Free: Pattern=had a, Pattern=of, Pattern=you know, Pattern=years, Pattern=for, Pattern=and, Pattern=garden, Pattern=some, Pattern=we've
-	Constrained: Pattern=a, Pattern=had, Pattern=you, Pattern=know
+	Constrained: Pattern=would be, Pattern=nice, Pattern=that, Pattern=be
+Turn ID=176| A | A : we've had a garden , gosh , for years and years and years , of some size , you know ,
+	Free: Pattern=had a, Pattern=of, Pattern=, you know ,, Pattern=years, Pattern=for, Pattern=and, Pattern=garden, Pattern=some, Pattern=we've
+	Constrained: Pattern=you know ,, Pattern=a, Pattern=, you know, Pattern=had, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
 Turn ID=177| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
@@ -796,236 +796,236 @@ Turn ID=178| A | A : i can't remember a year when we didn't have one of some kin
 	Free: Pattern=didn't have, Pattern=kind, Pattern=a, Pattern=when we, Pattern=some, Pattern=i, Pattern=one of, Pattern=year, Pattern=can't
 	Constrained: Pattern=of, Pattern=have, Pattern=one, Pattern=didn't, Pattern=we, Pattern=when
 Turn ID=179| B | B : what have you got growing right now ?
-	Free: Pattern=right, Pattern=what, Pattern=have you, Pattern=you got, Pattern=now
-	Constrained: Pattern=got, Pattern=have, Pattern=you
-Turn ID=180| A | A : uh got you know tomatoes that are starting to bloom
-	Free: Pattern=tomatoes, Pattern=are, Pattern=got, Pattern=to, Pattern=that, Pattern=uh, Pattern=you know
-	Constrained: Pattern=you, Pattern=know
+	Free: Pattern=right, Pattern=have, Pattern=what, Pattern=you got, Pattern=now
+	Constrained: Pattern=got, Pattern=you
+Turn ID=180| A | A : uh , got , you know tomatoes that are starting to bloom
+	Free: Pattern=got ,, Pattern=tomatoes, Pattern=are, Pattern=, you know, Pattern=uh ,, Pattern=to, Pattern=that
+	Constrained: Pattern=got, Pattern=you, Pattern=uh, Pattern=you know, Pattern=know, Pattern=, you
 Turn ID=181| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=182| A | A : and uh i've got carrots i yes i've got a few carrots up and i've got some radishes up
-	Free: Pattern=i've got, Pattern=some radishes, Pattern=i, Pattern=up and, Pattern=and i've got some, Pattern=got a few, Pattern=yes, Pattern=and uh, Pattern=up
-	Constrained: Pattern=uh, Pattern=i've, Pattern=some, Pattern=and i've, Pattern=got, Pattern=up, Pattern=i've got, Pattern=a, Pattern=and, Pattern=a few, Pattern=radishes
+Turn ID=182| A | A : and , uh , i've got carrots , i yes , i've got a few carrots up and i've got some radishes up ,
+	Free: Pattern=i've got, Pattern=some radishes, Pattern=and , uh ,, Pattern=up and, Pattern=, i, Pattern=and i've got some, Pattern=got a few, Pattern=up ,, Pattern=yes
+	Constrained: Pattern=and ,, Pattern=i've, Pattern=some, Pattern=and i've, Pattern=i, Pattern=, uh ,, Pattern=uh ,, Pattern=got, Pattern=up, Pattern=uh, Pattern=, uh, Pattern=i've got, Pattern=a, Pattern=and, Pattern=a few, Pattern=radishes
 Turn ID=183| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=184| A | A : and as a matter of fact i've already done a second row of radishes .
+Turn ID=184| A | A : and as a matter of fact , i've already done a second row of radishes .
 	Free: Pattern=of, Pattern=as, Pattern=a, Pattern=i've, Pattern=and, Pattern=radishes
 	Constrained: 
 Turn ID=185| B | B : uh-huh . yeah .
 	Free: Pattern=uh-huh . yeah .
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=. yeah ., Pattern=. yeah, Pattern=uh-huh .
-Turn ID=186| A | A : and uh the green onions are coming along .
-	Free: Pattern=coming, Pattern=are, Pattern=green, Pattern=the, Pattern=and uh, Pattern=onions
-	Constrained: Pattern=and, Pattern=uh
-Turn ID=187| B | B : okay
+	Constrained: Pattern=yeah ., Pattern=uh-huh ., Pattern=. yeah .
+Turn ID=186| A | A : and , uh , the green onions are coming along .
+	Free: Pattern=coming, Pattern=are, Pattern=green, Pattern=and , uh ,, Pattern=, the, Pattern=onions
+	Constrained: Pattern=and ,, Pattern=and, Pattern=, uh ,, Pattern=uh, Pattern=, uh, Pattern=uh ,, Pattern=the
+Turn ID=187| B | B : okay ,
 	Free: Pattern=okay
 	Constrained: 
-Turn ID=188| A | A : snow
+Turn ID=188| A | A : snow ,
 	Free: 
 	Constrained: 
-Turn ID=189| B | B : what kind
-	Free: Pattern=what, Pattern=kind
+Turn ID=189| B | B : what kind ,
+	Free: Pattern=kind, Pattern=what
 	Constrained: 
 Turn ID=190| A | A : excuse me .
 	Free: Pattern=me
 	Constrained: 
-Turn ID=191| B | B : what kind of onions do you grow ? do you grow those those ten fifteen y ?
+Turn ID=191| B | B : what kind of onions do you grow ? do you grow those , those ten , fifteen y ?
 	Free: Pattern=kind of, Pattern=what, Pattern=do you, Pattern=ten, Pattern=those, Pattern=onions
-	Constrained: Pattern=you, Pattern=of, Pattern=do, Pattern=kind
-Turn ID=192| A | A : yes i've for the first time we planted them this year .
+	Constrained: Pattern=of, Pattern=you, Pattern=kind, Pattern=do
+Turn ID=192| A | A : yes , i've for the first time we planted them this year .
 	Free: Pattern=time, Pattern=yes, Pattern=i've, Pattern=we planted, Pattern=this year ., Pattern=them, Pattern=the first, Pattern=for the
-	Constrained: Pattern=this year, Pattern=for, Pattern=we, Pattern=year, Pattern=this, Pattern=planted, Pattern=the
-Turn ID=193| B | B : oh they they are the best .
-	Free: Pattern=are, Pattern=oh, Pattern=they, Pattern=the
-	Constrained: 
-Turn ID=194| A | A : yeah . we tried to find them last year we screwed around and waited too long and i couldn't find a nursery that had any of them left .
-	Free: Pattern=and i, Pattern=long, Pattern=a, Pattern=. we, Pattern=left, Pattern=we, Pattern=year, Pattern=to, Pattern=around, Pattern=yeah ., Pattern=any, Pattern=of them, Pattern=and, Pattern=too, Pattern=had, Pattern=tried, Pattern=them, Pattern=that
-	Constrained: Pattern=of, Pattern=i, Pattern=we, Pattern=them, Pattern=yeah, Pattern=and
+	Constrained: Pattern=this year, Pattern=for, Pattern=we, Pattern=this, Pattern=year ., Pattern=year, Pattern=planted, Pattern=the
+Turn ID=193| B | B : oh , they , they are the best .
+	Free: Pattern=they ,, Pattern=they, Pattern=are, Pattern=the, Pattern=oh ,
+	Constrained: Pattern=they, Pattern=oh
+Turn ID=194| A | A : yeah . we tried to find them last year , we screwed around and waited too long and i couldn't find a nursery that had any of them left .
+	Free: Pattern=and i, Pattern=long, Pattern=a, Pattern=. we, Pattern=left, Pattern=year, Pattern=to, Pattern=around, Pattern=yeah ., Pattern=any, Pattern=of them, Pattern=and, Pattern=, we, Pattern=too, Pattern=had, Pattern=tried, Pattern=them, Pattern=that
+	Constrained: Pattern=of, Pattern=and, Pattern=i, Pattern=we, Pattern=them
 Turn ID=195| B | B : uh-huh . uh-huh .
 	Free: Pattern=uh-huh . uh-huh .
 	Constrained: Pattern=. uh-huh ., Pattern=. uh-huh, Pattern=uh-huh .
 Turn ID=196| A | A : but we've got some this year .
-	Free: Pattern=this year ., Pattern=we've got some, Pattern=but
-	Constrained: Pattern=this year, Pattern=some, Pattern=year, Pattern=we've, Pattern=got, Pattern=this
-Turn ID=197| B | B : uh those
-	Free: Pattern=those, Pattern=uh
-	Constrained: 
-Turn ID=198| A | A : snow peas are up and uh my wife does uh a small herb garden on the side .
-	Free: Pattern=small, Pattern=peas, Pattern=are, Pattern=garden, Pattern=side, Pattern=my wife, Pattern=on the, Pattern=and uh, Pattern=up and, Pattern=uh a
-	Constrained: Pattern=uh, Pattern=a, Pattern=and, Pattern=up, Pattern=my, Pattern=on, Pattern=wife, Pattern=the
+	Free: Pattern=we've got some, Pattern=this year ., Pattern=but
+	Constrained: Pattern=this year, Pattern=some, Pattern=we've, Pattern=got, Pattern=this, Pattern=year ., Pattern=year
+Turn ID=197| B | B : uh , those ,
+	Free: Pattern=uh ,, Pattern=those
+	Constrained: Pattern=uh
+Turn ID=198| A | A : snow peas are up and , uh , my wife does , uh , a small herb garden on the side .
+	Free: Pattern=peas, Pattern=are, Pattern=garden, Pattern=side, Pattern=my wife, Pattern=and , uh ,, Pattern=up and, Pattern=on the, Pattern=, my, Pattern=small, Pattern=, uh , a
+	Constrained: Pattern=and ,, Pattern=a, Pattern=and, Pattern=, a, Pattern=, uh ,, Pattern=up, Pattern=my, Pattern=uh, Pattern=, uh, Pattern=uh ,, Pattern=on, Pattern=wife, Pattern=the
 Turn ID=199| B | B : i see .
 	Free: Pattern=i see .
-	Constrained: Pattern=i see, Pattern=see, Pattern=i
+	Constrained: Pattern=i see, Pattern=i, Pattern=see
 Turn ID=200| A | A : they're up and doing fine .
 	Free: Pattern=up and, Pattern=doing, Pattern=they're
 	Constrained: Pattern=and, Pattern=up
-Turn ID=201| B | B : yeah . i uh those onions i think we we planted like twice as much this year because you know we got onions and they lasted from you know about when you harvest them about a month from now or so or six weeks from now until until like october
-	Free: Pattern=until, Pattern=as, Pattern=they, Pattern=when you, Pattern=yeah ., Pattern=we planted, Pattern=got, Pattern=them, Pattern=uh, Pattern=you know, Pattern=this year, Pattern=onions and, Pattern=a, Pattern=about, Pattern=. i, Pattern=we, Pattern=like, Pattern=or, Pattern=much, Pattern=those, Pattern=now, Pattern=so, Pattern=i think, Pattern=onions
-	Constrained: Pattern=you, Pattern=think, Pattern=know, Pattern=i, Pattern=we, Pattern=year, Pattern=planted, Pattern=when, Pattern=this, Pattern=onions, Pattern=yeah, Pattern=and
+Turn ID=201| B | B : yeah . i , uh , those onions , i think , we , we planted like twice as much this year because , you know , we got , onions and they lasted from , you know , about when you harvest them about a month from now or so , or six weeks , from now , until , until like october ,
+	Free: Pattern=got ,, Pattern=this year, Pattern=they, Pattern=when you, Pattern=yeah ., Pattern=, we, Pattern=like, Pattern=, uh ,, Pattern=them, Pattern=, until, Pattern=as, Pattern=, i think ,, Pattern=onions and, Pattern=, you know ,, Pattern=a, Pattern=we planted, Pattern=we ,, Pattern=about, Pattern=. i ,, Pattern=or, Pattern=much, Pattern=now ,, Pattern=until ,, Pattern=those, Pattern=now, Pattern=so, Pattern=onions
+	Constrained: Pattern=you know ,, Pattern=, i think, Pattern=and, Pattern=, you know, Pattern=. i, Pattern=think, Pattern=i, Pattern=we, Pattern=year, Pattern=i ,, Pattern=now, Pattern=this, Pattern=onions, Pattern=you, Pattern=uh, Pattern=you know, Pattern=, uh, Pattern=know, Pattern=, you, Pattern=planted, Pattern=uh ,, Pattern=, i, Pattern=when, Pattern=got
 Turn ID=202| A | A : uh-huh . uh-huh . uh-huh . yeah .
 	Free: Pattern=uh-huh . yeah ., Pattern=uh-huh . uh-huh .
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=. yeah ., Pattern=. yeah, Pattern=. uh-huh, Pattern=uh-huh ., Pattern=. uh-huh .
-Turn ID=203| B | B : and uh we really missed them when they were gone because the ones from the grocery store just can't compare .
-	Free: Pattern=just, Pattern=they were, Pattern=can't, Pattern=the, Pattern=when, Pattern=and uh, Pattern=them, Pattern=we, Pattern=really
-	Constrained: Pattern=and, Pattern=were, Pattern=they, Pattern=uh
-Turn ID=204| A | A : yeah . yeah . that's kind of a let down .
-	Free: Pattern=kind of, Pattern=of a, Pattern=let, Pattern=yeah . yeah ., Pattern=. yeah . that's
-	Constrained: Pattern=kind, Pattern=of, Pattern=yeah ., Pattern=yeah, Pattern=yeah . yeah, Pattern=. yeah ., Pattern=. yeah, Pattern=that's, Pattern=. that's, Pattern=yeah . that's, Pattern=a
-Turn ID=205| B | B : she made these onion rings that were so good
+	Constrained: Pattern=yeah ., Pattern=. yeah ., Pattern=. uh-huh, Pattern=uh-huh ., Pattern=. uh-huh .
+Turn ID=203| B | B : and , uh , we really missed them when they were gone , because the ones from the grocery store just can't , compare .
+	Free: Pattern=just, Pattern=they were, Pattern=, we, Pattern=really, Pattern=and , uh ,, Pattern=the, Pattern=when, Pattern=them, Pattern=can't ,
+	Constrained: Pattern=and ,, Pattern=they, Pattern=and, Pattern=we, Pattern=uh ,, Pattern=were, Pattern=uh, Pattern=, uh, Pattern=, uh ,, Pattern=can't
+Turn ID=204| A | A : yeah . yeah . that's kind of a , let down .
+	Free: Pattern=a ,, Pattern=kind of, Pattern=of a, Pattern=let, Pattern=yeah . yeah ., Pattern=. yeah . that's
+	Constrained: Pattern=kind, Pattern=of, Pattern=yeah ., Pattern=yeah . yeah, Pattern=. yeah ., Pattern=that's, Pattern=. that's, Pattern=yeah . that's, Pattern=a
+Turn ID=205| B | B : she made these onion rings that were so good ,
 	Free: Pattern=good, Pattern=made, Pattern=she, Pattern=were, Pattern=that, Pattern=so
 	Constrained: 
-Turn ID=206| A | A : oh i bet
-	Free: Pattern=oh i
-	Constrained: Pattern=i, Pattern=oh
-Turn ID=207| B | B : and and and uh you don't realize how many dishes you put onions in that it's an ingredient
-	Free: Pattern=you, Pattern=and and, Pattern=many, Pattern=in, Pattern=don't, Pattern=and uh, Pattern=onions, Pattern=uh you, Pattern=put, Pattern=that, Pattern=it's
-	Constrained: Pattern=and, Pattern=you, Pattern=uh
-Turn ID=208| A | A : they were . that's right . we use a lot we sure do .
-	Free: Pattern=they were, Pattern=do ., Pattern=we, Pattern=sure, Pattern=right . we, Pattern=a lot, Pattern=. that's
+Turn ID=206| A | A : oh , i bet ,
+	Free: Pattern=oh , i
+	Constrained: Pattern=, i, Pattern=oh ,, Pattern=i, Pattern=oh
+Turn ID=207| B | B : and , and , and , uh , you don't realize how many dishes you put onions in , that it's an ingredient ,
+	Free: Pattern=you, Pattern=, uh , you, Pattern=many, Pattern=and , and, Pattern=, that, Pattern=in, Pattern=and , uh ,, Pattern=don't, Pattern=put, Pattern=it's, Pattern=onions
+	Constrained: Pattern=and ,, Pattern=and, Pattern=, you, Pattern=, uh ,, Pattern=uh ,, Pattern=, and, Pattern=that, Pattern=you, Pattern=uh, Pattern=, uh
+Turn ID=208| A | A : they were . that's right . we use a lot , we sure do .
+	Free: Pattern=they were, Pattern=do ., Pattern=, we, Pattern=sure, Pattern=right . we, Pattern=a lot, Pattern=. that's
 	Constrained: Pattern=right, Pattern=they, Pattern=. we, Pattern=right ., Pattern=we, Pattern=were, Pattern=do, Pattern=a, Pattern=that's, Pattern=lot
-Turn ID=209| B | B : and and it was just like everything you put it into tasted so much better .
-	Free: Pattern=it was, Pattern=you, Pattern=it, Pattern=like, Pattern=much, Pattern=better, Pattern=put, Pattern=so, Pattern=just, Pattern=and and
-	Constrained: Pattern=and, Pattern=was, Pattern=it
-Turn ID=210| A | A : yeah . one nice thing with onions and and bell peppers at least you can chop them and freeze them if you have you know too many .
-	Free: Pattern=you know, Pattern=and and, Pattern=many, Pattern=onions and, Pattern=too, Pattern=one, Pattern=you can, Pattern=peppers, Pattern=them and, Pattern=have you, Pattern=nice, Pattern=yeah ., Pattern=if you, Pattern=you have, Pattern=with, Pattern=them
-	Constrained: Pattern=you, Pattern=have, Pattern=if, Pattern=can, Pattern=know, Pattern=them, Pattern=onions, Pattern=yeah, Pattern=and
+Turn ID=209| B | B : and , and it was just like everything you put it into tasted so much better .
+	Free: Pattern=it was, Pattern=you, Pattern=just, Pattern=and , and, Pattern=it, Pattern=like, Pattern=much, Pattern=better, Pattern=put, Pattern=so
+	Constrained: Pattern=and ,, Pattern=, and, Pattern=was, Pattern=it, Pattern=and
+Turn ID=210| A | A : yeah . one nice thing with onions and , and bell peppers at least you can chop them and freeze them if you have , you know , too many .
+	Free: Pattern=you have ,, Pattern=many, Pattern=too, Pattern=one, Pattern=you can, Pattern=if you, Pattern=peppers, Pattern=them and, Pattern=onions and, Pattern=and , and, Pattern=, you know ,, Pattern=nice, Pattern=yeah ., Pattern=with, Pattern=them
+	Constrained: Pattern=you know ,, Pattern=have, Pattern=and ,, Pattern=and, Pattern=if, Pattern=, and, Pattern=them, Pattern=onions, Pattern=you, Pattern=you know, Pattern=can, Pattern=, you know, Pattern=know, Pattern=have ,, Pattern=, you
 Turn ID=211| B | B : right . right . we froze a lot of peppers . we let some turn red .
 	Free: Pattern=a lot of, Pattern=. we, Pattern=some, Pattern=peppers, Pattern=right ., Pattern=. right ., Pattern=let, Pattern=right . we
 	Constrained: Pattern=a, Pattern=. we, Pattern=right ., Pattern=we, Pattern=lot, Pattern=a lot, Pattern=right, Pattern=of
-Turn ID=212| A | A : yeah . uh-huh . we did that too
-	Free: Pattern=yeah ., Pattern=too, Pattern=. we, Pattern=. uh-huh ., Pattern=that
-	Constrained: Pattern=uh-huh ., Pattern=yeah, Pattern=. uh-huh, Pattern=we
-Turn ID=213| B | B : and some we do green and then my wife puts them on pizzas . and and chops them up in recipes and things like that .
-	Free: Pattern=and and, Pattern=then, Pattern=and, Pattern=and things like that ., Pattern=some, Pattern=in, Pattern=green, Pattern=on, Pattern=up, Pattern=. and, Pattern=them, Pattern=my wife, Pattern=we do
-	Constrained: Pattern=that ., Pattern=do, Pattern=and, Pattern=things, Pattern=wife, Pattern=things like, Pattern=like that ., Pattern=my, Pattern=that, Pattern=we, Pattern=like
-Turn ID=214| A | A : uh-huh . sure . makes uh makes a colorful salad too .
-	Free: Pattern=salad, Pattern=uh, Pattern=a, Pattern=too ., Pattern=sure, Pattern=uh-huh .
-	Constrained: Pattern=too
-Turn ID=215| B | B : oh yeah . put them in salad yeah .
-	Free: Pattern=salad, Pattern=yeah ., Pattern=in, Pattern=put, Pattern=oh yeah ., Pattern=them
-	Constrained: Pattern=yeah ., Pattern=yeah, Pattern=oh
+Turn ID=212| A | A : yeah . uh-huh . we did that too ,
+	Free: Pattern=yeah ., Pattern=. we, Pattern=too ,, Pattern=. uh-huh ., Pattern=that
+	Constrained: Pattern=too, Pattern=uh-huh ., Pattern=. uh-huh, Pattern=we
+Turn ID=213| B | B : and some we do green and then my wife puts them on pizzas . and , and chops them up in recipes and things like that .
+	Free: Pattern=and, Pattern=and things like that ., Pattern=some, Pattern=in, Pattern=green, Pattern=on, Pattern=up, Pattern=. and, Pattern=them, Pattern=then, Pattern=and , and, Pattern=my wife, Pattern=we do
+	Constrained: Pattern=that ., Pattern=and ,, Pattern=do, Pattern=and, Pattern=things, Pattern=wife, Pattern=like that ., Pattern=my, Pattern=that, Pattern=we, Pattern=like, Pattern=, and, Pattern=things like
+Turn ID=214| A | A : uh-huh . sure . makes , uh , makes a colorful salad too .
+	Free: Pattern=salad, Pattern=a, Pattern=too ., Pattern=uh-huh ., Pattern=sure, Pattern=, uh ,
+	Constrained: Pattern=too, Pattern=uh ,, Pattern=uh, Pattern=, uh
+Turn ID=215| B | B : oh , yeah . put them in salad , yeah .
+	Free: Pattern=salad, Pattern=, yeah ., Pattern=in, Pattern=oh , yeah ., Pattern=put, Pattern=them
+	Constrained: Pattern=yeah ., Pattern=oh, Pattern=, yeah, Pattern=, yeah ., Pattern=oh ,
 Turn ID=216| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=217| B | B : you're you're making me hungry here .
-	Free: Pattern=here, Pattern=me
+Turn ID=217| B | B : you're , you're making me hungry here .
+	Free: Pattern=me, Pattern=here
 	Constrained: 
-Turn ID=218| A | A : we planted some yellow peppers this year . we've tried it before
-	Free: Pattern=yellow peppers, Pattern=it, Pattern=we planted, Pattern=some, Pattern=tried, Pattern=we've, Pattern=this year ., Pattern=before
-	Constrained: Pattern=this year, Pattern=peppers, Pattern=we, Pattern=year, Pattern=planted, Pattern=this
+Turn ID=218| A | A : we planted some yellow peppers this year . we've tried it , before
+	Free: Pattern=yellow peppers, Pattern=we planted, Pattern=some, Pattern=it ,, Pattern=tried, Pattern=we've, Pattern=this year ., Pattern=, before
+	Constrained: Pattern=this year, Pattern=it, Pattern=peppers, Pattern=we, Pattern=planted, Pattern=before, Pattern=this, Pattern=year ., Pattern=year
 Turn ID=219| B | B : oh .
 	Free: Pattern=oh
 	Constrained: 
-Turn ID=220| A | A : and nope we haven't had much luck with it we're going to try it again this year .
-	Free: Pattern=it again, Pattern=we, Pattern=this year ., Pattern=with, Pattern=it, Pattern=and, Pattern=we're going to try, Pattern=haven't, Pattern=had, Pattern=much
-	Constrained: Pattern=going to, Pattern=this year, Pattern=try, Pattern=it, Pattern=to try, Pattern=year, Pattern=again, Pattern=to, Pattern=this
-Turn ID=221| B | B : yellow peppers huh .
-	Free: Pattern=yellow peppers
+Turn ID=220| A | A : and nope , we haven't had much luck with it we're going to try it again this year .
+	Free: Pattern=it again, Pattern=this year ., Pattern=with, Pattern=it, Pattern=and, Pattern=, we, Pattern=we're going to try, Pattern=haven't, Pattern=had, Pattern=much
+	Constrained: Pattern=going to, Pattern=this year, Pattern=try, Pattern=it, Pattern=again, Pattern=to, Pattern=this, Pattern=we, Pattern=to try, Pattern=year ., Pattern=year
+Turn ID=221| B | B : yellow peppers , huh .
+	Free: Pattern=peppers ,, Pattern=yellow peppers
 	Constrained: Pattern=peppers
 Turn ID=222| A | A : they have some little buds on them hopefully they'll do something .
-	Free: Pattern=do something, Pattern=they have, Pattern=little, Pattern=some, Pattern=on, Pattern=them
-	Constrained: Pattern=have, Pattern=they, Pattern=something, Pattern=do
+	Free: Pattern=do something, Pattern=have, Pattern=some, Pattern=on, Pattern=them, Pattern=they, Pattern=little
+	Constrained: Pattern=do, Pattern=something
 Turn ID=223| B | B : yeah . sounds like you have a real good garden .
 	Free: Pattern=good, Pattern=yeah ., Pattern=you have a, Pattern=garden ., Pattern=like you, Pattern=real
-	Constrained: Pattern=you, Pattern=have, Pattern=have a, Pattern=a, Pattern=yeah, Pattern=garden, Pattern=you have, Pattern=like
+	Constrained: Pattern=you, Pattern=have, Pattern=have a, Pattern=a, Pattern=garden, Pattern=like
 Turn ID=224| A | A : yeah . we enjoy fooling around with it .
 	Free: Pattern=it ., Pattern=. we, Pattern=enjoy, Pattern=with, Pattern=around, Pattern=yeah .
-	Constrained: Pattern=yeah, Pattern=we, Pattern=it
-Turn ID=225| B | B : just let me see what i got i got the peas and i've got some broccoli uh onions some some radishes and uh uh beets .
-	Free: Pattern=uh, Pattern=just, Pattern=me, Pattern=what, Pattern=peas, Pattern=some, Pattern=i got, Pattern=the, Pattern=and uh, Pattern=let, Pattern=onions, Pattern=and i've got some, Pattern=some radishes, Pattern=radishes and, Pattern=see, Pattern=beets .
-	Constrained: Pattern=uh, Pattern=i've got, Pattern=i've, Pattern=some, Pattern=and i've, Pattern=i, Pattern=got, Pattern=beets, Pattern=and, Pattern=radishes
-Turn ID=226| A | A : beets . yeah we've got some beets uh-huh .
-	Free: Pattern=we've got some, Pattern=. yeah, Pattern=beets ., Pattern=uh-huh ., Pattern=beets
-	Constrained: Pattern=yeah, Pattern=some, Pattern=we've, Pattern=got, Pattern=beets
-Turn ID=227| B | B : uh and i planted potatoes too .
-	Free: Pattern=too ., Pattern=and i, Pattern=planted, Pattern=uh
-	Constrained: Pattern=too, Pattern=and, Pattern=i
-Turn ID=228| A | A : uh-huh . i've never done potato . we used to do it at home when i was a kid had a huge garden .
+	Constrained: Pattern=it, Pattern=we
+Turn ID=225| B | B : just let me see what i got , i got the peas and i've got some broccoli , uh , onions some , some radishes and , uh , uh , beets .
+	Free: Pattern=got ,, Pattern=just, Pattern=me, Pattern=what, Pattern=peas, Pattern=, beets, Pattern=some, Pattern=, uh ,, Pattern=let, Pattern=onions, Pattern=and i've got some, Pattern=some radishes, Pattern=radishes and, Pattern=i got, Pattern=and , uh ,, Pattern=the, Pattern=, i, Pattern=see, Pattern=beets .
+	Constrained: Pattern=and ,, Pattern=i've got, Pattern=i've, Pattern=some, Pattern=and i've, Pattern=i, Pattern=, uh ,, Pattern=uh ,, Pattern=got, Pattern=beets, Pattern=uh, Pattern=, uh, Pattern=and, Pattern=radishes
+Turn ID=226| A | A : beets . yeah , we've got some beets , uh-huh .
+	Free: Pattern=. yeah ,, Pattern=we've got some, Pattern=beets ., Pattern=uh-huh ., Pattern=beets
+	Constrained: Pattern=yeah ,, Pattern=some, Pattern=we've, Pattern=got, Pattern=beets
+Turn ID=227| B | B : uh , and i planted potatoes too .
+	Free: Pattern=, and i, Pattern=uh ,, Pattern=too ., Pattern=planted
+	Constrained: Pattern=and i, Pattern=uh, Pattern=i, Pattern=, and, Pattern=and, Pattern=too
+Turn ID=228| A | A : uh-huh . i've never done potato . we used to do it at home when i was a kid , had a huge garden .
 	Free: Pattern=had a, Pattern=a, Pattern=i've, Pattern=. we, Pattern=home, Pattern=potato, Pattern=i was, Pattern=when, Pattern=to do it, Pattern=uh-huh ., Pattern=garden .
 	Constrained: Pattern=to do, Pattern=it, Pattern=garden, Pattern=i, Pattern=had, Pattern=to, Pattern=was, Pattern=do, Pattern=a, Pattern=do it, Pattern=we
-Turn ID=229| B | B : oh the potato they were they're delicious but they you don't get seem to get that much for the space
-	Free: Pattern=potato, Pattern=you, Pattern=for the, Pattern=they were, Pattern=they, Pattern=much, Pattern=the, Pattern=don't, Pattern=get, Pattern=to get, Pattern=oh, Pattern=space, Pattern=they're, Pattern=that, Pattern=but
-	Constrained: Pattern=they, Pattern=for, Pattern=the, Pattern=to, Pattern=get, Pattern=were
+Turn ID=229| B | B : oh , the potato , they were , they're delicious but they , you don't get , seem to get that much for the space ,
+	Free: Pattern=potato, Pattern=they ,, Pattern=for the, Pattern=they were, Pattern=to get, Pattern=space, Pattern=, you, Pattern=, they're, Pattern=much, Pattern=don't, Pattern=oh ,, Pattern=get, Pattern=, the, Pattern=that, Pattern=but
+	Constrained: Pattern=you, Pattern=they, Pattern=for, Pattern=oh, Pattern=they're, Pattern=the, Pattern=to, Pattern=get, Pattern=were
 Turn ID=230| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=231| B | B : they they do .
-	Free: Pattern=they do ., Pattern=they
-	Constrained: Pattern=they do, Pattern=do ., Pattern=they, Pattern=do
-Turn ID=232| A | A : it takes a yeah it does take some space .
-	Free: Pattern=a, Pattern=space, Pattern=some, Pattern=take, Pattern=it takes, Pattern=it, Pattern=yeah
-	Constrained: Pattern=takes, Pattern=it
-Turn ID=233| B | B : some beet uh potatoes
-	Free: Pattern=uh, Pattern=some
-	Constrained: 
+Turn ID=231| B | B : they , they do .
+	Free: Pattern=they do ., Pattern=they ,
+	Constrained: Pattern=do ., Pattern=they do, Pattern=they, Pattern=do
+Turn ID=232| A | A : it takes a , yeah , it does take some space .
+	Free: Pattern=yeah ,, Pattern=some, Pattern=take, Pattern=it takes, Pattern=, it, Pattern=a ,, Pattern=space, Pattern=, yeah
+	Constrained: Pattern=it, Pattern=takes, Pattern=a
+Turn ID=233| B | B : some beet , uh , potatoes
+	Free: Pattern=, uh ,, Pattern=some
+	Constrained: Pattern=uh ,, Pattern=, uh, Pattern=uh
 Turn ID=234| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=235| B | B : and i've got some tomatoes still growing in in containers
+	Constrained: 
+Turn ID=235| B | B : and i've got some tomatoes still growing , in , in containers ,
 	Free: Pattern=and i've got some, Pattern=in, Pattern=tomatoes
 	Constrained: Pattern=i've got, Pattern=and, Pattern=i've, Pattern=some, Pattern=and i've, Pattern=got
 Turn ID=236| A | A : uh-huh . i see .
 	Free: Pattern=. i see ., Pattern=uh-huh .
 	Constrained: Pattern=i see, Pattern=. i, Pattern=i, Pattern=see, Pattern=i see .
-Turn ID=237| B | B : i got to wait for a place to to to free up .
-	Free: Pattern=a, Pattern=up ., Pattern=i got, Pattern=to, Pattern=wait, Pattern=got to, Pattern=for
-	Constrained: Pattern=got, Pattern=to, Pattern=up, Pattern=i
+Turn ID=237| B | B : i got to wait for a place to , to , to free up .
+	Free: Pattern=a, Pattern=i got, Pattern=to, Pattern=wait, Pattern=got to, Pattern=for, Pattern=to ,, Pattern=up .
+	Constrained: Pattern=i, Pattern=got, Pattern=up, Pattern=to
 Turn ID=238| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=239| B | B : uh our our kids love pickles and we all love pickles so we're going to try to grow our own pickles this year .
-	Free: Pattern=own, Pattern=uh, Pattern=our, Pattern=and, Pattern=we're going to try, Pattern=we, Pattern=all, Pattern=this year ., Pattern=to, Pattern=so
-	Constrained: Pattern=going to, Pattern=this year, Pattern=try, Pattern=to try, Pattern=year, Pattern=to, Pattern=this
-Turn ID=240| A | A : uh-huh . that will be neat yeah .
-	Free: Pattern=yeah ., Pattern=uh-huh ., Pattern=that, Pattern=be
-	Constrained: Pattern=yeah
-Turn ID=241| B | B : we've got some good um um hybrid burpee uh uh pickler cucumbers
-	Free: Pattern=we've got some, Pattern=uh, Pattern=good
-	Constrained: Pattern=got, Pattern=we've, Pattern=some
+Turn ID=239| B | B : uh , our , our kids love pickles and we all love pickles so we're going to try to grow our own pickles this year .
+	Free: Pattern=own, Pattern=our, Pattern=and, Pattern=we're going to try, Pattern=we, Pattern=this year ., Pattern=to, Pattern=so, Pattern=uh ,, Pattern=all
+	Constrained: Pattern=going to, Pattern=try, Pattern=to try, Pattern=to, Pattern=this, Pattern=uh, Pattern=this year, Pattern=year ., Pattern=year
+Turn ID=240| A | A : uh-huh . that will be neat , yeah .
+	Free: Pattern=, yeah ., Pattern=uh-huh ., Pattern=be, Pattern=that
+	Constrained: Pattern=, yeah, Pattern=yeah .
+Turn ID=241| B | B : we've got some good , um , um , hybrid burpee uh uh , pickler cucumbers
+	Free: Pattern=we've got some, Pattern=uh ,, Pattern=uh, Pattern=good
+	Constrained: Pattern=got, Pattern=uh, Pattern=we've, Pattern=some
 Turn ID=242| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
 Turn ID=243| B | B : and we're going to try to see if we can pickle our own
 	Free: Pattern=own, Pattern=our, Pattern=and, Pattern=can, Pattern=we, Pattern=see, Pattern=to, Pattern=we're going to try, Pattern=if
 	Constrained: Pattern=try, Pattern=to try, Pattern=to, Pattern=going to
-Turn ID=244| A | A : that will be neat yeah . absolutely they're expensive .
-	Free: Pattern=yeah ., Pattern=they're, Pattern=be, Pattern=expensive, Pattern=that
-	Constrained: Pattern=yeah
-Turn ID=245| B | B : i know it . i said why are they so expensive they're just a bunch of little cucumbers you know ?
-	Free: Pattern=of, Pattern=just, Pattern=a, Pattern=are, Pattern=know, Pattern=i, Pattern=expensive, Pattern=bunch, Pattern=so, Pattern=you know, Pattern=it ., Pattern=they, Pattern=little, Pattern=. i, Pattern=they're
-	Constrained: Pattern=i, Pattern=you, Pattern=know, Pattern=it
-Turn ID=246| A | A : i don't know unless it labor intensive or something . i really don't know .
-	Free: Pattern=i really don't know ., Pattern=it, Pattern=. i, Pattern=or something, Pattern=i don't know
-	Constrained: Pattern=i don't, Pattern=i really don't, Pattern=i really, Pattern=know, Pattern=i, Pattern=really, Pattern=or, Pattern=don't, Pattern=don't know ., Pattern=something
-Turn ID=247| B | B : i guess . but we're going to try that and see how that works .
-	Free: Pattern=and, Pattern=we're going to try, Pattern=i guess, Pattern=see, Pattern=that, Pattern=but
-	Constrained: Pattern=going to, Pattern=try, Pattern=i, Pattern=to try, Pattern=to
+Turn ID=244| A | A : that will be neat , yeah . absolutely , they're expensive .
+	Free: Pattern=, yeah ., Pattern=, they're, Pattern=be, Pattern=expensive, Pattern=that
+	Constrained: Pattern=, yeah, Pattern=yeah ., Pattern=they're
+Turn ID=245| B | B : i know it . i said , why are they so expensive they're just a bunch of little cucumbers , you know ?
+	Free: Pattern=of, Pattern=it ., Pattern=just, Pattern=a, Pattern=are, Pattern=, you know, Pattern=know, Pattern=i, Pattern=expensive, Pattern=bunch, Pattern=so, Pattern=they, Pattern=little, Pattern=. i, Pattern=they're
+	Constrained: Pattern=it, Pattern=i, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
+Turn ID=246| A | A : i don't know unless it , labor intensive or something . i really , don't know .
+	Free: Pattern=it ,, Pattern=or something, Pattern=, don't, Pattern=i don't know, Pattern=don't know ., Pattern=. i, Pattern=i really
+	Constrained: Pattern=i don't, Pattern=it, Pattern=know, Pattern=i, Pattern=really, Pattern=or, Pattern=don't, Pattern=something
+Turn ID=247| B | B : i guess . but we're going to try that , and see how that works .
+	Free: Pattern=we're going to try, Pattern=i guess, Pattern=see, Pattern=, and, Pattern=that, Pattern=but
+	Constrained: Pattern=going to, Pattern=try, Pattern=and, Pattern=i, Pattern=to try, Pattern=to
 Turn ID=248| A | A : that will be interesting .
-	Free: Pattern=that, Pattern=be
+	Free: Pattern=be, Pattern=that
 	Constrained: 
 Turn ID=249| B | B : an experiment .
 	Free: 
 	Constrained: 
 Turn ID=250| A | A : yeah .
 	Free: Pattern=yeah .
-	Constrained: Pattern=yeah
-Turn ID=251| B | B : i'd like to try you know just try something new every year that i haven't tried before
-	Free: Pattern=year that i haven't, Pattern=you know, Pattern=just, Pattern=try, Pattern=to try, Pattern=tried, Pattern=like to, Pattern=before, Pattern=something
-	Constrained: Pattern=you, Pattern=try, Pattern=haven't, Pattern=know, Pattern=i, Pattern=like, Pattern=year, Pattern=that i, Pattern=to, Pattern=that, Pattern=i haven't
+	Constrained: 
+Turn ID=251| B | B : i'd like to try , you know , just try something new , every year that , i haven't tried before
+	Free: Pattern=try, Pattern=year that, Pattern=to try, Pattern=tried, Pattern=before, Pattern=i haven't, Pattern=something, Pattern=, you know ,, Pattern=, just, Pattern=like to, Pattern=, i
+	Constrained: Pattern=you know ,, Pattern=just, Pattern=try, Pattern=haven't, Pattern=, you know, Pattern=i, Pattern=like, Pattern=year, Pattern=to, Pattern=that, Pattern=you, Pattern=you know, Pattern=know, Pattern=, you
 Turn ID=252| A | A : sure . yeah .
 	Free: Pattern=. yeah ., Pattern=sure
-	Constrained: Pattern=yeah ., Pattern=. yeah, Pattern=yeah
-Turn ID=253| B | B : and
-	Free: Pattern=and
-	Constrained: 
+	Constrained: Pattern=yeah .
+Turn ID=253| B | B : and ,
+	Free: Pattern=and ,
+	Constrained: Pattern=and
 Turn ID=254| A | A : that's interesting .
 	Free: Pattern=that's
 	Constrained: 
 Turn ID=255| B | B : well .
 	Free: Pattern=well
 	Constrained: 
-Turn ID=256| A | A : well i'll let you go it's
-	Free: Pattern=well, Pattern=you, Pattern=go, Pattern=i'll, Pattern=let, Pattern=it's
-	Constrained: 
+Turn ID=256| A | A : well , i'll let you go it's ,
+	Free: Pattern=it's ,, Pattern=you, Pattern=go, Pattern=i'll, Pattern=well ,, Pattern=let
+	Constrained: Pattern=well, Pattern=it's

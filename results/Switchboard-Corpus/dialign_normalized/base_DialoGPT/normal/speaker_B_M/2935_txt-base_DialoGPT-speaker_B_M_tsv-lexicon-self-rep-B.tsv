@@ -1,11 +1,14 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	i don't know ,	19	M	3, 21
 3	3	i don't know	19	M	3, 13, 21
 4	2	i don't	59	M	3, 13, 21, 61
+2	2	, i	5	M	59, 63
 2	2	i'm sorry	9	M	59, 67
 2	2	it's just	11	M	3, 13
 2	2	that .	21	M	41, 61
 2	2	the last	5	M	11, 15
 2	2	tomatoes .	3	M	17, 19
+2	2	well ,	3	M	15, 17
 2	2	you ?	15	M	37, 51
 8	1	i	61	M	3, 13, 19, 21, 27, 59, 61, 63
 7	1	you	61	M	9, 23, 37, 51, 59, 61, 69
@@ -30,5 +33,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	think	3	M	59, 61
 2	1	to	7	M	13, 19
 2	1	too	23	M	47, 69
-2	1	well	3	M	15, 17
 

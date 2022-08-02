@@ -1,10 +1,17 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	get out and walk	11	B	1, 11
+2	3	, uh ,	15	B	1, 15
 2	3	to get out	11	B	1, 11
 2	3	when i don't	3	B	15, 17
+4	2	, and	19	B	1, 15, 17, 19
 3	2	i don't	17	B	1, 15, 17
 3	2	of the	9	B	11, 15, 19
 3	2	when i	17	B	1, 15, 17
+2	2	, because	19	B	19, 37
+2	2	, but	21	B	15, 35
+2	2	, i	17	B	1, 17
+2	2	, it's	5	B	15, 19
+2	2	, you	29	B	1, 29
 2	2	because i	27	B	11, 37
 2	2	because you	11	B	19, 29
 2	2	by the	7	B	15, 21
@@ -13,11 +20,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	feel that	3	B	15, 17
 2	2	huh .	3	B	33, 35
 2	2	i just	9	B	17, 25
+2	2	oh ,	37	B	1, 37
 2	2	that .	35	B	3, 37
 2	2	the district	3	B	9, 11
 2	2	the time	7	B	15, 21
+2	2	uh ,	15	B	1, 15
 2	2	uh-huh .	9	B	5, 13
 2	2	up in	3	B	35, 37
+2	2	well ,	27	B	15, 41
 8	1	i	37	B	1, 11, 15, 17, 25, 29, 35, 37
 8	1	you	35	B	1, 9, 19, 21, 25, 29, 31, 35
 7	1	the	29	B	1, 9, 11, 15, 19, 21, 29
@@ -53,14 +63,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	know	5	B	31, 35
 2	1	me	3	B	15, 17
 2	1	my	15	B	1, 15
-2	1	oh	37	B	1, 37
 2	1	on	35	B	1, 35
 2	1	or	17	B	1, 17
 2	1	probably	13	B	17, 29
 2	1	so	15	B	11, 25
 2	1	terrific	3	B	19, 21
 2	1	that's	11	B	19, 29
-2	1	uh	15	B	1, 15
-2	1	well	27	B	15, 41
 2	1	where	25	B	11, 35
 

@@ -1,32 +1,32 @@
-A|0| A: _yeah_ _they get_ out in three years _on_ probation 
-B|1| M: _you_ ... _i_ don t _i_ ? 
+A|0| A: _yeah ,_ _they get_ out in three years _on_ probation , 
+B|1| M: _you_ ... _i_ don t _, i_ ? 
 A|2| A: uh-huh . 
 B|3| M: _we_ did . 
 A|4| A: right . 
 B|5| M: paper _is_ _a_ reward for _a lot of_ things . 
-A|6| A: well [i] [i] think [we] kind [of] are along _the_ same lines . 
-B|7| M: _but_ what about _it_ ? 
-A|8| A: [but] here again [i] dress casual quite [a] bit _so_ 
-B|9| M: _oh_ god [i] can smell [the] leaves [on] [the] streets . 
-A|10| A: [but] [but] _yeah_ substantially [you] _know ._ um _do you like_ living in an older home _and_ restoring [it] _like_ _that_ ? 
-B|11| M: _i don't_ [know] if i'd say [the] economy around dallas _is_ really [that] bad [but] _it's_ not [like] there's [a] huge shortage [of] jobs . 
-A|12| A: with children 
+A|6| A: well [, i] [, i] think [we] kind [of] are along _the_ same lines . 
+B|7| M: _but ,_ what about _it_ ? 
+A|8| A: [but] here again [i] dress casual quite [a] bit _so_ , 
+B|9| M: _oh_ , god [, i] can smell [the] leaves [on] [the] streets . 
+A|10| A: [but _,] [but_ _,] yeah ,_ substantially _, you_ _know ._ um , _do you like_ living in an older home _and_ restoring [it] _like_ _that_ ? 
+B|11| M: _i don't_ [know] if i'd say [the] economy around dallas _is_ really [that] bad [, but] _it's_ not [like] there's [a] huge shortage [of] jobs . 
+A|12| A: with children , 
 B|13| M: [do you like] _to_ eat ? 
-A|14| A: _and_ _they_ have been [we] thought even with all [the] cold weather weather [we] have had _they_ have been blooming just fine . 
+A|14| A: _and_ _they_ have been , [we] thought even with all [the] cold weather weather [we] have had _they_ have been blooming just fine . 
 B|15| M: s 
-A|16| A: [you] [do] [like] arby's ? see [i don't] [like] arby's . 
+A|16| A: [you] [do] , [like] arby's ? see [i don't] [like] arby's . 
 B|17| M: how [do] [they get] _to_ [the] other side ? 
 A|18| A: uh-huh . 
-B|19| M: ah [i] love [you] _too ._ 
-A|20| A: [but] 
-B|21| M: [and] uh [yeah] [and] _it's a_ _good_ thing . 
-A|22| A: [it's] just _so_ [it's [a] lot of] work [too] 
+B|19| M: ah [, i] love [you] _too ._ 
+A|20| A: [but ,] 
+B|21| M: [and] , uh [, yeah ,] [and] _it's a_ _good_ thing . 
+A|22| A: [it's] just , _so_ , [it's [a] lot of] work , [too] 
 B|23| M: huh . [so] what ? 
-A|24| A: well [that] [is] [good] . 
-B|25| M: _oh_ we're . 
-A|26| A: [yeah] _that's_ [i] mean _that's_ certainly [a] possibility in in [we] have had [a] few cases _where_ [the] guy has broken in [you] [know] during [the] middle [of] [the] night [and] gotten himself shot [to] death . 
+A|24| A: well , [that] [is] [good] . 
+B|25| M: _oh_ , we're . 
+A|26| A: [yeah ,] _that's_ [, i] mean _that's_ certainly [a] possibility in , in , [we] have had [a] few cases _where_ [the] guy has broken in _, you_ [know] , during [the] middle [of] [the] night [and] gotten himself shot [to] death . 
 B|27| M: [so] . 
-A|28| A: [yeah] we've got [a] calico cat [too .] 
+A|28| A: [yeah ,] we've got [a] calico cat [too .] 
 B|29| M: what did [you] eat ? 
 A|30| A: [yeah] . 
 B|31| M: [i] [know .] 
@@ -39,17 +39,17 @@ B|37| M: [oh] ? what about [it] ?
 A|38| A: sure . 
 B|39| M: [but] [it's] cheaper [to] send [the] kid 
 A|40| A: uh-huh . right . 
-B|41| M: yes [and] [you] . 
+B|41| M: yes , [and] [, you] . 
 B|42| M: [that's] pretty far away from [where] [i] live . 
 
 
 TURN DETAILS:
-Turn ID=0| A | A : yeah they get out in three years on probation
-	Free: Pattern=they get, Pattern=yeah, Pattern=on
-	Constrained: Pattern=they
-Turn ID=1| B | M : you ... i don t i ?
-	Free: Pattern=i, Pattern=you
-	Constrained: 
+Turn ID=0| A | A : yeah , they get out in three years on probation ,
+	Free: Pattern=yeah ,, Pattern=they get, Pattern=on
+	Constrained: Pattern=yeah, Pattern=they
+Turn ID=1| B | M : you ... i don t , i ?
+	Free: Pattern=, i, Pattern=i, Pattern=you
+	Constrained: Pattern=i
 Turn ID=2| A | A : uh-huh .
 	Free: 
 	Constrained: 
@@ -60,40 +60,40 @@ Turn ID=4| A | A : right .
 	Free: 
 	Constrained: 
 Turn ID=5| B | M : paper is a reward for a lot of things .
-	Free: Pattern=a lot of, Pattern=is, Pattern=a
-	Constrained: Pattern=of, Pattern=a
-Turn ID=6| A | A : well i i think we kind of are along the same lines .
-	Free: Pattern=the, Pattern=i, Pattern=of, Pattern=we
-	Constrained: 
-Turn ID=7| B | M : but what about it ?
-	Free: Pattern=but, Pattern=it
-	Constrained: 
-Turn ID=8| A | A : but here again i dress casual quite a bit so
-	Free: Pattern=so, Pattern=but, Pattern=i, Pattern=a
-	Constrained: 
-Turn ID=9| B | M : oh god i can smell the leaves on the streets .
-	Free: Pattern=the, Pattern=i, Pattern=on, Pattern=oh
-	Constrained: 
-Turn ID=10| A | A : but but yeah substantially you know . um do you like living in an older home and restoring it like that ?
-	Free: Pattern=you, Pattern=like, Pattern=know ., Pattern=do you like, Pattern=and, Pattern=it, Pattern=yeah, Pattern=that, Pattern=but
-	Constrained: Pattern=do, Pattern=like, Pattern=you, Pattern=know
-Turn ID=11| B | M : i don't know if i'd say the economy around dallas is really that bad but it's not like there's a huge shortage of jobs .
-	Free: Pattern=of, Pattern=i don't, Pattern=a, Pattern=know, Pattern=is, Pattern=like, Pattern=the, Pattern=that, Pattern=it's, Pattern=but
+	Free: Pattern=a lot of, Pattern=a, Pattern=is
+	Constrained: Pattern=a, Pattern=of
+Turn ID=6| A | A : well , i , i think we kind of are along the same lines .
+	Free: Pattern=, i, Pattern=the, Pattern=we, Pattern=of
 	Constrained: Pattern=i
-Turn ID=12| A | A : with children
+Turn ID=7| B | M : but , what about it ?
+	Free: Pattern=but ,, Pattern=it
+	Constrained: Pattern=but
+Turn ID=8| A | A : but here again i dress casual quite a bit so ,
+	Free: Pattern=but, Pattern=i, Pattern=a, Pattern=so
+	Constrained: 
+Turn ID=9| B | M : oh , god , i can smell the leaves on the streets .
+	Free: Pattern=, i, Pattern=oh, Pattern=the, Pattern=on
+	Constrained: Pattern=i
+Turn ID=10| A | A : but , but , yeah , substantially , you know . um , do you like living in an older home and restoring it like that ?
+	Free: Pattern=, but, Pattern=, you, Pattern=like, Pattern=know ., Pattern=that, Pattern=do you like, Pattern=, yeah ,, Pattern=but ,, Pattern=it, Pattern=and
+	Constrained: Pattern=you, Pattern=yeah ,, Pattern=do, Pattern=yeah, Pattern=know, Pattern=like, Pattern=but
+Turn ID=11| B | M : i don't know if i'd say the economy around dallas is really that bad , but it's not like there's a huge shortage of jobs .
+	Free: Pattern=of, Pattern=, but, Pattern=i don't, Pattern=a, Pattern=know, Pattern=is, Pattern=like, Pattern=the, Pattern=that, Pattern=it's
+	Constrained: Pattern=but, Pattern=i
+Turn ID=12| A | A : with children ,
 	Free: 
 	Constrained: 
 Turn ID=13| B | M : do you like to eat ?
 	Free: Pattern=do you like, Pattern=to
-	Constrained: Pattern=like, Pattern=do, Pattern=you
-Turn ID=14| A | A : and they have been we thought even with all the cold weather weather we have had they have been blooming just fine .
-	Free: Pattern=they, Pattern=the, Pattern=and, Pattern=we
+	Constrained: Pattern=do, Pattern=you, Pattern=like
+Turn ID=14| A | A : and they have been , we thought even with all the cold weather weather we have had they have been blooming just fine .
+	Free: Pattern=the, Pattern=they, Pattern=we, Pattern=and
 	Constrained: 
 Turn ID=15| B | M : s
 	Free: 
 	Constrained: 
-Turn ID=16| A | A : you do like arby's ? see i don't like arby's .
-	Free: Pattern=i don't, Pattern=like, Pattern=do, Pattern=you
+Turn ID=16| A | A : you do , like arby's ? see i don't like arby's .
+	Free: Pattern=i don't, Pattern=do, Pattern=you, Pattern=like
 	Constrained: Pattern=i
 Turn ID=17| B | M : how do they get to the other side ?
 	Free: Pattern=they get, Pattern=do, Pattern=to, Pattern=the
@@ -101,36 +101,36 @@ Turn ID=17| B | M : how do they get to the other side ?
 Turn ID=18| A | A : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=19| B | M : ah i love you too .
-	Free: Pattern=too ., Pattern=i, Pattern=you
-	Constrained: Pattern=too
-Turn ID=20| A | A : but
-	Free: Pattern=but
-	Constrained: 
-Turn ID=21| B | M : and uh yeah and it's a good thing .
-	Free: Pattern=it's a, Pattern=good, Pattern=yeah, Pattern=and
-	Constrained: Pattern=it's, Pattern=a
-Turn ID=22| A | A : it's just so it's a lot of work too
+Turn ID=19| B | M : ah , i love you too .
+	Free: Pattern=too ., Pattern=, i, Pattern=you
+	Constrained: Pattern=i, Pattern=too
+Turn ID=20| A | A : but ,
+	Free: Pattern=but ,
+	Constrained: Pattern=but
+Turn ID=21| B | M : and , uh , yeah , and it's a good thing .
+	Free: Pattern=, yeah ,, Pattern=it's a, Pattern=good, Pattern=and
+	Constrained: Pattern=yeah ,, Pattern=yeah, Pattern=a, Pattern=it's
+Turn ID=22| A | A : it's just , so , it's a lot of work , too
 	Free: Pattern=too, Pattern=it's, Pattern=so, Pattern=a lot of, Pattern=it's a
-	Constrained: Pattern=it's, Pattern=of, Pattern=a
+	Constrained: Pattern=a, Pattern=it's, Pattern=of
 Turn ID=23| B | M : huh . so what ?
 	Free: Pattern=so
 	Constrained: 
-Turn ID=24| A | A : well that is good .
-	Free: Pattern=that, Pattern=good, Pattern=is
+Turn ID=24| A | A : well , that is good .
+	Free: Pattern=is, Pattern=that, Pattern=good
 	Constrained: 
-Turn ID=25| B | M : oh we're .
+Turn ID=25| B | M : oh , we're .
 	Free: Pattern=oh
 	Constrained: 
-Turn ID=26| A | A : yeah that's i mean that's certainly a possibility in in we have had a few cases where the guy has broken in you know during the middle of the night and gotten himself shot to death .
-	Free: Pattern=of, Pattern=you, Pattern=a, Pattern=i, Pattern=we, Pattern=to, Pattern=yeah, Pattern=and, Pattern=where, Pattern=know, Pattern=that's, Pattern=the
-	Constrained: 
+Turn ID=26| A | A : yeah , that's , i mean that's certainly a possibility in , in , we have had a few cases where the guy has broken in , you know , during the middle of the night and gotten himself shot to death .
+	Free: Pattern=of, Pattern=yeah ,, Pattern=a, Pattern=and, Pattern=we, Pattern=to, Pattern=where, Pattern=know, Pattern=, you, Pattern=that's, Pattern=the, Pattern=, i
+	Constrained: Pattern=i, Pattern=yeah, Pattern=you
 Turn ID=27| B | M : so .
 	Free: Pattern=so
 	Constrained: 
-Turn ID=28| A | A : yeah we've got a calico cat too .
-	Free: Pattern=too ., Pattern=yeah, Pattern=a
-	Constrained: Pattern=too
+Turn ID=28| A | A : yeah , we've got a calico cat too .
+	Free: Pattern=too ., Pattern=yeah ,, Pattern=a
+	Constrained: Pattern=yeah, Pattern=too
 Turn ID=29| B | M : what did you eat ?
 	Free: Pattern=you
 	Constrained: 
@@ -153,23 +153,23 @@ Turn ID=35| B | M : how bad ?
 	Free: 
 	Constrained: 
 Turn ID=36| A | A : that's like me .
-	Free: Pattern=like, Pattern=that's
+	Free: Pattern=that's, Pattern=like
 	Constrained: 
 Turn ID=37| B | M : oh ? what about it ?
-	Free: Pattern=it, Pattern=oh
+	Free: Pattern=oh, Pattern=it
 	Constrained: 
 Turn ID=38| A | A : sure .
 	Free: 
 	Constrained: 
 Turn ID=39| B | M : but it's cheaper to send the kid
-	Free: Pattern=it's, Pattern=but, Pattern=to, Pattern=the
+	Free: Pattern=but, Pattern=to, Pattern=the, Pattern=it's
 	Constrained: 
 Turn ID=40| A | A : uh-huh . right .
 	Free: 
 	Constrained: 
-Turn ID=41| B | M : yes and you .
-	Free: Pattern=you, Pattern=and
-	Constrained: 
+Turn ID=41| B | M : yes , and , you .
+	Free: Pattern=, you, Pattern=and
+	Constrained: Pattern=you
 Turn ID=42| B | M : that's pretty far away from where i live .
-	Free: Pattern=i, Pattern=that's, Pattern=where
+	Free: Pattern=that's, Pattern=i, Pattern=where
 	Constrained: 

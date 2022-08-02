@@ -1,37 +1,54 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	, uh , you know ,	21	B	6, 26
 2	5	roll down the window .	3	B	6, 8
+3	4	, uh , you	23	B	6, 26, 28
+3	4	, you know ,	21	B	6, 8, 26
+3	4	and , uh ,	53	B	8, 10, 60
+2	4	, actually , i	15	B	24, 38
+2	4	, it , it	35	B	22, 56
+8	3	, uh ,	55	B	6, 8, 10, 26, 28, 52, 56, 60
+3	3	, it ,	35	B	22, 54, 56
+3	3	it , it	35	B	22, 54, 56
+2	3	, i like	37	B	24, 60
+2	3	, what ,	5	B	34, 38
+2	3	, yeah .	21	B	24, 44
+2	3	. i ,	15	B	24, 38
 2	3	and try to	3	B	6, 8
+2	3	i , i	15	B	38, 52
 2	3	next to me	3	B	6, 8
 2	3	stick shift .	9	B	38, 46
-2	3	uh you know	21	B	6, 26
+2	3	uh , i	5	B	52, 56
+10	2	uh ,	61	B	0, 6, 8, 10, 24, 26, 28, 52, 56, 60
+7	2	, i	37	B	24, 26, 38, 46, 52, 56, 60
+4	2	and ,	53	B	8, 10, 38, 60
+4	2	know ,	51	B	6, 8, 26, 56
 4	2	stick shift	15	B	32, 38, 42, 46
+3	2	, and	59	B	2, 8, 60
+3	2	, it	35	B	22, 54, 56
+3	2	, yeah	35	B	24, 44, 58
 3	2	. i	29	B	24, 38, 52
-3	2	and uh	53	B	8, 10, 60
-3	2	it it	35	B	22, 54, 56
 3	2	on the	55	B	6, 26, 60
 3	2	to me	49	B	6, 8, 54
-3	2	uh you	23	B	6, 26, 28
-3	2	you know	21	B	6, 8, 26
+3	2	well ,	33	B	6, 22, 38
+2	2	, a	21	B	34, 54
+2	2	, it's	5	B	52, 56
+2	2	, on	35	B	26, 60
 2	2	a lot	45	B	10, 54
-2	2	actually i	15	B	24, 38
 2	2	had a	9	B	18, 26
+2	2	have ,	19	B	34, 52
+2	2	huh ,	13	B	32, 44
 2	2	huh .	3	B	48, 50
 2	2	i have	27	B	26, 52
-2	2	i i	15	B	38, 52
 2	2	i know	31	B	8, 38
-2	2	i like	37	B	24, 60
 2	2	it is	3	B	6, 8
 2	2	it's fun	5	B	52, 56
 2	2	more control	3	B	52, 54
 2	2	of the	41	B	6, 46
 2	2	or a	7	B	28, 34
-2	2	over and	3	B	6, 8
 2	2	power locks	9	B	2, 10
 2	2	try to	3	B	6, 8
-2	2	uh i	5	B	52, 56
-2	2	yeah .	21	B	24, 44
+2	2	yeah ,	3	B	58, 60
 10	1	and	59	B	2, 6, 8, 10, 22, 26, 38, 52, 54, 60
-10	1	uh	61	B	0, 6, 8, 10, 24, 26, 28, 52, 56, 60
 9	1	a	49	B	6, 8, 10, 18, 26, 28, 34, 38, 54
 9	1	i	55	B	6, 8, 24, 26, 38, 46, 52, 56, 60
 7	1	it	51	B	6, 8, 22, 34, 52, 54, 56
@@ -40,7 +57,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	or	35	B	0, 6, 8, 26, 28, 34
 6	1	to	49	B	6, 8, 22, 26, 42, 54
 5	1	have	47	B	6, 18, 26, 34, 52
-5	1	know	51	B	6, 8, 26, 38, 56
 5	1	that	25	B	6, 8, 10, 26, 30
 4	1	cars	35	B	26, 42, 46, 60
 4	1	huh	19	B	32, 44, 48, 50
@@ -48,7 +64,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	of	55	B	6, 46, 52, 60
 4	1	on	55	B	6, 26, 52, 60
 4	1	what	27	B	12, 30, 34, 38
-4	1	yeah	37	B	24, 44, 58, 60
 3	1	an	35	B	18, 28, 52
 3	1	are	51	B	10, 46, 60
 3	1	car	35	B	18, 28, 52
@@ -60,7 +75,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	me	49	B	6, 8, 54
 3	1	more	5	B	52, 54, 56
 3	1	over	47	B	6, 8, 52
-3	1	well	33	B	6, 22, 38
 2	1	as	51	B	6, 56
 2	1	brakes	3	B	24, 26
 2	1	but	3	B	26, 28

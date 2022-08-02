@@ -1,61 +1,111 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	uh-huh . uh-huh uh-huh .	17	A	73, 89
-2	4	. i mean and	21	A	83, 103
-2	4	they come here and	9	A	19, 27
-2	4	you're dooming them to	3	A	15, 17
-7	3	uh-huh uh-huh .	101	A	5, 7, 73, 81, 89, 101, 105
+2	6	uh-huh . uh-huh , uh-huh .	17	A	73, 89
+2	5	, well , i guess	15	A	13, 27
+2	5	, you know , they're	19	A	17, 35
+2	5	, you're dooming them to	3	A	15, 17
+2	5	. i mean , and	21	A	83, 103
+2	5	from , you know ,	67	A	17, 83
+8	4	, you know ,	81	A	17, 27, 35, 37, 39, 47, 83, 97
+7	4	uh-huh , uh-huh .	101	A	5, 7, 73, 81, 89, 101, 105
+3	4	and , uh ,	37	A	1, 19, 37
+2	4	, i , i	11	A	27, 37
+2	4	, of course ,	3	A	17, 19
+2	4	, you know .	11	A	27, 37
+2	4	you know , you're	21	A	17, 37
+9	3	, uh ,	97	A	1, 13, 17, 19, 27, 37, 45, 93, 97
+8	3	you know ,	81	A	17, 27, 35, 37, 39, 47, 83, 97
+5	3	i , i	81	A	13, 27, 37, 45, 93
+4	3	, well ,	77	A	9, 13, 27, 85
+4	3	, yeah .	91	A	3, 71, 87, 93
 4	3	a lot of	85	A	1, 37, 83, 85
+4	3	i mean ,	79	A	25, 45, 83, 103
+3	3	, i do	95	A	13, 37, 107
+3	3	, i guess	81	A	13, 27, 93
 3	3	. and i	29	A	17, 27, 45
+3	3	of course ,	87	A	17, 19, 103
 3	3	uh-huh . uh-huh	17	A	73, 77, 89
+2	3	, and i	17	A	21, 37
+2	3	, i'm sure	5	A	79, 83
+2	3	, not to	39	A	45, 83
+2	3	. and ,	19	A	19, 37
 2	3	. and they're	3	A	17, 19
-2	3	. because if	25	A	13, 37
 2	3	a little bit	9	A	37, 45
 2	3	a lot like	31	A	37, 67
+2	3	and , and	77	A	17, 93
 2	3	and i know	5	A	17, 21
 2	3	and part of	63	A	21, 83
 2	3	and spanish is	3	A	65, 67
 2	3	and they're being	17	A	17, 33
-2	3	from you know	67	A	17, 83
 2	3	i do have	11	A	37, 47
+2	3	it's , it's	31	A	27, 57
 2	3	many of them	21	A	17, 37
+2	3	solution is ,	81	A	13, 93
 2	3	some of the	23	A	27, 49
+2	3	the country ,	13	A	1, 13
 2	3	the foggiest idea	37	A	25, 61
 2	3	these are people	13	A	25, 37
-2	3	well i guess	15	A	13, 27
-2	3	you know .	11	A	27, 37
-2	3	you know they're	19	A	17, 35
-2	3	you know you're	21	A	17, 37
+2	3	they come here	9	A	19, 27
+2	3	to , to	25	A	13, 37
+2	3	uh , okay	5	A	109, 113
+12	2	uh ,	113	A	1, 13, 17, 19, 23, 27, 37, 45, 93, 97, 109, 113
 11	2	uh-huh .	101	A	5, 7, 73, 75, 77, 81, 89, 91, 99, 101, 105
+10	2	, and	87	A	17, 21, 27, 37, 47, 83, 85, 93, 97, 103
 10	2	. and	77	A	17, 19, 21, 27, 37, 45, 49, 83, 85, 93
-8	2	you know	81	A	17, 27, 35, 37, 39, 47, 83, 97
+9	2	, you	81	A	17, 27, 35, 37, 39, 47, 51, 83, 97
+9	2	uh-huh ,	103	A	3, 5, 7, 53, 73, 81, 89, 101, 105
+8	2	know ,	81	A	17, 27, 35, 37, 39, 47, 83, 97
+7	2	and ,	93	A	1, 17, 19, 37, 39, 85, 93
 7	2	yeah .	91	A	3, 9, 57, 69, 71, 87, 93
+6	2	, i	95	A	13, 27, 37, 45, 93, 107
 6	2	a lot	93	A	1, 37, 67, 83, 85, 93
 6	2	and i	67	A	17, 21, 27, 37, 45, 83
+6	2	well ,	99	A	9, 13, 27, 43, 85, 107
+6	2	yeah ,	85	A	23, 29, 71, 83, 87, 107
+5	2	, well	77	A	9, 13, 27, 53, 85
+5	2	, yeah	91	A	3, 23, 71, 87, 93
 5	2	. i	59	A	45, 83, 85, 93, 103
 5	2	and they're	87	A	17, 19, 21, 33, 103
+5	2	i ,	81	A	13, 27, 37, 45, 93
 5	2	i do	95	A	13, 37, 47, 83, 107
-5	2	i i	81	A	13, 27, 37, 45, 93
 5	2	i mean	79	A	25, 35, 45, 83, 103
 5	2	of the	67	A	27, 33, 49, 83, 93
+4	2	, but	83	A	21, 45, 85, 103
+4	2	, i'm	83	A	1, 45, 79, 83
+4	2	, they're	41	A	17, 21, 35, 57
 4	2	i think	61	A	37, 85, 93, 97
 4	2	in the	45	A	1, 19, 33, 45
 4	2	of them	21	A	17, 19, 27, 37
 4	2	to be	85	A	9, 13, 21, 93
+3	2	, it's	81	A	27, 57, 107
+3	2	, not	45	A	39, 45, 83
+3	2	, they	35	A	27, 37, 61
+3	2	, you're	23	A	15, 17, 37
 3	2	. because	25	A	13, 17, 37
 3	2	. but	59	A	27, 45, 85
-3	2	and and	77	A	17, 83, 93
-3	2	and uh	37	A	1, 19, 37
 3	2	are people	19	A	19, 25, 37
 3	2	because they	67	A	17, 27, 83
 3	2	don't have	35	A	25, 27, 59
-3	2	i guess	81	A	13, 27, 93
-3	2	of course	87	A	17, 19, 103
+3	2	information ,	37	A	21, 27, 57
+3	2	is ,	81	A	13, 65, 93
+3	2	it's ,	71	A	27, 57, 97
+3	2	oh ,	43	A	51, 79, 93
 3	2	part of	75	A	9, 21, 83
 3	2	people who	15	A	21, 25, 35
+3	2	that ,	67	A	17, 27, 83
+3	2	them ,	19	A	27, 37, 45
 3	2	them .	27	A	19, 27, 45
-3	2	these are	13	A	25, 31, 37
 3	2	they don't	19	A	19, 27, 37
 3	2	to do	73	A	21, 47, 93
+3	2	um ,	19	A	27, 41, 45
+2	2	, a	39	A	45, 83
+2	2	, are	55	A	31, 85
+2	2	, being	17	A	21, 37
+2	2	, if	91	A	13, 103
+2	2	, it	29	A	83, 111
+2	2	, or	77	A	9, 85
+2	2	, that	5	A	13, 17
+2	2	, the	71	A	17, 87
+2	2	, these	13	A	25, 37
 2	2	. it's	45	A	13, 57
 2	2	and it's	59	A	27, 85
 2	2	and people	13	A	37, 49
@@ -63,44 +113,48 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	and then	3	A	35, 37
 2	2	and they	3	A	17, 19
 2	2	be a	71	A	13, 83
+2	2	but ,	65	A	21, 85
 2	2	but i	39	A	45, 83
 2	2	coming from	69	A	17, 85
 2	2	coming over	55	A	31, 85
+2	2	do ,	3	A	19, 21
+2	2	english ,	39	A	65, 103
 2	2	going to	57	A	37, 93
+2	2	have ,	25	A	13, 37
 2	2	have a	25	A	13, 37
 2	2	helping people	15	A	83, 97
+2	2	here ,	11	A	17, 27
 2	2	i'm not	21	A	1, 21
-2	2	i'm sure	5	A	79, 83
 2	2	immigrant group	3	A	83, 85
 2	2	is that	71	A	13, 83
 2	2	it .	69	A	27, 95
 2	2	it would	5	A	79, 83
 2	2	it's a	81	A	13, 93
-2	2	it's it's	31	A	27, 57
+2	2	language ,	3	A	45, 47
 2	2	might be	51	A	47, 97
 2	2	money for	49	A	45, 93
-2	2	not to	39	A	45, 83
+2	2	more ,	47	A	47, 93
+2	2	not ,	31	A	27, 57
 2	2	of it	13	A	9, 21
+2	2	okay ,	3	A	111, 113
+2	2	over ,	5	A	27, 31
+2	2	people ,	21	A	83, 103
 2	2	people in	5	A	15, 19
 2	2	so they	9	A	19, 27
-2	2	solution is	81	A	13, 93
 2	2	some of	23	A	27, 49
 2	2	that .	29	A	17, 45
 2	2	that i	11	A	27, 37
 2	2	that is	15	A	13, 27
-2	2	that they	19	A	27, 45
-2	2	the country	13	A	1, 13
 2	2	the middle	17	A	17, 33
 2	2	the problems	37	A	47, 83
 2	2	the same	49	A	37, 85
 2	2	them in	29	A	17, 45
 2	2	there are	3	A	19, 21
+2	2	they ,	35	A	27, 61
 2	2	they have	11	A	27, 37
 2	2	to get	25	A	13, 37
 2	2	to help	9	A	37, 45
 2	2	to take	93	A	19, 111
-2	2	to to	25	A	13, 37
-2	2	uh okay	5	A	109, 113
 2	2	very much	63	A	21, 83
 2	2	very successful	3	A	83, 85
 2	2	what the	29	A	19, 47
@@ -118,9 +172,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 15	1	people	91	A	13, 15, 17, 19, 21, 25, 27, 35, 37, 47, 49, 83, 85, 97, 103
 15	1	you	99	A	13, 17, 27, 35, 37, 39, 47, 51, 53, 83, 85, 97, 103, 107, 111
 14	1	of	111	A	1, 9, 17, 19, 21, 27, 33, 37, 49, 83, 85, 93, 103, 111
-13	1	uh-huh	103	A	3, 5, 7, 53, 73, 75, 77, 81, 89, 91, 99, 101, 105
-12	1	uh	113	A	1, 13, 17, 19, 23, 27, 37, 45, 93, 97, 109, 113
-11	1	yeah	105	A	3, 9, 23, 29, 57, 69, 71, 83, 87, 93, 107
 10	1	a	93	A	1, 13, 17, 21, 37, 45, 67, 83, 85, 93
 10	1	are	69	A	19, 21, 25, 31, 37, 49, 51, 83, 85, 87
 10	1	know	81	A	17, 19, 21, 27, 35, 37, 39, 47, 83, 97
@@ -139,9 +190,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	they're	87	A	17, 19, 21, 31, 33, 35, 57, 103
 7	1	like	93	A	19, 25, 27, 37, 45, 67, 111
 7	1	them	33	A	13, 15, 17, 19, 27, 37, 45
-7	1	well	99	A	9, 13, 27, 43, 53, 85, 107
 6	1	being	25	A	15, 17, 21, 33, 37, 39
-6	1	but	83	A	21, 27, 45, 83, 85, 103
 5	1	been	91	A	17, 27, 55, 83, 107
 5	1	english	57	A	47, 49, 65, 67, 103
 5	1	i'm	83	A	1, 21, 45, 79, 83
@@ -179,15 +228,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	into	15	A	13, 17, 27
 3	1	language	5	A	45, 47, 49
 3	1	no	77	A	27, 37, 103
-3	1	oh	43	A	51, 79, 93
-3	1	okay	5	A	109, 111, 113
 3	1	other	57	A	37, 49, 93
 3	1	spanish	19	A	49, 65, 67
 3	1	than	37	A	1, 19, 37
 3	1	then	11	A	27, 35, 37
 3	1	these	13	A	25, 31, 37
 3	1	this	83	A	21, 93, 103
-3	1	um	19	A	27, 41, 45
 3	1	was	19	A	27, 37, 45
 3	1	work	31	A	17, 21, 47
 3	1	yes	41	A	63, 99, 103

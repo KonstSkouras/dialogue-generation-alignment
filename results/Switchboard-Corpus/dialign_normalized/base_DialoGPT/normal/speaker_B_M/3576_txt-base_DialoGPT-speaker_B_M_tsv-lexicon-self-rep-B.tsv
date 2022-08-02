@@ -1,15 +1,20 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	i know right ?	15	M	2, 16
-3	2	i know	15	M	2, 10, 16
-3	2	right ?	55	M	2, 16, 56
+2	5	i know , right ?	15	M	2, 16
+3	3	, right ?	55	M	2, 16, 56
+3	3	i know ,	15	M	2, 10, 16
+2	3	oh yeah ,	35	M	4, 38
+4	2	know ,	55	M	2, 10, 16, 56
+3	2	, uh	33	M	4, 34, 36
+2	2	, and	13	M	34, 46
+2	2	, you	13	M	44, 56
 2	2	a lot	29	M	6, 34
 2	2	build a	31	M	8, 38
 2	2	don't have	5	M	40, 44
 2	2	i don't	15	M	26, 40
-2	2	oh yeah	35	M	4, 38
 2	2	the tomatoes	9	M	60, 68
 2	2	them .	15	M	48, 62
 2	2	this is	3	M	6, 8
+2	2	uh ,	11	M	34, 44
 2	2	you know	25	M	32, 56
 2	2	you're right	3	M	64, 66
 10	1	i	65	M	2, 10, 16, 18, 20, 24, 26, 40, 58, 66
@@ -20,7 +25,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	don't	25	M	26, 40, 44, 50
 4	1	have	17	M	40, 44, 46, 56
 4	1	to	13	M	38, 40, 44, 50
-4	1	uh	41	M	4, 34, 36, 44
 3	1	and	13	M	34, 42, 46
 3	1	are	35	M	30, 62, 64
 3	1	in	33	M	36, 56, 68

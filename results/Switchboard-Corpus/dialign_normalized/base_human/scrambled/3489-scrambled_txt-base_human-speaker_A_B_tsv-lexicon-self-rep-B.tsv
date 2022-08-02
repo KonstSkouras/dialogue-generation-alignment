@@ -1,32 +1,49 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, uh , uh ,	41	B	11, 51
+4	4	, you know ,	47	B	11, 21, 29, 57
+2	4	, what kind of	3	B	15, 17
+5	3	, uh ,	67	B	11, 29, 51, 57, 77
+5	3	, you know	47	B	11, 21, 29, 43, 57
+2	3	, oh ,	17	B	61, 77
 2	3	. i mean	21	B	21, 41
 2	3	and i've seen	3	B	25, 27
 2	3	right now .	11	B	51, 61
-2	3	what kind of	3	B	15, 17
-5	2	you know	47	B	11, 21, 29, 43, 57
+2	3	uh , what	45	B	13, 57
+6	2	uh ,	67	B	11, 13, 29, 51, 57, 77
+5	2	, and	47	B	21, 25, 27, 43, 67
+5	2	, what	45	B	13, 15, 17, 19, 57
+4	2	, i	29	B	49, 57, 65, 77
+4	2	oh ,	25	B	53, 61, 65, 77
 4	2	uh-huh .	43	B	33, 35, 55, 75
 3	2	and so	61	B	11, 67, 71
 3	2	i mean	29	B	21, 41, 49
 3	2	kind of	15	B	15, 17, 29
 3	2	right .	69	B	1, 21, 69
-3	2	uh uh	41	B	11, 13, 51
+3	2	um ,	61	B	11, 39, 71
 3	2	yeah .	73	B	5, 23, 77
+2	2	, it's	3	B	27, 29
+2	2	, to	3	B	9, 11
+2	2	, um	59	B	13, 71
 2	2	. and	43	B	29, 71
+2	2	and ,	23	B	21, 43
 2	2	and i	5	B	25, 29
 2	2	and then	47	B	11, 57
-2	2	and you	9	B	21, 29
 2	2	because i	25	B	25, 49
 2	2	do you	25	B	17, 41
 2	2	i like	49	B	29, 77
 2	2	i love	41	B	25, 65
 2	2	like to	13	B	29, 41
+2	2	no ,	19	B	43, 61
 2	2	okay .	57	B	7, 63
 2	2	on .	39	B	29, 67
+2	2	really ,	17	B	27, 43
 2	2	right now	11	B	51, 61
+2	2	so ,	21	B	51, 71
 2	2	so what	3	B	17, 19
+2	2	the ,	17	B	41, 57
 2	2	to do	21	B	41, 61
-2	2	uh what	45	B	13, 57
 2	2	would be	21	B	21, 41
+2	2	yeah ,	51	B	27, 77
 2	2	yes .	25	B	37, 61
 11	1	and	63	B	9, 11, 21, 25, 27, 29, 43, 57, 59, 67, 71
 11	1	that	71	B	1, 13, 15, 25, 29, 31, 45, 49, 59, 67, 71
@@ -45,10 +62,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	a	49	B	9, 11, 29, 49, 57
 5	1	be	57	B	11, 21, 41, 51, 67
 4	1	it	39	B	29, 41, 65, 67
-4	1	oh	25	B	53, 61, 65, 77
 4	1	there	11	B	11, 13, 19, 21
-4	1	um	61	B	11, 13, 39, 71
-4	1	yeah	73	B	5, 23, 27, 77
 3	1	because	25	B	25, 29, 49
 3	1	do	45	B	17, 41, 61
 3	1	for	27	B	25, 29, 51
@@ -73,7 +87,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	get	29	B	29, 57
 2	1	good	13	B	17, 29
 2	1	just	9	B	21, 29
-2	1	no	19	B	43, 61
 2	1	not	15	B	29, 43
 2	1	on	39	B	29, 67
 2	1	our	57	B	1, 57

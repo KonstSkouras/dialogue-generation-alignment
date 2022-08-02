@@ -1,38 +1,54 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, you know ,	19	B	54, 72
+2	3	, he was	25	B	32, 56
+2	3	, i've had	3	B	16, 18
 2	3	and he had	3	B	48, 50
 2	3	and we had	45	B	26, 70
+2	3	found it ,	3	B	72, 74
 2	3	i had a	3	B	18, 20
 2	3	i've had a	3	B	14, 16
 2	3	the house .	11	B	20, 30
+2	3	time , and	5	B	70, 74
+2	3	yeah , i	29	B	44, 72
+5	2	, and	21	B	54, 60, 68, 70, 74
+5	2	, i	55	B	18, 44, 66, 68, 72
 5	2	had a	35	B	14, 16, 18, 20, 48
+5	2	yeah ,	35	B	38, 44, 56, 66, 72
 4	2	i've had	7	B	12, 14, 16, 18
+3	2	, you	19	B	54, 68, 72
 3	2	and he	21	B	48, 50, 68
 3	2	he was	25	B	32, 34, 56
 3	2	i had	49	B	18, 20, 66
 3	2	it was	33	B	24, 28, 56
+3	2	skunk ,	13	B	20, 30, 32
+3	2	so ,	17	B	40, 52, 56
 3	2	we had	45	B	26, 48, 70
 3	2	when he	19	B	34, 38, 52
+2	2	, dog	11	B	20, 30
+2	2	, he	25	B	32, 56
+2	2	, it	31	B	28, 58
+2	2	, was	15	B	54, 68
+2	2	, when	15	B	52, 66
 2	2	and liberty	3	B	0, 2
-2	2	cat and	39	B	30, 68
 2	2	do you	51	B	12, 62
 2	2	dog and	19	B	2, 20
-2	2	found it	3	B	72, 74
 2	2	from the	9	B	10, 18
 2	2	got a	9	B	52, 60
 2	2	had it	25	B	26, 50
 2	2	i was	9	B	66, 74
 2	2	in the	53	B	20, 72
+2	2	just ,	3	B	54, 56
 2	2	liberty .	11	B	0, 10
 2	2	oh .	33	B	4, 36
 2	2	the cat	69	B	2, 70
 2	2	the dog	37	B	2, 38
-2	2	time and	5	B	70, 74
+2	2	them ,	9	B	30, 38
 2	2	to be	37	B	10, 46
+2	2	uh ,	11	B	18, 28
 2	2	was a	19	B	56, 74
 2	2	was very	5	B	28, 32
 2	2	we got	43	B	10, 52
-2	2	yeah i	29	B	44, 72
-2	2	you know	19	B	54, 72
+2	2	well ,	23	B	44, 66
 16	1	and	75	B	0, 2, 20, 26, 28, 30, 32, 38, 48, 50, 54, 56, 60, 68, 70, 74
 13	1	the	73	B	2, 10, 18, 20, 30, 32, 38, 46, 58, 66, 70, 72, 74
 12	1	had	59	B	12, 14, 16, 18, 20, 26, 38, 48, 50, 60, 66, 70
@@ -48,11 +64,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	yeah	63	B	10, 38, 44, 56, 66, 72
 5	1	dog	43	B	2, 20, 30, 38, 44
 5	1	got	61	B	10, 38, 52, 60, 70
-5	1	you	61	B	12, 54, 62, 68, 72
 4	1	in	53	B	20, 60, 68, 72
 4	1	just	19	B	50, 54, 56, 68
 4	1	skunk	19	B	14, 20, 30, 32
-4	1	when	33	B	34, 38, 52, 66
 3	1	back	33	B	38, 44, 70
 3	1	be	49	B	10, 46, 58
 3	1	but	25	B	30, 38, 54
@@ -83,10 +97,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	said	15	B	44, 58
 2	1	shepherd	7	B	48, 54
 2	1	that	41	B	18, 58
-2	1	them	9	B	30, 38
 2	1	then	9	B	60, 68
 2	1	tibby	3	B	0, 2
-2	1	uh	11	B	18, 28
 2	1	um	27	B	38, 64
 2	1	up	19	B	38, 56
 2	1	very	5	B	28, 32

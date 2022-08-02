@@ -1,29 +1,58 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	i was up there	13	B	28, 40
-2	4	in east texas and	11	B	26, 36
-2	4	you know all these	17	B	10, 26
-4	3	you know the	17	B	12, 14, 24, 28
+2	6	, uh , you know ,	3	B	10, 12
+2	5	, i was up there	13	B	28, 40
+2	5	, you know , the	3	B	12, 14
+2	5	you know , all these	17	B	10, 26
+8	4	, you know ,	37	B	10, 12, 14, 22, 26, 28, 36, 46
+4	4	you know , the	17	B	12, 14, 24, 28
+2	4	, i was up	13	B	28, 40
+2	4	, uh , i	3	B	26, 28
+2	4	, we had ,	3	B	10, 12
+2	4	and , uh ,	17	B	12, 28
+9	3	, uh ,	49	B	0, 10, 12, 14, 22, 26, 28, 46, 48
+8	3	, you know	37	B	10, 12, 14, 22, 26, 28, 36, 46
+2	3	, and you	11	B	26, 36
+2	3	, like the	35	B	12, 46
+2	3	, we had	3	B	10, 12
 2	3	a little bit	25	B	22, 46
+2	3	and , and	3	B	26, 28
 2	3	hot and dry	7	B	6, 12
-2	3	i was up	13	B	28, 40
-2	3	uh you know	3	B	10, 12
-9	2	you know	37	B	10, 12, 14, 22, 24, 26, 28, 36, 46
+2	3	in east texas	11	B	26, 36
+2	3	you , you	5	B	26, 30
+10	2	uh ,	49	B	0, 6, 10, 12, 14, 22, 26, 28, 46, 48
+9	2	, uh	49	B	0, 10, 12, 14, 22, 26, 28, 46, 48
+9	2	, you	37	B	10, 12, 14, 22, 26, 28, 30, 36, 46
+6	2	, and	35	B	12, 26, 28, 36, 42, 46
+5	2	, i	33	B	8, 26, 28, 36, 40
+5	2	, the	35	B	12, 14, 24, 28, 46
+4	2	and ,	21	B	12, 26, 28, 32
 4	2	kind of	25	B	12, 22, 32, 36
 4	2	like the	35	B	12, 14, 26, 46
 4	2	up there	39	B	2, 28, 34, 40
 4	2	yeah .	39	B	2, 6, 18, 40
+3	2	, but	37	B	10, 28, 46
+3	2	, like	41	B	6, 12, 46
+3	2	, that	35	B	12, 28, 46
+3	2	, they	37	B	10, 28, 46
+3	2	the ,	21	B	28, 36, 48
+3	2	yeah ,	15	B	26, 34, 40
+2	2	, it's	9	B	26, 34
+2	2	, october	7	B	6, 12
+2	2	, we	3	B	10, 12
+2	2	, what	19	B	28, 46
 2	2	. but	11	B	12, 22
 2	2	. it's	15	B	22, 36
 2	2	. there	35	B	12, 46
 2	2	all these	17	B	10, 26
-2	2	and and	3	B	26, 28
 2	2	and the	23	B	14, 36
-2	2	and uh	17	B	12, 28
 2	2	and we	17	B	12, 28
-2	2	and you	11	B	26, 36
 2	2	at all	17	B	12, 28
+2	2	color ,	3	B	28, 30
+2	2	dead ,	5	B	42, 46
+2	2	green ,	19	B	28, 46
 2	2	had a	17	B	12, 28
 2	2	have a	5	B	22, 26
+2	2	it ,	27	B	20, 46
 2	2	it really	5	B	8, 12
 2	2	of november	3	B	12, 14
 2	2	on the	3	B	46, 48
@@ -32,15 +61,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	their leaves	19	B	28, 46
 2	2	them .	19	B	28, 46
 2	2	there are	19	B	28, 46
+2	2	there's ,	21	B	26, 46
 2	2	this year	21	B	8, 28
 2	2	to be	37	B	10, 46
-2	2	uh i	3	B	26, 28
+2	2	trees ,	3	B	24, 26
 2	2	we had	3	B	10, 12
 2	2	we haven't	7	B	22, 28
-2	2	you you	5	B	26, 30
+2	2	weekend ,	13	B	28, 40
 11	1	it	47	B	2, 8, 10, 12, 20, 28, 32, 34, 42, 46, 48
 10	1	the	39	B	10, 12, 14, 22, 24, 26, 28, 36, 46, 48
-10	1	uh	49	B	0, 6, 10, 12, 14, 22, 26, 28, 46, 48
 10	1	you	37	B	10, 12, 14, 22, 24, 26, 28, 30, 36, 46
 9	1	and	41	B	6, 12, 14, 26, 28, 32, 36, 42, 46
 7	1	a	39	B	8, 10, 12, 22, 26, 28, 46
@@ -51,7 +80,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	but	37	B	10, 12, 16, 22, 28, 46
 6	1	i	39	B	8, 26, 28, 36, 40, 46
 6	1	up	41	B	2, 26, 28, 34, 40, 42
-6	1	yeah	39	B	2, 6, 18, 26, 34, 40
 5	1	all	21	B	10, 12, 26, 28, 30
 5	1	had	21	B	10, 12, 22, 28, 30
 5	1	have	37	B	10, 22, 26, 28, 46
@@ -87,12 +115,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	beautiful	5	B	34, 38
 2	1	been	7	B	2, 8
 2	1	bit	25	B	22, 46
-2	1	color	3	B	28, 30
 2	1	east	11	B	26, 36
 2	1	first	3	B	12, 14
 2	1	for	17	B	12, 28
 2	1	freeze	17	B	12, 28
-2	1	green	19	B	28, 46
 2	1	huh	23	B	8, 30
 2	1	into	11	B	12, 22
 2	1	leaves	19	B	28, 46
@@ -111,7 +137,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	typical	7	B	22, 28
 2	1	way	15	B	12, 26
 2	1	weather	13	B	10, 22
-2	1	weekend	13	B	28, 40
 2	1	well	35	B	10, 44
 2	1	were	3	B	10, 12
 2	1	year	21	B	8, 28

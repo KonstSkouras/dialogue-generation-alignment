@@ -1,30 +1,44 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, i'm just saying	9	M	107, 115
 2	4	i'm not sure how	113	M	31, 143
+6	3	, uh ,	141	M	1, 5, 79, 117, 119, 141
+4	3	i mean ,	57	M	77, 85, 117, 133
+3	3	, but i	113	M	31, 85, 143
+2	3	, i don't	69	M	19, 87
+2	3	, they're just	57	M	69, 125
+2	3	, you know	63	M	47, 109
 2	3	do that .	83	M	29, 111
 2	3	how many times	5	M	31, 35
+2	3	i , i	19	M	57, 75
 2	3	i have a	55	M	31, 85
-2	3	i'm just saying	9	M	107, 115
+2	3	i know ,	33	M	107, 139
 2	3	time in the	97	M	31, 127
 2	3	we have a	43	M	79, 121
+7	2	, i	109	M	19, 57, 75, 85, 87, 117, 127
+6	2	, uh	141	M	1, 5, 79, 117, 119, 141
 6	2	have a	115	M	7, 31, 77, 79, 85, 121
+5	2	mean ,	59	M	75, 77, 85, 117, 133
 5	2	you know	107	M	37, 47, 109, 133, 143
-4	2	i mean	57	M	77, 85, 117, 133
+4	2	, they're	139	M	3, 69, 125, 141
 4	2	i think	113	M	17, 27, 69, 129
 4	2	i'm not	113	M	31, 81, 115, 143
 4	2	in the	105	M	31, 123, 127, 135
+3	2	, they	63	M	51, 77, 113
+3	2	, you	65	M	45, 47, 109
 3	2	. i	131	M	5, 85, 135
 3	2	a dog	107	M	5, 69, 111
-3	2	but i	113	M	31, 85, 143
 3	2	do that	83	M	29, 65, 111
 3	2	i don't	83	M	5, 19, 87
 3	2	i know	33	M	107, 129, 139
+3	2	yeah ,	29	M	91, 117, 119
 2	2	a cat	99	M	7, 105
 2	2	a good	59	M	31, 89
 2	2	are they	15	M	123, 137
 2	2	cat .	79	M	27, 105
+2	2	don't ,	109	M	5, 113
+2	2	fun ,	41	M	69, 109
 2	2	have any	13	M	75, 87
 2	2	he's a	15	M	91, 105
-2	2	i i	19	M	57, 75
 2	2	i like	81	M	3, 83
 2	2	i was	71	M	5, 75
 2	2	it .	3	M	81, 83
@@ -36,9 +50,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	not really	3	M	85, 87
 2	2	oh yeah	39	M	1, 39
 2	2	saying it's	9	M	107, 115
+2	2	that ,	111	M	33, 143
 2	2	the most	49	M	21, 69
 2	2	they are	77	M	69, 145
-2	2	they're just	57	M	69, 125
+2	2	um ,	141	M	1, 141
 2	2	you mean	49	M	27, 75
 25	1	i	141	M	3, 5, 17, 19, 27, 31, 33, 39, 43, 57, 69, 75, 77, 83, 85, 87, 97, 107, 117, 127, 129, 133, 135, 139, 143
 17	1	a	127	M	5, 7, 31, 69, 71, 77, 79, 85, 87, 89, 91, 105, 111, 117, 121, 125, 131
@@ -51,7 +66,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	they	131	M	15, 51, 69, 77, 113, 123, 137, 145
 7	1	it's	119	M	13, 71, 87, 107, 115, 117, 131
 6	1	in	105	M	31, 77, 113, 123, 127, 135
-6	1	uh	141	M	1, 5, 79, 117, 119, 141
 5	1	and	113	M	9, 75, 85, 101, 121
 5	1	are	77	M	69, 79, 123, 137, 145
 5	1	do	83	M	29, 37, 65, 77, 111
@@ -59,12 +73,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	how	113	M	31, 35, 37, 63, 143
 5	1	it	95	M	33, 81, 83, 115, 127
 5	1	was	123	M	5, 33, 75, 109, 127
-5	1	yeah	119	M	1, 39, 91, 117, 119
 4	1	but	133	M	11, 31, 85, 143
 4	1	dog	107	M	5, 13, 69, 111
-4	1	don't	109	M	5, 19, 87, 113
 4	1	that's	73	M	17, 21, 29, 89
-4	1	they're	139	M	3, 69, 125, 141
 4	1	time	101	M	31, 33, 127, 131
 4	1	what	93	M	41, 47, 81, 133
 3	1	dogs	7	M	3, 5, 9
@@ -82,5 +93,4 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	pretty	51	M	29, 79
 2	1	so	23	M	45, 67
 2	1	this	5	M	31, 35
-2	1	um	141	M	1, 141
 

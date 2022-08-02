@@ -1,17 +1,24 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
+5	5	3	, uh ,	15	16	2	A	10, 14, 15, 16, 25
+5	1	2	, uh	25	16	2	A	10, 14, 15, 16, 25
+2	2	2	, i	7	6	1	A	2, 7
+2	2	2	, it's	15	12	1	A	4, 15
+2	2	2	, the	19	16	1	A	4, 19
+2	2	2	, you	16	14	1	M	3, 16
+2	2	2	and ,	25	24	1	A	2, 25
 2	2	2	for a	11	10	1	A	2, 11
 2	2	2	going to	5	4	1	A	2, 5
 2	2	2	is still	19	6	1	A	14, 19
+2	2	2	well ,	19	16	1	A	4, 19
 6	5	1	a	11	25	3	A	2, 4, 6, 11, 19, 26
-6	6	1	and	9	24	2	A	2, 4, 9, 10, 23, 25
-6	6	1	i	5	20	2	A	2, 4, 5, 7, 16, 21
+6	5	1	and	9	24	2	A	2, 4, 9, 10, 23, 25
+6	4	1	i	5	20	2	A	2, 4, 5, 7, 16, 21
 5	4	1	is	19	14	4	A	6, 10, 14, 16, 19
-5	5	1	the	15	24	2	A	4, 14, 15, 19, 27
+5	4	1	the	15	24	2	A	4, 14, 15, 19, 27
 5	4	1	to	5	18	2	A	2, 4, 5, 16, 19
-5	5	1	uh	15	16	2	A	10, 14, 15, 16, 25
 4	4	1	been	14	6	1	M	11, 14, 15, 16
-4	4	1	it's	11	16	1	A	4, 11, 15, 19
-4	4	1	you	3	15	1	A	2, 3, 13, 16
+4	2	1	it's	11	16	1	A	4, 11, 15, 19
+4	2	1	you	3	15	1	A	2, 3, 13, 16
 3	3	1	in	15	18	1	A	10, 15, 27
 3	3	1	so	14	13	1	M	7, 14, 19
 3	3	1	that	4	9	1	M	3, 4, 11
@@ -22,5 +29,4 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 2	2	1	it	19	14	1	A	6, 19
 2	2	1	know	21	6	1	A	16, 21
 2	2	1	not	19	6	1	A	14, 19
-2	2	1	well	19	16	1	A	4, 19
 

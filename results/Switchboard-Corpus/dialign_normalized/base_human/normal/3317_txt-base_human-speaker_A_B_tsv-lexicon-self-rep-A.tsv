@@ -1,10 +1,19 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, i don't know ,	9	A	40, 48
 2	5	not to get into things	3	A	76, 78
-2	4	uh-huh . well i	37	A	12, 48
+2	5	uh-huh . well , i	37	A	12, 48
+3	4	uh-huh . well ,	47	A	2, 12, 48
+2	4	, you know ,	9	A	30, 38
+5	3	, i don't	77	A	2, 40, 48, 62, 78
+5	3	well , i	63	A	12, 48, 62, 64, 74
 4	3	uh-huh . well	47	A	2, 12, 30, 48
+3	3	, they have	33	A	38, 50, 70
+3	3	, you know	19	A	30, 38, 48
+2	3	, i just	27	A	48, 74
 2	3	and then we	15	A	64, 78
+2	3	but , i	33	A	48, 80
 2	3	don't have a	21	A	2, 22
-2	3	i don't know	9	A	40, 48
+2	3	know , i	11	A	38, 48
 2	3	of my daughters	11	A	38, 48
 2	3	pretty well .	3	A	78, 80
 2	3	the four bedrooms	45	A	4, 48
@@ -13,17 +22,21 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	what kind of	81	A	0, 80
 2	3	you know .	31	A	48, 78
 16	2	uh-huh .	59	A	2, 8, 10, 12, 14, 20, 26, 28, 30, 44, 46, 48, 54, 56, 58, 60
+11	2	, i	79	A	2, 12, 38, 40, 48, 62, 64, 68, 74, 78, 80
+8	2	well ,	73	A	2, 12, 16, 22, 48, 62, 64, 74
 7	2	kind of	81	A	0, 18, 24, 38, 52, 78, 80
 5	2	have a	49	A	2, 22, 34, 38, 50
-5	2	i don't	77	A	2, 40, 48, 62, 78
-5	2	well i	63	A	12, 48, 62, 64, 74
+4	2	, they	43	A	38, 50, 70, 80
+4	2	, you	23	A	30, 38, 48, 52
 4	2	. i	75	A	2, 4, 16, 76
-4	2	you know	49	A	30, 38, 48, 78
-3	2	but i	41	A	40, 48, 80
+3	2	, but	39	A	30, 48, 68
+3	2	but ,	33	A	48, 72, 80
 3	2	my daughters	41	A	38, 48, 78
 3	2	of them	27	A	22, 40, 48
 3	2	the house	61	A	6, 30, 66
-3	2	they have	33	A	38, 50, 70
+2	2	, all	33	A	48, 80
+2	2	, it	39	A	2, 40
+2	2	, that	37	A	16, 52
 2	2	. and	47	A	2, 48
 2	2	. at	27	A	52, 78
 2	2	all of	5	A	34, 38
@@ -33,27 +46,27 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	ended up	25	A	40, 64
 2	2	everything .	41	A	30, 70
 2	2	have to	29	A	50, 78
+2	2	house ,	41	A	30, 70
+2	2	i ,	3	A	38, 40
 2	2	i bet	5	A	12, 16
 2	2	i had	5	A	38, 42
-2	2	i just	27	A	48, 74
 2	2	i think	75	A	4, 78
 2	2	it sounds	3	A	2, 4
-2	2	know i	11	A	38, 48
 2	2	live in	3	A	0, 2
 2	2	most of	59	A	22, 80
+2	2	now ,	19	A	32, 50
 2	2	of my	11	A	38, 48
 2	2	one of	3	A	38, 40
+2	2	that ,	49	A	30, 78
 2	2	that .	31	A	32, 62
 2	2	them .	3	A	74, 76
 2	2	them coming	21	A	48, 68
 2	2	things .	43	A	34, 76
 2	2	up when	39	A	38, 76
 2	2	up with	23	A	42, 64
-2	2	well that	15	A	16, 30
 16	1	i	79	A	2, 4, 12, 16, 38, 40, 42, 48, 52, 62, 64, 68, 74, 76, 78, 80
 13	1	and	77	A	2, 4, 6, 30, 32, 38, 48, 50, 64, 66, 68, 76, 78
 12	1	of	81	A	0, 4, 18, 22, 24, 34, 38, 40, 48, 52, 78, 80
-11	1	well	79	A	2, 12, 16, 22, 30, 48, 62, 64, 74, 78, 80
 10	1	have	79	A	2, 22, 34, 38, 48, 50, 64, 70, 78, 80
 9	1	that	63	A	16, 18, 30, 32, 38, 40, 52, 62, 78
 9	1	the	77	A	4, 6, 30, 48, 64, 66, 70, 78, 80

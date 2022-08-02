@@ -1,50 +1,70 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	the n c double a	5	A	22, 26
+2	4	, i don't think	55	A	0, 54
+2	4	i , i don't	39	A	0, 38
+5	3	, uh ,	51	A	0, 6, 26, 36, 50
+3	3	i , i	55	A	0, 38, 54
 3	3	i know that	31	A	22, 50, 52
+3	3	well , i	25	A	0, 22, 24
+2	3	, i mean	9	A	46, 54
+2	3	, i think	15	A	24, 38
+2	3	, well ,	27	A	24, 50
+2	3	, you know	25	A	36, 60
 2	3	a drug user	7	A	30, 36
 2	3	across the board	23	A	38, 60
+2	3	and , and	9	A	28, 36
 2	3	but i know	11	A	50, 60
 2	3	do you feel	9	A	6, 14
 2	3	don't know that	41	A	16, 56
+2	3	for instance ,	23	A	0, 22
 2	3	i don't know	37	A	16, 52
-2	3	i don't think	55	A	0, 54
-2	3	i i don't	39	A	0, 38
+2	3	it , but	41	A	26, 66
+2	3	it's , it's	75	A	0, 74
 2	3	the ones that	3	A	26, 28
-2	3	well i i	23	A	0, 22
+11	2	well ,	77	A	0, 6, 12, 22, 24, 30, 44, 46, 50, 54, 76
+9	2	, i	61	A	0, 22, 24, 34, 38, 46, 54, 58, 60
+8	2	uh ,	61	A	0, 6, 24, 26, 36, 50, 58, 60
 7	2	i don't	57	A	0, 16, 30, 38, 52, 54, 56
 6	2	uh-huh .	47	A	2, 8, 10, 20, 42, 48
 5	2	drug testing	71	A	0, 6, 38, 52, 70
-4	2	but i	29	A	32, 50, 58, 60
+4	2	, but	45	A	26, 50, 66, 70
 4	2	drug test	33	A	22, 24, 52, 54
-4	2	i i	55	A	0, 22, 38, 54
+3	2	, the	25	A	26, 38, 50
+3	2	, they	49	A	22, 54, 70
 3	2	a drug	7	A	30, 34, 36
+3	2	but i	29	A	32, 50, 60
 3	2	do you	35	A	6, 14, 40
 3	2	i mean	21	A	34, 46, 54
 3	2	i think	15	A	24, 32, 38
 3	2	that they	11	A	50, 58, 60
-3	2	well i	25	A	0, 22, 24
+2	2	, and	9	A	28, 36
+2	2	, have	27	A	50, 76
+2	2	, it's	75	A	0, 74
+2	2	, not	21	A	30, 50
+2	2	, that	5	A	46, 50
+2	2	, what	59	A	12, 70
 2	2	. i	13	A	38, 50
 2	2	. if	17	A	16, 32
 2	2	a certain	5	A	24, 28
-2	2	and and	9	A	28, 36
 2	2	and it's	15	A	22, 36
 2	2	and the	41	A	28, 68
 2	2	are tested	7	A	62, 68
 2	2	based on	17	A	36, 52
+2	2	but ,	13	A	58, 70
 2	2	company to	55	A	0, 54
 2	2	drug tested	3	A	50, 52
 2	2	every three	11	A	62, 72
 2	2	for a	59	A	0, 58
-2	2	for instance	23	A	0, 22
 2	2	have a	5	A	30, 34
 2	2	have to	5	A	24, 28
 2	2	i was	11	A	50, 60
 2	2	if it's	23	A	16, 38
-2	2	it but	41	A	26, 66
-2	2	it's it's	75	A	0, 74
+2	2	no ,	9	A	54, 62
 2	2	okay .	3	A	78, 80
+2	2	on ,	11	A	26, 36
 2	2	prior to	19	A	6, 24
 2	2	test me	7	A	54, 60
+2	2	that ,	29	A	22, 50
 2	2	that i	3	A	54, 56
 2	2	that might	13	A	32, 44
 2	2	the drug	19	A	52, 70
@@ -55,13 +75,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	to them	11	A	60, 70
 2	2	type of	5	A	40, 44
 2	2	yeah .	19	A	4, 22
-2	2	you know	25	A	36, 60
 20	1	that	71	A	0, 16, 22, 26, 28, 30, 32, 34, 36, 38, 44, 46, 50, 52, 54, 56, 58, 60, 68, 70
 15	1	i	61	A	0, 16, 22, 24, 30, 32, 34, 38, 46, 50, 52, 54, 56, 58, 60
 13	1	to	83	A	0, 6, 24, 26, 28, 32, 38, 44, 54, 58, 60, 70, 82
 12	1	a	69	A	0, 22, 24, 26, 28, 30, 32, 34, 36, 58, 64, 68
 12	1	drug	71	A	0, 6, 22, 24, 30, 34, 36, 38, 50, 52, 54, 70
-11	1	well	77	A	0, 6, 12, 22, 24, 30, 44, 46, 50, 54, 76
 10	1	and	73	A	0, 18, 22, 26, 28, 34, 36, 60, 68, 72
 10	1	of	63	A	0, 14, 26, 28, 32, 34, 40, 44, 60, 62
 10	1	the	49	A	22, 24, 26, 28, 38, 50, 52, 60, 68, 70
@@ -69,7 +87,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	you	77	A	6, 14, 16, 36, 40, 44, 60, 72, 82
 8	1	have	53	A	24, 26, 28, 30, 34, 40, 50, 76
 8	1	it's	75	A	0, 16, 22, 26, 36, 38, 64, 74
-8	1	uh	61	A	0, 6, 24, 26, 36, 50, 58, 60
 7	1	but	45	A	26, 32, 50, 58, 60, 66, 70
 7	1	test	51	A	22, 24, 28, 52, 54, 60, 72
 7	1	testing	73	A	0, 6, 12, 38, 52, 70, 72
@@ -121,7 +138,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	like	15	A	0, 14
 2	1	machinery	45	A	0, 44
 2	1	my	3	A	50, 52
-2	1	no	9	A	54, 62
 2	1	once	7	A	56, 62
 2	1	or	9	A	44, 52
 2	1	people's	15	A	0, 14

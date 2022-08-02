@@ -1,90 +1,143 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	and uh you know	7	B	61, 67
+2	7	and , uh , you know ,	7	B	61, 67
+2	7	vote , then , you know ,	15	B	23, 37
+3	6	, then , you know ,	15	B	23, 25, 37
+4	5	, and , uh ,	81	B	7, 29, 67, 87
+2	5	, but , uh ,	9	B	57, 65
+2	5	, uh , i know	21	B	51, 71
+2	5	, you know , the	55	B	7, 61
+2	5	, you know , this	47	B	37, 83
+2	5	, you know , you	33	B	51, 83
+2	5	and , uh , i	11	B	41, 51
+2	5	know , you know ,	11	B	73, 83
+2	5	so , uh , but	49	B	9, 57
+12	4	, you know ,	87	B	7, 23, 25, 37, 51, 61, 67, 71, 73, 75, 83, 93
+9	4	and , uh ,	81	B	7, 29, 33, 41, 45, 51, 61, 67, 87
+5	4	, uh , i	71	B	1, 41, 51, 59, 71
+3	4	, it's , it's	57	B	11, 21, 67
+3	4	, uh , but	49	B	9, 29, 57
+3	4	but , uh ,	17	B	57, 65, 73
+3	4	so , uh ,	81	B	9, 57, 89
+3	4	that , uh ,	25	B	5, 9, 29
+3	4	you know , the	61	B	7, 61, 67
+2	4	, uh , the	11	B	55, 65
+2	4	, uh , yeah	9	B	25, 33
 2	4	off the wall that	11	B	29, 39
-2	4	vote then you know	15	B	23, 37
-3	3	then you know	15	B	23, 25, 37
-3	3	you know the	61	B	7, 61, 67
+2	4	say , well ,	65	B	11, 75
+2	4	the , uh ,	37	B	29, 65
+2	4	you know , they	21	B	25, 45
+23	3	, uh ,	89	B	1, 5, 7, 9, 19, 23, 25, 29, 33, 41, 45, 49, 51, 55, 57, 59, 61, 65, 67, 71, 73, 87, 89
+14	3	you know ,	87	B	7, 23, 25, 37, 39, 45, 51, 61, 67, 71, 73, 75, 83, 93
+13	3	, you know	87	B	7, 23, 25, 37, 45, 51, 61, 67, 71, 73, 75, 83, 93
+5	3	, and ,	81	B	7, 29, 67, 75, 87
+4	3	, i know	59	B	17, 51, 71, 75
+4	3	, it's ,	57	B	11, 21, 55, 67
+4	3	, then ,	65	B	23, 25, 37, 87
+4	3	, well ,	65	B	11, 21, 67, 75
+4	3	i , i	83	B	9, 19, 81, 91
+3	3	, um ,	35	B	41, 71, 75
+3	3	, yeah ,	61	B	5, 25, 65
+3	3	, yeah .	31	B	33, 47, 63
+2	3	, and they	77	B	11, 87
+2	3	, how the	23	B	65, 87
+2	3	, i think	21	B	21, 41
+2	3	, why should	13	B	11, 23
 2	3	a lot of	29	B	9, 37
-2	3	and uh but	17	B	29, 45
-2	3	and uh i	11	B	41, 51
 2	3	as far as	11	B	65, 75
 2	3	go and vote	15	B	37, 51
 2	3	how the media	7	B	81, 87
+2	3	i know ,	23	B	51, 73
 2	3	interesting to see	47	B	19, 65
-2	3	know you know	11	B	73, 83
-2	3	so uh but	49	B	9, 57
+2	3	know , i	21	B	19, 39
+2	3	like that ,	13	B	25, 37
+2	3	of the ,	37	B	29, 65
+2	3	on , and	21	B	67, 87
 2	3	some of the	29	B	37, 65
 2	3	the other guy	45	B	29, 73
-2	3	uh i know	21	B	51, 71
-2	3	you know they	21	B	25, 45
-2	3	you know this	47	B	37, 83
-2	3	you know you	33	B	51, 83
-14	2	you know	87	B	7, 23, 25, 37, 39, 45, 51, 61, 67, 71, 73, 75, 83, 93
-9	2	and uh	81	B	7, 29, 33, 41, 45, 51, 61, 67, 87
+2	3	uh-huh , yeah	59	B	5, 63
+2	3	well , i	23	B	75, 97
+2	3	yeah , and	25	B	5, 29
+23	2	uh ,	89	B	1, 5, 7, 9, 19, 23, 25, 29, 33, 41, 45, 49, 51, 55, 57, 59, 61, 65, 67, 71, 73, 87, 89
+17	2	, i	97	B	1, 9, 17, 19, 21, 29, 39, 41, 51, 59, 71, 75, 77, 81, 91, 93, 97
+13	2	, and	89	B	5, 7, 11, 21, 23, 29, 39, 59, 67, 75, 77, 87, 93
+13	2	, you	87	B	7, 23, 25, 37, 45, 51, 61, 67, 71, 73, 75, 83, 93
+12	2	and ,	81	B	7, 11, 29, 33, 41, 45, 51, 61, 67, 75, 77, 87
+8	2	, the	63	B	5, 7, 41, 53, 55, 61, 65, 67
+7	2	, but	85	B	9, 29, 45, 57, 65, 75, 93
+7	2	yeah ,	85	B	5, 21, 25, 29, 31, 65, 89
 6	2	right .	91	B	9, 13, 15, 37, 71, 99
-5	2	i know	59	B	17, 51, 71, 73, 75
+6	2	well ,	87	B	11, 21, 59, 67, 75, 97
+5	2	, it's	75	B	11, 21, 55, 67, 85
+5	2	, then	65	B	23, 25, 37, 73, 87
+5	2	, they	91	B	5, 25, 37, 45, 95
+5	2	i ,	83	B	9, 19, 81, 83, 91
 5	2	of the	79	B	15, 29, 37, 65, 93
-5	2	uh i	71	B	1, 41, 51, 59, 71
+4	2	but ,	19	B	57, 65, 73, 75
 4	2	how the	69	B	19, 65, 81, 87
-4	2	i i	83	B	9, 19, 81, 91
+4	2	oh ,	89	B	5, 17, 47, 93
+4	2	say ,	65	B	11, 23, 37, 75
+4	2	the ,	67	B	5, 29, 65, 71
 4	2	the guy	47	B	41, 71, 77, 87
 4	2	uh-huh .	45	B	25, 27, 35, 69
+4	2	um ,	35	B	41, 65, 71, 75
 4	2	yeah .	43	B	33, 47, 63, 75
+3	2	, because	19	B	41, 55, 59
+3	2	, that	35	B	37, 61, 71
+3	2	, we	25	B	1, 23, 25
 3	2	about the	11	B	73, 77, 83
-3	2	but uh	17	B	57, 65, 73
 3	2	for the	21	B	73, 87, 93
 3	2	i think	59	B	21, 41, 79
+3	2	it ,	21	B	53, 59, 73
 3	2	it could	67	B	21, 23, 87
-3	2	it's it's	57	B	11, 21, 67
-3	2	know i	53	B	19, 39, 71
-3	2	so uh	81	B	9, 57, 89
+3	2	right ,	73	B	7, 25, 79
 3	2	stands for	13	B	65, 75, 77
-3	2	that uh	25	B	5, 9, 29
 3	2	to vote	67	B	1, 3, 67
+3	2	uh-huh ,	83	B	5, 63, 87
+3	2	vote ,	27	B	23, 37, 49
+2	2	, a	45	B	9, 53
+2	2	, how	23	B	65, 87
+2	2	, i'll	3	B	71, 73
+2	2	, if	49	B	25, 73
+2	2	, is	21	B	29, 49
+2	2	, it	65	B	23, 87
+2	2	, or	15	B	79, 93
+2	2	, sometimes	17	B	71, 87
+2	2	, that's	45	B	31, 75
+2	2	, they're	65	B	11, 75
+2	2	, what	13	B	53, 65
 2	2	agree with	13	B	81, 93
-2	2	and it's	55	B	11, 65
 2	2	and the	13	B	53, 65
-2	2	and they	77	B	11, 87
+2	2	could ,	65	B	23, 87
 2	2	gets to	11	B	67, 77
 2	2	good and	35	B	53, 87
 2	2	he stands	7	B	77, 83
 2	2	i don't	63	B	19, 81
 2	2	i've been	65	B	1, 65
-2	2	in and	31	B	29, 59
 2	2	is how	69	B	15, 83
 2	2	it .	17	B	15, 31
 2	2	just as	15	B	61, 75
-2	2	know it	7	B	17, 23
-2	2	like that	13	B	25, 37
 2	2	not the	11	B	65, 75
-2	2	on and	21	B	67, 87
-2	2	say well	65	B	11, 75
+2	2	on ,	21	B	67, 87
+2	2	party ,	5	B	71, 75
 2	2	should be	87	B	5, 91
 2	2	sort of	13	B	29, 41
 2	2	that should	5	B	87, 91
 2	2	that they	13	B	25, 37
-2	2	that they'll	3	B	37, 39
 2	2	the last	15	B	3, 17
 2	2	the polls	31	B	53, 83
-2	2	the uh	37	B	29, 65
 2	2	there's usually	53	B	7, 59
+2	2	they ,	57	B	37, 93
 2	2	things .	71	B	23, 93
 2	2	to have	27	B	51, 77
 2	2	to the	7	B	71, 77
-2	2	uh the	11	B	55, 65
-2	2	uh yeah	9	B	25, 33
-2	2	uh-huh yeah	59	B	5, 63
 2	2	vote .	11	B	1, 11
 2	2	we get	3	B	23, 25
-2	2	well i	23	B	75, 97
 2	2	what he	39	B	39, 77
-2	2	why should	13	B	11, 23
 2	2	with the	83	B	11, 93
-2	2	yeah and	25	B	5, 29
+2	2	yes ,	93	B	1, 93
 2	2	you don't	15	B	37, 51
 24	1	the	91	B	3, 5, 7, 11, 15, 17, 19, 29, 37, 39, 41, 53, 55, 61, 65, 67, 71, 73, 75, 77, 81, 83, 87, 93
 23	1	and	89	B	5, 7, 11, 21, 23, 29, 33, 37, 39, 41, 45, 51, 53, 55, 59, 61, 65, 67, 75, 77, 83, 87, 93
-23	1	uh	89	B	1, 5, 7, 9, 19, 23, 25, 29, 33, 41, 45, 49, 51, 55, 57, 59, 61, 65, 67, 71, 73, 87, 89
 22	1	i	97	B	1, 9, 11, 17, 19, 21, 29, 39, 41, 43, 51, 59, 71, 73, 75, 77, 79, 81, 83, 91, 93, 97
 17	1	you	95	B	3, 7, 23, 25, 37, 39, 45, 51, 59, 61, 67, 71, 73, 75, 83, 93, 97
 12	1	it	83	B	5, 15, 17, 21, 23, 31, 53, 59, 73, 77, 83, 87
@@ -92,7 +145,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 12	1	to	97	B	1, 3, 19, 23, 29, 51, 55, 65, 67, 71, 77, 97
 11	1	that	89	B	5, 9, 25, 29, 37, 39, 61, 71, 87, 91, 93
 11	1	they	91	B	5, 11, 25, 37, 45, 65, 83, 87, 91, 93, 95
-11	1	yeah	85	B	5, 21, 25, 29, 31, 33, 47, 63, 65, 75, 89
 10	1	right	93	B	7, 9, 13, 15, 25, 37, 59, 71, 79, 99
 9	1	but	85	B	9, 29, 45, 57, 65, 73, 75, 77, 93
 9	1	for	65	B	29, 65, 67, 71, 73, 75, 77, 87, 93
@@ -103,7 +155,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	guy	59	B	29, 41, 71, 73, 75, 77, 87
 7	1	it's	83	B	11, 21, 55, 65, 67, 85, 93
 7	1	on	35	B	53, 59, 61, 67, 71, 79, 87
-7	1	uh-huh	83	B	5, 25, 27, 35, 63, 69, 87
 6	1	be	87	B	5, 19, 39, 67, 77, 91
 6	1	don't	77	B	19, 37, 51, 81, 93, 95
 6	1	get	39	B	3, 21, 23, 25, 29, 41
@@ -113,13 +164,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	just	35	B	51, 59, 61, 75, 79, 85
 6	1	should	87	B	5, 11, 23, 67, 87, 91
 6	1	we	93	B	1, 15, 23, 25, 49, 93
-6	1	well	87	B	11, 21, 59, 67, 75, 97
 5	1	because	37	B	37, 41, 55, 59, 73
 5	1	have	79	B	9, 51, 71, 77, 87
 5	1	he	45	B	39, 45, 67, 77, 83
 5	1	in	35	B	25, 29, 37, 55, 59
 5	1	sometimes	89	B	5, 71, 87, 91, 93
-5	1	then	65	B	23, 25, 37, 73, 87
 5	1	this	61	B	23, 37, 67, 75, 83
 5	1	with	83	B	11, 41, 65, 81, 93
 4	1	about	75	B	9, 73, 77, 83
@@ -131,10 +180,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	not	47	B	29, 59, 65, 75
 4	1	oh	89	B	5, 17, 47, 93
 4	1	party	11	B	65, 71, 73, 75
-4	1	say	65	B	11, 23, 37, 75
 4	1	that's	45	B	31, 41, 43, 75
 4	1	think	71	B	21, 41, 79, 91
-4	1	um	35	B	41, 65, 71, 75
 4	1	usually	53	B	7, 15, 49, 59
 3	1	been	65	B	1, 29, 65
 3	1	can	27	B	25, 45, 51
@@ -170,6 +217,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	people	29	B	9, 37
 2	1	something	37	B	37, 73
 2	1	there	47	B	25, 71
+2	1	they'll	3	B	37, 39
 2	1	time	23	B	55, 77
 2	1	two	59	B	15, 73
 2	1	voting	57	B	9, 65

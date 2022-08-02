@@ -1,20 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, you know ,	21	M	69, 89
 2	4	what i meant .	67	M	13, 79
+2	3	, i'm not	87	M	3, 89
+2	3	i don't ,	35	M	67, 101
 2	3	that's good .	23	M	87, 109
+5	2	, you	35	M	69, 71, 89, 99, 103
+4	2	well ,	91	M	13, 23, 89, 103
+3	2	, i'm	87	M	3, 67, 89
 3	2	i don't	35	M	67, 77, 101
 3	2	i'm not	87	M	3, 49, 89
 3	2	right .	75	M	1, 43, 75
+2	2	, i	27	M	77, 103
+2	2	, she	7	M	101, 107
+2	2	, that's	67	M	13, 79
 2	2	. so	33	M	7, 39
 2	2	do you	13	M	7, 19
 2	2	home .	65	M	41, 105
 2	2	how many	29	M	19, 47
+2	2	i ,	49	M	29, 77
 2	2	in the	3	M	45, 47
 2	2	kids .	3	M	91, 93
 2	2	not .	63	M	3, 65
 2	2	person .	21	M	69, 89
-2	2	well i	27	M	77, 103
-2	2	well that's	75	M	13, 87
-2	2	you know	21	M	69, 89
 15	1	i	101	M	13, 25, 29, 45, 47, 49, 57, 67, 77, 79, 87, 101, 103, 105, 113
 9	1	you	99	M	5, 7, 19, 39, 69, 71, 89, 99, 103
 8	1	the	69	M	35, 41, 45, 47, 73, 91, 93, 103
@@ -25,7 +32,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	right	103	M	1, 15, 43, 75, 103
 4	1	don't	35	M	67, 77, 91, 101
 4	1	so	33	M	7, 15, 35, 39
-4	1	that's	97	M	13, 79, 87, 109
 4	1	what	79	M	7, 13, 79, 85
 3	1	do	13	M	7, 17, 19
 3	1	in	63	M	45, 47, 107
@@ -40,7 +46,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	important	55	M	15, 69
 2	1	it's	51	M	15, 65
 2	1	mean	33	M	71, 103
-2	1	she	7	M	101, 107
 2	1	this	61	M	37, 97
 2	1	uh	57	M	21, 77
 2	1	want	95	M	7, 101

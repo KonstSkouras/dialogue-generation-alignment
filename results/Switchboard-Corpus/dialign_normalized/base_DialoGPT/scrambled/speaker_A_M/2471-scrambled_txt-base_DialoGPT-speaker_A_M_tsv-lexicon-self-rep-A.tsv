@@ -1,39 +1,57 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, uh , you	11	A	26, 36
+2	4	, you know ,	11	A	24, 34
+2	4	, you know .	3	A	26, 28
+9	3	, uh ,	41	A	2, 6, 10, 20, 24, 26, 34, 36, 42
+2	3	, i am	5	A	6, 10
+2	3	and i ,	15	A	26, 40
 2	3	and i don't	13	A	24, 36
-2	3	you know .	3	A	26, 28
+2	3	the , the	29	A	6, 34
+9	2	uh ,	41	A	2, 6, 10, 20, 24, 26, 34, 36, 42
 6	2	you know	27	A	18, 24, 26, 28, 34, 44
+5	2	, i	25	A	2, 6, 10, 18, 26
 5	2	and i	39	A	2, 24, 26, 36, 40
 4	2	of the	35	A	10, 24, 34, 44
 4	2	uh-huh .	25	A	14, 20, 22, 38
+3	2	, a	29	A	6, 24, 34
 3	2	. i	25	A	0, 2, 24
 3	2	a nice	29	A	6, 8, 34
+3	2	i ,	31	A	10, 26, 40
 3	2	i don't	13	A	24, 28, 36
+3	2	that ,	15	A	20, 24, 34
+2	2	, and	39	A	2, 40
+2	2	, but	27	A	10, 36
+2	2	, if	9	A	26, 34
+2	2	, in	29	A	6, 34
+2	2	, oh	37	A	6, 42
+2	2	, that	11	A	34, 44
 2	2	. well	43	A	2, 44
+2	2	a ,	29	A	6, 34
 2	2	and she	41	A	2, 42
 2	2	and the	5	A	2, 6
 2	2	but i	15	A	10, 24
 2	2	going to	25	A	2, 26
 2	2	have a	33	A	2, 34
-2	2	i am	5	A	6, 10
 2	2	i think	19	A	0, 18
 2	2	i'm not	17	A	26, 42
 2	2	in a	29	A	6, 34
 2	2	in the	25	A	10, 34
+2	2	it ,	25	A	2, 26
 2	2	it .	3	A	0, 2
 2	2	it's a	7	A	0, 6
 2	2	part of	39	A	6, 44
 2	2	that .	17	A	24, 40
 2	2	that in	13	A	24, 36
-2	2	the the	29	A	6, 34
+2	2	the ,	29	A	6, 34
 2	2	to be	15	A	26, 40
 2	2	to the	3	A	42, 44
-2	2	uh you	11	A	26, 36
+2	2	well ,	17	A	2, 18
 2	2	where we	29	A	6, 34
+2	2	yeah ,	5	A	30, 34
 2	2	yep .	21	A	12, 32
 10	1	and	43	A	0, 2, 6, 10, 24, 26, 34, 36, 40, 42
 10	1	i	41	A	0, 2, 6, 10, 18, 24, 26, 28, 36, 40
 10	1	that	43	A	2, 6, 8, 20, 24, 34, 36, 40, 42, 44
-9	1	uh	41	A	2, 6, 10, 20, 24, 26, 34, 36, 42
 9	1	you	39	A	6, 18, 24, 26, 28, 34, 36, 40, 44
 8	1	a	41	A	0, 2, 6, 8, 10, 24, 34, 40
 8	1	of	45	A	0, 2, 4, 6, 10, 24, 34, 44
@@ -54,7 +72,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	not	33	A	10, 26, 42
 3	1	there	17	A	18, 26, 34
 3	1	we	35	A	0, 6, 34
-3	1	well	43	A	2, 18, 44
 3	1	where	37	A	6, 34, 42
 3	1	with	33	A	2, 6, 34
 2	1	about	5	A	2, 6
@@ -75,7 +92,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	my	37	A	0, 36
 2	1	now	3	A	4, 6
 2	1	off	5	A	2, 6
-2	1	oh	37	A	6, 42
 2	1	one	17	A	2, 18
 2	1	or	29	A	6, 34
 2	1	say	5	A	2, 6

@@ -1,32 +1,32 @@
-A|0| A: _and_ _so_ _it_ kind _of_ wound down 
+A|0| A: _and_ _so_ _it_ kind _of_ wound down , 
 B|1| B: _oh_ . 
 A|2| A: pardon ? 
-B|3| B: [and] then he had _a_ _um i_ forget what type [of] fish [it] was [it] was one [of] these fish _that_ [it] would eat [it] ate _a_ big other fish [and] things like _that_ . there would _be_ sort [of] moby fish _in a_ tank . 
+B|3| B: [and] then he had _a_ , _um , i_ forget what type [of] fish [it] was , [it] was one [of] these fish _that_ [it] would eat , [it] ate _a_ big other fish [and] things like _that_ . there would _be_ sort [of] moby fish _in a_ tank . 
 A|4| A: _uh-huh ._ 
-B|5| B: [so] _i_ own _a_ home _in_ pensacola [and] _uh_ let's _see_ _we_ are _to_ compare homes . correct ? 
-A|6| A: _uh _i_ think_ they'd _have_ [to] go [to] extra measures [to] make sure [a] person's guilty _you_ know [in _a] lot of_ cases . course _i i_ know _you_ can't [be] [a] hundred percent foolproof . 
-B|7| B: _oh i see ._ [so] do [you] ... 
+B|5| B: [so] _, i_ own _a_ home _in_ pensacola , [and] _, uh ,_ let's _see_ , _we_ are _to_ compare homes . correct ? 
+A|6| A: _uh , _i_ think_ they'd _have_ [to] go [to] extra measures [to] make sure [a] person's guilty , _you_ know , [in _a] lot of_ cases . course _, i , i_ know _you_ can't [be] [a] hundred percent foolproof . 
+B|7| B: _oh , i see ._ [so] , do [you] ... 
 A|8| A: _uh-huh ._ 
 B|9| B: [uh-huh .] 
 A|10| A: _yeah ._ 
 B|11| B: [uh-huh .] 
-A|12| A: wow _yeah ._ 
-B|13| B: _i think uh_ well [in] your words _they_ were [a] _little_ bit too liberal . 
-A|14| A: [and] [i] spend enough time chatting around everywhere [you] know 
+A|12| A: wow , _yeah ._ 
+B|13| B: [i think] [uh ,] well [in] your words , _they_ were [a] _little_ bit too liberal . 
+A|14| A: [and] [i] spend enough time chatting around everywhere , [you] know 
 B|15| B: [uh-huh .] 
-A|16| A: is [that] _how_ [you] [i] _have_ never 
-B|17| B: [and] [uh [i] i] really [have] not seen now [a lot of] _the_ american cars actually are are parts are produced [in] foreign countries [and] assembled here or vice versa . 
-A|18| A: up until it's coach pitch until [you] get nine which _my_ [little] boy will [be] nine [in] may . 
+A|16| A: is [that] _how_ [you] [, i] _have_ never , 
+B|17| B: [and] _, [uh [,_ i] , i] really [have] not seen , now [a lot of] _the_ american cars actually are , are , parts are produced [in] foreign countries [and] assembled here or vice versa . 
+A|18| A: up until , it's coach pitch , until [you] get nine which _my_ [little] boy will [be] nine [in] may . 
 B|19| B: [yeah .] 
 A|20| A: right . [they] 
-B|21| B: [and] [uh] . [yeah] [how] do [you] feel about [it] ? 
-A|22| A: [oh i see .] that's fine . [um [i] think uh] that's pleasurable for _all_ [of] us if [we] choose [the] right restaurant 
-B|23| B: [my] [my] kids are [all] grown . 
+B|21| B: [and] _, uh_ . [yeah] , [how] do [you] feel about [it] ? 
+A|22| A: [oh , i see .] that's fine . [um , [i] think] [, uh ,] that's pleasurable for _all_ [of] us , if [we] choose [the] right restaurant 
+B|23| B: [my] , [my] kids are [all] grown . 
 
 
 TURN DETAILS:
-Turn ID=0| A | A : and so it kind of wound down
-	Free: Pattern=of, Pattern=so, Pattern=and, Pattern=it
+Turn ID=0| A | A : and so it kind of wound down ,
+	Free: Pattern=and, Pattern=so, Pattern=of, Pattern=it
 	Constrained: 
 Turn ID=1| B | B : oh .
 	Free: Pattern=oh
@@ -34,21 +34,21 @@ Turn ID=1| B | B : oh .
 Turn ID=2| A | A : pardon ?
 	Free: 
 	Constrained: 
-Turn ID=3| B | B : and then he had a um i forget what type of fish it was it was one of these fish that it would eat it ate a big other fish and things like that . there would be sort of moby fish in a tank .
-	Free: Pattern=of, Pattern=um i, Pattern=a, Pattern=in a, Pattern=be, Pattern=that, Pattern=it, Pattern=and
-	Constrained: Pattern=in, Pattern=a, Pattern=i
+Turn ID=3| B | B : and then he had a , um , i forget what type of fish it was , it was one of these fish that it would eat , it ate a big other fish and things like that . there would be sort of moby fish in a tank .
+	Free: Pattern=of, Pattern=a, Pattern=in a, Pattern=be, Pattern=that, Pattern=it, Pattern=and, Pattern=um , i
+	Constrained: Pattern=, i, Pattern=i, Pattern=a, Pattern=in
 Turn ID=4| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=5| B | B : so i own a home in pensacola and uh let's see we are to compare homes . correct ?
-	Free: Pattern=uh, Pattern=a, Pattern=and, Pattern=in, Pattern=i, Pattern=we, Pattern=see, Pattern=to, Pattern=so
-	Constrained: 
-Turn ID=6| A | A : uh i think they'd have to go to extra measures to make sure a person's guilty you know in a lot of cases . course i i know you can't be a hundred percent foolproof .
-	Free: Pattern=a lot of, Pattern=you, Pattern=have, Pattern=a, Pattern=in a, Pattern=be, Pattern=i i, Pattern=i think, Pattern=uh i, Pattern=to
-	Constrained: Pattern=of, Pattern=uh, Pattern=a, Pattern=in, Pattern=i
-Turn ID=7| B | B : oh i see . so do you ...
-	Free: Pattern=oh i see ., Pattern=so, Pattern=you
-	Constrained: Pattern=oh, Pattern=i, Pattern=see
+Turn ID=5| B | B : so , i own a home in pensacola , and , uh , let's see , we are to compare homes . correct ?
+	Free: Pattern=a, Pattern=and, Pattern=in, Pattern=we, Pattern=, uh ,, Pattern=, i, Pattern=see, Pattern=to, Pattern=so
+	Constrained: Pattern=, uh, Pattern=uh ,, Pattern=i
+Turn ID=6| A | A : uh , i think they'd have to go to extra measures to make sure a person's guilty , you know , in a lot of cases . course , i , i know you can't be a hundred percent foolproof .
+	Free: Pattern=a lot of, Pattern=you, Pattern=have, Pattern=a, Pattern=in a, Pattern=uh , i, Pattern=to, Pattern=i think, Pattern=, i , i, Pattern=be
+	Constrained: Pattern=of, Pattern=a, Pattern=in, Pattern=i, Pattern=uh ,, Pattern=, i
+Turn ID=7| B | B : oh , i see . so , do you ...
+	Free: Pattern=oh , i see ., Pattern=you, Pattern=so
+	Constrained: Pattern=oh, Pattern=, i, Pattern=i, Pattern=see
 Turn ID=8| A | A : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
@@ -61,25 +61,25 @@ Turn ID=10| A | A : yeah .
 Turn ID=11| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=12| A | A : wow yeah .
+Turn ID=12| A | A : wow , yeah .
 	Free: Pattern=yeah .
 	Constrained: Pattern=yeah
-Turn ID=13| B | B : i think uh well in your words they were a little bit too liberal .
-	Free: Pattern=a, Pattern=in, Pattern=i think uh, Pattern=they, Pattern=little
-	Constrained: Pattern=uh, Pattern=i, Pattern=i think
-Turn ID=14| A | A : and i spend enough time chatting around everywhere you know
-	Free: Pattern=you, Pattern=and, Pattern=i
+Turn ID=13| B | B : i think uh , well in your words , they were a little bit too liberal .
+	Free: Pattern=a, Pattern=in, Pattern=uh ,, Pattern=i think, Pattern=they, Pattern=little
+	Constrained: Pattern=i
+Turn ID=14| A | A : and i spend enough time chatting around everywhere , you know
+	Free: Pattern=you, Pattern=i, Pattern=and
 	Constrained: 
 Turn ID=15| B | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=16| A | A : is that how you i have never
-	Free: Pattern=you, Pattern=have, Pattern=how, Pattern=i, Pattern=that
-	Constrained: 
-Turn ID=17| B | B : and uh i i really have not seen now a lot of the american cars actually are are parts are produced in foreign countries and assembled here or vice versa .
-	Free: Pattern=a lot of, Pattern=have, Pattern=and, Pattern=in, Pattern=the, Pattern=uh i, Pattern=i i
-	Constrained: Pattern=a, Pattern=uh, Pattern=i, Pattern=of
-Turn ID=18| A | A : up until it's coach pitch until you get nine which my little boy will be nine in may .
+Turn ID=16| A | A : is that how you , i have never ,
+	Free: Pattern=you, Pattern=have, Pattern=how, Pattern=, i, Pattern=that
+	Constrained: Pattern=i
+Turn ID=17| B | B : and , uh , i , i really have not seen , now a lot of the american cars actually are , are , parts are produced in foreign countries and assembled here or vice versa .
+	Free: Pattern=a lot of, Pattern=have, Pattern=and, Pattern=uh , i, Pattern=in, Pattern=the, Pattern=, uh ,, Pattern=, i , i
+	Constrained: Pattern=of, Pattern=, uh, Pattern=a, Pattern=i, Pattern=uh ,, Pattern=, i
+Turn ID=18| A | A : up until , it's coach pitch , until you get nine which my little boy will be nine in may .
 	Free: Pattern=you, Pattern=little, Pattern=in, Pattern=be, Pattern=my
 	Constrained: 
 Turn ID=19| B | B : yeah .
@@ -88,12 +88,12 @@ Turn ID=19| B | B : yeah .
 Turn ID=20| A | A : right . they
 	Free: Pattern=they
 	Constrained: 
-Turn ID=21| B | B : and uh . yeah how do you feel about it ?
-	Free: Pattern=how, Pattern=you, Pattern=uh, Pattern=and, Pattern=it, Pattern=yeah
+Turn ID=21| B | B : and , uh . yeah , how do you feel about it ?
+	Free: Pattern=how, Pattern=you, Pattern=, uh, Pattern=and, Pattern=it, Pattern=yeah
 	Constrained: 
-Turn ID=22| A | A : oh i see . that's fine . um i think uh that's pleasurable for all of us if we choose the right restaurant
-	Free: Pattern=of, Pattern=um i, Pattern=we, Pattern=i think uh, Pattern=oh i see ., Pattern=the, Pattern=all
-	Constrained: Pattern=uh, Pattern=oh, Pattern=i, Pattern=see, Pattern=i think
-Turn ID=23| B | B : my my kids are all grown .
+Turn ID=22| A | A : oh , i see . that's fine . um , i think , uh , that's pleasurable for all of us , if we choose the right restaurant
+	Free: Pattern=of, Pattern=um , i, Pattern=we, Pattern=, uh ,, Pattern=oh , i see ., Pattern=i think, Pattern=the, Pattern=all
+	Constrained: Pattern=, uh, Pattern=oh, Pattern=i, Pattern=see, Pattern=uh ,, Pattern=, i
+Turn ID=23| B | B : my , my kids are all grown .
 	Free: Pattern=my, Pattern=all
 	Constrained: 

@@ -1,52 +1,61 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	, you know , i ,	3	B	97, 99
+2	5	, uh , i guess	5	B	1, 5
 2	5	. that's pretty good .	19	B	57, 75
+2	5	oh , i see .	59	B	29, 87
+2	5	oh , that's nice .	9	B	19, 27
+2	5	where , you know ,	95	B	5, 99
+3	4	, i see .	61	B	29, 87, 89
+3	4	and , uh ,	101	B	1, 9, 101
 3	4	that's pretty good .	19	B	57, 63, 75
-2	4	oh i see .	59	B	29, 87
-2	4	oh that's nice .	9	B	19, 27
+2	4	it's , uh ,	7	B	5, 11
 2	4	yeah . yeah .	21	B	41, 61
-3	3	i see .	61	B	29, 87, 89
+6	3	, uh ,	101	B	1, 3, 5, 9, 11, 101
+4	3	, i see	71	B	29, 87, 89, 99
+3	3	oh , that's	45	B	19, 27, 63
 3	3	that's nice .	35	B	19, 27, 53
+2	3	. uh ,	3	B	1, 3
+2	3	i , i	3	B	99, 101
 2	3	my wife and	3	B	1, 3
 2	3	that's great .	51	B	33, 83
 2	3	that's true .	33	B	15, 47
-2	3	uh i guess	5	B	1, 5
 2	3	we don't have	95	B	3, 97
-2	3	where you know	95	B	5, 99
 2	3	who built it	3	B	11, 13
+2	3	yeah , that's	49	B	47, 95
 2	3	yeah . that's	61	B	15, 75
-2	3	you know i	3	B	97, 99
 11	2	yeah .	85	B	13, 15, 31, 41, 51, 61, 69, 75, 77, 93, 97
 8	2	uh-huh .	57	B	39, 49, 59, 65, 67, 71, 89, 95
+7	2	oh ,	69	B	19, 21, 27, 29, 63, 65, 87
 6	2	. that's	69	B	15, 49, 53, 57, 75, 83
+6	2	uh ,	101	B	1, 3, 5, 9, 11, 101
+4	2	, you	95	B	5, 65, 97, 99
 4	2	good .	27	B	49, 57, 63, 75
-4	2	i see	71	B	29, 87, 89, 99
 4	2	nice .	43	B	11, 19, 27, 53
 4	2	wow .	55	B	25, 53, 73, 79
 3	2	. yeah	55	B	41, 61, 95
-3	2	and uh	101	B	1, 9, 101
+3	2	a ,	13	B	1, 3, 13
+3	2	and ,	101	B	1, 9, 101
+3	2	i ,	5	B	97, 99, 101
 3	2	kind of	65	B	37, 95, 101
 3	2	my wife	81	B	1, 3, 81
-3	2	oh that's	45	B	19, 27, 63
-2	2	. uh	3	B	1, 3
+2	2	, and	97	B	5, 101
+2	2	, it's	3	B	7, 9
+2	2	but ,	97	B	3, 99
 2	2	deck .	3	B	99, 101
 2	2	huh .	15	B	29, 43
-2	2	i i	3	B	99, 101
+2	2	in ,	3	B	1, 3
 2	2	it .	13	B	1, 13
 2	2	it was	11	B	3, 13
-2	2	it's uh	7	B	5, 11
 2	2	oh .	37	B	55, 91
 2	2	real nice	49	B	53, 101
 2	2	that .	63	B	35, 97
-2	2	yeah that's	49	B	47, 95
 13	1	that's	81	B	15, 19, 27, 33, 45, 47, 49, 53, 57, 63, 75, 83, 95
 10	1	a	101	B	1, 3, 5, 9, 13, 51, 85, 95, 97, 101
 10	1	i	101	B	1, 3, 5, 29, 35, 87, 89, 97, 99, 101
-9	1	oh	73	B	19, 21, 27, 29, 55, 63, 65, 87, 91
 8	1	it	101	B	1, 3, 11, 13, 23, 51, 85, 101
 7	1	of	99	B	3, 11, 37, 65, 83, 95, 101
 7	1	you	99	B	1, 5, 23, 51, 65, 97, 99
 6	1	and	101	B	1, 3, 5, 7, 9, 101
-6	1	uh	101	B	1, 3, 5, 9, 11, 101
 5	1	is	81	B	5, 7, 13, 35, 85
 5	1	it's	11	B	1, 5, 7, 9, 11
 5	1	on	97	B	5, 7, 51, 65, 101

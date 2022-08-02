@@ -1,27 +1,37 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	3	, i think	15	A	20, 26, 34
+3	3	, uh ,	25	A	22, 34, 46
+3	3	you know ,	19	A	26, 28, 44
+2	3	, i don't	7	A	20, 26
+2	3	, you know	19	A	28, 46
+2	3	. uh ,	7	A	28, 34
 2	3	i guess we	3	A	24, 26
+5	2	, i	27	A	20, 26, 34, 42, 46
 5	2	yeah .	35	A	14, 30, 36, 42, 48
 4	2	i think	27	A	20, 26, 34, 46
 4	2	that .	27	A	18, 26, 40, 44
-4	2	you know	21	A	26, 28, 44, 46
+3	2	, the	27	A	20, 34, 46
 3	2	. i	23	A	20, 26, 42
 3	2	i guess	31	A	24, 26, 54
 3	2	right .	15	A	2, 8, 16
 3	2	to the	27	A	20, 34, 46
 3	2	uh-huh .	25	A	4, 6, 28
-2	2	. uh	7	A	28, 34
+2	2	, and	15	A	26, 40
+2	2	, or	17	A	28, 44
+2	2	, that	17	A	8, 24
 2	2	and the	17	A	18, 34
 2	2	don't know	19	A	26, 44
 2	2	from the	31	A	20, 50
-2	2	i don't	7	A	20, 26
-2	2	i i	35	A	20, 54
 2	2	it .	27	A	28, 54
 2	2	like that	23	A	22, 44
 2	2	lots of	3	A	22, 24
 2	2	of the	13	A	26, 38
 2	2	oh .	41	A	12, 52
+2	2	right ,	25	A	20, 44
 2	2	that they	9	A	26, 34
+2	2	the ,	27	A	20, 46
 2	2	to do	11	A	18, 28
+2	2	well ,	27	A	8, 34
 10	1	that	47	A	8, 18, 20, 22, 24, 26, 34, 40, 44, 54
 9	1	the	55	A	0, 18, 20, 26, 34, 38, 46, 50, 54
 7	1	i	35	A	20, 24, 26, 34, 42, 46, 54
@@ -42,7 +52,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	it's	35	A	20, 34, 50, 54
 4	1	know	21	A	26, 28, 44, 46
 4	1	oh	41	A	12, 24, 34, 52
-4	1	uh	25	A	22, 28, 34, 46
 4	1	you	21	A	26, 28, 44, 46
 3	1	because	37	A	18, 22, 54
 3	1	but	33	A	22, 26, 54
@@ -68,7 +77,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	them	19	A	28, 46
 2	1	up	37	A	10, 46
 2	1	was	23	A	24, 46
-2	1	well	27	A	8, 34
 2	1	what	19	A	26, 44
 2	1	will	19	A	22, 40
 2	1	would	31	A	24, 54

@@ -1,17 +1,29 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	. well we're	23	A	8, 30
+2	4	, uh , from	21	A	26, 46
+2	4	, you know ,	39	A	12, 50
+2	4	. well , we're	23	A	8, 30
+4	3	, i think	69	A	2, 58, 60, 70
+4	3	, uh ,	35	A	12, 26, 34, 46
+3	3	, you know	59	A	12, 50, 70
+2	3	, i ,	25	A	26, 50
 2	3	. yeah .	45	A	8, 52
-2	3	i know that	29	A	12, 40
 2	3	i think that's	15	A	12, 26
 2	3	that i know	35	A	12, 46
+6	2	, i	69	A	2, 26, 50, 58, 60, 70
 6	2	i think	69	A	2, 12, 26, 58, 60, 70
 6	2	uh-huh .	59	A	20, 22, 30, 52, 76, 78
 6	2	yeah .	65	A	8, 32, 52, 56, 62, 72
+5	2	uh ,	47	A	12, 26, 34, 46, 58
+4	2	, uh	35	A	12, 26, 34, 46
 4	2	i know	35	A	12, 26, 40, 46
+4	2	well ,	57	A	2, 8, 30, 58
 3	2	right .	15	A	38, 44, 52
 3	2	that i	35	A	12, 26, 46
 3	2	think that's	15	A	12, 14, 26
-3	2	you know	59	A	12, 50, 70
+2	2	, and	23	A	12, 34
+2	2	, from	21	A	26, 46
+2	2	, that	41	A	12, 52
+2	2	, the	3	A	12, 14
 2	2	. i	45	A	26, 70
 2	2	. it	45	A	8, 52
 2	2	and i	15	A	12, 26
@@ -23,11 +35,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i don't	27	A	14, 40
 2	2	i have	37	A	10, 46
 2	2	in the	47	A	2, 48
+2	2	know ,	39	A	12, 50
 2	2	no .	29	A	26, 54
+2	2	really ,	37	A	12, 48
 2	2	them .	5	A	8, 12
 2	2	they just	11	A	2, 12
 2	2	to the	49	A	10, 58
-2	2	uh from	21	A	26, 46
+2	2	um ,	15	A	12, 26
 11	1	i	69	A	2, 10, 12, 14, 26, 40, 46, 50, 58, 60, 70
 11	1	the	59	A	2, 10, 12, 14, 18, 26, 38, 40, 48, 58, 60
 8	1	a	53	A	6, 10, 14, 26, 34, 42, 52, 58
@@ -41,12 +55,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	of	45	A	2, 8, 12, 26, 46
 5	1	or	47	A	2, 6, 12, 40, 48
 5	1	that	41	A	12, 26, 40, 46, 52
-5	1	uh	47	A	12, 26, 34, 46, 58
 4	1	in	47	A	2, 26, 46, 48
 4	1	so	41	A	10, 38, 40, 50
 4	1	that's	59	A	12, 14, 26, 70
 4	1	they	69	A	2, 12, 26, 70
-4	1	well	57	A	2, 8, 30, 58
 3	1	but	25	A	2, 12, 26
 3	1	is	63	A	8, 48, 70
 3	1	it's	51	A	10, 52, 60
@@ -76,6 +88,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	some	3	A	10, 12
 2	1	them	5	A	8, 12
 2	1	time	3	A	8, 10
-2	1	um	15	A	12, 26
 2	1	year	9	A	2, 10
 

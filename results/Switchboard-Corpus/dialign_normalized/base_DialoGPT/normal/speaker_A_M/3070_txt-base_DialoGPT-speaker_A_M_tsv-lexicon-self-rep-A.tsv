@@ -1,56 +1,77 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	oh , that's good .	27	A	16, 42
+5	4	, you know ,	37	A	62, 64, 92, 94, 98
+3	4	, that's good .	39	A	16, 42, 54
+2	4	, uh , the	31	A	62, 92
 2	4	. do you have	43	A	22, 64
-2	4	oh that's good .	27	A	16, 42
-3	3	that's good .	39	A	16, 42, 54
+4	3	, uh ,	53	A	40, 62, 78, 92
+4	3	oh , that's	63	A	16, 42, 48, 78
+3	3	the , the	13	A	52, 56, 64
+2	3	, it was	3	A	62, 64
+2	3	, it's not	95	A	0, 94
+2	3	, oh ,	17	A	78, 94
+2	3	, um ,	29	A	36, 64
+2	3	. well ,	53	A	2, 54
 2	3	a lot about	3	A	54, 56
+2	3	about the ,	7	A	56, 62
 2	3	she talked about	3	A	62, 64
+2	3	so that ,	37	A	62, 98
 2	3	version of the	3	A	60, 62
+2	3	well , that's	15	A	54, 68
 11	2	right .	67	A	26, 30, 34, 44, 46, 50, 66, 74, 76, 80, 92
-5	2	you know	37	A	62, 64, 92, 94, 98
+9	2	, that's	81	A	8, 10, 16, 42, 48, 54, 68, 78, 88
+6	2	know ,	91	A	8, 62, 64, 92, 94, 98
+5	2	, you	37	A	62, 64, 92, 94, 98
+4	2	, it's	95	A	0, 6, 62, 94
+4	2	, so	27	A	36, 52, 54, 62
 4	2	and then	81	A	18, 62, 94, 98
 4	2	oh .	63	A	28, 32, 86, 90
-4	2	oh that's	63	A	16, 42, 48, 78
 4	2	okay .	19	A	20, 22, 24, 38
 4	2	the family	61	A	2, 52, 58, 62
+4	2	well ,	93	A	2, 54, 68, 94
+3	2	, a	51	A	14, 56, 64
+3	2	, but	37	A	62, 64, 98
+3	2	, or	41	A	52, 84, 92
 3	2	about the	9	A	56, 62, 64
+3	2	and ,	25	A	40, 62, 64
 3	2	do you	47	A	18, 22, 64
 3	2	it was	5	A	60, 62, 64
 3	2	of the	5	A	60, 62, 64
+3	2	reunion ,	33	A	62, 92, 94
+3	2	that ,	89	A	10, 62, 98
 3	2	the protestant	5	A	58, 60, 62
-3	2	the the	13	A	52, 56, 64
-3	2	you have	63	A	22, 64, 84
+2	2	, and	3	A	62, 64
+2	2	, i	11	A	54, 64
+2	2	, you're	85	A	14, 98
 2	2	. i	19	A	54, 72
 2	2	. that's	23	A	70, 92
-2	2	. well	53	A	2, 54
+2	2	a ,	29	A	36, 64
 2	2	a lot	3	A	54, 56
+2	2	all ,	61	A	2, 62
 2	2	family reunions	5	A	54, 58
 2	2	get the	93	A	6, 98
+2	2	had ,	29	A	64, 92
 2	2	had a	35	A	54, 88
-2	2	it's not	95	A	0, 94
 2	2	just once	79	A	6, 84
 2	2	kind of	33	A	64, 96
 2	2	know how	13	A	52, 64
 2	2	people who	33	A	62, 94
 2	2	pilgrimage .	3	A	60, 62
-2	2	so that	37	A	62, 98
+2	2	see ,	87	A	2, 88
 2	2	the first	3	A	92, 94
 2	2	to come	33	A	62, 94
-2	2	uh the	31	A	62, 92
 2	2	was the	5	A	60, 64
 2	2	we had	5	A	88, 92
-2	2	well that's	15	A	54, 68
 2	2	you meet	19	A	18, 36
 12	1	right	67	A	26, 30, 34, 44, 46, 50, 66, 74, 76, 80, 82, 92
 12	1	that's	85	A	8, 10, 16, 42, 48, 52, 54, 68, 70, 78, 88, 92
 11	1	a	95	A	0, 2, 6, 14, 36, 54, 56, 62, 64, 88, 94
 11	1	the	97	A	2, 6, 52, 56, 58, 60, 62, 64, 92, 94, 98
 10	1	you	81	A	18, 22, 36, 58, 62, 64, 84, 92, 94, 98
-9	1	oh	79	A	16, 28, 32, 42, 48, 78, 86, 90, 94
 8	1	so	95	A	4, 6, 36, 52, 54, 62, 96, 98
 7	1	and	81	A	18, 40, 62, 64, 94, 96, 98
 7	1	had	95	A	0, 54, 62, 64, 88, 92, 94
 7	1	in	61	A	2, 6, 22, 36, 52, 54, 62
-7	1	know	91	A	8, 52, 62, 64, 92, 94, 98
 7	1	that	89	A	10, 36, 62, 64, 88, 94, 98
 6	1	about	63	A	2, 12, 54, 56, 62, 64
 6	1	family	61	A	2, 12, 52, 54, 58, 62
@@ -66,10 +87,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	it	37	A	60, 62, 64, 96
 4	1	it's	95	A	0, 6, 62, 94
 4	1	just	81	A	4, 6, 78, 84
-4	1	uh	53	A	40, 62, 78, 92
 4	1	was	33	A	60, 62, 64, 92
 4	1	we	87	A	6, 56, 88, 92
-4	1	well	93	A	2, 54, 68, 94
 4	1	who	43	A	52, 54, 62, 94
 3	1	all	61	A	2, 58, 62
 3	1	first	31	A	64, 92, 94
@@ -104,11 +123,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	pretty	65	A	4, 68
 2	1	problem	5	A	88, 92
 2	1	relatives	77	A	22, 98
-2	1	see	87	A	2, 88
 2	1	she	3	A	62, 64
 2	1	things	31	A	64, 94
 2	1	together	59	A	6, 64
-2	1	um	29	A	36, 64
 2	1	usually	61	A	2, 62
 2	1	we've	89	A	0, 88
 2	1	where	45	A	18, 62

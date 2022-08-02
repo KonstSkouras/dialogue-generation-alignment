@@ -1,9 +1,20 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	you know it's	33	B	25, 57
+4	3	, uh ,	41	B	3, 25, 35, 43
+2	3	, and i	11	B	3, 13
+2	3	, you know	21	B	25, 45
+2	3	well , it	7	B	31, 37
+2	3	you know ,	7	B	19, 25
+5	2	well ,	53	B	3, 31, 37, 41, 55
 4	2	you know	39	B	19, 25, 45, 57
+3	2	, and	57	B	3, 13, 59
+3	2	, i	37	B	3, 19, 39
+3	2	, you	21	B	25, 27, 45
 3	2	and i	27	B	3, 13, 29
 3	2	i think	17	B	7, 9, 23
+3	2	oh ,	39	B	1, 15, 39
+3	2	yeah ,	35	B	11, 13, 45
 3	2	yeah .	29	B	21, 33, 49
+2	2	, to	7	B	11, 17
 2	2	. and	3	B	3, 5
 2	2	. i	7	B	7, 13
 2	2	a little	7	B	31, 37
@@ -15,7 +26,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	that's right	29	B	17, 45
 2	2	the cowboys	13	B	47, 59
 2	2	uh-huh .	11	B	51, 61
-2	2	well it	7	B	31, 37
 10	1	i	37	B	3, 7, 9, 11, 13, 19, 23, 29, 35, 39
 8	1	and	57	B	3, 5, 11, 13, 17, 27, 29, 59
 8	1	the	47	B	13, 15, 17, 23, 29, 41, 47, 59
@@ -25,13 +35,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	well	53	B	3, 7, 27, 31, 37, 41, 55
 6	1	it	49	B	7, 25, 31, 37, 41, 55
 6	1	of	55	B	5, 13, 23, 41, 45, 59
-6	1	yeah	39	B	11, 13, 21, 33, 45, 49
 5	1	we	57	B	3, 5, 7, 47, 59
 4	1	in	29	B	13, 35, 37, 41
 4	1	so	29	B	29, 47, 55, 57
 4	1	they	49	B	11, 17, 41, 59
 4	1	they're	53	B	7, 41, 47, 59
-4	1	uh	41	B	3, 25, 35, 43
 3	1	about	27	B	29, 41, 55
 3	1	but	25	B	19, 37, 43
 3	1	from	21	B	3, 17, 23
@@ -39,7 +47,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	like	43	B	17, 55, 59
 3	1	little	25	B	13, 31, 37
 3	1	my	17	B	13, 17, 29
-3	1	oh	39	B	1, 15, 39
 3	1	there	51	B	5, 19, 55
 3	1	was	43	B	3, 25, 45
 2	1	are	13	B	35, 47
@@ -51,6 +58,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	here	57	B	3, 59
 2	1	if	15	B	27, 41
 2	1	is	13	B	43, 55
+2	1	it's	33	B	25, 57
 2	1	me	5	B	13, 17
 2	1	one	11	B	35, 45
 2	1	or	11	B	19, 29

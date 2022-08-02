@@ -1,14 +1,19 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	i'm not a fan of	13	M	74, 86
+2	4	food , uh ,	3	M	16, 18
+6	3	, uh ,	87	M	16, 18, 24, 40, 42, 102
 3	3	i'm not sure	33	M	14, 44, 46
 4	2	i think	89	M	10, 40, 48, 98
+3	2	, but	31	M	14, 28, 44
 3	2	i know	81	M	26, 32, 106
+3	2	yeah ,	75	M	28, 74, 102
+2	2	, i	69	M	30, 98
 2	2	cocoa powder	3	M	66, 68
 2	2	food .	3	M	16, 18
-2	2	food uh	3	M	16, 18
 2	2	good .	15	M	8, 22
 2	2	i can	93	M	16, 108
 2	2	i like	87	M	12, 98
+2	2	so ,	65	M	34, 98
 2	2	stuff .	17	M	70, 86
 2	2	to eat	59	M	12, 70
 2	2	what ?	45	M	6, 50
@@ -18,7 +23,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	that	79	M	8, 10, 14, 28, 66, 70, 86
 6	1	not	73	M	14, 44, 46, 68, 74, 86
 6	1	to	59	M	12, 18, 24, 28, 42, 70
-6	1	uh	87	M	16, 18, 24, 40, 42, 102
 5	1	of	77	M	10, 16, 70, 74, 86
 5	1	the	81	M	28, 74, 92, 94, 108
 5	1	what	73	M	6, 14, 50, 72, 78

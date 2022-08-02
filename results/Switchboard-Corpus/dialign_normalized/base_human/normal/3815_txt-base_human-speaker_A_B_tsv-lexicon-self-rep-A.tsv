@@ -1,43 +1,60 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, you know , good	13	A	22, 34
+6	4	, you know ,	41	A	22, 26, 34, 42, 48, 62
+3	4	and , uh ,	15	A	20, 22, 34
+2	4	uh-huh , uh-huh .	17	A	16, 32
+5	3	, i guess	27	A	18, 22, 34, 42, 44
+4	3	, uh ,	17	A	18, 20, 22, 34
+3	3	well , i	27	A	18, 34, 44
+2	3	, i just	25	A	20, 44
+2	3	, so i	15	A	20, 34
 2	3	in this area	11	A	42, 52
 2	3	seem to have	37	A	18, 54
 2	3	stick shift .	21	A	34, 54
 2	3	uh-huh . right	47	A	14, 60
-2	3	uh-huh uh-huh .	17	A	16, 32
-2	3	you know good	13	A	22, 34
+8	2	, i	27	A	18, 20, 22, 24, 26, 34, 42, 44
 7	2	uh-huh .	57	A	4, 6, 14, 16, 32, 58, 60
-6	2	you know	41	A	22, 26, 34, 42, 48, 62
-5	2	i guess	27	A	18, 22, 34, 42, 44
+6	2	, you	41	A	22, 26, 34, 42, 48, 62
+5	2	uh ,	29	A	18, 20, 22, 34, 46
+5	2	well ,	53	A	0, 18, 34, 44, 52
+4	2	, and	29	A	34, 40, 48, 62
+4	2	so ,	23	A	42, 48, 50, 64
 4	2	that i	37	A	18, 20, 34, 54
+3	2	, it	7	A	36, 40, 42
+3	2	and ,	15	A	20, 22, 34
 3	2	and i	23	A	22, 34, 44
-3	2	and so	23	A	34, 40, 56
-3	2	and uh	15	A	20, 22, 34
 3	2	i don't	17	A	18, 20, 34
 3	2	i just	25	A	20, 26, 44
+3	2	right ,	49	A	14, 30, 62
 3	2	right .	47	A	14, 28, 60
-3	2	so i	23	A	20, 34, 42
 3	2	sort of	47	A	2, 34, 48
 3	2	stick shift	23	A	34, 54, 56
 3	2	the people	37	A	18, 48, 54
 3	2	to have	37	A	18, 34, 54
-3	2	well i	27	A	18, 34, 44
+2	2	, a	5	A	36, 40
+2	2	, at	21	A	42, 62
+2	2	, good	13	A	22, 34
+2	2	, the	15	A	34, 48
 2	2	. and	7	A	34, 40
 2	2	. i	15	A	34, 48
 2	2	a car	11	A	34, 44
 2	2	all of	19	A	34, 52
+2	2	and so	17	A	40, 56
 2	2	at least	11	A	42, 52
+2	2	basically ,	7	A	34, 40
 2	2	car ?	3	A	0, 2
 2	2	don't like	3	A	18, 20
-2	2	have you	11	A	24, 34
+2	2	i ,	15	A	34, 48
+2	2	it ,	5	A	36, 40
 2	2	it .	7	A	34, 40
 2	2	it doesn't	23	A	20, 42
 2	2	like the	9	A	26, 34
+2	2	no ,	17	A	24, 40
 2	2	of the	25	A	10, 34
 2	2	oh .	11	A	2, 12
 11	1	i	47	A	8, 18, 20, 22, 24, 26, 34, 42, 44, 48, 54
 10	1	you	63	A	0, 2, 22, 24, 26, 34, 42, 48, 56, 62
 8	1	and	43	A	20, 22, 34, 40, 44, 48, 56, 62
-8	1	so	45	A	20, 34, 40, 42, 48, 50, 56, 64
 8	1	the	55	A	0, 10, 18, 26, 34, 40, 48, 54
 7	1	a	49	A	0, 30, 34, 36, 40, 44, 48
 7	1	it	43	A	20, 34, 36, 40, 42, 44, 62
@@ -49,8 +66,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	uh	29	A	18, 20, 22, 34, 36, 46
 5	1	have	53	A	2, 18, 24, 34, 54
 5	1	of	51	A	2, 10, 34, 48, 52
-5	1	right	49	A	14, 28, 30, 60, 62
-5	1	well	53	A	0, 18, 34, 44, 52
 4	1	at	21	A	42, 48, 52, 62
 4	1	car	45	A	0, 2, 34, 44
 4	1	don't	37	A	18, 20, 34, 54
@@ -68,7 +83,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	actually	29	A	34, 62
 2	1	always	27	A	18, 44
 2	1	are	53	A	0, 52
-2	1	basically	7	A	34, 40
 2	1	can't	15	A	20, 34
 2	1	had	5	A	40, 44
 2	1	i'm	35	A	18, 52
@@ -76,7 +90,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	it's	21	A	42, 62
 2	1	lot	7	A	34, 40
 2	1	mileage	13	A	22, 34
-2	1	no	17	A	24, 40
 2	1	on	23	A	40, 62
 2	1	one	11	A	34, 44
 2	1	requirements	33	A	2, 34

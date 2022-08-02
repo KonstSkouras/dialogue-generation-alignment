@@ -1,48 +1,68 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	you know it's kind of	31	B	17, 47
+2	6	you know , it's kind of	31	B	17, 47
+2	5	, you know , a	45	B	5, 49
+2	5	, you know , what	43	B	7, 49
+2	5	, you know , you	31	B	7, 37
+11	4	, you know ,	49	B	5, 7, 11, 19, 31, 33, 37, 45, 47, 49, 53
+4	4	, you know .	43	B	7, 15, 37, 49
+2	4	at , you know	5	B	7, 11
+2	4	you know , all	11	B	9, 19
+13	3	you know ,	49	B	5, 7, 9, 11, 17, 19, 31, 33, 37, 45, 47, 49, 53
+12	3	, you know	49	B	5, 7, 11, 15, 19, 31, 33, 37, 45, 47, 49, 53
+7	3	, uh ,	45	B	5, 11, 29, 31, 45, 47, 49
 6	3	you know .	43	B	7, 15, 37, 39, 47, 49
 4	3	it's kind of	33	B	17, 35, 47, 49
+3	3	. uh ,	27	B	5, 11, 31
 3	3	a lot of	31	B	13, 31, 43
+2	3	, yeah ,	45	B	5, 49
 2	3	. it's like	15	B	39, 53
-2	3	. uh and	5	B	7, 11
-2	3	at you know	5	B	7, 11
 2	3	cause i've been	35	B	13, 47
 2	3	health care is	13	B	7, 19
 2	3	i've worked for	43	B	5, 47
-2	3	like well you	5	B	49, 53
 2	3	or something .	31	B	19, 49
-2	3	you know a	45	B	5, 49
-2	3	you know all	11	B	9, 19
-2	3	you know what	43	B	7, 49
-2	3	you know you	31	B	7, 37
-15	2	you know	49	B	5, 7, 9, 11, 15, 17, 19, 31, 33, 37, 39, 45, 47, 49, 53
+2	3	uh , cause	15	B	13, 27
+13	2	, you	49	B	5, 7, 11, 15, 19, 31, 33, 37, 39, 45, 47, 49, 53
+11	2	uh ,	45	B	5, 11, 13, 19, 27, 29, 31, 43, 45, 47, 49
+6	2	, i	45	B	5, 17, 19, 31, 45, 49
 6	2	kind of	45	B	5, 7, 17, 35, 47, 49
 6	2	yeah .	43	B	3, 5, 21, 25, 41, 45
 5	2	. uh	27	B	5, 7, 11, 19, 31
+4	2	, a	49	B	5, 43, 49, 53
 4	2	a lot	37	B	13, 31, 43, 49
 4	2	i think	39	B	7, 17, 35, 45
 4	2	work .	39	B	9, 11, 45, 47
+4	2	yeah ,	47	B	3, 5, 33, 49
+3	2	, and	37	B	11, 33, 47
+3	2	, especially	43	B	7, 47, 49
+3	2	, it's	31	B	17, 39, 47
+3	2	, yeah	47	B	3, 5, 49
 3	2	. and	43	B	5, 37, 47
 3	2	health care	15	B	5, 7, 19
 3	2	i guess	35	B	11, 43, 45
+3	2	like ,	19	B	31, 39, 49
 3	2	or something	35	B	19, 49, 53
 3	2	vacation time	9	B	5, 11, 13
+2	2	, is	35	B	11, 45
+2	2	, like	45	B	5, 49
+2	2	, sometimes	25	B	13, 37
 2	2	. i	7	B	39, 45
 2	2	. so	45	B	5, 49
 2	2	. you	39	B	9, 47
+2	2	a ,	23	B	11, 33
 2	2	a big	17	B	11, 27
+2	2	and ,	7	B	5, 11
 2	2	and especially	9	B	39, 47
 2	2	and i	25	B	11, 35
 2	2	and others	9	B	5, 13
 2	2	and so	27	B	5, 31
 2	2	and stuff	41	B	5, 45
 2	2	and they	45	B	5, 49
-2	2	and you	33	B	5, 37
-2	2	do you	5	B	49, 53
+2	2	are ,	21	B	5, 25
 2	2	does that	41	B	9, 49
 2	2	especially if	3	B	47, 49
 2	2	especially in	9	B	39, 47
 2	2	get home	7	B	31, 37
+2	2	getting ,	11	B	37, 47
 2	2	hard to	3	B	49, 51
 2	2	i mean	3	B	37, 39
 2	2	i've worked	43	B	5, 47
@@ -57,7 +77,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	she works	3	B	29, 31
 2	2	that at	13	B	33, 45
 2	2	the kids	5	B	31, 35
-2	2	uh cause	15	B	13, 27
 2	2	wind up	29	B	19, 47
 2	2	with a	9	B	5, 13
 2	2	you can	29	B	19, 47
@@ -65,14 +84,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 15	1	a	49	B	5, 11, 13, 17, 19, 27, 29, 31, 33, 39, 43, 45, 47, 49, 53
 15	1	and	45	B	5, 7, 9, 11, 13, 17, 29, 31, 33, 35, 37, 39, 45, 47, 49
 15	1	you	49	B	5, 7, 9, 11, 15, 17, 19, 31, 33, 37, 39, 45, 47, 49, 53
-12	1	i	45	B	5, 7, 11, 17, 19, 31, 35, 37, 39, 43, 45, 49
-12	1	uh	45	B	5, 7, 11, 13, 19, 27, 29, 31, 43, 45, 47, 49
 11	1	of	45	B	5, 7, 11, 13, 17, 31, 35, 43, 45, 47, 49
 11	1	that	47	B	5, 7, 9, 13, 19, 27, 33, 37, 45, 49, 51
 9	1	it's	37	B	17, 35, 37, 39, 45, 47, 49, 51, 53
 9	1	to	33	B	19, 25, 31, 33, 35, 37, 47, 49, 51
 8	1	like	49	B	5, 31, 39, 45, 47, 49, 51, 53
-8	1	yeah	47	B	3, 5, 21, 25, 33, 41, 45, 49
 7	1	in	43	B	5, 19, 29, 31, 37, 39, 47
 7	1	the	41	B	5, 7, 9, 31, 35, 39, 45
 6	1	for	43	B	5, 9, 11, 19, 37, 47
@@ -87,7 +103,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	all	41	B	9, 19, 33, 49
 4	1	as	23	B	25, 29, 37, 47
 4	1	do	21	B	33, 37, 49, 53
-4	1	especially	43	B	7, 39, 47, 49
 4	1	get	23	B	31, 37, 39, 53
 4	1	have	27	B	5, 7, 11, 31
 4	1	i've	45	B	5, 13, 47, 49
@@ -119,7 +134,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	definitely	17	B	3, 19
 2	1	does	41	B	9, 49
 2	1	even	19	B	19, 37
-2	1	getting	11	B	37, 47
 2	1	it	39	B	9, 47
 2	1	jobs	3	B	5, 7
 2	1	look	43	B	7, 49

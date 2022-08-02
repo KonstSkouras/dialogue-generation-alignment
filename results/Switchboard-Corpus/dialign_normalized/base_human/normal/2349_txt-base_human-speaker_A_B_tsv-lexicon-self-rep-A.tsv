@@ -1,53 +1,71 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	6	would have to be a lot	23	A	37, 59
+2	5	, you know , what	11	A	43, 53
+13	4	, you know ,	75	A	5, 13, 17, 21, 31, 37, 43, 49, 53, 55, 59, 75, 79
+3	4	, you know .	61	A	21, 59, 81
 2	4	. that's right .	37	A	29, 65
 2	4	that's right . yeah	23	A	51, 73
 2	4	uh-huh . uh-huh .	33	A	13, 45
 2	4	yeah . yeah .	19	A	41, 59
+14	3	, you know	77	A	5, 13, 17, 21, 31, 37, 43, 49, 53, 55, 59, 75, 79, 81
 8	3	that's right .	63	A	11, 25, 27, 29, 43, 51, 65, 73
 4	3	i'm not sure	45	A	15, 17, 21, 59
+3	3	. yeah ,	43	A	9, 13, 51
 3	3	. yeah .	33	A	41, 59, 73
 3	3	yeah . yeah	51	A	9, 41, 59
-3	3	you know .	61	A	21, 59, 81
+2	3	, i guess	5	A	75, 79
 2	3	. i'm not	23	A	21, 43
+2	3	and , you	5	A	49, 53
 2	3	sure would .	27	A	11, 37
+2	3	that , that	9	A	11, 19
 2	3	that would be	11	A	11, 21
 2	3	what programs are	39	A	43, 81
 2	3	yeah . that's	9	A	65, 73
-2	3	you know what	11	A	43, 53
-14	2	you know	77	A	5, 13, 17, 21, 31, 37, 43, 49, 53, 55, 59, 75, 79, 81
+14	2	, you	77	A	5, 13, 17, 21, 31, 37, 43, 49, 53, 55, 59, 75, 79, 81
 11	2	yeah .	67	A	7, 9, 41, 47, 53, 59, 61, 63, 65, 67, 73
 10	2	right .	73	A	1, 11, 25, 27, 29, 43, 51, 65, 71, 73
 9	2	that's right	63	A	11, 25, 27, 29, 35, 43, 51, 65, 73
 7	2	uh-huh .	67	A	3, 13, 29, 35, 39, 45, 69
-6	2	. yeah	65	A	9, 13, 41, 51, 59, 73
 6	2	i'm not	45	A	15, 17, 21, 23, 43, 59
+6	2	yeah ,	49	A	9, 13, 49, 51, 53, 57
+5	2	, i	45	A	37, 59, 75, 79, 81
+4	2	, that	67	A	11, 19, 21, 77
 4	2	. that's	45	A	29, 51, 65, 73
 4	2	be a	51	A	9, 21, 37, 59
+3	2	, or	67	A	13, 49, 79
+3	2	and ,	31	A	49, 53, 79
+3	2	but ,	45	A	15, 21, 59
 3	2	have to	23	A	37, 49, 59
-3	2	know what	39	A	43, 53, 81
+3	2	that ,	27	A	11, 19, 37
 3	2	to be	43	A	17, 37, 59
+2	2	, in	27	A	49, 75
+2	2	, it's	27	A	57, 83
+2	2	, just	33	A	21, 53
+2	2	, like	27	A	49, 75
+2	2	, take	57	A	31, 87
+2	2	, what	11	A	43, 53
+2	2	, yeah	5	A	49, 53
 2	2	. i	27	A	59, 85
 2	2	. it	37	A	37, 73
-2	2	and you	5	A	49, 53
 2	2	be the	69	A	11, 79
 2	2	i don't	7	A	75, 81
-2	2	i guess	5	A	75, 79
 2	2	in the	55	A	21, 75
 2	2	kind .	39	A	17, 55
 2	2	kind of	35	A	19, 53
 2	2	like that	43	A	37, 79
 2	2	need to	5	A	17, 21
+2	2	okay ,	3	A	85, 87
+2	2	right ,	27	A	9, 35
+2	2	say ,	23	A	59, 81
 2	2	that .	49	A	31, 79
-2	2	that that	9	A	11, 19
 2	2	they need	13	A	17, 29
 2	2	things like	5	A	75, 79
 2	2	to do	19	A	13, 31
 2	2	too .	23	A	51, 73
+2	2	was ,	3	A	77, 79
 2	2	would they	3	A	53, 55
-15	1	yeah	67	A	7, 9, 13, 41, 47, 49, 51, 53, 57, 59, 61, 63, 65, 67, 73
 15	1	you	81	A	5, 13, 17, 21, 31, 37, 43, 49, 53, 55, 59, 75, 79, 81, 85
-12	1	right	73	A	1, 9, 11, 25, 27, 29, 35, 43, 51, 65, 71, 73
+14	1	know	77	A	5, 13, 17, 21, 31, 37, 43, 49, 53, 55, 59, 75, 79, 81
 10	1	a	75	A	9, 17, 21, 37, 55, 59, 73, 77, 79, 83
 9	1	that's	63	A	11, 25, 27, 29, 35, 43, 51, 65, 73
 9	1	to	73	A	13, 17, 21, 31, 37, 49, 59, 79, 85
@@ -84,11 +102,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	for	33	A	53, 85
 2	1	it's	27	A	57, 83
 2	1	maybe	37	A	13, 49
-2	1	okay	3	A	85, 87
-2	1	say	23	A	59, 81
 2	1	some	43	A	13, 55
 2	1	somewhere	29	A	21, 49
-2	1	take	57	A	31, 87
 2	1	their	5	A	49, 53
 2	1	thing	3	A	77, 79
 2	1	think	23	A	37, 59

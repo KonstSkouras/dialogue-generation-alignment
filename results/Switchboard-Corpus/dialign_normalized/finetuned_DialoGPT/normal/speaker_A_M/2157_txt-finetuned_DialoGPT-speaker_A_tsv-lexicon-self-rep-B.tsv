@@ -1,53 +1,64 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, i'm not a big	15	M	50, 64
+2	5	but , uh , i	3	M	64, 66
+2	5	yeah , i , i	59	M	10, 68
+4	4	, i , i	59	M	10, 50, 58, 68
+3	4	but , uh ,	57	M	10, 64, 66
+2	4	, i like the	55	M	8, 62
+2	4	i don't know ,	19	M	58, 76
 2	4	i like the giants	59	M	8, 66
-2	4	i'm not a big	15	M	50, 64
 2	4	like the giants .	3	M	8, 10
-3	3	i like the	59	M	8, 62, 66
-2	3	but uh i	3	M	64, 66
-2	3	i don't know	19	M	58, 76
+5	3	, i ,	59	M	10, 50, 58, 64, 68
+5	3	i , i	61	M	8, 10, 50, 58, 68
+4	3	, uh ,	57	M	10, 18, 64, 66
+3	3	, i like	59	M	8, 62, 66
+3	3	, i'm not	15	M	50, 58, 64
+3	3	uh , i	21	M	46, 64, 66
+3	3	yeah , i	59	M	10, 50, 68
+2	3	, but i	9	M	66, 74
+2	3	, i don't	9	M	50, 58
+2	3	, i know	43	M	8, 50
+2	3	, uh they	7	M	26, 32
+2	3	know , i	9	M	50, 58
+2	3	oh , i	71	M	8, 78
 2	3	they had a	25	M	2, 26
-2	3	yeah i i	59	M	10, 68
+2	3	well , i	13	M	62, 74
 2	3	you know .	55	M	18, 72
+11	2	, i	71	M	8, 10, 46, 50, 58, 62, 64, 66, 68, 74, 78
+10	2	, uh	67	M	10, 18, 26, 28, 32, 64, 66, 70, 72, 76
+7	2	uh ,	65	M	2, 10, 18, 32, 46, 64, 66
 6	2	yeah .	59	M	12, 16, 36, 38, 54, 70
-5	2	i i	61	M	8, 10, 50, 58, 68
+5	2	well ,	69	M	12, 62, 70, 74, 80
+5	2	yeah ,	59	M	10, 18, 50, 56, 68
 4	2	a big	63	M	6, 50, 64, 68
 4	2	right .	55	M	6, 44, 48, 60
 4	2	uh-huh .	29	M	14, 20, 22, 42
-3	2	but uh	57	M	10, 64, 66
-3	2	i don't	27	M	50, 58, 76
 3	2	i like	59	M	8, 62, 66
-3	2	i'm not	15	M	50, 58, 64
-3	2	uh i	21	M	46, 64, 66
-3	2	yeah i	59	M	10, 50, 68
+3	2	oh ,	79	M	0, 8, 78
+2	2	, that's	63	M	18, 80
+2	2	, they	25	M	2, 26
+2	2	, yeah	3	M	10, 12
 2	2	. i	55	M	8, 62
 2	2	. that's	13	M	6, 18
 2	2	assistant coach	3	M	26, 28
-2	2	but i	9	M	66, 74
+2	2	fan ,	19	M	50, 68
 2	2	for the	3	M	26, 28
 2	2	i always	17	M	58, 74
-2	2	i know	43	M	8, 50
 2	2	i've never	45	M	30, 74
-2	2	know i	9	M	50, 58
 2	2	like to	9	M	66, 74
 2	2	no .	9	M	32, 40
 2	2	of the	29	M	18, 46
-2	2	oh i	71	M	8, 78
 2	2	real good	47	M	12, 58
 2	2	that was	21	M	6, 26
+2	2	they ,	7	M	26, 32
 2	2	they had	25	M	2, 26
 2	2	to be	65	M	4, 68
-2	2	uh they	7	M	26, 32
-2	2	uh you	55	M	18, 72
 2	2	was a	21	M	6, 26
-2	2	well i	13	M	62, 74
 2	2	year .	3	M	2, 4
-12	1	i	71	M	8, 10, 46, 50, 58, 62, 64, 66, 68, 74, 76, 78
-12	1	uh	75	M	2, 10, 18, 26, 28, 32, 46, 64, 66, 70, 72, 76
 12	1	yeah	61	M	10, 12, 16, 18, 24, 36, 38, 50, 54, 56, 68, 70
 9	1	the	67	M	8, 10, 18, 26, 28, 46, 62, 66, 74
 7	1	a	75	M	2, 6, 26, 50, 64, 68, 76
 6	1	like	69	M	8, 10, 62, 66, 74, 76
-5	1	well	69	M	12, 62, 70, 74, 80
 4	1	good	69	M	2, 12, 58, 70
 4	1	not	61	M	4, 50, 58, 64
 4	1	of	41	M	18, 30, 46, 58
@@ -58,10 +69,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	had	69	M	2, 26, 70
 3	1	i'm	15	M	50, 58, 64
 3	1	i've	45	M	30, 58, 74
-3	1	oh	79	M	0, 8, 78
 3	1	really	77	M	0, 10, 76
 3	1	that's	75	M	6, 18, 80
-3	1	they	31	M	2, 26, 32
 3	1	was	25	M	2, 6, 26
 3	1	year	17	M	2, 4, 18
 2	1	cardinals	3	M	66, 68
@@ -78,4 +87,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	think	13	M	46, 58
 2	1	time	33	M	26, 58
 2	1	who	19	M	8, 26
+2	1	you	55	M	18, 72
 

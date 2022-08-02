@@ -1,14 +1,35 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, you know ,	3	B	64, 66
+3	3	, uh ,	21	B	6, 12, 26
+3	3	, yeah ,	45	B	6, 14, 50
+2	3	, i think	9	B	10, 18
+2	3	, um ,	19	B	18, 36
+2	3	, you know	3	B	64, 66
 2	3	a lot of	27	B	40, 66
+2	3	i think ,	57	B	10, 66
+2	3	the , the	9	B	6, 14
 2	3	you know .	7	B	64, 70
+6	2	, i	65	B	6, 10, 18, 38, 40, 70
+6	2	yeah ,	65	B	4, 6, 14, 24, 50, 68
+5	2	uh ,	67	B	6, 12, 26, 58, 72
 4	2	i think	57	B	10, 18, 64, 66
+4	2	um ,	51	B	18, 26, 36, 68
+3	2	, you	55	B	12, 64, 66
 3	2	in the	17	B	30, 44, 46
+3	2	is ,	47	B	18, 22, 64
+3	2	the ,	57	B	6, 14, 62
 3	2	the same	41	B	30, 44, 70
 3	2	yeah .	47	B	8, 16, 54
-3	2	you know	7	B	64, 66, 70
+2	2	, and	67	B	6, 72
+2	2	, but	63	B	6, 68
+2	2	, i'm	33	B	0, 32
+2	2	, that	21	B	26, 46
+2	2	, they	7	B	62, 68
+2	2	, we	31	B	6, 36
 2	2	. i	23	B	44, 66
 2	2	. they	13	B	18, 30
 2	2	. uh	59	B	6, 64
+2	2	and ,	31	B	6, 36
 2	2	and i	27	B	40, 66
 2	2	at all	47	B	6, 52
 2	2	because i	19	B	26, 44
@@ -16,28 +37,30 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	for the	41	B	6, 46
 2	2	have the	33	B	30, 62
 2	2	how to	55	B	12, 66
+2	2	i ,	35	B	6, 40
 2	2	i know	23	B	44, 66
 2	2	i mean	39	B	0, 38
 2	2	if you	23	B	40, 62
 2	2	it is	37	B	22, 58
 2	2	kids .	25	B	40, 64
+2	2	of ,	13	B	6, 18
 2	2	of the	39	B	26, 64
 2	2	okay .	19	B	2, 20
 2	2	on the	15	B	12, 26
 2	2	right .	11	B	34, 44
 2	2	that .	5	B	44, 48
-2	2	the the	9	B	6, 14
 2	2	they just	33	B	30, 62
 2	2	things that	19	B	46, 64
+2	2	to ,	55	B	12, 66
 2	2	to the	5	B	68, 72
-2	2	uh and	9	B	64, 72
 2	2	uh-huh .	17	B	12, 28
+2	2	we ,	59	B	6, 64
+2	2	well ,	59	B	12, 70
 2	2	would have	33	B	40, 72
 13	1	and	67	B	6, 12, 18, 26, 32, 36, 40, 44, 64, 66, 68, 70, 72
 13	1	i	71	B	0, 6, 10, 18, 26, 32, 38, 40, 44, 46, 64, 66, 70
 13	1	the	67	B	6, 12, 14, 18, 26, 30, 44, 46, 62, 64, 68, 70, 72
 9	1	of	73	B	0, 6, 18, 26, 36, 40, 64, 66, 72
-9	1	yeah	65	B	4, 6, 8, 14, 16, 24, 50, 54, 68
 8	1	that	47	B	26, 44, 46, 48, 64, 66, 70, 72
 7	1	a	73	B	0, 10, 40, 58, 66, 70, 72
 7	1	have	43	B	30, 40, 46, 62, 64, 70, 72
@@ -47,7 +70,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	is	59	B	6, 18, 22, 46, 58, 64
 6	1	like	67	B	0, 26, 30, 36, 46, 66
 6	1	to	61	B	12, 18, 32, 66, 68, 72
-6	1	uh	67	B	6, 12, 26, 58, 64, 72
 5	1	at	65	B	6, 52, 64, 66, 70
 5	1	for	43	B	6, 32, 44, 46, 48
 5	1	it	45	B	22, 32, 44, 58, 66
@@ -83,7 +105,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	here	33	B	26, 58
 2	1	home	5	B	66, 70
 2	1	i'd	7	B	64, 70
-2	1	i'm	33	B	0, 32
 2	1	it's	5	B	18, 22
 2	1	look	19	B	46, 64
 2	1	most	21	B	6, 26

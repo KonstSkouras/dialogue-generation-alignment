@@ -1,29 +1,47 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	and , of course ,	35	A	6, 40
+2	4	, i don't know	13	A	64, 76
 2	4	i don't know .	11	A	66, 76
 2	4	yeah . yeah .	5	A	70, 74
 4	3	i don't know	13	A	64, 66, 74, 76
+3	3	, uh ,	73	A	2, 4, 74
 3	3	. huh .	27	A	40, 42, 66
+2	3	, you can	39	A	2, 40
+2	3	. and ,	37	A	4, 40
 2	3	. i think	5	A	60, 64
-2	3	and of course	35	A	6, 40
+2	3	. yeah ,	11	A	16, 26
 10	2	yeah .	79	A	2, 10, 16, 34, 42, 52, 54, 70, 74, 80
 9	2	huh .	45	A	22, 24, 28, 32, 40, 42, 56, 62, 66
 6	2	uh-huh .	35	A	14, 26, 36, 44, 46, 48
-4	2	. yeah	59	A	16, 26, 70, 74
+4	2	, i	75	A	2, 40, 64, 76
+4	2	, you	71	A	2, 16, 40, 72
+4	2	yeah ,	53	A	16, 26, 38, 68
+3	2	, uh	73	A	2, 4, 74
 3	2	. i	15	A	60, 64, 74
+3	2	and ,	37	A	4, 6, 40
 3	2	i think	15	A	60, 64, 74
 3	2	know .	11	A	66, 72, 76
 3	2	that .	41	A	20, 26, 60
-2	2	. and	37	A	4, 40
+3	2	well ,	13	A	70, 72, 82
+2	2	, it's	73	A	2, 74
+2	2	, they	59	A	6, 64
+2	2	, yeah	37	A	34, 70
 2	2	. they	13	A	60, 72
 2	2	. you	17	A	24, 40
+2	2	dallas ,	7	A	2, 8
 2	2	days it's	3	A	74, 76
 2	2	is it	17	A	2, 18
 2	2	it was	15	A	60, 74
+2	2	it's ,	73	A	2, 74
 2	2	it's just	3	A	74, 76
+2	2	just ,	73	A	2, 74
+2	2	oh ,	19	A	16, 34
+2	2	so ,	71	A	6, 76
 2	2	that is	43	A	8, 50
+2	2	they ,	5	A	60, 64
 2	2	were there	7	A	76, 82
+2	2	what ,	13	A	64, 76
 2	2	you can	39	A	2, 40
-13	1	yeah	79	A	2, 10, 16, 26, 34, 38, 42, 52, 54, 68, 70, 74, 80
 10	1	huh	45	A	22, 24, 28, 32, 40, 42, 50, 56, 62, 66
 10	1	i	77	A	2, 4, 20, 40, 60, 64, 66, 74, 76, 78
 7	1	and	75	A	2, 4, 6, 12, 40, 68, 76
@@ -45,19 +63,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	can	75	A	2, 40, 76
 3	1	here	73	A	2, 6, 74
 3	1	if	35	A	40, 72, 74
-3	1	it's	75	A	2, 74, 76
-3	1	just	75	A	2, 74, 76
 3	1	like	73	A	2, 64, 74
 3	1	of	71	A	6, 40, 76
 3	1	oh	43	A	16, 34, 58
 3	1	or	17	A	60, 74, 76
 3	1	so	73	A	4, 6, 76
-3	1	uh	73	A	2, 4, 74
 3	1	were	23	A	60, 76, 82
 3	1	what	13	A	64, 74, 76
 2	1	an	61	A	4, 64
 2	1	bad	3	A	74, 76
-2	1	dallas	7	A	2, 8
 2	1	downtown	73	A	2, 74
 2	1	have	3	A	4, 6
 2	1	many	61	A	4, 64

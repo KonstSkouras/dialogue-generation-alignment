@@ -1,11 +1,18 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	3	, uh ,	65	M	9, 31, 73
 2	3	i don't think	61	M	11, 71
 2	3	what do you	19	M	7, 25
+4	2	, uh	65	M	9, 17, 31, 73
+3	2	yeah ,	19	M	5, 17, 23
 3	2	you do	31	M	7, 27, 37
+2	2	, don't	13	M	9, 21
+2	2	, i	49	M	23, 71
+2	2	, i'm	7	M	67, 73
 2	2	a lot	7	M	51, 57
 2	2	i do	51	M	9, 59
 2	2	i eat	3	M	49, 51
 2	2	it .	9	M	15, 23
+2	2	it's ,	11	M	21, 31
 2	2	you can	9	M	3, 11
 2	2	you're so	53	M	13, 65
 13	1	i	63	M	9, 11, 15, 19, 21, 23, 41, 49, 51, 57, 59, 67, 71
@@ -18,7 +25,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	so	59	M	13, 45, 53, 65, 71
 5	1	to	41	M	15, 35, 41, 45, 55
 4	1	i'm	33	M	41, 67, 71, 73
-4	1	uh	65	M	9, 17, 31, 73
 4	1	what	33	M	7, 25, 33, 39
 3	1	and	59	M	1, 57, 59
 3	1	eat	7	M	45, 49, 51
@@ -29,7 +35,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	that's	53	M	15, 31, 67
 3	1	the	61	M	1, 59, 61
 3	1	think	61	M	11, 41, 71
-3	1	yeah	19	M	5, 17, 23
 2	1	about	61	M	1, 61
 2	1	all	3	M	59, 61
 2	1	ketchup	3	M	61, 63

@@ -1,46 +1,73 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	6	spend a lot of time uh	7	B	6, 12
-2	4	and uh you know	35	B	12, 46
+2	8	spend a lot of time , uh ,	7	B	6, 12
+3	6	, uh , you know ,	35	B	12, 14, 46
+2	6	and , and , uh ,	9	B	8, 16
+2	6	and , uh , you know	35	B	12, 46
+3	5	, and , uh ,	39	B	8, 16, 46
+3	5	, uh , uh ,	7	B	10, 12, 16
+2	5	, uh , yeah ,	5	B	8, 12
+5	4	, you know ,	41	B	12, 14, 44, 46, 52
+3	4	, uh , yeah	7	B	6, 8, 12
+2	4	, uh , i	9	B	8, 16
+2	4	, uh , we	7	B	8, 14
+2	4	but , uh ,	39	B	8, 46
+2	4	in terms of ,	9	B	44, 52
+2	4	it . but ,	25	B	22, 46
+2	4	then , uh ,	35	B	14, 48
 2	4	yeah . yeah .	13	B	52, 64
+9	3	, uh ,	49	B	6, 8, 10, 12, 14, 16, 46, 48, 54
+5	3	and , uh	39	B	8, 10, 12, 16, 46
 4	3	. yeah .	61	B	4, 32, 52, 64
-3	3	uh you know	35	B	12, 14, 46
+3	3	, i ,	39	B	8, 44, 46
+3	3	, yeah ,	5	B	8, 10, 12
+3	3	uh , we	9	B	8, 14, 16
 3	3	yeah . yeah	15	B	52, 64, 66
-2	3	and and uh	9	B	8, 16
+2	3	, well ,	39	B	6, 44
+2	3	, yeah .	19	B	6, 24
+2	3	. well ,	9	B	44, 52
+2	3	and , and	9	B	8, 16
 2	3	in terms of	9	B	44, 52
-2	3	it . but	25	B	22, 46
 2	3	not at all	39	B	8, 46
+2	3	the , the	39	B	8, 46
+2	3	uh , but	9	B	8, 16
+2	3	yeah , i've	35	B	20, 54
+2	3	yeah , we	5	B	8, 12
 16	2	yeah .	63	B	4, 6, 12, 24, 26, 28, 32, 34, 38, 40, 50, 52, 58, 62, 64, 66
-5	2	and uh	39	B	8, 10, 12, 16, 46
-5	2	you know	41	B	12, 14, 44, 46, 52
-3	2	uh uh	7	B	10, 12, 16
-3	2	uh we	9	B	8, 14, 16
-3	2	uh yeah	7	B	6, 8, 12
+9	2	, uh	49	B	6, 8, 10, 12, 14, 16, 46, 48, 54
+9	2	uh ,	49	B	6, 8, 10, 12, 14, 16, 46, 48, 54
+8	2	yeah ,	59	B	8, 10, 12, 20, 24, 30, 54, 66
+5	2	, and	39	B	8, 12, 16, 44, 46
+4	2	, i	39	B	8, 16, 44, 46
+4	2	the ,	41	B	6, 8, 10, 46
+3	2	, the	39	B	8, 10, 46
+3	2	i ,	39	B	8, 44, 46
+3	2	of ,	45	B	8, 44, 52
+3	2	they ,	37	B	12, 46, 48
+2	2	, although	37	B	10, 46
+2	2	, but	9	B	8, 16
+2	2	, for	37	B	8, 44
+2	2	, i've	35	B	20, 54
+2	2	, in	3	B	44, 46
+2	2	, it's	3	B	46, 48
+2	2	, that	41	B	12, 52
+2	2	, was	39	B	8, 46
 2	2	. and	31	B	16, 46
-2	2	. well	9	B	44, 52
+2	2	a ,	33	B	16, 48
 2	2	a whole	43	B	6, 48
-2	2	and and	9	B	8, 16
 2	2	and then	35	B	12, 46
 2	2	as much	5	B	12, 16
-2	2	but uh	39	B	8, 46
 2	2	family time	39	B	14, 52
+2	2	oh ,	9	B	36, 44
 2	2	okay .	33	B	0, 32
 2	2	older one	3	B	6, 8
 2	2	one is	3	B	8, 10
 2	2	spend a	7	B	6, 12
 2	2	that .	19	B	20, 38
-2	2	the the	39	B	8, 46
-2	2	then uh	35	B	14, 48
 2	2	time .	33	B	14, 46
 2	2	time with	39	B	14, 52
 2	2	trying to	3	B	12, 14
-2	2	uh but	9	B	8, 16
-2	2	uh i	9	B	8, 16
 2	2	uh-huh .	3	B	42, 44
-2	2	yeah i've	35	B	20, 54
-2	2	yeah we	5	B	8, 12
 2	2	yes .	57	B	4, 60
-21	1	yeah	63	B	4, 6, 8, 10, 12, 20, 24, 26, 28, 30, 32, 34, 38, 40, 50, 52, 54, 58, 62, 64, 66
-9	1	uh	49	B	6, 8, 10, 12, 14, 16, 46, 48, 54
 8	1	that	49	B	6, 12, 16, 20, 38, 46, 52, 54
 7	1	and	41	B	6, 8, 10, 12, 16, 44, 46
 7	1	of	47	B	6, 8, 12, 20, 44, 48, 52
@@ -73,7 +100,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	spend	9	B	6, 12, 14
 3	1	they	37	B	12, 46, 48
 3	1	up	35	B	12, 44, 46
-3	1	well	47	B	6, 44, 52
 3	1	whole	43	B	6, 46, 48
 2	1	anything	27	B	12, 38
 2	1	around	41	B	6, 46

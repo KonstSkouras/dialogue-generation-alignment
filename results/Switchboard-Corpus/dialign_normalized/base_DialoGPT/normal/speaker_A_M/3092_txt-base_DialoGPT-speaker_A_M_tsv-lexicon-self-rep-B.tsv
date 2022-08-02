@@ -1,20 +1,30 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	4	be in the hospital	9	M	36, 44
+2	3	, but i	15	M	52, 66
+2	3	, uh ,	51	M	30, 80
 2	3	a job .	19	M	16, 34
 2	3	don't have any	11	M	4, 14
 2	3	not sure if	21	M	66, 86
 2	3	the hospital ?	3	M	44, 46
 2	3	think it's a	47	M	16, 62
+2	3	well , that's	15	M	24, 38
 2	3	you don't have	13	M	4, 16
+2	3	you know ,	23	M	80, 102
+3	2	, and	31	M	20, 22, 50
+3	2	, that's	57	M	24, 38, 80
 3	2	have a	27	M	16, 20, 42
 3	2	it is	91	M	0, 38, 90
 3	2	it's a	85	M	16, 62, 100
+3	2	well ,	29	M	24, 38, 52
 3	2	you have	107	M	0, 2, 106
+2	2	, i	11	M	52, 62
+2	2	, she	9	M	70, 78
+2	2	, uh	51	M	30, 80
+2	2	, you	49	M	2, 50
 2	2	a doctor	59	M	20, 78
 2	2	a good	71	M	16, 86
 2	2	a job	19	M	16, 34
 2	2	are they	3	M	72, 74
-2	2	but i	15	M	52, 66
 2	2	care .	3	M	58, 60
 2	2	do you	17	M	90, 106
 2	2	had a	13	M	34, 46
@@ -30,9 +40,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	they are	57	M	18, 74
 2	2	to know	43	M	16, 58
 2	2	want to	11	M	48, 58
-2	2	well that's	15	M	24, 38
 2	2	what is	21	M	68, 88
-2	2	you know	23	M	80, 102
 2	2	you mean	55	M	42, 96
 2	2	you think	75	M	16, 90
 18	1	a	113	M	0, 16, 20, 22, 34, 40, 42, 46, 50, 62, 66, 78, 82, 86, 96, 100, 102, 112
@@ -66,7 +74,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	mean	55	M	42, 48, 96
 3	1	of	99	M	14, 42, 112
 3	1	sure	21	M	66, 70, 86
-3	1	well	29	M	24, 38, 52
 3	1	what	37	M	68, 88, 104
 2	1	can	41	M	52, 92
 2	1	company	7	M	50, 56
@@ -85,6 +92,5 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	so	3	M	108, 110
 2	1	teeth	9	M	98, 106
 2	1	this	33	M	22, 54
-2	1	uh	51	M	30, 80
 2	1	you're	61	M	50, 110
 

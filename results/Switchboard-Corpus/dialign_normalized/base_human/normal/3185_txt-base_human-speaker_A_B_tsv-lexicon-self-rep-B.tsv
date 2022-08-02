@@ -1,35 +1,52 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	i don't like the rain	15	B	25, 39
-3	4	i don't like the	15	B	25, 33, 39
+2	6	, i don't like the rain	15	B	25, 39
+3	5	, i don't like the	15	B	25, 33, 39
+5	4	, i don't like	33	B	25, 33, 39, 51, 57
+3	4	yeah , yeah .	27	B	45, 61, 71
 2	4	uh-huh . yeah .	13	B	31, 43
 2	4	you can give me	3	B	53, 55
-5	3	i don't like	33	B	25, 33, 39, 51, 57
+6	3	, i don't	33	B	25, 33, 39, 41, 51, 57
 4	3	don't like the	21	B	19, 25, 33, 39
 3	3	like the rain	35	B	5, 25, 39
 3	3	when it gets	33	B	33, 57, 65
-3	3	yeah yeah .	27	B	45, 61, 71
+2	3	, i guess	37	B	39, 75
+2	3	, um ,	13	B	63, 75
 2	3	and so it	13	B	27, 39
 2	3	i don't care	25	B	9, 33
-2	3	i like the	3	B	15, 17
 2	3	you too .	3	B	83, 85
-7	2	i don't	49	B	9, 25, 33, 39, 41, 51, 57
+10	2	, i	59	B	17, 25, 29, 33, 39, 41, 51, 57, 71, 75
 7	2	yeah .	53	B	23, 31, 43, 45, 61, 71, 75
+6	2	like the	35	B	5, 15, 19, 25, 33, 39
 6	2	uh-huh .	67	B	3, 7, 21, 31, 43, 69
+5	2	oh ,	47	B	5, 9, 35, 37, 51
+4	2	, and	51	B	17, 27, 63, 67
 4	2	i like	35	B	15, 17, 29, 49
 4	2	when it	33	B	33, 41, 57, 65
+4	2	yeah ,	55	B	17, 45, 61, 71
 3	2	a good	11	B	71, 73, 81
+3	2	and ,	27	B	41, 63, 67
 3	2	too hot	9	B	57, 59, 65
+3	2	well ,	21	B	27, 39, 47
+2	2	, really	7	B	35, 41
+2	2	, that	25	B	33, 57
+2	2	, the	9	B	17, 25
+2	2	, they	37	B	41, 77
+2	2	, we	37	B	27, 63
+2	2	, when	3	B	63, 65
+2	2	, you	37	B	5, 41
 2	2	and i'm	41	B	17, 57
-2	2	and you	15	B	41, 55
 2	2	have a	43	B	39, 81
-2	2	i guess	37	B	39, 75
-2	2	just really	25	B	41, 65
+2	2	it's ,	19	B	57, 75
+2	2	just ,	19	B	41, 59
 2	2	okay .	9	B	49, 57
+2	2	rain ,	37	B	5, 41
+2	2	that ,	7	B	57, 63
 2	2	that we	25	B	39, 63
 2	2	that's okay	15	B	63, 77
 2	2	the thing	9	B	25, 33
+2	2	um ,	13	B	63, 75
 2	2	we have	13	B	27, 39
-2	2	well i	11	B	39, 49
+2	2	years ,	3	B	67, 69
 2	2	you ?	5	B	5, 9
 15	1	i	67	B	9, 15, 17, 19, 25, 29, 33, 39, 41, 49, 51, 57, 59, 71, 75
 12	1	like	53	B	5, 15, 17, 19, 25, 29, 33, 39, 41, 49, 51, 57
@@ -38,17 +55,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	you	81	B	5, 9, 41, 53, 55, 79, 81, 83, 85
 8	1	and	51	B	17, 27, 39, 41, 55, 57, 63, 67
 8	1	that	55	B	9, 27, 33, 37, 39, 41, 57, 63
-8	1	yeah	59	B	17, 23, 31, 43, 45, 61, 71, 75
 7	1	it	39	B	27, 29, 33, 39, 41, 57, 65
 7	1	when	45	B	33, 41, 57, 63, 65, 67, 77
 6	1	too	29	B	57, 59, 63, 65, 83, 85
 5	1	a	69	B	13, 39, 71, 73, 81
 5	1	just	63	B	19, 41, 59, 65, 81
-5	1	oh	47	B	5, 9, 35, 37, 51
 4	1	have	55	B	27, 39, 79, 81
 4	1	hot	33	B	33, 57, 59, 65
 4	1	it's	19	B	57, 59, 67, 75
-4	1	rain	37	B	5, 25, 39, 41
 4	1	really	31	B	35, 39, 41, 65
 4	1	say	43	B	39, 77, 79, 81
 4	1	so	47	B	17, 27, 39, 63
@@ -78,7 +92,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	they	37	B	41, 77
 2	1	thing	9	B	25, 33
 2	1	thought	9	B	63, 71
-2	1	um	13	B	63, 75
 2	1	way	25	B	41, 65
 2	1	years	3	B	67, 69
 

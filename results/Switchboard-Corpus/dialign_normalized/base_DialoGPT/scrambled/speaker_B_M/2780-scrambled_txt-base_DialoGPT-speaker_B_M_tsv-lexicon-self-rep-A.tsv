@@ -1,25 +1,33 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, you know ,	49	B	40, 88
+2	4	, you know .	55	B	18, 72
 2	4	and i think that	73	B	16, 88
 2	4	i've never heard of	21	B	32, 52
+4	3	, uh ,	43	B	2, 26, 42, 44
 3	3	a lot of	87	B	0, 26, 86
 2	3	a little bit	27	B	16, 42
-2	3	you know .	55	B	18, 72
+5	2	, you	71	B	18, 40, 72, 74, 88
 5	2	i think	73	B	16, 30, 44, 76, 88
 5	2	yeah .	67	B	4, 20, 24, 46, 70
-4	2	you know	71	B	18, 40, 72, 88
+4	2	, i	71	B	6, 44, 50, 76
+4	2	, that	79	B	8, 40, 58, 86
+3	2	and ,	47	B	42, 72, 88
 3	2	right .	69	B	12, 62, 80
+3	2	that ,	69	B	18, 76, 86
 3	2	uh-huh .	21	B	34, 36, 54
+2	2	, and	25	B	48, 72
+2	2	, not	11	B	72, 82
+2	2	, with	35	B	48, 82
 2	2	and that	49	B	16, 64
-2	2	and you	41	B	48, 88
 2	2	every year	35	B	40, 74
 2	2	going to	33	B	16, 48
 2	2	huh .	9	B	28, 36
 2	2	it .	71	B	18, 88
-2	2	know that	25	B	16, 40
+2	2	now ,	51	B	26, 76
 2	2	oh .	53	B	8, 60
-2	2	that you	19	B	0, 18
 2	2	to be	43	B	44, 86
 2	2	um .	57	B	22, 78
+2	2	what ,	73	B	2, 74
 2	2	would be	19	B	8, 26
 14	1	a	91	B	0, 6, 14, 16, 26, 36, 42, 44, 48, 64, 74, 86, 88, 90
 14	1	and	75	B	16, 18, 26, 30, 40, 42, 48, 64, 72, 74, 84, 86, 88, 90
@@ -71,7 +79,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	if	23	B	18, 40
 2	1	interesting	47	B	6, 52
 2	1	it's	3	B	42, 44
-2	1	now	51	B	26, 76
 2	1	one	55	B	30, 84
 2	1	onion	49	B	18, 66
 2	1	or	23	B	18, 40

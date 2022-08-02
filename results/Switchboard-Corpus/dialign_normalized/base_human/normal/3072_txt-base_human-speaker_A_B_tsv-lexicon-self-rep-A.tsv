@@ -1,12 +1,25 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	6	ooh that would be nice .	5	A	11, 15
-3	5	that would be nice .	61	A	11, 15, 71
-2	4	i'd love to go	25	A	73, 97
+2	7	ooh , that would be nice .	5	A	11, 15
+3	6	, that would be nice .	61	A	11, 15, 71
+2	5	, i'd love to go	25	A	73, 97
+4	4	, that would be	61	A	11, 15, 17, 71
+3	4	, you know ,	21	A	35, 45, 55
+2	4	, and that was	15	A	75, 89
+2	4	, yeah , that's	59	A	17, 75
 2	4	it was kind of	61	A	21, 81
+2	4	we , um ,	19	A	27, 45
 4	3	a lot of	41	A	21, 23, 51, 61
-4	3	that would be	61	A	11, 15, 17, 71
+4	3	you know ,	25	A	31, 35, 45, 55
+3	3	, it was	45	A	51, 81, 95
+3	3	, uh ,	57	A	19, 31, 75
+3	3	, um ,	23	A	27, 45, 49
 3	3	and that was	39	A	51, 75, 89
+3	3	it was ,	39	A	57, 85, 95
 3	3	it was really	13	A	51, 55, 63
+2	3	, and then	15	A	83, 97
+2	3	, and we	53	A	31, 83
+2	3	, but it	23	A	35, 57
+2	3	, it's really	5	A	53, 57
 2	3	a great time	13	A	51, 63
 2	3	been on vacation	19	A	1, 19
 2	3	fun . i	31	A	21, 51
@@ -14,51 +27,73 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	i haven't been	49	A	19, 67
 2	3	i was a	19	A	31, 49
 2	3	in the mountains	5	A	19, 23
+2	3	it's really ,	27	A	31, 57
 2	3	nice . i	19	A	53, 71
+2	3	there , and	61	A	23, 83
 2	3	to go somewhere	51	A	23, 73
-2	3	up in the	9	A	23, 31
 11	2	it was	85	A	21, 37, 51, 55, 57, 63, 79, 81, 85, 95, 105
+8	2	, and	75	A	23, 31, 51, 75, 79, 83, 89, 97
+6	2	, i	57	A	31, 51, 53, 65, 67, 87
+6	2	, that	61	A	11, 15, 17, 19, 31, 71
+6	2	, we	59	A	19, 27, 31, 45, 75, 77
 6	2	. i	51	A	21, 31, 51, 53, 67, 71
 6	2	kind of	65	A	19, 21, 57, 59, 81, 83
 6	2	nice .	65	A	11, 15, 27, 53, 71, 75
+5	2	, but	43	A	31, 35, 51, 57, 73
+5	2	, that's	59	A	17, 33, 45, 51, 75
 5	2	a lot	41	A	21, 23, 51, 55, 61
+5	2	know ,	35	A	31, 35, 45, 55, 65
+5	2	yeah ,	61	A	17, 65, 71, 75, 77
+4	2	and ,	75	A	19, 33, 75, 93
 4	2	and then	63	A	35, 47, 83, 97
 4	2	that .	29	A	45, 51, 63, 73
 4	2	that was	39	A	51, 75, 87, 89
+4	2	there ,	65	A	19, 23, 81, 83
 4	2	to go	75	A	23, 33, 73, 97
+4	2	um ,	31	A	19, 27, 45, 49
+4	2	was ,	39	A	57, 85, 89, 95
 4	2	was a	65	A	31, 49, 51, 95
 4	2	was really	29	A	35, 51, 55, 63
-4	2	you know	25	A	31, 35, 45, 55
+3	2	, because	31	A	51, 55, 81
+3	2	, the	45	A	31, 45, 75
 3	2	. we	57	A	27, 77, 83
 3	2	a little	33	A	19, 31, 51
-3	2	and that's	27	A	29, 33, 55
 3	2	and we	53	A	31, 33, 83
 3	2	but it	51	A	35, 57, 85
 3	2	had a	41	A	31, 63, 71
 3	2	have to	51	A	23, 33, 73
 3	2	i had	25	A	63, 71, 87
-3	2	it's really	27	A	31, 53, 57
 3	2	nice because	41	A	35, 57, 75
 3	2	right .	91	A	9, 41, 99
-3	2	there and	61	A	23, 49, 83
+3	2	so ,	45	A	51, 75, 95
 3	2	to have	61	A	31, 73, 91
+3	2	uh ,	57	A	19, 31, 75
 3	2	up in	9	A	23, 27, 31
 3	2	we were	61	A	31, 83, 91
+2	2	, a	33	A	17, 49
+2	2	, it's	5	A	53, 57
+2	2	, really	25	A	31, 55
+2	2	, so	71	A	21, 91
+2	2	, there	31	A	51, 81
+2	2	, we'd	13	A	33, 45
 2	2	. right	25	A	17, 41
 2	2	. so	15	A	9, 23
+2	2	a ,	33	A	49, 81
 2	2	a big	47	A	9, 55
 2	2	a good	75	A	33, 107
 2	2	a language	31	A	51, 81
 2	2	a nice	13	A	5, 17
 2	2	a vacation	3	A	21, 23
 2	2	a while	73	A	19, 91
-2	2	and they	63	A	31, 93
+2	2	and that's	27	A	29, 55
 2	2	and you	23	A	57, 79
 2	2	at the	65	A	27, 91
 2	2	back there	47	A	51, 97
 2	2	either .	17	A	19, 35
 2	2	for a	41	A	51, 91
+2	2	go ,	15	A	19, 33
 2	2	have a	35	A	73, 107
+2	2	i ,	23	A	51, 73
 2	2	i haven't	49	A	19, 67
 2	2	i keep	37	A	67, 103
 2	2	i would	5	A	53, 57
@@ -68,32 +103,34 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	knew english	3	A	81, 83
 2	2	like a	59	A	21, 79
 2	2	no one	27	A	57, 83
+2	2	oh ,	71	A	17, 87
 2	2	oh .	45	A	25, 69
 2	2	okay .	103	A	7, 109
 2	2	on the	19	A	61, 79
 2	2	really nice	19	A	35, 53
+2	2	right ,	11	A	7, 17
 2	2	so i	3	A	21, 23
-2	2	so that's	29	A	23, 51
 2	2	so we	9	A	83, 91
 2	2	so you	43	A	9, 51
 2	2	spend a	35	A	23, 57
 2	2	spot ?	5	A	5, 9
 2	2	that he'd	3	A	31, 33
-2	2	that's a	17	A	17, 33
+2	2	the ,	55	A	21, 75
 2	2	the river	5	A	31, 35
 2	2	then i	27	A	47, 73
 2	2	there .	27	A	71, 97
 2	2	there wasn't	7	A	75, 81
 2	2	there's not	47	A	51, 97
 2	2	things .	53	A	31, 83
+2	2	time ,	3	A	51, 53
+2	2	to ,	35	A	33, 67
 2	2	to get	23	A	67, 89
 2	2	up there	3	A	19, 21
 2	2	up to	23	A	45, 67
 2	2	was nice	31	A	75, 105
+2	2	wasn't ,	41	A	35, 75
 2	2	wasn't a	51	A	31, 81
-2	2	we um	19	A	27, 45
 2	2	went to	29	A	47, 75
-2	2	yeah that's	59	A	17, 75
 25	1	and	89	A	19, 23, 29, 31, 33, 35, 45, 47, 49, 51, 55, 57, 59, 61, 63, 73, 75, 79, 81, 83, 89, 93, 97, 101, 107
 23	1	a	103	A	5, 9, 17, 19, 21, 23, 31, 33, 47, 49, 51, 55, 57, 61, 63, 71, 73, 75, 79, 81, 91, 95, 107
 19	1	that	97	A	5, 9, 11, 15, 17, 19, 29, 31, 33, 45, 51, 63, 71, 73, 75, 87, 89, 91, 101
@@ -114,7 +151,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	but	55	A	31, 35, 51, 57, 73, 81, 85
 7	1	just	47	A	51, 57, 59, 61, 79, 83, 97
 7	1	really	33	A	31, 35, 51, 53, 55, 57, 63
-6	1	because	47	A	35, 51, 55, 57, 75, 81
 6	1	go	79	A	19, 23, 33, 45, 73, 97
 6	1	know	35	A	31, 35, 45, 51, 55, 65
 6	1	on	79	A	1, 19, 23, 45, 61, 79
@@ -125,15 +161,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	had	57	A	31, 63, 71, 83, 87
 5	1	it's	37	A	21, 31, 51, 53, 57
 5	1	place	29	A	23, 29, 33, 45, 51
-5	1	right	93	A	7, 9, 17, 41, 99
 5	1	vacation	23	A	1, 5, 19, 21, 23
 4	1	english	41	A	51, 81, 83, 91
 4	1	for	53	A	51, 75, 91, 103
 4	1	get	71	A	19, 55, 67, 89
 4	1	like	59	A	21, 37, 45, 79
 4	1	little	39	A	19, 31, 51, 57
-4	1	oh	71	A	17, 25, 69, 87
-4	1	um	31	A	19, 27, 45, 49
 4	1	wasn't	51	A	31, 35, 75, 81
 4	1	were	63	A	31, 83, 91, 93
 3	1	all	73	A	1, 53, 73
@@ -151,7 +184,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	spend	35	A	23, 53, 57
 3	1	they	63	A	31, 51, 93
 3	1	things	53	A	31, 45, 83
-3	1	uh	57	A	19, 31, 75
 3	1	we'd	47	A	33, 45, 79
 3	1	where	79	A	1, 57, 79
 3	1	who	61	A	31, 57, 91

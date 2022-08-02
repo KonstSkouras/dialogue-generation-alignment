@@ -1,52 +1,64 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	. i think it was	7	A	86, 92
 2	4	uh-huh . yeah .	23	A	66, 88
+3	3	, yeah .	25	A	40, 54, 64
 3	3	. uh-huh .	75	A	32, 88, 106
 3	3	uh-huh . yeah	23	A	66, 74, 88
+3	3	yeah , that's	17	A	32, 36, 48
+2	3	, you can	11	A	74, 84
 2	3	an hour .	3	A	92, 94
 2	3	and then you	3	A	54, 56
 2	3	and you can	5	A	56, 60
 2	3	it in the	33	A	60, 92
 19	2	yeah .	105	A	2, 4, 10, 18, 34, 38, 40, 46, 54, 64, 66, 70, 72, 78, 80, 88, 94, 98, 106
 15	2	uh-huh .	101	A	8, 20, 28, 30, 32, 40, 42, 44, 66, 74, 88, 90, 104, 106, 108
+9	2	yeah ,	79	A	24, 28, 32, 36, 48, 58, 74, 88, 102
+5	2	, and	73	A	24, 56, 60, 62, 96
+5	2	, you	43	A	54, 74, 76, 84, 96
+4	2	, i	103	A	0, 48, 94, 102
+4	2	, yeah	37	A	28, 40, 54, 64
 4	2	. uh-huh	75	A	32, 40, 88, 106
-4	2	you can	29	A	56, 60, 74, 84
+4	2	um ,	15	A	86, 92, 96, 100
 3	2	. i	39	A	54, 86, 92
 3	2	and then	33	A	24, 54, 56
 3	2	hour .	5	A	92, 94, 96
 3	2	i think	9	A	86, 92, 94
 3	2	in the	39	A	54, 60, 92
-3	2	yeah that's	17	A	32, 36, 48
+3	2	or ,	81	A	2, 76, 82
+3	2	uh-huh ,	51	A	14, 40, 64
 3	2	you just	43	A	54, 56, 96
 3	2	you put	27	A	54, 56, 80
+2	2	, broth	31	A	56, 86
+2	2	, um	7	A	80, 86
 2	2	. you	17	A	80, 96
-2	2	and and	41	A	56, 96
 2	2	and you	5	A	56, 60
 2	2	broth over	3	A	54, 56
 2	2	chicken and	7	A	48, 54
+2	2	dinner ,	75	A	0, 74
 2	2	do it	47	A	14, 60
 2	2	don't like	51	A	2, 52
 2	2	i don't	47	A	2, 48
 2	2	i have	55	A	0, 54
 2	2	i like	23	A	0, 22
 2	2	if i	49	A	0, 48
+2	2	in ,	25	A	56, 80
 2	2	it .	71	A	14, 84
 2	2	it's really	31	A	62, 92
 2	2	just .	5	A	56, 60
 2	2	let's see	11	A	82, 92
 2	2	like it	53	A	0, 52
+2	2	oh ,	27	A	28, 54
 2	2	put the	31	A	56, 86
 2	2	really easy	39	A	54, 92
 2	2	the chicken	3	A	54, 56
 2	2	three quarters	5	A	82, 86
 2	2	to be	3	A	0, 2
+2	2	well ,	21	A	48, 68
 2	2	you know	21	A	76, 96
-27	1	yeah	105	A	2, 4, 10, 18, 24, 28, 32, 34, 36, 38, 40, 46, 48, 54, 58, 64, 66, 70, 72, 74, 78, 80, 88, 94, 98, 102, 106
 18	1	uh-huh	101	A	8, 12, 14, 20, 28, 30, 32, 40, 42, 44, 64, 66, 74, 88, 90, 104, 106, 108
 13	1	it	101	A	0, 14, 52, 54, 60, 62, 74, 82, 84, 86, 92, 96, 100
 10	1	you	45	A	52, 54, 56, 60, 74, 76, 80, 84, 86, 96
 9	1	and	97	A	0, 2, 24, 48, 54, 56, 60, 62, 96
-9	1	i	103	A	0, 2, 22, 48, 54, 86, 92, 94, 102
 8	1	the	77	A	24, 54, 56, 60, 86, 92, 96, 100
 7	1	in	39	A	54, 56, 60, 68, 80, 86, 92
 7	1	just	87	A	14, 48, 54, 56, 60, 96, 100
@@ -65,7 +77,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	so	99	A	2, 26, 92, 100
 4	1	that	79	A	22, 54, 68, 100
 3	1	be	27	A	0, 2, 26
-3	1	broth	33	A	54, 56, 86
 3	1	chicken	9	A	48, 54, 56
 3	1	dinner	75	A	0, 24, 74
 3	1	do	47	A	14, 54, 60
@@ -84,7 +95,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	microwave	33	A	60, 92
 2	1	nice	75	A	0, 74
 2	1	night	3	A	24, 26
-2	1	oh	27	A	28, 54
 2	1	one	21	A	48, 68
 2	1	pour	3	A	54, 56
 2	1	semi	3	A	74, 76

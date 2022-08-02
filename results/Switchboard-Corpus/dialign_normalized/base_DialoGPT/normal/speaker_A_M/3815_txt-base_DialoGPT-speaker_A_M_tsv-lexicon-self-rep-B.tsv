@@ -1,10 +1,16 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	what kind of car ?	3	M	0, 2
-2	3	i don't know	5	M	54, 58
+2	4	i don't know ,	5	M	54, 58
+3	3	, uh ,	23	M	4, 18, 26
+2	3	, i'm not	55	M	4, 58
 2	3	i'm not sure	19	M	4, 22
 2	3	stick shift car	7	M	44, 50
+4	2	, i	41	M	14, 22, 26, 54
 4	2	stick shift	11	M	42, 44, 50, 52
-3	2	i'm not	55	M	4, 22, 58
+3	2	, uh	23	M	4, 18, 26
+3	2	know ,	33	M	26, 54, 58
+3	2	uh ,	23	M	4, 18, 26
+2	2	, but	9	M	50, 58
 2	2	a manual	7	M	38, 44
 2	2	do you	15	M	28, 42
 2	2	i don't	5	M	54, 58
@@ -13,6 +19,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	like the	17	M	42, 58
 2	2	manual .	13	M	38, 50
 2	2	shift .	19	M	34, 52
+2	2	yeah ,	27	M	34, 60
 10	1	i	45	M	14, 22, 26, 44, 46, 48, 50, 52, 54, 58
 8	1	a	53	M	6, 34, 36, 38, 44, 50, 56, 58
 6	1	it	41	M	18, 28, 36, 38, 50, 58
@@ -31,7 +38,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	sure	21	M	4, 22, 24
 3	1	that's	33	M	14, 18, 46
 3	1	the	17	M	42, 50, 58
-2	1	but	9	M	50, 58
 2	1	do	15	M	28, 42
 2	1	have	3	M	20, 22
 2	1	it's	47	M	10, 56

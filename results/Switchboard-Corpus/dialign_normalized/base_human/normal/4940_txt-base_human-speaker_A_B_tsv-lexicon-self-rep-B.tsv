@@ -1,44 +1,59 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, they're looking at ,	19	B	25, 43
+5	4	, you know ,	55	B	25, 37, 39, 69, 79
+3	4	, they're looking at	21	B	25, 43, 45
 2	4	in the world is	23	B	17, 39
+2	4	the , uh ,	31	B	7, 37
+8	3	, uh ,	61	B	7, 17, 25, 37, 39, 43, 45, 67
 3	3	in the world	23	B	17, 23, 39
-3	3	they're looking at	21	B	25, 43, 45
+2	3	, it's pretty	21	B	15, 35
+2	3	, one of	13	B	27, 39
 2	3	. yeah .	43	B	25, 67
 2	3	city in the	7	B	17, 23
 2	3	mexico city .	5	B	17, 21
 2	3	so i know	7	B	9, 15
+2	3	uh , the	11	B	7, 17
+10	2	uh ,	61	B	7, 17, 25, 27, 35, 37, 39, 43, 45, 67
 8	2	yeah .	57	B	13, 25, 31, 33, 41, 61, 67, 69
+6	2	know ,	71	B	9, 25, 37, 39, 69, 79
+5	2	, you	55	B	25, 37, 39, 69, 79
 5	2	you know	55	B	25, 37, 39, 69, 79
+4	2	, they're	43	B	25, 43, 45, 67
 4	2	. yeah	49	B	25, 65, 67, 73
 4	2	in the	29	B	17, 23, 39, 45
+4	2	the ,	31	B	7, 17, 33, 37
+3	2	, i	69	B	9, 49, 77
 3	2	. i	45	B	9, 25, 53
 3	2	i know	17	B	9, 15, 25
+2	2	, but	7	B	39, 45
+2	2	, there's	19	B	43, 61
+2	2	, yeah	61	B	9, 69
 2	2	. but	3	B	67, 69
 2	2	. so	73	B	1, 73
 2	2	. uh	39	B	39, 77
+2	2	a ,	31	B	15, 45
+2	2	actually ,	5	B	13, 17
 2	2	and all	21	B	43, 63
 2	2	but it	23	B	45, 67
 2	2	don't have	51	B	7, 57
 2	2	have to	21	B	37, 57
 2	2	i mean	5	B	49, 53
 2	2	interesting .	17	B	43, 59
-2	2	it's pretty	21	B	15, 35
 2	2	of the	7	B	33, 39
 2	2	off .	7	B	47, 53
-2	2	one of	13	B	27, 39
+2	2	oh ,	67	B	11, 77
 2	2	powered cars	13	B	49, 61
 2	2	right .	57	B	9, 65
 2	2	that .	7	B	37, 43
 2	2	the most	17	B	23, 39
-2	2	the uh	31	B	7, 37
 2	2	the worst	5	B	17, 21
 2	2	they do	9	B	27, 35
-2	2	uh the	11	B	7, 17
+2	2	they're ,	25	B	43, 67
+2	2	to ,	31	B	37, 67
 2	2	uh-huh .	71	B	3, 73
 2	2	you have	9	B	37, 45
 11	1	a	65	B	9, 13, 15, 33, 45, 49, 51, 53, 57, 61, 73
 11	1	the	73	B	7, 17, 21, 23, 33, 37, 39, 45, 47, 69, 79
-11	1	uh	71	B	7, 17, 25, 27, 35, 37, 39, 43, 45, 67, 77
-11	1	yeah	65	B	9, 13, 25, 31, 33, 41, 61, 65, 67, 69, 73
 10	1	you	75	B	7, 25, 29, 37, 39, 45, 57, 69, 79, 81
 8	1	in	53	B	9, 15, 17, 23, 27, 39, 45, 61
 8	1	that	57	B	25, 29, 35, 37, 43, 45, 67, 81
@@ -53,7 +68,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	it	31	B	37, 39, 45, 47, 67
 5	1	they	61	B	7, 27, 33, 35, 67
 5	1	they're	43	B	25, 27, 43, 45, 67
-4	1	but	31	B	39, 45, 67, 69
 4	1	cars	19	B	43, 49, 57, 61
 4	1	corn	13	B	27, 33, 37, 39
 4	1	interesting	29	B	43, 49, 59, 71
@@ -82,7 +96,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	going	13	B	67, 79
 2	1	grow	5	B	33, 37
 2	1	like	37	B	37, 73
-2	1	oh	67	B	11, 77
 2	1	power	23	B	47, 69
 2	1	running	27	B	25, 51
 2	1	see	11	B	71, 81

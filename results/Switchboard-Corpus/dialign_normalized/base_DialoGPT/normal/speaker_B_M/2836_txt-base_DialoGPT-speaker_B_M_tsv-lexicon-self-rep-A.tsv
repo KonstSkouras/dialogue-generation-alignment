@@ -1,50 +1,63 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	9	did you sue him under the civil system ?	3	B	72, 74
 3	4	uh-huh . uh-huh .	69	B	20, 44, 88
-2	4	. i mean i	129	B	2, 130
+2	4	, i , i	41	B	90, 130
+2	4	, i think that's	47	B	90, 136
+2	4	, right , and	37	B	76, 112
+2	4	, you know ,	133	B	2, 134
 2	4	uh-huh . right .	27	B	44, 70
 4	3	. uh-huh .	111	B	20, 44, 88, 130
+3	3	, uh ,	53	B	80, 130, 132
 3	3	and i think	135	B	2, 132, 136
+3	3	you know ,	133	B	2, 132, 134
+2	3	, too .	65	B	48, 112
+2	3	. i mean	129	B	2, 130
+2	3	. uh ,	129	B	2, 130
 2	3	a lot of	133	B	2, 134
-2	3	i think that's	47	B	90, 136
+2	3	i mean ,	85	B	46, 130
+2	3	i think ,	7	B	130, 136
+2	3	oh , my	35	B	66, 100
 2	3	that sort of	5	B	42, 46
 2	3	to worry about	133	B	2, 134
+2	3	well , what	13	B	42, 54
 26	2	uh-huh .	131	B	0, 8, 14, 16, 20, 24, 28, 30, 36, 38, 44, 52, 60, 62, 68, 70, 86, 88, 98, 106, 110, 116, 118, 124, 126, 130
 8	2	right .	65	B	44, 48, 56, 64, 70, 102, 104, 108
 6	2	yeah .	127	B	4, 80, 90, 96, 128, 130
-5	2	i think	135	B	2, 90, 130, 132, 136
+5	2	, and	61	B	76, 112, 114, 130, 136
+4	2	, i	91	B	46, 90, 130, 136
+4	2	know ,	135	B	2, 132, 134, 136
+4	2	uh ,	131	B	2, 80, 130, 132
 4	2	um .	31	B	10, 12, 34, 40
+3	2	, that's	67	B	46, 84, 112
+3	2	, what	89	B	42, 54, 130
+3	2	, you	133	B	2, 76, 134
 3	2	i mean	129	B	2, 46, 130
 3	2	in the	45	B	2, 4, 46
 3	2	sort of	39	B	42, 46, 80
 3	2	sue him	5	B	72, 74, 76
+3	2	well ,	35	B	42, 54, 76
 3	2	worry about	133	B	2, 130, 134
 3	2	wow .	53	B	18, 66, 70
-3	2	you know	133	B	2, 132, 134
 3	2	you think	71	B	42, 50, 112
 2	2	. i	129	B	2, 130
-2	2	. uh	129	B	2, 130
 2	2	a deterrent	63	B	50, 112
+2	2	and ,	53	B	78, 130
 2	2	bad .	83	B	2, 84
-2	2	but i	45	B	2, 46
 2	2	did you	3	B	72, 74
 2	2	do you	5	B	42, 46
 2	2	found guilty	79	B	54, 132
 2	2	going to	69	B	46, 114
 2	2	happening ?	5	B	22, 26
 2	2	huh .	59	B	62, 120
-2	2	i i	41	B	90, 130
 2	2	i live	3	B	2, 4
-2	2	oh my	35	B	66, 100
-2	2	right and	37	B	76, 112
+2	2	is ,	3	B	130, 132
+2	2	oh ,	35	B	66, 100
 2	2	tend to	85	B	46, 130
-2	2	there are	21	B	2, 22
 2	2	thing .	79	B	2, 80
 2	2	things that	3	B	132, 134
 2	2	think that	49	B	2, 50
 2	2	to get	39	B	76, 114
-2	2	too .	65	B	48, 112
-2	2	well what	13	B	42, 54
+2	2	yeah ,	7	B	84, 90
 26	1	uh-huh	131	B	0, 8, 14, 16, 20, 24, 28, 30, 36, 38, 44, 52, 60, 62, 68, 70, 86, 88, 98, 106, 110, 116, 118, 124, 126, 130
 14	1	you	133	B	2, 42, 46, 50, 72, 74, 76, 80, 94, 112, 114, 130, 132, 134
 10	1	and	135	B	2, 76, 78, 82, 112, 114, 130, 132, 134, 136
@@ -55,7 +68,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	i	135	B	2, 4, 46, 90, 130, 132, 136
 7	1	of	133	B	2, 42, 46, 80, 130, 132, 134
 7	1	that's	119	B	18, 46, 84, 90, 92, 112, 136
-7	1	yeah	127	B	4, 80, 84, 90, 96, 128, 130
 6	1	in	113	B	2, 4, 46, 48, 82, 114
 5	1	about	133	B	2, 6, 54, 130, 134
 5	1	is	111	B	22, 26, 46, 130, 132
@@ -63,9 +75,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	but	81	B	2, 26, 46, 82
 4	1	do	131	B	2, 42, 46, 132
 4	1	him	11	B	72, 74, 76, 82
-4	1	know	135	B	2, 132, 134, 136
 4	1	so	57	B	2, 32, 50, 58
-4	1	uh	131	B	2, 80, 130, 132
 4	1	wow	105	B	18, 66, 70, 122
 3	1	are	129	B	2, 22, 130
 3	1	be	71	B	42, 50, 112
@@ -79,8 +89,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	things	5	B	130, 132, 134
 3	1	this	79	B	2, 22, 80
 3	1	too	65	B	48, 84, 112
-3	1	well	35	B	42, 54, 76
-3	1	what	89	B	42, 54, 130
 2	1	crime	5	B	42, 46
 2	1	crimes	85	B	46, 130
 2	1	doing	83	B	48, 130
@@ -92,7 +100,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	make	37	B	46, 82
 2	1	money	55	B	76, 130
 2	1	not	45	B	2, 46
-2	1	oh	35	B	66, 100
 2	1	on	21	B	2, 22
 2	1	one	3	B	130, 132
 2	1	out	3	B	4, 6

@@ -1,19 +1,32 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	3	, i don't	71	M	35, 105
+2	3	, that's ,	55	M	25, 79
+2	3	, what ?	71	M	55, 125
+2	3	, you know	5	M	19, 23
 2	3	i don't know	37	M	35, 71
 2	3	i think you're	73	M	37, 109
+2	3	it , it's	87	M	11, 97
 2	3	you mean you	93	M	19, 111
+4	2	, you	79	M	19, 23, 67, 97
 4	2	i don't	85	M	35, 71, 105, 119
 4	2	of the	121	M	3, 41, 121, 123
+3	2	, and	65	M	33, 89, 97
+3	2	, i	71	M	35, 85, 105
+3	2	, it's	105	M	11, 97, 115
+3	2	, so	79	M	43, 67, 121
+3	2	, what	71	M	55, 57, 125
 3	2	in the	81	M	43, 45, 123
 3	2	what ?	71	M	55, 99, 125
+2	2	, a	7	M	73, 79
+2	2	, uh	9	M	27, 35
 2	2	a big	95	M	17, 111
 2	2	do you	55	M	57, 111
 2	2	for a	19	M	67, 85
 2	2	i guess	53	M	35, 87
-2	2	it it's	87	M	11, 97
-2	2	that's a	39	M	79, 117
+2	2	know ,	13	M	23, 35
+2	2	uh ,	91	M	35, 125
+2	2	you ,	13	M	85, 97
 2	2	you can't	19	M	11, 29
-2	2	you know	5	M	19, 23
 17	1	i	121	M	9, 13, 35, 37, 41, 49, 69, 71, 83, 85, 87, 93, 95, 105, 109, 119, 129
 15	1	you	103	M	9, 11, 19, 23, 29, 31, 57, 59, 63, 67, 77, 85, 87, 97, 111
 14	1	the	127	M	3, 7, 29, 37, 41, 43, 45, 53, 81, 107, 121, 123, 127, 129
@@ -37,7 +50,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	not	81	M	35, 43, 115
 3	1	oh	59	M	39, 57, 97
 3	1	say	41	M	71, 87, 111
-3	1	so	79	M	43, 67, 121
 3	1	that's	93	M	25, 79, 117
 3	1	think	73	M	37, 57, 109
 3	1	was	81	M	41, 43, 121

@@ -1,57 +1,57 @@
-A|0| A: _so_ many _uh_ women are heads of state and _i_ _you_ know _we_ _we_ keep saying _oh_ yes _we_ feel _some_ day _a_ woman will be president . _but_ _uh i_ _have some_ question whether or _not_ they will ever _really_ get around _to_ _that_ . _i think_ we'll _have_ _a_ black president _before_ _we_ _have_ _a_ women president . 
-B|1| M: [uh i] [i] agree . 
-A|2| A: and [uh _i] don't_ know whether that's bad or good _it's_ _just_ _a_ point _that_ [i] _have_ observed _that we_ 
-B|3| M: well you're you've got [to] [have] the experience [before] [you] can [really] make [that] decision . 
+A|0| A: _so_ many _, uh ,_ women are heads of state and _i _,_ you_ know , _we_ , _we_ keep saying _oh_ yes , _we_ feel _some_ day _a_ woman will be president . _but_ _, _uh ,_ i_ _have some_ question , whether or _not_ they will ever _really_ get around _to_ _that_ . _i think_ we'll _have_ _a_ black president _before_ _we_ _have_ _a_ women president . 
+B|1| M: [uh , [i] [,] i] agree . 
+A|2| A: and _, [uh ,_ _i] don't_ know whether that's bad or good , _it's_ _just_ _a_ point _that_ [i] _have_ observed _that we_ , 
+B|3| M: well , you're , you've got [to] [have] the experience [before] [you] can [really] make [that] decision . 
 A|4| A: yes . right . 
-B|5| M: [i] [i] [really] believe [that we] can address them . 
-A|6| A: [uh] _oh_ . 
-B|7| M: [i don't] [i] mean [i] [just] [i think] [it's] [a] problem [you] [you] [have] [to] [have some] common ground . um i'm [not] sure [that] we've come _up_ with [a] solution yet [but] [i] [uh] 
-A|8| A: [uh] _oh_ [i think] we're we're supposed [to] hang [up] . 
-B|9| M: [oh] okay . 
+B|5| M: [i [,] i] [really] believe [that we] can address them . 
+A|6| A: [uh ,] _oh_ . 
+B|7| M: [i don't] [, i] mean [, i] [just] _, i think_ [it's] [a] problem [, you] [, you] [have] [to] [have some] common ground . um , i'm [not] sure [that] we've come _up_ with [a] solution yet , [but] [i [,] uh] 
+A|8| A: [uh ,] _oh [,_ i think] , we're , we're supposed [to] hang [up] . 
+B|9| M: [oh ,] okay . 
 A|10| A: yes . 
-B|11| M: [so] [uh] [uh] . 
-A|12| A: all right . thank [you] . bye bye . 
+B|11| M: [so] [, uh [,] uh] . 
+A|12| A: all right . thank [you] . bye , bye . 
 B|13| M: bye-bye . 
 
 
 TURN DETAILS:
-Turn ID=0| A | A : so many uh women are heads of state and i you know we we keep saying oh yes we feel some day a woman will be president . but uh i have some question whether or not they will ever really get around to that . i think we'll have a black president before we have a women president .
-	Free: Pattern=have some, Pattern=have, Pattern=a, Pattern=oh, Pattern=some, Pattern=i, Pattern=not, Pattern=you, Pattern=uh, Pattern=we, Pattern=really, Pattern=before, Pattern=uh i, Pattern=to, Pattern=that, Pattern=but, Pattern=so, Pattern=i think
-	Constrained: Pattern=have, Pattern=uh, Pattern=i, Pattern=some
-Turn ID=1| B | M : uh i i agree .
-	Free: Pattern=uh i, Pattern=i
-	Constrained: Pattern=i, Pattern=uh
-Turn ID=2| A | A : and uh i don't know whether that's bad or good it's just a point that i have observed that we
-	Free: Pattern=a, Pattern=i, Pattern=uh i, Pattern=that we, Pattern=have, Pattern=just, Pattern=i don't, Pattern=that, Pattern=it's
-	Constrained: Pattern=uh, Pattern=we, Pattern=i, Pattern=that
-Turn ID=3| B | M : well you're you've got to have the experience before you can really make that decision .
+Turn ID=0| A | A : so many , uh , women are heads of state and i , you know , we , we keep saying oh yes , we feel some day a woman will be president . but , uh , i have some question , whether or not they will ever really get around to that . i think we'll have a black president before we have a women president .
+	Free: Pattern=have some, Pattern=have, Pattern=a, Pattern=oh, Pattern=uh , i, Pattern=some, Pattern=, you, Pattern=, uh ,, Pattern=i ,, Pattern=not, Pattern=we, Pattern=really, Pattern=before, Pattern=to, Pattern=that, Pattern=but, Pattern=so, Pattern=i think
+	Constrained: Pattern=have, Pattern=some, Pattern=i, Pattern=you, Pattern=, uh, Pattern=uh ,, Pattern=, i
+Turn ID=1| B | M : uh , i , i agree .
+	Free: Pattern=uh , i, Pattern=, i, Pattern=i ,
+	Constrained: Pattern=, i, Pattern=uh ,, Pattern=i
+Turn ID=2| A | A : and , uh , i don't know whether that's bad or good , it's just a point that i have observed that we ,
+	Free: Pattern=a, Pattern=uh , i, Pattern=i, Pattern=, uh ,, Pattern=that we, Pattern=have, Pattern=just, Pattern=i don't, Pattern=that, Pattern=it's
+	Constrained: Pattern=, uh, Pattern=i, Pattern=we, Pattern=that, Pattern=uh ,, Pattern=, i
+Turn ID=3| B | M : well , you're , you've got to have the experience before you can really make that decision .
 	Free: Pattern=you, Pattern=have, Pattern=really, Pattern=that, Pattern=before, Pattern=to
 	Constrained: 
 Turn ID=4| A | A : yes . right .
 	Free: 
 	Constrained: 
-Turn ID=5| B | M : i i really believe that we can address them .
-	Free: Pattern=that we, Pattern=i, Pattern=really
-	Constrained: Pattern=we, Pattern=that
-Turn ID=6| A | A : uh oh .
-	Free: Pattern=uh, Pattern=oh
+Turn ID=5| B | M : i , i really believe that we can address them .
+	Free: Pattern=, i, Pattern=i ,, Pattern=that we, Pattern=really
+	Constrained: Pattern=that, Pattern=i, Pattern=we
+Turn ID=6| A | A : uh , oh .
+	Free: Pattern=uh ,, Pattern=oh
 	Constrained: 
-Turn ID=7| B | M : i don't i mean i just i think it's a problem you you have to have some common ground . um i'm not sure that we've come up with a solution yet but i uh
-	Free: Pattern=have some, Pattern=a, Pattern=i, Pattern=i think, Pattern=not, Pattern=you, Pattern=uh, Pattern=have, Pattern=just, Pattern=i don't, Pattern=up, Pattern=to, Pattern=that, Pattern=it's, Pattern=but
-	Constrained: Pattern=have, Pattern=some, Pattern=i
-Turn ID=8| A | A : uh oh i think we're we're supposed to hang up .
-	Free: Pattern=uh, Pattern=oh, Pattern=i think, Pattern=up, Pattern=to
-	Constrained: Pattern=i
-Turn ID=9| B | M : oh okay .
-	Free: Pattern=oh
-	Constrained: 
+Turn ID=7| B | M : i don't , i mean , i just , i think it's a problem , you , you have to have some common ground . um , i'm not sure that we've come up with a solution yet , but i , uh
+	Free: Pattern=have some, Pattern=, uh, Pattern=a, Pattern=, i think, Pattern=, you, Pattern=, i, Pattern=i ,, Pattern=not, Pattern=have, Pattern=just, Pattern=i don't, Pattern=up, Pattern=to, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=you, Pattern=have, Pattern=some, Pattern=i, Pattern=, i, Pattern=i think
+Turn ID=8| A | A : uh , oh , i think , we're , we're supposed to hang up .
+	Free: Pattern=, i think, Pattern=uh ,, Pattern=oh ,, Pattern=up, Pattern=to
+	Constrained: Pattern=oh, Pattern=, i, Pattern=i, Pattern=i think
+Turn ID=9| B | M : oh , okay .
+	Free: Pattern=oh ,
+	Constrained: Pattern=oh
 Turn ID=10| A | A : yes .
 	Free: 
 	Constrained: 
-Turn ID=11| B | M : so uh uh .
-	Free: Pattern=uh, Pattern=so
-	Constrained: 
-Turn ID=12| A | A : all right . thank you . bye bye .
+Turn ID=11| B | M : so , uh , uh .
+	Free: Pattern=, uh ,, Pattern=, uh, Pattern=so
+	Constrained: Pattern=, uh, Pattern=uh ,
+Turn ID=12| A | A : all right . thank you . bye , bye .
 	Free: Pattern=you
 	Constrained: 
 Turn ID=13| B | M : bye-bye .

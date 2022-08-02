@@ -2,7 +2,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	2	yeah .	63	B	4, 10, 12, 14, 50, 54, 58, 64, 66
 8	2	right .	53	B	22, 24, 26, 36, 48, 56, 60, 74
 5	2	uh-huh .	45	B	28, 36, 46, 62, 72
+3	2	oh ,	67	B	2, 58, 68
 3	2	that .	13	B	32, 34, 44
+3	2	well ,	41	B	28, 42, 68
+2	2	, and	9	B	42, 50
+2	2	, i	35	B	34, 68
+2	2	, that	67	B	2, 68
 2	2	and i	5	B	30, 34
 2	2	by the	5	B	34, 38
 2	2	i am	55	B	16, 70
@@ -11,6 +16,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	i'm a	3	B	28, 30
 2	2	it makes	19	B	34, 52
 2	2	pay for	3	B	32, 34
+2	2	retirement ,	27	B	42, 68
 2	2	then i	13	B	40, 52
 2	2	to do	21	B	40, 60
 2	2	you have	11	B	50, 60
@@ -31,8 +37,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	insurance	9	B	34, 38, 42
 3	1	not	71	B	0, 44, 70
 3	1	of	67	B	2, 42, 68
-3	1	oh	67	B	2, 58, 68
-3	1	well	41	B	28, 42, 68
 3	1	work	11	B	30, 38, 40
 2	1	benefits	5	B	28, 32
 2	1	but	69	B	2, 70
@@ -44,7 +48,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	or	21	B	40, 60
 2	1	people	15	B	28, 42
 2	1	prefer	29	B	42, 70
-2	1	retirement	27	B	42, 68
 2	1	than	11	B	28, 38
 2	1	their	37	B	6, 42
 2	1	today	71	B	0, 70

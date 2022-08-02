@@ -1,51 +1,69 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, uh , i'm sure	35	A	13, 47
+2	5	and , uh , i'm	31	A	13, 43
+4	4	, uh , i'm	35	A	13, 19, 43, 47
+3	4	and , uh ,	39	A	5, 13, 43
+2	4	, a lot of	19	A	3, 21
+2	4	, i'm in a	43	A	1, 43
+2	4	. uh , i	23	A	21, 43
+2	4	a , in a	13	A	31, 43
+2	4	and , course ,	5	A	43, 47
 2	4	and a lot of	35	A	13, 47
+2	4	here , uh ,	25	A	19, 43
+2	4	well , now ,	23	A	9, 31
+7	3	, uh ,	45	A	3, 5, 13, 19, 43, 45, 47
 4	3	a lot of	45	A	3, 13, 21, 47
-2	3	. uh i	23	A	21, 43
-2	3	a in a	13	A	31, 43
-2	3	and uh i'm	31	A	13, 43
-2	3	i'm in a	43	A	1, 43
+4	3	uh , i	39	A	5, 21, 23, 43
+3	3	. uh ,	41	A	3, 21, 43
+3	3	a , a	9	A	13, 19, 21
+2	3	, i ,	5	A	19, 23
+2	3	, i guess	23	A	21, 43
+2	3	, i think	37	A	5, 41
+2	3	, i'm in	43	A	1, 43
+2	3	, in a	13	A	31, 43
+2	3	. well ,	11	A	9, 19
+2	3	in a ,	31	A	1, 31
+2	3	in dallas ,	47	A	3, 49
 2	3	of the crime	19	A	3, 21
 2	3	the economy is	21	A	25, 45
 2	3	there is a	11	A	3, 13
 2	3	they used to	25	A	21, 45
-2	3	uh i'm sure	35	A	13, 47
-4	2	uh i	39	A	5, 21, 23, 43
-4	2	uh i'm	35	A	13, 19, 43, 47
-3	2	. uh	41	A	3, 21, 43
-3	2	a a	9	A	13, 19, 21
-3	2	and uh	39	A	5, 13, 43
-3	2	in a	43	A	1, 31, 43
+9	2	uh ,	45	A	3, 5, 13, 19, 21, 23, 43, 45, 47
+6	2	, i	39	A	5, 19, 21, 23, 41, 43
+6	2	a ,	43	A	1, 13, 19, 21, 31, 43
+6	2	well ,	41	A	1, 9, 19, 31, 35, 41
+5	2	, a	41	A	3, 13, 19, 21, 43
+4	2	, in	41	A	3, 13, 31, 43
 3	2	in dallas	49	A	1, 3, 49
+3	2	now ,	23	A	9, 13, 31
 3	2	there is	39	A	3, 13, 41
 3	2	uh-huh .	25	A	9, 27, 33
 3	2	you know	35	A	13, 41, 47
-2	2	. well	11	A	9, 19
+2	2	, it	31	A	13, 43
+2	2	, or	29	A	21, 49
+2	2	, that	7	A	29, 35
 2	2	a major	41	A	3, 43
-2	2	and course	5	A	43, 47
+2	2	but ,	37	A	13, 49
 2	2	dallas .	43	A	1, 43
-2	2	here uh	25	A	19, 43
-2	2	i guess	23	A	21, 43
-2	2	i think	37	A	5, 41
 2	2	i'm in	43	A	1, 43
 2	2	in an	47	A	1, 47
 2	2	kind of	5	A	43, 47
 2	2	like a	27	A	21, 47
 2	2	now .	41	A	3, 43
 2	2	of the	19	A	3, 21
+2	2	problem ,	3	A	3, 5
 2	2	quite a	19	A	3, 21
 2	2	really ?	3	A	15, 17
 2	2	seems like	9	A	13, 21
 2	2	that .	19	A	11, 29
 2	2	that are	25	A	21, 45
+2	2	the ,	3	A	43, 45
 2	2	to be	43	A	3, 45
 2	2	we have	43	A	3, 45
-2	2	well now	23	A	9, 31
 2	2	you have	35	A	13, 47
 10	1	a	47	A	1, 3, 5, 13, 19, 21, 31, 43, 45, 47
 10	1	is	47	A	3, 13, 19, 21, 25, 29, 31, 41, 45, 49
 9	1	that	45	A	3, 11, 21, 29, 31, 35, 43, 45, 47
-9	1	uh	45	A	3, 5, 13, 19, 21, 23, 43, 45, 47
 8	1	in	49	A	1, 3, 13, 21, 31, 43, 47, 49
 8	1	now	47	A	3, 9, 13, 21, 31, 43, 45, 49
 7	1	and	45	A	3, 5, 11, 13, 43, 45, 47
@@ -54,7 +72,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	of	45	A	3, 11, 13, 21, 43, 47
 6	1	the	43	A	3, 9, 21, 25, 43, 45
 6	1	to	43	A	3, 9, 21, 29, 43, 45
-6	1	well	41	A	1, 9, 19, 31, 35, 41
 6	1	you	39	A	9, 13, 31, 41, 43, 47
 5	1	i'm	47	A	1, 13, 19, 43, 47
 4	1	have	45	A	3, 13, 45, 47

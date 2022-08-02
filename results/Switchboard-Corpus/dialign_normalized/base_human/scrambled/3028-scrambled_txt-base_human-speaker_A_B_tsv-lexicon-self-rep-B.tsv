@@ -1,21 +1,50 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	6	i don't know what it's like	27	B	59, 85
+5	4	and , uh ,	117	B	5, 17, 67, 89, 121
+4	4	, you know ,	75	B	47, 49, 101, 121
+2	4	, i , i	45	B	3, 47
+2	4	, i mean ,	25	B	101, 125
+2	4	, that's true .	109	B	21, 129
+2	4	, uh , we	63	B	59, 121
+2	4	but , uh ,	21	B	39, 59
+2	4	i mean , i	55	B	47, 101
 2	4	uh-huh . uh-huh .	83	B	15, 97
+2	4	you know , when	27	B	101, 127
+10	3	, uh ,	121	B	5, 17, 19, 23, 39, 59, 67, 89, 121, 125
+6	3	, you know	79	B	47, 49, 101, 119, 121, 125
 4	3	i don't know	59	B	59, 85, 87, 117
+4	3	i mean ,	79	B	47, 55, 101, 125
+3	3	, i ,	65	B	3, 47, 67
+3	3	, um ,	59	B	63, 101, 121
 3	3	. uh-huh .	83	B	15, 79, 97
+2	3	, and that's	83	B	19, 101
+2	3	, i have	75	B	47, 121
+2	3	, i think	61	B	3, 63
+2	3	, yeah .	55	B	53, 107
 2	3	. i mean	59	B	55, 113
 2	3	. yeah .	77	B	3, 79
 2	3	he's trying to	51	B	39, 89
-2	3	i mean i	55	B	47, 101
-2	3	that's true .	109	B	21, 129
-2	3	you know the	5	B	121, 125
-2	3	you know when	27	B	101, 127
+2	3	in , in	83	B	39, 121
+2	3	right , and	37	B	29, 65
+2	3	uh , then	33	B	35, 67
+11	2	, uh	121	B	5, 17, 19, 23, 39, 57, 59, 67, 89, 121, 125
+11	2	uh ,	121	B	5, 17, 19, 23, 35, 39, 59, 67, 89, 121, 125
+10	2	, and	97	B	5, 19, 29, 45, 55, 65, 81, 89, 93, 101
 10	2	uh-huh .	103	B	13, 15, 51, 63, 77, 79, 83, 95, 97, 115
+9	2	, i	123	B	3, 47, 63, 67, 85, 87, 101, 121, 125
+7	2	, you	81	B	47, 49, 101, 119, 121, 125, 127
+7	2	and ,	121	B	1, 5, 17, 47, 67, 89, 121
+7	2	yeah ,	87	B	3, 21, 23, 39, 53, 87, 89
 7	2	yeah .	109	B	3, 5, 53, 65, 79, 107, 111
-7	2	you know	81	B	47, 49, 101, 119, 121, 125, 127
-6	2	and uh	117	B	5, 17, 35, 67, 89, 121
-5	2	i mean	79	B	47, 55, 101, 113, 125
+6	2	know ,	81	B	47, 49, 87, 101, 121, 127
+4	2	, it	79	B	23, 55, 63, 101
+4	2	, my	49	B	19, 39, 55, 67
+4	2	, that's	109	B	21, 29, 109, 129
+4	2	but ,	83	B	39, 59, 73, 121
 4	2	it .	65	B	55, 87, 93, 119
+4	2	that ,	75	B	45, 67, 101, 119
+4	2	um ,	59	B	63, 75, 101, 121
+3	2	, it's	41	B	49, 87, 89
 3	2	. i	59	B	55, 59, 113
 3	2	and i	85	B	9, 37, 93
 3	2	i have	85	B	37, 47, 121
@@ -23,20 +52,24 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	if you	97	B	23, 65, 119
 3	2	in the	39	B	55, 59, 93
 3	2	it's like	37	B	49, 59, 85
+3	2	oh ,	83	B	25, 49, 107
 3	2	trying to	53	B	39, 89, 91
+2	2	, but	17	B	87, 103
+2	2	, i'm	49	B	75, 123
+2	2	, if	25	B	23, 47
+2	2	, in	83	B	39, 121
+2	2	, just	63	B	59, 121
+2	2	, so	45	B	23, 67
+2	2	, the	33	B	89, 121
+2	2	, those	109	B	17, 125
 2	2	. but	77	B	45, 121
 2	2	. right	17	B	49, 65
 2	2	a long	75	B	39, 113
-2	2	and that's	83	B	19, 101
-2	2	and you	15	B	33, 47
 2	2	are the	109	B	17, 125
 2	2	at the	17	B	87, 103
-2	2	but uh	21	B	39, 59
 2	2	have a	19	B	47, 65
 2	2	high school	59	B	5, 63
 2	2	i guess	83	B	45, 127
-2	2	i i	45	B	3, 47
-2	2	in in	83	B	39, 121
 2	2	it was	17	B	55, 71
 2	2	know .	3	B	117, 119
 2	2	now .	29	B	71, 99
@@ -45,19 +78,18 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	on the	19	B	81, 99
 2	2	part of	25	B	89, 113
 2	2	right .	57	B	49, 105
-2	2	right and	37	B	29, 65
+2	2	so ,	19	B	63, 81
 2	2	that was	7	B	93, 99
-2	2	uh then	33	B	35, 67
+2	2	the ,	61	B	29, 89
 2	2	uh uh	7	B	35, 41
-2	2	uh we	63	B	59, 121
 2	2	used to	29	B	93, 121
 2	2	was like	5	B	67, 71
 2	2	we all	77	B	5, 81
 2	2	we were	63	B	59, 121
+2	2	well ,	45	B	19, 63
 2	2	went to	63	B	5, 67
 2	2	what a	15	B	35, 49
 2	2	would you	91	B	23, 113
-2	2	yeah i	99	B	3, 101
 2	2	you don't	13	B	23, 35
 24	1	and	121	B	1, 5, 9, 17, 19, 29, 33, 35, 37, 45, 47, 49, 55, 59, 61, 63, 65, 67, 81, 89, 93, 101, 119, 121
 20	1	i	125	B	3, 9, 25, 37, 45, 47, 55, 59, 63, 67, 85, 87, 93, 99, 101, 113, 117, 121, 125, 127
@@ -126,7 +158,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	he's	51	B	39, 89
 2	1	home	11	B	39, 49
 2	1	husband	37	B	19, 55
-2	1	i'm	49	B	75, 123
 2	1	lives	55	B	67, 121
 2	1	more	59	B	43, 101
 2	1	much	7	B	119, 125
@@ -139,9 +170,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	something	55	B	47, 101
 2	1	sure	25	B	23, 47
 2	1	take	25	B	47, 71
-2	1	those	109	B	17, 125
 2	1	we're	41	B	5, 45
-2	1	well	45	B	19, 63
 2	1	went	63	B	5, 67
 2	1	with	117	B	5, 121
 2	1	would	91	B	23, 113

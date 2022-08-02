@@ -2,37 +2,37 @@ A|0| A: uh-huh .
 B|1| M: _a_ little . 
 A|2| A: uh-huh . 
 B|3| M: _oh_ ? what _do_ _you_ _think_ about _it_ ? 
-A|4| A: [oh] yes 
+A|4| A: [oh] yes , 
 B|5| M: _that_ . 
 A|6| A: uh-huh . 
-B|7| M: _uh_ _can_ _i_ just _do_ _that_ ? 
-A|8| A: [oh] neat . 
-B|9| M: [oh] i've heard of _it_ . 
+B|7| M: _uh ,_ _can_ _i_ just _do_ _that_ ? 
+A|8| A: _oh ,_ neat . 
+B|9| M: [oh ,] i've heard of _it_ . 
 A|10| A: uh-huh . 
-B|11| M: _i think_ _you_ need _to_ _go_ _to_ _a_ school _to_ learn _the_ military _and_ military research _is_ not done _in_ school . 
-A|12| A: [i think] _it's_ like three or four dollars [a] [a] [can] 
-B|13| M: h _uh_ [i] guess . 
-A|14| A: yeah . [i] don't [i] if [i] _you know_ if [i] happen [to] find [it] i'll [go] ahead [and] read [it] someplace _you know_ if _i'm_ [in] [a] doctor's office or something like [that] but other than [that] [i] never [i] never liked [that] really . 
+B|11| M: _i think_ _you_ need _to_ _go_ _to_ _a_ school _to_ learn _the_ military , _and_ military research _is_ not done _in_ school . 
+A|12| A: [i think] _it's_ like three or four dollars [a] , [a] [can] 
+B|13| M: h _, uh _,_ i_ guess . 
+A|14| A: yeah . [i] don't [, i] , if [i] , _you know_ , if [i] happen [to] find [it] , i'll [go] ahead [and] read [it] someplace , _you know_ , if _i'm_ [in] [a] doctor's office or something like [that] but other than [that] [i] never [, i] never liked [that] really . 
 B|15| M: [it's] been on _for_ [a] few minutes now 
 A|16| A: yeah . 
 B|17| M: _we_ douh 
 A|18| A: uh-huh . 
 B|19| M: beats me . [i'm] not [a] fan of [that] kind of stuff . 
-A|20| A: yes yes . 
+A|20| A: yes , yes . 
 B|21| M: [i] just had [to] be told . 
 A|22| A: well . 
-B|23| M: [i] [know] [you] _do_ [i'm] just asking how [you _know] ._ 
-A|24| A: [i] _my_ friend [is] [is] very generous [in] [in] letting us have _my_ children [uh] [do] [the] suzuki method without paying [a] lot out . 
+B|23| M: [i] [know] [you] _do_ , [i'm] just asking how [you _know] ._ 
+A|24| A: [i] _, my_ friend [is] , [is] very generous [in] , [in] letting us have _my_ children [, uh ,] [do] [the] suzuki method without paying [a] lot out . 
 B|25| M: [is] she [a] 
-A|26| A: well [uh] but [i] [do] realize [that] [that] [is] realistic [for] some people 
-B|27| M: [oh] [my] . 
-A|28| A: [that] that's real good . 
+A|26| A: well [, uh ,] but [i] [do] realize [that] , [that] [is] realistic [for] some people , 
+B|27| M: [oh [,] my] . 
+A|28| A: [that] , that's real good . 
 B|29| M: [i] 
-A|30| A: [i] mean [i] don't [know .] all [i'm] saying [is] [i think] [it's] scarier than [we] [know .] [uh] or maybe they understand but 
-B|31| M: [i] can't even get [a] dog [to] walk [a] cat [i'm] not even [a] cat owner . 
+A|30| A: [i] mean [i] don't [know .] all [i'm] saying [is] [i think] [it's] scarier than [we] [know .] [uh ,] or maybe they understand but , 
+B|31| M: [i] can't even get [a] dog [to] walk [a] cat , [i'm] not even [a] cat owner . 
 A|32| A: uh-huh . 
 B|33| M: [it] . 
-A|34| A: okay well yes [i] [do] . 
+A|34| A: okay , well , yes [i] [do] . 
 B|35| M: [it's] pretty cool . 
 A|36| A: yeah . 
 B|37| M:  ... 
@@ -51,7 +51,7 @@ Turn ID=2| A | A : uh-huh .
 Turn ID=3| B | M : oh ? what do you think about it ?
 	Free: Pattern=you, Pattern=do, Pattern=think, Pattern=it, Pattern=oh
 	Constrained: 
-Turn ID=4| A | A : oh yes
+Turn ID=4| A | A : oh yes ,
 	Free: Pattern=oh
 	Constrained: 
 Turn ID=5| B | M : that .
@@ -60,32 +60,32 @@ Turn ID=5| B | M : that .
 Turn ID=6| A | A : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=7| B | M : uh can i just do that ?
-	Free: Pattern=uh, Pattern=do, Pattern=can, Pattern=i, Pattern=that
+Turn ID=7| B | M : uh , can i just do that ?
+	Free: Pattern=do, Pattern=can, Pattern=i, Pattern=uh ,, Pattern=that
 	Constrained: 
-Turn ID=8| A | A : oh neat .
-	Free: Pattern=oh
-	Constrained: 
-Turn ID=9| B | M : oh i've heard of it .
-	Free: Pattern=it, Pattern=oh
-	Constrained: 
+Turn ID=8| A | A : oh , neat .
+	Free: Pattern=oh ,
+	Constrained: Pattern=oh
+Turn ID=9| B | M : oh , i've heard of it .
+	Free: Pattern=oh ,, Pattern=it
+	Constrained: Pattern=oh
 Turn ID=10| A | A : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=11| B | M : i think you need to go to a school to learn the military and military research is not done in school .
+Turn ID=11| B | M : i think you need to go to a school to learn the military , and military research is not done in school .
 	Free: Pattern=you, Pattern=go, Pattern=a, Pattern=and, Pattern=in, Pattern=is, Pattern=the, Pattern=to, Pattern=i think
-	Constrained: Pattern=i, Pattern=think
-Turn ID=12| A | A : i think it's like three or four dollars a a can
-	Free: Pattern=i think, Pattern=can, Pattern=it's, Pattern=a
-	Constrained: Pattern=i, Pattern=think
-Turn ID=13| B | M : h uh i guess .
-	Free: Pattern=i, Pattern=uh
-	Constrained: 
-Turn ID=14| A | A : yeah . i don't i if i you know if i happen to find it i'll go ahead and read it someplace you know if i'm in a doctor's office or something like that but other than that i never i never liked that really .
-	Free: Pattern=you know, Pattern=go, Pattern=a, Pattern=in, Pattern=i'm, Pattern=i, Pattern=to, Pattern=that, Pattern=it, Pattern=and
-	Constrained: Pattern=know, Pattern=you
+	Constrained: Pattern=think, Pattern=i
+Turn ID=12| A | A : i think it's like three or four dollars a , a can
+	Free: Pattern=i think, Pattern=it's, Pattern=can, Pattern=a
+	Constrained: Pattern=think, Pattern=i
+Turn ID=13| B | M : h , uh , i guess .
+	Free: Pattern=, uh ,, Pattern=, i
+	Constrained: Pattern=uh ,, Pattern=i
+Turn ID=14| A | A : yeah . i don't , i , if i , you know , if i happen to find it , i'll go ahead and read it someplace , you know , if i'm in a doctor's office or something like that but other than that i never , i never liked that really .
+	Free: Pattern=you know, Pattern=go, Pattern=a, Pattern=in, Pattern=i'm, Pattern=i, Pattern=, i, Pattern=to, Pattern=that, Pattern=it, Pattern=and
+	Constrained: Pattern=know, Pattern=i, Pattern=you
 Turn ID=15| B | M : it's been on for a few minutes now
-	Free: Pattern=for, Pattern=it's, Pattern=a
+	Free: Pattern=it's, Pattern=a, Pattern=for
 	Constrained: 
 Turn ID=16| A | A : yeah .
 	Free: 
@@ -97,43 +97,43 @@ Turn ID=18| A | A : uh-huh .
 	Free: 
 	Constrained: 
 Turn ID=19| B | M : beats me . i'm not a fan of that kind of stuff .
-	Free: Pattern=that, Pattern=a, Pattern=i'm
+	Free: Pattern=i'm, Pattern=that, Pattern=a
 	Constrained: 
-Turn ID=20| A | A : yes yes .
+Turn ID=20| A | A : yes , yes .
 	Free: 
 	Constrained: 
 Turn ID=21| B | M : i just had to be told .
-	Free: Pattern=i, Pattern=to
+	Free: Pattern=to, Pattern=i
 	Constrained: 
 Turn ID=22| A | A : well .
 	Free: 
 	Constrained: 
-Turn ID=23| B | M : i know you do i'm just asking how you know .
+Turn ID=23| B | M : i know you do , i'm just asking how you know .
 	Free: Pattern=do, Pattern=i, Pattern=know ., Pattern=you, Pattern=you know, Pattern=know, Pattern=i'm
 	Constrained: Pattern=know, Pattern=you
-Turn ID=24| A | A : i my friend is is very generous in in letting us have my children uh do the suzuki method without paying a lot out .
-	Free: Pattern=uh, Pattern=in, Pattern=the, Pattern=my, Pattern=do, Pattern=a, Pattern=is, Pattern=i
-	Constrained: 
+Turn ID=24| A | A : i , my friend is , is very generous in , in letting us have my children , uh , do the suzuki method without paying a lot out .
+	Free: Pattern=in, Pattern=, uh ,, Pattern=the, Pattern=, my, Pattern=my, Pattern=do, Pattern=a, Pattern=is, Pattern=i
+	Constrained: Pattern=uh ,, Pattern=my
 Turn ID=25| B | M : is she a
-	Free: Pattern=is, Pattern=a
+	Free: Pattern=a, Pattern=is
 	Constrained: 
-Turn ID=26| A | A : well uh but i do realize that that is realistic for some people
-	Free: Pattern=uh, Pattern=do, Pattern=for, Pattern=that, Pattern=is, Pattern=i
-	Constrained: 
-Turn ID=27| B | M : oh my .
-	Free: Pattern=my, Pattern=oh
-	Constrained: 
-Turn ID=28| A | A : that that's real good .
+Turn ID=26| A | A : well , uh , but i do realize that , that is realistic for some people ,
+	Free: Pattern=do, Pattern=for, Pattern=, uh ,, Pattern=that, Pattern=is, Pattern=i
+	Constrained: Pattern=uh ,
+Turn ID=27| B | M : oh , my .
+	Free: Pattern=, my, Pattern=oh ,
+	Constrained: Pattern=my, Pattern=oh
+Turn ID=28| A | A : that , that's real good .
 	Free: Pattern=that
 	Constrained: 
 Turn ID=29| B | M : i
 	Free: Pattern=i
 	Constrained: 
-Turn ID=30| A | A : i mean i don't know . all i'm saying is i think it's scarier than we know . uh or maybe they understand but
-	Free: Pattern=uh, Pattern=i'm, Pattern=we, Pattern=know ., Pattern=it's, Pattern=i think, Pattern=is, Pattern=i
-	Constrained: Pattern=i, Pattern=know, Pattern=think
-Turn ID=31| B | M : i can't even get a dog to walk a cat i'm not even a cat owner .
-	Free: Pattern=i, Pattern=to, Pattern=a, Pattern=i'm
+Turn ID=30| A | A : i mean i don't know . all i'm saying is i think it's scarier than we know . uh , or maybe they understand but ,
+	Free: Pattern=i'm, Pattern=we, Pattern=know ., Pattern=uh ,, Pattern=it's, Pattern=i think, Pattern=is, Pattern=i
+	Constrained: Pattern=think, Pattern=know, Pattern=i
+Turn ID=31| B | M : i can't even get a dog to walk a cat , i'm not even a cat owner .
+	Free: Pattern=i'm, Pattern=to, Pattern=i, Pattern=a
 	Constrained: 
 Turn ID=32| A | A : uh-huh .
 	Free: 
@@ -141,8 +141,8 @@ Turn ID=32| A | A : uh-huh .
 Turn ID=33| B | M : it .
 	Free: Pattern=it
 	Constrained: 
-Turn ID=34| A | A : okay well yes i do .
-	Free: Pattern=i, Pattern=do
+Turn ID=34| A | A : okay , well , yes i do .
+	Free: Pattern=do, Pattern=i
 	Constrained: 
 Turn ID=35| B | M : it's pretty cool .
 	Free: Pattern=it's

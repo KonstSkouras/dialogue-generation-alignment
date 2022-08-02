@@ -1,16 +1,41 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	4	, um , i	75	B	6, 80
+2	4	, you know ,	47	B	4, 50
 2	4	something like that .	15	B	58, 72
+6	3	, uh ,	47	B	10, 12, 20, 22, 50, 56
+3	3	, you know	47	B	4, 36, 50
+3	3	you know ,	75	B	4, 50, 78
+2	3	, a ,	51	B	0, 50
+2	3	, it ,	51	B	0, 50
+2	3	, that ,	45	B	6, 50
+2	3	, yeah .	21	B	26, 46
+2	3	a , a	51	B	0, 50
+2	3	it , it	51	B	0, 50
+7	2	, i	75	B	6, 12, 30, 50, 56, 76, 80
+7	2	, uh	57	B	0, 10, 12, 20, 22, 50, 56
+7	2	uh ,	63	B	10, 12, 20, 22, 50, 56, 72
 6	2	uh-huh .	73	B	10, 16, 18, 62, 74, 82
 5	2	right .	91	B	0, 24, 50, 54, 90
+5	2	yeah ,	77	B	0, 14, 26, 28, 76
+4	2	, and	75	B	4, 12, 56, 78
+4	2	, you	47	B	4, 12, 36, 50
 4	2	going to	75	B	4, 6, 22, 78
 4	2	you know	75	B	4, 36, 50, 78
+3	2	, it	79	B	0, 50, 78
+3	2	, that	45	B	6, 34, 50
+3	2	, yeah	21	B	26, 28, 46
+3	2	and ,	77	B	4, 50, 80
 3	2	do you	23	B	66, 84, 88
 3	2	i don't	53	B	12, 34, 64
 3	2	i know	73	B	6, 30, 78
 3	2	in the	39	B	30, 46, 68
+3	2	know ,	75	B	4, 50, 78
 3	2	yeah .	37	B	26, 46, 62
+2	2	, but	59	B	20, 78
+2	2	, how	47	B	4, 50
+2	2	, the	25	B	20, 44
+2	2	, we	49	B	22, 70
 2	2	. yeah	63	B	0, 62
-2	2	a a	51	B	0, 50
 2	2	a lot	27	B	30, 56
 2	2	and i	13	B	22, 34
 2	2	and it	13	B	56, 68
@@ -18,13 +43,13 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	do that	67	B	12, 78
 2	2	down to	47	B	4, 50
 2	2	i think	15	B	6, 20
-2	2	it it	51	B	0, 50
-2	2	know a	21	B	30, 50
 2	2	of time	71	B	10, 80
-2	2	think that	15	B	20, 34
+2	2	oh ,	55	B	12, 66
+2	2	the ,	25	B	20, 44
+2	2	think ,	29	B	6, 34
 2	2	to do	73	B	6, 78
 2	2	to the	59	B	20, 78
-2	2	um i	75	B	6, 80
+2	2	well ,	23	B	6, 28
 2	2	what about	17	B	44, 60
 2	2	when i	7	B	6, 12
 2	2	you ?	19	B	66, 84
@@ -37,9 +62,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	to	75	B	4, 6, 10, 12, 20, 22, 50, 68, 78
 8	1	in	73	B	4, 6, 12, 30, 46, 66, 68, 76
 8	1	it	79	B	0, 4, 20, 24, 50, 56, 68, 78
-8	1	uh	73	B	0, 10, 12, 20, 22, 50, 56, 72
 7	1	of	75	B	6, 10, 12, 24, 50, 56, 80
-7	1	yeah	77	B	0, 14, 26, 28, 46, 62, 76
 6	1	do	83	B	6, 12, 66, 78, 84, 88
 6	1	is	67	B	12, 24, 50, 72, 76, 78
 6	1	right	91	B	0, 24, 50, 54, 70, 90

@@ -1,16 +1,16 @@
-A|0| B: _oh_ _you_ _like_ _the_ _rain_ do _you_ ? 
-B|1| M: _um_ _well_ not _really ._ _i just_ _i've_ _been_ real lucky _just_ _um i_ _i'm_ originally _from_ new york _and so_ _i've_ lived _here_ _about_ two _years and_ _i've_ only lived _here for_ two _years_ _so i_ _really_ haven't _been_ _you know_ real experienced with _it_ . 
+A|0| B: _oh _,_ you_ _like_ _the_ _rain_ , do _you_ ? 
+B|1| M: _um _,_ well ,_ not _really ._ _i _just_ _,_ i've_ _been_ real lucky _just _,_ um _, i_ ,_ _i'm_ originally _from_ new york _, and so_ _i've_ lived _here_ _about_ two _years_ _and_ _i've_ only lived _here for_ two _years_ _so_ _i_ _really_ haven't _been_ _, you know ,_ real experienced with _it_ . 
 A|2| B: _uh-huh ._ 
-B|3| M: _and_ _it's been_ up _to_ fifty-nine _so _i_ guess it's_ not _too_ bad . 
-A|4| B: _oh_ are [you] ? [i] don't care [for] _that_ as much . 
-B|5| M: _i _i like_ it_ _but_ _it's _just_ that_ _when it's_ real _cold_ _i just_ want _to_ go outside . 
+B|3| M: _and_ _it's been_ up _to_ fifty-nine _, so_ _i guess it's_ not _too_ bad . 
+A|4| B: _oh ,_ are [you] ? [i] don't care [for] _that_ as much . 
+B|5| M: _i , _i like_ _it_ ,_ _but_ _it's _just_ that_ _when it's_ real _cold_ _i just_ want _to_ go outside . 
 A|6| B: _no ._ 
-B|7| M: _it's_ kind of 
+B|7| M: _it's_ kind of , 
 A|8| B: [i'm] _a_ _summer person_ 
 B|9| M: [summer person] . 
 A|10| B: [i like] _the_ heat . 
 B|11| M: [uh-huh .] 
-A|12| B: _yeah_ [and] [i'm] [from] utah [so [i] i like] _the_ four seasons 
+A|12| B: _yeah [,_ and] [i'm] [from] utah [, _so] _, i_ , i like_ , _the_ four seasons 
 B|13| M:  !!! remind _me_ . 
 A|14| B: [i just] don't [like] _the_ _cold ._ 
 B|15| M:  !!!!!! _it_ !! [you] !! [i] !! [that] !! [oh] !! _well_ !! [and] [i] hope [you] get some [rain] up there . 
@@ -18,92 +18,92 @@ A|16| B: [uh-huh .]
 B|17| M: [and] [i] _know_ people [that] _have_ had _it_ _and _they_ say_ _it_ lasts _about_ three weeks . 
 A|18| B: _yeah ._ 
 B|19| M: [and] _then_ _it_ stops . 
-A|20| B: _the_ thing _the_ other thing is _the_ [i] don't [like] _the_ [rain] either . 
-B|21| M: _yeah yeah ._ 
-A|22| B: [well] we [have] several children [that] are _in_ sports [and so] [it] always makes their games be postponed forever [and] ever [and] ever on on [and] on . 
-B|23| M: [oh] my . 
-A|24| B: [i like it] better _i think_ . 
+A|20| B: _the_ thing , _the_ other thing is _the_ [, i] don't [like] _the_ [rain] either . 
+B|21| M: _yeah , yeah ._ 
+A|22| B: [well ,] we [have] several children [that] are _in_ sports [, and so] [it] always makes their games be postponed forever [and] ever [and] ever on , on [, and] on . 
+B|23| M: [oh ,] my . 
+A|24| B: [i like it] better _, i think_ . 
 B|25| M: [yeah .] 
 A|26| B: [uh-huh .] [yeah .] 
-B|27| M: _it's_ going _to_ get _even_ cooler . [and] uh . 
-A|28| B: _the_ thing [about] [when] _it gets_ _hot_ [here] is [i] don't [like] _the_ humidity [that] part [i] don't care [about] . 
-B|29| M: _oh i_ 
-A|30| B: [oh] [really .] 
+B|27| M: _it's_ going _to_ get _even_ cooler . _and ,_ uh . 
+A|28| B: _the_ thing [about] [when] _it gets_ _hot_ [here] is [, i] don't [like] _the_ humidity , [that] part [i] don't care [about] . 
+B|29| M: _oh [, i_ ,] 
+A|30| B: [oh ,] [really .] 
 B|31| M:  !!! ; !! remind _me_ of [that] . 
-A|32| B: [oh] is [that] _right_ ? 
+A|32| B: [oh ,] is [that] _right_ ? 
 B|33| M: [yeah .] 
-A|34| B: [well] another _reason_ _well [i_ guess] [i] _can't_ [say] [that] [it] [i] don't [like] _the_ [rain] completely . we [have] _a little_ garden [that] we [have] [and] [and so] [it] [really] helps _our_ garden 
+A|34| B: [well] another _reason_ [, _well _,] i_ guess_ [i] _can't_ [say] [that] [it [,] i] don't [like] _the_ [rain] completely . we [have] _a little_ garden [that] we [have] [and] [and so] [it] [really] helps _our_ garden , 
 B|35| M: [uh-huh .] 
-A|36| B: [and] [you know] [even] [i] don't [know] if that's because plants are [just that] way [and they] [like] [rain] or [it] seems [they] thrive [when] [it] rains [they] [just] [really] 
-B|37| M: [well [i] [i like] it] [here] . 
+A|36| B: [and [,] you know ,] [even] [, i] don't [know] if that's because plants are [just that] way [and they] [like] [rain] , or _, it_ seems [they] thrive [when] [it] rains , [they] [just ,] _really ,_ 
+B|37| M: [well [, i] , [i like] it] [here] . 
 A|38| B: [uh-huh .] [yeah .] 
-B|39| M: _but_ 
-A|40| B: [yeah yeah .] 
-B|41| M: [and] uh 
-A|42| B: [well] 
+B|39| M: _but_ , 
+A|40| B: [yeah , yeah .] 
+B|41| M: [and ,] uh , 
+A|42| B: [well ,] 
 B|43| M:  !!! % !! eting at least three times this year . 
-A|44| B: [well [i] like] seventies [i like] seventies _okay_ . 
-B|45| M: [yeah] [i] 
-A|46| B: [oh i] don't [like] nineties . 
+A|44| B: [well] [i like] seventies [i like] seventies _okay_ . 
+B|45| M: [yeah [,] i ,] 
+A|46| B: [oh , i] don't [like] nineties . 
 B|47| M: [no .] 
 A|48| B: _you can_ give [me] seventies 
 B|49| M: [yeah] 
 A|50| B: [and] _you can_ give [me] eighties 
 B|51| M:  !!! ; !! remindme !! % !! exists [for] some strange [reason] _but_ [i] don 'vide _them_ . 
-A|52| B: [and] [i'm] _okay_ . [but] [when] _it gets_ [too] _hot_ [then] [it's] [that] [i] don't [like] [that] 
+A|52| B: [and] [i'm] _okay_ . [but] [when] _it gets_ [too] _hot ,_ [then] _it's ,_ _that [,_ i] don't [like] [that] 
 B|53| M: [yeah] 
-A|54| B: [i] stay _in the house_ because [it's just] [it's just] [too] _hot_ . 
+A|54| B: [i] stay _in the house_ because [it's [just] _,] [it's_ just] [too] _hot_ . 
 B|55| M: [yeah] 
-A|56| B: [yeah yeah .] 
-B|57| M: [so [i] think] _we've_ [really] [i guess] taken [a little] bit of [a] turn [in] [our] attitudes toward [that] . 
-A|58| B: that's _okay_ [um] [i've] [i've] thought [about] [that] [too] [and] [um] [when] we _take our_ vacations we we do _take_ [them] [in] august sometimes [so] [that] we _can_ be away [from] [here] 
+A|56| B: [yeah , yeah .] 
+B|57| M: [so [, i] think] _we've_ [really [,] i guess] , taken [a little] bit of [a] turn [in] [our] attitudes toward [that] . 
+A|58| B: that's _okay_ [um [,] i've] [, i've] thought [about] _that ,_ [too] [, [and] [,] um ,] [when] we _take our_ vacations , we , we do _take_ [them] [in] august sometimes [so] [that] we _can_ be away [from] [here] 
 B|59| M: [uh-huh .] 
-A|60| B: [it] [just] [really] _gets_ way [when] _it gets_ way [too] _hot_ 
-B|61| M: [yeah] [it's] [it gets] uh [you know] _we've been_ wanting _to_ [take our] [summer] _off_ [and] [just] spend [the] _day_ with [the] kids [you can] spend [the] whole week [in the house] 
-A|62| B: [and] [we've been] [here for] several [years and] [we've been] [here] [years] [when [it's] been] hundreds [and] 
-B|63| M: uh [so] you've never [been] _to_ [a] beach ? 
-A|64| B: [years] [uh-huh .] 
-B|65| M:  !!! % !! remind [me] of [that] 
-A|66| B: [yeah yeah .] he he always did such [a] good job [i] thought . 
-B|67| M: he's [just] [so] [hot] [you know] _you just_ [can't] stand him . 
-A|68| B: [a] good weather man 
+A|60| B: [it] [just] [really] _gets_ way , [when] _it gets_ way [too] _hot_ 
+B|61| M: [yeah [,] [it's] [,] [it] gets] , uh [, you know ,] _we've been_ wanting _to_ [take our] [summer] _off_ [and] [just] spend [the] _day_ with [the] kids [, [you] can] spend [the] whole week [in the house] , 
+A|62| B: [and] [we've been] [here for] several [years] [, and] [we've been] [here] [years] [when [it's] been] hundreds [and ,] 
+B|63| M: uh [, so] you've never [been] _to_ [a] beach ? 
+A|64| B: [years] , [uh-huh .] 
+B|65| M:  !!! % !! remind [me] of [that ,] 
+A|66| B: [yeah , yeah .] he , he always did such [a] good job [, i] thought . 
+B|67| M: he's [just] [so] [hot [,] you know [,] _you] just_ [can't] stand him . 
+A|68| B: [a] good weather man , 
 B|69| M:  !!! % !! remind [me] . 
-A|70| B: [yeah .] anyway [um [i] guess it's] 
-B|71| M: [it's] [it's been] warm [it] has [been] [cold .] 
-A|72| B: that's _okay_ [they say] [when] you're done you're done 
-B|73| M: [yeah yeah .] 
+A|70| B: [yeah .] anyway [, um [, [i] guess] [it's] ,] 
+B|71| M: [it's [,] [it's] been] warm [, it] has [been] [cold .] 
+A|72| B: that's _okay ,_ [they say] [when] you're done you're done , 
+B|73| M: [yeah , yeah .] 
 A|74| B: [you] don't [have] [to] wait [for] [them] [to] [say] cut [off] your time . 
 B|75| M: [right] . 
-A|76| B: [you just] [say] [have] [a] good [day] or whatever . 
-B|77| M:  !!! % [okay] [well] i'll talk [to] [you] later . 
+A|76| B: [you just] [say] , [have] [a] good [day] or whatever . 
+B|77| M:  !!! % [okay [,] well ,] i'll talk [to] [you] later . 
 A|78| B: [you] [too] . 
 B|79| M: bye-bye . 
 A|80| B: [you] [too] . 
 
 
 TURN DETAILS:
-Turn ID=0| A | B : oh you like the rain do you ?
-	Free: Pattern=you, Pattern=rain, Pattern=oh, Pattern=like, Pattern=the
-	Constrained: 
-Turn ID=1| B | M : um well not really . i just i've been real lucky just um i i'm originally from new york and so i've lived here about two years and i've only lived here for two years so i really haven't been you know real experienced with it .
-	Free: Pattern=well, Pattern=you know, Pattern=just, Pattern=here, Pattern=um, Pattern=years, Pattern=it, Pattern=i've, Pattern=from, Pattern=about, Pattern=so i, Pattern=and so, Pattern=i'm, Pattern=really, Pattern=really ., Pattern=been, Pattern=years and, Pattern=here for, Pattern=um i, Pattern=i just
-	Constrained: Pattern=you, Pattern=just, Pattern=here, Pattern=um, Pattern=years, Pattern=for, Pattern=and, Pattern=know, Pattern=i, Pattern=really, Pattern=so
+Turn ID=0| A | B : oh , you like the rain , do you ?
+	Free: Pattern=you, Pattern=rain, Pattern=, you, Pattern=like, Pattern=the, Pattern=oh ,
+	Constrained: Pattern=you, Pattern=oh
+Turn ID=1| B | M : um , well , not really . i just , i've been real lucky just , um , i , i'm originally from new york , and so i've lived here about two years and i've only lived here for two years so i really haven't been , you know , real experienced with it .
+	Free: Pattern=um ,, Pattern=i just, Pattern=, you know ,, Pattern=years, Pattern=, i've, Pattern=i've, Pattern=about, Pattern=i'm, Pattern=i, Pattern=really, Pattern=, and so, Pattern=really ., Pattern=been, Pattern=so, Pattern=, um , i, Pattern=, well ,, Pattern=here, Pattern=it, Pattern=and, Pattern=, i ,, Pattern=from, Pattern=here for, Pattern=just ,
+	Constrained: Pattern=um ,, Pattern=well, Pattern=you, Pattern=just, Pattern=for, Pattern=and, Pattern=i've, Pattern=well ,, Pattern=and so, Pattern=i, Pattern=really, Pattern=, i, Pattern=, and, Pattern=so, Pattern=here, Pattern=, um ,, Pattern=know, Pattern=, you
 Turn ID=2| A | B : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=3| B | M : and it's been up to fifty-nine so i guess it's not too bad .
-	Free: Pattern=it's been, Pattern=so i, Pattern=i guess it's, Pattern=to, Pattern=and, Pattern=too
-	Constrained: Pattern=i, Pattern=i guess, Pattern=been, Pattern=it's, Pattern=so
-Turn ID=4| A | B : oh are you ? i don't care for that as much .
-	Free: Pattern=you, Pattern=for, Pattern=oh, Pattern=i, Pattern=that
-	Constrained: 
-Turn ID=5| B | M : i i like it but it's just that when it's real cold i just want to go outside .
-	Free: Pattern=i just, Pattern=cold, Pattern=i i like, Pattern=just that, Pattern=to, Pattern=i like it, Pattern=but, Pattern=it's just, Pattern=when it's
-	Constrained: Pattern=just, Pattern=it, Pattern=i, Pattern=like, Pattern=when, Pattern=i like, Pattern=that, Pattern=it's
+Turn ID=3| B | M : and it's been up to fifty-nine , so i guess it's not too bad .
+	Free: Pattern=it's been, Pattern=i guess it's, Pattern=to, Pattern=, so, Pattern=and, Pattern=too
+	Constrained: Pattern=it's, Pattern=so, Pattern=i, Pattern=been
+Turn ID=4| A | B : oh , are you ? i don't care for that as much .
+	Free: Pattern=you, Pattern=for, Pattern=i, Pattern=oh ,, Pattern=that
+	Constrained: Pattern=oh
+Turn ID=5| B | M : i , i like it , but it's just that when it's real cold i just want to go outside .
+	Free: Pattern=i just, Pattern=cold, Pattern=it ,, Pattern=just that, Pattern=to, Pattern=i like it, Pattern=but, Pattern=it's just, Pattern=i , i like, Pattern=when it's
+	Constrained: Pattern=just, Pattern=it, Pattern=i, Pattern=like, Pattern=, i, Pattern=when, Pattern=i like, Pattern=that, Pattern=it's
 Turn ID=6| A | B : no .
 	Free: Pattern=no .
 	Constrained: 
-Turn ID=7| B | M : it's kind of
+Turn ID=7| B | M : it's kind of ,
 	Free: Pattern=it's
 	Constrained: 
 Turn ID=8| A | B : i'm a summer person
@@ -118,15 +118,15 @@ Turn ID=10| A | B : i like the heat .
 Turn ID=11| B | M : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=12| A | B : yeah and i'm from utah so i i like the four seasons
-	Free: Pattern=from, Pattern=so i, Pattern=i'm, Pattern=i i like, Pattern=the, Pattern=yeah, Pattern=and
-	Constrained: Pattern=i like, Pattern=i, Pattern=like, Pattern=so
+Turn ID=12| A | B : yeah , and i'm from utah , so , i , i like , the four seasons
+	Free: Pattern=yeah ,, Pattern=so , i, Pattern=from, Pattern=i'm, Pattern=the, Pattern=, and, Pattern=, so, Pattern=, i , i like
+	Constrained: Pattern=i , i like, Pattern=, i ,, Pattern=i, Pattern=like, Pattern=, i, Pattern=yeah, Pattern=and, Pattern=so, Pattern=i like
 Turn ID=13| B | M :  !!! remind me .
 	Free: Pattern=me
 	Constrained: 
 Turn ID=14| A | B : i just don't like the cold .
-	Free: Pattern=cold ., Pattern=i just, Pattern=like, Pattern=the
-	Constrained: Pattern=i, Pattern=just, Pattern=cold
+	Free: Pattern=cold ., Pattern=i just, Pattern=the, Pattern=like
+	Constrained: Pattern=i, Pattern=cold, Pattern=just
 Turn ID=15| B | M :  !!!!!! it !! you !! i !! that !! oh !! well !! and i hope you get some rain up there .
 	Free: Pattern=well, Pattern=you, Pattern=rain, Pattern=i, Pattern=that, Pattern=it, Pattern=and, Pattern=oh
 	Constrained: 
@@ -140,89 +140,89 @@ Turn ID=18| A | B : yeah .
 	Free: Pattern=yeah .
 	Constrained: Pattern=yeah
 Turn ID=19| B | M : and then it stops .
-	Free: Pattern=it, Pattern=then, Pattern=and
+	Free: Pattern=and, Pattern=then, Pattern=it
 	Constrained: 
-Turn ID=20| A | B : the thing the other thing is the i don't like the rain either .
-	Free: Pattern=i, Pattern=like, Pattern=the, Pattern=rain
-	Constrained: 
-Turn ID=21| B | M : yeah yeah .
-	Free: Pattern=yeah yeah .
-	Constrained: Pattern=yeah ., Pattern=yeah
-Turn ID=22| A | B : well we have several children that are in sports and so it always makes their games be postponed forever and ever and ever on on and on .
-	Free: Pattern=well, Pattern=have, Pattern=that, Pattern=it, Pattern=and, Pattern=and so, Pattern=in
-	Constrained: Pattern=so, Pattern=and
-Turn ID=23| B | M : oh my .
-	Free: Pattern=oh
-	Constrained: 
-Turn ID=24| A | B : i like it better i think .
-	Free: Pattern=i like it, Pattern=i think
-	Constrained: Pattern=it, Pattern=i, Pattern=i like, Pattern=like
+Turn ID=20| A | B : the thing , the other thing is the , i don't like the rain either .
+	Free: Pattern=, i, Pattern=rain, Pattern=the, Pattern=like
+	Constrained: Pattern=i
+Turn ID=21| B | M : yeah , yeah .
+	Free: Pattern=yeah , yeah .
+	Constrained: Pattern=yeah ,, Pattern=yeah ., Pattern=yeah
+Turn ID=22| A | B : well , we have several children that are in sports , and so it always makes their games be postponed forever and ever and ever on , on , and on .
+	Free: Pattern=have, Pattern=well ,, Pattern=in, Pattern=, and so, Pattern=, and, Pattern=that, Pattern=it, Pattern=and
+	Constrained: Pattern=well, Pattern=and, Pattern=and so, Pattern=, and, Pattern=so
+Turn ID=23| B | M : oh , my .
+	Free: Pattern=oh ,
+	Constrained: Pattern=oh
+Turn ID=24| A | B : i like it better , i think .
+	Free: Pattern=i like it, Pattern=, i think
+	Constrained: Pattern=it, Pattern=i, Pattern=like, Pattern=, i, Pattern=i like
 Turn ID=25| B | M : yeah .
 	Free: Pattern=yeah .
 	Constrained: Pattern=yeah
 Turn ID=26| A | B : uh-huh . yeah .
 	Free: Pattern=uh-huh ., Pattern=yeah .
 	Constrained: Pattern=yeah
-Turn ID=27| B | M : it's going to get even cooler . and uh .
-	Free: Pattern=and, Pattern=to, Pattern=even, Pattern=it's
-	Constrained: 
-Turn ID=28| A | B : the thing about when it gets hot here is i don't like the humidity that part i don't care about .
-	Free: Pattern=here, Pattern=it gets, Pattern=i, Pattern=like, Pattern=the, Pattern=when, Pattern=that, Pattern=about, Pattern=hot
-	Constrained: Pattern=it, Pattern=gets
-Turn ID=29| B | M : oh i
-	Free: Pattern=oh i
-	Constrained: Pattern=i, Pattern=oh
-Turn ID=30| A | B : oh really .
-	Free: Pattern=really ., Pattern=oh
-	Constrained: Pattern=really
+Turn ID=27| B | M : it's going to get even cooler . and , uh .
+	Free: Pattern=and ,, Pattern=even, Pattern=it's, Pattern=to
+	Constrained: Pattern=and
+Turn ID=28| A | B : the thing about when it gets hot here is , i don't like the humidity , that part i don't care about .
+	Free: Pattern=here, Pattern=it gets, Pattern=i, Pattern=like, Pattern=when, Pattern=that, Pattern=about, Pattern=hot, Pattern=the, Pattern=, i
+	Constrained: Pattern=gets, Pattern=i, Pattern=it
+Turn ID=29| B | M : oh , i ,
+	Free: Pattern=oh , i, Pattern=, i ,
+	Constrained: Pattern=oh, Pattern=, i, Pattern=i, Pattern=oh ,
+Turn ID=30| A | B : oh , really .
+	Free: Pattern=really ., Pattern=oh ,
+	Constrained: Pattern=really, Pattern=oh
 Turn ID=31| B | M :  !!! ; !! remind me of that .
 	Free: Pattern=me, Pattern=that
 	Constrained: 
-Turn ID=32| A | B : oh is that right ?
-	Free: Pattern=oh, Pattern=right, Pattern=that
-	Constrained: 
+Turn ID=32| A | B : oh , is that right ?
+	Free: Pattern=oh ,, Pattern=right, Pattern=that
+	Constrained: Pattern=oh
 Turn ID=33| B | M : yeah .
 	Free: Pattern=yeah .
 	Constrained: Pattern=yeah
-Turn ID=34| A | B : well another reason well i guess i can't say that it i don't like the rain completely . we have a little garden that we have and and so it really helps our garden
-	Free: Pattern=well, Pattern=our, Pattern=a little, Pattern=reason, Pattern=and so, Pattern=say, Pattern=i, Pattern=can't, Pattern=the, Pattern=that, Pattern=well i, Pattern=rain, Pattern=have, Pattern=it, Pattern=and, Pattern=i guess, Pattern=really, Pattern=like
-	Constrained: Pattern=well, Pattern=a, Pattern=and, Pattern=i, Pattern=so
+Turn ID=34| A | B : well another reason , well , i guess i can't say that it , i don't like the rain completely . we have a little garden that we have and and so it really helps our garden ,
+	Free: Pattern=well, Pattern=, well ,, Pattern=our, Pattern=a little, Pattern=reason, Pattern=and so, Pattern=say, Pattern=can't, Pattern=well , i, Pattern=that, Pattern=rain, Pattern=have, Pattern=it, Pattern=and, Pattern=, i guess, Pattern=i, Pattern=it ,, Pattern=really, Pattern=like, Pattern=the, Pattern=, i
+	Constrained: Pattern=well, Pattern=a, Pattern=well ,, Pattern=i, Pattern=, i, Pattern=so, Pattern=it, Pattern=and
 Turn ID=35| B | M : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=36| A | B : and you know even i don't know if that's because plants are just that way and they like rain or it seems they thrive when it rains they just really
-	Free: Pattern=you know, Pattern=know, Pattern=i, Pattern=just that, Pattern=rain, Pattern=just, Pattern=even, Pattern=they, Pattern=it, Pattern=and, Pattern=really, Pattern=like, Pattern=when, Pattern=and they
-	Constrained: Pattern=you, Pattern=just, Pattern=they, Pattern=and, Pattern=know, Pattern=that
-Turn ID=37| B | M : well i i like it here .
-	Free: Pattern=i like it, Pattern=i i like, Pattern=well i, Pattern=here
-	Constrained: Pattern=well, Pattern=it, Pattern=i, Pattern=like, Pattern=i like
+Turn ID=36| A | B : and , you know , even , i don't know if that's because plants are just that way and they like rain , or , it seems they thrive when it rains , they just , really ,
+	Free: Pattern=, it, Pattern=rain, Pattern=and ,, Pattern=, you know ,, Pattern=it, Pattern=know, Pattern=like, Pattern=just that, Pattern=just ,, Pattern=even, Pattern=they, Pattern=really ,, Pattern=, i, Pattern=when, Pattern=and they
+	Constrained: Pattern=you, Pattern=just, Pattern=they, Pattern=i, Pattern=really, Pattern=that, Pattern=it, Pattern=and, Pattern=know, Pattern=, you
+Turn ID=37| B | M : well , i , i like it here .
+	Free: Pattern=, i , i like, Pattern=well , i, Pattern=i like it, Pattern=here
+	Constrained: Pattern=well, Pattern=i , i like, Pattern=it, Pattern=i, Pattern=like, Pattern=, i, Pattern=i like, Pattern=well ,, Pattern=, i ,
 Turn ID=38| A | B : uh-huh . yeah .
 	Free: Pattern=uh-huh ., Pattern=yeah .
 	Constrained: Pattern=yeah
-Turn ID=39| B | M : but
+Turn ID=39| B | M : but ,
 	Free: Pattern=but
 	Constrained: 
-Turn ID=40| A | B : yeah yeah .
-	Free: Pattern=yeah yeah .
-	Constrained: Pattern=yeah ., Pattern=yeah
-Turn ID=41| B | M : and uh
-	Free: Pattern=and
-	Constrained: 
-Turn ID=42| A | B : well
-	Free: Pattern=well
-	Constrained: 
+Turn ID=40| A | B : yeah , yeah .
+	Free: Pattern=yeah , yeah .
+	Constrained: Pattern=yeah ,, Pattern=yeah ., Pattern=yeah
+Turn ID=41| B | M : and , uh ,
+	Free: Pattern=and ,
+	Constrained: Pattern=and
+Turn ID=42| A | B : well ,
+	Free: Pattern=well ,
+	Constrained: Pattern=well
 Turn ID=43| B | M :  !!! % !! eting at least three times this year .
 	Free: 
 	Constrained: 
 Turn ID=44| A | B : well i like seventies i like seventies okay .
-	Free: Pattern=well i, Pattern=i like, Pattern=okay
-	Constrained: Pattern=well, Pattern=i, Pattern=like
-Turn ID=45| B | M : yeah i
-	Free: Pattern=i, Pattern=yeah
-	Constrained: 
-Turn ID=46| A | B : oh i don't like nineties .
-	Free: Pattern=oh i, Pattern=like
-	Constrained: Pattern=i, Pattern=oh
+	Free: Pattern=i like, Pattern=well, Pattern=okay
+	Constrained: Pattern=i, Pattern=like
+Turn ID=45| B | M : yeah , i ,
+	Free: Pattern=, i ,, Pattern=yeah ,
+	Constrained: Pattern=, i, Pattern=i, Pattern=yeah
+Turn ID=46| A | B : oh , i don't like nineties .
+	Free: Pattern=oh , i, Pattern=like
+	Constrained: Pattern=oh ,, Pattern=, i, Pattern=i, Pattern=oh
 Turn ID=47| B | M : no .
 	Free: Pattern=no .
 	Constrained: 
@@ -238,84 +238,84 @@ Turn ID=50| A | B : and you can give me eighties
 Turn ID=51| B | M :  !!! ; !! remindme !! % !! exists for some strange reason but i don 'vide them .
 	Free: Pattern=for, Pattern=reason, Pattern=i, Pattern=them, Pattern=but
 	Constrained: 
-Turn ID=52| A | B : and i'm okay . but when it gets too hot then it's that i don't like that
-	Free: Pattern=then, Pattern=it gets, Pattern=hot, Pattern=i'm, Pattern=i, Pattern=like, Pattern=when, Pattern=okay, Pattern=and, Pattern=too, Pattern=that, Pattern=it's, Pattern=but
-	Constrained: Pattern=it, Pattern=gets
+Turn ID=52| A | B : and i'm okay . but when it gets too hot , then it's , that , i don't like that
+	Free: Pattern=it's ,, Pattern=then, Pattern=it gets, Pattern=i'm, Pattern=like, Pattern=, i, Pattern=when, Pattern=hot ,, Pattern=that ,, Pattern=okay, Pattern=and, Pattern=too, Pattern=that, Pattern=but
+	Constrained: Pattern=it, Pattern=hot, Pattern=gets, Pattern=i, Pattern=that, Pattern=it's
 Turn ID=53| B | M : yeah
 	Free: Pattern=yeah
 	Constrained: 
-Turn ID=54| A | B : i stay in the house because it's just it's just too hot .
-	Free: Pattern=it's just, Pattern=hot, Pattern=i, Pattern=too, Pattern=in the house
+Turn ID=54| A | B : i stay in the house because it's just , it's just too hot .
+	Free: Pattern=it's just, Pattern=i, Pattern=just ,, Pattern=too, Pattern=in the house, Pattern=, it's, Pattern=hot
 	Constrained: Pattern=it's, Pattern=in, Pattern=just, Pattern=the
 Turn ID=55| B | M : yeah
 	Free: Pattern=yeah
 	Constrained: 
-Turn ID=56| A | B : yeah yeah .
-	Free: Pattern=yeah yeah .
-	Constrained: Pattern=yeah ., Pattern=yeah
-Turn ID=57| B | M : so i think we've really i guess taken a little bit of a turn in our attitudes toward that .
-	Free: Pattern=a, Pattern=our, Pattern=a little, Pattern=so i, Pattern=in, Pattern=we've, Pattern=that, Pattern=i think, Pattern=i guess, Pattern=really
-	Constrained: Pattern=so, Pattern=a, Pattern=i
-Turn ID=58| A | B : that's okay um i've i've thought about that too and um when we take our vacations we we do take them in august sometimes so that we can be away from here
-	Free: Pattern=here, Pattern=um, Pattern=i've, Pattern=about, Pattern=in, Pattern=take our, Pattern=take, Pattern=when, Pattern=so, Pattern=okay, Pattern=and, Pattern=too, Pattern=can, Pattern=from, Pattern=them, Pattern=that
-	Constrained: Pattern=take, Pattern=our
+Turn ID=56| A | B : yeah , yeah .
+	Free: Pattern=yeah , yeah .
+	Constrained: Pattern=yeah ,, Pattern=yeah ., Pattern=yeah
+Turn ID=57| B | M : so , i think we've really , i guess , taken a little bit of a turn in our attitudes toward that .
+	Free: Pattern=a little, Pattern=in, Pattern=, i guess, Pattern=that, Pattern=so , i, Pattern=a, Pattern=, i think, Pattern=our, Pattern=we've, Pattern=really ,
+	Constrained: Pattern=a, Pattern=i, Pattern=really, Pattern=, i, Pattern=so
+Turn ID=58| A | B : that's okay um , i've , i've thought about that , too , and , um , when we take our vacations , we , we do take them in august sometimes so that we can be away from here
+	Free: Pattern=um ,, Pattern=and ,, Pattern=, i've, Pattern=too, Pattern=about, Pattern=in, Pattern=take our, Pattern=take, Pattern=when, Pattern=, and, Pattern=that ,, Pattern=so, Pattern=okay, Pattern=here, Pattern=, um ,, Pattern=can, Pattern=from, Pattern=them, Pattern=that
+	Constrained: Pattern=um ,, Pattern=our, Pattern=and, Pattern=i've, Pattern=take, Pattern=that
 Turn ID=59| B | M : uh-huh .
 	Free: Pattern=uh-huh .
 	Constrained: 
-Turn ID=60| A | B : it just really gets way when it gets way too hot
+Turn ID=60| A | B : it just really gets way , when it gets way too hot
 	Free: Pattern=just, Pattern=it gets, Pattern=hot, Pattern=gets, Pattern=really, Pattern=when, Pattern=it, Pattern=too
-	Constrained: Pattern=it, Pattern=gets
-Turn ID=61| B | M : yeah it's it gets uh you know we've been wanting to take our summer off and just spend the day with the kids you can spend the whole week in the house
-	Free: Pattern=you know, Pattern=just, Pattern=it gets, Pattern=you can, Pattern=to, Pattern=yeah, Pattern=and, Pattern=in the house, Pattern=day, Pattern=take our, Pattern=off, Pattern=the, Pattern=summer, Pattern=it's, Pattern=we've been
-	Constrained: Pattern=you, Pattern=our, Pattern=it, Pattern=can, Pattern=in, Pattern=been, Pattern=know, Pattern=gets, Pattern=we've, Pattern=take, Pattern=the
-Turn ID=62| A | B : and we've been here for several years and we've been here years when it's been hundreds and
-	Free: Pattern=years, Pattern=and, Pattern=years and, Pattern=here, Pattern=when it's, Pattern=it's been, Pattern=here for, Pattern=we've been
-	Constrained: Pattern=here, Pattern=years, Pattern=for, Pattern=and, Pattern=we've, Pattern=when, Pattern=been, Pattern=it's
-Turn ID=63| B | M : uh so you've never been to a beach ?
-	Free: Pattern=so, Pattern=been, Pattern=to, Pattern=a
-	Constrained: 
-Turn ID=64| A | B : years uh-huh .
+	Constrained: Pattern=gets, Pattern=it
+Turn ID=61| B | M : yeah , it's , it gets , uh , you know , we've been wanting to take our summer off and just spend the day with the kids , you can spend the whole week in the house ,
+	Free: Pattern=, it, Pattern=it's ,, Pattern=just, Pattern=yeah ,, Pattern=, you know ,, Pattern=it gets, Pattern=you can, Pattern=, it's, Pattern=, you, Pattern=to, Pattern=and, Pattern=in the house, Pattern=day, Pattern=take our, Pattern=off, Pattern=the, Pattern=summer, Pattern=we've been
+	Constrained: Pattern=you, Pattern=our, Pattern=can, Pattern=in, Pattern=been, Pattern=it's, Pattern=it, Pattern=yeah, Pattern=know, Pattern=gets, Pattern=, you, Pattern=we've, Pattern=take, Pattern=the
+Turn ID=62| A | B : and we've been here for several years , and we've been here years when it's been hundreds and ,
+	Free: Pattern=and ,, Pattern=years, Pattern=and, Pattern=, and, Pattern=here, Pattern=when it's, Pattern=it's been, Pattern=here for, Pattern=we've been
+	Constrained: Pattern=here, Pattern=for, Pattern=and, Pattern=we've, Pattern=when, Pattern=been, Pattern=it's
+Turn ID=63| B | M : uh , so you've never been to a beach ?
+	Free: Pattern=, so, Pattern=a, Pattern=been, Pattern=to
+	Constrained: Pattern=so
+Turn ID=64| A | B : years , uh-huh .
 	Free: Pattern=uh-huh ., Pattern=years
 	Constrained: 
-Turn ID=65| B | M :  !!! % !! remind me of that
-	Free: Pattern=me, Pattern=that
-	Constrained: 
-Turn ID=66| A | B : yeah yeah . he he always did such a good job i thought .
-	Free: Pattern=yeah yeah ., Pattern=i, Pattern=a
-	Constrained: Pattern=yeah ., Pattern=yeah
-Turn ID=67| B | M : he's just so hot you know you just can't stand him .
-	Free: Pattern=you know, Pattern=just, Pattern=hot, Pattern=can't, Pattern=you just, Pattern=so
-	Constrained: Pattern=know, Pattern=just, Pattern=you
-Turn ID=68| A | B : a good weather man
+Turn ID=65| B | M :  !!! % !! remind me of that ,
+	Free: Pattern=that ,, Pattern=me
+	Constrained: Pattern=that
+Turn ID=66| A | B : yeah , yeah . he , he always did such a good job , i thought .
+	Free: Pattern=yeah , yeah ., Pattern=, i, Pattern=a
+	Constrained: Pattern=yeah ., Pattern=yeah ,, Pattern=i, Pattern=yeah
+Turn ID=67| B | M : he's just so hot , you know , you just can't stand him .
+	Free: Pattern=just, Pattern=, you know ,, Pattern=, you, Pattern=can't, Pattern=so, Pattern=you just, Pattern=hot ,
+	Constrained: Pattern=you, Pattern=just, Pattern=hot, Pattern=know, Pattern=, you
+Turn ID=68| A | B : a good weather man ,
 	Free: Pattern=a
 	Constrained: 
 Turn ID=69| B | M :  !!! % !! remind me .
 	Free: Pattern=me
 	Constrained: 
-Turn ID=70| A | B : yeah . anyway um i guess it's
-	Free: Pattern=i guess it's, Pattern=um i, Pattern=yeah .
-	Constrained: Pattern=um, Pattern=yeah, Pattern=i, Pattern=i guess, Pattern=it's
-Turn ID=71| B | M : it's it's been warm it has been cold .
-	Free: Pattern=it's been, Pattern=it, Pattern=cold ., Pattern=been, Pattern=it's
-	Constrained: Pattern=been, Pattern=it's, Pattern=cold
-Turn ID=72| A | B : that's okay they say when you're done you're done
-	Free: Pattern=they say, Pattern=okay, Pattern=when
-	Constrained: Pattern=say, Pattern=they
-Turn ID=73| B | M : yeah yeah .
-	Free: Pattern=yeah yeah .
-	Constrained: Pattern=yeah ., Pattern=yeah
+Turn ID=70| A | B : yeah . anyway , um , i guess it's ,
+	Free: Pattern=it's ,, Pattern=yeah ., Pattern=, i guess, Pattern=i guess it's, Pattern=, um , i
+	Constrained: Pattern=um ,, Pattern=, um ,, Pattern=yeah, Pattern=i, Pattern=, i, Pattern=it's
+Turn ID=71| B | M : it's , it's been warm , it has been cold .
+	Free: Pattern=, it, Pattern=it's ,, Pattern=it's been, Pattern=cold ., Pattern=, it's, Pattern=been
+	Constrained: Pattern=cold, Pattern=it's, Pattern=it, Pattern=been
+Turn ID=72| A | B : that's okay , they say when you're done you're done ,
+	Free: Pattern=okay ,, Pattern=they say, Pattern=when
+	Constrained: Pattern=okay, Pattern=say, Pattern=they
+Turn ID=73| B | M : yeah , yeah .
+	Free: Pattern=yeah , yeah .
+	Constrained: Pattern=yeah ,, Pattern=yeah ., Pattern=yeah
 Turn ID=74| A | B : you don't have to wait for them to say cut off your time .
 	Free: Pattern=you, Pattern=have, Pattern=for, Pattern=say, Pattern=off, Pattern=to, Pattern=them
 	Constrained: 
 Turn ID=75| B | M : right .
 	Free: Pattern=right
 	Constrained: 
-Turn ID=76| A | B : you just say have a good day or whatever .
+Turn ID=76| A | B : you just say , have a good day or whatever .
 	Free: Pattern=have, Pattern=a, Pattern=say, Pattern=day, Pattern=you just
-	Constrained: Pattern=just, Pattern=you
-Turn ID=77| B | M :  !!! % okay well i'll talk to you later .
-	Free: Pattern=okay, Pattern=well, Pattern=to, Pattern=you
-	Constrained: 
+	Constrained: Pattern=you, Pattern=just
+Turn ID=77| B | M :  !!! % okay , well , i'll talk to you later .
+	Free: Pattern=, well ,, Pattern=okay ,, Pattern=you, Pattern=to
+	Constrained: Pattern=well ,, Pattern=well, Pattern=okay
 Turn ID=78| A | B : you too .
 	Free: Pattern=too, Pattern=you
 	Constrained: 

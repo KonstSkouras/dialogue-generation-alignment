@@ -1,27 +1,38 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	to make more money and	17	B	10, 26
+3	4	, uh , we	11	B	6, 8, 16
+2	4	, i think ,	3	B	10, 12
+2	4	, uh , to	27	B	0, 26
+2	4	to make more money	17	B	10, 26
+2	4	uh , we have	9	B	0, 8
 2	4	we were going to	3	B	14, 16
+11	3	, uh ,	27	B	0, 2, 6, 8, 10, 12, 14, 16, 18, 20, 26
 2	3	a flat percentage	15	B	12, 26
-2	3	uh we have	9	B	0, 8
-4	2	uh we	17	B	0, 6, 8, 16
+12	2	uh ,	27	B	0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 26
+3	2	, i	5	B	10, 12, 14
 3	2	going to	15	B	14, 16, 28
 3	2	i think	13	B	0, 10, 12
 3	2	tax .	13	B	8, 16, 20
 3	2	taxes .	19	B	8, 24, 26
+3	2	that ,	23	B	8, 10, 30
+3	2	the ,	25	B	2, 14, 26
 3	2	we have	9	B	0, 6, 8
 3	2	you pay	13	B	10, 20, 22
+2	2	, a	5	B	8, 12
+2	2	, for	19	B	0, 18
+2	2	, that	7	B	12, 18
+2	2	, you're	27	B	4, 30
 2	2	all the	13	B	2, 14
 2	2	amount .	7	B	6, 12
-2	2	and so	3	B	28, 30
+2	2	and ,	17	B	12, 28
 2	2	any more	23	B	6, 28
-2	2	but you	5	B	20, 24
+2	2	but ,	19	B	2, 20
 2	2	on all	13	B	2, 14
 2	2	progressive tax	3	B	8, 10
-2	2	that the	9	B	2, 10
+2	2	so ,	3	B	28, 30
+2	2	tax ,	3	B	8, 10
+2	2	to ,	25	B	6, 30
 2	2	to be	5	B	12, 16
 2	2	to pay	9	B	6, 14
-2	2	uh to	27	B	0, 26
-12	1	uh	27	B	0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 26
 10	1	to	31	B	0, 2, 6, 10, 12, 14, 16, 26, 28, 30
 9	1	and	31	B	0, 2, 10, 12, 14, 16, 26, 28, 30
 9	1	that	29	B	2, 8, 10, 12, 14, 18, 20, 26, 30

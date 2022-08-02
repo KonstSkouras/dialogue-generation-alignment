@@ -1,61 +1,78 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	4	uh-huh . sure .	39	A	13, 45, 51
+2	4	, i don't know	45	A	17, 61
+2	4	, uh , i	17	A	1, 17
+2	4	but , uh ,	15	A	59, 73
+2	4	quite a bit ,	17	A	13, 29
+8	3	, uh ,	73	A	1, 17, 29, 33, 55, 59, 65, 73
 4	3	uh-huh . sure	39	A	13, 41, 45, 51
 3	3	i don't know	45	A	17, 23, 61
 3	3	you have to	35	A	1, 33, 35
+2	3	, sure ,	25	A	41, 65
+2	3	. sure ,	29	A	13, 41
 2	3	. uh-huh .	5	A	41, 45
+2	3	about that ,	3	A	71, 73
 2	3	into the air	27	A	33, 59
-2	3	quite a bit	17	A	13, 29
+2	3	oh , okay	5	A	21, 25
 2	3	the other thing	33	A	23, 55
 2	3	they want to	57	A	9, 65
+2	3	uh , the	27	A	29, 55
+8	2	uh ,	73	A	1, 17, 29, 33, 55, 59, 65, 73
 7	2	uh-huh .	51	A	3, 13, 41, 45, 47, 51, 53
 5	2	. sure	41	A	13, 41, 45, 51, 53
+4	2	, and	63	A	9, 33, 59, 71
+4	2	, i	71	A	1, 17, 61, 71
 4	2	have to	67	A	1, 33, 35, 67
+4	2	sure ,	53	A	13, 39, 41, 65
 4	2	sure .	39	A	13, 45, 49, 51
-3	2	and i	11	A	61, 63, 71
+4	2	that ,	57	A	17, 61, 71, 73
+3	2	, because	43	A	23, 33, 65
+3	2	oh ,	45	A	21, 25, 65
 3	2	the other	47	A	9, 23, 55
 3	2	they want	57	A	9, 23, 65
 3	2	want to	65	A	1, 9, 65
+3	2	yeah ,	33	A	9, 39, 41
+2	2	, but	3	A	31, 33
+2	2	, it's	41	A	1, 41
+2	2	, or	53	A	9, 61
+2	2	, that	13	A	1, 13
+2	2	, yeah	25	A	15, 39
+2	2	, you	73	A	1, 73
 2	2	. yeah	45	A	9, 53
-2	2	about that	3	A	71, 73
 2	2	air conditioning	17	A	55, 71
+2	2	and i	9	A	63, 71
 2	2	and they	25	A	9, 33
 2	2	because it	9	A	59, 67
-2	2	but uh	15	A	59, 73
 2	2	exactly .	69	A	7, 75
 2	2	get your	3	A	33, 35
 2	2	i think	69	A	1, 69
 2	2	i'm sure	17	A	55, 71
 2	2	in a	39	A	33, 71
 2	2	into the	27	A	33, 59
+2	2	it ,	3	A	59, 61
 2	2	it's not	33	A	9, 41
 2	2	kind of	71	A	1, 71
 2	2	my husband	13	A	59, 71
 2	2	of the	59	A	1, 59
-2	2	oh okay	5	A	21, 25
 2	2	okay .	7	A	19, 25
 2	2	the people	73	A	1, 73
+2	2	to ,	33	A	1, 33
 2	2	to be	39	A	21, 59
-2	2	uh i	17	A	1, 17
-2	2	uh the	27	A	29, 55
 2	2	yeah .	49	A	5, 53
 2	2	you get	3	A	31, 33
 2	2	your car	3	A	33, 35
 10	1	and	65	A	9, 29, 33, 35, 59, 61, 63, 67, 71, 73
-10	1	sure	59	A	13, 39, 41, 45, 49, 51, 53, 55, 65, 71
 10	1	that	73	A	1, 9, 13, 17, 29, 33, 61, 67, 71, 73
 10	1	to	71	A	1, 9, 21, 23, 33, 35, 59, 65, 67, 71
 9	1	a	71	A	1, 13, 29, 33, 41, 55, 65, 69, 71
 9	1	the	73	A	1, 9, 23, 29, 33, 35, 55, 59, 73
 8	1	i	71	A	1, 17, 23, 61, 63, 67, 69, 71
-8	1	uh	73	A	1, 17, 29, 33, 55, 59, 65, 73
 8	1	uh-huh	51	A	3, 9, 13, 41, 45, 47, 51, 53
 7	1	it's	69	A	1, 9, 33, 41, 55, 57, 69
 7	1	you	73	A	1, 31, 33, 35, 37, 65, 73
 6	1	because	49	A	23, 33, 59, 65, 67, 71
 6	1	it	17	A	55, 59, 61, 65, 67, 71
 6	1	other	55	A	9, 17, 23, 33, 55, 63
-6	1	yeah	49	A	5, 9, 15, 39, 41, 53
 5	1	but	43	A	31, 33, 57, 59, 73
 5	1	freon	19	A	55, 59, 65, 67, 73
 5	1	have	67	A	1, 29, 33, 35, 67
@@ -75,7 +92,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	in	39	A	33, 67, 71
 3	1	like	73	A	1, 69, 73
 3	1	not	41	A	1, 9, 41
-3	1	oh	45	A	21, 25, 65
 3	1	quite	49	A	13, 29, 61
 3	1	so	67	A	1, 33, 67
 3	1	something	13	A	55, 61, 67

@@ -1,45 +1,65 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-3	7	i know it i know it .	47	A	13, 23, 59
+3	8	i know it , i know it .	47	A	13, 23, 59
 2	5	they pick up everything .	3	A	1, 3
+2	5	well , i mean ,	59	A	31, 89
+2	4	, you know ,	89	A	1, 89
 2	4	i just don't know	3	A	17, 19
+3	3	, i mean	59	A	31, 33, 89
+3	3	, you know	89	A	1, 71, 89
+3	3	i mean ,	61	A	31, 89, 91
+3	3	you know ,	89	A	1, 73, 89
+2	3	, they have	5	A	51, 55
+2	3	, uh ,	51	A	1, 51
 2	3	at all .	59	A	35, 93
+2	3	it is ,	3	A	67, 69
+2	3	oh , yeah	27	A	25, 51
 2	3	that you can	9	A	47, 55
-2	3	they have like	37	A	19, 55
+2	3	they , they	27	A	55, 81
+2	3	they have ,	33	A	19, 51
 2	3	they pick up	3	A	1, 3
-2	3	well i mean	59	A	31, 89
+2	3	yellow paper ,	3	A	71, 73
+6	2	, i	77	A	13, 23, 31, 33, 59, 89
+6	2	, you	89	A	1, 19, 31, 71, 73, 89
 6	2	uh-huh .	25	A	5, 7, 9, 13, 21, 29
 5	2	it .	65	A	13, 23, 45, 59, 77
+5	2	well ,	59	A	31, 67, 71, 81, 89
 5	2	you know	89	A	1, 63, 71, 73, 89
+4	2	, like	63	A	1, 19, 53, 63
+4	2	, they	31	A	51, 55, 71, 81
 4	2	i know	47	A	13, 23, 47, 59
-4	2	i mean	61	A	31, 33, 89, 91
+4	2	it ,	69	A	13, 23, 59, 81
+4	2	mean ,	73	A	19, 31, 89, 91
 3	2	don't know	73	A	17, 19, 89
 3	2	everything .	31	A	1, 3, 31
 3	2	i just	29	A	17, 19, 45
+3	2	know ,	89	A	1, 73, 89
+3	2	oh ,	27	A	25, 37, 51
 3	2	ought to	53	A	31, 45, 83
-3	2	they have	37	A	19, 51, 55
+3	2	they ,	27	A	55, 69, 81
+3	2	yeah ,	29	A	51, 55, 79
 3	2	yeah .	63	A	25, 49, 87
 3	2	you can	27	A	47, 55, 73
+2	2	, because	39	A	31, 69
+2	2	, it	7	A	67, 73
+2	2	, it's	21	A	31, 51
 2	2	. they	81	A	1, 81
 2	2	and stuff	19	A	1, 19
 2	2	because they	69	A	1, 69
 2	2	i don't	39	A	51, 89
 2	2	in .	3	A	55, 57
-2	2	it is	3	A	67, 69
 2	2	it will	5	A	73, 77
 2	2	kind of	39	A	51, 89
 2	2	know that	17	A	47, 63
 2	2	milk jugs	47	A	1, 47
-2	2	oh yeah	27	A	25, 51
 2	2	something like	9	A	63, 71
 2	2	stuff .	19	A	1, 19
-2	2	they they	27	A	55, 81
+2	2	the ,	5	A	27, 31
+2	2	to ,	21	A	31, 51
 2	2	to just	33	A	51, 83
-2	2	yellow paper	3	A	71, 73
 13	1	i	83	A	13, 17, 19, 23, 31, 33, 45, 47, 51, 59, 89, 91, 95
 11	1	it	69	A	13, 15, 23, 45, 59, 61, 67, 69, 73, 77, 81
 9	1	the	63	A	1, 19, 27, 31, 33, 37, 47, 51, 63
 9	1	you	89	A	1, 19, 31, 47, 55, 63, 71, 73, 89
-8	1	they	81	A	1, 3, 19, 51, 55, 69, 71, 81
 8	1	yeah	77	A	11, 25, 49, 51, 55, 75, 79, 87
 7	1	that	77	A	19, 45, 47, 51, 55, 63, 95
 7	1	to	65	A	19, 31, 45, 51, 71, 77, 83
@@ -47,9 +67,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	is	69	A	1, 47, 61, 63, 67, 69
 6	1	like	71	A	1, 19, 53, 55, 63, 71
 5	1	in	83	A	1, 55, 57, 73, 83
-5	1	mean	73	A	19, 31, 33, 89, 91
 5	1	of	39	A	51, 63, 73, 77, 89
-5	1	well	59	A	31, 67, 71, 81, 89
 4	1	a	73	A	19, 61, 73, 91
 4	1	all	75	A	19, 33, 35, 93
 4	1	because	69	A	1, 19, 31, 69
@@ -58,7 +76,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	up	51	A	1, 3, 15, 51
 3	1	at	75	A	19, 35, 93
 3	1	i'm	43	A	41, 53, 83
-3	1	oh	27	A	25, 37, 51
 3	1	really	45	A	19, 61, 63
 3	1	we	61	A	33, 83, 93
 2	1	be	5	A	73, 77
@@ -67,7 +84,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	everybody	47	A	45, 91
 2	1	go	19	A	33, 51
 2	1	got	33	A	19, 51
-2	1	it's	21	A	31, 51
 2	1	little	37	A	19, 55
 2	1	maybe	3	A	83, 85
 2	1	no	31	A	63, 93
@@ -80,7 +96,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	think	45	A	45, 89
 2	1	time	19	A	33, 51
 2	1	treat	11	A	71, 81
-2	1	uh	51	A	1, 51
 2	1	with	9	A	63, 71
 2	1	would	3	A	93, 95
 2	1	your	37	A	19, 55

@@ -1,11 +1,20 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	7	think , well , i don't have	3	B	8, 10
+2	5	, you know , i	13	B	54, 66
 2	5	have to have it all	3	B	54, 56
-2	5	think well i don't have	3	B	8, 10
+5	4	, you know ,	31	B	42, 54, 66, 68, 72
+3	4	, well , i	47	B	8, 10, 54
 3	4	have to have it	11	B	54, 56, 64
+2	4	, have to have	3	B	54, 56
+2	4	, put it on	3	B	60, 62
+2	4	, two thousand dollars	17	B	42, 58
 2	4	a lot of money	47	B	24, 70
 2	4	uh-huh . uh-huh .	29	B	0, 28
+2	4	you know , you	19	B	54, 72
+5	3	, well ,	53	B	8, 10, 54, 58, 60
 3	3	. uh-huh .	29	B	0, 6, 28
 3	3	have to have	11	B	54, 56, 64
+2	3	, uh ,	13	B	54, 66
 2	3	have it now	55	B	10, 64
 2	3	have the money	3	B	8, 10
 2	3	in the mail	3	B	38, 40
@@ -14,27 +23,42 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	put it on	3	B	60, 62
 2	3	that . we're	3	B	56, 58
 2	3	these things that	15	B	40, 54
-2	3	two thousand dollars	17	B	42, 58
-2	3	you know i	13	B	54, 66
-2	3	you know you	19	B	54, 72
+2	3	thousand dollars ,	17	B	42, 58
+2	3	yeah , you	59	B	10, 68
 11	2	uh-huh .	51	B	0, 4, 6, 16, 18, 26, 28, 30, 46, 48, 50
+7	2	, you	63	B	10, 38, 42, 54, 66, 68, 72
+5	2	, i	65	B	8, 10, 54, 66, 72
 5	2	and then	63	B	10, 22, 54, 62, 72
 5	2	to have	19	B	54, 56, 64, 68, 72
-5	2	you know	31	B	42, 54, 66, 68, 72
+5	2	well ,	53	B	8, 10, 54, 58, 60
 4	2	have the	61	B	8, 10, 44, 68
+4	2	it ,	31	B	42, 60, 62, 72
 4	2	that you	49	B	24, 54, 70, 72
+4	2	yeah ,	59	B	10, 24, 54, 68
+3	2	, have	13	B	54, 56, 66
 3	2	. we're	11	B	56, 58, 66
+3	2	and ,	13	B	54, 58, 66
 3	2	huh .	27	B	6, 20, 32
 3	2	in the	17	B	38, 40, 54
 3	2	kind of	25	B	42, 54, 66
+3	2	like ,	5	B	54, 56, 58
 3	2	now .	9	B	56, 62, 64
 3	2	of money	47	B	24, 68, 70
 3	2	pay it	43	B	24, 60, 66
 3	2	that .	15	B	44, 56, 58
 3	2	the money	65	B	8, 10, 72
 3	2	things that	43	B	12, 40, 54
-3	2	well i	47	B	8, 10, 54
 3	2	you've got	31	B	42, 68, 72
+2	2	, a	17	B	54, 70
+2	2	, all	25	B	42, 66
+2	2	, and	5	B	58, 62
+2	2	, if	65	B	8, 72
+2	2	, it's	5	B	54, 58
+2	2	, like	5	B	54, 58
+2	2	, save	19	B	54, 72
+2	2	, that	33	B	40, 72
+2	2	, we	13	B	54, 66
+2	2	, we're	9	B	58, 66
 2	2	. and	15	B	58, 72
 2	2	. i	31	B	42, 72
 2	2	a big	15	B	54, 68
@@ -43,26 +67,27 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	and i	19	B	54, 72
 2	2	and you	15	B	54, 68
 2	2	buy it	7	B	54, 60
+2	2	don't ,	13	B	54, 66
 2	2	for it	11	B	62, 72
 2	2	i hate	31	B	42, 72
 2	2	i have	13	B	54, 66
-2	2	it .	19	B	54, 72
 2	2	of time	31	B	24, 54
 2	2	off .	7	B	60, 66
+2	2	oh ,	23	B	38, 60
 2	2	on sale	45	B	24, 68
 2	2	right .	19	B	4, 22
+2	2	that ,	19	B	54, 72
 2	2	that i	33	B	40, 72
+2	2	that's ,	17	B	54, 70
 2	2	the credit	33	B	8, 40
 2	2	the time	15	B	24, 38
 2	2	them at	13	B	54, 66
 2	2	these things	15	B	40, 54
 2	2	things and	13	B	42, 54
-2	2	thousand dollars	17	B	42, 58
+2	2	time ,	13	B	12, 24
 2	2	time .	17	B	38, 54
 2	2	to do	3	B	42, 44
-2	2	to you	13	B	42, 54
 2	2	yeah .	17	B	36, 52
-2	2	yeah you	59	B	10, 68
 2	2	you don't	19	B	54, 72
 2	2	you get	15	B	24, 38
 2	2	you got	19	B	24, 42
@@ -84,14 +109,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	money	65	B	8, 10, 24, 68, 70, 72
 6	1	on	61	B	8, 24, 60, 62, 66, 68
 6	1	pay	51	B	22, 24, 60, 62, 66, 72
-6	1	yeah	59	B	10, 24, 36, 52, 54, 68
 5	1	but	57	B	10, 12, 54, 56, 66
-5	1	don't	65	B	8, 10, 54, 66, 72
 5	1	got	49	B	24, 42, 54, 68, 72
 5	1	it's	61	B	8, 54, 58, 64, 68
 5	1	just	19	B	54, 60, 62, 68, 72
 5	1	so	65	B	8, 54, 66, 68, 72
-5	1	well	53	B	8, 10, 54, 58, 60
 4	1	do	15	B	40, 42, 44, 54
 4	1	hate	33	B	40, 42, 68, 72
 4	1	in	25	B	38, 40, 54, 62
@@ -101,7 +123,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	that's	63	B	8, 12, 54, 70
 4	1	they	23	B	40, 42, 44, 62
 4	1	this	49	B	22, 24, 66, 70
-4	1	time	43	B	12, 24, 38, 54
 4	1	you've	49	B	24, 42, 68, 72
 3	1	always	19	B	54, 64, 72
 3	1	because	45	B	24, 62, 68
@@ -136,7 +157,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	living	15	B	58, 72
 2	1	my	15	B	54, 68
 2	1	never	5	B	68, 72
-2	1	oh	23	B	38, 60
 2	1	okay	57	B	2, 58
 2	1	one	15	B	54, 68
 2	1	out	47	B	8, 54
@@ -151,7 +171,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	thing	19	B	24, 42
 2	1	thought	43	B	24, 66
 2	1	two	17	B	42, 58
-2	1	uh	13	B	54, 66
 2	1	up	19	B	54, 72
 2	1	use	59	B	8, 66
 2	1	want	5	B	58, 62

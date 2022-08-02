@@ -1,15 +1,20 @@
 Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
+2	2	3	i know ,	24	14	1	M	11, 24
 4	4	2	i think	7	26	1	A	2, 7, 18, 27
+3	3	2	, i	11	25	1	A	6, 11, 30
+3	3	2	, that's	19	15	1	A	10, 19, 24
+3	1	2	know ,	30	20	1	M	11, 24, 30
 3	3	2	to the	25	13	1	A	18, 25, 30
 2	2	2	all the	45	28	1	A	18, 45
 2	2	2	go to	30	6	1	M	25, 30
 2	2	2	got to	30	12	1	M	19, 30
-2	2	2	i know	24	14	1	M	11, 24
+2	1	2	i know	24	14	1	M	11, 24
+2	2	2	it ,	44	26	1	M	19, 44
 2	2	2	so .	42	16	1	M	27, 42
 2	2	2	think you	31	30	1	A	2, 31
-13	7	1	i	5	30	1	A	2, 5, 6, 7, 8, 11, 18, 19, 24, 25, 27, 30, 31
+13	5	1	i	5	30	1	A	2, 5, 6, 7, 8, 11, 18, 19, 24, 25, 27, 30, 31
 12	10	1	the	17	45	3	A	2, 10, 16, 17, 18, 25, 29, 30, 33, 38, 45, 46
-9	9	1	it	9	43	2	A	2, 6, 9, 18, 19, 21, 22, 38, 44
+9	7	1	it	9	43	2	A	2, 6, 9, 18, 19, 21, 22, 38, 44
 9	6	1	to	19	37	4	A	2, 6, 10, 18, 19, 21, 25, 30, 38
 8	7	1	you	21	32	2	A	2, 6, 21, 22, 25, 30, 31, 33
 7	7	1	a	19	34	2	A	10, 18, 19, 25, 30, 35, 43
@@ -17,7 +22,7 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 6	4	1	all	7	44	1	A	2, 7, 17, 18, 32, 45
 6	6	1	and	3	37	1	A	2, 3, 16, 30, 32, 38
 6	1	1	think	19	30	1	A	2, 7, 18, 19, 27, 31
-5	5	1	that's	19	23	1	A	10, 19, 24, 30, 32
+5	2	1	that's	30	23	1	A	10, 19, 24, 30, 32
 4	4	1	have	21	20	3	A	2, 6, 16, 21
 4	4	1	in	29	23	1	A	10, 29, 30, 32
 4	4	1	like	22	42	1	M	5, 22, 43, 46
@@ -26,7 +31,6 @@ Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Spe
 3	1	1	got	22	12	1	M	19, 22, 30
 3	3	1	it's	30	27	1	M	17, 30, 43
 3	3	1	just	43	14	2	A	30, 38, 43
-3	1	1	know	30	20	1	M	11, 24, 30
 2	2	1	been	19	14	1	A	6, 19
 2	2	1	but	19	14	1	A	6, 19
 2	2	1	do	42	10	1	M	33, 42

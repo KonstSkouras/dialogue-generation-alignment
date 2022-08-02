@@ -1,30 +1,30 @@
 A|0| B: _have _a_ good_ 
 B|1| M: _i think_ _you [have_ a] problem 
-A|2| B: and and _the_ one person [i] _know_ _that_ has one _they_ _they_ feel guilty . she has this continual guilt trip _that_ she's _not_ doing _the_ right thing and so _on_ _uh_ _on_ weekends she _would_ [you] _know_ spend _all_ _of_ her _time_ _with_ her kids and spend lots _of_ lots and lots _of_ money . basically [i think] _they_ _they_ really spoil _the_ child _to_ try _to_ overcompensate for their guilt feelings . 
+A|2| B: and , and _the_ one person [i] _know_ _that_ has one , _they_ , _they_ feel guilty . she has this continual guilt trip _that_ she's _not_ doing _the_ right thing , and so _on_ , _uh_ , _on_ weekends she _would_ , [you] _know ,_ spend _all_ _of_ her _time_ _with_ her kids and spend lots _of_ , lots and lots _of_ money . basically , [i think] _they_ , _they_ really spoil _the_ child , _to_ try _to_ overcompensate for their guilt feelings . 
 B|3| M: it's [on] ? 
-A|4| B: when we get an hour more 
+A|4| B: when we get an hour more , 
 B|5| M:  
-A|6| B: and so she got me copies _of_ _uh_ several _of_ _the_ apple programs for school programs 
+A|6| B: and so she got me copies _of_ , _uh_ , several _of_ _the_ apple programs for school programs , 
 B|7| M: they're [good] ! 
-A|8| B: [i] mean some _of_ _the_ 
+A|8| B: [i] mean , some _of_ _the_ , 
 B|9| M: i'd . [the] us _is_ [a] country . 
 A|10| B: how do we usually ? 
 B|11| M: _that's_ [a good] point _. i_ wonder if [they] will be able [to] bring _in_ [the] oil from saudi arabia ? 
-A|12| B: _oh_ gosh [. i] [i] _would_ much rather _that_ do _that_ [to] myself than make my five year old _go_ [in] and do _it_ . _that_ _would_ kill me . 
+A|12| B: _oh_ , gosh [. i] , [i] _would_ much rather _that_ , do _that_ , [to] myself than make my five year old _go_ [in] and do _it_ . _that_ _would_ kill me . 
 B|13| M: [i] don't [think] [i] can afford [to] buy [a] house [with] [all] [that] . 
 A|14| B: [you] _know_ . [in] [that] standpoint . 
 B|15| M: didn't [it] used [to] be [the] same [time] as [the] second episode [of] season 2 ? 
-A|16| B: did [you have] shrimp ? i've seen [in] [you] _know_ [they] [they] show [all] this wonderful seafood and and great big prawns [you] _know_ [the] big shrimp and 
-B|17| M: it's [not] [a] bad place _just_ [a] little busy 
-A|18| B: right or what you've heard [on] t v which [i think] [is] [just] outrageous . 
+A|16| B: did [you have] shrimp ? i've seen [in] , [you] _know ,_ [they] , [they] show [all] this wonderful seafood and , and great big prawns , [you] _know_ [the] big shrimp and , 
+B|17| M: it's [not] [a] bad place , _just_ [a] little busy 
+A|18| B: right , or what you've heard [on] t v , which [i think] [is] [just] outrageous . 
 B|19| M: why [would] anyone [go] [to] dc ? 
 A|20| B: right . 
 B|21| M:  
-A|22| B: [you] _know_ [the] poor trees said what 
+A|22| B: [you] _know ,_ [the] poor trees , said what 
 B|23| M: it's cold . 
-A|24| B: very frustrating . _uh_ _but_ again i've _been_ dealing [with] large files both data and and otherwise . _uh_ [that] was [a] engineering spec [on] b two . [you] come here [with] [the] b level [of] specs ? 
-B|25| M: [i] don't [know] [but] it's [the] same as it's always [been] . 
-A|26| B: _yeah_ _yeah_ . 
+A|24| B: very frustrating . _uh_ _, but_ again i've _been_ dealing [with] large files both data and , and otherwise . _uh_ , [that] was [a] engineering spec [on] b two . [you] come here [with] [the] b level [of] specs ? 
+B|25| M: [i] don't [know [,] but] it's [the] same as it's always [been] . 
+A|26| B: _yeah_ , _yeah_ . 
 B|27| M: [yeah] [uh] 
 A|28| B: right . 
 B|29| M: [oh] . okay . 
@@ -39,25 +39,25 @@ Turn ID=0| A | B : have a good
 Turn ID=1| B | M : i think you have a problem
 	Free: Pattern=you have, Pattern=i think, Pattern=have a
 	Constrained: Pattern=a, Pattern=i, Pattern=you, Pattern=think
-Turn ID=2| A | B : and and the one person i know that has one they they feel guilty . she has this continual guilt trip that she's not doing the right thing and so on uh on weekends she would you know spend all of her time with her kids and spend lots of lots and lots of money . basically i think they they really spoil the child to try to overcompensate for their guilt feelings .
-	Free: Pattern=time, Pattern=of, Pattern=they, Pattern=know, Pattern=i, Pattern=would, Pattern=to, Pattern=i think, Pattern=not, Pattern=you, Pattern=uh, Pattern=on, Pattern=the, Pattern=all, Pattern=with, Pattern=that
-	Constrained: Pattern=i, Pattern=think
+Turn ID=2| A | B : and , and the one person i know that has one , they , they feel guilty . she has this continual guilt trip that she's not doing the right thing , and so on , uh , on weekends she would , you know , spend all of her time with her kids and spend lots of , lots and lots of money . basically , i think they , they really spoil the child , to try to overcompensate for their guilt feelings .
+	Free: Pattern=time, Pattern=they, Pattern=know, Pattern=i, Pattern=would, Pattern=to, Pattern=i think, Pattern=not, Pattern=of, Pattern=know ,, Pattern=you, Pattern=uh, Pattern=on, Pattern=the, Pattern=all, Pattern=with, Pattern=that
+	Constrained: Pattern=know, Pattern=i, Pattern=think
 Turn ID=3| B | M : it's on ?
 	Free: Pattern=on
 	Constrained: 
-Turn ID=4| A | B : when we get an hour more
+Turn ID=4| A | B : when we get an hour more ,
 	Free: 
 	Constrained: 
 Turn ID=5| B | M : 
 	Free: 
 	Constrained: 
-Turn ID=6| A | B : and so she got me copies of uh several of the apple programs for school programs
+Turn ID=6| A | B : and so she got me copies of , uh , several of the apple programs for school programs ,
 	Free: Pattern=uh, Pattern=the, Pattern=of
 	Constrained: 
 Turn ID=7| B | M : they're good !
 	Free: Pattern=good
 	Constrained: 
-Turn ID=8| A | B : i mean some of the
+Turn ID=8| A | B : i mean , some of the ,
 	Free: Pattern=the, Pattern=i, Pattern=of
 	Constrained: 
 Turn ID=9| B | M : i'd . the us is a country .
@@ -69,29 +69,29 @@ Turn ID=10| A | B : how do we usually ?
 Turn ID=11| B | M : that's a good point . i wonder if they will be able to bring in the oil from saudi arabia ?
 	Free: Pattern=they, Pattern=a good, Pattern=. i, Pattern=in, Pattern=to, Pattern=that's, Pattern=the
 	Constrained: Pattern=good, Pattern=i, Pattern=a
-Turn ID=12| A | B : oh gosh . i i would much rather that do that to myself than make my five year old go in and do it . that would kill me .
+Turn ID=12| A | B : oh , gosh . i , i would much rather that , do that , to myself than make my five year old go in and do it . that would kill me .
 	Free: Pattern=go, Pattern=. i, Pattern=in, Pattern=i, Pattern=would, Pattern=to, Pattern=that, Pattern=it, Pattern=oh
 	Constrained: Pattern=i
 Turn ID=13| B | M : i don't think i can afford to buy a house with all that .
 	Free: Pattern=a, Pattern=think, Pattern=i, Pattern=all, Pattern=to, Pattern=with, Pattern=that
 	Constrained: 
 Turn ID=14| A | B : you know . in that standpoint .
-	Free: Pattern=that, Pattern=in, Pattern=know, Pattern=you
+	Free: Pattern=in, Pattern=know, Pattern=you, Pattern=that
 	Constrained: 
 Turn ID=15| B | M : didn't it used to be the same time as the second episode of season 2 ?
 	Free: Pattern=time, Pattern=of, Pattern=it, Pattern=the, Pattern=to
 	Constrained: 
-Turn ID=16| A | B : did you have shrimp ? i've seen in you know they they show all this wonderful seafood and and great big prawns you know the big shrimp and
-	Free: Pattern=you, Pattern=they, Pattern=you have, Pattern=in, Pattern=know, Pattern=the, Pattern=all
-	Constrained: Pattern=you
-Turn ID=17| B | M : it's not a bad place just a little busy
+Turn ID=16| A | B : did you have shrimp ? i've seen in , you know , they , they show all this wonderful seafood and , and great big prawns , you know the big shrimp and ,
+	Free: Pattern=know ,, Pattern=you, Pattern=they, Pattern=you have, Pattern=in, Pattern=know, Pattern=the, Pattern=all
+	Constrained: Pattern=know, Pattern=you
+Turn ID=17| B | M : it's not a bad place , just a little busy
 	Free: Pattern=just, Pattern=not, Pattern=a
 	Constrained: 
-Turn ID=18| A | B : right or what you've heard on t v which i think is just outrageous .
+Turn ID=18| A | B : right , or what you've heard on t v , which i think is just outrageous .
 	Free: Pattern=i think, Pattern=is, Pattern=just, Pattern=on
 	Constrained: Pattern=i, Pattern=think
 Turn ID=19| B | M : why would anyone go to dc ?
-	Free: Pattern=to, Pattern=go, Pattern=would
+	Free: Pattern=go, Pattern=would, Pattern=to
 	Constrained: 
 Turn ID=20| A | B : right .
 	Free: 
@@ -99,23 +99,23 @@ Turn ID=20| A | B : right .
 Turn ID=21| B | M : 
 	Free: 
 	Constrained: 
-Turn ID=22| A | B : you know the poor trees said what
-	Free: Pattern=know, Pattern=the, Pattern=you
-	Constrained: 
+Turn ID=22| A | B : you know , the poor trees , said what
+	Free: Pattern=know ,, Pattern=the, Pattern=you
+	Constrained: Pattern=know
 Turn ID=23| B | M : it's cold .
 	Free: 
 	Constrained: 
-Turn ID=24| A | B : very frustrating . uh but again i've been dealing with large files both data and and otherwise . uh that was a engineering spec on b two . you come here with the b level of specs ?
-	Free: Pattern=of, Pattern=a, Pattern=been, Pattern=you, Pattern=uh, Pattern=on, Pattern=the, Pattern=with, Pattern=that, Pattern=but
+Turn ID=24| A | B : very frustrating . uh , but again i've been dealing with large files both data and , and otherwise . uh , that was a engineering spec on b two . you come here with the b level of specs ?
+	Free: Pattern=of, Pattern=a, Pattern=been, Pattern=you, Pattern=uh, Pattern=, but, Pattern=on, Pattern=the, Pattern=with, Pattern=that
 	Constrained: 
-Turn ID=25| B | M : i don't know but it's the same as it's always been .
-	Free: Pattern=know, Pattern=i, Pattern=the, Pattern=been, Pattern=but
-	Constrained: 
-Turn ID=26| A | B : yeah yeah .
+Turn ID=25| B | M : i don't know , but it's the same as it's always been .
+	Free: Pattern=know ,, Pattern=, but, Pattern=i, Pattern=the, Pattern=been
+	Constrained: Pattern=know
+Turn ID=26| A | B : yeah , yeah .
 	Free: Pattern=yeah
 	Constrained: 
 Turn ID=27| B | M : yeah uh
-	Free: Pattern=uh, Pattern=yeah
+	Free: Pattern=yeah, Pattern=uh
 	Constrained: 
 Turn ID=28| A | B : right .
 	Free: 

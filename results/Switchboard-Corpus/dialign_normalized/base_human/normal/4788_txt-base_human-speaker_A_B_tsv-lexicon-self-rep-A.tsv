@@ -1,59 +1,79 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	, that kind of stuff .	29	A	2, 30
+2	6	, uh , you know ,	21	A	10, 30
 2	6	if you're going to go camping	19	A	10, 28
 2	5	a lot of different things	3	A	0, 2
 2	5	stop when we wanted to	3	A	0, 2
-2	5	that kind of stuff .	29	A	2, 30
+3	4	, that kind of	29	A	2, 10, 30
+3	4	, you know ,	21	A	10, 26, 30
 3	4	if you're going to	21	A	10, 28, 30
+3	4	of , uh ,	9	A	0, 2, 8
 3	4	uh-huh . sure .	9	A	14, 16, 22
+2	4	, things like that	3	A	28, 30
+2	4	, uh , in	3	A	8, 10
 2	4	a little bit of	9	A	2, 10
+2	4	and , uh ,	11	A	0, 10
+2	4	but , uh ,	31	A	0, 30
 2	4	in the morning and	31	A	0, 30
 2	4	sure . uh-huh .	7	A	16, 22
+2	4	yeah , yeah .	17	A	2, 18
+8	3	, uh ,	31	A	0, 2, 6, 8, 10, 26, 28, 30
 4	3	a little bit	31	A	0, 2, 10, 30
+3	3	, yeah .	19	A	2, 18, 20
 3	3	a lot of	27	A	0, 2, 26
-3	3	that kind of	29	A	2, 10, 30
 3	3	things like that	31	A	0, 28, 30
+2	3	, in the	23	A	8, 30
+2	3	. but ,	31	A	0, 30
+2	3	and , uh	11	A	0, 10
 2	3	at the campground	3	A	30, 32
 2	3	just kind of	3	A	0, 2
 2	3	k o a	3	A	28, 30
+2	3	state parks ,	3	A	28, 30
 2	3	to get up	31	A	0, 30
-2	3	uh you know	21	A	10, 30
 2	3	we wanted to	3	A	0, 2
-2	3	yeah yeah .	17	A	2, 18
+8	2	, uh	31	A	0, 2, 6, 8, 10, 26, 28, 30
+8	2	uh ,	31	A	0, 2, 6, 8, 10, 26, 28, 30
 5	2	kind of	31	A	0, 2, 10, 28, 30
+4	2	it ,	11	A	20, 24, 26, 30
 4	2	sure .	11	A	14, 16, 22, 24
 4	2	uh-huh .	11	A	14, 16, 22, 24
+3	2	, and	29	A	2, 10, 30
+3	2	, i	29	A	0, 26, 28
+3	2	, so	27	A	4, 10, 30
+3	2	, you	21	A	10, 26, 30
 3	2	. but	31	A	0, 26, 30
 3	2	and then	31	A	0, 8, 30
 3	2	go camping	29	A	0, 10, 28
 3	2	in the	31	A	0, 8, 30
-3	2	of uh	9	A	0, 2, 8
 3	2	they don't	27	A	0, 10, 26
-3	2	yeah .	19	A	2, 18, 20
-3	2	you know	21	A	10, 26, 30
+3	2	yeah ,	19	A	2, 18, 20
+2	2	, a	5	A	26, 30
+2	2	, if	19	A	10, 28
+2	2	, it's	5	A	26, 30
+2	2	, sure	23	A	2, 24
+2	2	, they	3	A	28, 30
+2	2	, when	25	A	0, 24
 2	2	. if	3	A	28, 30
 2	2	. it's	3	A	28, 30
 2	2	. there's	23	A	6, 28
 2	2	. they	17	A	12, 28
 2	2	a shower	5	A	26, 30
-2	2	and uh	11	A	0, 10
 2	2	because they	29	A	0, 28
-2	2	but uh	31	A	0, 30
+2	2	camping ,	11	A	0, 10
 2	2	don't have	3	A	10, 12
 2	2	get up	31	A	0, 30
 2	2	have mosquitoes	3	A	10, 12
+2	2	i ,	9	A	20, 28
 2	2	i don't	27	A	0, 26
 2	2	in wisconsin	5	A	6, 10
 2	2	just don't	17	A	12, 28
-2	2	know if	11	A	0, 10
 2	2	of a	21	A	10, 30
+2	2	so ,	9	A	2, 10
 2	2	so .	25	A	4, 28
-2	2	so we	31	A	2, 32
-2	2	state parks	3	A	28, 30
+2	2	that ,	31	A	0, 30
 2	2	things .	25	A	2, 26
 2	2	to be	19	A	12, 30
 2	2	to do	27	A	2, 28
-2	2	uh in	3	A	8, 10
-2	2	up that	31	A	0, 30
 2	2	we did	31	A	2, 32
 2	2	we found	5	A	8, 12
 2	2	we just	9	A	2, 10
@@ -63,7 +83,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	with a	19	A	12, 30
 8	1	a	31	A	0, 2, 6, 10, 12, 26, 28, 30
 8	1	that	33	A	0, 2, 10, 12, 20, 28, 30, 32
-8	1	uh	31	A	0, 2, 6, 8, 10, 26, 28, 30
 7	1	of	31	A	0, 2, 8, 10, 26, 28, 30
 7	1	we	33	A	0, 2, 8, 10, 12, 30, 32
 6	1	and	31	A	0, 2, 8, 10, 12, 30
@@ -80,7 +99,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	if	31	A	0, 10, 26, 28, 30
 5	1	in	31	A	0, 6, 8, 10, 30
 5	1	it	31	A	0, 20, 24, 26, 30
-5	1	sure	23	A	2, 14, 16, 22, 24
 5	1	things	31	A	0, 2, 26, 28, 30
 4	1	camping	31	A	0, 10, 28, 30
 4	1	day	31	A	0, 2, 26, 30
@@ -108,9 +126,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	then	31	A	0, 8, 30
 3	1	there's	23	A	6, 8, 28
 3	1	this	13	A	0, 10, 12
-3	1	when	25	A	0, 2, 24
 3	1	wonderful	23	A	6, 12, 28
-3	1	yeah	19	A	2, 18, 20
 3	1	you're	21	A	10, 28, 30
 2	1	all	19	A	12, 30
 2	1	back	29	A	2, 30

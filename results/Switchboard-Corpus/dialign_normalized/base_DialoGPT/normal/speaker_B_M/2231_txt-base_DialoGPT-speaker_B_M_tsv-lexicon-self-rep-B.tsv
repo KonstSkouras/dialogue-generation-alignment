@@ -1,27 +1,35 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	5	they are in jail .	25	M	19, 43
+2	3	, but i	29	M	63, 91
+2	3	, they are	39	M	5, 43
 2	3	be put in	17	M	5, 21
 2	3	do you think	43	M	3, 45
 2	3	i don't think	15	M	65, 79
 2	3	i know .	33	M	61, 93
 2	3	i'm not sure	59	M	33, 91
+2	3	no , it's	37	M	47, 83
 2	3	they get a	3	M	9, 11
+4	2	, but	87	M	5, 49, 63, 91
 4	2	i don't	33	M	63, 65, 79, 95
 4	2	they are	39	M	5, 19, 39, 43
+3	2	, it's	37	M	47, 59, 83
 3	2	i'm not	69	M	23, 33, 91
 3	2	in jail	39	M	5, 19, 43
 3	2	know .	35	M	61, 93, 95
+3	2	no ,	53	M	31, 47, 83
 3	2	they get	41	M	9, 11, 49
+3	2	you ,	67	M	25, 31, 91
+2	2	, i	17	M	65, 81
+2	2	, you	67	M	25, 91
 2	2	. they	7	M	5, 11
 2	2	a good	79	M	3, 81
-2	2	but i	29	M	63, 91
+2	2	and ,	5	M	21, 25
 2	2	do it	5	M	75, 79
 2	2	i think	31	M	35, 65
 2	2	i'm sorry	47	M	17, 63
 2	2	if they	39	M	39, 77
 2	2	it .	41	M	35, 75
 2	2	it's a	35	M	47, 81
-2	2	no it's	37	M	47, 83
 2	2	of the	7	M	79, 85
 2	2	that ?	9	M	37, 45
 2	2	they do	73	M	7, 79
@@ -40,7 +48,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	no	79	M	5, 31, 37, 47, 83
 5	1	not	87	M	5, 23, 33, 47, 91
 5	1	to	61	M	25, 37, 61, 81, 85
-4	1	but	87	M	5, 49, 63, 91
 4	1	it's	37	M	47, 59, 81, 83
 4	1	that	61	M	1, 37, 45, 61
 4	1	they're	75	M	5, 13, 41, 79

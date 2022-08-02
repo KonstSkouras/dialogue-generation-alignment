@@ -1,50 +1,66 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	and uh you know	21	B	3, 23
-2	4	in terms of uh	21	B	1, 21
+2	7	and , uh , you know ,	21	B	3, 23
+2	6	, and , uh , and	9	B	9, 17
+2	6	, uh , you know ,	21	B	3, 23
+2	6	in terms of , uh ,	21	B	1, 21
+3	5	, and , uh ,	15	B	3, 9, 17
+2	5	, but , uh ,	7	B	1, 7
+5	4	and , uh ,	21	B	3, 7, 9, 17, 23
+4	4	, and , uh	15	B	3, 7, 9, 17
+4	4	, you know ,	21	B	3, 17, 21, 23
+3	4	, uh , i	15	B	3, 7, 17
+2	4	, uh , and	9	B	9, 17
+2	4	and then , uh	3	B	7, 9
+2	4	that , uh ,	23	B	1, 23
+2	4	the , uh ,	9	B	1, 9
+2	4	then , uh ,	7	B	1, 7
+7	3	, uh ,	23	B	1, 3, 7, 9, 17, 21, 23
+4	3	, and ,	15	B	3, 7, 9, 17
+4	3	, um ,	23	B	1, 3, 5, 23
+3	3	, i guess	23	B	1, 7, 23
+2	3	, uh .	3	B	7, 9
 2	3	and i guess	3	B	1, 3
-2	3	and then uh	3	B	7, 9
-2	3	and uh and	9	B	9, 17
 2	3	i guess i	3	B	1, 3
 2	3	in terms of	21	B	1, 21
-2	3	uh you know	21	B	3, 23
 2	3	way back when	17	B	1, 17
-5	2	and uh	21	B	3, 7, 9, 17, 23
-4	2	i guess	23	B	1, 3, 7, 23
-4	2	you know	21	B	3, 17, 21, 23
+7	2	, i	23	B	1, 3, 7, 9, 17, 21, 23
+6	2	, and	23	B	1, 3, 7, 9, 17, 23
+6	2	and ,	21	B	3, 5, 7, 9, 17, 23
 3	2	back when	21	B	1, 17, 21
 3	2	gun control	21	B	1, 5, 21
 3	2	on the	23	B	1, 3, 23
-3	2	then uh	9	B	1, 7, 9
-3	2	uh i	15	B	3, 7, 17
+3	2	well ,	21	B	1, 19, 21
+3	2	yeah ,	11	B	7, 15, 17
+2	2	, in	15	B	7, 21
+2	2	, it	3	B	5, 7
+2	2	, of	7	B	1, 7
+2	2	, the	11	B	9, 19
+2	2	, they	5	B	17, 21
+2	2	, too	23	B	1, 23
 2	2	a gun	7	B	3, 9
 2	2	and i	3	B	1, 3
-2	2	but uh	7	B	1, 7
+2	2	for ,	3	B	1, 3
 2	2	for no	7	B	1, 7
+2	2	i ,	9	B	1, 9
 2	2	i was	19	B	3, 21
 2	2	in the	7	B	1, 7
+2	2	so ,	15	B	9, 23
 2	2	that they	13	B	5, 17
-2	2	that uh	23	B	1, 23
-2	2	the uh	9	B	1, 9
 2	2	there are	17	B	7, 23
 2	2	they would	13	B	5, 17
-2	2	uh .	3	B	7, 9
-2	2	uh and	9	B	9, 17
+2	2	to ,	15	B	3, 17
 2	2	with the	17	B	1, 17
 2	2	yeah .	3	B	11, 13
 8	1	the	23	B	1, 3, 5, 7, 9, 17, 19, 23
 7	1	a	21	B	1, 3, 5, 7, 9, 17, 21
 7	1	and	23	B	1, 3, 5, 7, 9, 17, 23
-7	1	i	23	B	1, 3, 7, 9, 17, 21, 23
-7	1	uh	23	B	1, 3, 7, 9, 17, 21, 23
 6	1	to	21	B	1, 3, 5, 7, 17, 21
 5	1	gun	21	B	1, 3, 5, 9, 21
 5	1	that	23	B	1, 5, 9, 17, 23
-5	1	yeah	11	B	7, 11, 13, 15, 17
 4	1	for	15	B	1, 3, 7, 15
 4	1	in	21	B	1, 7, 17, 21
 4	1	it	23	B	1, 5, 7, 23
 4	1	of	23	B	1, 7, 21, 23
-4	1	um	23	B	1, 3, 5, 23
 4	1	you	21	B	3, 17, 21, 23
 3	1	are	17	B	7, 19, 23
 3	1	back	21	B	1, 17, 21
@@ -57,7 +73,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	they	17	B	5, 17, 21
 3	1	was	21	B	1, 3, 21
 3	1	way	19	B	1, 17, 19
-3	1	well	21	B	1, 19, 21
 3	1	when	21	B	1, 17, 21
 3	1	with	17	B	1, 3, 17
 2	1	all	5	B	3, 7
@@ -71,10 +86,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	more	5	B	1, 5
 2	1	raised	3	B	1, 3
 2	1	right	5	B	1, 5
-2	1	so	15	B	9, 23
 2	1	there	17	B	7, 23
 2	1	think	5	B	5, 9
-2	1	too	23	B	1, 23
 2	1	up	9	B	9, 17
 2	1	where	3	B	5, 7
 

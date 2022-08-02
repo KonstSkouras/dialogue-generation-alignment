@@ -1,16 +1,36 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+4	5	just , you know ,	59	B	35, 67, 69, 93
+2	5	, and , uh ,	45	B	61, 105
+8	4	, you know ,	75	B	35, 57, 59, 67, 69, 93, 99, 109
+4	4	and , uh ,	49	B	57, 61, 91, 105
+2	4	, uh , a	11	B	51, 61
+2	4	, uh , she's	7	B	49, 55
+2	4	, you know .	3	B	53, 55
 2	4	want any part of	7	B	91, 97
-4	3	just you know	59	B	35, 67, 69, 93
-2	3	oh no .	55	B	21, 75
+11	3	, you know	87	B	35, 53, 55, 57, 59, 67, 69, 93, 99, 109, 121
+8	3	, uh ,	57	B	49, 51, 55, 57, 61, 91, 101, 105
+8	3	you know ,	75	B	35, 57, 59, 67, 69, 93, 99, 109
+5	3	just , you	81	B	13, 35, 67, 69, 93
+4	3	, yeah .	51	B	31, 45, 73, 81
+3	3	yeah , well	103	B	7, 49, 109
+2	3	, and her	3	B	57, 59
+2	3	, yeah ,	97	B	33, 129
+2	3	i , i	107	B	7, 113
+2	3	yeah , and	7	B	99, 105
 2	3	yeah . well	11	B	35, 45
-2	3	you know .	3	B	53, 55
+14	2	yeah ,	129	B	7, 9, 11, 31, 33, 49, 63, 85, 99, 105, 109, 113, 129, 135
 12	2	you know	87	B	35, 53, 55, 57, 59, 67, 69, 91, 93, 99, 109, 121
+9	2	uh ,	73	B	33, 49, 51, 55, 57, 61, 91, 101, 105
 8	2	uh-huh .	113	B	15, 19, 25, 41, 71, 95, 107, 127
 8	2	yeah .	89	B	31, 35, 43, 45, 73, 81, 87, 119
-5	2	just you	81	B	13, 35, 67, 69, 93
+6	2	, and	59	B	57, 59, 61, 99, 105, 115
+6	2	just ,	117	B	13, 35, 67, 69, 93, 129
+6	2	oh ,	107	B	23, 27, 75, 81, 101, 129
+5	2	, she	91	B	9, 61, 67, 91, 99
+4	2	, i	107	B	7, 27, 35, 113
 4	2	and she	51	B	61, 69, 99, 111
-4	2	and uh	49	B	57, 61, 91, 105
-4	2	yeah well	103	B	7, 49, 97, 109
+3	2	, it	69	B	35, 99, 103
+3	2	, that	63	B	49, 61, 111
 3	2	. i	79	B	35, 61, 113
 3	2	and i	103	B	13, 113, 115
 3	2	great .	113	B	5, 69, 117
@@ -18,24 +38,35 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	it .	29	B	103, 113, 131
 3	2	part of	15	B	91, 97, 105
 3	2	the movie	13	B	101, 105, 113
+3	2	was ,	21	B	91, 99, 111
+2	2	, but	103	B	11, 113
+2	2	, it's	59	B	47, 105
+2	2	, my	39	B	11, 49
+2	2	, oh	3	B	99, 101
+2	2	, she's	7	B	49, 55
+2	2	, that's	51	B	81, 131
 2	2	a german	69	B	35, 103
-2	2	and her	3	B	57, 59
 2	2	and so	29	B	37, 65
 2	2	didn't want	15	B	97, 111
+2	2	dog ,	29	B	11, 39
 2	2	german shepherd	55	B	35, 89
 2	2	god gave	33	B	7, 39
+2	2	had ,	27	B	35, 61
 2	2	had a	55	B	35, 89
+2	2	her ,	17	B	51, 67
 2	2	i had	55	B	35, 89
-2	2	i i	107	B	7, 113
 2	2	i was	81	B	35, 115
 2	2	it is	15	B	103, 117
 2	2	my husband	105	B	11, 115
+2	2	no .	55	B	21, 75
 2	2	of that	19	B	97, 115
 2	2	oh .	125	B	1, 125
-2	2	oh gee	77	B	23, 99
+2	2	really ,	43	B	91, 133
 2	2	really .	47	B	77, 123
+2	2	she ,	39	B	61, 99
 2	2	she just	61	B	9, 69
 2	2	she'd just	3	B	91, 93
+2	2	she's ,	7	B	49, 55
 2	2	sort of	5	B	55, 59
 2	2	step and	3	B	91, 93
 2	2	that movie	3	B	113, 115
@@ -43,17 +74,15 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	that's it	95	B	37, 131
 2	2	the first	61	B	31, 91
 2	2	this dog	67	B	39, 105
+2	2	to ,	9	B	91, 99
 2	2	to get	21	B	91, 111
 2	2	to see	11	B	103, 113
-2	2	uh a	11	B	51, 61
-2	2	uh she's	7	B	49, 55
 2	2	was just	65	B	35, 99
 2	2	we had	9	B	89, 97
 2	2	well i	29	B	7, 35
 2	2	well that's	73	B	37, 109
 2	2	well the	9	B	89, 97
 2	2	wow .	15	B	3, 17
-2	2	yeah and	7	B	99, 105
 22	1	yeah	129	B	7, 9, 11, 31, 33, 35, 43, 45, 49, 63, 73, 81, 85, 87, 97, 99, 105, 109, 113, 119, 129, 135
 19	1	you	109	B	13, 35, 45, 47, 53, 55, 57, 59, 67, 69, 91, 93, 99, 101, 103, 109, 111, 113, 121
 17	1	and	103	B	13, 35, 37, 39, 57, 59, 61, 65, 67, 69, 91, 93, 99, 105, 111, 113, 115
@@ -68,7 +97,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	it	101	B	31, 35, 37, 99, 103, 113, 115, 117, 131
 9	1	she	103	B	9, 35, 59, 61, 67, 69, 91, 99, 111
 9	1	to	101	B	13, 37, 79, 91, 99, 103, 105, 111, 113
-9	1	uh	73	B	33, 49, 51, 55, 57, 61, 91, 101, 105
 9	1	well	115	B	7, 35, 37, 45, 49, 89, 97, 109, 121
 7	1	of	61	B	55, 59, 61, 91, 97, 105, 115
 7	1	really	59	B	77, 91, 99, 113, 123, 133, 135
@@ -107,6 +135,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	did	13	B	79, 91
 2	1	do	9	B	37, 45
 2	1	for	27	B	11, 37
+2	1	gee	77	B	23, 99
 2	1	going	29	B	37, 65
 2	1	golden	3	B	49, 51
 2	1	like	7	B	47, 53

@@ -1,48 +1,75 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	. and , uh ,	7	B	51, 57
 2	5	has nothing to do with	7	B	51, 57
+3	4	, you know ,	55	B	49, 67, 103
+2	4	, well , they	25	B	69, 93
 2	4	do you ever watch	83	B	23, 105
 2	4	i like mysteries .	3	B	75, 77
 2	4	i tape it .	5	B	29, 33
+6	3	, um ,	93	B	5, 15, 21, 53, 77, 97
+5	3	, uh ,	73	B	33, 51, 57, 81, 105
+3	3	, well ,	37	B	57, 69, 93
+3	3	, you know	55	B	49, 67, 103
 3	3	i tape it	5	B	29, 31, 33
-2	3	. and uh	7	B	51, 57
+2	3	, i was	37	B	51, 87
+2	3	, yes ,	35	B	17, 51
+2	3	, yes .	9	B	9, 17
 2	3	and they have	3	B	93, 95
 2	3	i think it's	5	B	49, 53
 2	3	made it .	3	B	55, 57
 2	3	they have it	61	B	33, 93
 2	3	trying to think	45	B	53, 97
+7	2	oh ,	93	B	15, 45, 49, 51, 69, 89, 107
+7	2	um ,	93	B	5, 15, 21, 53, 77, 81, 97
 6	2	i don't	73	B	7, 13, 31, 35, 37, 79
 6	2	i tape	59	B	19, 29, 31, 33, 73, 77
+5	2	, i	57	B	31, 35, 51, 53, 87
 5	2	it .	59	B	29, 33, 55, 57, 87
 4	2	. i	65	B	13, 49, 57, 77
 4	2	i think	51	B	49, 53, 63, 99
+4	2	well ,	43	B	51, 57, 69, 93
+4	2	yeah ,	77	B	31, 67, 103, 107
+3	2	, and	31	B	19, 33, 49
+3	2	, they	61	B	33, 69, 93
 3	2	. and	7	B	51, 55, 57
+3	2	and ,	23	B	35, 51, 57
 3	2	yes .	15	B	3, 9, 17
-3	2	you know	55	B	49, 67, 103
+2	2	, i'm	23	B	35, 57
+2	2	, it's	55	B	49, 103
+2	2	, she	7	B	51, 57
+2	2	, that	49	B	33, 81
+2	2	, that's	23	B	67, 89
+2	2	, what	79	B	19, 97
+2	2	, your	5	B	53, 57
 2	2	a microbiologist	3	B	49, 51
 2	2	and the	21	B	33, 53
 2	2	and then	79	B	19, 97
 2	2	around here	23	B	81, 103
 2	2	at ten	9	B	95, 103
 2	2	because i	51	B	31, 81
+2	2	but ,	85	B	21, 105
 2	2	don't know	5	B	7, 11
 2	2	gabriel's fire	11	B	1, 11
 2	2	goes to	47	B	51, 97
 2	2	here in	27	B	55, 81
 2	2	i mean	7	B	51, 57
-2	2	i was	37	B	51, 87
 2	2	in dallas	13	B	43, 55
+2	2	it ,	21	B	31, 51
 2	2	it at	61	B	33, 93
 2	2	it goes	7	B	97, 103
 2	2	it was	5	B	5, 9
+2	2	like ,	47	B	35, 81
 2	2	midnight .	3	B	25, 27
+2	2	no ,	37	B	57, 93
+2	2	of ,	51	B	53, 103
 2	2	oh .	7	B	41, 47
 2	2	on the	63	B	19, 81
 2	2	t v	63	B	19, 81
 2	2	to watch	13	B	19, 31
 2	2	watching it	37	B	51, 87
-2	2	well they	25	B	69, 93
 2	2	with a	21	B	49, 69
 2	2	yeah .	25	B	83, 107
+2	2	yes ,	35	B	17, 51
 2	2	your skill	7	B	53, 59
 21	1	i	99	B	1, 7, 13, 19, 29, 31, 33, 35, 37, 49, 51, 53, 57, 63, 73, 75, 77, 79, 81, 87, 99
 14	1	and	85	B	19, 33, 35, 49, 51, 53, 55, 57, 79, 81, 93, 95, 97, 103
@@ -50,14 +77,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 10	1	to	87	B	11, 13, 19, 31, 51, 53, 57, 63, 79, 97
 9	1	don't	73	B	7, 11, 13, 19, 31, 33, 35, 37, 79
 9	1	is	99	B	1, 15, 19, 33, 53, 57, 85, 97, 99
-9	1	oh	93	B	15, 41, 45, 47, 49, 51, 69, 89, 107
 8	1	that	103	B	1, 19, 31, 33, 55, 57, 81, 103
 8	1	the	73	B	15, 19, 33, 51, 53, 63, 81, 87
 7	1	a	37	B	33, 49, 51, 55, 57, 63, 69
 7	1	at	71	B	33, 85, 93, 95, 97, 99, 103
 7	1	in	55	B	33, 39, 43, 53, 55, 81, 87
 7	1	on	81	B	5, 19, 33, 51, 79, 81, 85
-7	1	um	93	B	5, 15, 21, 53, 77, 81, 97
 6	1	they	65	B	33, 53, 69, 93, 95, 97
 6	1	you	95	B	11, 23, 49, 67, 103, 105
 6	1	your	73	B	13, 51, 53, 57, 59, 85
@@ -66,19 +91,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	i'm	63	B	35, 43, 49, 57, 97
 5	1	of	51	B	53, 69, 81, 87, 103
 5	1	that's	45	B	55, 67, 77, 89, 99
-5	1	uh	73	B	33, 51, 57, 81, 105
 5	1	was	83	B	5, 9, 51, 63, 87
-5	1	yeah	77	B	31, 67, 83, 103, 107
 4	1	because	51	B	31, 33, 77, 81
 4	1	but	85	B	21, 33, 103, 105
 4	1	have	63	B	33, 79, 93, 95
 4	1	it's	55	B	49, 53, 63, 103
-4	1	like	47	B	35, 75, 77, 81
 4	1	one	103	B	1, 13, 95, 103
 4	1	watch	87	B	19, 23, 31, 105
-4	1	well	43	B	51, 57, 69, 93
 4	1	what	87	B	11, 19, 57, 97
-4	1	yes	49	B	3, 9, 17, 51
 3	1	around	51	B	53, 81, 103
 3	1	ever	83	B	23, 51, 105
 3	1	had	31	B	51, 55, 81

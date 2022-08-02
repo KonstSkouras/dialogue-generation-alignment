@@ -1,37 +1,61 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	4	, you know ,	19	A	61, 77, 79
+2	4	, i mean ,	5	A	19, 23
 2	4	pretty much the same	3	A	63, 65
+2	4	uh , we have	5	A	59, 63
+4	3	, uh ,	37	A	31, 33, 61, 67
 4	3	. yeah .	93	A	1, 53, 89, 93
+3	3	, um ,	35	A	31, 61, 65
+3	3	i mean ,	7	A	19, 23, 25
+2	3	, do you	29	A	19, 47
 2	3	around here is	7	A	27, 33
+2	3	i , i	13	A	65, 77
 2	3	most of the	3	A	61, 63
-2	3	uh we have	5	A	59, 63
+2	3	wow , that's	87	A	9, 95
 8	2	yeah .	93	A	1, 35, 37, 53, 85, 89, 91, 93
+6	2	, i	59	A	19, 23, 57, 65, 73, 77
+6	2	, that's	93	A	3, 7, 9, 13, 67, 95
+6	2	um ,	41	A	25, 31, 33, 55, 61, 65
+6	2	well ,	61	A	13, 17, 19, 29, 55, 73
 5	2	wow .	59	A	45, 49, 93, 99, 103
 4	2	i mean	85	A	19, 23, 25, 103
+4	2	know ,	21	A	59, 61, 77, 79
+4	2	oh ,	85	A	7, 13, 19, 91
 4	2	okay .	71	A	1, 5, 21, 71
 4	2	the area	47	A	31, 61, 67, 77
 4	2	you know	43	A	61, 77, 79, 103
+3	2	, and	15	A	63, 67, 77
+3	2	, but	29	A	33, 55, 61
+3	2	, it	43	A	23, 47, 65
 3	2	and everything	53	A	25, 61, 77
+3	2	area ,	43	A	25, 31, 67
 3	2	around here	37	A	27, 33, 63
 3	2	do you	85	A	19, 47, 103
+3	2	it ,	55	A	23, 65, 77
 3	2	like that	57	A	23, 77, 79
 3	2	most of	5	A	61, 63, 65
 3	2	oh .	69	A	39, 43, 107
 3	2	pretty much	5	A	63, 65, 67
 3	2	uh-huh .	71	A	11, 41, 81
+2	2	, it's	3	A	61, 63
 2	2	a home	33	A	23, 55
 2	2	a lot	63	A	25, 87
 2	2	all the	43	A	25, 67
 2	2	area was	19	A	61, 79
 2	2	at least	45	A	23, 67
+2	2	bad ,	21	A	13, 33
 2	2	have a	13	A	63, 75
 2	2	hundred and	55	A	23, 77
-2	2	i i	13	A	65, 77
 2	2	i just	7	A	73, 79
 2	2	is a	31	A	25, 55
 2	2	is real	7	A	27, 33
+2	2	it's ,	43	A	19, 61
 2	2	it's a	33	A	25, 57
+2	2	like ,	55	A	23, 77
+2	2	no ,	27	A	3, 29
 2	2	not too	21	A	13, 33
 2	2	right now	31	A	25, 55
+2	2	so ,	15	A	33, 47
 2	2	so i	15	A	65, 79
 2	2	sounds like	65	A	23, 87
 2	2	sure .	29	A	61, 89
@@ -39,7 +63,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	the houses	5	A	63, 67
 2	2	there's been	3	A	31, 33
 2	2	um .	33	A	51, 83
-2	2	wow that's	87	A	9, 95
 12	1	i	85	A	19, 23, 25, 57, 59, 61, 65, 73, 75, 77, 79, 103
 11	1	the	57	A	23, 25, 27, 31, 33, 61, 63, 65, 67, 77, 79
 10	1	a	75	A	23, 25, 55, 57, 63, 67, 75, 77, 87, 97
@@ -53,15 +76,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 8	1	wow	105	A	9, 45, 49, 93, 95, 99, 103, 113
 7	1	that's	93	A	3, 7, 9, 13, 15, 67, 95
 6	1	and	55	A	23, 25, 61, 63, 67, 77
-6	1	area	55	A	25, 31, 61, 67, 77, 79
 6	1	it	55	A	23, 47, 55, 57, 65, 77
 6	1	okay	71	A	1, 3, 5, 21, 61, 71
 6	1	so	49	A	31, 33, 47, 63, 65, 79
-6	1	uh	37	A	31, 33, 59, 61, 63, 67
-6	1	well	61	A	13, 17, 19, 29, 55, 73
 5	1	in	17	A	61, 67, 69, 75, 77
 5	1	it's	45	A	19, 25, 57, 61, 63
-5	1	know	45	A	59, 61, 77, 79, 103
 5	1	like	65	A	23, 65, 77, 79, 87
 4	1	around	51	A	27, 33, 63, 77
 4	1	built	17	A	61, 63, 65, 77

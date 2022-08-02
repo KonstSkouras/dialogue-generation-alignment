@@ -1,42 +1,76 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	8	don't you want to be close to me	9	B	68, 76
+2	6	, uh , you know ,	39	B	4, 42
+3	5	, uh , you know	39	B	4, 36, 42
+2	5	and , uh , she	41	B	12, 52
+6	4	, you know ,	39	B	4, 12, 28, 32, 38, 42
+3	4	, uh , she	41	B	12, 32, 52
+3	4	and , uh ,	41	B	12, 36, 52
+2	4	, i mean ,	37	B	8, 44
+2	4	, they , they	7	B	40, 46
 2	4	be with other people	25	B	44, 68
 2	4	didn't want to cook	3	B	22, 24
+2	4	got , uh ,	5	B	28, 32
 2	4	got to the point	5	B	8, 12
+2	4	is , uh ,	51	B	2, 52
 2	4	she didn't want to	11	B	12, 22
+9	3	, uh ,	51	B	2, 4, 12, 28, 32, 36, 40, 42, 52
+9	3	, you know	65	B	4, 12, 28, 32, 36, 38, 42, 62, 68
+4	3	i mean ,	61	B	8, 44, 62, 68
+3	3	, i mean	47	B	8, 44, 54
+3	3	, they don't	27	B	46, 56, 72
+3	3	, um ,	45	B	8, 42, 52
 3	3	to the point	25	B	8, 12, 32
-3	3	uh you know	39	B	4, 36, 42
 3	3	want to be	31	B	46, 68, 76
+2	3	, i don't	17	B	30, 46
+2	3	, she was	17	B	16, 32
+2	3	, they ,	7	B	40, 46
+2	3	, yeah ,	7	B	2, 8
 2	3	. it was	3	B	8, 10
+2	3	a , a	31	B	0, 30
 2	3	all seem to	7	B	36, 42
-2	3	and uh she	41	B	12, 52
 2	3	at least they	15	B	28, 42
 2	3	don't want to	11	B	46, 56
 2	3	herself anymore .	15	B	8, 22
 2	3	they don't get	17	B	56, 72
 2	3	took care of	75	B	10, 84
-9	2	you know	65	B	4, 12, 28, 32, 36, 38, 42, 62, 68
+2	3	um , she	25	B	8, 32
+2	3	yeah , i	7	B	46, 52
+10	2	uh ,	51	B	2, 4, 6, 12, 28, 32, 36, 40, 42, 52
+8	2	, i	47	B	8, 30, 34, 38, 44, 46, 52, 54
 8	2	want to	65	B	12, 22, 24, 46, 56, 68, 70, 76
-5	2	i mean	61	B	8, 44, 54, 62, 68
+6	2	, she	45	B	8, 12, 16, 32, 34, 52
+5	2	, they	33	B	40, 46, 52, 56, 72
+5	2	and ,	49	B	4, 12, 36, 42, 52
 5	2	she was	29	B	4, 12, 16, 30, 32
+5	2	um ,	45	B	8, 30, 32, 42, 52
+5	2	yeah ,	91	B	2, 8, 46, 52, 92
+4	2	a ,	53	B	0, 30, 36, 52
 4	2	anymore .	25	B	8, 12, 22, 32
+4	2	but ,	21	B	34, 42, 44, 54
 4	2	i don't	27	B	30, 46, 54, 56
 4	2	i think	53	B	12, 34, 38, 64
 4	2	she got	75	B	10, 12, 32, 84
 4	2	to be	31	B	46, 52, 68, 76
 4	2	to the	35	B	8, 12, 32, 42
+3	2	, a	37	B	0, 30, 36
 3	2	and i	37	B	56, 62, 92
-3	2	and uh	41	B	12, 36, 52
 3	2	be with	25	B	44, 46, 68
 3	2	i know	51	B	30, 44, 80
 3	2	kind of	7	B	4, 8, 10
-3	2	so they	41	B	0, 32, 40
-3	2	they don't	27	B	46, 56, 72
-3	2	uh she	41	B	12, 32, 52
+3	2	they ,	31	B	40, 46, 70
 3	2	uh-huh .	41	B	48, 50, 88
+3	2	well ,	77	B	8, 16, 84
+2	2	, and	5	B	38, 42
+2	2	, it	47	B	8, 54
+2	2	, it's	61	B	2, 62
+2	2	, my	41	B	52, 92
+2	2	, very	11	B	44, 54
+2	2	, we	41	B	52, 92
+2	2	, when	77	B	8, 84
+2	2	, which	25	B	4, 28
 2	2	. and	41	B	12, 52
 2	2	. she	3	B	10, 12
-2	2	a a	31	B	0, 30
 2	2	a little	65	B	30, 94
 2	2	a place	31	B	0, 30
 2	2	all of	29	B	8, 36
@@ -49,11 +83,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	eat .	17	B	12, 28
 2	2	get out	7	B	56, 62
 2	2	going to	3	B	36, 38
-2	2	got uh	5	B	28, 32
+2	2	have ,	11	B	42, 52
 2	2	her own	9	B	2, 10
+2	2	house ,	9	B	56, 64
 2	2	in that	3	B	70, 72
 2	2	in the	89	B	4, 92
-2	2	is uh	51	B	2, 52
+2	2	it ,	31	B	8, 38
 2	2	it .	45	B	12, 56
 2	2	it seems	15	B	40, 54
 2	2	it's a	29	B	36, 64
@@ -62,21 +97,19 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	of them	3	B	36, 38
 2	2	she didn't	11	B	12, 22
 2	2	she wasn't	25	B	8, 32
+2	2	so ,	29	B	12, 40
+2	2	so they	33	B	0, 32
+2	2	that ,	7	B	46, 52
 2	2	that house	7	B	72, 78
-2	2	that they	47	B	0, 46
 2	2	them to	51	B	44, 94
 2	2	then she	29	B	4, 32
 2	2	there in	21	B	72, 92
 2	2	there was	3	B	30, 32
-2	2	they they	7	B	40, 46
 2	2	to say	9	B	36, 44
 2	2	uh .	25	B	58, 82
 2	2	um .	47	B	14, 60
-2	2	um she	25	B	8, 32
 2	2	understand that	17	B	46, 62
-2	2	well she	7	B	16, 22
 2	2	yeah .	49	B	26, 74
-2	2	yeah i	7	B	46, 52
 2	2	you have	13	B	52, 64
 22	1	to	91	B	4, 8, 12, 22, 24, 28, 32, 36, 38, 42, 44, 46, 52, 54, 56, 62, 68, 70, 72, 76, 92, 94
 17	1	and	91	B	2, 4, 10, 12, 16, 30, 32, 36, 38, 42, 52, 56, 62, 66, 72, 76, 92
@@ -97,7 +130,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 7	1	but	33	B	34, 42, 44, 54, 56, 62, 66
 7	1	got	77	B	8, 10, 12, 28, 32, 78, 84
 7	1	there	63	B	30, 32, 36, 64, 66, 72, 92
-7	1	yeah	91	B	2, 8, 26, 46, 52, 74, 92
 6	1	her	85	B	0, 2, 10, 30, 34, 84
 6	1	it's	65	B	2, 36, 56, 62, 64, 66
 6	1	just	71	B	2, 8, 38, 54, 70, 72
@@ -169,7 +201,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	up	33	B	2, 34
 2	1	wasn't	25	B	8, 32
 2	1	what	15	B	64, 78
-2	1	which	25	B	4, 28
 2	1	why	7	B	70, 76
 2	1	women	3	B	52, 54
 

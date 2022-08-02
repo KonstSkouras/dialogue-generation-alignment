@@ -1,30 +1,30 @@
 A|0| A: yes . 
-B|1| M: _and_ _uh_ _and_ _i'm_ _not_ sure _that's_ _that's_ _not_ part _of the_ problem _. _i_ mean_ _it's_ _just that_ _i'm_ _being_ cheeky _and_ _uh_ _i'm_ _in the_ middle _of_ _it ._ _i'm_ _i think_ _it's_ part _of_ _it_ _and_ _it's_ _also_ part _of_ _my_ character _to_ be cheeky . 
-A|2| A: [i] i'll agree [it] [it's] [not] your responsibility _but_ is [it] [also] legal for _you_ [to] do [that] ? from what [i] understand from various net readings [it] [the] federal government is going [to] try [to] legislate a more aggressive enforcement [of] state tax schemes [uh] [in] into place [in the] next few years . [it] is [it] is a lost revenue stream _right_ now [and] states can use all [the] revenue _they_ can get . with some with something like [that] do your arguments still apply ? 
+B|1| M: _and _,_ uh_ _and_ _i'm_ _not_ sure _that's_ , _that's_ _not_ part _of the_ problem _. _i_ mean_ _it's_ _just that_ _i'm_ _being_ cheeky _and _,_ uh_ _i'm_ _in the_ middle _of_ _it ._ _i'm_ _, i think_ _it's_ part _of_ _it_ _and_ _it's_ _also_ part _of_ _my_ character _to_ be cheeky . 
+A|2| A: [i] , i'll agree [it] , [it's] [not] your responsibility _but_ , is [it] [also] legal , for _you_ [to] do [that] ? from what [i] understand from various net readings , [it] , [the] federal government is going [to] try [to] legislate a more aggressive enforcement [of] state tax schemes [, uh] , [in] , into place [in the] next few years . [it] is , [it] is a lost revenue stream _right_ now [and] states can use all [the] revenue _they_ can get . with some , with something like [that] , do your arguments still apply ? 
 B|3| M: uh-huh . 
 A|4| A: which is exactly what businesses do at [the] present . 
 B|5| M: [right] . 
-A|6| A: [and] [i] [i] [i] was actually talking about businesses purchasing something mail order [and] then having having [to] pay _sales_ tax _on_ [it .] 
+A|6| A: [and] [i] [, i] [i] was actually talking about businesses purchasing something mail order [and] then having , having [to] pay _sales_ tax _on_ [it .] 
 B|7| M: uh-huh . 
-A|8| A: [that's] [my] understanding [of the] way [uh] [the] way [it] works . usually [the] [the] person ordering doesn't pay . _but_ [the] accounting department will [uh] suck up all [the] bills at [the] end [of the] month [and] realize how much _they have_ [to] pay . [and] there there are some substantial nasty penalties um if _you_ if businesses try [to] avoid [that] . 
+A|8| A: [that's] [my] understanding [of the] way [, uh] , [the] way [it] works . usually , [the] , [the] person ordering doesn't pay . _but_ [the] accounting department will [, uh] , suck up all [the] bills at [the] end [of the] month [and] realize how much _they have_ [to] pay . [and] there there are some substantial , nasty penalties , um , if _you_ , if businesses try [to] avoid [that] . 
 B|9| M: _yeah ._ 
-A|10| A: no . businesses [uh] if purchasing things mail order if if [i'm] a computer consulting firm [and] [i] see these this great deal _on_ forty-six mother boards [uh] from from say utah . um [i] [i] might _buy_ [the] mother boards from utah _but_ then still _have_ [to] pay _pennsylvania_ _sales_ tax . [my] accounting department will at [the] end [of the] month [. [i] think] [that] [i think] [that's] [the] way things work _in pennsylvania_ . [and] [i] know _they_ work [that] way [in] [uh] say here [in] d c . 
-B|11| M: _oh_ okay . 
+A|10| A: no . businesses [, uh] if purchasing things mail order , if , if [i'm] a computer consulting firm [and] [i] see these , this great deal _on_ forty-six mother boards [, uh] , from , from say utah . um [, i] [, i] might _buy_ [the] mother boards from utah _but_ then still _have_ [to] pay _pennsylvania_ _sales_ tax . [my] accounting department will at [the] end [of the] month [. [i] think] [that] [i think] [that's] [the] way things work _in pennsylvania_ . [and] [i] know _they_ work [that] way [in] [, uh] , say here [in] d c . 
+B|11| M: _oh ,_ okay . 
 A|12| A: [yeah .] 
 B|13| M: [but] [i think] [they have] [the] [sales] taxes [in pennsylvania] based [on] [the] amount [you] [buy] . 
-A|14| A: [that's] true . a a big hole does exist [right] now [uh] [in] [that] consumers can [just] say [oh] [i] [i] forgot [that] . there there is no well defined mechanism at all [and] [and] [that] [it] is a a loss [. i] [i think] is [that] [the] federal government will try [to] establish a mechanism [just] [to] do [just that] [in] [in] order [to] gain [the] revenue [that's] [being] lost . [uh] [i mean] [i] [i] don't know if [i] agree with [that] . [but] [it] [but] 
+A|14| A: [that's] true . a a big hole does exist [right] now [, uh] , [in] [that] consumers can [just] say [oh [,] i] [, i] forgot [that] . there , there is no well defined mechanism at all [and ,] [and] [that] [it] is a a loss [. i] [, i think] is [that] [the] federal government will try [to] establish a mechanism [just] [to] do [just that] [in] [in] order [to] gain [the] revenue [that's] [being] lost . [uh] [, [i] mean] [, i] [, i] don't know if [i] agree with [that] . [but] [it] , [but] , 
 
 
 TURN DETAILS:
 Turn ID=0| A | A : yes .
 	Free: 
 	Constrained: 
-Turn ID=1| B | M : and uh and i'm not sure that's that's not part of the problem . i mean it's just that i'm being cheeky and uh i'm in the middle of it . i'm i think it's part of it and it's also part of my character to be cheeky .
-	Free: Pattern=of, Pattern=in the, Pattern=being, Pattern=. i, Pattern=i'm, Pattern=i mean, Pattern=also, Pattern=that's, Pattern=just that, Pattern=to, Pattern=my, Pattern=i think, Pattern=not, Pattern=uh, Pattern=it ., Pattern=it, Pattern=and, Pattern=of the, Pattern=it's
-	Constrained: Pattern=of, Pattern=just, Pattern=it, Pattern=in, Pattern=i, Pattern=the, Pattern=that
-Turn ID=2| A | A : i i'll agree it it's not your responsibility but is it also legal for you to do that ? from what i understand from various net readings it the federal government is going to try to legislate a more aggressive enforcement of state tax schemes uh in into place in the next few years . it is it is a lost revenue stream right now and states can use all the revenue they can get . with some with something like that do your arguments still apply ?
-	Free: Pattern=they, Pattern=in the, Pattern=in, Pattern=i, Pattern=also, Pattern=the, Pattern=to, Pattern=not, Pattern=right, Pattern=of, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=that, Pattern=it's, Pattern=but
-	Constrained: Pattern=the, Pattern=in
+Turn ID=1| B | M : and , uh and i'm not sure that's , that's not part of the problem . i mean it's just that i'm being cheeky and , uh i'm in the middle of it . i'm , i think it's part of it and it's also part of my character to be cheeky .
+	Free: Pattern=of, Pattern=and ,, Pattern=, i think, Pattern=in the, Pattern=being, Pattern=. i, Pattern=i'm, Pattern=i mean, Pattern=also, Pattern=that's, Pattern=just that, Pattern=to, Pattern=my, Pattern=not, Pattern=, uh, Pattern=it ., Pattern=it, Pattern=and, Pattern=of the, Pattern=it's
+	Constrained: Pattern=of, Pattern=uh, Pattern=just, Pattern=in, Pattern=i, Pattern=that, Pattern=i think, Pattern=it, Pattern=and, Pattern=the, Pattern=, i
+Turn ID=2| A | A : i , i'll agree it , it's not your responsibility but , is it also legal , for you to do that ? from what i understand from various net readings , it , the federal government is going to try to legislate a more aggressive enforcement of state tax schemes , uh , in , into place in the next few years . it is , it is a lost revenue stream right now and states can use all the revenue they can get . with some , with something like that , do your arguments still apply ?
+	Free: Pattern=they, Pattern=in the, Pattern=in, Pattern=i, Pattern=also, Pattern=the, Pattern=to, Pattern=not, Pattern=right, Pattern=of, Pattern=you, Pattern=, uh, Pattern=it, Pattern=and, Pattern=that, Pattern=it's, Pattern=but
+	Constrained: Pattern=uh, Pattern=the, Pattern=in
 Turn ID=3| B | M : uh-huh .
 	Free: 
 	Constrained: 
@@ -34,23 +34,23 @@ Turn ID=4| A | A : which is exactly what businesses do at the present .
 Turn ID=5| B | M : right .
 	Free: Pattern=right
 	Constrained: 
-Turn ID=6| A | A : and i i i was actually talking about businesses purchasing something mail order and then having having to pay sales tax on it .
-	Free: Pattern=it ., Pattern=and, Pattern=i, Pattern=on, Pattern=to, Pattern=sales
-	Constrained: Pattern=it
+Turn ID=6| A | A : and i , i i was actually talking about businesses purchasing something mail order and then having , having to pay sales tax on it .
+	Free: Pattern=it ., Pattern=and, Pattern=i, Pattern=to, Pattern=sales, Pattern=on, Pattern=, i
+	Constrained: Pattern=i, Pattern=it
 Turn ID=7| B | M : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=8| A | A : that's my understanding of the way uh the way it works . usually the the person ordering doesn't pay . but the accounting department will uh suck up all the bills at the end of the month and realize how much they have to pay . and there there are some substantial nasty penalties um if you if businesses try to avoid that .
-	Free: Pattern=they have, Pattern=to, Pattern=my, Pattern=you, Pattern=uh, Pattern=it, Pattern=and, Pattern=that's, Pattern=the, Pattern=of the, Pattern=that, Pattern=but
-	Constrained: Pattern=the, Pattern=have, Pattern=of, Pattern=they
+Turn ID=8| A | A : that's my understanding of the way , uh , the way it works . usually , the , the person ordering doesn't pay . but the accounting department will , uh , suck up all the bills at the end of the month and realize how much they have to pay . and there there are some substantial , nasty penalties , um , if you , if businesses try to avoid that .
+	Free: Pattern=they have, Pattern=to, Pattern=my, Pattern=you, Pattern=, uh, Pattern=it, Pattern=and, Pattern=that's, Pattern=the, Pattern=of the, Pattern=that, Pattern=but
+	Constrained: Pattern=of, Pattern=uh, Pattern=have, Pattern=they, Pattern=the
 Turn ID=9| B | M : yeah .
 	Free: Pattern=yeah .
 	Constrained: 
-Turn ID=10| A | A : no . businesses uh if purchasing things mail order if if i'm a computer consulting firm and i see these this great deal on forty-six mother boards uh from from say utah . um i i might buy the mother boards from utah but then still have to pay pennsylvania sales tax . my accounting department will at the end of the month . i think that i think that's the way things work in pennsylvania . and i know they work that way in uh say here in d c .
-	Free: Pattern=uh, Pattern=have, Pattern=they, Pattern=and, Pattern=. i, Pattern=in, Pattern=i'm, Pattern=i, Pattern=to, Pattern=my, Pattern=i think, Pattern=pennsylvania, Pattern=buy, Pattern=on, Pattern=that's, Pattern=the, Pattern=sales, Pattern=in pennsylvania, Pattern=of the, Pattern=that, Pattern=but
-	Constrained: Pattern=of, Pattern=pennsylvania, Pattern=in, Pattern=i, Pattern=the
-Turn ID=11| B | M : oh okay .
-	Free: Pattern=oh
+Turn ID=10| A | A : no . businesses , uh if purchasing things mail order , if , if i'm a computer consulting firm and i see these , this great deal on forty-six mother boards , uh , from , from say utah . um , i , i might buy the mother boards from utah but then still have to pay pennsylvania sales tax . my accounting department will at the end of the month . i think that i think that's the way things work in pennsylvania . and i know they work that way in , uh , say here in d c .
+	Free: Pattern=, uh, Pattern=have, Pattern=they, Pattern=and, Pattern=. i, Pattern=in, Pattern=i'm, Pattern=i, Pattern=to, Pattern=my, Pattern=i think, Pattern=pennsylvania, Pattern=buy, Pattern=on, Pattern=that's, Pattern=the, Pattern=, i, Pattern=sales, Pattern=in pennsylvania, Pattern=of the, Pattern=that, Pattern=but
+	Constrained: Pattern=of, Pattern=uh, Pattern=pennsylvania, Pattern=in, Pattern=i, Pattern=the
+Turn ID=11| B | M : oh , okay .
+	Free: Pattern=oh ,
 	Constrained: 
 Turn ID=12| A | A : yeah .
 	Free: Pattern=yeah .
@@ -58,6 +58,6 @@ Turn ID=12| A | A : yeah .
 Turn ID=13| B | M : but i think they have the sales taxes in pennsylvania based on the amount you buy .
 	Free: Pattern=you, Pattern=they have, Pattern=buy, Pattern=but, Pattern=i think, Pattern=on, Pattern=the, Pattern=sales, Pattern=in pennsylvania
 	Constrained: Pattern=have, Pattern=they, Pattern=pennsylvania, Pattern=in, Pattern=i
-Turn ID=14| A | A : that's true . a a big hole does exist right now uh in that consumers can just say oh i i forgot that . there there is no well defined mechanism at all and and that it is a a loss . i i think is that the federal government will try to establish a mechanism just to do just that in in order to gain the revenue that's being lost . uh i mean i i don't know if i agree with that . but it but
-	Free: Pattern=right, Pattern=uh, Pattern=just, Pattern=being, Pattern=. i, Pattern=in, Pattern=just that, Pattern=to, Pattern=i think, Pattern=it, Pattern=and, Pattern=oh, Pattern=i mean, Pattern=i, Pattern=that's, Pattern=the, Pattern=that, Pattern=but
-	Constrained: Pattern=just, Pattern=i, Pattern=that
+Turn ID=14| A | A : that's true . a a big hole does exist right now , uh , in that consumers can just say oh , i , i forgot that . there , there is no well defined mechanism at all and , and that it is a a loss . i , i think is that the federal government will try to establish a mechanism just to do just that in in order to gain the revenue that's being lost . uh , i mean , i , i don't know if i agree with that . but it , but ,
+	Free: Pattern=right, Pattern=just, Pattern=and ,, Pattern=, i think, Pattern=being, Pattern=. i, Pattern=in, Pattern=just that, Pattern=to, Pattern=oh ,, Pattern=uh, Pattern=, uh, Pattern=it, Pattern=and, Pattern=i mean, Pattern=i, Pattern=that's, Pattern=the, Pattern=, i, Pattern=that, Pattern=but
+	Constrained: Pattern=uh, Pattern=just, Pattern=and, Pattern=i, Pattern=, i, Pattern=that, Pattern=i think

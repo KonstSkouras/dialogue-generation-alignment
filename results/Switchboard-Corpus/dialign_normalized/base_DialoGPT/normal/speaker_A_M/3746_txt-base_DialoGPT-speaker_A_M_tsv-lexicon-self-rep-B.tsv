@@ -2,8 +2,12 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	3	a cart .	9	M	12, 20
 2	3	don't have a	5	M	12, 16
 2	3	we don't have	7	M	16, 22
+2	3	well , i	37	M	32, 68
+2	3	well , that's	3	M	48, 50
+2	3	well , we	17	M	6, 22
 2	3	you know ?	11	M	34, 44
 4	2	in the	37	M	6, 14, 26, 42
+3	2	, i	69	M	0, 32, 68
 3	2	i know	61	M	0, 8, 60
 2	2	a few	61	M	8, 68
 2	2	cart in	3	M	14, 16
@@ -13,9 +17,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	say that	29	M	8, 36
 2	2	that .	29	M	8, 36
 2	2	to do	13	M	40, 52
-2	2	well i	37	M	32, 68
-2	2	well that's	3	M	48, 50
-2	2	well we	17	M	6, 22
 9	1	you	33	M	12, 14, 26, 34, 36, 38, 40, 42, 44
 8	1	a	61	M	8, 12, 16, 18, 20, 48, 50, 68
 8	1	i	69	M	0, 8, 14, 24, 32, 40, 60, 68

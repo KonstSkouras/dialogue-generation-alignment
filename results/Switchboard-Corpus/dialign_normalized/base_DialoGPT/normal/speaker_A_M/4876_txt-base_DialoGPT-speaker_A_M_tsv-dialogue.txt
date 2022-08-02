@@ -3,49 +3,49 @@ A|1| A: huh .
 B|2| M: _i_ 
 A|3| A: huh . 
 B|4| M:  
-A|5| A: _oh_ _well_ _that's_ interesting . 
+A|5| A: _oh_ , _well_ _that's_ interesting . 
 B|6| M: it's _all_ _good_ . 
-A|7| A: _oh_ my god . 
+A|7| A: _oh_ , my god . 
 B|8| M: _you_ _pay_ _a_ lot . 
-A|9| A: _well_ [you] must _have a_ _just_ one _hero_ ace professional job _to_ support something _like that_ . 
+A|9| A: _well_ [you] must _have a_ , _just_ one _hero_ ace professional job _to_ support something _like that_ . 
 B|10| M: _i'm_ _not_ [a] [hero] . 
-A|11| A: _oh_ _well_ _yeah_ 
-B|12| M: it's [a] joke _i'm_ sure he's joking . 
+A|11| A: _oh_ , _well _,_ yeah_ 
+B|12| M: it's [a] joke , _i'm_ sure he's joking . 
 A|13| A: uh-huh . 
 B|14| M: [you] _are_ . 
-A|15| A: _well_ [not] [not] [all] _of_ us . [you] _know what_ _the_ kind _of_ things you're supposed _to_ look _for_ . [i'm] _an_ engineer . 
-B|16| M: _i_ don't _i_ don't even [know what] [to] do . 
-A|17| A: _and_ 
+A|15| A: _well ,_ [not] , [not] [all] _of_ us . [you] _know what_ _the_ kind _of_ things you're supposed _to_ look _for_ . [i'm] _an_ engineer . 
+B|16| M: _i_ don't , _i_ don't even [know what] [to] do . 
+A|17| A: _and ,_ 
 B|18| M: _i_ [have a] kid 
 A|19| A: uh-huh . 
-B|20| M: [and] uh [yeah] [and] it's _a good_ thing . 
+B|20| M: [and ,] uh [, yeah] , [and] it's _a good_ thing . 
 A|21| A: [yeah] . 
-B|22| M: _we_ 
+B|22| M: _we_ , 
 A|23| A: _five_ hundred _dollars_ [a] week . _for_ two kids . 
 B|24| M: [oh] ? 
 A|25| A: _that's_ incredible . 
-B|26| M: no _i_ was [the] teacher [for] [the] high school . 
-A|27| A: [oh] [oh] . 
-B|28| M: [well] it's been [a] while . 
+B|26| M: no , _i_ was [the] teacher [for] [the] high school . 
+A|27| A: [oh] , [oh] . 
+B|28| M: [well ,] it's been [a] while . 
 A|29| A: [well] . 
 B|30| M: [i'm] [not] even [a] girl . 
 A|31| A: [yeah] . 
 B|32| M: [a] lot [of] women in [the] uk . 
-A|33| A: [you] [know] _they_ could somebody will [have a] job _at_ three hundred [a] week [to] _get_ off welfare [and] [you] [know] _that's a good_ starting wage 
+A|33| A: [you] [know] , _they_ could , somebody will [have a] job _at_ three hundred [a] week [to] _get_ off welfare [and] [you] [know] , _that's a good_ starting wage 
 B|34| M: _but_ [they] do . 
 A|35| A: [but] boy three hundred _dollars_ [a] week doesn't go very far on child care . 
-B|36| M: it's [not] [the] money [that's] [the] problem it's [the] people who work [and] [get] paid . 
+B|36| M: it's [not] [the] money [that's] [the] problem , it's [the] people who work [and] [get] paid . 
 A|37| A: huh . 
 B|38| M: it's been [like that] since [the] first day 
-A|39| A: [i] mean [we] used [to] [pay] [pay] fifty cents _an_ hour [to] baby-sit . [but] mine [are] twenty-two twenty-three [and] twenty-seven _so_ [you] [know] [that] 
+A|39| A: [i] mean [we] used [to] [pay] , [pay] fifty cents _an_ hour [to] baby-sit . [but] mine [are] twenty-two , twenty-three [and] twenty-seven _so_ [you] [know] , [that] , 
 B|40| M: [i] 
-A|41| A: [i] guess baby-sitters now [are] _up_ _at_ [what] _five _dollars_ an_ hour ? 
+A|41| A: [i] guess baby-sitters now [are] _up_ _at_ , [what] , _five _dollars_ an_ hour ? 
 B|42| M: baby siters [are] down [at] about six [dollars an] episode . 
 A|43| A: [oh] my . 
 B|44| M: [that's a good] point . [i] [just] wanted [to] point out [that] [a] lot [of] people aren't even aware [of] [the] fact [that] [they] can [get] [up] [to] [five dollars] . 
 A|45| A: uh-huh . 
 B|46| M: this is [so] sad . [i] can't imagine 
-A|47| A: [oh] [yeah] . 
+A|47| A: [oh] [, yeah] . 
 
 
 TURN DETAILS:
@@ -64,62 +64,62 @@ Turn ID=3| A | A : huh .
 Turn ID=4| B | M : 
 	Free: 
 	Constrained: 
-Turn ID=5| A | A : oh well that's interesting .
+Turn ID=5| A | A : oh , well that's interesting .
 	Free: Pattern=that's, Pattern=oh, Pattern=well
 	Constrained: 
 Turn ID=6| B | M : it's all good .
 	Free: Pattern=all, Pattern=good
 	Constrained: 
-Turn ID=7| A | A : oh my god .
+Turn ID=7| A | A : oh , my god .
 	Free: Pattern=oh
 	Constrained: 
 Turn ID=8| B | M : you pay a lot .
-	Free: Pattern=pay, Pattern=a, Pattern=you
+	Free: Pattern=a, Pattern=pay, Pattern=you
 	Constrained: 
-Turn ID=9| A | A : well you must have a just one hero ace professional job to support something like that .
+Turn ID=9| A | A : well you must have a , just one hero ace professional job to support something like that .
 	Free: Pattern=well, Pattern=you, Pattern=just, Pattern=to, Pattern=hero, Pattern=like that, Pattern=have a
-	Constrained: Pattern=that, Pattern=a
+	Constrained: Pattern=a, Pattern=that
 Turn ID=10| B | M : i'm not a hero .
-	Free: Pattern=not, Pattern=hero, Pattern=a, Pattern=i'm
+	Free: Pattern=hero, Pattern=a, Pattern=i'm, Pattern=not
 	Constrained: 
-Turn ID=11| A | A : oh well yeah
-	Free: Pattern=oh, Pattern=yeah, Pattern=well
-	Constrained: 
-Turn ID=12| B | M : it's a joke i'm sure he's joking .
+Turn ID=11| A | A : oh , well , yeah
+	Free: Pattern=, yeah, Pattern=well ,, Pattern=oh
+	Constrained: Pattern=yeah, Pattern=well
+Turn ID=12| B | M : it's a joke , i'm sure he's joking .
 	Free: Pattern=a, Pattern=i'm
 	Constrained: 
 Turn ID=13| A | A : uh-huh .
 	Free: 
 	Constrained: 
 Turn ID=14| B | M : you are .
-	Free: Pattern=you, Pattern=are
+	Free: Pattern=are, Pattern=you
 	Constrained: 
-Turn ID=15| A | A : well not not all of us . you know what the kind of things you're supposed to look for . i'm an engineer .
-	Free: Pattern=of, Pattern=well, Pattern=you, Pattern=an, Pattern=for, Pattern=to, Pattern=not, Pattern=i'm, Pattern=know what, Pattern=the, Pattern=all
-	Constrained: Pattern=know, Pattern=what
-Turn ID=16| B | M : i don't i don't even know what to do .
+Turn ID=15| A | A : well , not , not all of us . you know what the kind of things you're supposed to look for . i'm an engineer .
+	Free: Pattern=of, Pattern=you, Pattern=an, Pattern=for, Pattern=well ,, Pattern=to, Pattern=not, Pattern=i'm, Pattern=know what, Pattern=the, Pattern=all
+	Constrained: Pattern=know, Pattern=what, Pattern=well
+Turn ID=16| B | M : i don't , i don't even know what to do .
 	Free: Pattern=know what, Pattern=i, Pattern=to
 	Constrained: Pattern=know, Pattern=what
-Turn ID=17| A | A : and
-	Free: Pattern=and
-	Constrained: 
+Turn ID=17| A | A : and ,
+	Free: Pattern=and ,
+	Constrained: Pattern=and
 Turn ID=18| B | M : i have a kid
 	Free: Pattern=have a, Pattern=i
 	Constrained: Pattern=a
 Turn ID=19| A | A : uh-huh .
 	Free: 
 	Constrained: 
-Turn ID=20| B | M : and uh yeah and it's a good thing .
-	Free: Pattern=a good, Pattern=yeah, Pattern=and
-	Constrained: Pattern=good, Pattern=a
+Turn ID=20| B | M : and , uh , yeah , and it's a good thing .
+	Free: Pattern=, yeah, Pattern=and ,, Pattern=a good, Pattern=and
+	Constrained: Pattern=a, Pattern=good, Pattern=yeah, Pattern=and
 Turn ID=21| A | A : yeah .
 	Free: Pattern=yeah
 	Constrained: 
-Turn ID=22| B | M : we
+Turn ID=22| B | M : we ,
 	Free: Pattern=we
 	Constrained: 
 Turn ID=23| A | A : five hundred dollars a week . for two kids .
-	Free: Pattern=for, Pattern=five, Pattern=a, Pattern=dollars
+	Free: Pattern=for, Pattern=a, Pattern=five, Pattern=dollars
 	Constrained: 
 Turn ID=24| B | M : oh ?
 	Free: Pattern=oh
@@ -127,37 +127,37 @@ Turn ID=24| B | M : oh ?
 Turn ID=25| A | A : that's incredible .
 	Free: Pattern=that's
 	Constrained: 
-Turn ID=26| B | M : no i was the teacher for the high school .
+Turn ID=26| B | M : no , i was the teacher for the high school .
 	Free: Pattern=i, Pattern=for, Pattern=the
 	Constrained: 
-Turn ID=27| A | A : oh oh .
+Turn ID=27| A | A : oh , oh .
 	Free: Pattern=oh
 	Constrained: 
-Turn ID=28| B | M : well it's been a while .
-	Free: Pattern=a, Pattern=well
-	Constrained: 
+Turn ID=28| B | M : well , it's been a while .
+	Free: Pattern=well ,, Pattern=a
+	Constrained: Pattern=well
 Turn ID=29| A | A : well .
 	Free: Pattern=well
 	Constrained: 
 Turn ID=30| B | M : i'm not even a girl .
-	Free: Pattern=not, Pattern=a, Pattern=i'm
+	Free: Pattern=a, Pattern=i'm, Pattern=not
 	Constrained: 
 Turn ID=31| A | A : yeah .
 	Free: Pattern=yeah
 	Constrained: 
 Turn ID=32| B | M : a lot of women in the uk .
-	Free: Pattern=the, Pattern=a, Pattern=of
+	Free: Pattern=a, Pattern=the, Pattern=of
 	Constrained: 
-Turn ID=33| A | A : you know they could somebody will have a job at three hundred a week to get off welfare and you know that's a good starting wage
+Turn ID=33| A | A : you know , they could , somebody will have a job at three hundred a week to get off welfare and you know , that's a good starting wage
 	Free: Pattern=you, Pattern=a, Pattern=and, Pattern=at, Pattern=that's a good, Pattern=know, Pattern=to, Pattern=get, Pattern=they, Pattern=have a
-	Constrained: Pattern=a good, Pattern=that's, Pattern=good, Pattern=a
+	Constrained: Pattern=a good, Pattern=that's, Pattern=a, Pattern=good
 Turn ID=34| B | M : but they do .
-	Free: Pattern=they, Pattern=but
+	Free: Pattern=but, Pattern=they
 	Constrained: 
 Turn ID=35| A | A : but boy three hundred dollars a week doesn't go very far on child care .
-	Free: Pattern=but, Pattern=a, Pattern=dollars
+	Free: Pattern=a, Pattern=but, Pattern=dollars
 	Constrained: 
-Turn ID=36| B | M : it's not the money that's the problem it's the people who work and get paid .
+Turn ID=36| B | M : it's not the money that's the problem , it's the people who work and get paid .
 	Free: Pattern=and, Pattern=get, Pattern=not, Pattern=that's, Pattern=the
 	Constrained: 
 Turn ID=37| A | A : huh .
@@ -166,13 +166,13 @@ Turn ID=37| A | A : huh .
 Turn ID=38| B | M : it's been like that since the first day
 	Free: Pattern=like that, Pattern=the
 	Constrained: Pattern=that
-Turn ID=39| A | A : i mean we used to pay pay fifty cents an hour to baby-sit . but mine are twenty-two twenty-three and twenty-seven so you know that
+Turn ID=39| A | A : i mean we used to pay , pay fifty cents an hour to baby-sit . but mine are twenty-two , twenty-three and twenty-seven so you know , that ,
 	Free: Pattern=you, Pattern=an, Pattern=and, Pattern=are, Pattern=know, Pattern=i, Pattern=we, Pattern=pay, Pattern=to, Pattern=so, Pattern=that, Pattern=but
 	Constrained: 
 Turn ID=40| B | M : i
 	Free: Pattern=i
 	Constrained: 
-Turn ID=41| A | A : i guess baby-sitters now are up at what five dollars an hour ?
+Turn ID=41| A | A : i guess baby-sitters now are up at , what , five dollars an hour ?
 	Free: Pattern=dollars an, Pattern=what, Pattern=five dollars, Pattern=are, Pattern=at, Pattern=i, Pattern=up
 	Constrained: Pattern=five, Pattern=dollars, Pattern=an
 Turn ID=42| B | M : baby siters are down at about six dollars an episode .
@@ -190,6 +190,6 @@ Turn ID=45| A | A : uh-huh .
 Turn ID=46| B | M : this is so sad . i can't imagine
 	Free: Pattern=i, Pattern=so
 	Constrained: 
-Turn ID=47| A | A : oh yeah .
-	Free: Pattern=oh, Pattern=yeah
-	Constrained: 
+Turn ID=47| A | A : oh , yeah .
+	Free: Pattern=, yeah, Pattern=oh
+	Constrained: Pattern=yeah

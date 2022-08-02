@@ -1,20 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	6	what you mean by that .	39	M	5, 43
+3	3	, uh ,	47	M	75, 107, 121
 2	3	i'm not sure	53	M	5, 57
 2	3	you have a	71	M	9, 79
 5	2	i'm not	69	M	5, 7, 57, 59, 73
 4	2	do you	59	M	21, 31, 63, 79
-3	2	i do	97	M	11, 21, 107
+4	2	uh ,	47	M	75, 99, 107, 121
+3	2	, i	79	M	21, 71, 99
+3	2	, uh	47	M	75, 107, 121
 3	2	i don't	55	M	43, 87, 97
 3	2	that .	67	M	5, 43, 71
+2	2	, but	83	M	5, 87
+2	2	, i'm	27	M	33, 59
+2	2	, what	67	M	55, 121
 2	2	a good	9	M	1, 9
 2	2	go out	51	M	63, 113
+2	2	i do	87	M	21, 107
 2	2	i've been	21	M	47, 67
 2	2	in the	57	M	45, 101
+2	2	know ,	13	M	87, 99
 2	2	no .	49	M	27, 75
 2	2	not .	107	M	7, 113
 2	2	places .	45	M	47, 91
-2	2	uh uh	23	M	85, 107
 2	2	you .	87	M	25, 111
 2	2	you do	11	M	31, 41
 18	1	you	120	M	5, 9, 19, 21, 25, 31, 35, 41, 43, 63, 71, 79, 83, 91, 109, 111, 123, 124
@@ -40,7 +47,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	been	31	M	47, 67, 77
 3	1	good	17	M	1, 9, 17
 3	1	you're	71	M	33, 69, 103
-2	1	but	83	M	5, 87
 2	1	day	69	M	9, 77
 2	1	didn't	25	M	71, 95
 2	1	doing	55	M	67, 121

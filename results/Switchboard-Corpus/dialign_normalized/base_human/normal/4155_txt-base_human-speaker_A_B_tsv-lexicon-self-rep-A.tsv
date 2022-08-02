@@ -1,20 +1,27 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	5	no no i haven't .	27	A	30, 56
+2	7	no , no , i haven't .	27	A	30, 56
+3	4	, no , i	35	A	22, 30, 56
 3	4	uh-huh . uh-huh .	57	A	16, 40, 72
+2	4	, uh , i'm	35	A	22, 56
+2	4	oh , sure .	29	A	14, 42
+4	3	no , i	49	A	22, 30, 56, 70
+3	3	, i haven't	37	A	30, 56, 66
+3	3	, i mean	61	A	8, 22, 68
+3	3	, um ,	45	A	22, 26, 66
+2	3	, uh ,	35	A	22, 56
 2	3	. right .	13	A	4, 16
-2	3	oh sure .	29	A	14, 42
 12	2	uh-huh .	63	A	10, 16, 18, 24, 32, 34, 40, 44, 48, 50, 60, 72
+7	2	, i	63	A	8, 22, 30, 56, 66, 68, 70
 5	2	right .	25	A	4, 12, 16, 20, 28
-4	2	no i	49	A	22, 30, 56, 70
+4	2	um ,	67	A	0, 22, 26, 66
 3	2	huh .	29	A	36, 52, 64
-3	2	i haven't	37	A	30, 56, 66
-3	2	i mean	61	A	8, 22, 68
+2	2	, well	5	A	22, 26
 2	2	. i'm	3	A	22, 24
 2	2	i guess	59	A	8, 66
 2	2	physics .	9	A	58, 66
 2	2	taxes .	47	A	2, 48
 2	2	that .	13	A	56, 68
-2	2	uh i'm	35	A	22, 56
+2	2	uh ,	35	A	22, 56
 2	2	yeah .	21	A	54, 74
 8	1	i	63	A	8, 22, 26, 30, 56, 66, 68, 70
 5	1	um	67	A	0, 4, 22, 26, 66
@@ -40,8 +47,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	one	45	A	22, 66
 2	1	physics	9	A	58, 66
 2	1	too	41	A	26, 66
-2	1	uh	35	A	22, 56
-2	1	well	5	A	22, 26
 2	1	work	5	A	22, 26
 2	1	you	61	A	6, 66
 

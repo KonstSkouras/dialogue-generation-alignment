@@ -1,19 +1,38 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	4	i don't know .	57	M	120, 176
+2	5	, i don't know .	57	M	120, 176
+2	4	, but i'm not	53	M	96, 148
+2	4	i , uh ,	87	M	90, 176
+5	3	, uh ,	139	M	38, 44, 90, 140, 176
+3	3	, i don't	81	M	96, 120, 176
 3	3	a lot of	93	M	46, 72, 138
 3	3	don't know .	87	M	90, 120, 176
 3	3	i live in	77	M	4, 8, 80
-2	3	but i'm not	53	M	96, 148
+2	3	, i ,	3	M	176, 178
+2	3	, i think	21	M	150, 170
+2	3	, i'm in	89	M	10, 98
+2	3	, i've been	13	M	88, 100
+2	3	, what ?	87	M	74, 160
+2	3	, you know	147	M	42, 188
 2	3	is it ?	43	M	26, 68
+2	3	uhh , i	135	M	16, 150
+8	2	uh ,	139	M	38, 40, 42, 44, 74, 90, 140, 176
 6	2	live in	167	M	4, 8, 80, 86, 98, 170
+5	2	, but	77	M	72, 96, 108, 142, 148
 5	2	in the	135	M	8, 60, 64, 76, 142
+5	2	well ,	161	M	12, 118, 120, 124, 172
+4	2	, i'm	169	M	10, 96, 98, 178
+4	2	, you	147	M	42, 172, 178, 188
+4	2	i ,	91	M	90, 176, 178, 180
 4	2	i don't	89	M	88, 96, 120, 176
 4	2	i think	63	M	108, 142, 150, 170
 4	2	i'm not	67	M	82, 96, 102, 148
 4	2	in a	127	M	44, 98, 106, 170
 4	2	know .	87	M	90, 98, 120, 176
+4	2	uhh ,	135	M	16, 102, 134, 150
+3	2	, it's	169	M	22, 56, 190
+3	2	, that's	131	M	48, 156, 178
+3	2	, what	87	M	74, 134, 160
 3	2	are you	61	M	0, 14, 60
-3	2	but i'm	53	M	96, 98, 148
 3	2	have a	59	M	38, 86, 96
 3	2	i was	75	M	88, 116, 162
 3	2	i'm in	89	M	10, 76, 98
@@ -23,25 +42,29 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	place .	87	M	70, 98, 156
 3	2	we have	129	M	38, 108, 166
 3	2	what ?	127	M	34, 74, 160
+2	2	, and	9	M	180, 188
+2	2	, is	115	M	26, 140
+2	2	, we	61	M	38, 98
+2	2	, yes	69	M	84, 152
 2	2	... and	107	M	38, 144
 2	2	a big	21	M	112, 132
 2	2	a house	13	M	86, 98
 2	2	a place	71	M	100, 170
-2	2	and we	69	M	98, 166
+2	2	and ,	83	M	98, 180
+2	2	do ,	149	M	22, 170
 2	2	do you	13	M	114, 126
 2	2	from the	65	M	32, 96
 2	2	i do	155	M	16, 170
 2	2	i know	79	M	20, 98
-2	2	i uh	87	M	90, 176
 2	2	i'm sorry	21	M	128, 148
-2	2	i've been	13	M	88, 100
 2	2	in it	3	M	86, 88
 2	2	in pittsburgh	3	M	2, 4
 2	2	in texas	5	M	10, 14
-2	2	it's like	33	M	154, 186
+2	2	it's ,	15	M	140, 154
 2	2	it's not	97	M	94, 190
 2	2	living in	17	M	44, 60
 2	2	of the	15	M	174, 188
+2	2	oh ,	131	M	26, 156
 2	2	right .	77	M	104, 180
 2	2	texas .	153	M	10, 162
 2	2	that is	41	M	70, 110
@@ -52,11 +75,10 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	think they're	83	M	60, 142
 2	2	this is	51	M	112, 162
 2	2	to do	21	M	22, 42
-2	2	uhh i	135	M	16, 150
+2	2	you ,	129	M	50, 178
 2	2	you ?	13	M	24, 36
 2	2	you can	3	M	186, 188
 2	2	you can't	103	M	28, 130
-2	2	you know	147	M	42, 188
 2	2	you mean	35	M	114, 148
 2	2	you should	107	M	66, 172
 2	2	you're right	49	M	56, 104
@@ -72,7 +94,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 9	1	that's	161	M	18, 46, 48, 64, 108, 122, 156, 158, 178
 9	1	what	143	M	18, 34, 36, 42, 74, 114, 134, 148, 160
 8	1	and	151	M	38, 58, 64, 98, 144, 166, 180, 188
-8	1	is	137	M	26, 68, 70, 110, 112, 124, 140, 162
 8	1	live	167	M	4, 8, 80, 86, 98, 100, 126, 170
 8	1	not	109	M	82, 94, 96, 102, 118, 148, 174, 190
 8	1	uh	139	M	38, 40, 42, 44, 74, 90, 140, 176
@@ -84,13 +105,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 6	1	place	127	M	44, 70, 98, 100, 156, 170
 6	1	that	131	M	60, 70, 110, 148, 170, 190
 5	1	we	131	M	38, 98, 108, 166, 168
-5	1	well	161	M	12, 118, 120, 124, 172
 4	1	are	169	M	0, 14, 60, 168
 4	1	can	103	M	86, 132, 186, 188
 4	1	from	163	M	0, 32, 96, 162
 4	1	how	131	M	40, 68, 162, 170
 4	1	right	133	M	56, 104, 180, 188
-4	1	uhh	135	M	16, 102, 134, 150
 4	1	your	101	M	30, 54, 56, 130
 3	1	all	33	M	106, 108, 138
 3	1	bad	125	M	68, 190, 192
@@ -111,8 +130,8 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	guy	31	M	132, 162
 2	1	house	13	M	86, 98
 2	1	houses	9	M	64, 72
+2	1	like	33	M	154, 186
 2	1	married	125	M	38, 162
-2	1	oh	131	M	26, 156
 2	1	one	39	M	108, 146
 2	1	out	49	M	118, 166
 2	1	pennsylvania	77	M	0, 76

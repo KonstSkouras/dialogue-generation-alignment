@@ -1,27 +1,46 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	10	my husband and i love to go to the musicals	3	A	38, 40
-3	3	my husband and	29	A	12, 38, 40
+3	4	and , uh ,	25	A	8, 20, 32
+2	4	, my husband and	29	A	12, 40
+2	4	, you know ,	17	A	30, 46
+2	4	uh , i have	19	A	8, 26
+6	3	, uh ,	53	A	8, 20, 22, 30, 32, 60
+3	3	uh , i	21	A	6, 8, 26
+3	3	you know ,	17	A	30, 34, 46
+2	3	, i don't	5	A	46, 50
+2	3	in , in	49	A	12, 60
 2	3	like that .	3	A	28, 30
 2	3	on the piano	3	A	30, 32
 2	3	play the piano	3	A	6, 8
-2	3	uh i have	19	A	8, 26
+2	3	uh , my	9	A	12, 20
 2	3	was really fun	17	A	20, 36
+11	2	uh ,	59	A	6, 8, 12, 16, 20, 22, 26, 30, 32, 60, 64
+8	2	, i	45	A	6, 8, 22, 26, 30, 44, 46, 50
+4	2	, my	49	A	12, 20, 40, 60
+4	2	know ,	21	A	30, 34, 46, 50
 4	2	my husband	29	A	12, 18, 38, 40
 4	2	you know	19	A	30, 34, 46, 48
 3	2	and my	9	A	12, 18, 20
 3	2	and then	39	A	8, 28, 46
-3	2	and uh	25	A	8, 20, 32
 3	2	i don't	19	A	46, 50, 64
 3	2	i think	37	A	10, 44, 46
 3	2	to the	13	A	28, 38, 40
-3	2	uh i	21	A	6, 8, 26
 3	2	uh-huh .	51	A	2, 24, 52
+3	2	yeah ,	49	A	14, 20, 62
+2	2	, and	7	A	14, 20
+2	2	, but	21	A	30, 50
+2	2	, in	49	A	12, 60
+2	2	, it	37	A	20, 56
+2	2	, so	31	A	32, 62
+2	2	, we	11	A	22, 32
+2	2	, you	17	A	30, 46
+2	2	but ,	29	A	22, 50
 2	2	fun .	23	A	14, 36
 2	2	great .	41	A	4, 44
 2	2	have him	9	A	26, 34
+2	2	i ,	39	A	22, 60
 2	2	in a	7	A	12, 18
 2	2	in his	11	A	20, 30
-2	2	in in	49	A	12, 60
 2	2	in the	5	A	12, 16
 2	2	it .	5	A	46, 50
 2	2	it was	5	A	16, 20
@@ -29,14 +48,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	my friend	29	A	32, 60
 2	2	my son	3	A	18, 20
 2	2	on the	3	A	30, 32
+2	2	so ,	21	A	20, 40
+2	2	that ,	59	A	8, 66
 2	2	the music	11	A	18, 28
 2	2	to play	21	A	8, 28
-2	2	uh my	9	A	12, 20
 2	2	which is	19	A	8, 26
 14	1	i	61	A	6, 8, 10, 22, 26, 30, 38, 40, 44, 46, 50, 60, 64, 66
 14	1	the	55	A	6, 8, 10, 12, 16, 18, 20, 22, 28, 30, 32, 38, 40, 60
 13	1	and	43	A	8, 12, 14, 18, 20, 22, 28, 30, 32, 38, 40, 46, 50
-11	1	uh	59	A	6, 8, 12, 16, 20, 22, 26, 30, 32, 60, 64
 9	1	a	53	A	8, 10, 12, 18, 22, 26, 30, 50, 60
 8	1	it	41	A	16, 20, 22, 28, 32, 46, 50, 56
 7	1	have	57	A	8, 22, 26, 34, 50, 60, 64
@@ -63,7 +82,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	they	31	A	16, 18, 40, 46
 4	1	was	27	A	10, 16, 20, 36
 4	1	when	29	A	22, 32, 40, 50
-3	1	but	29	A	22, 30, 50
 3	1	do	27	A	34, 46, 60
 3	1	for	13	A	50, 58, 62
 3	1	friend	35	A	26, 32, 60
@@ -74,7 +92,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	son	9	A	12, 18, 20
 3	1	suzuki	39	A	26, 60, 64
 3	1	we	13	A	22, 32, 34
-3	1	yeah	49	A	14, 20, 62
 2	1	about	31	A	0, 30
 2	1	an	5	A	22, 26
 2	1	band	3	A	18, 20

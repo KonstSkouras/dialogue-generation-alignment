@@ -1,21 +1,41 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	uh i guess	7	B	22, 28
-2	3	you know it's	37	B	2, 38
+2	5	, you know , it's	37	B	2, 38
+3	4	, you know ,	37	B	2, 32, 38
+2	4	and , uh ,	33	B	22, 54
+2	4	but , uh ,	11	B	22, 32
+2	4	uh , i guess	7	B	22, 28
+4	3	, uh ,	33	B	22, 28, 32, 54
+4	3	, you know	41	B	2, 32, 38, 42
+3	3	, i guess	17	B	22, 28, 38
+3	3	you know ,	37	B	2, 32, 38
+2	3	, and ,	11	B	22, 32
+2	3	and , uh	33	B	22, 54
+6	2	, you	53	B	2, 32, 36, 38, 42, 54
 6	2	uh-huh .	47	B	4, 6, 8, 12, 24, 50
+5	2	, i	37	B	2, 10, 22, 28, 38
+5	2	, it's	37	B	2, 26, 28, 34, 38
+5	2	uh ,	33	B	22, 28, 32, 44, 54
 4	2	to be	17	B	26, 32, 36, 42
-4	2	you know	41	B	2, 32, 38, 42
+3	2	, and	21	B	22, 32, 42
+3	2	and ,	33	B	22, 32, 54
+3	2	but ,	17	B	22, 32, 38
 3	2	going to	43	B	0, 32, 42
-3	2	i guess	17	B	22, 28, 38
+3	2	yeah ,	51	B	2, 22, 52
+2	2	, if	11	B	32, 42
+2	2	, in	33	B	22, 54
 2	2	. i	9	B	28, 36
-2	2	and uh	33	B	22, 54
 2	2	at all	11	B	22, 32
-2	2	but uh	11	B	22, 32
 2	2	for it	27	B	14, 40
 2	2	i have	9	B	20, 28
+2	2	it ,	11	B	22, 32
+2	2	it's ,	11	B	28, 38
 2	2	of the	11	B	32, 42
+2	2	oh ,	33	B	2, 34
 2	2	pay the	39	B	0, 38
+2	2	the ,	3	B	36, 38
 2	2	there .	21	B	26, 46
 2	2	yeah .	21	B	16, 36
+2	2	you ,	23	B	32, 54
 11	1	i	55	B	2, 10, 20, 22, 26, 28, 32, 36, 38, 40, 56
 9	1	it	41	B	14, 18, 22, 28, 32, 34, 40, 42, 54
 9	1	the	47	B	0, 22, 28, 32, 34, 36, 38, 42, 46
@@ -30,8 +50,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	for	39	B	2, 14, 22, 36, 40
 5	1	it's	37	B	2, 26, 28, 34, 38
 5	1	so	25	B	32, 38, 46, 48, 56
-5	1	uh	33	B	22, 28, 32, 44, 54
-5	1	yeah	51	B	2, 16, 22, 36, 52
 4	1	have	23	B	20, 28, 36, 42
 4	1	know	41	B	2, 32, 38, 42
 4	1	like	31	B	2, 22, 28, 32
@@ -39,7 +57,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	was	45	B	2, 18, 32, 46
 3	1	all	19	B	22, 32, 40
 3	1	are	25	B	14, 22, 38
-3	1	but	17	B	22, 32, 38
 3	1	is	21	B	34, 44, 54
 3	1	on	9	B	28, 34, 36
 3	1	some	19	B	26, 32, 44
@@ -50,7 +67,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	if	11	B	32, 42
 2	1	just	37	B	0, 36
 2	1	not	11	B	32, 42
-2	1	oh	33	B	2, 34
 2	1	one	29	B	16, 44
 2	1	take	13	B	42, 54
 2	1	that	17	B	36, 52

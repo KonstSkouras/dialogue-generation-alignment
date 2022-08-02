@@ -1,13 +1,25 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
-2	3	and uh and	63	A	2, 64
-2	3	i i think	33	A	46, 78
-2	3	i think it's	37	A	24, 60
+2	5	, i , i think	33	A	46, 78
+2	5	and , uh , and	63	A	2, 64
+2	4	, i think it's	37	A	24, 60
+2	4	, um , i	29	A	46, 74
+5	3	, i think	65	A	14, 24, 46, 60, 78
+5	3	, uh ,	69	A	2, 4, 10, 64, 70
+4	3	you know ,	57	A	6, 46, 60, 62
+3	3	, i ,	69	A	10, 46, 78
+3	3	, um ,	75	A	0, 46, 74
+2	3	. um ,	7	A	20, 26
+2	3	and i ,	3	A	0, 2
 2	3	i think that's	53	A	14, 66
 2	3	that's right .	3	A	42, 44
+2	3	uh , i	15	A	10, 24
+2	3	uh , she	67	A	4, 70
 8	2	i think	65	A	14, 24, 46, 60, 64, 66, 74, 78
+7	2	um ,	75	A	0, 8, 20, 26, 46, 52, 74
 5	2	uh-huh .	51	A	16, 32, 40, 56, 66
 5	2	yeah .	59	A	18, 20, 30, 34, 76
-4	2	you know	57	A	6, 46, 60, 62
+4	2	, and	63	A	2, 8, 10, 64
+3	2	and ,	63	A	2, 10, 64
 3	2	and i	27	A	0, 2, 26
 3	2	and so	9	A	0, 6, 8
 3	2	be a	71	A	2, 64, 72
@@ -15,8 +27,9 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	2	nursing homes	23	A	24, 36, 46
 3	2	right .	13	A	42, 44, 54
 3	2	that's right	25	A	42, 44, 66
+2	2	, it's	5	A	60, 64
+2	2	, some	37	A	10, 46
 2	2	. i	49	A	18, 66
-2	2	. um	7	A	20, 26
 2	2	caretaker i	63	A	2, 64
 2	2	day .	81	A	2, 82
 2	2	for the	25	A	50, 74
@@ -28,23 +41,20 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	2	medical treatment	3	A	68, 70
 2	2	or something	5	A	68, 72
 2	2	over and	5	A	6, 10
+2	2	right ,	13	A	54, 66
 2	2	that the	19	A	50, 68
 2	2	the same	73	A	6, 78
 2	2	they can	3	A	24, 26
 2	2	to say	31	A	18, 48
-2	2	uh i	15	A	10, 24
-2	2	uh she	67	A	4, 70
-2	2	um i	29	A	46, 74
+2	2	well ,	63	A	16, 78
 17	1	i	79	A	0, 2, 10, 14, 18, 24, 26, 46, 48, 50, 58, 60, 64, 66, 70, 74, 78
 14	1	and	73	A	0, 2, 4, 6, 8, 10, 24, 26, 42, 62, 64, 68, 70, 72
 9	1	the	79	A	0, 6, 10, 50, 60, 68, 70, 74, 78
 8	1	that	49	A	24, 26, 48, 50, 60, 62, 68, 72
 7	1	a	81	A	2, 4, 64, 68, 70, 72, 82
 7	1	to	79	A	2, 8, 18, 48, 60, 70, 80
-7	1	um	75	A	0, 8, 20, 26, 46, 52, 74
 7	1	you	75	A	6, 8, 46, 60, 62, 64, 80
 6	1	if	65	A	4, 26, 50, 62, 64, 68
-6	1	uh	69	A	2, 4, 10, 24, 64, 70
 6	1	yeah	59	A	18, 20, 28, 30, 34, 76
 5	1	be	71	A	2, 8, 50, 64, 72
 5	1	in	71	A	0, 10, 24, 60, 70
@@ -61,7 +71,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	it's	63	A	2, 24, 60, 64
 4	1	not	65	A	4, 6, 62, 68
 4	1	nursing	47	A	24, 36, 46, 70
-4	1	right	25	A	42, 44, 54, 66
 4	1	she	67	A	4, 6, 10, 70
 4	1	them	55	A	8, 42, 60, 62
 4	1	there	47	A	24, 60, 62, 70
@@ -91,9 +100,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	part	25	A	50, 74
 2	1	person	3	A	68, 70
 2	1	really	3	A	0, 2
-2	1	some	37	A	10, 46
 2	1	visit	29	A	10, 38
-2	1	well	63	A	16, 78
 2	1	with	51	A	0, 50
 2	1	wonderful	11	A	14, 24
 

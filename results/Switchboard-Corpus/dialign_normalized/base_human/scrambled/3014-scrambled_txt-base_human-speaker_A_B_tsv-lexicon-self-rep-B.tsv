@@ -1,29 +1,57 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	, you know , like	25	B	91, 115
+6	4	, you know ,	89	B	39, 45, 79, 91, 115, 127
+2	4	, i mean ,	11	B	81, 91
+2	4	, most of the	91	B	49, 139
+2	4	, uh , it's	13	B	79, 91
 2	4	and things like that	105	B	21, 125
+2	4	like , uh ,	39	B	11, 49
+2	4	that , it would	25	B	5, 29
 2	4	yeah . yeah .	3	B	117, 119
+7	3	you know ,	89	B	39, 45, 79, 87, 91, 115, 127
+6	3	, uh ,	105	B	11, 23, 49, 79, 91, 115
 4	3	. i think	117	B	1, 5, 109, 117
+4	3	. oh ,	97	B	13, 51, 53, 109
+3	3	, in the	103	B	13, 109, 115
+3	3	, um ,	97	B	13, 15, 109
 3	3	. yeah .	15	B	105, 117, 119
+3	3	i mean ,	45	B	81, 91, 125
+3	3	yeah , i	35	B	81, 87, 115
 3	3	yeah . yeah	5	B	115, 117, 119
+2	3	, and ,	67	B	13, 79
+2	3	, i ,	115	B	13, 127
+2	3	, i don't	113	B	15, 127
+2	3	, i would	113	B	3, 115
+2	3	, it's ,	49	B	79, 127
+2	3	, oh ,	91	B	11, 101
+2	3	, well ,	13	B	79, 91
+2	3	, yeah ,	25	B	91, 115
+2	3	. uh ,	25	B	115, 139
 2	3	. uh-huh .	55	B	55, 109
 2	3	a whole lot	29	B	29, 57
 2	3	and they are	93	B	23, 115
 2	3	are kind of	11	B	115, 125
-2	3	most of the	91	B	49, 139
-2	3	that i had	7	B	69, 75
-2	3	that it would	25	B	5, 29
+2	3	oh , the	99	B	11, 109
 2	3	that was a	63	B	13, 75
 2	3	that would be	53	B	31, 83
-2	3	that you know	13	B	91, 103
 2	3	there would be	29	B	81, 109
 2	3	to do that	43	B	29, 71
 2	3	we had a	57	B	13, 69
-2	3	you know like	25	B	91, 115
+2	3	would be ,	29	B	3, 31
+13	2	, i	125	B	3, 13, 15, 25, 75, 81, 87, 91, 101, 103, 109, 115, 127
 8	2	i think	117	B	1, 3, 5, 13, 57, 83, 109, 117
+8	2	know ,	113	B	15, 39, 45, 79, 87, 91, 115, 127
+8	2	oh ,	125	B	11, 13, 41, 51, 53, 101, 109, 135
 8	2	you know	89	B	39, 45, 79, 87, 91, 103, 115, 127
 7	2	would be	115	B	3, 29, 31, 81, 83, 109, 117
+7	2	yeah ,	105	B	11, 39, 45, 81, 87, 91, 115
 7	2	yeah .	87	B	33, 59, 63, 105, 115, 117, 119
+6	2	, you	89	B	39, 45, 79, 91, 115, 127
 6	2	uh-huh .	95	B	19, 41, 55, 77, 109, 113
-4	2	. oh	97	B	13, 51, 53, 109
+5	2	, it's	115	B	13, 51, 79, 91, 127
+5	2	that ,	135	B	5, 29, 75, 91, 139
+5	2	um ,	97	B	13, 15, 49, 99, 109
+4	2	and ,	113	B	13, 79, 115, 125
 4	2	had a	103	B	13, 65, 69, 115
 4	2	i don't	115	B	15, 85, 127, 129
 4	2	in the	103	B	13, 31, 109, 115
@@ -31,43 +59,55 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	2	of the	91	B	49, 101, 127, 139
 4	2	right .	81	B	43, 51, 105, 123
 4	2	that .	69	B	3, 13, 21, 71
-4	2	that i	55	B	31, 69, 75, 85
 4	2	them .	93	B	25, 31, 53, 117
 4	2	to do	63	B	29, 53, 71, 91
+4	2	well ,	75	B	29, 79, 91, 103
+3	2	, and	113	B	13, 79, 125
+3	2	, that	91	B	49, 109, 139
+3	2	, the	99	B	11, 79, 109
 3	2	. and	93	B	23, 31, 115
-3	2	are you	105	B	11, 53, 115
+3	2	but ,	29	B	73, 91, 101
+3	2	for ,	77	B	39, 109, 115
 3	2	going to	115	B	3, 29, 117
 3	2	have a	73	B	31, 87, 103
-3	2	i mean	45	B	81, 91, 125
+3	2	i ,	115	B	13, 85, 127
 3	2	i would	113	B	3, 31, 115
-3	2	that that	135	B	5, 75, 139
+3	2	like ,	81	B	11, 49, 91
+3	2	that i	55	B	31, 69, 85
 3	2	they are	93	B	23, 57, 115
-3	2	yeah i	35	B	81, 87, 115
+2	2	, if	17	B	13, 29
+2	2	, is	39	B	73, 111
+2	2	, just	9	B	101, 109
+2	2	, this	33	B	13, 45
+2	2	, we	19	B	69, 87
+2	2	, what	47	B	45, 91
 2	2	. that	45	B	31, 75
-2	2	. uh	25	B	115, 139
 2	2	a four	39	B	65, 103
 2	2	a little	57	B	13, 69
 2	2	and i	53	B	31, 83
 2	2	and it	5	B	127, 131
 2	2	and so	87	B	29, 115
 2	2	and the	39	B	99, 137
+2	2	are you	43	B	11, 53
 2	2	because it's	33	B	3, 35
 2	2	haven't had	37	B	13, 49
 2	2	i can't	17	B	85, 101
+2	2	i had	7	B	69, 75
 2	2	i was	99	B	11, 109
+2	2	is ,	69	B	23, 91
+2	2	it ,	17	B	111, 127
 2	2	know .	37	B	67, 103
-2	2	know the	49	B	79, 127
-2	2	like uh	39	B	11, 49
+2	2	no ,	5	B	11, 15
 2	2	of his	39	B	99, 137
-2	2	oh the	99	B	11, 109
 2	2	okay .	45	B	9, 53
+2	2	on ,	49	B	79, 127
 2	2	on the	89	B	49, 137
 2	2	something that	61	B	31, 91
+2	2	that that	71	B	5, 75
 2	2	that was	63	B	13, 75
 2	2	to be	55	B	3, 57
 2	2	to get	71	B	3, 73
 2	2	to have	79	B	31, 109
-2	2	uh it's	13	B	79, 91
 2	2	we have	51	B	87, 137
 2	2	with the	125	B	13, 137
 2	2	with them	39	B	15, 53
@@ -113,7 +153,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 5	1	just	29	B	81, 85, 91, 101, 109
 5	1	not	101	B	15, 49, 73, 91, 115
 5	1	that's	103	B	13, 35, 47, 95, 115
-5	1	um	97	B	13, 15, 49, 99, 109
 4	1	he	65	B	73, 79, 93, 137
 4	1	i'm	75	B	11, 15, 51, 85
 4	1	mean	123	B	3, 81, 91, 125

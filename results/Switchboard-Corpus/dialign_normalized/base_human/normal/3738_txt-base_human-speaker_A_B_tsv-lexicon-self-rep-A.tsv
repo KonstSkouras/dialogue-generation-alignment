@@ -1,35 +1,50 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	3	, uh ,	25	A	10, 28, 34
+2	3	, an individual	19	A	10, 28
+2	3	, and ,	17	A	10, 26
+2	3	, the topic	3	A	0, 2
+2	3	. well ,	9	A	22, 30
 2	3	learn how to	3	A	28, 30
+2	3	ten , fifteen	9	A	2, 10
+2	3	the , the	11	A	0, 10
 2	3	thirty years ago	9	A	2, 10
+2	3	you know ,	17	A	10, 26
 2	3	you think that's	3	A	22, 24
 5	2	in the	27	A	10, 26, 30, 34, 36
 5	2	uh-huh .	21	A	12, 16, 22, 28, 32
+3	2	, i	25	A	10, 28, 34
+3	2	, the	11	A	0, 2, 10
+3	2	, uh	25	A	10, 28, 34
+3	2	okay ,	11	A	0, 2, 10
+3	2	the ,	31	A	0, 10, 30
 3	2	think that's	5	A	22, 24, 26
-2	2	. well	9	A	22, 30
+3	2	well ,	21	A	10, 22, 30
+2	2	, and	17	A	10, 26
+2	2	, that	21	A	10, 30
+2	2	, that's	5	A	26, 30
+2	2	, you	11	A	0, 10
 2	2	a very	27	A	10, 36
-2	2	an individual	19	A	10, 28
-2	2	and and	17	A	10, 26
+2	2	and ,	17	A	10, 26
 2	2	i think	17	A	10, 26
 2	2	in a	17	A	10, 26
 2	2	in their	5	A	30, 34
+2	2	it ,	17	A	10, 26
 2	2	lot of	17	A	10, 26
-2	2	ten fifteen	9	A	2, 10
-2	2	that i	19	A	10, 28
+2	2	position ,	17	A	10, 26
+2	2	that ,	3	A	28, 30
 2	2	that's good	9	A	22, 30
-2	2	the the	11	A	0, 10
-2	2	the topic	3	A	0, 2
 2	2	time in	17	A	10, 26
+2	2	to ,	3	A	26, 28
 2	2	to five	17	A	10, 26
 2	2	to learn	3	A	26, 28
 2	2	true .	7	A	14, 20
 2	2	very comfortable	17	A	10, 26
+2	2	yeah ,	9	A	26, 34
 2	2	years ago	9	A	2, 10
-2	2	you know	17	A	10, 26
 2	2	you ready	5	A	0, 4
 7	1	the	37	A	0, 2, 10, 26, 30, 34, 36
 6	1	in	35	A	2, 10, 26, 30, 34, 36
 6	1	that	33	A	4, 10, 28, 30, 34, 36
-6	1	you	27	A	0, 4, 10, 22, 24, 26
 5	1	and	35	A	2, 10, 26, 34, 36
 5	1	is	35	A	2, 10, 26, 34, 36
 5	1	that's	21	A	10, 22, 24, 26, 30
@@ -48,9 +63,7 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 3	1	it	27	A	10, 26, 36
 3	1	they	29	A	2, 26, 30
 3	1	topic	11	A	0, 2, 10
-3	1	uh	25	A	10, 28, 34
 3	1	very	27	A	10, 26, 36
-3	1	well	21	A	10, 22, 30
 3	1	were	33	A	2, 10, 34
 3	1	with	9	A	26, 28, 34
 2	1	ago	9	A	2, 10
@@ -66,13 +79,11 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	1	now	25	A	10, 34
 2	1	of	17	A	10, 26
 2	1	people	9	A	26, 34
-2	1	position	17	A	10, 26
 2	1	right	7	A	28, 34
 2	1	social	9	A	2, 10
 2	1	some	9	A	26, 34
 2	1	stress	3	A	34, 36
 2	1	true	7	A	14, 20
 2	1	where	25	A	10, 34
-2	1	yeah	9	A	26, 34
 2	1	years	9	A	2, 10
 

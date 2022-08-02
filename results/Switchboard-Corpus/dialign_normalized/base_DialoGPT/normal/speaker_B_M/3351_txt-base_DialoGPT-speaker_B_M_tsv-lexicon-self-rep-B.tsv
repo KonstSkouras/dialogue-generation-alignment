@@ -1,6 +1,8 @@
 Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 2	6	a dog and a cat .	29	M	5, 33
 2	6	have a dog and a cat	39	M	5, 43
+2	3	, i'm just	51	M	9, 59
+2	3	, right ?	21	M	43, 63
 2	3	a dog .	29	M	9, 37
 2	3	a little bit	15	M	49, 63
 2	3	he had a	23	M	35, 57
@@ -12,12 +14,14 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	2	i was	35	M	37, 61, 69, 71
 3	2	cat .	29	M	5, 11, 33
 3	2	had a	41	M	17, 35, 57
+3	2	know ,	55	M	9, 37, 63
+2	2	, and	31	M	37, 67
+2	2	, i	3	M	67, 69
 2	2	a snake	9	M	17, 25
-2	2	i'm just	51	M	9, 59
 2	2	i'm not	15	M	45, 59
 2	2	i'm sorry	9	M	45, 53
 2	2	in the	33	M	37, 69
-2	2	right ?	21	M	43, 63
+2	2	it ,	27	M	35, 61
 2	2	say it	3	M	59, 61
 2	2	they have	35	M	5, 39
 2	2	you have	7	M	17, 23
@@ -35,7 +39,6 @@ Freq.	Size	Surface Form	Spanning	First Speaker	Turns
 4	1	we	33	M	27, 43, 55, 59
 3	1	is	47	M	3, 25, 49
 3	1	just	61	M	9, 59, 69
-3	1	know	55	M	9, 37, 63
 3	1	right	33	M	31, 43, 63
 3	1	they	39	M	1, 5, 39
 3	1	you're	21	M	11, 21, 31
