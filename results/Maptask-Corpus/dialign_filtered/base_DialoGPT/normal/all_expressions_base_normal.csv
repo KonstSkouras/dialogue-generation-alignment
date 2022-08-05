@@ -1,0 +1,786 @@
+Freq.,Free Freq.,Size,Surface Form,Establishment turn,Spanning,Priming,First Speaker,Turns,Span Lists,Dialogue id,Speakers,Experiment
+2,0,3,the ghost town,127,3,1,f,"124,127","[[124, 127]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,3,more or less,123,5,1,f,"118,123","[[118, 123]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,3,the stone creek,131,1,1,f,"130,131","[[130, 131]]",q1ec3,"f,M",Base DialoGPT - Normal
+3,1,2,have a,11,5,2,f,"10,11,15","[[10, 11, 15]]",q1ec3,"f,M",Base DialoGPT - Normal
+6,2,2,at the,87,31,1,f,"84,87,108,112,113,115","[[84, 87], [108, 112, 113], [112, 113, 115]]",q1ec3,"f,M",Base DialoGPT - Normal
+3,1,2,the fort,181,5,2,f,"180,181,185","[[180, 181, 185]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,to the,181,3,3,f,"178,181","[[178, 181]]",q1ec3,"f,M",Base DialoGPT - Normal
+3,1,2,wooden pole,117,5,3,f,"112,114,117","[[112, 114, 117], [114, 117]]",q1ec3,"f,M",Base DialoGPT - Normal
+4,0,2,above the,133,67,1,f,"130,133,196,197","[[130, 133], [196, 197]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,ghost town,127,3,3,f,"124,127","[[124, 127]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,i don't,3,1,1,f,"2,3","[[2, 3]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,you have,17,3,1,f,"14,17","[[14, 17]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,a fast,35,1,3,f,"34,35","[[34, 35]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,the ghost,127,3,1,f,"124,127","[[124, 127]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,and then,177,5,1,f,"172,177","[[172, 177]]",q1ec3,"f,M",Base DialoGPT - Normal
+3,1,2,not in,71,3,1,f,"70,71,73","[[70, 71, 73]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,stone creek,131,1,2,f,"130,131","[[130, 131]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,straight line,73,3,1,f,"70,73","[[70, 73]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,the diamond,33,5,2,f,"28,33","[[28, 33]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,the flat,139,3,2,f,"136,139","[[136, 139]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,all on,91,1,1,f,"90,91","[[90, 91]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,but i'm,73,3,1,f,"70,73","[[70, 73]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,i right,99,1,1,f,"98,99","[[98, 99]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,no no,27,5,1,f,"22,27","[[22, 27]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,the bar,151,5,1,f,"146,151","[[146, 151]]",q1ec3,"f,M",Base DialoGPT - Normal
+46,10,1,the,13,177,3,f,"8,12,13,26,28,31,33,38,43,56,57,84,87,89,102,105,108,109,112,113,114,115,117,119,124,126,127,128,130,131,133,136,139,146,151,160,161,162,165,172,173,178,179,180,181,185","[[8, 12, 13], [12, 13], [26, 28, 31], [28, 31, 33], [38, 43], [56, 57], [84, 87, 89], [102, 105], [108, 109, 112, 113], [112, 113, 114, 115, 117], [114, 115, 117, 119], [124, 126, 127], [126, 127, 128, 130, 131], [128, 130, 131, 133], [130, 131, 133], [136, 139], [146, 151], [160, 161, 162, 165], [162, 165], [172, 173], [178, 179, 180, 181], [180, 181, 185]]",q1ec3,"f,M",Base DialoGPT - Normal
+30,8,1,right,75,125,12,f,"72,74,75,84,87,94,98,99,100,101,102,103,112,117,120,122,125,126,128,130,131,142,144,145,174,176,177,192,194,197","[[72, 74, 75], [74, 75], [84, 87], [94, 98, 99], [98, 99, 100, 101, 102, 103], [100, 101, 102, 103], [102, 103], [112, 117], [120, 122, 125], [122, 125], [126, 128, 130, 131], [128, 130, 131], [130, 131], [142, 144, 145], [144, 145], [174, 176, 177], [176, 177], [192, 194, 197], [194, 197]]",q1ec3,"f,M",Base DialoGPT - Normal
+9,1,1,i,3,181,1,f,"2,3,10,15,98,99,180,181,183","[[2, 3], [10, 15], [98, 99], [180, 181, 183]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,you,17,3,1,f,"14,17","[[14, 17]]",q1ec3,"f,M",Base DialoGPT - Normal
+13,1,1,i'm,71,127,1,f,"70,71,73,76,77,108,113,130,135,136,141,196,197","[[70, 71, 73], [76, 77], [108, 113], [130, 135], [136, 141], [196, 197]]",q1ec3,"f,M",Base DialoGPT - Normal
+6,2,1,and,169,9,1,f,"168,169,170,172,173,177","[[168, 169, 170, 172, 173], [170, 172, 173], [172, 173, 177]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,on,91,1,2,f,"90,91","[[90, 91]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,so,111,3,3,f,"108,111","[[108, 111]]",q1ec3,"f,M",Base DialoGPT - Normal
+4,0,1,above,133,67,3,f,"130,133,196,197","[[130, 133], [196, 197]]",q1ec3,"f,M",Base DialoGPT - Normal
+6,2,1,at,87,31,2,f,"84,87,108,112,113,115","[[84, 87], [108, 112, 113], [112, 113, 115]]",q1ec3,"f,M",Base DialoGPT - Normal
+4,0,1,but,73,17,3,f,"70,73,84,87","[[70, 73], [84, 87]]",q1ec3,"f,M",Base DialoGPT - Normal
+3,1,1,creek,131,3,4,f,"130,131,133","[[130, 131, 133]]",q1ec3,"f,M",Base DialoGPT - Normal
+3,1,1,fort,181,5,3,f,"180,181,185","[[180, 181, 185]]",q1ec3,"f,M",Base DialoGPT - Normal
+3,1,1,in,71,3,1,f,"70,71,73","[[70, 71, 73]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,straight,73,3,3,f,"70,73","[[70, 73]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,fast,35,1,5,f,"34,35","[[34, 35]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,i've,173,3,5,f,"170,173","[[170, 173]]",q1ec3,"f,M",Base DialoGPT - Normal
+4,0,1,town,119,13,2,f,"114,119,124,127","[[114, 119], [124, 127]]",q1ec3,"f,M",Base DialoGPT - Normal
+4,0,1,bar,143,11,2,f,"140,143,146,151","[[140, 143], [146, 151]]",q1ec3,"f,M",Base DialoGPT - Normal
+4,0,1,bottom,87,33,1,f,"84,87,112,117","[[84, 87], [112, 117]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,flat,139,3,3,f,"136,139","[[136, 139]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,or,123,5,1,f,"118,123","[[118, 123]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,them,163,5,1,f,"158,163","[[158, 163]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,river,15,5,1,f,"10,15","[[10, 15]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,which,13,1,1,f,"12,13","[[12, 13]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,1,east,19,1,1,f,"18,19","[[18, 19]]",q1ec3,"f,M",Base DialoGPT - Normal
+2,0,2,a bit,17,3,1,f,"14,17","[[14, 17]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,2,over a,41,3,2,f,"38,41","[[38, 41]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,2,end of,7,1,1,f,"6,7","[[6, 7]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,2,just above,93,3,1,f,"90,93","[[90, 93]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,2,just past,107,1,1,f,"106,107","[[106, 107]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,2,right round,91,5,1,f,"86,91","[[86, 91]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,2,the lake,77,1,1,f,"76,77","[[76, 77]]",q1ec8,"f,M",Base DialoGPT - Normal
+9,1,1,right,43,49,3,f,"42,43,62,63,74,75,86,90,91","[[42, 43], [62, 63], [74, 75], [86, 90, 91], [90, 91]]",q1ec8,"f,M",Base DialoGPT - Normal
+3,1,1,over,41,3,1,f,"38,40,41","[[38, 40, 41], [40, 41]]",q1ec8,"f,M",Base DialoGPT - Normal
+4,0,1,south,27,29,2,f,"24,27,52,53","[[24, 27], [52, 53]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,1,i'm,83,3,3,f,"80,83","[[80, 83]]",q1ec8,"f,M",Base DialoGPT - Normal
+3,1,1,no,71,5,3,f,"66,68,71","[[66, 68, 71], [68, 71]]",q1ec8,"f,M",Base DialoGPT - Normal
+3,1,1,then,25,3,1,f,"24,25,27","[[24, 25, 27]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,1,going,81,1,1,f,"80,81","[[80, 81]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,1,above,93,3,3,f,"90,93","[[90, 93]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,1,and,1,1,1,f,"0,1","[[0, 1]]",q1ec8,"f,M",Base DialoGPT - Normal
+3,1,1,map,9,5,2,f,"6,9,11","[[6, 9, 11]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,1,they're,73,3,3,f,"70,73","[[70, 73]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,1,past,107,1,2,f,"106,107","[[106, 107]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,1,round,91,5,2,f,"86,91","[[86, 91]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,1,level,77,1,1,f,"76,77","[[76, 77]]",q1ec8,"f,M",Base DialoGPT - Normal
+2,0,3,and i'm going,95,1,1,f,"94,95","[[94, 95]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,3,i go right,39,1,1,f,"38,39","[[38, 39]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,of the,11,5,1,f,"6,11","[[6, 11]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,have a,49,5,1,f,"44,49","[[44, 49]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,how far,11,5,2,f,"6,11","[[6, 11]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,i'm going,95,1,2,f,"94,95","[[94, 95]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,in the,61,1,2,f,"60,61","[[60, 61]]",q1nc4,"f,M",Base DialoGPT - Normal
+3,1,2,the lighthouse,133,3,1,f,"132,133,135","[[132, 133, 135]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,if you,43,3,1,f,"40,43","[[40, 43]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,a forge,47,3,1,f,"44,47","[[44, 47]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,from the,11,5,1,f,"6,11","[[6, 11]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,i mean,43,3,1,f,"40,43","[[40, 43]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,right next,133,1,1,f,"132,133","[[132, 133]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,2,see what,41,1,1,f,"40,41","[[40, 41]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,1,okay,125,1,4,f,"124,125","[[124, 125]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,1,of,11,5,1,f,"6,11","[[6, 11]]",q1nc4,"f,M",Base DialoGPT - Normal
+6,0,1,down,3,93,1,f,"2,3,82,87,94,95","[[2, 3], [82, 87], [94, 95]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,1,am,15,3,2,f,"12,15","[[12, 15]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,1,going,95,1,1,f,"94,95","[[94, 95]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,1,no,73,5,4,f,"68,73","[[68, 73]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,1,how,11,5,2,f,"6,11","[[6, 11]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,1,in,61,1,2,f,"60,61","[[60, 61]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,1,mean,43,3,1,f,"40,43","[[40, 43]]",q1nc4,"f,M",Base DialoGPT - Normal
+2,0,4,to the cactus thing,17,1,1,f,"16,17","[[16, 17]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,3,at the moment,85,3,1,f,"82,85","[[82, 85]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,3,i was supposed,55,1,1,f,"54,55","[[54, 55]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,3,and again a,63,1,1,f,"62,63","[[62, 63]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,3,the gold mine,139,3,1,f,"136,139","[[136, 139]]",q2ec4,"f,M",Base DialoGPT - Normal
+7,1,2,i've got,7,61,1,f,"6,7,8,11,62,66,67","[[6, 7, 8, 11], [8, 11], [62, 66, 67], [66, 67]]",q2ec4,"f,M",Base DialoGPT - Normal
+10,0,2,to the,7,141,1,f,"6,7,16,17,82,85,134,137,146,147","[[6, 7], [16, 17], [82, 85], [134, 137], [146, 147]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,at the,85,3,3,f,"82,85","[[82, 85]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,i think,45,3,1,f,"42,45","[[42, 45]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,the rift,37,5,2,f,"32,37","[[32, 37]]",q2ec4,"f,M",Base DialoGPT - Normal
+3,1,2,the stone,149,3,4,f,"146,148,149","[[146, 148, 149]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,you got,119,5,1,f,"114,119","[[114, 119]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,gold mine,139,3,3,f,"136,139","[[136, 139]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,and a,105,3,1,f,"102,105","[[102, 105]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,cactus thing,17,1,1,f,"16,17","[[16, 17]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,inches below,63,1,1,f,"62,63","[[62, 63]]",q2ec4,"f,M",Base DialoGPT - Normal
+3,1,2,it's right,99,3,1,f,"98,99,101","[[98, 99, 101]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,to avoid,155,3,2,f,"152,155","[[152, 155]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,it straight,45,3,1,f,"42,45","[[42, 45]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,right to,27,3,1,f,"24,27","[[24, 27]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,wagon wheel,9,5,1,f,"4,9","[[4, 9]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,your stone,135,3,1,f,"132,135","[[132, 135]]",q2ec4,"f,M",Base DialoGPT - Normal
+74,14,1,the,1,153,1,f,"0,1,5,6,7,14,16,17,18,19,32,35,36,37,38,41,52,55,60,63,66,67,68,69,70,71,72,73,76,77,78,79,81,82,83,85,86,88,89,91,92,93,94,98,99,100,101,104,105,106,109,110,111,113,115,126,130,131,132,133,134,135,136,137,138,139,141,142,146,147,148,149,151,153","[[0, 1, 5], [6, 7], [14, 16, 17, 18, 19], [16, 17, 18, 19], [18, 19], [32, 35, 36, 37], [36, 37, 38, 41], [38, 41], [52, 55], [60, 63], [66, 67, 68, 69, 70, 71], [68, 69, 70, 71, 72, 73], [70, 71, 72, 73], [72, 73, 76, 77], [76, 77, 78, 79, 81], [78, 79, 81, 82, 83], [82, 83, 85], [86, 88, 89, 91], [88, 89, 91, 92, 93], [92, 93], [94, 98, 99], [98, 99, 100, 101], [100, 101, 104, 105], [104, 105, 106, 109], [106, 109, 110, 111], [110, 111, 113, 115], [126, 130, 131], [130, 131, 132, 133, 134, 135], [132, 133, 134, 135, 136, 137], [134, 135, 136, 137, 138, 139], [136, 137, 138, 139, 141], [138, 139, 141], [142, 146, 147], [146, 147, 148, 149, 151], [148, 149, 151, 153]]",q2ec4,"f,M",Base DialoGPT - Normal
+21,5,1,right,19,95,3,f,"18,19,24,25,26,27,38,40,42,43,78,81,96,98,99,100,101,108,110,112,113","[[18, 19], [24, 25, 26, 27], [26, 27], [38, 40, 42, 43], [40, 42, 43], [42, 43], [78, 81], [96, 98, 99, 100, 101], [98, 99, 100, 101], [100, 101], [108, 110, 112, 113], [110, 112, 113], [112, 113]]",q2ec4,"f,M",Base DialoGPT - Normal
+25,3,1,to,7,149,1,f,"6,7,16,17,24,26,27,29,42,45,56,61,82,85,94,95,116,118,119,134,137,146,147,152,155","[[6, 7], [16, 17], [24, 26, 27, 29], [26, 27, 29], [42, 45], [56, 61], [82, 85], [94, 95], [116, 118, 119], [118, 119], [134, 137], [146, 147], [152, 155]]",q2ec4,"f,M",Base DialoGPT - Normal
+16,4,1,that,21,147,2,f,"16,21,32,33,62,64,65,67,69,94,95,110,112,113,160,163","[[16, 21], [32, 33], [62, 64, 65, 67], [64, 65, 67, 69], [94, 95], [110, 112, 113], [112, 113], [160, 163]]",q2ec4,"f,M",Base DialoGPT - Normal
+16,6,1,got,7,119,2,f,"4,6,7,8,10,11,62,64,66,67,114,116,118,119,122,123","[[4, 6, 7], [6, 7, 8, 10, 11], [8, 10, 11], [10, 11], [62, 64, 66, 67], [64, 66, 67], [66, 67], [114, 116, 118, 119], [116, 118, 119], [118, 119, 122, 123], [122, 123]]",q2ec4,"f,M",Base DialoGPT - Normal
+10,2,1,and,25,85,1,f,"20,25,62,63,67,98,101,102,104,105","[[20, 25], [62, 63, 67], [98, 101], [102, 104, 105], [104, 105]]",q2ec4,"f,M",Base DialoGPT - Normal
+7,1,1,i've,7,61,1,f,"6,7,8,11,62,66,67","[[6, 7, 8, 11], [8, 11], [62, 66, 67], [66, 67]]",q2ec4,"f,M",Base DialoGPT - Normal
+4,0,1,yeah,21,39,3,f,"20,21,58,59","[[20, 21], [58, 59]]",q2ec4,"f,M",Base DialoGPT - Normal
+7,1,1,so,43,75,1,f,"38,43,56,61,110,111,113","[[38, 43], [56, 61], [110, 111, 113]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,below,63,1,4,f,"62,63","[[62, 63]]",q2ec4,"f,M",Base DialoGPT - Normal
+5,1,1,it's,99,13,1,f,"98,99,101,110,111","[[98, 99, 101], [110, 111]]",q2ec4,"f,M",Base DialoGPT - Normal
+4,0,1,down,103,49,4,f,"98,103,144,147","[[98, 103], [144, 147]]",q2ec4,"f,M",Base DialoGPT - Normal
+3,1,1,okay,73,5,4,f,"70,73,75","[[70, 73, 75]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,at,85,3,3,f,"82,85","[[82, 85]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,there,49,5,3,f,"44,49","[[44, 49]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,think,45,3,1,f,"42,45","[[42, 45]]",q2ec4,"f,M",Base DialoGPT - Normal
+5,1,1,in,55,49,1,f,"52,55,98,100,101","[[52, 55], [98, 100, 101], [100, 101]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,side,141,1,1,f,"140,141","[[140, 141]]",q2ec4,"f,M",Base DialoGPT - Normal
+3,1,1,page,27,5,1,f,"24,27,29","[[24, 27, 29]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,rapids,69,3,1,f,"66,69","[[66, 69]]",q2ec4,"f,M",Base DialoGPT - Normal
+3,1,1,corner,15,3,1,f,"14,15,17","[[14, 15, 17]]",q2ec4,"f,M",Base DialoGPT - Normal
+6,2,1,fort,95,9,2,f,"92,94,95,98,100,101","[[92, 94, 95], [94, 95], [98, 100, 101]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,mine,139,3,5,f,"136,139","[[136, 139]]",q2ec4,"f,M",Base DialoGPT - Normal
+5,1,1,bar,123,29,1,f,"122,123,127,146,151","[[122, 123, 127], [146, 151]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,inches,63,1,1,f,"62,63","[[62, 63]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,thing,17,1,1,f,"16,17","[[16, 17]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,way,109,3,2,f,"106,109","[[106, 109]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,cactus,17,1,2,f,"16,17","[[16, 17]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,gold,139,3,3,f,"136,139","[[136, 139]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,then,25,5,1,f,"20,25","[[20, 25]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,between,105,5,2,f,"100,105","[[100, 105]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,noose,143,5,1,f,"138,143","[[138, 143]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,straight,45,3,2,f,"42,45","[[42, 45]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,description,139,1,1,f,"138,139","[[138, 139]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,1,phoar,159,3,1,f,"156,159","[[156, 159]]",q2ec4,"f,M",Base DialoGPT - Normal
+2,0,2,i go,45,3,1,f,"42,45","[[42, 45]]",q3ec4,"f,M",Base DialoGPT - Normal
+2,0,1,just,77,3,2,f,"74,77","[[74, 77]]",q3ec4,"f,M",Base DialoGPT - Normal
+2,0,1,me,89,5,3,f,"84,89","[[84, 89]]",q3ec4,"f,M",Base DialoGPT - Normal
+2,0,1,above,77,5,1,f,"72,77","[[72, 77]]",q3ec4,"f,M",Base DialoGPT - Normal
+2,0,3,right of the,81,1,3,f,"80,81","[[80, 81]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,3,and then go,35,3,1,f,"32,35","[[32, 35]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,3,i just go,127,1,1,f,"126,127","[[126, 127]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,3,right at the,79,1,1,f,"78,79","[[78, 79]]",q4ec3,"f,M",Base DialoGPT - Normal
+4,0,2,of the,45,41,3,f,"40,45,80,81","[[40, 45], [80, 81]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,2,right of,81,1,3,f,"80,81","[[80, 81]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,2,and then,35,3,1,f,"32,35","[[32, 35]]",q4ec3,"f,M",Base DialoGPT - Normal
+3,1,2,boat house,87,5,2,f,"82,86,87","[[82, 86, 87]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,2,down to,127,1,2,f,"126,127","[[126, 127]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,2,the avalanche,61,3,1,f,"58,61","[[58, 61]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,2,the map,135,5,1,f,"130,135","[[130, 135]]",q4ec3,"f,M",Base DialoGPT - Normal
+3,1,2,the ravine,9,5,2,f,"4,6,9","[[4, 6, 9]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,2,other side,97,5,1,f,"92,97","[[92, 97]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,2,the finish,151,3,1,f,"148,151","[[148, 151]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,2,the river,87,3,1,f,"84,87","[[84, 87]]",q4ec3,"f,M",Base DialoGPT - Normal
+4,0,1,a,47,5,1,f,"46,47,50,51","[[46, 47, 50, 51], [50, 51]]",q4ec3,"f,M",Base DialoGPT - Normal
+4,0,1,of,45,41,3,f,"40,45,80,81","[[40, 45], [80, 81]]",q4ec3,"f,M",Base DialoGPT - Normal
+6,2,1,and,33,121,2,f,"32,33,35,148,151,153","[[32, 33, 35], [148, 151, 153]]",q4ec3,"f,M",Base DialoGPT - Normal
+7,1,1,down,67,77,6,f,"62,66,67,126,127,138,139","[[62, 66, 67], [66, 67], [126, 127], [138, 139]]",q4ec3,"f,M",Base DialoGPT - Normal
+4,0,1,on,7,15,1,f,"2,7,12,17","[[2, 7], [12, 17]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,there,23,5,1,f,"18,23","[[18, 23]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,yeah,63,5,2,f,"58,63","[[58, 63]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,so,55,3,1,f,"52,55","[[52, 55]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,then,35,3,1,f,"32,35","[[32, 35]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,avalanche,61,3,2,f,"58,61","[[58, 61]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,end,137,1,1,f,"136,137","[[136, 137]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,got,93,3,1,f,"90,93","[[90, 93]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,map,135,5,2,f,"130,135","[[130, 135]]",q4ec3,"f,M",Base DialoGPT - Normal
+3,1,1,ravine,9,5,2,f,"4,6,9","[[4, 6, 9]]",q4ec3,"f,M",Base DialoGPT - Normal
+3,1,1,one,91,3,2,f,"88,90,91","[[88, 90, 91]]",q4ec3,"f,M",Base DialoGPT - Normal
+3,1,1,river,87,5,1,f,"84,87,89","[[84, 87, 89]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,stones,117,3,1,f,"114,117","[[114, 117]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,through,15,1,1,f,"14,15","[[14, 15]]",q4ec3,"f,M",Base DialoGPT - Normal
+2,0,1,flagship,119,3,1,f,"116,119","[[116, 119]]",q4ec3,"f,M",Base DialoGPT - Normal
+3,1,3,the maps have,67,3,1,f,"66,67,69","[[66, 67, 69]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,3,come up to,107,3,1,f,"104,107","[[104, 107]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,i don't,95,1,2,f,"94,95","[[94, 95]]",q5ec1,"f,M",Base DialoGPT - Normal
+4,0,2,the abandoned,125,31,4,f,"120,125,146,151","[[120, 125], [146, 151]]",q5ec1,"f,M",Base DialoGPT - Normal
+4,0,2,the map,31,29,1,f,"30,31,54,59","[[30, 31], [54, 59]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,by the,123,3,3,f,"120,123","[[120, 123]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,turn right,107,1,1,f,"106,107","[[106, 107]]",q5ec1,"f,M",Base DialoGPT - Normal
+3,1,2,back down,171,5,3,f,"166,170,171","[[166, 170, 171]]",q5ec1,"f,M",Base DialoGPT - Normal
+4,2,2,but the,65,5,1,f,"64,65,67,69","[[64, 65, 67, 69]]",q5ec1,"f,M",Base DialoGPT - Normal
+3,1,2,the maps,67,3,1,f,"66,67,69","[[66, 67, 69]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,turn left,119,1,2,f,"118,119","[[118, 119]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,a forest,63,1,1,f,"62,63","[[62, 63]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,aye but,69,5,1,f,"64,69","[[64, 69]]",q5ec1,"f,M",Base DialoGPT - Normal
+3,1,2,been drawn,67,3,1,f,"66,67,69","[[66, 67, 69]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,come up,107,3,1,f,"104,107","[[104, 107]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,edge of,131,5,2,f,"126,131","[[126, 131]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,i'm heading,127,3,2,f,"124,127","[[124, 127]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,i've been,101,5,1,f,"96,101","[[96, 101]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,left then,37,3,2,f,"34,37","[[34, 37]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,right i,135,1,1,f,"134,135","[[134, 135]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,always on,197,1,1,f,"196,197","[[196, 197]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,be doing,123,1,1,f,"122,123","[[122, 123]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,come to,141,1,1,f,"140,141","[[140, 141]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,how how,39,1,1,f,"38,39","[[38, 39]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,i'll have,71,1,1,f,"70,71","[[70, 71]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,it's the,131,1,1,f,"130,131","[[130, 131]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,see a,207,1,1,f,"206,207","[[206, 207]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,test site,207,1,1,f,"206,207","[[206, 207]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,the edge,127,3,1,f,"124,127","[[124, 127]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,the road,61,3,1,f,"58,61","[[58, 61]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,trig points,183,1,1,f,"182,183","[[182, 183]]",q5ec1,"f,M",Base DialoGPT - Normal
+11,3,1,aye,11,179,2,f,"8,10,11,60,64,65,69,76,81,186,187","[[8, 10, 11], [10, 11], [60, 64, 65], [64, 65, 69], [76, 81], [186, 187]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,i'm,127,3,1,f,"124,127","[[124, 127]]",q5ec1,"f,M",Base DialoGPT - Normal
+7,1,1,left,35,97,2,f,"34,35,37,118,119,130,131","[[34, 35, 37], [118, 119], [130, 131]]",q5ec1,"f,M",Base DialoGPT - Normal
+5,1,1,i've,97,125,4,f,"96,97,101,220,221","[[96, 97, 101], [220, 221]]",q5ec1,"f,M",Base DialoGPT - Normal
+4,2,1,but,65,5,2,f,"64,65,67,69","[[64, 65, 67, 69]]",q5ec1,"f,M",Base DialoGPT - Normal
+6,0,1,map,31,101,1,f,"30,31,54,59,126,131","[[30, 31], [54, 59], [126, 131]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,be,123,1,1,f,"122,123","[[122, 123]]",q5ec1,"f,M",Base DialoGPT - Normal
+5,1,1,then,35,73,2,f,"34,35,37,106,107","[[34, 35, 37], [106, 107]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,there,25,5,1,f,"20,25","[[20, 25]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,by,123,3,4,f,"120,123","[[120, 123]]",q5ec1,"f,M",Base DialoGPT - Normal
+3,1,1,back,171,5,1,f,"166,170,171","[[166, 170, 171]]",q5ec1,"f,M",Base DialoGPT - Normal
+6,2,1,edge,127,7,2,f,"124,126,127,128,129,131","[[124, 126, 127, 128, 129], [126, 127, 128, 129, 131]]",q5ec1,"f,M",Base DialoGPT - Normal
+5,1,1,fenced,91,87,1,f,"88,91,93,174,175","[[88, 91, 93], [174, 175]]",q5ec1,"f,M",Base DialoGPT - Normal
+6,0,1,meadow,89,89,1,f,"88,89,100,103,174,177","[[88, 89], [100, 103], [174, 177]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,again,165,5,3,f,"160,165","[[160, 165]]",q5ec1,"f,M",Base DialoGPT - Normal
+3,1,1,down,171,5,1,f,"166,170,171","[[166, 170, 171]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,got,181,3,2,f,"178,181","[[178, 181]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,heading,127,3,2,f,"124,127","[[124, 127]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,how,39,1,1,f,"38,39","[[38, 39]]",q5ec1,"f,M",Base DialoGPT - Normal
+4,2,1,trig,183,5,1,f,"182,183,185,187","[[182, 183, 185, 187]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,another,87,1,1,f,"86,87","[[86, 87]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,different,99,1,2,f,"98,99","[[98, 99]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,for,21,1,1,f,"20,21","[[20, 21]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,if,125,5,2,f,"120,125","[[120, 125]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,nae,103,3,2,f,"100,103","[[100, 103]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,out,35,1,2,f,"34,35","[[34, 35]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,verstanden,109,1,1,f,"108,109","[[108, 109]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,1,was,137,3,1,f,"134,137","[[134, 137]]",q5ec1,"f,M",Base DialoGPT - Normal
+2,0,2,on the,1,1,1,f,"0,1","[[0, 1]]",q5ec4,"f,M",Base DialoGPT - Normal
+4,2,2,the pine,27,5,3,f,"22,24,26,27","[[22, 24, 26, 27], [24, 26, 27], [26, 27]]",q5ec4,"f,M",Base DialoGPT - Normal
+4,0,2,the rocket,91,9,1,f,"88,91,96,97","[[88, 91], [96, 97]]",q5ec4,"f,M",Base DialoGPT - Normal
+3,1,2,have a,83,5,2,f,"82,83,87","[[82, 83, 87]]",q5ec4,"f,M",Base DialoGPT - Normal
+3,1,2,on my,27,3,1,f,"26,27,29","[[26, 27, 29]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,2,past the,97,1,2,f,"96,97","[[96, 97]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,2,side of,97,5,2,f,"92,97","[[92, 97]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,2,a rocket,85,3,1,f,"82,85","[[82, 85]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,2,at the,115,1,2,f,"114,115","[[114, 115]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,2,the top,91,3,2,f,"88,91","[[88, 91]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,2,a bit,45,1,1,f,"44,45","[[44, 45]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,2,a canal,67,1,1,f,"66,67","[[66, 67]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,2,the nose,51,1,1,f,"50,51","[[50, 51]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,2,tree is,29,3,1,f,"26,29","[[26, 29]]",q5ec4,"f,M",Base DialoGPT - Normal
+48,12,1,the,1,115,1,f,"0,1,2,4,7,8,10,11,12,14,17,19,20,21,22,23,24,26,27,29,30,31,34,39,50,51,53,62,65,76,77,79,80,81,88,91,92,96,97,104,106,107,108,110,111,112,114,115","[[0, 1], [2, 4, 7], [4, 7], [8, 10, 11], [10, 11], [12, 14, 17], [14, 17, 19], [20, 21, 22, 23], [22, 23, 24, 26, 27], [24, 26, 27, 29], [26, 27, 29, 30, 31], [30, 31], [34, 39], [50, 51, 53], [62, 65], [76, 77, 79, 80, 81], [80, 81], [88, 91], [92, 96, 97], [96, 97], [104, 106, 107], [106, 107, 108, 110, 111], [108, 110, 111], [110, 111, 112, 114, 115]]",q5ec4,"f,M",Base DialoGPT - Normal
+10,2,1,a,9,79,1,f,"8,9,44,45,66,67,82,83,85,87","[[8, 9], [44, 45], [66, 67], [82, 83, 85, 87]]",q5ec4,"f,M",Base DialoGPT - Normal
+9,1,1,of,1,97,1,f,"0,1,14,17,19,22,23,92,97","[[0, 1], [14, 17, 19], [22, 23], [92, 97]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,okay,41,1,3,f,"40,41","[[40, 41]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,yes,109,3,10,f,"106,109","[[106, 109]]",q5ec4,"f,M",Base DialoGPT - Normal
+7,1,1,on,1,29,1,f,"0,1,2,5,26,27,29","[[0, 1, 2, 5], [2, 5], [26, 27, 29]]",q5ec4,"f,M",Base DialoGPT - Normal
+7,1,1,in,7,107,1,f,"4,7,56,59,106,110,111","[[4, 7], [56, 59], [106, 110, 111]]",q5ec4,"f,M",Base DialoGPT - Normal
+4,0,1,left,5,25,1,f,"2,5,22,27","[[2, 5], [22, 27]]",q5ec4,"f,M",Base DialoGPT - Normal
+4,2,1,pine,27,5,3,f,"22,24,26,27","[[22, 24, 26, 27], [24, 26, 27], [26, 27]]",q5ec4,"f,M",Base DialoGPT - Normal
+4,0,1,so,55,57,3,f,"50,55,106,107","[[50, 55], [106, 107]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,just,115,1,2,f,"114,115","[[114, 115]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,past,97,1,2,f,"96,97","[[96, 97]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,at,115,1,1,f,"114,115","[[114, 115]]",q5ec4,"f,M",Base DialoGPT - Normal
+3,1,1,lighthouse,115,3,3,f,"112,114,115","[[112, 114, 115]]",q5ec4,"f,M",Base DialoGPT - Normal
+3,1,1,map,15,5,2,f,"10,14,15","[[10, 14, 15]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,top,91,3,3,f,"88,91","[[88, 91]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,warehouse,83,1,1,f,"82,83","[[82, 83]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,forest,39,1,1,f,"38,39","[[38, 39]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,got,7,3,1,f,"4,7","[[4, 7]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,there,19,3,1,f,"16,19","[[16, 19]]",q5ec4,"f,M",Base DialoGPT - Normal
+2,0,1,vertically,37,5,1,f,"32,37","[[32, 37]]",q5ec4,"f,M",Base DialoGPT - Normal
+3,1,2,the diamond,1,3,1,f,"0,1,3","[[0, 1, 3]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,2,side of,39,1,1,f,"38,39","[[38, 39]]",q5nc5,"f,M",Base DialoGPT - Normal
+3,1,2,under the,89,3,2,f,"86,88,89","[[86, 88, 89]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,2,above the,1,1,1,f,"0,1","[[0, 1]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,2,flat rocks,69,5,1,f,"64,69","[[64, 69]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,2,have canoe,41,5,1,f,"36,41","[[36, 41]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,2,the left,55,3,1,f,"52,55","[[52, 55]]",q5nc5,"f,M",Base DialoGPT - Normal
+19,5,1,the,1,89,1,f,"0,1,3,12,15,24,28,29,44,49,50,51,52,53,55,57,86,88,89","[[0, 1, 3], [12, 15], [24, 28, 29], [28, 29], [44, 49], [50, 51, 52, 53, 55], [52, 53, 55, 57], [86, 88, 89]]",q5nc5,"f,M",Base DialoGPT - Normal
+9,1,1,right,5,75,1,f,"2,5,26,29,31,72,75,76,77","[[2, 5], [26, 29, 31], [72, 75, 76, 77]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,1,yeah,43,1,7,f,"42,43","[[42, 43]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,1,just,19,3,1,f,"16,19","[[16, 19]]",q5nc5,"f,M",Base DialoGPT - Normal
+4,0,1,side,29,11,1,f,"28,29,38,39","[[28, 29], [38, 39]]",q5nc5,"f,M",Base DialoGPT - Normal
+5,1,1,have,41,29,2,f,"36,40,41,64,65","[[36, 40, 41], [40, 41], [64, 65]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,1,above,1,1,1,f,"0,1","[[0, 1]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,1,mine,15,3,3,f,"12,15","[[12, 15]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,1,top,49,5,2,f,"44,49","[[44, 49]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,1,well,67,3,3,f,"64,67","[[64, 67]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,1,don't,43,3,2,f,"40,43","[[40, 43]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,1,got,23,1,1,f,"22,23","[[22, 23]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,1,apache,39,1,1,f,"38,39","[[38, 39]]",q5nc5,"f,M",Base DialoGPT - Normal
+2,0,3,the rope bridge,29,1,1,f,"28,29","[[28, 29]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,3,how far along,71,3,1,f,"68,71","[[68, 71]]",q6ec3,"f,M",Base DialoGPT - Normal
+11,1,2,of the,21,117,2,f,"18,20,21,30,35,60,61,112,117,134,135","[[18, 20, 21], [20, 21], [30, 35], [60, 61], [112, 117], [134, 135]]",q6ec3,"f,M",Base DialoGPT - Normal
+5,1,2,at the,21,41,1,f,"20,21,56,60,61","[[20, 21], [56, 60, 61]]",q6ec3,"f,M",Base DialoGPT - Normal
+3,1,2,on the,13,3,2,f,"10,12,13","[[10, 12, 13]]",q6ec3,"f,M",Base DialoGPT - Normal
+4,0,2,the rope,29,5,1,f,"28,29,30,33","[[28, 29, 30, 33]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,2,i do,19,3,1,f,"16,19","[[16, 19]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,2,i'm at,21,1,1,f,"20,21","[[20, 21]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,2,right of,35,1,1,f,"34,35","[[34, 35]]",q6ec3,"f,M",Base DialoGPT - Normal
+3,1,2,and the,59,5,1,f,"56,59,61","[[56, 59, 61]]",q6ec3,"f,M",Base DialoGPT - Normal
+3,1,2,cross over,31,3,2,f,"28,30,31","[[28, 30, 31]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,2,city is,89,5,1,f,"84,89","[[84, 89]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,2,i see,137,5,1,f,"132,137","[[132, 137]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,2,move straight,101,3,1,f,"98,101","[[98, 101]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,2,so ehm,135,1,1,f,"134,135","[[134, 135]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,2,the camp,7,5,1,f,"2,7","[[2, 7]]",q6ec3,"f,M",Base DialoGPT - Normal
+24,6,1,i,7,133,1,f,"4,7,16,18,19,21,30,31,48,51,68,71,73,84,85,87,96,99,128,132,133,134,135,137","[[4, 7], [16, 18, 19, 21], [18, 19, 21], [30, 31], [48, 51], [68, 71, 73], [84, 85, 87], [96, 99], [128, 132, 133], [132, 133, 134, 135, 137]]",q6ec3,"f,M",Base DialoGPT - Normal
+19,5,1,of,5,129,2,f,"2,4,5,10,12,13,18,20,21,30,34,35,60,61,112,117,128,129,131","[[2, 4, 5], [4, 5], [10, 12, 13], [12, 13], [18, 20, 21], [20, 21], [30, 34, 35], [34, 35], [60, 61], [112, 117], [128, 129, 131]]",q6ec3,"f,M",Base DialoGPT - Normal
+3,1,1,yeah,83,3,12,f,"80,82,83","[[80, 82, 83], [82, 83]]",q6ec3,"f,M",Base DialoGPT - Normal
+15,5,1,i'm,15,85,1,f,"10,15,16,18,20,21,28,30,31,35,90,92,93,94,95","[[10, 15], [16, 18, 20, 21], [18, 20, 21], [20, 21], [28, 30, 31], [30, 31, 35], [90, 92, 93, 94, 95]]",q6ec3,"f,M",Base DialoGPT - Normal
+9,3,1,and,23,105,2,f,"22,23,56,59,61,120,124,125,127","[[22, 23], [56, 59, 61], [120, 124, 125], [124, 125, 127]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,a,15,5,2,f,"10,15","[[10, 15]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,have,97,1,2,f,"96,97","[[96, 97]]",q6ec3,"f,M",Base DialoGPT - Normal
+5,1,1,at,21,41,1,f,"20,21,56,60,61","[[20, 21], [56, 60, 61]]",q6ec3,"f,M",Base DialoGPT - Normal
+3,1,1,about,27,5,3,f,"22,24,27","[[22, 24, 27], [24, 27]]",q6ec3,"f,M",Base DialoGPT - Normal
+5,1,1,left,9,17,1,f,"6,9,18,22,23","[[6, 9], [18, 22, 23], [22, 23]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,move,101,3,3,f,"98,101","[[98, 101]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,along,71,3,2,f,"68,71","[[68, 71]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,down,9,3,1,f,"6,9","[[6, 9]]",q6ec3,"f,M",Base DialoGPT - Normal
+3,1,1,on,13,3,2,f,"10,12,13","[[10, 12, 13]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,page,25,3,1,f,"22,25","[[22, 25]]",q6ec3,"f,M",Base DialoGPT - Normal
+6,0,1,bridge,29,33,1,f,"28,29,30,31,56,61","[[28, 29, 30, 31], [30, 31], [56, 61]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,is,89,5,1,f,"84,89","[[84, 89]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,tree,21,1,4,f,"20,21","[[20, 21]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,ehm,135,1,4,f,"134,135","[[134, 135]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,oh,137,5,1,f,"132,137","[[132, 137]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,almost,101,1,2,f,"100,101","[[100, 101]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,camp,7,5,1,f,"2,7","[[2, 7]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,city,89,5,1,f,"84,89","[[84, 89]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,map,13,1,3,f,"12,13","[[12, 13]]",q6ec3,"f,M",Base DialoGPT - Normal
+3,1,1,steps,45,3,1,f,"44,45,47","[[44, 45, 47]]",q6ec3,"f,M",Base DialoGPT - Normal
+3,1,1,cross,31,3,2,f,"28,30,31","[[28, 30, 31]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,1,standing,35,5,1,f,"30,35","[[30, 35]]",q6ec3,"f,M",Base DialoGPT - Normal
+2,0,3,up past the,49,1,1,f,"48,49","[[48, 49]]",q7ec4,"f,M",Base DialoGPT - Normal
+2,0,2,banana tree,3,1,1,f,"2,3","[[2, 3]]",q7ec4,"f,M",Base DialoGPT - Normal
+3,1,2,the truck,49,3,1,f,"48,49,51","[[48, 49, 51]]",q7ec4,"f,M",Base DialoGPT - Normal
+2,0,2,walk to,83,1,1,f,"82,83","[[82, 83]]",q7ec4,"f,M",Base DialoGPT - Normal
+20,4,1,right,7,95,2,f,"4,6,7,24,25,50,52,53,56,57,64,65,76,79,84,87,94,96,98,99","[[4, 6, 7], [6, 7], [24, 25], [50, 52, 53], [52, 53, 56, 57], [56, 57], [64, 65], [76, 79], [84, 87], [94, 96, 98, 99], [96, 98, 99]]",q7ec4,"f,M",Base DialoGPT - Normal
+13,3,1,the,17,69,1,f,"16,17,19,36,37,41,48,49,51,74,75,82,85","[[16, 17, 19], [36, 37, 41], [48, 49, 51], [74, 75], [82, 85]]",q7ec4,"f,M",Base DialoGPT - Normal
+4,0,1,yeah,1,21,1,f,"0,1,16,21","[[0, 1], [16, 21]]",q7ec4,"f,M",Base DialoGPT - Normal
+2,0,1,it,83,1,1,f,"82,83","[[82, 83]]",q7ec4,"f,M",Base DialoGPT - Normal
+5,1,1,up,37,15,1,f,"34,37,39,48,49","[[34, 37, 39], [48, 49]]",q7ec4,"f,M",Base DialoGPT - Normal
+3,1,1,just,19,5,1,f,"16,19,21","[[16, 19, 21]]",q7ec4,"f,M",Base DialoGPT - Normal
+3,1,1,left,7,5,2,f,"2,4,7","[[2, 4, 7]]",q7ec4,"f,M",Base DialoGPT - Normal
+2,0,1,my,3,1,1,f,"2,3","[[2, 3]]",q7ec4,"f,M",Base DialoGPT - Normal
+2,0,1,will,83,1,1,f,"82,83","[[82, 83]]",q7ec4,"f,M",Base DialoGPT - Normal
+2,0,3,the trout farm,89,3,2,f,"86,89","[[86, 89]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,3,go to the,55,1,1,f,"54,55","[[54, 55]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,3,how far down,37,1,1,f,"36,37","[[36, 37]]",q7nc7,"f,M",Base DialoGPT - Normal
+5,1,2,to the,7,53,1,f,"6,7,54,55,59","[[6, 7], [54, 55, 59]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,i have,11,1,1,f,"10,11","[[10, 11]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,how far,37,1,2,f,"36,37","[[36, 37]]",q7nc7,"f,M",Base DialoGPT - Normal
+4,0,2,in a,31,55,1,f,"30,31,82,85","[[30, 31], [82, 85]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,a gold,11,1,1,f,"10,11","[[10, 11]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,below the,89,3,2,f,"86,89","[[86, 89]]",q7nc7,"f,M",Base DialoGPT - Normal
+3,1,2,the cattle,113,5,1,f,"110,113,115","[[110, 113, 115]]",q7nc7,"f,M",Base DialoGPT - Normal
+3,1,2,the gold,57,3,1,f,"56,57,59","[[56, 57, 59]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,above the,33,1,1,f,"32,33","[[32, 33]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,from a,85,3,1,f,"82,85","[[82, 85]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,go down,53,1,1,f,"52,53","[[52, 53]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,i'm coming,85,3,1,f,"82,85","[[82, 85]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,pole like,85,3,1,f,"82,85","[[82, 85]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,right as,61,5,1,f,"56,61","[[56, 61]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,2,the corner,99,3,1,f,"96,99","[[96, 99]]",q7nc7,"f,M",Base DialoGPT - Normal
+35,9,1,the,1,115,1,f,"0,1,3,5,6,7,9,20,25,28,31,32,33,34,39,44,49,54,55,56,57,59,61,72,77,82,86,87,89,96,99,101,110,113,115","[[0, 1, 3, 5], [6, 7, 9], [20, 25], [28, 31, 32, 33], [32, 33], [34, 39], [44, 49], [54, 55, 56, 57, 59], [56, 57, 59, 61], [72, 77], [82, 86, 87], [86, 87, 89], [96, 99, 101], [110, 113, 115]]",q7nc7,"f,M",Base DialoGPT - Normal
+20,6,1,right,3,107,2,f,"0,2,3,4,5,7,56,58,61,62,64,67,68,71,96,98,99,102,106,107","[[0, 2, 3, 4, 5], [2, 3, 4, 5, 7], [4, 5, 7], [56, 58, 61], [58, 61], [62, 64, 67], [64, 67], [68, 71], [96, 98, 99], [98, 99], [102, 106, 107], [106, 107]]",q7nc7,"f,M",Base DialoGPT - Normal
+18,4,1,a,7,109,1,f,"6,7,10,11,13,28,30,31,35,66,69,80,82,85,108,109,112,115","[[6, 7, 10, 11], [10, 11, 13], [28, 30, 31], [30, 31, 35], [66, 69], [80, 82, 85], [82, 85], [108, 109], [112, 115]]",q7nc7,"f,M",Base DialoGPT - Normal
+6,0,1,i,11,7,1,f,"10,11,12,13,14,17","[[10, 11, 12, 13], [12, 13, 14, 17], [14, 17]]",q7nc7,"f,M",Base DialoGPT - Normal
+7,1,1,to,7,67,1,f,"6,7,54,55,59,72,73","[[6, 7], [54, 55, 59], [72, 73]]",q7nc7,"f,M",Base DialoGPT - Normal
+5,1,1,and,49,23,3,f,"46,49,66,68,69","[[46, 49], [66, 68, 69]]",q7nc7,"f,M",Base DialoGPT - Normal
+5,3,1,no,15,7,4,f,"10,12,14,15,17","[[10, 12, 14, 15], [12, 14, 15, 17]]",q7nc7,"f,M",Base DialoGPT - Normal
+5,1,1,go,53,5,2,f,"52,53,54,55,57","[[52, 53, 54, 55, 57]]",q7nc7,"f,M",Base DialoGPT - Normal
+6,2,1,it's,15,41,1,f,"10,15,44,46,47,51","[[10, 15], [44, 46, 47], [46, 47, 51]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,bit,115,3,3,f,"112,115","[[112, 115]]",q7nc7,"f,M",Base DialoGPT - Normal
+4,0,1,but,73,39,1,f,"72,73,110,111","[[72, 73], [110, 111]]",q7nc7,"f,M",Base DialoGPT - Normal
+3,1,1,i've,31,5,4,f,"26,28,31","[[26, 28, 31]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,like,85,3,1,f,"82,85","[[82, 85]]",q7nc7,"f,M",Base DialoGPT - Normal
+3,1,1,side,3,5,1,f,"0,3,5","[[0, 3, 5]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,how,37,1,2,f,"36,37","[[36, 37]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,just,115,3,1,f,"112,115","[[112, 115]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,above,33,1,1,f,"32,33","[[32, 33]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,below,89,3,3,f,"86,89","[[86, 89]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,then,73,5,1,f,"68,73","[[68, 73]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,carved,27,1,1,f,"26,27","[[26, 27]]",q7nc7,"f,M",Base DialoGPT - Normal
+3,1,1,ravine,31,5,2,f,"28,31,33","[[28, 31, 33]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,thing,119,1,3,f,"118,119","[[118, 119]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,up,85,5,1,f,"80,85","[[80, 85]]",q7nc7,"f,M",Base DialoGPT - Normal
+3,1,1,cattle,113,5,1,f,"110,113,115","[[110, 113, 115]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,going,59,3,1,f,"56,59","[[56, 59]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,pole,85,3,2,f,"82,85","[[82, 85]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,1,inches,23,1,1,f,"22,23","[[22, 23]]",q7nc7,"f,M",Base DialoGPT - Normal
+2,0,3,i end up,75,1,2,f,"74,75","[[74, 75]]",q8nc5,"f,M",Base DialoGPT - Normal
+10,0,2,to the,3,197,1,f,"0,3,26,31,94,95,178,181,194,197","[[0, 3], [26, 31], [94, 95], [178, 181], [194, 197]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,2,the right,27,3,3,f,"24,27","[[24, 27]]",q8nc5,"f,M",Base DialoGPT - Normal
+4,0,2,of it,37,45,3,f,"34,37,76,79","[[34, 37], [76, 79]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,2,side of,193,3,2,f,"190,193","[[190, 193]]",q8nc5,"f,M",Base DialoGPT - Normal
+3,1,2,and then,15,5,1,f,"14,15,19","[[14, 15, 19]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,2,how far,5,3,1,f,"2,5","[[2, 5]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,2,the pine,39,1,1,f,"38,39","[[38, 39]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,2,an avalanche,61,3,1,f,"58,61","[[58, 61]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,2,hit anything,83,1,1,f,"82,83","[[82, 83]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,2,of a,73,1,1,f,"72,73","[[72, 73]]",q8nc5,"f,M",Base DialoGPT - Normal
+58,12,1,the,1,203,1,f,"0,1,3,6,8,9,24,25,26,27,28,31,32,34,37,38,39,41,64,65,66,68,70,71,74,75,76,77,84,85,87,89,94,95,96,97,101,104,105,109,116,117,118,119,120,121,146,148,149,151,168,173,178,181,194,197,198,203","[[0, 1, 3], [6, 8, 9], [8, 9], [24, 25, 26, 27], [26, 27, 28, 31], [28, 31], [32, 34, 37], [34, 37, 38, 39], [38, 39, 41], [64, 65], [66, 68, 70, 71], [68, 70, 71], [70, 71, 74, 75], [74, 75, 76, 77], [76, 77], [84, 85, 87, 89], [94, 95, 96, 97], [96, 97, 101], [104, 105, 109], [116, 117, 118, 119, 120, 121], [118, 119, 120, 121], [120, 121], [146, 148, 149, 151], [148, 149, 151], [168, 173], [178, 181], [194, 197], [198, 203]]",q8nc5,"f,M",Base DialoGPT - Normal
+25,5,1,right,17,179,5,f,"14,16,17,19,24,27,74,75,84,89,96,101,120,121,122,123,146,147,158,162,163,165,167,192,193","[[14, 16, 17, 19], [16, 17, 19], [24, 27], [74, 75], [84, 89], [96, 101], [120, 121, 122, 123], [122, 123], [146, 147], [158, 162, 163], [162, 163, 165, 167], [192, 193]]",q8nc5,"f,M",Base DialoGPT - Normal
+16,2,1,to,3,197,1,f,"0,3,24,26,27,31,74,79,94,95,178,181,186,191,194,197","[[0, 3], [24, 26, 27], [26, 27, 31], [74, 79], [94, 95], [178, 181], [186, 191], [194, 197]]",q8nc5,"f,M",Base DialoGPT - Normal
+24,2,1,of,31,167,2,f,"26,28,31,32,34,37,64,65,70,71,72,73,74,75,76,79,84,89,94,95,96,97,190,193","[[26, 28, 31], [28, 31], [32, 34, 37], [34, 37], [64, 65], [70, 71, 72, 73, 74, 75], [72, 73, 74, 75], [74, 75, 76, 79], [76, 79], [84, 89], [94, 95, 96, 97], [96, 97], [190, 193]]",q8nc5,"f,M",Base DialoGPT - Normal
+13,1,1,it,9,71,1,f,"8,9,10,11,34,35,37,58,61,64,67,76,79","[[8, 9, 10, 11], [10, 11], [34, 35, 37], [58, 61], [64, 67], [76, 79]]",q8nc5,"f,M",Base DialoGPT - Normal
+9,1,1,a,13,127,1,f,"12,13,72,73,106,111,136,137,139","[[12, 13], [72, 73], [106, 111], [136, 137, 139]]",q8nc5,"f,M",Base DialoGPT - Normal
+6,0,1,i'm,33,149,2,f,"32,33,84,85,178,181","[[32, 33], [84, 85], [178, 181]]",q8nc5,"f,M",Base DialoGPT - Normal
+6,2,1,have,7,135,1,f,"6,7,136,137,139,141","[[6, 7], [136, 137, 139, 141]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,it's,73,1,1,f,"72,73","[[72, 73]]",q8nc5,"f,M",Base DialoGPT - Normal
+4,0,1,so,27,87,2,f,"24,27,106,111","[[24, 27], [106, 111]]",q8nc5,"f,M",Base DialoGPT - Normal
+4,0,1,curve,9,65,1,f,"8,9,72,73","[[8, 9], [72, 73]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,but,145,3,1,f,"142,145","[[142, 145]]",q8nc5,"f,M",Base DialoGPT - Normal
+3,1,1,hideout,71,5,2,f,"66,68,71","[[66, 68, 71], [68, 71]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,side,193,3,2,f,"190,193","[[190, 193]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,along,69,5,3,f,"64,69","[[64, 69]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,just,13,3,1,f,"10,13","[[10, 13]]",q8nc5,"f,M",Base DialoGPT - Normal
+4,0,1,corner,51,71,1,f,"50,51,120,121","[[50, 51], [120, 121]]",q8nc5,"f,M",Base DialoGPT - Normal
+4,0,1,how,5,9,1,f,"2,5,8,11","[[2, 5], [8, 11]]",q8nc5,"f,M",Base DialoGPT - Normal
+3,1,1,then,15,5,1,f,"14,15,19","[[14, 15, 19]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,well,101,5,1,f,"96,101","[[96, 101]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,grove,41,3,1,f,"38,41","[[38, 41]]",q8nc5,"f,M",Base DialoGPT - Normal
+4,0,1,still,35,111,1,f,"34,35,144,145","[[34, 35], [144, 145]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,an,61,3,2,f,"58,61","[[58, 61]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,page,193,3,1,f,"190,193","[[190, 193]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,touching,55,3,1,f,"52,55","[[52, 55]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,1,washed,183,1,1,f,"182,183","[[182, 183]]",q8nc5,"f,M",Base DialoGPT - Normal
+2,0,3,you have a,25,1,3,g,"24,25","[[24, 25]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,2,do you,115,1,5,g,"114,115","[[114, 115]]",q1ec3,"g,M",Base DialoGPT - Normal
+4,0,2,have a,25,11,4,g,"24,25,34,35","[[24, 25], [34, 35]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,2,you have,25,1,1,g,"24,25","[[24, 25]]",q1ec3,"g,M",Base DialoGPT - Normal
+6,2,2,the fort,183,7,4,g,"182,183,184,185,187,189","[[182, 183, 184, 185, 187], [184, 185, 187, 189]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,2,and then,179,3,8,g,"176,179","[[176, 179]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,2,a fast,11,5,1,g,"6,11","[[6, 11]]",q1ec3,"g,M",Base DialoGPT - Normal
+3,1,2,the flat,133,5,1,g,"132,133,137","[[132, 133, 137]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,2,go south,187,1,2,g,"186,187","[[186, 187]]",q1ec3,"g,M",Base DialoGPT - Normal
+50,10,1,the,27,163,1,g,"26,27,29,50,51,52,53,62,65,67,88,90,93,95,100,101,102,103,110,113,116,117,118,119,121,122,127,128,129,130,131,132,133,137,142,146,147,166,167,168,171,178,180,181,182,183,184,185,187,189","[[26, 27, 29], [50, 51, 52, 53], [52, 53], [62, 65, 67], [88, 90, 93], [90, 93, 95], [100, 101, 102, 103], [102, 103], [110, 113], [116, 117, 118, 119, 121], [118, 119, 121], [122, 127], [128, 129, 130, 131, 132, 133], [130, 131, 132, 133], [132, 133, 137], [142, 146, 147], [146, 147], [166, 167, 168, 171], [168, 171], [178, 180, 181, 182, 183], [180, 181, 182, 183, 184, 185], [182, 183, 184, 185, 187], [184, 185, 187, 189]]",q1ec3,"g,M",Base DialoGPT - Normal
+20,2,1,you,9,183,1,g,"4,9,12,14,15,24,25,26,28,29,40,45,76,79,114,115,162,167,186,187","[[4, 9], [12, 14, 15], [14, 15], [24, 25, 26, 28, 29], [26, 28, 29], [28, 29], [40, 45], [76, 79], [114, 115], [162, 167], [186, 187]]",q1ec3,"g,M",Base DialoGPT - Normal
+19,5,1,right,89,105,12,g,"88,89,91,93,94,96,97,101,120,123,144,145,166,167,169,176,177,192,193","[[88, 89, 91, 93], [94, 96, 97], [96, 97, 101], [120, 123], [144, 145], [166, 167, 169], [176, 177], [192, 193]]",q1ec3,"g,M",Base DialoGPT - Normal
+22,2,1,and,47,147,1,g,"42,47,72,75,90,92,95,118,121,138,139,142,147,174,175,176,179,180,185,186,187,189","[[42, 47], [72, 75], [90, 92, 95], [92, 95], [118, 121], [138, 139], [142, 147], [174, 175, 176, 179], [176, 179], [180, 185], [186, 187, 189]]",q1ec3,"g,M",Base DialoGPT - Normal
+10,0,1,have,21,71,1,g,"16,21,24,25,34,35,80,85,86,87","[[16, 21], [24, 25], [34, 35], [80, 85], [86, 87]]",q1ec3,"g,M",Base DialoGPT - Normal
+12,2,1,go,27,161,2,g,"26,27,31,40,45,46,47,50,52,53,186,187","[[26, 27, 31], [40, 45], [46, 47], [50, 52, 53], [52, 53], [186, 187]]",q1ec3,"g,M",Base DialoGPT - Normal
+8,0,1,do,61,59,4,g,"56,61,94,95,98,101,114,115","[[56, 61], [94, 95], [98, 101], [114, 115]]",q1ec3,"g,M",Base DialoGPT - Normal
+6,0,1,then,49,131,1,g,"48,49,124,125,176,179","[[48, 49], [124, 125], [176, 179]]",q1ec3,"g,M",Base DialoGPT - Normal
+7,1,1,of,53,97,2,g,"50,53,92,95,97,142,147","[[50, 53], [92, 95, 97], [142, 147]]",q1ec3,"g,M",Base DialoGPT - Normal
+4,0,1,okay,41,61,3,g,"40,41,96,101","[[40, 41], [96, 101]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,1,don't,35,1,2,g,"34,35","[[34, 35]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,1,just,105,5,5,g,"100,105","[[100, 105]]",q1ec3,"g,M",Base DialoGPT - Normal
+6,2,1,fort,183,7,5,g,"182,183,184,185,187,189","[[182, 183, 184, 185, 187], [184, 185, 187, 189]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,1,south,139,1,5,g,"138,139","[[138, 139]]",q1ec3,"g,M",Base DialoGPT - Normal
+5,1,1,you're,39,103,1,g,"38,39,138,140,141","[[38, 39], [138, 140, 141], [140, 141]]",q1ec3,"g,M",Base DialoGPT - Normal
+4,0,1,no,27,115,1,g,"26,27,140,141","[[26, 27], [140, 141]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,1,know,39,5,1,g,"34,39","[[34, 39]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,1,down,105,5,3,g,"100,105","[[100, 105]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,1,pass,65,3,1,g,"62,65","[[62, 65]]",q1ec3,"g,M",Base DialoGPT - Normal
+3,1,1,fast,9,5,1,g,"6,9,11","[[6, 9, 11]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,1,river,9,5,1,g,"4,9","[[4, 9]]",q1ec3,"g,M",Base DialoGPT - Normal
+2,0,1,going,141,3,1,g,"138,141","[[138, 141]]",q1ec3,"g,M",Base DialoGPT - Normal
+3,1,1,bar,147,5,1,g,"142,146,147","[[142, 146, 147]]",q1ec3,"g,M",Base DialoGPT - Normal
+4,0,2,of the,79,21,2,g,"78,79,96,99","[[78, 79], [96, 99]]",q1ec8,"g,M",Base DialoGPT - Normal
+2,0,2,you get,85,5,4,g,"80,85","[[80, 85]]",q1ec8,"g,M",Base DialoGPT - Normal
+2,0,2,to the,99,3,4,g,"96,99","[[96, 99]]",q1ec8,"g,M",Base DialoGPT - Normal
+4,0,2,the hot,41,5,1,g,"40,41,42,45","[[40, 41, 42, 45]]",q1ec8,"g,M",Base DialoGPT - Normal
+2,0,2,to go,83,1,2,g,"82,83","[[82, 83]]",q1ec8,"g,M",Base DialoGPT - Normal
+25,3,1,the,5,95,1,g,"4,5,14,17,26,29,32,36,37,40,41,42,43,44,45,47,66,67,78,79,82,83,96,97,99","[[4, 5], [14, 17], [26, 29], [32, 36, 37], [36, 37, 40, 41], [40, 41, 42, 43, 44, 45], [42, 43, 44, 45, 47], [44, 45, 47], [66, 67], [78, 79, 82, 83], [82, 83], [96, 97, 99]]",q1ec8,"g,M",Base DialoGPT - Normal
+10,0,1,right,7,87,2,g,"6,7,22,23,74,75,88,89,92,93","[[6, 7], [22, 23], [74, 75], [88, 89, 92, 93]]",q1ec8,"g,M",Base DialoGPT - Normal
+7,1,1,and,43,61,1,g,"40,43,84,85,96,97,101","[[40, 43], [84, 85], [96, 97, 101]]",q1ec8,"g,M",Base DialoGPT - Normal
+8,0,1,of,41,63,2,g,"36,41,46,47,78,79,96,99","[[36, 41], [46, 47], [78, 79], [96, 99]]",q1ec8,"g,M",Base DialoGPT - Normal
+4,0,1,go,57,31,3,g,"52,57,82,83","[[52, 57], [82, 83]]",q1ec8,"g,M",Base DialoGPT - Normal
+7,1,1,north,31,29,2,g,"28,31,36,41,52,55,57","[[28, 31], [36, 41], [52, 55, 57]]",q1ec8,"g,M",Base DialoGPT - Normal
+4,0,1,get,51,39,4,g,"46,51,80,85","[[46, 51], [80, 85]]",q1ec8,"g,M",Base DialoGPT - Normal
+2,0,1,east,29,1,2,g,"28,29","[[28, 29]]",q1ec8,"g,M",Base DialoGPT - Normal
+4,0,1,hot,41,5,2,g,"40,41,42,45","[[40, 41, 42, 45], [42, 45]]",q1ec8,"g,M",Base DialoGPT - Normal
+3,1,1,antelopes,97,3,2,g,"96,97,99","[[96, 97, 99]]",q1ec8,"g,M",Base DialoGPT - Normal
+2,0,1,on,95,3,1,g,"92,95","[[92, 95]]",q1ec8,"g,M",Base DialoGPT - Normal
+2,0,1,that's,105,5,1,g,"100,105","[[100, 105]]",q1ec8,"g,M",Base DialoGPT - Normal
+2,0,3,the cross is,137,1,1,g,"136,137","[[136, 137]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,2,to the,21,5,2,g,"16,21","[[16, 21]]",q1nc4,"g,M",Base DialoGPT - Normal
+5,1,2,the forge,41,43,3,g,"36,38,41,78,79","[[36, 38, 41], [38, 41], [78, 79]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,2,and a,47,1,3,g,"46,47","[[46, 47]]",q1nc4,"g,M",Base DialoGPT - Normal
+3,1,2,crane bay,115,3,3,g,"114,115,117","[[114, 115, 117]]",q1nc4,"g,M",Base DialoGPT - Normal
+3,1,2,the cross,137,3,3,g,"134,136,137","[[134, 136, 137]]",q1nc4,"g,M",Base DialoGPT - Normal
+60,14,1,the,7,127,3,g,"6,7,8,11,12,15,16,17,20,21,24,25,30,33,35,36,37,38,41,43,60,62,63,64,65,66,67,69,70,73,75,78,79,81,82,84,85,88,89,91,98,100,101,102,104,105,106,107,108,111,112,113,114,115,117,119,128,129,131,133","[[6, 7, 8, 11], [8, 11], [12, 15, 16, 17], [16, 17, 20, 21], [20, 21, 24, 25], [24, 25], [30, 33, 35], [36, 37, 38, 41], [38, 41, 43], [60, 62, 63, 64, 65], [62, 63, 64, 65, 66, 67], [64, 65, 66, 67, 69], [66, 67, 69], [70, 73, 75], [78, 79, 81], [82, 84, 85], [84, 85, 88, 89], [88, 89, 91], [98, 100, 101], [100, 101, 102, 104, 105], [102, 104, 105, 106, 107], [104, 105, 106, 107], [106, 107, 108, 111], [108, 111, 112, 113], [112, 113, 114, 115, 117], [114, 115, 117, 119], [128, 129, 131, 133]]",q1nc4,"g,M",Base DialoGPT - Normal
+17,3,1,you,85,43,4,g,"84,85,90,91,93,95,98,103,106,107,116,117,119,122,123,126,127","[[84, 85], [90, 91, 93, 95], [98, 103], [106, 107], [116, 117, 119], [122, 123, 126, 127], [126, 127]]",q1nc4,"g,M",Base DialoGPT - Normal
+14,2,1,to,19,89,3,g,"16,19,21,36,41,62,63,67,70,75,84,85,100,105","[[16, 19, 21], [36, 41], [62, 63, 67], [70, 75], [84, 85], [100, 105]]",q1nc4,"g,M",Base DialoGPT - Normal
+13,1,1,right,17,125,1,g,"16,17,70,71,96,99,112,117,126,131,136,137,141","[[16, 17], [70, 71], [96, 99], [112, 117], [126, 131], [136, 137, 141]]",q1nc4,"g,M",Base DialoGPT - Normal
+6,0,1,just,73,67,5,g,"70,73,90,95,136,137","[[70, 73], [90, 95], [136, 137]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,down,25,1,6,g,"24,25","[[24, 25]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,go,47,5,5,g,"42,47","[[42, 47]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,and,47,1,7,g,"46,47","[[46, 47]]",q1nc4,"g,M",Base DialoGPT - Normal
+9,1,1,know,11,131,1,g,"6,11,30,33,74,75,77,136,137","[[6, 11], [30, 33], [74, 75, 77], [136, 137]]",q1nc4,"g,M",Base DialoGPT - Normal
+4,0,1,about,115,3,8,g,"114,115,116,117","[[114, 115, 116, 117]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,pine,29,1,1,g,"28,29","[[28, 29]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,side,89,5,1,g,"84,89","[[84, 89]]",q1nc4,"g,M",Base DialoGPT - Normal
+5,1,1,so,47,81,4,g,"42,47,118,119,123","[[42, 47], [118, 119, 123]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,but,33,5,2,g,"28,33","[[28, 33]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,line,91,3,3,g,"88,91","[[88, 91]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,that,31,1,1,g,"30,31","[[30, 31]]",q1nc4,"g,M",Base DialoGPT - Normal
+9,1,1,is,7,133,1,g,"4,7,58,63,100,105,134,136,137","[[4, 7], [58, 63], [100, 105], [134, 136, 137]]",q1nc4,"g,M",Base DialoGPT - Normal
+4,0,1,don't,7,47,1,g,"6,7,48,53","[[6, 7], [48, 53]]",q1nc4,"g,M",Base DialoGPT - Normal
+3,1,1,bay,115,3,5,g,"114,115,117","[[114, 115, 117]]",q1nc4,"g,M",Base DialoGPT - Normal
+5,1,1,forge,41,43,3,g,"36,38,41,78,79","[[36, 38, 41], [38, 41], [78, 79]]",q1nc4,"g,M",Base DialoGPT - Normal
+3,1,1,from,21,5,3,g,"20,21,25","[[20, 21, 25]]",q1nc4,"g,M",Base DialoGPT - Normal
+5,1,1,cross,15,125,1,g,"12,15,134,136,137","[[12, 15], [134, 136, 137]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,if,75,5,1,g,"70,75","[[70, 75]]",q1nc4,"g,M",Base DialoGPT - Normal
+3,1,1,crane,115,3,3,g,"114,115,117","[[114, 115, 117]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,one,59,1,1,g,"58,59","[[58, 59]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,are,117,1,1,g,"116,117","[[116, 117]]",q1nc4,"g,M",Base DialoGPT - Normal
+2,0,1,map,77,5,1,g,"72,77","[[72, 77]]",q1nc4,"g,M",Base DialoGPT - Normal
+3,1,3,the rift valley,35,5,1,g,"34,35,39","[[34, 35, 39]]",q2ec4,"g,M",Base DialoGPT - Normal
+3,1,3,you have a,119,3,2,g,"118,119,121","[[118, 119, 121]]",q2ec4,"g,M",Base DialoGPT - Normal
+4,0,2,do you,113,11,2,g,"108,113,114,119","[[108, 113], [114, 119]]",q2ec4,"g,M",Base DialoGPT - Normal
+4,0,2,of the,27,23,2,g,"26,27,46,49","[[26, 27], [46, 49]]",q2ec4,"g,M",Base DialoGPT - Normal
+5,1,2,have a,79,47,3,g,"74,79,118,119,121","[[74, 79], [118, 119, 121]]",q2ec4,"g,M",Base DialoGPT - Normal
+5,1,2,rift valley,35,23,2,g,"34,35,39,56,57","[[34, 35, 39], [56, 57]]",q2ec4,"g,M",Base DialoGPT - Normal
+5,1,2,the rift,35,15,1,g,"34,35,39,48,49","[[34, 35, 39], [48, 49]]",q2ec4,"g,M",Base DialoGPT - Normal
+2,0,2,to the,155,1,2,g,"154,155","[[154, 155]]",q2ec4,"g,M",Base DialoGPT - Normal
+3,1,2,you have,119,3,2,g,"118,119,121","[[118, 119, 121]]",q2ec4,"g,M",Base DialoGPT - Normal
+2,0,2,stone creek,103,3,6,g,"100,103","[[100, 103]]",q2ec4,"g,M",Base DialoGPT - Normal
+4,0,2,above the,79,63,2,g,"74,79,132,137","[[74, 79], [132, 137]]",q2ec4,"g,M",Base DialoGPT - Normal
+6,0,2,you know,45,109,1,g,"40,45,138,141,144,149","[[40, 45], [138, 141], [144, 149]]",q2ec4,"g,M",Base DialoGPT - Normal
+2,0,2,a stone,67,3,1,g,"64,67","[[64, 67]]",q2ec4,"g,M",Base DialoGPT - Normal
+52,16,1,the,3,153,1,g,"2,3,5,8,12,13,16,18,21,23,26,27,34,35,37,39,46,47,48,49,54,56,57,62,65,67,74,78,79,86,87,88,90,91,98,101,102,103,106,107,109,130,132,134,135,137,139,148,149,152,154,155","[[2, 3, 5], [8, 12, 13], [12, 13], [16, 18, 21], [18, 21, 23], [26, 27], [34, 35, 37, 39], [46, 47, 48, 49], [48, 49], [54, 56, 57], [56, 57], [62, 65, 67], [74, 78, 79], [78, 79], [86, 87, 88, 90, 91], [88, 90, 91], [90, 91], [98, 101, 102, 103], [102, 103, 106, 107], [106, 107, 109], [130, 132, 134, 135], [132, 134, 135, 137], [134, 135, 137, 139], [148, 149], [152, 154, 155]]",q2ec4,"g,M",Base DialoGPT - Normal
+15,1,1,right,5,109,2,g,"4,5,10,13,16,17,30,35,78,79,81,102,103,112,113","[[4, 5], [10, 13], [16, 17], [30, 35], [78, 79, 81], [102, 103], [112, 113]]",q2ec4,"g,M",Base DialoGPT - Normal
+18,4,1,to,23,69,3,g,"20,23,25,26,27,28,29,33,60,65,72,75,77,78,79,81,88,89","[[20, 23, 25], [26, 27, 28, 29], [28, 29, 33], [60, 65], [72, 75, 77], [78, 79, 81], [88, 89]]",q2ec4,"g,M",Base DialoGPT - Normal
+20,2,1,a,7,135,2,g,"4,6,7,64,67,70,73,74,75,76,77,79,118,119,120,121,124,127,134,139","[[4, 6, 7], [6, 7], [64, 67], [70, 73, 74, 75], [74, 75, 76, 77, 79], [76, 77, 79], [118, 119, 120, 121], [120, 121], [124, 127], [134, 139]]",q2ec4,"g,M",Base DialoGPT - Normal
+9,1,1,yeah,9,59,1,g,"4,6,9,10,15,36,39,62,63","[[4, 6, 9], [6, 9], [10, 15], [36, 39], [62, 63]]",q2ec4,"g,M",Base DialoGPT - Normal
+7,1,1,have,79,71,3,g,"74,79,118,119,121,144,145","[[74, 79], [118, 119, 121], [144, 145]]",q2ec4,"g,M",Base DialoGPT - Normal
+4,0,1,do,113,11,2,g,"108,113,114,119","[[108, 113], [114, 119]]",q2ec4,"g,M",Base DialoGPT - Normal
+4,0,1,go,33,81,2,g,"28,33,108,109","[[28, 33], [108, 109]]",q2ec4,"g,M",Base DialoGPT - Normal
+5,1,1,no,81,25,3,g,"80,81,100,101,105","[[80, 81], [100, 101, 105]]",q2ec4,"g,M",Base DialoGPT - Normal
+2,0,1,down,105,1,10,g,"104,105","[[104, 105]]",q2ec4,"g,M",Base DialoGPT - Normal
+6,0,1,stone,67,39,1,g,"64,67,98,99,100,103","[[64, 67], [98, 99, 100, 103], [100, 103]]",q2ec4,"g,M",Base DialoGPT - Normal
+6,2,1,valley,35,23,2,g,"34,35,39,54,56,57","[[34, 35, 39], [54, 56, 57]]",q2ec4,"g,M",Base DialoGPT - Normal
+2,0,1,your,81,5,7,g,"76,81","[[76, 81]]",q2ec4,"g,M",Base DialoGPT - Normal
+5,1,1,above,79,63,3,g,"74,76,79,132,137","[[74, 76, 79], [76, 79], [132, 137]]",q2ec4,"g,M",Base DialoGPT - Normal
+2,0,1,going,87,3,4,g,"84,87","[[84, 87]]",q2ec4,"g,M",Base DialoGPT - Normal
+3,1,1,bar,155,3,2,g,"152,154,155","[[152, 154, 155]]",q2ec4,"g,M",Base DialoGPT - Normal
+2,0,3,the remote village,83,3,6,g,"80,83","[[80, 83]]",q3ec4,"g,M",Base DialoGPT - Normal
+8,2,2,to the,3,41,1,g,"0,3,22,24,27,36,40,41","[[0, 3], [22, 24, 27], [24, 27], [36, 40, 41], [40, 41]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,do you,49,1,4,g,"48,49","[[48, 49]]",q3ec4,"g,M",Base DialoGPT - Normal
+4,0,2,of the,23,5,4,g,"22,23,24,27","[[22, 23, 24, 27], [24, 27]]",q3ec4,"g,M",Base DialoGPT - Normal
+6,0,2,have the,57,9,4,g,"56,57,60,61,64,65","[[56, 57, 60, 61], [60, 61, 64, 65]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,the pyramid,93,3,6,g,"90,93","[[90, 93]]",q3ec4,"g,M",Base DialoGPT - Normal
+5,1,2,the end,11,35,2,g,"8,10,11,40,43","[[8, 10, 11], [10, 11], [40, 43]]",q3ec4,"g,M",Base DialoGPT - Normal
+3,1,2,old temple,23,3,2,g,"20,22,23","[[20, 22, 23]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,take a,81,1,2,g,"80,81","[[80, 81]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,you are,83,1,2,g,"82,83","[[82, 83]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,down and,47,1,1,g,"46,47","[[46, 47]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,go straight,41,5,1,g,"36,41","[[36, 41]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,gone far,95,3,1,g,"92,95","[[92, 95]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,i want,81,1,1,g,"80,81","[[80, 81]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,just stop,13,1,1,g,"12,13","[[12, 13]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,2,west of,23,1,1,g,"22,23","[[22, 23]]",q3ec4,"g,M",Base DialoGPT - Normal
+60,14,1,the,3,105,2,g,"0,2,3,6,8,9,10,11,16,17,18,20,21,22,23,24,25,26,27,28,30,31,34,36,39,40,41,43,50,53,54,56,57,58,60,61,62,64,65,66,67,68,69,70,72,74,75,79,80,82,83,90,92,93,96,97,100,103,104,105","[[0, 2, 3], [2, 3], [6, 8, 9, 10, 11], [8, 9, 10, 11], [10, 11], [16, 17, 18, 20, 21], [18, 20, 21, 22, 23], [20, 21, 22, 23, 24, 25], [22, 23, 24, 25, 26, 27], [24, 25, 26, 27], [26, 27, 28, 30, 31], [28, 30, 31], [30, 31], [34, 36, 39], [36, 39, 40, 41], [40, 41, 43], [50, 53], [54, 56, 57], [56, 57, 58, 60, 61], [58, 60, 61], [60, 61, 62, 64, 65], [62, 64, 65, 66, 67], [64, 65, 66, 67, 68, 69], [66, 67, 68, 69], [68, 69], [70, 72, 74, 75], [72, 74, 75], [74, 75, 79], [80, 82, 83], [82, 83], [90, 92, 93], [92, 93, 96, 97], [96, 97], [100, 103, 104, 105]]",q3ec4,"g,M",Base DialoGPT - Normal
+11,5,1,you,41,47,10,g,"38,40,41,44,46,48,49,80,82,83,85","[[38, 40, 41], [40, 41], [44, 46, 48, 49], [46, 48, 49], [48, 49], [80, 82, 83, 85], [82, 83, 85]]",q3ec4,"g,M",Base DialoGPT - Normal
+18,6,1,to,3,105,2,g,"0,2,3,22,24,27,36,38,40,41,58,62,63,80,81,102,103,105","[[0, 2, 3], [2, 3], [22, 24, 27], [24, 27], [36, 38, 40, 41], [38, 40, 41], [40, 41], [58, 62, 63], [62, 63], [80, 81], [102, 103, 105]]",q3ec4,"g,M",Base DialoGPT - Normal
+12,2,1,right,25,55,4,g,"22,25,44,45,62,64,67,70,72,75,76,77","[[22, 25], [44, 45], [62, 64, 67], [64, 67], [70, 72, 75], [72, 75, 76, 77], [76, 77]]",q3ec4,"g,M",Base DialoGPT - Normal
+9,1,1,and,23,25,1,g,"22,23,36,38,39,40,45,46,47","[[22, 23], [36, 38, 39], [38, 39], [40, 45], [46, 47]]",q3ec4,"g,M",Base DialoGPT - Normal
+6,0,1,do,47,21,4,g,"42,47,48,49,60,63","[[42, 47], [48, 49], [60, 63]]",q3ec4,"g,M",Base DialoGPT - Normal
+9,1,1,have,35,35,4,g,"30,32,35,56,57,60,61,64,65","[[30, 32, 35], [32, 35], [56, 57, 60, 61], [60, 61, 64, 65], [64, 65]]",q3ec4,"g,M",Base DialoGPT - Normal
+4,0,1,of,23,5,6,g,"22,23,24,27","[[22, 23, 24, 27], [24, 27]]",q3ec4,"g,M",Base DialoGPT - Normal
+6,2,1,that,35,65,3,g,"32,34,35,92,96,97","[[32, 34, 35], [34, 35], [92, 96, 97]]",q3ec4,"g,M",Base DialoGPT - Normal
+4,0,1,a,73,9,2,g,"72,73,80,81","[[72, 73], [80, 81]]",q3ec4,"g,M",Base DialoGPT - Normal
+9,1,1,village,69,39,4,g,"66,68,69,80,83,100,103,104,105","[[66, 68, 69], [68, 69], [80, 83], [100, 103, 104, 105]]",q3ec4,"g,M",Base DialoGPT - Normal
+5,1,1,come,97,7,6,g,"96,97,98,100,103","[[96, 97], [98, 100, 103]]",q3ec4,"g,M",Base DialoGPT - Normal
+5,1,1,it,63,17,1,g,"62,63,74,78,79","[[62, 63], [74, 78, 79], [78, 79]]",q3ec4,"g,M",Base DialoGPT - Normal
+5,1,1,about,19,39,3,g,"16,18,19,50,55","[[16, 18, 19], [18, 19], [50, 55]]",q3ec4,"g,M",Base DialoGPT - Normal
+4,0,1,south,17,77,3,g,"16,17,92,93","[[16, 17], [92, 93]]",q3ec4,"g,M",Base DialoGPT - Normal
+4,0,1,you're,55,29,5,g,"50,55,78,79","[[50, 55], [78, 79]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,know,25,3,1,g,"22,25","[[22, 25]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,then,3,3,1,g,"0,3","[[0, 3]]",q3ec4,"g,M",Base DialoGPT - Normal
+4,0,1,pyramid,71,23,3,g,"70,71,90,93","[[70, 71], [90, 93]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,if,31,5,1,g,"26,31","[[26, 31]]",q3ec4,"g,M",Base DialoGPT - Normal
+6,0,1,temple,21,7,1,g,"20,21,22,23,24,27","[[20, 21, 22, 23], [22, 23, 24, 27], [24, 27]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,are,83,1,4,g,"82,83","[[82, 83]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,down,47,1,1,g,"46,47","[[46, 47]]",q3ec4,"g,M",Base DialoGPT - Normal
+5,1,1,stop,13,35,2,g,"10,12,13,44,45","[[10, 12, 13], [12, 13], [44, 45]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,across,95,3,4,g,"92,95","[[92, 95]]",q3ec4,"g,M",Base DialoGPT - Normal
+3,1,1,truck,41,5,4,g,"36,40,41","[[36, 40, 41]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,can,31,3,1,g,"28,31","[[28, 31]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,gone,95,3,3,g,"92,95","[[92, 95]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,inches,19,3,1,g,"16,19","[[16, 19]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,level,5,3,1,g,"2,5","[[2, 5]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,line,9,3,1,g,"6,9","[[6, 9]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,mountain,57,1,1,g,"56,57","[[56, 57]]",q3ec4,"g,M",Base DialoGPT - Normal
+3,1,1,old,23,3,2,g,"20,22,23","[[20, 22, 23]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,take,81,1,3,g,"80,81","[[80, 81]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,west,23,1,2,g,"22,23","[[22, 23]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,keep,47,1,2,g,"46,47","[[46, 47]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,1,straight,41,5,2,g,"36,41","[[36, 41]]",q3ec4,"g,M",Base DialoGPT - Normal
+2,0,3,i want you,49,5,2,g,"44,49","[[44, 49]]",q4ec3,"g,M",Base DialoGPT - Normal
+6,0,2,i want,49,43,2,g,"44,49,54,59,86,87","[[44, 49], [54, 59], [86, 87]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,2,want you,49,5,2,g,"44,49","[[44, 49]]",q4ec3,"g,M",Base DialoGPT - Normal
+7,1,2,to the,39,111,1,g,"38,39,43,68,73,148,149","[[38, 39, 43], [68, 73], [148, 149]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,2,you to,59,1,3,g,"58,59","[[58, 59]]",q4ec3,"g,M",Base DialoGPT - Normal
+4,0,2,to draw,111,5,1,g,"108,111,112,113","[[108, 111, 112, 113]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,2,the avalanche,63,3,1,g,"60,63","[[60, 63]]",q4ec3,"g,M",Base DialoGPT - Normal
+52,12,1,the,5,151,1,g,"4,5,7,8,10,11,12,13,14,15,16,17,36,38,39,41,43,46,49,51,56,58,59,60,63,68,73,76,79,81,86,87,88,91,94,97,99,118,119,120,121,123,124,125,126,129,146,148,149,150,152,155","[[4, 5, 7], [8, 10, 11, 12, 13], [10, 11, 12, 13, 14, 15], [12, 13, 14, 15, 16, 17], [14, 15, 16, 17], [16, 17], [36, 38, 39, 41], [38, 39, 41, 43], [46, 49, 51], [56, 58, 59], [58, 59, 60, 63], [60, 63], [68, 73], [76, 79, 81], [86, 87, 88, 91], [88, 91], [94, 97, 99], [118, 119, 120, 121, 123], [120, 121, 123, 124, 125], [124, 125, 126, 129], [126, 129], [146, 148, 149], [148, 149], [150, 152, 155], [152, 155]]",q4ec3,"g,M",Base DialoGPT - Normal
+43,11,1,to,11,141,1,g,"8,11,13,14,16,19,20,23,25,38,39,43,44,45,49,54,58,59,60,62,65,68,69,73,82,85,86,87,91,92,95,97,108,111,112,113,124,126,129,130,135,148,149","[[8, 11, 13], [14, 16, 19], [16, 19], [20, 23, 25], [38, 39, 43], [44, 45, 49], [54, 58, 59], [58, 59], [60, 62, 65], [62, 65], [68, 69, 73], [82, 85, 86, 87], [86, 87, 91], [92, 95, 97], [108, 111, 112, 113], [112, 113], [124, 126, 129], [126, 129], [130, 135], [148, 149]]",q4ec3,"g,M",Base DialoGPT - Normal
+10,2,1,right,11,115,2,g,"10,11,32,33,34,39,120,121,123,125","[[10, 11], [32, 33], [34, 39], [120, 121, 123, 125]]",q4ec3,"g,M",Base DialoGPT - Normal
+6,0,1,want,49,43,2,g,"44,49,54,59,86,87","[[44, 49], [54, 59], [86, 87]]",q4ec3,"g,M",Base DialoGPT - Normal
+6,0,1,draw,15,99,2,g,"14,15,108,111,112,113","[[14, 15], [108, 111, 112, 113], [112, 113]]",q4ec3,"g,M",Base DialoGPT - Normal
+3,1,1,do,107,5,1,g,"104,107,109","[[104, 107, 109]]",q4ec3,"g,M",Base DialoGPT - Normal
+4,0,1,of,79,47,1,g,"76,79,118,123","[[76, 79], [118, 123]]",q4ec3,"g,M",Base DialoGPT - Normal
+6,0,1,is,43,107,3,g,"42,43,120,123,148,149","[[42, 43], [120, 123], [148, 149]]",q4ec3,"g,M",Base DialoGPT - Normal
+3,1,1,that,65,5,3,g,"60,64,65","[[60, 64, 65], [64, 65]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,1,it,125,1,1,g,"124,125","[[124, 125]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,1,but,125,1,1,g,"124,125","[[124, 125]]",q4ec3,"g,M",Base DialoGPT - Normal
+3,1,1,hideout,69,5,1,g,"68,69,73","[[68, 69, 73]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,1,line,113,5,6,g,"108,113","[[108, 113]]",q4ec3,"g,M",Base DialoGPT - Normal
+4,0,1,ravine,7,7,1,g,"6,7,8,13","[[6, 7], [8, 13]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,1,yeah,85,1,3,g,"84,85","[[84, 85]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,1,get,65,5,1,g,"60,65","[[60, 65]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,1,between,113,5,5,g,"108,113","[[108, 113]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,1,got,97,1,1,g,"96,97","[[96, 97]]",q4ec3,"g,M",Base DialoGPT - Normal
+2,0,3,you turn left,7,3,1,g,"4,7","[[4, 7]]",q5ec1,"g,M",Base DialoGPT - Normal
+4,0,2,of the,19,173,2,g,"18,19,188,191","[[18, 19], [188, 191]]",q5ec1,"g,M",Base DialoGPT - Normal
+5,1,2,turn left,7,29,1,g,"4,7,28,29,33","[[4, 7], [28, 29, 33]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,2,you turn,7,3,1,g,"4,7","[[4, 7]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,2,you should,57,5,1,g,"52,57","[[52, 57]]",q5ec1,"g,M",Base DialoGPT - Normal
+3,1,2,the caravan,19,3,2,g,"18,19,21","[[18, 19, 21]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,2,the lake,185,3,2,g,"182,185","[[182, 185]]",q5ec1,"g,M",Base DialoGPT - Normal
+3,1,2,the old,43,3,2,g,"42,43,45","[[42, 43, 45]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,2,into the,37,1,1,g,"36,37","[[36, 37]]",q5ec1,"g,M",Base DialoGPT - Normal
+56,16,1,you,7,215,1,g,"4,7,26,27,31,32,33,36,41,46,47,48,51,52,53,57,74,75,79,98,102,103,116,117,119,124,125,138,140,143,145,152,153,155,156,157,158,159,161,178,179,181,183,184,186,187,190,193,198,202,203,205,207,216,217,219","[[4, 7], [26, 27, 31], [32, 33], [36, 41], [46, 47, 48, 51], [48, 51, 52, 53], [52, 53, 57], [74, 75, 79], [98, 102, 103], [102, 103], [116, 117, 119], [124, 125], [138, 140, 143], [140, 143, 145], [152, 153, 155, 156, 157], [156, 157, 158, 159, 161], [158, 159, 161], [178, 179, 181, 183], [184, 186, 187], [186, 187], [190, 193], [198, 202, 203], [202, 203, 205, 207], [216, 217, 219]]",q5ec1,"g,M",Base DialoGPT - Normal
+18,4,1,left,7,133,2,g,"4,7,9,20,23,25,28,29,30,33,48,50,53,78,81,83,132,137","[[4, 7, 9], [20, 23, 25], [28, 29, 30, 33], [30, 33], [48, 50, 53], [50, 53], [78, 81, 83], [132, 137]]",q5ec1,"g,M",Base DialoGPT - Normal
+11,1,1,turn,7,171,1,g,"4,7,28,29,33,38,43,142,145,174,175","[[4, 7], [28, 29, 33], [38, 43], [142, 145], [174, 175]]",q5ec1,"g,M",Base DialoGPT - Normal
+9,1,1,of,19,183,2,g,"18,19,138,140,143,188,191,198,201","[[18, 19], [138, 140, 143], [140, 143], [188, 191], [198, 201]]",q5ec1,"g,M",Base DialoGPT - Normal
+3,1,1,okay,177,5,3,g,"176,177,181","[[176, 177, 181]]",q5ec1,"g,M",Base DialoGPT - Normal
+7,1,1,on,41,41,1,g,"40,41,60,65,78,80,81","[[40, 41], [60, 65], [78, 80, 81], [80, 81]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,1,go,41,5,3,g,"36,41","[[36, 41]]",q5ec1,"g,M",Base DialoGPT - Normal
+3,1,1,then,7,3,1,g,"4,6,7","[[4, 6, 7], [6, 7]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,1,cottage,143,5,8,g,"138,143","[[138, 143]]",q5ec1,"g,M",Base DialoGPT - Normal
+4,0,1,have,93,69,1,g,"92,93,158,161","[[92, 93], [158, 161]]",q5ec1,"g,M",Base DialoGPT - Normal
+3,1,1,should,55,5,2,g,"52,55,57","[[52, 55, 57]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,1,going,13,1,1,g,"12,13","[[12, 13]]",q5ec1,"g,M",Base DialoGPT - Normal
+5,1,1,abandoned,137,19,4,g,"136,137,150,152,155","[[136, 137], [150, 152, 155], [152, 155]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,1,lake,185,3,4,g,"182,185","[[182, 185]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,1,yes,127,5,3,g,"122,127","[[122, 127]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,1,past,145,1,1,g,"144,145","[[144, 145]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,1,meadow,93,1,1,g,"92,93","[[92, 93]]",q5ec1,"g,M",Base DialoGPT - Normal
+3,1,1,monument,195,5,1,g,"194,195,199","[[194, 195, 199]]",q5ec1,"g,M",Base DialoGPT - Normal
+2,0,1,into,37,1,1,g,"36,37","[[36, 37]]",q5ec1,"g,M",Base DialoGPT - Normal
+7,1,2,of the,15,15,2,g,"14,15,16,19,21,24,29","[[14, 15, 16, 19], [16, 19, 21], [24, 29]]",q5ec4,"g,M",Base DialoGPT - Normal
+4,0,2,right and,7,71,1,g,"4,7,72,75","[[4, 7], [72, 75]]",q5ec4,"g,M",Base DialoGPT - Normal
+2,0,2,a bit,53,5,1,g,"48,53","[[48, 53]]",q5ec4,"g,M",Base DialoGPT - Normal
+2,0,2,side of,97,5,1,g,"92,97","[[92, 97]]",q5ec4,"g,M",Base DialoGPT - Normal
+2,0,2,the face,55,3,1,g,"52,55","[[52, 55]]",q5ec4,"g,M",Base DialoGPT - Normal
+17,3,1,of,13,89,2,g,"8,13,14,15,16,19,21,24,29,68,71,78,79,83,92,95,97","[[8, 13], [14, 15, 16, 19], [16, 19, 21], [24, 29], [68, 71], [78, 79, 83], [92, 95, 97]]",q5ec4,"g,M",Base DialoGPT - Normal
+15,1,1,a,35,69,3,g,"34,35,48,49,50,53,64,65,80,81,92,95,100,102,103","[[34, 35], [48, 49, 50, 53], [50, 53], [64, 65], [80, 81], [92, 95], [100, 102, 103], [102, 103]]",q5ec4,"g,M",Base DialoGPT - Normal
+6,0,1,then,63,49,9,g,"62,63,76,79,110,111","[[62, 63], [76, 79], [110, 111]]",q5ec4,"g,M",Base DialoGPT - Normal
+5,1,1,just,47,71,3,g,"42,44,47,108,113","[[42, 44, 47], [44, 47], [108, 113]]",q5ec4,"g,M",Base DialoGPT - Normal
+3,1,1,on,35,3,1,g,"34,35,37","[[34, 35, 37]]",q5ec4,"g,M",Base DialoGPT - Normal
+2,0,1,tree,29,1,4,g,"28,29","[[28, 29]]",q5ec4,"g,M",Base DialoGPT - Normal
+3,1,1,but,47,3,1,g,"44,46,47","[[44, 46, 47]]",q5ec4,"g,M",Base DialoGPT - Normal
+6,2,1,page,95,7,2,g,"92,94,95,96,97,99","[[92, 94, 95, 96, 97], [94, 95, 96, 97, 99]]",q5ec4,"g,M",Base DialoGPT - Normal
+2,0,1,about,95,5,1,g,"90,95","[[90, 95]]",q5ec4,"g,M",Base DialoGPT - Normal
+3,1,1,bit,49,5,1,g,"48,49,53","[[48, 49, 53]]",q5ec4,"g,M",Base DialoGPT - Normal
+2,0,1,your,43,5,1,g,"38,43","[[38, 43]]",q5ec4,"g,M",Base DialoGPT - Normal
+4,2,1,crane,75,5,1,g,"72,74,75,77","[[72, 74, 75, 77]]",q5ec4,"g,M",Base DialoGPT - Normal
+3,1,1,face,55,5,1,g,"50,52,55","[[50, 52, 55]]",q5ec4,"g,M",Base DialoGPT - Normal
+2,0,1,nose,61,3,2,g,"58,61","[[58, 61]]",q5ec4,"g,M",Base DialoGPT - Normal
+2,0,1,warehouse,87,1,1,g,"86,87","[[86, 87]]",q5ec4,"g,M",Base DialoGPT - Normal
+2,0,2,the fort,89,1,2,g,"88,89","[[88, 89]]",q5nc5,"g,M",Base DialoGPT - Normal
+2,0,2,the right,75,5,2,g,"70,75","[[70, 75]]",q5nc5,"g,M",Base DialoGPT - Normal
+3,1,2,stone creek,61,5,1,g,"60,61,65","[[60, 61, 65]]",q5nc5,"g,M",Base DialoGPT - Normal
+3,1,2,the diamond,15,3,1,g,"14,15,17","[[14, 15, 17]]",q5nc5,"g,M",Base DialoGPT - Normal
+16,2,1,right,57,31,6,g,"56,57,60,61,65,66,69,70,73,74,75,76,79,81,82,87","[[56, 57, 60, 61], [60, 61, 65], [66, 69], [70, 73, 74, 75], [74, 75, 76, 79], [76, 79, 81], [82, 87]]",q5nc5,"g,M",Base DialoGPT - Normal
+14,4,1,you,11,83,1,g,"6,11,38,39,41,43,44,47,49,52,57,84,87,89","[[6, 11], [38, 39, 41, 43], [44, 47, 49], [52, 57], [84, 87, 89]]",q5nc5,"g,M",Base DialoGPT - Normal
+2,0,1,to,67,5,1,g,"62,67","[[62, 67]]",q5nc5,"g,M",Base DialoGPT - Normal
+2,0,1,see,47,1,1,g,"46,47","[[46, 47]]",q5nc5,"g,M",Base DialoGPT - Normal
+3,1,1,just,15,5,2,g,"12,15,17","[[12, 15, 17]]",q5nc5,"g,M",Base DialoGPT - Normal
+2,0,1,down,45,1,5,g,"44,45","[[44, 45]]",q5nc5,"g,M",Base DialoGPT - Normal
+5,1,1,side,33,53,2,g,"28,30,33,76,81","[[28, 30, 33], [30, 33], [76, 81]]",q5nc5,"g,M",Base DialoGPT - Normal
+2,0,1,fort,89,1,3,g,"88,89","[[88, 89]]",q5nc5,"g,M",Base DialoGPT - Normal
+3,1,1,creek,61,5,2,g,"60,61,65","[[60, 61, 65]]",q5nc5,"g,M",Base DialoGPT - Normal
+2,0,1,buffalo,81,1,2,g,"80,81","[[80, 81]]",q5nc5,"g,M",Base DialoGPT - Normal
+2,0,1,where,87,3,2,g,"84,87","[[84, 87]]",q5nc5,"g,M",Base DialoGPT - Normal
+2,0,2,of the,7,3,1,g,"4,7","[[4, 7]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,2,do you,113,5,1,g,"108,113","[[108, 113]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,2,have a,35,1,2,g,"34,35","[[34, 35]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,2,want to,109,5,3,g,"104,109","[[104, 109]]",q6ec3,"g,M",Base DialoGPT - Normal
+3,1,2,you want,109,3,6,g,"106,108,109","[[106, 108, 109]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,2,to the,65,1,2,g,"64,65","[[64, 65]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,2,fallen pillars,51,3,1,g,"48,51","[[48, 51]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,2,the fallen,61,1,1,g,"60,61","[[60, 61]]",q6ec3,"g,M",Base DialoGPT - Normal
+3,1,2,the mountain,119,3,2,g,"118,119,121","[[118, 119, 121]]",q6ec3,"g,M",Base DialoGPT - Normal
+25,5,1,you,15,119,1,g,"12,15,28,31,33,44,45,47,64,65,90,94,95,97,106,107,108,109,110,113,124,125,126,130,131","[[12, 15], [28, 31, 33], [44, 45, 47], [64, 65], [90, 94, 95], [94, 95, 97], [106, 107, 108, 109], [108, 109, 110, 113], [110, 113], [124, 125], [126, 130, 131]]",q6ec3,"g,M",Base DialoGPT - Normal
+16,2,1,a,35,83,4,g,"34,35,68,71,84,85,87,90,91,104,107,108,113,114,116,117","[[34, 35], [68, 71], [84, 85, 87], [90, 91], [104, 107], [108, 113], [114, 116, 117], [116, 117]]",q6ec3,"g,M",Base DialoGPT - Normal
+8,0,1,and,33,81,2,g,"28,33,44,45,60,65,106,109","[[28, 33], [44, 45], [60, 65], [106, 109]]",q6ec3,"g,M",Base DialoGPT - Normal
+7,1,1,of,7,83,1,g,"4,7,62,65,82,84,87","[[4, 7], [62, 65], [82, 84, 87], [84, 87]]",q6ec3,"g,M",Base DialoGPT - Normal
+10,0,1,have,35,49,1,g,"34,35,40,43,44,47,74,77,80,83","[[34, 35], [40, 43], [44, 47], [74, 77], [80, 83]]",q6ec3,"g,M",Base DialoGPT - Normal
+8,0,1,do,33,85,1,g,"28,33,74,77,92,95,108,113","[[28, 33], [74, 77], [92, 95], [108, 113]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,1,go,109,3,2,g,"106,109","[[106, 109]]",q6ec3,"g,M",Base DialoGPT - Normal
+10,2,1,in,49,77,2,g,"44,46,49,51,58,61,66,71,116,121","[[44, 46, 49], [46, 49, 51], [58, 61], [66, 71], [116, 121]]",q6ec3,"g,M",Base DialoGPT - Normal
+6,0,1,right,27,115,1,g,"22,27,70,73,132,137","[[22, 27], [70, 73], [132, 137]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,1,up,45,5,2,g,"40,45","[[40, 45]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,1,just,97,5,6,g,"92,97","[[92, 97]]",q6ec3,"g,M",Base DialoGPT - Normal
+4,0,1,then,45,59,3,g,"44,45,98,103","[[44, 45], [98, 103]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,1,that,79,3,1,g,"76,79","[[76, 79]]",q6ec3,"g,M",Base DialoGPT - Normal
+3,1,1,mountain,119,3,1,g,"118,119,121","[[118, 119, 121]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,1,them,89,5,3,g,"84,89","[[84, 89]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,1,with,89,1,4,g,"88,89","[[88, 89]]",q6ec3,"g,M",Base DialoGPT - Normal
+2,0,2,and then,87,1,9,g,"86,87","[[86, 87]]",q7ec4,"g,M",Base DialoGPT - Normal
+5,1,2,to the,81,29,2,g,"76,81,100,104,105","[[76, 81], [100, 104, 105]]",q7ec4,"g,M",Base DialoGPT - Normal
+5,1,2,the pyramid,87,13,2,g,"84,87,94,96,97","[[84, 87], [94, 96, 97], [96, 97]]",q7ec4,"g,M",Base DialoGPT - Normal
+3,1,2,do you,33,5,3,g,"30,33,35","[[30, 33, 35]]",q7ec4,"g,M",Base DialoGPT - Normal
+2,0,2,have a,21,5,1,g,"16,21","[[16, 21]]",q7ec4,"g,M",Base DialoGPT - Normal
+23,9,1,and,13,101,2,g,"12,13,14,19,28,30,31,33,46,48,51,53,76,78,80,81,82,84,86,87,91,108,113","[[12, 13], [14, 19], [28, 30, 31, 33], [30, 31, 33], [46, 48, 51], [48, 51, 53], [76, 78, 80, 81], [78, 80, 81], [80, 81], [82, 84, 86, 87], [84, 86, 87], [86, 87, 91], [108, 113]]",q7ec4,"g,M",Base DialoGPT - Normal
+18,4,1,a,15,79,1,g,"12,15,16,21,32,33,42,43,56,58,61,76,77,79,81,88,89,91","[[12, 15], [16, 21], [32, 33], [42, 43], [56, 58, 61], [58, 61], [76, 77, 79, 81], [88, 89, 91]]",q7ec4,"g,M",Base DialoGPT - Normal
+8,0,1,then,19,73,2,g,"14,19,52,53,72,73,86,87","[[14, 19], [52, 53], [72, 73], [86, 87]]",q7ec4,"g,M",Base DialoGPT - Normal
+11,1,1,you,33,71,5,g,"30,33,35,76,79,84,89,92,95,98,101","[[30, 33, 35], [76, 79], [84, 89], [92, 95], [98, 101]]",q7ec4,"g,M",Base DialoGPT - Normal
+7,1,1,to,81,29,5,g,"76,81,100,101,103,104,105","[[76, 81], [100, 101, 103, 104, 105]]",q7ec4,"g,M",Base DialoGPT - Normal
+10,2,1,go,13,43,2,g,"10,13,14,17,19,30,32,33,48,53","[[10, 13], [14, 17, 19], [30, 32, 33], [32, 33], [48, 53]]",q7ec4,"g,M",Base DialoGPT - Normal
+6,0,1,just,23,85,3,g,"18,23,24,25,98,103","[[18, 23], [24, 25], [98, 103]]",q7ec4,"g,M",Base DialoGPT - Normal
+9,1,1,right,19,59,2,g,"18,19,21,32,35,54,59,72,77","[[18, 19, 21], [32, 35], [54, 59], [72, 77]]",q7ec4,"g,M",Base DialoGPT - Normal
+6,0,1,have,21,73,1,g,"16,21,36,41,84,89","[[16, 21], [36, 41], [84, 89]]",q7ec4,"g,M",Base DialoGPT - Normal
+6,0,1,you're,31,59,1,g,"28,31,70,71,84,87","[[28, 31], [70, 71], [84, 87]]",q7ec4,"g,M",Base DialoGPT - Normal
+4,0,1,do,33,5,3,g,"30,33,34,35","[[30, 33, 34, 35], [34, 35]]",q7ec4,"g,M",Base DialoGPT - Normal
+2,0,1,in,33,5,1,g,"28,33","[[28, 33]]",q7ec4,"g,M",Base DialoGPT - Normal
+2,0,1,inches,33,1,1,g,"32,33","[[32, 33]]",q7ec4,"g,M",Base DialoGPT - Normal
+2,0,1,down,87,5,1,g,"82,87","[[82, 87]]",q7ec4,"g,M",Base DialoGPT - Normal
+2,0,1,it,51,3,1,g,"48,51","[[48, 51]]",q7ec4,"g,M",Base DialoGPT - Normal
+2,0,2,gold mine,47,3,1,g,"44,47","[[44, 47]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,2,the diamond,13,5,1,g,"8,13","[[8, 13]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,2,the trout,89,3,3,g,"86,89","[[86, 89]]",q7nc7,"g,M",Base DialoGPT - Normal
+21,3,1,a,13,105,2,g,"12,13,40,41,43,48,51,52,57,68,71,72,77,92,95,110,112,113,114,116,117","[[12, 13], [40, 41, 43], [48, 51], [52, 57], [68, 71], [72, 77], [92, 95], [110, 112, 113], [112, 113, 114, 116, 117]]",q7nc7,"g,M",Base DialoGPT - Normal
+12,2,1,you,5,103,1,g,"4,5,9,20,25,66,70,71,76,77,102,107","[[4, 5, 9], [20, 25], [66, 70, 71], [70, 71], [76, 77], [102, 107]]",q7nc7,"g,M",Base DialoGPT - Normal
+10,2,1,right,13,105,1,g,"8,13,32,35,36,37,41,108,109,113","[[8, 13], [32, 35, 36, 37], [36, 37, 41], [108, 109, 113]]",q7nc7,"g,M",Base DialoGPT - Normal
+4,0,1,go,85,21,2,g,"82,85,102,103","[[82, 85], [102, 103]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,it,27,3,2,g,"24,27","[[24, 27]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,just,117,1,3,g,"116,117","[[116, 117]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,is,51,3,1,g,"48,51","[[48, 51]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,down,51,3,3,g,"48,51","[[48, 51]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,mine,47,3,4,g,"44,47","[[44, 47]]",q7nc7,"g,M",Base DialoGPT - Normal
+3,1,1,no,11,3,1,g,"10,11,13","[[10, 11, 13]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,in,47,5,1,g,"42,47","[[42, 47]]",q7nc7,"g,M",Base DialoGPT - Normal
+3,1,1,rock,55,5,2,g,"52,55,57","[[52, 55, 57]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,country,47,5,2,g,"42,47","[[42, 47]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,up,117,1,2,g,"116,117","[[116, 117]]",q7nc7,"g,M",Base DialoGPT - Normal
+4,0,1,diamond,13,11,1,g,"8,13,14,19","[[8, 13], [14, 19]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,trout,89,3,4,g,"86,89","[[86, 89]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,1,come,55,1,1,g,"54,55","[[54, 55]]",q7nc7,"g,M",Base DialoGPT - Normal
+2,0,3,go to the,75,3,1,g,"72,75","[[72, 75]]",q8nc5,"g,M",Base DialoGPT - Normal
+2,0,2,going to,45,3,2,g,"42,45","[[42, 45]]",q8nc5,"g,M",Base DialoGPT - Normal
+6,0,2,of the,45,139,2,g,"42,45,70,75,178,181","[[42, 45], [70, 75], [178, 181]]",q8nc5,"g,M",Base DialoGPT - Normal
+3,1,2,the right,19,5,1,g,"16,19,21","[[16, 19, 21]]",q8nc5,"g,M",Base DialoGPT - Normal
+2,0,2,to go,37,3,1,g,"34,37","[[34, 37]]",q8nc5,"g,M",Base DialoGPT - Normal
+3,1,2,boat house,99,5,3,g,"98,99,103","[[98, 99, 103]]",q8nc5,"g,M",Base DialoGPT - Normal
+54,8,1,the,3,195,1,g,"2,3,12,15,16,19,21,22,23,42,43,44,45,49,52,57,60,61,62,63,65,70,72,75,76,79,92,93,98,103,104,105,106,107,108,109,120,123,132,137,152,156,157,158,161,178,179,181,188,189,192,194,195,197","[[2, 3], [12, 15], [16, 19, 21], [22, 23], [42, 43, 44, 45], [44, 45, 49], [52, 57], [60, 61, 62, 63, 65], [62, 63, 65], [70, 72, 75], [72, 75], [76, 79], [92, 93], [98, 103], [104, 105, 106, 107, 108, 109], [106, 107, 108, 109], [108, 109], [120, 123], [132, 137], [152, 156, 157], [156, 157, 158, 161], [158, 161], [178, 179, 181], [188, 189], [192, 194, 195, 197], [194, 195, 197]]",q8nc5,"g,M",Base DialoGPT - Normal
+33,5,1,right,19,179,1,g,"16,19,21,22,23,24,26,29,31,32,37,52,57,60,61,65,76,79,88,91,93,106,109,118,121,122,123,124,129,146,151,192,195","[[16, 19, 21], [22, 23], [24, 26, 29], [26, 29, 31], [32, 37], [52, 57], [60, 61, 65], [76, 79], [88, 91, 93], [106, 109], [118, 121, 122, 123], [122, 123], [124, 129], [146, 151], [192, 195]]",q8nc5,"g,M",Base DialoGPT - Normal
+4,0,1,going,45,111,2,g,"42,45,148,153","[[42, 45], [148, 153]]",q8nc5,"g,M",Base DialoGPT - Normal
+11,1,1,of,45,155,2,g,"42,45,70,75,158,161,178,181,192,194,197","[[42, 45], [70, 75], [158, 161], [178, 181], [192, 194, 197], [194, 197]]",q8nc5,"g,M",Base DialoGPT - Normal
+10,2,1,go,37,139,3,g,"34,37,38,39,70,72,75,170,171,173","[[34, 37, 38, 39], [38, 39], [70, 72, 75], [72, 75], [170, 171, 173]]",q8nc5,"g,M",Base DialoGPT - Normal
+7,1,1,and,45,65,2,g,"42,44,45,64,69,104,107","[[42, 44, 45], [44, 45], [64, 69], [104, 107]]",q8nc5,"g,M",Base DialoGPT - Normal
+8,0,1,so,19,159,3,g,"18,19,104,109,156,161,172,177","[[18, 19], [104, 109], [156, 161], [172, 177]]",q8nc5,"g,M",Base DialoGPT - Normal
+4,0,1,that,153,49,1,g,"148,153,192,197","[[148, 153], [192, 197]]",q8nc5,"g,M",Base DialoGPT - Normal
+2,0,1,then,17,1,2,g,"16,17","[[16, 17]]",q8nc5,"g,M",Base DialoGPT - Normal
+2,0,1,what,201,5,2,g,"196,201","[[196, 201]]",q8nc5,"g,M",Base DialoGPT - Normal
+3,1,1,left,115,5,3,g,"112,115,117","[[112, 115, 117]]",q8nc5,"g,M",Base DialoGPT - Normal
+4,0,1,not,45,141,2,g,"44,45,182,185","[[44, 45], [182, 185]]",q8nc5,"g,M",Base DialoGPT - Normal
+2,0,1,down,165,5,8,g,"160,165","[[160, 165]]",q8nc5,"g,M",Base DialoGPT - Normal
+2,0,1,straight,129,1,4,g,"128,129","[[128, 129]]",q8nc5,"g,M",Base DialoGPT - Normal
+3,1,1,hideout,107,5,2,g,"104,107,109","[[104, 107, 109]]",q8nc5,"g,M",Base DialoGPT - Normal
+4,2,1,boat,99,7,3,g,"96,98,99,103","[[96, 98, 99], [98, 99, 103]]",q8nc5,"g,M",Base DialoGPT - Normal
+2,0,1,in,43,5,2,g,"38,43","[[38, 43]]",q8nc5,"g,M",Base DialoGPT - Normal
+3,1,1,oh,143,3,4,g,"142,143,145","[[142, 143, 145]]",q8nc5,"g,M",Base DialoGPT - Normal
+2,0,1,at,127,5,3,g,"122,127","[[122, 127]]",q8nc5,"g,M",Base DialoGPT - Normal
+2,0,1,far,171,1,2,g,"170,171","[[170, 171]]",q8nc5,"g,M",Base DialoGPT - Normal
