@@ -652,6 +652,23 @@ def get_responses_list_from_contexed_dir(data_dir):
   flatten_list = flatten(total_pred_list)
   return flatten_list
 
+def get_expressions_list_from_lexicon_dir(data_dir):
+  total_pred_list = []
+
+  for file in os.listdir(data_dir):
+    print(file)
+    if(file.endswith(".csv")):
+      df = pd.read_csv(data_dir+file)
+      df.fillna('', inplace=True)
+      pred_list = df["Surface Form"].tolist()
+      total_pred_list.append(pred_list)
+    
+  # from: https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-list-of-lists
+  flatten = lambda l: [item for sublist in total_pred_list for item in sublist]
+
+  flatten_list = flatten(total_pred_list)
+  return flatten_list
+
 def create_postags_df(doc):
   Item = namedtuple('Item', 'id tag count')
   items = []
@@ -922,3 +939,19 @@ def create_filtered_lexicons_csvs(input_data_dir, output_data_dir, filter_speake
     
     expressions_df.to_csv(output_data_dir+tsv_file, sep='\t', index=False)
     # return expressions_df
+
+############ Expression Evaluation #################
+def create_all_expressions_df(data_dir, experiment, speakers=["f", "M"]):
+  df_list = []
+  lexicon_files = [tsv_file for tsv_file in sorted(os.listdir(data_dir)) if tsv_file.endswith("lexicon.tsv")]
+  for tsv_file in lexicon_files:
+    print(tsv_file.split("_")[0])
+    expressions_df = pd.read_csv(data_dir+tsv_file, sep='\t')
+    
+    expressions_df['Dialogue id'] = tsv_file.split("_")[0]
+    expressions_df['Speakers'] = ','.join(speakers)
+    expressions_df['Experiment'] = experiment
+
+    # break
+    df_list.append(expressions_df)
+  return df_list
