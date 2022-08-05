@@ -6,8 +6,9 @@ print("Loading SpaCy en_core_web_sm...")
 sp = spacy.load('en_core_web_sm')
 print("================================ . ================================")
 
-dataset_list = ["Maptask-Corpus"]
+dataset_list = ["Switchboard-Corpus", "Maptask-Corpus"]
 # "Switchboard-Corpus"
+# "Maptask-Corpus"
 models_list = ["human", "DialoGPT"]
 model_types_list=["base", "finetuned"]
 
