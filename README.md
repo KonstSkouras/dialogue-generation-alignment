@@ -42,6 +42,8 @@ For finetuning the `train_dialogpt.ipynb` notebook from Nathan Cooper's [Tutoria
 
 from the `results/{dataset}/data_modified/` for the dataset you want to finetune.
 
+Finetuned models in Hugging Face: [Switchboard](https://huggingface.co/skouras/DialoGPT-small-swda) and [Maptask](https://huggingface.co/skouras/DialoGPT-small-maptask).
+
 ## Run Dialign Software
 - Download the dialign software from the [official repository](https://github.com/GuillaumeDD/dialign).
 - Run the script `create_normalized_dialogues.py`, to create the appropriate normalized_tsvs and prepare the dialogues (lowercase)for Dialign.
