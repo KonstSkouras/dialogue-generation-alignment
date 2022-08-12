@@ -19,7 +19,17 @@ for model_name in models_list:
   if(len(os.listdir(directory_c_csv)) > 1):
     print("Output directory:", directory_c_csv)
     print("Output directory is not empty. Clear the directory before running the experiment.")
-  else:
+  elif model_type == "base":
     model = AutoModelWithLMHead.from_pretrained("microsoft/DialoGPT-small")
     tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
     test_all(model, model_name, model_type, tokenizer, model_res_dict, verbose = False, data_dir = test_dir, speakers=speakers)
+  elif dataset == "Switchboard-Corpus":
+    model = AutoModelWithLMHead.from_pretrained("skouras/DialoGPT-small-swda")
+    tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
+    test_all(model, model_name, model_type, tokenizer, model_res_dict, verbose = False, data_dir = test_dir, speakers=speakers)
+  elif dataset == "Maptask-Corpus":
+    model = AutoModelWithLMHead.from_pretrained("skouras/DialoGPT-small-maptask")
+    tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
+    test_all(model, model_name, model_type, tokenizer, model_res_dict, verbose = False, data_dir = test_dir, speakers=speakers)
+    
+    
