@@ -12,7 +12,8 @@ dataset_list = ["Switchboard-Corpus", "Maptask-Corpus"]
 models_list = ["human", "DialoGPT"]
 model_types_list=["base", "finetuned"]
 
-type = "expressions"
+type = "responses"
+# type = "expressions"
 do_pos_tags = True
 do_word_freq = True
 do_word_conc = True
