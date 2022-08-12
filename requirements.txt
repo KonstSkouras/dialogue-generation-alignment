@@ -1,0 +1,13 @@
+glob2
+mxnet
+gluonnlp
+pandas
+regex
+typing
+transformers==2.9.0
+numpy
+tqdm
+matplotlib==3.5.2
+tensorboard
+tensorboardx
+torch
